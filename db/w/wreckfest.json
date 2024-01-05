@@ -351,7 +351,7 @@
   "Tags": [],
   "EOS_Progressed": 785,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2110,9 +2110,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 542
     },
     {
       "ID": "CollectVehiclesA",
@@ -2223,8 +2223,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-04T23:58:04.2803928+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:08:10.5211771+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:08:56.997992+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:57:40.1040013+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:08:10.5212073+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:58:10.1230117+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:08:56.9980138+00:00"
 }

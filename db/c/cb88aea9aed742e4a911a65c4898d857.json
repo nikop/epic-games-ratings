@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 260,
-  "Ranking_Popularity": 389,
-  "Ranking_PopularitySum": 471,
+  "Ranking_Rating": 284,
+  "Ranking_Popularity": 382,
+  "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -255,23 +255,29 @@
       "Rating": 4.68,
       "NumberOfAwards": 93,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2024-01-05T07:02:59.471079+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 97,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 93,
-  "NumberOfAwardsMax": 93,
+  "NumberOfAwards": 97,
+  "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 93
+      "Count": 97
     }
   ],
-  "EOS_Progressed": 10128,
+  "EOS_Progressed": 10132,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1680,
+  "EOS_NewPlayers": 1678,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3699,6 +3705,11 @@
       "Time": "2024-01-05T06:09:20.806599+00:00",
       "NumProgressed": 10128,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T07:10:07.6141618+00:00",
+      "NumProgressed": 10132,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3719,7 +3730,7 @@
       "Name": "Stolen Star",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3823,7 +3834,7 @@
       "Name": "The Rise",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "17_TheExemplar",
@@ -3839,7 +3850,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3847,7 +3858,7 @@
       "Name": "Void Wolf",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3967,7 +3978,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4031,7 +4042,7 @@
       "Name": "Iron Judgement",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4053,9 +4064,9 @@
       "ID": "45_ThePolygloth",
       "SetID": "37a94m8",
       "Name": "Polyglot",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 30
     },
     {
       "ID": "46_ASpark",
@@ -4063,7 +4074,7 @@
       "Name": "A Spark",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "47_AFlame",
@@ -4230,16 +4241,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10128,
+      "Progressed": 10132,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-04T01:47:10.0035057+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:09:20.8065987+00:00",
+  "LastChanged": "2024-01-05T07:02:59.4710788+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:10:07.6141614+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:02:25.3898371+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:09:20.8066682+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:02:59.4710792+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:10:07.6142482+00:00"
 }

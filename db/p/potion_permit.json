@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1878,
+  "EOS_Progressed": 1879,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3362,6 +3362,11 @@
       "Time": "2024-01-05T05:06:20.1376788+00:00",
       "NumProgressed": 1878,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-05T07:07:04.0162055+00:00",
+      "NumProgressed": 1879,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3373,7 +3378,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3381,7 +3386,7 @@
       "Name": "Great Doctor",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3429,7 +3434,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3445,7 +3450,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3637,7 +3642,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3676,7 +3681,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1878,
+      "Progressed": 1879,
       "Completed": 11
     }
   ],
@@ -3684,8 +3689,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:06:26.3482197+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:07:04.0162051+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:59:44.7587493+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:06:26.3482552+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:00:17.9506716+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:07:04.0162442+00:00"
 }

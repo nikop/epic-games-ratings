@@ -1671,9 +1671,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246624,
+  "EOS_Progressed": 246628,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1339,
+  "EOS_NewPlayers": 1338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24986,6 +24986,11 @@
       "Time": "2024-01-05T06:09:32.0954122+00:00",
       "NumProgressed": 246624,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-05T07:10:19.3391708+00:00",
+      "NumProgressed": 246628,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25021,7 +25026,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -25093,7 +25098,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "Chapter8",
@@ -25101,7 +25106,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "Chapter9",
@@ -25109,7 +25114,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "CollateralVictim",
@@ -25117,7 +25122,7 @@
       "Name": "Friendly fire",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "CompanionMinstrel",
@@ -25125,7 +25130,7 @@
       "Name": "I\u0027d rather... Just... Sing!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "CompanionNone",
@@ -25141,7 +25146,7 @@
       "Name": "Res Judicata",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "CompanionPriestress",
@@ -25349,7 +25354,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -25381,7 +25386,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "Dwarf30Insult",
@@ -25397,7 +25402,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22196
+      "UsersEstimate": 22197
     },
     {
       "ID": "DwarfElf15Support",
@@ -25413,7 +25418,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "DwarfInsultWin",
@@ -25429,7 +25434,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14797
+      "UsersEstimate": 14798
     },
     {
       "ID": "ElfEpic",
@@ -25437,7 +25442,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -25445,7 +25450,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88785
+      "UsersEstimate": 88786
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25493,7 +25498,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24662
+      "UsersEstimate": 24663
     },
     {
       "ID": "FollowBraztok",
@@ -25501,7 +25506,7 @@
       "Name": "The beards of change",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "FollowNarzatok",
@@ -25517,7 +25522,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "KillDungeonLich",
@@ -25573,7 +25578,7 @@
       "Name": "Inception",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "PriestessEpic",
@@ -25621,7 +25626,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "Rogue30Backstab",
@@ -25629,7 +25634,7 @@
       "Name": "I am the night",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "RogueEpic",
@@ -25637,7 +25642,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "Speedrun",
@@ -25645,7 +25650,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14797
+      "UsersEstimate": 14798
     },
     {
       "ID": "SupportCount4",
@@ -25700,21 +25705,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246624,
+      "Progressed": 246628,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246624,
+      "Progressed": 246628,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-04T20:57:18.2128245+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:09:32.095412+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:10:19.3391703+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:57:14.8935329+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:09:32.0956146+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:57:44.3789708+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:10:19.3393561+00:00"
 }

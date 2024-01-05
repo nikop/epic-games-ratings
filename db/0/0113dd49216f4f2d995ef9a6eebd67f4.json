@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -1074,6 +1074,11 @@
       "Time": "2024-01-05T05:08:52.4136015+00:00",
       "NumProgressed": 238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T07:09:09.0397215+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1156,9 +1161,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 172
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1206,7 +1211,7 @@
       "Name": "Lost In A Song",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_MAESTRO",
@@ -1238,7 +1243,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1262,7 +1267,7 @@
       "Name": "Saying Goodbye",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -1381,14 +1386,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:08:22.4651288+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:09:09.0397211+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:57:14.8830372+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:08:22.4651618+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:57:44.291055+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:09:09.0397473+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 23,
-  "Ranking_Popularity": 383,
-  "Ranking_PopularitySum": 467,
+  "Ranking_Popularity": 384,
+  "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -289,9 +289,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 1265,
+  "EOS_Progressed": 1266,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3574,6 +3574,11 @@
       "Time": "2024-01-05T00:05:25.9918326+00:00",
       "NumProgressed": 1265,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T07:05:05.2271923+00:00",
+      "NumProgressed": 1266,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3602,7 +3607,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Archaeologist",
@@ -3626,7 +3631,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "BreakTheLoop",
@@ -3650,7 +3655,7 @@
       "Name": "Chasing the Light",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Chicken",
@@ -3738,7 +3743,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "HighPlain",
@@ -3802,7 +3807,7 @@
       "Name": "Museum Explorer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "MuseumVisitor",
@@ -3834,7 +3839,7 @@
       "Name": "Not What It Seems",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Overload",
@@ -3946,7 +3951,7 @@
       "Name": "The All-Gifted",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3994,7 +3999,7 @@
       "Name": "The Word Endures",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "TouchGrass",
@@ -4010,7 +4015,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "VerdantCanyon",
@@ -4057,7 +4062,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1265,
+      "Progressed": 1266,
       "Completed": 2
     }
   ],
@@ -4065,8 +4070,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:04:29.2710384+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:05:05.227192+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:00:25.3752292+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:04:29.2710968+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:01:01.1162443+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:05:05.2272371+00:00"
 }

@@ -32,10 +32,10 @@ Rating: 4.54 (Ranked 545)
 | The Spire | 21.00% | ~1,235 |
 | El Riesgo Siempre Vive | 20.00% | ~1,176 |
 | Stuff Of Nightmares | 19.00% | ~1,117 |
+| Frontliner | 18.00% | ~1,058 |
 | Excavating The Truth | 18.00% | ~1,058 |
 | Abysmal Horrors | 18.00% | ~1,058 |
 | One For Every Occasion | 17.00% | ~999 |
-| Frontliner | 17.00% | ~999 |
 | The Cable Guy | 17.00% | ~999 |
 | Bandage Lover | 16.00% | ~941 |
 | Regicide | 13.00% | ~764 |

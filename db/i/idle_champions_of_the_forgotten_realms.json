@@ -9331,9 +9331,9 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 251294,
+  "EOS_Progressed": 251321,
   "EOS_Completed": 2593,
-  "EOS_NewPlayers": 4773,
+  "EOS_NewPlayers": 4778,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38746,6 +38746,11 @@
       "Time": "2024-01-05T06:09:38.6628961+00:00",
       "NumProgressed": 251294,
       "NumCompleted": 2593
+    },
+    {
+      "Time": "2024-01-05T07:10:25.619044+00:00",
+      "NumProgressed": 251321,
+      "NumCompleted": 2593
     }
   ],
   "TotalAchievements": 546,
@@ -38757,7 +38762,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7539
+      "UsersEstimate": 7540
     },
     {
       "ID": "objective_completed_10",
@@ -40549,7 +40554,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "objective_completed_390",
@@ -40893,7 +40898,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "objective_completed_54",
@@ -40971,9 +40976,9 @@
       "ID": "objective_completed_55",
       "SetID": "cc37lbc",
       "Name": "Flying Monkey Skulls of Doom",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_550",
@@ -41973,7 +41978,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "objective_completed_80",
@@ -43061,7 +43066,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "objective_completed_1563",
@@ -43124,21 +43129,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217568,
+      "Progressed": 217595,
       "Completed": 4135
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251294,
+      "Progressed": 251321,
       "Completed": 2593
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-05T05:59:21.5037602+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:09:38.6628957+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:10:25.6190434+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:59:21.5037608+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:09:38.6653023+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:59:54.3714367+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:10:25.6216165+00:00"
 }

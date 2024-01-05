@@ -9879,9 +9879,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 816017,
+  "EOS_Progressed": 816021,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1167,
+  "EOS_NewPlayers": 1165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39264,6 +39264,11 @@
       "Time": "2024-01-05T06:09:29.3805034+00:00",
       "NumProgressed": 816017,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-05T07:10:16.5961033+00:00",
+      "NumProgressed": 816021,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -39355,7 +39360,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261125
+      "UsersEstimate": 261127
     },
     {
       "ID": "Bookworm",
@@ -39371,7 +39376,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97922
+      "UsersEstimate": 97923
     },
     {
       "ID": "Casanova",
@@ -39387,7 +39392,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212164
+      "UsersEstimate": 212165
     },
     {
       "ID": "Chivalrous",
@@ -39475,7 +39480,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 187684
+      "UsersEstimate": 187685
     },
     {
       "ID": "Fighter",
@@ -39595,7 +39600,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106082
+      "UsersEstimate": 106083
     },
     {
       "ID": "Judas",
@@ -39755,7 +39760,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163203
+      "UsersEstimate": 163204
     },
     {
       "ID": "RevenantOfLedechko",
@@ -39795,7 +39800,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163203
+      "UsersEstimate": 163204
     },
     {
       "ID": "SerialKiller",
@@ -39851,7 +39856,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97922
+      "UsersEstimate": 97923
     },
     {
       "ID": "TisButAScratch",
@@ -39930,15 +39935,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 816017,
+      "Progressed": 816021,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-05T01:46:45.8398628+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:09:29.3805031+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:10:16.5961029+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:46.9804753+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:59:59.0043165+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:09:29.380694+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:00:32.7743318+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:10:16.596294+00:00"
 }

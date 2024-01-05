@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2596,10 +2596,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2626,
       "NumberOfAwardsMax": 872
+    },
+    {
+      "Time": "2024-01-05T06:57:26.0002503+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2627,
+      "NumberOfAwardsMax": 872
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2626,
+  "NumberOfAwards": 2627,
   "NumberOfAwardsMax": 872,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2643,7 +2649,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 193
+      "Count": 194
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2676,9 +2682,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44345,
+  "EOS_Progressed": 44346,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10811,6 +10817,11 @@
       "Time": "2024-01-05T05:06:14.6537924+00:00",
       "NumProgressed": 44345,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-05T07:06:58.1391815+00:00",
+      "NumProgressed": 44346,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10822,7 +10833,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27494
+      "UsersEstimate": 27495
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -10942,7 +10953,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14190
+      "UsersEstimate": 14191
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -10990,7 +11001,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5321
+      "UsersEstimate": 5322
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -11014,7 +11025,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27937
+      "UsersEstimate": 27938
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -11030,7 +11041,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15077
+      "UsersEstimate": 15078
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -11046,7 +11057,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14190
+      "UsersEstimate": 14191
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -11070,7 +11081,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21729
+      "UsersEstimate": 21730
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -11078,7 +11089,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15964
+      "UsersEstimate": 15965
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -11094,7 +11105,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10199
+      "UsersEstimate": 10200
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -11150,7 +11161,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31041
+      "UsersEstimate": 31042
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -11174,7 +11185,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20843
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -11190,7 +11201,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20842
+      "UsersEstimate": 20843
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -11198,7 +11209,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15964
+      "UsersEstimate": 15965
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -11214,7 +11225,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19955
+      "UsersEstimate": 19956
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -11262,7 +11273,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 15077
+      "UsersEstimate": 15078
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -11318,7 +11329,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10199
+      "UsersEstimate": 10200
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -11342,22 +11353,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15964
+      "UsersEstimate": 15965
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44345,
+      "Progressed": 44346,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2024-01-04T22:02:31.6358272+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:06:20.3826874+00:00",
+  "LastChanged": "2024-01-05T06:57:26.0002501+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:06:58.139181+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:12.9047325+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:56:56.7500116+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:06:20.3827659+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:57:26.0002506+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:06:58.1392609+00:00"
 }

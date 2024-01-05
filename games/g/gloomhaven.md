@@ -6,25 +6,25 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~12,173 |
-| Overkill | 33.00% | ~10,300 |
-| Vaccine Incoming | 31.00% | ~9,676 |
-| A normal day in Gloomhaven | 29.00% | ~9,052 |
-| Spread the plague | 27.00% | ~8,428 |
-| Get over here! | 24.00% | ~7,491 |
-| Just when I thought I was out... | 19.00% | ~5,930 |
-| Precious! | 16.00% | ~4,994 |
-| Mine... All Mine... | 16.00% | ~4,994 |
-| Grizzled veteran | 15.00% | ~4,682 |
-| Anatomy Lesson | 14.00% | ~4,370 |
-| Light of my life | 13.00% | ~4,058 |
-| Who's the Boss? | 12.00% | ~3,746 |
-| You activated my trap card! | 12.00% | ~3,746 |
-| Obstacle race | 12.00% | ~3,746 |
-| Augmented rat | 10.00% | ~3,121 |
-| Doom and gloom | 10.00% | ~3,121 |
-| Dungeon Veteran | 8.00% | ~2,497 |
-| Pain is your friend | 8.00% | ~2,497 |
+| I'm not dead yet | 39.00% | ~12,176 |
+| Overkill | 33.00% | ~10,303 |
+| Vaccine Incoming | 31.00% | ~9,679 |
+| A normal day in Gloomhaven | 29.00% | ~9,054 |
+| Spread the plague | 27.00% | ~8,430 |
+| Get over here! | 24.00% | ~7,493 |
+| Just when I thought I was out... | 19.00% | ~5,932 |
+| Precious! | 16.00% | ~4,995 |
+| Mine... All Mine... | 16.00% | ~4,995 |
+| Grizzled veteran | 15.00% | ~4,683 |
+| Anatomy Lesson | 14.00% | ~4,371 |
+| Light of my life | 13.00% | ~4,059 |
+| Who's the Boss? | 12.00% | ~3,747 |
+| You activated my trap card! | 12.00% | ~3,747 |
+| Obstacle race | 12.00% | ~3,747 |
+| Augmented rat | 10.00% | ~3,122 |
+| Doom and gloom | 10.00% | ~3,122 |
+| Dungeon Veteran | 8.00% | ~2,498 |
+| Pain is your friend | 8.00% | ~2,498 |
 | Pack leader | 7.00% | ~2,185 |
 | Black death | 7.00% | ~2,185 |
 | Play it again, Sam | 7.00% | ~2,185 |
@@ -35,10 +35,10 @@ Number of Ratings: 68  (23.09.2022)
 | Now you see me... | 5.00% | ~1,561 |
 | The Pro from Dover | 4.00% | ~1,249 |
 | Pretty lights! | 4.00% | ~1,249 |
-| I hate portals | 3.00% | ~936 |
-| Down the hatch | 3.00% | ~936 |
-| An eye for an eye | 3.00% | ~936 |
-| The Cephalophore | 3.00% | ~936 |
+| I hate portals | 3.00% | ~937 |
+| Down the hatch | 3.00% | ~937 |
+| An eye for an eye | 3.00% | ~937 |
+| The Cephalophore | 3.00% | ~937 |
 | From Gloom, only greed and death emerges | 2.00% | ~624 |
 | The Rat King | 2.00% | ~624 |
 | How to train your Drake | 2.00% | ~624 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~31 |
 | Hard-travelling Heroes | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,213 (Ranked 140)  
+Progressed: 31,221 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,10 +182,10 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-02 | 30,695 | 1 |
 | 2024-01-03 | 30,944 | 1 |
 | 2024-01-04 | 31,129 | 1 |
-| 2024-01-05 | 31,213 | 1 |
+| 2024-01-05 | 31,221 | 1 |
 ## Awards
 Max (Character Customization): 3,615  (Ranked 94)  
-Sum: 8,462 (Ranked 106)  
+Sum: 8,463 (Ranked 106)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
@@ -197,7 +197,7 @@ Diff (max vs sum): -12
 | This game is Relaxing | 494 |
 | This game has Amazing Characters | 494 |
 | This game has Quickly Understood Controls | 493 |
-| This game has Amazing Storytelling | 491 |
+| This game has Amazing Storytelling | 492 |
 | This game has Unique Visuals | 383 |
 | This game has a Creative Community | 221 |
 | This game has Obsessive Gameplay | 152 |
@@ -461,3 +461,4 @@ Diff (max vs sum): -12
 | 2024-01-02 | 4.47 | - | 3,613 | 8,456 |
 | 2024-01-03 | 4.47 | - | 3,615 | 8,460 |
 | 2024-01-04 | 4.47 | - | 3,615 | 8,462 |
+| 2024-01-05 | 4.47 | - | 3,615 | 8,463 |

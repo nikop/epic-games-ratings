@@ -50,8 +50,8 @@ Number of Ratings: 801  (23.09.2022)
 | Treasure Hunting | 3.00% | ~308 |
 | Nexuwizard | 2.00% | ~205 |
 | Everybody Freeze | 1.00% | ~103 |
+| The Collector | 0.90% | ~92 |
 | Nature Is Lit | 0.80% | ~82 |
-| The Collector | 0.80% | ~82 |
 | I'm The Pluggernaut | 0.60% | ~62 |
 | Shield and Shred | 0.60% | ~62 |
 | Infinite Adventures! | 0.40% | ~41 |

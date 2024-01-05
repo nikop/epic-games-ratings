@@ -47,6 +47,7 @@
 | The Assassin | 23.00% | ~855 |
 | The Quarian | 23.00% | ~855 |
 | The Justicar | 22.00% | ~818 |
+| Catharsis | 22.00% | ~818 |
 | Ghost of the Father | 22.00% | ~818 |
 | The Prodigal | 22.00% | ~818 |
 | Galactic Explorer | 22.00% | ~818 |
@@ -55,7 +56,6 @@
 | A Personal Touch | 21.00% | ~781 |
 | Archivist | 21.00% | ~781 |
 | Battlemaster | 21.00% | ~781 |
-| Catharsis | 21.00% | ~781 |
 | Fade Away | 21.00% | ~781 |
 | The Cure | 21.00% | ~781 |
 | Big Game Hunter | 21.00% | ~781 |

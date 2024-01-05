@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,539 |
+| A Brief Tour of the Realms | 3.00% | ~7,540 |
 | The Cursed Farmer | 2.00% | ~5,026 |
 | Beast Intentions | 1.00% | ~2,513 |
 | The Mad Wizard | 1.00% | ~2,513 |
@@ -14,10 +14,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.70% | ~1,759 |
 | Were-verpowered | 0.60% | ~1,508 |
 | Are Ya Chicken? | 0.60% | ~1,508 |
-| Fast Food | 0.60% | ~1,305 |
-| Seeking Allies | 0.50% | ~1,256 |
-| Mad Cow Disease | 0.50% | ~1,256 |
-| Friendly Imps | 0.50% | ~1,256 |
+| Fast Food | 0.60% | ~1,306 |
+| Seeking Allies | 0.50% | ~1,257 |
+| Mad Cow Disease | 0.50% | ~1,257 |
+| Friendly Imps | 0.50% | ~1,257 |
 | The Overgrown Grove | 0.50% | ~1,088 |
 | Mental Gymnastics | 0.50% | ~1,088 |
 | A Persistent Buzzing | 0.40% | ~1,005 |
@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.20% | ~503 |
 | The Death Curse | 0.20% | ~503 |
 | Useless Allies | 0.20% | ~503 |
+| Flying Monkey Skulls of Doom | 0.20% | ~503 |
 | Running of the Saurs | 0.20% | ~503 |
 | Close Escort | 0.20% | ~503 |
 | Constant Banditry | 0.20% | ~503 |
@@ -309,7 +310,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.10% | ~251 |
 | A Hero's Entourage | 0.10% | ~251 |
 | Sneak Attack | 0.10% | ~218 |
-| Flying Monkey Skulls of Doom | 0.10% | ~251 |
 | Lair of the Xanathar | 0.10% | ~251 |
 | Dreams of Beholders | 0.10% | ~251 |
 | Feigned Weakness | 0.10% | ~251 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,294 (Ranked 70)  
+Progressed: 251,321 (Ranked 70)  
 Completed: 2,593 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -813,7 +813,7 @@ Completed: 2,593 (1.03%) (Ranked 170)
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
-| 2024-01-05 | 251,294 | 2,593 |
+| 2024-01-05 | 251,321 | 2,593 |
 ## Awards
 Max (Great for Beginners): 5,740  (Ranked 72)  
 Sum: 33,320 (Ranked 41)  

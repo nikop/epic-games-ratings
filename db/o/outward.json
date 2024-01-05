@@ -7854,9 +7854,9 @@
       "ID": "LetEmEatMagma",
       "SetID": "c4hee28",
       "Name": "Let \u2018em eat magma!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 314
     },
     {
       "ID": "LightofLevant_18",
@@ -8070,8 +8070,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-03T19:03:38.0112146+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:06:35.9928897+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:03:38.4641428+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:02:40.6679834+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:06:35.9929568+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:03:15.1174217+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:03:38.4642099+00:00"
 }

@@ -205,9 +205,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 402671,
+  "EOS_Progressed": 402739,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27143,
+  "EOS_NewPlayers": 27066,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2155,6 +2155,11 @@
       "Time": "2024-01-05T06:06:16.8483036+00:00",
       "NumProgressed": 402671,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T07:06:53.9582885+00:00",
+      "NumProgressed": 402739,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -2175,7 +2180,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 28187
+      "UsersEstimate": 28192
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2199,7 +2204,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 92614
+      "UsersEstimate": 92630
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -2223,7 +2228,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 104694
+      "UsersEstimate": 104712
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2231,7 +2236,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 88588
+      "UsersEstimate": 88603
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -2263,7 +2268,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12080
+      "UsersEstimate": 12082
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -2311,7 +2316,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8053
+      "UsersEstimate": 8055
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -2327,7 +2332,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 36240
+      "UsersEstimate": 36247
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -2335,7 +2340,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12080
+      "UsersEstimate": 12082
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -2359,7 +2364,7 @@
       "Name": "My Best Battle",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 3221
+      "UsersEstimate": 3222
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -2367,7 +2372,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12080
+      "UsersEstimate": 12082
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -2375,7 +2380,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 32214
+      "UsersEstimate": 32219
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -2391,7 +2396,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12080
+      "UsersEstimate": 12082
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -2431,7 +2436,7 @@
       "Name": "No Regrets",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3221
+      "UsersEstimate": 3222
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -2455,7 +2460,7 @@
       "Name": "Unrelenting Spear",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3221
+      "UsersEstimate": 3222
     },
     {
       "ID": "ACHIEVEMENT_038",
@@ -2471,7 +2476,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12080
+      "UsersEstimate": 12082
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -2510,7 +2515,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 402671,
+      "Progressed": 402739,
       "Completed": 2
     }
   ],
@@ -2518,8 +2523,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-04T18:03:04.3143579+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:06:16.8483033+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:06:53.958288+00:00",
   "LastUpdate_AppInfo": "2024-01-02T11:56:58.7736767+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:02:41.6400077+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:06:16.848374+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:03:16.0860018+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:06:53.958327+00:00"
 }

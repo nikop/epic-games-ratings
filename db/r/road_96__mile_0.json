@@ -2,10 +2,10 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 331,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 631,
+  "EOS_Progressed": 632,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.48,
+  "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -2282,6 +2282,11 @@
       "Time": "2024-01-04T19:09:46.7236656+00:00",
       "NumProgressed": 631,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T07:10:10.5336726+00:00",
+      "NumProgressed": 632,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2341,7 +2346,7 @@
       "Name": "Freedom",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "scoreminrankrf1",
@@ -2357,7 +2362,7 @@
       "Name": "Partners in Crime",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "scoreminrankrh1",
@@ -2365,7 +2370,7 @@
       "Name": "Souvenirs",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "scoreminrankrp1",
@@ -2412,7 +2417,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 631,
+      "Progressed": 632,
       "Completed": 3
     }
   ],
@@ -2420,8 +2425,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:09:23.3564233+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:10:10.5336721+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:00:29.2887856+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:09:23.3564406+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:01:05.0732211+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:10:10.5336978+00:00"
 }

@@ -40,7 +40,7 @@ Number of Ratings: 48  (23.09.2022)
 | This Treasure I've Found | 19.00% | ~150 |
 | New Nevaeh's Number One Customer | 19.00% | ~150 |
 | Arms Master | 18.00% | ~142 |
-| Rune Scholar | 15.00% | ~119 |
+| Rune Scholar | 16.00% | ~127 |
 | No Treasure Left Behind | 12.00% | ~95 |
 | Sommelier | 11.00% | ~87 |
 | Champion of the Great Forest | 11.00% | ~87 |

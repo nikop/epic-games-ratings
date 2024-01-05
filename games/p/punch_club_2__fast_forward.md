@@ -25,7 +25,7 @@
 | Employee of the month | 59.00% | ~316 |
 | Law student | 57.00% | ~305 |
 | Handyman | 55.00% | ~294 |
-| Workout professional | 53.00% | ~284 |
+| Workout professional | 54.00% | ~289 |
 | Fight for life | 53.00% | ~284 |
 | Little hacker | 53.00% | ~284 |
 | Champion – starter pack | 53.00% | ~284 |

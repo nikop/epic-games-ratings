@@ -527,7 +527,7 @@
   ],
   "EOS_Progressed": 5879,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9047,9 +9047,9 @@
       "ID": "ACH_MAX_RECON",
       "SetID": "816efe",
       "Name": "Frontliner",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 999
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -9248,8 +9248,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-04T09:59:56.7771926+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:03:19.5580908+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:03:54.5696931+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.952602+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:00:13.7004051+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:03:19.5581669+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:00:49.0982007+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:03:54.5697443+00:00"
 }

@@ -17,8 +17,8 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Out of Water | 6.00% | ~478 |
 | Goldfish? | 5.00% | ~398 |
 | Going for Gold | 5.00% | ~398 |
+| License to Gill | 4.00% | ~319 |
 | School's Out for Summer | 4.00% | ~319 |
-| License to Gill | 3.00% | ~239 |
 | I'm Hooked! | 3.00% | ~239 |
 | I'm the Captain Now | 1.00% | ~80 |
 | Marathon | 1.00% | ~80 |

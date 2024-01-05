@@ -6,26 +6,26 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 74.00% | ~244 |
-| Kaijuiced | 70.00% | ~231 |
-| Lie Back and Think of Albion | 64.00% | ~211 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~208 |
-| I Look Up As I Walk to Takoshima | 59.00% | ~195 |
-| Yettisoned | 58.00% | ~191 |
-| Pimp My Raid | 55.00% | ~182 |
-| Perfect Probulator | 55.00% | ~182 |
-| Lobster Blisque | 51.00% | ~168 |
-| Fly Me to the Moon Base | 48.00% | ~158 |
-| Earthly Pleasures | 48.00% | ~158 |
-| Ducks in a Row, Fish in a Barrel | 45.00% | ~148 |
-| Bodied Sattva | 37.00% | ~122 |
-| Forbidden Donut | 36.00% | ~119 |
-| Freshly Squeezed | 36.00% | ~119 |
-| Upgreatest | 33.00% | ~109 |
+| Shop Til They Drop | 73.00% | ~242 |
+| Kaijuiced | 70.00% | ~232 |
+| Lie Back and Think of Albion | 64.00% | ~212 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~209 |
+| I Look Up As I Walk to Takoshima | 59.00% | ~196 |
+| Yettisoned | 58.00% | ~193 |
+| Pimp My Raid | 55.00% | ~183 |
+| Perfect Probulator | 55.00% | ~183 |
+| Lobster Blisque | 51.00% | ~169 |
+| Fly Me to the Moon Base | 48.00% | ~159 |
+| Earthly Pleasures | 48.00% | ~159 |
+| Ducks in a Row, Fish in a Barrel | 45.00% | ~149 |
+| Bodied Sattva | 37.00% | ~123 |
+| Forbidden Donut | 36.00% | ~120 |
+| Freshly Squeezed | 36.00% | ~120 |
+| Upgreatest | 34.00% | ~113 |
 | Deincarnated | 29.00% | ~96 |
-| Rock of the Bay | 28.00% | ~92 |
-| Furon Fashion | 28.00% | ~92 |
-| Trans-Siberian Express | 25.00% | ~82 |
+| Furon Fashion | 29.00% | ~96 |
+| Rock of the Bay | 28.00% | ~93 |
+| Trans-Siberian Express | 25.00% | ~83 |
 | Arkvoodle Doodle | 20.00% | ~66 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~66 |
 | If You Know What I Mean | 17.00% | ~56 |
@@ -33,9 +33,9 @@ Number of Ratings: 85  (23.09.2022)
 | Die Nasty | 16.00% | ~53 |
 | Hidden Human Hive Harvest | 15.00% | ~50 |
 | Mash Machine | 15.00% | ~50 |
-| Dusted | 15.00% | ~50 |
 | Albion Bridge Is for Falling Down | 14.00% | ~46 |
-| Scuttled | 12.00% | ~40 |
+| Dusted | 14.00% | ~46 |
+| Scuttled | 11.00% | ~37 |
 | Higher Than the Futen Zoku | 10.00% | ~33 |
 | PK Slam Dunk | 9.00% | ~30 |
 | Arty Facts | 9.00% | ~30 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~7 |
 | Against All Odds | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330 (Ranked 381)  
-Completed: 5 (1.52%) (Ranked 146)  
+Progressed: 332 (Ranked 381)  
+Completed: 5 (1.51%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,7 +70,7 @@ Completed: 5 (1.52%) (Ranked 146)
 | 2024-01-02 | 296 | 5 |
 | 2024-01-03 | 310 | 5 |
 | 2024-01-04 | 325 | 5 |
-| 2024-01-05 | 330 | 5 |
+| 2024-01-05 | 332 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 498)  
 Sum: 35 (Ranked 528)  

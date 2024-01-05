@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64899,
+  "EOS_Progressed": 64909,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 2618,
+  "EOS_NewPlayers": 2623,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 18.12,
   "EosHistory": [
@@ -15478,6 +15478,11 @@
       "Time": "2024-01-05T06:08:46.7310801+00:00",
       "NumProgressed": 64899,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-05T07:09:33.5007682+00:00",
+      "NumProgressed": 64909,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -15498,7 +15503,7 @@
       "Name": "First blood",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 48025
+      "UsersEstimate": 48033
     },
     {
       "ID": "grenadeKills",
@@ -15546,7 +15551,7 @@
       "Name": "Hang in there",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "matchesWon",
@@ -15601,7 +15606,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 64899,
+      "Progressed": 64909,
       "Completed": 11760
     }
   ],
@@ -15609,8 +15614,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-03T03:57:07.0547523+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:08:46.7310797+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:09:33.5007677+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.3811971+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:57:58.0519596+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:08:46.7311621+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:58:29.778553+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:09:33.5008552+00:00"
 }

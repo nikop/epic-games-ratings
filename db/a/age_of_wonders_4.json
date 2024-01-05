@@ -717,7 +717,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6865,
+  "EOS_Progressed": 6868,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
@@ -10392,6 +10392,11 @@
       "Time": "2024-01-05T06:03:26.4954547+00:00",
       "NumProgressed": 6865,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T07:04:01.7520593+00:00",
+      "NumProgressed": 6868,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10515,7 +10520,7 @@
       "Name": "Realm Estate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "23",
@@ -10531,7 +10536,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "25",
@@ -10563,7 +10568,7 @@
       "Name": "From Friends to Family",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "29",
@@ -10882,13 +10887,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6865,
+      "Progressed": 6868,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6865,
+      "Progressed": 6868,
       "Completed": 7
     }
   ],
@@ -10896,8 +10901,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:03:26.4954544+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:04:01.752059+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:00:51.8143262+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:03:26.4955437+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:02:56.9099408+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:04:01.7521361+00:00"
 }

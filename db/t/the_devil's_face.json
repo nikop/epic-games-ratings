@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 632,
+  "EOS_Progressed": 633,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -2779,6 +2779,11 @@
       "Time": "2024-01-04T21:04:23.1441384+00:00",
       "NumProgressed": 632,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T07:04:22.186004+00:00",
+      "NumProgressed": 633,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2798,7 +2803,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2838,7 +2843,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2901,14 +2906,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 632,
+      "Progressed": 633,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:03:46.8865343+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:04:22.1860035+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.2024016+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:57:42.1828347+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:03:46.8865606+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:58:12.2608645+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:04:22.1860311+00:00"
 }

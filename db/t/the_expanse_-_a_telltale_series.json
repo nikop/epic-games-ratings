@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18240,
+  "EOS_Progressed": 18242,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16320,6 +16320,11 @@
       "Time": "2024-01-05T06:04:59.5505824+00:00",
       "NumProgressed": 18240,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-05T07:05:35.4245204+00:00",
+      "NumProgressed": 18242,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16372,7 +16377,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "15",
@@ -16394,9 +16399,9 @@
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1824
+      "UsersEstimate": 2007
     },
     {
       "ID": "18",
@@ -16404,7 +16409,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "19",
@@ -16428,7 +16433,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "21",
@@ -16436,7 +16441,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "22",
@@ -16580,7 +16585,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "33",
@@ -16588,7 +16593,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "34",
@@ -16604,20 +16609,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18240,
+      "Progressed": 18242,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4194,
+      "Progressed": 4196,
       "Completed": 1190
     }
   ],
@@ -16625,8 +16630,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-05T06:04:59.5505821+00:00",
+  "LastChanged_Achievements": "2024-01-05T07:05:35.42452+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:00:32.0253487+00:00",
-  "LastUpdate_Achievements": "2024-01-05T06:04:59.5506821+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:01:07.7461417+00:00",
+  "LastUpdate_Achievements": "2024-01-05T07:05:35.4246346+00:00"
 }

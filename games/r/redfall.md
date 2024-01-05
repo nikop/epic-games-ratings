@@ -6,7 +6,7 @@ Rating: 3.64 (Ranked 1,088)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 19.00% | ~428 |
-| Catch and Release | 14.00% | ~315 |
+| Catch and Release | 14.00% | ~316 |
 | Home Is Where the Heart Is | 13.00% | ~293 |
 | Wounded Whispers | 13.00% | ~293 |
 | ICU | 12.00% | ~270 |
@@ -25,6 +25,7 @@ Rating: 3.64 (Ranked 1,088)
 | Neighborhood Revitalization | 5.00% | ~113 |
 | Radio Silence | 5.00% | ~113 |
 | You Clean It Up | 3.00% | ~68 |
+| From the Shadows | 3.00% | ~68 |
 | Starve the Beast | 3.00% | ~68 |
 | Helping Hand | 3.00% | ~68 |
 | I Spit On Your Grave | 3.00% | ~68 |
@@ -35,7 +36,6 @@ Rating: 3.64 (Ranked 1,088)
 | Bell-ringer | 2.00% | ~45 |
 | Silence Is Golden | 2.00% | ~45 |
 | Good Morning | 2.00% | ~45 |
-| From the Shadows | 2.00% | ~45 |
 | Check, Please! | 2.00% | ~45 |
 | Right This Way | 2.00% | ~45 |
 | Harvest’s End | 2.00% | ~45 |
@@ -53,9 +53,9 @@ Rating: 3.64 (Ranked 1,088)
 | Scream Team | 0.50% | ~11 |
 | Monster Hunters Club | 0.40% | ~9 |
 | Friendgineering | 0.40% | ~9 |
+| So Anyway I Started Blasting | 0.40% | ~9 |
 | Under a Bushel | 0.40% | ~9 |
 | Enemy of My Enemy | 0.40% | ~9 |
-| So Anyway I Started Blasting | 0.30% | ~7 |
 | Faith Healer | 0.20% | ~5 |
 | Bob’s Final Hour | 0.20% | ~5 |
 | A Cry in the Dark | 0.10% | ~2 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,088)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,253 (Ranked 241)  
+Progressed: 2,254 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,6 +209,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 2,228 | 0 |
 | 2024-01-03 | 2,238 | 0 |
 | 2024-01-04 | 2,253 | 0 |
+| 2024-01-05 | 2,254 | 0 |
 ## Awards
 Max (Great Boss Battles): 22  (Ranked 560)  
 Sum: 22 (Ranked 563)  

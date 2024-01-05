@@ -16,12 +16,12 @@
 | Deflect This! | 28.00% | ~13 |
 | Just Some Improvements | 24.00% | ~11 |
 | My Precious Gems! | 22.00% | ~10 |
+| A Little Extra Love | 22.00% | ~10 |
 | Final Announcement | 22.00% | ~10 |
 | A New Strategy | 22.00% | ~10 |
 | A Terrible Way to Go | 22.00% | ~10 |
 | Isn't It Beautiful? | 20.00% | ~9 |
 | A Generous Leader | 20.00% | ~9 |
-| A Little Extra Love | 20.00% | ~9 |
 | An Unexpected Visitor | 20.00% | ~9 |
 | Dr. Dreinstein III | 15.00% | ~7 |
 | Orcharion Boost | 13.00% | ~6 |
