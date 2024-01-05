@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
@@ -1813,10 +1813,10 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166513,
+  "EOS_Progressed": 166518,
   "EOS_Completed": 444,
-  "EOS_NewPlayers": 1322,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 1325,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -21868,6 +21868,11 @@
       "Time": "2024-01-05T01:52:41.401667+00:00",
       "NumProgressed": 166513,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2024-01-05T02:27:57.9828809+00:00",
+      "NumProgressed": 166518,
+      "NumCompleted": 444
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21944,7 +21949,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4995
+      "UsersEstimate": 4996
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -21992,7 +21997,7 @@
       "Name": "Glare",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -22096,7 +22101,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4995
+      "UsersEstimate": 4996
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -22247,21 +22252,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166096,
+      "Progressed": 166101,
       "Completed": 1254
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166513,
+      "Progressed": 166518,
       "Completed": 444
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-04T14:00:27.8179781+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:52:41.4016666+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:27:57.9828805+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:47:01.5304147+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:52:41.4018196+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:22:20.7203376+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:27:57.9830282+00:00"
 }

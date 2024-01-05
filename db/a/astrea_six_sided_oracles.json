@@ -1467,9 +1467,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "AstralSeeker",
@@ -2170,8 +2170,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:55:36.3101183+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:30:53.2363162+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:44:25.6519447+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:55:36.3102702+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:19:48.4295651+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:30:53.2364073+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "ELEX",
   "ProductSlug": "elex",
   "Ranking_Rating": 671,
-  "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 556,
+  "Ranking_Popularity": 545,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-03-25T15:00:00+00:00",
@@ -330,18 +330,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-01-05T02:20:38.1927221+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24,
-  "NumberOfAwardsMax": 24,
+  "NumberOfAwards": 25,
+  "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -355,8 +361,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
-  "LastChanged": "2023-12-31T04:00:42.8662617+00:00",
+  "LastChanged": "2024-01-05T02:20:38.192722+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.3724589+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:45:16.7008842+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:52:58.0569361+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:20:38.192723+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:28:15.5018219+00:00"
 }

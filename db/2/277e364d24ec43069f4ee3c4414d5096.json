@@ -371,9 +371,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119081,
+  "EOS_Progressed": 119082,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 844,
+  "EOS_NewPlayers": 842,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -23746,6 +23746,11 @@
       "Time": "2024-01-05T01:56:51.2424097+00:00",
       "NumProgressed": 119081,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2024-01-05T02:32:07.6999588+00:00",
+      "NumProgressed": 119082,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 49,
@@ -23765,7 +23770,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 91692
+      "UsersEstimate": 91693
     },
     {
       "ID": "EAwards_10",
@@ -23885,7 +23890,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9526
+      "UsersEstimate": 9527
     },
     {
       "ID": "EAwards_24",
@@ -23901,7 +23906,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22625
+      "UsersEstimate": 22626
     },
     {
       "ID": "EAwards_26",
@@ -24148,7 +24153,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 119081,
+      "Progressed": 119082,
       "Completed": 56
     }
   ],
@@ -24156,8 +24161,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-02T01:45:21.9654639+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:56:51.2424094+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:32:07.6999583+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:21.6773482+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:46:17.0282315+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:56:51.2425567+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:21:37.878827+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:32:07.7001214+00:00"
 }

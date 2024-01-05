@@ -2,12 +2,12 @@
   "ID": "8432511ef63b489b843d21ff486a0355",
   "Name": "Torchlight II",
   "ProductSlug": "torchlight-2",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-07-16T15:00:00+00:00",
@@ -2500,10 +2500,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 2128,
       "NumberOfAwardsMax": 1073
+    },
+    {
+      "Time": "2024-01-05T02:22:09.9981737+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2129,
+      "NumberOfAwardsMax": 1073
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2128,
+  "NumberOfAwards": 2129,
   "NumberOfAwardsMax": 1073,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2547,7 +2553,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2585,8 +2591,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2024-01-04T11:01:09.1132861+00:00",
+  "LastChanged": "2024-01-05T02:22:09.9981736+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:49.0660487+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:46:49.9280175+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:51:04.2754387+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:22:09.9981742+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:26:18.2097991+00:00"
 }

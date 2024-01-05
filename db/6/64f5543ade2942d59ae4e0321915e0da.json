@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 385,
+  "EOS_Progressed": 386,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 1,
@@ -1524,6 +1524,11 @@
       "Time": "2024-01-05T01:52:21.3956887+00:00",
       "NumProgressed": 385,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T02:27:37.0161209+00:00",
+      "NumProgressed": 386,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1544,7 +1549,7 @@
       "Name": "Empire",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -1616,7 +1621,7 @@
       "Name": "Misery",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "AC_BOSS_02",
@@ -1640,7 +1645,7 @@
       "Name": "Heresy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "AC_COMBO_1",
@@ -1704,7 +1709,7 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1728,7 +1733,7 @@
       "Name": "Excursion",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1736,7 +1741,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1792,7 +1797,7 @@
       "Name": "Winner",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -1808,7 +1813,7 @@
       "Name": "Gun",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -1838,9 +1843,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 154
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1871,14 +1876,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 385,
+      "Progressed": 386,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:52:21.3956883+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:27:37.0161204+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
   "LastUpdate_Ratings": "2024-01-05T01:47:23.9015371+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:52:21.3957264+00:00"
+  "LastUpdate_Achievements": "2024-01-05T02:27:37.0161649+00:00"
 }

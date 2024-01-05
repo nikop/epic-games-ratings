@@ -67,7 +67,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1386,
+  "EOS_Progressed": 1387,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 1,
@@ -3607,6 +3607,11 @@
       "Time": "2024-01-05T01:56:24.1242858+00:00",
       "NumProgressed": 1386,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T02:31:40.5099984+00:00",
+      "NumProgressed": 1387,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3699,7 +3704,7 @@
       "Name": "Evacuation",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "AchvInvShip",
@@ -3721,9 +3726,9 @@
       "ID": "AchvLava",
       "SetID": "1hj060c",
       "Name": "Volcanologist",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 291
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -3785,9 +3790,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 596
     },
     {
       "ID": "AchvReachCamp",
@@ -3795,7 +3800,7 @@
       "Name": "The Camp",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "AchvReachCity",
@@ -3803,7 +3808,7 @@
       "Name": "The City",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "AchvReachCondor",
@@ -3850,7 +3855,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1386,
+      "Progressed": 1387,
       "Completed": 1
     }
   ],
@@ -3858,8 +3863,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-03T13:02:33.844766+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:56:24.124285+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:31:40.509998+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:45:52.7161773+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:56:24.124334+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:21:12.8435983+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:31:40.5100369+00:00"
 }

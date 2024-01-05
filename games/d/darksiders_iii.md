@@ -15,7 +15,7 @@ Number of Ratings: 116  (23.09.2022)
 | Just the start | 48.00% | ~203 |
 | Perfect Storm | 46.00% | ~195 |
 | All That Glitters | 45.00% | ~190 |
-| Enhance! | 41.00% | ~173 |
+| Enhance! | 42.00% | ~178 |
 | One Of the Chosen | 39.00% | ~165 |
 | Throne Potato | 39.00% | ~165 |
 | Devil's in the Details | 38.00% | ~161 |

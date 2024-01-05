@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -294,7 +294,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2472,
+  "EOS_Progressed": 2473,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -4304,6 +4304,11 @@
       "Time": "2024-01-05T01:52:29.7690738+00:00",
       "NumProgressed": 2472,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-05T02:27:46.1000277+00:00",
+      "NumProgressed": 2473,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4347,7 +4352,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACHV_06",
@@ -4395,7 +4400,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHV_12",
@@ -4483,15 +4488,15 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHV_23",
       "SetID": "8p5mlmc",
       "Name": "HEADSHOT!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 939
+      "UsersEstimate": 915
     },
     {
       "ID": "ACHV_24",
@@ -4515,7 +4520,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "ACHV_27",
@@ -4579,7 +4584,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHV_35",
@@ -4587,7 +4592,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACHV_36",
@@ -4619,7 +4624,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "ACHV_40",
@@ -4633,9 +4638,9 @@
       "ID": "ACHV_41",
       "SetID": "8p5mlmc",
       "Name": "Suited and Booted",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 939
+      "UsersEstimate": 915
     },
     {
       "ID": "ACHV_42",
@@ -4770,7 +4775,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2472,
+      "Progressed": 2473,
       "Completed": 13
     }
   ],
@@ -4778,8 +4783,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:52:29.7690735+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:27:46.1000274+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:46:54.4587377+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:52:29.7691389+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:22:14.0966445+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:27:46.1000937+00:00"
 }

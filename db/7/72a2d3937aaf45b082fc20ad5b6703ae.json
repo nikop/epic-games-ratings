@@ -4,7 +4,7 @@
   "ProductSlug": "the-making-of-karateka-7d9a6c",
   "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewPlayers": 500,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -217,9 +217,9 @@
       "ID": "deathbouncer",
       "SetID": "l4g2eh",
       "Name": "Deathbouncer",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "down_ship",
@@ -368,8 +368,8 @@
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:52:13.4909038+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:27:29.0366294+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:57.1858335+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:43:59.9516132+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:52:13.4909421+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:19:21.6950391+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:27:29.0366519+00:00"
 }

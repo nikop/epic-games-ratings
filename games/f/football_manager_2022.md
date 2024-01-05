@@ -1,7 +1,7 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 91)  
+Rating: 4.80 (Ranked 92)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,18 +12,18 @@ Number of Ratings: 19,160  (23.09.2022)
 | He's Sold! | 48.00% | ~229,851 |
 | I'm The Boss! | 42.00% | ~201,120 |
 | Hat-trick | 41.00% | ~196,331 |
-| Scoring Streak | 38.00% | ~181,965 |
+| Scoring Streak | 38.00% | ~181,966 |
 | Unbeatable! | 37.00% | ~177,177 |
 | Thumping | 37.00% | ~177,177 |
 | Superb Dressing Room Atmosphere | 35.00% | ~167,600 |
 | Total Support | 32.00% | ~153,234 |
 | Record Signing | 32.00% | ~153,234 |
-| He's a Natural | 31.00% | ~148,445 |
-| Millionaire's Club | 31.00% | ~148,445 |
+| He's a Natural | 31.00% | ~148,446 |
+| Millionaire's Club | 31.00% | ~148,446 |
 | Team Performance | 30.00% | ~143,657 |
-| Parked The Bus | 29.00% | ~138,868 |
-| Shrewd Spender | 29.00% | ~138,868 |
-| Star Man | 29.00% | ~138,868 |
+| Parked The Bus | 29.00% | ~138,869 |
+| Shrewd Spender | 29.00% | ~138,869 |
+| Star Man | 29.00% | ~138,869 |
 | Attack! | 28.00% | ~134,080 |
 | You're On Fire | 27.00% | ~129,291 |
 | Tremendous Trio | 27.00% | ~129,291 |
@@ -31,16 +31,16 @@ Number of Ratings: 19,160  (23.09.2022)
 | On A Roll | 26.00% | ~124,503 |
 | Unstoppable Force | 26.00% | ~124,503 |
 | Armchair Expert | 25.00% | ~119,714 |
-| Fantastic Five | 24.00% | ~114,925 |
-| Full Faith | 24.00% | ~114,925 |
-| Iron Curtain | 24.00% | ~114,925 |
-| The Boss | 24.00% | ~114,925 |
+| Fantastic Five | 24.00% | ~114,926 |
+| Full Faith | 24.00% | ~114,926 |
+| Iron Curtain | 24.00% | ~114,926 |
+| The Boss | 24.00% | ~114,926 |
 | Top Of The Class | 23.00% | ~110,137 |
 | Goal Machine | 23.00% | ~110,137 |
-| Splashing The Cash | 22.00% | ~105,348 |
-| Clean Bill of Health | 22.00% | ~105,348 |
-| What A Goal! | 22.00% | ~105,348 |
-| Cup Glory! | 22.00% | ~105,348 |
+| Splashing The Cash | 22.00% | ~105,349 |
+| Clean Bill of Health | 22.00% | ~105,349 |
+| What A Goal! | 22.00% | ~105,349 |
+| Cup Glory! | 22.00% | ~105,349 |
 | Irresistible Force | 20.00% | ~95,771 |
 | Excellent Match Cohesion | 20.00% | ~95,771 |
 | Do The Double | 19.00% | ~90,983 |
@@ -49,7 +49,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Beating Expectations | 16.00% | ~76,617 |
 | Overachiever! | 16.00% | ~76,617 |
 | Rushed signing | 16.00% | ~76,617 |
-| Window Shopping | 15.00% | ~71,828 |
+| Window Shopping | 15.00% | ~71,829 |
 | Eyes and Ears | 14.00% | ~67,040 |
 | Comeback King! | 14.00% | ~67,040 |
 | You're Up! | 13.00% | ~62,251 |
@@ -62,7 +62,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | National Service | 9.00% | ~43,097 |
 | Headhunted | 9.00% | ~43,097 |
 | Domination | 9.00% | ~43,097 |
-| Best In The Business | 8.00% | ~38,308 |
+| Best In The Business | 8.00% | ~38,309 |
 | Legend | 6.00% | ~28,731 |
 | Win the Club World Cup | 6.00% | ~28,731 |
 | Parked The Tank | 6.00% | ~28,731 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~479 |
 | Shoestring Budget | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,856 (Ranked 44)  
+Progressed: 478,857 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 22 (0.00%) (Ranked 393)
 | 2024-01-02 | 478,755 | 22 |
 | 2024-01-03 | 478,805 | 22 |
 | 2024-01-04 | 478,848 | 22 |
-| 2024-01-05 | 478,856 | 22 |
+| 2024-01-05 | 478,857 | 22 |
 ## Awards
 Max (Relaxing): 6,494  (Ranked 61)  
 Sum: 51,220 (Ranked 30)  

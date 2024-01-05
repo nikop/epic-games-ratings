@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -3004,9 +3004,9 @@
       "ID": "KillWithALargeShip",
       "SetID": "a6c395p",
       "Name": "The Great Destroyer",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 997
+      "UsersEstimate": 1011
     },
     {
       "ID": "MasteryOfCombat",
@@ -3292,8 +3292,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2024-01-04T18:59:52.3353425+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:56:31.5425448+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:31:48.2053135+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:53.7450783+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:47:00.5147451+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:56:31.5425855+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:22:19.5763965+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:31:48.2053529+00:00"
 }

@@ -31,8 +31,8 @@ Number of Ratings: 90  (23.09.2022)
 | Lobster Blisque | 6.00% | ~19 |
 | Yettisoned | 5.00% | ~16 |
 | Ultimate Smoothie | 4.00% | ~13 |
+| Arkvoodle Doodle | 4.00% | ~13 |
 | Deincarnated | 3.00% | ~9 |
-| Arkvoodle Doodle | 3.00% | ~9 |
 | Against All Odds | 2.00% | ~6 |
 | The Optional Mandate | 2.00% | ~6 |
 | PK Slam Dunk | 1.00% | ~3 |

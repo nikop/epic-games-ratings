@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -609,6 +609,11 @@
       "Time": "2024-01-04T12:05:20.4086435+00:00",
       "NumProgressed": 138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T02:27:38.7451136+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -701,7 +706,7 @@
       "Name": "Happy Birthday",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -717,7 +722,7 @@
       "Name": "Quickly Pick a Lucky Lock",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -757,7 +762,7 @@
       "Name": "All That Glitters",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -779,9 +784,9 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 96
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -797,7 +802,7 @@
       "Name": "Dust to Dust",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -819,9 +824,9 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "ae95dh3",
       "Name": "A Friend in Need",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -916,14 +921,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:52:23.0034159+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:27:38.7451129+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:23.9346853+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:44:17.4002369+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:52:23.0034532+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:19:39.0314048+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:27:38.7451401+00:00"
 }

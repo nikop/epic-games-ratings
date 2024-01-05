@@ -2104,9 +2104,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 252
     },
     {
       "ID": "9",
@@ -2152,9 +2152,9 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 63
     },
     {
       "ID": "Remake_007",
@@ -2295,8 +2295,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:51:33.0987856+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:26:48.0589404+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:45:48.0801536+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:51:33.0988127+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:21:09.7144646+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:26:48.0589748+00:00"
 }

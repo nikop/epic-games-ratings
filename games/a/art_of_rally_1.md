@@ -1,44 +1,44 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~308,779 |
-| good drivers have dead flies on the side windows | 32.00% | ~125,075 |
-| keep it tidy | 26.00% | ~101,624 |
-| brail | 26.00% | ~101,624 |
-| car wash | 23.00% | ~89,898 |
-| the artist | 23.00% | ~89,898 |
-| podium | 20.00% | ~78,172 |
-| medium attack | 17.00% | ~66,446 |
-| bicycle race | 6.00% | ~23,452 |
-| grocery-getter | 5.00% | ~19,543 |
-| autopilot | 4.00% | ~15,634 |
-| where is the stage? | 3.00% | ~11,726 |
-| night ride | 3.00% | ~11,726 |
-| snorkel | 3.00% | ~11,726 |
-| food tour: pasta | 3.00% | ~11,726 |
-| perkele | 2.00% | ~7,817 |
-| rwd only | 2.00% | ~7,817 |
-| if in doubt, flat out! | 2.00% | ~7,817 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~7,817 |
+| light attack | 79.00% | ~308,843 |
+| good drivers have dead flies on the side windows | 32.00% | ~125,101 |
+| keep it tidy | 26.00% | ~101,645 |
+| brail | 26.00% | ~101,645 |
+| car wash | 23.00% | ~89,916 |
+| the artist | 23.00% | ~89,916 |
+| podium | 20.00% | ~78,188 |
+| medium attack | 17.00% | ~66,460 |
+| bicycle race | 6.00% | ~23,456 |
+| grocery-getter | 5.00% | ~19,547 |
+| autopilot | 4.00% | ~15,638 |
+| where is the stage? | 3.00% | ~11,728 |
+| night ride | 3.00% | ~11,728 |
+| snorkel | 3.00% | ~11,728 |
+| food tour: pasta | 3.00% | ~11,728 |
+| perkele | 2.00% | ~7,819 |
+| rwd only | 2.00% | ~7,819 |
+| if in doubt, flat out! | 2.00% | ~7,819 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~7,819 |
 | to finish first, first you must finish | 1.00% | ~3,909 |
 | espresso | 1.00% | ~3,909 |
 | turbo | 1.00% | ~3,909 |
 | in like a lamb, out like a lion | 1.00% | ~3,909 |
 | mittens | 1.00% | ~3,909 |
 | food tour: pretzel | 1.00% | ~3,909 |
-| monster | 0.80% | ~3,127 |
-| eurobeat | 0.60% | ~2,345 |
-| viking | 0.60% | ~2,345 |
-| oktoberfest | 0.50% | ~1,954 |
-| parallel universe | 0.50% | ~1,954 |
-| group b | 0.50% | ~1,954 |
-| maximum attack | 0.40% | ~1,563 |
-| samir | 0.40% | ~1,563 |
+| monster | 0.80% | ~3,128 |
+| eurobeat | 0.60% | ~2,346 |
+| viking | 0.60% | ~2,346 |
+| oktoberfest | 0.50% | ~1,955 |
+| parallel universe | 0.50% | ~1,955 |
+| group b | 0.50% | ~1,955 |
+| maximum attack | 0.40% | ~1,564 |
+| samir | 0.40% | ~1,564 |
 | parking lot | 0.30% | ~1,173 |
 | master of rally | 0.30% | ~1,173 |
 | antilag | 0.30% | ~1,173 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~391 |
 | you're here for a good time, not a long time | 0.10% | ~391 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 390,860 (Ranked 51)  
+Progressed: 390,941 (Ranked 51)  
 Completed: 14 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 14 (0.00%) (Ranked 393)
 | 2024-01-02 | 381,884 | 13 |
 | 2024-01-03 | 386,454 | 14 |
 | 2024-01-04 | 390,463 | 14 |
-| 2024-01-05 | 390,860 | 14 |
+| 2024-01-05 | 390,941 | 14 |
 ## Awards
 Max (Quickly Understood Controls): 32  (Ranked 512)  
 Sum: 131 (Ranked 443)  

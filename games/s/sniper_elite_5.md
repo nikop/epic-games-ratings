@@ -6,13 +6,13 @@ Rating: 4.46 (Ranked 671)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,978 |
-| Confirming Suspicions | 42.00% | ~1,767 |
+| Confirming Suspicions | 42.00% | ~1,768 |
 | The Kraken Wakes | 37.00% | ~1,557 |
 | It's Starting to Crack | 34.00% | ~1,431 |
 | Change the Channel | 32.00% | ~1,347 |
-| Lord of War | 31.00% | ~1,304 |
-| Taking it back | 30.00% | ~1,262 |
-| Resourceful | 28.00% | ~1,178 |
+| Lord of War | 31.00% | ~1,305 |
+| Taking it back | 30.00% | ~1,263 |
+| Resourceful | 28.00% | ~1,179 |
 | Target America | 27.00% | ~1,136 |
 | The Kraken Sleeps | 25.00% | ~1,052 |
 | As Quiet as a Mouse | 24.00% | ~1,010 |
@@ -21,9 +21,9 @@ Rating: 4.46 (Ranked 671)
 | Sharpshooter | 23.00% | ~968 |
 | Gunslinger | 19.00% | ~800 |
 | Explosive Efficiency | 19.00% | ~800 |
-| Climbing the Ladder | 17.00% | ~715 |
-| Just a Flesh Wound | 17.00% | ~715 |
-| Der Geist | 17.00% | ~715 |
+| Climbing the Ladder | 17.00% | ~716 |
+| Just a Flesh Wound | 17.00% | ~716 |
+| Der Geist | 17.00% | ~716 |
 | Close Quarters | 16.00% | ~673 |
 | Snake in the Grass | 16.00% | ~673 |
 | No Stone Unturned | 15.00% | ~631 |
@@ -38,7 +38,7 @@ Rating: 4.46 (Ranked 671)
 | My Little Friend | 10.00% | ~421 |
 | Rigged to Blow | 9.00% | ~379 |
 | Herr Today, Gone Tomorrow | 7.00% | ~291 |
-| The Long Game | 6.00% | ~252 |
+| The Long Game | 6.00% | ~253 |
 | Operation Foxley | 6.00% | ~250 |
 | Strategist | 5.00% | ~210 |
 | Tinkerer | 5.00% | ~210 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 671)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,208 (Ranked 208)  
+Progressed: 4,209 (Ranked 208)  
 Completed: 11 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,6 +335,7 @@ Completed: 11 (0.26%) (Ranked 260)
 | 2024-01-02 | 4,190 | 11 |
 | 2024-01-03 | 4,197 | 11 |
 | 2024-01-04 | 4,208 | 11 |
+| 2024-01-05 | 4,209 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 529)  
 Sum: 28 (Ranked 545)  

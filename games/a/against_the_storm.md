@@ -1,36 +1,36 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 68)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 8.00% | ~1,612 |
 | Overgrown Library | 8.00% | ~1,612 |
-| First Real Expedition | 7.00% | ~1,410 |
-| Taking Action | 7.00% | ~1,410 |
-| No Deaths | 7.00% | ~1,410 |
-| Petrified Necropolis | 7.00% | ~1,410 |
+| First Real Expedition | 7.00% | ~1,411 |
+| Taking Action | 7.00% | ~1,411 |
+| No Deaths | 7.00% | ~1,411 |
+| Petrified Necropolis | 7.00% | ~1,411 |
 | Overcoming Difficulty | 6.00% | ~1,209 |
 | Coral Forest | 6.00% | ~1,209 |
 | The Marshlands | 6.00% | ~1,209 |
 | Gathering Storm | 6.00% | ~1,209 |
-| The Scarlet Orchard | 5.00% | ~1,007 |
-| Frosts | 5.00% | ~1,007 |
-| Land of Greed | 5.00% | ~1,007 |
-| Ominous Presence | 5.00% | ~1,007 |
+| The Scarlet Orchard | 5.00% | ~1,008 |
+| Frosts | 5.00% | ~1,008 |
+| Land of Greed | 5.00% | ~1,008 |
+| Ominous Presence | 5.00% | ~1,008 |
 | Royal Outpost | 4.00% | ~806 |
 | Watchtower | 4.00% | ~806 |
-| Homesick | 3.00% | ~604 |
-| Ruined Armory | 3.00% | ~604 |
-| Fertile Meadows | 3.00% | ~604 |
-| Levitating Monument | 3.00% | ~604 |
-| Monastery of the Holy Flame | 3.00% | ~604 |
-| Lost Colonies | 3.00% | ~604 |
-| A Real Challenge | 3.00% | ~604 |
-| Trade Baron | 3.00% | ~604 |
-| Untamed Wilds | 3.00% | ~604 |
+| Homesick | 3.00% | ~605 |
+| Ruined Armory | 3.00% | ~605 |
+| Fertile Meadows | 3.00% | ~605 |
+| Levitating Monument | 3.00% | ~605 |
+| Monastery of the Holy Flame | 3.00% | ~605 |
+| Lost Colonies | 3.00% | ~605 |
+| A Real Challenge | 3.00% | ~605 |
+| Trade Baron | 3.00% | ~605 |
+| Untamed Wilds | 3.00% | ~605 |
 | Against All Odds | 2.00% | ~403 |
 | Bandit Camp | 2.00% | ~403 |
 | Barren Lands | 2.00% | ~403 |
@@ -41,16 +41,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 2.00% | ~403 |
 | Corrosive Torrent | 2.00% | ~403 |
 | Cursed Lands | 2.00% | ~403 |
-| Serving Ale | 1.00% | ~201 |
-| Efficient Explorer | 1.00% | ~201 |
-| Refinery | 1.00% | ~201 |
-| Dangerous Lands | 1.00% | ~201 |
-| Fishmen Ritual Site | 1.00% | ~201 |
-| Forbidden Lands | 1.00% | ~201 |
-| Forsaken Gods Temple | 1.00% | ~201 |
-| Victory Through Prosperity | 1.00% | ~201 |
-| Defying the Crown | 1.00% | ~201 |
-| Into the Forest | 1.00% | ~201 |
+| Serving Ale | 1.00% | ~202 |
+| Efficient Explorer | 1.00% | ~202 |
+| Refinery | 1.00% | ~202 |
+| Dangerous Lands | 1.00% | ~202 |
+| Fishmen Ritual Site | 1.00% | ~202 |
+| Forbidden Lands | 1.00% | ~202 |
+| Forsaken Gods Temple | 1.00% | ~202 |
+| Victory Through Prosperity | 1.00% | ~202 |
+| Defying the Crown | 1.00% | ~202 |
+| Into the Forest | 1.00% | ~202 |
 | Feeding The People | 0.70% | ~141 |
 | Like a Machine | 0.70% | ~141 |
 | Fox Utopia | 0.50% | ~101 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,149 (Ranked 153)  
+Progressed: 20,151 (Ranked 153)  
 Completed: 33 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 33 (0.16%) (Ranked 281)
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
-| 2024-01-05 | 20,149 | 33 |
+| 2024-01-05 | 20,151 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 448  (Ranked 229)  
 Sum: 3,331 (Ranked 176)  

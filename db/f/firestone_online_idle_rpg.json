@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -721,9 +721,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4188,
+  "EOS_Progressed": 4189,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11756,6 +11756,11 @@
       "Time": "2024-01-05T01:50:25.3670007+00:00",
       "NumProgressed": 4188,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T02:25:38.441427+00:00",
+      "NumProgressed": 4189,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11879,7 +11884,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "dragonslayer",
@@ -11935,7 +11940,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "exoticmerchant",
@@ -12015,7 +12020,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "howdoyouturnthison",
@@ -12223,7 +12228,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "thealchemist",
@@ -12261,9 +12266,9 @@
       "ID": "thepowerofawakening",
       "SetID": "3nl4bcg",
       "Name": "The power of Awakening",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 335
     },
     {
       "ID": "theunstoppable",
@@ -12327,7 +12332,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3896
     },
     {
       "ID": "warmachinesarmy",
@@ -12366,7 +12371,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4188,
+      "Progressed": 4189,
       "Completed": 2
     }
   ],
@@ -12374,8 +12379,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-05T01:45:12.3026402+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:50:25.367+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:25:38.4414266+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:45:12.3026409+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:50:25.3671333+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:20:33.9164689+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:25:38.4415305+00:00"
 }

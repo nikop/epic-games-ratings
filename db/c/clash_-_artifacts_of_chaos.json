@@ -2,9 +2,9 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -486,6 +486,11 @@
       "Time": "2024-01-05T01:56:50.1908068+00:00",
       "NumProgressed": 149,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T02:32:06.8888332+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -513,7 +518,7 @@
       "Name": "Your Training Continues",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Achievement12",
@@ -521,7 +526,7 @@
       "Name": "Your Training Is Complete",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement13",
@@ -545,7 +550,7 @@
       "Name": "Target Practice",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Achievement16",
@@ -561,15 +566,15 @@
       "Name": "Declawing",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "Achievement19",
@@ -593,7 +598,7 @@
       "Name": "Amokuali Tower",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Achievement21",
@@ -601,7 +606,7 @@
       "Name": "Stilt House",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement3",
@@ -625,7 +630,7 @@
       "Name": "Red in Tooth and Claw",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement6",
@@ -641,7 +646,7 @@
       "Name": "Broken Reflection",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement8",
@@ -657,14 +662,14 @@
       "Name": "Dreamwalker",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 1
     }
   ],
@@ -672,8 +677,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:56:50.1908065+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:32:06.8888327+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:54.3943326+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:45:02.0306485+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:56:50.1908262+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:20:24.0838822+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:32:06.888849+00:00"
 }

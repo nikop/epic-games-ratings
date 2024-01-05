@@ -1,15 +1,15 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 68)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,699 |
-| The Assault | 4.00% | ~30,159 |
-| Life is your teacher | 4.00% | ~30,159 |
-| Lightning Hands | 4.00% | ~30,159 |
+| The Old Grandmaster | 5.00% | ~37,700 |
+| The Assault | 4.00% | ~30,160 |
+| Life is your teacher | 4.00% | ~30,160 |
+| Lightning Hands | 4.00% | ~30,160 |
 | The Hateful Pole Fighter | 2.00% | ~15,080 |
 | A Lady's Blood in the Snow | 2.00% | ~15,080 |
 | Lady Wing Chun | 2.00% | ~15,080 |
@@ -40,7 +40,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.50% | ~3,770 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,770 |
 | Sword Stained With Blood | 0.50% | ~3,770 |
-| Bloody Sport | 0.50% | ~316 |
+| Bloody Sport | 0.50% | ~317 |
 | Prodigal Child | 0.40% | ~3,016 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,016 |
 | The best strikes are the ones we avoid | 0.40% | ~253 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~63 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753,981 (Ranked 25)  
+Progressed: 754,002 (Ranked 25)  
 Completed: 12,974 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,10 +327,10 @@ Completed: 12,974 (1.72%) (Ranked 141)
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
 | 2024-01-04 | 753,906 | 12,974 |
-| 2024-01-05 | 753,981 | 12,974 |
+| 2024-01-05 | 754,002 | 12,974 |
 ## Awards
 Max (Great Boss Battles): 7,102  (Ranked 56)  
-Sum: 12,005 (Ranked 88)  
+Sum: 12,006 (Ranked 88)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +340,7 @@ Diff (max vs sum): -32
 | This game has Amazing Storytelling | 614 |
 | This game has Amazing Characters | 605 |
 | This game is Highly Recommended | 601 |
-| This game has Quickly Understood Controls | 593 |
+| This game has Quickly Understood Controls | 594 |
 | This game is Extremely Fun | 580 |
 | This game has Unique Visuals | 578 |
 | This game is Relaxing | 558 |
@@ -701,3 +701,4 @@ Diff (max vs sum): -32
 | 2024-01-02 | 4.82 | - | 7,079 | 11,978 |
 | 2024-01-03 | 4.82 | - | 7,088 | 11,987 |
 | 2024-01-04 | 4.82 | - | 7,102 | 12,005 |
+| 2024-01-05 | 4.82 | - | 7,102 | 12,006 |

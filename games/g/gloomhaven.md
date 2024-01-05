@@ -6,16 +6,16 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~12,159 |
-| Overkill | 33.00% | ~10,288 |
+| I'm not dead yet | 39.00% | ~12,160 |
+| Overkill | 33.00% | ~10,289 |
 | Vaccine Incoming | 31.00% | ~9,665 |
-| A normal day in Gloomhaven | 29.00% | ~9,041 |
+| A normal day in Gloomhaven | 29.00% | ~9,042 |
 | Spread the plague | 27.00% | ~8,418 |
-| Get over here! | 24.00% | ~7,482 |
-| Just when I thought I was out... | 19.00% | ~5,923 |
-| Precious! | 16.00% | ~4,988 |
-| Mine... All Mine... | 16.00% | ~4,988 |
-| Grizzled veteran | 15.00% | ~4,676 |
+| Get over here! | 24.00% | ~7,483 |
+| Just when I thought I was out... | 19.00% | ~5,924 |
+| Precious! | 16.00% | ~4,989 |
+| Mine... All Mine... | 16.00% | ~4,989 |
+| Grizzled veteran | 15.00% | ~4,677 |
 | Anatomy Lesson | 14.00% | ~4,365 |
 | Light of my life | 13.00% | ~4,053 |
 | Who's the Boss? | 12.00% | ~3,741 |
@@ -25,9 +25,9 @@ Number of Ratings: 68  (23.09.2022)
 | Doom and gloom | 10.00% | ~3,118 |
 | Dungeon Veteran | 8.00% | ~2,494 |
 | Pain is your friend | 8.00% | ~2,494 |
-| Pack leader | 7.00% | ~2,182 |
-| Black death | 7.00% | ~2,182 |
-| Play it again, Sam | 7.00% | ~2,182 |
+| Pack leader | 7.00% | ~2,183 |
+| Black death | 7.00% | ~2,183 |
+| Play it again, Sam | 7.00% | ~2,183 |
 | Quad damage | 6.00% | ~1,871 |
 | Power Up! | 5.00% | ~1,559 |
 | Merchant of doom | 5.00% | ~1,559 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~31 |
 | Hard-travelling Heroes | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,176 (Ranked 140)  
+Progressed: 31,179 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-02 | 30,695 | 1 |
 | 2024-01-03 | 30,944 | 1 |
 | 2024-01-04 | 31,129 | 1 |
-| 2024-01-05 | 31,176 | 1 |
+| 2024-01-05 | 31,179 | 1 |
 ## Awards
 Max (Character Customization): 3,615  (Ranked 94)  
 Sum: 8,462 (Ranked 106)  

@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Life of Pi | 53.00% | ~35 |
-| The Remains of Fleed | 52.00% | ~34 |
-| The Legend | 50.00% | ~33 |
-| Escape from Fleed | 41.00% | ~27 |
-| Strength in Defeat | 41.00% | ~27 |
-| First Contact | 38.00% | ~25 |
-| The Exterminator | 20.00% | ~13 |
+| Life of Pi | 52.00% | ~35 |
+| The Remains of Fleed | 51.00% | ~34 |
+| The Legend | 49.00% | ~33 |
+| Escape from Fleed | 40.00% | ~27 |
+| Strength in Defeat | 40.00% | ~27 |
+| First Contact | 37.00% | ~25 |
+| The Exterminator | 19.00% | ~13 |
 | Earth's Savior | 18.00% | ~12 |
-| Technology first! | 17.00% | ~11 |
+| Technology first! | 16.00% | ~11 |
 | The Keeper of Fleed | 12.00% | ~8 |
 | The Collector | 9.00% | ~6 |
 | The Broken Guard | 6.00% | ~4 |
 | The Vega Turtle | 6.00% | ~4 |
-| Gold Seeker | 5.00% | ~3 |
-| A Good Paint Job | 5.00% | ~3 |
-| The Planner | 5.00% | ~3 |
-| Iron Fist | 5.00% | ~3 |
-| The Space Hydra | 5.00% | ~3 |
+| Gold Seeker | 4.00% | ~3 |
+| A Good Paint Job | 4.00% | ~3 |
+| The Planner | 4.00% | ~3 |
+| Iron Fist | 4.00% | ~3 |
+| The Space Hydra | 4.00% | ~3 |
 | A Land of Peace | 3.00% | ~2 |
 | You can't fool me! | 3.00% | ~2 |
 | The Flying Octopus | 3.00% | ~2 |
 | The Royal Guard | 3.00% | ~2 |
-| The Power of Friendship | 2.00% | ~1 |
-| Saucer Beast Unchained | 2.00% | ~1 |
-| The Completionist | 2.00% | ~1 |
-| The Battle Axe | 2.00% | ~1 |
-| The Interstellar Fighter | 2.00% | ~1 |
-| The Ultimate Attack | 2.00% | ~1 |
-| Vengeance of the Wolf | 2.00% | ~1 |
+| The Power of Friendship | 1.00% | ~1 |
+| Saucer Beast Unchained | 1.00% | ~1 |
+| The Completionist | 1.00% | ~1 |
+| The Battle Axe | 1.00% | ~1 |
+| The Interstellar Fighter | 1.00% | ~1 |
+| The Ultimate Attack | 1.00% | ~1 |
+| Vengeance of the Wolf | 1.00% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 525)  
+Progressed: 67 (Ranked 524)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,3 +63,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 61 | 0 |
 | 2024-01-03 | 64 | 0 |
 | 2024-01-04 | 66 | 0 |
+| 2024-01-05 | 67 | 0 |

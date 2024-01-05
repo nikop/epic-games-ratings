@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 25,
@@ -8653,10 +8653,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12005,
       "NumberOfAwardsMax": 7102
+    },
+    {
+      "Time": "2024-01-05T02:25:07.1743975+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12006,
+      "NumberOfAwardsMax": 7102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12005,
+  "NumberOfAwards": 12006,
   "NumberOfAwardsMax": 7102,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8676,7 +8682,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 593
+      "Count": 594
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8733,9 +8739,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 753981,
+  "EOS_Progressed": 754002,
   "EOS_Completed": 12974,
-  "EOS_NewPlayers": 6692,
+  "EOS_NewPlayers": 6700,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32363,6 +32369,11 @@
       "Time": "2024-01-05T01:56:02.6750328+00:00",
       "NumProgressed": 753981,
       "NumCompleted": 12974
+    },
+    {
+      "Time": "2024-01-05T02:31:19.5927178+00:00",
+      "NumProgressed": 754002,
+      "NumCompleted": 12974
     }
   ],
   "TotalAchievements": 60,
@@ -32374,7 +32385,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37699
+      "UsersEstimate": 37700
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32382,7 +32393,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30159
+      "UsersEstimate": 30160
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32550,7 +32561,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30159
+      "UsersEstimate": 30160
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32638,7 +32649,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30159
+      "UsersEstimate": 30160
     },
     {
       "ID": "35_WideStrike",
@@ -32726,7 +32737,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -32853,21 +32864,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 63282,
+      "Progressed": 63303,
       "Completed": 10799
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 753981,
+      "Progressed": 754002,
       "Completed": 12974
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-04T21:03:13.0026966+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:56:02.6750325+00:00",
+  "LastChanged": "2024-01-05T02:25:07.1743974+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:31:19.5927175+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:49:56.9274556+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:56:02.675214+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:25:07.1743986+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:31:19.5928706+00:00"
 }

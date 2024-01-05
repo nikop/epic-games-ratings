@@ -1,16 +1,16 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 321)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 44.00% | ~540 |
-| Rail Rat | 33.00% | ~405 |
+| Time Heals All Wounds | 44.00% | ~541 |
+| Rail Rat | 33.00% | ~406 |
 | The Mysterious Stranger | 32.00% | ~393 |
 | Immaculate Aim | 28.00% | ~344 |
 | The Brass Boss | 27.00% | ~332 |
-| Time Flies | 26.00% | ~319 |
+| Time Flies | 26.00% | ~320 |
 | Make Up For Lost Time | 25.00% | ~307 |
 | The Harder They Fall | 25.00% | ~307 |
 | No, Thanks! | 25.00% | ~307 |
@@ -18,15 +18,15 @@ Rating: 4.65 (Ranked 320)
 | Honest Mistake | 25.00% | ~307 |
 | Fast Learner | 24.00% | ~295 |
 | Immaculate Aim | 24.00% | ~295 |
-| The Steel Shadow | 23.00% | ~282 |
-| Breaking Down Barriers | 23.00% | ~282 |
+| The Steel Shadow | 23.00% | ~283 |
+| Breaking Down Barriers | 23.00% | ~283 |
 | Right On Time | 22.00% | ~270 |
 | The Wicked Twins | 22.00% | ~270 |
 | Like Clockwork | 21.00% | ~258 |
 | The Betrayer | 21.00% | ~258 |
 | Golem Chaser | 21.00% | ~258 |
 | Check Your Pulse | 20.00% | ~246 |
-| The Loose Cannon | 19.00% | ~233 |
+| The Loose Cannon | 19.00% | ~234 |
 | Street Style | 18.00% | ~221 |
 | The Man Who Shattered Time | 18.00% | ~221 |
 | The Family Fortune | 18.00% | ~221 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 320)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,228 (Ranked 280)  
+Progressed: 1,229 (Ranked 280)  
 Completed: 6 (0.49%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 6 (0.49%) (Ranked 221)
 | 2024-01-02 | 1,201 | 6 |
 | 2024-01-03 | 1,216 | 6 |
 | 2024-01-04 | 1,228 | 6 |
+| 2024-01-05 | 1,229 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

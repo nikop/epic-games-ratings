@@ -2,9 +2,9 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 525,
+  "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -349,6 +349,11 @@
       "Time": "2024-01-04T23:03:32.2264986+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T02:25:44.2353204+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-14T10:09:31.9139151+00:00",
@@ -359,7 +364,7 @@
       "ID": "ACH_ALLLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "Gold Seeker",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -375,7 +380,7 @@
       "ID": "ACH_COLLECTORS",
       "SetID": "ch874lb",
       "Name": "The Power of Friendship",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -383,7 +388,7 @@
       "ID": "ACH_ESCAPEFROMFLEED",
       "SetID": "ch874lb",
       "Name": "Escape from Fleed",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 35,
       "UsersEstimate": 27
     },
@@ -391,7 +396,7 @@
       "ID": "ACH_FIRSTCONTACT",
       "SetID": "ch874lb",
       "Name": "First Contact",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 35,
       "UsersEstimate": 25
     },
@@ -399,7 +404,7 @@
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 35,
       "UsersEstimate": 27
     },
@@ -407,7 +412,7 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 30,
       "UsersEstimate": 34
     },
@@ -415,7 +420,7 @@
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 35,
       "UsersEstimate": 35
     },
@@ -423,7 +428,7 @@
       "ID": "ACH_FIRSTSKINCHANGE",
       "SetID": "ch874lb",
       "Name": "A Good Paint Job",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -431,7 +436,7 @@
       "ID": "ACH_FIRSTUPGRADE",
       "SetID": "ch874lb",
       "Name": "Technology first!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -447,7 +452,7 @@
       "ID": "ACH_GOLGOTHPLANS",
       "SetID": "ch874lb",
       "Name": "The Planner",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -463,7 +468,7 @@
       "ID": "ACH_IRONFIST",
       "SetID": "ch874lb",
       "Name": "Iron Fist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -471,7 +476,7 @@
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
       "UsersEstimate": 13
     },
@@ -479,7 +484,7 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 35,
       "UsersEstimate": 33
     },
@@ -511,7 +516,7 @@
       "ID": "ACH_SAUCERBEASTUNCHAINED",
       "SetID": "ch874lb",
       "Name": "Saucer Beast Unchained",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -519,7 +524,7 @@
       "ID": "ACH_SKILLTREE",
       "SetID": "ch874lb",
       "Name": "The Completionist",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -527,7 +532,7 @@
       "ID": "ACH_THEBATTLEAXE",
       "SetID": "ch874lb",
       "Name": "The Battle Axe",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -551,7 +556,7 @@
       "ID": "ACH_THEINTERSTELLARFIGHTER",
       "SetID": "ch874lb",
       "Name": "The Interstellar Fighter",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -567,7 +572,7 @@
       "ID": "ACH_THESPACEHYDRA",
       "SetID": "ch874lb",
       "Name": "The Space Hydra",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -575,7 +580,7 @@
       "ID": "ACH_THEULTIMATEATTACK",
       "SetID": "ch874lb",
       "Name": "The Ultimate Attack",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -591,7 +596,7 @@
       "ID": "ACH_WOLFVENGEANCE",
       "SetID": "ch874lb",
       "Name": "Vengeance of the Wolf",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     }
@@ -600,14 +605,14 @@
     {
       "ID": "ch874lb",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:50:30.8638833+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:25:44.2353198+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:00.0286827+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:45:36.4183619+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:50:30.8639034+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:20:58.2154716+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:25:44.2353366+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -425,7 +425,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27961,
+  "EOS_Progressed": 27963,
   "EOS_Completed": 511,
   "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 7,
@@ -28405,6 +28405,11 @@
       "Time": "2024-01-05T01:51:36.8978504+00:00",
       "NumProgressed": 27961,
       "NumCompleted": 511
+    },
+    {
+      "Time": "2024-01-05T02:26:51.8118751+00:00",
+      "NumProgressed": 27963,
+      "NumCompleted": 511
     }
   ],
   "TotalAchievements": 20,
@@ -28416,7 +28421,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -28440,7 +28445,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -28472,7 +28477,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -28488,7 +28493,7 @@
       "Name": "Hide and Seek",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -28528,7 +28533,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "INTRO_FINISHED",
@@ -28536,7 +28541,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21250
+      "UsersEstimate": 21252
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28544,7 +28549,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7549
+      "UsersEstimate": 7550
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28575,15 +28580,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27961,
+      "Progressed": 27963,
       "Completed": 511
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:51:36.8978499+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:26:51.8118746+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:44:52.9183198+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:51:36.8980113+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:20:14.2522386+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:26:51.8120363+00:00"
 }

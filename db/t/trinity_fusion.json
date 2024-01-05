@@ -4,7 +4,7 @@
   "ProductSlug": "trinity-fusion-e036cf",
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-13T14:00:00+00:00",
@@ -428,8 +428,8 @@
   "FirstSeenRating": "2023-04-14T02:57:39.6098813+00:00",
   "FirstSeenAchievements": "2023-12-09T14:03:41.1725839+00:00",
   "LastChanged": "2023-04-14T02:57:39.6098814+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:52:02.9791534+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:27:18.0056633+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:49.6807125+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:49:56.5264068+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:52:02.9791823+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:25:06.8038723+00:00",
+  "LastUpdate_Achievements": "2024-01-05T02:27:18.0057018+00:00"
 }

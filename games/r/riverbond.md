@@ -6,25 +6,25 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~374,415 |
-| Now You're Talking | 62.00% | ~331,625 |
-| Steel Yourself | 62.00% | ~331,625 |
+| First Step | 70.00% | ~374,417 |
+| Now You're Talking | 62.00% | ~331,626 |
+| Steel Yourself | 62.00% | ~331,626 |
 | Window Dressing | 50.00% | ~267,440 |
-| Trigger Happy | 46.00% | ~246,044 |
+| Trigger Happy | 46.00% | ~246,045 |
 | Riverborn | 45.00% | ~240,696 |
-| Starry Eyed | 34.00% | ~181,859 |
-| Poking Around | 34.00% | ~181,859 |
+| Starry Eyed | 34.00% | ~181,860 |
+| Poking Around | 34.00% | ~181,860 |
 | Talk of the Town | 24.00% | ~128,371 |
-| AAARR! | 23.00% | ~123,022 |
-| Hello Darkness | 23.00% | ~123,022 |
-| Wind At Our Backs | 22.00% | ~117,673 |
+| AAARR! | 23.00% | ~123,023 |
+| Hello Darkness | 23.00% | ~123,023 |
+| Wind At Our Backs | 22.00% | ~117,674 |
 | To the Beat | 20.00% | ~106,976 |
-| Sunny Shores | 17.00% | ~90,929 |
+| Sunny Shores | 17.00% | ~90,930 |
 | Sunday Best | 16.00% | ~85,581 |
 | To Victory! | 15.00% | ~80,232 |
 | Two of a Kind | 14.00% | ~74,883 |
-| Keep On Trucking | 13.00% | ~69,534 |
-| Going on an Adventure | 12.00% | ~64,185 |
+| Keep On Trucking | 13.00% | ~69,535 |
+| Going on an Adventure | 12.00% | ~64,186 |
 | Make Peace, Not War | 11.00% | ~58,837 |
 | Walking The Line | 10.00% | ~53,488 |
 | Not So Cute Anymore | 10.00% | ~53,488 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,605 |
 | Point Taken | 0.20% | ~1,070 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,879 (Ranked 37)  
+Progressed: 534,881 (Ranked 37)  
 Completed: 516 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 516 (0.10%) (Ranked 307)
 | 2024-01-02 | 534,691 | 514 |
 | 2024-01-03 | 534,766 | 515 |
 | 2024-01-04 | 534,863 | 516 |
-| 2024-01-05 | 534,879 | 516 |
+| 2024-01-05 | 534,881 | 516 |
 ## Awards
 Max (Relaxing): 21  (Ranked 567)  
 Sum: 21 (Ranked 569)  

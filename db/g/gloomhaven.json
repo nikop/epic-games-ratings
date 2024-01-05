@@ -2879,9 +2879,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 31176,
+  "EOS_Progressed": 31179,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1731,
+  "EOS_NewPlayers": 1727,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15759,6 +15759,11 @@
       "Time": "2024-01-05T01:56:19.9071288+00:00",
       "NumProgressed": 31176,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T02:31:36.2027933+00:00",
+      "NumProgressed": 31179,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -15939,7 +15944,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4988
+      "UsersEstimate": 4989
     },
     {
       "ID": "Achievement_Trophy23",
@@ -15947,7 +15952,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4676
+      "UsersEstimate": 4677
     },
     {
       "ID": "Achievement_Trophy24",
@@ -15955,7 +15960,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 12159
+      "UsersEstimate": 12160
     },
     {
       "ID": "Achievement_Trophy25",
@@ -15971,7 +15976,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 10288
+      "UsersEstimate": 10289
     },
     {
       "ID": "Achievement_Trophy27",
@@ -16011,7 +16016,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 9041
+      "UsersEstimate": 9042
     },
     {
       "ID": "Achievement_Trophy32",
@@ -16027,7 +16032,7 @@
       "Name": "Pack leader",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "Achievement_Trophy34",
@@ -16059,7 +16064,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7482
+      "UsersEstimate": 7483
     },
     {
       "ID": "Achievement_Trophy38",
@@ -16067,7 +16072,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4988
+      "UsersEstimate": 4989
     },
     {
       "ID": "Achievement_Trophy39",
@@ -16075,7 +16080,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5923
+      "UsersEstimate": 5924
     },
     {
       "ID": "Achievement_Trophy40",
@@ -16099,7 +16104,7 @@
       "Name": "Black death",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "Achievement_Trophy43",
@@ -16139,7 +16144,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "Achievement_Trophy48",
@@ -16258,7 +16263,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 31176,
+      "Progressed": 31179,
       "Completed": 1
     }
   ],
@@ -16266,8 +16271,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-04T09:00:18.9917858+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:56:19.9071283+00:00",
+  "LastChanged_Achievements": "2024-01-05T02:31:36.2027929+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:05.9428761+00:00",
   "LastUpdate_Ratings": "2024-01-05T01:47:24.1949258+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:56:19.9072386+00:00"
+  "LastUpdate_Achievements": "2024-01-05T02:31:36.2028994+00:00"
 }

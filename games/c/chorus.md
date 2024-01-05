@@ -10,7 +10,7 @@ Number of Ratings: 58  (23.09.2022)
 | Voices from the Past | 77.00% | ~1,066 |
 | Space Traveler | 77.00% | ~1,066 |
 | Demigod | 74.00% | ~1,025 |
-| The Great Destroyer | 72.00% | ~997 |
+| The Great Destroyer | 73.00% | ~1,011 |
 | Shields Down | 70.00% | ~969 |
 | Helping Hand | 65.00% | ~900 |
 | Safe Home | 65.00% | ~900 |
