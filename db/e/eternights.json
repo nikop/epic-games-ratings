@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -41,7 +41,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 779,
+  "EOS_Progressed": 780,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -2901,6 +2901,11 @@
       "Time": "2024-01-05T13:13:44.5326959+00:00",
       "NumProgressed": 779,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T14:09:27.0440115+00:00",
+      "NumProgressed": 780,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2913,7 +2918,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2929,7 +2934,7 @@
       "Name": "Their Rock",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -2937,7 +2942,7 @@
       "Name": "Expert Scavenger",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -2969,7 +2974,7 @@
       "Name": "Sia\u0027s Promise",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -2993,7 +2998,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3025,7 +3030,7 @@
       "Name": "Truebro",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -3055,9 +3060,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3087,9 +3092,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3112,7 +3117,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 779,
+      "Progressed": 780,
       "Completed": 2
     }
   ],
@@ -3120,8 +3125,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:13:44.5326899+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:09:27.0440108+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:04:14.6015779+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:13:44.5327252+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:59:52.1746721+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:09:27.0440464+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "dolphin-spirit-ocean-mission-2d0f3b",
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewPlayers": 519,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -179,9 +179,9 @@
       "ID": "ID_00",
       "SetID": "2bmd16d",
       "Name": "Amateur photographer",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ID_01",
@@ -203,9 +203,9 @@
       "ID": "ID_03",
       "SetID": "2bmd16d",
       "Name": "Recycling newbie",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ID_04",
@@ -267,9 +267,9 @@
       "ID": "ID_11",
       "SetID": "2bmd16d",
       "Name": "Let\u0027s get started",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ID_12",
@@ -291,9 +291,9 @@
       "ID": "ID_14",
       "SetID": "2bmd16d",
       "Name": "New recruit",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ID_15",
@@ -363,9 +363,9 @@
       "ID": "ID_23",
       "SetID": "2bmd16d",
       "Name": "Interesting",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ID_24",
@@ -419,9 +419,9 @@
       "ID": "ID_30",
       "SetID": "2bmd16d",
       "Name": "Welcome to Maupiroa",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ID_31",
@@ -442,8 +442,8 @@
   ],
   "FirstSeen": "2023-10-01T15:03:13.0719146+00:00",
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:14:23.4047+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:10:01.6214167+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.1776729+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:04:08.5898306+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:14:23.404726+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:59:46.3652889+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:10:01.6214404+00:00"
 }

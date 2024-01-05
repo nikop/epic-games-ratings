@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 240,
+  "EOS_Progressed": 241,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1084,6 +1084,11 @@
       "Time": "2024-01-05T10:09:19.7400044+00:00",
       "NumProgressed": 240,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T14:09:21.7608678+00:00",
+      "NumProgressed": 241,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1166,9 +1171,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 174
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1198,9 +1203,9 @@
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -1232,7 +1237,7 @@
       "Name": "Meant To Be",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1248,7 +1253,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1286,9 +1291,9 @@
       "ID": "SG_SNAKECHARMER",
       "SetID": "bj5g0n4",
       "Name": "Snake Charmer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -1310,9 +1315,9 @@
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -1366,9 +1371,9 @@
       "ID": "SG_THISHELLISMINE",
       "SetID": "bj5g0n4",
       "Name": "This Hell Is Mine",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "SG_TOGETHERVICTORIOUS",
@@ -1391,14 +1396,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 240,
+      "Progressed": 241,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:13:38.4790738+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:09:21.7608676+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:01:50.7980595+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:13:38.4791058+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:57:43.5839177+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:09:21.7609116+00:00"
 }

@@ -22,7 +22,7 @@ Number of Ratings: 90  (23.09.2022)
 | Perfect Probulator | 17.00% | ~54 |
 | Die Nasty | 17.00% | ~54 |
 | Transmitting From Sol-3 | 15.00% | ~48 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~38 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~41 |
 | Fly Me to the Moon Base | 10.00% | ~32 |
 | Kaijuiced | 10.00% | ~32 |
 | Dusted | 9.00% | ~29 |

@@ -1010,9 +1010,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 29037,
+  "EOS_Progressed": 29038,
   "EOS_Completed": 1421,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.89,
   "EosHistory": [
@@ -8800,6 +8800,11 @@
       "Time": "2024-01-05T05:09:38.0141002+00:00",
       "NumProgressed": 29037,
       "NumCompleted": 1421
+    },
+    {
+      "Time": "2024-01-05T14:10:07.7567559+00:00",
+      "NumProgressed": 29038,
+      "NumCompleted": 1421
     }
   ],
   "TotalAchievements": 30,
@@ -8859,7 +8864,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 9582
+      "UsersEstimate": 9583
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -8867,7 +8872,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 19164
+      "UsersEstimate": 19165
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -8875,7 +8880,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22358
+      "UsersEstimate": 22359
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -8907,7 +8912,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 28166
+      "UsersEstimate": 28167
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -9003,7 +9008,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 27004
+      "UsersEstimate": 27005
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -9011,7 +9016,7 @@
       "Name": "Perf Dirt",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16551
+      "UsersEstimate": 16552
     },
     {
       "ID": "ACH_SUNDAE",
@@ -9027,7 +9032,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10453
+      "UsersEstimate": 10454
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -9043,22 +9048,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25262
+      "UsersEstimate": 25263
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 29037,
+      "Progressed": 29038,
       "Completed": 1421
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2024-01-01T01:54:40.4869499+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:14:30.2638072+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:10:07.7567556+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:58.0759056+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:01:48.8201929+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:14:30.2638653+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:57:16.102044+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:10:07.7568395+00:00"
 }

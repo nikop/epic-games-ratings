@@ -48,12 +48,12 @@
 | First 100 Days | 7.00% | ~34 |
 | Water Features | 7.00% | ~34 |
 | Phoning It In | 7.00% | ~34 |
+| Meet Me at HQ | 6.00% | ~29 |
 | Revenue Royalty | 6.00% | ~29 |
 | Golden Opportunity | 6.00% | ~29 |
 | Pipe Up | 6.00% | ~29 |
 | I'm Busy Ruling | 5.00% | ~25 |
 | Careful Constructor | 5.00% | ~25 |
-| Meet Me at HQ | 5.00% | ~25 |
 | Profound Proceeds | 5.00% | ~25 |
 | Maximum Reuse | 5.00% | ~25 |
 | Tuned In | 5.00% | ~25 |
@@ -65,11 +65,11 @@
 | Sky High Stature | 4.00% | ~20 |
 | Decorator's Touch | 3.00% | ~15 |
 | Office Bigwigs | 3.00% | ~15 |
+| Luxury Boutiques | 3.00% | ~15 |
 | Three of a Kind | 3.00% | ~15 |
 | Apartment Awareness | 2.00% | ~10 |
 | Loft Life | 2.00% | ~10 |
 | Glut of Gastronomy | 2.00% | ~10 |
-| Luxury Boutiques | 2.00% | ~10 |
 | Royal Flush | 2.00% | ~10 |
 | The King of Cool | 2.00% | ~10 |
 | Four of a Kind | 2.00% | ~10 |

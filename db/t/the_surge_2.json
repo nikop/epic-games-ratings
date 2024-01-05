@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2477,
+  "EOS_Progressed": 2478,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4324,6 +4324,11 @@
       "Time": "2024-01-05T13:10:26.958312+00:00",
       "NumProgressed": 2477,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-05T14:06:02.4317665+00:00",
+      "NumProgressed": 2478,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4343,7 +4348,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "ACHV_03",
@@ -4367,7 +4372,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACHV_06",
@@ -4503,7 +4508,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACHV_23",
@@ -4511,7 +4516,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ACHV_24",
@@ -4535,7 +4540,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "ACHV_27",
@@ -4599,7 +4604,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACHV_35",
@@ -4655,7 +4660,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACHV_42",
@@ -4790,7 +4795,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2477,
+      "Progressed": 2478,
       "Completed": 13
     }
   ],
@@ -4798,8 +4803,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:10:26.9583115+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:06:02.4317662+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:04:49.3090672+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:10:26.9583835+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:00:22.5353939+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:06:02.4318407+00:00"
 }

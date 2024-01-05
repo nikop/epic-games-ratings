@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 45.00% | ~13 |
-| Recycling newbie | 38.00% | ~11 |
-| New recruit | 24.00% | ~7 |
-| Interesting | 21.00% | ~6 |
-| Amateur photographer | 14.00% | ~4 |
+| Welcome to Maupiroa | 48.00% | ~14 |
+| Recycling newbie | 41.00% | ~12 |
+| New recruit | 28.00% | ~8 |
+| Interesting | 24.00% | ~7 |
+| Amateur photographer | 17.00% | ~5 |
 | Power of the ray | 14.00% | ~4 |
 | Pro Photographer | 10.00% | ~3 |
 | Recycling expert | 10.00% | ~3 |
+| Let's get started | 10.00% | ~3 |
 | Rescuer | 10.00% | ~3 |
 | In search of knowledge | 10.00% | ~3 |
 | Power of the turtle | 10.00% | ~3 |
 | Power of the dolphin | 10.00% | ~3 |
-| Let's get started | 7.00% | ~2 |
 | Island gardian angel | 7.00% | ~2 |
 | Heroic member | 7.00% | ~2 |
 | Picture of the bay | 7.00% | ~2 |

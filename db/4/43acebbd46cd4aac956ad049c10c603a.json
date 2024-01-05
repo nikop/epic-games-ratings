@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -289,9 +289,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 1270,
+  "EOS_Progressed": 1271,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3594,6 +3594,11 @@
       "Time": "2024-01-05T13:09:16.8210984+00:00",
       "NumProgressed": 1270,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T14:04:59.3112162+00:00",
+      "NumProgressed": 1271,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3694,7 +3699,7 @@
       "Name": "Desolate Island",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Discovery",
@@ -3710,7 +3715,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "EcstaticTruth",
@@ -3734,7 +3739,7 @@
       "Name": "Flooded Valley",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "GnothiSeauton",
@@ -3782,7 +3787,7 @@
       "Name": "Just One Lap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "LordOfTheFiles",
@@ -3798,7 +3803,7 @@
       "Name": "Lost Marshes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "MistressOfRiddles",
@@ -3878,7 +3883,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "PuzzleFiend",
@@ -3894,7 +3899,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "RenaissanceRobot",
@@ -4014,7 +4019,7 @@
       "Name": "The Word Endures",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "TouchGrass",
@@ -4062,7 +4067,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "YourBiggestFan",
@@ -4077,7 +4082,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1270,
+      "Progressed": 1271,
       "Completed": 2
     }
   ],
@@ -4085,8 +4090,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:09:16.8210979+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:04:59.3112158+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:06:36.963818+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:09:16.8211696+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:00:36.5018667+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:04:59.3113447+00:00"
 }

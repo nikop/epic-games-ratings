@@ -3,7 +3,7 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 39,
-  "Ranking_Popularity": 286,
+  "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 295,
@@ -1572,9 +1572,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27736,
+  "EOS_Progressed": 27742,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -13102,6 +13102,11 @@
       "Time": "2024-01-05T13:14:38.867799+00:00",
       "NumProgressed": 27736,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-05T14:10:15.4860162+00:00",
+      "NumProgressed": 27742,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13193,7 +13198,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -13305,7 +13310,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "EndTimerFail",
@@ -13424,21 +13429,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27736,
+      "Progressed": 27742,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6666,
+      "Progressed": 6672,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-04T16:58:51.1925463+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:14:38.8677985+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:10:15.4860159+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:03:20.6812103+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:14:38.8678754+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:59:04.7052715+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:10:15.4861666+00:00"
 }

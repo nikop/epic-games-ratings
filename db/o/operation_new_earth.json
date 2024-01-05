@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2175,
+  "EOS_Progressed": 2177,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8375,6 +8375,11 @@
       "Time": "2024-01-05T08:05:25.8100585+00:00",
       "NumProgressed": 2175,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T14:04:28.8839483+00:00",
+      "NumProgressed": 2177,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8386,7 +8391,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -8458,7 +8463,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "objective_headquarters_10",
@@ -8474,7 +8479,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "objective_headquarters_20",
@@ -8498,7 +8503,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -8554,7 +8559,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8562,7 +8567,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8689,7 +8694,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2175,
+      "Progressed": 2177,
       "Completed": 1
     }
   ],
@@ -8697,8 +8702,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:08:43.2205518+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:04:28.8839479+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:04:08.4372446+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:08:43.2206324+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:59:46.239062+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:04:28.8840504+00:00"
 }

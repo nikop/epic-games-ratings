@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3290,
+  "EOS_Progressed": 3291,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -5959,6 +5959,11 @@
       "Time": "2024-01-05T13:12:40.4694203+00:00",
       "NumProgressed": 3290,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-05T14:08:30.076733+00:00",
+      "NumProgressed": 3291,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 53,
@@ -6018,7 +6023,7 @@
       "Name": "Elemental master",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -6050,7 +6055,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6082,7 +6087,7 @@
       "Name": "I chose my shackles",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -6090,7 +6095,7 @@
       "Name": "Past trauma",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -6114,7 +6119,7 @@
       "Name": "True power",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -6146,7 +6151,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6154,7 +6159,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6162,7 +6167,7 @@
       "Name": "Meltridge",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -6186,7 +6191,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6218,7 +6223,7 @@
       "Name": "Sacred Woods",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6274,7 +6279,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6338,7 +6343,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -6393,7 +6398,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3290,
+      "Progressed": 3291,
       "Completed": 21
     }
   ],
@@ -6401,8 +6406,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:12:40.4694198+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:08:30.0767328+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:04:18.0993532+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:12:40.4694932+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:59:55.1769171+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:08:30.0768431+00:00"
 }

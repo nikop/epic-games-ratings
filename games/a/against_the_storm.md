@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 8.00% | ~1,614 |
-| Abandoned Settlement | 8.00% | ~1,614 |
-| Overgrown Library | 8.00% | ~1,614 |
+| Taking Action | 8.00% | ~1,615 |
+| Abandoned Settlement | 8.00% | ~1,615 |
+| Overgrown Library | 8.00% | ~1,615 |
 | First Real Expedition | 7.00% | ~1,413 |
 | No Deaths | 7.00% | ~1,413 |
 | Petrified Necropolis | 7.00% | ~1,413 |
@@ -16,21 +16,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 6.00% | ~1,211 |
 | The Marshlands | 6.00% | ~1,211 |
 | Gathering Storm | 6.00% | ~1,211 |
-| The Scarlet Orchard | 5.00% | ~1,009 |
-| Frosts | 5.00% | ~1,009 |
-| Land of Greed | 5.00% | ~1,009 |
-| Ominous Presence | 5.00% | ~1,009 |
-| Royal Outpost | 4.00% | ~807 |
-| Watchtower | 4.00% | ~807 |
-| Homesick | 3.00% | ~605 |
-| Ruined Armory | 3.00% | ~605 |
-| Fertile Meadows | 3.00% | ~605 |
-| Levitating Monument | 3.00% | ~605 |
-| Monastery of the Holy Flame | 3.00% | ~605 |
-| Lost Colonies | 3.00% | ~605 |
-| A Real Challenge | 3.00% | ~605 |
-| Trade Baron | 3.00% | ~605 |
-| Untamed Wilds | 3.00% | ~605 |
+| The Scarlet Orchard | 5.00% | ~1,010 |
+| Frosts | 5.00% | ~1,010 |
+| Land of Greed | 5.00% | ~1,010 |
+| Ominous Presence | 5.00% | ~1,010 |
+| Royal Outpost | 4.00% | ~808 |
+| Watchtower | 4.00% | ~808 |
+| Homesick | 3.00% | ~606 |
+| Ruined Armory | 3.00% | ~606 |
+| Fertile Meadows | 3.00% | ~606 |
+| Levitating Monument | 3.00% | ~606 |
+| Monastery of the Holy Flame | 3.00% | ~606 |
+| Lost Colonies | 3.00% | ~606 |
+| A Real Challenge | 3.00% | ~606 |
+| Trade Baron | 3.00% | ~606 |
+| Untamed Wilds | 3.00% | ~606 |
 | Against All Odds | 2.00% | ~404 |
 | Bandit Camp | 2.00% | ~404 |
 | Barren Lands | 2.00% | ~404 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,180 (Ranked 153)  
+Progressed: 20,191 (Ranked 153)  
 Completed: 33 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 33 (0.16%) (Ranked 281)
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
-| 2024-01-05 | 20,180 | 33 |
+| 2024-01-05 | 20,191 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 448  (Ranked 229)  
 Sum: 3,331 (Ranked 176)  

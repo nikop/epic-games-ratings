@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1063,7 +1063,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9773,
+  "EOS_Progressed": 9774,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -10613,6 +10613,11 @@
       "Time": "2024-01-05T13:13:57.3266092+00:00",
       "NumProgressed": 9773,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T14:09:38.7760302+00:00",
+      "NumProgressed": 9774,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10632,7 +10637,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -10640,7 +10645,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10672,7 +10677,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -10736,7 +10741,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -10832,7 +10837,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -10952,7 +10957,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4886
+      "UsersEstimate": 4887
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10960,7 +10965,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -10976,14 +10981,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4985
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9773,
+      "Progressed": 9774,
       "Completed": 10
     }
   ],
@@ -10991,8 +10996,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-04T11:02:12.5493527+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:13:57.3266083+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:09:38.7760299+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:01:37.7520124+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:13:57.3267034+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:57:32.5047379+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:09:38.7761193+00:00"
 }

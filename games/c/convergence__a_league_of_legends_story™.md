@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.67 (Ranked 285)  
+Rating: 4.67 (Ranked 286)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,7 +32,7 @@ Rating: 4.67 (Ranked 285)
 | The Family Fortune | 18.00% | ~222 |
 | Whiz Kid | 15.00% | ~185 |
 | Good Neighbor | 15.00% | ~185 |
-| Family Memories | 13.00% | ~160 |
+| Family Memories | 14.00% | ~173 |
 | Cartographer | 13.00% | ~160 |
 | Ask Questions Later | 13.00% | ~160 |
 | Chaincrawler Explorer | 12.00% | ~148 |

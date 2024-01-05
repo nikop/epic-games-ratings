@@ -11,7 +11,7 @@
 | A good start | 46.00% | ~60 |
 | Runes collector | 46.00% | ~60 |
 | Skilled rider | 43.00% | ~56 |
-| Devil's dozen | 25.00% | ~32 |
+| Devil's dozen | 26.00% | ~34 |
 | It doesn't work like that | 23.00% | ~30 |
 | Unstoppable Curiosity | 18.00% | ~23 |
 | This is just the beginning... | 16.00% | ~21 |

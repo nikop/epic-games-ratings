@@ -5,7 +5,7 @@
   "Ranking_Rating": 593,
   "Ranking_Popularity": 324,
   "Ranking_PopularitySum": 417,
-  "Ranking_EOS_Progress": 161,
+  "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 92,
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17638,
+  "EOS_Progressed": 17640,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 2,
@@ -17750,6 +17750,11 @@
       "Time": "2024-01-05T12:04:20.0412331+00:00",
       "NumProgressed": 17638,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-05T14:03:53.6891744+00:00",
+      "NumProgressed": 17640,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 41,
@@ -17801,7 +17806,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5644
+      "UsersEstimate": 5645
     },
     {
       "ID": "tpote_achievement_15",
@@ -17817,7 +17822,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "tpote_achievement_17",
@@ -17865,7 +17870,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "tpote_achievement_22",
@@ -17929,7 +17934,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "tpote_achievement_3",
@@ -17961,7 +17966,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "tpote_achievement_33",
@@ -17993,7 +17998,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "tpote_achievement_37",
@@ -18017,7 +18022,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "tpote_achievement_4",
@@ -18025,7 +18030,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7055
+      "UsersEstimate": 7056
     },
     {
       "ID": "tpote_achievement_40",
@@ -18033,7 +18038,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "tpote_achievement_41",
@@ -18041,7 +18046,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "tpote_achievement_5",
@@ -18081,22 +18086,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5997
+      "UsersEstimate": 5998
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17638,
+      "Progressed": 17640,
       "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:08:04.0189086+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:03:53.689174+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:07:06.0404497+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:08:04.0190323+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:02:51.0760021+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:03:53.6894085+00:00"
 }

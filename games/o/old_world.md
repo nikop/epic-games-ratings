@@ -58,6 +58,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.50% | ~81 |
 | Manichaeism | 0.50% | ~81 |
 | Carthaginian Paganism | 0.50% | ~81 |
+| Hanging Gardens in Babylon | 0.40% | ~65 |
 | Beloved | 0.40% | ~65 |
 | Drillmaster | 0.40% | ~65 |
 | Intercessor | 0.40% | ~65 |
@@ -70,7 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.40% | ~65 |
 | Win a Single Player Game | 0.40% | ~65 |
 | Bad Heir Day | 0.30% | ~48 |
-| Hanging Gardens in Babylon | 0.30% | ~48 |
 | Conqueror | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |
 | Ready | 0.30% | ~48 |

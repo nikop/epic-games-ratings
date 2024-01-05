@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -1360,9 +1360,9 @@
       "ID": "5",
       "SetID": "6bgoh8g",
       "Name": "The power of observation",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "6",
@@ -1407,8 +1407,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:09:11.7419395+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:04:54.6435884+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:18.4677846+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:07:23.1661397+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:09:11.741964+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:03:07.1924856+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:04:54.6436261+00:00"
 }

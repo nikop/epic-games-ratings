@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
 Rating: 4.43 (Ranked 723)  
 ## Awards
-Max (Diverse Characters): 52  (Ranked 443)  
+Max (Diverse Characters): 52  (Ranked 444)  
 Sum: 414 (Ranked 346)  
-Diff (max vs sum): 97  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 52 |

@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1813,
+  "EOS_Progressed": 1814,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3587,6 +3587,11 @@
       "Time": "2024-01-05T12:10:59.6713049+00:00",
       "NumProgressed": 1813,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T14:10:22.7236919+00:00",
+      "NumProgressed": 1814,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3598,7 +3603,7 @@
       "Name": "Break Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "ACH_02",
@@ -3614,7 +3619,7 @@
       "Name": "Powerful Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_04",
@@ -3838,7 +3843,7 @@
       "Name": "Stone Collection",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_33",
@@ -3885,7 +3890,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1813,
+      "Progressed": 1814,
       "Completed": 3
     }
   ],
@@ -3893,8 +3898,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-04T23:57:43.6326187+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:14:46.7357465+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:10:22.7236918+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:02:00.9447613+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:14:46.7357887+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:57:52.2516198+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:10:22.7237423+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 285,
+  "Ranking_Rating": 286,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 280,
@@ -59,7 +59,7 @@
   "Tags": [],
   "EOS_Progressed": 1234,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3742,9 +3742,9 @@
       "ID": "ExamineFamilyPortrait",
       "SetID": "a9e499d",
       "Name": "Family Memories",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 173
     },
     {
       "ID": "FactorywoodChests1",
@@ -4079,8 +4079,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:14:50.8885216+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:10:26.4259291+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:01:28.2867675+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:14:50.8885769+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:57:24.311291+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:10:26.4260087+00:00"
 }

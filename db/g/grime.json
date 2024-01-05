@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 429,
   "Ranking_Popularity": 428,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1751,6 +1751,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 441,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-01-05T14:00:29.238358+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 441,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
@@ -1813,10 +1819,10 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166598,
+  "EOS_Progressed": 166611,
   "EOS_Completed": 445,
-  "EOS_NewPlayers": 1344,
-  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 1350,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -21923,6 +21929,11 @@
       "Time": "2024-01-05T13:12:09.7114792+00:00",
       "NumProgressed": 166598,
       "NumCompleted": 445
+    },
+    {
+      "Time": "2024-01-05T14:06:12.8645392+00:00",
+      "NumProgressed": 166611,
+      "NumCompleted": 445
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22302,21 +22313,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166181,
+      "Progressed": 166194,
       "Completed": 1254
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166598,
+      "Progressed": 166611,
       "Completed": 445
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-04T14:00:27.8179781+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:12:09.7114786+00:00",
+  "LastChanged": "2024-01-05T14:00:29.2383579+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:06:12.8645389+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:04:57.1400498+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:12:09.7116234+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:00:29.2383583+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:06:12.8646383+00:00"
 }

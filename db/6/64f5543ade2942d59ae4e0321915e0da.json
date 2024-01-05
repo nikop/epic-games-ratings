@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 389,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1701,9 +1701,9 @@
       "ID": "AC_DEATH_2",
       "SetID": "16i2akc",
       "Name": "Carcass",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     },
     {
       "ID": "AC_DEATH_3",
@@ -1741,9 +1741,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 315
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1765,9 +1765,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1853,9 +1853,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1892,8 +1892,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:10:16.8724692+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:05:53.0205157+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:01:30.2547827+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:10:16.8725012+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:57:25.8564249+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:05:53.0205614+00:00"
 }

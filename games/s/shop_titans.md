@@ -6,20 +6,20 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,960 |
-| Titan's First Steps | 10.00% | ~14,960 |
-| Basic in Bulk | 9.00% | ~13,464 |
-| Tinkle of Coins | 9.00% | ~13,464 |
-| Disintermediation | 7.00% | ~10,472 |
-| It's Free Real Estate | 7.00% | ~10,472 |
-| Capitalism Ho! | 7.00% | ~10,472 |
-| Another Satisfied Customer | 6.00% | ~8,976 |
-| Budding Merchant | 6.00% | ~8,976 |
-| One Easy Payment | 5.00% | ~7,480 |
-| Some Assembly Required | 5.00% | ~7,480 |
-| Pretty Penny | 5.00% | ~7,480 |
-| One-Armed Bandit | 5.00% | ~7,480 |
-| Own the Means of Production | 5.00% | ~7,480 |
+| Sponsored by Argon | 10.00% | ~14,961 |
+| Titan's First Steps | 10.00% | ~14,961 |
+| Basic in Bulk | 9.00% | ~13,465 |
+| Tinkle of Coins | 9.00% | ~13,465 |
+| Disintermediation | 7.00% | ~10,473 |
+| It's Free Real Estate | 7.00% | ~10,473 |
+| Capitalism Ho! | 7.00% | ~10,473 |
+| Another Satisfied Customer | 6.00% | ~8,977 |
+| Budding Merchant | 6.00% | ~8,977 |
+| One Easy Payment | 5.00% | ~7,481 |
+| Some Assembly Required | 5.00% | ~7,481 |
+| Pretty Penny | 5.00% | ~7,481 |
+| One-Armed Bandit | 5.00% | ~7,481 |
+| Own the Means of Production | 5.00% | ~7,481 |
 | The Daily Grind | 4.00% | ~5,984 |
 | Bounty Hunters | 4.00% | ~5,984 |
 | Demand for Supplies | 4.00% | ~5,984 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~598 |
 | Capitalist Camaraderie | 0.20% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,603 (Ranked 86)  
+Progressed: 149,611 (Ranked 86)  
 Completed: 342 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 342 (0.23%) (Ranked 267)
 | 2024-01-02 | 149,077 | 341 |
 | 2024-01-03 | 149,238 | 342 |
 | 2024-01-04 | 149,471 | 342 |
-| 2024-01-05 | 149,603 | 342 |
+| 2024-01-05 | 149,611 | 342 |
 ## Awards
 Max (Great for Beginners): 4,945  (Ranked 78)  
 Sum: 27,931 (Ranked 52)  

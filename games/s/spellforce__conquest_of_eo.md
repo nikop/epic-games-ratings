@@ -8,19 +8,19 @@
 | Enough rooms to swing a cat | 80.00% | ~93 |
 | First to the post | 79.00% | ~92 |
 | A kind of Magic | 72.00% | ~84 |
-| Connected | 65.00% | ~75 |
+| Connected | 66.00% | ~77 |
 | Expansion | 60.00% | ~70 |
+| Harvest Time | 56.00% | ~65 |
 | Mine! | 56.00% | ~65 |
-| Harvest Time | 55.00% | ~64 |
 | Artificer's Apprentice | 47.00% | ~55 |
-| Fly the friendly Sky | 44.00% | ~51 |
+| Fly the friendly Sky | 45.00% | ~52 |
 | Get out of here! | 41.00% | ~48 |
 | Necromancer's Apprentice | 37.00% | ~43 |
 | Alchemist's Apprentice | 36.00% | ~42 |
 | Friend of Lyraine | 35.00% | ~41 |
 | The Circle | 34.00% | ~39 |
 | Redecorating | 33.00% | ~38 |
-| Bad JuJu | 24.00% | ~28 |
+| Bad JuJu | 25.00% | ~29 |
 | Friend of Sevenkeeps | 23.00% | ~27 |
 | Slave to the rhythm | 22.00% | ~26 |
 | Castle Meldec | 22.00% | ~26 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 477)  
+Progressed: 116 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,19 +6,19 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~794 |
-| Lost and Found | 8.00% | ~529 |
-| Autodidact | 7.00% | ~9,222 |
+| Malpractice Assurance | 13.00% | ~861 |
+| Lost and Found | 8.00% | ~530 |
+| Autodidact | 7.00% | ~9,223 |
 | This Belongs in a Museum | 6.00% | ~7,905 |
 | Overdue Notice | 6.00% | ~7,905 |
 | This guy... again? | 6.00% | ~397 |
-| Serenity Now! | 5.00% | ~6,587 |
-| Creep and Sleep | 5.00% | ~6,587 |
-| Meat and Greet | 5.00% | ~6,587 |
-| Catch and Decease | 5.00% | ~6,587 |
-| Escape from the Black Hole | 5.00% | ~6,587 |
-| Rush Hour | 5.00% | ~6,587 |
-| To Grandmother's House | 5.00% | ~6,587 |
+| Serenity Now! | 5.00% | ~6,588 |
+| Creep and Sleep | 5.00% | ~6,588 |
+| Meat and Greet | 5.00% | ~6,588 |
+| Catch and Decease | 5.00% | ~6,588 |
+| Escape from the Black Hole | 5.00% | ~6,588 |
+| Rush Hour | 5.00% | ~6,588 |
+| To Grandmother's House | 5.00% | ~6,588 |
 | Ploughshares to Swords | 5.00% | ~331 |
 | Bloody Graduation | 5.00% | ~331 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,270 |
@@ -32,24 +32,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 4.00% | ~5,270 |
 | Nope | 4.00% | ~5,270 |
 | Friends 'Til the End | 4.00% | ~265 |
-| Resurrection | 3.00% | ~3,952 |
-| Unleash Hell | 3.00% | ~3,952 |
-| Funny Guy | 3.00% | ~3,952 |
-| Long Live the King | 3.00% | ~3,952 |
-| Wyrdly Reconstructed | 3.00% | ~3,952 |
-| Boxcar Kid | 3.00% | ~3,952 |
-| Unfulfilled Desires | 3.00% | ~3,952 |
-| Predator | 3.00% | ~3,952 |
-| Dissector | 3.00% | ~3,952 |
-| Banishment | 3.00% | ~3,952 |
-| Deprogramming | 3.00% | ~3,952 |
-| Now Stay Dead | 3.00% | ~3,952 |
-| Reverse Banditry | 3.00% | ~3,952 |
-| Spelunker | 3.00% | ~3,952 |
-| Ramble On | 3.00% | ~3,952 |
-| A Clear Conscience | 3.00% | ~3,952 |
-| Unshackled | 3.00% | ~3,952 |
-| Road Trip | 3.00% | ~3,952 |
+| Resurrection | 3.00% | ~3,953 |
+| Unleash Hell | 3.00% | ~3,953 |
+| Funny Guy | 3.00% | ~3,953 |
+| Long Live the King | 3.00% | ~3,953 |
+| Wyrdly Reconstructed | 3.00% | ~3,953 |
+| Boxcar Kid | 3.00% | ~3,953 |
+| Unfulfilled Desires | 3.00% | ~3,953 |
+| Predator | 3.00% | ~3,953 |
+| Dissector | 3.00% | ~3,953 |
+| Banishment | 3.00% | ~3,953 |
+| Deprogramming | 3.00% | ~3,953 |
+| Now Stay Dead | 3.00% | ~3,953 |
+| Reverse Banditry | 3.00% | ~3,953 |
+| Spelunker | 3.00% | ~3,953 |
+| Ramble On | 3.00% | ~3,953 |
+| A Clear Conscience | 3.00% | ~3,953 |
+| Unshackled | 3.00% | ~3,953 |
+| Road Trip | 3.00% | ~3,953 |
 | This Looks Familiar | 2.00% | ~2,635 |
 | Hope Rekindled | 2.00% | ~2,635 |
 | Ichthyophobic | 2.00% | ~2,635 |
@@ -59,9 +59,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,635 |
 | Hot Air | 2.00% | ~2,635 |
 | Eyes Up | 2.00% | ~2,635 |
-| Shrine of Reflection | 1.00% | ~1,317 |
-| Handled | 1.00% | ~1,317 |
-| Body of Work | 1.00% | ~1,317 |
+| Shrine of Reflection | 1.00% | ~1,318 |
+| Handled | 1.00% | ~1,318 |
+| Body of Work | 1.00% | ~1,318 |
 | Slap on the Wrist | 1.00% | ~66 |
 | For Old Time' Sake | 1.00% | ~66 |
 | Clearing the Ledger | 0.90% | ~1,186 |
@@ -69,7 +69,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 0.80% | ~1,054 |
 | No Mercy | 0.80% | ~53 |
 | Et Tu, Riposte? | 0.80% | ~53 |
-| The World As It Was | 0.60% | ~790 |
+| The World As It Was | 0.60% | ~791 |
 | A Life Well Lived | 0.50% | ~659 |
 | Bacon Bits | 0.50% | ~659 |
 | On This Long Road, We Found Redemption | 0.50% | ~33 |
@@ -77,8 +77,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Battle Hardened | 0.40% | ~26 |
 | Tears in the Rain | 0.30% | ~395 |
 | Maître De La Lame | 0.30% | ~20 |
-| Circle of Life | 0.20% | ~263 |
-| Grand Slam | 0.20% | ~263 |
+| Circle of Life | 0.20% | ~264 |
+| Grand Slam | 0.20% | ~264 |
 | Loop Year | 0.10% | ~132 |
 | No Gravestone Left Unturned | 0.10% | ~132 |
 | 20,000 Leagues Above the Sea | 0.10% | ~132 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,749 (Ranked 91)  
+Progressed: 131,754 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
-| 2024-01-05 | 131,749 | 3 |
+| 2024-01-05 | 131,754 | 3 |
 ## Awards
 Max (Character Customization): 7,951  (Ranked 50)  
 Sum: 21,435 (Ranked 58)  

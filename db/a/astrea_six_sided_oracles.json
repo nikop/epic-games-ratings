@@ -1492,9 +1492,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "AstralSeeker",
@@ -1764,9 +1764,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 146
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1860,9 +1860,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 183
     },
     {
       "ID": "Sentinelphobic",
@@ -1900,9 +1900,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "StellarDismantler",
@@ -2195,8 +2195,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:13:22.4188311+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:09:07.6156032+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:02:03.728801+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:13:22.4189181+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:57:54.5893287+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:09:07.6157276+00:00"
 }

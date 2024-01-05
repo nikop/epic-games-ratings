@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17429,
+  "EOS_Progressed": 17430,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8052,6 +8052,11 @@
       "Time": "2024-01-05T11:08:49.5228602+00:00",
       "NumProgressed": 17429,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T14:08:47.9933902+00:00",
+      "NumProgressed": 17430,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -8071,7 +8076,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14989
+      "UsersEstimate": 14990
     },
     {
       "ID": "ACH0010",
@@ -8095,7 +8100,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8540
+      "UsersEstimate": 8541
     },
     {
       "ID": "ACH0013",
@@ -8135,7 +8140,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ACH0018",
@@ -8143,7 +8148,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3834
+      "UsersEstimate": 3835
     },
     {
       "ID": "ACH0019",
@@ -8159,7 +8164,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12549
+      "UsersEstimate": 12550
     },
     {
       "ID": "ACH0020",
@@ -8223,7 +8228,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 15163
+      "UsersEstimate": 15164
     },
     {
       "ID": "ACH005",
@@ -8247,7 +8252,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "ACH008",
@@ -8270,7 +8275,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17429,
+      "Progressed": 17430,
       "Completed": 1
     }
   ],
@@ -8278,8 +8283,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2024-01-05T00:01:53.1523613+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:13:00.6077715+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:08:47.9933894+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.2106038+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:06:40.4402242+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:13:00.6078363+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:00:39.145147+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:08:47.993462+00:00"
 }

@@ -13,13 +13,13 @@
 | Desert Power | 10.00% | ~28 |
 | Indebted | 10.00% | ~28 |
 | Health Care | 9.00% | ~25 |
-| Perfect Soldier | 7.00% | ~20 |
+| Perfect Soldier | 8.00% | ~23 |
 | Healing | 7.00% | ~20 |
+| Good payer | 7.00% | ~20 |
+| Food Tycoon | 7.00% | ~20 |
 | Ammo Tycoon | 7.00% | ~20 |
 | Desert Rat | 7.00% | ~20 |
-| Good payer | 6.00% | ~17 |
 | Pathfinder | 6.00% | ~17 |
-| Food Tycoon | 6.00% | ~17 |
 | Fuel Tycoon | 6.00% | ~17 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~14 |
 | Overpopulation | 5.00% | ~14 |

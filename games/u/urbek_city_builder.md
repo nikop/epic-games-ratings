@@ -13,8 +13,8 @@
 | I like books | 6.00% | ~29 |
 | I like my life | 6.00% | ~29 |
 | Clean energy | 6.00% | ~29 |
+| Bucolic city | 6.00% | ~29 |
 | Soviet town | 6.00% | ~29 |
-| Bucolic city | 5.00% | ~24 |
 | Food producer | 2.00% | ~10 |
 | I love books! | 2.00% | ~10 |
 | I love parks | 2.00% | ~10 |

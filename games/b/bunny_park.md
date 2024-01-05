@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lonely Bunny | 97.00% | ~301 |
-| Debris Finder | 83.00% | ~257 |
+| Debris Finder | 84.00% | ~260 |
 | Debris Gatherer | 60.00% | ~186 |
 | Beginner Decorator | 50.00% | ~155 |
 | Helpful Bot-terfly | 46.00% | ~143 |

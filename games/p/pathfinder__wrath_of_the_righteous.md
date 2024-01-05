@@ -6,19 +6,19 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,521 |
-| A Spark | 20.00% | ~2,608 |
-| Burning City | 19.00% | ~2,477 |
-| Defender's Heart | 16.00% | ~2,086 |
-| Mythic Choices | 15.00% | ~1,956 |
-| Banner over the Citadel | 14.00% | ~1,825 |
-| Queen's Gratitude | 12.00% | ~1,565 |
+| Devoured by Darkness | 27.00% | ~3,522 |
+| A Spark | 20.00% | ~2,609 |
+| Burning City | 19.00% | ~2,479 |
+| Defender's Heart | 16.00% | ~2,087 |
+| Mythic Choices | 15.00% | ~1,957 |
+| Banner over the Citadel | 14.00% | ~1,826 |
+| Queen's Gratitude | 12.00% | ~1,566 |
 | Fifth Crusade | 9.00% | ~1,174 |
 | Embrace of the Abyss | 7.00% | ~913 |
 | Path of the Angel | 7.00% | ~913 |
 | Demonic and Divine | 7.00% | ~913 |
-| Great Upstart | 6.00% | ~782 |
-| All Paths Open | 6.00% | ~782 |
+| Great Upstart | 6.00% | ~783 |
+| All Paths Open | 6.00% | ~783 |
 | Path of the Azata | 5.00% | ~652 |
 | Transformation | 5.00% | ~652 |
 | The Legacy | 5.00% | ~652 |
@@ -43,7 +43,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 2.00% | ~261 |
 | Your First Big Enemy | 2.00% | ~261 |
 | Truly Important Deed | 2.00% | ~261 |
-| Stay Underground | 2.00% | ~236 |
+| Stay Underground | 2.00% | ~237 |
 | The Final Threshold | 1.00% | ~130 |
 | Path of the Dragon | 1.00% | ~130 |
 | Path of the Legend | 1.00% | ~130 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,039 (Ranked 176)  
+Progressed: 13,046 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 12,976 | 0 |
 | 2024-01-03 | 13,006 | 0 |
 | 2024-01-04 | 13,029 | 0 |
-| 2024-01-05 | 13,039 | 0 |
+| 2024-01-05 | 13,046 | 0 |
 ## Awards
 Max (Character Customization): 1,777  (Ranked 128)  
 Sum: 7,192 (Ranked 126)  

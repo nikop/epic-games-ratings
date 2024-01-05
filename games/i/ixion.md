@@ -9,7 +9,7 @@ Rating: 4.58 (Ranked 471)
 | Sputnik 2049 | 28.00% | ~1,115 |
 | Infinite Growth... | 27.00% | ~1,075 |
 | Without Breaking Some Eggs... | 26.00% | ~1,035 |
-| Ready for a New World | 19.00% | ~756 |
+| Ready for a New World | 19.00% | ~757 |
 | Space Society | 18.00% | ~717 |
 | A Thousand Strong | 18.00% | ~717 |
 | Permanent Redesigns | 16.00% | ~637 |
@@ -24,7 +24,7 @@ Rating: 4.58 (Ranked 471)
 | Man's Best Friend | 9.00% | ~358 |
 | Power Outage | 9.00% | ~358 |
 | Please Make it Stop! | 9.00% | ~358 |
-| Convenient Transport | 8.00% | ~318 |
+| Convenient Transport | 8.00% | ~319 |
 | Sightseeing | 7.00% | ~279 |
 | Necessary Enhancement | 7.00% | ~279 |
 | From the Past | 7.00% | ~279 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 471)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,981 (Ranked 212)  
+Progressed: 3,982 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 3,912 | 0 |
 | 2024-01-03 | 3,940 | 0 |
 | 2024-01-04 | 3,963 | 0 |
-| 2024-01-05 | 3,981 | 0 |
+| 2024-01-05 | 3,982 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

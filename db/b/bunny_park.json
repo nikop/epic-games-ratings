@@ -4,7 +4,7 @@
   "ProductSlug": "bunny-park-835c4c",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
@@ -258,9 +258,9 @@
       "ID": "BP-04",
       "SetID": "7fc93f2",
       "Name": "Debris Finder",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 260
     },
     {
       "ID": "BP-05",
@@ -387,8 +387,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:14:37.6810183+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:10:14.4273137+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:37.2110794+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:02:21.4384833+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:14:37.6810304+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:58:11.4288772+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:10:14.4273288+00:00"
 }

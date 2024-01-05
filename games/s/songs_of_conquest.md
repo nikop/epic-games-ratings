@@ -30,10 +30,10 @@ Number of Ratings: 292  (23.09.2022)
 | Ultra Kill | 2.00% | ~20 |
 | Pyrrhic Victory | 2.00% | ~20 |
 | Versatile Wielder | 1.00% | ~10 |
+| In The Thick of It | 1.00% | ~10 |
 | Together For Her | 1.00% | ~10 |
 | Such A Fungi | 1.00% | ~10 |
 | Grand Master | 1.00% | ~10 |
-| In The Thick of It | 0.90% | ~9 |
 | Death To Diplomacy | 0.60% | ~6 |
 | Unlimited Power! | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |

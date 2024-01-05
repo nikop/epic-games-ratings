@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3981,
+  "EOS_Progressed": 3982,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7940,6 +7940,11 @@
       "Time": "2024-01-05T13:07:52.9825916+00:00",
       "NumProgressed": 3981,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T14:03:43.6381208+00:00",
+      "NumProgressed": 3982,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8151,7 +8156,7 @@
       "Name": "Ready for a New World",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ACH_BASE_35",
@@ -8279,7 +8284,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_BASE_52",
@@ -8406,13 +8411,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2165,
+      "Progressed": 2166,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3981,
+      "Progressed": 3982,
       "Completed": 0
     }
   ],
@@ -8420,8 +8425,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-04T06:58:36.3655707+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:07:52.982591+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:03:43.6381206+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:03:27.5044176+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:07:52.9827076+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:59:10.7358791+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:03:43.6382441+00:00"
 }

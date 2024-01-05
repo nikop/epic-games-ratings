@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6879,
+  "EOS_Progressed": 6880,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10417,6 +10417,11 @@
       "Time": "2024-01-05T13:08:11.6418496+00:00",
       "NumProgressed": 6879,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T14:04:00.3277162+00:00",
+      "NumProgressed": 6880,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10548,7 +10553,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "24",
@@ -10564,7 +10569,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "26",
@@ -10786,9 +10791,9 @@
       "ID": "46",
       "SetID": "7132754",
       "Name": "Tipping the Scales",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 206
     },
     {
       "ID": "47",
@@ -10907,13 +10912,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6879,
+      "Progressed": 6880,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6879,
+      "Progressed": 6880,
       "Completed": 7
     }
   ],
@@ -10921,8 +10926,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:08:11.6418492+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:04:00.3277159+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:06:58.1057485+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:08:11.641939+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:02:43.6633874+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:04:00.327848+00:00"
 }

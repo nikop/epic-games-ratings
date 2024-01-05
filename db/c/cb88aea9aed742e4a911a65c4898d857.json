@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 285,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -261,6 +261,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 97,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2024-01-05T14:02:45.9085707+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 97,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
@@ -275,9 +281,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10160,
+  "EOS_Progressed": 10166,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1657,
+  "EOS_NewPlayers": 1652,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3740,6 +3746,11 @@
       "Time": "2024-01-05T13:14:38.7887994+00:00",
       "NumProgressed": 10160,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T14:10:15.3724475+00:00",
+      "NumProgressed": 10166,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3752,7 +3763,7 @@
       "Name": "Conspiracy",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "03_TheStolenStar",
@@ -3768,7 +3779,7 @@
       "Name": "Trade Empire",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -3848,7 +3859,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "15_Pentakill",
@@ -3912,7 +3923,7 @@
       "Name": "Perfect Timing",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "23_DynastyRestored",
@@ -3920,7 +3931,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "24_TheHighrise",
@@ -3934,9 +3945,9 @@
       "ID": "25_DynastyProspers",
       "SetID": "37a94m8",
       "Name": "The Dynasty Prospers",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 81
     },
     {
       "ID": "26_MasterOfTheTrade",
@@ -3950,9 +3961,9 @@
       "ID": "27_UncoverTheIce",
       "SetID": "37a94m8",
       "Name": "Uncover the Ice",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 102
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -3960,7 +3971,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4030,9 +4041,9 @@
       "ID": "37_TheSirenicalDiplomat",
       "SetID": "37a94m8",
       "Name": "Silver-Tongued Diplomat",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 102
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -4080,7 +4091,7 @@
       "Name": "No Place Like Home",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -4206,9 +4217,9 @@
       "ID": "59_ThePossessedShip",
       "SetID": "37a94m8",
       "Name": "The Possessed Ship",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 81
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -4271,16 +4282,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10160,
+      "Progressed": 10166,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-05T07:02:59.4710788+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:14:38.7887989+00:00",
+  "LastChanged": "2024-01-05T14:02:45.9085705+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:10:15.3724473+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:07:00.6363259+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:14:38.7888919+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:02:45.9085711+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:10:15.3725482+00:00"
 }

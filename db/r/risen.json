@@ -1235,9 +1235,9 @@
       "ID": "id_62",
       "SetID": "bk9jib6",
       "Name": "Archer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "id_63",
@@ -1284,8 +1284,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:14:46.6934683+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:10:22.5539782+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:04:27.1844499+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:14:46.6935131+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:00:02.5457482+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:10:22.554034+00:00"
 }

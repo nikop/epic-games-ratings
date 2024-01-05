@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Will This Help? | 76.00% | ~231 |
-| Career Woman | 66.00% | ~201 |
-| No One Is Safe | 65.00% | ~198 |
+| Career Woman | 67.00% | ~204 |
+| No One Is Safe | 66.00% | ~201 |
 | He's Off His Meds | 54.00% | ~164 |
 | Deal Or No Deal | 49.00% | ~149 |
 | Impress Theron | 47.00% | ~143 |

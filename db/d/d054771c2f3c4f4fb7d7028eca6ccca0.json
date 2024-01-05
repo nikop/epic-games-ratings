@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3578,
+  "EOS_Progressed": 3581,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3989,6 +3989,11 @@
       "Time": "2024-01-05T13:10:25.9981108+00:00",
       "NumProgressed": 3578,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T14:06:01.5180036+00:00",
+      "NumProgressed": 3581,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4025,15 +4030,15 @@
       "Name": "Highest Among the Highest",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "c167foo",
       "Name": "Gruesome Ball Handler",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -4185,7 +4190,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4201,7 +4206,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4376,14 +4381,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3578,
+      "Progressed": 3581,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:10:25.99811+00:00",
+  "LastChanged_Achievements": "2024-01-05T14:06:01.5180033+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:01:45.3166672+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:10:25.9982094+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:57:39.1537764+00:00",
+  "LastUpdate_Achievements": "2024-01-05T14:06:01.518086+00:00"
 }
