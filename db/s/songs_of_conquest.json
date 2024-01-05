@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -452,7 +452,7 @@
   ],
   "EOS_Progressed": 988,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3599,9 +3599,9 @@
       "ID": "BurrowUp",
       "SetID": "71c0n9i",
       "Name": "Hello There",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CastEachSpell",
@@ -3975,8 +3975,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:09:29.1162899+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:09:06.6351743+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:58:52.2205501+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:09:29.1163431+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:58:33.4507672+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:09:06.6352394+00:00"
 }

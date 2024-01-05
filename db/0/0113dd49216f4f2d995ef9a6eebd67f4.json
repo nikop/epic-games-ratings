@@ -3,7 +3,7 @@
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 415,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -1171,9 +1171,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1251,9 +1251,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1402,8 +1402,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:09:21.7608676+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:08:59.2612909+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:57:43.5839177+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:09:21.7609116+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:57:27.3808686+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:08:59.2613194+00:00"
 }

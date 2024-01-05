@@ -9,7 +9,7 @@
 | Chest ✔ | 54.00% | ~172 |
 | Police officers ✔ | 29.00% | ~93 |
 | Mutation ✔ | 26.00% | ~83 |
-| Doberman ✔ | 14.00% | ~45 |
+| Doberman ✔ | 15.00% | ~48 |
 | Weapon ✔ | 12.00% | ~38 |
 | Chess ✔ | 10.00% | ~32 |
 | Master of Unlocking ✔ | 9.00% | ~29 |
@@ -56,7 +56,7 @@
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 319 (Ranked 384)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

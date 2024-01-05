@@ -2,11 +2,11 @@
   "ID": "047392e91d5e4cfdb19e2767440ab206",
   "Name": "Jurassic World Evolution",
   "ProductSlug": "jurassic-world-evolution",
-  "Ranking_Rating": 378,
+  "Ranking_Rating": 379,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -5417,10 +5417,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 5377,
       "NumberOfAwardsMax": 629
+    },
+    {
+      "Time": "2024-01-05T14:59:23.0625719+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 5378,
+      "NumberOfAwardsMax": 629
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5377,
+  "NumberOfAwards": 5378,
   "NumberOfAwardsMax": 629,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5464,7 +5470,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 550
+      "Count": 551
     },
     {
       "Text": "This game is Relaxing",
@@ -5502,8 +5508,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
-  "LastChanged": "2024-01-05T13:04:03.9060915+00:00",
+  "LastChanged": "2024-01-05T14:59:23.0625718+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.2484657+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:59:42.3394291+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:05:41.2496746+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:59:23.0625724+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:05:30.6736822+00:00"
 }

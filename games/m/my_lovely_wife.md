@@ -1,7 +1,7 @@
 # My Lovely Wife
 [Store](https://store.epicgames.com/en-US/p/my-lovely-wife-bef07f)  
 [View Rawdata](../../db/m/my_lovely_wife.json)  
-Rating: 4.36 (Ranked 811)  
+Rating: 4.36 (Ranked 812)  
 Number of Ratings: 25  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 25  (23.09.2022)
 | The Love Martyr | 87.00% | ~542 |
 | Frugal | 85.00% | ~530 |
 | Dilligent | 83.00% | ~517 |
-| I... I did it? | 80.00% | ~498 |
+| I... I did it? | 81.00% | ~505 |
 | Adored | 76.00% | ~473 |
 | The Hobbyist | 66.00% | ~411 |
 | A Forked Tongue | 56.00% | ~349 |
@@ -41,7 +41,7 @@ Number of Ratings: 25  (23.09.2022)
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 623 (Ranked 336)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

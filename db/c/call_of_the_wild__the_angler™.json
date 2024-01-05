@@ -2,11 +2,11 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 949,
+  "Ranking_Rating": 950,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -1021,7 +1021,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7982,
+  "EOS_Progressed": 7985,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -13256,6 +13256,11 @@
       "Time": "2024-01-05T14:08:33.8366486+00:00",
       "NumProgressed": 7982,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T15:08:11.6543046+00:00",
+      "NumProgressed": 7985,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13283,7 +13288,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13315,7 +13320,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13339,7 +13344,7 @@
       "Name": "License to Gill",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -13427,7 +13432,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -13586,13 +13591,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7982,
+      "Progressed": 7985,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7354,
+      "Progressed": 7357,
       "Completed": 113
     }
   ],
@@ -13600,8 +13605,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:08:33.8366481+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:08:11.6543041+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:02:40.5534195+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:08:33.8368143+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:02:39.2676816+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:08:11.6543825+00:00"
 }

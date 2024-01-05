@@ -6,21 +6,21 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,830 |
-| Photogenic | 82.00% | ~8,420 |
-| Surge Gauntlet Jockey | 79.00% | ~8,112 |
-| Plug It In | 78.00% | ~8,009 |
-| Adventure Time | 75.00% | ~7,701 |
-| Playing With Power | 72.00% | ~7,393 |
-| Coup d'Etat | 55.00% | ~5,647 |
+| Let's Get This Party Started | 86.00% | ~8,831 |
+| Photogenic | 82.00% | ~8,421 |
+| Surge Gauntlet Jockey | 79.00% | ~8,113 |
+| Plug It In | 78.00% | ~8,010 |
+| Adventure Time | 75.00% | ~7,702 |
+| Playing With Power | 72.00% | ~7,394 |
+| Coup d'Etat | 55.00% | ~5,648 |
 | You're Fired | 54.00% | ~5,545 |
-| Get Furious | 53.00% | ~5,442 |
-| Hacks In Stacks | 52.00% | ~5,339 |
+| Get Furious | 53.00% | ~5,443 |
+| Hacks In Stacks | 52.00% | ~5,340 |
 | Gunplay And Cosplay | 51.00% | ~5,237 |
-| Meching Enemies | 46.00% | ~4,723 |
+| Meching Enemies | 46.00% | ~4,724 |
 | Ticket Toddler | 42.00% | ~4,313 |
-| Booty Bashing | 36.00% | ~3,696 |
-| Field Medic | 36.00% | ~3,696 |
+| Booty Bashing | 36.00% | ~3,697 |
+| Field Medic | 36.00% | ~3,697 |
 | Here Comes a New Challenger | 35.00% | ~3,594 |
 | Rapid Response | 31.00% | ~3,183 |
 | Surge Ahead | 29.00% | ~2,978 |
@@ -32,8 +32,8 @@ Number of Ratings: 801  (23.09.2022)
 | Boss of Bosses | 14.00% | ~1,438 |
 | The Final Blow | 14.00% | ~1,438 |
 | To Be Continued | 13.00% | ~1,335 |
-| Light My Fire | 11.00% | ~1,129 |
-| Seasoned Adventurer | 11.00% | ~1,129 |
+| Light My Fire | 11.00% | ~1,130 |
+| Seasoned Adventurer | 11.00% | ~1,130 |
 | Get In The Ring! | 9.00% | ~924 |
 | 1.21 Gigawatts | 9.00% | ~924 |
 | This Is My Boomstick! | 9.00% | ~924 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~41 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,268 (Ranked 179)  
+Progressed: 10,269 (Ranked 179)  
 Completed: 2 (0.02%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2 (0.02%) (Ranked 359)
 | 2024-01-02 | 10,232 | 2 |
 | 2024-01-03 | 10,247 | 2 |
 | 2024-01-04 | 10,264 | 2 |
-| 2024-01-05 | 10,268 | 2 |
+| 2024-01-05 | 10,269 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 419)  
 Sum: 465 (Ranked 338)  

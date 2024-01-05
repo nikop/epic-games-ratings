@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1244,
+  "EOS_Progressed": 1245,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
@@ -3569,6 +3569,11 @@
       "Time": "2024-01-05T13:14:36.5653549+00:00",
       "NumProgressed": 1244,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T15:09:50.7460495+00:00",
+      "NumProgressed": 1245,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3627,9 +3632,9 @@
       "ID": "DarkestBeforeTheDawn",
       "SetID": "3ai6ml8",
       "Name": "Darkest Before the Dawn",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 560
+      "UsersEstimate": 548
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -3653,7 +3658,7 @@
       "Name": "Everything is Dust",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "LightsOut",
@@ -3693,15 +3698,15 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "SkeletonCrew",
       "SetID": "3ai6ml8",
       "Name": "Skeleton Crew",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 622
+      "UsersEstimate": 610
     },
     {
       "ID": "TerraTourGuide",
@@ -3717,7 +3722,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "TragedyDocumented",
@@ -3733,21 +3738,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1244,
+      "Progressed": 1245,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:10:13.3523699+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:09:50.746049+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6987681+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:00:39.0557433+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:10:13.3524117+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:00:17.8166504+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:09:50.7460758+00:00"
 }

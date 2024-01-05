@@ -2,11 +2,11 @@
   "ID": "0dc18227b3f14162968d8e7969e454ef",
   "Name": "DAEMON X MACHINA",
   "ProductSlug": "daemon-x-machina",
-  "Ranking_Rating": 767,
+  "Ranking_Rating": 768,
   "Ranking_Popularity": 156,
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -1896,10 +1896,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 1557,
       "NumberOfAwardsMax": 1064
+    },
+    {
+      "Time": "2024-01-05T14:58:04.8210531+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 1558,
+      "NumberOfAwardsMax": 1064
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1557,
+  "NumberOfAwards": 1558,
   "NumberOfAwardsMax": 1064,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1919,7 +1925,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1975,8 +1981,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:03.7612115+00:00",
-  "LastChanged": "2024-01-05T04:58:06.5403871+00:00",
+  "LastChanged": "2024-01-05T14:58:04.8210529+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.0415622+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:58:21.145353+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:08:32.2393048+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:58:04.8210535+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:08:09.9869413+00:00"
 }

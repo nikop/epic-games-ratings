@@ -1,29 +1,29 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 399)  
+Rating: 4.61 (Ranked 398)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~53,039 |
-| Get Busy Living | 16.00% | ~33,945 |
-| Samuel Norton | 9.00% | ~19,094 |
-| Spare The Rod | 4.00% | ~8,486 |
-| Don't Put Me In The Dark | 3.00% | ~6,365 |
-| Wait and Hope | 3.00% | ~6,365 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,365 |
-| Throw The Book At Them | 2.00% | ~4,243 |
-| Iron Bars | 2.00% | ~4,243 |
+| Stone Walls | 25.00% | ~53,047 |
+| Get Busy Living | 16.00% | ~33,950 |
+| Samuel Norton | 9.00% | ~19,097 |
+| Spare The Rod | 4.00% | ~8,488 |
+| Don't Put Me In The Dark | 3.00% | ~6,366 |
+| Wait and Hope | 3.00% | ~6,366 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,366 |
+| Throw The Book At Them | 2.00% | ~4,244 |
+| Iron Bars | 2.00% | ~4,244 |
 | D.B. Cooper | 1.00% | ~2,122 |
 | Reformation | 0.60% | ~1,273 |
 | Crowd Control | 0.50% | ~1,061 |
 | Freedom | 0.40% | ~849 |
-| Confined | 0.30% | ~636 |
+| Confined | 0.30% | ~637 |
 | It's Not What You Know... | 0.10% | ~212 |
 | ... It's What You Can Prove | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,155 (Ranked 80)  
+Progressed: 212,188 (Ranked 80)  
 Completed: 12 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,10 +283,10 @@ Completed: 12 (0.01%) (Ranked 369)
 | 2024-01-02 | 211,219 | 12 |
 | 2024-01-03 | 211,594 | 12 |
 | 2024-01-04 | 211,945 | 12 |
-| 2024-01-05 | 212,155 | 12 |
+| 2024-01-05 | 212,188 | 12 |
 ## Awards
 Max (Great for Beginners): 628  (Ranked 202)  
-Sum: 4,809 (Ranked 153)  
+Sum: 4,814 (Ranked 153)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -296,8 +296,8 @@ Diff (max vs sum): 49
 | This game has Quickly Understood Controls | 565 |
 | This game is Relaxing | 562 |
 | This game has Diverse Characters | 526 |
-| This game has Amazing Storytelling | 512 |
-| This game has Amazing Characters | 465 |
+| This game has Amazing Storytelling | 516 |
+| This game has Amazing Characters | 466 |
 | This game is Educational | 459 |
 | This game has a Creative Community | 368 |
 | This game has Obsessive Gameplay | 234 |
@@ -651,4 +651,4 @@ Diff (max vs sum): 49
 | 2024-01-02 | 4.61 | - | 624 | 4,782 |
 | 2024-01-03 | 4.61 | - | 626 | 4,795 |
 | 2024-01-04 | 4.61 | - | 626 | 4,802 |
-| 2024-01-05 | 4.61 | - | 628 | 4,809 |
+| 2024-01-05 | 4.61 | - | 628 | 4,814 |

@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 91.00% | ~106 |
-| Enough rooms to swing a cat | 80.00% | ~93 |
-| First to the post | 79.00% | ~92 |
-| A kind of Magic | 72.00% | ~84 |
+| Enough rooms to swing a cat | 81.00% | ~94 |
+| First to the post | 80.00% | ~93 |
+| A kind of Magic | 73.00% | ~85 |
 | Connected | 66.00% | ~77 |
 | Expansion | 60.00% | ~70 |
 | Harvest Time | 56.00% | ~65 |
 | Mine! | 56.00% | ~65 |
 | Artificer's Apprentice | 47.00% | ~55 |
 | Fly the friendly Sky | 45.00% | ~52 |
-| Get out of here! | 41.00% | ~48 |
-| Necromancer's Apprentice | 37.00% | ~43 |
+| Get out of here! | 43.00% | ~50 |
+| Necromancer's Apprentice | 38.00% | ~44 |
 | Alchemist's Apprentice | 36.00% | ~42 |
-| Friend of Lyraine | 35.00% | ~41 |
+| Friend of Lyraine | 36.00% | ~42 |
 | The Circle | 34.00% | ~39 |
 | Redecorating | 33.00% | ~38 |
 | Bad JuJu | 25.00% | ~29 |
@@ -52,13 +52,13 @@
 | Tuscari Sea Portal | 7.00% | ~8 |
 | A Monopoly of Might | 7.00% | ~8 |
 | Balanced | 7.00% | ~8 |
+| Friend of Grey Dusk Vale | 7.00% | ~8 |
 | Get to the Airship! | 6.00% | ~7 |
 | Defeat Undergast | 6.00% | ~7 |
 | Elynn's Tale | 6.00% | ~7 |
 | Crypt of the Revenant | 6.00% | ~7 |
 | Master Artificer | 6.00% | ~7 |
 | Heroes | 6.00% | ~7 |
-| Friend of Grey Dusk Vale | 6.00% | ~7 |
 | Defeat Ianna | 5.00% | ~6 |
 | Master Necromancer | 5.00% | ~6 |
 | Defeat Isgrimm | 4.00% | ~5 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 116 (Ranked 478)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,11 +2,11 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_Rating": 737,
+  "Ranking_Rating": 738,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -7971,9 +7971,9 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1688
     },
     {
       "ID": "A38",
@@ -8124,8 +8124,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:04:21.4930392+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:04:10.9194177+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:00:31.3118047+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:04:21.4931214+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:00:10.0435523+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:04:10.9194986+00:00"
 }

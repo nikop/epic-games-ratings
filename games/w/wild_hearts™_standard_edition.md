@@ -14,19 +14,19 @@
 | Memory Rouser | 46.00% | ~525 |
 | Subsistence Skills | 46.00% | ~525 |
 | Fusion Conjuror | 45.00% | ~514 |
-| Kemono Hunter | 41.00% | ~468 |
+| Kemono Hunter | 42.00% | ~480 |
 | Expert Conjuror | 39.00% | ~445 |
 | Helpful Heart | 38.00% | ~434 |
 | Flawless Crystal | 37.00% | ~423 |
-| Bonds of Enmity | 36.00% | ~411 |
+| Bonds of Enmity | 37.00% | ~423 |
 | Distance Devourer | 35.00% | ~400 |
 | Counter Specialist | 32.00% | ~365 |
-| Master of the Skies | 30.00% | ~343 |
-| Axer of Auspice | 27.00% | ~308 |
-| Mighty Marmelizer | 26.00% | ~297 |
+| Master of the Skies | 31.00% | ~354 |
+| Axer of Auspice | 28.00% | ~320 |
+| Mighty Marmelizer | 27.00% | ~308 |
 | Fair Means or Foul | 26.00% | ~297 |
 | Kemono at Heart | 26.00% | ~297 |
-| Single Minded | 23.00% | ~263 |
+| Single Minded | 24.00% | ~274 |
 | Snare Specialist | 23.00% | ~263 |
 | Karakuri Trail | 22.00% | ~251 |
 | Artful Assister | 21.00% | ~240 |
@@ -48,7 +48,7 @@
 | Volatile Vocation | 9.00% | ~103 |
 | Superlative View | 8.00% | ~91 |
 | Relentless Kemono Hunter | 7.00% | ~80 |
-| Vanquisher of the Volatile | 6.00% | ~69 |
+| Vanquisher of the Volatile | 7.00% | ~80 |
 | Big Spender | 5.00% | ~57 |
 | Bewitched by Bathing | 4.00% | ~46 |
 | Tsukumo Whisperer | 3.00% | ~34 |

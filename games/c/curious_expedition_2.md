@@ -1,19 +1,19 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.74 (Ranked 164)  
+Rating: 4.74 (Ranked 165)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 66.00% | ~266 |
+| The Adventure Begins | 65.00% | ~263 |
 | Cartographer | 58.00% | ~234 |
 | A Strange Artefact | 54.00% | ~218 |
 | Insomnia | 50.00% | ~202 |
-| Lost & Found & Lost Again | 44.00% | ~177 |
-| From Whence we Came | 44.00% | ~177 |
-| Fire and Flood | 41.00% | ~165 |
-| Spooky! | 38.00% | ~153 |
+| Lost & Found & Lost Again | 44.00% | ~178 |
+| From Whence we Came | 44.00% | ~178 |
+| Fire and Flood | 41.00% | ~166 |
+| Spooky! | 38.00% | ~154 |
 | Shennong Herbalist | 36.00% | ~145 |
 | Treasure Hunt | 36.00% | ~145 |
 | Good Mama | 33.00% | ~133 |
@@ -21,26 +21,26 @@ Number of Ratings: 20  (23.09.2022)
 | Plunderer | 30.00% | ~121 |
 | Taxonomist | 28.00% | ~113 |
 | Traveller | 26.00% | ~105 |
-| Uncertain Loyalties | 26.00% | ~105 |
+| Uncertain Loyalties | 25.00% | ~101 |
 | Roll to Save | 24.00% | ~97 |
 | Nahua Seeker | 24.00% | ~97 |
 | Veteran Explorer | 22.00% | ~89 |
 | Red Flag Pirate | 20.00% | ~81 |
 | Iron Man | 17.00% | ~69 |
-| Shortening of the Way | 16.00% | ~64 |
-| A Gentle Beast | 16.00% | ~64 |
-| Practical Palaeontology | 16.00% | ~64 |
-| Adventurer | 15.00% | ~60 |
-| For the Club! | 15.00% | ~60 |
-| Dapper | 14.00% | ~56 |
-| The New Director | 13.00% | ~52 |
-| The Director is Dead | 13.00% | ~52 |
-| And Here Is Your Statue | 13.00% | ~52 |
-| Discovery | 13.00% | ~52 |
-| Plays Well With Others | 13.00% | ~52 |
-| Very Classy | 13.00% | ~52 |
+| Shortening of the Way | 16.00% | ~65 |
+| A Gentle Beast | 16.00% | ~65 |
+| Practical Palaeontology | 16.00% | ~65 |
+| Adventurer | 15.00% | ~61 |
+| For the Club! | 15.00% | ~61 |
+| Dapper | 14.00% | ~57 |
+| The New Director | 13.00% | ~53 |
+| The Director is Dead | 13.00% | ~53 |
+| And Here Is Your Statue | 13.00% | ~53 |
+| Discovery | 13.00% | ~53 |
+| Plays Well With Others | 13.00% | ~53 |
+| Very Classy | 13.00% | ~53 |
 | Under the Table | 11.00% | ~44 |
-| It's Complicated | 10.00% | ~40 |
+| It's Complicated | 11.00% | ~44 |
 | Cold Blood, Warm Heart | 9.00% | ~36 |
 | Errand Runner | 9.00% | ~36 |
 | SCHMETTERLING | 8.00% | ~32 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403 (Ranked 363)  
+Progressed: 404 (Ranked 363)  
 Completed: 1 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 1 (0.25%) (Ranked 264)
 | 2024-01-02 | 394 | 1 |
 | 2024-01-03 | 397 | 1 |
 | 2024-01-04 | 400 | 1 |
-| 2024-01-05 | 403 | 1 |
+| 2024-01-05 | 404 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -289,9 +289,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 1271,
+  "EOS_Progressed": 1272,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3599,6 +3599,11 @@
       "Time": "2024-01-05T14:04:59.3112162+00:00",
       "NumProgressed": 1271,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T15:04:48.8078591+00:00",
+      "NumProgressed": 1272,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3619,7 +3624,7 @@
       "Name": "Ab Initio",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "AnthropicHills",
@@ -3651,7 +3656,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "BreakTheLoop",
@@ -3665,9 +3670,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 420
     },
     {
       "ID": "ChasingTheLight",
@@ -3675,7 +3680,7 @@
       "Name": "Chasing the Light",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Chicken",
@@ -3707,7 +3712,7 @@
       "Name": "Discovery",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "EasternWetlands",
@@ -3779,7 +3784,7 @@
       "Name": "Into the Machine",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "JustOneLap",
@@ -3795,7 +3800,7 @@
       "Name": "Lord of the Files",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "LostMarshes",
@@ -3827,7 +3832,7 @@
       "Name": "Museum Explorer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "MuseumVisitor",
@@ -3955,7 +3960,7 @@
       "Name": "Team Spirit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "TextAdventurer",
@@ -3971,7 +3976,7 @@
       "Name": "The All-Gifted",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4011,7 +4016,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "TheWordEndures",
@@ -4082,7 +4087,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1271,
+      "Progressed": 1272,
       "Completed": 2
     }
   ],
@@ -4090,8 +4095,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:04:59.3112158+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:04:48.8078586+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:00:36.5018667+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:04:59.3113447+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:00:15.096607+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:04:48.807915+00:00"
 }

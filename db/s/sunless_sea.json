@@ -802,7 +802,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43601,
+  "EOS_Progressed": 43604,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
@@ -27402,6 +27402,11 @@
       "Time": "2024-01-05T14:04:00.8219452+00:00",
       "NumProgressed": 43601,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-05T15:03:49.7602632+00:00",
+      "NumProgressed": 43604,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -27429,7 +27434,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7412
+      "UsersEstimate": 7413
     },
     {
       "ID": "ach_antiquarian10",
@@ -27533,7 +27538,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15696
+      "UsersEstimate": 15697
     },
     {
       "ID": "ach_die10",
@@ -27621,7 +27626,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6104
+      "UsersEstimate": 6105
     },
     {
       "ID": "ach_legacysalvager",
@@ -27765,7 +27770,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7848
+      "UsersEstimate": 7849
     },
     {
       "ID": "ach_terror100",
@@ -27781,7 +27786,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6540
+      "UsersEstimate": 6541
     },
     {
       "ID": "ach_undercurrent",
@@ -27844,15 +27849,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43601,
+      "Progressed": 43604,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-30T23:57:07.6493697+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:04:00.821945+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:03:49.7602627+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:43.1015004+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:59:56.1450944+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:04:00.8222576+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:59:36.1279294+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:03:49.7604105+00:00"
 }

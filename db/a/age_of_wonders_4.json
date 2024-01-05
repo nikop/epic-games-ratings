@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 378,
+  "Ranking_Rating": 379,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 197,
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6880,
+  "EOS_Progressed": 6882,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10422,6 +10422,11 @@
       "Time": "2024-01-05T14:04:00.3277162+00:00",
       "NumProgressed": 6880,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T15:03:49.3782417+00:00",
+      "NumProgressed": 6882,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10545,7 +10550,7 @@
       "Name": "Realm Estate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "23",
@@ -10625,7 +10630,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "32",
@@ -10912,13 +10917,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6880,
+      "Progressed": 6882,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6880,
+      "Progressed": 6882,
       "Completed": 7
     }
   ],
@@ -10926,8 +10931,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:04:00.3277159+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:03:49.3782412+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:02:43.6633874+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:04:00.327848+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:02:42.1800864+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:03:49.3783246+00:00"
 }

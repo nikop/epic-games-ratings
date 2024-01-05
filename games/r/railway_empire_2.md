@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 737)  
+Rating: 4.42 (Ranked 738)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,7 +15,7 @@ Rating: 4.42 (Ranked 737)
 | Brainstorm | 66.00% | ~1,741 |
 | Mind the Gap | 66.00% | ~1,741 |
 | Travel Company | 66.00% | ~1,741 |
-| All around the World | 63.00% | ~1,662 |
+| All around the World | 64.00% | ~1,688 |
 | Right through the middle | 59.00% | ~1,556 |
 | Facility Manager | 54.00% | ~1,425 |
 | Poor Devil | 54.00% | ~1,425 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 737)
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,638 (Ranked 231)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

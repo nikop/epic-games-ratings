@@ -1,21 +1,21 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 877)  
+Rating: 4.29 (Ranked 878)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 39.00% | ~71 |
-| Best Buddy | 31.00% | ~56 |
-| Civilian | 30.00% | ~54 |
-| Role Model | 28.00% | ~51 |
-| Peddler | 24.00% | ~43 |
-| Creator | 24.00% | ~43 |
-| Festival-goer | 24.00% | ~43 |
+| Best Buddy | 32.00% | ~58 |
+| Civilian | 30.00% | ~55 |
+| Role Model | 27.00% | ~49 |
+| Peddler | 24.00% | ~44 |
+| Creator | 24.00% | ~44 |
+| Festival-goer | 24.00% | ~44 |
 | Military Leader | 23.00% | ~42 |
 | Commander | 20.00% | ~36 |
-| Irissa's Fate | 17.00% | ~31 |
+| Irissa's Fate | 16.00% | ~29 |
 | Long-Haul Flyer | 13.00% | ~24 |
 | Pass A38 | 13.00% | ~24 |
 | Family Reunion | 12.00% | ~22 |
@@ -43,10 +43,10 @@ Number of Ratings: 124  (23.09.2022)
 | Morkon | 2.00% | ~4 |
 | Destroyer | 2.00% | ~4 |
 | Legendary | 2.00% | ~4 |
-| Pack Rat | 0.60% | ~1 |
-| Defector | 0.60% | ~1 |
-| Outlaw | 0.60% | ~1 |
-| Ruthless | 0.60% | ~1 |
+| Pack Rat | 0.50% | ~1 |
+| Defector | 0.50% | ~1 |
+| Outlaw | 0.50% | ~1 |
+| Ruthless | 0.50% | ~1 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
@@ -57,8 +57,8 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 431)  
-Completed: 0 (0.00%) (Ranked 393)  
+Progressed: 182 (Ranked 431)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 167 | 0 |
 | 2024-01-03 | 172 | 0 |
 | 2024-01-04 | 177 | 0 |
-| 2024-01-05 | 181 | 0 |
+| 2024-01-05 | 182 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

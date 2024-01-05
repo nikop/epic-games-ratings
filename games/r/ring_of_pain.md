@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 471)  
+Rating: 4.58 (Ranked 472)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,6 +11,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defeat The Dark | 1.00% | ~2,424 |
 | A Quick Escape | 1.00% | ~2,424 |
 | Uncharted Territory | 1.00% | ~2,424 |
+| Explorer | 1.00% | ~2,424 |
 | An Offering | 1.00% | ~2,424 |
 | Matching | 1.00% | ~39 |
 | Nothing To Lose | 0.90% | ~2,182 |
@@ -20,7 +21,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Goodbye, Frog Friend | 0.90% | ~2,182 |
 | A Donation | 0.90% | ~2,182 |
 | Deflection | 0.90% | ~2,182 |
-| Explorer | 0.90% | ~2,182 |
 | Not Touching You | 0.90% | ~35 |
 | Ambitious Intent | 0.80% | ~1,939 |
 | Delving Deeper | 0.80% | ~1,939 |
@@ -71,6 +71,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Challenge Increases | 0.30% | ~727 |
 | New Game+ | 0.30% | ~727 |
 | Barbecue | 0.30% | ~727 |
+| Soul Stash | 0.30% | ~727 |
 | Juggernaut | 0.30% | ~727 |
 | Clearing The Room | 0.30% | ~727 |
 | Decisions, Decisions | 0.30% | ~727 |
@@ -88,7 +89,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Friend of Vermin | 0.20% | ~485 |
 | Explosive Betrayal | 0.20% | ~485 |
 | Grave Digger | 0.20% | ~485 |
-| Soul Stash | 0.20% | ~485 |
 | Willing the World | 0.20% | ~485 |
 | Gigantic | 0.20% | ~485 |
 | Power Score | 0.20% | ~485 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,399 (Ranked 72)  
+Progressed: 242,401 (Ranked 72)  
 Completed: 304 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 304 (0.13%) (Ranked 295)
 | 2024-01-02 | 242,247 | 303 |
 | 2024-01-03 | 242,304 | 303 |
 | 2024-01-04 | 242,358 | 304 |
-| 2024-01-05 | 242,399 | 304 |
+| 2024-01-05 | 242,401 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,786 (Ranked 89)  

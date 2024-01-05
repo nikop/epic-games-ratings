@@ -2,7 +2,7 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 304,
+  "Ranking_Rating": 303,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 314,
@@ -335,7 +335,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 734,
+  "EOS_Progressed": 736,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 4,
@@ -1985,6 +1985,11 @@
       "Time": "2024-01-05T14:05:04.3090511+00:00",
       "NumProgressed": 734,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T15:04:53.7121983+00:00",
+      "NumProgressed": 736,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2029,7 +2034,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -2101,7 +2106,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -2109,15 +2114,15 @@
       "Name": "Toxic Terror",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -2133,7 +2138,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2173,7 +2178,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -2205,15 +2210,15 @@
       "Name": "Spatula Seeker",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
       "SetID": "biiejkc",
       "Name": "Sponge Smasher",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2252,15 +2257,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 734,
+      "Progressed": 736,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:05:04.3090507+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:04:53.7121977+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:00:21.866996+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:05:04.3090988+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:00:01.1437643+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:04:53.7122287+00:00"
 }

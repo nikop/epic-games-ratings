@@ -1,28 +1,28 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,028)  
+Rating: 4.06 (Ranked 1,029)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~7,544 |
-| The Cursed Farmer | 2.00% | ~5,029 |
+| The Cursed Farmer | 2.00% | ~5,030 |
 | Beast Intentions | 1.00% | ~2,515 |
 | The Mad Wizard | 1.00% | ~2,515 |
 | Welcome to Sigil | 0.80% | ~1,742 |
 | The Ring of Regeneration | 0.70% | ~1,760 |
 | Are Ya Chicken? | 0.70% | ~1,760 |
 | Were-verpowered | 0.60% | ~1,509 |
-| Fast Food | 0.60% | ~1,306 |
+| Fast Food | 0.60% | ~1,307 |
 | Seeking Allies | 0.50% | ~1,257 |
 | Mad Cow Disease | 0.50% | ~1,257 |
 | Friendly Imps | 0.50% | ~1,257 |
+| Pure Energy | 0.50% | ~1,257 |
 | The Overgrown Grove | 0.50% | ~1,089 |
 | Mental Gymnastics | 0.50% | ~1,089 |
 | A Persistent Buzzing | 0.40% | ~1,006 |
 | Terror in the Dark | 0.40% | ~1,006 |
-| Pure Energy | 0.40% | ~1,006 |
 | Arcane Suppression | 0.40% | ~871 |
 | Misaligned in Sigil | 0.40% | ~871 |
 | Chaos Theory | 0.40% | ~871 |
@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.20% | ~503 |
 | The Dinner Party | 0.20% | ~503 |
 | The Death Curse | 0.20% | ~503 |
+| A Tale of Two Cities | 0.20% | ~503 |
 | Flying Monkey Skulls of Doom | 0.20% | ~503 |
 | Running of the Saurs | 0.20% | ~503 |
 | Close Escort | 0.20% | ~503 |
@@ -58,7 +59,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~503 |
 | The Templar's Camp | 0.20% | ~503 |
 | Rescue in the Jungle | 0.20% | ~503 |
-| The Brains of an Illithid's Desire | 0.20% | ~435 |
+| The Brains of an Illithid's Desire | 0.20% | ~436 |
 | Pros and CONs | 0.10% | ~251 |
 | Upholding the Law | 0.10% | ~251 |
 | Starving in the Jungle | 0.10% | ~251 |
@@ -302,7 +303,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~251 |
 | Dino Nightmare | 0.10% | ~251 |
 | A Familiar Friend | 0.10% | ~218 |
-| A Tale of Two Cities | 0.10% | ~251 |
 | A Tale of Two Fiends | 0.10% | ~251 |
 | A Tale of Two Champions | 0.10% | ~251 |
 | A Tale of Two Years | 0.10% | ~218 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,459 (Ranked 70)  
+Progressed: 251,481 (Ranked 70)  
 Completed: 2,594 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -813,7 +813,7 @@ Completed: 2,594 (1.03%) (Ranked 170)
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
-| 2024-01-05 | 251,459 | 2,594 |
+| 2024-01-05 | 251,481 | 2,594 |
 ## Awards
 Max (Great for Beginners): 5,750  (Ranked 72)  
 Sum: 33,330 (Ranked 41)  

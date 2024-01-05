@@ -3,8 +3,8 @@
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -1524,9 +1524,9 @@
       "ID": "achDog",
       "SetID": "72gjli4",
       "Name": "Doberman \u2714",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "achEva",
@@ -1789,8 +1789,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:10:26.9417566+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:10:04.3579861+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.8305387+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:00:37.6506058+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:10:26.9418084+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:00:16.2462882+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:10:04.3580574+00:00"
 }

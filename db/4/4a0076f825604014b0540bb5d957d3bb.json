@@ -3,7 +3,7 @@
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 472,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -675,9 +675,9 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -842,8 +842,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:10:13.9000296+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:09:51.1412106+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:12.4832166+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:58:20.5118698+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:10:13.9000562+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:58:04.1804969+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:09:51.1412235+00:00"
 }

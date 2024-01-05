@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 257,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.91,
+  "EOS_Completed_Percentage": 3.89,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1124,6 +1124,11 @@
       "Time": "2024-01-05T13:14:39.2002493+00:00",
       "NumProgressed": 256,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T15:09:52.9583588+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1136,7 +1141,7 @@
       "Name": "Follow to the brother",
       "Percentage": 15,
       "XP": 75,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "creepytaleach10",
@@ -1150,9 +1155,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 75,
-      "UsersEstimate": 151
+      "UsersEstimate": 149
     },
     {
       "ID": "creepytaleach12",
@@ -1190,17 +1195,17 @@
       "ID": "creepytaleach4",
       "SetID": "bnif31p",
       "Name": "Dominance",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "creepytaleach5",
       "SetID": "bnif31p",
       "Name": "Incorrigible researcher",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "creepytaleach6",
@@ -1214,9 +1219,9 @@
       "ID": "creepytaleach7",
       "SetID": "bnif31p",
       "Name": "Crazy chef",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "creepytaleach8",
@@ -1239,14 +1244,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:10:15.6635609+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:09:52.9583585+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:06.3288119+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:57:31.476775+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:10:15.6635776+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:57:15.464582+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:09:52.9583714+00:00"
 }

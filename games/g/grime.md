@@ -6,14 +6,14 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,998 |
-| Imprint | 3.00% | ~4,998 |
+| Taste | 3.00% | ~4,999 |
+| Imprint | 3.00% | ~4,999 |
 | The Hunt | 2.00% | ~3,332 |
 | Weeper | 2.00% | ~3,332 |
 | Ravenous | 2.00% | ~3,332 |
 | Devourer | 1.00% | ~1,666 |
-| Harmless | 0.90% | ~1,499 |
-| Silenced Whispers | 0.90% | ~1,499 |
+| Harmless | 0.90% | ~1,500 |
+| Silenced Whispers | 0.90% | ~1,500 |
 | Sharpened Vessel | 0.80% | ~1,333 |
 | Feast | 0.70% | ~1,166 |
 | Yank | 0.70% | ~1,166 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~166 |
 | Intensify | 0.10% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166,611 (Ranked 84)  
+Progressed: 166,624 (Ranked 84)  
 Completed: 445 (0.27%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,14 +290,14 @@ Completed: 445 (0.27%) (Ranked 257)
 | 2024-01-02 | 166,178 | 440 |
 | 2024-01-03 | 166,329 | 441 |
 | 2024-01-04 | 166,498 | 443 |
-| 2024-01-05 | 166,611 | 445 |
+| 2024-01-05 | 166,624 | 445 |
 ## Awards
-Max (Unique Visuals): 61  (Ranked 428)  
-Sum: 441 (Ranked 343)  
-Diff (max vs sum): 85  
+Max (Unique Visuals): 62  (Ranked 424)  
+Sum: 442 (Ranked 342)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
-| This game has Unique Visuals | 61 |
+| This game has Unique Visuals | 62 |
 | This game is Highly Recommended | 60 |
 | This game has Quickly Understood Controls | 58 |
 | This game has Amazing Storytelling | 58 |
@@ -483,4 +483,4 @@ Diff (max vs sum): 85
 | 2024-01-01 | 4.60 | - | 61 | 438 |
 | 2024-01-03 | 4.60 | - | 61 | 440 |
 | 2024-01-04 | 4.59 | - | 61 | 441 |
-| 2024-01-05 | 4.60 | - | 61 | 441 |
+| 2024-01-05 | 4.60 | - | 62 | 442 |

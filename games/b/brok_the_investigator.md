@@ -9,7 +9,7 @@
 | Chapter 2 | 40.00% | ~16 |
 | Chapter 3 | 38.00% | ~15 |
 | It's In My Nature | 38.00% | ~15 |
-| Chapter 4 | 33.00% | ~13 |
+| Chapter 4 | 35.00% | ~14 |
 | Your Days Are Numbered | 33.00% | ~13 |
 | All Materials | 33.00% | ~13 |
 | Chapter 5 | 28.00% | ~11 |
@@ -35,7 +35,7 @@
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 40 (Ranked 570)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,14 +1,14 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.38 (Ranked 787)  
+Rating: 4.38 (Ranked 788)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It Wasn’t a Burglary | 88.00% | ~429 |
 | Luc Piette | 74.00% | ~361 |
 | Angeline Van den Bosch | 72.00% | ~351 |
-| Elizabeth Padget | 68.00% | ~332 |
+| Elizabeth Padget | 69.00% | ~337 |
 | Little Grey Cells | 67.00% | ~327 |
 | The Bracelet | 64.00% | ~312 |
 | The Blackmail | 53.00% | ~259 |

@@ -1,14 +1,14 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 1,031)  
+Rating: 4.05 (Ranked 1,032)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,910 |
-| World Map | 78.00% | ~3,279 |
-| Temple of Eternals | 56.00% | ~2,354 |
-| Prestigious | 52.00% | ~2,186 |
+| Victor | 93.00% | ~3,911 |
+| World Map | 78.00% | ~3,280 |
+| Temple of Eternals | 56.00% | ~2,355 |
+| Prestigious | 52.00% | ~2,187 |
 | Fellowship Power | 41.00% | ~1,724 |
 | Full Party | 28.00% | ~1,177 |
 | Guild Power | 23.00% | ~967 |
@@ -21,12 +21,12 @@ Rating: 4.05 (Ranked 1,031)
 | Dragon Master | 13.00% | ~547 |
 | Enlightenment | 13.00% | ~547 |
 | Hero inspection | 13.00% | ~547 |
-| Lieutenant | 12.00% | ~504 |
-| Milestone collector | 11.00% | ~462 |
-| Mysterious Rock | 11.00% | ~462 |
-| Natural Talent | 11.00% | ~462 |
-| Superior | 11.00% | ~462 |
-| The Unstoppable | 11.00% | ~462 |
+| Lieutenant | 12.00% | ~505 |
+| Milestone collector | 11.00% | ~463 |
+| Mysterious Rock | 11.00% | ~463 |
+| Natural Talent | 11.00% | ~463 |
+| Superior | 11.00% | ~463 |
+| The Unstoppable | 11.00% | ~463 |
 | Doing My Part | 9.00% | ~378 |
 | Scientist | 9.00% | ~378 |
 | The power of Awakening | 9.00% | ~378 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,031)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,204 (Ranked 210)  
+Progressed: 4,205 (Ranked 210)  
 Completed: 2 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 2 (0.05%) (Ranked 335)
 | 2024-01-02 | 4,107 | 2 |
 | 2024-01-03 | 4,139 | 2 |
 | 2024-01-04 | 4,183 | 2 |
-| 2024-01-05 | 4,204 | 2 |
+| 2024-01-05 | 4,205 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 479)  
 Sum: 154 (Ranked 437)  

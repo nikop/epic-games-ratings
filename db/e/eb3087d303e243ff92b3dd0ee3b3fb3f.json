@@ -3,7 +3,7 @@
   "Name": "Workshop Simulator",
   "ProductSlug": "test-product-42740e",
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -217,8 +217,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T06:00:02.3428806+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:06:07.7057143+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:05:56.7724119+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:07.4234498+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:02:51.7328233+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:06:07.7057281+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:02:49.7840458+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:05:56.7724238+00:00"
 }

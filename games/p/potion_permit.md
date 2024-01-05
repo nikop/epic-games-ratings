@@ -1,30 +1,30 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.85 (Ranked 1,070)  
+Rating: 3.85 (Ranked 1,071)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,844 |
-| The First Step | 87.00% | ~1,637 |
+| Welcome to Moonbury | 98.00% | ~1,845 |
+| The First Step | 87.00% | ~1,638 |
 | Moonbury Traveller | 63.00% | ~1,186 |
-| Rookie Chemist | 60.00% | ~1,129 |
-| Great Doctor | 49.00% | ~922 |
+| Rookie Chemist | 60.00% | ~1,130 |
+| Great Doctor | 49.00% | ~923 |
 | Dog Whisperer | 47.00% | ~885 |
 | Friendly | 46.00% | ~866 |
-| The Capitalist | 43.00% | ~809 |
-| K.O.! | 42.00% | ~790 |
+| The Capitalist | 43.00% | ~810 |
+| K.O.! | 42.00% | ~791 |
 | Intermediate Chemist | 39.00% | ~734 |
 | Decorative Mind | 33.00% | ~621 |
-| Lumber Specialist | 31.00% | ~583 |
-| Kind-hearted | 25.00% | ~470 |
+| Lumber Specialist | 31.00% | ~584 |
+| Kind-hearted | 25.00% | ~471 |
 | Catch of the Day | 24.00% | ~452 |
 | Amateur Chef | 22.00% | ~414 |
-| Fishing Guru | 20.00% | ~376 |
+| Fishing Guru | 20.00% | ~377 |
 | Spark of Love | 18.00% | ~339 |
 | Community Helper | 17.00% | ~320 |
-| Expert Chemist | 14.00% | ~263 |
-| Stone Specialist | 14.00% | ~263 |
+| Expert Chemist | 14.00% | ~264 |
+| Stone Specialist | 14.00% | ~264 |
 | Line Cook | 12.00% | ~226 |
 | Sociable | 12.00% | ~226 |
 | Ablutomaniac | 12.00% | ~226 |
@@ -44,7 +44,7 @@ Rating: 3.85 (Ranked 1,070)
 | Moonbury Navigator | 1.00% | ~19 |
 | Being a donut... | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,882 (Ranked 251)  
+Progressed: 1,883 (Ranked 251)  
 Completed: 11 (0.58%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 11 (0.58%) (Ranked 209)
 | 2024-01-02 | 1,866 | 11 |
 | 2024-01-03 | 1,870 | 11 |
 | 2024-01-04 | 1,876 | 11 |
-| 2024-01-05 | 1,882 | 11 |
+| 2024-01-05 | 1,883 | 11 |
 ## Awards
 Max (Character Customization): 70  (Ranked 416)  
 Sum: 70 (Ranked 489)  

@@ -5,7 +5,7 @@ Rating: 4.71 (Ranked 203)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~639 |
+| The Last Stand | 89.00% | ~646 |
 | Thalya – Simply Immortal | 88.00% | ~639 |
 | For the Horde! | 83.00% | ~603 |
 | Hammer Time, Round Two | 81.00% | ~588 |
@@ -23,7 +23,7 @@ Rating: 4.71 (Ranked 203)
 | Trap Master | 56.00% | ~407 |
 | Minions, Minions! | 55.00% | ~399 |
 | Hard Work | 54.00% | ~392 |
-| The Big Eaty | 53.00% | ~385 |
+| The Big Eaty | 54.00% | ~392 |
 | YOU SHALL NOT PASS! | 50.00% | ~363 |
 | “… like son” | 50.00% | ~363 |
 | The Cathedral of Light | 47.00% | ~341 |

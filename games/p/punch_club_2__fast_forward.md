@@ -52,9 +52,9 @@
 | Get out of my apartment! | 32.00% | ~172 |
 | Gang wrangler | 31.00% | ~166 |
 | Undercover robot | 31.00% | ~166 |
+| Problems of cyborgs | 30.00% | ~161 |
 | Absolute Champion! | 30.00% | ~161 |
 | Seashell hunter | 30.00% | ~161 |
-| Problems of cyborgs | 29.00% | ~156 |
 | Not little hacker | 29.00% | ~156 |
 | Another world | 28.00% | ~150 |
 | The lonesome road | 28.00% | ~150 |

@@ -1,27 +1,27 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.66 (Ranked 304)  
+Rating: 4.66 (Ranked 303)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponge Smasher | 20.00% | ~147 |
-| Spatula Seeker | 19.00% | ~139 |
+| Sponge Smasher | 21.00% | ~155 |
+| Spatula Seeker | 19.00% | ~140 |
 | Jellyfish Jam | 18.00% | ~132 |
 | Jellyfishing | 14.00% | ~103 |
 | Time For Tutorial | 12.00% | ~88 |
+| Sweet Victory | 11.00% | ~81 |
 | Sock Getter | 11.00% | ~81 |
-| Sweet Victory | 10.00% | ~73 |
-| Super Spatula Seeker | 10.00% | ~73 |
+| Super Spatula Seeker | 10.00% | ~74 |
 | Uptown and Downtown | 9.00% | ~66 |
 | Squirrel Smasher | 9.00% | ~66 |
 | Star Smasher | 9.00% | ~66 |
 | Surf's Up! | 9.00% | ~66 |
-| Life's as extreme as you wanna make it! | 7.00% | ~51 |
-| Shrimp Catcher | 7.00% | ~51 |
-| Toxic Terror | 7.00% | ~51 |
-| Hit Rock Bottom | 7.00% | ~51 |
+| Life's as extreme as you wanna make it! | 7.00% | ~52 |
+| Shrimp Catcher | 7.00% | ~52 |
+| Toxic Terror | 7.00% | ~52 |
+| Hit Rock Bottom | 7.00% | ~52 |
 | Are you ready now? | 6.00% | ~44 |
 | Hello, Bikini Bottom | 6.00% | ~44 |
 | Keep it Rolling | 6.00% | ~44 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~7 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734 (Ranked 314)  
+Progressed: 736 (Ranked 314)  
 Completed: 7 (0.95%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 7 (0.95%) (Ranked 174)
 | 2024-01-02 | 662 | 6 |
 | 2024-01-03 | 684 | 7 |
 | 2024-01-04 | 715 | 7 |
-| 2024-01-05 | 734 | 7 |
+| 2024-01-05 | 736 | 7 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 494)  
 Sum: 36 (Ranked 526)  

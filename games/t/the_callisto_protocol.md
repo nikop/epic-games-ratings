@@ -1,36 +1,36 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 949)  
+Rating: 4.21 (Ranked 950)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 23.00% | ~4,850 |
-| The Outer Way | 23.00% | ~4,850 |
-| Desperate Times | 22.00% | ~4,639 |
-| Get a Grip | 20.00% | ~4,217 |
-| Paper Jams | 20.00% | ~4,217 |
-| Chew 'Em Up | 18.00% | ~3,796 |
-| Reforged | 17.00% | ~3,585 |
-| Float Like A Butterfly | 16.00% | ~3,374 |
-| Workplace Hazard | 14.00% | ~2,952 |
-| If the SHU Fits... | 14.00% | ~2,952 |
-| Without A Paddle | 12.00% | ~2,530 |
+| Flesh Wound | 23.00% | ~4,852 |
+| The Outer Way | 23.00% | ~4,852 |
+| Desperate Times | 22.00% | ~4,641 |
+| Get a Grip | 20.00% | ~4,219 |
+| Paper Jams | 20.00% | ~4,219 |
+| Chew 'Em Up | 18.00% | ~3,797 |
+| Reforged | 17.00% | ~3,586 |
+| Float Like A Butterfly | 16.00% | ~3,375 |
+| Workplace Hazard | 14.00% | ~2,953 |
+| If the SHU Fits... | 14.00% | ~2,953 |
+| Without A Paddle | 12.00% | ~2,531 |
 | In the Pipe, Five by Five | 11.00% | ~2,320 |
 | Crash Site | 11.00% | ~2,320 |
-| Two Heads Are Better Than One | 10.00% | ~2,109 |
-| Power Up | 10.00% | ~2,109 |
-| Giving Back | 9.00% | ~1,898 |
-| Terminated | 9.00% | ~1,898 |
-| What Lies Beneath | 9.00% | ~1,898 |
-| Full Circle | 9.00% | ~1,898 |
-| You Need a Gun | 8.00% | ~1,687 |
-| I Do Belong Here | 7.00% | ~1,476 |
+| Two Heads Are Better Than One | 10.00% | ~2,110 |
+| Power Up | 10.00% | ~2,110 |
+| Giving Back | 9.00% | ~1,899 |
+| Terminated | 9.00% | ~1,899 |
+| What Lies Beneath | 9.00% | ~1,899 |
+| Full Circle | 9.00% | ~1,899 |
+| You Need a Gun | 8.00% | ~1,688 |
+| I Do Belong Here | 7.00% | ~1,477 |
 | Keep Fighting | 7.00% | ~631 |
-| The Commonality | 5.00% | ~1,054 |
+| The Commonality | 5.00% | ~1,055 |
 | It's Time | 5.00% | ~451 |
-| In Striking Distance | 4.00% | ~843 |
-| One Last Job | 3.00% | ~270 |
+| In Striking Distance | 4.00% | ~844 |
+| One Last Job | 3.00% | ~271 |
 | Big Spender | 2.00% | ~180 |
 | This Isn't About Escape | 2.00% | ~180 |
 | Armed to the Teeth | 1.00% | ~90 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 949)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,087 (Ranked 151)  
+Progressed: 21,095 (Ranked 151)  
 Completed: 82 (0.39%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,11 +305,11 @@ Completed: 82 (0.39%) (Ranked 236)
 | 2024-01-02 | 20,695 | 82 |
 | 2024-01-03 | 20,833 | 82 |
 | 2024-01-04 | 20,995 | 82 |
-| 2024-01-05 | 21,087 | 82 |
+| 2024-01-05 | 21,095 | 82 |
 ## Awards
-Max (Amazing Characters): 120  (Ranked 353)  
+Max (Amazing Characters): 120  (Ranked 354)  
 Sum: 581 (Ranked 324)  
-Diff (max vs sum): 29  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 120 |

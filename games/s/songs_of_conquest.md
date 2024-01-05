@@ -45,9 +45,9 @@ Number of Ratings: 292  (23.09.2022)
 | Oops! | 0.30% | ~3 |
 | The Marsh Expands | 0.30% | ~3 |
 | Attack Bonanza | 0.20% | ~2 |
+| Hello There | 0.20% | ~2 |
 | An Empress's Hope | 0.20% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |
-| Hello There | 0.10% | ~1 |
 | The Price of Freedom | 0.00% | ~0 |
 | A Free Man | 0.00% | ~0 |
 | Die by the Bow | 0.00% | ~0 |
@@ -62,7 +62,7 @@ Number of Ratings: 292  (23.09.2022)
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 988 (Ranked 290)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

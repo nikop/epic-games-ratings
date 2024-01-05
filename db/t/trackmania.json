@@ -2,11 +2,11 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 304,
+  "Ranking_Rating": 303,
   "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -15390,10 +15390,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 34617,
       "NumberOfAwardsMax": 4291
+    },
+    {
+      "Time": "2024-01-05T15:00:00.4499671+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 34619,
+      "NumberOfAwardsMax": 4291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34617,
+  "NumberOfAwards": 34619,
   "NumberOfAwardsMax": 4291,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -15467,7 +15473,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1762
+      "Count": 1764
     }
   ],
   "EOS_Progressed": 0,
@@ -15481,8 +15487,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-01-05T12:01:30.0168656+00:00",
+  "LastChanged": "2024-01-05T15:00:00.4499669+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:20.9854807+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:00:21.1288877+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:09:58.6090696+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:00:00.4499675+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:09:35.8738056+00:00"
 }

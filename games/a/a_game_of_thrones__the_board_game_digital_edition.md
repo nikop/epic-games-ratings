@@ -1,16 +1,16 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 949)  
+Rating: 4.21 (Ranked 950)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,003 |
+| Conqueror | 40.00% | ~13,005 |
 | Battering Crew | 19.00% | ~6,177 |
-| The Kingsroad | 18.00% | ~5,851 |
-| Well Stocked | 13.00% | ~4,226 |
-| Royal Fleet | 13.00% | ~4,226 |
+| The Kingsroad | 18.00% | ~5,852 |
+| Well Stocked | 13.00% | ~4,227 |
+| Royal Fleet | 13.00% | ~4,227 |
 | The Kraken’s Grasp | 9.00% | ~2,926 |
 | Daggers in the Dark | 8.00% | ~2,601 |
 | Alliance | 8.00% | ~2,601 |
@@ -18,18 +18,18 @@ Number of Ratings: 2,500  (23.09.2022)
 | Oathkeeper | 7.00% | ~2,276 |
 | Influential | 7.00% | ~2,276 |
 | A Long Journey | 7.00% | ~2,276 |
-| Ours is the Fury | 6.00% | ~1,950 |
-| We Do Not Sow | 6.00% | ~1,950 |
-| Defender of the Wall | 6.00% | ~1,950 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,625 |
-| Growing Strong | 5.00% | ~1,625 |
-| Hear me Roar! | 5.00% | ~1,625 |
+| Ours is the Fury | 6.00% | ~1,951 |
+| We Do Not Sow | 6.00% | ~1,951 |
+| Defender of the Wall | 6.00% | ~1,951 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,626 |
+| Growing Strong | 5.00% | ~1,626 |
+| Hear me Roar! | 5.00% | ~1,626 |
 | What is Dead may Never Die | 3.00% | ~975 |
 | King in the North | 2.00% | ~650 |
 | The Swift | 2.00% | ~650 |
 | War of the Five Kings | 1.00% | ~325 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,508 (Ranked 137)  
+Progressed: 32,512 (Ranked 137)  
 Completed: 86 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,11 +289,11 @@ Completed: 86 (0.26%) (Ranked 260)
 | 2024-01-02 | 32,279 | 86 |
 | 2024-01-03 | 32,380 | 86 |
 | 2024-01-04 | 32,460 | 86 |
-| 2024-01-05 | 32,508 | 86 |
+| 2024-01-05 | 32,512 | 86 |
 ## Awards
-Max (Quickly Understood Controls): 127  (Ranked 345)  
+Max (Quickly Understood Controls): 127  (Ranked 346)  
 Sum: 808 (Ranked 292)  
-Diff (max vs sum): 53  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 127 |

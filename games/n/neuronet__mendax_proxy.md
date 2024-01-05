@@ -4,18 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 70.00% | ~19 |
-| Hello World | 67.00% | ~18 |
-| I Think, Therefore I Am | 67.00% | ~18 |
-| The Real Beginning | 63.00% | ~17 |
-| Shook Up | 56.00% | ~15 |
-| Vaccinated | 52.00% | ~14 |
-| The Birds and the Bees | 48.00% | ~13 |
-| Busybody | 44.00% | ~12 |
-| Task Master | 44.00% | ~12 |
+| First Day of the Rest of Your Life | 74.00% | ~20 |
+| Hello World | 70.00% | ~19 |
+| I Think, Therefore I Am | 70.00% | ~19 |
+| The Real Beginning | 67.00% | ~18 |
+| Shook Up | 59.00% | ~16 |
+| Vaccinated | 56.00% | ~15 |
+| The Birds and the Bees | 52.00% | ~14 |
+| Busybody | 48.00% | ~13 |
+| Task Master | 48.00% | ~13 |
 | An Acquired Taste | 41.00% | ~11 |
 | A Light in the Dark | 41.00% | ~11 |
 | Warning: Fragile | 41.00% | ~11 |
+| A Real Headache | 37.00% | ~10 |
 | The Guardian | 37.00% | ~10 |
 | Endgame | 37.00% | ~10 |
 | The Philosopher | 37.00% | ~10 |
@@ -24,29 +25,28 @@
 | The Companion | 37.00% | ~10 |
 | They Flock to Him | 37.00% | ~10 |
 | The Counsellor | 37.00% | ~10 |
-| A Real Headache | 33.00% | ~9 |
 | A Total Riot | 33.00% | ~9 |
 | Everyone Needs a Break | 33.00% | ~9 |
 | Knock Knock | 33.00% | ~9 |
-| That One Doesn't Count | 30.00% | ~8 |
+| That One Doesn't Count | 33.00% | ~9 |
+| Job Creator | 30.00% | ~8 |
 | Blood Begets Blood | 26.00% | ~7 |
 | Full Coverage | 26.00% | ~7 |
-| Job Creator | 26.00% | ~7 |
+| Obligatory Fraudulent Baking | 26.00% | ~7 |
+| Quidnunc | 26.00% | ~7 |
 | Social Butterfly | 26.00% | ~7 |
-| Obligatory Fraudulent Baking | 22.00% | ~6 |
 | Overseer | 22.00% | ~6 |
-| Quidnunc | 22.00% | ~6 |
 | Zonk! | 22.00% | ~6 |
 | A Little Eccentric | 19.00% | ~5 |
+| Couldn't Have Planned It Better Myself | 19.00% | ~5 |
 | Leave It to the Professionals | 19.00% | ~5 |
 | Ring of Fire | 19.00% | ~5 |
 | The Provocateur | 19.00% | ~5 |
-| Couldn't Have Planned It Better Myself | 15.00% | ~4 |
+| The Spice of Life | 19.00% | ~5 |
 | The Mentor | 15.00% | ~4 |
 | Tastes Like Regret | 15.00% | ~4 |
-| The Spice of Life | 15.00% | ~4 |
+| What They Don't Know Can't Hurt Them | 15.00% | ~4 |
 | Keeper of the People | 11.00% | ~3 |
-| What They Don't Know Can't Hurt Them | 11.00% | ~3 |
 | Wilful Ignorance | 11.00% | ~3 |
 | Double Agent | 7.00% | ~2 |
 | The Archetype | 0.00% | ~0 |
@@ -54,7 +54,7 @@
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 27 (Ranked 601)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

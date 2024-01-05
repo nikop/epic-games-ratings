@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1142,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -3852,9 +3852,9 @@
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_18",
@@ -3900,9 +3900,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 480
     },
     {
       "ID": "achievement_23",
@@ -3916,9 +3916,9 @@
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_25",
@@ -3932,17 +3932,17 @@
       "ID": "achievement_26",
       "SetID": "2cpn27e",
       "Name": "Vanquisher of the Volatile",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 69
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 308
     },
     {
       "ID": "achievement_28",
@@ -3964,9 +3964,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_30",
@@ -4052,9 +4052,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_40",
@@ -4178,8 +4178,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:09:46.8330353+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:09:24.3033065+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:58:06.9547929+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:09:46.8331033+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:57:50.367403+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:09:24.303362+00:00"
 }

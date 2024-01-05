@@ -2,7 +2,7 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 111,
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1974,
+  "EOS_Progressed": 1979,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -3710,6 +3710,11 @@
       "Time": "2024-01-05T14:10:14.5966857+00:00",
       "NumProgressed": 1974,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-05T15:09:51.8361612+00:00",
+      "NumProgressed": 1979,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3721,7 +3726,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1939
     },
     {
       "ID": "booty_call",
@@ -3729,7 +3734,7 @@
       "Name": "Booty Call",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "crash_and_burn",
@@ -3737,7 +3742,7 @@
       "Name": "Crash and Burn",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "digital_casanova",
@@ -3745,7 +3750,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1900
     },
     {
       "ID": "hold_my_beer",
@@ -3753,7 +3758,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1207
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3761,7 +3766,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "interrogation",
@@ -3785,7 +3790,7 @@
       "Name": "Not Alone",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "nueva_beginnings",
@@ -3793,7 +3798,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "only_thyme_will_tell",
@@ -3801,7 +3806,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "planting_the_seed",
@@ -3809,7 +3814,7 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "smooth_criminal",
@@ -3817,15 +3822,15 @@
       "Name": "Smooth Criminal",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "sore_loser",
       "SetID": "c4ipj3h",
       "Name": "Sore Loser",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 79
     },
     {
       "ID": "we_go_again",
@@ -3833,14 +3838,14 @@
       "Name": "We Go Again",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1974,
+      "Progressed": 1979,
       "Completed": 12
     }
   ],
@@ -3848,8 +3853,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:10:14.5966854+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:09:51.8361596+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:57:41.9145689+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:10:14.5967218+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:57:25.6414422+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:09:51.8361938+00:00"
 }

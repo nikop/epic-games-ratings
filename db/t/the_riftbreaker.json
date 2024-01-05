@@ -4,9 +4,9 @@
   "ProductSlug": "the-riftbreaker",
   "Ranking_Rating": 129,
   "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 388,
+  "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -1082,10 +1082,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 279,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-01-05T14:59:52.8500104+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 281,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 279,
+  "NumberOfAwards": 281,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1099,7 +1105,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1129,7 +1135,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 35
+      "Count": 36
     }
   ],
   "EOS_Progressed": 0,
@@ -1143,8 +1149,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2024-01-05T09:59:53.6550536+00:00",
+  "LastChanged": "2024-01-05T14:59:52.8500102+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:12.6476573+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:00:13.3790684+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:05:16.5290855+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:59:52.8500109+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:05:05.4104288+00:00"
 }

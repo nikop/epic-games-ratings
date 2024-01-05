@@ -6,35 +6,35 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,726 |
-| The Assault | 4.00% | ~30,181 |
-| Life is your teacher | 4.00% | ~30,181 |
-| Lightning Hands | 4.00% | ~30,181 |
-| The Hateful Pole Fighter | 2.00% | ~15,091 |
-| A Lady's Blood in the Snow | 2.00% | ~15,091 |
-| Lady Wing Chun | 2.00% | ~15,091 |
-| Kill Nil | 2.00% | ~15,091 |
-| Stuntmaster | 2.00% | ~15,091 |
-| Street Fighting | 2.00% | ~15,091 |
-| State of constant learning | 2.00% | ~15,091 |
-| Qi Gong: Breath | 2.00% | ~15,091 |
-| Qi Gong: Essence | 2.00% | ~15,091 |
-| I know Kung-Fu | 2.00% | ~15,091 |
-| Old Child | 2.00% | ~15,091 |
-| Path of the Prospect | 2.00% | ~15,091 |
-| Rumble in the Hangar | 2.00% | ~15,091 |
-| Diligence as a goal | 2.00% | ~1,277 |
-| Furious Fists | 1.00% | ~7,545 |
-| Scareless | 1.00% | ~7,545 |
-| Dance of the Praying Mantis | 1.00% | ~7,545 |
-| Qi Gong: Mind | 1.00% | ~7,545 |
-| Kung-Fu Tussle | 1.00% | ~7,545 |
-| Take damage to save time | 1.00% | ~7,545 |
-| Project Arena | 1.00% | ~638 |
+| The Old Grandmaster | 5.00% | ~37,729 |
+| The Assault | 4.00% | ~30,183 |
+| Life is your teacher | 4.00% | ~30,183 |
+| Lightning Hands | 4.00% | ~30,183 |
+| The Hateful Pole Fighter | 2.00% | ~15,092 |
+| A Lady's Blood in the Snow | 2.00% | ~15,092 |
+| Lady Wing Chun | 2.00% | ~15,092 |
+| Kill Nil | 2.00% | ~15,092 |
+| Stuntmaster | 2.00% | ~15,092 |
+| Street Fighting | 2.00% | ~15,092 |
+| State of constant learning | 2.00% | ~15,092 |
+| Qi Gong: Breath | 2.00% | ~15,092 |
+| Qi Gong: Essence | 2.00% | ~15,092 |
+| I know Kung-Fu | 2.00% | ~15,092 |
+| Old Child | 2.00% | ~15,092 |
+| Path of the Prospect | 2.00% | ~15,092 |
+| Rumble in the Hangar | 2.00% | ~15,092 |
+| Diligence as a goal | 2.00% | ~1,278 |
+| Furious Fists | 1.00% | ~7,546 |
+| Scareless | 1.00% | ~7,546 |
+| Dance of the Praying Mantis | 1.00% | ~7,546 |
+| Qi Gong: Mind | 1.00% | ~7,546 |
+| Kung-Fu Tussle | 1.00% | ~7,546 |
+| Take damage to save time | 1.00% | ~7,546 |
+| Project Arena | 1.00% | ~639 |
 | Fight the way you practice | 0.80% | ~511 |
-| Muk Yan Master | 0.60% | ~4,527 |
-| Tiger on Fire | 0.60% | ~4,527 |
-| Detective Story | 0.60% | ~4,527 |
+| Muk Yan Master | 0.60% | ~4,528 |
+| Tiger on Fire | 0.60% | ~4,528 |
+| Detective Story | 0.60% | ~4,528 |
 | Bloody Sport | 0.60% | ~383 |
 | Martial Hub | 0.60% | ~383 |
 | Source of Flying Daggers | 0.50% | ~3,773 |
@@ -43,13 +43,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.50% | ~3,773 |
 | Prodigal Child | 0.40% | ~3,018 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,018 |
-| The best strikes are the ones we avoid | 0.40% | ~255 |
+| The best strikes are the ones we avoid | 0.40% | ~256 |
 | Drunken Fighter | 0.30% | ~2,264 |
 | Martial Artist | 0.30% | ~2,264 |
 | Knowledge Greed | 0.30% | ~2,264 |
 | The Pit Protector | 0.30% | ~2,264 |
 | Come Snap With Me | 0.30% | ~2,264 |
-| Deadly Venom | 0.30% | ~191 |
+| Deadly Venom | 0.30% | ~192 |
 | Healing Memory | 0.20% | ~1,509 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,509 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,509 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~64 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 754,526 (Ranked 25)  
+Progressed: 754,586 (Ranked 25)  
 Completed: 12,974 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,16 +327,16 @@ Completed: 12,974 (1.72%) (Ranked 141)
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
 | 2024-01-04 | 753,906 | 12,974 |
-| 2024-01-05 | 754,526 | 12,974 |
+| 2024-01-05 | 754,586 | 12,974 |
 ## Awards
 Max (Great Boss Battles): 7,120  (Ranked 55)  
-Sum: 12,027 (Ranked 88)  
+Sum: 12,030 (Ranked 88)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,120 |
 | This game has Diverse Characters | 694 |
-| This game has Challenging Combat | 638 |
+| This game has Challenging Combat | 641 |
 | This game has Amazing Storytelling | 614 |
 | This game has Amazing Characters | 605 |
 | This game is Highly Recommended | 602 |
@@ -701,4 +701,4 @@ Diff (max vs sum): -33
 | 2024-01-02 | 4.82 | - | 7,079 | 11,978 |
 | 2024-01-03 | 4.82 | - | 7,088 | 11,987 |
 | 2024-01-04 | 4.82 | - | 7,102 | 12,005 |
-| 2024-01-05 | 4.82 | - | 7,120 | 12,027 |
+| 2024-01-05 | 4.82 | - | 7,120 | 12,030 |

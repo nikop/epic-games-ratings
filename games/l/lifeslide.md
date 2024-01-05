@@ -9,7 +9,7 @@
 | Wonderful World | 59.00% | ~200 |
 | Second Wind | 58.00% | ~197 |
 | Chain of Events | 58.00% | ~197 |
-| Change of Heart | 55.00% | ~186 |
+| Change of Heart | 56.00% | ~190 |
 | Turbulence | 37.00% | ~125 |
 | Endless Possibilities | 37.00% | ~125 |
 | Finding The Way | 24.00% | ~81 |
@@ -37,7 +37,7 @@
 | Survivor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 339 (Ranked 379)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

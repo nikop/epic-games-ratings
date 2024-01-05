@@ -27,11 +27,11 @@
 | Medicine Tycoon | 5.00% | ~14 |
 | Outdoor Decorator | 4.00% | ~11 |
 | Property Bro | 4.00% | ~11 |
+| Training Camp | 4.00% | ~11 |
 | Tear Down the Wall! | 3.00% | ~8 |
 | Supersoldier | 3.00% | ~8 |
 | Vive le Résistance | 3.00% | ~8 |
 | No News is Good News | 3.00% | ~8 |
-| Training Camp | 3.00% | ~8 |
 | Snowman | 2.00% | ~6 |
 | Human Resources | 2.00% | ~6 |
 | Winter Soldier | 2.00% | ~6 |
@@ -50,7 +50,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 283 (Ranked 399)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

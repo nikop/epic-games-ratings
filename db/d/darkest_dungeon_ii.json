@@ -6,8 +6,8 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10542,9 +10542,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131754,
+  "EOS_Progressed": 131761,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1227,
+  "EOS_NewPlayers": 1220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38452,6 +38452,11 @@
       "Time": "2024-01-05T14:10:01.416245+00:00",
       "NumProgressed": 131754,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T15:09:38.7890732+00:00",
+      "NumProgressed": 131761,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38591,7 +38596,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7905
+      "UsersEstimate": 7906
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38687,7 +38692,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7905
+      "UsersEstimate": 7906
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38983,7 +38988,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -38999,7 +39004,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "combat_kill_collector",
@@ -39007,7 +39012,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39021,9 +39026,9 @@
       "ID": "combat_kill_warlord_crusader",
       "SetID": "d3bcpc8",
       "Name": "No Mercy",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -39047,7 +39052,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39055,7 +39060,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "quest_complete_crusader",
@@ -39094,21 +39099,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131754,
+      "Progressed": 131761,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6623,
+      "Progressed": 6630,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-05T08:01:42.4898639+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:10:01.4162447+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:09:38.7890725+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:00:15.9105189+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:10:01.4165277+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:59:55.1167646+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:09:38.7892349+00:00"
 }

@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 780,
+  "EOS_Progressed": 781,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2906,6 +2906,11 @@
       "Time": "2024-01-05T14:09:27.0440115+00:00",
       "NumProgressed": 780,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T15:09:04.7193851+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2958,7 +2963,7 @@
       "Name": "Min\u0027s Promise",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -2998,7 +3003,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3054,7 +3059,7 @@
       "Name": "The First Bond",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3078,7 +3083,7 @@
       "Name": "First wall",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3086,7 +3091,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -3094,7 +3099,7 @@
       "Name": "Second wall",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3117,7 +3122,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 780,
+      "Progressed": 781,
       "Completed": 2
     }
   ],
@@ -3125,8 +3130,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:09:27.0440108+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:09:04.7193846+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:59:52.1746721+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:09:27.0440464+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:59:32.7035823+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:09:04.7194459+00:00"
 }

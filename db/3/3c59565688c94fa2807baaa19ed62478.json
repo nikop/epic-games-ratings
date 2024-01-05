@@ -4,7 +4,7 @@
   "ProductSlug": "thunder-ray-e9a2e3",
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 477,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -240,9 +240,9 @@
       "ID": "ACH_DEFEAT_SHAPE",
       "SetID": "b9ng4ag",
       "Name": "Shadow Boxing",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -256,9 +256,9 @@
       "ID": "ACH_UNLOCK_ALL_SPECIALS",
       "SetID": "b9ng4ag",
       "Name": "Thunder Fist",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
@@ -271,8 +271,8 @@
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:10:08.7672099+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:09:45.9532766+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:55.8803761+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:00:24.7171171+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:10:08.7672177+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:00:03.9775207+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:09:45.9532847+00:00"
 }

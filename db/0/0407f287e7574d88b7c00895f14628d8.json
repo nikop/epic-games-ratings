@@ -3,8 +3,8 @@
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1005,9 +1005,9 @@
       "ID": "m2",
       "SetID": "b1ggf28",
       "Name": "Keep Ordering",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "m3",
@@ -1045,9 +1045,9 @@
       "ID": "storya1",
       "SetID": "b1ggf28",
       "Name": "World-Renowned",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "storya2",
@@ -1085,9 +1085,9 @@
       "ID": "x1",
       "SetID": "b1ggf28",
       "Name": "Happiness Maintainer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "x2",
@@ -1164,8 +1164,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-05T13:12:22.2999259+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:03:20.2610999+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:02:59.7702087+00:00",
-  "LastUpdate_Achievements": "2024-01-05T13:12:22.2999725+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:02:57.6043929+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:03:20.2611381+00:00"
 }

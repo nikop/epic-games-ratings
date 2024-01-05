@@ -6,7 +6,7 @@
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -13817,10 +13817,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 650885,
       "NumberOfAwardsMax": 91181
+    },
+    {
+      "Time": "2024-01-05T14:57:54.0439231+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 650978,
+      "NumberOfAwardsMax": 91181
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 650885,
+  "NumberOfAwards": 650978,
   "NumberOfAwardsMax": 91181,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13846,7 +13852,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 69027
+      "Count": 69120
     },
     {
       "Text": "This game has Challenging Combat",
@@ -13896,8 +13902,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2024-01-05T13:58:10.6268177+00:00",
+  "LastChanged": "2024-01-05T14:57:54.0439229+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.3446205+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:58:10.6268187+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:09:16.3257816+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:57:54.0439237+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:08:53.893253+00:00"
 }

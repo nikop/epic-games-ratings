@@ -3,7 +3,7 @@
   "Name": "Truck Driver",
   "ProductSlug": "truck-driver",
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.639357+00:00",
   "LastChanged": "2023-03-31T05:57:47.6393571+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:39.4736057+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:02:48.9487533+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:10:10.6375497+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:02:47.2453487+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:09:47.8602963+00:00"
 }

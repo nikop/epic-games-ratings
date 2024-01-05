@@ -28,8 +28,8 @@ Rating: 4.63 (Ranked 358)
 | Azorian Anniversary | 0.70% | ~62 |
 | Fae Farmer | 0.60% | ~53 |
 | Got to Catch Them All | 0.60% | ~53 |
+| Rumble in the Jumble | 0.60% | ~53 |
 | Scattered Scroll Scrounger | 0.50% | ~44 |
-| Rumble in the Jumble | 0.50% | ~44 |
 | Fanatical Farmer | 0.50% | ~44 |
 | Azorian Hat Dance | 0.50% | ~7 |
 | Chatty Neighbor | 0.40% | ~35 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 358)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,873 (Ranked 184)  
+Progressed: 8,874 (Ranked 184)  
 Completed: 1 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 1 (0.01%) (Ranked 369)
 | 2024-01-02 | 8,830 | 1 |
 | 2024-01-03 | 8,841 | 1 |
 | 2024-01-04 | 8,863 | 1 |
-| 2024-01-05 | 8,873 | 1 |
+| 2024-01-05 | 8,874 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

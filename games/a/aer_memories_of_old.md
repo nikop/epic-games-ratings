@@ -1,24 +1,24 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.44 (Ranked 703)  
+Rating: 4.44 (Ranked 704)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~21,275 |
-| Mama? | 27.00% | ~7,558 |
-| People's Haven | 18.00% | ~5,039 |
-| Cartographer | 16.00% | ~4,479 |
-| Knowledge for Power | 14.00% | ~3,919 |
-| Antlers of Stone | 14.00% | ~3,919 |
-| Gaze into the abyss | 13.00% | ~3,639 |
-| Mausoleum of Ice | 13.00% | ~3,639 |
-| Wings of Stone | 12.00% | ~3,359 |
-| Equilibrium | 12.00% | ~3,359 |
-| In the belly of the beast | 11.00% | ~3,079 |
-| Condor condo | 10.00% | ~2,799 |
-| Memorial | 9.00% | ~2,519 |
+| Light at the end of the tunnel | 76.00% | ~21,282 |
+| Mama? | 27.00% | ~7,561 |
+| People's Haven | 18.00% | ~5,040 |
+| Cartographer | 16.00% | ~4,480 |
+| Knowledge for Power | 14.00% | ~3,920 |
+| Antlers of Stone | 14.00% | ~3,920 |
+| Gaze into the abyss | 13.00% | ~3,640 |
+| Mausoleum of Ice | 13.00% | ~3,640 |
+| Wings of Stone | 12.00% | ~3,360 |
+| Equilibrium | 12.00% | ~3,360 |
+| In the belly of the beast | 11.00% | ~3,080 |
+| Condor condo | 10.00% | ~2,800 |
+| Memorial | 9.00% | ~2,520 |
 | An uninvited guest | 7.00% | ~1,960 |
 | Tails of Stone | 6.00% | ~1,680 |
 | Baa from the past | 6.00% | ~1,680 |
@@ -27,8 +27,8 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,400 |
 | Hide and Seek | 4.00% | ~1,120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,994 (Ranked 143)  
-Completed: 511 (1.83%) (Ranked 138)  
+Progressed: 28,002 (Ranked 143)  
+Completed: 511 (1.82%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,7 +287,7 @@ Completed: 511 (1.83%) (Ranked 138)
 | 2024-01-02 | 27,776 | 506 |
 | 2024-01-03 | 27,866 | 510 |
 | 2024-01-04 | 27,953 | 511 |
-| 2024-01-05 | 27,994 | 511 |
+| 2024-01-05 | 28,002 | 511 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

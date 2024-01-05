@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 492,
+  "EOS_Progressed": 493,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -728,6 +728,11 @@
       "Time": "2024-01-04T21:05:44.3841074+00:00",
       "NumProgressed": 492,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T15:05:07.5638213+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -763,7 +768,7 @@
       "Name": "Experimentalist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "collect-discounted-items1",
@@ -787,7 +792,7 @@
       "Name": "No Mercy",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "different-items1",
@@ -819,7 +824,7 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "finished-quest-flight",
@@ -827,7 +832,7 @@
       "Name": "Great Flight",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "finished-quest-monster",
@@ -843,7 +848,7 @@
       "Name": "Feed a God",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "finished-quest-pit",
@@ -875,7 +880,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "finished-quest-secret",
@@ -883,7 +888,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "finished-quest-sword",
@@ -913,9 +918,9 @@
       "ID": "last-hero",
       "SetID": "799afm0",
       "Name": "Last Man Standing",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 153
     },
     {
       "ID": "save-zombie",
@@ -963,7 +968,7 @@
       "Name": "Good start!",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "win-koth-fights1",
@@ -979,7 +984,7 @@
       "Name": "Soldier",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "win-koth-fights3",
@@ -995,7 +1000,7 @@
       "Name": "Through the Darkness",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "win-with-3-cultists",
@@ -1018,7 +1023,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 492,
+      "Progressed": 493,
       "Completed": 1
     }
   ],
@@ -1026,8 +1031,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:05:18.5619371+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:05:07.5638208+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.2003375+00:00",
-  "LastUpdate_Ratings": "2024-01-05T13:58:46.1177122+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:05:18.5619749+00:00"
+  "LastUpdate_Ratings": "2024-01-05T14:58:28.6772345+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:05:07.5638448+00:00"
 }

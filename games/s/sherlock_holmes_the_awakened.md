@@ -5,21 +5,21 @@ Rating: 4.50 (Ranked 615)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~878 |
-| To Hell In A Handcart | 61.00% | ~850 |
+| Read Between The Lines | 63.00% | ~879 |
+| To Hell In A Handcart | 61.00% | ~851 |
 | High Profile | 55.00% | ~767 |
 | Whispers In The Dark | 52.00% | ~725 |
-| Fond Memories | 50.00% | ~697 |
-| A Method To His Madness | 48.00% | ~669 |
-| History Check | 47.00% | ~655 |
-| The New World | 45.00% | ~627 |
-| Open Sesame | 44.00% | ~613 |
-| Sticky Fingers | 44.00% | ~613 |
-| Lock, Stock, And Barrel | 43.00% | ~599 |
-| Gaze Into The Abyss | 43.00% | ~599 |
-| Knives Out | 43.00% | ~599 |
-| Land, Ho! | 43.00% | ~599 |
-| Back In The Saddle | 42.00% | ~585 |
+| Fond Memories | 50.00% | ~698 |
+| A Method To His Madness | 48.00% | ~670 |
+| History Check | 47.00% | ~656 |
+| The New World | 45.00% | ~628 |
+| Gaze Into The Abyss | 44.00% | ~614 |
+| Open Sesame | 44.00% | ~614 |
+| Sticky Fingers | 44.00% | ~614 |
+| Lock, Stock, And Barrel | 43.00% | ~600 |
+| Knives Out | 43.00% | ~600 |
+| Land, Ho! | 43.00% | ~600 |
+| Back In The Saddle | 42.00% | ~586 |
 | No Man Is An Island | 41.00% | ~572 |
 | At Wits' End | 41.00% | ~572 |
 | Fhtagn! | 39.00% | ~544 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 615)
 | Big Breakthrough | 12.00% | ~167 |
 | Reawakened | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,394 (Ranked 270)  
+Progressed: 1,395 (Ranked 270)  
 Completed: 40 (2.87%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,6 +250,7 @@ Completed: 40 (2.87%) (Ranked 114)
 | 2024-01-02 | 1,383 | 39 |
 | 2024-01-03 | 1,386 | 40 |
 | 2024-01-04 | 1,394 | 40 |
+| 2024-01-05 | 1,395 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,18 +10,18 @@
 | Kind heart | 48.00% | ~62 |
 | A good start | 46.00% | ~60 |
 | Runes collector | 46.00% | ~60 |
-| Skilled rider | 43.00% | ~56 |
+| Skilled rider | 44.00% | ~57 |
 | Devil's dozen | 26.00% | ~34 |
 | It doesn't work like that | 23.00% | ~30 |
 | Unstoppable Curiosity | 18.00% | ~23 |
-| This is just the beginning... | 16.00% | ~21 |
+| This is just the beginning... | 17.00% | ~22 |
 | A small victory | 15.00% | ~20 |
 | Gold Digger | 11.00% | ~14 |
 | Time is on my side | 8.00% | ~10 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 130 (Ranked 467)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

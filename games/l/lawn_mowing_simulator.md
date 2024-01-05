@@ -1,32 +1,32 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.08 (Ranked 1,016)  
+Rating: 4.08 (Ranked 1,017)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~548,634 |
-| Every story has a beginning | 36.00% | ~250,011 |
-| The first of many | 31.00% | ~215,287 |
-| Positive word of mouth | 18.00% | ~125,005 |
-| Lawn in the U.S.A. | 15.00% | ~104,171 |
-| Blade Runner | 9.00% | ~62,503 |
-| Credible | 7.00% | ~48,613 |
-| Teamwork makes the dream work | 6.00% | ~41,668 |
-| Where there's muck there's brass | 4.00% | ~27,779 |
-| Bigger and better | 4.00% | ~27,779 |
-| Aggressive expansion | 4.00% | ~27,779 |
-| Size isn't everything | 3.00% | ~20,834 |
-| Close shave | 3.00% | ~20,834 |
-| Established | 3.00% | ~20,834 |
-| Fighting on all fronts | 2.00% | ~13,889 |
-| Mighty Mowing Park Ranger | 2.00% | ~13,889 |
-| Every good deed… | 2.00% | ~13,889 |
-| Leaner and meaner | 2.00% | ~13,889 |
-| The top of the mountain | 2.00% | ~13,889 |
-| First step on the ladder | 2.00% | ~13,889 |
-| Trusted | 2.00% | ~13,889 |
+| The dream begins | 79.00% | ~548,649 |
+| Every story has a beginning | 36.00% | ~250,017 |
+| The first of many | 31.00% | ~215,293 |
+| Positive word of mouth | 18.00% | ~125,009 |
+| Lawn in the U.S.A. | 15.00% | ~104,174 |
+| Blade Runner | 9.00% | ~62,504 |
+| Credible | 7.00% | ~48,615 |
+| Teamwork makes the dream work | 6.00% | ~41,670 |
+| Where there's muck there's brass | 4.00% | ~27,780 |
+| Bigger and better | 4.00% | ~27,780 |
+| Aggressive expansion | 4.00% | ~27,780 |
+| Size isn't everything | 3.00% | ~20,835 |
+| Close shave | 3.00% | ~20,835 |
+| Established | 3.00% | ~20,835 |
+| Fighting on all fronts | 2.00% | ~13,890 |
+| Mighty Mowing Park Ranger | 2.00% | ~13,890 |
+| Every good deed… | 2.00% | ~13,890 |
+| Leaner and meaner | 2.00% | ~13,890 |
+| The top of the mountain | 2.00% | ~13,890 |
+| First step on the ladder | 2.00% | ~13,890 |
+| Trusted | 2.00% | ~13,890 |
 | Earn your stripes | 0.90% | ~6,250 |
 | Lawn & Order | 0.90% | ~6,250 |
 | The grass is always greener | 0.90% | ~6,250 |
@@ -61,8 +61,8 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~694 |
 | Mo mowers, mo problems | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,474 (Ranked 29)  
-Completed: 19 (0.00%) (Ranked 393)  
+Progressed: 694,493 (Ranked 29)  
+Completed: 19 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -321,7 +321,7 @@ Completed: 19 (0.00%) (Ranked 393)
 | 2024-01-02 | 693,756 | 19 |
 | 2024-01-03 | 694,017 | 19 |
 | 2024-01-04 | 694,323 | 19 |
-| 2024-01-05 | 694,474 | 19 |
+| 2024-01-05 | 694,493 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 310)  
 Sum: 990 (Ranked 273)  

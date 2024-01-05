@@ -12,8 +12,8 @@ Rating: 4.55 (Ranked 523)
 | Archer | 42.00% | ~68 |
 | The brave little tailor | 40.00% | ~65 |
 | Field hand | 39.00% | ~64 |
+| Samaritan | 32.00% | ~52 |
 | Well-to-do | 32.00% | ~52 |
-| Samaritan | 31.00% | ~51 |
 | The merciful one | 29.00% | ~47 |
 | Ladies' man | 29.00% | ~47 |
 | Ferocious wild boars | 24.00% | ~39 |
@@ -57,7 +57,7 @@ Rating: 4.55 (Ranked 523)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 163 (Ranked 443)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,7 +2,7 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 811,
+  "Ranking_Rating": 812,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 294,
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 950,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -3371,6 +3371,11 @@
       "Time": "2024-01-05T12:05:10.1829903+00:00",
       "NumProgressed": 949,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T15:04:20.0303252+00:00",
+      "NumProgressed": 950,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3438,7 +3443,7 @@
       "Name": "Spreading Fear",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "pack-and-sell",
@@ -3446,15 +3451,15 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 285
+      "UsersEstimate": 276
     },
     {
       "ID": "product-profit",
@@ -3502,7 +3507,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "unlock-residences",
@@ -3510,7 +3515,7 @@
       "Name": "Pampered Life",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "upgrade-building",
@@ -3526,22 +3531,22 @@
       "Name": "Operation Odessa",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 950,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-05T14:04:30.605327+00:00",
+  "LastChanged_Achievements": "2024-01-05T15:04:20.0303247+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:02:53.0150888+00:00",
-  "LastUpdate_Achievements": "2024-01-05T14:04:30.6053757+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:02:51.0246949+00:00",
+  "LastUpdate_Achievements": "2024-01-05T15:04:20.0303525+00:00"
 }

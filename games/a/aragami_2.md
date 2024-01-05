@@ -6,18 +6,18 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,701 |
-| First Steps | 80.00% | ~35,872 |
+| Awakening | 93.00% | ~41,702 |
+| First Steps | 80.00% | ~35,873 |
 | Control the Shadows | 67.00% | ~30,043 |
-| Tools of the Trade | 63.00% | ~28,249 |
-| Apprentice | 60.00% | ~26,904 |
+| Tools of the Trade | 63.00% | ~28,250 |
+| Apprentice | 60.00% | ~26,905 |
 | Secret Seeker | 57.00% | ~25,559 |
-| Forge of Assassins | 55.00% | ~24,662 |
+| Forge of Assassins | 55.00% | ~24,663 |
 | Revenant | 52.00% | ~23,317 |
 | I don’t Care! | 45.00% | ~20,178 |
 | Bird of Prey | 37.00% | ~16,591 |
 | Engraved with Power | 32.00% | ~14,349 |
-| Lady | 31.00% | ~13,900 |
+| Lady | 31.00% | ~13,901 |
 | Fashionable Assassin | 27.00% | ~12,107 |
 | Apex Predator | 24.00% | ~10,762 |
 | Soul Reaver | 23.00% | ~10,313 |
@@ -26,12 +26,12 @@ Number of Ratings: 88  (23.09.2022)
 | Clinging to Life | 18.00% | ~8,071 |
 | Burning | 17.00% | ~7,623 |
 | Look Behind You | 17.00% | ~7,623 |
-| Sleeping on the Job | 16.00% | ~7,174 |
+| Sleeping on the Job | 16.00% | ~7,175 |
 | Family | 14.00% | ~6,278 |
 | War Engines | 14.00% | ~6,278 |
 | Signature Move | 14.00% | ~6,278 |
 | Ruse | 12.00% | ~5,381 |
-| Master Ninja | 11.00% | ~4,932 |
+| Master Ninja | 11.00% | ~4,933 |
 | Hatching | 10.00% | ~4,484 |
 | Bonds | 9.00% | ~4,036 |
 | Get Over Here | 9.00% | ~4,036 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~897 |
 | Legacy | 2.00% | ~897 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,840 (Ranked 128)  
+Progressed: 44,841 (Ranked 128)  
 Completed: 248 (0.55%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 248 (0.55%) (Ranked 212)
 | 2024-01-02 | 44,767 | 247 |
 | 2024-01-03 | 44,793 | 248 |
 | 2024-01-04 | 44,826 | 248 |
-| 2024-01-05 | 44,840 | 248 |
+| 2024-01-05 | 44,841 | 248 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
