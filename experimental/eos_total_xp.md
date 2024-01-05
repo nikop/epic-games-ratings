@@ -628,6 +628,7 @@
 | [Rogue Spirit](../games/r/rogue_spirit.md) | 60 | 1,000 |
 | [Runbow](../games/r/runbow.md) | 46 | 1,000 |
 | [Sable](../games/s/sable.md) | 56 | 1,000 |
+| [Sail Forth](../games/s/sail_forth.md) | 47 | 1,000 |
 | [Saint Kotar](../games/s/saint_kotar.md) | 45 | 1,000 |
 | [Saints Row IV Re-Elected](../games/s/saints_row_iv_re-elected.md) | 72 | 1,000 |
 | [Salt and Sacrifice](../games/s/salt_and_sacrifice.md) | 53 | 1,000 |
