@@ -5,21 +5,22 @@ Rating: 4.50 (Ranked 614)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,659 |
-| Advancement | 8.00% | ~2,661 |
-| Meticulously Efficient | 8.00% | ~2,661 |
+| Stylish | 11.00% | ~3,660 |
+| Advancement | 8.00% | ~2,662 |
+| Meticulously Efficient | 8.00% | ~2,662 |
 | Discovery | 6.00% | ~1,996 |
 | Solo Capture | 6.00% | ~1,996 |
 | Swift Rift Removers | 6.00% | ~1,996 |
-| Clutch Capture | 5.00% | ~1,663 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,663 |
-| Fully Upgraded | 5.00% | ~1,663 |
-| Teamwork | 5.00% | ~1,663 |
-| There you are! | 5.00% | ~1,663 |
-| Vaporous Expansion | 5.00% | ~1,663 |
+| Clutch Capture | 5.00% | ~1,664 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,664 |
+| Fully Upgraded | 5.00% | ~1,664 |
+| Teamwork | 5.00% | ~1,664 |
+| There you are! | 5.00% | ~1,664 |
+| Vaporous Expansion | 5.00% | ~1,664 |
 | Cultured | 4.00% | ~1,331 |
 | Daily Dose | 4.00% | ~1,331 |
 | Ghostbuster In Training | 4.00% | ~1,331 |
+| Right back at ya | 4.00% | ~1,331 |
 | Whoopsie | 4.00% | ~1,331 |
 | Animated | 3.00% | ~998 |
 | Back Off | 3.00% | ~998 |
@@ -28,7 +29,6 @@ Rating: 4.50 (Ranked 614)
 | Icing on the Cake | 3.00% | ~998 |
 | Legions | 3.00% | ~998 |
 | Pesky Jerks | 3.00% | ~998 |
-| Right back at ya | 3.00% | ~998 |
 | Seasoned | 3.00% | ~998 |
 | Side Hustle | 3.00% | ~998 |
 | Summoner | 3.00% | ~998 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 614)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,266 (Ranked 136)  
+Progressed: 33,270 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 71 (0.21%) (Ranked 271)
 | 2024-01-02 | 33,151 | 71 |
 | 2024-01-03 | 33,206 | 71 |
 | 2024-01-04 | 33,258 | 71 |
-| 2024-01-05 | 33,266 | 71 |
+| 2024-01-05 | 33,270 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 327  (Ranked 255)  
-Sum: 2,949 (Ranked 186)  
+Sum: 2,950 (Ranked 186)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -333,7 +333,7 @@ Diff (max vs sum): 69
 | This game is Extremely Fun | 285 |
 | This game is Relaxing | 284 |
 | This game has Amazing Characters | 273 |
-| This game has Quickly Understood Controls | 270 |
+| This game has Quickly Understood Controls | 271 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -596,3 +596,4 @@ Diff (max vs sum): 69
 | 2024-01-02 | 4.50 | 326 | 2,947 |
 | 2024-01-03 | 4.50 | 327 | 2,948 |
 | 2024-01-04 | 4.50 | 327 | 2,949 |
+| 2024-01-05 | 4.50 | 327 | 2,950 |

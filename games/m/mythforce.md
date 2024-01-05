@@ -8,8 +8,8 @@ Number of Ratings: 285  (23.09.2022)
 | ---- | ---------- | ----- |
 | Faceroll the Bones | 27.00% | ~1,643 |
 | Hit 'Em Where It Hurts | 26.00% | ~1,582 |
+| Perk Shard Punch Card | 26.00% | ~1,582 |
 | Debuff Dogpile | 25.00% | ~1,521 |
-| Perk Shard Punch Card | 25.00% | ~1,521 |
 | That'll Leave a Mark | 25.00% | ~1,521 |
 | Mushroom Madness! | 23.00% | ~1,400 |
 | First Strike | 21.00% | ~1,278 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~24 |
 | Deadalus and Loving It | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,085 (Ranked 198)  
+Progressed: 6,085 (Ranked 199)  
 Completed: 4 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -109,11 +109,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2374,
+  "EOS_Progressed": 2381,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 32,
-  "EOS_Completed_Percentage": 6.28,
+  "EOS_Completed_Percentage": 6.26,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6384,6 +6384,11 @@
       "Time": "2024-01-05T01:51:29.5340563+00:00",
       "NumProgressed": 2374,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2024-01-05T05:04:33.0075374+00:00",
+      "NumProgressed": 2381,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 25,
@@ -6395,7 +6400,7 @@
       "Name": "I did it",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "END_GOOD",
@@ -6403,7 +6408,7 @@
       "Name": "In this together",
       "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "META_ALL_LINK",
@@ -6411,7 +6416,7 @@
       "Name": "Peace walker",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6419,7 +6424,7 @@
       "Name": "Cable guy",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 617
+      "UsersEstimate": 619
     },
     {
       "ID": "META_FIRST_LINK",
@@ -6427,15 +6432,15 @@
       "Name": "A good beginning",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 688
+      "UsersEstimate": 690
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 617
+      "UsersEstimate": 595
     },
     {
       "ID": "META_RESULT_1-2",
@@ -6443,7 +6448,7 @@
       "Name": "Open door",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6451,7 +6456,7 @@
       "Name": "Free at last",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 429
     },
     {
       "ID": "META_RESULT_1-4",
@@ -6459,7 +6464,7 @@
       "Name": "Feels like springtime",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6467,7 +6472,7 @@
       "Name": "A great audience",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "META_RESULT_2-4",
@@ -6475,7 +6480,7 @@
       "Name": "For its own good",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "META_RESULT_3-4",
@@ -6483,7 +6488,7 @@
       "Name": "A Link to the Past",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -6491,7 +6496,7 @@
       "Name": "Alchemists Express",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6499,7 +6504,7 @@
       "Name": "Rascal",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -6507,15 +6512,15 @@
       "Name": "True G3M4R",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 714
     },
     {
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1000
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6531,7 +6536,7 @@
       "Name": "Champollion",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -6539,7 +6544,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1405
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6547,7 +6552,7 @@
       "Name": "Scholar",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 736
+      "UsersEstimate": 738
     },
     {
       "ID": "PROGRESS_N1",
@@ -6555,7 +6560,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1262
     },
     {
       "ID": "PROGRESS_N2",
@@ -6563,7 +6568,7 @@
       "Name": "The great escape",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1048
     },
     {
       "ID": "PROGRESS_N3",
@@ -6571,7 +6576,7 @@
       "Name": "A new dawn",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 855
+      "UsersEstimate": 857
     },
     {
       "ID": "PROGRESS_N4",
@@ -6579,7 +6584,7 @@
       "Name": "The darkness",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 712
+      "UsersEstimate": 714
     },
     {
       "ID": "PROGRESS_N5",
@@ -6587,14 +6592,14 @@
       "Name": "One last step",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 641
+      "UsersEstimate": 643
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2374,
+      "Progressed": 2381,
       "Completed": 149
     }
   ],
@@ -6602,8 +6607,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-04T06:02:50.6973409+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:05:33.8684109+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:04:33.007537+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
   "LastUpdate_Ratings": "2024-01-05T03:02:43.9925955+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:05:33.8684618+00:00"
+  "LastUpdate_Achievements": "2024-01-05T05:04:33.0075712+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 819,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 152,
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20194,
+  "EOS_Progressed": 20203,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1702,
+  "EOS_NewPlayers": 1695,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6926,6 +6926,11 @@
       "Time": "2024-01-05T03:06:29.1551291+00:00",
       "NumProgressed": 20194,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-01-05T05:05:12.8825614+00:00",
+      "NumProgressed": 20203,
+      "NumCompleted": 93
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -6970,7 +6975,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -6986,7 +6991,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -7017,7 +7022,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 20194,
+      "Progressed": 20203,
       "Completed": 93
     }
   ],
@@ -7025,8 +7030,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:06:29.1551288+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:05:12.8825612+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:24.8589698+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:01:29.0055227+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:06:29.1551731+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:00:02.4754908+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:05:12.8825957+00:00"
 }

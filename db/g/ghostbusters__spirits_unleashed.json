@@ -3859,10 +3859,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2949,
       "NumberOfAwardsMax": 327
+    },
+    {
+      "Time": "2024-01-05T05:00:13.3293766+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2950,
+      "NumberOfAwardsMax": 327
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2949,
+  "NumberOfAwards": 2950,
   "NumberOfAwardsMax": 327,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3900,7 +3906,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 270
+      "Count": 271
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3939,9 +3945,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33266,
+  "EOS_Progressed": 33270,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24609,6 +24615,11 @@
       "Time": "2024-01-05T02:30:59.2253995+00:00",
       "NumProgressed": 33266,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-05T05:08:43.8268246+00:00",
+      "NumProgressed": 33270,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24620,7 +24631,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "Animated",
@@ -24660,7 +24671,7 @@
       "Name": "Clutch Capture",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "Collect_Spores",
@@ -24668,7 +24679,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "Collector",
@@ -24732,7 +24743,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "Escape_Artist",
@@ -24756,7 +24767,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "GB_In_Training",
@@ -24866,9 +24877,9 @@
       "ID": "Right_Back",
       "SetID": "819popo",
       "Name": "Right back at ya",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 1331
     },
     {
       "ID": "Rivalry",
@@ -24924,7 +24935,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3659
+      "UsersEstimate": 3660
     },
     {
       "ID": "Summoner",
@@ -24956,7 +24967,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "Terrifying",
@@ -24980,7 +24991,7 @@
       "Name": "There you are!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "Tobins_Prodigy",
@@ -25004,7 +25015,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "Welcome_Crew",
@@ -25027,16 +25038,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33266,
+      "Progressed": 33270,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-04T01:46:13.3751253+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:09:05.716436+00:00",
+  "LastChanged": "2024-01-05T05:00:13.3293765+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:08:43.8268243+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:01:45.0920985+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:09:05.7165728+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:00:13.3293768+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:08:43.8269415+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 467,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 72,
@@ -3874,9 +3874,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242369,
+  "EOS_Progressed": 242375,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30729,6 +30729,11 @@
       "Time": "2024-01-05T02:32:16.8665312+00:00",
       "NumProgressed": 242369,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-05T05:10:00.9574134+00:00",
+      "NumProgressed": 242375,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -30740,7 +30745,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -30828,7 +30833,7 @@
       "Name": "Max Damage!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "DEPTH12",
@@ -30852,7 +30857,7 @@
       "Name": "A Rough Road",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "DEPTH6",
@@ -31060,7 +31065,7 @@
       "Name": "Berzerker",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "HIGHCLARITY",
@@ -31332,7 +31337,7 @@
       "Name": "Chain Reaction",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "MULTIKILL30",
@@ -31370,9 +31375,9 @@
       "ID": "PARRY50TIMES",
       "SetID": "5l8oe0h",
       "Name": "Deflection",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 2181
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -31444,7 +31449,7 @@
       "Name": "Antivenom",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "REROLL30TIMES",
@@ -31564,7 +31569,7 @@
       "Name": "The Long Run",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "WIN0ATTACK",
@@ -31836,20 +31841,20 @@
       "Name": "Matching",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242369,
+      "Progressed": 242375,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3849,
+      "Progressed": 3855,
       "Completed": 421
     }
   ],
@@ -31857,8 +31862,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-04T22:00:17.6708288+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:10:54.3470876+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:10:00.9574131+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:00:21.2348689+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:10:54.3473644+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:59:18.1552258+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:10:00.9576902+00:00"
 }

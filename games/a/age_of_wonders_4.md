@@ -7,10 +7,10 @@ Rating: 4.62 (Ranked 377)
 | ---- | ---------- | ----- |
 | Secret Technique | 14.00% | ~961 |
 | Realm Estate | 13.00% | ~892 |
-| A Wonderful Discovery | 12.00% | ~823 |
-| Walls Cannot Stop Us | 12.00% | ~823 |
+| A Wonderful Discovery | 12.00% | ~824 |
+| Walls Cannot Stop Us | 12.00% | ~824 |
 | From Friends to Family | 10.00% | ~686 |
-| Bone Peddler | 9.00% | ~617 |
+| Bone Peddler | 9.00% | ~618 |
 | Magical Synergy | 8.00% | ~549 |
 | There Can Only Be One! | 7.00% | ~480 |
 | Full Ascension | 7.00% | ~480 |
@@ -20,10 +20,10 @@ Rating: 4.62 (Ranked 377)
 | Valley of Wonders | 5.00% | ~343 |
 | Intimidation Tactics | 5.00% | ~343 |
 | But this one is mine | 5.00% | ~343 |
-| Return of the Wizard King | 4.00% | ~274 |
-| Digging for Treasure | 4.00% | ~274 |
-| My Final Form | 4.00% | ~274 |
-| Impenetrable Fortress | 4.00% | ~274 |
+| Return of the Wizard King | 4.00% | ~275 |
+| Digging for Treasure | 4.00% | ~275 |
+| My Final Form | 4.00% | ~275 |
+| Impenetrable Fortress | 4.00% | ~275 |
 | Enchanted Archipelago | 3.00% | ~206 |
 | Preparation Is Everything | 3.00% | ~206 |
 | Fiery Friend | 3.00% | ~206 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 377)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,861 (Ranked 196)  
+Progressed: 6,864 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 7 (0.10%) (Ranked 307)
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
-| 2024-01-05 | 6,861 | 7 |
+| 2024-01-05 | 6,864 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 478)  
 Sum: 209 (Ranked 411)  

@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 467,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1063,9 +1063,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9768,
+  "EOS_Progressed": 9769,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10593,6 +10593,11 @@
       "Time": "2024-01-04T22:10:05.2713591+00:00",
       "NumProgressed": 9768,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T05:09:09.227509+00:00",
+      "NumProgressed": 9769,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10756,7 +10761,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -10852,7 +10857,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -10908,7 +10913,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -10924,7 +10929,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -10963,7 +10968,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9768,
+      "Progressed": 9769,
       "Completed": 10
     }
   ],
@@ -10971,8 +10976,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-04T11:02:12.5493527+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:09:42.0353547+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:09:09.2275088+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:57:20.3147941+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:09:42.0354324+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:57:18.943939+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:09:09.2275768+00:00"
 }

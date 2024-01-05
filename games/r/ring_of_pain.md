@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 467)  
+Rating: 4.58 (Ranked 469)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,13 +12,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Quick Escape | 1.00% | ~2,424 |
 | Uncharted Territory | 1.00% | ~2,424 |
 | An Offering | 1.00% | ~2,424 |
-| Matching | 1.00% | ~38 |
+| Matching | 1.00% | ~39 |
 | Nothing To Lose | 0.90% | ~2,181 |
 | Heavy Hitter | 0.90% | ~2,181 |
 | That Was Quick | 0.90% | ~2,181 |
 | Colorful Corpse | 0.90% | ~2,181 |
 | Goodbye, Frog Friend | 0.90% | ~2,181 |
 | A Donation | 0.90% | ~2,181 |
+| Deflection | 0.90% | ~2,181 |
 | Explorer | 0.90% | ~2,181 |
 | Not Touching You | 0.90% | ~35 |
 | Ambitious Intent | 0.80% | ~1,939 |
@@ -29,7 +30,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | What's Yours Is Mine | 0.80% | ~1,939 |
 | Spine Breaker | 0.80% | ~1,939 |
 | C-C-Combo | 0.80% | ~1,939 |
-| Deflection | 0.80% | ~1,939 |
 | Sneaky | 0.80% | ~1,939 |
 | Dig Your Own Grave | 0.70% | ~1,697 |
 | Who To Trust? | 0.70% | ~1,697 |
@@ -59,13 +59,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.50% | ~1,212 |
 | Spreading Plague | 0.50% | ~1,212 |
 | Acid Bath | 0.50% | ~1,212 |
-| Thank You, Friend | 0.40% | ~969 |
-| Max Damage! | 0.40% | ~969 |
-| A Rough Road | 0.40% | ~969 |
-| Berzerker | 0.40% | ~969 |
-| Chain Reaction | 0.40% | ~969 |
-| Antivenom | 0.40% | ~969 |
-| The Long Run | 0.40% | ~969 |
+| Thank You, Friend | 0.40% | ~970 |
+| Max Damage! | 0.40% | ~970 |
+| A Rough Road | 0.40% | ~970 |
+| Berzerker | 0.40% | ~970 |
+| Chain Reaction | 0.40% | ~970 |
+| Antivenom | 0.40% | ~970 |
+| The Long Run | 0.40% | ~970 |
 | Who Needs Luck? | 0.40% | ~15 |
 | Achievement Hunter | 0.30% | ~727 |
 | Challenge Increases | 0.30% | ~727 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,369 (Ranked 72)  
+Progressed: 242,375 (Ranked 72)  
 Completed: 304 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 304 (0.13%) (Ranked 295)
 | 2024-01-02 | 242,247 | 303 |
 | 2024-01-03 | 242,304 | 303 |
 | 2024-01-04 | 242,358 | 304 |
-| 2024-01-05 | 242,369 | 304 |
+| 2024-01-05 | 242,375 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,786 (Ranked 89)  

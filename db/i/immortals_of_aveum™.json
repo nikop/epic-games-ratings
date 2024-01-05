@@ -6,8 +6,8 @@
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 230,
-  "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -409,9 +409,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2718,
+  "EOS_Progressed": 2724,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4439,6 +4439,11 @@
       "Time": "2024-01-05T03:10:33.4681698+00:00",
       "NumProgressed": 2718,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T05:09:44.1588899+00:00",
+      "NumProgressed": 2724,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4451,7 +4456,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2397
     },
     {
       "ID": "achievement_10",
@@ -4459,7 +4464,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_11",
@@ -4467,7 +4472,7 @@
       "Name": "The Means to Save It",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "achievement_12",
@@ -4475,7 +4480,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_13",
@@ -4483,7 +4488,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_14",
@@ -4499,7 +4504,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_16",
@@ -4507,7 +4512,7 @@
       "Name": "Recruit",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_17",
@@ -4531,7 +4536,7 @@
       "Name": "Socialite",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 654
     },
     {
       "ID": "achievement_2",
@@ -4539,15 +4544,15 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2206
     },
     {
       "ID": "achievement_20",
       "SetID": "18al4io",
       "Name": "Family Business",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_21",
@@ -4595,7 +4600,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1880
     },
     {
       "ID": "achievement_36",
@@ -4603,7 +4608,7 @@
       "Name": "Armsman",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "achievement_37",
@@ -4627,7 +4632,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1416
     },
     {
       "ID": "achievement_41",
@@ -4659,7 +4664,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "achievement_45",
@@ -4683,7 +4688,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2016
     },
     {
       "ID": "achievement_49",
@@ -4691,7 +4696,7 @@
       "Name": "Soldier",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 627
     },
     {
       "ID": "achievement_5",
@@ -4699,7 +4704,7 @@
       "Name": "Initiate",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1008
     },
     {
       "ID": "achievement_50",
@@ -4747,7 +4752,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 897
+      "UsersEstimate": 899
     },
     {
       "ID": "achievement_60",
@@ -4795,7 +4800,7 @@
       "Name": "Good Boy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_7",
@@ -4803,7 +4808,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "achievement_8",
@@ -4811,7 +4816,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "achievement_9",
@@ -4819,14 +4824,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2718,
+      "Progressed": 2724,
       "Completed": 3
     }
   ],
@@ -4834,8 +4839,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-04T16:59:40.3998354+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:10:33.4681694+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:09:44.1588896+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:00:49.9201496+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:10:33.4682229+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:59:36.1307063+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:09:44.1589383+00:00"
 }

@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18230,
+  "EOS_Progressed": 18237,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16310,6 +16310,11 @@
       "Time": "2024-01-05T02:27:10.6064531+00:00",
       "NumProgressed": 18230,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-05T05:04:59.8724305+00:00",
+      "NumProgressed": 18237,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16346,7 +16351,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "13",
@@ -16354,7 +16359,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "14",
@@ -16370,7 +16375,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "16",
@@ -16378,7 +16383,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "17",
@@ -16386,7 +16391,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "18",
@@ -16426,7 +16431,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "22",
@@ -16442,7 +16447,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "24",
@@ -16458,7 +16463,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "26",
@@ -16498,7 +16503,7 @@
       "Name": "Captain Drummer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "30",
@@ -16530,7 +16535,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2371
     },
     {
       "ID": "7",
@@ -16578,7 +16583,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "34",
@@ -16601,22 +16606,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18230,
+      "Progressed": 18237,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4184,
-      "Completed": 1187
+      "Progressed": 4191,
+      "Completed": 1188
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:06:11.0228119+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:04:59.8724302+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:02:05.4624171+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:06:11.0229133+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:00:28.0399667+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:04:59.8725354+00:00"
 }

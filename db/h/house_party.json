@@ -2,13 +2,13 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 853,
+  "Ranking_Rating": 854,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -383,9 +383,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7108,
+  "EOS_Progressed": 7109,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8343,6 +8343,11 @@
       "Time": "2024-01-05T03:09:06.2014815+00:00",
       "NumProgressed": 7108,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T05:08:44.2086382+00:00",
+      "NumProgressed": 7109,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8530,7 +8535,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "GoodRiddance",
@@ -8905,21 +8910,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4147,
+      "Progressed": 4148,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7108,
+      "Progressed": 7109,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:09:06.201481+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:08:44.2086381+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:00:20.1875159+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:09:06.2015863+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:59:17.39074+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:08:44.2087206+00:00"
 }

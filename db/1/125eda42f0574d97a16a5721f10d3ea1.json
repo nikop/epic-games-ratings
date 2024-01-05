@@ -4,8 +4,8 @@
   "ProductSlug": "my-product-b51a19",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2019-02-06T06:00:00+00:00",
@@ -28,9 +28,235 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-05T05:04:36.9118895+00:00",
+  "TotalAchievements": 28,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BAT_DEFLECT",
+      "SetID": "5770k2f",
+      "Name": "Home Run",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BULLET_DESTROY",
+      "SetID": "5770k2f",
+      "Name": "Mine\u0027s Bigger",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEMO_LEVEL_0",
+      "SetID": "5770k2f",
+      "Name": "Demolitionist - Level 1",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEMO_LEVEL_1",
+      "SetID": "5770k2f",
+      "Name": "Demolitionist - Level 2",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEMO_LEVEL_2",
+      "SetID": "5770k2f",
+      "Name": "Demolitionist - Level 3",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIE",
+      "SetID": "5770k2f",
+      "Name": "Die",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIFFICULTY_1",
+      "SetID": "5770k2f",
+      "Name": "Sneaky",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIFFICULTY_2",
+      "SetID": "5770k2f",
+      "Name": "Sneakier",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EXPLODE",
+      "SetID": "5770k2f",
+      "Name": "Boom",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EXTRA_SUPERH",
+      "SetID": "5770k2f",
+      "Name": "Extra Hot",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EXTRA_UNLOCK1",
+      "SetID": "5770k2f",
+      "Name": "Extra! Extra!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EXTRA_UNLOCK_ALL",
+      "SetID": "5770k2f",
+      "Name": "Extra Cool",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EXTRA_USE_CONFETTI",
+      "SetID": "5770k2f",
+      "Name": "Party Time",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FRYING_PAN_RAIN",
+      "SetID": "5770k2f",
+      "Name": "Dying Pan",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAPPLE_KILL",
+      "SetID": "5770k2f",
+      "Name": "Clown Teammate",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAPPLE_NECK",
+      "SetID": "5770k2f",
+      "Name": "Sleepy Time",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL",
+      "SetID": "5770k2f",
+      "Name": "Murderer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_0_COMPLETED",
+      "SetID": "5770k2f",
+      "Name": "On Your Way",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SURVIVAL_BUY_ITEM",
+      "SetID": "5770k2f",
+      "Name": "Successful Purchase",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SURVIVAL_BUY_MOD",
+      "SetID": "5770k2f",
+      "Name": "Modder",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SURVIVAL_MAP0_10",
+      "SetID": "5770k2f",
+      "Name": "Restless",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SURVIVAL_MAP0_20",
+      "SetID": "5770k2f",
+      "Name": "Risen",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SURVIVAL_MAP1_10",
+      "SetID": "5770k2f",
+      "Name": "Hunted",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SURVIVAL_MAP1_20",
+      "SetID": "5770k2f",
+      "Name": "Hallowed",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TABLE_FLIP",
+      "SetID": "5770k2f",
+      "Name": "Tactical Table",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TEAM_KILL",
+      "SetID": "5770k2f",
+      "Name": "Teamwork",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TIME_BEAT_ALL",
+      "SetID": "5770k2f",
+      "Name": "Royal",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TIME_BEAT_SNEAKY",
+      "SetID": "5770k2f",
+      "Name": "Regal Prospect",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "5770k2f",
@@ -40,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:05:39.3838209+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:04:36.9118887+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.29782+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:59:34.5450225+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:05:39.3838238+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:58:44.7555912+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:04:36.9442318+00:00"
 }

@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Stilesville | 97.00% | ~141 |
-| Talented Performer | 55.00% | ~80 |
+| Talented Performer | 56.00% | ~81 |
 | Welcome to Barcelona | 54.00% | ~78 |
 | We will need a bigger wardrobe | 42.00% | ~61 |
-| Roller Race | 38.00% | ~55 |
+| Roller Race | 39.00% | ~57 |
 | Born to Win | 37.00% | ~54 |
 | Welcome to Seoul | 37.00% | ~54 |
 | Stilesville Hidden Style | 34.00% | ~49 |

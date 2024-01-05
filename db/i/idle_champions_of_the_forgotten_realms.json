@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9325,10 +9325,10 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 251242,
+  "EOS_Progressed": 251279,
   "EOS_Completed": 2592,
-  "EOS_NewPlayers": 4806,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 4784,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -38730,6 +38730,11 @@
       "Time": "2024-01-05T03:10:56.3359246+00:00",
       "NumProgressed": 251242,
       "NumCompleted": 2592
+    },
+    {
+      "Time": "2024-01-05T05:10:02.7740358+00:00",
+      "NumProgressed": 251279,
+      "NumCompleted": 2592
     }
   ],
   "TotalAchievements": 546,
@@ -38741,7 +38746,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7537
+      "UsersEstimate": 7538
     },
     {
       "ID": "objective_completed_10",
@@ -39045,7 +39050,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_1090",
@@ -39109,7 +39114,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "objective_completed_110",
@@ -39301,7 +39306,7 @@
       "Name": "Supply Run",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_1142",
@@ -39605,7 +39610,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "objective_completed_1203",
@@ -39925,7 +39930,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_164",
@@ -39965,7 +39970,7 @@
       "Name": "Building Trust",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_17",
@@ -39973,7 +39978,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_170",
@@ -40077,7 +40082,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_208",
@@ -40101,7 +40106,7 @@
       "Name": "Invisible Shadows",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_210",
@@ -40157,7 +40162,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_231",
@@ -40413,7 +40418,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     },
     {
       "ID": "objective_completed_34",
@@ -40437,7 +40442,7 @@
       "Name": "The Death Curse",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_37",
@@ -40605,7 +40610,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "objective_completed_40",
@@ -40613,7 +40618,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_400",
@@ -41229,7 +41234,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_590",
@@ -41885,7 +41890,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "objective_completed_70",
@@ -41893,7 +41898,7 @@
       "Name": "Close Escort",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_71",
@@ -41901,7 +41906,7 @@
       "Name": "Constant Banditry",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_72",
@@ -41917,7 +41922,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_75",
@@ -41949,7 +41954,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_8",
@@ -41965,7 +41970,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_802",
@@ -42613,7 +42618,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_95",
@@ -42645,7 +42650,7 @@
       "Name": "Rescue in the Jungle",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_1355",
@@ -43108,21 +43113,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217516,
-      "Completed": 4134
+      "Progressed": 217553,
+      "Completed": 4135
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251242,
+      "Progressed": 251279,
       "Completed": 2592
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-05T01:46:11.9921079+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:10:56.3359243+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:10:02.7740355+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:00:32.0722661+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:10:56.3383928+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:59:24.4350157+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:10:02.7765361+00:00"
 }

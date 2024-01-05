@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 467)  
+Rating: 4.58 (Ranked 469)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 98  (23.09.2022)
 | Mamma Mia! | 35.00% | ~3,419 |
 | Conrad von Hotzensocks | 32.00% | ~3,126 |
 | Gabriele D'Annunzio | 32.00% | ~3,126 |
-| Silver Lining | 27.00% | ~2,637 |
+| Silver Lining | 27.00% | ~2,638 |
 | Aurelio Baruzzi | 21.00% | ~2,051 |
 | Decimation | 20.00% | ~1,954 |
 | Donatello | 19.00% | ~1,856 |
@@ -27,14 +27,14 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 12.00% | ~1,172 |
 | Dirty Dozen | 12.00% | ~1,172 |
 | Shaken, Not Stirred | 12.00% | ~1,172 |
-| Machiavelli | 11.00% | ~1,074 |
+| Machiavelli | 11.00% | ~1,075 |
 | The Devil's Paintbrush | 10.00% | ~977 |
 | Thus With A Kiss | 10.00% | ~977 |
 | Dante's Inferno | 9.00% | ~879 |
 | I Have the High Ground | 9.00% | ~879 |
 | Millenial | 9.00% | ~879 |
-| The Show Must Go On | 8.00% | ~781 |
-| Tosca | 8.00% | ~781 |
+| The Show Must Go On | 8.00% | ~782 |
+| Tosca | 8.00% | ~782 |
 | 12th Bottle of the Isonzo | 6.00% | ~586 |
 | Cercatore d'Oro | 6.00% | ~586 |
 | The Enlightment | 6.00% | ~586 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,768 (Ranked 182)  
+Progressed: 9,769 (Ranked 182)  
 Completed: 10 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,6 +306,7 @@ Completed: 10 (0.10%) (Ranked 307)
 | 2024-01-02 | 9,741 | 10 |
 | 2024-01-03 | 9,754 | 10 |
 | 2024-01-04 | 9,768 | 10 |
+| 2024-01-05 | 9,769 | 10 |
 ## Awards
 Max (Diverse Characters): 42  (Ranked 474)  
 Sum: 338 (Ranked 371)  

@@ -5,7 +5,7 @@ Rating: 4.88 (Ranked 17)
 Number of Ratings: 1,446  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,051  (Ranked 157)  
-Sum: 1,921 (Ranked 220)  
+Sum: 1,923 (Ranked 220)  
 Diff (max vs sum): -63  
 | Award | Count |
 | ----- | ----- |
@@ -18,9 +18,9 @@ Diff (max vs sum): -63
 | This game is Highly Recommended | 79 |
 | This game has Quickly Understood Controls | 79 |
 | This game has Amazing Characters | 77 |
-| This game has Easy Combat | 73 |
+| This game has Easy Combat | 74 |
 | This game has Diverse Characters | 69 |
-| This game has a Kind Community | 65 |
+| This game has a Kind Community | 66 |
 | This game has Obsessive Gameplay | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -187,3 +187,4 @@ Diff (max vs sum): -63
 | 2023-12-27 | 4.88 | - | 1,049 | 1,919 |
 | 2023-12-30 | 4.88 | - | 1,050 | 1,920 |
 | 2023-12-31 | 4.88 | - | 1,051 | 1,921 |
+| 2024-01-05 | 4.88 | - | 1,051 | 1,923 |

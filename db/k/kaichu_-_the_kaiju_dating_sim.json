@@ -2,10 +2,10 @@
   "ID": "5cadfb94efd74932b97805c2a78f4150",
   "Name": "Kaichu - The Kaiju Dating Sim",
   "ProductSlug": "kaichu-the-kaiju-dating-sim-531fb7",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 552,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-07T14:00:00+00:00",
     "PcReleaseDate": "2022-09-07T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.51,
+  "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:13.8187686+00:00",
@@ -175,6 +175,11 @@
       "Time": "2023-12-31T09:07:31.9496087+00:00",
       "NumProgressed": 47,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-05T05:03:39.3218113+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -192,7 +197,7 @@
       "ID": "CYBER_BULLY",
       "SetID": "dhjj31a",
       "Name": "Cyber Bully",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 75,
       "UsersEstimate": 33
     },
@@ -202,13 +207,13 @@
       "Name": "Everything\u0027s Coming Up Gigachu",
       "Percentage": 94,
       "XP": 75,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "FRIENDZONED",
       "SetID": "dhjj31a",
       "Name": "Friendzoned",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 17
     },
@@ -224,7 +229,7 @@
       "ID": "LOVED_AND_LOST",
       "SetID": "dhjj31a",
       "Name": "Loved and Lost",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 75,
       "UsersEstimate": 4
     },
@@ -232,7 +237,7 @@
       "ID": "LOVE_IS_IN_BLOOM",
       "SetID": "dhjj31a",
       "Name": "Love is in Bloom",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -248,7 +253,7 @@
       "ID": "LOVING_COMMUTE",
       "SetID": "dhjj31a",
       "Name": "Loving Commute",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 50,
       "UsersEstimate": 28
     },
@@ -264,7 +269,7 @@
       "ID": "POLYAMOROUSASAURUS",
       "SetID": "dhjj31a",
       "Name": "Polyamorousasaurus",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 200,
       "UsersEstimate": 5
     },
@@ -272,7 +277,7 @@
       "ID": "ROYAL_ROMANCE",
       "SetID": "dhjj31a",
       "Name": "Royal Romance",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -305,7 +310,7 @@
     {
       "ID": "dhjj31a",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 4
     }
   ],
@@ -313,8 +318,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:04:18.6570392+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:03:39.3218111+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:35.5133566+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:58:35.0540192+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:04:18.6570501+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:58:05.4025955+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:03:39.3218188+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 446,
+  "EOS_Progressed": 447,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -1479,6 +1479,11 @@
       "Time": "2024-01-05T02:26:32.4903216+00:00",
       "NumProgressed": 446,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T05:04:21.6070449+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1489,17 +1494,17 @@
       "ID": "ach1",
       "SetID": "796kfpa",
       "Name": "Good Morning",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 145,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 145,
-      "UsersEstimate": 214
+      "UsersEstimate": 219
     },
     {
       "ID": "ach3",
@@ -1546,14 +1551,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 446,
+      "Progressed": 447,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:05:17.7114921+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:04:21.6070445+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:01:23.881515+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:05:17.7115076+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:59:59.0039764+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:04:21.6070657+00:00"
 }

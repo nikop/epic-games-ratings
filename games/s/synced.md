@@ -5,16 +5,16 @@ Rating: 4.14 (Ranked 999)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 44.00% | ~36,657 |
-| As Far Away As Possible | 20.00% | ~16,662 |
-| More Power to You | 20.00% | ~16,662 |
-| A Most Unstable Organism | 14.00% | ~11,664 |
-| No Time to Follow Protocol | 9.00% | ~7,498 |
-| Float Like a Butterfly... | 8.00% | ~6,665 |
-| Nano Connoisseur | 7.00% | ~5,832 |
-| In Two Places At Once | 6.00% | ~4,999 |
-| Pulling Your Weight | 3.00% | ~2,499 |
-| Reaping Rivals | 3.00% | ~2,499 |
+| Your Lucky Day | 44.00% | ~36,673 |
+| As Far Away As Possible | 20.00% | ~16,669 |
+| More Power to You | 20.00% | ~16,669 |
+| A Most Unstable Organism | 14.00% | ~11,669 |
+| No Time to Follow Protocol | 9.00% | ~7,501 |
+| Float Like a Butterfly... | 8.00% | ~6,668 |
+| Nano Connoisseur | 7.00% | ~5,834 |
+| In Two Places At Once | 6.00% | ~5,001 |
+| Pulling Your Weight | 3.00% | ~2,500 |
+| Reaping Rivals | 3.00% | ~2,500 |
 | fifteenth Time's the Charm | 1.00% | ~833 |
 | Gone Rogue | 0.90% | ~750 |
 | Memory Keeper | 0.40% | ~333 |
@@ -22,7 +22,7 @@ Rating: 4.14 (Ranked 999)
 | Runs for Your Money | 0.30% | ~250 |
 | Past Master | 0.30% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,312 (Ranked 107)  
+Progressed: 83,347 (Ranked 107)  
 Completed: 62 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,15 +153,15 @@ Completed: 62 (0.07%) (Ranked 322)
 | 2024-01-02 | 82,048 | 61 |
 | 2024-01-03 | 82,692 | 62 |
 | 2024-01-04 | 83,212 | 62 |
-| 2024-01-05 | 83,312 | 62 |
+| 2024-01-05 | 83,347 | 62 |
 ## Awards
 Max (Great for Beginners): 129  (Ranked 342)  
-Sum: 548 (Ranked 331)  
+Sum: 549 (Ranked 331)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 129 |
-| This game has Diverse Characters | 88 |
+| This game has Diverse Characters | 89 |
 | This game is Highly Recommended | 64 |
 | This game is Extremely Fun | 61 |
 | This game has Amazing Characters | 61 |
@@ -282,4 +282,4 @@ Diff (max vs sum): 11
 | 2024-01-02 | 4.15 | 126 | 491 |
 | 2024-01-03 | 4.15 | 128 | 543 |
 | 2024-01-04 | 4.14 | 129 | 546 |
-| 2024-01-05 | 4.14 | 129 | 548 |
+| 2024-01-05 | 4.14 | 129 | 549 |

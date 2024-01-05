@@ -2,7 +2,7 @@
   "ID": "3428aac705b44d88beb8334780fa33bd",
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 76,
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1966,
+  "EOS_Progressed": 1968,
   "EOS_Completed": 73,
   "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 3,
@@ -4474,6 +4474,11 @@
       "Time": "2024-01-05T02:31:58.6617634+00:00",
       "NumProgressed": 1966,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2024-01-05T05:09:42.2053797+00:00",
+      "NumProgressed": 1968,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 16,
@@ -4485,7 +4490,7 @@
       "Name": "Artist Assistant",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -4501,7 +4506,7 @@
       "Name": "Dream Listener",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -4509,7 +4514,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -4541,7 +4546,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1555
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4549,7 +4554,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1555
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4573,7 +4578,7 @@
       "Name": "Outside World Seer",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4589,7 +4594,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ACH_THEEND",
@@ -4612,7 +4617,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1966,
+      "Progressed": 1968,
       "Completed": 73
     }
   ],
@@ -4620,8 +4625,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:10:30.561496+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:09:42.2053779+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:58:04.6371007+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:10:30.5615337+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:57:47.6498859+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:09:42.2054091+00:00"
 }

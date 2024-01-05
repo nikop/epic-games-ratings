@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19255,
+  "EOS_Progressed": 19257,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14425,6 +14425,11 @@
       "Time": "2024-01-05T01:52:48.5444452+00:00",
       "NumProgressed": 19255,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-05T05:05:53.4021382+00:00",
+      "NumProgressed": 19257,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14436,7 +14441,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5776
+      "UsersEstimate": 5777
     },
     {
       "ID": "0002",
@@ -14452,7 +14457,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "0004",
@@ -14620,7 +14625,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4237
     },
     {
       "ID": "0025",
@@ -14723,7 +14728,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19255,
+      "Progressed": 19257,
       "Completed": 4
     }
   ],
@@ -14731,8 +14736,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:07:25.9489372+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:05:53.4021379+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.2583913+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:58:40.7873421+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:07:25.9490229+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:58:09.299483+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:05:53.4022096+00:00"
 }

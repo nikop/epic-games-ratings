@@ -19,9 +19,9 @@ Rating: 3.64 (Ranked 1,088)
 | Welcome to the Neighborhood | 8.00% | ~180 |
 | Throw The First Stone | 8.00% | ~180 |
 | Heart Attack | 8.00% | ~180 |
+| Grounded | 7.00% | ~158 |
 | Skin of Their Teeth | 7.00% | ~158 |
 | Bad Wiring | 6.00% | ~135 |
-| Grounded | 6.00% | ~135 |
 | Neighborhood Revitalization | 5.00% | ~113 |
 | Radio Silence | 5.00% | ~113 |
 | You Clean It Up | 3.00% | ~68 |
@@ -50,7 +50,7 @@ Rating: 3.64 (Ranked 1,088)
 | Blood Brother | 0.60% | ~14 |
 | Sisterhood | 0.60% | ~14 |
 | Good Samaritan | 0.60% | ~14 |
-| Scream Team | 0.40% | ~9 |
+| Scream Team | 0.50% | ~11 |
 | Monster Hunters Club | 0.40% | ~9 |
 | Friendgineering | 0.40% | ~9 |
 | Under a Bushel | 0.40% | ~9 |

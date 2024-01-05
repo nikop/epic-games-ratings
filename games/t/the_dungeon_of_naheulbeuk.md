@@ -6,17 +6,17 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,779 |
-| Alt+F4 | 10.00% | ~24,661 |
+| Sowwy! | 36.00% | ~88,782 |
+| Alt+F4 | 10.00% | ~24,662 |
 | Where's that freaking Dwarf? | 9.00% | ~22,195 |
 | Déjà vu | 8.00% | ~19,729 |
 | Sock! SOCK! | 6.00% | ~14,797 |
 | Speedrun | 6.00% | ~14,797 |
-| A beer, two curses, three companions | 5.00% | ~12,330 |
-| GG EZ | 5.00% | ~12,330 |
-| DM intervention | 5.00% | ~12,330 |
-| The plot thickens... At the tavern | 4.00% | ~9,864 |
-| Fireproof Wizardess | 4.00% | ~9,864 |
+| A beer, two curses, three companions | 5.00% | ~12,331 |
+| GG EZ | 5.00% | ~12,331 |
+| DM intervention | 5.00% | ~12,331 |
+| The plot thickens... At the tavern | 4.00% | ~9,865 |
+| Fireproof Wizardess | 4.00% | ~9,865 |
 | Livin' in a dwarven paradise | 3.00% | ~7,398 |
 | Way of the Wimp | 3.00% | ~7,398 |
 | The demons' feast | 3.00% | ~7,398 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~2,466 |
 | Lust and Debauchery | 1.00% | ~2,466 |
 | Material Girl | 1.00% | ~2,466 |
-| Lëgal Legend | 0.90% | ~2,219 |
+| Lëgal Legend | 0.90% | ~2,220 |
 | We come in peace | 0.80% | ~1,973 |
 | Holistic Adventuring Party | 0.70% | ~1,726 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,726 |
@@ -56,6 +56,7 @@ Number of Ratings: 118  (23.09.2022)
 | I'd rather... Just... Sing! | 0.40% | ~986 |
 | Inception | 0.40% | ~986 |
 | The number of the counting shalt be 7 | 0.30% | ~740 |
+| 100% satisfaction guarantee | 0.30% | ~740 |
 | Cursed die | 0.20% | ~493 |
 | The Blood Countess | 0.20% | ~493 |
 | He’s alive! Aliiiive! | 0.20% | ~493 |
@@ -66,7 +67,6 @@ Number of Ratings: 118  (23.09.2022)
 | Living legends of the Lands of Fangh | 0.20% | ~493 |
 | Kudos from your DM | 0.20% | ~493 |
 | Insult to injury | 0.20% | ~493 |
-| 100% satisfaction guarantee | 0.20% | ~493 |
 | Death is for wimps | 0.20% | ~493 |
 | Super-Ultra-Lydian | 0.20% | ~493 |
 | Demisemiquaver | 0.20% | ~493 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,609 (Ranked 71)  
+Progressed: 246,616 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 8 (0.00%) (Ranked 393)
 | 2024-01-02 | 246,255 | 8 |
 | 2024-01-03 | 246,417 | 8 |
 | 2024-01-04 | 246,586 | 8 |
-| 2024-01-05 | 246,609 | 8 |
+| 2024-01-05 | 246,616 | 8 |
 ## Awards
 Max (Character Customization): 264  (Ranked 275)  
 Sum: 554 (Ranked 328)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4309,
+  "EOS_Progressed": 4310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8256,6 +8256,11 @@
       "Time": "2024-01-05T01:53:27.3464963+00:00",
       "NumProgressed": 4309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T05:06:31.0119947+00:00",
+      "NumProgressed": 4310,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8268,7 +8273,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "achievement_10",
@@ -8308,7 +8313,7 @@
       "Name": "Dealmaker",
       "Percentage": 38,
       "XP": 60,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "achievement_15",
@@ -8332,7 +8337,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_18",
@@ -8388,7 +8393,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_5",
@@ -8404,7 +8409,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "achievement_7",
@@ -8420,7 +8425,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "achievement_9",
@@ -8428,14 +8433,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4309,
+      "Progressed": 4310,
       "Completed": 0
     }
   ],
@@ -8443,8 +8448,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-02T21:02:50.1835455+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:08:18.3148616+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:06:31.0119946+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.7364021+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:58:09.1718767+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:08:18.314924+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:57:50.574621+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:06:31.0120295+00:00"
 }

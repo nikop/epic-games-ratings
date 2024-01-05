@@ -29,9 +29,9 @@ Number of Ratings: 28  (23.09.2022)
 | Sabotage | 15.00% | ~94 |
 | Achtung! | 12.00% | ~76 |
 | Japan | 11.00% | ~69 |
+| Tycoon | 10.00% | ~63 |
 | Woodcutter | 10.00% | ~63 |
 | Engineer | 10.00% | ~63 |
-| Tycoon | 9.00% | ~57 |
 | Germany | 7.00% | ~44 |
 | Supercrash! | 5.00% | ~32 |
 | Chuck Norris | 5.00% | ~32 |

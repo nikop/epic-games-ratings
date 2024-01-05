@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6861,
+  "EOS_Progressed": 6864,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10382,6 +10382,11 @@
       "Time": "2024-01-05T03:04:10.6133285+00:00",
       "NumProgressed": 6861,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T05:03:33.5443508+00:00",
+      "NumProgressed": 6864,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10441,7 +10446,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "16",
@@ -10513,7 +10518,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "24",
@@ -10529,7 +10534,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "26",
@@ -10537,7 +10542,7 @@
       "Name": "Bone Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "27",
@@ -10545,7 +10550,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "28",
@@ -10593,7 +10598,7 @@
       "Name": "My Final Form",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "33",
@@ -10649,7 +10654,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "4",
@@ -10872,13 +10877,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6861,
+      "Progressed": 6864,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6861,
+      "Progressed": 6864,
       "Completed": 7
     }
   ],
@@ -10886,8 +10891,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:04:10.6133281+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:03:33.5443506+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:02:30.9734525+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:04:10.6134387+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:00:45.0995449+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:03:33.5444396+00:00"
 }

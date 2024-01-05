@@ -2,13 +2,13 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 234,
   "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2676,9 +2676,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44344,
+  "EOS_Progressed": 44345,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10806,6 +10806,11 @@
       "Time": "2024-01-05T02:28:26.8088127+00:00",
       "NumProgressed": 44344,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-05T05:06:14.6537924+00:00",
+      "NumProgressed": 44345,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10817,7 +10822,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27493
+      "UsersEstimate": 27494
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -10857,7 +10862,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7538
+      "UsersEstimate": 7539
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -10873,7 +10878,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12416
+      "UsersEstimate": 12417
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -10889,7 +10894,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18624
+      "UsersEstimate": 18625
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -10921,7 +10926,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17294
+      "UsersEstimate": 17295
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -11033,7 +11038,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19511
+      "UsersEstimate": 19512
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -11057,7 +11062,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8425
+      "UsersEstimate": 8426
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -11105,7 +11110,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16407
+      "UsersEstimate": 16408
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -11113,7 +11118,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18624
+      "UsersEstimate": 18625
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -11121,7 +11126,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22615
+      "UsersEstimate": 22616
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -11137,7 +11142,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16407
+      "UsersEstimate": 16408
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -11177,7 +11182,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25276
+      "UsersEstimate": 25277
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -11217,7 +11222,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29267
+      "UsersEstimate": 29268
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -11233,7 +11238,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7538
+      "UsersEstimate": 7539
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -11273,7 +11278,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29267
+      "UsersEstimate": 29268
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -11344,15 +11349,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44344,
+      "Progressed": 44345,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-04T22:02:31.6358272+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:07:55.0023411+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:06:14.6537922+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:12.9047325+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:57:12.4935944+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:07:55.0024213+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:57:13.8463773+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:06:14.6538958+00:00"
 }

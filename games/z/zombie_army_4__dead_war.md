@@ -1,29 +1,29 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 234)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 70.00% | ~31,041 |
-| Say goodbye, creep! | 66.00% | ~29,267 |
-| Blood splattered | 66.00% | ~29,267 |
+| Say goodbye, creep! | 66.00% | ~29,268 |
+| Blood splattered | 66.00% | ~29,268 |
 | Choo choo! | 63.00% | ~27,937 |
-| Groovy | 62.00% | ~27,493 |
-| Cleanup on aisle 4! | 57.00% | ~25,276 |
-| Gold | 51.00% | ~22,615 |
+| Groovy | 62.00% | ~27,494 |
+| Cleanup on aisle 4! | 57.00% | ~25,277 |
+| Gold | 51.00% | ~22,616 |
 | The boat can leave now...tell the crew | 49.00% | ~21,729 |
 | Give me something to shoot! | 47.00% | ~20,842 |
 | Stand back boy! | 47.00% | ~20,842 |
 | Chain reaction | 45.00% | ~19,955 |
-| Weird science | 44.00% | ~19,511 |
-| Look mummy! A shark! | 42.00% | ~18,624 |
-| What did you say, Blain? | 42.00% | ~18,624 |
-| In the dark dark woods... | 39.00% | ~17,294 |
+| Weird science | 44.00% | ~19,512 |
+| Look mummy! A shark! | 42.00% | ~18,625 |
+| What did you say, Blain? | 42.00% | ~18,625 |
+| In the dark dark woods... | 39.00% | ~17,295 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,851 |
-| Double tap | 37.00% | ~16,407 |
-| Cranial blowout! | 37.00% | ~16,407 |
+| Double tap | 37.00% | ~16,408 |
+| Cranial blowout! | 37.00% | ~16,408 |
 | All of this has happened before… | 36.00% | ~15,964 |
 | Zombie killin' machine | 36.00% | ~15,964 |
 | Every bullet counts | 36.00% | ~15,964 |
@@ -33,15 +33,15 @@ Number of Ratings: 743  (23.09.2022)
 | He did Nazi that coming | 32.00% | ~14,190 |
 | Kill of the week | 31.00% | ~13,747 |
 | I never liked them anyway | 31.00% | ~13,747 |
-| Is it over? | 28.00% | ~12,416 |
+| Is it over? | 28.00% | ~12,417 |
 | Got your back | 27.00% | ~11,973 |
 | Gore soaked | 24.00% | ~10,643 |
 | Shock therapy | 23.00% | ~10,199 |
 | Leave the limbs you've lost | 23.00% | ~10,199 |
-| Everyone's a mad scientist, life is the lab | 19.00% | ~8,425 |
+| Everyone's a mad scientist, life is the lab | 19.00% | ~8,426 |
 | Take them down screaming | 18.00% | ~7,982 |
-| Bad Blood | 17.00% | ~7,538 |
-| Weapons expert | 17.00% | ~7,538 |
+| Bad Blood | 17.00% | ~7,539 |
+| Weapons expert | 17.00% | ~7,539 |
 | The bigger they are... | 15.00% | ~6,652 |
 | I'm going deeper underground | 14.00% | ~6,208 |
 | Well equipped | 13.00% | ~5,765 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~443 |
 | None more hard | 0.60% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,344 (Ranked 129)  
+Progressed: 44,345 (Ranked 129)  
 Completed: 25 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 25 (0.06%) (Ranked 329)
 | 2024-01-02 | 44,318 | 25 |
 | 2024-01-03 | 44,330 | 25 |
 | 2024-01-04 | 44,342 | 25 |
-| 2024-01-05 | 44,344 | 25 |
+| 2024-01-05 | 44,345 | 25 |
 ## Awards
 Max (Great Boss Battles): 872  (Ranked 173)  
 Sum: 2,626 (Ranked 198)  

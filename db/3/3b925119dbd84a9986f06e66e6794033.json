@@ -4,8 +4,8 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 681,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2134,6 +2134,11 @@
       "Time": "2024-01-05T03:10:28.4041699+00:00",
       "NumProgressed": 679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T05:09:40.6740175+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2240,9 +2245,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 238
     },
     {
       "ID": "TIME_ORWELL",
@@ -2258,7 +2263,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2305,14 +2310,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 681,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:10:28.4041694+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:09:40.6740173+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:00:47.5359133+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:10:28.4042157+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:59:34.3882694+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:09:40.6740373+00:00"
 }

@@ -3773,9 +3773,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 20153,
+  "EOS_Progressed": 20158,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18468,6 +18468,11 @@
       "Time": "2024-01-05T03:06:56.6577785+00:00",
       "NumProgressed": 20153,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-05T05:05:32.2827824+00:00",
+      "NumProgressed": 20158,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18862,9 +18867,9 @@
       "ID": "WinWithoutOrders",
       "SetID": "cfbk359",
       "Name": "Defying the Crown",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 403
     },
     {
       "ID": "Year1Dangerous",
@@ -18880,7 +18885,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "WinNearFrosts",
@@ -18904,7 +18909,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "WinNearPetrified",
@@ -18951,15 +18956,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20153,
+      "Progressed": 20158,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-04T21:00:11.5483425+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:06:56.657778+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:05:32.282782+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:00:42.1841184+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:06:56.6579003+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:59:31.2238781+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:05:32.2829169+00:00"
 }

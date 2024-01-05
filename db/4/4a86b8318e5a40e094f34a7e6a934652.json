@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 483,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2060,9 +2060,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 299
+      "UsersEstimate": 304
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2211,8 +2211,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:06:18.0774357+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:05:05.002624+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
   "LastUpdate_Ratings": "2024-01-05T03:02:45.1611878+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:06:18.0774565+00:00"
+  "LastUpdate_Achievements": "2024-01-05T05:05:05.0026486+00:00"
 }

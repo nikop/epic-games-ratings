@@ -1,24 +1,24 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 819)  
+Rating: 4.35 (Ranked 820)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 43.00% | ~8,247 |
-| It's a good start | 10.00% | ~1,918 |
-| Bonjour! | 8.00% | ~1,534 |
-| Quack | 8.00% | ~1,534 |
-| The Assistant | 6.00% | ~1,151 |
-| The Blue Marl | 6.00% | ~1,151 |
-| Ostinata | 5.00% | ~959 |
-| Better than nothing? | 5.00% | ~959 |
-| A long journey | 4.00% | ~767 |
-| Big Money | 3.00% | ~575 |
-| Keep the doctor away | 3.00% | ~575 |
-| Surprise of Langhe | 3.00% | ~575 |
-| Famous | 3.00% | ~575 |
+| Bye Bye | 43.00% | ~8,253 |
+| It's a good start | 10.00% | ~1,919 |
+| Bonjour! | 8.00% | ~1,535 |
+| Quack | 8.00% | ~1,535 |
+| The Assistant | 6.00% | ~1,152 |
+| The Blue Marl | 6.00% | ~1,152 |
+| Ostinata | 5.00% | ~960 |
+| Better than nothing? | 5.00% | ~960 |
+| A long journey | 4.00% | ~768 |
+| Big Money | 3.00% | ~576 |
+| Keep the doctor away | 3.00% | ~576 |
+| Surprise of Langhe | 3.00% | ~576 |
+| Famous | 3.00% | ~576 |
 | What is that? A castle? | 2.00% | ~384 |
 | A lot of space | 2.00% | ~384 |
 | A big garage | 2.00% | ~384 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~19 |
 | Unsuitable Terroir | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,178 (Ranked 156)  
+Progressed: 19,192 (Ranked 156)  
 Completed: 13 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 13 (0.07%) (Ranked 322)
 | 2024-01-02 | 18,874 | 13 |
 | 2024-01-03 | 18,995 | 13 |
 | 2024-01-04 | 19,157 | 13 |
-| 2024-01-05 | 19,178 | 13 |
+| 2024-01-05 | 19,192 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 294)  
 Sum: 1,737 (Ranked 226)  

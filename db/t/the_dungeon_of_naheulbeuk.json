@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1671,9 +1671,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246609,
+  "EOS_Progressed": 246616,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1340,
+  "EOS_NewPlayers": 1335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24976,6 +24976,11 @@
       "Time": "2024-01-05T03:10:49.0430461+00:00",
       "NumProgressed": 246609,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-05T05:09:56.4509005+00:00",
+      "NumProgressed": 246616,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25043,7 +25048,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12330
+      "UsersEstimate": 12331
     },
     {
       "ID": "Chapter3",
@@ -25051,7 +25056,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9864
+      "UsersEstimate": 9865
     },
     {
       "ID": "Chapter4",
@@ -25435,7 +25440,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88779
+      "UsersEstimate": 88782
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25451,7 +25456,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12330
+      "UsersEstimate": 12331
     },
     {
       "ID": "EndCombatOneHp",
@@ -25459,15 +25464,15 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12330
+      "UsersEstimate": 12331
     },
     {
       "ID": "EndGameCursed",
       "SetID": "50chcgj",
       "Name": "100% satisfaction guarantee",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 740
     },
     {
       "ID": "EndGameNoDeath",
@@ -25483,7 +25488,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24661
+      "UsersEstimate": 24662
     },
     {
       "ID": "FollowBraztok",
@@ -25595,7 +25600,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2220
     },
     {
       "ID": "QuestPriestess",
@@ -25683,28 +25688,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9864
+      "UsersEstimate": 9865
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246609,
+      "Progressed": 246616,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246609,
+      "Progressed": 246616,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-04T20:57:18.2128245+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:10:49.0430457+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:09:56.4509002+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:57:37.6339053+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:10:49.0432493+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:57:30.1569144+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:09:56.4511054+00:00"
 }

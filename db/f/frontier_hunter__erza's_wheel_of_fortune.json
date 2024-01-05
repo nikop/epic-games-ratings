@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 711,
+  "EOS_Progressed": 712,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2468,6 +2468,11 @@
       "Time": "2024-01-05T02:31:26.6750881+00:00",
       "NumProgressed": 711,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T05:09:10.9901824+00:00",
+      "NumProgressed": 712,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2479,7 +2484,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2607,7 +2612,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2639,7 +2644,7 @@
       "Name": "Trader",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -2647,7 +2652,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2663,7 +2668,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -2815,7 +2820,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2838,7 +2843,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 711,
+      "Progressed": 712,
       "Completed": 3
     }
   ],
@@ -2846,8 +2851,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:09:44.5226814+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:09:10.9901822+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:58:37.8918953+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:09:44.5227328+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:58:07.3639134+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:09:10.990219+00:00"
 }

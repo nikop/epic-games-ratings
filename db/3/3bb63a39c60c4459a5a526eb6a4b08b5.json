@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1086,
+  "EOS_Progressed": 1087,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4219,6 +4219,11 @@
       "Time": "2024-01-05T01:56:53.6231849+00:00",
       "NumProgressed": 1086,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T05:09:53.8732759+00:00",
+      "NumProgressed": 1087,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4246,7 +4251,7 @@
       "Name": "Basic Controls",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "BigPlane",
@@ -4254,7 +4259,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "BudgetFlight",
@@ -4270,7 +4275,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Close",
@@ -4398,7 +4403,7 @@
       "Name": "Long Distances",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ManagementMaster",
@@ -4430,7 +4435,7 @@
       "Name": "New Record",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "NoTimeForModernization",
@@ -4454,7 +4459,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Ownway",
@@ -4565,14 +4570,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1086,
+      "Progressed": 1087,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:10:46.0350002+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:09:53.8732757+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.0647724+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:57:36.1021754+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:10:46.035042+00:00"
+  "LastUpdate_Ratings": "2024-01-05T04:57:29.0052852+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:09:53.8733418+00:00"
 }

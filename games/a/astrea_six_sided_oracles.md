@@ -15,26 +15,26 @@
 | Stellar Dismantler | 37.00% | ~121 |
 | Astral Adventurer | 34.00% | ~111 |
 | Noctuan Champion | 34.00% | ~111 |
-| Anomaly Destroyer | 30.00% | ~98 |
+| Anomaly Destroyer | 31.00% | ~101 |
 | Star Killer | 29.00% | ~95 |
 | Eridanian Champion | 25.00% | ~82 |
-| Loyal Partner | 21.00% | ~68 |
+| Loyal Partner | 22.00% | ~72 |
 | Lacertian Champion | 21.00% | ~68 |
 | Shard Spender | 18.00% | ~59 |
 | Apian Champion | 18.00% | ~59 |
 | Unbeatable | 17.00% | ~55 |
 | Sadistic Plan | 16.00% | ~52 |
 | Behenian Champion | 14.00% | ~46 |
+| Heavy Purger | 10.00% | ~33 |
 | Wave Bender | 10.00% | ~33 |
+| Aquarian Champion | 10.00% | ~33 |
 | Astral Seeker | 9.00% | ~29 |
-| Heavy Purger | 9.00% | ~29 |
 | Stellar Haste | 9.00% | ~29 |
-| Aquarian Champion | 9.00% | ~29 |
+| Favored by the Cosmos | 7.00% | ~23 |
 | Heart Gate | 7.00% | ~23 |
 | The Corruption Goddess | 7.00% | ~23 |
 | The Goddes Avatar | 7.00% | ~23 |
 | Artificer | 6.00% | ~20 |
-| Favored by the Cosmos | 6.00% | ~20 |
 | Anomaly Control | 5.00% | ~16 |
 | Can't touch this | 5.00% | ~16 |
 | Astrarium of Holding | 4.00% | ~13 |

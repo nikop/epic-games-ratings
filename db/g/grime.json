@@ -1813,10 +1813,10 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166528,
+  "EOS_Progressed": 166545,
   "EOS_Completed": 444,
-  "EOS_NewPlayers": 1329,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 1333,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -21878,6 +21878,11 @@
       "Time": "2024-01-05T03:07:15.846853+00:00",
       "NumProgressed": 166528,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2024-01-05T05:05:46.2875882+00:00",
+      "NumProgressed": 166545,
+      "NumCompleted": 444
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22010,7 +22015,7 @@
       "Name": "Host",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -22152,9 +22157,9 @@
       "ID": "MISC_REACHHIGHLEVEL",
       "SetID": "ccc0dlh",
       "Name": "Sharpened Vessel",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1332
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -22257,21 +22262,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166111,
+      "Progressed": 166128,
       "Completed": 1254
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166528,
+      "Progressed": 166545,
       "Completed": 444
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-04T14:00:27.8179781+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:07:15.8468526+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:05:46.2875879+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:01:45.6951834+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:07:15.8470008+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:00:13.6953205+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:05:46.2877265+00:00"
 }

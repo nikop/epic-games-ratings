@@ -17,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.90% | ~145 |
 | Able | 0.80% | ~129 |
 | Good | 0.80% | ~129 |
+| Keystone | 0.80% | ~129 |
 | Learned | 0.80% | ~129 |
 | Noble | 0.80% | ~129 |
 | Pioneer | 0.80% | ~129 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.70% | ~113 |
 | Glorious | 0.70% | ~113 |
 | Just | 0.70% | ~113 |
-| Keystone | 0.70% | ~113 |
 | Warrior | 0.70% | ~113 |
 | Developing Cities | 0.70% | ~113 |
 | Strong Cities | 0.70% | ~113 |
@@ -55,6 +55,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.50% | ~81 |
 | Necropolis | 0.50% | ~81 |
 | Learn to Play 2 | 0.50% | ~81 |
+| Manichaeism | 0.50% | ~81 |
 | Carthaginian Paganism | 0.50% | ~81 |
 | Beloved | 0.40% | ~64 |
 | Drillmaster | 0.40% | ~64 |
@@ -65,7 +66,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.40% | ~64 |
 | Mausoleum | 0.40% | ~64 |
 | Musaeum | 0.40% | ~64 |
-| Manichaeism | 0.40% | ~64 |
 | Egyptian Paganism | 0.40% | ~64 |
 | Building Wonders | 0.40% | ~64 |
 | Win a Single Player Game | 0.40% | ~64 |
@@ -132,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.20% | ~32 |
 | The Clergy | 0.20% | ~32 |
 | Deposed Tribe | 0.20% | ~32 |
+| Kushite Paganism | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
 | Alexander the who? | 0.10% | ~16 |
@@ -283,7 +284,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.10% | ~16 |
 | Kushite Pyramids | 0.10% | ~16 |
 | Kush | 0.10% | ~16 |
-| Kushite Paganism | 0.10% | ~16 |
 | Beja Archer | 0.10% | ~16 |
 | Al Khazneh | 0.10% | ~16 |
 | Colosseum | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,121 (Ranked 167)  
+Progressed: 16,123 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 5 (0.03%) (Ranked 352)
 | 2024-01-02 | 16,090 | 5 |
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
-| 2024-01-05 | 16,121 | 5 |
+| 2024-01-05 | 16,123 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,913 (Ranked 221)  

@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 12.00% | ~790 |
-| Lost and Found | 8.00% | ~526 |
+| Lost and Found | 8.00% | ~527 |
 | Autodidact | 7.00% | ~9,220 |
 | This Belongs in a Museum | 6.00% | ~7,903 |
 | This guy... again? | 6.00% | ~395 |
@@ -20,36 +20,36 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,586 |
 | Ploughshares to Swords | 5.00% | ~329 |
 | Bloody Graduation | 5.00% | ~329 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,268 |
-| It Rings a Bell | 4.00% | ~5,268 |
-| Not Today! | 4.00% | ~5,268 |
-| It Happens | 4.00% | ~5,268 |
-| Rush Hour | 4.00% | ~5,268 |
-| Merry Time | 4.00% | ~5,268 |
-| Harvest Festival | 4.00% | ~5,268 |
-| Whale | 4.00% | ~5,268 |
-| A Place to Lay Your Head | 4.00% | ~5,268 |
-| FNG | 4.00% | ~5,268 |
-| Nope | 4.00% | ~5,268 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,269 |
+| It Rings a Bell | 4.00% | ~5,269 |
+| Not Today! | 4.00% | ~5,269 |
+| It Happens | 4.00% | ~5,269 |
+| Rush Hour | 4.00% | ~5,269 |
+| Merry Time | 4.00% | ~5,269 |
+| Harvest Festival | 4.00% | ~5,269 |
+| Whale | 4.00% | ~5,269 |
+| A Place to Lay Your Head | 4.00% | ~5,269 |
+| FNG | 4.00% | ~5,269 |
+| Nope | 4.00% | ~5,269 |
 | Friends 'Til the End | 4.00% | ~263 |
-| Resurrection | 3.00% | ~3,951 |
-| Unleash Hell | 3.00% | ~3,951 |
-| Funny Guy | 3.00% | ~3,951 |
-| Long Live the King | 3.00% | ~3,951 |
-| Wyrdly Reconstructed | 3.00% | ~3,951 |
-| Boxcar Kid | 3.00% | ~3,951 |
-| Unfulfilled Desires | 3.00% | ~3,951 |
-| Predator | 3.00% | ~3,951 |
-| Dissector | 3.00% | ~3,951 |
-| Banishment | 3.00% | ~3,951 |
-| Deprogramming | 3.00% | ~3,951 |
-| Now Stay Dead | 3.00% | ~3,951 |
-| Reverse Banditry | 3.00% | ~3,951 |
-| Spelunker | 3.00% | ~3,951 |
-| Ramble On | 3.00% | ~3,951 |
-| A Clear Conscience | 3.00% | ~3,951 |
-| Unshackled | 3.00% | ~3,951 |
-| Road Trip | 3.00% | ~3,951 |
+| Resurrection | 3.00% | ~3,952 |
+| Unleash Hell | 3.00% | ~3,952 |
+| Funny Guy | 3.00% | ~3,952 |
+| Long Live the King | 3.00% | ~3,952 |
+| Wyrdly Reconstructed | 3.00% | ~3,952 |
+| Boxcar Kid | 3.00% | ~3,952 |
+| Unfulfilled Desires | 3.00% | ~3,952 |
+| Predator | 3.00% | ~3,952 |
+| Dissector | 3.00% | ~3,952 |
+| Banishment | 3.00% | ~3,952 |
+| Deprogramming | 3.00% | ~3,952 |
+| Now Stay Dead | 3.00% | ~3,952 |
+| Reverse Banditry | 3.00% | ~3,952 |
+| Spelunker | 3.00% | ~3,952 |
+| Ramble On | 3.00% | ~3,952 |
+| A Clear Conscience | 3.00% | ~3,952 |
+| Unshackled | 3.00% | ~3,952 |
+| Road Trip | 3.00% | ~3,952 |
 | This Looks Familiar | 2.00% | ~2,634 |
 | Hope Rekindled | 2.00% | ~2,634 |
 | Ichthyophobic | 2.00% | ~2,634 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,712 (Ranked 91)  
+Progressed: 131,718 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
-| 2024-01-05 | 131,712 | 3 |
+| 2024-01-05 | 131,718 | 3 |
 ## Awards
 Max (Character Customization): 7,951  (Ranked 50)  
 Sum: 21,431 (Ranked 58)  

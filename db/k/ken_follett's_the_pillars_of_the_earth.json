@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17630,
+  "EOS_Progressed": 17631,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17715,6 +17715,11 @@
       "Time": "2024-01-05T03:04:01.7804206+00:00",
       "NumProgressed": 17630,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-05T05:03:27.2087872+00:00",
+      "NumProgressed": 17631,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 41,
@@ -17806,7 +17811,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3173
+      "UsersEstimate": 3174
     },
     {
       "ID": "tpote_achievement_2",
@@ -17878,7 +17883,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3173
+      "UsersEstimate": 3174
     },
     {
       "ID": "tpote_achievement_28",
@@ -17902,7 +17907,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5465
+      "UsersEstimate": 5466
     },
     {
       "ID": "tpote_achievement_30",
@@ -17918,7 +17923,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3173
+      "UsersEstimate": 3174
     },
     {
       "ID": "tpote_achievement_32",
@@ -18038,7 +18043,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3702
+      "UsersEstimate": 3703
     },
     {
       "ID": "tpote_achievement_9",
@@ -18046,22 +18051,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5994
+      "UsersEstimate": 5995
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17630,
+      "Progressed": 17631,
       "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-05T03:04:01.7804202+00:00",
+  "LastChanged_Achievements": "2024-01-05T05:03:27.208787+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:02:46.9750829+00:00",
-  "LastUpdate_Achievements": "2024-01-05T03:04:01.7805193+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:02:44.4002614+00:00",
+  "LastUpdate_Achievements": "2024-01-05T05:03:27.2089025+00:00"
 }
