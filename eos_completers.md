@@ -57,8 +57,8 @@
 | 55 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.46% |
 | 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.46% |
 | 57 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.25% |
-| 58 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.15% |
-| 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.14% |
+| 58 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.14% |
+| 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.14% |
 | 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.08% |
 | 61 | [Scorn](games/s/scorn.md) | 6.93% |
 | 62 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.67% |
@@ -146,9 +146,9 @@
 | 144 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.66% |
 | 145 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.59% |
 | 146 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.52% |
-| 147 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.50% |
 | 147 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.50% |
-| 149 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.49% |
+| 148 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.49% |
+| 148 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.49% |
 | 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.46% |
 | 150 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 152 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.36% |
@@ -191,8 +191,8 @@
 | 188 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.80% |
 | 188 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.80% |
 | 191 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 191 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.76% |
-| 193 | [Infindustry](games/i/infindustry.md) | 0.75% |
+| 192 | [Infindustry](games/i/infindustry.md) | 0.75% |
+| 192 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.75% |
 | 194 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 194 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.70% |
 | 196 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.69% |
