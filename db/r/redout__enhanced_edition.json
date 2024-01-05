@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238720,
+  "EOS_Progressed": 238721,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27628,6 +27628,11 @@
       "Time": "2024-01-05T08:05:35.0411144+00:00",
       "NumProgressed": 238720,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-05T09:04:42.4750214+00:00",
+      "NumProgressed": 238721,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -27863,7 +27868,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52518
+      "UsersEstimate": 52519
     },
     {
       "ID": "TACTICIAN",
@@ -27887,7 +27892,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52518
+      "UsersEstimate": 52519
     },
     {
       "ID": "TUNINGMANIAC",
@@ -27903,22 +27908,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97875
+      "UsersEstimate": 97876
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238720,
+      "Progressed": 238721,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:05:35.0411138+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:04:42.4750208+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:41.2856312+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:01:06.2550646+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:05:35.0412595+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:00:02.1316117+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:04:42.4752065+00:00"
 }

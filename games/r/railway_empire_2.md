@@ -1,32 +1,32 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 735)  
+Rating: 4.42 (Ranked 736)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 76.00% | ~2,000 |
-| A new Journey | 75.00% | ~1,973 |
-| From X to Y | 74.00% | ~1,947 |
-| Departure | 74.00% | ~1,947 |
-| Way of Iron | 71.00% | ~1,868 |
+| A new Journey | 75.00% | ~1,974 |
+| From X to Y | 74.00% | ~1,948 |
+| Departure | 74.00% | ~1,948 |
+| Way of Iron | 71.00% | ~1,869 |
 | Mystery Tour | 70.00% | ~1,842 |
-| We brake for nobody | 69.00% | ~1,815 |
-| Brainstorm | 67.00% | ~1,763 |
-| Mind the Gap | 66.00% | ~1,736 |
-| Travel Company | 66.00% | ~1,736 |
+| We brake for nobody | 69.00% | ~1,816 |
+| Brainstorm | 66.00% | ~1,737 |
+| Mind the Gap | 66.00% | ~1,737 |
+| Travel Company | 66.00% | ~1,737 |
 | All around the World | 64.00% | ~1,684 |
-| Right through the middle | 59.00% | ~1,552 |
+| Right through the middle | 59.00% | ~1,553 |
 | Facility Manager | 54.00% | ~1,421 |
 | Poor Devil | 54.00% | ~1,421 |
 | Producer | 51.00% | ~1,342 |
-| Bridge Builder | 43.00% | ~1,131 |
+| Bridge Builder | 43.00% | ~1,132 |
 | Apprentice | 42.00% | ~1,105 |
-| Access granted | 36.00% | ~947 |
-| Going once, going twice, sold | 36.00% | ~947 |
+| Access granted | 36.00% | ~948 |
+| Going once, going twice, sold | 36.00% | ~948 |
 | Bull and bear | 35.00% | ~921 |
 | Stoker | 34.00% | ~895 |
-| Full Steam ahead | 33.00% | ~868 |
+| Full Steam ahead | 33.00% | ~869 |
 | All mine | 31.00% | ~816 |
 | Mole | 31.00% | ~816 |
 | Financial Shark | 31.00% | ~816 |
@@ -48,7 +48,7 @@ Rating: 4.42 (Ranked 735)
 | Max Power | 14.00% | ~368 |
 | Locusts | 13.00% | ~342 |
 | Tycoon | 12.00% | ~316 |
-| A new Hope | 11.00% | ~289 |
+| A new Hope | 11.00% | ~290 |
 | Call of Duty | 10.00% | ~263 |
 | Unstoppable | 9.00% | ~237 |
 | Track to the Future | 9.00% | ~237 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 735)
 | United States | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,631 (Ranked 231)  
+Progressed: 2,632 (Ranked 231)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 2,607 | 0 |
 | 2024-01-03 | 2,617 | 0 |
 | 2024-01-04 | 2,630 | 0 |
-| 2024-01-05 | 2,631 | 0 |
+| 2024-01-05 | 2,632 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

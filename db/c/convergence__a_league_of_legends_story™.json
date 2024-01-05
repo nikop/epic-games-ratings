@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3862,17 +3862,17 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 320
     },
     {
       "ID": "ParryBoss",
@@ -4063,8 +4063,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:11:18.9661414+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:10:37.826983+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:57:28.4339908+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:11:18.9661877+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:57:20.1412248+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:10:37.8270388+00:00"
 }

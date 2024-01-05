@@ -2,13 +2,13 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 652,
+  "Ranking_Rating": 653,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2149,8 +2149,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:08:51.8922344+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:08:41.7941054+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:00:10.150997+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:08:51.8923032+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:59:20.6171599+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:08:41.7941722+00:00"
 }

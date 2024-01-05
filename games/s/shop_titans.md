@@ -1,20 +1,20 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,044)  
+Rating: 3.99 (Ranked 1,045)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,955 |
-| Titan's First Steps | 10.00% | ~14,955 |
+| Sponsored by Argon | 10.00% | ~14,956 |
+| Titan's First Steps | 10.00% | ~14,956 |
 | Basic in Bulk | 9.00% | ~13,460 |
 | Tinkle of Coins | 9.00% | ~13,460 |
 | Disintermediation | 7.00% | ~10,469 |
 | It's Free Real Estate | 7.00% | ~10,469 |
 | Capitalism Ho! | 7.00% | ~10,469 |
-| Another Satisfied Customer | 6.00% | ~8,973 |
-| Budding Merchant | 6.00% | ~8,973 |
+| Another Satisfied Customer | 6.00% | ~8,974 |
+| Budding Merchant | 6.00% | ~8,974 |
 | One Easy Payment | 5.00% | ~7,478 |
 | Some Assembly Required | 5.00% | ~7,478 |
 | Pretty Penny | 5.00% | ~7,478 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~598 |
 | Capitalist Camaraderie | 0.20% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,551 (Ranked 86)  
+Progressed: 149,559 (Ranked 86)  
 Completed: 342 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 342 (0.23%) (Ranked 267)
 | 2024-01-02 | 149,077 | 341 |
 | 2024-01-03 | 149,238 | 342 |
 | 2024-01-04 | 149,471 | 342 |
-| 2024-01-05 | 149,551 | 342 |
+| 2024-01-05 | 149,559 | 342 |
 ## Awards
 Max (Great for Beginners): 4,945  (Ranked 78)  
 Sum: 27,929 (Ranked 52)  

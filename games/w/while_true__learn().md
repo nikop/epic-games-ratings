@@ -1,23 +1,23 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 592)  
+Rating: 4.51 (Ranked 593)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~574,033 |
-| Error: Stack Overflow | 66.00% | ~407,378 |
-| We need more gold | 61.00% | ~376,516 |
-| The dawn of civilization | 53.00% | ~327,137 |
-| More FPS for the FPS god! | 50.00% | ~308,620 |
-| Beauty and harmony | 48.00% | ~296,275 |
-| One more! | 44.00% | ~271,586 |
-| Overmind | 24.00% | ~148,138 |
-| RNG is my best friend now | 18.00% | ~111,103 |
+| First.. Bit? | 93.00% | ~574,039 |
+| Error: Stack Overflow | 66.00% | ~407,382 |
+| We need more gold | 61.00% | ~376,520 |
+| The dawn of civilization | 53.00% | ~327,140 |
+| More FPS for the FPS god! | 50.00% | ~308,623 |
+| Beauty and harmony | 48.00% | ~296,278 |
+| One more! | 44.00% | ~271,588 |
+| Overmind | 24.00% | ~148,139 |
+| RNG is my best friend now | 18.00% | ~111,104 |
 | Cosplay | 14.00% | ~86,414 |
-| Evolution in progress... | 13.00% | ~80,241 |
-| Step by step | 8.00% | ~49,379 |
+| Evolution in progress... | 13.00% | ~80,242 |
+| Step by step | 8.00% | ~49,380 |
 | README reader | 4.00% | ~24,690 |
 | Data scientist | 3.00% | ~18,517 |
 | One small step for a man... | 3.00% | ~18,517 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.40% | ~2,469 |
 | The Scrooge | 0.10% | ~617 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617,240 (Ranked 33)  
+Progressed: 617,246 (Ranked 33)  
 Completed: 564 (0.09%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 564 (0.09%) (Ranked 314)
 | 2024-01-02 | 616,887 | 564 |
 | 2024-01-03 | 617,051 | 564 |
 | 2024-01-04 | 617,199 | 564 |
-| 2024-01-05 | 617,240 | 564 |
+| 2024-01-05 | 617,246 | 564 |
 ## Awards
 Max (Challenging Puzzles): 140  (Ranked 333)  
 Sum: 140 (Ranked 440)  

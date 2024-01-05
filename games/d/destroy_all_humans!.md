@@ -1,20 +1,20 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 357)  
+Rating: 4.63 (Ranked 358)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 74.00% | ~246 |
 | Kaijuiced | 70.00% | ~232 |
-| Lie Back and Think of Albion | 64.00% | ~212 |
+| Lie Back and Think of Albion | 65.00% | ~216 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~209 |
 | I Look Up As I Walk to Takoshima | 60.00% | ~199 |
 | Yettisoned | 58.00% | ~193 |
 | Pimp My Raid | 55.00% | ~183 |
 | Perfect Probulator | 55.00% | ~183 |
-| Lobster Blisque | 51.00% | ~169 |
+| Lobster Blisque | 52.00% | ~173 |
 | Fly Me to the Moon Base | 48.00% | ~159 |
 | Earthly Pleasures | 48.00% | ~159 |
 | Ducks in a Row, Fish in a Barrel | 45.00% | ~149 |

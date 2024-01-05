@@ -1,22 +1,22 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.35 (Ranked 820)  
+Rating: 4.35 (Ranked 821)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The First Step | 73.00% | ~823 |
 | First Blood | 69.00% | ~778 |
 | Ready to Learn | 66.00% | ~744 |
-| Monster Hunter | 56.00% | ~632 |
+| Monster Hunter | 56.00% | ~631 |
 | Earning Trust | 54.00% | ~609 |
-| Monster Slayer | 31.00% | ~350 |
-| Awakening | 24.00% | ~271 |
+| Monster Slayer | 31.00% | ~349 |
+| Awakening | 24.00% | ~270 |
 | Huntmaster | 23.00% | ~259 |
 | Complete the sidequest 'Malice and Greed' | 19.00% | ~214 |
 | House Vulisica's Heirloom | 15.00% | ~169 |
 | Digging Deep | 14.00% | ~158 |
-| Broken Oath | 9.00% | ~102 |
+| Broken Oath | 9.00% | ~101 |
 | Way of the King | 8.00% | ~90 |
 | Til We Meet Again | 5.00% | ~56 |
 | Way of the Warlord | 4.00% | ~45 |
@@ -29,7 +29,7 @@ Rating: 4.35 (Ranked 820)
 | First Bloom | 1.00% | ~11 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,128 (Ranked 285)  
+Progressed: 1,127 (Ranked 285)  
 Completed: 1 (0.09%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |

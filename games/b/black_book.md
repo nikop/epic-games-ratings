@@ -1,22 +1,22 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~18,875 |
-| Student | 22.00% | ~14,319 |
-| Knower | 16.00% | ~10,414 |
-| Listener | 15.00% | ~9,763 |
-| Aspen Tree | 14.00% | ~9,112 |
-| Healer | 14.00% | ~9,112 |
-| Soldier | 12.00% | ~7,810 |
-| Cow Level | 11.00% | ~7,159 |
-| Scientist | 11.00% | ~7,159 |
-| Herbalist | 10.00% | ~6,508 |
-| Water | 10.00% | ~6,508 |
+| Initiation | 29.00% | ~18,877 |
+| Student | 22.00% | ~14,320 |
+| Knower | 16.00% | ~10,415 |
+| Listener | 15.00% | ~9,764 |
+| Aspen Tree | 14.00% | ~9,113 |
+| Healer | 14.00% | ~9,113 |
+| Soldier | 12.00% | ~7,811 |
+| Cow Level | 11.00% | ~7,160 |
+| Scientist | 11.00% | ~7,160 |
+| Herbalist | 10.00% | ~6,509 |
+| Water | 10.00% | ~6,509 |
 | Old Friend | 9.00% | ~5,858 |
 | New Spirits | 9.00% | ~5,858 |
 | Voipel | 9.00% | ~5,858 |
@@ -34,18 +34,18 @@ Number of Ratings: 96  (23.09.2022)
 | 100 Friends | 7.00% | ~4,556 |
 | Researcher | 7.00% | ~4,556 |
 | Savvy | 7.00% | ~4,556 |
-| Encyclopedist | 6.00% | ~3,905 |
-| Witch | 6.00% | ~3,905 |
-| Old Spirits | 6.00% | ~3,905 |
-| Sinner | 6.00% | ~3,905 |
-| Folklorist | 6.00% | ~3,905 |
-| Keeper of Knowledge | 6.00% | ~3,905 |
-| Vorsa | 5.00% | ~3,254 |
-| Susanin | 5.00% | ~3,254 |
-| Traveller | 5.00% | ~3,254 |
-| Righteous | 4.00% | ~2,603 |
-| Musician | 4.00% | ~2,603 |
-| Koldun | 4.00% | ~2,603 |
+| Encyclopedist | 6.00% | ~3,906 |
+| Witch | 6.00% | ~3,906 |
+| Old Spirits | 6.00% | ~3,906 |
+| Sinner | 6.00% | ~3,906 |
+| Folklorist | 6.00% | ~3,906 |
+| Keeper of Knowledge | 6.00% | ~3,906 |
+| Vorsa | 5.00% | ~3,255 |
+| Susanin | 5.00% | ~3,255 |
+| Traveller | 5.00% | ~3,255 |
+| Righteous | 4.00% | ~2,604 |
+| Musician | 4.00% | ~2,604 |
+| Koldun | 4.00% | ~2,604 |
 | Black Sorceress | 3.00% | ~1,953 |
 | Cheater | 3.00% | ~1,953 |
 | Diplomat | 3.00% | ~1,953 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,302 |
 | Word Master | 0.20% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,085 (Ranked 116)  
+Progressed: 65,092 (Ranked 116)  
 Completed: 65 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 65 (0.10%) (Ranked 307)
 | 2024-01-02 | 64,531 | 63 |
 | 2024-01-03 | 64,785 | 64 |
 | 2024-01-04 | 65,027 | 65 |
-| 2024-01-05 | 65,085 | 65 |
+| 2024-01-05 | 65,092 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

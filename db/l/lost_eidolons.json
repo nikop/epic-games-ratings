@@ -2,13 +2,13 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 820,
+  "Ranking_Rating": 821,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 3801,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1128,
+  "EOS_Progressed": 1127,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -8,
+  "EOS_NewPlayers": -9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2397,6 +2397,11 @@
       "Time": "2024-01-05T08:08:59.5788629+00:00",
       "NumProgressed": 1128,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T09:08:47.7751058+00:00",
+      "NumProgressed": 1127,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2456,7 +2461,7 @@
       "Name": "Monster Hunter",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 631
     },
     {
       "ID": "08",
@@ -2464,7 +2469,7 @@
       "Name": "Monster Slayer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 349
     },
     {
       "ID": "09",
@@ -2472,7 +2477,7 @@
       "Name": "Awakening",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 270
     },
     {
       "ID": "10",
@@ -2552,7 +2557,7 @@
       "Name": "Broken Oath",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 101
     },
     {
       "ID": "20",
@@ -2591,7 +2596,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1128,
+      "Progressed": 1127,
       "Completed": 1
     }
   ],
@@ -2599,8 +2604,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:08:59.5788626+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:08:47.7751052+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.6931487+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:03:29.9936178+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:08:59.5788899+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:03:06.7545665+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:08:47.7751436+00:00"
 }

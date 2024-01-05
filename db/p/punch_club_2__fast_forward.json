@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2370,9 +2370,9 @@
       "ID": "flash_silver",
       "SetID": "69co12a",
       "Name": "Silver\u2019s past",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 134
     },
     {
       "ID": "flash_yakuza",
@@ -2602,9 +2602,9 @@
       "ID": "prof_promotion_2",
       "SetID": "69co12a",
       "Name": "Careerist",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 150
     },
     {
       "ID": "resistance_fake",
@@ -2729,8 +2729,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:10:53.6762882+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:10:17.1930967+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:36.4340723+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:58:48.981005+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:10:53.6763743+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:58:20.1190189+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:10:17.193157+00:00"
 }

@@ -1,26 +1,26 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 1,030)  
+Rating: 4.05 (Ranked 1,031)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,902 |
-| World Map | 78.00% | ~3,273 |
+| Victor | 93.00% | ~3,903 |
+| World Map | 78.00% | ~3,274 |
 | Temple of Eternals | 56.00% | ~2,350 |
 | Prestigious | 52.00% | ~2,182 |
-| Fellowship Power | 42.00% | ~1,762 |
+| Fellowship Power | 42.00% | ~1,763 |
 | Full Party | 28.00% | ~1,175 |
 | Guild Power | 23.00% | ~965 |
 | Prestigious x10 | 20.00% | ~839 |
 | The game is on | 18.00% | ~755 |
-| Exotic Merchant | 16.00% | ~671 |
-| Dragon Clicker | 15.00% | ~629 |
-| Miner Clicker | 15.00% | ~629 |
-| Inspection | 14.00% | ~587 |
-| Dragon Master | 13.00% | ~545 |
-| Enlightenment | 13.00% | ~545 |
-| Hero inspection | 13.00% | ~545 |
+| Exotic Merchant | 16.00% | ~672 |
+| Dragon Clicker | 15.00% | ~630 |
+| Miner Clicker | 15.00% | ~630 |
+| Inspection | 14.00% | ~588 |
+| Dragon Master | 13.00% | ~546 |
+| Enlightenment | 13.00% | ~546 |
+| Hero inspection | 13.00% | ~546 |
 | Lieutenant | 12.00% | ~504 |
 | Milestone collector | 11.00% | ~462 |
 | Mysterious Rock | 11.00% | ~462 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,030)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,196 (Ranked 210)  
+Progressed: 4,197 (Ranked 210)  
 Completed: 2 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 2 (0.05%) (Ranked 335)
 | 2024-01-02 | 4,107 | 2 |
 | 2024-01-03 | 4,139 | 2 |
 | 2024-01-04 | 4,183 | 2 |
-| 2024-01-05 | 4,196 | 2 |
+| 2024-01-05 | 4,197 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 478)  
 Sum: 154 (Ranked 437)  

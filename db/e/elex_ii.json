@@ -2,13 +2,13 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 876,
+  "Ranking_Rating": 877,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1484,9 +1484,9 @@
       "ID": "CHOSEBSK",
       "SetID": "a1angca",
       "Name": "Berserker",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "CHOSEKLE",
@@ -1556,9 +1556,9 @@
       "ID": "FINDCITY",
       "SetID": "a1angca",
       "Name": "Civilian",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "FINDCRONY",
@@ -1668,9 +1668,9 @@
       "ID": "LOVECAJA",
       "SetID": "a1angca",
       "Name": "Lover",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
@@ -1684,8 +1684,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:05:10.1305811+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:04:23.0462501+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:58:02.0150515+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:05:10.1306194+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:57:43.995687+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:04:23.0462828+00:00"
 }

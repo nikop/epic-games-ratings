@@ -1,47 +1,47 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 177)  
+Rating: 4.73 (Ranked 178)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 91.00% | ~14,803 |
-| Newcomers | 76.00% | ~12,363 |
-| A Burden of Blood | 71.00% | ~11,550 |
-| Protector's Duty | 67.00% | ~10,899 |
-| Alchemist | 66.00% | ~10,736 |
-| In our Wake | 65.00% | ~10,574 |
-| Leaving all Behind | 62.00% | ~10,086 |
-| Felons | 59.00% | ~9,598 |
-| A Sea of Promises | 58.00% | ~9,435 |
-| Tales and Revelations | 55.00% | ~8,947 |
-| Bloodline | 50.00% | ~8,134 |
-| The Cradle of Centuries | 46.00% | ~7,483 |
-| The Life We Deserve | 44.00% | ~7,157 |
-| Night guard | 41.00% | ~6,669 |
-| Nothing Left | 37.00% | ~6,019 |
-| Healing our Wounds | 35.00% | ~5,693 |
-| Dying Sun | 32.00% | ~5,205 |
-| Improved crossbow | 26.00% | ~4,229 |
-| King Hugo | 24.00% | ~3,904 |
-| Perfect shot | 23.00% | ~3,741 |
-| Mercy | 23.00% | ~3,741 |
-| Effective instruments | 21.00% | ~3,416 |
-| Knights! | 20.00% | ~3,253 |
-| Perfect throw | 20.00% | ~3,253 |
-| Handful of pockets | 12.00% | ~1,952 |
-| Not a toy anymore | 11.00% | ~1,789 |
-| Pocket laboratory | 11.00% | ~1,789 |
+| Under a New Sun | 91.00% | ~14,813 |
+| Newcomers | 76.00% | ~12,371 |
+| A Burden of Blood | 71.00% | ~11,557 |
+| Protector's Duty | 67.00% | ~10,906 |
+| Alchemist | 66.00% | ~10,743 |
+| In our Wake | 65.00% | ~10,581 |
+| Leaving all Behind | 62.00% | ~10,092 |
+| Felons | 59.00% | ~9,604 |
+| A Sea of Promises | 58.00% | ~9,441 |
+| Tales and Revelations | 55.00% | ~8,953 |
+| Bloodline | 50.00% | ~8,139 |
+| The Cradle of Centuries | 46.00% | ~7,488 |
+| The Life We Deserve | 44.00% | ~7,162 |
+| Night guard | 41.00% | ~6,674 |
+| Nothing Left | 37.00% | ~6,023 |
+| Healing our Wounds | 35.00% | ~5,697 |
+| Dying Sun | 32.00% | ~5,209 |
+| Improved crossbow | 26.00% | ~4,232 |
+| King Hugo | 24.00% | ~3,907 |
+| Perfect shot | 23.00% | ~3,744 |
+| Mercy | 23.00% | ~3,744 |
+| Effective instruments | 21.00% | ~3,418 |
+| Knights! | 20.00% | ~3,256 |
+| Perfect throw | 20.00% | ~3,256 |
+| Handful of pockets | 12.00% | ~1,953 |
+| Not a toy anymore | 11.00% | ~1,791 |
+| Pocket laboratory | 11.00% | ~1,791 |
 | Herbalist | 7.00% | ~1,139 |
 | Fighter | 7.00% | ~1,139 |
-| Ornithologist | 5.00% | ~813 |
+| Ornithologist | 5.00% | ~814 |
 | Sneaky | 4.00% | ~651 |
 | Immortal memories | 3.00% | ~488 |
-| Old protector | 2.00% | ~325 |
+| Old protector | 2.00% | ~326 |
 | Explorer | 1.00% | ~163 |
 | Malignant | 1.00% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,267 (Ranked 165)  
+Progressed: 16,278 (Ranked 165)  
 Completed: 63 (0.39%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 63 (0.39%) (Ranked 236)
 | 2024-01-02 | 15,935 | 63 |
 | 2024-01-03 | 16,053 | 63 |
 | 2024-01-04 | 16,219 | 63 |
-| 2024-01-05 | 16,267 | 63 |
+| 2024-01-05 | 16,278 | 63 |
 ## Awards
 Max (Great Boss Battles): 452  (Ranked 228)  
 Sum: 710 (Ranked 311)  

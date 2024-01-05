@@ -2,13 +2,13 @@
   "ID": "fa9812acd30f46f8a69a75bf27addb5c",
   "Name": "In Sound Mind",
   "ProductSlug": "in-sound-mind",
-  "Ranking_Rating": 398,
+  "Ranking_Rating": 399,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-28T13:00:00+00:00",
     "PcReleaseDate": "2021-09-28T13:00:00+00:00",
@@ -1034,6 +1034,6 @@
   "FirstSeen": "2022-07-22T20:28:02.478793+00:00",
   "LastChanged": "2023-12-30T06:59:40.608119+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:13.9156695+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:00:21.2560631+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:07:22.6351526+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:59:30.010796+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:06:03.5832731+00:00"
 }

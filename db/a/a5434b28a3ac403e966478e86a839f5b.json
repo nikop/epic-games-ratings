@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 877,
+  "EOS_Progressed": 878,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -3030,6 +3030,11 @@
       "Time": "2024-01-05T08:09:36.2571122+00:00",
       "NumProgressed": 877,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T09:09:16.1237511+00:00",
+      "NumProgressed": 878,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3082,7 +3087,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_eou6",
@@ -3145,14 +3150,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 877,
+      "Progressed": 878,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:09:36.2571119+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:09:16.1237509+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:57:24.4376242+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:09:36.2571399+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:57:17.3721456+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:09:16.123776+00:00"
 }

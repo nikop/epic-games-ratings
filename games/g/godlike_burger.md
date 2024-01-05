@@ -1,26 +1,26 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 592)  
+Rating: 4.51 (Ranked 593)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~178,926 |
-| FIRST BLOOD | 40.00% | ~159,046 |
-| KEVIN! | 30.00% | ~119,284 |
-| JACK OF ALL TRADES | 23.00% | ~91,451 |
-| CRIMINAL | 20.00% | ~79,523 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~43,738 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~35,785 |
-| HONORS STUDENT | 8.00% | ~31,809 |
-| BUTCHER | 6.00% | ~23,857 |
+| MASTER CHEF | 45.00% | ~178,932 |
+| FIRST BLOOD | 40.00% | ~159,051 |
+| KEVIN! | 30.00% | ~119,288 |
+| JACK OF ALL TRADES | 23.00% | ~91,454 |
+| CRIMINAL | 20.00% | ~79,525 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~43,739 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~35,786 |
+| HONORS STUDENT | 8.00% | ~31,810 |
+| BUTCHER | 6.00% | ~23,858 |
 | INDIVIDUAL APPROACH | 5.00% | ~19,881 |
 | RAMBO | 5.00% | ~19,881 |
 | HELL'S KITCHEN | 4.00% | ~15,905 |
-| CELEBRITY | 3.00% | ~11,928 |
-| MARTYR | 3.00% | ~11,928 |
-| GRATITUDE | 2.00% | ~7,952 |
-| PATTY-KILLER | 2.00% | ~7,952 |
+| CELEBRITY | 3.00% | ~11,929 |
+| MARTYR | 3.00% | ~11,929 |
+| GRATITUDE | 2.00% | ~7,953 |
+| PATTY-KILLER | 2.00% | ~7,953 |
 | EXPERIMENTALIST | 1.00% | ~3,976 |
 | GOURMET | 1.00% | ~3,976 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,976 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 592)
 | MISTER ALL THUMBS | 0.10% | ~398 |
 | TRAVELER | 0.10% | ~398 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397,614 (Ranked 50)  
+Progressed: 397,627 (Ranked 50)  
 Completed: 56 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 56 (0.01%) (Ranked 369)
 | 2024-01-02 | 396,363 | 56 |
 | 2024-01-03 | 396,921 | 56 |
 | 2024-01-04 | 397,438 | 56 |
-| 2024-01-05 | 397,614 | 56 |
+| 2024-01-05 | 397,627 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

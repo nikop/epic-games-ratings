@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 545,
+  "Ranking_Rating": 546,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 205,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -8075,8 +8075,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-03T19:03:38.0112146+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:04:15.6922081+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:03:41.7432934+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:03:42.2403739+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:04:15.6922754+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:03:16.1820228+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:03:41.743368+00:00"
 }

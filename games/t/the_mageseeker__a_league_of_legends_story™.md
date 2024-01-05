@@ -5,16 +5,16 @@ Rating: 4.81 (Ranked 83)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,120 |
+| For Demacia | 95.00% | ~3,121 |
 | No more cages! | 90.00% | ~2,956 |
 | Everfrost | 77.00% | ~2,529 |
-| Pentakill | 76.00% | ~2,496 |
-| Dark Forest | 76.00% | ~2,496 |
-| The use of petricite | 73.00% | ~2,397 |
-| You can pet the dog | 60.00% | ~1,970 |
-| Thornbarrow | 43.00% | ~1,412 |
-| Big Helmet Bro | 41.00% | ~1,346 |
-| Clarion Cove | 41.00% | ~1,346 |
+| Pentakill | 76.00% | ~2,497 |
+| Dark Forest | 76.00% | ~2,497 |
+| The use of petricite | 73.00% | ~2,398 |
+| You can pet the dog | 60.00% | ~1,971 |
+| Thornbarrow | 43.00% | ~1,413 |
+| Big Helmet Bro | 41.00% | ~1,347 |
+| Clarion Cove | 41.00% | ~1,347 |
 | Ternmoat Headquarters | 39.00% | ~1,281 |
 | Past trauma | 38.00% | ~1,248 |
 | Elemental master | 37.00% | ~1,215 |
@@ -28,10 +28,10 @@ Rating: 4.81 (Ranked 83)
 | I chose my shackles | 27.00% | ~887 |
 | Sacred Woods | 26.00% | ~854 |
 | Little light | 24.00% | ~788 |
-| Glyndemere | 23.00% | ~755 |
-| Capelworth | 23.00% | ~755 |
-| Full equipped | 23.00% | ~755 |
-| Iffighain Headquarters | 22.00% | ~722 |
+| Capelworth | 24.00% | ~788 |
+| Glyndemere | 23.00% | ~756 |
+| Full equipped | 23.00% | ~756 |
+| Iffighain Headquarters | 22.00% | ~723 |
 | No more holding back | 19.00% | ~624 |
 | Terbisia | 19.00% | ~624 |
 | Quickmoore Headquarters | 19.00% | ~624 |
@@ -40,9 +40,9 @@ Rating: 4.81 (Ranked 83)
 | My heart and sword always for Demacia | 17.00% | ~558 |
 | Friendly fire | 17.00% | ~558 |
 | The Central Headquarters | 17.00% | ~558 |
-| True power | 16.00% | ~525 |
-| Meltridge | 16.00% | ~525 |
-| Cloven Dell Headquarters | 16.00% | ~525 |
+| True power | 16.00% | ~526 |
+| Meltridge | 16.00% | ~526 |
+| Cloven Dell Headquarters | 16.00% | ~526 |
 | Whispers in the Woods IV | 14.00% | ~460 |
 | I smell fear | 14.00% | ~460 |
 | The Great City of Demacia | 14.00% | ~460 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 83)
 | Silverwing nest | 2.00% | ~66 |
 | The Unshackled | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,284 (Ranked 224)  
+Progressed: 3,285 (Ranked 224)  
 Completed: 21 (0.64%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 21 (0.64%) (Ranked 202)
 | 2024-01-02 | 3,235 | 20 |
 | 2024-01-03 | 3,256 | 20 |
 | 2024-01-04 | 3,278 | 21 |
-| 2024-01-05 | 3,284 | 21 |
+| 2024-01-05 | 3,285 | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

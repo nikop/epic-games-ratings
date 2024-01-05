@@ -1,16 +1,16 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 377)  
+Rating: 4.62 (Ranked 378)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 14.00% | ~962 |
-| Realm Estate | 13.00% | ~893 |
+| Secret Technique | 14.00% | ~963 |
+| Realm Estate | 13.00% | ~894 |
 | A Wonderful Discovery | 12.00% | ~825 |
 | Walls Cannot Stop Us | 12.00% | ~825 |
-| From Friends to Family | 10.00% | ~687 |
-| Bone Peddler | 9.00% | ~618 |
+| From Friends to Family | 10.00% | ~688 |
+| Bone Peddler | 9.00% | ~619 |
 | Magical Synergy | 8.00% | ~550 |
 | There Can Only Be One! | 7.00% | ~481 |
 | Full Ascension | 7.00% | ~481 |
@@ -29,16 +29,16 @@ Rating: 4.62 (Ranked 377)
 | Fiery Friend | 3.00% | ~206 |
 | Against the Odds | 3.00% | ~206 |
 | Freed Lands of Manuhari | 3.00% | ~206 |
-| Arch Mage | 2.00% | ~137 |
-| The Creator | 2.00% | ~137 |
-| Crimson Caldera | 2.00% | ~137 |
-| Here be Dragons | 2.00% | ~137 |
-| Tipping the Scales | 2.00% | ~137 |
-| Blood of the Dragon | 2.00% | ~137 |
-| Mighty Hoard | 2.00% | ~137 |
-| Sehiran Oasis | 2.00% | ~137 |
-| Chaos Surge | 2.00% | ~137 |
-| Spoils of War | 2.00% | ~137 |
+| Arch Mage | 2.00% | ~138 |
+| The Creator | 2.00% | ~138 |
+| Crimson Caldera | 2.00% | ~138 |
+| Here be Dragons | 2.00% | ~138 |
+| Tipping the Scales | 2.00% | ~138 |
+| Blood of the Dragon | 2.00% | ~138 |
+| Mighty Hoard | 2.00% | ~138 |
+| Sehiran Oasis | 2.00% | ~138 |
+| Chaos Surge | 2.00% | ~138 |
+| Spoils of War | 2.00% | ~138 |
 | I've Got Everything I Need Right Here | 1.00% | ~69 |
 | God Emperor | 1.00% | ~69 |
 | Lord of Chaos | 1.00% | ~69 |
@@ -57,7 +57,7 @@ Rating: 4.62 (Ranked 377)
 | Duality | 0.80% | ~55 |
 | Snap Out of It! | 0.50% | ~34 |
 | The Magic That Empowers Me! | 0.50% | ~34 |
-| A Very Special Ring | 0.40% | ~27 |
+| A Very Special Ring | 0.40% | ~28 |
 | Jack of All Tomes | 0.30% | ~21 |
 | I Want to Break Free | 0.10% | ~7 |
 | Master of Evilness | 0.10% | ~7 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 377)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,872 (Ranked 196)  
+Progressed: 6,875 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 7 (0.10%) (Ranked 307)
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
-| 2024-01-05 | 6,872 | 7 |
+| 2024-01-05 | 6,875 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 478)  
 Sum: 209 (Ranked 411)  

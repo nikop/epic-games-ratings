@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.52 (Ranked 575)  
+Rating: 4.52 (Ranked 576)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,7 +35,7 @@ Rating: 4.52 (Ranked 575)
 | True Legends | 38.00% | ~557 |
 | Bullseye | 36.00% | ~528 |
 | It Is Not Over | 35.00% | ~513 |
-| On The Rocks | 33.00% | ~484 |
+| On The Rocks | 34.00% | ~498 |
 | Snowy Poro | 32.00% | ~469 |
 | Never Gets Old | 32.00% | ~469 |
 | Vertical Power | 27.00% | ~396 |

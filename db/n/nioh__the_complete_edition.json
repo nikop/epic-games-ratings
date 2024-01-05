@@ -2,13 +2,13 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "ProductSlug": "nioh-the-complete-edition",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 505,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2017-11-07T00:00:00+00:00",
@@ -9887,18 +9887,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 20975,
       "NumberOfAwardsMax": 8555
+    },
+    {
+      "Time": "2024-01-05T08:58:18.6432111+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 20984,
+      "NumberOfAwardsMax": 8561
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20975,
-  "NumberOfAwardsMax": 8555,
+  "NumberOfAwards": 20984,
+  "NumberOfAwardsMax": 8561,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8555
+      "Count": 8561
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -9910,7 +9916,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 964
+      "Count": 967
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9966,8 +9972,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2024-01-04T23:58:18.7881681+00:00",
+  "LastChanged": "2024-01-05T08:58:18.643211+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:13.1912057+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:58:46.9872697+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:05:43.3303512+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:58:18.6432116+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:04:48.8444629+00:00"
 }

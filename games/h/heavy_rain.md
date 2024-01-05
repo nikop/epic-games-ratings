@@ -1,12 +1,12 @@
 # Heavy Rain
 [Store](https://store.epicgames.com/en-US/p/heavy-rain)  
 [View Rawdata](../../db/h/heavy_rain.json)  
-Rating: 4.59 (Ranked 445)  
+Rating: 4.59 (Ranked 446)  
 Number of Ratings: 251  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 63  (Ranked 420)  
-Sum: 63 (Ranked 493)  
-Diff (max vs sum): -73  
+Sum: 63 (Ranked 494)  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 63 |

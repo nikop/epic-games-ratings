@@ -2,13 +2,13 @@
   "ID": "f8c4ac7957164721802514c6fc99e66d",
   "Name": "Assassin\u0027s Creed Chronicles: China",
   "ProductSlug": "assassins-creed-chronicles-china",
-  "Ranking_Rating": 342,
+  "Ranking_Rating": 343,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-26T15:00:00+00:00",
     "PcReleaseDate": "2015-04-21T15:00:00+00:00",
@@ -145,6 +145,6 @@
   "FirstSeenRating": "2023-03-08T07:58:37.2695884+00:00",
   "LastChanged": "2023-12-26T01:41:01.7984219+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:11.5724307+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:00:33.7319246+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:06:50.0091007+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:59:39.1202161+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:05:38.4686222+00:00"
 }

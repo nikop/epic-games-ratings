@@ -1,14 +1,14 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.55 (Ranked 522)  
+Rating: 4.55 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~622 |
 | Don't judge a manhole by its cover | 60.00% | ~498 |
+| Keep 'em coming! | 42.00% | ~349 |
 | I just love stuff! | 41.00% | ~340 |
-| Keep 'em coming! | 41.00% | ~340 |
 | The things they print nowadays | 39.00% | ~324 |
 | Big Spender | 38.00% | ~315 |
 | That's gotta hurt | 36.00% | ~299 |

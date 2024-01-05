@@ -3,9 +3,9 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 407,
-  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1212,9 +1212,9 @@
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
       "SetID": "caeik3h",
       "Name": "Mistress of Shadows",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "KR4_ACHIEVEMENT_BARNY",
@@ -1468,9 +1468,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 182
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -1748,9 +1748,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
       "SetID": "caeik3h",
       "Name": "Defenders Of The Night",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
@@ -1833,8 +1833,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:05:55.4855696+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:04:56.2485165+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:58:07.1715619+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:05:55.4856379+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:57:48.4113177+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:04:56.248583+00:00"
 }

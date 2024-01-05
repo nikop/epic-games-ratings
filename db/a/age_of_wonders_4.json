@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 377,
+  "Ranking_Rating": 378,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6872,
+  "EOS_Progressed": 6875,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10402,6 +10402,11 @@
       "Time": "2024-01-05T08:04:45.9554249+00:00",
       "NumProgressed": 6872,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T09:04:04.4752814+00:00",
+      "NumProgressed": 6875,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10485,7 +10490,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "19",
@@ -10493,7 +10498,7 @@
       "Name": "The Creator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "2",
@@ -10525,7 +10530,7 @@
       "Name": "Realm Estate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "23",
@@ -10541,7 +10546,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "25",
@@ -10557,7 +10562,7 @@
       "Name": "Bone Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "27",
@@ -10573,7 +10578,7 @@
       "Name": "From Friends to Family",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "29",
@@ -10589,7 +10594,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "30",
@@ -10765,7 +10770,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "46",
@@ -10773,7 +10778,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "47",
@@ -10789,7 +10794,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "49",
@@ -10797,7 +10802,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "50",
@@ -10821,7 +10826,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "53",
@@ -10837,7 +10842,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "55",
@@ -10861,7 +10866,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "58",
@@ -10885,20 +10890,20 @@
       "Name": "A Very Special Ring",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6872,
+      "Progressed": 6875,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6872,
+      "Progressed": 6875,
       "Completed": 7
     }
   ],
@@ -10906,8 +10911,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:04:45.9554244+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:04:04.4752811+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:02:47.9659359+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:04:45.9555491+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:02:58.0942996+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:04:04.4753565+00:00"
 }

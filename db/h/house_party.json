@@ -2,13 +2,13 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 854,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -8796,9 +8796,9 @@
       "ID": "TM_Derek",
       "SetID": "bmkn7o4",
       "Name": "The Muse: Derek",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "TM_Frank",
@@ -8938,8 +8938,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:09:39.8013991+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:09:19.1135165+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:00:39.2514019+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:09:39.8015353+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:59:43.2253702+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:09:19.1136389+00:00"
 }

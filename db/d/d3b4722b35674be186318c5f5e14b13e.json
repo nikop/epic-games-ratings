@@ -2,10 +2,10 @@
   "ID": "d3b4722b35674be186318c5f5e14b13e",
   "Name": "Arms Race 2",
   "ProductSlug": "arms-race-2-219fd5",
-  "Ranking_EOS_Progress": 647,
+  "Ranking_EOS_Progress": 639,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -88,6 +88,11 @@
     {
       "Time": "2024-01-04T14:04:23.3303039+00:00",
       "NumProgressed": 12,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T09:04:45.2428125+00:00",
+      "NumProgressed": 13,
       "NumCompleted": 0
     }
   ],
@@ -155,7 +160,7 @@
       "ID": "Industrialisation",
       "SetID": "1g0ce2c",
       "Name": "Industrialisation",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -163,7 +168,7 @@
       "ID": "Korean reunification",
       "SetID": "1g0ce2c",
       "Name": "Korean reunification",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -219,7 +224,7 @@
       "ID": "United Nations",
       "SetID": "1g0ce2c",
       "Name": "United Nations",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -236,14 +241,14 @@
     {
       "ID": "1g0ce2c",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-23T13:59:26.4382087+00:00",
   "FirstSeenAchievements": "2023-10-11T21:08:28.3507055+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:05:38.5132019+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:04:45.2428121+00:00",
   "LastUpdate_AppInfo": "2024-01-02T23:57:08.057447+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:00:04.7887661+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:05:38.5132153+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:59:16.3638849+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:04:45.2428234+00:00"
 }

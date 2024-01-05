@@ -2,13 +2,13 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -4748,9 +4748,9 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1447
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -5141,8 +5141,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-04T20:00:42.946597+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:08:47.993549+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:08:38.7309832+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:01:10.957+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:08:47.9936625+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:00:05.6461453+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:08:38.7311057+00:00"
 }

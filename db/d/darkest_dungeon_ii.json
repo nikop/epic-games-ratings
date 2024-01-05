@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10542,9 +10542,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131730,
+  "EOS_Progressed": 131734,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1247,
+  "EOS_NewPlayers": 1246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38422,6 +38422,11 @@
       "Time": "2024-01-05T08:10:45.2912112+00:00",
       "NumProgressed": 131730,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T09:10:10.3478391+00:00",
+      "NumProgressed": 131734,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38441,7 +38446,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38593,7 +38598,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38633,7 +38638,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38649,15 +38654,15 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6586
+      "UsersEstimate": 7904
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38673,7 +38678,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38729,7 +38734,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -38753,7 +38758,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "driving_distance_easy",
@@ -39064,21 +39069,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131730,
+      "Progressed": 131734,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6599,
+      "Progressed": 6603,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-05T08:01:42.4898639+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:10:45.2912109+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:10:10.3478386+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:01:42.4898647+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:10:45.2914422+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:00:28.6363426+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:10:10.3480518+00:00"
 }

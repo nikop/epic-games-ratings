@@ -2,12 +2,12 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 545,
+  "Ranking_Rating": 546,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -296,7 +296,7 @@
   ],
   "EOS_Progressed": 317,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1900,8 +1900,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:10:04.2047204+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:09:38.0304645+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:00:32.7428674+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:10:04.2047524+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:59:38.3663039+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:09:38.0304952+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 128,
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44833,
+  "EOS_Progressed": 44834,
   "EOS_Completed": 248,
   "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 1,
@@ -20377,6 +20377,11 @@
       "Time": "2024-01-05T08:07:46.8456114+00:00",
       "NumProgressed": 44833,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-05T09:06:22.3452194+00:00",
+      "NumProgressed": 44834,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20396,7 +20401,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13898
+      "UsersEstimate": 13899
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -20508,7 +20513,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35866
+      "UsersEstimate": 35867
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -20580,7 +20585,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16588
+      "UsersEstimate": 16589
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -20612,7 +20617,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24658
+      "UsersEstimate": 24659
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -20660,7 +20665,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30038
+      "UsersEstimate": 30039
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -20724,7 +20729,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41695
+      "UsersEstimate": 41696
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20732,14 +20737,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23313
+      "UsersEstimate": 23314
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44833,
+      "Progressed": 44834,
       "Completed": 248
     }
   ],
@@ -20747,8 +20752,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:07:46.8456109+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:06:22.3452189+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.3527303+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:03:54.9379709+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:07:46.8457269+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:03:25.768975+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:06:22.3453584+00:00"
 }

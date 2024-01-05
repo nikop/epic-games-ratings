@@ -2,13 +2,13 @@
   "ID": "2972368dffc24d4ea80ba1aa2bcf56d2",
   "Name": "Layers of Fear 2",
   "ProductSlug": "layers-of-fear-2",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 949,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-10-22T15:00:00+00:00",
     "PcReleaseDate": "2020-10-22T15:00:00+00:00",
@@ -514,6 +514,6 @@
   "FirstSeen": "2022-07-22T20:31:56.3171366+00:00",
   "LastChanged": "2023-12-10T17:57:44.3073363+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:54.7422173+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:00:06.7035788+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:04:36.6813523+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:59:17.8595631+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:03:57.3979542+00:00"
 }

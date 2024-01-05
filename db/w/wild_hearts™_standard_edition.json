@@ -3,9 +3,9 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 284,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1139,
+  "EOS_Progressed": 1140,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -3763,6 +3763,11 @@
       "Time": "2024-01-05T08:10:25.5216298+00:00",
       "NumProgressed": 1139,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-05T09:09:54.9161171+00:00",
+      "NumProgressed": 1140,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3775,7 +3780,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "achievement_10",
@@ -3855,7 +3860,7 @@
       "Name": "Counter Specialist",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_2",
@@ -3863,7 +3868,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "achievement_20",
@@ -3903,7 +3908,7 @@
       "Name": "Single Minded",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_25",
@@ -3935,7 +3940,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_29",
@@ -3949,9 +3954,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 410
     },
     {
       "ID": "achievement_30",
@@ -3981,9 +3986,9 @@
       "ID": "achievement_33",
       "SetID": "2cpn27e",
       "Name": "Human Believer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_34",
@@ -4071,7 +4076,7 @@
       "Name": "Team Hunter",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "achievement_44",
@@ -4095,7 +4100,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "achievement_47",
@@ -4119,7 +4124,7 @@
       "Name": "Reincarnation Cycle Stopper",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "achievement_6",
@@ -4135,7 +4140,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "achievement_8",
@@ -4143,7 +4148,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "achievement_9",
@@ -4151,20 +4156,20 @@
       "Name": "Karakuri Minato",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1139,
+      "Progressed": 1140,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:10:25.5216295+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:09:54.9161166+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:58:32.4468348+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:10:25.5216972+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:58:07.4020426+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:09:54.9161935+00:00"
 }

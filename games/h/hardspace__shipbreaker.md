@@ -1,40 +1,40 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~766 |
-| It’s Heating up! | 69.00% | ~724 |
-| Let’s patch things up | 65.00% | ~682 |
-| I can fix it! | 62.00% | ~651 |
-| Post No Bills | 54.00% | ~567 |
+| Breathe In… Breathe Out… | 73.00% | ~767 |
+| It’s Heating up! | 69.00% | ~725 |
+| Let’s patch things up | 65.00% | ~683 |
+| I can fix it! | 62.00% | ~652 |
+| Post No Bills | 54.00% | ~568 |
 | Truly Shocking! | 48.00% | ~504 |
 | Critical Thinker | 35.00% | ~368 |
-| Act I Complete | 29.00% | ~304 |
-| Always Finding Your Mark | 29.00% | ~304 |
-| The Weight of the World | 29.00% | ~304 |
+| Act I Complete | 29.00% | ~305 |
+| Always Finding Your Mark | 29.00% | ~305 |
+| The Weight of the World | 29.00% | ~305 |
 | A drop in the Ocean | 28.00% | ~294 |
 | No Niños | 26.00% | ~273 |
 | I ain’t afraid of no Ghost | 24.00% | ~252 |
-| Act II Complete | 21.00% | ~220 |
+| Act II Complete | 21.00% | ~221 |
 | Bing Bang BOOM | 19.00% | ~200 |
 | A successful procedure! | 18.00% | ~189 |
 | Breaking the Ice | 18.00% | ~189 |
 | Solidarity Forever | 12.00% | ~126 |
 | A Tucked Tale | 10.00% | ~105 |
-| The best thing money can buy | 9.00% | ~94 |
+| The best thing money can buy | 9.00% | ~95 |
 | Act III Complete | 6.00% | ~63 |
 | See you Space Cowboy | 6.00% | ~63 |
-| Fire and Brimstone | 5.00% | ~52 |
+| Fire and Brimstone | 5.00% | ~53 |
 | Ghost in the Ship | 2.00% | ~21 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050 (Ranked 288)  
+Progressed: 1,051 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 1,045 | 0 |
 | 2024-01-03 | 1,046 | 0 |
 | 2024-01-04 | 1,048 | 0 |
-| 2024-01-05 | 1,050 | 0 |
+| 2024-01-05 | 1,051 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

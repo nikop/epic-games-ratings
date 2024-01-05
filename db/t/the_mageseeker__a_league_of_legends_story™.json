@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3284,
+  "EOS_Progressed": 3285,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 4,
@@ -5939,6 +5939,11 @@
       "Time": "2024-01-05T06:06:23.2158428+00:00",
       "NumProgressed": 3284,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-05T09:08:31.3343788+00:00",
+      "NumProgressed": 3285,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 53,
@@ -6014,7 +6019,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6054,7 +6059,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -6094,7 +6099,7 @@
       "Name": "True power",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -6126,7 +6131,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6142,7 +6147,7 @@
       "Name": "Meltridge",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -6166,7 +6171,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6174,7 +6179,7 @@
       "Name": "Thornbarrow",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -6182,7 +6187,7 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -6206,15 +6211,15 @@
       "Name": "Glyndemere",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Capelworth",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 788
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -6254,7 +6259,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6302,7 +6307,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -6318,7 +6323,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -6326,7 +6331,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6342,7 +6347,7 @@
       "Name": "Full equipped",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -6373,7 +6378,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3284,
+      "Progressed": 3285,
       "Completed": 21
     }
   ],
@@ -6381,8 +6386,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:08:37.9421488+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:08:31.3343784+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:01:11.8019707+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:08:37.942219+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:00:06.3353097+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:08:31.3344486+00:00"
 }

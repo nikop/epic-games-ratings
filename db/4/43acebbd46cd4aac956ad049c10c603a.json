@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -289,9 +289,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 1267,
+  "EOS_Progressed": 1268,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3584,6 +3584,11 @@
       "Time": "2024-01-05T08:06:10.4608444+00:00",
       "NumProgressed": 1267,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T09:05:07.966701+00:00",
+      "NumProgressed": 1268,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3692,7 +3697,7 @@
       "Name": "Discovery",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "EasternWetlands",
@@ -3764,7 +3769,7 @@
       "Name": "Into the Machine",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "JustOneLap",
@@ -3796,7 +3801,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "Mnemosyne",
@@ -3860,7 +3865,7 @@
       "Name": "Persistent",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "PrometheusUnbound",
@@ -3876,7 +3881,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3884,7 +3889,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "RenaissanceRobot",
@@ -3940,7 +3945,7 @@
       "Name": "Team Spirit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "TextAdventurer",
@@ -3996,7 +4001,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "TheWordEndures",
@@ -4067,7 +4072,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1267,
+      "Progressed": 1268,
       "Completed": 2
     }
   ],
@@ -4075,8 +4080,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:06:10.4608439+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:05:07.9667002+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:02:14.6468781+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:06:10.460897+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:00:54.2522711+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:05:07.9667697+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 949,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -175,7 +175,7 @@
   "Tags": [],
   "EOS_Progressed": 24482,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -22607,8 +22607,8 @@
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:06:13.4886301+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:05:10.230348+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:21.7307915+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:03:36.8848608+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:06:13.4888136+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:03:12.2196217+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:05:10.2304713+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 216,
+  "Ranking_Rating": 217,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -952,9 +952,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 53554,
+  "EOS_Progressed": 53555,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1133,
+  "EOS_NewPlayers": 1131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30517,6 +30517,11 @@
       "Time": "2024-01-05T08:04:49.9623792+00:00",
       "NumProgressed": 53554,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T09:04:07.52309+00:00",
+      "NumProgressed": 53555,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -30584,7 +30589,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5355
+      "UsersEstimate": 5356
     },
     {
       "ID": "goals75",
@@ -30736,7 +30741,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13388
+      "UsersEstimate": 13389
     },
     {
       "ID": "sandboarder",
@@ -30839,15 +30844,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 53554,
+      "Progressed": 53555,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-03T14:00:16.7622175+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:04:49.9623786+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:04:07.5230896+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.753487+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:02:30.9376171+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:04:49.9625432+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:02:45.8977485+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:04:07.5232396+00:00"
 }

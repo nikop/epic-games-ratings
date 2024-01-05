@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 660,
+  "EOS_Progressed": 661,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1799,6 +1799,11 @@
       "Time": "2024-01-05T08:11:16.450653+00:00",
       "NumProgressed": 660,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T09:10:35.7134359+00:00",
+      "NumProgressed": 661,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1874,7 +1879,7 @@
       "Name": "Ghost Buster",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Gladiator",
@@ -1890,7 +1895,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Hardboiled",
@@ -1922,7 +1927,7 @@
       "Name": "Iconoclasm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Inquisitor",
@@ -2010,7 +2015,7 @@
       "Name": "Reincarnation",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Roughneck",
@@ -2129,7 +2134,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 660,
+      "Progressed": 661,
       "Completed": 1
     }
   ],
@@ -2137,8 +2142,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:11:16.4506527+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:10:35.7134354+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:59:40.8764088+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:11:16.4506908+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:58:59.8026958+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:10:35.7134797+00:00"
 }

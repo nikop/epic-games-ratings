@@ -14,10 +14,10 @@
 | All for one! | 21.00% | ~13 |
 | A hidden snake | 21.00% | ~13 |
 | Crimson rivers | 18.00% | ~11 |
+| Help of the Gell | 18.00% | ~11 |
 | Power of Inquisition | 16.00% | ~10 |
 | Surpass the teacher | 16.00% | ~10 |
 | Vene, vidi, vici | 16.00% | ~10 |
-| Help of the Gell | 16.00% | ~10 |
 | She-Wolf | 16.00% | ~10 |
 | Rage | 15.00% | ~9 |
 | Trial by cold | 13.00% | ~8 |

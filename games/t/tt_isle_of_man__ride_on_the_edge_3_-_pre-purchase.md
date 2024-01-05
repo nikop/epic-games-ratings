@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 93.00% | ~232 |
+| You're Going Down! | 92.00% | ~230 |
 | To Each Their Own | 41.00% | ~102 |
 | You Get An Upgrade, You Get An Upgrade! | 18.00% | ~45 |
 | Like Phileas Fogg | 17.00% | ~42 |
@@ -12,17 +12,17 @@
 | Serial Winner | 9.00% | ~22 |
 | Start Your Engines | 8.00% | ~20 |
 | Lone Wolf | 8.00% | ~20 |
-| Highly Qualified | 7.00% | ~17 |
-| No Room for Improvement | 7.00% | ~17 |
+| Highly Qualified | 7.00% | ~18 |
+| No Room for Improvement | 7.00% | ~18 |
 | Playing God | 5.00% | ~12 |
 | Nerd | 4.00% | ~10 |
 | First and Foremost | 4.00% | ~10 |
 | Upgradeaholic | 4.00% | ~10 |
 | Tailor-Made | 4.00% | ~10 |
-| Gotta Go Fast! | 3.00% | ~7 |
-| Made Mother Proud | 3.00% | ~7 |
-| Winner Winner Chicken Dinner | 3.00% | ~7 |
-| Tempus Fugit | 3.00% | ~7 |
+| Gotta Go Fast! | 3.00% | ~8 |
+| Made Mother Proud | 3.00% | ~8 |
+| Winner Winner Chicken Dinner | 3.00% | ~8 |
+| Tempus Fugit | 3.00% | ~8 |
 | Déjà-Vu | 2.00% | ~5 |
 | POI Hunter | 2.00% | ~5 |
 | Seven-League Boots | 2.00% | ~5 |
@@ -44,8 +44,8 @@
 | Superbike Superfan | 0.80% | ~2 |
 | Playing Favourites | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249 (Ranked 411)  
-Completed: 2 (0.80%) (Ranked 187)  
+Progressed: 250 (Ranked 411)  
+Completed: 2 (0.80%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -159,4 +159,4 @@ Completed: 2 (0.80%) (Ranked 187)
 | 2024-01-01 | 243 | 2 |
 | 2024-01-03 | 245 | 2 |
 | 2024-01-04 | 248 | 2 |
-| 2024-01-05 | 249 | 2 |
+| 2024-01-05 | 250 | 2 |

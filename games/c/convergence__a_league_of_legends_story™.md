@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 322)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,8 +10,8 @@ Rating: 4.65 (Ranked 321)
 | The Mysterious Stranger | 32.00% | ~394 |
 | Immaculate Aim | 28.00% | ~345 |
 | The Brass Boss | 27.00% | ~333 |
+| Time Flies | 26.00% | ~320 |
 | Make Up For Lost Time | 25.00% | ~308 |
-| Time Flies | 25.00% | ~308 |
 | The Harder They Fall | 25.00% | ~308 |
 | No, Thanks! | 25.00% | ~308 |
 | The Prince in Heels | 25.00% | ~308 |
@@ -53,8 +53,8 @@ Rating: 4.65 (Ranked 321)
 | Thinking Two Steps Ahead | 2.00% | ~25 |
 | Wunderkind | 2.00% | ~25 |
 | Fitting In | 2.00% | ~25 |
+| A Lesson in Precision | 1.00% | ~12 |
 | No Time to Waste | 1.00% | ~12 |
-| A Lesson in Precision | 0.90% | ~11 |
 | Wildlife Protection | 0.70% | ~9 |
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |

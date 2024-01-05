@@ -4,8 +4,8 @@
   "ProductSlug": "nour",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-12T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -34,6 +34,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T14:00:10.3354721+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:35.1887021+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:01:38.2586072+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:06:02.7599481+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:00:25.3409631+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:05:01.7560857+00:00"
 }

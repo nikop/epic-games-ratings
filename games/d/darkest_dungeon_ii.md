@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 262)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,15 +10,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Lost and Found | 8.00% | ~528 |
 | Autodidact | 7.00% | ~9,221 |
 | This Belongs in a Museum | 6.00% | ~7,904 |
+| Overdue Notice | 6.00% | ~7,904 |
 | This guy... again? | 6.00% | ~396 |
-| Serenity Now! | 5.00% | ~6,586 |
-| Creep and Sleep | 5.00% | ~6,586 |
-| Meat and Greet | 5.00% | ~6,586 |
-| Catch and Decease | 5.00% | ~6,586 |
-| Overdue Notice | 5.00% | ~6,586 |
-| Escape from the Black Hole | 5.00% | ~6,586 |
-| Rush Hour | 5.00% | ~6,586 |
-| To Grandmother's House | 5.00% | ~6,586 |
+| Serenity Now! | 5.00% | ~6,587 |
+| Creep and Sleep | 5.00% | ~6,587 |
+| Meat and Greet | 5.00% | ~6,587 |
+| Catch and Decease | 5.00% | ~6,587 |
+| Escape from the Black Hole | 5.00% | ~6,587 |
+| Rush Hour | 5.00% | ~6,587 |
+| To Grandmother's House | 5.00% | ~6,587 |
 | Ploughshares to Swords | 5.00% | ~330 |
 | Bloody Graduation | 5.00% | ~330 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,269 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,730 (Ranked 91)  
+Progressed: 131,734 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
-| 2024-01-05 | 131,730 | 3 |
+| 2024-01-05 | 131,734 | 3 |
 ## Awards
 Max (Character Customization): 7,951  (Ranked 50)  
 Sum: 21,435 (Ranked 58)  

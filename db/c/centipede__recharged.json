@@ -2,13 +2,13 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 862,
+  "Ranking_Rating": 863,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24748,
+  "EOS_Progressed": 24749,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -22158,6 +22158,11 @@
       "Time": "2024-01-05T08:04:31.4684717+00:00",
       "NumProgressed": 24748,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2024-01-05T09:03:53.6079975+00:00",
+      "NumProgressed": 24749,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -22177,7 +22182,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6434
+      "UsersEstimate": 6435
     },
     {
       "ID": "Deadline",
@@ -22217,7 +22222,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7424
+      "UsersEstimate": 7425
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -22273,7 +22278,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8414
+      "UsersEstimate": 8415
     },
     {
       "ID": "Still_Burning",
@@ -22296,15 +22301,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24748,
+      "Progressed": 24749,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-26T13:00:27.7460321+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:04:31.468471+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:03:53.6079968+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.3485527+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:00:08.9945605+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:04:31.4686337+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:59:19.7950212+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:03:53.6080813+00:00"
 }

@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.32 (Ranked 854)  
+Rating: 4.32 (Ranked 855)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -39,6 +39,7 @@ Number of Ratings: 177  (23.09.2022)
 | Love Conquers All | 0.50% | ~36 |
 | Rule 34 | 0.40% | ~28 |
 | Rachael | 0.40% | ~28 |
+| The Muse: Derek | 0.40% | ~28 |
 | The Elder Brahs | 0.40% | ~28 |
 | Good Ol' Days | 0.40% | ~28 |
 | Beyond the Call of Dude-y | 0.30% | ~21 |
@@ -49,7 +50,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Harder They Fall...Dood | 0.30% | ~21 |
 | Do You Smell Blood? | 0.30% | ~21 |
 | A Striking Resemblance | 0.30% | ~21 |
-| The Muse: Derek | 0.30% | ~21 |
 | Howz It Goin Dood | 0.30% | ~21 |
 | Derezzed | 0.30% | ~21 |
 | Congrats, A Celebrity Hates You | 0.20% | ~8 |

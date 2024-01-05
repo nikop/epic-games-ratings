@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 284,
+  "Ranking_Rating": 285,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 180,
@@ -275,9 +275,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10134,
+  "EOS_Progressed": 10137,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1676,
+  "EOS_NewPlayers": 1671,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3715,6 +3715,11 @@
       "Time": "2024-01-05T08:11:05.019614+00:00",
       "NumProgressed": 10134,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T09:10:26.166038+00:00",
+      "NumProgressed": 10137,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3727,7 +3732,7 @@
       "Name": "Conspiracy",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "03_TheStolenStar",
@@ -3887,7 +3892,7 @@
       "Name": "Perfect Timing",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "23_DynastyRestored",
@@ -3935,7 +3940,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4246,7 +4251,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10134,
+      "Progressed": 10137,
       "Completed": 1
     }
   ],
@@ -4254,8 +4259,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-05T07:02:59.4710788+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:11:05.0196138+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:10:26.1660375+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:02:51.4162646+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:11:05.0197013+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:03:00.8189236+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:10:26.1661452+00:00"
 }

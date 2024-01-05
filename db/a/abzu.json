@@ -2,13 +2,13 @@
   "ID": "7af7476ff9eb4a8d9cd9d6486224de76",
   "Name": "ABZU",
   "ProductSlug": "abzu",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 428,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2016-08-02T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -486,6 +486,6 @@
   "FirstSeen": "2022-07-22T20:29:47.8662447+00:00",
   "LastChanged": "2024-01-01T19:01:10.8770532+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:32.101758+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:58:33.5906543+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:07:07.6300743+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:58:08.2250297+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:05:52.0592204+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5787,9 +5787,9 @@
       "Count": 553
     }
   ],
-  "EOS_Progressed": 13768,
+  "EOS_Progressed": 13769,
   "EOS_Completed": 342,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -24317,6 +24317,11 @@
       "Time": "2024-01-05T07:09:16.8764058+00:00",
       "NumProgressed": 13768,
       "NumCompleted": 342
+    },
+    {
+      "Time": "2024-01-05T09:09:35.5930761+00:00",
+      "NumProgressed": 13769,
+      "NumCompleted": 342
     }
   ],
   "TotalAchievements": 15,
@@ -24376,7 +24381,7 @@
       "Name": "Duty Bound",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "Gardener",
@@ -24384,7 +24389,7 @@
       "Name": "Gardener",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4130
+      "UsersEstimate": 4131
     },
     {
       "ID": "Generous",
@@ -24408,7 +24413,7 @@
       "Name": "Miner",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "Photographer",
@@ -24440,14 +24445,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8123
+      "UsersEstimate": 8124
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13768,
+      "Progressed": 13769,
       "Completed": 342
     }
   ],
@@ -24455,8 +24460,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-05T07:01:12.2242226+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:10:01.1582376+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:09:35.5930756+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:02.6007727+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:02:29.6070838+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:10:01.158358+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:02:45.0511134+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:09:35.5932121+00:00"
 }

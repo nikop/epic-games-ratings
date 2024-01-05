@@ -1,13 +1,13 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.07 (Ranked 1,022)  
+Rating: 4.07 (Ranked 1,023)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 3.00% | ~8,740 |
-| I Found it! | 1.00% | ~2,913 |
+| Ball Launched | 3.00% | ~8,741 |
+| I Found it! | 1.00% | ~2,914 |
 | Ready Steady Score | 0.40% | ~1,165 |
 | First but not Last | 0.20% | ~583 |
 | Full Loot Madness | 0.20% | ~583 |
@@ -29,10 +29,10 @@ Number of Ratings: 756  (23.09.2022)
 | Dress Code | 0.10% | ~291 |
 | Customizer | 0.10% | ~291 |
 | I know the Rules | 0.10% | ~291 |
-| Catomic Bomb | 0.10% | ~9 |
-| Terraformer | 0.10% | ~9 |
-| The Captain | 0.10% | ~9 |
-| Did It for the Dowry | 0.10% | ~9 |
+| Catomic Bomb | 0.10% | ~10 |
+| Terraformer | 0.10% | ~10 |
+| The Captain | 0.10% | ~10 |
+| Did It for the Dowry | 0.10% | ~10 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,339 (Ranked 63)  
+Progressed: 291,362 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 290,342 | 0 |
 | 2024-01-03 | 290,679 | 0 |
 | 2024-01-04 | 291,140 | 0 |
-| 2024-01-05 | 291,339 | 0 |
+| 2024-01-05 | 291,362 | 0 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 292)  
 Sum: 1,636 (Ranked 231)  

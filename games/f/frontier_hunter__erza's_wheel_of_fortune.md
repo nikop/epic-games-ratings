@@ -1,42 +1,42 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.38 (Ranked 786)  
+Rating: 4.38 (Ranked 787)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~663 |
-| Training Simulation | 79.00% | ~563 |
-| Kuku Bird Hunter | 65.00% | ~463 |
-| Storm Traveller | 59.00% | ~421 |
-| Wolf King Killer | 54.00% | ~385 |
-| Fashion Connoisseur | 52.00% | ~371 |
-| Arms Mechanic | 48.00% | ~342 |
+| Travel Streamer | 93.00% | ~665 |
+| Training Simulation | 79.00% | ~565 |
+| Kuku Bird Hunter | 65.00% | ~465 |
+| Storm Traveller | 59.00% | ~422 |
+| Wolf King Killer | 54.00% | ~386 |
+| Fashion Connoisseur | 52.00% | ~372 |
+| Arms Mechanic | 48.00% | ~343 |
 | Flower Thief | 43.00% | ~307 |
-| Apostle of Flame | 39.00% | ~278 |
-| Beginner Cook | 37.00% | ~264 |
-| Beginner Artificer | 37.00% | ~264 |
-| Seal Breaker | 32.00% | ~228 |
+| Apostle of Flame | 38.00% | ~272 |
+| Beginner Cook | 37.00% | ~265 |
+| Beginner Artificer | 37.00% | ~265 |
+| Seal Breaker | 32.00% | ~229 |
 | Handyman | 28.00% | ~200 |
-| Giant Lizard Killer | 26.00% | ~185 |
-| Guardian | 25.00% | ~178 |
-| Nosebleeder | 25.00% | ~178 |
+| Giant Lizard Killer | 26.00% | ~186 |
+| Guardian | 25.00% | ~179 |
+| Nosebleeder | 25.00% | ~179 |
 | Trader | 22.00% | ~157 |
 | Weapon Boost | 21.00% | ~150 |
-| Flying Kobold Killer | 19.00% | ~135 |
-| Youth Magnet | 18.00% | ~128 |
-| Furious Scorpion Killer | 17.00% | ~121 |
-| Lethal Blade Mantis Killer | 17.00% | ~121 |
-| Squeaky Clean | 17.00% | ~121 |
-| Master Artificer | 17.00% | ~121 |
+| Flying Kobold Killer | 19.00% | ~136 |
+| Youth Magnet | 18.00% | ~129 |
+| Furious Scorpion Killer | 17.00% | ~122 |
+| Lethal Blade Mantis Killer | 17.00% | ~122 |
+| Squeaky Clean | 17.00% | ~122 |
+| Master Artificer | 17.00% | ~122 |
 | Kind Adventurer | 15.00% | ~107 |
 | Mermaid Killer | 15.00% | ~107 |
 | Cave Master | 14.00% | ~100 |
 | Face Slapper | 14.00% | ~100 |
-| Boss challenge | 11.00% | ~78 |
-| Berserker Slayer | 11.00% | ~78 |
-| Giantess Slayer | 10.00% | ~71 |
-| Warden Slayer | 10.00% | ~71 |
+| Boss challenge | 11.00% | ~79 |
+| Berserker Slayer | 11.00% | ~79 |
+| Giantess Slayer | 10.00% | ~72 |
+| Warden Slayer | 10.00% | ~72 |
 | Master Cook | 8.00% | ~57 |
 | Silver Moon Wolf King Challenge | 4.00% | ~29 |
 | Blade Mantis Challenge | 3.00% | ~21 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 786)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713 (Ranked 316)  
+Progressed: 715 (Ranked 316)  
 Completed: 3 (0.42%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 3 (0.42%) (Ranked 233)
 | 2024-01-02 | 687 | 3 |
 | 2024-01-03 | 693 | 3 |
 | 2024-01-04 | 707 | 3 |
-| 2024-01-05 | 713 | 3 |
+| 2024-01-05 | 715 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

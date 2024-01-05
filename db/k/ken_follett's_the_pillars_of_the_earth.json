@@ -2,12 +2,12 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 592,
+  "Ranking_Rating": 593,
   "Ranking_Popularity": 324,
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17635,
+  "EOS_Progressed": 17636,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17735,6 +17735,11 @@
       "Time": "2024-01-05T08:04:36.4434705+00:00",
       "NumProgressed": 17635,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-05T09:03:57.2578216+00:00",
+      "NumProgressed": 17636,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 41,
@@ -17786,7 +17791,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "tpote_achievement_15",
@@ -17962,7 +17967,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "tpote_achievement_35",
@@ -18050,7 +18055,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "tpote_achievement_8",
@@ -18058,7 +18063,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3703
+      "UsersEstimate": 3704
     },
     {
       "ID": "tpote_achievement_9",
@@ -18073,15 +18078,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17635,
+      "Progressed": 17636,
       "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:04:36.44347+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:03:57.2578212+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:03:28.5311509+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:04:36.4436163+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:03:05.652214+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:03:57.2579301+00:00"
 }

@@ -1,23 +1,23 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.42 (Ranked 735)  
+Rating: 4.42 (Ranked 736)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 31.00% | ~8,801 |
-| Sector 2 | 28.00% | ~7,949 |
-| Sector 3 | 24.00% | ~6,814 |
-| Crush That Cube! | 23.00% | ~6,530 |
-| Sector 4 | 19.00% | ~5,394 |
-| Crush That Ball! | 18.00% | ~5,110 |
+| Sector 1 | 31.00% | ~8,802 |
+| Sector 2 | 28.00% | ~7,950 |
+| Sector 3 | 24.00% | ~6,815 |
+| Crush That Cube! | 23.00% | ~6,531 |
+| Sector 4 | 19.00% | ~5,395 |
+| Crush That Ball! | 18.00% | ~5,111 |
 | Sector 5 | 13.00% | ~3,691 |
 | Sector 6 | 11.00% | ~3,123 |
-| Feeling the Blues | 8.00% | ~2,271 |
-| Squished | 8.00% | ~2,271 |
-| Finale | 8.00% | ~2,271 |
-| Sector 7 | 8.00% | ~2,271 |
-| Did That Work? -- No! | 7.00% | ~1,987 |
+| Feeling the Blues | 8.00% | ~2,272 |
+| Squished | 8.00% | ~2,272 |
+| Finale | 8.00% | ~2,272 |
+| Sector 7 | 8.00% | ~2,272 |
+| Did That Work? -- No! | 7.00% | ~1,988 |
 | Master Room | 4.00% | ~1,136 |
 | Bronze Trophy | 2.00% | ~568 |
 | Master Of The Collectables | 2.00% | ~568 |
@@ -30,8 +30,8 @@ Rating: 4.42 (Ranked 735)
 | Maxed Out | 2.00% | ~568 |
 | The Collector | 1.00% | ~284 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,391 (Ranked 142)  
-Completed: 193 (0.68%) (Ranked 196)  
+Progressed: 28,394 (Ranked 142)  
+Completed: 195 (0.69%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,11 +113,11 @@ Completed: 193 (0.68%) (Ranked 196)
 | 2024-01-02 | 28,087 | 188 |
 | 2024-01-03 | 28,217 | 191 |
 | 2024-01-04 | 28,359 | 193 |
-| 2024-01-05 | 28,391 | 193 |
+| 2024-01-05 | 28,394 | 195 |
 ## Awards
-Max (Challenging Puzzles): 25  (Ranked 545)  
+Max (Challenging Puzzles): 25  (Ranked 546)  
 Sum: 25 (Ranked 554)  
-Diff (max vs sum): -9  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 25 |

@@ -2,13 +2,13 @@
   "ID": "14de166bd26f49e2a13e18e1d386777b",
   "Name": "Evil Nun: The Broken Mask",
   "ProductSlug": "evil-nun-the-broken-mask-372461",
-  "Ranking_Rating": 177,
+  "Ranking_Rating": 178,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-31T15:00:00+00:00",
     "PcReleaseDate": "2022-10-31T15:00:00+00:00",
@@ -121,8 +121,8 @@
   "FirstSeenRating": "2022-12-30T14:58:38.470983+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5589424+00:00",
   "LastChanged": "2023-11-19T21:01:37.4233386+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:09:59.427803+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:09:34.2777282+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:03.8101697+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:02:33.2439421+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:09:59.4278051+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:02:47.5958733+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:09:34.2777311+00:00"
 }

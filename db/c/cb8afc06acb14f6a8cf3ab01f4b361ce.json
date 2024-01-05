@@ -2,13 +2,13 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 949,
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -461,9 +461,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 341089,
+  "EOS_Progressed": 341104,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3912,
+  "EOS_NewPlayers": 3907,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12221,6 +12221,11 @@
       "Time": "2024-01-05T08:09:35.5057744+00:00",
       "NumProgressed": 341089,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T09:09:15.578549+00:00",
+      "NumProgressed": 341104,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12297,7 +12302,7 @@
       "Name": "Here to stay",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "S10_GRSB",
@@ -12305,7 +12310,7 @@
       "Name": "Counting on you",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "S11_MMR6",
@@ -12313,7 +12318,7 @@
       "Name": "This is the end",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "S12_ALL",
@@ -12321,7 +12326,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "S13_ALL_HARD",
@@ -12369,7 +12374,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17054
+      "UsersEstimate": 17055
     },
     {
       "ID": "S19_CHALLENGES",
@@ -12537,7 +12542,7 @@
       "Name": "I took a risk",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "S40_BONUS",
@@ -12552,7 +12557,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 341089,
+      "Progressed": 341104,
       "Completed": 7
     }
   ],
@@ -12560,8 +12565,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-01T23:01:20.9565561+00:00",
-  "LastChanged_Achievements": "2024-01-05T08:09:35.5057737+00:00",
+  "LastChanged_Achievements": "2024-01-05T09:09:15.5785482+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.1079824+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:58:55.5634445+00:00",
-  "LastUpdate_Achievements": "2024-01-05T08:09:35.5058417+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:58:25.2806555+00:00",
+  "LastUpdate_Achievements": "2024-01-05T09:09:15.578635+00:00"
 }
