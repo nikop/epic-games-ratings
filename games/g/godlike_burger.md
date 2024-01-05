@@ -1,30 +1,30 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 593)  
+Rating: 4.51 (Ranked 592)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~178,847 |
-| FIRST BLOOD | 40.00% | ~158,975 |
-| KEVIN! | 30.00% | ~119,231 |
-| JACK OF ALL TRADES | 23.00% | ~91,411 |
-| CRIMINAL | 20.00% | ~79,488 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~43,718 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~35,769 |
-| HONORS STUDENT | 8.00% | ~31,795 |
-| BUTCHER | 6.00% | ~23,846 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,872 |
-| RAMBO | 5.00% | ~19,872 |
+| MASTER CHEF | 45.00% | ~178,856 |
+| FIRST BLOOD | 40.00% | ~158,983 |
+| KEVIN! | 30.00% | ~119,237 |
+| JACK OF ALL TRADES | 23.00% | ~91,415 |
+| CRIMINAL | 20.00% | ~79,491 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~43,720 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~35,771 |
+| HONORS STUDENT | 8.00% | ~31,797 |
+| BUTCHER | 6.00% | ~23,847 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,873 |
+| RAMBO | 5.00% | ~19,873 |
 | HELL'S KITCHEN | 4.00% | ~15,898 |
-| CELEBRITY | 3.00% | ~11,923 |
-| MARTYR | 3.00% | ~11,923 |
+| CELEBRITY | 3.00% | ~11,924 |
+| MARTYR | 3.00% | ~11,924 |
 | GRATITUDE | 2.00% | ~7,949 |
 | PATTY-KILLER | 2.00% | ~7,949 |
-| EXPERIMENTALIST | 1.00% | ~3,974 |
-| GOURMET | 1.00% | ~3,974 |
-| LAW-ABIDING CITIZEN | 1.00% | ~3,974 |
-| PRUDENT | 1.00% | ~3,974 |
+| EXPERIMENTALIST | 1.00% | ~3,975 |
+| GOURMET | 1.00% | ~3,975 |
+| LAW-ABIDING CITIZEN | 1.00% | ~3,975 |
+| PRUDENT | 1.00% | ~3,975 |
 | SCATTERBRAIN | 0.80% | ~3,180 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,782 |
 | TASTE UNTASTY | 0.60% | ~2,385 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 593)
 | MISTER ALL THUMBS | 0.10% | ~397 |
 | TRAVELER | 0.10% | ~397 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397,438 (Ranked 50)  
+Progressed: 397,457 (Ranked 50)  
 Completed: 56 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,6 +221,7 @@ Completed: 56 (0.01%) (Ranked 369)
 | 2024-01-02 | 396,363 | 56 |
 | 2024-01-03 | 396,921 | 56 |
 | 2024-01-04 | 397,438 | 56 |
+| 2024-01-05 | 397,457 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

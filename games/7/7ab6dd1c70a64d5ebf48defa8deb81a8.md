@@ -1,18 +1,18 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.17 (Ranked 978)  
+Rating: 4.13 (Ranked 1,002)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 61.00% | ~1,094 |
-| Trinity | 29.00% | ~520 |
-| Find Allies | 23.00% | ~412 |
-| A Taste of Wrath | 23.00% | ~412 |
-| I Found It | 23.00% | ~412 |
-| The Collector | 23.00% | ~412 |
-| Shatter Them All | 22.00% | ~394 |
-| Geared Up | 22.00% | ~394 |
+| Break Out | 61.00% | ~1,095 |
+| Trinity | 29.00% | ~521 |
+| The Collector | 24.00% | ~431 |
+| Find Allies | 23.00% | ~413 |
+| A Taste of Wrath | 23.00% | ~413 |
+| I Found It | 23.00% | ~413 |
+| Shatter Them All | 22.00% | ~395 |
+| Geared Up | 22.00% | ~395 |
 | Adventurer | 21.00% | ~377 |
 | Fashion Victim | 21.00% | ~377 |
 | Scholar | 21.00% | ~377 |
@@ -22,8 +22,8 @@ Rating: 4.17 (Ranked 978)
 | Big Bazar | 13.00% | ~233 |
 | Essence Blow | 12.00% | ~215 |
 | Alchemist | 12.00% | ~215 |
-| The Mentor | 10.00% | ~179 |
-| Calm before the Storm | 8.00% | ~143 |
+| The Mentor | 10.00% | ~180 |
+| Calm before the Storm | 8.00% | ~144 |
 | To Battle | 7.00% | ~126 |
 | Godslayer | 7.00% | ~126 |
 | Airborne | 7.00% | ~126 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 978)
 | All That Gold | 0.70% | ~13 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,793 (Ranked 255)  
+Progressed: 1,795 (Ranked 255)  
 Completed: 3 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 3 (0.17%) (Ranked 280)
 | 2024-01-02 | 1,683 | 3 |
 | 2024-01-03 | 1,735 | 3 |
 | 2024-01-04 | 1,793 | 3 |
+| 2024-01-05 | 1,795 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -135,3 +136,4 @@ Completed: 3 (0.17%) (Ranked 280)
 | 2023-12-29 | 4.12 | 0 | 0 |
 | 2024-01-01 | 4.14 | 0 | 0 |
 | 2024-01-02 | 4.17 | 0 | 0 |
+| 2024-01-04 | 4.13 | 0 | 0 |

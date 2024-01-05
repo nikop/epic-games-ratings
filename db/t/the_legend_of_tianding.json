@@ -4,8 +4,8 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -427,9 +427,9 @@
       "ID": "BeatBossTing",
       "SetID": "123m9l1",
       "Name": "Divine Retribution",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "BeatBossWang",
@@ -547,9 +547,9 @@
       "ID": "SaveMatsumoto",
       "SetID": "123m9l1",
       "Name": "Captain Mustache",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SewerExplorer",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:03:48.5415151+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:04:27.2284931+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.5249807+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:59:03.3158077+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:03:48.5415294+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:00:20.1136215+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:04:27.2285092+00:00"
 }

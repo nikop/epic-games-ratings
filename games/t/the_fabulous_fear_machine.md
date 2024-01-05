@@ -20,13 +20,13 @@
 | Ambition is... blind | 19.00% | ~16 |
 | You have two wishes left | 19.00% | ~16 |
 | Pulp! Adventures into the Unknown | 18.00% | ~15 |
-| Et in arcadia ego | 16.00% | ~13 |
+| Et in arcadia ego | 17.00% | ~14 |
 | The seer | 16.00% | ~13 |
 | You had one wish left | 14.00% | ~12 |
+| Welcome to Hellville | 14.00% | ~12 |
 | You've awakened the beast | 13.00% | ~11 |
 | Hate is... addictive | 13.00% | ~11 |
-| Welcome to Hellville | 13.00% | ~11 |
-| Kirlian's best disciple | 12.00% | ~10 |
+| Kirlian's best disciple | 13.00% | ~11 |
 | Blessed antennas | 11.00% | ~9 |
 | The bully | 11.00% | ~9 |
 | Blood Red Island | 10.00% | ~8 |

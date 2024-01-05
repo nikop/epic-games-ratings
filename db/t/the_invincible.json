@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1381,
+  "EOS_Progressed": 1382,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3597,6 +3597,11 @@
       "Time": "2024-01-04T23:09:33.7640814+00:00",
       "NumProgressed": 1381,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T00:10:04.0169831+00:00",
+      "NumProgressed": 1382,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3663,9 +3668,9 @@
       "ID": "AchvDamnHoles",
       "SetID": "1hj060c",
       "Name": "Ubiquitous holes",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 69
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -3689,7 +3694,7 @@
       "Name": "Evacuation",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "AchvInvShip",
@@ -3775,9 +3780,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 594
     },
     {
       "ID": "AchvReachCamp",
@@ -3785,7 +3790,7 @@
       "Name": "The Camp",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "AchvReachCity",
@@ -3801,7 +3806,7 @@
       "Name": "The Condor",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "AchvSurvivors",
@@ -3825,7 +3830,7 @@
       "Name": "The End",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "AchvUnity",
@@ -3840,7 +3845,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1381,
+      "Progressed": 1382,
       "Completed": 1
     }
   ],
@@ -3848,8 +3853,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-03T13:02:33.844766+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:09:33.7640811+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:10:04.0169828+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:58:45.2207181+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:09:33.764111+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:59:52.7728027+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:10:04.0170135+00:00"
 }

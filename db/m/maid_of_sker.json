@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -927,9 +927,9 @@
       "ID": "perfect_harmony",
       "SetID": "3j2phem",
       "Name": "Perfect Harmony!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "phonic_boom",
@@ -943,9 +943,9 @@
       "ID": "rapturous_applause",
       "SetID": "3j2phem",
       "Name": "Rapturous Applause!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "scholar",
@@ -1008,8 +1008,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:04:36.5428739+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:05:33.7921601+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:21.5182782+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:59:12.4104694+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:04:36.5429003+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:00:33.5221663+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:05:33.7921816+00:00"
 }

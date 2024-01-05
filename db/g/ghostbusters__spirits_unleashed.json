@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3939,9 +3939,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33258,
+  "EOS_Progressed": 33260,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24594,6 +24594,11 @@
       "Time": "2024-01-04T22:09:29.2741871+00:00",
       "NumProgressed": 33258,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-05T00:09:06.3964516+00:00",
+      "NumProgressed": 33260,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24693,7 +24698,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "Dont_Need_These",
@@ -24893,7 +24898,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "Stunner",
@@ -24909,7 +24914,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3658
+      "UsersEstimate": 3659
     },
     {
       "ID": "Summoner",
@@ -24933,7 +24938,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "Teamwork",
@@ -25012,7 +25017,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33258,
+      "Progressed": 33260,
       "Completed": 71
     }
   ],
@@ -25020,8 +25025,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-04T01:46:13.3751253+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:08:52.2062649+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:09:06.3964512+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:59:54.5065051+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:08:52.2064435+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:01:36.568707+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:09:06.396582+00:00"
 }

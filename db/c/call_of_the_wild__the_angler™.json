@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 948,
   "Ranking_Popularity": 477,
-  "Ranking_PopularitySum": 409,
+  "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 180,
@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7958,
+  "EOS_Progressed": 7961,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13206,6 +13206,11 @@
       "Time": "2024-01-04T23:08:06.7948755+00:00",
       "NumProgressed": 7958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T00:08:03.589027+00:00",
+      "NumProgressed": 7961,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13233,7 +13238,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13249,7 +13254,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -13257,7 +13262,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -13536,13 +13541,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7958,
+      "Progressed": 7961,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7330,
+      "Progressed": 7333,
       "Completed": 113
     }
   ],
@@ -13550,8 +13555,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:08:06.7948749+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:08:03.5890268+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:00:28.6694932+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:08:06.7949604+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:02:21.6237625+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:08:03.5891076+00:00"
 }

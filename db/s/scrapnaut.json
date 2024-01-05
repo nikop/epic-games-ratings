@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -2116,6 +2116,11 @@
       "Time": "2024-01-04T22:10:09.1540682+00:00",
       "NumProgressed": 616,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-05T00:09:46.0176359+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2135,7 +2140,7 @@
       "Name": "Traveler",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BUILD_RAFINERY",
@@ -2167,7 +2172,7 @@
       "Name": "Herbalist",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -2199,15 +2204,15 @@
       "Name": "Master Of Management",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -2239,7 +2244,7 @@
       "Name": "Lumberjack",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -2287,7 +2292,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -2311,7 +2316,7 @@
       "Name": "Smelting Master",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_MYTHRIL_SMELTER",
@@ -2335,7 +2340,7 @@
       "Name": "Smelter",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -2374,7 +2379,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 4
     }
   ],
@@ -2382,8 +2387,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:09:20.8820421+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:09:46.0176355+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.8569887+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:58:36.414304+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:09:20.8820824+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:59:39.7886336+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:09:46.0176659+00:00"
 }

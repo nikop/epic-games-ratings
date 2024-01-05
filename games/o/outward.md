@@ -1,32 +1,32 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.54 (Ranked 546)  
+Rating: 4.54 (Ranked 545)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,269 |
-| Ready for Winter | 61.00% | ~2,732 |
-| Ready for Summer | 49.00% | ~2,194 |
-| Cordon Bleu | 41.00% | ~1,836 |
-| Tapped! | 35.00% | ~1,567 |
-| Eureka | 30.00% | ~1,343 |
+| Venture Outward | 73.00% | ~3,270 |
+| Ready for Winter | 61.00% | ~2,733 |
+| Ready for Summer | 49.00% | ~2,195 |
+| Cordon Bleu | 41.00% | ~1,837 |
+| Tapped! | 35.00% | ~1,568 |
+| Eureka | 30.00% | ~1,344 |
 | Scourge Slayer | 24.00% | ~1,075 |
-| Science, Troglodyte! | 22.00% | ~985 |
-| Exceptional Skill | 21.00% | ~940 |
+| Science, Troglodyte! | 22.00% | ~986 |
+| Exceptional Skill | 21.00% | ~941 |
 | Home Sweet Home | 20.00% | ~896 |
 | Encyclopedic! | 18.00% | ~806 |
 | A Fortress Toppled! | 15.00% | ~672 |
 | The Power of Family | 15.00% | ~672 |
 | Apex Predator | 14.00% | ~627 |
-| The Power of Faith | 12.00% | ~537 |
+| The Power of Faith | 12.00% | ~538 |
 | Strange amalgams | 11.00% | ~493 |
 | The Power of Freedom | 9.00% | ~403 |
-| Ace Detective | 7.00% | ~313 |
-| Gift from the Ancestors | 7.00% | ~313 |
-| House of Cards | 7.00% | ~313 |
-| Magic is a science | 7.00% | ~313 |
+| Ace Detective | 7.00% | ~314 |
+| Gift from the Ancestors | 7.00% | ~314 |
+| House of Cards | 7.00% | ~314 |
+| Magic is a science | 7.00% | ~314 |
 | Hold my Mead and Watch This | 6.00% | ~269 |
 | Let ‘em eat magma! | 6.00% | ~269 |
 | The power of ambition | 6.00% | ~269 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~13 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,478 (Ranked 205)  
+Progressed: 4,480 (Ranked 205)  
 Completed: 5 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,6 +295,7 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2024-01-02 | 4,428 | 5 |
 | 2024-01-03 | 4,452 | 5 |
 | 2024-01-04 | 4,478 | 5 |
+| 2024-01-05 | 4,480 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 498)  
 Sum: 246 (Ranked 400)  

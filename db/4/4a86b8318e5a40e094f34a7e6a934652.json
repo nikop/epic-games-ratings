@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 481,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.63,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -2024,6 +2024,11 @@
       "Time": "2024-01-04T23:05:05.4156288+00:00",
       "NumProgressed": 479,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T00:06:12.9612059+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2036,7 +2041,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 431
+      "UsersEstimate": 433
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2044,7 +2049,7 @@
       "Name": "Design Engineer",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "BRING_MARY",
@@ -2052,7 +2057,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2060,7 +2065,7 @@
       "Name": "Amusement Park",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -2068,7 +2073,7 @@
       "Name": "Empty Shelves",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "CATCH_30_FISH",
@@ -2076,7 +2081,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2092,7 +2097,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2108,7 +2113,7 @@
       "Name": "A Party to Remember!",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "LUNCH_LEECH",
@@ -2116,7 +2121,7 @@
       "Name": "Leech Lunch",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2132,7 +2137,7 @@
       "Name": "Tough Guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2156,7 +2161,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2180,7 +2185,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2188,21 +2193,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 481,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:05:05.4156284+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:06:12.9612051+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:02:44.4569761+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:05:05.4156495+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:02:43.8187852+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:06:12.9612346+00:00"
 }

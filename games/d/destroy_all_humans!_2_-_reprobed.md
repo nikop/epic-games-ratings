@@ -1,38 +1,39 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 546)  
+Rating: 4.54 (Ranked 545)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 81.00% | ~252 |
-| Mash Machine | 75.00% | ~233 |
-| Ducks in a Row, Fish in a Barrel | 54.00% | ~168 |
-| Furon Fashion | 48.00% | ~149 |
-| Shop Til They Drop | 41.00% | ~128 |
-| Bodied Sattva | 38.00% | ~118 |
-| Cult Following | 34.00% | ~106 |
-| Earthly Pleasures | 34.00% | ~106 |
-| Lie Back and Think of Albion | 27.00% | ~84 |
-| Upgreatest | 26.00% | ~81 |
+| Rock of the Bay | 82.00% | ~257 |
+| Mash Machine | 74.00% | ~232 |
+| Ducks in a Row, Fish in a Barrel | 54.00% | ~170 |
+| Furon Fashion | 47.00% | ~148 |
+| Shop Til They Drop | 40.00% | ~126 |
+| Bodied Sattva | 38.00% | ~119 |
+| Cult Following | 34.00% | ~107 |
+| Earthly Pleasures | 34.00% | ~107 |
+| Lie Back and Think of Albion | 27.00% | ~85 |
+| Upgreatest | 26.00% | ~82 |
 | Pimp My Raid | 25.00% | ~78 |
-| Freshly Squeezed | 21.00% | ~65 |
-| I Look Up As I Walk to Takoshima | 20.00% | ~62 |
-| Die Nasty | 18.00% | ~56 |
+| I Look Up As I Walk to Takoshima | 20.00% | ~63 |
+| Freshly Squeezed | 20.00% | ~63 |
+| Die Nasty | 18.00% | ~57 |
 | Perfect Probulator | 17.00% | ~53 |
 | Transmitting From Sol-3 | 15.00% | ~47 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~37 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~38 |
 | Fly Me to the Moon Base | 10.00% | ~31 |
 | Kaijuiced | 10.00% | ~31 |
 | Dusted | 9.00% | ~28 |
 | Scuttled | 8.00% | ~25 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~22 |
 | Lobster Blisque | 6.00% | ~19 |
-| Ultimate Smoothie | 5.00% | ~16 |
 | Yettisoned | 5.00% | ~16 |
-| Arkvoodle Doodle | 4.00% | ~12 |
+| Ultimate Smoothie | 4.00% | ~13 |
+| Arkvoodle Doodle | 4.00% | ~13 |
 | Deincarnated | 3.00% | ~9 |
+| The Optional Mandate | 2.00% | ~6 |
 | PK Slam Dunk | 1.00% | ~3 |
 | Arty Facts | 1.00% | ~3 |
 | Gotta Catch All the Pop Art | 1.00% | ~3 |
@@ -40,7 +41,6 @@ Number of Ratings: 90  (23.09.2022)
 | Against All Odds | 1.00% | ~3 |
 | Forbidden Donut | 1.00% | ~3 |
 | Hidden Human Hive Harvest | 1.00% | ~3 |
-| The Optional Mandate | 1.00% | ~3 |
 | Higher Than the Futen Zoku | 1.00% | ~3 |
 | If You Know What I Mean | 1.00% | ~3 |
 | Toilet Break | 0.60% | ~2 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.60% | ~2 |
 | Trans-Siberian Express | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 311 (Ranked 389)  
+Progressed: 314 (Ranked 388)  
 Completed: 1 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 1 (0.32%) (Ranked 245)
 | 2024-01-02 | 291 | 1 |
 | 2024-01-03 | 301 | 1 |
 | 2024-01-04 | 311 | 1 |
+| 2024-01-05 | 314 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 493)  
 Sum: 36 (Ranked 525)  

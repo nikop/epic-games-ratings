@@ -2,7 +2,7 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 149,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 759,
+  "EOS_Progressed": 761,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2489,6 +2489,11 @@
       "Time": "2024-01-04T23:08:36.6743307+00:00",
       "NumProgressed": 759,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T00:08:44.9212401+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2557,15 +2562,15 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 175
+      "UsersEstimate": 183
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2596,14 +2601,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 759,
+      "Progressed": 761,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:08:36.6743304+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:08:44.9212398+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:57:20.7294726+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:08:36.6743487+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:57:50.7471615+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:08:44.921258+00:00"
 }

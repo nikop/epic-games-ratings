@@ -9,9 +9,9 @@
 | End | 49.00% | ~196 |
 | Nonconsensual | 33.00% | ~132 |
 | Realist | 28.00% | ~112 |
-| Escape | 20.00% | ~80 |
-| Wrong | 18.00% | ~72 |
-| Jack | 15.00% | ~60 |
+| Escape | 21.00% | ~84 |
+| Wrong | 19.00% | ~76 |
+| Jack | 16.00% | ~64 |
 | Tough | 13.00% | ~52 |
 | Clear | 4.00% | ~16 |
 | Unfinished | 4.00% | ~16 |
@@ -20,7 +20,7 @@
 | Help | 2.00% | ~8 |
 | Interpret | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 363)  
+Progressed: 400 (Ranked 364)  
 Completed: 6 (1.50%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,54 +6,54 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,934 |
-| I'll Be Back | 84.00% | ~4,409 |
-| Sorry, I Dropped This | 76.00% | ~3,989 |
-| First Day on the Job | 76.00% | ~3,989 |
-| Butcher's Bill | 54.00% | ~2,834 |
-| P.A.X | 37.00% | ~1,942 |
-| Hey Listen | 36.00% | ~1,890 |
-| OPERATOR | 35.00% | ~1,837 |
-| It's Blue Light | 33.00% | ~1,732 |
-| Most Wanted | 26.00% | ~1,365 |
-| Infidel | 23.00% | ~1,207 |
+| On My Own Two Feet | 94.00% | ~4,937 |
+| I'll Be Back | 84.00% | ~4,412 |
+| Sorry, I Dropped This | 76.00% | ~3,992 |
+| First Day on the Job | 76.00% | ~3,992 |
+| Butcher's Bill | 54.00% | ~2,836 |
+| P.A.X | 36.00% | ~1,891 |
+| Hey Listen | 36.00% | ~1,891 |
+| OPERATOR | 35.00% | ~1,838 |
+| It's Blue Light | 33.00% | ~1,733 |
+| Most Wanted | 26.00% | ~1,366 |
+| Infidel | 23.00% | ~1,208 |
 | Firebug | 20.00% | ~1,050 |
 | GOLIATH | 20.00% | ~1,050 |
-| I Choose You | 17.00% | ~892 |
-| Nothing to Lose | 17.00% | ~892 |
-| Big Sister | 15.00% | ~787 |
-| Gear Up | 15.00% | ~787 |
-| SENTINEL | 15.00% | ~787 |
+| I Choose You | 17.00% | ~893 |
+| Nothing to Lose | 17.00% | ~893 |
+| Big Sister | 15.00% | ~788 |
+| Gear Up | 15.00% | ~788 |
+| SENTINEL | 15.00% | ~788 |
 | The Black Cerberus | 12.00% | ~630 |
 | Watchman | 12.00% | ~630 |
 | Core Power | 12.00% | ~630 |
-| CREO Killed the Video Star | 11.00% | ~577 |
-| Who's in Charge Here? | 11.00% | ~577 |
-| Shall Not Pass | 11.00% | ~577 |
+| CREO Killed the Video Star | 11.00% | ~578 |
+| Who's in Charge Here? | 11.00% | ~578 |
+| Shall Not Pass | 11.00% | ~578 |
 | Right Tool for the Job | 10.00% | ~525 |
-| Raging Drones | 9.00% | ~472 |
-| Overconfident | 9.00% | ~472 |
+| Raging Drones | 9.00% | ~473 |
+| Overconfident | 9.00% | ~473 |
 | Pusher Man | 8.00% | ~420 |
 | Melting Down | 8.00% | ~420 |
 | Squad Chief Helvig | 8.00% | ~420 |
 | No More Marching | 8.00% | ~420 |
 | Is This Real Life? | 8.00% | ~420 |
-| Duty-Bound | 7.00% | ~367 |
-| Follow the White Rabbit | 7.00% | ~367 |
-| Liberation | 7.00% | ~367 |
-| Risk Assessment | 7.00% | ~367 |
+| Duty-Bound | 7.00% | ~368 |
+| Follow the White Rabbit | 7.00% | ~368 |
+| Liberation | 7.00% | ~368 |
+| Risk Assessment | 7.00% | ~368 |
 | Sunglasses at Night | 6.00% | ~315 |
 | Carbon Cat | 6.00% | ~315 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~262 |
-| Man of Steel | 5.00% | ~262 |
-| Jack of All Trades | 5.00% | ~262 |
-| 3-2-1 | 5.00% | ~262 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~263 |
+| Man of Steel | 5.00% | ~263 |
+| Jack of All Trades | 5.00% | ~263 |
+| 3-2-1 | 5.00% | ~263 |
 | Rusty Rat | 4.00% | ~210 |
 | Desecration | 4.00% | ~210 |
-| For the Good of Mankind | 3.00% | ~157 |
-| Turing Test | 3.00% | ~157 |
-| Repeat Customer | 3.00% | ~157 |
-| Evolution Theory | 3.00% | ~157 |
+| For the Good of Mankind | 3.00% | ~158 |
+| Turing Test | 3.00% | ~158 |
+| Repeat Customer | 3.00% | ~158 |
+| Evolution Theory | 3.00% | ~158 |
 | Ghost in the Machine | 2.00% | ~105 |
 | Homo Machinalis | 2.00% | ~105 |
 | Was That Yours? | 2.00% | ~105 |
@@ -66,15 +66,15 @@ Number of Ratings: 62  (23.09.2022)
 | Episodic | 2.00% | ~105 |
 | End of Transmission | 2.00% | ~105 |
 | Gramophone Enthusiast | 2.00% | ~105 |
-| Bling-Bling | 1.00% | ~52 |
+| Bling-Bling | 1.00% | ~53 |
 | Sniffing Around | 0.80% | ~42 |
 | Modus Operandi | 0.70% | ~37 |
 | Suited and Booted | 0.70% | ~37 |
 | Tools of War | 0.70% | ~37 |
-| Brave New World | 0.60% | ~31 |
+| Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,249 (Ranked 202)  
+Progressed: 5,252 (Ranked 202)  
 Completed: 18 (0.34%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,6 +291,7 @@ Completed: 18 (0.34%) (Ranked 242)
 | 2024-01-02 | 5,210 | 18 |
 | 2024-01-03 | 5,224 | 18 |
 | 2024-01-04 | 5,249 | 18 |
+| 2024-01-05 | 5,252 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 518)  
 Sum: 30 (Ranked 537)  

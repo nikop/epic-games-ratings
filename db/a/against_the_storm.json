@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 3803,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3773,9 +3773,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 20143,
+  "EOS_Progressed": 20144,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18448,6 +18448,11 @@
       "Time": "2024-01-04T23:05:34.3743622+00:00",
       "NumProgressed": 20143,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-05T00:06:52.2833354+00:00",
+      "NumProgressed": 20144,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18860,7 +18865,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "WinNearFrosts",
@@ -18884,7 +18889,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "WinNearPetrified",
@@ -18931,15 +18936,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20143,
+      "Progressed": 20144,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-04T21:00:11.5483425+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:05:34.3743617+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:06:52.283335+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:59:11.8860856+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:05:34.3744556+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:00:32.7115766+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:06:52.2834277+00:00"
 }

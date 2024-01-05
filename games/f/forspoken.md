@@ -1,11 +1,11 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.13 (Ranked 1,003)  
+Rating: 4.13 (Ranked 1,002)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,564 |
+| Attachments | 12.00% | ~5,565 |
 | Unlocked Potential | 11.00% | ~5,101 |
 | Tinkerer | 8.00% | ~3,710 |
 | Leapfrogger | 7.00% | ~3,246 |
@@ -15,19 +15,19 @@ Rating: 4.13 (Ranked 1,003)
 | Call of the Fount: Baptized | 7.00% | ~3,246 |
 | No Mercy | 6.00% | ~2,782 |
 | Explorer: Seeker | 6.00% | ~2,782 |
-| Through the Eyes of Another: Empath | 5.00% | ~2,318 |
-| Stuck | 5.00% | ~2,318 |
-| Help Me Out Here | 5.00% | ~2,318 |
+| Through the Eyes of Another: Empath | 5.00% | ~2,319 |
+| Stuck | 5.00% | ~2,319 |
+| Help Me Out Here | 5.00% | ~2,319 |
 | The Interloper | 4.00% | ~1,855 |
 | Outdoorsperson | 3.00% | ~1,391 |
 | Hop, Step, Jump | 3.00% | ~1,391 |
 | Endless Runner | 3.00% | ~1,391 |
-| What Must Be Done | 2.00% | ~927 |
-| Might and Main | 2.00% | ~927 |
-| Damned If You Do... | 2.00% | ~927 |
-| Explorer: Pathfinder | 2.00% | ~927 |
-| Shocker | 2.00% | ~927 |
-| From Every Angle | 2.00% | ~927 |
+| What Must Be Done | 2.00% | ~928 |
+| Might and Main | 2.00% | ~928 |
+| Damned If You Do... | 2.00% | ~928 |
+| Explorer: Pathfinder | 2.00% | ~928 |
+| Shocker | 2.00% | ~928 |
+| From Every Angle | 2.00% | ~928 |
 | The Hue of Blue | 1.00% | ~464 |
 | The Truth Will Out | 1.00% | ~464 |
 | Breaking Point | 1.00% | ~464 |
@@ -39,7 +39,7 @@ Rating: 4.13 (Ranked 1,003)
 | Awakening | 0.60% | ~278 |
 | Explorer: Trailblazer | 0.60% | ~278 |
 | Through the Eyes of Another: Seer | 0.50% | ~232 |
-| Craftsperson | 0.40% | ~185 |
+| Craftsperson | 0.40% | ~186 |
 | Archivist | 0.30% | ~139 |
 | Tit for Tat | 0.30% | ~139 |
 | A Roaring Trade | 0.30% | ~139 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 1,003)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,369 (Ranked 125)  
+Progressed: 46,375 (Ranked 125)  
 Completed: 4 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,6 +319,7 @@ Completed: 4 (0.01%) (Ranked 369)
 | 2024-01-02 | 46,154 | 4 |
 | 2024-01-03 | 46,259 | 4 |
 | 2024-01-04 | 46,369 | 4 |
+| 2024-01-05 | 46,375 | 4 |
 ## Awards
 Max (Character Customization): 46  (Ranked 464)  
 Sum: 46 (Ranked 512)  

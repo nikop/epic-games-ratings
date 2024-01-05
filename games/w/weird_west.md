@@ -14,7 +14,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dead or Alive | 55.00% | ~1,130 |
 | Full House | 37.00% | ~760 |
 | Off the Trail | 34.00% | ~699 |
-| Justice Served | 29.00% | ~596 |
+| Justice Served | 30.00% | ~616 |
 | Chain Reaction | 27.00% | ~555 |
 | Through Their Eyes | 26.00% | ~534 |
 | Dishonored | 25.00% | ~514 |

@@ -5,11 +5,11 @@ Rating: 4.21 (Ranked 948)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,375 |
-| Battlefields Have Memories | 81.00% | ~2,186 |
-| Enlisted | 74.00% | ~1,997 |
-| Maybe Engage a Little | 69.00% | ~1,862 |
-| No More Names | 52.00% | ~1,403 |
+| Unforeseen | 88.00% | ~2,377 |
+| Battlefields Have Memories | 81.00% | ~2,188 |
+| Enlisted | 74.00% | ~1,999 |
+| Maybe Engage a Little | 69.00% | ~1,864 |
+| No More Names | 52.00% | ~1,405 |
 | Initiate | 37.00% | ~999 |
 | Thrada-Kul | 33.00% | ~891 |
 | Gravity-Challenged Rocks | 27.00% | ~729 |
@@ -32,10 +32,10 @@ Rating: 4.21 (Ranked 948)
 | Best Dressed | 6.00% | ~162 |
 | Periapt Viridian | 6.00% | ~162 |
 | Shroudfane Explorer | 6.00% | ~162 |
+| Scholar | 4.00% | ~108 |
 | Kitted Out | 4.00% | ~108 |
+| Armaments Azure | 4.00% | ~108 |
 | Armaments Gules | 4.00% | ~108 |
-| Scholar | 3.00% | ~81 |
-| Armaments Azure | 3.00% | ~81 |
 | Armaments Vert | 3.00% | ~81 |
 | Veteran | 2.00% | ~54 |
 | Grand Magnus | 1.00% | ~27 |
@@ -45,15 +45,15 @@ Rating: 4.21 (Ranked 948)
 | Backtracker | 0.80% | ~22 |
 | Witch-Taker | 0.60% | ~16 |
 | Master of Ultramarine | 0.60% | ~16 |
-| Family Business | 0.50% | ~13 |
-| Petite Bourgeoisie | 0.50% | ~13 |
-| Master of Malachite | 0.50% | ~13 |
+| Family Business | 0.50% | ~14 |
+| Petite Bourgeoisie | 0.50% | ~14 |
+| Master of Malachite | 0.50% | ~14 |
 | Diplomat | 0.40% | ~11 |
 | Out of Time | 0.30% | ~8 |
 | Treasure Hunter | 0.30% | ~8 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,699 (Ranked 230)  
+Progressed: 2,701 (Ranked 230)  
 Completed: 2 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,6 +152,7 @@ Completed: 2 (0.07%) (Ranked 321)
 | 2024-01-02 | 2,542 | 2 |
 | 2024-01-03 | 2,622 | 2 |
 | 2024-01-04 | 2,699 | 2 |
+| 2024-01-05 | 2,701 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

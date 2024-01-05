@@ -6,32 +6,32 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~786 |
-| Lost and Found | 8.00% | ~524 |
-| Autodidact | 7.00% | ~9,218 |
-| This Belongs in a Museum | 6.00% | ~7,901 |
-| This guy... again? | 6.00% | ~393 |
-| Serenity Now! | 5.00% | ~6,584 |
-| Creep and Sleep | 5.00% | ~6,584 |
-| Meat and Greet | 5.00% | ~6,584 |
-| Catch and Decease | 5.00% | ~6,584 |
-| Overdue Notice | 5.00% | ~6,584 |
-| Escape from the Black Hole | 5.00% | ~6,584 |
-| To Grandmother's House | 5.00% | ~6,584 |
+| Malpractice Assurance | 12.00% | ~788 |
+| Lost and Found | 8.00% | ~525 |
+| Autodidact | 7.00% | ~9,219 |
+| This Belongs in a Museum | 6.00% | ~7,902 |
+| This guy... again? | 6.00% | ~394 |
+| Serenity Now! | 5.00% | ~6,585 |
+| Creep and Sleep | 5.00% | ~6,585 |
+| Meat and Greet | 5.00% | ~6,585 |
+| Catch and Decease | 5.00% | ~6,585 |
+| Overdue Notice | 5.00% | ~6,585 |
+| Escape from the Black Hole | 5.00% | ~6,585 |
+| To Grandmother's House | 5.00% | ~6,585 |
 | Ploughshares to Swords | 5.00% | ~328 |
 | Bloody Graduation | 5.00% | ~328 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,267 |
-| It Rings a Bell | 4.00% | ~5,267 |
-| Not Today! | 4.00% | ~5,267 |
-| It Happens | 4.00% | ~5,267 |
-| Rush Hour | 4.00% | ~5,267 |
-| Merry Time | 4.00% | ~5,267 |
-| Harvest Festival | 4.00% | ~5,267 |
-| Whale | 4.00% | ~5,267 |
-| A Place to Lay Your Head | 4.00% | ~5,267 |
-| FNG | 4.00% | ~5,267 |
-| Nope | 4.00% | ~5,267 |
-| Friends 'Til the End | 4.00% | ~262 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,268 |
+| It Rings a Bell | 4.00% | ~5,268 |
+| Not Today! | 4.00% | ~5,268 |
+| It Happens | 4.00% | ~5,268 |
+| Rush Hour | 4.00% | ~5,268 |
+| Merry Time | 4.00% | ~5,268 |
+| Harvest Festival | 4.00% | ~5,268 |
+| Whale | 4.00% | ~5,268 |
+| A Place to Lay Your Head | 4.00% | ~5,268 |
+| FNG | 4.00% | ~5,268 |
+| Nope | 4.00% | ~5,268 |
+| Friends 'Til the End | 4.00% | ~263 |
 | Resurrection | 3.00% | ~3,951 |
 | Unleash Hell | 3.00% | ~3,951 |
 | Funny Guy | 3.00% | ~3,951 |
@@ -65,10 +65,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~66 |
 | For Old Time' Sake | 1.00% | ~66 |
 | Clearing the Ledger | 0.90% | ~1,185 |
-| Hat Trick | 0.80% | ~1,053 |
-| Triage | 0.80% | ~1,053 |
-| No Mercy | 0.80% | ~52 |
-| Et Tu, Riposte? | 0.80% | ~52 |
+| Hat Trick | 0.80% | ~1,054 |
+| Triage | 0.80% | ~1,054 |
+| No Mercy | 0.80% | ~53 |
+| Et Tu, Riposte? | 0.80% | ~53 |
 | The World As It Was | 0.60% | ~790 |
 | A Life Well Lived | 0.50% | ~658 |
 | Bacon Bits | 0.50% | ~658 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,685 (Ranked 91)  
+Progressed: 131,694 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,6 +336,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
+| 2024-01-05 | 131,694 | 3 |
 ## Awards
 Max (Character Customization): 7,951  (Ranked 50)  
 Sum: 21,421 (Ranked 58)  

@@ -2,9 +2,9 @@
   "ID": "3d7d73d0611849969f568da28ae10530",
   "Name": "TT Isle of Man: Ride on the Edge 3",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
-  "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248,
+  "EOS_Progressed": 249,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.81,
+  "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -1190,6 +1190,11 @@
       "Time": "2024-01-04T20:06:44.4910645+00:00",
       "NumProgressed": 248,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T00:06:24.8453917+00:00",
+      "NumProgressed": 249,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1215,9 +1220,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -1423,17 +1428,17 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "gagif7",
       "Name": "You Get An Upgrade, You Get An Upgrade!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -1463,9 +1468,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 229
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1512,14 +1517,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 248,
+      "Progressed": 249,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:05:14.1831003+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:06:24.8453914+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:15.8225499+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:59:17.043369+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:05:14.183135+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:00:40.5495221+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:06:24.8454212+00:00"
 }

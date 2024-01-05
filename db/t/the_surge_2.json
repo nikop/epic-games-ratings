@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2469,
+  "EOS_Progressed": 2471,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4294,6 +4294,11 @@
       "Time": "2024-01-04T23:05:36.624596+00:00",
       "NumProgressed": 2469,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-05T00:06:55.422438+00:00",
+      "NumProgressed": 2471,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4311,9 +4316,9 @@
       "ID": "ACHV_02",
       "SetID": "8p5mlmc",
       "Name": "Jailbreak",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1606
     },
     {
       "ID": "ACHV_03",
@@ -4345,7 +4350,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACHV_07",
@@ -4377,7 +4382,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHV_11",
@@ -4409,7 +4414,7 @@
       "Name": "Reborn",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHV_15",
@@ -4417,7 +4422,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHV_16",
@@ -4441,7 +4446,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACHV_19",
@@ -4457,7 +4462,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHV_21",
@@ -4481,7 +4486,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACHV_24",
@@ -4505,7 +4510,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "ACHV_27",
@@ -4521,7 +4526,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHV_29",
@@ -4537,7 +4542,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "ACHV_31",
@@ -4577,7 +4582,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ACHV_36",
@@ -4585,7 +4590,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACHV_37",
@@ -4593,7 +4598,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACHV_38",
@@ -4609,7 +4614,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "ACHV_40",
@@ -4625,7 +4630,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACHV_42",
@@ -4633,7 +4638,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHV_43",
@@ -4649,7 +4654,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHV_45",
@@ -4657,7 +4662,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACHV_46",
@@ -4697,7 +4702,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHV_51",
@@ -4713,7 +4718,7 @@
       "Name": "Juiced Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHV_53",
@@ -4760,7 +4765,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2469,
+      "Progressed": 2471,
       "Completed": 13
     }
   ],
@@ -4768,8 +4773,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:05:36.6245955+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:06:55.4224375+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:59:48.179694+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:05:36.6246714+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:01:26.3084114+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:06:55.4225056+00:00"
 }

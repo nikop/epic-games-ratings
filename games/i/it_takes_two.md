@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~81,158 |
-| Struck A Pose | 82.00% | ~80,180 |
-| Look At Him Go | 68.00% | ~66,491 |
-| On Rails Experience | 44.00% | ~43,024 |
-| A Daring Devil | 43.00% | ~42,046 |
-| Break the Bank | 33.00% | ~32,268 |
-| It Took Two | 30.00% | ~29,334 |
-| Bug Sized Relaxation | 14.00% | ~13,689 |
-| Plastic Prison Breakers | 13.00% | ~12,712 |
-| Terror Of The Seven Seas | 10.00% | ~9,778 |
-| Realize Your Art | 8.00% | ~7,822 |
-| Force Triangulated | 8.00% | ~7,822 |
-| Meditation Maestro | 8.00% | ~7,822 |
-| Snackosaurus | 6.00% | ~5,867 |
-| Platforming Prodigy | 6.00% | ~5,867 |
-| Lost And Found | 6.00% | ~5,867 |
-| Something Fishy | 6.00% | ~5,867 |
-| Mood Swing | 4.00% | ~3,911 |
-| Faraway Frequencies | 3.00% | ~2,933 |
+| Fried Friendship | 83.00% | ~81,171 |
+| Struck A Pose | 82.00% | ~80,193 |
+| Look At Him Go | 68.00% | ~66,501 |
+| On Rails Experience | 44.00% | ~43,030 |
+| A Daring Devil | 43.00% | ~42,052 |
+| Break the Bank | 33.00% | ~32,273 |
+| It Took Two | 30.00% | ~29,339 |
+| Bug Sized Relaxation | 14.00% | ~13,691 |
+| Plastic Prison Breakers | 13.00% | ~12,713 |
+| Terror Of The Seven Seas | 10.00% | ~9,780 |
+| Realize Your Art | 8.00% | ~7,824 |
+| Force Triangulated | 8.00% | ~7,824 |
+| Meditation Maestro | 8.00% | ~7,824 |
+| Snackosaurus | 6.00% | ~5,868 |
+| Platforming Prodigy | 6.00% | ~5,868 |
+| Lost And Found | 6.00% | ~5,868 |
+| Something Fishy | 6.00% | ~5,868 |
+| Mood Swing | 4.00% | ~3,912 |
+| Faraway Frequencies | 3.00% | ~2,934 |
 | Minigame Megalomania | 2.00% | ~1,956 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,781 (Ranked 100)  
+Progressed: 97,796 (Ranked 100)  
 Completed: 214 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,3 +137,4 @@ Completed: 214 (0.22%) (Ranked 269)
 | 2024-01-02 | 94,529 | 200 |
 | 2024-01-03 | 96,183 | 207 |
 | 2024-01-04 | 97,781 | 214 |
+| 2024-01-05 | 97,796 | 214 |

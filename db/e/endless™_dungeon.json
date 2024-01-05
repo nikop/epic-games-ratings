@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1472,
+  "EOS_Progressed": 1474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3160,6 +3160,11 @@
       "Time": "2024-01-04T23:03:23.9165823+00:00",
       "NumProgressed": 1472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T00:03:53.2367575+00:00",
+      "NumProgressed": 1474,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3228,7 +3233,7 @@
       "Name": "Pest Control",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3236,7 +3241,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -3252,7 +3257,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3284,7 +3289,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -3316,7 +3321,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3370,9 +3375,9 @@
       "ID": "ACHIEVEMENT_SCORE_WIN1WIN",
       "SetID": "9991201",
       "Name": "Effective Efficiency",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -3411,14 +3416,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1472,
+      "Progressed": 1474,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:03:23.9165819+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:03:53.2367572+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.9593832+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:59:21.7935091+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:03:23.9166117+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:00:46.9762121+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:03:53.236791+00:00"
 }

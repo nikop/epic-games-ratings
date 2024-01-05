@@ -109,11 +109,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2370,
+  "EOS_Progressed": 2371,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 32,
-  "EOS_Completed_Percentage": 6.29,
+  "EOS_Completed_Percentage": 6.28,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6374,6 +6374,11 @@
       "Time": "2024-01-04T23:04:32.5092305+00:00",
       "NumProgressed": 2370,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2024-01-05T00:05:28.0674914+00:00",
+      "NumProgressed": 2371,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 25,
@@ -6385,7 +6390,7 @@
       "Name": "I did it",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "END_GOOD",
@@ -6407,9 +6412,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 592
+      "UsersEstimate": 616
     },
     {
       "ID": "META_FIRST_LINK",
@@ -6417,7 +6422,7 @@
       "Name": "A good beginning",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "META_HALF_LINK",
@@ -6489,7 +6494,7 @@
       "Name": "Rascal",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -6505,7 +6510,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6529,7 +6534,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6545,7 +6550,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "PROGRESS_N2",
@@ -6561,7 +6566,7 @@
       "Name": "A new dawn",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "PROGRESS_N4",
@@ -6584,7 +6589,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2370,
+      "Progressed": 2371,
       "Completed": 149
     }
   ],
@@ -6592,8 +6597,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-04T06:02:50.6973409+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:04:32.5092302+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:05:28.0674908+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:02:43.4393733+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:04:32.5092733+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:02:42.3035988+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:05:28.0675376+00:00"
 }

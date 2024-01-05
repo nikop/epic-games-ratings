@@ -10,7 +10,7 @@
 | Shiny! | 74.00% | ~34 |
 | Deep in the Mounds | 70.00% | ~32 |
 | Smeltastic! | 41.00% | ~19 |
-| Locked Away | 35.00% | ~16 |
+| Locked Away | 37.00% | ~17 |
 | A Little Renovating | 35.00% | ~16 |
 | It's a Sign! | 33.00% | ~15 |
 | Deflect This! | 28.00% | ~13 |

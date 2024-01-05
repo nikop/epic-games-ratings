@@ -2,7 +2,7 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 285,
+  "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 149,
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1127,
+  "EOS_Progressed": 1128,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -3733,6 +3733,11 @@
       "Time": "2024-01-04T23:09:26.2838902+00:00",
       "NumProgressed": 1127,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-05T00:09:53.3719708+00:00",
+      "NumProgressed": 1128,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3745,7 +3750,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "achievement_10",
@@ -3785,7 +3790,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "achievement_15",
@@ -3793,7 +3798,7 @@
       "Name": "Memory Rouser",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "achievement_16",
@@ -3801,7 +3806,7 @@
       "Name": "Distance Devourer",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "achievement_17",
@@ -3809,7 +3814,7 @@
       "Name": "Master of the Skies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_18",
@@ -3873,7 +3878,7 @@
       "Name": "Single Minded",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_25",
@@ -3881,7 +3886,7 @@
       "Name": "Volatile Vocation",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_26",
@@ -3897,7 +3902,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_28",
@@ -3929,7 +3934,7 @@
       "Name": "Tender Touch",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_31",
@@ -3951,9 +3956,9 @@
       "ID": "achievement_33",
       "SetID": "2cpn27e",
       "Name": "Human Believer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 180
     },
     {
       "ID": "achievement_34",
@@ -3985,7 +3990,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "achievement_38",
@@ -4057,7 +4062,7 @@
       "Name": "Helpful Heart",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_46",
@@ -4097,7 +4102,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "achievement_7",
@@ -4105,7 +4110,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "achievement_8",
@@ -4128,13 +4133,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1127,
+      "Progressed": 1128,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:09:26.2838896+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:09:53.3719705+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:57:29.35149+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:09:26.2839492+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:58:03.3255215+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:09:53.372023+00:00"
 }

@@ -1,19 +1,19 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.53 (Ranked 563)  
+Rating: 4.53 (Ranked 562)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 18.00% | ~21,023 |
-| I've Had Enough! | 14.00% | ~16,351 |
-| Fists, Fury & a lot of Rage | 10.00% | ~11,679 |
-| All For One and One For All | 8.00% | ~9,343 |
-| Seasoned Fighter | 8.00% | ~9,343 |
-| A New Age | 5.00% | ~5,840 |
-| Home Sweet Home? | 5.00% | ~5,840 |
-| Oh Baby, A Triple | 3.00% | ~3,504 |
-| Symbiotic | 3.00% | ~3,504 |
+| All Grown Up! | 18.00% | ~21,028 |
+| I've Had Enough! | 14.00% | ~16,355 |
+| Fists, Fury & a lot of Rage | 10.00% | ~11,682 |
+| All For One and One For All | 8.00% | ~9,346 |
+| Seasoned Fighter | 8.00% | ~9,346 |
+| A New Age | 5.00% | ~5,841 |
+| Home Sweet Home? | 5.00% | ~5,841 |
+| Oh Baby, A Triple | 3.00% | ~3,505 |
+| Symbiotic | 3.00% | ~3,505 |
 | Battle Hardened | 2.00% | ~2,336 |
 | Master of Disguise | 2.00% | ~2,336 |
 | It's Mayhem! | 2.00% | ~2,336 |
@@ -24,7 +24,7 @@ Rating: 4.53 (Ranked 563)
 | Spectacular Finisher | 1.00% | ~1,168 |
 | Katamari | 0.90% | ~1,051 |
 | Zero-sum Game | 0.90% | ~1,051 |
-| Ninja Reflex | 0.80% | ~934 |
+| Ninja Reflex | 0.80% | ~935 |
 | Taste Your Own Medicine | 0.70% | ~818 |
 | This is GigaBash! | 0.50% | ~584 |
 | Just Getting Warmed Up | 0.40% | ~467 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 563)
 | What's Mine is Yours | 0.10% | ~117 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116,792 (Ranked 93)  
+Progressed: 116,822 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 115,313 | 0 |
 | 2024-01-03 | 116,064 | 0 |
 | 2024-01-04 | 116,792 | 0 |
+| 2024-01-05 | 116,822 | 0 |
 ## Awards
 Max (Great Boss Battles): 48  (Ranked 458)  
 Sum: 48 (Ranked 509)  

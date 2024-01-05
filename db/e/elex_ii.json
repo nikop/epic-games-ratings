@@ -5,7 +5,7 @@
   "Ranking_Rating": 876,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
-  "Ranking_EOS_Progress": 435,
+  "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 149,
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 177,
+  "EOS_Progressed": 178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1256,6 +1256,11 @@
       "Time": "2024-01-04T19:03:47.6425252+00:00",
       "NumProgressed": 177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T00:04:27.7383131+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1282,9 +1287,9 @@
       "ID": "1000ELEXIT",
       "SetID": "a1angca",
       "Name": "Entrepreneur",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "100HEALS",
@@ -1332,7 +1337,7 @@
       "Name": "Peddler",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1354,9 +1359,9 @@
       "ID": "30FUEL",
       "SetID": "a1angca",
       "Name": "Long-Haul Flyer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "30POTIONS",
@@ -1378,9 +1383,9 @@
       "ID": "35TELEPORTS",
       "SetID": "a1angca",
       "Name": "Globetrotter",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "50000ELEXIT",
@@ -1418,9 +1423,9 @@
       "ID": "ALLJETPACK",
       "SetID": "a1angca",
       "Name": "Free as a Bird",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ALLPERSONALITY",
@@ -1482,9 +1487,9 @@
       "ID": "CHOSEKLE",
       "SetID": "a1angca",
       "Name": "Cleric",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "CHOSEMOR",
@@ -1508,7 +1513,7 @@
       "Name": "Creator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "DESTRUCTION",
@@ -1522,17 +1527,17 @@
       "ID": "ENDGAME",
       "SetID": "a1angca",
       "Name": "Perfectionist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "FINDBILLY",
@@ -1540,23 +1545,23 @@
       "Name": "Festival-goer",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "FINDCITY",
       "SetID": "a1angca",
       "Name": "Civilian",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "FINDMAP",
@@ -1586,9 +1591,9 @@
       "ID": "HELPCHILDREN",
       "SetID": "a1angca",
       "Name": "Detective",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "HELPTHORHILD",
@@ -1652,7 +1657,7 @@
       "Name": "Eternal Oblivion",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "LOVECAJA",
@@ -1667,15 +1672,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 177,
+      "Progressed": 178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:03:48.8942138+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:04:27.7383127+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:57:09.6286552+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:03:48.894254+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:57:33.3790093+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:04:27.7383515+00:00"
 }

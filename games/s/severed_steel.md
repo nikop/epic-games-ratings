@@ -5,60 +5,60 @@ Rating: 4.69 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~215,676 |
-| 50 HEADSHOTS | 31.00% | ~202,605 |
-| SCIENCE AND INDUSTRY | 30.00% | ~196,069 |
-| FINISHED CHAPTER 1 | 28.00% | ~182,998 |
-| FINISHED CHAPTER 2 | 21.00% | ~137,248 |
-| 200 HEADSHOTS | 19.00% | ~124,177 |
-| FINISHED CHAPTER 3 | 18.00% | ~117,642 |
-| FINISHED CHAPTER 4 | 15.00% | ~98,035 |
-| FINISH CHAPTER 5 | 13.00% | ~84,963 |
-| FINISH CHAPTER 6 | 11.00% | ~71,892 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,892 |
-| 1000 KILLS | 10.00% | ~65,356 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,143 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,071 |
-| FIRST BLOOD | 2.00% | ~13,071 |
-| FIREFIGHT LEVEL 30 | 1.00% | ~6,536 |
-| OUT OF ORDER | 1.00% | ~6,536 |
-| PACEMAKER | 1.00% | ~6,536 |
-| TIME PARADOX | 1.00% | ~6,536 |
-| PARTYHARD | 0.80% | ~5,229 |
-| NEW GAME PLUS | 0.70% | ~4,575 |
+| 100 KILLS | 33.00% | ~215,652 |
+| 50 HEADSHOTS | 31.00% | ~202,582 |
+| SCIENCE AND INDUSTRY | 30.00% | ~196,047 |
+| FINISHED CHAPTER 1 | 28.00% | ~182,977 |
+| FINISHED CHAPTER 2 | 21.00% | ~137,233 |
+| 200 HEADSHOTS | 19.00% | ~124,163 |
+| FINISHED CHAPTER 3 | 18.00% | ~117,628 |
+| FINISHED CHAPTER 4 | 15.00% | ~98,024 |
+| FINISH CHAPTER 5 | 13.00% | ~84,954 |
+| FINISH CHAPTER 6 | 11.00% | ~71,884 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,884 |
+| 1000 KILLS | 10.00% | ~65,349 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,140 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,070 |
+| FIRST BLOOD | 2.00% | ~13,070 |
+| FIREFIGHT LEVEL 30 | 1.00% | ~6,535 |
+| OUT OF ORDER | 1.00% | ~6,535 |
+| PACEMAKER | 1.00% | ~6,535 |
+| TIME PARADOX | 1.00% | ~6,535 |
+| PARTYHARD | 0.80% | ~5,228 |
+| NEW GAME PLUS | 0.70% | ~4,574 |
 | FIREFIGHT LEVEL 40 | 0.60% | ~3,921 |
 | CHURCH | 0.40% | ~2,614 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~1,961 |
-| REMEMBER THE ARMORY | 0.30% | ~1,961 |
-| 5 RUNS | 0.30% | ~1,961 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~1,960 |
+| REMEMBER THE ARMORY | 0.30% | ~1,960 |
+| 5 RUNS | 0.30% | ~1,960 |
 | CHALET | 0.20% | ~1,307 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,307 |
 | FIREFIGHT LEVEL 70 | 0.20% | ~1,307 |
 | SOUL - HORIZONS | 0.20% | ~1,307 |
-| HEY THATS CHEATING | 0.10% | ~654 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~654 |
-| BUT WHY? | 0.10% | ~654 |
-| COMMAND - [EXIST] | 0.10% | ~654 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~654 |
-| FIRE IN THE HOLE | 0.10% | ~654 |
-| FRESH | 0.10% | ~654 |
-| HUGE SUCCESS | 0.10% | ~654 |
-| ICARUS | 0.10% | ~654 |
-| INPUT - [QUERY] | 0.10% | ~654 |
-| KITTED OUT | 0.10% | ~654 |
-| HOLOGRAM SUMMER | 0.10% | ~654 |
-| OFF THE HINGES | 0.10% | ~654 |
-| ON THE EDGE | 0.10% | ~654 |
-| OVERCLOCKED | 0.10% | ~654 |
-| PAIN TRAIN | 0.10% | ~654 |
-| 10 RUNS | 0.10% | ~654 |
-| 20 RUNS | 0.10% | ~654 |
-| SAVOR THE MOMENT | 0.10% | ~654 |
-| THE COLLECTOR | 0.10% | ~654 |
-| THE GAMBLER | 0.10% | ~654 |
-| WARRIOR IN A GARDEN | 0.10% | ~654 |
+| HEY THATS CHEATING | 0.10% | ~653 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~653 |
+| BUT WHY? | 0.10% | ~653 |
+| COMMAND - [EXIST] | 0.10% | ~653 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~653 |
+| FIRE IN THE HOLE | 0.10% | ~653 |
+| FRESH | 0.10% | ~653 |
+| HUGE SUCCESS | 0.10% | ~653 |
+| ICARUS | 0.10% | ~653 |
+| INPUT - [QUERY] | 0.10% | ~653 |
+| KITTED OUT | 0.10% | ~653 |
+| HOLOGRAM SUMMER | 0.10% | ~653 |
+| OFF THE HINGES | 0.10% | ~653 |
+| ON THE EDGE | 0.10% | ~653 |
+| OVERCLOCKED | 0.10% | ~653 |
+| PAIN TRAIN | 0.10% | ~653 |
+| 10 RUNS | 0.10% | ~653 |
+| 20 RUNS | 0.10% | ~653 |
+| SAVOR THE MOMENT | 0.10% | ~653 |
+| THE COLLECTOR | 0.10% | ~653 |
+| THE GAMBLER | 0.10% | ~653 |
+| WARRIOR IN A GARDEN | 0.10% | ~653 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 653,564 (Ranked 32)  
+Progressed: 653,490 (Ranked 32)  
 Completed: 59 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,6 +318,7 @@ Completed: 59 (0.01%) (Ranked 369)
 | 2024-01-02 | 656,963 | 59 |
 | 2024-01-03 | 655,866 | 59 |
 | 2024-01-04 | 654,819 | 59 |
+| 2024-01-05 | 653,490 | 59 |
 ## Awards
 Max (Great Boss Battles): 486  (Ranked 222)  
 Sum: 550 (Ranked 330)  

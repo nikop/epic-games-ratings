@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 546,
+  "Ranking_Rating": 545,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 159,
@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18213,
+  "EOS_Progressed": 18219,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 2,
@@ -16295,6 +16295,11 @@
       "Time": "2024-01-04T23:05:00.0331335+00:00",
       "NumProgressed": 18213,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-05T00:06:05.7070507+00:00",
+      "NumProgressed": 18219,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16339,7 +16344,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3096
+      "UsersEstimate": 3097
     },
     {
       "ID": "14",
@@ -16355,7 +16360,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "16",
@@ -16371,7 +16376,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "18",
@@ -16411,7 +16416,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "22",
@@ -16427,7 +16432,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "24",
@@ -16451,7 +16456,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "27",
@@ -16507,7 +16512,7 @@
       "Name": "Data Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "6",
@@ -16523,7 +16528,7 @@
       "Name": "Grave Robber",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "8",
@@ -16555,7 +16560,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "33",
@@ -16579,29 +16584,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18213,
+      "Progressed": 18219,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4167,
-      "Completed": 1185
+      "Progressed": 4173,
+      "Completed": 1186
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:05:00.0331331+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:06:05.7070504+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:00:10.4224564+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:05:00.0332099+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:01:59.5959231+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:06:05.7071518+00:00"
 }

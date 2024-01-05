@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 83.00% | ~269 |
-| Purification Pioneer | 79.00% | ~256 |
+| Meissa's Savior | 83.00% | ~270 |
+| Purification Pioneer | 79.00% | ~257 |
 | Mechanical Buddy | 73.00% | ~237 |
-| Dicesmithing Time! | 64.00% | ~207 |
-| Sanctuary Guardian | 55.00% | ~178 |
+| Dicesmithing Time! | 65.00% | ~211 |
+| Sanctuary Guardian | 54.00% | ~176 |
 | Endless Tricks | 50.00% | ~162 |
 | Wild's Keeper | 48.00% | ~156 |
 | Mind Illuminator | 44.00% | ~143 |
 | Stellar Dismantler | 37.00% | ~120 |
-| Astral Adventurer | 34.00% | ~110 |
-| Noctuan Champion | 34.00% | ~110 |
-| Anomaly Destroyer | 31.00% | ~100 |
+| Astral Adventurer | 34.00% | ~111 |
+| Noctuan Champion | 34.00% | ~111 |
+| Anomaly Destroyer | 30.00% | ~98 |
 | Star Killer | 29.00% | ~94 |
 | Eridanian Champion | 25.00% | ~81 |
-| Loyal Partner | 22.00% | ~71 |
+| Loyal Partner | 22.00% | ~72 |
 | Lacertian Champion | 21.00% | ~68 |
-| Shard Spender | 19.00% | ~62 |
-| Apian Champion | 19.00% | ~62 |
+| Shard Spender | 18.00% | ~58 |
+| Apian Champion | 18.00% | ~58 |
 | Unbeatable | 17.00% | ~55 |
 | Sadistic Plan | 16.00% | ~52 |
-| Behenian Champion | 14.00% | ~45 |
+| Behenian Champion | 14.00% | ~46 |
 | Wave Bender | 10.00% | ~32 |
 | Astral Seeker | 9.00% | ~29 |
 | Heavy Purger | 9.00% | ~29 |
@@ -33,8 +33,8 @@
 | Heart Gate | 7.00% | ~23 |
 | The Corruption Goddess | 7.00% | ~23 |
 | The Goddes Avatar | 7.00% | ~23 |
-| Artificer | 6.00% | ~19 |
-| Favored by the Cosmos | 6.00% | ~19 |
+| Artificer | 6.00% | ~20 |
+| Favored by the Cosmos | 6.00% | ~20 |
 | Anomaly Control | 5.00% | ~16 |
 | Can't touch this | 5.00% | ~16 |
 | Astrarium of Holding | 4.00% | ~13 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324 (Ranked 383)  
+Progressed: 325 (Ranked 383)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,3 +174,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 303 | 0 |
 | 2024-01-03 | 312 | 0 |
 | 2024-01-04 | 324 | 0 |
+| 2024-01-05 | 325 | 0 |

@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.20% | ~32 |
 | Adur Burzen-Mihr | 0.20% | ~32 |
 | Via Recta Souk | 0.20% | ~32 |
+| Learn to Play 4 | 0.20% | ~32 |
 | Babylonia | 0.20% | ~32 |
 | Carthage | 0.20% | ~32 |
 | Egypt | 0.20% | ~32 |
@@ -213,7 +214,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
-| Learn to Play 4 | 0.10% | ~16 |
 | Learn to Play 5 | 0.10% | ~16 |
 | Macedonian Wars | 0.10% | ~16 |
 | Medo-Babylonian Conquest | 0.10% | ~16 |

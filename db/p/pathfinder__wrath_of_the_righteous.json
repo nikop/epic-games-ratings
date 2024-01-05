@@ -4811,7 +4811,7 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13029,
+  "EOS_Progressed": 13030,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
@@ -18926,6 +18926,11 @@
       "Time": "2024-01-04T22:11:14.9771669+00:00",
       "NumProgressed": 13029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T00:10:52.2990094+00:00",
+      "NumProgressed": 13030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19009,7 +19014,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "11_PathOfAeon",
@@ -19065,7 +19070,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "18_MythicChoices",
@@ -19121,7 +19126,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "25_MasterfulDispell",
@@ -19137,7 +19142,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "28_GreatUpstart",
@@ -19281,7 +19286,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "46_AllPathsOpen",
@@ -19361,7 +19366,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "56_GetToad",
@@ -19369,7 +19374,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "57_PathOfDevil",
@@ -19864,21 +19869,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11811,
+      "Progressed": 11812,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13029,
+      "Progressed": 13030,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-04T18:57:51.2604572+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:10:09.9741651+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:10:52.2990089+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:57:52.7078422+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:10:09.9743797+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:58:36.4844092+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:10:52.2991831+00:00"
 }

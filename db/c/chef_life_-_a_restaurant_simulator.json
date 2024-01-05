@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 960,
+  "EOS_Progressed": 961,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -4127,6 +4127,11 @@
       "Time": "2024-01-04T23:09:40.2054773+00:00",
       "NumProgressed": 960,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T00:10:12.6209192+00:00",
+      "NumProgressed": 961,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4186,7 +4191,7 @@
       "Name": "French Flair",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -4338,7 +4343,7 @@
       "Name": "Home Cook",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "RecipeDifferent30",
@@ -4457,7 +4462,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 960,
+      "Progressed": 961,
       "Completed": 0
     }
   ],
@@ -4465,8 +4470,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:09:40.205477+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:10:12.6209188+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.9361067+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:58:37.1772559+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:09:40.2055201+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:59:40.9535143+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:10:12.6209622+00:00"
 }

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4145,
+  "EOS_Progressed": 4160,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3884,
+  "EOS_NewPlayers": 3850,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1229,6 +1229,11 @@
       "Time": "2024-01-04T23:08:16.8552519+00:00",
       "NumProgressed": 4145,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T00:08:17.4933939+00:00",
+      "NumProgressed": 4160,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 16,
@@ -1240,7 +1245,7 @@
       "Name": "All Dead, All Dead",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 707
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -1272,7 +1277,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -1296,7 +1301,7 @@
       "Name": "Misfire",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 663
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH_NOW_IM_HERE",
@@ -1304,7 +1309,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1914
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -1312,7 +1317,7 @@
       "Name": "Put Out the Fire",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_ROCK_IT",
@@ -1328,7 +1333,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2122
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -1336,7 +1341,7 @@
       "Name": "The Hitman",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1123
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -1344,7 +1349,7 @@
       "Name": "The Invisible Man",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 663
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -1352,7 +1357,7 @@
       "Name": "The Miracle",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_WE_WILL_ROCK_YOU",
@@ -1360,14 +1365,14 @@
       "Name": "We Will Rock You",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 4145,
+      "Progressed": 4160,
       "Completed": 3
     }
   ],
@@ -1375,8 +1380,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:08:16.8552516+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:08:17.4933937+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:17.9460283+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:02:38.5300228+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:08:16.8552664+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:02:34.3298589+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:08:17.4934076+00:00"
 }

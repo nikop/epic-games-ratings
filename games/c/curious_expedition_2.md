@@ -6,14 +6,14 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 66.00% | ~264 |
-| Cartographer | 58.00% | ~232 |
-| A Strange Artefact | 54.00% | ~216 |
+| The Adventure Begins | 66.00% | ~265 |
+| Cartographer | 58.00% | ~233 |
+| A Strange Artefact | 54.00% | ~217 |
 | Insomnia | 50.00% | ~200 |
 | Lost & Found & Lost Again | 44.00% | ~176 |
 | From Whence we Came | 44.00% | ~176 |
-| Fire and Flood | 42.00% | ~168 |
-| Spooky! | 39.00% | ~156 |
+| Fire and Flood | 41.00% | ~164 |
+| Spooky! | 38.00% | ~152 |
 | Shennong Herbalist | 36.00% | ~144 |
 | Treasure Hunt | 36.00% | ~144 |
 | Good Mama | 33.00% | ~132 |
@@ -27,20 +27,20 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 22.00% | ~88 |
 | Red Flag Pirate | 20.00% | ~80 |
 | Iron Man | 17.00% | ~68 |
-| A Gentle Beast | 17.00% | ~68 |
-| Practical Palaeontology | 17.00% | ~68 |
 | Shortening of the Way | 16.00% | ~64 |
+| A Gentle Beast | 16.00% | ~64 |
+| Practical Palaeontology | 16.00% | ~64 |
 | Adventurer | 15.00% | ~60 |
 | For the Club! | 15.00% | ~60 |
-| The New Director | 14.00% | ~56 |
-| Plays Well With Others | 14.00% | ~56 |
 | Dapper | 14.00% | ~56 |
+| The New Director | 13.00% | ~52 |
 | The Director is Dead | 13.00% | ~52 |
 | And Here Is Your Statue | 13.00% | ~52 |
 | Discovery | 13.00% | ~52 |
+| Plays Well With Others | 13.00% | ~52 |
 | Very Classy | 13.00% | ~52 |
 | Under the Table | 11.00% | ~44 |
-| It's Complicated | 11.00% | ~44 |
+| It's Complicated | 10.00% | ~40 |
 | Cold Blood, Warm Heart | 9.00% | ~36 |
 | Errand Runner | 9.00% | ~36 |
 | SCHMETTERLING | 8.00% | ~32 |
@@ -48,26 +48,26 @@ Number of Ratings: 20  (23.09.2022)
 | The Great Library | 8.00% | ~32 |
 | Level Up | 8.00% | ~32 |
 | Zookeeper | 7.00% | ~28 |
-| The Workshop | 7.00% | ~28 |
 | Islander Understanding | 6.00% | ~24 |
+| The Workshop | 6.00% | ~24 |
 | A Paris Sunset | 5.00% | ~20 |
 | The Director Perseveres | 5.00% | ~20 |
 | The Round Table | 5.00% | ~20 |
-| X Marks the Spot | 4.00% | ~16 |
 | Frugal | 4.00% | ~16 |
-| I Set Forth Again... and Again... and Again... | 4.00% | ~16 |
 | A Familiar Figure | 3.00% | ~12 |
-| Lunatic | 3.00% | ~12 |
 | A Perfect Map | 3.00% | ~12 |
+| X Marks the Spot | 3.00% | ~12 |
 | Risk/Reward | 3.00% | ~12 |
+| I Set Forth Again... and Again... and Again... | 3.00% | ~12 |
+| Lunatic | 2.00% | ~8 |
 | Look Ma, No Equipment! | 2.00% | ~8 |
-| Abominable Hunger | 0.80% | ~3 |
-| Everything is FINE... | 0.80% | ~3 |
-| Pacifism Ain't Easy | 0.80% | ~3 |
-| It's Not Too Late | 0.80% | ~3 |
+| Abominable Hunger | 0.70% | ~3 |
+| Everything is FINE... | 0.70% | ~3 |
+| Pacifism Ain't Easy | 0.70% | ~3 |
+| It's Not Too Late | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 363)  
+Progressed: 401 (Ranked 363)  
 Completed: 1 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 1 (0.25%) (Ranked 264)
 | 2024-01-02 | 394 | 1 |
 | 2024-01-03 | 397 | 1 |
 | 2024-01-04 | 400 | 1 |
+| 2024-01-05 | 401 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

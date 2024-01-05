@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1889,
+  "EOS_Progressed": 1890,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3319,6 +3319,11 @@
       "Time": "2024-01-04T20:05:57.8400539+00:00",
       "NumProgressed": 1889,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T00:05:34.8791265+00:00",
+      "NumProgressed": 1890,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3330,7 +3335,7 @@
       "Name": "Lovebirds",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "10",
@@ -3394,7 +3399,7 @@
       "Name": "Balding bloot!",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "18",
@@ -3458,7 +3463,7 @@
       "Name": "In my shoes",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "25",
@@ -3554,7 +3559,7 @@
       "Name": "Over my dead body",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "9",
@@ -3569,15 +3574,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1889,
+      "Progressed": 1890,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:04:37.3759345+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:05:34.8791262+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:59:49.7283655+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:04:37.3759618+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:01:28.5962134+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:05:34.8791517+00:00"
 }

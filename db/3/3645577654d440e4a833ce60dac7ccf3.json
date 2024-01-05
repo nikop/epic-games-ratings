@@ -2,9 +2,9 @@
   "ID": "3645577654d440e4a833ce60dac7ccf3",
   "Name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
   "ProductSlug": "persha-and-the-magic-labyrinth-ca72d4",
-  "Ranking_EOS_Progress": 579,
+  "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -199,6 +199,11 @@
       "Time": "2024-01-04T17:05:23.0174016+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T00:06:10.0858434+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-22T06:03:17.9237808+00:00",
@@ -353,7 +358,7 @@
       "ID": "MagicCat10",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 10 cats unlocked",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -401,7 +406,7 @@
       "ID": "Tower1_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the First Tower",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -433,7 +438,7 @@
       "ID": "Tower2_RankA",
       "SetID": "df8cl74",
       "Name": "The Second Tower: A Rank",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -441,7 +446,7 @@
       "ID": "Tower2_RankS",
       "SetID": "df8cl74",
       "Name": "The Second Tower: S Rank",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -554,14 +559,14 @@
     {
       "ID": "df8cl74",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-02T01:47:17.1216415+00:00",
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:05:03.2632587+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:06:10.085843+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:06.8169463+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:57:22.7795174+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:05:03.2632938+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:57:53.7827305+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:06:10.0858829+00:00"
 }

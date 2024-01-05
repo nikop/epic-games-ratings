@@ -3175,9 +3175,9 @@
       "ID": "ACH_JUSTICE_SERVED",
       "SetID": "8j30i9k",
       "Name": "Justice Served",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -3463,8 +3463,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2024-01-01T13:01:35.2225517+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:04:17.5536867+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:05:07.7882508+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.2708576+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:59:41.749682+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:04:17.5537262+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:01:17.1864299+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:05:07.7882949+00:00"
 }

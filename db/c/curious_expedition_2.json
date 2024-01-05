@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -616,6 +616,11 @@
       "Time": "2024-01-04T14:10:17.3802484+00:00",
       "NumProgressed": 400,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T00:10:49.4579924+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -625,7 +630,7 @@
       "ID": "ach-abominationEatPerson",
       "SetID": "17ih7ma",
       "Name": "Abominable Hunger",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -633,7 +638,7 @@
       "ID": "ach-ailments",
       "SetID": "17ih7ma",
       "Name": "Everything is FINE...",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -665,9 +670,9 @@
       "ID": "ach-ascension-complete-year",
       "SetID": "17ih7ma",
       "Name": "The New Director",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-ascension-complete-years",
@@ -729,9 +734,9 @@
       "ID": "ach-campaign-finish-hard",
       "SetID": "17ih7ma",
       "Name": "Lunatic",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "ach-campaign-finish-normal",
@@ -753,7 +758,7 @@
       "ID": "ach-campaign-pacifist",
       "SetID": "17ih7ma",
       "Name": "Pacifism Ain\u0027t Easy",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -763,7 +768,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ach-campaign-story2",
@@ -803,7 +808,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ach-discover-locations-high",
@@ -825,9 +830,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 164
     },
     {
       "ID": "ach-find-treasure",
@@ -841,9 +846,9 @@
       "ID": "ach-find-treasure-high",
       "SetID": "17ih7ma",
       "Name": "X Marks the Spot",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-firstExpedition",
@@ -851,7 +856,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ach-hardExpeditions",
@@ -865,9 +870,9 @@
       "ID": "ach-interspeciesLove",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Complicated",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "ach-joinClubChallenge",
@@ -881,9 +886,9 @@
       "ID": "ach-keepHighStanding",
       "SetID": "17ih7ma",
       "Name": "Plays Well With Others",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-kill-animal-groups",
@@ -921,9 +926,9 @@
       "ID": "ach-maxClubLevel-american",
       "SetID": "17ih7ma",
       "Name": "The Workshop",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "ach-maxClubLevel-british",
@@ -953,9 +958,9 @@
       "ID": "ach-meetGhost",
       "SetID": "17ih7ma",
       "Name": "Spooky!",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 152
     },
     {
       "ID": "ach-noEquipment",
@@ -985,7 +990,7 @@
       "ID": "ach-paleMask-cure",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Not Too Late",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1025,17 +1030,17 @@
       "ID": "ach-redElk",
       "SetID": "17ih7ma",
       "Name": "A Gentle Beast",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "ach-rideDinosaur",
       "SetID": "17ih7ma",
       "Name": "Practical Palaeontology",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "ach-rob-shrines",
@@ -1065,9 +1070,9 @@
       "ID": "ach-totalFame",
       "SetID": "17ih7ma",
       "Name": "I Set Forth Again... and Again... and Again...",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-treasureFameInExpedition",
@@ -1106,7 +1111,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 1
     }
   ],
@@ -1114,8 +1119,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:10:07.5553841+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:10:49.4579918+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:00:16.6296713+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:10:07.5554247+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:02:04.6191289+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:10:49.4580396+00:00"
 }

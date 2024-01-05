@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,258 |
-| Off to a good start | 62.00% | ~1,609 |
-| Do... or do not. There is no try | 51.00% | ~1,323 |
-| A good blaster at your side | 25.00% | ~649 |
-| I suggest a new strategy | 17.00% | ~441 |
-| Great shot, kid! | 16.00% | ~415 |
-| Scrap collector | 15.00% | ~389 |
-| All right, I'll give it a try | 15.00% | ~389 |
-| Shoot first | 13.00% | ~337 |
-| The power of the Force | 12.00% | ~311 |
-| Collector | 12.00% | ~311 |
-| Together we can rule the galaxy | 12.00% | ~311 |
+| New Recruit | 87.00% | ~2,264 |
+| Off to a good start | 62.00% | ~1,613 |
+| Do... or do not. There is no try | 52.00% | ~1,353 |
+| A good blaster at your side | 25.00% | ~650 |
+| I suggest a new strategy | 17.00% | ~442 |
+| Great shot, kid! | 16.00% | ~416 |
+| Scrap collector | 15.00% | ~390 |
+| All right, I'll give it a try | 15.00% | ~390 |
+| Shoot first | 13.00% | ~338 |
+| The power of the Force | 12.00% | ~312 |
+| Collector | 12.00% | ~312 |
+| Together we can rule the galaxy | 12.00% | ~312 |
 | Tell Jabba that I've got his money | 8.00% | ~208 |
 | Best star-pilot in the galaxy | 8.00% | ~208 |
 | Never tell me the odds! | 7.00% | ~182 |
@@ -27,10 +27,9 @@
 | Judge me by my size, do you? | 5.00% | ~130 |
 | Distinguished | 4.00% | ~104 |
 | A tremor in the Force | 4.00% | ~104 |
-| Not bad for a little furball | 4.00% | ~104 |
 | Support the troops | 4.00% | ~104 |
-| On the ball | 3.00% | ~78 |
 | Safety ain't the point of a joyride | 3.00% | ~78 |
+| Not bad for a little furball | 3.00% | ~78 |
 | Patience you must have | 3.00% | ~78 |
 | Don't underestimate the Force | 3.00% | ~78 |
 | The Force is strong with this one | 2.00% | ~52 |
@@ -38,6 +37,7 @@
 | When 900 years old you reach... | 2.00% | ~52 |
 | Determined | 2.00% | ~52 |
 | Your journey has only started | 2.00% | ~52 |
+| On the ball | 2.00% | ~52 |
 | Precision shot | 2.00% | ~52 |
 | That's no moon | 2.00% | ~52 |
 | What will you become? | 2.00% | ~52 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,595 (Ranked 233)  
+Progressed: 2,602 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 1 (0.04%) (Ranked 347)
 | 2024-01-02 | 2,520 | 1 |
 | 2024-01-03 | 2,563 | 1 |
 | 2024-01-04 | 2,595 | 1 |
+| 2024-01-05 | 2,602 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 383,
+  "EOS_Progressed": 384,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1514,6 +1514,11 @@
       "Time": "2024-01-04T22:07:02.0777665+00:00",
       "NumProgressed": 383,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T00:06:43.2271088+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1542,7 +1547,7 @@
       "Name": "Bowels",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AC_ALL_RECIPES",
@@ -1550,7 +1555,7 @@
       "Name": "Cookbook",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AC_ALL_TOYS",
@@ -1558,7 +1563,7 @@
       "Name": "Gift",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -1622,7 +1627,7 @@
       "Name": "Sacrilege",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AC_BOSS_04",
@@ -1668,9 +1673,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 138
     },
     {
       "ID": "AC_DEATH_2",
@@ -1686,7 +1691,7 @@
       "Name": "Skeleton",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AC_DEATH_ENEMIES_1",
@@ -1694,7 +1699,7 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1718,7 +1723,7 @@
       "Name": "Excursion",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1726,7 +1731,7 @@
       "Name": "Journey",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1814,7 +1819,7 @@
       "Name": "Cheff",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AC_ROCKET_MAX",
@@ -1854,21 +1859,21 @@
       "Name": "Machine",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 383,
+      "Progressed": 384,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:05:27.7936483+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:06:43.2271082+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:00:21.9665542+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:05:27.7937029+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:02:12.7554595+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:06:43.2271578+00:00"
 }

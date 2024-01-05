@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3541,
+  "EOS_Progressed": 3546,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3929,6 +3929,11 @@
       "Time": "2024-01-04T23:05:35.7715214+00:00",
       "NumProgressed": 3541,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T00:06:54.3290806+00:00",
+      "NumProgressed": 3546,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3965,7 +3970,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -4005,7 +4010,7 @@
       "Name": "Terrible Journey",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -4045,7 +4050,7 @@
       "Name": "Worthy Badge",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -4125,7 +4130,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1277
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4141,7 +4146,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1489
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4316,14 +4321,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3541,
+      "Progressed": 3546,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:05:35.771521+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:06:54.3290802+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:57:02.8525728+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:05:35.7715937+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:57:23.2622695+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:06:54.32915+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -289,9 +289,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 1264,
+  "EOS_Progressed": 1265,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3569,6 +3569,11 @@
       "Time": "2024-01-04T23:04:30.8656993+00:00",
       "NumProgressed": 1264,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T00:05:25.9918326+00:00",
+      "NumProgressed": 1265,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3589,7 +3594,7 @@
       "Name": "Ab Initio",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "AnthropicHills",
@@ -3717,7 +3722,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "GoodCitizen",
@@ -3725,15 +3730,15 @@
       "Name": "Good Citizen",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 152
     },
     {
       "ID": "HighPlain",
@@ -3763,9 +3768,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 379
+      "UsersEstimate": 367
     },
     {
       "ID": "LostMarshes",
@@ -3813,7 +3818,7 @@
       "Name": "A New Beginning",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "NewMorality",
@@ -3869,7 +3874,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "RenaissanceRobot",
@@ -3973,7 +3978,7 @@
       "Name": "The Spark",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "TheThiefOfFire",
@@ -3997,7 +4002,7 @@
       "Name": "Touch Grass",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "TrevorsBiographer",
@@ -4021,7 +4026,7 @@
       "Name": "Wanderers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "WesternDelta",
@@ -4043,16 +4048,16 @@
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 177
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1264,
+      "Progressed": 1265,
       "Completed": 2
     }
   ],
@@ -4060,8 +4065,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:04:30.8656989+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:05:25.9918319+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:00:02.5326434+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:04:30.8657462+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:01:49.6679839+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:05:25.9918876+00:00"
 }

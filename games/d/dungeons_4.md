@@ -15,7 +15,7 @@ Rating: 4.71 (Ranked 202)
 | Thalya's Concentrated Fury | 68.00% | ~489 |
 | Bad Elves Go Everywhere | 68.00% | ~489 |
 | Heroes’ Gorge | 64.00% | ~460 |
-| Master of Magic | 62.00% | ~446 |
+| Master of Magic | 63.00% | ~453 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~446 |
 | Magic Accidents | 59.00% | ~424 |
 | The Ascent | 59.00% | ~424 |
@@ -32,7 +32,7 @@ Rating: 4.71 (Ranked 202)
 | Pure Dynamite! | 44.00% | ~316 |
 | Dungeonlord Gorgu | 44.00% | ~316 |
 | Mana Cannon | 42.00% | ~302 |
-| All’s Well That Ends Evil | 40.00% | ~288 |
+| All’s Well That Ends Evil | 41.00% | ~295 |
 | The Duel | 38.00% | ~273 |
 | If Looks Could Kill | 35.00% | ~252 |
 | Unstoppable Horde | 34.00% | ~244 |
@@ -49,7 +49,7 @@ Rating: 4.71 (Ranked 202)
 | Raiders of the Lost Stone | 26.00% | ~187 |
 | The Rune Sockets of Finitude (Part 1) | 26.00% | ~187 |
 | Bonus Evilness | 25.00% | ~180 |
-| The Rune Sockets of Finitude (Part 2) | 24.00% | ~173 |
+| The Rune Sockets of Finitude (Part 2) | 25.00% | ~180 |
 | The Last Stand - This Time For Real! | 23.00% | ~165 |
 | Rubble and Ashes | 21.00% | ~151 |
 | Lavalumps on Ice! | 20.00% | ~144 |

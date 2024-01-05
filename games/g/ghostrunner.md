@@ -6,53 +6,53 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 36.00% | ~322,260 |
-| Sword Runner | 21.00% | ~187,985 |
-| Running out of breath | 16.00% | ~143,227 |
-| Wallrunner | 14.00% | ~125,323 |
-| I call it luck | 12.00% | ~107,420 |
-| Homerunner | 9.00% | ~80,565 |
-| Out of order | 9.00% | ~80,565 |
-| Running Wild | 7.00% | ~62,662 |
-| Back to hell | 6.00% | ~53,710 |
-| Sword to a gunfight | 6.00% | ~53,710 |
-| Perfection | 5.00% | ~44,758 |
-| Where are my Keys? | 5.00% | ~44,758 |
-| Control freak | 4.00% | ~35,807 |
-| Upgrades not mandatory | 4.00% | ~35,807 |
-| Why not both | 4.00% | ~35,807 |
-| Artificial selection | 3.00% | ~26,855 |
-| Dead in the air | 3.00% | ~26,855 |
-| Finish line | 3.00% | ~26,855 |
-| Unstoppable force | 3.00% | ~26,855 |
-| Can't Run Can't Hide | 2.00% | ~17,903 |
-| R is for Running | 2.00% | ~17,903 |
-| Wave of mutilation | 2.00% | ~17,903 |
-| Improvise, adapt, overrun | 1.00% | ~8,952 |
-| Pre-empative strike | 1.00% | ~8,952 |
-| Strike | 1.00% | ~8,952 |
-| Triple A | 1.00% | ~8,952 |
-| More than human | 0.90% | ~8,056 |
-| Push it to the limit | 0.50% | ~4,476 |
-| Fine addition | 0.40% | ~3,581 |
-| About Adam | 0.20% | ~1,790 |
-| One Of Those Days | 0.20% | ~1,790 |
-| Where He Stood | 0.20% | ~1,790 |
-| A Grade | 0.10% | ~895 |
-| Everyone Needs A Hobby | 0.10% | ~895 |
-| GR Project Complete | 0.10% | ~895 |
-| Hit me if you can | 0.10% | ~895 |
-| Junkrunner | 0.10% | ~895 |
-| Just A Man | 0.10% | ~895 |
-| Legacy Drivers | 0.10% | ~895 |
-| Obedient Machine | 0.10% | ~895 |
-| One man's trash | 0.10% | ~895 |
-| Scrapped | 0.10% | ~895 |
-| Sticks And Stones | 0.10% | ~895 |
-| Strafing Run | 0.10% | ~895 |
-| Up Close And Personal | 0.10% | ~895 |
+| Longrunner | 36.00% | ~322,644 |
+| Sword Runner | 21.00% | ~188,209 |
+| Running out of breath | 16.00% | ~143,397 |
+| Wallrunner | 14.00% | ~125,472 |
+| I call it luck | 12.00% | ~107,548 |
+| Homerunner | 9.00% | ~80,661 |
+| Out of order | 9.00% | ~80,661 |
+| Running Wild | 7.00% | ~62,736 |
+| Back to hell | 6.00% | ~53,774 |
+| Sword to a gunfight | 6.00% | ~53,774 |
+| Perfection | 5.00% | ~44,812 |
+| Where are my Keys? | 5.00% | ~44,812 |
+| Control freak | 4.00% | ~35,849 |
+| Upgrades not mandatory | 4.00% | ~35,849 |
+| Why not both | 4.00% | ~35,849 |
+| Artificial selection | 3.00% | ~26,887 |
+| Dead in the air | 3.00% | ~26,887 |
+| Finish line | 3.00% | ~26,887 |
+| Unstoppable force | 3.00% | ~26,887 |
+| Can't Run Can't Hide | 2.00% | ~17,925 |
+| R is for Running | 2.00% | ~17,925 |
+| Wave of mutilation | 2.00% | ~17,925 |
+| Improvise, adapt, overrun | 1.00% | ~8,962 |
+| Pre-empative strike | 1.00% | ~8,962 |
+| Strike | 1.00% | ~8,962 |
+| Triple A | 1.00% | ~8,962 |
+| More than human | 0.90% | ~8,066 |
+| Push it to the limit | 0.50% | ~4,481 |
+| Fine addition | 0.40% | ~3,585 |
+| About Adam | 0.20% | ~1,792 |
+| One Of Those Days | 0.20% | ~1,792 |
+| Where He Stood | 0.20% | ~1,792 |
+| A Grade | 0.10% | ~896 |
+| Everyone Needs A Hobby | 0.10% | ~896 |
+| GR Project Complete | 0.10% | ~896 |
+| Hit me if you can | 0.10% | ~896 |
+| Junkrunner | 0.10% | ~896 |
+| Just A Man | 0.10% | ~896 |
+| Legacy Drivers | 0.10% | ~896 |
+| Obedient Machine | 0.10% | ~896 |
+| One man's trash | 0.10% | ~896 |
+| Scrapped | 0.10% | ~896 |
+| Sticks And Stones | 0.10% | ~896 |
+| Strafing Run | 0.10% | ~896 |
+| Up Close And Personal | 0.10% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,166 (Ranked 17)  
+Progressed: 896,232 (Ranked 17)  
 Completed: 133 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,6 +312,7 @@ Completed: 133 (0.01%) (Ranked 369)
 | 2024-01-02 | 761,056 | 105 |
 | 2024-01-03 | 840,716 | 117 |
 | 2024-01-04 | 895,166 | 133 |
+| 2024-01-05 | 896,232 | 133 |
 ## Awards
 Max (Great Boss Battles): 720  (Ranked 192)  
 Sum: 880 (Ranked 285)  

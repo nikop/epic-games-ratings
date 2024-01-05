@@ -4,7 +4,7 @@
   "ProductSlug": "my-product-b51a19",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "5770k2f",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:05:33.9112313+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.29782+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:58:24.2290368+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:04:36.7014204+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:59:23.2118551+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:05:33.9112351+00:00"
 }

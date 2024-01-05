@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3953,
+  "EOS_Progressed": 3955,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6616,6 +6616,11 @@
       "Time": "2024-01-04T23:03:45.9699688+00:00",
       "NumProgressed": 3953,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T00:04:23.6530947+00:00",
+      "NumProgressed": 3955,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6651,7 +6656,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "MOVE_ON",
@@ -6691,7 +6696,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6723,14 +6728,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3953,
+      "Progressed": 3955,
       "Completed": 6
     }
   ],
@@ -6738,8 +6743,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:03:45.9699685+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:04:23.6530944+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:00:01.8461732+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:03:45.9700052+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:01:48.7053959+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:04:23.6531311+00:00"
 }

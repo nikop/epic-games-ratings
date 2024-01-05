@@ -1,21 +1,21 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.66 (Ranked 299)  
+Rating: 4.66 (Ranked 300)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~32,132 |
+| The Shadow strikes | 70.00% | ~32,133 |
 | The Evilest Evil | 59.00% | ~27,083 |
 | Twistram is devastated | 58.00% | ~26,624 |
 | The Gehenna Stones | 50.00% | ~22,952 |
-| No one has to die today! | 47.00% | ~21,574 |
-| Death and destruction! | 46.00% | ~21,115 |
-| The Swamplanders from the swamplands | 44.00% | ~20,197 |
-| Rusty Steel | 41.00% | ~18,820 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,361 |
-| Braiiiiins! | 38.00% | ~17,443 |
+| No one has to die today! | 47.00% | ~21,575 |
+| Death and destruction! | 46.00% | ~21,116 |
+| The Swamplanders from the swamplands | 44.00% | ~20,198 |
+| Rusty Steel | 41.00% | ~18,821 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,362 |
+| Braiiiiins! | 38.00% | ~17,444 |
 | The last burger | 37.00% | ~16,984 |
 | Hands off the Dungeonheart! | 36.00% | ~16,525 |
 | A trip on sea, what fun it can be | 34.00% | ~15,607 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~8,263 |
 | Flat as a pancake | 17.00% | ~7,804 |
 | Lifeguard | 17.00% | ~7,804 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,885 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,886 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~5,508 |
 | Then let them eat cake! | 12.00% | ~5,508 |
 | The White Knight | 10.00% | ~4,590 |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~918 |
 | Sacrifices! | 2.00% | ~918 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,903 (Ranked 126)  
-Completed: 366 (0.80%) (Ranked 188)  
+Progressed: 45,904 (Ranked 126)  
+Completed: 366 (0.80%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -327,6 +327,7 @@ Completed: 366 (0.80%) (Ranked 188)
 | 2024-01-02 | 45,713 | 365 |
 | 2024-01-03 | 45,809 | 365 |
 | 2024-01-04 | 45,903 | 366 |
+| 2024-01-05 | 45,904 | 366 |
 ## Awards
 Max (Great for Beginners): 396  (Ranked 238)  
 Sum: 2,843 (Ranked 188)  

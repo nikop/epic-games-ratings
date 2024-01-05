@@ -734,9 +734,9 @@
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "lootaphilia",
@@ -798,9 +798,9 @@
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "tried_to_warn_you",
@@ -839,8 +839,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:03:55.9479881+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:04:37.7094736+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.3380666+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:03:10.7680934+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:03:55.9479997+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:03:31.8768666+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:04:37.7094855+00:00"
 }

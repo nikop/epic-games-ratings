@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1978,6 +1978,11 @@
       "Time": "2024-01-04T15:08:27.1854754+00:00",
       "NumProgressed": 678,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T00:08:41.5407654+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2013,7 +2018,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "Chapter10",
@@ -2093,7 +2098,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Collectibles2",
@@ -2165,7 +2170,7 @@
       "Name": "Memories",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Murderer",
@@ -2276,14 +2281,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:08:34.1454466+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:08:41.5407648+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.7488707+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:59:51.7397031+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:08:34.1454851+00:00"
+  "LastUpdate_Ratings": "2024-01-05T00:01:32.3654205+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:08:41.5407961+00:00"
 }

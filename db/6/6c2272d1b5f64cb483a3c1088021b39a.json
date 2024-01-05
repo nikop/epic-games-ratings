@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1315,
+  "EOS_Progressed": 1316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4714,6 +4714,11 @@
       "Time": "2024-01-04T05:10:22.7602494+00:00",
       "NumProgressed": 1315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T00:10:49.5764215+00:00",
+      "NumProgressed": 1316,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4725,7 +4730,7 @@
       "Name": "Adventurous 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "adventurous_2",
@@ -5252,14 +5257,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1315,
+      "Progressed": 1316,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-04T23:10:07.7918444+00:00",
+  "LastChanged_Achievements": "2024-01-05T00:10:49.5764212+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.0513458+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:58:12.0062224+00:00",
-  "LastUpdate_Achievements": "2024-01-04T23:10:07.7919141+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:59:05.4921217+00:00",
+  "LastUpdate_Achievements": "2024-01-05T00:10:49.5764801+00:00"
 }
