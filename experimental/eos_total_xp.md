@@ -236,6 +236,7 @@
 | [Deceive Inc.](../games/d/deceive_inc..md) | 36 | 1,000 |
 | [DEEEER Simulator: Your Average Everyday Deer Game](../games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17 | 1,000 |
 | [Defense Grid: The Awakening](../games/d/defense_grid__the_awakening.md) | 87 | 1,000 |
+| [Definitely Sneaky But Not Sneaky](../games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 28 | 1,000 |
 | [Deliver Us Mars](../games/d/deliver_us_mars.md) | 33 | 1,000 |
 | [Delivery from the Pain](../games/d/delivery_from_the_pain.md) | 81 | 1,000 |
 | [Demon Turf Neon Splash](../games/7/7184be55b899413ba25cf1f77e89ac82.md) | 12 | 1,000 |
