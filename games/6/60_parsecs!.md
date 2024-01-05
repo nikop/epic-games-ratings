@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~783 |
+| Don't Panic! | 97.00% | ~784 |
 | Space Colonization | 81.00% | ~654 |
 | Friendzone | 80.00% | ~646 |
-| Hello World | 75.00% | ~605 |
+| Hello World | 75.00% | ~606 |
 | Space Engineer | 65.00% | ~525 |
-| Tinkerer | 63.00% | ~508 |
-| Dust to Dust | 59.00% | ~476 |
-| Across The Stars | 49.00% | ~395 |
-| Crafty | 49.00% | ~395 |
+| Tinkerer | 63.00% | ~509 |
+| Dust to Dust | 59.00% | ~477 |
+| Across The Stars | 49.00% | ~396 |
+| Crafty | 49.00% | ~396 |
 | All Seats Taken | 40.00% | ~323 |
-| For Science! | 35.00% | ~282 |
-| Meet the Petersons | 32.00% | ~258 |
+| For Science! | 35.00% | ~283 |
+| Meet the Petersons | 32.00% | ~259 |
 | Stay Cool | 30.00% | ~242 |
 | KIA | 28.00% | ~226 |
 | Mutiny in making | 25.00% | ~202 |
-| Eco-Shuttle | 21.00% | ~169 |
-| Et tu, Astrocitizen? | 20.00% | ~161 |
+| Eco-Shuttle | 21.00% | ~170 |
+| Et tu, Astrocitizen? | 20.00% | ~162 |
 | Space Explorer | 17.00% | ~137 |
-| Hands Full | 14.00% | ~113 |
 | Gold Medalist | 13.00% | ~105 |
+| Hands Full | 13.00% | ~105 |
 | Non-Fiction | 12.00% | ~97 |
 | No Man Left Behind | 9.00% | ~73 |
 | First of April | 8.00% | ~65 |
 | Fix-It Felix | 8.00% | ~65 |
 | Intergalactic Breakup | 8.00% | ~65 |
 | Second Life | 8.00% | ~65 |
-| Axel jump in space! | 7.00% | ~56 |
-| Flawless Maegangement | 7.00% | ~56 |
+| Axel jump in space! | 7.00% | ~57 |
+| Flawless Maegangement | 7.00% | ~57 |
 | Extreme Makeover | 5.00% | ~40 |
 | The Improvinator | 4.00% | ~32 |
 | The Last Supper | 4.00% | ~32 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 807 (Ranked 305)  
+Progressed: 808 (Ranked 305)  
 Completed: 1 (0.12%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 1 (0.12%) (Ranked 300)
 | 2024-01-02 | 801 | 1 |
 | 2024-01-03 | 803 | 1 |
 | 2024-01-04 | 804 | 1 |
-| 2024-01-05 | 807 | 1 |
+| 2024-01-05 | 808 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

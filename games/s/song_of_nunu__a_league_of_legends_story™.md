@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.52 (Ranked 576)  
+Rating: 4.52 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,11 +10,11 @@ Rating: 4.52 (Ranked 576)
 | Better On Ice | 68.00% | ~1,000 |
 | Notai Notes | 67.00% | ~985 |
 | Blue Dreams | 66.00% | ~970 |
-| He's Famous! | 65.00% | ~956 |
+| He's Famous! | 66.00% | ~970 |
 | Cutie Poro | 65.00% | ~956 |
 | Krugmazing | 64.00% | ~941 |
+| The Fire Below the Mountain | 61.00% | ~897 |
 | Moneyball | 60.00% | ~882 |
-| The Fire Below the Mountain | 60.00% | ~882 |
 | No Bites | 55.00% | ~809 |
 | Iceborn | 55.00% | ~809 |
 | Boom Things | 53.00% | ~779 |
@@ -37,7 +37,7 @@ Rating: 4.52 (Ranked 576)
 | It Is Not Over | 35.00% | ~514 |
 | On The Rocks | 34.00% | ~500 |
 | Snowy Poro | 32.00% | ~470 |
-| Never Gets Old | 31.00% | ~456 |
+| Never Gets Old | 32.00% | ~470 |
 | Vertical Power | 27.00% | ~397 |
 | One From The Heart | 13.00% | ~191 |
 | Yummy | 10.00% | ~147 |

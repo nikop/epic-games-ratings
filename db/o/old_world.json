@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2220,7 +2220,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16130,
+  "EOS_Progressed": 16131,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -18985,6 +18985,11 @@
       "Time": "2024-01-05T17:10:19.0549404+00:00",
       "NumProgressed": 16130,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T18:11:33.3197246+00:00",
+      "NumProgressed": 16131,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21082,9 +21087,9 @@
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
       "SetID": "9201eeb",
       "Name": "Siege Tower",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
@@ -21859,21 +21864,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16130,
+      "Progressed": 16131,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16130,
+      "Progressed": 16131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:10:19.0549399+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:11:33.3197239+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:58:52.8397141+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:10:19.0559736+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:59:45.1197992+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:11:33.3207679+00:00"
 }

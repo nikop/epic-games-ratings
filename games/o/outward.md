@@ -6,12 +6,12 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,284 |
-| Ready for Winter | 61.00% | ~2,744 |
-| Ready for Summer | 48.00% | ~2,160 |
-| Cordon Bleu | 41.00% | ~1,845 |
-| Tapped! | 35.00% | ~1,575 |
-| Eureka | 30.00% | ~1,350 |
+| Venture Outward | 73.00% | ~3,286 |
+| Ready for Winter | 61.00% | ~2,746 |
+| Ready for Summer | 48.00% | ~2,161 |
+| Cordon Bleu | 41.00% | ~1,846 |
+| Tapped! | 35.00% | ~1,576 |
+| Eureka | 30.00% | ~1,351 |
 | Scourge Slayer | 24.00% | ~1,080 |
 | Science, Troglodyte! | 22.00% | ~990 |
 | Exceptional Skill | 21.00% | ~945 |
@@ -43,13 +43,13 @@ Number of Ratings: 266  (23.09.2022)
 | Your actions define you | 2.00% | ~90 |
 | The blood is life | 1.00% | ~45 |
 | Vanquisher of nightmares | 1.00% | ~45 |
-| They'll Tell Stories About This | 0.90% | ~40 |
-| Through fire and flame. | 0.70% | ~31 |
+| They'll Tell Stories About This | 0.90% | ~41 |
+| Through fire and flame. | 0.70% | ~32 |
 | Legacy of a master hunter | 0.40% | ~18 |
-| Master of Aurai | 0.30% | ~13 |
-| The Absolute Pinnacle. | 0.30% | ~13 |
+| Master of Aurai | 0.30% | ~14 |
+| The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,499 (Ranked 205)  
+Progressed: 4,502 (Ranked 205)  
 Completed: 5 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2024-01-02 | 4,428 | 5 |
 | 2024-01-03 | 4,452 | 5 |
 | 2024-01-04 | 4,478 | 5 |
-| 2024-01-05 | 4,499 | 5 |
+| 2024-01-05 | 4,502 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 500)  
 Sum: 246 (Ranked 400)  

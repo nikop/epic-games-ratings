@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1979,
+  "EOS_Progressed": 1980,
   "EOS_Completed": 74,
   "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 4,
@@ -4519,6 +4519,11 @@
       "Time": "2024-01-05T17:09:59.8562008+00:00",
       "NumProgressed": 1979,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2024-01-05T18:11:08.0885037+00:00",
+      "NumProgressed": 1980,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 16,
@@ -4554,7 +4559,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -4578,7 +4583,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -4586,7 +4591,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4594,7 +4599,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4618,7 +4623,7 @@
       "Name": "Outside World Seer",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4657,7 +4662,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1979,
+      "Progressed": 1980,
       "Completed": 74
     }
   ],
@@ -4665,8 +4670,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:09:59.8562003+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:11:08.0885035+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:57:59.235738+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:09:59.8562362+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:58:21.9718453+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:11:08.088529+00:00"
 }

@@ -8,8 +8,8 @@ Rating: 3.96 (Ranked 1,056)
 | Neophyte Ninja | 4.00% | ~3,722 |
 | First One’s Free | 4.00% | ~3,722 |
 | Downed but Not Outed | 4.00% | ~3,722 |
-| Too Old for This | 3.00% | ~2,791 |
-| Fancy Pants | 3.00% | ~2,791 |
+| Too Old for This | 3.00% | ~2,792 |
+| Fancy Pants | 3.00% | ~2,792 |
 | Underworld Initiate | 2.00% | ~1,861 |
 | Roid Ranger | 2.00% | ~1,861 |
 | Case Closed | 2.00% | ~1,861 |
@@ -18,9 +18,9 @@ Rating: 3.96 (Ranked 1,056)
 | Raider’s Ruin | 2.00% | ~1,861 |
 | Dragonslayer | 2.00% | ~1,861 |
 | Rockay Rex | 2.00% | ~1,861 |
-| Hidden Sonata | 1.00% | ~930 |
-| Track Star | 1.00% | ~930 |
-| True Player | 1.00% | ~930 |
+| Hidden Sonata | 1.00% | ~931 |
+| Track Star | 1.00% | ~931 |
+| True Player | 1.00% | ~931 |
 | Headhunter | 0.90% | ~837 |
 | I Like Trains | 0.80% | ~744 |
 | Freebooter | 0.80% | ~744 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,056)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,049 (Ranked 101)  
+Progressed: 93,053 (Ranked 101)  
 Completed: 58 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 58 (0.06%) (Ranked 329)
 | 2024-01-02 | 92,910 | 58 |
 | 2024-01-03 | 92,944 | 58 |
 | 2024-01-04 | 93,006 | 58 |
-| 2024-01-05 | 93,049 | 58 |
+| 2024-01-05 | 93,053 | 58 |
 ## Awards
 Max (Diverse Characters): 590  (Ranked 210)  
 Sum: 2,790 (Ranked 192)  

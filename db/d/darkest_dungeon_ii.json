@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10548,9 +10548,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131773,
+  "EOS_Progressed": 131782,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1213,
+  "EOS_NewPlayers": 1208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38473,6 +38473,11 @@
       "Time": "2024-01-05T17:09:49.4159481+00:00",
       "NumProgressed": 131773,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T18:10:53.5679215+00:00",
+      "NumProgressed": 131782,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38580,7 +38585,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -38588,7 +38593,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -38612,7 +38617,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7906
+      "UsersEstimate": 7907
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38660,7 +38665,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "combat_kill_gaunts",
@@ -38676,7 +38681,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -38708,7 +38713,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7906
+      "UsersEstimate": 7907
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38836,7 +38841,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9224
+      "UsersEstimate": 9225
     },
     {
       "ID": "hero_story_complete_all",
@@ -38884,7 +38889,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -38900,7 +38905,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -38916,7 +38921,7 @@
       "Name": "Utopia",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -38948,7 +38953,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "run_victory_act03",
@@ -38956,7 +38961,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "run_victory_act04",
@@ -39020,7 +39025,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 865
     },
     {
       "ID": "combat_kill_collector",
@@ -39052,7 +39057,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -39068,7 +39073,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39076,7 +39081,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "quest_complete_crusader",
@@ -39084,7 +39089,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39100,7 +39105,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -39115,21 +39120,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131773,
+      "Progressed": 131782,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6642,
+      "Progressed": 6651,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-05T17:00:04.1105563+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:09:49.4159476+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:10:53.5679211+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:00:04.1105569+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:09:49.4161601+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:01:37.6334153+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:10:53.5680852+00:00"
 }

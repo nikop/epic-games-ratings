@@ -9,13 +9,13 @@ Number of Ratings: 116  (23.09.2022)
 | Green with Envy | 77.00% | ~335 |
 | First of many… | 67.00% | ~291 |
 | Helping Hand | 63.00% | ~274 |
-| Increased Vigor | 58.00% | ~252 |
+| Increased Vigor | 59.00% | ~257 |
 | Fight Fire with Fire | 57.00% | ~248 |
-| Increased Capacity | 53.00% | ~231 |
+| Increased Capacity | 54.00% | ~235 |
 | Just the start | 48.00% | ~209 |
 | Perfect Storm | 46.00% | ~200 |
 | All That Glitters | 45.00% | ~196 |
-| Enhance! | 41.00% | ~178 |
+| Enhance! | 42.00% | ~183 |
 | One Of the Chosen | 40.00% | ~174 |
 | Throne Potato | 39.00% | ~170 |
 | Devil's in the Details | 38.00% | ~165 |
@@ -39,7 +39,7 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Capacity | 20.00% | ~87 |
 | Demon Meddler | 20.00% | ~87 |
 | Seeing Red | 20.00% | ~87 |
-| Egomaniac | 18.00% | ~78 |
+| Egomaniac | 19.00% | ~83 |
 | Protector of Humanity | 17.00% | ~74 |
 | Everybody Wants to Rule the World | 17.00% | ~74 |
 | Community Outreach | 15.00% | ~65 |

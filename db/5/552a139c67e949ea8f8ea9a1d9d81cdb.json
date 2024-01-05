@@ -2,10 +2,10 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1842,
+  "EOS_Progressed": 1844,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4642,6 +4642,11 @@
       "Time": "2024-01-05T17:03:43.9219543+00:00",
       "NumProgressed": 1842,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T18:04:18.3910444+00:00",
+      "NumProgressed": 1844,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4798,7 +4803,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -5021,20 +5026,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1842,
+      "Progressed": 1844,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1510,
+      "Progressed": 1512,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:03:43.9219539+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:04:18.391044+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:02:54.9559407+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:03:43.9220013+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:03:02.2931522+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:04:18.3910977+00:00"
 }

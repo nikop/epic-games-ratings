@@ -3,12 +3,12 @@
   "Name": "OUTRIDERS",
   "ProductSlug": "outriders",
   "Ranking_Rating": 737,
-  "Ranking_Popularity": 142,
-  "Ranking_PopularitySum": 185,
+  "Ranking_Popularity": 141,
+  "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-04-15T16:00:00+00:00",
     "PcReleaseDate": "2021-04-01T16:00:00+00:00",
@@ -3626,18 +3626,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 3005,
       "NumberOfAwardsMax": 1341
+    },
+    {
+      "Time": "2024-01-05T18:00:48.6712033+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 3013,
+      "NumberOfAwardsMax": 1347
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3005,
-  "NumberOfAwardsMax": 1341,
+  "NumberOfAwards": 3013,
+  "NumberOfAwardsMax": 1347,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1341
+      "Count": 1347
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3649,7 +3655,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 178
+      "Count": 180
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3711,8 +3717,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2024-01-05T13:59:41.5269797+00:00",
+  "LastChanged": "2024-01-05T18:00:48.6712031+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.6867725+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:59:32.9469391+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:03:37.0997637+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:00:48.6712035+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:04:08.6471194+00:00"
 }

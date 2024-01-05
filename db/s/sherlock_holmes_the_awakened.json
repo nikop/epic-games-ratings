@@ -6,9 +6,9 @@
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 270,
-  "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -164,10 +164,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1396,
-  "EOS_Completed": 40,
+  "EOS_Completed": 41,
   "EOS_NewPlayers": 51,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.87,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 2.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -4923,6 +4923,11 @@
       "Time": "2024-01-05T16:03:26.1490759+00:00",
       "NumProgressed": 1396,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2024-01-05T18:04:08.1412818+00:00",
+      "NumProgressed": 1396,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 28,
@@ -4964,9 +4969,9 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 265
     },
     {
       "ID": "MQ02_4",
@@ -5004,9 +5009,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 614
     },
     {
       "ID": "MQ03_5",
@@ -5068,9 +5073,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 600
+      "UsersEstimate": 614
     },
     {
       "ID": "MQ06_1",
@@ -5158,15 +5163,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 1396,
-      "Completed": 40
+      "Completed": 41
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:03:36.7218076+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:04:08.1412813+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.3322639+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:03:20.3201365+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:03:36.7218586+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:03:42.0837349+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:04:08.1413281+00:00"
 }

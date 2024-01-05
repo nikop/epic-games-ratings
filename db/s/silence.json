@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 181,
+  "EOS_Progressed": 182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -485,6 +485,11 @@
       "Time": "2023-12-31T20:05:08.1827779+00:00",
       "NumProgressed": 181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T18:08:13.5502382+00:00",
+      "NumProgressed": 182,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -550,7 +555,7 @@
       "ID": "0000_achv_nosnoop",
       "SetID": "dhn82m5",
       "Name": "Sherlock Holmes",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -632,7 +637,7 @@
       "Name": "Chapter I",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "1006_achv_demoliton",
@@ -648,7 +653,7 @@
       "Name": "Fire in the... nevermind",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -686,7 +691,7 @@
       "ID": "2002_achv_feedfish",
       "SetID": "dhn82m5",
       "Name": "Do not feed the fish!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -696,7 +701,7 @@
       "Name": "Haute cuisine",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "2004_achv_abyss",
@@ -704,15 +709,15 @@
       "Name": "Wooooooow!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "2004_achv_hitkyra",
       "SetID": "dhn82m5",
       "Name": "The hands of a healer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "2005n_achv_chapter2",
@@ -720,7 +725,7 @@
       "Name": "Chapter II",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "2008_achv_bubble",
@@ -728,7 +733,7 @@
       "Name": "Bubblekillerfamily",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "2008_achv_spotfly",
@@ -856,14 +861,14 @@
       "Name": "Mirror mirror on the wall...",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 181,
+      "Progressed": 182,
       "Completed": 0
     }
   ],
@@ -871,8 +876,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:06:15.5250988+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:08:13.5502379+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:00.9874259+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:58:27.0116104+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:06:15.5251329+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:59:04.3512232+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:08:13.5502906+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 46.00% | ~889 |
+| E1M1 | 46.00% | ~890 |
 | Grenadier | 44.00% | ~851 |
 | War Never Changes | 44.00% | ~851 |
 | Heroes Never Die | 41.00% | ~793 |
-| Mosquito bite | 37.00% | ~715 |
+| Mosquito bite | 37.00% | ~716 |
 | Spice It Up | 33.00% | ~638 |
 | Agent 47 | 27.00% | ~522 |
 | You're Gonna Go Far, Kid | 27.00% | ~522 |
@@ -27,7 +27,7 @@ Number of Ratings: 98  (23.09.2022)
 | Strategist | 5.00% | ~97 |
 | Do a Barrel Roll! | 2.00% | ~39 |
 | Unbreakable Wall | 2.00% | ~39 |
-| Experienced Strategist | 2.00% | ~39 |
+| Experienced Strategist | 1.00% | ~19 |
 | How?! | 0.90% | ~17 |
 | Tough as Nails | 0.50% | ~10 |
 | Commandos | 0.30% | ~6 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,933 (Ranked 248)  
+Progressed: 1,934 (Ranked 248)  
 Completed: 2 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,6 +273,7 @@ Completed: 2 (0.10%) (Ranked 307)
 | 2024-01-02 | 1,924 | 2 |
 | 2024-01-03 | 1,928 | 2 |
 | 2024-01-04 | 1,933 | 2 |
+| 2024-01-05 | 1,934 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

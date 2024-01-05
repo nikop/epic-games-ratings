@@ -128,6 +128,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.20% | ~32 |
 | Kushite Cavalry | 0.20% | ~32 |
 | Phalangite | 0.20% | ~32 |
+| Siege Tower | 0.20% | ~32 |
 | Turreted Elephant | 0.20% | ~32 |
 | All Nations | 0.20% | ~32 |
 | Ambition Victory | 0.20% | ~32 |
@@ -245,7 +246,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Word of God | 0.10% | ~16 |
 | Cataphract Archer | 0.10% | ~16 |
 | Three Man Chariot | 0.10% | ~16 |
-| Siege Tower | 0.10% | ~16 |
 | Great Ziggurat in Ur | 0.10% | ~16 |
 | Conquest Victory | 0.10% | ~16 |
 | No Characters | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,130 (Ranked 167)  
+Progressed: 16,131 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 5 (0.03%) (Ranked 352)
 | 2024-01-02 | 16,090 | 5 |
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
-| 2024-01-05 | 16,130 | 5 |
+| 2024-01-05 | 16,131 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,915 (Ranked 221)  

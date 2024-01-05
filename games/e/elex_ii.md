@@ -7,19 +7,19 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 40.00% | ~73 |
-| Best Buddy | 32.00% | ~58 |
-| Civilian | 31.00% | ~56 |
+| Best Buddy | 32.00% | ~59 |
+| Civilian | 31.00% | ~57 |
 | Role Model | 28.00% | ~51 |
 | Creator | 25.00% | ~46 |
-| Peddler | 24.00% | ~44 |
 | Festival-goer | 24.00% | ~44 |
-| Military Leader | 23.00% | ~42 |
-| Commander | 20.00% | ~36 |
+| Peddler | 23.00% | ~42 |
+| Military Leader | 22.00% | ~40 |
+| Commander | 20.00% | ~37 |
 | Irissa's Fate | 16.00% | ~29 |
-| Long-Haul Flyer | 13.00% | ~24 |
+| Long-Haul Flyer | 14.00% | ~26 |
+| Family Reunion | 13.00% | ~24 |
 | Pass A38 | 13.00% | ~24 |
-| Family Reunion | 12.00% | ~22 |
-| Eternal Oblivion | 12.00% | ~22 |
+| Eternal Oblivion | 11.00% | ~20 |
 | Storyteller | 10.00% | ~18 |
 | Globetrotter | 10.00% | ~18 |
 | Berserker | 10.00% | ~18 |
@@ -31,8 +31,8 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 6.00% | ~11 |
 | Hotshot | 5.00% | ~9 |
 | Free as a Bird | 5.00% | ~9 |
+| Perfectionist | 5.00% | ~9 |
 | Cleric | 4.00% | ~7 |
-| Perfectionist | 4.00% | ~7 |
 | Detective | 4.00% | ~7 |
 | Weaponsmith | 3.00% | ~5 |
 | Alchemist | 3.00% | ~5 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182 (Ranked 431)  
+Progressed: 183 (Ranked 430)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 167 | 0 |
 | 2024-01-03 | 172 | 0 |
 | 2024-01-04 | 177 | 0 |
-| 2024-01-05 | 182 | 0 |
+| 2024-01-05 | 183 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

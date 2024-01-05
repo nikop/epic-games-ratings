@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1609,10 +1609,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 555,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2024-01-05T17:57:55.8887428+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 556,
+      "NumberOfAwardsMax": 264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 555,
+  "NumberOfAwards": 556,
   "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1662,7 +1668,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1677,9 +1683,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246700,
+  "EOS_Progressed": 246704,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1330,
+  "EOS_NewPlayers": 1314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25047,6 +25053,11 @@
       "Time": "2024-01-05T17:10:13.6570019+00:00",
       "NumProgressed": 246700,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-05T18:11:26.8172139+00:00",
+      "NumProgressed": 246704,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25192,9 +25203,9 @@
       "ID": "CompanionNone",
       "SetID": "50chcgj",
       "Name": "The number of the counting shalt be 7",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 987
     },
     {
       "ID": "CompanionPaladine",
@@ -25506,7 +25517,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88812
+      "UsersEstimate": 88813
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25664,9 +25675,9 @@
       "ID": "QuestPaladine",
       "SetID": "50chcgj",
       "Name": "L\u00EBgal Legend",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2467
     },
     {
       "ID": "QuestPriestess",
@@ -25761,21 +25772,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246700,
+      "Progressed": 246704,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246700,
+      "Progressed": 246704,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2024-01-05T11:57:44.9693554+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:10:13.6570015+00:00",
+  "LastChanged": "2024-01-05T17:57:55.8887426+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:11:26.8172137+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:57:41.4612459+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:10:13.6571767+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:57:55.8887431+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:11:26.8174222+00:00"
 }

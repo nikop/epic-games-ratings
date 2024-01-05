@@ -6,9 +6,9 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 3.00% | ~8,747 |
+| Ball Launched | 3.00% | ~8,749 |
 | I Found it! | 1.00% | ~2,916 |
-| Ready Steady Score | 0.40% | ~1,166 |
+| Ready Steady Score | 0.40% | ~1,167 |
 | First but not Last | 0.20% | ~583 |
 | Full Loot Madness | 0.20% | ~583 |
 | Contender | 0.10% | ~292 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,582 (Ranked 63)  
+Progressed: 291,640 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 290,342 | 0 |
 | 2024-01-03 | 290,679 | 0 |
 | 2024-01-04 | 291,140 | 0 |
-| 2024-01-05 | 291,582 | 0 |
+| 2024-01-05 | 291,640 | 0 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 292)  
 Sum: 1,636 (Ranked 231)  

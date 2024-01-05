@@ -3650,9 +3650,9 @@
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 574
     },
     {
       "ID": "DustDancing",
@@ -3746,9 +3746,9 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1097
     }
   ],
   "AchievementSets": [
@@ -3761,8 +3761,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:10:01.2442016+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:11:10.056113+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6987681+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:00:24.3480552+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:10:01.2442533+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:02:49.2349347+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:11:10.0561398+00:00"
 }

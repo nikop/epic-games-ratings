@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,812 |
+| Sowwy! | 36.00% | ~88,813 |
 | Alt+F4 | 10.00% | ~24,670 |
 | Where's that freaking Dwarf? | 9.00% | ~22,203 |
 | Déjà vu | 8.00% | ~19,736 |
@@ -43,9 +43,9 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 1.00% | ~2,467 |
 | Gargantua | 1.00% | ~2,467 |
 | In Navalu's footsteps | 1.00% | ~2,467 |
+| Lëgal Legend | 1.00% | ~2,467 |
 | Lust and Debauchery | 1.00% | ~2,467 |
 | Material Girl | 1.00% | ~2,467 |
-| Lëgal Legend | 0.90% | ~2,220 |
 | We come in peace | 0.80% | ~1,974 |
 | Holistic Adventuring Party | 0.70% | ~1,727 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,727 |
@@ -54,8 +54,8 @@ Number of Ratings: 118  (23.09.2022)
 | It's been a hard day's night | 0.50% | ~1,234 |
 | Friendly fire | 0.40% | ~987 |
 | I'd rather... Just... Sing! | 0.40% | ~987 |
+| The number of the counting shalt be 7 | 0.40% | ~987 |
 | Inception | 0.40% | ~987 |
-| The number of the counting shalt be 7 | 0.30% | ~740 |
 | 100% satisfaction guarantee | 0.30% | ~740 |
 | Cursed die | 0.20% | ~493 |
 | The Blood Countess | 0.20% | ~493 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,700 (Ranked 71)  
+Progressed: 246,704 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,10 +314,10 @@ Completed: 8 (0.00%) (Ranked 392)
 | 2024-01-02 | 246,255 | 8 |
 | 2024-01-03 | 246,417 | 8 |
 | 2024-01-04 | 246,586 | 8 |
-| 2024-01-05 | 246,700 | 8 |
+| 2024-01-05 | 246,704 | 8 |
 ## Awards
 Max (Character Customization): 264  (Ranked 275)  
-Sum: 555 (Ranked 329)  
+Sum: 556 (Ranked 329)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
@@ -327,7 +327,7 @@ Diff (max vs sum): -54
 | This game is Highly Recommended | 36 |
 | This game has Quickly Understood Controls | 34 |
 | This game has Amazing Storytelling | 33 |
-| This game has Diverse Characters | 31 |
+| This game has Diverse Characters | 32 |
 | This game has Amazing Characters | 30 |
 | This game is Extremely Fun | 29 |
 | This game has Playful Visuals | 21 |
@@ -544,4 +544,4 @@ Diff (max vs sum): -54
 | 2024-01-01 | 4.59 | - | 263 | 551 |
 | 2024-01-02 | 4.59 | - | 263 | 553 |
 | 2024-01-04 | 4.59 | - | 264 | 554 |
-| 2024-01-05 | 4.59 | - | 264 | 555 |
+| 2024-01-05 | 4.59 | - | 264 | 556 |

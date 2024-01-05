@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-10-22T15:00:00+00:00",
     "PcReleaseDate": "2020-10-22T15:00:00+00:00",
@@ -3803,10 +3803,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 2665,
       "NumberOfAwardsMax": 322
+    },
+    {
+      "Time": "2024-01-05T17:59:39.9487024+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 2668,
+      "NumberOfAwardsMax": 322
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2665,
+  "NumberOfAwards": 2668,
   "NumberOfAwardsMax": 322,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3826,13 +3832,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 277
+      "Count": 278
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 265
+      "Count": 266
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3856,7 +3862,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 252
+      "Count": 253
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3894,8 +3900,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-01-05T16:58:49.6988304+00:00",
+  "LastChanged": "2024-01-05T17:59:39.9487022+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:00.4285484+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:58:49.6988309+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:08:24.9352627+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:59:39.9487028+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:08:54.4008117+00:00"
 }

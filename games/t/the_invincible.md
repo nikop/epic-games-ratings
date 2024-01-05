@@ -5,27 +5,27 @@ Rating: 4.59 (Ranked 445)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 69.00% | ~969 |
-| The Teleprobe | 53.00% | ~744 |
-| The City | 49.00% | ~688 |
-| The field base | 44.00% | ~618 |
-| The Alliance | 40.00% | ~562 |
-| Survivors | 38.00% | ~534 |
-| The Condor | 36.00% | ~505 |
-| The End | 35.00% | ~491 |
-| The Necroevolution | 28.00% | ~393 |
-| Krauta is alive | 27.00% | ~379 |
+| The Camp | 69.00% | ~971 |
+| The Teleprobe | 53.00% | ~746 |
+| The City | 48.00% | ~675 |
+| The field base | 44.00% | ~619 |
+| The Alliance | 40.00% | ~563 |
+| Survivors | 38.00% | ~535 |
+| The Condor | 36.00% | ~507 |
+| The End | 35.00% | ~492 |
+| The Necroevolution | 28.00% | ~394 |
+| Krauta is alive | 27.00% | ~380 |
+| Volcanologist | 22.00% | ~310 |
 | On her own | 21.00% | ~295 |
 | Peacemaker | 21.00% | ~295 |
-| Volcanologist | 21.00% | ~295 |
 | Fierce fight | 20.00% | ~281 |
 | Evacuation | 19.00% | ~267 |
 | Beyond divisions | 17.00% | ~239 |
 | Flying Objects Operator | 16.00% | ~225 |
 | I remember everything! | 13.00% | ~183 |
 | Another giant | 13.00% | ~183 |
-| Violent solution | 9.00% | ~126 |
-| I leave no man behind | 9.00% | ~126 |
+| Violent solution | 9.00% | ~127 |
+| I leave no man behind | 9.00% | ~127 |
 | Innate curiosity | 7.00% | ~98 |
 | The Invincible | 6.00% | ~84 |
 | Strong objection | 6.00% | ~84 |
@@ -35,8 +35,8 @@ Rating: 4.59 (Ranked 445)
 | Convoy list | 0.90% | ~13 |
 | No more mistakes | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,404 (Ranked 268)  
-Completed: 1 (0.07%) (Ranked 322)  
+Progressed: 1,407 (Ranked 268)  
+Completed: 1 (0.07%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,7 +96,7 @@ Completed: 1 (0.07%) (Ranked 322)
 | 2024-01-02 | 1,309 | 0 |
 | 2024-01-03 | 1,345 | 0 |
 | 2024-01-04 | 1,381 | 1 |
-| 2024-01-05 | 1,404 | 1 |
+| 2024-01-05 | 1,407 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

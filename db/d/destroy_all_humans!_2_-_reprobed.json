@@ -296,7 +296,7 @@
   ],
   "EOS_Progressed": 320,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1554,9 +1554,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1586,9 +1586,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1626,9 +1626,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1890,9 +1890,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1915,8 +1915,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:09:18.7378283+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:10:10.9123429+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:59:21.0241854+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:09:18.7378728+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:00:29.3394194+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:10:10.9123913+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 775,
+  "EOS_Progressed": 779,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2534,6 +2534,11 @@
       "Time": "2024-01-05T17:08:44.8732098+00:00",
       "NumProgressed": 775,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T18:09:23.1966793+00:00",
+      "NumProgressed": 779,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2546,15 +2551,15 @@
       "Name": "Chapter I - Complete",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 70
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -2562,7 +2567,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -2570,7 +2575,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -2602,7 +2607,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -2610,7 +2615,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2641,14 +2646,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 775,
+      "Progressed": 779,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:08:44.8732093+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:09:23.1966787+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:57:54.9209719+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:08:44.8732364+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:58:15.8074002+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:09:23.196697+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 435,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1710,9 +1710,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Capacity",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 235
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1726,9 +1726,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Vigor",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 257
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -1830,9 +1830,9 @@
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 183
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2030,9 +2030,9 @@
       "ID": "Kill_Sin_Pride",
       "SetID": "7a5k76n",
       "Name": "Egomaniac",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -2174,8 +2174,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:08:28.2382524+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:08:59.2107362+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:59:06.0742388+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:08:28.2383076+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:00:06.4248743+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:08:59.2108205+00:00"
 }

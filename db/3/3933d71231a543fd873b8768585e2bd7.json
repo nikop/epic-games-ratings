@@ -2,10 +2,10 @@
   "ID": "3933d71231a543fd873b8768585e2bd7",
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
-  "Ranking_EOS_Progress": 537,
+  "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 520,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 60,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -314,6 +314,11 @@
       "Time": "2024-01-02T01:55:51.4400082+00:00",
       "NumProgressed": 59,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T18:09:13.6970065+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -348,7 +353,7 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 40,
       "UsersEstimate": 43
     },
@@ -382,7 +387,7 @@
       "Name": "ForestTreePlank",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievements.firstexpedition",
@@ -453,14 +458,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:08:38.390017+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:09:13.6970062+00:00",
   "LastUpdate_AppInfo": "2023-12-29T19:57:03.2903505+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:59:58.0895833+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:08:38.3900343+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:01:27.9870159+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:09:13.6970199+00:00"
 }

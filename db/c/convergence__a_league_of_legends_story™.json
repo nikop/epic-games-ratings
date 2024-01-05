@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1236,
+  "EOS_Progressed": 1237,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3647,6 +3647,11 @@
       "Time": "2024-01-05T16:10:02.7903129+00:00",
       "NumProgressed": 1236,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T18:11:27.6777959+00:00",
+      "NumProgressed": 1237,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3666,7 +3671,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3730,7 +3735,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "CultivairChests1",
@@ -3794,7 +3799,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "GadgetCompletion1",
@@ -3810,15 +3815,15 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 421
     },
     {
       "ID": "HexlockGift",
@@ -3898,7 +3903,7 @@
       "Name": "Time Flies",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ParryBoss",
@@ -3922,7 +3927,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3938,15 +3943,15 @@
       "Name": "The Prince in Heels",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 557
     },
     {
       "ID": "RewindParry",
@@ -4058,7 +4063,7 @@
       "Name": "Good Neighbor",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4074,14 +4079,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1236,
+      "Progressed": 1237,
       "Completed": 6
     }
   ],
@@ -4089,8 +4094,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:10:14.3057472+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:11:27.6777954+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:57:22.314678+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:10:14.3058082+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:57:27.5568991+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:11:27.677864+00:00"
 }

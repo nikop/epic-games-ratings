@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~236 |
-| A piece of the story | 64.00% | ~176 |
-| It's covered up for a reason | 56.00% | ~154 |
-| Wanderer | 53.00% | ~146 |
-| Scraps of love | 49.00% | ~135 |
-| The artist’s impression | 48.00% | ~132 |
+| Something important | 86.00% | ~238 |
+| A piece of the story | 64.00% | ~177 |
+| It's covered up for a reason | 56.00% | ~155 |
+| Wanderer | 52.00% | ~144 |
+| Scraps of love | 49.00% | ~136 |
+| The artist’s impression | 48.00% | ~133 |
 | Do what you have to | 42.00% | ~116 |
-| Sign of weakness | 39.00% | ~107 |
-| Refuse to look | 36.00% | ~99 |
+| Sign of weakness | 39.00% | ~108 |
+| Refuse to look | 35.00% | ~97 |
 | Face your fears | 29.00% | ~80 |
 | Finished it | 25.00% | ~69 |
 | Whispers long forgotten | 16.00% | ~44 |
 | Debut | 12.00% | ~33 |
 | Sound Bite | 12.00% | ~33 |
 | The art of movement | 12.00% | ~33 |
-| Another perspective | 11.00% | ~30 |
 | A Slice of Life | 11.00% | ~30 |
 | Lights! Camera! Action! | 11.00% | ~30 |
+| Another perspective | 10.00% | ~28 |
 | Playtime | 10.00% | ~28 |
 | Tough conversation | 10.00% | ~28 |
 | A new way | 9.00% | ~25 |
 | First steps | 9.00% | ~25 |
 | The tragedy unfolds | 9.00% | ~25 |
 | Breaking free | 8.00% | ~22 |
-| Heavy Burden | 7.00% | ~19 |
 | True Reflection | 7.00% | ~19 |
-| Casting Finished | 6.00% | ~16 |
-| Instinct of self-preservation | 6.00% | ~16 |
-| Fisherman | 6.00% | ~16 |
+| Casting Finished | 6.00% | ~17 |
+| Heavy Burden | 6.00% | ~17 |
+| Instinct of self-preservation | 6.00% | ~17 |
+| Fisherman | 6.00% | ~17 |
 | Something to think about | 4.00% | ~11 |
 | I remember It Like Was Yesterday | 4.00% | ~11 |
 | Immortalized in my heart | 4.00% | ~11 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 275 (Ranked 403)  
+Progressed: 277 (Ranked 402)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,4 +131,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 256 | 0 |
 | 2024-01-03 | 265 | 0 |
 | 2024-01-04 | 274 | 0 |
-| 2024-01-05 | 275 | 0 |
+| 2024-01-05 | 277 | 0 |

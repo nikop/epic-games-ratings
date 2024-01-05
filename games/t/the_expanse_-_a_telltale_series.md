@@ -5,32 +5,32 @@ Rating: 4.54 (Ranked 546)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~3,107 |
-| Captain Drummer | 14.00% | ~2,559 |
-| Celebrations are in Order | 13.00% | ~2,376 |
-| The Pit and the Pirates | 12.00% | ~2,193 |
-| Martian Music | 12.00% | ~2,193 |
-| Bosmang | 12.00% | ~2,193 |
-| Impossible Objects | 12.00% | ~2,193 |
-| Spore Taste | 11.00% | ~2,010 |
-| Drone Dodger | 11.00% | ~2,010 |
+| Oyedang, Kopengs | 17.00% | ~3,108 |
+| Captain Drummer | 14.00% | ~2,560 |
+| Celebrations are in Order | 13.00% | ~2,377 |
+| The Pit and the Pirates | 12.00% | ~2,194 |
+| Martian Music | 12.00% | ~2,194 |
+| Bosmang | 12.00% | ~2,194 |
+| Impossible Objects | 12.00% | ~2,194 |
+| Spore Taste | 11.00% | ~2,011 |
+| Drone Dodger | 11.00% | ~2,011 |
 | Stogie for Fogey | 10.00% | ~1,828 |
-| Zen Master | 10.00% | ~423 |
-| Call it Even | 9.00% | ~1,645 |
-| Safe Cracker | 9.00% | ~381 |
-| Madame Undersecretary | 9.00% | ~381 |
-| Heal Thy Medic | 8.00% | ~1,462 |
-| Data Archivist | 7.00% | ~1,279 |
-| Drug Gifter | 7.00% | ~1,279 |
-| Khan's Revenge | 7.00% | ~1,279 |
-| Keep Arjun in Check | 7.00% | ~296 |
+| Zen Master | 10.00% | ~424 |
+| Call it Even | 9.00% | ~1,646 |
+| Safe Cracker | 9.00% | ~382 |
+| Madame Undersecretary | 9.00% | ~382 |
+| Heal Thy Medic | 8.00% | ~1,463 |
+| Data Archivist | 7.00% | ~1,280 |
+| Drug Gifter | 7.00% | ~1,280 |
+| Thorston Mayer | 7.00% | ~1,280 |
+| Khan's Revenge | 7.00% | ~1,280 |
+| Keep Arjun in Check | 7.00% | ~297 |
 | Doctor Approved | 6.00% | ~1,097 |
 | Bottoms up! | 6.00% | ~1,097 |
-| Thorston Mayer | 6.00% | ~1,097 |
 | Master Negotiator | 6.00% | ~254 |
 | Data Logger | 4.00% | ~731 |
 | Miraculous Maya | 4.00% | ~731 |
-| Data Master | 3.00% | ~548 |
+| Data Master | 3.00% | ~549 |
 | Brother's Reaper | 2.00% | ~366 |
 | No Belter Left Behind | 2.00% | ~366 |
 | Debris Spree | 2.00% | ~366 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 546)
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,277 (Ranked 159)  
+Progressed: 18,285 (Ranked 159)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2024-01-02 | 18,077 | 58 |
 | 2024-01-03 | 18,141 | 58 |
 | 2024-01-04 | 18,213 | 58 |
-| 2024-01-05 | 18,277 | 58 |
+| 2024-01-05 | 18,285 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

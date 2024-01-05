@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44850,
+  "EOS_Progressed": 44851,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -20407,6 +20407,11 @@
       "Time": "2024-01-05T17:03:38.2344977+00:00",
       "NumProgressed": 44850,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-05T18:04:10.2857762+00:00",
+      "NumProgressed": 44851,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20418,7 +20423,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25564
+      "UsersEstimate": 25565
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -20474,7 +20479,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -20498,7 +20503,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -20538,7 +20543,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35880
+      "UsersEstimate": 35881
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -20562,7 +20567,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -20586,7 +20591,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -20610,7 +20615,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16594
+      "UsersEstimate": 16595
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -20682,7 +20687,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26910
+      "UsersEstimate": 26911
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -20698,7 +20703,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -20722,7 +20727,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20182
+      "UsersEstimate": 20183
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -20730,7 +20735,7 @@
       "Name": "Hollow",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -20754,7 +20759,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41710
+      "UsersEstimate": 41711
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20762,14 +20767,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23322
+      "UsersEstimate": 23323
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44850,
+      "Progressed": 44851,
       "Completed": 248
     }
   ],
@@ -20777,8 +20782,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:03:38.2344973+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:04:10.2857758+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.3527303+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:03:19.7304601+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:03:38.2346301+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:03:41.1311124+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:04:10.285892+00:00"
 }

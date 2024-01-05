@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1687,9 +1687,9 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1936,8 +1936,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:05:25.855775+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:06:43.2345469+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:59:46.5647574+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:05:25.8558589+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:01:09.9619507+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:06:43.2346549+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1504,10 +1504,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 1720,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2024-01-05T17:59:53.3686413+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1721,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1720,
+  "NumberOfAwards": 1721,
   "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1545,7 +1551,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 197
+      "Count": 198
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1572,9 +1578,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27754,
+  "EOS_Progressed": 27759,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -13122,6 +13128,11 @@
       "Time": "2024-01-05T17:10:03.2154051+00:00",
       "NumProgressed": 27754,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-05T18:11:12.781669+00:00",
+      "NumProgressed": 27759,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13213,7 +13224,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -13444,21 +13455,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27754,
+      "Progressed": 27759,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6684,
+      "Progressed": 6689,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2024-01-04T16:58:51.1925463+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:10:03.2154047+00:00",
+  "LastChanged": "2024-01-05T17:59:53.3686411+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:11:12.7816687+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:58:57.7959758+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:10:03.2154965+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:59:53.3686417+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:11:12.781745+00:00"
 }

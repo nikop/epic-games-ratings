@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 378,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -809,9 +809,9 @@
       "ID": "and_away_we_go",
       "SetID": "202dmm8",
       "Name": "And away we go!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 257
     },
     {
       "ID": "bless_the_rain",
@@ -954,8 +954,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:09:52.8376167+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:10:57.9354391+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:45.8627972+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:00:01.402737+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:09:52.8376297+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:01:33.4013545+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:10:57.9354783+00:00"
 }

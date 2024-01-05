@@ -4,11 +4,11 @@
   "ProductSlug": "sundered-eldritch-edition",
   "Ranking_Rating": 429,
   "Ranking_Popularity": 398,
-  "Ranking_PopularitySum": 478,
+  "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2017-07-28T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -395,18 +395,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 83,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2024-01-05T18:00:29.8118985+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 84,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 83,
-  "NumberOfAwardsMax": 83,
+  "NumberOfAwards": 84,
+  "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 83
+      "Count": 84
     }
   ],
   "EOS_Progressed": 0,
@@ -420,8 +426,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:53.2112197+00:00",
-  "LastChanged": "2023-12-14T07:59:58.5947726+00:00",
+  "LastChanged": "2024-01-05T18:00:29.8118983+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.9656532+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:59:21.2915651+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:04:58.5204889+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:00:29.8118988+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:06:04.0979041+00:00"
 }

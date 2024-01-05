@@ -13,11 +13,11 @@ Rating: 4.50 (Ranked 615)
 | A Method To His Madness | 48.00% | ~670 |
 | History Check | 47.00% | ~656 |
 | The New World | 45.00% | ~628 |
+| Gaze Into The Abyss | 44.00% | ~614 |
 | Open Sesame | 44.00% | ~614 |
 | Sticky Fingers | 44.00% | ~614 |
+| Knives Out | 44.00% | ~614 |
 | Lock, Stock, And Barrel | 43.00% | ~600 |
-| Gaze Into The Abyss | 43.00% | ~600 |
-| Knives Out | 43.00% | ~600 |
 | Land, Ho! | 43.00% | ~600 |
 | Back In The Saddle | 42.00% | ~586 |
 | No Man Is An Island | 41.00% | ~572 |
@@ -30,12 +30,12 @@ Rating: 4.50 (Ranked 615)
 | No Stone Unturned | 32.00% | ~447 |
 | Brain Food | 31.00% | ~433 |
 | Read It And Weep | 20.00% | ~279 |
-| Curiosity Killed The Cat | 18.00% | ~251 |
+| Curiosity Killed The Cat | 19.00% | ~265 |
 | Big Breakthrough | 12.00% | ~168 |
 | Reawakened | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,396 (Ranked 270)  
-Completed: 40 (2.87%) (Ranked 114)  
+Completed: 41 (2.94%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -250,7 +250,7 @@ Completed: 40 (2.87%) (Ranked 114)
 | 2024-01-02 | 1,383 | 39 |
 | 2024-01-03 | 1,386 | 40 |
 | 2024-01-04 | 1,394 | 40 |
-| 2024-01-05 | 1,396 | 40 |
+| 2024-01-05 | 1,396 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

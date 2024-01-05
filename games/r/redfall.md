@@ -10,14 +10,14 @@ Rating: 3.64 (Ranked 1,090)
 | Home Is Where the Heart Is | 13.00% | ~294 |
 | Wounded Whispers | 13.00% | ~294 |
 | ICU | 12.00% | ~271 |
-| Blood Will Have Blood | 11.00% | ~248 |
+| Blood Will Have Blood | 11.00% | ~249 |
 | Ne Plus Ultra | 10.00% | ~226 |
 | Fly Fisher | 10.00% | ~226 |
 | Peek-a-boo | 10.00% | ~226 |
+| Throw The First Stone | 9.00% | ~203 |
 | Sucks To Be You | 9.00% | ~203 |
 | Enter of Your Own Free Will | 8.00% | ~181 |
 | Welcome to the Neighborhood | 8.00% | ~181 |
-| Throw The First Stone | 8.00% | ~181 |
 | Heart Attack | 8.00% | ~181 |
 | Grounded | 7.00% | ~158 |
 | Skin of Their Teeth | 7.00% | ~158 |
@@ -42,8 +42,8 @@ Rating: 3.64 (Ranked 1,090)
 | Harvest’s End | 2.00% | ~45 |
 | Blacklight Down | 1.00% | ~23 |
 | Curious Finch | 1.00% | ~23 |
+| Bloody Initiate | 0.90% | ~20 |
 | Empty Nest Syndrome | 0.80% | ~18 |
-| Bloody Initiate | 0.80% | ~18 |
 | Neighborhood Watch | 0.70% | ~16 |
 | Blood Brother | 0.70% | ~16 |
 | What Lies Below | 0.70% | ~16 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,090)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,259 (Ranked 241)  
+Progressed: 2,260 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 2,228 | 0 |
 | 2024-01-03 | 2,238 | 0 |
 | 2024-01-04 | 2,253 | 0 |
-| 2024-01-05 | 2,259 | 0 |
+| 2024-01-05 | 2,260 | 0 |
 ## Awards
 Max (Great Boss Battles): 22  (Ranked 563)  
 Sum: 22 (Ranked 566)  

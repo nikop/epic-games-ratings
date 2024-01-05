@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "Kamzik",
@@ -1226,8 +1226,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:06:05.7487507+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:07:39.6182729+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.817379+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:03:10.1586408+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:06:05.7487786+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:03:26.5847933+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:07:39.6183244+00:00"
 }

@@ -5,43 +5,43 @@ Rating: 4.21 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 24.00% | ~5,067 |
-| Flesh Wound | 23.00% | ~4,856 |
-| Desperate Times | 22.00% | ~4,645 |
-| Get a Grip | 20.00% | ~4,223 |
-| Paper Jams | 20.00% | ~4,223 |
-| Chew 'Em Up | 18.00% | ~3,800 |
-| Reforged | 17.00% | ~3,589 |
-| Float Like A Butterfly | 16.00% | ~3,378 |
-| Workplace Hazard | 14.00% | ~2,956 |
-| If the SHU Fits... | 14.00% | ~2,956 |
-| Without A Paddle | 12.00% | ~2,534 |
-| In the Pipe, Five by Five | 11.00% | ~2,322 |
-| Crash Site | 11.00% | ~2,322 |
-| Two Heads Are Better Than One | 10.00% | ~2,111 |
-| Power Up | 10.00% | ~2,111 |
-| Giving Back | 9.00% | ~1,900 |
-| Terminated | 9.00% | ~1,900 |
-| What Lies Beneath | 9.00% | ~1,900 |
-| Full Circle | 9.00% | ~1,900 |
-| You Need a Gun | 8.00% | ~1,689 |
-| I Do Belong Here | 7.00% | ~1,478 |
-| Keep Fighting | 7.00% | ~633 |
+| The Outer Way | 24.00% | ~5,070 |
+| Flesh Wound | 23.00% | ~4,859 |
+| Desperate Times | 22.00% | ~4,648 |
+| Get a Grip | 20.00% | ~4,225 |
+| Paper Jams | 20.00% | ~4,225 |
+| Chew 'Em Up | 18.00% | ~3,803 |
+| Reforged | 17.00% | ~3,591 |
+| Float Like A Butterfly | 16.00% | ~3,380 |
+| Workplace Hazard | 14.00% | ~2,958 |
+| If the SHU Fits... | 14.00% | ~2,958 |
+| Without A Paddle | 12.00% | ~2,535 |
+| In the Pipe, Five by Five | 11.00% | ~2,324 |
+| Crash Site | 11.00% | ~2,324 |
+| Two Heads Are Better Than One | 10.00% | ~2,113 |
+| Power Up | 10.00% | ~2,113 |
+| Giving Back | 9.00% | ~1,901 |
+| Terminated | 9.00% | ~1,901 |
+| What Lies Beneath | 9.00% | ~1,901 |
+| Full Circle | 9.00% | ~1,901 |
+| You Need a Gun | 8.00% | ~1,690 |
+| I Do Belong Here | 7.00% | ~1,479 |
+| Keep Fighting | 7.00% | ~634 |
 | The Commonality | 5.00% | ~1,056 |
-| It's Time | 5.00% | ~452 |
+| It's Time | 5.00% | ~453 |
 | In Striking Distance | 4.00% | ~845 |
-| One Last Job | 3.00% | ~271 |
+| One Last Job | 3.00% | ~272 |
 | Big Spender | 2.00% | ~181 |
 | This Isn't About Escape | 2.00% | ~181 |
-| Armed to the Teeth | 1.00% | ~90 |
+| Armed to the Teeth | 1.00% | ~91 |
 | Mugshot | 1.00% | ~211 |
-| Instigator | 1.00% | ~90 |
+| Instigator | 1.00% | ~91 |
 | Grim Reaper | 0.90% | ~190 |
 | Information Overload | 0.90% | ~81 |
 | Parole Denied | 0.80% | ~72 |
 | Quick Pick | 0.70% | ~63 |
 | Subject Alpha | 0.60% | ~54 |
-| The Protocol is About Life | 0.40% | ~84 |
+| The Protocol is About Life | 0.40% | ~85 |
 | Hoard Mode | 0.30% | ~27 |
 | Don't Let It Mellow | 0.30% | ~27 |
 | Recidivist | 0.20% | ~18 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 950)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,113 (Ranked 151)  
+Progressed: 21,126 (Ranked 151)  
 Completed: 82 (0.39%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,20 +305,20 @@ Completed: 82 (0.39%) (Ranked 236)
 | 2024-01-02 | 20,695 | 82 |
 | 2024-01-03 | 20,833 | 82 |
 | 2024-01-04 | 20,995 | 82 |
-| 2024-01-05 | 21,113 | 82 |
+| 2024-01-05 | 21,126 | 82 |
 ## Awards
 Max (Amazing Characters): 120  (Ranked 354)  
-Sum: 581 (Ranked 324)  
+Sum: 586 (Ranked 324)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 120 |
 | This game is Highly Recommended | 106 |
 | This game is Extremely Fun | 106 |
+| This game has Amazing Storytelling | 104 |
 | This game has Quickly Understood Controls | 103 |
-| This game has Amazing Storytelling | 101 |
 | This game has Challenging Combat | 68 |
-| This game has a Creative Community | 45 |
+| This game has a Creative Community | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -514,4 +514,4 @@ Diff (max vs sum): 30
 | 2024-01-02 | 4.21 | 109 | 554 |
 | 2024-01-03 | 4.21 | 111 | 562 |
 | 2024-01-04 | 4.21 | 115 | 571 |
-| 2024-01-05 | 4.21 | 120 | 581 |
+| 2024-01-05 | 4.21 | 120 | 586 |

@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -2208,9 +2208,9 @@
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 127
     },
     {
       "ID": "FirstBox",
@@ -2232,9 +2232,9 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 70,
-      "UsersEstimate": 333
+      "UsersEstimate": 337
     },
     {
       "ID": "GameComplete",
@@ -2256,9 +2256,9 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 197
     },
     {
       "ID": "Hologram",
@@ -2303,8 +2303,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:03:53.2269322+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:04:31.5478499+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:23.201102+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:58:39.2158962+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:03:53.226947+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:59:24.2678339+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:04:31.5478681+00:00"
 }

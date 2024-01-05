@@ -6,16 +6,16 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,710 |
-| First Steps | 80.00% | ~35,880 |
+| Awakening | 93.00% | ~41,711 |
+| First Steps | 80.00% | ~35,881 |
 | Control the Shadows | 67.00% | ~30,050 |
 | Tools of the Trade | 63.00% | ~28,256 |
-| Apprentice | 60.00% | ~26,910 |
-| Secret Seeker | 57.00% | ~25,564 |
+| Apprentice | 60.00% | ~26,911 |
+| Secret Seeker | 57.00% | ~25,565 |
 | Forge of Assassins | 55.00% | ~24,668 |
-| Revenant | 52.00% | ~23,322 |
-| I don’t Care! | 45.00% | ~20,182 |
-| Bird of Prey | 37.00% | ~16,594 |
+| Revenant | 52.00% | ~23,323 |
+| I don’t Care! | 45.00% | ~20,183 |
+| Bird of Prey | 37.00% | ~16,595 |
 | Engraved with Power | 32.00% | ~14,352 |
 | Lady | 31.00% | ~13,904 |
 | Fashionable Assassin | 27.00% | ~12,110 |
@@ -33,15 +33,15 @@ Number of Ratings: 88  (23.09.2022)
 | Ruse | 12.00% | ~5,382 |
 | Master Ninja | 11.00% | ~4,934 |
 | Hatching | 10.00% | ~4,485 |
-| Bonds | 9.00% | ~4,036 |
-| Get Over Here | 9.00% | ~4,036 |
-| The Hidden Village | 9.00% | ~4,036 |
+| Bonds | 9.00% | ~4,037 |
+| Get Over Here | 9.00% | ~4,037 |
+| The Hidden Village | 9.00% | ~4,037 |
 | Denouement | 8.00% | ~3,588 |
 | A Pleasant Stay | 8.00% | ~3,588 |
 | Pilgrimage | 7.00% | ~3,140 |
-| The Lookout | 5.00% | ~2,242 |
-| The Spirit of Vengeance | 5.00% | ~2,242 |
-| Hollow | 5.00% | ~2,242 |
+| The Lookout | 5.00% | ~2,243 |
+| The Spirit of Vengeance | 5.00% | ~2,243 |
+| Hollow | 5.00% | ~2,243 |
 | Left Behind | 4.00% | ~1,794 |
 | Secrets of the Earth | 4.00% | ~1,794 |
 | Heart of Fire | 4.00% | ~1,794 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~897 |
 | Legacy | 2.00% | ~897 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,850 (Ranked 128)  
+Progressed: 44,851 (Ranked 128)  
 Completed: 248 (0.55%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 248 (0.55%) (Ranked 212)
 | 2024-01-02 | 44,767 | 247 |
 | 2024-01-03 | 44,793 | 248 |
 | 2024-01-04 | 44,826 | 248 |
-| 2024-01-05 | 44,850 | 248 |
+| 2024-01-05 | 44,851 | 248 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

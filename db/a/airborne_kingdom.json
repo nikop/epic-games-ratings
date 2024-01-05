@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7739,
+  "EOS_Progressed": 7740,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6768,6 +6768,11 @@
       "Time": "2024-01-05T14:05:39.7649559+00:00",
       "NumProgressed": 7739,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-05T18:07:09.3669758+00:00",
+      "NumProgressed": 7740,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6883,7 +6888,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -6947,7 +6952,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2631
+      "UsersEstimate": 2632
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6987,22 +6992,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7739,
+      "Progressed": 7740,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:05:44.344447+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:07:09.3669754+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.2887263+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:03:27.9988624+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:05:44.3445034+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:03:53.2055508+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:07:09.3670269+00:00"
 }

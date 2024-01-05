@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 615)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,662 |
+| Stylish | 11.00% | ~3,663 |
 | Advancement | 8.00% | ~2,664 |
 | Meticulously Efficient | 8.00% | ~2,664 |
 | Discovery | 6.00% | ~1,998 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 615)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,294 (Ranked 136)  
+Progressed: 33,299 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 71 (0.21%) (Ranked 271)
 | 2024-01-02 | 33,151 | 71 |
 | 2024-01-03 | 33,206 | 71 |
 | 2024-01-04 | 33,258 | 71 |
-| 2024-01-05 | 33,294 | 71 |
+| 2024-01-05 | 33,299 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 327  (Ranked 255)  
 Sum: 2,950 (Ranked 186)  

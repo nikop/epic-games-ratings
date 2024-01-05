@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 724)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,173 |
-| This is only the beginning | 20.00% | ~46,287 |
+| No aid from the Omnissiah | 26.00% | ~60,174 |
+| This is only the beginning | 20.00% | ~46,288 |
 | Knowledge is power | 13.00% | ~30,087 |
 | Galvanic Rifle | 10.00% | ~23,144 |
 | Radium Ready | 10.00% | ~23,144 |
-| Power Ranger | 9.00% | ~20,829 |
-| Taser Goad | 9.00% | ~20,829 |
-| Half a cog | 9.00% | ~20,829 |
+| Power Ranger | 9.00% | ~20,830 |
+| Taser Goad | 9.00% | ~20,830 |
+| Half a cog | 9.00% | ~20,830 |
 | Watch them crumble | 6.00% | ~13,886 |
-| Competent Cohort | 4.00% | ~9,257 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,257 |
-| One with the Machine | 4.00% | ~9,257 |
+| Competent Cohort | 4.00% | ~9,258 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,258 |
+| One with the Machine | 4.00% | ~9,258 |
 | Legio Cybernetica | 3.00% | ~6,943 |
 | Fleshy Disposal | 3.00% | ~6,943 |
 | Battle Servitor | 2.00% | ~4,629 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 724)
 | Impatient destruction | 2.00% | ~4,629 |
 | Vivisected Vizier | 2.00% | ~4,629 |
 | Architect Abortion | 2.00% | ~4,629 |
-| Cohortus Maximus | 0.80% | ~1,851 |
+| Cohortus Maximus | 0.80% | ~1,852 |
 | Mother of Xenarites | 0.40% | ~926 |
 | False God | 0.30% | ~694 |
 | Hard | 0.20% | ~463 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 724)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,436 (Ranked 76)  
+Progressed: 231,439 (Ranked 76)  
 Completed: 5 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 5 (0.00%) (Ranked 392)
 | 2024-01-02 | 231,204 | 5 |
 | 2024-01-03 | 231,298 | 5 |
 | 2024-01-04 | 231,373 | 5 |
-| 2024-01-05 | 231,436 | 5 |
+| 2024-01-05 | 231,439 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 264)  
 Sum: 2,224 (Ranked 210)  

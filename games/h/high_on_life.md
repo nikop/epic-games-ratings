@@ -26,7 +26,7 @@ Rating: 4.65 (Ranked 322)
 | Eatin' Good in the Neighborhood | 2.00% | ~501 |
 | Eye Scream, You Scream | 2.00% | ~501 |
 | Series Wrap on Suit-O | 2.00% | ~501 |
-| Bathe With A Giant Nude Alien | 2.00% | ~46 |
+| Bathe With A Giant Nude Alien | 2.00% | ~47 |
 | Gunning For Your Job | 1.00% | ~250 |
 | We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~250 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~23 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 322)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,030 (Ranked 145)  
+Progressed: 25,033 (Ranked 145)  
 Completed: 14 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 14 (0.06%) (Ranked 329)
 | 2024-01-02 | 24,999 | 14 |
 | 2024-01-03 | 25,006 | 14 |
 | 2024-01-04 | 25,022 | 14 |
-| 2024-01-05 | 25,030 | 14 |
+| 2024-01-05 | 25,033 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 198,
-  "Ranking_EOS_Completed": 322,
+  "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6098,
+  "EOS_Progressed": 6100,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12593,6 +12593,11 @@
       "Time": "2024-01-05T17:04:24.1364766+00:00",
       "NumProgressed": 6098,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-05T18:05:14.2451276+00:00",
+      "NumProgressed": 6100,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12637,7 +12642,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -12653,7 +12658,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12693,7 +12698,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12741,7 +12746,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -12773,7 +12778,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -12788,15 +12793,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6098,
+      "Progressed": 6100,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-05T17:04:24.1364762+00:00",
+  "LastChanged_Achievements": "2024-01-05T18:05:14.2451272+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:59:56.8886075+00:00",
-  "LastUpdate_Achievements": "2024-01-05T17:04:24.1365619+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:01:26.0967462+00:00",
+  "LastUpdate_Achievements": "2024-01-05T18:05:14.2451831+00:00"
 }
