@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3986,
+  "EOS_Progressed": 3988,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5457,6 +5457,11 @@
       "Time": "2024-01-05T03:06:06.5076258+00:00",
       "NumProgressed": 3986,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-05T19:07:17.4734153+00:00",
+      "NumProgressed": 3988,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5468,7 +5473,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "bonus2",
@@ -5516,7 +5521,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3470
     },
     {
       "ID": "campaign10",
@@ -5532,7 +5537,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "campaign12",
@@ -5588,7 +5593,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "campaign19",
@@ -5604,7 +5609,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "campaign20",
@@ -5620,7 +5625,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "campaign4",
@@ -5628,7 +5633,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "campaign5",
@@ -5652,7 +5657,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "campaign8",
@@ -5660,7 +5665,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "campaign9",
@@ -5668,7 +5673,7 @@
       "Name": "Boulder Clash",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "scenario1",
@@ -5676,7 +5681,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "scenario2",
@@ -5684,7 +5689,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "scenario3",
@@ -5708,7 +5713,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "scenario6",
@@ -5716,7 +5721,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "scenario7",
@@ -5731,7 +5736,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3986,
+      "Progressed": 3988,
       "Completed": 11
     }
   ],
@@ -5739,8 +5744,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:06:46.2426949+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:07:17.473415+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:59:26.7899693+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:06:46.2427494+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:00:16.8063424+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:07:17.4734577+00:00"
 }

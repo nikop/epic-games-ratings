@@ -14,7 +14,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Capacity | 54.00% | ~235 |
 | Just the start | 48.00% | ~209 |
 | Perfect Storm | 46.00% | ~200 |
-| All That Glitters | 45.00% | ~196 |
+| All That Glitters | 46.00% | ~200 |
 | Enhance! | 42.00% | ~183 |
 | One Of the Chosen | 40.00% | ~174 |
 | Throne Potato | 39.00% | ~170 |
@@ -24,10 +24,10 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 37.00% | ~161 |
 | Soul Harvester | 35.00% | ~152 |
 | Unshakable Fortitude | 34.00% | ~148 |
+| I Wanna Rock | 32.00% | ~139 |
 | Delusions of Grandeur | 32.00% | ~139 |
-| I Wanna Rock | 31.00% | ~135 |
+| Love Tap | 31.00% | ~135 |
 | Maximum Vigor | 30.00% | ~130 |
-| Love Tap | 30.00% | ~130 |
 | Freeze Frame | 27.00% | ~117 |
 | Eat Your Heart Out | 27.00% | ~117 |
 | For Whom the Bell Tolls | 27.00% | ~117 |
@@ -36,40 +36,40 @@ Number of Ratings: 116  (23.09.2022)
 | Big Spender | 24.00% | ~104 |
 | Crowd Source | 23.00% | ~100 |
 | Cleanup Crew | 22.00% | ~96 |
+| Demon Meddler | 21.00% | ~91 |
+| Seeing Red | 21.00% | ~91 |
 | Maximum Capacity | 20.00% | ~87 |
-| Demon Meddler | 20.00% | ~87 |
-| Seeing Red | 20.00% | ~87 |
 | Egomaniac | 19.00% | ~83 |
 | Protector of Humanity | 17.00% | ~74 |
 | Everybody Wants to Rule the World | 17.00% | ~74 |
 | Community Outreach | 15.00% | ~65 |
+| Unbreakable Will | 13.00% | ~57 |
 | A Parting Gift | 13.00% | ~57 |
 | Path of the Horseman | 13.00% | ~57 |
-| Unbreakable Will | 12.00% | ~52 |
+| Take it to the Limit | 12.00% | ~52 |
 | Holy Keeper | 11.00% | ~48 |
 | Demon Keeper | 11.00% | ~48 |
-| Take it to the Limit | 11.00% | ~48 |
 | Soul Reaper | 8.00% | ~35 |
-| Humanitarian | 7.00% | ~30 |
+| Humanitarian | 8.00% | ~35 |
 | My Evil Twin | 6.00% | ~26 |
 | Made of Sterner Stuff | 6.00% | ~26 |
 | Keeper of the Bonfire | 5.00% | ~22 |
 | Keeper of the Sky | 5.00% | ~22 |
 | Purity of Power | 4.00% | ~17 |
+| Balance in all things | 4.00% | ~17 |
 | "Impressive!" | 4.00% | ~17 |
 | Keeper of the Vale | 4.00% | ~17 |
-| Balance in all things | 3.00% | ~13 |
+| Keeper of the Tempo | 4.00% | ~17 |
+| BFA | 4.00% | ~17 |
 | "Incredible!" | 3.00% | ~13 |
+| Proceed on your way to Armageddon | 3.00% | ~13 |
 | Keeper of Colossal Automata | 3.00% | ~13 |
-| Keeper of the Tempo | 3.00% | ~13 |
 | Keep it 100! | 3.00% | ~13 |
-| BFA | 3.00% | ~13 |
 | "Apocalyptic!" | 2.00% | ~9 |
 | "Amazing!" | 2.00% | ~9 |
 | Death Incarnate | 2.00% | ~9 |
-| Proceed on your way to Armageddon | 2.00% | ~9 |
-| Quite Proper | 0.70% | ~3 |
-| Beast Mode | 0.50% | ~2 |
+| Quite Proper | 0.90% | ~4 |
+| Beast Mode | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 435 (Ranked 358)  
 Completed: 1 (0.23%) (Ranked 267)  

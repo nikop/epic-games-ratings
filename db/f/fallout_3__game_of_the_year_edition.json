@@ -4,10 +4,10 @@
   "ProductSlug": "fallout-3-game-of-the-year-edition",
   "Ranking_Rating": 445,
   "Ranking_Popularity": 28,
-  "Ranking_PopularitySum": 50,
+  "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
@@ -6875,18 +6875,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 29919,
       "NumberOfAwardsMax": 14539
+    },
+    {
+      "Time": "2024-01-05T18:58:55.508621+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 29968,
+      "NumberOfAwardsMax": 14582
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29919,
-  "NumberOfAwardsMax": 14539,
+  "NumberOfAwards": 29968,
+  "NumberOfAwardsMax": 14582,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 14539
+      "Count": 14582
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6952,7 +6958,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1721
+      "Count": 1727
     }
   ],
   "EOS_Progressed": 0,
@@ -6967,8 +6973,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-05T16:57:44.7082439+00:00",
+  "LastChanged": "2024-01-05T18:58:55.5086208+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.7164037+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:58:00.9108555+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:07:36.5938923+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:58:55.5086213+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:08:06.2396975+00:00"
 }

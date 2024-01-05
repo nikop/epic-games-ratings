@@ -2,13 +2,13 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 546,
+  "Ranking_Rating": 547,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,7 +294,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 321,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
@@ -1544,6 +1544,11 @@
       "Time": "2024-01-05T17:09:18.7378286+00:00",
       "NumProgressed": 320,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T19:10:16.2745905+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1556,7 +1561,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1572,7 +1577,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1682,9 +1687,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1692,7 +1697,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1714,9 +1719,9 @@
       "ID": "ACH_ENTER_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1756,7 +1761,7 @@
       "Name": "Die Nasty",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1802,9 +1807,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1890,9 +1895,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1907,7 +1912,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 321,
       "Completed": 2
     }
   ],
@@ -1915,8 +1920,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:10:10.9123429+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:10:16.2745902+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:00:29.3394194+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:10:10.9123913+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:01:14.2930972+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:10:16.2746229+00:00"
 }

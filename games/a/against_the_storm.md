@@ -6,16 +6,16 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 8.00% | ~1,616 |
-| Abandoned Settlement | 8.00% | ~1,616 |
-| Overgrown Library | 8.00% | ~1,616 |
-| First Real Expedition | 7.00% | ~1,414 |
-| No Deaths | 7.00% | ~1,414 |
-| Petrified Necropolis | 7.00% | ~1,414 |
-| Overcoming Difficulty | 6.00% | ~1,212 |
-| Coral Forest | 6.00% | ~1,212 |
-| The Marshlands | 6.00% | ~1,212 |
-| Gathering Storm | 6.00% | ~1,212 |
+| Taking Action | 8.00% | ~1,617 |
+| Abandoned Settlement | 8.00% | ~1,617 |
+| Overgrown Library | 8.00% | ~1,617 |
+| First Real Expedition | 7.00% | ~1,415 |
+| No Deaths | 7.00% | ~1,415 |
+| Petrified Necropolis | 7.00% | ~1,415 |
+| Overcoming Difficulty | 6.00% | ~1,213 |
+| Coral Forest | 6.00% | ~1,213 |
+| The Marshlands | 6.00% | ~1,213 |
+| Gathering Storm | 6.00% | ~1,213 |
 | The Scarlet Orchard | 5.00% | ~1,010 |
 | Frosts | 5.00% | ~1,010 |
 | Land of Greed | 5.00% | ~1,010 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,206 (Ranked 154)  
+Progressed: 20,209 (Ranked 154)  
 Completed: 33 (0.16%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,10 +326,10 @@ Completed: 33 (0.16%) (Ranked 280)
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
-| 2024-01-05 | 20,206 | 33 |
+| 2024-01-05 | 20,209 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 448  (Ranked 230)  
-Sum: 3,334 (Ranked 176)  
+Sum: 3,337 (Ranked 176)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -338,7 +338,7 @@ Diff (max vs sum): 54
 | This game is Great for Beginners | 440 |
 | This game is Extremely Fun | 418 |
 | This game is Highly Recommended | 401 |
-| This game has Unique Visuals | 341 |
+| This game has Unique Visuals | 344 |
 | This game has Amazing Storytelling | 329 |
 | This game has Amazing Characters | 293 |
 | This game has Obsessive Gameplay | 254 |
@@ -621,4 +621,4 @@ Diff (max vs sum): 54
 | 2024-01-02 | 4.82 | - | 447 | 3,320 |
 | 2024-01-03 | 4.82 | - | 447 | 3,324 |
 | 2024-01-04 | 4.82 | - | 448 | 3,331 |
-| 2024-01-05 | 4.82 | - | 448 | 3,334 |
+| 2024-01-05 | 4.82 | - | 448 | 3,337 |

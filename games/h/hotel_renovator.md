@@ -1,17 +1,17 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.34 (Ranked 835)  
+Rating: 4.34 (Ranked 834)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~1,064 |
-| And so it begins | 72.00% | ~1,008 |
-| No pressure | 70.00% | ~980 |
-| Memento | 60.00% | ~840 |
-| Let there be light | 56.00% | ~784 |
-| I think you dropped this | 52.00% | ~728 |
-| Soulmate? | 51.00% | ~714 |
+| Good start | 76.00% | ~1,065 |
+| And so it begins | 72.00% | ~1,009 |
+| No pressure | 70.00% | ~981 |
+| Memento | 60.00% | ~841 |
+| Let there be light | 56.00% | ~785 |
+| I think you dropped this | 52.00% | ~729 |
+| Soulmate? | 51.00% | ~715 |
 | Excellent service | 47.00% | ~658 |
 | Roll with it | 44.00% | ~616 |
 | Humble beginnings | 42.00% | ~588 |
@@ -33,8 +33,8 @@ Rating: 4.34 (Ranked 835)
 | King of hospitality | 11.00% | ~154 |
 | Top spot in town | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,400 (Ranked 269)  
-Completed: 18 (1.29%) (Ranked 155)  
+Progressed: 1,401 (Ranked 269)  
+Completed: 18 (1.28%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -239,7 +239,7 @@ Completed: 18 (1.29%) (Ranked 155)
 | 2024-01-02 | 1,383 | 18 |
 | 2024-01-03 | 1,384 | 18 |
 | 2024-01-04 | 1,397 | 18 |
-| 2024-01-05 | 1,400 | 18 |
+| 2024-01-05 | 1,401 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,21 +5,21 @@ Rating: 4.55 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,956 |
-| Pay 'n' Spray | 50.00% | ~9,232 |
-| All Dressed Up for San Fierro | 25.00% | ~4,616 |
-| The American Dream | 19.00% | ~3,508 |
-| School's Out | 18.00% | ~3,324 |
-| Smooth Moves | 16.00% | ~2,954 |
-| Today Was a Good Day | 15.00% | ~2,770 |
-| What happens in Las Venturas... | 14.00% | ~2,585 |
-| Horror of the Santa Maria | 10.00% | ~1,846 |
+| Getting Started | 81.00% | ~14,962 |
+| Pay 'n' Spray | 50.00% | ~9,236 |
+| All Dressed Up for San Fierro | 25.00% | ~4,618 |
+| The American Dream | 19.00% | ~3,510 |
+| School's Out | 18.00% | ~3,325 |
+| Smooth Moves | 17.00% | ~3,140 |
+| Today Was a Good Day | 15.00% | ~2,771 |
+| What happens in Las Venturas... | 14.00% | ~2,586 |
+| Horror of the Santa Maria | 10.00% | ~1,847 |
 | Liberty City State of Mind | 9.00% | ~1,662 |
-| Original Gangster | 8.00% | ~1,477 |
-| With Extra Dip | 7.00% | ~1,292 |
-| The End of the Line | 7.00% | ~1,292 |
+| Original Gangster | 8.00% | ~1,478 |
+| With Extra Dip | 7.00% | ~1,293 |
+| The End of the Line | 7.00% | ~1,293 |
 | Saviour | 6.00% | ~1,108 |
-| Rescue a Kitten Too? | 5.00% | ~923 |
+| Rescue a Kitten Too? | 5.00% | ~924 |
 | They Can’t Stop All of Us | 4.00% | ~739 |
 | What are the Odds | 4.00% | ~739 |
 | Bike or Biker | 3.00% | ~554 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 523)
 | ...Here we go again | 0.50% | ~92 |
 | I Ain't No Buster | 0.40% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,464 (Ranked 158)  
+Progressed: 18,472 (Ranked 158)  
 Completed: 72 (0.39%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,10 +301,10 @@ Completed: 72 (0.39%) (Ranked 236)
 | 2024-01-02 | 18,093 | 70 |
 | 2024-01-03 | 18,207 | 71 |
 | 2024-01-04 | 18,344 | 72 |
-| 2024-01-05 | 18,464 | 72 |
+| 2024-01-05 | 18,472 | 72 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 441)  
-Sum: 349 (Ranked 368)  
+Sum: 350 (Ranked 368)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
@@ -314,7 +314,7 @@ Diff (max vs sum): 73
 | This game is Great for Beginners | 49 |
 | This game has Amazing Storytelling | 45 |
 | This game is Highly Recommended | 43 |
-| This game has Diverse Characters | 37 |
+| This game has Diverse Characters | 38 |
 | This game is Extremely Fun | 36 |
 | This game has Quickly Understood Controls | 35 |
 | This game has a Creative Community | 29 |
@@ -542,4 +542,4 @@ Diff (max vs sum): 73
 | 2024-01-02 | 4.55 | 49 | 324 |
 | 2024-01-03 | 4.55 | 50 | 330 |
 | 2024-01-04 | 4.55 | 52 | 341 |
-| 2024-01-05 | 4.55 | 54 | 349 |
+| 2024-01-05 | 4.55 | 54 | 350 |

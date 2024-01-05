@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -701,9 +701,9 @@
       "ID": "deal_or_no_deal",
       "SetID": "a3kkelb",
       "Name": "Deal Or No Deal",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "hopeful",
@@ -830,8 +830,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:04:18.1963042+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:04:53.4018748+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:35.4264884+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:01:38.0113813+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:04:18.1963178+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:02:18.7085081+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:04:53.4018891+00:00"
 }

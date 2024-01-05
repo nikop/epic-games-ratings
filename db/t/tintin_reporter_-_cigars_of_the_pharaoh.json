@@ -564,9 +564,9 @@
       "ID": "Achievement1",
       "SetID": "9fa3l5n",
       "Name": "My Papyrus!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Achievement10",
@@ -867,8 +867,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:04:31.5418884+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:05:06.313743+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:40.8073713+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:58:51.5038916+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:04:31.5419144+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:59:44.1683843+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:05:06.3137721+00:00"
 }

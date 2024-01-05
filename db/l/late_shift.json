@@ -3,9 +3,9 @@
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 292,
-  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 959,
-  "EOS_Completed": 12,
-  "EOS_NewPlayers": 85,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.25,
+  "EOS_Progressed": 960,
+  "EOS_Completed": 13,
+  "EOS_NewPlayers": 84,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -2660,6 +2660,11 @@
       "Time": "2024-01-05T18:10:42.6601514+00:00",
       "NumProgressed": 959,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-05T19:10:46.4313136+00:00",
+      "NumProgressed": 960,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -2671,7 +2676,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2759,7 +2764,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "GOOD_KARMA",
@@ -2815,7 +2820,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -2830,16 +2835,16 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 959,
-      "Completed": 12
+      "Progressed": 960,
+      "Completed": 13
     }
   ],
   "FirstSeen": "2022-10-26T23:03:57.7405896+00:00",
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:10:42.6601511+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:10:46.4313133+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.9335088+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:59:44.9244655+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:10:42.6601777+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:00:34.7539775+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:10:46.4313483+00:00"
 }

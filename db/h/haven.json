@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1894,
+  "EOS_Progressed": 1895,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3344,6 +3344,11 @@
       "Time": "2024-01-05T18:06:20.8007149+00:00",
       "NumProgressed": 1894,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T19:06:52.6877971+00:00",
+      "NumProgressed": 1895,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3355,7 +3360,7 @@
       "Name": "Lovebirds",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "10",
@@ -3403,7 +3408,7 @@
       "Name": "Back to rust",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "16",
@@ -3443,7 +3448,7 @@
       "Name": "Flower Powered",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "20",
@@ -3594,15 +3599,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1894,
+      "Progressed": 1895,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:06:20.8007145+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:06:52.6877966+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:01:51.5298833+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:06:20.8007417+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:02:31.1810232+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:06:52.6878393+00:00"
 }

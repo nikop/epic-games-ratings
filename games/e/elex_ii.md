@@ -6,11 +6,11 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 40.00% | ~73 |
+| Entrepreneur | 40.00% | ~74 |
 | Best Buddy | 32.00% | ~59 |
-| Civilian | 31.00% | ~57 |
-| Role Model | 28.00% | ~51 |
-| Creator | 25.00% | ~46 |
+| Civilian | 30.00% | ~55 |
+| Role Model | 28.00% | ~52 |
+| Creator | 24.00% | ~44 |
 | Festival-goer | 24.00% | ~44 |
 | Peddler | 23.00% | ~42 |
 | Military Leader | 22.00% | ~40 |
@@ -19,11 +19,11 @@ Number of Ratings: 124  (23.09.2022)
 | Long-Haul Flyer | 14.00% | ~26 |
 | Family Reunion | 13.00% | ~24 |
 | Pass A38 | 13.00% | ~24 |
+| Berserker | 11.00% | ~20 |
 | Eternal Oblivion | 11.00% | ~20 |
 | Storyteller | 10.00% | ~18 |
 | Globetrotter | 10.00% | ~18 |
-| Berserker | 10.00% | ~18 |
-| Alb | 9.00% | ~16 |
+| Alb | 9.00% | ~17 |
 | Banker | 7.00% | ~13 |
 | Beam Me Up | 7.00% | ~13 |
 | Hunter | 7.00% | ~13 |
@@ -34,11 +34,11 @@ Number of Ratings: 124  (23.09.2022)
 | Perfectionist | 5.00% | ~9 |
 | Cleric | 4.00% | ~7 |
 | Detective | 4.00% | ~7 |
-| Weaponsmith | 3.00% | ~5 |
-| Alchemist | 3.00% | ~5 |
-| Self-Sufficient | 3.00% | ~5 |
-| Unbreakable | 3.00% | ~5 |
-| Morkon | 3.00% | ~5 |
+| Weaponsmith | 3.00% | ~6 |
+| Alchemist | 3.00% | ~6 |
+| Self-Sufficient | 3.00% | ~6 |
+| Unbreakable | 3.00% | ~6 |
+| Morkon | 3.00% | ~6 |
 | Idealist | 2.00% | ~4 |
 | Toy Time | 2.00% | ~4 |
 | Destroyer | 2.00% | ~4 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 430)  
+Progressed: 184 (Ranked 429)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 167 | 0 |
 | 2024-01-03 | 172 | 0 |
 | 2024-01-04 | 177 | 0 |
-| 2024-01-05 | 183 | 0 |
+| 2024-01-05 | 184 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finish Him | 89.00% | ~59 |
-| Just a Taste | 74.00% | ~49 |
-| Strange Skulls | 59.00% | ~39 |
-| Treasure Hunter | 56.00% | ~37 |
+| Finish Him | 90.00% | ~60 |
+| Just a Taste | 75.00% | ~50 |
+| Strange Skulls | 58.00% | ~39 |
+| Treasure Hunter | 55.00% | ~37 |
 | Crab Cakes | 48.00% | ~32 |
 | Personally Punched | 27.00% | ~18 |
-| Flight of the Raven | 23.00% | ~15 |
-| Drop In | 20.00% | ~13 |
-| The Last Bullet | 14.00% | ~9 |
+| Flight of the Raven | 22.00% | ~15 |
+| Drop In | 19.00% | ~13 |
+| The Last Bullet | 13.00% | ~9 |
 | Champion of Light | 12.00% | ~8 |
-| Betrayed | 11.00% | ~7 |
-| Parting Gift | 11.00% | ~7 |
+| Betrayed | 10.00% | ~7 |
+| Parting Gift | 10.00% | ~7 |
 | Skullector | 6.00% | ~4 |
-| Chainsplosion! | 5.00% | ~3 |
-| Stomach Ache | 5.00% | ~3 |
-| Survived to Sunrise | 5.00% | ~3 |
+| Chainsplosion! | 4.00% | ~3 |
+| Stomach Ache | 4.00% | ~3 |
+| Survived to Sunrise | 4.00% | ~3 |
 | Walking on Air | 3.00% | ~2 |
-| Coffin Kicker | 2.00% | ~1 |
-| Collateral | 2.00% | ~1 |
-| A Foot Face? | 2.00% | ~1 |
-| That Funky Puncher | 2.00% | ~1 |
-| Ms. Perfect | 2.00% | ~1 |
-| Skulltastic | 2.00% | ~1 |
+| Coffin Kicker | 1.00% | ~1 |
+| Collateral | 1.00% | ~1 |
+| A Foot Face? | 1.00% | ~1 |
+| That Funky Puncher | 1.00% | ~1 |
+| Ms. Perfect | 1.00% | ~1 |
+| Skulltastic | 1.00% | ~1 |
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 526)  
+Progressed: 67 (Ranked 526)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,6 +55,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-19 | 64 | 0 |
 | 2023-12-23 | 65 | 0 |
 | 2023-12-30 | 66 | 0 |
+| 2024-01-05 | 67 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

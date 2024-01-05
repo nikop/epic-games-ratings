@@ -3,8 +3,8 @@
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
   "Ranking_Rating": 950,
-  "Ranking_Popularity": 406,
-  "Ranking_PopularitySum": 482,
+  "Ranking_Popularity": 403,
+  "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 53,
@@ -441,11 +441,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 77,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2024-01-05T18:59:44.5001429+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 78,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 77,
-  "NumberOfAwardsMax": 77,
+  "NumberOfAwards": 78,
+  "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -458,12 +464,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 77
+      "Count": 78
     }
   ],
-  "EOS_Progressed": 341302,
+  "EOS_Progressed": 341323,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3876,
+  "EOS_NewPlayers": 3875,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12271,6 +12277,11 @@
       "Time": "2024-01-05T18:09:41.9693395+00:00",
       "NumProgressed": 341302,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T19:09:47.8141183+00:00",
+      "NumProgressed": 341323,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12283,7 +12294,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13652
+      "UsersEstimate": 13653
     },
     {
       "ID": "S02_BRDA",
@@ -12291,7 +12302,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10239
+      "UsersEstimate": 10240
     },
     {
       "ID": "S03_OTWA",
@@ -12419,7 +12430,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17065
+      "UsersEstimate": 17066
     },
     {
       "ID": "S19_CHALLENGES",
@@ -12602,16 +12613,16 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 341302,
+      "Progressed": 341323,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-28T19:01:10.9639356+00:00",
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged": "2024-01-01T23:01:20.9565561+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:09:41.9693347+00:00",
+  "LastChanged": "2024-01-05T18:59:44.5001428+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:09:47.8141179+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.1079824+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:58:51.7641127+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:09:41.9694208+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:59:44.5001432+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:09:47.8142149+00:00"
 }

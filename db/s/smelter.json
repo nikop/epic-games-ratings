@@ -4,7 +4,7 @@
   "ProductSlug": "smelter-97a47b",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewPlayers": 520,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -226,9 +226,9 @@
       "ID": "SMELTER_FARM_BONUS",
       "SetID": "1g58k92",
       "Name": "Orcharion Boost",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SMELTER_FELZAPPER",
@@ -555,8 +555,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:11:17.5795782+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:11:20.0493366+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.7188107+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:59:06.8046694+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:11:17.5796175+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:59:58.8432216+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:11:20.0493777+00:00"
 }

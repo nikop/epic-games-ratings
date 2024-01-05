@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 46457,
+  "EOS_Progressed": 46461,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 839,
+  "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17761,6 +17761,11 @@
       "Time": "2024-01-05T18:04:16.8693494+00:00",
       "NumProgressed": 46457,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-05T19:04:52.2460279+00:00",
+      "NumProgressed": 46461,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17932,7 +17937,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -17988,7 +17993,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -18108,7 +18113,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5110
+      "UsersEstimate": 5111
     },
     {
       "ID": "SPRING_ALL",
@@ -18195,22 +18200,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46457,
+      "Progressed": 46461,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11294,
-      "Completed": 11294
+      "Progressed": 11298,
+      "Completed": 11298
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-05T09:03:07.6217814+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:04:16.869349+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:04:52.2460276+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:03:17.0668122+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:04:16.8694663+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:03:55.4499972+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:04:52.2461338+00:00"
 }

@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25033,
+  "EOS_Progressed": 25034,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8731,6 +8731,11 @@
       "Time": "2024-01-05T18:09:29.8633807+00:00",
       "NumProgressed": 25033,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-05T19:09:36.3141647+00:00",
+      "NumProgressed": 25034,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8988,9 +8993,9 @@
       "ID": "ACH_SUITO_SUICIDE",
       "SetID": "cdkbb11",
       "Name": "Series Wrap on Suit-O",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH_CHARGED_BALL_KILLS",
@@ -9093,13 +9098,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25033,
+      "Progressed": 25034,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2326,
+      "Progressed": 2327,
       "Completed": 1376
     }
   ],
@@ -9107,8 +9112,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:09:29.8633804+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:09:36.3141643+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.3334267+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:03:24.2799995+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:09:29.8634396+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:04:02.2778241+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:09:36.3142422+00:00"
 }

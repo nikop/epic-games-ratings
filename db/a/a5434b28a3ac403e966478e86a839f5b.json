@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 882,
+  "EOS_Progressed": 883,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -3050,6 +3050,11 @@
       "Time": "2024-01-05T18:09:42.7910565+00:00",
       "NumProgressed": 882,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T19:09:48.5184982+00:00",
+      "NumProgressed": 883,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3062,7 +3067,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 14,
       "XP": 120,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_eou1",
@@ -3070,7 +3075,7 @@
       "Name": "Establish Communications",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_eou2",
@@ -3078,7 +3083,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_eou3",
@@ -3102,7 +3107,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_eou6",
@@ -3118,7 +3123,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_eou8",
@@ -3165,14 +3170,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 882,
+      "Progressed": 883,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:09:42.7910561+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:09:48.5184978+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:57:23.4527635+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:09:42.7910795+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:58:19.4977691+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:09:48.5185223+00:00"
 }

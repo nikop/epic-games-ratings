@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1093,
+  "EOS_Progressed": 1095,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4249,6 +4249,11 @@
       "Time": "2024-01-05T18:11:23.4117445+00:00",
       "NumProgressed": 1093,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T19:11:25.547306+00:00",
+      "NumProgressed": 1095,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4276,7 +4281,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "BigPlane",
@@ -4284,7 +4289,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "BudgetFlight",
@@ -4292,7 +4297,7 @@
       "Name": "Budget Flight",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "Calculated",
@@ -4324,7 +4329,7 @@
       "Name": "Debtor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -4348,7 +4353,7 @@
       "Name": "Fifty",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "First",
@@ -4460,7 +4465,7 @@
       "Name": "New Record",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "NoTimeForModernization",
@@ -4476,7 +4481,7 @@
       "Name": "No Way Back",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "NotPlanned",
@@ -4532,7 +4537,7 @@
       "Name": "Resource Economy",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "Restructuring",
@@ -4595,14 +4600,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1093,
+      "Progressed": 1095,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:11:23.411744+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:11:25.5473056+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.0647724+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:57:54.3762185+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:11:23.4118138+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:58:49.2664771+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:11:25.5473615+00:00"
 }

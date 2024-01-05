@@ -4,7 +4,7 @@
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
   "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 520,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -145,6 +145,11 @@
       "Time": "2023-12-30T19:12:44.5255138+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T19:11:20.6780661+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -154,7 +159,7 @@
       "ID": "Betrayed",
       "SetID": "6jf74lf",
       "Name": "Betrayed",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -162,7 +167,7 @@
       "ID": "Chainsplosion",
       "SetID": "6jf74lf",
       "Name": "Chainsplosion!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -178,7 +183,7 @@
       "ID": "CoffinKicker",
       "SetID": "6jf74lf",
       "Name": "Coffin Kicker",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -186,7 +191,7 @@
       "ID": "Collateral",
       "SetID": "6jf74lf",
       "Name": "Collateral",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "DropIn",
       "SetID": "6jf74lf",
       "Name": "Drop In",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -218,15 +223,15 @@
       "ID": "FinishHim",
       "SetID": "6jf74lf",
       "Name": "Finish Him",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "FlightOfTheRaven",
       "SetID": "6jf74lf",
       "Name": "Flight of the Raven",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -234,7 +239,7 @@
       "ID": "FootFace",
       "SetID": "6jf74lf",
       "Name": "A Foot Face?",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -242,7 +247,7 @@
       "ID": "FunkyPuncher",
       "SetID": "6jf74lf",
       "Name": "That Funky Puncher",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -250,15 +255,15 @@
       "ID": "JustATaste",
       "SetID": "6jf74lf",
       "Name": "Just a Taste",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LastBullet",
       "SetID": "6jf74lf",
       "Name": "The Last Bullet",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -266,7 +271,7 @@
       "ID": "MsPerfect",
       "SetID": "6jf74lf",
       "Name": "Ms. Perfect",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -274,7 +279,7 @@
       "ID": "PartingGift",
       "SetID": "6jf74lf",
       "Name": "Parting Gift",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -298,7 +303,7 @@
       "ID": "Skulltastic",
       "SetID": "6jf74lf",
       "Name": "Skulltastic",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -306,7 +311,7 @@
       "ID": "StomachAche",
       "SetID": "6jf74lf",
       "Name": "Stomach Ache",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -314,7 +319,7 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -322,7 +327,7 @@
       "ID": "ToSunrise",
       "SetID": "6jf74lf",
       "Name": "Survived to Sunrise",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -330,7 +335,7 @@
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
       "UsersEstimate": 37
     },
@@ -347,7 +352,7 @@
     {
       "ID": "6jf74lf",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
@@ -355,8 +360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:11:18.171066+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:11:20.6780658+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:54.3740528+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:59:39.5304193+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:11:18.171081+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:00:29.8272702+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:11:20.6780833+00:00"
 }

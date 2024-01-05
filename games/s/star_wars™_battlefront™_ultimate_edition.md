@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,288 |
-| Off to a good start | 62.00% | ~1,631 |
-| Do... or do not. There is no try | 52.00% | ~1,368 |
+| New Recruit | 87.00% | ~2,291 |
+| Off to a good start | 62.00% | ~1,632 |
+| Do... or do not. There is no try | 52.00% | ~1,369 |
 | A good blaster at your side | 25.00% | ~658 |
-| I suggest a new strategy | 17.00% | ~447 |
+| I suggest a new strategy | 17.00% | ~448 |
 | Great shot, kid! | 16.00% | ~421 |
-| Scrap collector | 15.00% | ~394 |
-| All right, I'll give it a try | 15.00% | ~394 |
+| Scrap collector | 15.00% | ~395 |
+| All right, I'll give it a try | 15.00% | ~395 |
 | The power of the Force | 12.00% | ~316 |
 | Collector | 12.00% | ~316 |
 | Together we can rule the galaxy | 12.00% | ~316 |
 | Shoot first | 12.00% | ~316 |
-| Tell Jabba that I've got his money | 8.00% | ~210 |
-| Best star-pilot in the galaxy | 8.00% | ~210 |
+| Tell Jabba that I've got his money | 8.00% | ~211 |
+| Best star-pilot in the galaxy | 8.00% | ~211 |
 | Never tell me the odds! | 7.00% | ~184 |
 | Survivor | 7.00% | ~184 |
 | What's the cargo? | 6.00% | ~158 |
@@ -46,10 +46,10 @@
 | This is a new day, a new beginning | 1.00% | ~26 |
 | City in the Clouds | 1.00% | ~26 |
 | Alternative solution | 1.00% | ~26 |
-| Onwards! | 1.00% | ~26 |
 | The circle is now complete | 1.00% | ~26 |
 | Disturbed tranquility | 1.00% | ~26 |
 | Playing the objective | 0.90% | ~24 |
+| Onwards! | 0.90% | ~24 |
 | Walker defender | 0.80% | ~21 |
 | You have your moments | 0.80% | ~21 |
 | When surrounded by war... | 0.70% | ~18 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,630 (Ranked 232)  
+Progressed: 2,633 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 1 (0.04%) (Ranked 347)
 | 2024-01-02 | 2,520 | 1 |
 | 2024-01-03 | 2,563 | 1 |
 | 2024-01-04 | 2,595 | 1 |
-| 2024-01-05 | 2,630 | 1 |
+| 2024-01-05 | 2,633 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

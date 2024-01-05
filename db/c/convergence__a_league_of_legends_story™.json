@@ -57,11 +57,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1238,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.49,
+  "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -3652,6 +3652,11 @@
       "Time": "2024-01-05T18:11:27.6777959+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T19:11:29.721619+00:00",
+      "NumProgressed": 1238,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3679,7 +3684,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ChestCompletion1",
@@ -3687,7 +3692,7 @@
       "Name": "Treasure Trove",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3783,7 +3788,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3855,7 +3860,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "MapCompletion1",
@@ -3911,7 +3916,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ParryRepeated1",
@@ -3919,7 +3924,7 @@
       "Name": "No, Thanks!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3959,7 +3964,7 @@
       "Name": "Honest Mistake",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4015,7 +4020,7 @@
       "Name": "Syron for Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "TemporalPulseKills1",
@@ -4023,7 +4028,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "TheaterChests1",
@@ -4039,7 +4044,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "WarwickDefeated",
@@ -4047,7 +4052,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "WatcherFought",
@@ -4086,7 +4091,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1238,
       "Completed": 6
     }
   ],
@@ -4094,8 +4099,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:11:27.6777954+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:11:29.7216188+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:57:27.5568991+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:11:27.677864+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:58:23.5216617+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:11:29.7216737+00:00"
 }

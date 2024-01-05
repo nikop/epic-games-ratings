@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 969,
+  "EOS_Progressed": 970,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4177,6 +4177,11 @@
       "Time": "2024-01-05T18:10:52.5395666+00:00",
       "NumProgressed": 969,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T19:10:55.7250945+00:00",
+      "NumProgressed": 970,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4362,9 +4367,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 592
     },
     {
       "ID": "Packing20",
@@ -4412,7 +4417,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ServiceMaxClient",
@@ -4507,7 +4512,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 969,
+      "Progressed": 970,
       "Completed": 0
     }
   ],
@@ -4515,8 +4520,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-05T14:58:53.6267944+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:10:52.5395662+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:10:55.7250939+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.9361067+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:00:07.0601414+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:10:52.5396117+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:00:53.7517989+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:10:55.7251611+00:00"
 }

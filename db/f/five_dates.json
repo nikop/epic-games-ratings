@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1984,
+  "EOS_Progressed": 1987,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3730,6 +3730,11 @@
       "Time": "2024-01-05T18:11:11.5817257+00:00",
       "NumProgressed": 1984,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-05T19:11:14.2949018+00:00",
+      "NumProgressed": 1987,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3741,7 +3746,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1947
     },
     {
       "ID": "booty_call",
@@ -3765,7 +3770,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1908
     },
     {
       "ID": "hold_my_beer",
@@ -3773,7 +3778,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1212
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3821,7 +3826,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "planting_the_seed",
@@ -3829,7 +3834,7 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "smooth_criminal",
@@ -3853,14 +3858,14 @@
       "Name": "We Go Again",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1984,
+      "Progressed": 1987,
       "Completed": 12
     }
   ],
@@ -3868,8 +3873,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:11:11.5817254+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:11:14.2949013+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:57:53.264441+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:11:11.5817816+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:58:48.3362861+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:11:14.2949309+00:00"
 }

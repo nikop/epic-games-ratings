@@ -1,11 +1,11 @@
 # shapez
 [Store](https://store.epicgames.com/en-US/p/shapez-0929c9)  
 [View Rawdata](../../db/s/shapez.json)  
-Rating: 4.71 (Ranked 203)  
+Rating: 4.71 (Ranked 202)  
 ## Awards
-Max (Quickly Understood Controls): 22  (Ranked 563)  
+Max (Quickly Understood Controls): 22  (Ranked 564)  
 Sum: 64 (Ranked 494)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |

@@ -13,18 +13,18 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 15.00% | ~1,958 |
 | Banner over the Citadel | 14.00% | ~1,827 |
 | Queen's Gratitude | 12.00% | ~1,566 |
-| Fifth Crusade | 9.00% | ~1,174 |
+| Fifth Crusade | 9.00% | ~1,175 |
 | Embrace of the Abyss | 7.00% | ~914 |
 | Path of the Angel | 7.00% | ~914 |
 | Demonic and Divine | 7.00% | ~914 |
 | Great Upstart | 6.00% | ~783 |
 | All Paths Open | 6.00% | ~783 |
-| Path of the Azata | 5.00% | ~652 |
-| Transformation | 5.00% | ~652 |
-| The Legacy | 5.00% | ~652 |
-| Voice from Your Dreams | 5.00% | ~652 |
-| Next-Door Play | 5.00% | ~652 |
-| Get the Toad | 5.00% | ~652 |
+| Path of the Azata | 5.00% | ~653 |
+| Transformation | 5.00% | ~653 |
+| The Legacy | 5.00% | ~653 |
+| Voice from Your Dreams | 5.00% | ~653 |
+| Next-Door Play | 5.00% | ~653 |
+| Get the Toad | 5.00% | ~653 |
 | Heart of the Fallen Land | 4.00% | ~522 |
 | Divide and Rule | 4.00% | ~522 |
 | Mythic Reinforcements | 4.00% | ~522 |
@@ -44,12 +44,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~261 |
 | Truly Important Deed | 2.00% | ~261 |
 | Stay Underground | 2.00% | ~237 |
-| The Final Threshold | 1.00% | ~130 |
-| Path of the Dragon | 1.00% | ~130 |
-| Path of the Legend | 1.00% | ~130 |
-| Strategic Victory | 1.00% | ~130 |
-| Abyssal Conspiracy | 1.00% | ~130 |
-| Truly Profane Gift | 1.00% | ~130 |
+| The Final Threshold | 1.00% | ~131 |
+| Path of the Dragon | 1.00% | ~131 |
+| Path of the Legend | 1.00% | ~131 |
+| Strategic Victory | 1.00% | ~131 |
+| Abyssal Conspiracy | 1.00% | ~131 |
+| Truly Profane Gift | 1.00% | ~131 |
 | This Wall Won't Fall | 1.00% | ~118 |
 | Not the Last Sarkorian | 1.00% | ~118 |
 | End of Eternal Guard | 0.90% | ~117 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,050 (Ranked 176)  
+Progressed: 13,051 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 12,976 | 0 |
 | 2024-01-03 | 13,006 | 0 |
 | 2024-01-04 | 13,029 | 0 |
-| 2024-01-05 | 13,050 | 0 |
+| 2024-01-05 | 13,051 | 0 |
 ## Awards
 Max (Character Customization): 1,777  (Ranked 128)  
 Sum: 7,192 (Ranked 126)  

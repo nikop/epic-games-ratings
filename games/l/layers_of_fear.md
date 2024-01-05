@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~238 |
-| A piece of the story | 64.00% | ~177 |
-| It's covered up for a reason | 56.00% | ~155 |
-| Wanderer | 52.00% | ~144 |
-| Scraps of love | 49.00% | ~136 |
-| The artist’s impression | 48.00% | ~133 |
-| Do what you have to | 42.00% | ~116 |
-| Sign of weakness | 39.00% | ~108 |
-| Refuse to look | 35.00% | ~97 |
-| Face your fears | 29.00% | ~80 |
-| Finished it | 25.00% | ~69 |
-| Whispers long forgotten | 16.00% | ~44 |
-| Debut | 12.00% | ~33 |
+| Something important | 86.00% | ~240 |
+| A piece of the story | 64.00% | ~179 |
+| It's covered up for a reason | 57.00% | ~159 |
+| Wanderer | 52.00% | ~145 |
+| Scraps of love | 49.00% | ~137 |
+| The artist’s impression | 48.00% | ~134 |
+| Do what you have to | 42.00% | ~117 |
+| Sign of weakness | 39.00% | ~109 |
+| Refuse to look | 35.00% | ~98 |
+| Face your fears | 29.00% | ~81 |
+| Finished it | 25.00% | ~70 |
+| Whispers long forgotten | 15.00% | ~42 |
 | Sound Bite | 12.00% | ~33 |
 | The art of movement | 12.00% | ~33 |
-| A Slice of Life | 11.00% | ~30 |
-| Lights! Camera! Action! | 11.00% | ~30 |
+| A Slice of Life | 11.00% | ~31 |
+| Debut | 11.00% | ~31 |
+| Lights! Camera! Action! | 11.00% | ~31 |
 | Another perspective | 10.00% | ~28 |
 | Playtime | 10.00% | ~28 |
 | Tough conversation | 10.00% | ~28 |
@@ -28,7 +28,7 @@
 | First steps | 9.00% | ~25 |
 | The tragedy unfolds | 9.00% | ~25 |
 | Breaking free | 8.00% | ~22 |
-| True Reflection | 7.00% | ~19 |
+| True Reflection | 7.00% | ~20 |
 | Casting Finished | 6.00% | ~17 |
 | Heavy Burden | 6.00% | ~17 |
 | Instinct of self-preservation | 6.00% | ~17 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277 (Ranked 402)  
+Progressed: 279 (Ranked 402)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,4 +131,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 256 | 0 |
 | 2024-01-03 | 265 | 0 |
 | 2024-01-04 | 274 | 0 |
-| 2024-01-05 | 277 | 0 |
+| 2024-01-05 | 279 | 0 |

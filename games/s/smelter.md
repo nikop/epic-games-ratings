@@ -24,7 +24,7 @@
 | Isn't It Beautiful? | 20.00% | ~9 |
 | A Generous Leader | 20.00% | ~9 |
 | Dr. Dreinstein III | 15.00% | ~7 |
-| Orcharion Boost | 13.00% | ~6 |
+| Orcharion Boost | 15.00% | ~7 |
 | Case Closed | 13.00% | ~6 |
 | What's Yours Is Mine | 13.00% | ~6 |
 | How Do You Like Them Apples? | 13.00% | ~6 |

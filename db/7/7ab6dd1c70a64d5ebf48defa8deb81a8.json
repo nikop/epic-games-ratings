@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1829,
+  "EOS_Progressed": 1830,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3612,6 +3612,11 @@
       "Time": "2024-01-05T18:11:22.5009726+00:00",
       "NumProgressed": 1829,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T19:11:24.7268557+00:00",
+      "NumProgressed": 1830,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3743,7 +3748,7 @@
       "Name": "Essence Blow",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_17",
@@ -3759,7 +3764,7 @@
       "Name": "Shatter Them All",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_19",
@@ -3799,7 +3804,7 @@
       "Name": "Geared Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_24",
@@ -3855,7 +3860,7 @@
       "Name": "Alchemist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_31",
@@ -3877,9 +3882,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_35",
@@ -3910,7 +3915,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1829,
+      "Progressed": 1830,
       "Completed": 3
     }
   ],
@@ -3918,8 +3923,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-04T23:57:43.6326187+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:11:22.5009722+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:11:24.7268552+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:58:08.739775+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:11:22.5010343+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:59:03.6026814+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:11:24.7269033+00:00"
 }

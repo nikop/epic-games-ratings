@@ -1,17 +1,17 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.54 (Ranked 546)  
+Rating: 4.54 (Ranked 547)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 18.00% | ~21,148 |
-| I've Had Enough! | 14.00% | ~16,449 |
-| Fists, Fury & a lot of Rage | 10.00% | ~11,749 |
-| All For One and One For All | 8.00% | ~9,399 |
-| Seasoned Fighter | 8.00% | ~9,399 |
-| A New Age | 5.00% | ~5,874 |
-| Home Sweet Home? | 5.00% | ~5,874 |
+| All Grown Up! | 18.00% | ~21,153 |
+| I've Had Enough! | 14.00% | ~16,452 |
+| Fists, Fury & a lot of Rage | 10.00% | ~11,752 |
+| All For One and One For All | 8.00% | ~9,401 |
+| Seasoned Fighter | 8.00% | ~9,401 |
+| A New Age | 5.00% | ~5,876 |
+| Home Sweet Home? | 5.00% | ~5,876 |
 | Oh Baby, A Triple | 3.00% | ~3,525 |
 | Symbiotic | 3.00% | ~3,525 |
 | Battle Hardened | 2.00% | ~2,350 |
@@ -22,26 +22,26 @@ Rating: 4.54 (Ranked 546)
 | Double Punch! | 1.00% | ~1,175 |
 | Martyrdom | 1.00% | ~1,175 |
 | Spectacular Finisher | 1.00% | ~1,175 |
-| Katamari | 0.90% | ~1,057 |
-| Zero-sum Game | 0.90% | ~1,057 |
+| Katamari | 0.90% | ~1,058 |
+| Zero-sum Game | 0.90% | ~1,058 |
 | Ninja Reflex | 0.80% | ~940 |
-| Taste Your Own Medicine | 0.70% | ~822 |
-| This is GigaBash! | 0.50% | ~587 |
+| Taste Your Own Medicine | 0.70% | ~823 |
+| This is GigaBash! | 0.50% | ~588 |
 | Just Getting Warmed Up | 0.40% | ~470 |
 | Sidetracked... | 0.40% | ~470 |
 | Top of the Food Chain | 0.40% | ~470 |
-| Eye of the Titan | 0.30% | ~352 |
+| Eye of the Titan | 0.30% | ~353 |
 | Let Them Fight | 0.20% | ~235 |
 | Apex Mode | 0.20% | ~235 |
-| 5 Stages of Grief | 0.10% | ~117 |
-| Bastion of Humanity | 0.10% | ~117 |
-| Keeper of Knowledge | 0.10% | ~117 |
-| Apocalypse Mode | 0.10% | ~117 |
-| Watchful Sentinel | 0.10% | ~117 |
-| What's Mine is Yours | 0.10% | ~117 |
+| 5 Stages of Grief | 0.10% | ~118 |
+| Bastion of Humanity | 0.10% | ~118 |
+| Keeper of Knowledge | 0.10% | ~118 |
+| Apocalypse Mode | 0.10% | ~118 |
+| Watchful Sentinel | 0.10% | ~118 |
+| What's Mine is Yours | 0.10% | ~118 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,490 (Ranked 93)  
+Progressed: 117,516 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 115,313 | 0 |
 | 2024-01-03 | 116,064 | 0 |
 | 2024-01-04 | 116,792 | 0 |
-| 2024-01-05 | 117,490 | 0 |
+| 2024-01-05 | 117,516 | 0 |
 ## Awards
 Max (Great Boss Battles): 48  (Ranked 460)  
 Sum: 48 (Ranked 513)  

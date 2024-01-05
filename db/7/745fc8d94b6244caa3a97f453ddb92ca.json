@@ -4,7 +4,7 @@
   "ProductSlug": "project-nightmares-dcc54b",
   "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewPlayers": 502,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-10T13:00:00+00:00",
@@ -317,9 +317,9 @@
       "ID": "ST_CANDLE",
       "SetID": "9675gi1",
       "Name": "A light in the dark",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ST_HENRIETTA_CHASE",
@@ -356,8 +356,8 @@
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:04:11.6772221+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:04:47.3035057+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:10.8274052+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:02:53.2386148+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:04:11.6772372+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:03:32.0304017+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:04:47.3035225+00:00"
 }

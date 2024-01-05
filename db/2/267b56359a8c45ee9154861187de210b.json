@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -750,9 +750,9 @@
       "ID": "beat_c2_diamond",
       "SetID": "3448go",
       "Name": "Timing, Rhythm, and Rhyme",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "beat_c2_gold",
@@ -1214,9 +1214,9 @@
       "ID": "trophies_25",
       "SetID": "3448go",
       "Name": "Marble Detector",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "trophies_50",
@@ -1269,8 +1269,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:05:49.491966+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:06:22.4865707+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:01:33.938075+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:05:49.4920341+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:02:14.9438034+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:06:22.4866638+00:00"
 }

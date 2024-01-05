@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1260,
+  "EOS_Progressed": 1261,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -3217,6 +3217,11 @@
       "Time": "2024-01-05T15:08:31.5889717+00:00",
       "NumProgressed": 1260,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T19:09:24.9579285+00:00",
+      "NumProgressed": 1261,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3285,7 +3290,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "CompleteChapter10",
@@ -3293,7 +3298,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "CompleteChapter11",
@@ -3373,7 +3378,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "CompleteChapter3",
@@ -3413,7 +3418,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "CompleteChapter8",
@@ -3429,7 +3434,7 @@
       "Name": "Ingredients List",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -3524,14 +3529,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1260,
+      "Progressed": 1261,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:09:18.6621434+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:09:24.9579281+00:00",
   "LastUpdate_AppInfo": "2024-01-05T10:56:56.5895712+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:57:07.0704823+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:09:18.6621871+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:58:05.1653108+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:09:24.957972+00:00"
 }

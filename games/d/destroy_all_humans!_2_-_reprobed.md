@@ -1,28 +1,28 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 546)  
+Rating: 4.54 (Ranked 547)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 82.00% | ~262 |
-| Mash Machine | 75.00% | ~240 |
+| Rock of the Bay | 82.00% | ~263 |
+| Mash Machine | 75.00% | ~241 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~173 |
 | Furon Fashion | 48.00% | ~154 |
-| Shop Til They Drop | 41.00% | ~131 |
+| Shop Til They Drop | 40.00% | ~128 |
 | Bodied Sattva | 38.00% | ~122 |
 | Cult Following | 35.00% | ~112 |
-| Earthly Pleasures | 34.00% | ~109 |
-| Lie Back and Think of Albion | 27.00% | ~86 |
+| Earthly Pleasures | 35.00% | ~112 |
+| Lie Back and Think of Albion | 26.00% | ~83 |
 | Upgreatest | 26.00% | ~83 |
 | Pimp My Raid | 25.00% | ~80 |
 | Freshly Squeezed | 21.00% | ~67 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~64 |
-| Perfect Probulator | 17.00% | ~54 |
-| Die Nasty | 17.00% | ~54 |
+| Perfect Probulator | 17.00% | ~55 |
+| Die Nasty | 17.00% | ~55 |
 | Transmitting From Sol-3 | 15.00% | ~48 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~42 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~39 |
 | Fly Me to the Moon Base | 10.00% | ~32 |
 | Kaijuiced | 10.00% | ~32 |
 | Dusted | 9.00% | ~29 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.60% | ~2 |
 | Trans-Siberian Express | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 384)  
+Progressed: 321 (Ranked 384)  
 Completed: 2 (0.62%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 2 (0.62%) (Ranked 203)
 | 2024-01-02 | 291 | 1 |
 | 2024-01-03 | 301 | 1 |
 | 2024-01-04 | 311 | 1 |
-| 2024-01-05 | 320 | 2 |
+| 2024-01-05 | 321 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 495)  
 Sum: 36 (Ranked 527)  

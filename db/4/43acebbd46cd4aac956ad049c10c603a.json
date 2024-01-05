@@ -289,9 +289,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 1276,
+  "EOS_Progressed": 1277,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3609,6 +3609,11 @@
       "Time": "2024-01-05T18:06:12.4890334+00:00",
       "NumProgressed": 1276,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T19:06:44.4707665+00:00",
+      "NumProgressed": 1277,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3725,7 +3730,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "EcstaticTruth",
@@ -3909,7 +3914,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "RenaissanceRobot",
@@ -3965,7 +3970,7 @@
       "Name": "Team Spirit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "TextAdventurer",
@@ -3981,7 +3986,7 @@
       "Name": "The All-Gifted",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4021,7 +4026,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "TheWordEndures",
@@ -4029,7 +4034,7 @@
       "Name": "The Word Endures",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "TouchGrass",
@@ -4077,7 +4082,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "YourBiggestFan",
@@ -4092,7 +4097,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1276,
+      "Progressed": 1277,
       "Completed": 2
     }
   ],
@@ -4100,8 +4105,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:06:12.489033+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:06:44.4707657+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:02:45.3551181+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:06:12.4890873+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:03:24.0566722+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:06:44.4708247+00:00"
 }

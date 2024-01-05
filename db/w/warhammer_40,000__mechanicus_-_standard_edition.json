@@ -1068,9 +1068,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231439,
+  "EOS_Progressed": 231443,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29618,6 +29618,11 @@
       "Time": "2024-01-05T18:11:16.9265342+00:00",
       "NumProgressed": 231439,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T19:11:19.4861988+00:00",
+      "NumProgressed": 231443,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29629,7 +29634,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46288
+      "UsersEstimate": 46289
     },
     {
       "ID": "ACH_BASE_10",
@@ -29637,7 +29642,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60174
+      "UsersEstimate": 60175
     },
     {
       "ID": "ACH_BASE_11",
@@ -29709,7 +29714,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13886
+      "UsersEstimate": 13887
     },
     {
       "ID": "ACH_BASE_20",
@@ -29877,7 +29882,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30087
+      "UsersEstimate": 30088
     },
     {
       "ID": "ACH_BASE_8",
@@ -29900,7 +29905,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231439,
+      "Progressed": 231443,
       "Completed": 5
     }
   ],
@@ -29908,8 +29913,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-04T21:58:49.1902679+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:11:16.9265337+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:11:19.4861983+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:59:06.4129597+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:11:16.926715+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:59:58.4817545+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:11:19.4863841+00:00"
 }

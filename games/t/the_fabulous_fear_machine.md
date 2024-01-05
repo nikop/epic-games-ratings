@@ -21,10 +21,10 @@
 | You have two wishes left | 19.00% | ~16 |
 | Pulp! Adventures into the Unknown | 18.00% | ~15 |
 | Et in arcadia ego | 17.00% | ~14 |
+| You had one wish left | 15.00% | ~13 |
 | The seer | 15.00% | ~13 |
 | You've awakened the beast | 14.00% | ~12 |
 | Hate is... addictive | 14.00% | ~12 |
-| You had one wish left | 14.00% | ~12 |
 | Welcome to Hellville | 14.00% | ~12 |
 | Kirlian's best disciple | 13.00% | ~11 |
 | The bully | 12.00% | ~10 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5262,
+  "EOS_Progressed": 5265,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -4770,6 +4770,11 @@
       "Time": "2024-01-05T16:05:24.0514207+00:00",
       "NumProgressed": 5262,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-05T19:07:12.8747216+00:00",
+      "NumProgressed": 5265,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4781,7 +4786,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4789,7 +4794,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -4797,7 +4802,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -4805,7 +4810,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -4829,7 +4834,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4423
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4837,7 +4842,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4946
+      "UsersEstimate": 4949
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4845,7 +4850,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3999
+      "UsersEstimate": 4001
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4853,7 +4858,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4869,7 +4874,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -4877,7 +4882,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -4965,7 +4970,7 @@
       "Name": "Core Power",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -4973,7 +4978,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -4989,7 +4994,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -4997,7 +5002,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3999
+      "UsersEstimate": 4001
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5005,7 +5010,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -5029,7 +5034,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2843
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5045,7 +5050,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -5053,7 +5058,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -5061,7 +5066,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5117,7 +5122,7 @@
       "Name": "GOLIATH",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5125,7 +5130,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5133,7 +5138,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -5213,7 +5218,7 @@
       "Name": "Rusty Rat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ID_ACHIEV_57",
@@ -5301,7 +5306,7 @@
       "Name": "Desecration",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ID_ACHIEV_68",
@@ -5309,22 +5314,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5262,
+      "Progressed": 5265,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:06:41.6751203+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:07:12.8747212+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:01:23.7801437+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:06:41.6752001+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:02:05.0826145+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:07:12.8748132+00:00"
 }

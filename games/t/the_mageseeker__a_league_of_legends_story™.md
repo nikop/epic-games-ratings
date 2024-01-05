@@ -28,8 +28,8 @@ Rating: 4.81 (Ranked 84)
 | I chose my shackles | 27.00% | ~889 |
 | Sacred Woods | 26.00% | ~856 |
 | Little light | 24.00% | ~791 |
+| Capelworth | 24.00% | ~791 |
 | Glyndemere | 23.00% | ~758 |
-| Capelworth | 23.00% | ~758 |
 | Full equipped | 23.00% | ~758 |
 | Iffighain Headquarters | 22.00% | ~725 |
 | Whispers in the Woods II | 19.00% | ~626 |
@@ -45,10 +45,10 @@ Rating: 4.81 (Ranked 84)
 | Cloven Dell Headquarters | 16.00% | ~527 |
 | Whispers in the Woods IV | 14.00% | ~461 |
 | I smell fear | 14.00% | ~461 |
+| The end of the experiments | 14.00% | ~461 |
 | The Great City of Demacia | 14.00% | ~461 |
 | Call it 'redistribution of magic | 14.00% | ~461 |
 | Embrace the darkness | 13.00% | ~428 |
-| The end of the experiments | 13.00% | ~428 |
 | Truth is a dark mirror | 13.00% | ~428 |
 | Do you trust me? | 12.00% | ~395 |
 | Back to sleep, then... | 12.00% | ~395 |

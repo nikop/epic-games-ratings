@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 76.00% | ~89 |
+| My Papyrus! | 77.00% | ~90 |
 | A Loyal Friend | 39.00% | ~46 |
 | Abandon Ship! | 27.00% | ~32 |
 | The Tomb of Kih-Oskh | 22.00% | ~26 |

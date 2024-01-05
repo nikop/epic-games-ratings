@@ -34,16 +34,16 @@
 | Sheriff ✔ | 4.00% | ~13 |
 | City on fire ✔ | 4.00% | ~13 |
 | Infected ✔ | 4.00% | ~13 |
+| Priest ✔ | 4.00% | ~13 |
 | Broadcasting ✔ | 4.00% | ~13 |
+| Car ✔ | 3.00% | ~10 |
 | Crocodile Attack ✔ | 3.00% | ~10 |
 | Secret ✔ | 3.00% | ~10 |
 | Boss 2 ✔ | 3.00% | ~10 |
 | Osipov's video message ✔ | 3.00% | ~10 |
-| Priest ✔ | 3.00% | ~10 |
 | Rank B+ ✔ | 3.00% | ~10 |
 | Rank A ✔ | 3.00% | ~10 |
 | Boss 3 ✔ | 3.00% | ~10 |
-| Car ✔ | 2.00% | ~6 |
 | Seeker One ✔ | 2.00% | ~6 |
 | Seeker Three ✔ | 2.00% | ~6 |
 | Crocodile Escape ✔ | 2.00% | ~6 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.30% | ~1 |
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 384)  
+Progressed: 320 (Ranked 385)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |

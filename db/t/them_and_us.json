@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 385,
+  "EOS_Progressed": 386,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1696,6 +1696,11 @@
       "Time": "2024-01-05T10:08:57.018879+00:00",
       "NumProgressed": 385,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T19:09:31.7334361+00:00",
+      "NumProgressed": 386,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1803,7 +1808,7 @@
       "Name": "Forced to Kill",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1811,7 +1816,7 @@
       "Name": "Them and Us",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1835,7 +1840,7 @@
       "Name": "Modern Player",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ETUA_NightmareOver",
@@ -1867,7 +1872,7 @@
       "Name": "OUTRAGE",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ETUA_PTD",
@@ -1915,7 +1920,7 @@
       "Name": "Safe...For now?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ETUA_StayDead",
@@ -1953,9 +1958,9 @@
       "ID": "ETUA_TheCultists",
       "SetID": "65jc0ap",
       "Name": "The Cultists",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 50
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1963,7 +1968,7 @@
       "Name": "The Curse Is Real",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -1995,7 +2000,7 @@
       "Name": "A Night To Remember",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ETUA_Trapped",
@@ -2026,7 +2031,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 385,
+      "Progressed": 386,
       "Completed": 1
     }
   ],
@@ -2034,8 +2039,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:09:25.4041512+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:09:31.7334358+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:30.0285391+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:00:33.8214979+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:09:25.4041849+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:01:18.4778142+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:09:31.7334754+00:00"
 }

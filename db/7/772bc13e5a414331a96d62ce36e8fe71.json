@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 637,
+  "EOS_Progressed": 638,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 7.06,
+  "EOS_Completed_Percentage": 7.05,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -1994,6 +1994,11 @@
       "Time": "2024-01-05T18:05:24.6780226+00:00",
       "NumProgressed": 637,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2024-01-05T19:05:58.3950781+00:00",
+      "NumProgressed": 638,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -2012,9 +2017,9 @@
       "ID": "10000_XP",
       "SetID": "8d0im30",
       "Name": "2 000 Score",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 200,
-      "UsersEstimate": 127
+      "UsersEstimate": 134
     },
     {
       "ID": "1000_XP",
@@ -2022,7 +2027,7 @@
       "Name": "1000 Score",
       "Percentage": 41,
       "XP": 200,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "100_XP",
@@ -2030,7 +2035,7 @@
       "Name": "500 Score",
       "Percentage": 55,
       "XP": 200,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "10_XP",
@@ -2038,21 +2043,21 @@
       "Name": "200 Score",
       "Percentage": 70,
       "XP": 200,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 637,
+      "Progressed": 638,
       "Completed": 45
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:05:24.6780222+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:05:58.3950774+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:18.901675+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:58:15.5115271+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:05:24.6780358+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:59:09.7038018+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:05:58.3950959+00:00"
 }

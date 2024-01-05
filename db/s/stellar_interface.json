@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewPlayers": 502,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -1466,8 +1466,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:07:49.4762141+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:08:18.8694663+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.525576+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:59:28.1777284+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:07:49.4763808+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:00:18.0542702+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:08:18.8696137+00:00"
 }

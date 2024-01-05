@@ -2,7 +2,7 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 524,
+  "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 155,
@@ -417,9 +417,9 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_FIRSTMEDITATION",
@@ -489,9 +489,9 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_PERFECTDODGE",
@@ -616,8 +616,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:04:50.0063087+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:05:24.383009+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:00.0286827+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:59:57.9664763+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:04:50.0063284+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:00:46.4282175+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:05:24.3830344+00:00"
 }

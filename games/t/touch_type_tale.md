@@ -5,18 +5,18 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 87.00% | ~3,468 |
-| Flanked! | 75.00% | ~2,990 |
-| Economics 101 | 59.00% | ~2,352 |
-| Get Rich Quick | 41.00% | ~1,634 |
-| Do the Splits | 37.00% | ~1,475 |
-| Maestro | 25.00% | ~996 |
-| Full Employment | 18.00% | ~717 |
+| You and what Army? | 87.00% | ~3,470 |
+| Flanked! | 75.00% | ~2,991 |
+| Economics 101 | 59.00% | ~2,353 |
+| Get Rich Quick | 41.00% | ~1,635 |
+| Do the Splits | 37.00% | ~1,476 |
+| Maestro | 25.00% | ~997 |
+| Full Employment | 18.00% | ~718 |
 | Clay Fighter | 16.00% | ~638 |
 | Nowhere left to Hide | 13.00% | ~518 |
-| All Ovens Blazing | 12.00% | ~478 |
-| Boulder Clash | 12.00% | ~478 |
-| Held Back by the Roots | 11.00% | ~438 |
+| All Ovens Blazing | 12.00% | ~479 |
+| Boulder Clash | 12.00% | ~479 |
+| Held Back by the Roots | 11.00% | ~439 |
 | Well Supplied | 10.00% | ~399 |
 | Sniped | 7.00% | ~279 |
 | Leave Them no Cake | 7.00% | ~279 |
@@ -28,10 +28,10 @@ Rating: 4.75 (Ranked 150)
 | For the Queen | 5.00% | ~199 |
 | Not a Drop Wasted | 5.00% | ~199 |
 | A Secret Recipe | 5.00% | ~199 |
-| Reinforcements | 4.00% | ~159 |
-| Sweet Revenge | 4.00% | ~159 |
-| We Have the Technology | 4.00% | ~159 |
-| Figure of Breach | 4.00% | ~159 |
+| Reinforcements | 4.00% | ~160 |
+| Sweet Revenge | 4.00% | ~160 |
+| We Have the Technology | 4.00% | ~160 |
+| Figure of Breach | 4.00% | ~160 |
 | Work It | 3.00% | ~120 |
 | Almost Like Winning | 3.00% | ~120 |
 | The Handyman Can! | 3.00% | ~120 |
@@ -39,7 +39,7 @@ Rating: 4.75 (Ranked 150)
 | Untouchable | 1.00% | ~40 |
 | All Geared Up | 0.90% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,986 (Ranked 212)  
+Progressed: 3,988 (Ranked 212)  
 Completed: 11 (0.28%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 11 (0.28%) (Ranked 256)
 | 2024-01-02 | 3,963 | 11 |
 | 2024-01-03 | 3,972 | 11 |
 | 2024-01-04 | 3,983 | 11 |
-| 2024-01-05 | 3,986 | 11 |
+| 2024-01-05 | 3,988 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

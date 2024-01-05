@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4817,7 +4817,7 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13050,
+  "EOS_Progressed": 13051,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
@@ -18977,6 +18977,11 @@
       "Time": "2024-01-05T18:11:30.9028632+00:00",
       "NumProgressed": 13050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T19:11:32.7794816+00:00",
+      "NumProgressed": 13051,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19012,7 +19017,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -19036,7 +19041,7 @@
       "Name": "The Final Threshold",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "08_PathOfAngel",
@@ -19060,7 +19065,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "11_PathOfAeon",
@@ -19100,7 +19105,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "16_PathOfLegend",
@@ -19108,7 +19113,7 @@
       "Name": "Path of the Legend",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "17_Transformation",
@@ -19116,7 +19121,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "18_MythicChoices",
@@ -19172,7 +19177,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "25_MasterfulDispell",
@@ -19204,7 +19209,7 @@
       "Name": "Strategic Victory",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -19252,7 +19257,7 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -19332,7 +19337,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "46_AllPathsOpen",
@@ -19396,7 +19401,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "54_DeathByColumn",
@@ -19412,7 +19417,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "56_GetToad",
@@ -19420,7 +19425,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "57_PathOfDevil",
@@ -19915,21 +19920,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11832,
+      "Progressed": 11833,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13050,
+      "Progressed": 13051,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-05T04:58:13.2501035+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:11:30.9028628+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:11:32.7794813+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:59:00.9192846+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:11:30.9030458+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:59:52.890283+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:11:32.7796533+00:00"
 }

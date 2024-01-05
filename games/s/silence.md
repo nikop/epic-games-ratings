@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 51.00% | ~93 |
+| Chapter I | 52.00% | ~95 |
 | Fire in the... nevermind | 51.00% | ~93 |
 | Haute cuisine | 46.00% | ~84 |
+| I didn't do it! | 40.00% | ~73 |
 | Demolition expert | 39.00% | ~71 |
-| I didn't do it! | 39.00% | ~71 |
 | Open up wide | 37.00% | ~67 |
 | Keep away from children | 37.00% | ~67 |
 | Wooooooow! | 35.00% | ~64 |
@@ -25,8 +25,8 @@
 | Pacifist | 21.00% | ~38 |
 | Mirror mirror on the wall... | 19.00% | ~35 |
 | Fastidious Clown | 18.00% | ~33 |
+| It's not easy being green! | 18.00% | ~33 |
 | Home is where the heart is | 18.00% | ~33 |
-| It's not easy being green! | 17.00% | ~31 |
 | Death is a part of life | 14.00% | ~25 |
 | To err is human... | 12.00% | ~22 |
 | Master of Thermodynamics | 12.00% | ~22 |

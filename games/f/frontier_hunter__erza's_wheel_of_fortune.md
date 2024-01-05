@@ -5,15 +5,15 @@ Rating: 4.38 (Ranked 787)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~668 |
-| Training Simulation | 79.00% | ~567 |
+| Travel Streamer | 93.00% | ~669 |
+| Training Simulation | 79.00% | ~568 |
 | Kuku Bird Hunter | 65.00% | ~467 |
-| Storm Traveller | 59.00% | ~424 |
+| Storm Traveller | 60.00% | ~431 |
 | Wolf King Killer | 54.00% | ~388 |
-| Fashion Connoisseur | 52.00% | ~373 |
+| Fashion Connoisseur | 52.00% | ~374 |
 | Arms Mechanic | 49.00% | ~352 |
 | Flower Thief | 43.00% | ~309 |
-| Apostle of Flame | 38.00% | ~273 |
+| Apostle of Flame | 39.00% | ~280 |
 | Beginner Cook | 37.00% | ~266 |
 | Beginner Artificer | 37.00% | ~266 |
 | Seal Breaker | 32.00% | ~230 |
@@ -23,7 +23,7 @@ Rating: 4.38 (Ranked 787)
 | Nosebleeder | 25.00% | ~180 |
 | Trader | 22.00% | ~158 |
 | Weapon Boost | 21.00% | ~151 |
-| Flying Kobold Killer | 19.00% | ~136 |
+| Flying Kobold Killer | 19.00% | ~137 |
 | Youth Magnet | 18.00% | ~129 |
 | Furious Scorpion Killer | 17.00% | ~122 |
 | Lethal Blade Mantis Killer | 17.00% | ~122 |
@@ -37,7 +37,7 @@ Rating: 4.38 (Ranked 787)
 | Berserker Slayer | 11.00% | ~79 |
 | Giantess Slayer | 10.00% | ~72 |
 | Warden Slayer | 10.00% | ~72 |
-| Master Cook | 8.00% | ~57 |
+| Master Cook | 8.00% | ~58 |
 | Silver Moon Wolf King Challenge | 4.00% | ~29 |
 | Blade Mantis Challenge | 3.00% | ~22 |
 | Flying Kobold Challenge | 3.00% | ~22 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 787)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718 (Ranked 316)  
+Progressed: 719 (Ranked 316)  
 Completed: 3 (0.42%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 3 (0.42%) (Ranked 233)
 | 2024-01-02 | 687 | 3 |
 | 2024-01-03 | 693 | 3 |
 | 2024-01-04 | 707 | 3 |
-| 2024-01-05 | 718 | 3 |
+| 2024-01-05 | 719 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

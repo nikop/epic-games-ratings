@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 193,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.21,
+  "EOS_Completed_Percentage": 5.18,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -969,6 +969,11 @@
       "Time": "2024-01-05T17:06:05.748751+00:00",
       "NumProgressed": 192,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T19:08:09.174557+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -989,7 +994,7 @@
       "Name": "Cicadas",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Destilat",
@@ -1011,9 +1016,9 @@
       "ID": "Fletny",
       "SetID": "ag48e8e",
       "Name": "Four Flutes",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "Houby",
@@ -1045,15 +1050,15 @@
       "Name": "Spiral Smoke",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "KrabiPyramida",
       "SetID": "ag48e8e",
       "Name": "Crab Pyramid",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "Kudla",
@@ -1061,15 +1066,15 @@
       "Name": "Knife",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "MluviciPapouch",
@@ -1101,7 +1106,7 @@
       "Name": "Liana Bats",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Pejsek",
@@ -1139,9 +1144,9 @@
       "ID": "Sova",
       "SetID": "ag48e8e",
       "Name": "Owl",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "SpiciPapouch",
@@ -1165,7 +1170,7 @@
       "Name": "Centipede",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Strom",
@@ -1173,15 +1178,15 @@
       "Name": "Sprouting Tree",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "Truhlice",
@@ -1220,14 +1225,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:07:39.6182729+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:08:09.1745567+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.817379+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:03:26.5847933+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:07:39.6183244+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:04:04.1645886+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:08:09.1745797+00:00"
 }

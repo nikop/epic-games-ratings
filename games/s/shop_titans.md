@@ -6,20 +6,20 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,969 |
-| Titan's First Steps | 10.00% | ~14,969 |
-| Basic in Bulk | 9.00% | ~13,472 |
-| Tinkle of Coins | 9.00% | ~13,472 |
-| Disintermediation | 7.00% | ~10,479 |
-| It's Free Real Estate | 7.00% | ~10,479 |
-| Capitalism Ho! | 7.00% | ~10,479 |
-| Another Satisfied Customer | 6.00% | ~8,982 |
-| Budding Merchant | 6.00% | ~8,982 |
-| Own the Means of Production | 6.00% | ~8,982 |
-| One Easy Payment | 5.00% | ~7,485 |
-| Some Assembly Required | 5.00% | ~7,485 |
-| Pretty Penny | 5.00% | ~7,485 |
-| One-Armed Bandit | 5.00% | ~7,485 |
+| Sponsored by Argon | 10.00% | ~14,971 |
+| Titan's First Steps | 10.00% | ~14,971 |
+| Basic in Bulk | 9.00% | ~13,474 |
+| Tinkle of Coins | 9.00% | ~13,474 |
+| Disintermediation | 7.00% | ~10,480 |
+| It's Free Real Estate | 7.00% | ~10,480 |
+| Capitalism Ho! | 7.00% | ~10,480 |
+| Another Satisfied Customer | 6.00% | ~8,983 |
+| Budding Merchant | 6.00% | ~8,983 |
+| Own the Means of Production | 6.00% | ~8,983 |
+| One Easy Payment | 5.00% | ~7,486 |
+| Some Assembly Required | 5.00% | ~7,486 |
+| Pretty Penny | 5.00% | ~7,486 |
+| One-Armed Bandit | 5.00% | ~7,486 |
 | The Daily Grind | 4.00% | ~5,988 |
 | Bounty Hunters | 4.00% | ~5,988 |
 | Demand for Supplies | 4.00% | ~5,988 |
@@ -28,6 +28,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gild-Gotten Goods | 4.00% | ~5,988 |
 | Dungeon Imports | 4.00% | ~5,988 |
 | Through Repetition, Perfection | 4.00% | ~5,988 |
+| Did we pack lunch? | 4.00% | ~5,988 |
 | Arcane Industries | 4.00% | ~5,988 |
 | On the Path to Greatness | 3.00% | ~4,491 |
 | Ascended | 3.00% | ~4,491 |
@@ -37,6 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 3.00% | ~4,491 |
 | For the Hoard! | 3.00% | ~4,491 |
 | Blank Page Syndrome | 3.00% | ~4,491 |
+| This Power Level...! | 3.00% | ~4,491 |
 | Power of Love | 3.00% | ~4,491 |
 | Efficient Floor Space | 3.00% | ~4,491 |
 | Flawless Fusion | 3.00% | ~4,491 |
@@ -46,7 +48,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 3.00% | ~4,491 |
 | Accomplished Merchant | 3.00% | ~4,491 |
 | Natural 20 | 3.00% | ~4,491 |
-| Did we pack lunch? | 3.00% | ~4,491 |
 | Magical Harmony | 3.00% | ~4,491 |
 | Complete Monopoly | 3.00% | ~4,491 |
 | A Notch Above the Rest | 2.00% | ~2,994 |
@@ -66,7 +67,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 2.00% | ~2,994 |
 | Flying off the Shelves | 2.00% | ~2,994 |
 | Industrial Evolution | 2.00% | ~2,994 |
-| This Power Level...! | 2.00% | ~2,994 |
 | Omae wa Mou Shindeiru | 2.00% | ~2,994 |
 | Master of Transmutation | 2.00% | ~2,994 |
 | Hidden Potential | 2.00% | ~2,994 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.70% | ~1,048 |
 | JACKPOT!!! | 0.70% | ~1,048 |
 | Ultimate Collector | 0.60% | ~898 |
-| Oligarch Monarch | 0.50% | ~748 |
-| Merchant Extraordinaire | 0.50% | ~748 |
+| Oligarch Monarch | 0.50% | ~749 |
+| Merchant Extraordinaire | 0.50% | ~749 |
 | To Hell and Back | 0.40% | ~599 |
 | Cash Only Please | 0.40% | ~599 |
 | Capitalist Camaraderie | 0.20% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,694 (Ranked 86)  
+Progressed: 149,711 (Ranked 86)  
 Completed: 342 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 342 (0.23%) (Ranked 267)
 | 2024-01-02 | 149,077 | 341 |
 | 2024-01-03 | 149,238 | 342 |
 | 2024-01-04 | 149,471 | 342 |
-| 2024-01-05 | 149,694 | 342 |
+| 2024-01-05 | 149,711 | 342 |
 ## Awards
 Max (Great for Beginners): 4,945  (Ranked 78)  
 Sum: 27,932 (Ranked 52)  

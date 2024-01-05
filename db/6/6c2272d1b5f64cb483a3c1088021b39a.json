@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewPlayers": 374,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1316,
+  "EOS_Progressed": 1317,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4719,6 +4719,11 @@
       "Time": "2024-01-05T00:10:49.5764215+00:00",
       "NumProgressed": 1316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T19:11:30.3208935+00:00",
+      "NumProgressed": 1317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4802,7 +4807,7 @@
       "Name": "Catacombs Raid 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "catacombs_raid_2",
@@ -4834,7 +4839,7 @@
       "Name": "Collector 2",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "collector_3",
@@ -5042,7 +5047,7 @@
       "Name": "Lord of the Tower 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "lord_of_the_tower_2",
@@ -5090,7 +5095,7 @@
       "Name": "Obsessed Carver 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "obsessed_carver_2",
@@ -5146,7 +5151,7 @@
       "Name": "Sophisticated Alchemist 2",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "sophisticated_alchemist_3",
@@ -5186,7 +5191,7 @@
       "Name": "Stronghold 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "stronghold_2",
@@ -5234,7 +5239,7 @@
       "Name": "Tomb Raider 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "tomb_raider_2",
@@ -5242,7 +5247,7 @@
       "Name": "Tomb Raider 2",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "tomb_raider_3",
@@ -5257,14 +5262,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1316,
+      "Progressed": 1317,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:11:28.264801+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:11:30.3208931+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.0513458+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:59:30.0191529+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:11:28.2648999+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:00:20.2971609+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:11:30.3209652+00:00"
 }

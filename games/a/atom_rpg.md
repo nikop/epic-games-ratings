@@ -6,7 +6,7 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,608 |
+| Atom Agent | 99.00% | ~1,609 |
 | One HIT wonder | 34.00% | ~552 |
 | Wanderer | 32.00% | ~520 |
 | One shot, one kill | 26.00% | ~422 |
@@ -22,7 +22,7 @@ Number of Ratings: 54  (23.09.2022)
 | Bustin' nuts | 8.00% | ~130 |
 | Not-so-private Eye | 8.00% | ~130 |
 | Superhuman | 8.00% | ~130 |
-| The Vitinsky Rifle | 6.00% | ~97 |
+| The Vitinsky Rifle | 6.00% | ~98 |
 | Protection racket | 4.00% | ~65 |
 | Sacrifice | 4.00% | ~65 |
 | Secret room | 4.00% | ~65 |
@@ -31,7 +31,7 @@ Number of Ratings: 54  (23.09.2022)
 | Career criminal | 2.00% | ~32 |
 | Neanderthal | 1.00% | ~16 |
 | Cosmic Horror | 1.00% | ~16 |
-| It was worth a shot | 0.80% | ~13 |
+| It was worth a shot | 0.90% | ~15 |
 | Ghostbuster | 0.60% | ~10 |
 | Cheeki Breeki | 0.40% | ~6 |
 | It's a classic! | 0.40% | ~6 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,624 (Ranked 260)  
+Progressed: 1,625 (Ranked 260)  
 Completed: 1 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 1 (0.06%) (Ranked 329)
 | 2024-01-02 | 1,587 | 1 |
 | 2024-01-03 | 1,594 | 1 |
 | 2024-01-04 | 1,611 | 1 |
-| 2024-01-05 | 1,624 | 1 |
+| 2024-01-05 | 1,625 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 445)  
 Sum: 52 (Ranked 503)  

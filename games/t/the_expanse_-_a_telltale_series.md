@@ -1,35 +1,35 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 546)  
+Rating: 4.54 (Ranked 547)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~3,108 |
-| Captain Drummer | 14.00% | ~2,560 |
-| Celebrations are in Order | 13.00% | ~2,377 |
-| The Pit and the Pirates | 12.00% | ~2,194 |
-| Martian Music | 12.00% | ~2,194 |
-| Bosmang | 12.00% | ~2,194 |
-| Impossible Objects | 12.00% | ~2,194 |
-| Spore Taste | 11.00% | ~2,011 |
-| Drone Dodger | 11.00% | ~2,011 |
-| Stogie for Fogey | 10.00% | ~1,828 |
-| Zen Master | 10.00% | ~424 |
+| Oyedang, Kopengs | 17.00% | ~3,110 |
+| Captain Drummer | 14.00% | ~2,561 |
+| Celebrations are in Order | 13.00% | ~2,378 |
+| The Pit and the Pirates | 12.00% | ~2,195 |
+| Martian Music | 12.00% | ~2,195 |
+| Bosmang | 12.00% | ~2,195 |
+| Impossible Objects | 12.00% | ~2,195 |
+| Spore Taste | 11.00% | ~2,012 |
+| Drone Dodger | 11.00% | ~2,012 |
+| Stogie for Fogey | 10.00% | ~1,829 |
+| Zen Master | 10.00% | ~425 |
 | Call it Even | 9.00% | ~1,646 |
 | Safe Cracker | 9.00% | ~382 |
 | Madame Undersecretary | 9.00% | ~382 |
 | Heal Thy Medic | 8.00% | ~1,463 |
-| Data Archivist | 7.00% | ~1,280 |
-| Drug Gifter | 7.00% | ~1,280 |
-| Thorston Mayer | 7.00% | ~1,280 |
-| Khan's Revenge | 7.00% | ~1,280 |
+| Data Archivist | 7.00% | ~1,281 |
+| Drug Gifter | 7.00% | ~1,281 |
+| Thorston Mayer | 7.00% | ~1,281 |
+| Khan's Revenge | 7.00% | ~1,281 |
 | Keep Arjun in Check | 7.00% | ~297 |
-| Doctor Approved | 6.00% | ~1,097 |
-| Bottoms up! | 6.00% | ~1,097 |
-| Master Negotiator | 6.00% | ~254 |
-| Data Logger | 4.00% | ~731 |
-| Miraculous Maya | 4.00% | ~731 |
+| Doctor Approved | 6.00% | ~1,098 |
+| Bottoms up! | 6.00% | ~1,098 |
+| Master Negotiator | 6.00% | ~255 |
+| Data Logger | 4.00% | ~732 |
+| Miraculous Maya | 4.00% | ~732 |
 | Data Master | 3.00% | ~549 |
 | Brother's Reaper | 2.00% | ~366 |
 | No Belter Left Behind | 2.00% | ~366 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 546)
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,285 (Ranked 159)  
+Progressed: 18,293 (Ranked 159)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2024-01-02 | 18,077 | 58 |
 | 2024-01-03 | 18,141 | 58 |
 | 2024-01-04 | 18,213 | 58 |
-| 2024-01-05 | 18,285 | 58 |
+| 2024-01-05 | 18,293 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2498,6 +2498,11 @@
       "Time": "2024-01-05T18:10:24.3769079+00:00",
       "NumProgressed": 718,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T19:10:28.7686491+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2509,7 +2514,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2541,7 +2546,7 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -2597,7 +2602,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2629,7 +2634,7 @@
       "Name": "Master Cook",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -2661,7 +2666,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2763,9 +2768,9 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "7pimpda",
       "Name": "Storm Traveller",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 431
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2843,9 +2848,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 280
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2868,7 +2873,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 3
     }
   ],
@@ -2876,8 +2881,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:10:24.3769072+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:10:28.7686487+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:58:51.576206+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:10:24.3769565+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:59:44.3084891+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:10:28.7686939+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -171,7 +171,7 @@
   "Tags": [],
   "EOS_Progressed": 3294,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -6183,9 +6183,9 @@
       "ID": "STB_MISSION11_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "The end of the experiments",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 461
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -6247,9 +6247,9 @@
       "ID": "STB_MISSION5B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Capelworth",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 791
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -6416,8 +6416,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:08:47.6866145+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:08:55.4405464+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:01:07.8981497+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:08:47.686704+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:01:50.4757115+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:08:55.4406312+00:00"
 }

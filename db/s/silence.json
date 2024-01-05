@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewPlayers": 520,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -635,9 +635,9 @@
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "1006_achv_demoliton",
@@ -683,9 +683,9 @@
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "2002_achv_feedfish",
@@ -819,9 +819,9 @@
       "ID": "3014_achv_sendspot",
       "SetID": "dhn82m5",
       "Name": "It\u0027s not easy being green!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "3014_achv_shootgate",
@@ -876,8 +876,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:08:13.5502379+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:08:22.1832015+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:00.9874259+00:00",
-  "LastUpdate_Ratings": "2024-01-05T17:59:04.3512232+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:08:13.5502906+00:00"
+  "LastUpdate_Ratings": "2024-01-05T18:59:56.6761019+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:08:22.1832391+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewPlayers": 502,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -353,9 +353,9 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievements.completemission.master.02",
@@ -464,8 +464,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2024-01-05T18:09:13.6970062+00:00",
+  "LastChanged_Achievements": "2024-01-05T19:09:20.2273863+00:00",
   "LastUpdate_AppInfo": "2023-12-29T19:57:03.2903505+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:01:27.9870159+00:00",
-  "LastUpdate_Achievements": "2024-01-05T18:09:13.6970199+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:02:09.3560187+00:00",
+  "LastUpdate_Achievements": "2024-01-05T19:09:20.2273974+00:00"
 }
