@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 500,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-04T13:30:00+00:00",
     "PcReleaseDate": "2023-03-16T00:00:00+00:00",
@@ -492,9 +492,9 @@
       "ID": "COMPLETED_BLAZE_3",
       "SetID": "d91enl3",
       "Name": "Huh? What was that?",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "COMPLETED_BLAZE_4",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-12-13T19:57:08.7340139+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:03:31.6428498+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:03:24.426957+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:43.2362811+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:59:46.8291714+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:03:31.6428652+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:59:47.1675709+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:03:24.426972+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1875,9 +1875,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1900,8 +1900,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:09:01.9432179+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:08:32.6185979+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:59:13.0333111+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:09:01.9432509+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:59:08.6557399+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:08:32.6186324+00:00"
 }

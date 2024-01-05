@@ -2619,9 +2619,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 385081,
+  "EOS_Progressed": 385132,
   "EOS_Completed": 1446,
-  "EOS_NewPlayers": 12357,
+  "EOS_NewPlayers": 12347,
   "EOS_NewCompleters": 161,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -19589,6 +19589,11 @@
       "Time": "2024-01-05T05:06:30.6975451+00:00",
       "NumProgressed": 385081,
       "NumCompleted": 1446
+    },
+    {
+      "Time": "2024-01-05T06:06:37.9545595+00:00",
+      "NumProgressed": 385132,
+      "NumCompleted": 1446
     }
   ],
   "TotalAchievements": 24,
@@ -19600,7 +19605,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7702
+      "UsersEstimate": 7703
     },
     {
       "ID": "10",
@@ -19608,7 +19613,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23105
+      "UsersEstimate": 23108
     },
     {
       "ID": "11",
@@ -19616,7 +19621,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "12",
@@ -19624,7 +19629,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7702
+      "UsersEstimate": 7703
     },
     {
       "ID": "13",
@@ -19640,7 +19645,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 30806
+      "UsersEstimate": 30811
     },
     {
       "ID": "15",
@@ -19664,7 +19669,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7702
+      "UsersEstimate": 7703
     },
     {
       "ID": "18",
@@ -19688,7 +19693,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 7702
+      "UsersEstimate": 7703
     },
     {
       "ID": "20",
@@ -19696,7 +19701,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19254
+      "UsersEstimate": 19257
     },
     {
       "ID": "21",
@@ -19720,7 +19725,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7702
+      "UsersEstimate": 7703
     },
     {
       "ID": "24",
@@ -19728,7 +19733,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 15403
+      "UsersEstimate": 15405
     },
     {
       "ID": "3",
@@ -19744,7 +19749,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 11552
+      "UsersEstimate": 11554
     },
     {
       "ID": "5",
@@ -19752,7 +19757,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 50061
+      "UsersEstimate": 50067
     },
     {
       "ID": "6",
@@ -19760,7 +19765,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15403
+      "UsersEstimate": 15405
     },
     {
       "ID": "7",
@@ -19776,7 +19781,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "9",
@@ -19791,7 +19796,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 385081,
+      "Progressed": 385132,
       "Completed": 1446
     }
   ],
@@ -19799,8 +19804,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-05T00:00:10.5918004+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:06:30.6975448+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:06:37.9545591+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.7199916+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:59:18.0269566+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:06:30.6976383+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:59:14.2087137+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:06:37.9546625+00:00"
 }

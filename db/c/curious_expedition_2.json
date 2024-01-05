@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 403,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -626,6 +626,11 @@
       "Time": "2024-01-05T05:09:57.7751558+00:00",
       "NumProgressed": 402,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T06:09:33.4424015+00:00",
+      "NumProgressed": 403,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -757,7 +762,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -773,7 +778,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ach-campaign-story2",
@@ -805,7 +810,7 @@
       "Name": "Roll to Save",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach-discover-locations",
@@ -813,7 +818,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ach-discover-locations-high",
@@ -845,7 +850,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach-find-treasure-high",
@@ -861,7 +866,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ach-hardExpeditions",
@@ -957,7 +962,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach-meetGhost",
@@ -981,7 +986,7 @@
       "Name": "Insomnia",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ach-pacifist-goals",
@@ -989,7 +994,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach-paleMask-cure",
@@ -1116,7 +1121,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 403,
       "Completed": 1
     }
   ],
@@ -1124,8 +1129,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:09:57.7751556+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:09:33.4424012+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:00:31.7215571+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:09:57.7752125+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:00:35.8226273+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:09:33.4424552+00:00"
 }

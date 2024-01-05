@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -343,7 +343,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 234923,
+  "EOS_Progressed": 234926,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
@@ -26783,6 +26783,11 @@
       "Time": "2024-01-05T05:09:14.7507416+00:00",
       "NumProgressed": 234923,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T06:08:46.4531993+00:00",
+      "NumProgressed": 234926,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -26858,7 +26863,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84572
+      "UsersEstimate": 84573
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -26938,7 +26943,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79874
+      "UsersEstimate": 79875
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -27017,7 +27022,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234923,
+      "Progressed": 234926,
       "Completed": 6
     }
   ],
@@ -27025,8 +27030,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-02T21:59:02.7368642+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:09:14.7507413+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:08:46.4531989+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.1279895+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:00:08.3669973+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:09:14.7508795+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:00:10.3870427+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:08:46.4534086+00:00"
 }

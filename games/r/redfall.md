@@ -37,8 +37,8 @@ Rating: 3.64 (Ranked 1,088)
 | Good Morning | 2.00% | ~45 |
 | From the Shadows | 2.00% | ~45 |
 | Check, Please! | 2.00% | ~45 |
+| Right This Way | 2.00% | ~45 |
 | Harvest’s End | 2.00% | ~45 |
-| Right This Way | 1.00% | ~23 |
 | Nice Try | 1.00% | ~23 |
 | Blacklight Down | 1.00% | ~23 |
 | Curious Finch | 1.00% | ~23 |

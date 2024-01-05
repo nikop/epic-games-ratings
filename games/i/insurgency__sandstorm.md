@@ -8,25 +8,25 @@ Number of Ratings: 1,316  (23.09.2022)
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~25,986 |
 | Wallbanger | 5.00% | ~25,986 |
-| Exploitative | 4.00% | ~20,788 |
-| High Speed Low Drag | 4.00% | ~20,788 |
-| Wet Feet | 4.00% | ~20,788 |
-| Lucky | 3.00% | ~15,591 |
-| Stylin' | 3.00% | ~15,591 |
-| Turf War | 3.00% | ~15,591 |
-| Banged | 2.00% | ~10,394 |
-| Checkpoint Victory | 2.00% | ~10,394 |
-| First Blood | 2.00% | ~10,394 |
-| Flaccid Paralysis | 2.00% | ~10,394 |
-| Push Victory | 2.00% | ~10,394 |
-| Self-destructive | 2.00% | ~10,394 |
+| Exploitative | 4.00% | ~20,789 |
+| High Speed Low Drag | 4.00% | ~20,789 |
+| Wet Feet | 4.00% | ~20,789 |
+| Lucky | 3.00% | ~15,592 |
+| Stylin' | 3.00% | ~15,592 |
+| Turf War | 3.00% | ~15,592 |
+| Banged | 2.00% | ~10,395 |
+| Checkpoint Victory | 2.00% | ~10,395 |
+| First Blood | 2.00% | ~10,395 |
+| Flaccid Paralysis | 2.00% | ~10,395 |
+| Push Victory | 2.00% | ~10,395 |
+| Self-destructive | 2.00% | ~10,395 |
 | Blindfire | 1.00% | ~5,197 |
 | Ruthless | 1.00% | ~5,197 |
 | Semper Paratus | 1.00% | ~5,197 |
-| Carrying | 0.90% | ~4,677 |
-| Efficient | 0.90% | ~4,677 |
-| Mount & Gun | 0.90% | ~4,677 |
-| Personal | 0.90% | ~4,677 |
+| Carrying | 0.90% | ~4,678 |
+| Efficient | 0.90% | ~4,678 |
+| Mount & Gun | 0.90% | ~4,678 |
+| Personal | 0.90% | ~4,678 |
 | Grounded | 0.80% | ~4,158 |
 | Play to Win | 0.80% | ~4,158 |
 | Special Delivery | 0.70% | ~3,638 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~520 |
 | Road Hazard | 0.10% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,711 (Ranked 39)  
+Progressed: 519,730 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 2 (0.00%) (Ranked 393)
 | 2024-01-02 | 517,956 | 2 |
 | 2024-01-03 | 518,784 | 2 |
 | 2024-01-04 | 519,535 | 2 |
-| 2024-01-05 | 519,711 | 2 |
+| 2024-01-05 | 519,730 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 237)  
 Sum: 3,329 (Ranked 177)  

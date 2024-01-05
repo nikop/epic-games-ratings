@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2308,
+  "EOS_Progressed": 2309,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4291,6 +4291,11 @@
       "Time": "2024-01-04T21:08:27.3710137+00:00",
       "NumProgressed": 2308,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-05T06:06:33.5669407+00:00",
+      "NumProgressed": 2309,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4542,7 +4547,7 @@
       "Name": "Defeat Croakhis Khan",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "DefeatGrubBuster",
@@ -4566,7 +4571,7 @@
       "Name": "Shield Maiden Yellow Tongue",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FirstBeer",
@@ -4574,7 +4579,7 @@
       "Name": "I Remember My First Beer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TravelToBrightFirForest",
@@ -4589,13 +4594,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2308,
+      "Progressed": 2309,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 949,
+      "Progressed": 950,
       "Completed": 913
     }
   ],
@@ -4603,8 +4608,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:06:26.7450904+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:06:33.5669403+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:25.3230554+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:00:33.3017194+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:06:26.7451398+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:00:37.9352571+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:06:33.5669861+00:00"
 }

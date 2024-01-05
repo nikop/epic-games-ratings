@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1230,
+  "EOS_Progressed": 1231,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3611,6 +3611,11 @@
       "Time": "2024-01-05T03:10:49.3498762+00:00",
       "NumProgressed": 1230,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T06:09:32.3343881+00:00",
+      "NumProgressed": 1231,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3670,7 +3675,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ClovemaryGift",
@@ -3694,7 +3699,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "CultivairChests1",
@@ -3750,7 +3755,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3758,7 +3763,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "GadgetCompletion1",
@@ -3774,7 +3779,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "GrindingTime1",
@@ -3844,9 +3849,9 @@
       "ID": "NoGadgetFutureEkko3",
       "SetID": "a9e499d",
       "Name": "Raw Talent",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "NoRewindCamille",
@@ -3910,7 +3915,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "RewindParry",
@@ -3934,7 +3939,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "SkillCompletion1",
@@ -3998,7 +4003,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "WarwickDefeated",
@@ -4038,14 +4043,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1230,
+      "Progressed": 1231,
       "Completed": 6
     }
   ],
@@ -4053,8 +4058,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:09:56.7318053+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:09:32.3343879+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T03:02:45.5614943+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:09:56.731863+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:56:53.8898133+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:09:32.3344507+00:00"
 }

@@ -27,6 +27,7 @@
 | Orcharion Boost | 13.00% | ~6 |
 | Case Closed | 13.00% | ~6 |
 | How Do You Like Them Apples? | 13.00% | ~6 |
+| Scheming Away | 11.00% | ~5 |
 | Fishing for Fissures | 11.00% | ~5 |
 | You did it? You did it! | 11.00% | ~5 |
 | All Beefed Up | 11.00% | ~5 |
@@ -38,7 +39,6 @@
 | With a Little Help from My Friends | 11.00% | ~5 |
 | Gotta Collect Them All | 9.00% | ~4 |
 | Keeping Things Tidy | 9.00% | ~4 |
-| Scheming Away | 9.00% | ~4 |
 | Eremagu Trial Extraordinaire | 9.00% | ~4 |
 | Scour the Eremagu Domain | 9.00% | ~4 |
 | An Electrifying Personality | 9.00% | ~4 |

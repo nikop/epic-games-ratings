@@ -6,7 +6,7 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponge Smasher | 20.00% | ~144 |
+| Sponge Smasher | 21.00% | ~152 |
 | Spatula Seeker | 19.00% | ~137 |
 | Jellyfish Jam | 18.00% | ~130 |
 | Jellyfishing | 14.00% | ~101 |

@@ -26,14 +26,14 @@ Number of Ratings: 116  (23.09.2022)
 | Unshakable Fortitude | 33.00% | ~141 |
 | I Wanna Rock | 31.00% | ~132 |
 | Delusions of Grandeur | 31.00% | ~132 |
+| Maximum Vigor | 30.00% | ~128 |
 | Love Tap | 30.00% | ~128 |
-| Maximum Vigor | 29.00% | ~124 |
 | Freeze Frame | 27.00% | ~115 |
 | Eat Your Heart Out | 27.00% | ~115 |
 | For Whom the Bell Tolls | 27.00% | ~115 |
 | Unyielding Strength | 25.00% | ~107 |
 | Can you restore the Balance? | 24.00% | ~102 |
-| Big Spender | 23.00% | ~98 |
+| Big Spender | 24.00% | ~102 |
 | Cleanup Crew | 22.00% | ~94 |
 | Crowd Source | 22.00% | ~94 |
 | Demon Meddler | 21.00% | ~90 |

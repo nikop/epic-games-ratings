@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8739,9 +8739,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 754088,
+  "EOS_Progressed": 754119,
   "EOS_Completed": 12974,
-  "EOS_NewPlayers": 6694,
+  "EOS_NewPlayers": 6688,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32384,6 +32384,11 @@
       "Time": "2024-01-05T05:09:04.0281358+00:00",
       "NumProgressed": 754088,
       "NumCompleted": 12974
+    },
+    {
+      "Time": "2024-01-05T06:08:34.9870373+00:00",
+      "NumProgressed": 754119,
+      "NumCompleted": 12974
     }
   ],
   "TotalAchievements": 60,
@@ -32395,7 +32400,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37704
+      "UsersEstimate": 37706
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32403,7 +32408,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30164
+      "UsersEstimate": 30165
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32459,7 +32464,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3770
+      "UsersEstimate": 3771
     },
     {
       "ID": "10_Wude_H4",
@@ -32467,7 +32472,7 @@
       "Name": "Iron Money",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3770
+      "UsersEstimate": 3771
     },
     {
       "ID": "11_Wude_H5",
@@ -32475,7 +32480,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3770
+      "UsersEstimate": 3771
     },
     {
       "ID": "12_MidAge",
@@ -32571,7 +32576,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30164
+      "UsersEstimate": 30165
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32651,7 +32656,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3770
+      "UsersEstimate": 3771
     },
     {
       "ID": "34_TimedTakedown",
@@ -32659,7 +32664,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30164
+      "UsersEstimate": 30165
     },
     {
       "ID": "35_WideStrike",
@@ -32755,7 +32760,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -32874,21 +32879,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 63389,
+      "Progressed": 63420,
       "Completed": 10799
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 754088,
+      "Progressed": 754119,
       "Completed": 12974
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-05T02:25:07.1743974+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:09:04.0281356+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:08:34.9870369+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:02:57.0766854+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:09:04.0282647+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:02:43.7522949+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:08:34.9872031+00:00"
 }

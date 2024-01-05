@@ -269,9 +269,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 10124,
+  "EOS_Progressed": 10128,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1686,
+  "EOS_NewPlayers": 1680,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3694,6 +3694,11 @@
       "Time": "2024-01-05T05:09:45.5429344+00:00",
       "NumProgressed": 10124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T06:09:20.806599+00:00",
+      "NumProgressed": 10128,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3706,7 +3711,7 @@
       "Name": "Conspiracy",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "03_TheStolenStar",
@@ -3810,7 +3815,7 @@
       "Name": "Pentakill",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "16_TheRise",
@@ -3882,7 +3887,7 @@
       "Name": "Highrise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "25_DynastyProspers",
@@ -3930,7 +3935,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "31_DontTouchThis",
@@ -3954,7 +3959,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4018,7 +4023,7 @@
       "Name": "Jungle Heat",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4066,7 +4071,7 @@
       "Name": "A Flame",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "48_TheUnexpectedCompany",
@@ -4170,7 +4175,7 @@
       "Name": "The Not-So-Bottomless Pit",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "61_TheScourge",
@@ -4225,7 +4230,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10124,
+      "Progressed": 10128,
       "Completed": 1
     }
   ],
@@ -4233,8 +4238,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-04T01:47:10.0035057+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:09:45.5429342+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:09:20.8065987+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:00:48.4670685+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:09:45.5429953+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:02:25.3898371+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:09:20.8066682+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1704,9 +1704,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 128
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -2096,9 +2096,9 @@
       "ID": "Spend_AttributePoint_50",
       "SetID": "7a5k76n",
       "Name": "Big Spender",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 102
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -2144,8 +2144,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:06:27.160379+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:06:34.009791+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:58:56.8625249+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:06:27.1604423+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:58:50.9260597+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:06:34.0098519+00:00"
 }

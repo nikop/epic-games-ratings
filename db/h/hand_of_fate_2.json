@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,7 +943,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666857,
+  "EOS_Progressed": 666858,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
@@ -25673,6 +25673,11 @@
       "Time": "2024-01-05T05:09:11.5644911+00:00",
       "NumProgressed": 666857,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-05T06:08:43.0982489+00:00",
+      "NumProgressed": 666858,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -25684,7 +25689,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480137
+      "UsersEstimate": 480138
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -25692,7 +25697,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386777
+      "UsersEstimate": 386778
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -26067,15 +26072,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666857,
+      "Progressed": 666858,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:09:11.5644908+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:08:43.0982487+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:45.4290677+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:58:57.9521492+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:09:11.5646261+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:58:52.1423577+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:08:43.09842+00:00"
 }

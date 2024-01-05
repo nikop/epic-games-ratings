@@ -5,27 +5,27 @@ Rating: 4.81 (Ranked 83)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,119 |
-| No more cages! | 90.00% | ~2,955 |
-| Everfrost | 77.00% | ~2,528 |
-| Pentakill | 76.00% | ~2,495 |
-| Dark Forest | 76.00% | ~2,495 |
+| For Demacia | 95.00% | ~3,120 |
+| No more cages! | 90.00% | ~2,956 |
+| Everfrost | 77.00% | ~2,529 |
+| Pentakill | 76.00% | ~2,496 |
+| Dark Forest | 76.00% | ~2,496 |
 | The use of petricite | 73.00% | ~2,397 |
 | You can pet the dog | 60.00% | ~1,970 |
 | Thornbarrow | 43.00% | ~1,412 |
 | Big Helmet Bro | 41.00% | ~1,346 |
-| Clarion Cove | 40.00% | ~1,313 |
-| Ternmoat Headquarters | 39.00% | ~1,280 |
+| Clarion Cove | 40.00% | ~1,314 |
+| Ternmoat Headquarters | 39.00% | ~1,281 |
 | Past trauma | 38.00% | ~1,248 |
 | Elemental master | 37.00% | ~1,215 |
-| Cypress Glen Headquarters | 34.00% | ~1,116 |
-| Old friend | 33.00% | ~1,083 |
-| Petricite Burst | 33.00% | ~1,083 |
+| Cypress Glen Headquarters | 34.00% | ~1,117 |
+| Old friend | 33.00% | ~1,084 |
+| Petricite Burst | 33.00% | ~1,084 |
 | Devineur | 32.00% | ~1,051 |
 | Hijack | 31.00% | ~1,018 |
-| Whispers in the Woods I | 28.00% | ~919 |
-| Ancient power | 28.00% | ~919 |
-| I chose my shackles | 27.00% | ~886 |
+| Whispers in the Woods I | 28.00% | ~920 |
+| Ancient power | 28.00% | ~920 |
+| I chose my shackles | 27.00% | ~887 |
 | Sacred Woods | 26.00% | ~854 |
 | Little light | 24.00% | ~788 |
 | Glyndemere | 23.00% | ~755 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 83)
 | Silverwing nest | 2.00% | ~66 |
 | The Unshackled | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,283 (Ranked 224)  
+Progressed: 3,284 (Ranked 224)  
 Completed: 21 (0.64%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 21 (0.64%) (Ranked 202)
 | 2024-01-02 | 3,235 | 20 |
 | 2024-01-03 | 3,256 | 20 |
 | 2024-01-04 | 3,278 | 21 |
-| 2024-01-05 | 3,283 | 21 |
+| 2024-01-05 | 3,284 | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

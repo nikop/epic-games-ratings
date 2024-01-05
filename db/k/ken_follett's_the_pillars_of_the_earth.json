@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17631,
+  "EOS_Progressed": 17632,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 2,
@@ -17720,6 +17720,11 @@
       "Time": "2024-01-05T05:03:27.2087872+00:00",
       "NumProgressed": 17631,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-05T06:03:19.4856659+00:00",
+      "NumProgressed": 17632,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 41,
@@ -17819,7 +17824,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5818
+      "UsersEstimate": 5819
     },
     {
       "ID": "tpote_achievement_20",
@@ -17939,7 +17944,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "tpote_achievement_34",
@@ -17995,7 +18000,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7052
+      "UsersEstimate": 7053
     },
     {
       "ID": "tpote_achievement_40",
@@ -18058,15 +18063,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17631,
+      "Progressed": 17632,
       "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:03:27.208787+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:03:19.4856651+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:02:44.4002614+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:03:27.2089025+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:02:30.7905891+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:03:19.4858235+00:00"
 }

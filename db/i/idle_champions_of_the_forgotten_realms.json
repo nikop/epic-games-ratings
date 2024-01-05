@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9275,10 +9275,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33315,
       "NumberOfAwardsMax": 5740
+    },
+    {
+      "Time": "2024-01-05T05:59:21.5037604+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33320,
+      "NumberOfAwardsMax": 5740
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33315,
+  "NumberOfAwards": 33320,
   "NumberOfAwardsMax": 5740,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9292,7 +9298,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5687
+      "Count": 5692
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9325,10 +9331,10 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 251279,
-  "EOS_Completed": 2592,
-  "EOS_NewPlayers": 4784,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 251294,
+  "EOS_Completed": 2593,
+  "EOS_NewPlayers": 4773,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -38735,6 +38741,11 @@
       "Time": "2024-01-05T05:10:02.7740358+00:00",
       "NumProgressed": 251279,
       "NumCompleted": 2592
+    },
+    {
+      "Time": "2024-01-05T06:09:38.6628961+00:00",
+      "NumProgressed": 251294,
+      "NumCompleted": 2593
     }
   ],
   "TotalAchievements": 546,
@@ -38746,7 +38757,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7538
+      "UsersEstimate": 7539
     },
     {
       "ID": "objective_completed_10",
@@ -43034,7 +43045,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "objective_completed_1558",
@@ -43113,21 +43124,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217553,
+      "Progressed": 217568,
       "Completed": 4135
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251279,
-      "Completed": 2592
+      "Progressed": 251294,
+      "Completed": 2593
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-05T01:46:11.9921079+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:10:02.7740355+00:00",
+  "LastChanged": "2024-01-05T05:59:21.5037602+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:09:38.6628957+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:59:24.4350157+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:10:02.7765361+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:59:21.5037608+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:09:38.6653023+00:00"
 }

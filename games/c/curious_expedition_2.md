@@ -6,10 +6,10 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~261 |
-| Cartographer | 58.00% | ~233 |
-| A Strange Artefact | 54.00% | ~217 |
-| Insomnia | 50.00% | ~201 |
+| The Adventure Begins | 65.00% | ~262 |
+| Cartographer | 58.00% | ~234 |
+| A Strange Artefact | 54.00% | ~218 |
+| Insomnia | 50.00% | ~202 |
 | Lost & Found & Lost Again | 44.00% | ~177 |
 | From Whence we Came | 44.00% | ~177 |
 | Fire and Flood | 41.00% | ~165 |
@@ -22,11 +22,11 @@ Number of Ratings: 20  (23.09.2022)
 | Taxonomist | 28.00% | ~113 |
 | Traveller | 26.00% | ~105 |
 | Uncertain Loyalties | 26.00% | ~105 |
-| Roll to Save | 24.00% | ~96 |
-| Nahua Seeker | 24.00% | ~96 |
-| Veteran Explorer | 22.00% | ~88 |
-| Red Flag Pirate | 20.00% | ~80 |
-| Iron Man | 17.00% | ~68 |
+| Roll to Save | 24.00% | ~97 |
+| Nahua Seeker | 24.00% | ~97 |
+| Veteran Explorer | 22.00% | ~89 |
+| Red Flag Pirate | 20.00% | ~81 |
+| Iron Man | 17.00% | ~69 |
 | Shortening of the Way | 16.00% | ~64 |
 | A Gentle Beast | 16.00% | ~64 |
 | Practical Palaeontology | 16.00% | ~64 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402 (Ranked 363)  
+Progressed: 403 (Ranked 363)  
 Completed: 1 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 1 (0.25%) (Ranked 264)
 | 2024-01-02 | 394 | 1 |
 | 2024-01-03 | 397 | 1 |
 | 2024-01-04 | 400 | 1 |
-| 2024-01-05 | 402 | 1 |
+| 2024-01-05 | 403 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

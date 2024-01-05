@@ -25,9 +25,9 @@ Rating: 4.56 (Ranked 504)
 | Throne Room Fit For A King | 1.00% | ~23 |
 | Rescue Redgi's Brothers | 1.00% | ~23 |
 | Return Power To The Depths | 1.00% | ~23 |
-| Defeat Croakhis Khan | 1.00% | ~9 |
-| Shield Maiden Yellow Tongue | 1.00% | ~9 |
-| I Remember My First Beer | 1.00% | ~9 |
+| Defeat Croakhis Khan | 1.00% | ~10 |
+| Shield Maiden Yellow Tongue | 1.00% | ~10 |
+| I Remember My First Beer | 1.00% | ~10 |
 | Fix the Travellers Wagon | 0.90% | ~21 |
 | Return the Statues | 0.80% | ~18 |
 | Defeat Rattus Augustail | 0.80% | ~18 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 504)
 | King of Kings | 0.40% | ~9 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,308 (Ranked 240)  
+Progressed: 2,309 (Ranked 240)  
 Completed: 12 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,6 +257,7 @@ Completed: 12 (0.52%) (Ranked 216)
 | 2024-01-02 | 2,304 | 12 |
 | 2024-01-03 | 2,306 | 12 |
 | 2024-01-04 | 2,308 | 12 |
+| 2024-01-05 | 2,309 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

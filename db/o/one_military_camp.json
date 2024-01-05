@@ -4,8 +4,8 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -1424,9 +1424,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -1623,8 +1623,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:03:18.9320466+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:03:10.5455699+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.400419+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:58:38.7814246+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:03:18.9320856+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:58:32.8109431+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:03:10.5456117+00:00"
 }

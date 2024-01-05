@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -819,7 +819,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3770,
+  "EOS_Progressed": 3771,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -5524,6 +5524,11 @@
       "Time": "2024-01-05T05:06:02.0585364+00:00",
       "NumProgressed": 3770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T06:06:06.9707355+00:00",
+      "NumProgressed": 3771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5631,7 +5636,7 @@
       "Name": "Surgical Excision",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -6078,21 +6083,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3770,
+      "Progressed": 3771,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3770,
+      "Progressed": 3771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-04T18:03:14.3502303+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:06:02.0585361+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:06:06.9707353+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:03:03.9968615+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:06:02.0586204+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:02:51.9824049+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:06:06.9708229+00:00"
 }

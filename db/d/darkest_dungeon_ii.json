@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10450,10 +10450,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21431,
       "NumberOfAwardsMax": 7951
+    },
+    {
+      "Time": "2024-01-05T06:00:00.6728723+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21434,
+      "NumberOfAwardsMax": 7951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21431,
+  "NumberOfAwards": 21434,
   "NumberOfAwardsMax": 7951,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10485,7 +10491,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1663
+      "Count": 1666
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10530,9 +10536,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131718,
+  "EOS_Progressed": 131723,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1252,
+  "EOS_NewPlayers": 1255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38395,6 +38401,11 @@
       "Time": "2024-01-05T05:09:31.2189743+00:00",
       "NumProgressed": 131718,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T06:09:05.2626528+00:00",
+      "NumProgressed": 131723,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38614,7 +38625,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "combat_kill_leviathan",
@@ -38758,7 +38769,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9220
+      "UsersEstimate": 9221
     },
     {
       "ID": "hero_story_complete_all",
@@ -38942,7 +38953,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "combat_kill_collector",
@@ -38950,7 +38961,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38990,7 +39001,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38998,7 +39009,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "quest_complete_crusader",
@@ -39014,7 +39025,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39037,21 +39048,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131718,
+      "Progressed": 131723,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6587,
+      "Progressed": 6592,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-05T03:01:24.0725476+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:09:31.2189742+00:00",
+  "LastChanged": "2024-01-05T06:00:00.6728721+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:09:05.2626523+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:59:59.1403555+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:09:31.2191399+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:00:00.6728727+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:09:05.2628315+00:00"
 }

@@ -6,26 +6,26 @@ Rating: 4.39 (Ranked 775)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~1,547 |
-| Ranidaphobia | 77.00% | ~1,294 |
-| Aspiring Editor | 74.00% | ~1,244 |
-| Gun for Hire | 69.00% | ~1,160 |
-| I am the law! | 63.00% | ~1,059 |
+| Ranidaphobia | 77.00% | ~1,295 |
+| Aspiring Editor | 74.00% | ~1,245 |
+| Gun for Hire | 69.00% | ~1,161 |
+| I am the law! | 63.00% | ~1,060 |
 | Lumberjack | 53.00% | ~891 |
 | Croaked | 49.00% | ~824 |
 | Limp Richard | 48.00% | ~807 |
 | Exorcist | 48.00% | ~807 |
 | From Darkness to Light | 48.00% | ~807 |
-| Editor Adept | 47.00% | ~790 |
-| Giant Killer | 46.00% | ~773 |
+| Editor Adept | 47.00% | ~791 |
+| Giant Killer | 46.00% | ~774 |
 | Sensei | 44.00% | ~740 |
 | Firestarter | 42.00% | ~706 |
 | The meaning of Kain | 42.00% | ~706 |
-| Technophobe | 41.00% | ~689 |
-| Recycler | 40.00% | ~672 |
-| Are you not entertained? | 36.00% | ~605 |
-| Ganglord | 36.00% | ~605 |
-| Jarhead | 36.00% | ~605 |
-| Infiltrator | 35.00% | ~588 |
+| Technophobe | 41.00% | ~690 |
+| Recycler | 40.00% | ~673 |
+| Are you not entertained? | 36.00% | ~606 |
+| Jarhead | 36.00% | ~606 |
+| Ganglord | 35.00% | ~589 |
+| Infiltrator | 35.00% | ~589 |
 | Experienced | 33.00% | ~555 |
 | Pushing Daisy | 33.00% | ~555 |
 | Hold The Line | 32.00% | ~538 |
@@ -43,8 +43,8 @@ Rating: 4.39 (Ranked 775)
 | Side Order | 11.00% | ~185 |
 | Bot Whisperer | 9.00% | ~151 |
 | Chain Reaction | 9.00% | ~151 |
-| Curveball | 8.00% | ~134 |
-| Wipe Out | 8.00% | ~134 |
+| Curveball | 8.00% | ~135 |
+| Wipe Out | 8.00% | ~135 |
 | Dressed To Kill | 7.00% | ~118 |
 | Master Editor | 7.00% | ~118 |
 | Attenborough | 6.00% | ~101 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 775)
 | Goaaaaal! | 0.80% | ~13 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,681 (Ranked 259)  
+Progressed: 1,682 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 1,673 | 0 |
 | 2024-01-03 | 1,676 | 0 |
 | 2024-01-04 | 1,681 | 0 |
+| 2024-01-05 | 1,682 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

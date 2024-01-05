@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -353,7 +353,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24741,
+  "EOS_Progressed": 24742,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
@@ -22143,6 +22143,11 @@
       "Time": "2024-01-05T05:03:23.7566316+00:00",
       "NumProgressed": 24741,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2024-01-05T06:03:15.7764781+00:00",
+      "NumProgressed": 24742,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -22202,7 +22207,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7422
+      "UsersEstimate": 7423
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -22210,7 +22215,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "I_Am_The_Storm",
@@ -22250,7 +22255,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11628
+      "UsersEstimate": 11629
     },
     {
       "ID": "Sole_Survivor",
@@ -22274,22 +22279,22 @@
       "Name": "The Reaper",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24741,
+      "Progressed": 24742,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-26T13:00:27.7460321+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:03:23.7566312+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:03:15.7764778+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.3485527+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:58:56.0972272+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:03:23.7567586+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:58:49.9850966+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:03:15.7766156+00:00"
 }

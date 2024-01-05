@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -425,9 +425,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27972,
+  "EOS_Progressed": 27973,
   "EOS_Completed": 511,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
@@ -28420,6 +28420,11 @@
       "Time": "2024-01-05T05:04:40.4603574+00:00",
       "NumProgressed": 27972,
       "NumCompleted": 511
+    },
+    {
+      "Time": "2024-01-05T06:04:38.9706566+00:00",
+      "NumProgressed": 27973,
+      "NumCompleted": 511
     }
   ],
   "TotalAchievements": 20,
@@ -28455,7 +28460,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -28559,7 +28564,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7552
+      "UsersEstimate": 7553
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28590,15 +28595,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27972,
+      "Progressed": 27973,
       "Completed": 511
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:04:40.4603572+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:04:38.9706561+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:58:07.1020914+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:04:40.4604752+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:57:57.1005751+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:04:38.9708373+00:00"
 }

@@ -1,38 +1,38 @@
 # Chants of Sennaar
 [Store](https://store.epicgames.com/en-US/p/chants-of-sennaar)  
 [View Rawdata](../../db/c/chants_of_sennaar.json)  
-Rating: 4.84 (Ranked 48)  
+Rating: 4.83 (Ranked 54)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 59.00% | ~1,405 |
-| Welcome to the Tower | 53.00% | ~1,262 |
-| The great escape | 44.00% | ~1,048 |
-| The Preacher's fate | 42.00% | ~1,000 |
-| A new dawn | 36.00% | ~857 |
-| Scholar | 31.00% | ~738 |
-| True G3M4R | 30.00% | ~714 |
-| The darkness | 30.00% | ~714 |
-| A good beginning | 29.00% | ~690 |
+| That's the spirit | 59.00% | ~1,406 |
+| Welcome to the Tower | 53.00% | ~1,263 |
+| The great escape | 44.00% | ~1,049 |
+| The Preacher's fate | 42.00% | ~1,001 |
+| A new dawn | 36.00% | ~858 |
+| Scholar | 31.00% | ~739 |
+| True G3M4R | 30.00% | ~715 |
+| The darkness | 30.00% | ~715 |
+| A good beginning | 29.00% | ~691 |
 | One last step | 27.00% | ~643 |
-| Cable guy | 26.00% | ~619 |
-| I did it | 25.00% | ~595 |
-| Half the way | 25.00% | ~595 |
-| Rascal | 25.00% | ~595 |
-| In this together | 24.00% | ~571 |
-| Peace walker | 24.00% | ~571 |
-| Champollion | 24.00% | ~571 |
+| Cable guy | 26.00% | ~620 |
+| I did it | 25.00% | ~596 |
+| Half the way | 25.00% | ~596 |
+| Rascal | 25.00% | ~596 |
+| In this together | 24.00% | ~572 |
+| Peace walker | 24.00% | ~572 |
+| Champollion | 24.00% | ~572 |
 | Open door | 21.00% | ~500 |
 | Feels like springtime | 21.00% | ~500 |
-| Alchemists Express | 20.00% | ~476 |
+| Alchemists Express | 20.00% | ~477 |
 | Free at last | 18.00% | ~429 |
 | A Link to the Past | 15.00% | ~357 |
 | A great audience | 13.00% | ~310 |
 | For its own good | 13.00% | ~310 |
-| Fashion victim | 8.00% | ~190 |
+| Fashion victim | 8.00% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,381 (Ranked 237)  
-Completed: 149 (6.26%) (Ranked 65)  
+Progressed: 2,383 (Ranked 237)  
+Completed: 149 (6.25%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,7 +198,7 @@ Completed: 149 (6.26%) (Ranked 65)
 | 2024-01-02 | 2,241 | 140 |
 | 2024-01-03 | 2,307 | 145 |
 | 2024-01-04 | 2,370 | 149 |
-| 2024-01-05 | 2,381 | 149 |
+| 2024-01-05 | 2,383 | 149 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -216,3 +216,4 @@ Completed: 149 (6.26%) (Ranked 65)
 | 2023-12-31 | 4.88 | 0 | 0 |
 | 2024-01-02 | 4.86 | 0 | 0 |
 | 2024-01-04 | 4.84 | 0 | 0 |
+| 2024-01-05 | 4.83 | 0 | 0 |

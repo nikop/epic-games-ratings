@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-09T10:00:00+00:00",
     "PcReleaseDate": "2022-08-18T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3045,
+  "EOS_Progressed": 3046,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4789,6 +4789,11 @@
       "Time": "2024-01-05T05:06:12.3478225+00:00",
       "NumProgressed": 3045,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T06:06:17.9811242+00:00",
+      "NumProgressed": 3046,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T10:03:34.0451585+00:00",
@@ -4815,9 +4820,9 @@
       "ID": "ACH_ANewPurpose",
       "SetID": "ai9gp4m",
       "Name": "A New Purpose",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_Advisor",
@@ -4871,9 +4876,9 @@
       "ID": "ACH_EarthlockNLoad",
       "SetID": "ai9gp4m",
       "Name": "Earthlock \u0027n Load",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_Effishient",
@@ -5047,9 +5052,9 @@
       "ID": "ACH_SuddenlyPirates",
       "SetID": "ai9gp4m",
       "Name": "Suddenly, Pirates!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_TakingShelter",
@@ -5088,14 +5093,14 @@
     {
       "ID": "ai9gp4m",
       "IsBase": true,
-      "Progressed": 3045,
+      "Progressed": 3046,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:06:12.3478222+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:06:17.9811239+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:36.8357629+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:58:21.1723952+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:06:12.3478602+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:58:12.6498774+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:06:17.9811682+00:00"
 }

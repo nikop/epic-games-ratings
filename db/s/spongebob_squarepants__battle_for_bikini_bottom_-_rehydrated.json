@@ -337,7 +337,7 @@
   ],
   "EOS_Progressed": 722,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -2181,9 +2181,9 @@
       "ID": "ACH_STAT_SPONGE_SMASHER",
       "SetID": "biiejkc",
       "Name": "Sponge Smasher",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2229,8 +2229,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:04:37.2851915+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:04:35.1137332+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-05T05:00:05.2612491+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:04:37.2852206+00:00"
+  "LastUpdate_Ratings": "2024-01-05T06:00:07.7299883+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:04:35.1137546+00:00"
 }

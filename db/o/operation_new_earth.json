@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2173,
+  "EOS_Progressed": 2174,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8365,6 +8365,11 @@
       "Time": "2024-01-04T23:04:00.2069565+00:00",
       "NumProgressed": 2173,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T06:03:57.0292609+00:00",
+      "NumProgressed": 2174,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8552,7 +8557,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8632,7 +8637,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8679,7 +8684,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2173,
+      "Progressed": 2174,
       "Completed": 1
     }
   ],
@@ -8687,8 +8692,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:04:02.1549325+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:03:57.0292605+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:59:30.4576018+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:04:02.154982+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:59:28.8294988+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:03:57.029322+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -721,7 +721,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4193,
+  "EOS_Progressed": 4194,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
@@ -11771,6 +11771,11 @@
       "Time": "2024-01-05T05:03:29.2699401+00:00",
       "NumProgressed": 4193,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T06:03:21.7183696+00:00",
+      "NumProgressed": 4194,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11846,7 +11851,7 @@
       "Name": "Challenger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "conqueror",
@@ -11870,7 +11875,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "doingmypart",
@@ -11966,7 +11971,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "fourleafclover",
@@ -11982,7 +11987,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "fullparty",
@@ -12014,7 +12019,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "herewegoagain",
@@ -12046,7 +12051,7 @@
       "Name": "Hunter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "inspection",
@@ -12102,7 +12107,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "milestonecollector",
@@ -12134,7 +12139,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "mysteriousrock",
@@ -12174,7 +12179,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "prestigiousx10",
@@ -12190,7 +12195,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "sailor",
@@ -12214,7 +12219,7 @@
       "Name": "Scroll Master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "silverwoodliberator",
@@ -12238,7 +12243,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "thealchemist",
@@ -12342,7 +12347,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3899
+      "UsersEstimate": 3900
     },
     {
       "ID": "warmachinesarmy",
@@ -12381,7 +12386,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4193,
+      "Progressed": 4194,
       "Completed": 2
     }
   ],
@@ -12389,8 +12394,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-05T01:45:12.3026402+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:03:29.2699397+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:03:21.7183692+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:58:25.9898339+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:03:29.2700369+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:58:18.0247604+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:03:21.7184678+00:00"
 }

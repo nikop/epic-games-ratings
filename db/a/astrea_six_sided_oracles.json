@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 327,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1369,6 +1369,11 @@
       "Time": "2024-01-05T01:55:36.3101187+00:00",
       "NumProgressed": 326,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T06:08:06.2963524+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1605,7 +1610,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "EndlessTricks",
@@ -1613,7 +1618,7 @@
       "Name": "Endless Tricks",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1667,9 +1672,9 @@
       "ID": "HeavyPurger",
       "SetID": "1jeo1g7",
       "Name": "Heavy Purger",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "IfIHadFailed",
@@ -1725,7 +1730,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "MeissasSavior",
@@ -1741,7 +1746,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1837,7 +1842,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Sentinelphobic",
@@ -1875,9 +1880,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "StellarDismantler",
@@ -1981,7 +1986,7 @@
       "Name": "Unbeatable",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "UnepicHero",
@@ -2003,9 +2008,9 @@
       "ID": "WaveBender",
       "SetID": "1jeo1g7",
       "Name": "Wave Bender",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "WildsKeeper",
@@ -2013,7 +2018,7 @@
       "Name": "Wild\u0027s Keeper",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ApianChampion",
@@ -2043,9 +2048,9 @@
       "ID": "AquarianChampion",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Champion",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "AquarianHero",
@@ -2117,7 +2122,7 @@
       "Name": "Lacertian Champion",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LacertianHero",
@@ -2164,14 +2169,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 327,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:08:37.8820405+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:08:06.296352+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:57:41.2706649+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:08:37.8821402+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:57:27.4491128+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:08:06.2964479+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -349,7 +349,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 784,
+  "EOS_Progressed": 785,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -2039,6 +2039,11 @@
       "Time": "2024-01-05T05:08:41.7811647+00:00",
       "NumProgressed": 784,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T06:08:10.5211776+00:00",
+      "NumProgressed": 785,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2051,7 +2056,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "CareerAllChallenges",
@@ -2107,7 +2112,7 @@
       "Name": "Storm Warning",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "CollectVehiclesA",
@@ -2210,7 +2215,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 784,
+      "Progressed": 785,
       "Completed": 0
     }
   ],
@@ -2218,8 +2223,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-04T23:58:04.2803928+00:00",
-  "LastChanged_Achievements": "2024-01-05T05:08:41.7811644+00:00",
+  "LastChanged_Achievements": "2024-01-05T06:08:10.5211771+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-05T04:57:52.6079156+00:00",
-  "LastUpdate_Achievements": "2024-01-05T05:08:41.7811843+00:00"
+  "LastUpdate_Ratings": "2024-01-05T05:57:40.1040013+00:00",
+  "LastUpdate_Achievements": "2024-01-05T06:08:10.5212073+00:00"
 }

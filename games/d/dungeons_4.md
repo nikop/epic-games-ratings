@@ -40,10 +40,10 @@ Rating: 4.71 (Ranked 202)
 | The Finitude Drill | 33.00% | ~238 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~216 |
 | Doom Hill | 30.00% | ~216 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~202 |
 | Forbidden Knowledge | 28.00% | ~202 |
 | Brimstone Shaken, Not Stirred | 28.00% | ~202 |
 | Hungry, Hungry Gorgu! | 27.00% | ~195 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~195 |
 | Stop Tanos! | 26.00% | ~187 |
 | Sabotage! | 26.00% | ~187 |
 | Raiders of the Lost Stone | 26.00% | ~187 |

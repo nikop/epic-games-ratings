@@ -5,41 +5,41 @@ Rating: 4.54 (Ranked 545)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 9.00% | ~70,927 |
-| Hotel California | 8.00% | ~63,046 |
-| Break A Leg | 7.00% | ~55,165 |
-| Coup de Grâce | 6.00% | ~47,284 |
-| Hazardous Materials | 6.00% | ~47,284 |
-| Personal Assistant Personally Assisted | 6.00% | ~47,284 |
-| Git Gutte! | 5.00% | ~39,404 |
-| Friends Like These | 5.00% | ~39,404 |
-| Apex Predator | 5.00% | ~39,404 |
-| Dr. Reed, I Presume? | 4.00% | ~31,523 |
-| Bookworm | 4.00% | ~31,523 |
-| I Got a Zombie Army and You Can't Harm Me | 4.00% | ~31,523 |
-| But Doctor, I am Butcho | 4.00% | ~31,523 |
-| Stacking the Deck | 4.00% | ~31,523 |
-| This is My Weapon | 4.00% | ~31,523 |
-| Whatever It Takes | 4.00% | ~4,545 |
-| Making Your Mark | 3.00% | ~23,642 |
-| Anger Management | 3.00% | ~23,642 |
-| Perks of the Job | 3.00% | ~23,642 |
-| Slayer Squad | 3.00% | ~23,642 |
-| Can't Handle the Truth | 3.00% | ~23,642 |
-| Like Riding a Bike | 3.00% | ~23,642 |
-| Zombologist | 3.00% | ~23,642 |
-| Ooh, Shiny! | 3.00% | ~23,642 |
-| A Patton Emerges | 3.00% | ~23,642 |
-| I Am the Resurrection | 3.00% | ~23,642 |
-| Our True Nature | 3.00% | ~23,642 |
-| One of Us | 3.00% | ~3,408 |
-| Pork Chopped | 3.00% | ~3,408 |
-| Jumbo Keyring | 2.00% | ~15,761 |
-| Humanity Distilled | 2.00% | ~15,761 |
-| Down with the Sickness | 2.00% | ~15,761 |
-| Max Headroom | 2.00% | ~15,761 |
-| Go, Bobcats! | 2.00% | ~15,761 |
-| Rising Star | 2.00% | ~15,761 |
+| Welcome To Hell-A | 9.00% | ~70,932 |
+| Hotel California | 8.00% | ~63,051 |
+| Break A Leg | 7.00% | ~55,169 |
+| Coup de Grâce | 6.00% | ~47,288 |
+| Hazardous Materials | 6.00% | ~47,288 |
+| Personal Assistant Personally Assisted | 6.00% | ~47,288 |
+| Git Gutte! | 5.00% | ~39,407 |
+| Friends Like These | 5.00% | ~39,407 |
+| Apex Predator | 5.00% | ~39,407 |
+| Dr. Reed, I Presume? | 4.00% | ~31,525 |
+| Bookworm | 4.00% | ~31,525 |
+| I Got a Zombie Army and You Can't Harm Me | 4.00% | ~31,525 |
+| But Doctor, I am Butcho | 4.00% | ~31,525 |
+| Stacking the Deck | 4.00% | ~31,525 |
+| This is My Weapon | 4.00% | ~31,525 |
+| Whatever It Takes | 4.00% | ~4,547 |
+| Making Your Mark | 3.00% | ~23,644 |
+| Anger Management | 3.00% | ~23,644 |
+| Perks of the Job | 3.00% | ~23,644 |
+| Slayer Squad | 3.00% | ~23,644 |
+| Can't Handle the Truth | 3.00% | ~23,644 |
+| Like Riding a Bike | 3.00% | ~23,644 |
+| Zombologist | 3.00% | ~23,644 |
+| Ooh, Shiny! | 3.00% | ~23,644 |
+| A Patton Emerges | 3.00% | ~23,644 |
+| I Am the Resurrection | 3.00% | ~23,644 |
+| Our True Nature | 3.00% | ~23,644 |
+| One of Us | 3.00% | ~3,410 |
+| Pork Chopped | 3.00% | ~3,410 |
+| Jumbo Keyring | 2.00% | ~15,763 |
+| Humanity Distilled | 2.00% | ~15,763 |
+| Down with the Sickness | 2.00% | ~15,763 |
+| Max Headroom | 2.00% | ~15,763 |
+| Go, Bobcats! | 2.00% | ~15,763 |
+| Rising Star | 2.00% | ~15,763 |
 | Make it So | 1.00% | ~7,881 |
 | On Safari | 1.00% | ~7,881 |
 | Smorgasbord | 1.00% | ~7,881 |
@@ -51,13 +51,13 @@ Rating: 4.54 (Ranked 545)
 | Sole Survivor | 0.70% | ~5,517 |
 | Sharpest Tool in the Box | 0.70% | ~5,517 |
 | Top That, Tisha! | 0.50% | ~568 |
-| Survival Skills | 0.40% | ~3,152 |
+| Survival Skills | 0.40% | ~3,153 |
 | Donk! | 0.30% | ~2,364 |
 | Lawn and Order | 0.20% | ~227 |
 | Bucket List | 0.10% | ~788 |
 | Wilhelm | 0.10% | ~114 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 788,073 (Ranked 21)  
+Progressed: 788,135 (Ranked 21)  
 Completed: 2,542 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,17 +317,17 @@ Completed: 2,542 (0.32%) (Ranked 246)
 | 2024-01-02 | 783,779 | 2,532 |
 | 2024-01-03 | 785,597 | 2,536 |
 | 2024-01-04 | 787,600 | 2,542 |
-| 2024-01-05 | 788,073 | 2,542 |
+| 2024-01-05 | 788,135 | 2,542 |
 ## Awards
 Max (Great Boss Battles): 9,684  (Ranked 41)  
-Sum: 14,744 (Ranked 74)  
+Sum: 14,748 (Ranked 74)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 9,684 |
 | This game is Great for Beginners | 738 |
 | This game has Diverse Characters | 700 |
-| This game has Quickly Understood Controls | 661 |
+| This game has Quickly Understood Controls | 665 |
 | This game has Amazing Storytelling | 625 |
 | This game is Relaxing | 613 |
 | This game is Highly Recommended | 593 |
@@ -595,4 +595,4 @@ Diff (max vs sum): -33
 | 2024-01-02 | 4.54 | 9,462 | 14,449 |
 | 2024-01-03 | 4.54 | 9,536 | 14,557 |
 | 2024-01-04 | 4.54 | 9,608 | 14,665 |
-| 2024-01-05 | 4.54 | 9,684 | 14,744 |
+| 2024-01-05 | 4.54 | 9,684 | 14,748 |
