@@ -54,7 +54,7 @@
 | Monument Keeper | 28.00% | ~51 |
 | Brilliant: The Deep | 25.00% | ~46 |
 | Starry: Free Coast | 25.00% | ~46 |
-| Starry: The Deep | 22.00% | ~40 |
+| Starry: The Deep | 23.00% | ~42 |
 | Hostile Waters | 19.00% | ~35 |
 | Loveless | 19.00% | ~35 |
 ## Popularity (Based on EOS Achievements)

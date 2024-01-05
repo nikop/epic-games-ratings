@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 519,
+  "EOS_Progressed": 529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2024-01-05T21:11:07.4526478+00:00",
       "NumProgressed": 519,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T22:10:43.7013994+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1279,7 +1284,7 @@
       "Name": "Newbie",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 397
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1351,7 +1356,7 @@
       "Name": "Amateur hitchhiker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_189",
@@ -1365,9 +1370,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "76k7b7p",
       "Name": "Wannabe",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_190",
@@ -1431,7 +1436,7 @@
       "Name": "Hero",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_199",
@@ -1455,7 +1460,7 @@
       "Name": "Better than cake",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -1591,7 +1596,7 @@
       "Name": "Drama queen",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_223",
@@ -1599,7 +1604,7 @@
       "Name": "Mr. Whiting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_224",
@@ -1719,7 +1724,7 @@
       "Name": "No brakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1943,7 +1948,7 @@
       "Name": "Hattrick",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_311",
@@ -2335,7 +2340,7 @@
       "Name": "Photo shoot",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -2455,7 +2460,7 @@
       "Name": "On the top",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_93",
@@ -2510,14 +2515,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 519,
+      "Progressed": 529,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:11:07.4526476+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:10:43.701399+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:37.0066608+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:58:47.5846118+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:11:07.4529087+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:58:37.264004+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:10:43.7016477+00:00"
 }

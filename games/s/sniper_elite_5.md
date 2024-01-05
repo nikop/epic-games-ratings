@@ -26,10 +26,10 @@ Rating: 4.46 (Ranked 674)
 | Der Geist | 17.00% | ~716 |
 | Close Quarters | 16.00% | ~674 |
 | Snake in the Grass | 16.00% | ~674 |
+| Brains of the Operation | 16.00% | ~674 |
 | No Stone Unturned | 15.00% | ~632 |
 | Skirmisher | 15.00% | ~632 |
 | Die Nussknacker Sweet! | 15.00% | ~632 |
-| Brains of the Operation | 15.00% | ~632 |
 | Opposing Force | 14.00% | ~590 |
 | Enemy at the Gates | 14.00% | ~590 |
 | Fields of Glory | 14.00% | ~590 |

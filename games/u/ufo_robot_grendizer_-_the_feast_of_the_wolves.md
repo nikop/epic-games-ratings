@@ -21,10 +21,10 @@
 | A Good Paint Job | 4.00% | ~3 |
 | The Planner | 4.00% | ~3 |
 | Iron Fist | 4.00% | ~3 |
+| The Flying Octopus | 4.00% | ~3 |
 | The Space Hydra | 4.00% | ~3 |
 | A Land of Peace | 3.00% | ~2 |
 | You can't fool me! | 3.00% | ~2 |
-| The Flying Octopus | 3.00% | ~2 |
 | The Royal Guard | 3.00% | ~2 |
 | The Power of Friendship | 1.00% | ~1 |
 | Saucer Beast Unchained | 1.00% | ~1 |

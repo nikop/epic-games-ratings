@@ -13,9 +13,9 @@ Rating: 3.86 (Ranked 1,069)
 | Unexpected Consequences | 13.00% | ~84 |
 | Identity Theft | 12.00% | ~78 |
 | F is for Feline | 12.00% | ~78 |
+| A Trip to Remember | 12.00% | ~78 |
 | Does Not Compute | 12.00% | ~78 |
 | Mind the Gap | 11.00% | ~71 |
-| A Trip to Remember | 11.00% | ~71 |
 | U Mad Bro? | 10.00% | ~65 |
 | Short Circuit | 10.00% | ~65 |
 | Catch You Later | 7.00% | ~45 |

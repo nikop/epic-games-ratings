@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 411,
-  "EOS_Completed": 98,
+  "EOS_Completed": 99,
   "EOS_NewPlayers": 34,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 23.84,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 24.09,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -2179,6 +2179,11 @@
       "Time": "2024-01-05T19:05:06.3458298+00:00",
       "NumProgressed": 411,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2024-01-05T22:04:15.1484355+00:00",
+      "NumProgressed": 411,
+      "NumCompleted": 99
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -2205,9 +2210,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 189
+      "UsersEstimate": 193
     },
     {
       "ID": "FallDeath",
@@ -2285,9 +2290,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "Synthesis",
@@ -2303,13 +2308,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 411,
-      "Completed": 98
+      "Completed": 99
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:04:24.0409267+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:04:15.1484351+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:23.201102+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:59:15.7755529+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:04:24.0409445+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:58:59.7842818+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:04:15.1484644+00:00"
 }

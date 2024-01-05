@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1482,
+  "EOS_Progressed": 1483,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -3200,6 +3200,11 @@
       "Time": "2024-01-05T21:04:30.9281652+00:00",
       "NumProgressed": 1482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T22:04:21.0056154+00:00",
+      "NumProgressed": 1483,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3244,7 +3249,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -3276,7 +3281,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -3300,7 +3305,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -3356,7 +3361,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3451,14 +3456,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1482,
+      "Progressed": 1483,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:04:30.9281648+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:04:21.0056151+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.9593832+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:00:54.6570078+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:04:30.9281921+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:00:17.3648784+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:04:21.0056467+00:00"
 }

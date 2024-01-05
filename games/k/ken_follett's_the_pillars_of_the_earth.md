@@ -10,11 +10,11 @@ Number of Ratings: 368  (23.09.2022)
 | Man of politics | 34.00% | ~6,001 |
 | Yet another secret | 33.00% | ~5,824 |
 | Friends of sorts | 32.00% | ~5,648 |
-| Let there be darkness | 31.00% | ~5,471 |
+| Let there be darkness | 31.00% | ~5,472 |
 | End of Book One | 29.00% | ~5,118 |
-| Wannabe knight | 23.00% | ~4,059 |
-| Garden of Eden | 23.00% | ~4,059 |
-| Full house | 23.00% | ~4,059 |
+| Wannabe knight | 23.00% | ~4,060 |
+| Garden of Eden | 23.00% | ~4,060 |
+| Full house | 23.00% | ~4,060 |
 | Help an old friend | 21.00% | ~3,706 |
 | Two of us | 20.00% | ~3,530 |
 | Negotiation skills | 18.00% | ~3,177 |
@@ -35,20 +35,20 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,588 |
 | The End. | 9.00% | ~1,588 |
 | Nothing but make-believe | 8.00% | ~1,412 |
-| A cry for help | 7.00% | ~1,235 |
-| Silentium est aureum | 7.00% | ~1,235 |
+| A cry for help | 7.00% | ~1,236 |
+| Silentium est aureum | 7.00% | ~1,236 |
 | Rebel without a cause | 6.00% | ~1,059 |
 | Staring contest champion | 5.00% | ~882 |
 | Lone wolf | 5.00% | ~882 |
 | Vox Populi | 5.00% | ~882 |
 | Revenge | 4.00% | ~706 |
 | Countess Aliena | 4.00% | ~706 |
-| Care, like a brother cares | 3.00% | ~529 |
-| A brush with death | 3.00% | ~529 |
-| Self-defense | 3.00% | ~529 |
+| Care, like a brother cares | 3.00% | ~530 |
+| A brush with death | 3.00% | ~530 |
+| Self-defense | 3.00% | ~530 |
 | Boy of mystery | 2.00% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,649 (Ranked 162)  
+Progressed: 17,650 (Ranked 162)  
 Completed: 125 (0.71%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 125 (0.71%) (Ranked 194)
 | 2024-01-02 | 17,582 | 123 |
 | 2024-01-03 | 17,600 | 124 |
 | 2024-01-04 | 17,624 | 124 |
-| 2024-01-05 | 17,649 | 125 |
+| 2024-01-05 | 17,650 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 324)  
 Sum: 200 (Ranked 417)  

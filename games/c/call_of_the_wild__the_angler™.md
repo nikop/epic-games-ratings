@@ -31,12 +31,12 @@ Number of Ratings: 281  (23.09.2022)
 | Aguas Claras Conquistador | 0.40% | ~29 |
 | The Beetles | 0.30% | ~24 |
 | All Good Kings Must Come to an End | 0.30% | ~22 |
-| Three Square Meals | 0.30% | ~22 |
 | Lake Me up Before You Go Go | 0.20% | ~16 |
 | Taylor Made | 0.20% | ~16 |
 | Big Fish Small Pond | 0.20% | ~16 |
 | Golden Ridge Ranger | 0.20% | ~16 |
 | Rod and Troll | 0.20% | ~15 |
+| Three Square Meals | 0.20% | ~15 |
 | Head for Heights | 0.10% | ~8 |
 | Lost and Flounder | 0.10% | ~8 |
 | Buckaroo | 0.10% | ~8 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,000 (Ranked 189)  
+Progressed: 8,002 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 7,890 | 0 |
 | 2024-01-03 | 7,926 | 0 |
 | 2024-01-04 | 7,958 | 0 |
-| 2024-01-05 | 8,000 | 0 |
+| 2024-01-05 | 8,002 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 479)  
 Sum: 212 (Ranked 410)  

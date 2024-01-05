@@ -24,10 +24,10 @@
 | Cheats ✔ | 6.00% | ~19 |
 | Food ✔ | 6.00% | ~19 |
 | King of survival ✔ | 6.00% | ~19 |
+| All secrets revealed ✔ | 6.00% | ~19 |
 | Boss 1 ✔ | 5.00% | ~16 |
 | Brain ✔ | 5.00% | ~16 |
 | Eva ✔ | 5.00% | ~16 |
-| All secrets revealed ✔ | 5.00% | ~16 |
 | Group Alpha ✔ | 4.00% | ~13 |
 | Mutant fight ✔ | 4.00% | ~13 |
 | Mutant run ✔ | 4.00% | ~13 |
@@ -46,10 +46,10 @@
 | Seeker One ✔ | 2.00% | ~6 |
 | Seeker Three ✔ | 2.00% | ~6 |
 | Crocodile Escape ✔ | 2.00% | ~6 |
+| Exterminate pests ✔ | 2.00% | ~6 |
 | Boss 2 ✔ | 2.00% | ~6 |
 | The escape ✔ | 2.00% | ~6 |
 | VIP ✔ | 2.00% | ~6 |
-| Exterminate pests ✔ | 1.00% | ~3 |
 | Hardcore ✔ | 0.60% | ~2 |
 | Speedrun ✔ | 0.60% | ~2 |
 | Seeker Two ✔ | 0.30% | ~1 |

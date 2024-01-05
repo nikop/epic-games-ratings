@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8000,
+  "EOS_Progressed": 8002,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13286,6 +13286,11 @@
       "Time": "2024-01-05T21:08:38.8158454+00:00",
       "NumProgressed": 8000,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T22:08:39.3380099+00:00",
+      "NumProgressed": 8002,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13607,22 +13612,22 @@
       "ID": "ACHIEVEMENT_041",
       "SetID": "6jk25od",
       "Name": "Three Square Meals",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8000,
+      "Progressed": 8002,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7372,
+      "Progressed": 7374,
       "Completed": 113
     }
   ],
@@ -13630,8 +13635,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:08:38.815845+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:08:39.3380095+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:57:05.9066626+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:08:38.8159443+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:57:18.4911793+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:08:39.3380904+00:00"
 }

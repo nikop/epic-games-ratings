@@ -7,34 +7,34 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~340 |
-| First of many… | 67.00% | ~295 |
+| First of many… | 67.00% | ~296 |
 | Helping Hand | 63.00% | ~278 |
-| Increased Vigor | 58.00% | ~256 |
-| Fight Fire with Fire | 57.00% | ~251 |
-| Increased Capacity | 54.00% | ~238 |
+| Increased Vigor | 59.00% | ~261 |
+| Fight Fire with Fire | 57.00% | ~252 |
+| Increased Capacity | 53.00% | ~234 |
 | Just the start | 48.00% | ~212 |
 | Perfect Storm | 46.00% | ~203 |
-| All That Glitters | 45.00% | ~198 |
+| All That Glitters | 45.00% | ~199 |
 | Enhance! | 41.00% | ~181 |
-| One Of the Chosen | 40.00% | ~176 |
+| One Of the Chosen | 40.00% | ~177 |
 | Throne Potato | 39.00% | ~172 |
-| Five's a Crowd | 39.00% | ~172 |
 | Devil's in the Details | 38.00% | ~168 |
+| Five's a Crowd | 38.00% | ~168 |
 | 25 to Life | 38.00% | ~168 |
-| Salvation | 37.00% | ~163 |
-| Soul Harvester | 35.00% | ~154 |
+| Salvation | 37.00% | ~164 |
+| Soul Harvester | 35.00% | ~155 |
 | Unshakable Fortitude | 34.00% | ~150 |
 | I Wanna Rock | 32.00% | ~141 |
 | Delusions of Grandeur | 32.00% | ~141 |
 | Love Tap | 31.00% | ~137 |
-| Maximum Vigor | 30.00% | ~132 |
-| For Whom the Bell Tolls | 28.00% | ~123 |
+| Maximum Vigor | 30.00% | ~133 |
+| For Whom the Bell Tolls | 28.00% | ~124 |
 | Freeze Frame | 27.00% | ~119 |
 | Eat Your Heart Out | 27.00% | ~119 |
 | Unyielding Strength | 25.00% | ~110 |
 | Can you restore the Balance? | 25.00% | ~110 |
 | Big Spender | 24.00% | ~106 |
-| Crowd Source | 23.00% | ~101 |
+| Crowd Source | 23.00% | ~102 |
 | Cleanup Crew | 22.00% | ~97 |
 | Demon Meddler | 21.00% | ~93 |
 | Seeing Red | 21.00% | ~93 |
@@ -51,8 +51,8 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Keeper | 11.00% | ~49 |
 | Soul Reaper | 8.00% | ~35 |
 | Humanitarian | 7.00% | ~31 |
-| My Evil Twin | 6.00% | ~26 |
-| Made of Sterner Stuff | 6.00% | ~26 |
+| My Evil Twin | 6.00% | ~27 |
+| Made of Sterner Stuff | 6.00% | ~27 |
 | Keeper of the Bonfire | 5.00% | ~22 |
 | Keeper of the Sky | 5.00% | ~22 |
 | Purity of Power | 4.00% | ~18 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~4 |
 | Beast Mode | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 441 (Ranked 358)  
+Progressed: 442 (Ranked 358)  
 Completed: 1 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 1 (0.23%) (Ranked 267)
 | 2024-01-02 | 388 | 1 |
 | 2024-01-03 | 405 | 1 |
 | 2024-01-04 | 422 | 1 |
-| 2024-01-05 | 441 | 1 |
+| 2024-01-05 | 442 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 386)  
 Sum: 96 (Ranked 470)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16392,
+  "EOS_Progressed": 16394,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
@@ -5939,6 +5939,11 @@
       "Time": "2024-01-05T21:10:18.4232485+00:00",
       "NumProgressed": 16392,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-05T22:10:01.1842029+00:00",
+      "NumProgressed": 16394,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5951,7 +5956,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6229
+      "UsersEstimate": 6230
     },
     {
       "ID": "ACH_AE_10",
@@ -5983,7 +5988,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12294
+      "UsersEstimate": 12296
     },
     {
       "ID": "ACH_AE_14",
@@ -5991,7 +5996,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3278
+      "UsersEstimate": 3279
     },
     {
       "ID": "ACH_AE_15",
@@ -5999,7 +6004,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3606
+      "UsersEstimate": 3607
     },
     {
       "ID": "ACH_AE_16",
@@ -6039,7 +6044,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3934
+      "UsersEstimate": 3935
     },
     {
       "ID": "ACH_AE_20",
@@ -6063,7 +6068,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3934
+      "UsersEstimate": 3935
     },
     {
       "ID": "ACH_AE_23",
@@ -6151,7 +6156,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACH_AE_33",
@@ -6230,7 +6235,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16392,
+      "Progressed": 16394,
       "Completed": 15
     }
   ],
@@ -6238,8 +6243,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-04T16:01:00.556364+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:10:18.4232481+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:10:01.1842025+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:01:13.4783352+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:10:18.4233051+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:00:32.3037667+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:10:01.1842463+00:00"
 }

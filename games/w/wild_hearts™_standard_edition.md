@@ -18,7 +18,7 @@
 | Expert Conjuror | 39.00% | ~448 |
 | Helpful Heart | 38.00% | ~436 |
 | Flawless Crystal | 37.00% | ~425 |
-| Bonds of Enmity | 36.00% | ~413 |
+| Bonds of Enmity | 37.00% | ~425 |
 | Distance Devourer | 35.00% | ~402 |
 | Counter Specialist | 33.00% | ~379 |
 | Master of the Skies | 30.00% | ~344 |

@@ -18,8 +18,8 @@
 | Everything matters | 43.00% | ~39 |
 | DI Hardwicke | 43.00% | ~39 |
 | An expert mediator | 42.00% | ~38 |
+| Order and method | 38.00% | ~34 |
 | Betty Allen | 38.00% | ~34 |
-| Order and method | 37.00% | ~33 |
 | The Investigation Begins | 34.00% | ~31 |
 | Ms. Camilla B. Culsham | 32.00% | ~29 |
 | Irene Court-Smyth | 32.00% | ~29 |
@@ -52,7 +52,7 @@
 | Perkins | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 90 (Ranked 500)  
-Completed: 3 (3.33%) (Ranked 103)  
+Completed: 3 (3.33%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

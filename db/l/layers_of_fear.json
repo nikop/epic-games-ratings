@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 282,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1264,6 +1264,11 @@
       "Time": "2024-01-05T20:08:37.5831964+00:00",
       "NumProgressed": 280,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T22:09:10.938824+00:00",
+      "NumProgressed": 282,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1300,7 +1305,7 @@
       "Name": "Breaking free",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "casting_finished",
@@ -1346,9 +1351,9 @@
       "ID": "collect_notes_mother",
       "SetID": "f2im8d",
       "Name": "Dark correspondence",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "covered_up_for_a_reason",
@@ -1356,7 +1361,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "decrypt_one_myth",
@@ -1380,15 +1385,15 @@
       "Name": "Refuse to look",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "earn_all_trophies",
@@ -1404,7 +1409,7 @@
       "Name": "Face your fears",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1426,9 +1431,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 135
     },
     {
       "ID": "find_one_photo",
@@ -1450,9 +1455,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 133
     },
     {
       "ID": "finished_it",
@@ -1474,9 +1479,9 @@
       "ID": "hear_most_of_interviews",
       "SetID": "f2im8d",
       "Name": "Full Scoop",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "hear_one_interview",
@@ -1546,9 +1551,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 178
     },
     {
       "ID": "playtime",
@@ -1604,7 +1609,7 @@
       "Name": "Sign of weakness",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "something_important",
@@ -1612,7 +1617,7 @@
       "Name": "Something important",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 240
     },
     {
       "ID": "spy_one_item",
@@ -1676,29 +1681,29 @@
       "Name": "Wanderer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 282,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:09:17.5762509+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:09:10.9388235+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:00:33.9245179+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:09:17.5762966+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:00:01.1896313+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:09:10.9388701+00:00"
 }

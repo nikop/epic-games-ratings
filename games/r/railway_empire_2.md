@@ -31,8 +31,8 @@ Rating: 4.42 (Ranked 737)
 | Mole | 31.00% | ~819 |
 | Financial Shark | 31.00% | ~819 |
 | General Manager | 29.00% | ~766 |
+| Country Life | 29.00% | ~766 |
 | Socializer | 29.00% | ~766 |
-| Country Life | 28.00% | ~739 |
 | Seven at one stroke | 25.00% | ~660 |
 | Hostile Takeover | 25.00% | ~660 |
 | Breaking Ground | 23.00% | ~607 |

@@ -6,22 +6,22 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,611 |
-| One HIT wonder | 34.00% | ~553 |
-| Wanderer | 32.00% | ~521 |
-| One shot, one kill | 26.00% | ~423 |
-| Traveler | 23.00% | ~374 |
+| Atom Agent | 99.00% | ~1,616 |
+| One HIT wonder | 34.00% | ~555 |
+| Wanderer | 32.00% | ~522 |
+| One shot, one kill | 26.00% | ~424 |
+| Traveler | 23.00% | ~375 |
 | Grave Robber | 17.00% | ~277 |
 | Head Burst | 17.00% | ~277 |
-| Explorer | 16.00% | ~260 |
-| Double agent | 15.00% | ~244 |
-| Paranoia | 15.00% | ~244 |
-| Savant | 10.00% | ~163 |
-| Kraina Grzybow | 9.00% | ~146 |
-| Love Guru | 9.00% | ~146 |
-| Bustin' nuts | 8.00% | ~130 |
-| Not-so-private Eye | 8.00% | ~130 |
-| Superhuman | 8.00% | ~130 |
+| Explorer | 16.00% | ~261 |
+| Double agent | 15.00% | ~245 |
+| Paranoia | 15.00% | ~245 |
+| Kraina Grzybow | 9.00% | ~147 |
+| Love Guru | 9.00% | ~147 |
+| Savant | 9.00% | ~147 |
+| Bustin' nuts | 8.00% | ~131 |
+| Not-so-private Eye | 8.00% | ~131 |
+| Superhuman | 8.00% | ~131 |
 | The Vitinsky Rifle | 6.00% | ~98 |
 | Protection racket | 4.00% | ~65 |
 | Sacrifice | 4.00% | ~65 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,627 (Ranked 260)  
+Progressed: 1,632 (Ranked 260)  
 Completed: 1 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,11 +255,11 @@ Completed: 1 (0.06%) (Ranked 329)
 | 2024-01-02 | 1,587 | 1 |
 | 2024-01-03 | 1,594 | 1 |
 | 2024-01-04 | 1,611 | 1 |
-| 2024-01-05 | 1,627 | 1 |
+| 2024-01-05 | 1,632 | 1 |
 ## Awards
-Max (Character Customization): 52  (Ranked 445)  
+Max (Character Customization): 52  (Ranked 446)  
 Sum: 52 (Ranked 503)  
-Diff (max vs sum): -58  
+Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 52 |

@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1915,9 +1915,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "StellarDismantler",
@@ -2210,8 +2210,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:09:21.2353276+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:09:13.9828932+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:58:08.2063284+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:09:21.2354254+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:58:07.8681121+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:09:13.9830004+00:00"
 }

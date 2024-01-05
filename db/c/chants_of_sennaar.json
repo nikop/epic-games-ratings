@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -115,11 +115,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2420,
-  "EOS_Completed": 156,
-  "EOS_NewPlayers": 424,
+  "EOS_Progressed": 2421,
+  "EOS_Completed": 157,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 35,
-  "EOS_Completed_Percentage": 6.45,
+  "EOS_Completed_Percentage": 6.48,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6470,6 +6470,11 @@
       "Time": "2024-01-05T21:06:00.286564+00:00",
       "NumProgressed": 2420,
       "NumCompleted": 156
+    },
+    {
+      "Time": "2024-01-05T22:05:33.5828476+00:00",
+      "NumProgressed": 2421,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 25,
@@ -6599,9 +6604,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1041
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6633,7 +6638,7 @@
       "Name": "Scholar",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "PROGRESS_N1",
@@ -6657,7 +6662,7 @@
       "Name": "A new dawn",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "PROGRESS_N4",
@@ -6673,23 +6678,23 @@
       "Name": "One last step",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2420,
-      "Completed": 156
+      "Progressed": 2421,
+      "Completed": 157
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-05T05:56:52.9506566+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:06:00.2865635+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:05:33.5828472+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:57:25.314317+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:06:00.286616+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:57:33.7103391+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:05:33.5828841+00:00"
 }

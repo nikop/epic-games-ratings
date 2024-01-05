@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 262,
+  "Ranking_Rating": 263,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
@@ -10560,9 +10560,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131803,
+  "EOS_Progressed": 131809,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1203,
+  "EOS_NewPlayers": 1197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38505,6 +38505,11 @@
       "Time": "2024-01-05T21:10:32.1422708+00:00",
       "NumProgressed": 131803,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T22:10:12.2407772+00:00",
+      "NumProgressed": 131809,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38644,7 +38649,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7908
+      "UsersEstimate": 7909
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38740,7 +38745,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7908
+      "UsersEstimate": 7909
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38868,7 +38873,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9226
+      "UsersEstimate": 9227
     },
     {
       "ID": "hero_story_complete_all",
@@ -39052,7 +39057,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "combat_kill_collector",
@@ -39060,7 +39065,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39147,21 +39152,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131803,
+      "Progressed": 131809,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6672,
+      "Progressed": 6678,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-05T20:00:17.6299255+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:10:32.1422705+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:10:12.2407764+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:01:19.482766+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:10:32.1424354+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:00:37.1851361+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:10:12.2409545+00:00"
 }

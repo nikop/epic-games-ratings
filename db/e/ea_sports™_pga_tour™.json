@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 870,
+  "EOS_Progressed": 871,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -3125,6 +3125,11 @@
       "Time": "2024-01-05T21:10:35.6992012+00:00",
       "NumProgressed": 870,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T22:10:15.2295039+00:00",
+      "NumProgressed": 871,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3145,7 +3150,7 @@
       "Name": "Holey Moley",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "achievement_11",
@@ -3153,7 +3158,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "achievement_12",
@@ -3209,7 +3214,7 @@
       "Name": "Perfect Round",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_2",
@@ -3265,7 +3270,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "achievement_9",
@@ -3280,13 +3285,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 870,
+      "Progressed": 871,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:10:35.6992008+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:10:15.2295035+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.6527826+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:00:21.0642541+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:10:35.6992397+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:59:51.0822195+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:10:15.2295322+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 270,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1399,
+  "EOS_Progressed": 1400,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.93,
   "EosHistory": [
@@ -4938,6 +4938,11 @@
       "Time": "2024-01-05T21:04:02.0127184+00:00",
       "NumProgressed": 1399,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2024-01-05T22:03:57.3667192+00:00",
+      "NumProgressed": 1400,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 28,
@@ -4949,7 +4954,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "MQ01_2",
@@ -4957,7 +4962,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "MQ02_1",
@@ -4965,7 +4970,7 @@
       "Name": "High Profile",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "MQ02_2",
@@ -4989,7 +4994,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "MQ03_1",
@@ -5172,7 +5177,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1399,
+      "Progressed": 1400,
       "Completed": 41
     }
   ],
@@ -5180,8 +5185,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:04:02.0127181+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:03:57.3667189+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.3322639+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:03:34.3234456+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:04:02.0127517+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:03:36.3481324+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:03:57.3667583+00:00"
 }

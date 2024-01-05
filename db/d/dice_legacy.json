@@ -59,7 +59,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1307,
+  "EOS_Progressed": 1308,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -2769,6 +2769,11 @@
       "Time": "2024-01-05T14:06:10.5281327+00:00",
       "NumProgressed": 1307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T22:06:49.8781398+00:00",
+      "NumProgressed": 1308,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2780,7 +2785,7 @@
       "Name": "Full house",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -2932,7 +2937,7 @@
       "Name": "Burn and Pillage",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "EXILED_MERCHANT_FRIEND",
@@ -2980,7 +2985,7 @@
       "Name": "Hear me out",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "RUIN_CLEAR",
@@ -3139,7 +3144,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1307,
+      "Progressed": 1308,
       "Completed": 0
     }
   ],
@@ -3147,8 +3152,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:07:32.5267938+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:06:49.8781394+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:49.6801361+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:03:25.4786134+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:07:32.5268423+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:03:29.8204957+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:06:49.8782032+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -1169,9 +1169,9 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
@@ -1184,8 +1184,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:06:07.9039912+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:05:39.8594812+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.1404315+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:02:24.9236097+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:06:07.9040313+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:00:40.8373866+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:05:39.8595161+00:00"
 }

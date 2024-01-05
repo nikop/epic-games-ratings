@@ -2,12 +2,12 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2220,9 +2220,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16134,
+  "EOS_Progressed": 16135,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19000,6 +19000,11 @@
       "Time": "2024-01-05T21:11:08.8104796+00:00",
       "NumProgressed": 16134,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T22:10:45.1144421+00:00",
+      "NumProgressed": 16135,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21874,21 +21879,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16134,
+      "Progressed": 16135,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16134,
+      "Progressed": 16135,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:11:08.8104793+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:10:45.1144417+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:59:35.2859281+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:11:08.8115519+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:59:15.4182916+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:10:45.1154795+00:00"
 }

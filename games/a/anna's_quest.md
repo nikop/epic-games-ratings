@@ -16,8 +16,8 @@
 | Sorry Grandpa | 31.00% | ~29 |
 | Mystery solved | 30.00% | ~28 |
 | Honey, honey, honey… | 30.00% | ~28 |
+| A very special drink | 30.00% | ~28 |
 | Roostwig has entered the building | 30.00% | ~28 |
-| A very special drink | 29.00% | ~27 |
 | NOW GO AWAY! | 29.00% | ~27 |
 | Game Over! | 28.00% | ~26 |
 | GG | 28.00% | ~26 |
@@ -45,7 +45,7 @@
 | Posterboy! | 8.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 93 (Ranked 496)  
-Completed: 6 (6.45%) (Ranked 63)  
+Completed: 6 (6.45%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

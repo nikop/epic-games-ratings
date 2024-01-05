@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 186,
+  "EOS_Progressed": 187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1301,6 +1301,11 @@
       "Time": "2024-01-05T21:05:03.822692+00:00",
       "NumProgressed": 186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T22:04:48.1075868+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1367,9 +1372,9 @@
       "ID": "20TELEPORTS",
       "SetID": "a1angca",
       "Name": "Beam Me Up",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "20TRADER",
@@ -1439,9 +1444,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "ALLCOMBAT",
@@ -1521,7 +1526,7 @@
       "Name": "Berserker",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CHOSEKLE",
@@ -1553,7 +1558,7 @@
       "Name": "Creator",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "DESTRUCTION",
@@ -1591,17 +1596,17 @@
       "ID": "FINDCITY",
       "SetID": "a1angca",
       "Name": "Civilian",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "FINDMAP",
@@ -1697,7 +1702,7 @@
       "Name": "Eternal Oblivion",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LOVECAJA",
@@ -1712,15 +1717,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 186,
+      "Progressed": 187,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:05:03.8226917+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:04:48.1075862+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:57:55.9820791+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:05:03.8227284+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:57:57.8277917+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:04:48.1076252+00:00"
 }

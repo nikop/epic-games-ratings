@@ -5,8 +5,8 @@ Rating: 4.71 (Ranked 202)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~642 |
-| Thalya – Simply Immortal | 88.00% | ~642 |
+| The Last Stand | 89.00% | ~649 |
+| Thalya – Simply Immortal | 89.00% | ~649 |
 | For the Horde! | 83.00% | ~605 |
 | Hammer Time, Round Two | 81.00% | ~590 |
 | The Hellwoods | 77.00% | ~561 |
@@ -24,8 +24,8 @@ Rating: 4.71 (Ranked 202)
 | Minions, Minions! | 55.00% | ~401 |
 | Hard Work | 54.00% | ~394 |
 | The Big Eaty | 54.00% | ~394 |
+| “… like son” | 51.00% | ~372 |
 | YOU SHALL NOT PASS! | 50.00% | ~364 |
-| “… like son” | 50.00% | ~364 |
 | The Cathedral of Light | 47.00% | ~343 |
 | Shame! Shame! Shame! | 47.00% | ~343 |
 | Tanos' Crusade Against Thalya | 45.00% | ~328 |

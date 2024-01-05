@@ -2,7 +2,7 @@
   "ID": "ba47117fc1974990b642e9ae383ade3f",
   "Name": "Harlow",
   "ProductSlug": "harlow-b10a2a",
-  "Ranking_EOS_Progress": 821,
+  "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 155,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:44.6692065+00:00",
   "LastChanged": "2023-03-31T05:57:44.6692066+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.8800273+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:59:49.2592123+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:05:58.0282586+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:59:26.7333254+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:05:31.768792+00:00"
 }

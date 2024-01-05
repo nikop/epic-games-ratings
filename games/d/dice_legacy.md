@@ -8,9 +8,9 @@ Rating: 4.29 (Ranked 876)
 | We made it | 42.00% | ~549 |
 | The City | 11.00% | ~144 |
 | Manipulating Fate | 10.00% | ~131 |
-| Full house | 7.00% | ~91 |
-| Burn and Pillage | 7.00% | ~91 |
-| Hear me out | 7.00% | ~91 |
+| Full house | 7.00% | ~92 |
+| Burn and Pillage | 7.00% | ~92 |
+| Hear me out | 7.00% | ~92 |
 | Listening to the crowd | 6.00% | ~78 |
 | The Penitent Ones | 5.00% | ~65 |
 | Greedy | 5.00% | ~65 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 876)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,307 (Ranked 275)  
+Progressed: 1,308 (Ranked 275)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 1,291 | 0 |
 | 2024-01-03 | 1,295 | 0 |
 | 2024-01-04 | 1,304 | 0 |
-| 2024-01-05 | 1,307 | 0 |
+| 2024-01-05 | 1,308 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

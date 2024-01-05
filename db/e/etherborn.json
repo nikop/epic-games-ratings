@@ -2,7 +2,7 @@
   "ID": "9900edf94196470f8ac121c5329eae16",
   "Name": "Etherborn",
   "ProductSlug": "etherborn-00f378",
-  "Ranking_EOS_Progress": 821,
+  "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 155,
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:39.1880258+00:00",
   "LastChanged": "2023-03-31T05:58:39.1880259+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:02.867276+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:59:14.3489501+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:04:06.3609299+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:58:58.7066665+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:04:00.8741577+00:00"
 }

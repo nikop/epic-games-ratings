@@ -4,7 +4,7 @@
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 459,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
@@ -378,9 +378,9 @@
       "ID": "LethalWalkInThePark",
       "SetID": "aaidab7",
       "Name": "Lethal Walk In The Park",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Loaded",
@@ -537,8 +537,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:09:06.0988778+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:09:01.5273614+00:00",
   "LastUpdate_AppInfo": "2024-01-02T06:57:01.1508619+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:02:59.0422508+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:09:06.0989019+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:03:07.6319428+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:09:01.5273867+00:00"
 }

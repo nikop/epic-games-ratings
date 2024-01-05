@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7059,
+  "EOS_Progressed": 7075,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2430,
+  "EOS_NewPlayers": 2427,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1859,6 +1859,11 @@
       "Time": "2024-01-05T21:10:01.9302171+00:00",
       "NumProgressed": 7059,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-05T22:09:47.6421805+00:00",
+      "NumProgressed": 7075,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -1871,7 +1876,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 3459
+      "UsersEstimate": 3467
     },
     {
       "ID": "Document1",
@@ -1879,7 +1884,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "Document2",
@@ -1895,7 +1900,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Document4",
@@ -1911,7 +1916,7 @@
       "Name": "Master of Secrets",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Perservant",
@@ -1919,7 +1924,7 @@
       "Name": "Perseverant",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Untraceable2",
@@ -1927,21 +1932,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 7059,
+      "Progressed": 7075,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:10:01.9302165+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:09:47.6421801+00:00",
   "LastUpdate_AppInfo": "2023-12-31T21:56:58.8346544+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:57:56.5252833+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:10:01.9302343+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:57:58.2337306+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:09:47.6421963+00:00"
 }

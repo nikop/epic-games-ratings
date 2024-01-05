@@ -3,11 +3,11 @@
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
   "Ranking_Rating": 654,
-  "Ranking_Popularity": 445,
+  "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1627,
+  "EOS_Progressed": 1632,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4249,6 +4249,11 @@
       "Time": "2024-01-05T21:10:54.212998+00:00",
       "NumProgressed": 1627,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T22:10:31.0192215+00:00",
+      "NumProgressed": 1632,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4260,7 +4265,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -4308,7 +4313,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4316,7 +4321,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1616
     },
     {
       "ID": "EXPERT_1",
@@ -4332,7 +4337,7 @@
       "Name": "Explorer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4380,7 +4385,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "LOVE_GURU_1",
@@ -4388,7 +4393,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -4412,7 +4417,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 555
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4420,7 +4425,7 @@
       "Name": "One shot, one kill",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "PACIFIST",
@@ -4436,7 +4441,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4444,7 +4449,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -4482,9 +4487,9 @@
       "ID": "SAVANT_1",
       "SetID": "bf13m8j",
       "Name": "Savant",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 147
     },
     {
       "ID": "SECRET_ROOM",
@@ -4508,7 +4513,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "TRAVELER_1",
@@ -4516,7 +4521,7 @@
       "Name": "Traveler",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "VVE",
@@ -4532,7 +4537,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "WISHMASTER_1",
@@ -4547,15 +4552,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1627,
+      "Progressed": 1632,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:10:54.2129978+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:10:31.0192208+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:58:21.4258449+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:10:54.213053+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:58:17.4648933+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:10:31.0192584+00:00"
 }

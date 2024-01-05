@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~149 |
-| Map reader | 63.00% | ~103 |
+| Beginner | 92.00% | ~152 |
 | Adventurer | 62.00% | ~102 |
+| Map reader | 62.00% | ~102 |
 | Philanthropist | 59.00% | ~97 |
-| Archer | 41.00% | ~67 |
-| The brave little tailor | 40.00% | ~66 |
+| Archer | 42.00% | ~69 |
 | Field hand | 39.00% | ~64 |
-| Samaritan | 32.00% | ~52 |
-| Well-to-do | 32.00% | ~52 |
+| The brave little tailor | 39.00% | ~64 |
+| Samaritan | 32.00% | ~53 |
+| Well-to-do | 32.00% | ~53 |
 | The merciful one | 29.00% | ~48 |
-| Ladies' man | 29.00% | ~48 |
-| Ferocious wild boars | 24.00% | ~39 |
+| Ladies' man | 28.00% | ~46 |
+| Ferocious wild boars | 24.00% | ~40 |
 | Idiot | 23.00% | ~38 |
-| Beast slayer | 21.00% | ~34 |
+| Beast slayer | 21.00% | ~35 |
 | Death of a legend | 19.00% | ~31 |
 | Archaeologist | 18.00% | ~30 |
 | Ogre friend | 18.00% | ~30 |
@@ -40,8 +40,8 @@ Rating: 4.55 (Ranked 524)
 | Master thief | 10.00% | ~16 |
 | Showdown | 9.00% | ~15 |
 | King of the handymen | 8.00% | ~13 |
-| Titan Lord | 7.00% | ~11 |
-| Expert | 7.00% | ~11 |
+| Titan Lord | 7.00% | ~12 |
+| Expert | 7.00% | ~12 |
 | Terror of the hens | 6.00% | ~10 |
 | Moneybags | 6.00% | ~10 |
 | The traveler | 5.00% | ~8 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 524)
 | Master of the classes | 0.60% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164 (Ranked 443)  
+Progressed: 165 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 156 | 0 |
 | 2024-01-03 | 159 | 0 |
 | 2024-01-04 | 162 | 0 |
-| 2024-01-05 | 164 | 0 |
+| 2024-01-05 | 165 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

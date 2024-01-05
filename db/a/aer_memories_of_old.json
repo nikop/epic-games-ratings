@@ -425,9 +425,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28034,
+  "EOS_Progressed": 28036,
   "EOS_Completed": 514,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
@@ -28500,6 +28500,11 @@
       "Time": "2024-01-05T21:06:09.8495452+00:00",
       "NumProgressed": 28034,
       "NumCompleted": 514
+    },
+    {
+      "Time": "2024-01-05T22:05:41.3864256+00:00",
+      "NumProgressed": 28036,
+      "NumCompleted": 514
     }
   ],
   "TotalAchievements": 20,
@@ -28511,7 +28516,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4485
+      "UsersEstimate": 4486
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -28551,7 +28556,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2803
+      "UsersEstimate": 2804
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -28559,7 +28564,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -28607,7 +28612,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3644
+      "UsersEstimate": 3645
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -28631,7 +28636,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21306
+      "UsersEstimate": 21307
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28639,7 +28644,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7569
+      "UsersEstimate": 7570
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28647,7 +28652,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3644
+      "UsersEstimate": 3645
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -28670,15 +28675,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28034,
+      "Progressed": 28036,
       "Completed": 514
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:06:09.8495448+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:05:41.3864251+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:58:45.6380873+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:06:09.8497318+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:58:35.7659819+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:05:41.3865551+00:00"
 }

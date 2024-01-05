@@ -661,10 +661,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 209,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-01-05T22:03:08.0395372+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 210,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 209,
+  "NumberOfAwards": 210,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -702,7 +708,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -717,9 +723,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6899,
+  "EOS_Progressed": 6902,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10457,6 +10463,11 @@
       "Time": "2024-01-05T21:04:40.7684454+00:00",
       "NumProgressed": 6899,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T22:04:29.3563558+00:00",
+      "NumProgressed": 6902,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10476,7 +10487,7 @@
       "Name": "Snap Out of It!",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "11",
@@ -10500,7 +10511,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "14",
@@ -10570,9 +10581,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 138
     },
     {
       "ID": "22",
@@ -10947,22 +10958,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6899,
+      "Progressed": 6902,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6899,
+      "Progressed": 6902,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:04:40.7684449+00:00",
+  "LastChanged": "2024-01-05T22:03:08.039537+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:04:29.3563554+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:02:59.5589163+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:04:40.7685191+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:03:08.0395376+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:04:29.3564304+00:00"
 }

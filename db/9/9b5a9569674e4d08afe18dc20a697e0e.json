@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 420,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -814,9 +814,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "MOUNTAINEER",
@@ -862,9 +862,9 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "SOUL",
@@ -909,8 +909,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:04:22.3707616+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:04:13.878623+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.400694+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:57:37.640399+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:04:22.370784+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:57:43.435158+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:04:13.8786469+00:00"
 }

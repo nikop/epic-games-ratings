@@ -35,9 +35,9 @@
 | Pulp! The Beyond | 10.00% | ~8 |
 | The beast in the Oval Office | 8.00% | ~7 |
 | The adventurer | 8.00% | ~7 |
+| Pulp! True Adventures | 8.00% | ~7 |
 | ECO mode | 8.00% | ~7 |
 | The scholar | 7.00% | ~6 |
-| Pulp! True Adventures | 7.00% | ~6 |
 | America had no Faith | 7.00% | ~6 |
 | The barbarian invasions | 6.00% | ~5 |
 | Vaccine fans | 6.00% | ~5 |

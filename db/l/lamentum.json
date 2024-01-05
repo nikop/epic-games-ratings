@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -78,11 +78,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 346,
+  "EOS_Progressed": 347,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.6,
+  "EOS_Completed_Percentage": 2.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -483,6 +483,11 @@
       "Time": "2024-01-05T13:12:49.9675584+00:00",
       "NumProgressed": 346,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-05T22:08:42.8017498+00:00",
+      "NumProgressed": 347,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -566,7 +571,7 @@
       "Name": "Grau Hill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_10",
@@ -574,7 +579,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_11",
@@ -596,9 +601,9 @@
       "ID": "achievement_13",
       "SetID": "7881h0d",
       "Name": "One step down",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_14",
@@ -614,7 +619,7 @@
       "Name": "My dear Magda",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_16",
@@ -645,7 +650,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 346,
+      "Progressed": 347,
       "Completed": 9
     }
   ],
@@ -653,8 +658,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-12-19T15:00:52.3248594+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:08:43.3455334+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:08:42.8017492+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:31.5419716+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:58:13.4760136+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:08:43.3455463+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:58:11.9946488+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:08:42.8017618+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1158,9 +1158,9 @@
       "ID": "RoomToSpare",
       "SetID": "4bd750m",
       "Name": "Room To Spare",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "SlottingMachine",
@@ -1245,8 +1245,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:05:53.3935159+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:05:28.1060194+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:03:39.531197+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:05:53.3935364+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:03:39.8178443+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:05:28.106042+00:00"
 }

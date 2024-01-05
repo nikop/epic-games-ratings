@@ -33,6 +33,7 @@ Rating: 4.62 (Ranked 379)
 | God Emperor | 2.00% | ~138 |
 | Arch Mage | 2.00% | ~138 |
 | The Creator | 2.00% | ~138 |
+| Eternal Lord | 2.00% | ~138 |
 | Crimson Caldera | 2.00% | ~138 |
 | Here be Dragons | 2.00% | ~138 |
 | Blood of the Dragon | 2.00% | ~138 |
@@ -43,7 +44,6 @@ Rating: 4.62 (Ranked 379)
 | I've Got Everything I Need Right Here | 1.00% | ~69 |
 | Lord of Chaos | 1.00% | ~69 |
 | The Goddess of Nature | 1.00% | ~69 |
-| Eternal Lord | 1.00% | ~69 |
 | Manufactured War | 1.00% | ~69 |
 | The Eternal Court | 1.00% | ~69 |
 | Pruning for Progress | 1.00% | ~69 |
@@ -55,8 +55,8 @@ Rating: 4.62 (Ranked 379)
 | One for All, All for One | 0.90% | ~62 |
 | Betrayal Most Foul | 0.80% | ~55 |
 | Duality | 0.80% | ~55 |
-| Snap Out of It! | 0.50% | ~34 |
-| The Magic That Empowers Me! | 0.50% | ~34 |
+| Snap Out of It! | 0.50% | ~35 |
+| The Magic That Empowers Me! | 0.50% | ~35 |
 | A Very Special Ring | 0.40% | ~28 |
 | Jack of All Tomes | 0.30% | ~21 |
 | I Want to Break Free | 0.10% | ~7 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,899 (Ranked 197)  
+Progressed: 6,902 (Ranked 197)  
 Completed: 7 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,10 +294,10 @@ Completed: 7 (0.10%) (Ranked 307)
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
-| 2024-01-05 | 6,899 | 7 |
+| 2024-01-05 | 6,902 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
-Sum: 209 (Ranked 411)  
+Sum: 210 (Ranked 411)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -306,8 +306,8 @@ Diff (max vs sum): 69
 | This game is Extremely Fun | 26 |
 | This game is Highly Recommended | 22 |
 | This game has Amazing Storytelling | 21 |
+| This game has Challenging Combat | 21 |
 | This game has Quickly Understood Controls | 21 |
-| This game has Challenging Combat | 20 |
 | This game has Beautiful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -395,3 +395,4 @@ Diff (max vs sum): 69
 | 2024-01-01 | 4.62 | 39 | 184 |
 | 2024-01-02 | 4.62 | 40 | 207 |
 | 2024-01-03 | 4.62 | 40 | 209 |
+| 2024-01-05 | 4.62 | 40 | 210 |

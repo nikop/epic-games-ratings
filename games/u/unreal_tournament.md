@@ -1,12 +1,12 @@
 # Unreal Tournament
 [Store](https://store.epicgames.com/en-US/p/unreal-tournament)  
 [View Rawdata](../../db/u/unreal_tournament.json)  
-Rating: 4.66 (Ranked 303)  
+Rating: 4.66 (Ranked 302)  
 Number of Ratings: 1,070  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 460  (Ranked 226)  
-Sum: 3,964 (Ranked 164)  
-Diff (max vs sum): 62  
+Sum: 3,964 (Ranked 165)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 460 |

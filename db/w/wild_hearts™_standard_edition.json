@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1148,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -3979,9 +3979,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 425
     },
     {
       "ID": "achievement_30",
@@ -4193,8 +4193,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:10:13.0388646+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:09:56.9404505+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:58:24.3097205+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:10:13.0389239+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:58:19.6047741+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:09:56.9405115+00:00"
 }

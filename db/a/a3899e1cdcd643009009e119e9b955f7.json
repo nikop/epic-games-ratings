@@ -2,10 +2,10 @@
   "ID": "a3899e1cdcd643009009e119e9b955f7",
   "Name": null,
   "ProductSlug": "3dmark",
-  "Ranking_Rating": 39,
+  "Ranking_Rating": 46,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
-  "Ranking_EOS_Progress": 821,
+  "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 155,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.85,
+  "Rating": 4.84,
   "RatingHistory": [
     {
       "Time": "2023-10-31T00:01:13.5106707+00:00",
@@ -121,6 +121,12 @@
       "Rating": 4.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-05T22:00:31.1322172+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -139,8 +145,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-20T19:00:08.0227684+00:00",
   "FirstSeenRating": "2023-10-31T00:01:13.5106703+00:00",
-  "LastChanged": "2024-01-03T02:19:48.6449553+00:00",
+  "LastChanged": "2024-01-05T22:00:31.132217+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:03.970753+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:01:12.0225307+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:10:33.6738164+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:00:31.1322175+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:10:13.5648536+00:00"
 }

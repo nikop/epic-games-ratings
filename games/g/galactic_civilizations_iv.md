@@ -56,6 +56,7 @@ Number of Ratings: 429  (23.09.2022)
 | Play for 1000 Hours | 0.10% | ~8 |
 | Play for 100 Hours | 0.10% | ~8 |
 | Play for 5 Hours | 0.10% | ~8 |
+| Play a Multiplayer Game | 0.10% | ~8 |
 | It's OUR Homeworld | 0.10% | ~8 |
 | Recruit a Leader | 0.10% | ~8 |
 | Commodity Seller, Level 2 | 0.10% | ~8 |
@@ -73,7 +74,6 @@ Number of Ratings: 429  (23.09.2022)
 | The Plague | 0.00% | ~0 |
 | Veteran Crew | 0.00% | ~0 |
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
-| Play a Multiplayer Game | 0.00% | ~0 |
 | Rebuild the Retribution | 0.00% | ~0 |
 | Recruit a Dozen Leaders | 0.00% | ~0 |
 | Commodity Selling Guru | 0.00% | ~0 |

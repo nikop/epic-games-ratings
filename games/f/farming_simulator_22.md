@@ -1,46 +1,46 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 263)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~43,320 |
-| I read Shakespeare and stuff | 59.00% | ~35,998 |
-| Just a sprinkle | 58.00% | ~35,388 |
-| I'm stumped | 56.00% | ~34,168 |
-| Plant get enough | 56.00% | ~34,168 |
-| This is just my weekend vehicle | 54.00% | ~32,948 |
-| It's just the beginning | 54.00% | ~32,948 |
-| Hard work pays off | 49.00% | ~29,897 |
-| It's never too late to farm | 46.00% | ~28,066 |
-| All out of Land | 41.00% | ~25,016 |
-| Field Trip | 40.00% | ~24,406 |
-| I like to switch it up | 37.00% | ~22,575 |
-| Help me to help you | 35.00% | ~21,355 |
-| Ultimutt Pawesomeness | 25.00% | ~15,254 |
-| Van Gogh | 23.00% | ~14,033 |
-| Vehicle fleet | 21.00% | ~12,813 |
-| You wood not believe it | 20.00% | ~12,203 |
-| Well-Oiled Machine | 15.00% | ~9,152 |
-| Long haul | 15.00% | ~9,152 |
-| Clucky Streak | 14.00% | ~8,542 |
-| The plot thickens | 14.00% | ~8,542 |
-| Large-scale supplier | 14.00% | ~8,542 |
-| That's a wrap | 14.00% | ~8,542 |
-| Rock on | 11.00% | ~6,712 |
-| Fix me up | 11.00% | ~6,712 |
-| Highly cultivated | 10.00% | ~6,101 |
-| It's sow easy | 10.00% | ~6,101 |
-| Giddy-up! | 9.00% | ~5,491 |
-| Cowherd | 6.00% | ~3,661 |
-| Fluffyness | 6.00% | ~3,661 |
+| Own use | 71.00% | ~43,329 |
+| I read Shakespeare and stuff | 59.00% | ~36,006 |
+| Just a sprinkle | 58.00% | ~35,396 |
+| I'm stumped | 56.00% | ~34,175 |
+| Plant get enough | 56.00% | ~34,175 |
+| This is just my weekend vehicle | 54.00% | ~32,955 |
+| It's just the beginning | 54.00% | ~32,955 |
+| Hard work pays off | 49.00% | ~29,903 |
+| It's never too late to farm | 46.00% | ~28,072 |
+| All out of Land | 41.00% | ~25,021 |
+| Field Trip | 40.00% | ~24,411 |
+| I like to switch it up | 37.00% | ~22,580 |
+| Help me to help you | 35.00% | ~21,359 |
+| Ultimutt Pawesomeness | 25.00% | ~15,257 |
+| Van Gogh | 23.00% | ~14,036 |
+| Vehicle fleet | 21.00% | ~12,816 |
+| You wood not believe it | 20.00% | ~12,205 |
+| Well-Oiled Machine | 15.00% | ~9,154 |
+| Long haul | 15.00% | ~9,154 |
+| Clucky Streak | 14.00% | ~8,544 |
+| The plot thickens | 14.00% | ~8,544 |
+| Large-scale supplier | 14.00% | ~8,544 |
+| That's a wrap | 14.00% | ~8,544 |
+| Rock on | 11.00% | ~6,713 |
+| Fix me up | 11.00% | ~6,713 |
+| Highly cultivated | 10.00% | ~6,103 |
+| It's sow easy | 10.00% | ~6,103 |
+| Giddy-up! | 9.00% | ~5,492 |
+| Cowherd | 6.00% | ~3,662 |
+| Fluffyness | 6.00% | ~3,662 |
 | Road Trip | 5.00% | ~3,051 |
 | Helper A does not stop … ever | 5.00% | ~3,051 |
 | Bringing in the Honey | 5.00% | ~3,051 |
 | Three little piggies… | 4.00% | ~2,441 |
-| Game on | 3.00% | ~1,830 |
+| Game on | 3.00% | ~1,831 |
 | Pretty colourful | 0.70% | ~427 |
 | Original grain | 0.70% | ~427 |
 | Gone but not for cotton | 0.50% | ~305 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~244 |
 | Raisin the stakes | 0.30% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,014 (Ranked 118)  
+Progressed: 61,027 (Ranked 118)  
 Completed: 6 (0.01%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,10 +310,10 @@ Completed: 6 (0.01%) (Ranked 370)
 | 2024-01-02 | 60,416 | 6 |
 | 2024-01-03 | 60,597 | 6 |
 | 2024-01-04 | 60,804 | 6 |
-| 2024-01-05 | 61,014 | 6 |
+| 2024-01-05 | 61,027 | 6 |
 ## Awards
 Max (Great for Beginners): 6,016  (Ranked 68)  
-Sum: 45,216 (Ranked 34)  
+Sum: 45,222 (Ranked 34)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -321,9 +321,9 @@ Diff (max vs sum): 34
 | This game has Diverse Characters | 4,878 |
 | This game is Educational | 4,529 |
 | This game is Highly Recommended | 4,511 |
-| This game is Relaxing | 4,420 |
+| This game is Relaxing | 4,424 |
 | This game has Quickly Understood Controls | 4,412 |
-| This game is Extremely Fun | 4,358 |
+| This game is Extremely Fun | 4,360 |
 | This game has Amazing Storytelling | 4,245 |
 | This game has Amazing Characters | 3,951 |
 | This game has a Creative Community | 3,896 |
@@ -685,4 +685,4 @@ Diff (max vs sum): 34
 | 2024-01-02 | 4.68 | - | 5,989 | 45,094 |
 | 2024-01-03 | 4.68 | - | 6,000 | 45,134 |
 | 2024-01-04 | 4.68 | - | 6,008 | 45,183 |
-| 2024-01-05 | 4.68 | - | 6,016 | 45,216 |
+| 2024-01-05 | 4.68 | - | 6,016 | 45,222 |

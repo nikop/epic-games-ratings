@@ -2,7 +2,7 @@
   "ID": "53b4ffb651f04ca0bbd47c310ad6efd8",
   "Name": "OpenSeason",
   "ProductSlug": "openseason-75e993",
-  "Ranking_EOS_Progress": 821,
+  "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 155,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-31T16:57:03.2871041+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:59:47.3107788+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:08:13.9776668+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:59:25.0839468+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:06:58.6957161+00:00"
 }

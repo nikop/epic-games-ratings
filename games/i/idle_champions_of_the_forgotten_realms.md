@@ -7,10 +7,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~7,550 |
-| The Cursed Farmer | 2.00% | ~5,033 |
+| The Cursed Farmer | 2.00% | ~5,034 |
 | Beast Intentions | 1.00% | ~2,517 |
 | The Mad Wizard | 1.00% | ~2,517 |
-| Welcome to Sigil | 0.80% | ~1,743 |
+| Welcome to Sigil | 0.80% | ~1,744 |
 | The Ring of Regeneration | 0.70% | ~1,762 |
 | Are Ya Chicken? | 0.70% | ~1,762 |
 | Were-verpowered | 0.60% | ~1,510 |
@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.20% | ~503 |
 | The Dinner Party | 0.20% | ~503 |
 | The Death Curse | 0.20% | ~503 |
+| Premature Betrayal | 0.20% | ~503 |
 | A Tale of Two Cities | 0.20% | ~503 |
 | Flying Monkey Skulls of Doom | 0.20% | ~503 |
 | Running of the Saurs | 0.20% | ~503 |
@@ -279,7 +280,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twilight Twist | 0.10% | ~218 |
 | Excavating History | 0.10% | ~252 |
 | Screams of the Dead | 0.10% | ~252 |
-| Premature Betrayal | 0.10% | ~252 |
 | Frantic Excavation | 0.10% | ~252 |
 | Birds of a Feather | 0.10% | ~218 |
 | Towering Expectations | 0.10% | ~252 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,663 (Ranked 70)  
+Progressed: 251,679 (Ranked 70)  
 Completed: 2,596 (1.03%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -813,16 +813,16 @@ Completed: 2,596 (1.03%) (Ranked 171)
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
-| 2024-01-05 | 251,663 | 2,596 |
+| 2024-01-05 | 251,679 | 2,596 |
 ## Awards
 Max (Great for Beginners): 5,750  (Ranked 72)  
-Sum: 33,337 (Ranked 41)  
+Sum: 33,341 (Ranked 41)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,750 |
 | This game has Diverse Characters | 5,692 |
-| This game has Quickly Understood Controls | 4,891 |
+| This game has Quickly Understood Controls | 4,895 |
 | This game is Relaxing | 4,763 |
 | This game has Amazing Characters | 4,319 |
 | This game is Highly Recommended | 4,298 |
@@ -1174,4 +1174,4 @@ Diff (max vs sum): 31
 | 2024-01-02 | 4.06 | - | 5,730 | 33,274 |
 | 2024-01-03 | 4.06 | - | 5,730 | 33,294 |
 | 2024-01-04 | 4.06 | - | 5,740 | 33,310 |
-| 2024-01-05 | 4.06 | - | 5,750 | 33,337 |
+| 2024-01-05 | 4.06 | - | 5,750 | 33,341 |

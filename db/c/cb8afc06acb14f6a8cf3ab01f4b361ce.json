@@ -467,9 +467,9 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 341370,
+  "EOS_Progressed": 341395,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3872,
+  "EOS_NewPlayers": 3877,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12292,6 +12292,11 @@
       "Time": "2024-01-05T21:09:24.9149404+00:00",
       "NumProgressed": 341370,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T22:09:16.920601+00:00",
+      "NumProgressed": 341395,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12304,7 +12309,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13655
+      "UsersEstimate": 13656
     },
     {
       "ID": "S02_BRDA",
@@ -12312,7 +12317,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10241
+      "UsersEstimate": 10242
     },
     {
       "ID": "S03_OTWA",
@@ -12328,15 +12333,15 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "S05_SWRA",
       "SetID": "4j44ol8",
       "Name": "Back to your senses",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2731
     },
     {
       "ID": "S06_LWTC",
@@ -12440,7 +12445,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17068
+      "UsersEstimate": 17070
     },
     {
       "ID": "S19_CHALLENGES",
@@ -12616,14 +12621,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6827
+      "UsersEstimate": 6828
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 341370,
+      "Progressed": 341395,
       "Completed": 7
     }
   ],
@@ -12631,8 +12636,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-05T18:59:44.5001428+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:09:24.9149399+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:09:16.9206005+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.1079824+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:58:46.3520101+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:09:24.9150092+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:58:36.3075149+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:09:16.9207074+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1240,
+  "EOS_Progressed": 1241,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3667,6 +3667,11 @@
       "Time": "2024-01-05T21:11:03.7724578+00:00",
       "NumProgressed": 1240,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T22:10:39.9907216+00:00",
+      "NumProgressed": 1241,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3726,7 +3731,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ClovemaryGift",
@@ -3740,9 +3745,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 87
     },
     {
       "ID": "CosmeticProgress1",
@@ -3798,7 +3803,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3806,7 +3811,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3958,7 +3963,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "RewindDamage1",
@@ -3990,7 +3995,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "SkillCompletion1",
@@ -4022,7 +4027,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "SyronGift",
@@ -4101,7 +4106,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1240,
+      "Progressed": 1241,
       "Completed": 6
     }
   ],
@@ -4109,8 +4114,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:11:03.7724575+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:10:39.9907212+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:57:26.3523067+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:11:03.7725085+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:57:34.4473042+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:10:39.9907794+00:00"
 }

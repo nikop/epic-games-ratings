@@ -2,7 +2,7 @@
   "ID": "125eda42f0574d97a16a5721f10d3ea1",
   "Name": "Definitely Sneaky But Not Sneaky",
   "ProductSlug": "my-product-b51a19",
-  "Ranking_EOS_Progress": 821,
+  "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 155,
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-01-05T22:05:37.4424401+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-01-05T05:04:36.9118895+00:00",
   "TotalAchievements": 28,
   "TotalAchievementsXP": 1000,
@@ -164,9 +170,9 @@
       "ID": "KILL",
       "SetID": "5770k2f",
       "Name": "Murderer",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_0_COMPLETED",
@@ -261,13 +267,13 @@
     {
       "ID": "5770k2f",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:06:05.0536733+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:05:37.4424399+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.29782+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:59:38.1842383+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:06:05.0536924+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:59:17.3351427+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:05:37.442453+00:00"
 }

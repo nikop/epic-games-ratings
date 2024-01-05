@@ -1,14 +1,14 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 470)  
+Rating: 4.58 (Ranked 471)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 32.00% | ~1,279 |
-| Sputnik 2049 | 28.00% | ~1,119 |
-| Infinite Growth... | 27.00% | ~1,079 |
-| Without Breaking Some Eggs... | 26.00% | ~1,039 |
+| Wakey Wakey | 32.00% | ~1,280 |
+| Sputnik 2049 | 28.00% | ~1,120 |
+| Infinite Growth... | 27.00% | ~1,080 |
+| Without Breaking Some Eggs... | 26.00% | ~1,040 |
 | Ready for a New World | 19.00% | ~760 |
 | Space Society | 18.00% | ~720 |
 | A Thousand Strong | 18.00% | ~720 |
@@ -24,8 +24,8 @@ Rating: 4.58 (Ranked 470)
 | Man's Best Friend | 9.00% | ~360 |
 | Power Outage | 9.00% | ~360 |
 | Please Make it Stop! | 9.00% | ~360 |
+| Sightseeing | 8.00% | ~320 |
 | Convenient Transport | 8.00% | ~320 |
-| Sightseeing | 7.00% | ~280 |
 | Necessary Enhancement | 7.00% | ~280 |
 | From the Past | 7.00% | ~280 |
 | Access Granted | 6.00% | ~240 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 470)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,998 (Ranked 211)  
+Progressed: 3,999 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 3,912 | 0 |
 | 2024-01-03 | 3,940 | 0 |
 | 2024-01-04 | 3,963 | 0 |
-| 2024-01-05 | 3,998 | 0 |
+| 2024-01-05 | 3,999 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

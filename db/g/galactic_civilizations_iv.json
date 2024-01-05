@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -9896,9 +9896,9 @@
       "ID": "Play_Multiplayer",
       "SetID": "4h07amh",
       "Name": "Play a Multiplayer Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "Rebuild_The_Retribution",
@@ -10232,8 +10232,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-27T21:02:14.3045553+00:00",
-  "LastChanged_Achievements": "2024-01-05T21:10:57.6494014+00:00",
+  "LastChanged_Achievements": "2024-01-05T22:10:34.1580974+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:30.2533612+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:57:53.6562379+00:00",
-  "LastUpdate_Achievements": "2024-01-05T21:10:57.6495492+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:57:56.1405841+00:00",
+  "LastUpdate_Achievements": "2024-01-05T22:10:34.1582137+00:00"
 }

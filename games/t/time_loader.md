@@ -34,7 +34,7 @@
 | Secret ending | 8.00% | ~11 |
 | Leave me alone | 7.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 460)  
+Progressed: 141 (Ranked 461)  
 Completed: 9 (6.38%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |

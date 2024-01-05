@@ -6,23 +6,23 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,834 |
-| Photogenic | 82.00% | ~8,423 |
-| Surge Gauntlet Jockey | 79.00% | ~8,115 |
-| Plug It In | 78.00% | ~8,012 |
-| Adventure Time | 75.00% | ~7,704 |
-| Playing With Power | 72.00% | ~7,396 |
+| Let's Get This Party Started | 86.00% | ~8,835 |
+| Photogenic | 82.00% | ~8,424 |
+| Surge Gauntlet Jockey | 79.00% | ~8,116 |
+| Plug It In | 78.00% | ~8,013 |
+| Adventure Time | 75.00% | ~7,705 |
+| Playing With Power | 72.00% | ~7,397 |
 | Coup d'Etat | 55.00% | ~5,650 |
 | You're Fired | 54.00% | ~5,547 |
-| Get Furious | 53.00% | ~5,444 |
-| Hacks In Stacks | 52.00% | ~5,341 |
+| Get Furious | 53.00% | ~5,445 |
+| Hacks In Stacks | 52.00% | ~5,342 |
 | Gunplay And Cosplay | 51.00% | ~5,239 |
-| Meching Enemies | 46.00% | ~4,725 |
-| Ticket Toddler | 42.00% | ~4,314 |
+| Meching Enemies | 46.00% | ~4,726 |
+| Ticket Toddler | 42.00% | ~4,315 |
 | Booty Bashing | 36.00% | ~3,698 |
 | Field Medic | 36.00% | ~3,698 |
-| Here Comes a New Challenger | 35.00% | ~3,595 |
-| Rapid Response | 31.00% | ~3,184 |
+| Here Comes a New Challenger | 35.00% | ~3,596 |
+| Rapid Response | 31.00% | ~3,185 |
 | Surge Ahead | 29.00% | ~2,979 |
 | The Full Monty | 29.00% | ~2,979 |
 | Guardian Angel | 26.00% | ~2,671 |
@@ -34,9 +34,9 @@ Number of Ratings: 801  (23.09.2022)
 | To Be Continued | 13.00% | ~1,335 |
 | Light My Fire | 11.00% | ~1,130 |
 | Seasoned Adventurer | 11.00% | ~1,130 |
-| Get In The Ring! | 9.00% | ~924 |
-| 1.21 Gigawatts | 9.00% | ~924 |
-| This Is My Boomstick! | 9.00% | ~924 |
+| Get In The Ring! | 9.00% | ~925 |
+| 1.21 Gigawatts | 9.00% | ~925 |
+| This Is My Boomstick! | 9.00% | ~925 |
 | Rescue Ranger | 8.00% | ~822 |
 | Surge Gauntlet Scholar | 6.00% | ~616 |
 | Ticket Titan | 6.00% | ~616 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~41 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,272 (Ranked 179)  
+Progressed: 10,273 (Ranked 179)  
 Completed: 2 (0.02%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2 (0.02%) (Ranked 359)
 | 2024-01-02 | 10,232 | 2 |
 | 2024-01-03 | 10,247 | 2 |
 | 2024-01-04 | 10,264 | 2 |
-| 2024-01-05 | 10,272 | 2 |
+| 2024-01-05 | 10,273 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 420)  
 Sum: 465 (Ranked 338)  
