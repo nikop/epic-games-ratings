@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 719,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.89,
   "EosHistory": [
@@ -2340,9 +2340,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 496
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2404,9 +2404,9 @@
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 324
     },
     {
       "ID": "ach_main07storm_storm",
@@ -2741,8 +2741,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:09:24.3541237+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:55:55.4807708+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:01:55.0727373+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:09:24.3541971+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:47:11.9123643+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:55:55.4808247+00:00"
 }

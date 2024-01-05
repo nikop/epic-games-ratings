@@ -4,8 +4,8 @@
   "ProductSlug": "im-looking-for-3024-people-1cdae4",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-04T22:00:00+00:00",
     "PcReleaseDate": "2023-02-03T00:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-05-05T18:02:33.821678+00:00",
   "LastChanged": "2023-05-05T18:02:33.8216781+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:07.2284559+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:59:25.512899+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:05:43.5252706+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:45:31.6740869+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:51:39.8944148+00:00"
 }

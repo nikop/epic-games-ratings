@@ -4,8 +4,8 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -648,17 +648,17 @@
       "ID": "josh_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Josh the Saviour",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "lessons_never_learnt",
@@ -760,9 +760,9 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "the_swell_celebration",
@@ -799,8 +799,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:10:35.7733177+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:56:46.3731088+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.7509332+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:00:37.5318994+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:10:35.7733355+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:46:22.2967002+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:56:46.3731321+00:00"
 }

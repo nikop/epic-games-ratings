@@ -6,9 +6,9 @@
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2458,6 +2458,11 @@
       "Time": "2024-01-05T00:09:44.6236436+00:00",
       "NumProgressed": 709,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T01:56:10.108613+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2469,7 +2474,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2477,7 +2482,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2485,7 +2490,7 @@
       "Name": "Guardian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -2493,7 +2498,7 @@
       "Name": "Nosebleeder",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -2523,9 +2528,9 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "7pimpda",
       "Name": "Lethal Blade Mantis Killer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -2533,7 +2538,7 @@
       "Name": "Squeaky Clean",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -2557,7 +2562,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2581,7 +2586,7 @@
       "Name": "Beginner Cook",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2597,7 +2602,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2605,7 +2610,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2637,7 +2642,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2725,7 +2730,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2828,7 +2833,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 3
     }
   ],
@@ -2836,8 +2841,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:09:44.6236434+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:56:10.1086123+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:58:27.2969326+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:09:44.6236854+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:44:53.1739552+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:56:10.1086722+00:00"
 }

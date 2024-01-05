@@ -6,9 +6,9 @@
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44827,
+  "EOS_Progressed": 44828,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -20352,6 +20352,11 @@
       "Time": "2024-01-05T00:07:04.671887+00:00",
       "NumProgressed": 44827,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-05T01:52:36.1157169+00:00",
+      "NumProgressed": 44828,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20363,7 +20368,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25551
+      "UsersEstimate": 25552
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -20371,7 +20376,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13896
+      "UsersEstimate": 13897
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -20419,7 +20424,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -20507,7 +20512,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -20531,7 +20536,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -20571,7 +20576,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8965
+      "UsersEstimate": 8966
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -20579,7 +20584,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10758
+      "UsersEstimate": 10759
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -20603,7 +20608,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28241
+      "UsersEstimate": 28242
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -20611,7 +20616,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12103
+      "UsersEstimate": 12104
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -20627,7 +20632,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26896
+      "UsersEstimate": 26897
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -20635,7 +20640,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30034
+      "UsersEstimate": 30035
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -20667,7 +20672,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20172
+      "UsersEstimate": 20173
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -20699,7 +20704,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41689
+      "UsersEstimate": 41690
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20707,14 +20712,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23310
+      "UsersEstimate": 23311
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44827,
+      "Progressed": 44828,
       "Completed": 248
     }
   ],
@@ -20722,8 +20727,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:07:04.6718867+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:52:36.1157166+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.3527303+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:03:11.5246075+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:07:04.6720117+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:50:02.5304396+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:52:36.1159229+00:00"
 }

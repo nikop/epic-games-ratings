@@ -18,7 +18,7 @@
 | Fire-fighter! | 67.00% | ~100 |
 | Oh, you're up to no gouda! | 66.00% | ~99 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~94 |
-| Meat grinder | 61.00% | ~92 |
+| Meat grinder | 62.00% | ~93 |
 | You're not going to blow me up! | 57.00% | ~85 |
 | Mushroom soup of the day | 54.00% | ~81 |
 | Butcher | 51.00% | ~76 |

@@ -3,9 +3,9 @@
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
   "Ranking_EOS_Progress": 485,
-  "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 524,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_NewPlayers": 523,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -232,33 +232,33 @@
       "ID": "05-DrumsInTheDeep",
       "SetID": "5iij4gg",
       "Name": "Drums in the Deep",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "06-CantBearTheWeight",
       "SetID": "5iij4gg",
       "Name": "Can\u0027t bear the weight",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "07-TakeTheScenicRoute",
       "SetID": "5iij4gg",
       "Name": "Take the Scenic Route",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "08-TreasureSeeker",
       "SetID": "5iij4gg",
       "Name": "Treasure Seeker",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "09-IveFallenAndICantGetUp",
@@ -280,9 +280,9 @@
       "ID": "11-StGeorgesGauntlet",
       "SetID": "5iij4gg",
       "Name": "St. George\u0027s Gauntlet",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "12-RedbeardsRevenger",
@@ -312,9 +312,9 @@
       "ID": "15-BJAndTheBear",
       "SetID": "5iij4gg",
       "Name": "BJ \u0026 The Bear",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "16-MrMagic",
@@ -336,9 +336,9 @@
       "ID": "18-GreenThumbGoliath",
       "SetID": "5iij4gg",
       "Name": "Green Thumb Goliath",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "19-WhoDat",
@@ -401,8 +401,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:06:04.9592694+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:51:55.171844+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:14.424035+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:02:47.4146676+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:06:04.9592908+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:49:46.0493956+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:51:55.171859+00:00"
 }

@@ -6,29 +6,29 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~7,050 |
-| Man of politics | 34.00% | ~5,992 |
-| Yet another secret | 33.00% | ~5,816 |
-| Friends of sorts | 32.00% | ~5,640 |
+| Tattletale | 40.00% | ~7,051 |
+| Man of politics | 34.00% | ~5,993 |
+| Yet another secret | 33.00% | ~5,817 |
+| Friends of sorts | 32.00% | ~5,641 |
 | Let there be darkness | 31.00% | ~5,464 |
-| End of Book One | 29.00% | ~5,111 |
+| End of Book One | 29.00% | ~5,112 |
 | Wannabe knight | 23.00% | ~4,054 |
 | Garden of Eden | 23.00% | ~4,054 |
 | Full house | 23.00% | ~4,054 |
-| Help an old friend | 21.00% | ~3,701 |
+| Help an old friend | 21.00% | ~3,702 |
 | Two of us | 20.00% | ~3,525 |
-| Negotiation skills | 18.00% | ~3,172 |
-| Workers' union | 18.00% | ~3,172 |
-| End of Book Two | 18.00% | ~3,172 |
+| Negotiation skills | 18.00% | ~3,173 |
+| Workers' union | 18.00% | ~3,173 |
+| End of Book Two | 18.00% | ~3,173 |
 | Everything's in order | 16.00% | ~2,820 |
 | Twist of Fate | 14.00% | ~2,468 |
 | Jack was here! | 14.00% | ~2,468 |
-| Exterminator | 13.00% | ~2,291 |
+| Exterminator | 13.00% | ~2,292 |
 | Whodunnit | 12.00% | ~2,115 |
-| Good midwife | 10.00% | ~1,762 |
-| Friar Tuck | 10.00% | ~1,762 |
-| First profit | 10.00% | ~1,762 |
-| Team player | 10.00% | ~1,762 |
+| Good midwife | 10.00% | ~1,763 |
+| Friar Tuck | 10.00% | ~1,763 |
+| First profit | 10.00% | ~1,763 |
+| Team player | 10.00% | ~1,763 |
 | Skilled merchant | 9.00% | ~1,586 |
 | Brother Marcus | 9.00% | ~1,586 |
 | The oath | 9.00% | ~1,586 |
@@ -46,9 +46,9 @@ Number of Ratings: 368  (23.09.2022)
 | Care, like a brother cares | 3.00% | ~529 |
 | A brush with death | 3.00% | ~529 |
 | Self-defense | 3.00% | ~529 |
-| Boy of mystery | 2.00% | ~352 |
+| Boy of mystery | 2.00% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,625 (Ranked 161)  
+Progressed: 17,627 (Ranked 161)  
 Completed: 124 (0.70%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 124 (0.70%) (Ranked 194)
 | 2024-01-02 | 17,582 | 123 |
 | 2024-01-03 | 17,600 | 124 |
 | 2024-01-04 | 17,624 | 124 |
-| 2024-01-05 | 17,625 | 124 |
+| 2024-01-05 | 17,627 | 124 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 324)  
 Sum: 200 (Ranked 417)  

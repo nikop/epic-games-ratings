@@ -4,8 +4,8 @@
   "ProductSlug": "almost-my-floor-ead702",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
     "PcReleaseDate": "2021-08-06T07:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-25T19:03:22.674321+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:05:01.0661536+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:51:10.5740902+00:00",
   "LastUpdate_AppInfo": "2024-01-01T18:57:10.7499494+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:02:38.6251365+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:05:01.0661561+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:49:40.7060063+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:51:10.574093+00:00"
 }

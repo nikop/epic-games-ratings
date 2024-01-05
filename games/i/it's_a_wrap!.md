@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under the Bridge | 90.00% | ~121 |
-| Treasure Hunter | 8.00% | ~11 |
+| Treasure Hunter | 9.00% | ~12 |
 | Budget Killer | 6.00% | ~8 |
 | Space Invader | 5.00% | ~7 |
 | Extra Life | 4.00% | ~5 |

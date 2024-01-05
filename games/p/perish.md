@@ -12,13 +12,13 @@
 | Persephone's Guidance | 5.00% | ~197 |
 | Lochos | 5.00% | ~197 |
 | Strength of Herakles | 5.00% | ~197 |
-| Reign in Blood | 5.00% | ~197 |
 | Immolator | 4.00% | ~157 |
 | Go For the Head | 4.00% | ~157 |
 | Spartan Sandal | 4.00% | ~157 |
 | Symbols of Heresy | 4.00% | ~157 |
 | The Sons of Minos | 4.00% | ~157 |
 | Eidola | 4.00% | ~157 |
+| Reign in Blood | 4.00% | ~157 |
 | Comedy and Tragedy | 3.00% | ~118 |
 | Pillars of Eternity | 3.00% | ~118 |
 | War Chest | 3.00% | ~118 |
@@ -37,7 +37,6 @@
 | Rock and a Hard Place | 2.00% | ~79 |
 | The Midas Touch | 2.00% | ~79 |
 | Hapax Legomenon | 2.00% | ~79 |
-| Don't Pay the Ferryman | 2.00% | ~79 |
 | Veneration of Hephaestus | 2.00% | ~79 |
 | Vandili | 2.00% | ~79 |
 | No Scylla in Sight | 2.00% | ~79 |
@@ -48,6 +47,7 @@
 | The Nameless One | 1.00% | ~39 |
 | Rule of Thirds | 1.00% | ~39 |
 | Pyr Demon | 1.00% | ~39 |
+| Don't Pay the Ferryman | 1.00% | ~39 |
 | Biotechnology | 1.00% | ~39 |
 | The Archimedes Principle | 1.00% | ~39 |
 | Rites at Sea | 1.00% | ~39 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,931 (Ranked 214)  
+Progressed: 3,934 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,6 +309,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 3,910 | 0 |
 | 2024-01-03 | 3,918 | 0 |
 | 2024-01-04 | 3,931 | 0 |
+| 2024-01-05 | 3,934 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 226,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98154,
+  "EOS_Progressed": 98158,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -29435,6 +29435,11 @@
       "Time": "2024-01-05T00:09:32.8885647+00:00",
       "NumProgressed": 98154,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2024-01-05T01:56:01.482529+00:00",
+      "NumProgressed": 98158,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 10,
@@ -29502,7 +29507,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9815
+      "UsersEstimate": 9816
     },
     {
       "ID": "Level00BowlingStrike",
@@ -29510,7 +29515,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34354
+      "UsersEstimate": 34355
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -29525,15 +29530,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 98154,
+      "Progressed": 98158,
       "Completed": 451
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:09:32.888564+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:56:01.4825287+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.1360404+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:03:24.0278394+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:09:32.8887281+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:50:04.0818992+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:56:01.482742+00:00"
 }

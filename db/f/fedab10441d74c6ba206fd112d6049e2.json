@@ -4,8 +4,8 @@
   "ProductSlug": "lightbear-30e42d",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-29T05:00:00+00:00",
     "PcReleaseDate": "2023-09-29T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-29T02:57:12.4696368+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:58:52.1636564+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:04:17.4357679+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:45:09.6656519+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:50:39.7626333+00:00"
 }

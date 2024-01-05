@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3931,
+  "EOS_Progressed": 3934,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4601,6 +4601,11 @@
       "Time": "2024-01-04T22:04:39.5246034+00:00",
       "NumProgressed": 3931,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T01:50:43.990447+00:00",
+      "NumProgressed": 3934,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4850,9 +4855,9 @@
       "ID": "ACH_OB_CC",
       "SetID": "b3fep3o",
       "Name": "Don\u0027t Pay the Ferryman",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_OB_CR",
@@ -5034,9 +5039,9 @@
       "ID": "ACH_TOTN",
       "SetID": "b3fep3o",
       "Name": "Reign in Blood",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_TP",
@@ -5115,7 +5120,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3931,
+      "Progressed": 3934,
       "Completed": 0
     }
   ],
@@ -5123,8 +5128,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:04:23.1688605+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:50:43.9904465+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.8279496+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:01:05.0637898+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:04:23.1689404+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:46:38.3075716+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:50:43.9905194+00:00"
 }

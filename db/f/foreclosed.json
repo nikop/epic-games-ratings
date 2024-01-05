@@ -4,8 +4,8 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.14,
+  "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -389,6 +389,11 @@
       "Time": "2024-01-04T18:05:54.1426501+00:00",
       "NumProgressed": 140,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T01:52:34.9163588+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -424,7 +429,7 @@
       "Name": "Sapper",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "EnemyDefeat_0",
@@ -432,7 +437,7 @@
       "Name": "Unstoppable",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "EnemyDefeat_1",
@@ -440,15 +445,15 @@
       "Name": "Cyborg",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ExpertChoice",
       "SetID": "9e3d06k",
       "Name": "Tough Decision",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "FirstAutoSkillUnlock",
@@ -456,7 +461,7 @@
       "Name": "Breaking Through",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "FirstSkillBuy",
@@ -496,7 +501,7 @@
       "Name": "The Red Herring",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LiftEnemies_0",
@@ -528,7 +533,7 @@
       "Name": "Silent Overload",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "SecretEnding",
@@ -544,7 +549,7 @@
       "Name": "Flatline",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "StealthDefeat_1",
@@ -568,7 +573,7 @@
       "Name": "Mind Over Matter",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "TelekinesisThrow_1",
@@ -584,14 +589,14 @@
       "Name": "Telekinesis",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 3
     }
   ],
@@ -599,8 +604,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:07:02.8512708+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:52:34.9163584+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.8333074+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:01:38.5786063+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:07:02.8513143+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:47:02.4050985+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:52:34.9163824+00:00"
 }

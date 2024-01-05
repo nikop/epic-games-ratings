@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 628,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
@@ -1064,6 +1064,11 @@
       "Time": "2024-01-03T11:09:44.6733402+00:00",
       "NumProgressed": 627,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-05T01:56:49.4176837+00:00",
+      "NumProgressed": 628,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1115,7 +1120,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -1131,7 +1136,7 @@
       "Name": "Every little helps",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "FOUND_IT",
@@ -1163,7 +1168,7 @@
       "Name": "Hands up!",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -1195,7 +1200,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "LUCKY_DOG",
@@ -1235,7 +1240,7 @@
       "Name": "Now you know",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1243,7 +1248,7 @@
       "Name": "Perfect hearing",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "PLEASE",
@@ -1275,7 +1280,7 @@
       "Name": "Short circuit",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "SILENT",
@@ -1289,9 +1294,9 @@
       "ID": "SYSADMIN",
       "SetID": "2iigf77",
       "Name": "Sysadmin",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 132
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -1330,7 +1335,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 628,
       "Completed": 19
     }
   ],
@@ -1338,8 +1343,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:10:39.8704869+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:56:49.4176832+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.4333912+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:01:22.3095007+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:10:39.8705073+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:46:51.6767407+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:56:49.4177176+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3290,
+  "EOS_Progressed": 3291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8120,6 +8120,11 @@
       "Time": "2024-01-05T00:06:47.9612693+00:00",
       "NumProgressed": 3290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T01:52:24.6005143+00:00",
+      "NumProgressed": 3291,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8132,7 +8137,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8172,7 +8177,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -8204,7 +8209,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -8428,7 +8433,7 @@
       "Name": "Eat My Dust",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8523,7 +8528,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3290,
+      "Progressed": 3291,
       "Completed": 0
     }
   ],
@@ -8531,8 +8536,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:06:47.9612689+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:52:24.600514+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:59:53.1559482+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:06:47.9613497+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:45:52.969954+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:52:24.6006121+00:00"
 }

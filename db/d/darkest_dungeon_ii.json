@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10438,10 +10438,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21421,
       "NumberOfAwardsMax": 7951
+    },
+    {
+      "Time": "2024-01-05T01:46:46.9347604+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21424,
+      "NumberOfAwardsMax": 7951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21421,
+  "NumberOfAwards": 21424,
   "NumberOfAwardsMax": 7951,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10461,7 +10467,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1591
+      "Count": 1594
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10518,9 +10524,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131694,
+  "EOS_Progressed": 131701,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1264,
+  "EOS_NewPlayers": 1265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38363,6 +38369,11 @@
       "Time": "2024-01-05T00:10:13.71627+00:00",
       "NumProgressed": 131694,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T01:56:30.6687195+00:00",
+      "NumProgressed": 131701,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38398,7 +38409,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -38630,7 +38641,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -38974,7 +38985,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39005,21 +39016,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131694,
+      "Progressed": 131701,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6563,
+      "Progressed": 6570,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-04T18:59:38.4162608+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:10:13.7162695+00:00",
+  "LastChanged": "2024-01-05T01:46:46.9347602+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:56:30.6687192+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:01:15.8789134+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:10:13.7164267+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:46:46.9347609+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:56:30.6688976+00:00"
 }

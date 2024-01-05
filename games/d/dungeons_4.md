@@ -12,8 +12,8 @@ Rating: 4.71 (Ranked 202)
 | The Hellwoods | 77.00% | ~554 |
 | The Plains of Strothalm | 73.00% | ~525 |
 | Experienced Thalya | 71.00% | ~510 |
+| Bad Elves Go Everywhere | 69.00% | ~496 |
 | Thalya's Concentrated Fury | 68.00% | ~489 |
-| Bad Elves Go Everywhere | 68.00% | ~489 |
 | Heroes’ Gorge | 64.00% | ~460 |
 | Master of Magic | 63.00% | ~453 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~446 |
@@ -28,8 +28,8 @@ Rating: 4.71 (Ranked 202)
 | “… like son” | 50.00% | ~360 |
 | The Cathedral of Light | 47.00% | ~338 |
 | Shame! Shame! Shame! | 47.00% | ~338 |
+| Pure Dynamite! | 45.00% | ~324 |
 | Tanos' Crusade Against Thalya | 45.00% | ~324 |
-| Pure Dynamite! | 44.00% | ~316 |
 | Dungeonlord Gorgu | 44.00% | ~316 |
 | Mana Cannon | 42.00% | ~302 |
 | All’s Well That Ends Evil | 41.00% | ~295 |

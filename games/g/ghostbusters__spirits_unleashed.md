@@ -17,10 +17,10 @@ Rating: 4.50 (Ranked 614)
 | Teamwork | 5.00% | ~1,663 |
 | There you are! | 5.00% | ~1,663 |
 | Vaporous Expansion | 5.00% | ~1,663 |
-| Cultured | 4.00% | ~1,330 |
-| Daily Dose | 4.00% | ~1,330 |
-| Ghostbuster In Training | 4.00% | ~1,330 |
-| Whoopsie | 4.00% | ~1,330 |
+| Cultured | 4.00% | ~1,331 |
+| Daily Dose | 4.00% | ~1,331 |
+| Ghostbuster In Training | 4.00% | ~1,331 |
+| Whoopsie | 4.00% | ~1,331 |
 | Animated | 3.00% | ~998 |
 | Back Off | 3.00% | ~998 |
 | We have the best insurance | 3.00% | ~998 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 614)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,260 (Ranked 136)  
+Progressed: 33,265 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,11 +317,11 @@ Completed: 71 (0.21%) (Ranked 271)
 | 2024-01-02 | 33,151 | 71 |
 | 2024-01-03 | 33,206 | 71 |
 | 2024-01-04 | 33,258 | 71 |
-| 2024-01-05 | 33,260 | 71 |
+| 2024-01-05 | 33,265 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 327  (Ranked 255)  
-Sum: 2,949 (Ranked 185)  
-Diff (max vs sum): 70  
+Sum: 2,949 (Ranked 186)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 327 |

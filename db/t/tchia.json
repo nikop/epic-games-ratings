@@ -6,9 +6,9 @@
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8704,
+  "EOS_Progressed": 8706,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -10856,6 +10856,11 @@
       "Time": "2024-01-05T00:08:52.4112233+00:00",
       "NumProgressed": 8704,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-05T01:55:32.4811422+00:00",
+      "NumProgressed": 8706,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 21,
@@ -10913,9 +10918,9 @@
       "ID": "ENERGY_SAVER",
       "SetID": "3cck1g6",
       "Name": "Energy Saver",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 87
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -10937,9 +10942,9 @@
       "ID": "GLOBE_TROTTER",
       "SetID": "3cck1g6",
       "Name": "Globe Trotter",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 35
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -11034,7 +11039,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8704,
+      "Progressed": 8706,
       "Completed": 35
     }
   ],
@@ -11042,8 +11047,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-04T06:59:23.347632+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:08:52.411223+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:55:32.4811417+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.6099916+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:00:50.4570715+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:08:52.4112816+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:46:30.2236115+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:55:32.4811947+00:00"
 }

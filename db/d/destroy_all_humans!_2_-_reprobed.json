@@ -6,9 +6,9 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 388,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,11 +294,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 314,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Progressed": 315,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 85,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1519,6 +1519,11 @@
       "Time": "2024-01-05T00:09:31.351515+00:00",
       "NumProgressed": 314,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T01:56:00.5263554+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1531,7 +1536,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1547,7 +1552,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1561,9 +1566,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1593,9 +1598,9 @@
       "ID": "ACH_COMPLETE_ALL_OJ",
       "SetID": "4n84pon",
       "Name": "Against All Odds",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_COMPLETE_ARK01",
@@ -1667,7 +1672,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1675,7 +1680,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1699,7 +1704,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1707,7 +1712,7 @@
       "Name": "Kaijuiced",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1721,17 +1726,17 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1857,9 +1862,9 @@
       "ID": "ACH_UNLOCK_BURROW_BEAST",
       "SetID": "4n84pon",
       "Name": "Arkvoodle Doodle",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -1875,23 +1880,23 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 314,
-      "Completed": 1
+      "Progressed": 315,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2022-08-30T21:00:25.2604466+00:00",
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:09:31.3515147+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:56:00.526355+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:00:03.5203761+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:09:31.3515431+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:45:59.4980477+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:56:00.5264155+00:00"
 }

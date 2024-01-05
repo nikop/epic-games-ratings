@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1611,
+  "EOS_Progressed": 1612,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4179,6 +4179,11 @@
       "Time": "2024-01-04T23:09:59.2658499+00:00",
       "NumProgressed": 1611,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T01:56:48.7600617+00:00",
+      "NumProgressed": 1612,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4246,7 +4251,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "EXPERT_1",
@@ -4477,15 +4482,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1611,
+      "Progressed": 1612,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:10:38.9278006+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:56:48.7600612+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:58:00.58655+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:10:38.9278417+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:44:34.3842825+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:56:48.7601324+00:00"
 }

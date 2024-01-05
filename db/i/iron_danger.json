@@ -3,9 +3,9 @@
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 377,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 346,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -1141,8 +1141,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:09:07.9501735+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:55:43.6919113+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.427684+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:02:24.4510789+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:09:07.9501883+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:47:31.3208633+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:55:43.6919376+00:00"
 }

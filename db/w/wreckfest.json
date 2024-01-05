@@ -2,13 +2,13 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 906,
+  "Ranking_Rating": 907,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 782,
+  "EOS_Progressed": 783,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2029,6 +2029,11 @@
       "Time": "2024-01-05T00:09:03.587491+00:00",
       "NumProgressed": 782,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T01:55:40.696559+00:00",
+      "NumProgressed": 783,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2049,7 +2054,7 @@
       "Name": "Highballer",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "CareerChamp1",
@@ -2057,7 +2062,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "CareerChamp2",
@@ -2113,7 +2118,7 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "CreditsEarnedA",
@@ -2151,9 +2156,9 @@
       "ID": "PlayerRankA",
       "SetID": "5hd282c",
       "Name": "Dirty Roller",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 258
     },
     {
       "ID": "PlayerRankB",
@@ -2161,7 +2166,7 @@
       "Name": "Trashing Around",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "PlayerRankC",
@@ -2200,7 +2205,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 782,
+      "Progressed": 783,
       "Completed": 0
     }
   ],
@@ -2208,8 +2213,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-04T23:58:04.2803928+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:09:03.5874906+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:55:40.6965584+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:58:04.2803932+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:09:03.5875108+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:44:36.8076628+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:55:40.696585+00:00"
 }

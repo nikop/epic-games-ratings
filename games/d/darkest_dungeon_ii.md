@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 12.00% | ~788 |
-| Lost and Found | 8.00% | ~525 |
+| Lost and Found | 8.00% | ~526 |
 | Autodidact | 7.00% | ~9,219 |
 | This Belongs in a Museum | 6.00% | ~7,902 |
 | This guy... again? | 6.00% | ~394 |
@@ -70,8 +70,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.80% | ~53 |
 | Et Tu, Riposte? | 0.80% | ~53 |
 | The World As It Was | 0.60% | ~790 |
-| A Life Well Lived | 0.50% | ~658 |
-| Bacon Bits | 0.50% | ~658 |
+| A Life Well Lived | 0.50% | ~659 |
+| Bacon Bits | 0.50% | ~659 |
 | On This Long Road, We Found Redemption | 0.50% | ~33 |
 | Eidetic | 0.40% | ~527 |
 | Battle Hardened | 0.40% | ~26 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,694 (Ranked 91)  
+Progressed: 131,701 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,17 +336,17 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
-| 2024-01-05 | 131,694 | 3 |
+| 2024-01-05 | 131,701 | 3 |
 ## Awards
 Max (Character Customization): 7,951  (Ranked 50)  
-Sum: 21,421 (Ranked 58)  
+Sum: 21,424 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,951 |
 | This game has Diverse Characters | 1,816 |
 | This game has Challenging Combat | 1,663 |
-| This game is Highly Recommended | 1,591 |
+| This game is Highly Recommended | 1,594 |
 | This game has Amazing Characters | 1,517 |
 | This game is Extremely Fun | 1,514 |
 | This game has Unique Visuals | 1,452 |
@@ -700,3 +700,4 @@ Diff (max vs sum): -8
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
 | 2024-01-03 | 4.68 | - | 7,940 | 21,388 |
 | 2024-01-04 | 4.68 | - | 7,951 | 21,421 |
+| 2024-01-05 | 4.68 | - | 7,951 | 21,424 |

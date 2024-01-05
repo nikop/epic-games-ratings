@@ -6,31 +6,31 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,937 |
-| I'll Be Back | 84.00% | ~4,412 |
-| Sorry, I Dropped This | 76.00% | ~3,992 |
-| First Day on the Job | 76.00% | ~3,992 |
-| Butcher's Bill | 54.00% | ~2,836 |
-| P.A.X | 36.00% | ~1,891 |
-| Hey Listen | 36.00% | ~1,891 |
-| OPERATOR | 35.00% | ~1,838 |
-| It's Blue Light | 33.00% | ~1,733 |
+| On My Own Two Feet | 94.00% | ~4,940 |
+| I'll Be Back | 84.00% | ~4,414 |
+| Sorry, I Dropped This | 76.00% | ~3,994 |
+| First Day on the Job | 76.00% | ~3,994 |
+| Butcher's Bill | 54.00% | ~2,838 |
+| P.A.X | 36.00% | ~1,892 |
+| Hey Listen | 36.00% | ~1,892 |
+| OPERATOR | 35.00% | ~1,839 |
+| It's Blue Light | 33.00% | ~1,734 |
 | Most Wanted | 26.00% | ~1,366 |
-| Infidel | 23.00% | ~1,208 |
-| Firebug | 20.00% | ~1,050 |
-| GOLIATH | 20.00% | ~1,050 |
+| Infidel | 23.00% | ~1,209 |
+| Firebug | 20.00% | ~1,051 |
+| GOLIATH | 20.00% | ~1,051 |
 | I Choose You | 17.00% | ~893 |
 | Nothing to Lose | 17.00% | ~893 |
 | Big Sister | 15.00% | ~788 |
 | Gear Up | 15.00% | ~788 |
 | SENTINEL | 15.00% | ~788 |
-| The Black Cerberus | 12.00% | ~630 |
-| Watchman | 12.00% | ~630 |
-| Core Power | 12.00% | ~630 |
+| The Black Cerberus | 12.00% | ~631 |
+| Watchman | 12.00% | ~631 |
+| Core Power | 12.00% | ~631 |
 | CREO Killed the Video Star | 11.00% | ~578 |
 | Who's in Charge Here? | 11.00% | ~578 |
 | Shall Not Pass | 11.00% | ~578 |
-| Right Tool for the Job | 10.00% | ~525 |
+| Right Tool for the Job | 10.00% | ~526 |
 | Raging Drones | 9.00% | ~473 |
 | Overconfident | 9.00% | ~473 |
 | Pusher Man | 8.00% | ~420 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,252 (Ranked 202)  
-Completed: 18 (0.34%) (Ranked 242)  
+Progressed: 5,255 (Ranked 202)  
+Completed: 18 (0.34%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,10 +291,10 @@ Completed: 18 (0.34%) (Ranked 242)
 | 2024-01-02 | 5,210 | 18 |
 | 2024-01-03 | 5,224 | 18 |
 | 2024-01-04 | 5,249 | 18 |
-| 2024-01-05 | 5,252 | 18 |
+| 2024-01-05 | 5,255 | 18 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 518)  
-Sum: 30 (Ranked 537)  
+Max (Great Boss Battles): 30  (Ranked 519)  
+Sum: 30 (Ranked 538)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |

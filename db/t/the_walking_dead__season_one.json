@@ -3,12 +3,12 @@
   "Name": "The Walking Dead: Season One",
   "ProductSlug": "walking-dead-season-one",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 519,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2012-04-24T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,6 +317,6 @@
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
   "LastChanged": "2024-01-04T11:58:22.8358838+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.1850376+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:59:25.9390842+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:06:06.5356725+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:45:31.9558486+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:51:56.24391+00:00"
 }

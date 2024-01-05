@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -324,9 +324,9 @@
       "ID": "ACH_ASSISTS_DELIVERY",
       "SetID": "1lnhagg",
       "Name": "Best Assistant",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_COACH_OF_THE_SEASON",
@@ -547,8 +547,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:08:45.1946054+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:55:27.1899664+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:12.5001029+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:58:55.0952985+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:08:45.1946264+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:45:11.5467698+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:55:27.1900109+00:00"
 }

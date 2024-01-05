@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1964,
+  "EOS_Progressed": 1965,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.72,
   "EosHistory": [
@@ -4464,6 +4464,11 @@
       "Time": "2024-01-04T22:10:52.5168682+00:00",
       "NumProgressed": 1964,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2024-01-05T01:56:42.0880978+00:00",
+      "NumProgressed": 1965,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 16,
@@ -4483,7 +4488,7 @@
       "Name": "Deep Listener",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -4523,7 +4528,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -4563,7 +4568,7 @@
       "Name": "Outside World Seer",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4579,7 +4584,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ACH_THEEND",
@@ -4602,7 +4607,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1964,
+      "Progressed": 1965,
       "Completed": 73
     }
   ],
@@ -4610,8 +4615,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:10:29.6371349+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:56:42.0880974+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:57:56.6696983+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:10:29.6371649+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:44:31.8343265+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:56:42.0881383+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 700,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 519,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 202,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5252,
+  "EOS_Progressed": 5255,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -4740,6 +4740,11 @@
       "Time": "2024-01-05T00:05:56.4459889+00:00",
       "NumProgressed": 5252,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-05T01:51:49.2774401+00:00",
+      "NumProgressed": 5255,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4751,7 +4756,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4759,7 +4764,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -4775,7 +4780,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -4799,7 +4804,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4414
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4807,7 +4812,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4937
+      "UsersEstimate": 4940
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4815,7 +4820,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3994
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4823,7 +4828,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4847,7 +4852,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -4919,7 +4924,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -4935,7 +4940,7 @@
       "Name": "Core Power",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -4967,7 +4972,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3994
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4999,7 +5004,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2836
+      "UsersEstimate": 2838
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5023,7 +5028,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -5031,7 +5036,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5087,7 +5092,7 @@
       "Name": "GOLIATH",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5095,7 +5100,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5286,15 +5291,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5252,
+      "Progressed": 5255,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:05:56.4459885+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:51:49.2774398+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:01:01.9279645+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:05:56.4460703+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:46:36.2982804+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:51:49.2775018+00:00"
 }

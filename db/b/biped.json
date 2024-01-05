@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9633,
+  "EOS_Progressed": 9636,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15989,6 +15989,11 @@
       "Time": "2024-01-04T23:06:14.0871482+00:00",
       "NumProgressed": 9633,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T01:53:06.0032978+00:00",
+      "NumProgressed": 9636,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16000,7 +16005,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 3275
+      "UsersEstimate": 3276
     },
     {
       "ID": "10",
@@ -16056,7 +16061,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "3",
@@ -16080,7 +16085,7 @@
       "Name": "Snowy Peak",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "6",
@@ -16119,7 +16124,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 9633,
+      "Progressed": 9636,
       "Completed": 0
     }
   ],
@@ -16127,8 +16132,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:07:47.5767852+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:53:06.0032973+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.3269948+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:00:46.3769614+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:07:47.5768765+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:46:27.8329052+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:53:06.003435+00:00"
 }

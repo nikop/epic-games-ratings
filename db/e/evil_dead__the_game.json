@@ -4,11 +4,11 @@
   "ProductSlug": "evil-dead-the-game",
   "Ranking_Rating": 808,
   "Ranking_Popularity": 34,
-  "Ranking_PopularitySum": 46,
+  "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-13T07:00:00+00:00",
     "PcReleaseDate": "2022-05-13T07:00:00+00:00",
@@ -7982,10 +7982,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 30530,
       "NumberOfAwardsMax": 12812
+    },
+    {
+      "Time": "2024-01-05T01:44:27.4903827+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 30531,
+      "NumberOfAwardsMax": 12812
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30530,
+  "NumberOfAwards": 30531,
   "NumberOfAwardsMax": 12812,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8023,7 +8029,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1995
+      "Count": 1996
     },
     {
       "Text": "This game has Competitive Players",
@@ -8067,8 +8073,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2024-01-04T18:57:19.7150496+00:00",
+  "LastChanged": "2024-01-05T01:44:27.4903825+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:29.5504732+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:57:49.990379+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:10:06.248299+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:44:27.4903832+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:56:25.5652606+00:00"
 }

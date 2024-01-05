@@ -5,18 +5,18 @@ Rating: 3.75 (Ranked 1,083)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~376 |
+| I can do a thing or two | 60.00% | ~377 |
 | Buckle up | 58.00% | ~364 |
 | Quick charge | 58.00% | ~364 |
-| Hands up! | 52.00% | ~326 |
-| Now you know | 52.00% | ~326 |
-| Short circuit | 52.00% | ~326 |
-| Curious | 42.00% | ~263 |
+| Hands up! | 52.00% | ~327 |
+| Now you know | 52.00% | ~327 |
+| Short circuit | 52.00% | ~327 |
+| Curious | 42.00% | ~264 |
 | Everybody lies | 36.00% | ~226 |
 | Trick or Treat? | 23.00% | ~144 |
-| Sysadmin | 22.00% | ~138 |
 | There is another way | 22.00% | ~138 |
-| Every little helps | 20.00% | ~125 |
+| Sysadmin | 21.00% | ~132 |
+| Every little helps | 20.00% | ~126 |
 | Annoying | 19.00% | ~119 |
 | Hacker | 19.00% | ~119 |
 | He is just a child | 19.00% | ~119 |
@@ -32,13 +32,13 @@ Rating: 3.75 (Ranked 1,083)
 | That's much better! | 16.00% | ~100 |
 | Not as clumsy or random | 13.00% | ~82 |
 | Blade Runner | 11.00% | ~69 |
-| Perfect hearing | 9.00% | ~56 |
+| Perfect hearing | 9.00% | ~57 |
 | Meticulous | 7.00% | ~44 |
 | Lucky dog | 5.00% | ~31 |
 | Accurate | 5.00% | ~31 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 627 (Ranked 333)  
+Progressed: 628 (Ranked 333)  
 Completed: 19 (3.03%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 19 (3.03%) (Ranked 107)
 | 2023-12-31 | 624 | 19 |
 | 2024-01-02 | 626 | 19 |
 | 2024-01-03 | 627 | 19 |
+| 2024-01-05 | 628 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

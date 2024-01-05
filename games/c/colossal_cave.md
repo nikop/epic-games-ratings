@@ -9,16 +9,16 @@
 | The Birdman of The Caves | 50.00% | ~52 |
 | I've Fallen & I Can't Get Up | 49.00% | ~51 |
 | Charmin' the Snake | 34.00% | ~36 |
-| Drums in the Deep | 23.00% | ~24 |
+| Drums in the Deep | 24.00% | ~25 |
 | Bridge Builder | 23.00% | ~24 |
-| Treasure Seeker | 20.00% | ~21 |
-| Green Thumb Goliath | 16.00% | ~17 |
-| Take the Scenic Route | 13.00% | ~14 |
+| Treasure Seeker | 21.00% | ~22 |
+| Green Thumb Goliath | 17.00% | ~18 |
+| Take the Scenic Route | 14.00% | ~15 |
+| St. George's Gauntlet | 12.00% | ~13 |
 | Treasure Hunter | 12.00% | ~13 |
-| St. George's Gauntlet | 11.00% | ~12 |
-| BJ & The Bear | 11.00% | ~12 |
+| BJ & The Bear | 12.00% | ~13 |
+| Can't bear the weight | 10.00% | ~10 |
 | Redbeard's Revenger | 10.00% | ~10 |
-| Can't bear the weight | 9.00% | ~9 |
 | Soft Hands | 9.00% | ~9 |
 | Egg On His Face | 8.00% | ~8 |
 | Mr. Magic | 8.00% | ~8 |
@@ -30,7 +30,7 @@
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 105 (Ranked 485)  
-Completed: 1 (0.95%) (Ranked 176)  
+Completed: 1 (0.95%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

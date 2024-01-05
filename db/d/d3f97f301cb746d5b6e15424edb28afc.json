@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -4666,9 +4666,9 @@
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s a kind of magic",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 990
+      "UsersEstimate": 1005
     },
     {
       "ID": "GSS_ACH_27_PAINT_01",
@@ -4786,9 +4786,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1053
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -4810,9 +4810,9 @@
       "ID": "GSS_ACH_44_CARAVAN_03",
       "SetID": "5fn8ia4",
       "Name": "Business is Thriving",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 314
     },
     {
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
@@ -4842,9 +4842,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1131
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -5042,9 +5042,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1382
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -5131,8 +5131,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-04T20:00:42.946597+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:08:07.533787+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:53:20.4409303+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:00:41.8120191+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:08:07.5338737+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:46:25.0868978+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:53:20.4410677+00:00"
 }

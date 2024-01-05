@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -89,7 +89,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -1279,6 +1279,11 @@
       "Time": "2024-01-04T13:08:28.9609339+00:00",
       "NumProgressed": 643,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T01:51:32.5275882+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1410,15 +1415,15 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Leisurely_Strol",
       "SetID": "ek310c",
       "Name": "A Trip to Remember",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 71
     },
     {
       "ID": "MISSING_DATA",
@@ -1521,7 +1526,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 6
     }
   ],
@@ -1529,8 +1534,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:05:32.5400673+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:51:32.5275877+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:43.1004855+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:03:35.8896519+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:05:32.540093+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:50:11.2416539+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:51:32.5276126+00:00"
 }

@@ -1,35 +1,35 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.07 (Ranked 1,022)  
+Rating: 4.05 (Ranked 1,030)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,890 |
-| World Map | 78.00% | ~3,263 |
-| Temple of Eternals | 56.00% | ~2,342 |
-| Prestigious | 52.00% | ~2,175 |
-| Fellowship Power | 42.00% | ~1,757 |
-| Full Party | 28.00% | ~1,171 |
-| Guild Power | 23.00% | ~962 |
-| Prestigious x10 | 20.00% | ~837 |
-| The game is on | 18.00% | ~753 |
-| Exotic Merchant | 16.00% | ~669 |
-| Dragon Clicker | 15.00% | ~627 |
-| Miner Clicker | 15.00% | ~627 |
+| Victor | 93.00% | ~3,895 |
+| World Map | 78.00% | ~3,267 |
+| Temple of Eternals | 56.00% | ~2,345 |
+| Prestigious | 52.00% | ~2,178 |
+| Fellowship Power | 41.00% | ~1,717 |
+| Full Party | 28.00% | ~1,173 |
+| Guild Power | 23.00% | ~963 |
+| Prestigious x10 | 20.00% | ~838 |
+| The game is on | 18.00% | ~754 |
+| Exotic Merchant | 16.00% | ~670 |
+| Dragon Clicker | 15.00% | ~628 |
+| Miner Clicker | 15.00% | ~628 |
 | Inspection | 14.00% | ~586 |
 | Dragon Master | 13.00% | ~544 |
 | Enlightenment | 13.00% | ~544 |
 | Hero inspection | 13.00% | ~544 |
-| Lieutenant | 12.00% | ~502 |
-| Milestone collector | 11.00% | ~460 |
-| Mysterious Rock | 11.00% | ~460 |
-| Natural Talent | 11.00% | ~460 |
-| Superior | 11.00% | ~460 |
-| The Unstoppable | 11.00% | ~460 |
-| Doing My Part | 9.00% | ~376 |
-| Scientist | 9.00% | ~376 |
-| The power of Awakening | 9.00% | ~376 |
+| Lieutenant | 12.00% | ~503 |
+| Milestone collector | 11.00% | ~461 |
+| Mysterious Rock | 11.00% | ~461 |
+| Natural Talent | 11.00% | ~461 |
+| Superior | 11.00% | ~461 |
+| The Unstoppable | 11.00% | ~461 |
+| Doing My Part | 9.00% | ~377 |
+| Scientist | 9.00% | ~377 |
+| The power of Awakening | 9.00% | ~377 |
 | Challenger | 8.00% | ~335 |
 | Daily Quest Completionist | 8.00% | ~335 |
 | Frostfire Liberator | 8.00% | ~335 |
@@ -53,15 +53,15 @@ Rating: 4.07 (Ranked 1,022)
 | How Do You Turn This On? | 5.00% | ~209 |
 | Missions Dedication | 5.00% | ~209 |
 | Sailor | 5.00% | ~209 |
-| Active Member | 4.00% | ~167 |
-| Ancient Knowledge | 4.00% | ~167 |
-| Background Story | 4.00% | ~167 |
-| Legendary | 4.00% | ~167 |
-| Lock And Load | 4.00% | ~167 |
-| The Alchemist | 4.00% | ~167 |
-| Arena Challenger | 3.00% | ~125 |
-| Ebony Jungle Liberator | 3.00% | ~125 |
-| Mythic Power | 3.00% | ~125 |
+| Active Member | 4.00% | ~168 |
+| Ancient Knowledge | 4.00% | ~168 |
+| Background Story | 4.00% | ~168 |
+| Legendary | 4.00% | ~168 |
+| Lock And Load | 4.00% | ~168 |
+| The Alchemist | 4.00% | ~168 |
+| Arena Challenger | 3.00% | ~126 |
+| Ebony Jungle Liberator | 3.00% | ~126 |
+| Mythic Power | 3.00% | ~126 |
 | Cauldron Liberator | 2.00% | ~84 |
 | Enchanting skill x5 | 2.00% | ~84 |
 | Gear Enchanting | 2.00% | ~84 |
@@ -74,14 +74,14 @@ Rating: 4.07 (Ranked 1,022)
 | Transmute | 1.00% | ~42 |
 | Tree of Life | 1.00% | ~42 |
 | Angel Power | 0.90% | ~38 |
-| Silverwood liberator | 0.80% | ~33 |
-| Training makes a Pro player | 0.80% | ~33 |
+| Silverwood liberator | 0.80% | ~34 |
+| Training makes a Pro player | 0.80% | ~34 |
 | Beast War Machines | 0.70% | ~29 |
 | Ultimate War Machines | 0.50% | ~21 |
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,183 (Ranked 209)  
+Progressed: 4,188 (Ranked 210)  
 Completed: 2 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,6 +336,7 @@ Completed: 2 (0.05%) (Ranked 335)
 | 2024-01-02 | 4,107 | 2 |
 | 2024-01-03 | 4,139 | 2 |
 | 2024-01-04 | 4,183 | 2 |
+| 2024-01-05 | 4,188 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 478)  
 Sum: 154 (Ranked 437)  
@@ -437,3 +438,4 @@ Diff (max vs sum): 41
 | 2024-01-01 | 4.06 | 40 | 132 |
 | 2024-01-02 | 4.06 | 40 | 154 |
 | 2024-01-04 | 4.07 | 40 | 154 |
+| 2024-01-05 | 4.05 | 40 | 154 |

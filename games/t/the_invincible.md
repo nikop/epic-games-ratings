@@ -5,27 +5,27 @@ Rating: 4.57 (Ranked 492)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 68.00% | ~940 |
-| The Teleprobe | 53.00% | ~732 |
-| The City | 48.00% | ~663 |
-| The field base | 43.00% | ~594 |
-| The Alliance | 39.00% | ~539 |
-| Survivors | 38.00% | ~525 |
-| The Condor | 35.00% | ~484 |
-| The End | 35.00% | ~484 |
-| The Necroevolution | 28.00% | ~387 |
-| Krauta is alive | 27.00% | ~373 |
-| On her own | 21.00% | ~290 |
-| Peacemaker | 21.00% | ~290 |
-| Volcanologist | 21.00% | ~290 |
-| Fierce fight | 20.00% | ~276 |
+| The Camp | 68.00% | ~942 |
+| The Teleprobe | 53.00% | ~735 |
+| The City | 48.00% | ~665 |
+| The field base | 44.00% | ~610 |
+| The Alliance | 39.00% | ~541 |
+| Survivors | 38.00% | ~527 |
+| The Condor | 35.00% | ~485 |
+| The End | 35.00% | ~485 |
+| Krauta is alive | 27.00% | ~374 |
+| The Necroevolution | 27.00% | ~374 |
+| Volcanologist | 22.00% | ~305 |
+| On her own | 21.00% | ~291 |
+| Peacemaker | 21.00% | ~291 |
+| Fierce fight | 20.00% | ~277 |
 | Evacuation | 19.00% | ~263 |
-| Beyond divisions | 17.00% | ~235 |
-| Flying Objects Operator | 16.00% | ~221 |
+| Beyond divisions | 17.00% | ~236 |
+| Flying Objects Operator | 16.00% | ~222 |
 | I remember everything! | 13.00% | ~180 |
 | Another giant | 13.00% | ~180 |
-| Violent solution | 9.00% | ~124 |
-| I leave no man behind | 9.00% | ~124 |
+| Violent solution | 9.00% | ~125 |
+| I leave no man behind | 9.00% | ~125 |
 | Innate curiosity | 7.00% | ~97 |
 | The Invincible | 6.00% | ~83 |
 | Strong objection | 6.00% | ~83 |
@@ -33,10 +33,10 @@ Rating: 4.57 (Ranked 492)
 | Got lost again | 5.00% | ~69 |
 | I leave no man behind (no exceptions) | 2.00% | ~28 |
 | Convoy list | 0.90% | ~12 |
-| No more mistakes | 0.70% | ~10 |
+| No more mistakes | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,382 (Ranked 271)  
-Completed: 1 (0.07%) (Ranked 321)  
+Progressed: 1,386 (Ranked 270)  
+Completed: 1 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,7 +96,7 @@ Completed: 1 (0.07%) (Ranked 321)
 | 2024-01-02 | 1,309 | 0 |
 | 2024-01-03 | 1,345 | 0 |
 | 2024-01-04 | 1,381 | 1 |
-| 2024-01-05 | 1,382 | 1 |
+| 2024-01-05 | 1,386 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

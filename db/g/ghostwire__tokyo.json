@@ -3,12 +3,12 @@
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
   "Ranking_Rating": 592,
-  "Ranking_Popularity": 93,
-  "Ranking_PopularitySum": 153,
+  "Ranking_Popularity": 92,
+  "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
     "PcReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -3232,18 +3232,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 4664,
       "NumberOfAwardsMax": 3742
+    },
+    {
+      "Time": "2024-01-05T01:44:30.1889912+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 4856,
+      "NumberOfAwardsMax": 3924
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4664,
-  "NumberOfAwardsMax": 3742,
+  "NumberOfAwards": 4856,
+  "NumberOfAwardsMax": 3924,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3742
+      "Count": 3924
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3273,7 +3279,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 130
+      "Count": 140
     },
     {
       "Text": "This game is Relaxing",
@@ -3317,8 +3323,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2024-01-04T22:57:23.0422545+00:00",
+  "LastChanged": "2024-01-05T01:44:30.188991+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:19.5929989+00:00",
-  "LastUpdate_Ratings": "2024-01-04T23:57:54.1692136+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:03:46.8212659+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:44:30.1889918+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:50:18.4462375+00:00"
 }

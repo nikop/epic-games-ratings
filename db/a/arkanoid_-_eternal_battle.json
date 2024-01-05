@@ -2,10 +2,10 @@
   "ID": "935f1f4777c84a1c8c9d8cd995deb6e7",
   "Name": "Arkanoid - Eternal Battle",
   "ProductSlug": "arkanoid-eternal-battle-e1b089",
-  "Ranking_EOS_Progress": 668,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 523,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-27T05:00:00+00:00",
     "PcReleaseDate": "2022-10-27T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -50,6 +50,11 @@
       "Time": "2024-01-04T19:08:55.431551+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T01:55:57.9984473+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -59,7 +64,7 @@
       "ID": "Achievement_0",
       "SetID": "nl7ma1",
       "Name": "Legend",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -67,7 +72,7 @@
       "ID": "Achievement_1",
       "SetID": "nl7ma1",
       "Name": "Champion",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -75,7 +80,7 @@
       "ID": "Achievement_10",
       "SetID": "nl7ma1",
       "Name": "Flawless Round",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -83,7 +88,7 @@
       "ID": "Achievement_11",
       "SetID": "nl7ma1",
       "Name": "Neo Victory",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -91,7 +96,7 @@
       "ID": "Achievement_12",
       "SetID": "nl7ma1",
       "Name": "Arcade Room King",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -99,7 +104,7 @@
       "ID": "Achievement_13",
       "SetID": "nl7ma1",
       "Name": "Versus Victory",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -107,7 +112,7 @@
       "ID": "Achievement_14",
       "SetID": "nl7ma1",
       "Name": "Combo Pro",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -115,7 +120,7 @@
       "ID": "Achievement_15",
       "SetID": "nl7ma1",
       "Name": "Sense of Priorities",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -123,7 +128,7 @@
       "ID": "Achievement_16",
       "SetID": "nl7ma1",
       "Name": "Business Acumen",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -131,7 +136,7 @@
       "ID": "Achievement_17",
       "SetID": "nl7ma1",
       "Name": "Chain Reaction",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -139,7 +144,7 @@
       "ID": "Achievement_18",
       "SetID": "nl7ma1",
       "Name": "Sound Barrier",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -147,7 +152,7 @@
       "ID": "Achievement_19",
       "SetID": "nl7ma1",
       "Name": "Juggler",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -155,7 +160,7 @@
       "ID": "Achievement_2",
       "SetID": "nl7ma1",
       "Name": "Expert",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -163,7 +168,7 @@
       "ID": "Achievement_20",
       "SetID": "nl7ma1",
       "Name": "Final chance",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -171,7 +176,7 @@
       "ID": "Achievement_21",
       "SetID": "nl7ma1",
       "Name": "Final square (Eternal Battle)",
-      "Percentage": 86,
+      "Percentage": 75,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -179,7 +184,7 @@
       "ID": "Achievement_22",
       "SetID": "nl7ma1",
       "Name": "I\u0027ll be back",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -187,7 +192,7 @@
       "ID": "Achievement_3",
       "SetID": "nl7ma1",
       "Name": "Pro",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -195,7 +200,7 @@
       "ID": "Achievement_4",
       "SetID": "nl7ma1",
       "Name": "Semi-pro",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -203,7 +208,7 @@
       "ID": "Achievement_5",
       "SetID": "nl7ma1",
       "Name": "Victory Royale",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -211,7 +216,7 @@
       "ID": "Achievement_6",
       "SetID": "nl7ma1",
       "Name": "Collector",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -219,7 +224,7 @@
       "ID": "Achievement_7",
       "SetID": "nl7ma1",
       "Name": "Purist",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -227,7 +232,7 @@
       "ID": "Achievement_8",
       "SetID": "nl7ma1",
       "Name": "Insatiable",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -244,7 +249,7 @@
     {
       "ID": "nl7ma1",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
@@ -252,8 +257,8 @@
   "FirstSeenRating": "2023-03-31T06:57:05.6220405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.465852+00:00",
   "LastChanged": "2023-03-31T06:57:05.6220407+00:00",
-  "LastChanged_Achievements": "2024-01-05T00:09:27.840531+00:00",
+  "LastChanged_Achievements": "2024-01-05T01:55:57.9984468+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:22.5301096+00:00",
-  "LastUpdate_Ratings": "2024-01-05T00:01:31.3653388+00:00",
-  "LastUpdate_Achievements": "2024-01-05T00:09:27.8405437+00:00"
+  "LastUpdate_Ratings": "2024-01-05T01:46:57.8892955+00:00",
+  "LastUpdate_Achievements": "2024-01-05T01:55:57.9984674+00:00"
 }
