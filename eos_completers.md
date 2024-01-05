@@ -46,7 +46,7 @@
 | 44 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 9.09% |
 | 45 | [Smelter](games/s/smelter.md) | 8.70% |
 | 46 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.51% |
-| 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.36% |
+| 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.31% |
 | 48 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 8.05% |
 | 49 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.88% |
 | 50 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
@@ -56,7 +56,7 @@
 | 54 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.48% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.46% |
-| 56 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.46% |
+| 57 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.35% |
 | 58 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.18% |
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.14% |
 | 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.09% |
@@ -74,9 +74,9 @@
 | 72 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.26% |
 | 73 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.87% |
-| 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.78% |
-| 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.76% |
-| 76 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
+| 75 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.76% |
+| 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.76% |
+| 75 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.72% |
 | 79 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.55% |
 | 79 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.55% |
@@ -88,9 +88,9 @@
 | 86 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.26% |
 | 87 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.22% |
 | 88 | [The Bunker](games/t/the_bunker.md) | 4.17% |
-| 89 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.00% |
 | 89 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 4.00% |
-| 91 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.95% |
+| 90 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.95% |
+| 90 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.95% |
 | 92 | [Dungeons 4](games/d/dungeons_4.md) | 3.89% |
 | 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.80% |
 | 94 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.73% |
@@ -101,7 +101,7 @@
 | 99 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.49% |
 | 100 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.45% |
 | 100 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 3.45% |
-| 102 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.38% |
+| 102 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.36% |
 | 103 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.33% |
 | 103 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 105 | [Bunny Park](games/b/bunny_park.md) | 3.24% |
@@ -145,8 +145,8 @@
 | 143 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.68% |
 | 144 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.66% |
 | 145 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.59% |
-| 146 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.53% |
-| 147 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.52% |
+| 146 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.52% |
+| 146 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.52% |
 | 148 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.50% |
 | 149 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.49% |
 | 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.46% |
@@ -171,9 +171,9 @@
 | 169 | [Lemon Cake](games/l/lemon_cake.md) | 1.06% |
 | 170 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 171 | [Sable](games/s/sable.md) | 1.01% |
-| 172 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.98% |
 | 172 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
-| 174 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.97% |
+| 173 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.97% |
+| 173 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.97% |
 | 175 | [Colossal Cave](games/c/colossal_cave.md) | 0.95% |
 | 175 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.95% |
 | 175 | [Trifox](games/t/trifox.md) | 0.95% |
@@ -192,8 +192,8 @@
 | 190 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 190 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.76% |
 | 192 | [Infindustry](games/i/infindustry.md) | 0.75% |
-| 193 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.71% |
-| 194 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
+| 193 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
+| 193 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.70% |
 | 195 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.69% |
 | 196 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.68% |
 | 197 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 0.67% |

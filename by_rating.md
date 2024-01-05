@@ -50,7 +50,7 @@
 | 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.84 | 0 | 579 |
 | 48 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.84 | 0 | 579 |
 | 48 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 49 | 457 |
-| 48 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.84 | 44 | 471 |
+| 48 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.84 | 45 | 467 |
 | 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 448 | 229 |
 | 48 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 186 | 307 |
 | 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 579 |
@@ -237,7 +237,7 @@
 | 233 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 579 |
 | 233 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 579 |
 | 233 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 125 | 350 |
-| 233 | [Coromon](games/c/coromon.md) | 4.69 | 44 | 471 |
+| 233 | [Coromon](games/c/coromon.md) | 4.69 | 44 | 472 |
 | 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 7,708 | 54 |
 | 233 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 6,839 | 57 |
 | 233 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 8,516 | 48 |
@@ -259,8 +259,8 @@
 | 233 | [The Red Lantern](games/t/the_red_lantern.md) | 4.69 | 0 | 579 |
 | 233 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,080 | 154 |
 | 233 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 872 | 173 |
-| 260 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,406 | 98 |
-| 260 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,107 | 88 |
+| 260 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,409 | 98 |
+| 260 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,114 | 88 |
 | 260 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 716 | 193 |
 | 260 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 579 |
 | 260 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,951 | 50 |
@@ -290,6 +290,7 @@
 | 284 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 579 |
 | 284 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 495 | 221 |
 | 284 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,311 | 111 |
+| 284 | [Overcooked](games/o/overcooked.md) | 4.67 | 127 | 345 |
 | 284 | [Road 96](games/r/road_96.md) | 4.67 | 0 | 579 |
 | 284 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.67 | 0 | 579 |
 | 284 | [Snakebird Complete](games/e/efc30c2078a2499ab979d198255e2e4b.md) | 4.67 | 0 | 579 |
@@ -300,26 +301,25 @@
 | 284 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 25 | 545 |
 | 284 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.67 | 0 | 579 |
 | 284 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 579 |
-| 301 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 86 | 396 |
-| 301 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,636 | 60 |
-| 301 | [Crashlands](games/c/crashlands.md) | 4.66 | 198 | 301 |
-| 301 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,308 | 143 |
-| 301 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 396 | 238 |
-| 301 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.66 | 57 | 431 |
-| 301 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.66 | 0 | 579 |
-| 301 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 210 | 293 |
-| 301 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 57 | 431 |
-| 301 | [Northgard](games/n/northgard.md) | 4.66 | 38 | 485 |
-| 301 | [Overcooked](games/o/overcooked.md) | 4.66 | 127 | 345 |
-| 301 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,130 | 149 |
-| 301 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,958 | 120 |
-| 301 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 592 | 209 |
-| 301 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 36 | 493 |
-| 301 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 279 | 268 |
-| 301 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,061 | 65 |
-| 301 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,287 | 85 |
-| 301 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 106 | 368 |
-| 301 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 226 |
+| 302 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 86 | 396 |
+| 302 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,636 | 60 |
+| 302 | [Crashlands](games/c/crashlands.md) | 4.66 | 198 | 301 |
+| 302 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,308 | 143 |
+| 302 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 396 | 238 |
+| 302 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.66 | 57 | 431 |
+| 302 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.66 | 0 | 579 |
+| 302 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 210 | 293 |
+| 302 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 57 | 431 |
+| 302 | [Northgard](games/n/northgard.md) | 4.66 | 38 | 485 |
+| 302 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,130 | 149 |
+| 302 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,958 | 120 |
+| 302 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 592 | 209 |
+| 302 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 36 | 493 |
+| 302 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 279 | 268 |
+| 302 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,061 | 65 |
+| 302 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,287 | 85 |
+| 302 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 106 | 368 |
+| 302 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 226 |
 | 321 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 579 |
 | 321 | [Art of Rally](games/a/art_of_rally_1.md) | 4.65 | 32 | 512 |
 | 321 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 0 | 579 |
@@ -404,7 +404,7 @@
 | 398 | [Control](games/c/control.md) | 4.61 | 9,051 | 44 |
 | 398 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 80 | 398 |
 | 398 | [Darkwood](games/d/darkwood.md) | 4.61 | 329 | 254 |
-| 398 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 52,391 | 13 |
+| 398 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 52,482 | 13 |
 | 398 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 115 | 357 |
 | 398 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 579 |
 | 398 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 63 | 420 |
