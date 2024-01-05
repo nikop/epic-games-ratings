@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3985,
+  "EOS_Progressed": 3986,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5442,6 +5442,11 @@
       "Time": "2024-01-05T01:51:52.6460512+00:00",
       "NumProgressed": 3985,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-05T03:06:06.5076258+00:00",
+      "NumProgressed": 3986,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5501,7 +5506,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "campaign10",
@@ -5541,7 +5546,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "campaign15",
@@ -5589,7 +5594,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2989
+      "UsersEstimate": 2990
     },
     {
       "ID": "campaign20",
@@ -5605,7 +5610,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "campaign4",
@@ -5661,7 +5666,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "scenario2",
@@ -5716,7 +5721,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3985,
+      "Progressed": 3986,
       "Completed": 11
     }
   ],
@@ -5724,8 +5729,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:27:07.4869829+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:06:06.5076255+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:20:37.5715582+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:27:07.4870296+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:59:12.9639906+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:06:06.5076736+00:00"
 }

@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1966,
+  "EOS_Progressed": 1967,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 1,
@@ -3680,6 +3680,11 @@
       "Time": "2024-01-04T23:09:55.1070687+00:00",
       "NumProgressed": 1966,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-05T03:10:34.4301066+00:00",
+      "NumProgressed": 1967,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3691,7 +3696,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "booty_call",
@@ -3715,7 +3720,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "hold_my_beer",
@@ -3723,7 +3728,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3763,7 +3768,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "only_thyme_will_tell",
@@ -3810,7 +3815,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1966,
+      "Progressed": 1967,
       "Completed": 12
     }
   ],
@@ -3818,8 +3823,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:32:01.2851172+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:10:34.4301062+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:19:34.4268721+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:32:01.2851598+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:57:35.0200472+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:10:34.430133+00:00"
 }

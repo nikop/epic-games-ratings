@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3714,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -7765,9 +7765,9 @@
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 854
     },
     {
       "ID": "achievement_48",
@@ -7853,9 +7853,9 @@
       "ID": "achievement_57",
       "SetID": "d252ncf",
       "Name": "Ghost of the Father",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 780
+      "UsersEstimate": 817
     },
     {
       "ID": "achievement_58",
@@ -8213,9 +8213,9 @@
       "ID": "achievement_98",
       "SetID": "d252ncf",
       "Name": "Master and Commander",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 409
+      "UsersEstimate": 446
     },
     {
       "ID": "achievement_99",
@@ -8241,8 +8241,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:32:15.7351563+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:10:53.0237248+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.6542278+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:25:21.128311+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:32:15.735361+00:00"
+  "LastUpdate_Ratings": "2024-01-05T03:03:38.0416729+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:10:53.0239024+00:00"
 }

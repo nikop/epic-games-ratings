@@ -6,18 +6,18 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~789 |
+| Malpractice Assurance | 12.00% | ~790 |
 | Lost and Found | 8.00% | ~526 |
-| Autodidact | 7.00% | ~9,219 |
-| This Belongs in a Museum | 6.00% | ~7,902 |
-| This guy... again? | 6.00% | ~394 |
-| Serenity Now! | 5.00% | ~6,585 |
-| Creep and Sleep | 5.00% | ~6,585 |
-| Meat and Greet | 5.00% | ~6,585 |
-| Catch and Decease | 5.00% | ~6,585 |
-| Overdue Notice | 5.00% | ~6,585 |
-| Escape from the Black Hole | 5.00% | ~6,585 |
-| To Grandmother's House | 5.00% | ~6,585 |
+| Autodidact | 7.00% | ~9,220 |
+| This Belongs in a Museum | 6.00% | ~7,903 |
+| This guy... again? | 6.00% | ~395 |
+| Serenity Now! | 5.00% | ~6,586 |
+| Creep and Sleep | 5.00% | ~6,586 |
+| Meat and Greet | 5.00% | ~6,586 |
+| Catch and Decease | 5.00% | ~6,586 |
+| Overdue Notice | 5.00% | ~6,586 |
+| Escape from the Black Hole | 5.00% | ~6,586 |
+| To Grandmother's House | 5.00% | ~6,586 |
 | Ploughshares to Swords | 5.00% | ~329 |
 | Bloody Graduation | 5.00% | ~329 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,268 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,705 (Ranked 91)  
+Progressed: 131,712 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,10 +336,10 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
-| 2024-01-05 | 131,705 | 3 |
+| 2024-01-05 | 131,712 | 3 |
 ## Awards
 Max (Character Customization): 7,951  (Ranked 50)  
-Sum: 21,424 (Ranked 58)  
+Sum: 21,431 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -349,8 +349,8 @@ Diff (max vs sum): -8
 | This game is Highly Recommended | 1,594 |
 | This game has Amazing Characters | 1,517 |
 | This game is Extremely Fun | 1,514 |
-| This game has Unique Visuals | 1,452 |
-| This game has Amazing Storytelling | 1,434 |
+| This game has Unique Visuals | 1,456 |
+| This game has Amazing Storytelling | 1,437 |
 | This game has Quickly Understood Controls | 1,404 |
 | This game has a Creative Community | 1,079 |
 | This game has Obsessive Gameplay | 585 |
@@ -700,4 +700,4 @@ Diff (max vs sum): -8
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
 | 2024-01-03 | 4.68 | - | 7,940 | 21,388 |
 | 2024-01-04 | 4.68 | - | 7,951 | 21,421 |
-| 2024-01-05 | 4.68 | - | 7,951 | 21,424 |
+| 2024-01-05 | 4.68 | - | 7,951 | 21,431 |

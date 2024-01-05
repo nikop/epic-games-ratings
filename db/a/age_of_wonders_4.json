@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6858,
+  "EOS_Progressed": 6861,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10377,6 +10377,11 @@
       "Time": "2024-01-05T01:50:29.7008961+00:00",
       "NumProgressed": 6858,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T03:04:10.6133285+00:00",
+      "NumProgressed": 6861,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10516,7 +10521,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "25",
@@ -10604,7 +10609,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "35",
@@ -10867,13 +10872,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6858,
+      "Progressed": 6861,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6858,
+      "Progressed": 6861,
       "Completed": 7
     }
   ],
@@ -10881,8 +10886,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:25:43.0117437+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:04:10.6133281+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:24:43.6837923+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:25:43.0118259+00:00"
+  "LastUpdate_Ratings": "2024-01-05T03:02:30.9734525+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:04:10.6134387+00:00"
 }

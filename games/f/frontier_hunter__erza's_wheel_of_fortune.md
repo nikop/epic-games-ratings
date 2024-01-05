@@ -26,8 +26,8 @@ Rating: 4.38 (Ranked 786)
 | Flying Kobold Killer | 19.00% | ~135 |
 | Youth Magnet | 18.00% | ~128 |
 | Furious Scorpion Killer | 17.00% | ~121 |
+| Lethal Blade Mantis Killer | 17.00% | ~121 |
 | Master Artificer | 17.00% | ~121 |
-| Lethal Blade Mantis Killer | 16.00% | ~114 |
 | Squeaky Clean | 16.00% | ~114 |
 | Kind Adventurer | 15.00% | ~107 |
 | Mermaid Killer | 15.00% | ~107 |

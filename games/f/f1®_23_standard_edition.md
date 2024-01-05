@@ -1,32 +1,32 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.66 (Ranked 301)  
+Rating: 4.66 (Ranked 302)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~14,014 |
-| On the Top Step | 82.00% | ~12,628 |
-| Setting up for Success | 69.00% | ~10,626 |
-| Team Orders | 68.00% | ~10,472 |
-| Engineer | 45.00% | ~6,930 |
-| Familiar Faces | 42.00% | ~6,468 |
-| Going the Extra Mile | 35.00% | ~5,390 |
-| Sharing the Love | 33.00% | ~5,082 |
-| Hitting a Season | 26.00% | ~4,004 |
-| Making History | 25.00% | ~3,850 |
-| A Dozen Pieces | 24.00% | ~3,696 |
-| Network Success | 23.00% | ~3,542 |
-| Challenge Yourself | 23.00% | ~3,542 |
-| Writing a new Chapter | 19.00% | ~2,926 |
-| Spring Cleaning | 18.00% | ~2,772 |
-| Reduce | 15.00% | ~2,310 |
-| Ups and Downs | 15.00% | ~2,310 |
-| Crucial Combo | 13.00% | ~2,002 |
-| Reuse | 12.00% | ~1,848 |
-| Proving Them Wrong | 12.00% | ~1,848 |
-| Gathering Dust | 11.00% | ~1,694 |
-| One for the Book | 11.00% | ~1,694 |
+| Getting on the Step | 91.00% | ~14,019 |
+| On the Top Step | 82.00% | ~12,632 |
+| Setting up for Success | 69.00% | ~10,629 |
+| Team Orders | 68.00% | ~10,475 |
+| Engineer | 45.00% | ~6,932 |
+| Familiar Faces | 42.00% | ~6,470 |
+| Going the Extra Mile | 35.00% | ~5,392 |
+| Sharing the Love | 33.00% | ~5,084 |
+| Hitting a Season | 26.00% | ~4,005 |
+| Making History | 25.00% | ~3,851 |
+| A Dozen Pieces | 24.00% | ~3,697 |
+| Network Success | 23.00% | ~3,543 |
+| Challenge Yourself | 23.00% | ~3,543 |
+| Writing a new Chapter | 19.00% | ~2,927 |
+| Spring Cleaning | 18.00% | ~2,773 |
+| Reduce | 15.00% | ~2,311 |
+| Ups and Downs | 15.00% | ~2,311 |
+| Crucial Combo | 13.00% | ~2,003 |
+| Reuse | 12.00% | ~1,849 |
+| Proving Them Wrong | 12.00% | ~1,849 |
+| Gathering Dust | 11.00% | ~1,695 |
+| One for the Book | 11.00% | ~1,695 |
 | Friendly Competition | 10.00% | ~1,540 |
 | Switcheroo | 10.00% | ~1,540 |
 | Eagle Eye | 9.00% | ~1,386 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 301)
 | Shot in the Dark | 0.10% | ~15 |
 | Elite Racer | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,400 (Ranked 168)  
+Progressed: 15,405 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 14,800 | 0 |
 | 2024-01-03 | 15,088 | 0 |
 | 2024-01-04 | 15,352 | 0 |
-| 2024-01-05 | 15,400 | 0 |
+| 2024-01-05 | 15,405 | 0 |
 ## Awards
 Max (Diverse Characters): 57  (Ranked 431)  
 Sum: 371 (Ranked 362)  

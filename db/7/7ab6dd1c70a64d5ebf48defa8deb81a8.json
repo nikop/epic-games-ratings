@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1801,
+  "EOS_Progressed": 1802,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3557,6 +3557,11 @@
       "Time": "2024-01-05T02:32:09.4441376+00:00",
       "NumProgressed": 1801,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T03:10:45.1730864+00:00",
+      "NumProgressed": 1802,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3640,7 +3645,7 @@
       "Name": "Trinity",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACH_11",
@@ -3855,7 +3860,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1801,
+      "Progressed": 1802,
       "Completed": 3
     }
   ],
@@ -3863,8 +3868,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-04T23:57:43.6326187+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:32:09.4441373+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:10:45.1730859+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:19:45.6818505+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:32:09.4441859+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:57:51.4318864+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:10:45.1731258+00:00"
 }

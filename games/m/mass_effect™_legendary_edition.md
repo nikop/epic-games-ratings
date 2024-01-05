@@ -45,8 +45,9 @@
 | Driven | 24.00% | ~891 |
 | Ghost Ship | 23.00% | ~854 |
 | The Assassin | 23.00% | ~854 |
+| The Justicar | 23.00% | ~854 |
 | The Quarian | 23.00% | ~854 |
-| The Justicar | 22.00% | ~817 |
+| Ghost of the Father | 22.00% | ~817 |
 | The Prodigal | 22.00% | ~817 |
 | Galactic Explorer | 22.00% | ~817 |
 | Revenge! | 22.00% | ~817 |
@@ -57,7 +58,6 @@
 | Battlemaster | 21.00% | ~780 |
 | Catharsis | 21.00% | ~780 |
 | Fade Away | 21.00% | ~780 |
-| Ghost of the Father | 21.00% | ~780 |
 | The Cure | 21.00% | ~780 |
 | Big Game Hunter | 21.00% | ~780 |
 | Digital Exorcist | 21.00% | ~780 |
@@ -100,10 +100,10 @@
 | Well Connected | 13.00% | ~483 |
 | Executioner | 12.00% | ~446 |
 | Patriot | 12.00% | ~446 |
+| Master and Commander | 12.00% | ~446 |
 | Sabotage Specialist | 11.00% | ~409 |
 | Throw Mastery | 11.00% | ~409 |
 | Legend | 11.00% | ~409 |
-| Master and Commander | 11.00% | ~409 |
 | Mail Slot | 10.00% | ~371 |
 | Long Service Medal | 10.00% | ~371 |
 | Electronics Specialist | 10.00% | ~371 |

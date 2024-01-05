@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2214,7 +2214,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16120,
+  "EOS_Progressed": 16121,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
@@ -18944,6 +18944,11 @@
       "Time": "2024-01-04T23:10:11.8818327+00:00",
       "NumProgressed": 16120,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T03:10:55.4228324+00:00",
+      "NumProgressed": 16121,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19505,9 +19510,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -19593,9 +19598,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -19633,9 +19638,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -20393,9 +20398,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -20761,9 +20766,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -21818,21 +21823,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16120,
+      "Progressed": 16121,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16120,
+      "Progressed": 16121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-04T06:58:24.8867619+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:32:17.8976303+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:10:55.4228321+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:20:49.8291599+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:32:17.8987463+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:59:31.5644232+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:10:55.4238621+00:00"
 }

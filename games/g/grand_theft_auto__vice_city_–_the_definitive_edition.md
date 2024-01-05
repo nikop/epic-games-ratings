@@ -5,15 +5,15 @@ Rating: 4.52 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,077 |
-| Greasy Palms | 42.00% | ~6,461 |
-| South American Connection | 26.00% | ~4,000 |
-| Life of the Party | 21.00% | ~3,231 |
+| Legal Counsel | 46.00% | ~7,079 |
+| Greasy Palms | 42.00% | ~6,463 |
+| South American Connection | 26.00% | ~4,001 |
+| Life of the Party | 21.00% | ~3,232 |
 | Big Heat from Little Havana | 15.00% | ~2,308 |
 | Chauffeur | 15.00% | ~2,308 |
 | Tommy Two-Wheels | 15.00% | ~2,308 |
-| Salutations My Little Friend | 11.00% | ~1,692 |
-| Iron-y | 10.00% | ~1,538 |
+| Salutations My Little Friend | 11.00% | ~1,693 |
+| Iron-y | 10.00% | ~1,539 |
 | Gun for Hire | 9.00% | ~1,385 |
 | Mischief Managed | 9.00% | ~1,385 |
 | Vice City Mogul | 7.00% | ~1,077 |
@@ -21,7 +21,7 @@ Rating: 4.52 (Ranked 575)
 | Bloodstained Hands | 6.00% | ~923 |
 | Not my First Time | 5.00% | ~769 |
 | Grand Theft Auto | 5.00% | ~769 |
-| Pie Guy | 4.00% | ~615 |
+| Pie Guy | 4.00% | ~616 |
 | Running Rampant | 3.00% | ~462 |
 | Point A to Point B | 3.00% | ~462 |
 | High Quality H2O | 3.00% | ~462 |
@@ -37,10 +37,10 @@ Rating: 4.52 (Ranked 575)
 | Keepie-Uppy Okie Dokie | 1.00% | ~154 |
 | I'm Famous! | 1.00% | ~154 |
 | Daredevil | 1.00% | ~154 |
-| Done it All | 0.90% | ~138 |
+| Done it All | 0.90% | ~139 |
 | Kingpin | 0.60% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,384 (Ranked 169)  
+Progressed: 15,389 (Ranked 169)  
 Completed: 86 (0.56%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 86 (0.56%) (Ranked 211)
 | 2024-01-02 | 15,126 | 85 |
 | 2024-01-03 | 15,241 | 85 |
 | 2024-01-04 | 15,370 | 86 |
-| 2024-01-05 | 15,384 | 86 |
+| 2024-01-05 | 15,389 | 86 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

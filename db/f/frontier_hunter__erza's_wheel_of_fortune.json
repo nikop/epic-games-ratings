@@ -2533,9 +2533,9 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "7pimpda",
       "Name": "Lethal Blade Mantis Killer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -2846,8 +2846,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:31:26.6750876+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:09:44.5226814+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:20:14.5027569+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:31:26.6751623+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:58:37.8918953+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:09:44.5227328+00:00"
 }

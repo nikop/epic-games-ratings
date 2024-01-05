@@ -12,12 +12,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 1.00% | ~161 |
 | Play a Single Player Game | 1.00% | ~161 |
 | Architect | 0.90% | ~145 |
+| Mason | 0.90% | ~145 |
 | Strong | 0.90% | ~145 |
 | Hanging Gardens | 0.90% | ~145 |
 | Able | 0.80% | ~129 |
 | Good | 0.80% | ~129 |
 | Learned | 0.80% | ~129 |
-| Mason | 0.80% | ~129 |
 | Noble | 0.80% | ~129 |
 | Pioneer | 0.80% | ~129 |
 | Oracle | 0.80% | ~129 |
@@ -34,25 +34,26 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.70% | ~113 |
 | Learn to Play 1 | 0.70% | ~113 |
 | Judaism | 0.70% | ~113 |
+| Babylonian Paganism | 0.70% | ~113 |
 | Greek Paganism | 0.70% | ~113 |
 | Naming Landmarks | 0.70% | ~113 |
 | Fountainhead | 0.60% | ~97 |
 | Magnificent | 0.60% | ~97 |
+| Wise | 0.60% | ~97 |
 | Ishtar Gate | 0.60% | ~97 |
 | Lighthouse | 0.60% | ~97 |
 | Christianity | 0.60% | ~97 |
-| Babylonian Paganism | 0.60% | ~97 |
 | Roman Paganism | 0.60% | ~97 |
 | Zoroastrianism | 0.60% | ~97 |
 | Regicide | 0.50% | ~81 |
 | Great | 0.50% | ~81 |
-| Wise | 0.50% | ~81 |
 | Legendary Cities | 0.50% | ~81 |
 | Able Difficulty | 0.50% | ~81 |
 | Furious Family | 0.50% | ~81 |
 | Acropolis | 0.50% | ~81 |
 | Apadana | 0.50% | ~81 |
 | Great Ziggurat | 0.50% | ~81 |
+| Necropolis | 0.50% | ~81 |
 | Learn to Play 2 | 0.50% | ~81 |
 | Carthaginian Paganism | 0.50% | ~81 |
 | Beloved | 0.40% | ~64 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.40% | ~64 |
 | Mausoleum | 0.40% | ~64 |
 | Musaeum | 0.40% | ~64 |
-| Necropolis | 0.40% | ~64 |
 | Manichaeism | 0.40% | ~64 |
 | Egyptian Paganism | 0.40% | ~64 |
 | Building Wonders | 0.40% | ~64 |
@@ -73,6 +73,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |
 | Ready | 0.30% | ~48 |
+| Subjugator | 0.30% | ~48 |
 | Victorious | 0.30% | ~48 |
 | Good Difficulty | 0.30% | ~48 |
 | Artisans | 0.30% | ~48 |
@@ -97,7 +98,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
 | Lion | 0.20% | ~32 |
-| Subjugator | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |
 | Clerics | 0.20% | ~32 |
 | Hunters | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,120 (Ranked 167)  
+Progressed: 16,121 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,6 +625,7 @@ Completed: 5 (0.03%) (Ranked 352)
 | 2024-01-02 | 16,090 | 5 |
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
+| 2024-01-05 | 16,121 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,913 (Ranked 221)  

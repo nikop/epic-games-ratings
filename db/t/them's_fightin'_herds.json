@@ -343,9 +343,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 234914,
+  "EOS_Progressed": 234918,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26773,6 +26773,11 @@
       "Time": "2024-01-05T02:31:30.5941716+00:00",
       "NumProgressed": 234914,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T03:09:49.8502692+00:00",
+      "NumProgressed": 234918,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -26848,7 +26853,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84569
+      "UsersEstimate": 84570
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -26928,7 +26933,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79871
+      "UsersEstimate": 79872
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -26944,7 +26949,7 @@
       "Name": "Be Gentle...",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 49332
+      "UsersEstimate": 49333
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -26952,7 +26957,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7047
+      "UsersEstimate": 7048
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -26992,7 +26997,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39935
+      "UsersEstimate": 39936
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -27007,7 +27012,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234914,
+      "Progressed": 234918,
       "Completed": 6
     }
   ],
@@ -27015,8 +27020,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-02T21:59:02.7368642+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:31:30.5941712+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:09:49.8502687+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.1279895+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:22:14.406362+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:31:30.5943076+00:00"
+  "LastUpdate_Ratings": "2024-01-05T03:01:35.3298272+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:09:49.8504297+00:00"
 }

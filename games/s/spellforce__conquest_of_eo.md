@@ -28,9 +28,9 @@
 | Friend of Alluvyan | 18.00% | ~21 |
 | Friend of Connach | 16.00% | ~18 |
 | Friend of Gillyshire | 15.00% | ~17 |
+| Break Free | 14.00% | ~16 |
 | Stormwatch Faste | 13.00% | ~15 |
 | Friend of Silver Drift Hollow | 13.00% | ~15 |
-| Break Free | 13.00% | ~15 |
 | Friend of Orgash | 12.00% | ~14 |
 | Friend of Bastion | 12.00% | ~14 |
 | Magic Academy | 12.00% | ~14 |

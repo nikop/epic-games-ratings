@@ -38,7 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~754 |
 | The Contagious Curse | 0.30% | ~754 |
 | Escort to Waterdeep | 0.30% | ~754 |
-| Welcome to the Vrocks | 0.30% | ~652 |
+| Welcome to the Vrocks | 0.30% | ~653 |
 | The Silken Swamp | 0.20% | ~502 |
 | Supply Run | 0.20% | ~502 |
 | Low Initiative | 0.20% | ~502 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,226 (Ranked 70)  
+Progressed: 251,242 (Ranked 70)  
 Completed: 2,592 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -813,7 +813,7 @@ Completed: 2,592 (1.03%) (Ranked 170)
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
-| 2024-01-05 | 251,226 | 2,592 |
+| 2024-01-05 | 251,242 | 2,592 |
 ## Awards
 Max (Great for Beginners): 5,740  (Ranked 72)  
 Sum: 33,315 (Ranked 41)  

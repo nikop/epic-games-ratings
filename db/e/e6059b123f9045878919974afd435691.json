@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1345,
+  "EOS_Progressed": 1346,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3554,6 +3554,11 @@
       "Time": "2024-01-05T02:32:14.9687365+00:00",
       "NumProgressed": 1345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T03:10:51.9986966+00:00",
+      "NumProgressed": 1346,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3565,15 +3570,15 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 713
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3581,7 +3586,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3765,7 +3770,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3773,7 +3778,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -3797,7 +3802,7 @@
       "Name": "End of Rest",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -3821,7 +3826,7 @@
       "Name": "Free Like Birds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -3845,7 +3850,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3861,7 +3866,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3869,7 +3874,7 @@
       "Name": "Call The Winchester",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -3923,9 +3928,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 390
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3933,7 +3938,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -3965,7 +3970,7 @@
       "Name": "To Get Stronger",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -3987,9 +3992,9 @@
       "ID": "NOTE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Buy A Book",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 215
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -3997,7 +4002,7 @@
       "Name": "The Last of Us",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4092,14 +4097,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1345,
+      "Progressed": 1346,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:32:14.9687361+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:10:51.9986962+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-05T01:47:24.0641097+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:32:14.968832+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:57:11.0574675+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:10:51.9987909+00:00"
 }

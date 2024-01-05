@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1023,7 +1023,7 @@
   ],
   "EOS_Progressed": 7967,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13286,9 +13286,9 @@
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 956
+      "UsersEstimate": 1036
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -13565,8 +13565,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:30:14.6786862+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:08:04.1563303+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:24:39.629791+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:30:14.6787777+00:00"
+  "LastUpdate_Ratings": "2024-01-05T03:02:24.7163111+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:08:04.156411+00:00"
 }

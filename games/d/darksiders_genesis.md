@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420 (Ranked 360)  
+Progressed: 421 (Ranked 360)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 373 | 0 |
 | 2024-01-03 | 396 | 0 |
 | 2024-01-04 | 417 | 0 |
-| 2024-01-05 | 420 | 0 |
+| 2024-01-05 | 421 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 467)  
 Sum: 45 (Ranked 514)  

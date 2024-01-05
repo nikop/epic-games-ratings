@@ -105,21 +105,21 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thank You Tom Nook | 1.00% | ~1,495 |
 | Jackpot! | 1.00% | ~1,495 |
 | Eternal Crusade | 1.00% | ~1,495 |
-| The Greatest Grind | 0.90% | ~1,345 |
-| All or Nothing! | 0.90% | ~1,345 |
+| The Greatest Grind | 0.90% | ~1,346 |
+| All or Nothing! | 0.90% | ~1,346 |
 | Bane of Legends | 0.80% | ~1,196 |
 | Anything not Nailed Down | 0.80% | ~1,196 |
 | Marvels from the World Over | 0.80% | ~1,196 |
-| Unleashed Potential | 0.70% | ~1,046 |
-| JACKPOT!!! | 0.70% | ~1,046 |
+| Unleashed Potential | 0.70% | ~1,047 |
+| JACKPOT!!! | 0.70% | ~1,047 |
 | Ultimate Collector | 0.60% | ~897 |
-| Oligarch Monarch | 0.50% | ~747 |
-| Merchant Extraordinaire | 0.50% | ~747 |
+| Oligarch Monarch | 0.50% | ~748 |
+| Merchant Extraordinaire | 0.50% | ~748 |
 | To Hell and Back | 0.40% | ~598 |
 | Cash Only Please | 0.40% | ~598 |
 | Capitalist Camaraderie | 0.20% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,499 (Ranked 86)  
+Progressed: 149,504 (Ranked 86)  
 Completed: 342 (0.23%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 342 (0.23%) (Ranked 268)
 | 2024-01-02 | 149,077 | 341 |
 | 2024-01-03 | 149,238 | 342 |
 | 2024-01-04 | 149,471 | 342 |
-| 2024-01-05 | 149,499 | 342 |
+| 2024-01-05 | 149,504 | 342 |
 ## Awards
 Max (Great for Beginners): 4,945  (Ranked 78)  
 Sum: 27,929 (Ranked 52)  

@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1603,9 +1603,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 212
     },
     {
       "ID": "EndlessTricks",
@@ -2170,8 +2170,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:30:53.2363162+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:08:56.9362885+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:19:48.4295651+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:30:53.2364073+00:00"
+  "LastUpdate_Ratings": "2024-01-05T02:57:54.8983733+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:08:56.9363753+00:00"
 }

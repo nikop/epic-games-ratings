@@ -55,11 +55,11 @@ Number of Ratings: 20  (23.09.2022)
 | The Round Table | 5.00% | ~20 |
 | Frugal | 4.00% | ~16 |
 | A Familiar Figure | 3.00% | ~12 |
+| Lunatic | 3.00% | ~12 |
 | A Perfect Map | 3.00% | ~12 |
 | X Marks the Spot | 3.00% | ~12 |
 | Risk/Reward | 3.00% | ~12 |
 | I Set Forth Again... and Again... and Again... | 3.00% | ~12 |
-| Lunatic | 2.00% | ~8 |
 | Look Ma, No Equipment! | 2.00% | ~8 |
 | Abominable Hunger | 0.70% | ~3 |
 | Everything is FINE... | 0.70% | ~3 |

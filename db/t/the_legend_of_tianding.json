@@ -2,9 +2,9 @@
   "ID": "2015d187216e4b33b88edee66282e4a1",
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
-  "Ranking_EOS_Progress": 524,
-  "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_Progress": 523,
+  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67,
+  "EOS_Progressed": 68,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.46,
+  "EOS_Completed_Percentage": 7.35,
   "EosHistory": [
     {
       "Time": "2023-09-28T09:07:03.7102413+00:00",
@@ -385,6 +385,11 @@
       "Time": "2024-01-04T12:03:44.1197909+00:00",
       "NumProgressed": 67,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T03:04:34.1662934+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T03:06:31.4397832+00:00",
@@ -411,7 +416,7 @@
       "ID": "BeatBossNaka",
       "SetID": "123m9l1",
       "Name": "Killing Machine",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 100,
       "UsersEstimate": 30
     },
@@ -427,7 +432,7 @@
       "ID": "BeatBossTing",
       "SetID": "123m9l1",
       "Name": "Divine Retribution",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 100,
       "UsersEstimate": 28
     },
@@ -435,7 +440,7 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
       "UsersEstimate": 41
     },
@@ -451,7 +456,7 @@
       "ID": "ClarifyRumors",
       "SetID": "123m9l1",
       "Name": "Dispel Rumors",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -493,7 +498,7 @@
       "Name": "Hero Arrives",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "HardcorePlayer",
@@ -515,7 +520,7 @@
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -523,7 +528,7 @@
       "ID": "MilitaryFactoryExplorer",
       "SetID": "123m9l1",
       "Name": "Urban Explorer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 18
     },
@@ -604,7 +609,7 @@
     {
       "ID": "123m9l1",
       "IsBase": true,
-      "Progressed": 67,
+      "Progressed": 68,
       "Completed": 5
     }
   ],
@@ -612,8 +617,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-05T02:26:00.4003772+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:04:34.1662921+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.5249807+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:21:31.380703+00:00",
-  "LastUpdate_Achievements": "2024-01-05T02:26:00.4003929+00:00"
+  "LastUpdate_Ratings": "2024-01-05T03:00:29.7993925+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:04:34.1663097+00:00"
 }

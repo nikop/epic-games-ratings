@@ -1453,9 +1453,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260229,
+  "EOS_Progressed": 260235,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26293,6 +26293,11 @@
       "Time": "2024-01-05T01:53:15.4330967+00:00",
       "NumProgressed": 260229,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T03:03:44.5305055+00:00",
+      "NumProgressed": 260235,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26352,7 +26357,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80671
+      "UsersEstimate": 80673
     },
     {
       "ID": "BackHomeNTimes",
@@ -26360,7 +26365,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13011
+      "UsersEstimate": 13012
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -26408,7 +26413,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26023
+      "UsersEstimate": 26024
     },
     {
       "ID": "CreditLevel2",
@@ -26432,7 +26437,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13011
+      "UsersEstimate": 13012
     },
     {
       "ID": "CreedsInBank2",
@@ -26592,7 +26597,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59853
+      "UsersEstimate": 59854
     },
     {
       "ID": "KillOthers2",
@@ -26696,7 +26701,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26023
+      "UsersEstimate": 26024
     },
     {
       "ID": "ReachNDays2",
@@ -26751,7 +26756,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260229,
+      "Progressed": 260235,
       "Completed": 3
     }
   ],
@@ -26759,8 +26764,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-04T22:00:56.7754949+00:00",
-  "LastChanged_Achievements": "2024-01-05T01:53:15.4330962+00:00",
+  "LastChanged_Achievements": "2024-01-05T03:03:44.530504+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-05T02:21:50.3004427+00:00",
-  "LastUpdate_Achievements": "2024-01-05T01:53:15.4332632+00:00"
+  "LastUpdate_Ratings": "2024-01-05T03:00:58.0588488+00:00",
+  "LastUpdate_Achievements": "2024-01-05T03:03:44.5325345+00:00"
 }
