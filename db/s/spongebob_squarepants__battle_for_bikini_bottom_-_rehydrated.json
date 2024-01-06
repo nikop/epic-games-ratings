@@ -6,8 +6,8 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 313,
-  "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -335,11 +335,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 753,
+  "EOS_Progressed": 757,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.93,
+  "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -2035,6 +2035,11 @@
       "Time": "2024-01-06T09:06:23.8638854+00:00",
       "NumProgressed": 753,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T10:05:06.4430588+00:00",
+      "NumProgressed": 757,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2087,15 +2092,15 @@
       "Name": "Uptown and Downtown",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
       "SetID": "biiejkc",
       "Name": "Ship Shape",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -2119,7 +2124,7 @@
       "Name": "Jellyfishing",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2127,7 +2132,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2223,7 +2228,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -2247,7 +2252,7 @@
       "Name": "Sock Getter",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2255,15 +2260,15 @@
       "Name": "Spatula Seeker",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
       "SetID": "biiejkc",
       "Name": "Sponge Smasher",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2279,7 +2284,7 @@
       "Name": "Star Smasher",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2287,7 +2292,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -2295,22 +2300,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 753,
+      "Progressed": 757,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:06:23.863885+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:05:06.4430586+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:02:44.1467207+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:06:23.8639119+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:00:29.4278316+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:05:06.4430943+00:00"
 }

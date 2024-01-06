@@ -6,11 +6,11 @@ Rating: 4.27 (Ranked 899)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 79.00% | ~1,969 |
-| Don't I Know You...? | 75.00% | ~1,869 |
-| Jailbreak | 64.00% | ~1,595 |
+| Don't I Know You...? | 75.00% | ~1,870 |
+| Jailbreak | 64.00% | ~1,596 |
 | HEADSHOT! | 37.00% | ~922 |
 | Suited and Booted | 37.00% | ~922 |
-| Sleeping With The Fishes | 35.00% | ~872 |
+| Sleeping With The Fishes | 35.00% | ~873 |
 | Overheated | 30.00% | ~748 |
 | High Performance | 30.00% | ~748 |
 | Powered Up | 28.00% | ~698 |
@@ -18,11 +18,11 @@ Rating: 4.27 (Ranked 899)
 | Home Invasion | 22.00% | ~548 |
 | Luminary | 22.00% | ~548 |
 | It's a Trap | 22.00% | ~548 |
-| True Survivor | 21.00% | ~523 |
-| Offensive Defense | 20.00% | ~498 |
-| Shocking | 20.00% | ~498 |
-| Court Martial | 19.00% | ~473 |
-| Unforeseeable Consequences | 19.00% | ~473 |
+| True Survivor | 21.00% | ~524 |
+| Offensive Defense | 20.00% | ~499 |
+| Shocking | 20.00% | ~499 |
+| Court Martial | 19.00% | ~474 |
+| Unforeseeable Consequences | 19.00% | ~474 |
 | Clean Cut | 18.00% | ~449 |
 | Dead Again | 17.00% | ~424 |
 | Full Arsenal | 17.00% | ~424 |
@@ -41,7 +41,7 @@ Rating: 4.27 (Ranked 899)
 | A Little Banged Up | 8.00% | ~199 |
 | Following In Their Footsteps | 8.00% | ~199 |
 | Defense in Depth | 8.00% | ~199 |
-| Reverse Engineering | 7.00% | ~174 |
+| Reverse Engineering | 7.00% | ~175 |
 | Remote Surgery | 6.00% | ~150 |
 | Turbo Booster | 6.00% | ~150 |
 | Squid Pro Quo | 6.00% | ~150 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 899)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,492 (Ranked 235)  
+Progressed: 2,493 (Ranked 235)  
 Completed: 13 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 13 (0.52%) (Ranked 216)
 | 2024-01-03 | 2,457 | 13 |
 | 2024-01-04 | 2,469 | 13 |
 | 2024-01-05 | 2,483 | 13 |
-| 2024-01-06 | 2,492 | 13 |
+| 2024-01-06 | 2,493 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

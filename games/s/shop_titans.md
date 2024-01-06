@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,983 |
-| Titan's First Steps | 10.00% | ~14,983 |
+| Sponsored by Argon | 10.00% | ~14,984 |
+| Titan's First Steps | 10.00% | ~14,984 |
 | Basic in Bulk | 9.00% | ~13,485 |
 | Tinkle of Coins | 9.00% | ~13,485 |
-| Disintermediation | 7.00% | ~10,488 |
-| It's Free Real Estate | 7.00% | ~10,488 |
-| Capitalism Ho! | 7.00% | ~10,488 |
+| Disintermediation | 7.00% | ~10,489 |
+| It's Free Real Estate | 7.00% | ~10,489 |
+| Capitalism Ho! | 7.00% | ~10,489 |
 | Another Satisfied Customer | 6.00% | ~8,990 |
 | Budding Merchant | 6.00% | ~8,990 |
 | Own the Means of Production | 6.00% | ~8,990 |
@@ -20,16 +20,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Some Assembly Required | 5.00% | ~7,492 |
 | Pretty Penny | 5.00% | ~7,492 |
 | One-Armed Bandit | 5.00% | ~7,492 |
-| The Daily Grind | 4.00% | ~5,993 |
-| Bounty Hunters | 4.00% | ~5,993 |
-| Demand for Supplies | 4.00% | ~5,993 |
-| Flooding the Market | 4.00% | ~5,993 |
-| Where it Hurts | 4.00% | ~5,993 |
-| Gild-Gotten Goods | 4.00% | ~5,993 |
-| Dungeon Imports | 4.00% | ~5,993 |
-| Through Repetition, Perfection | 4.00% | ~5,993 |
-| Did we pack lunch? | 4.00% | ~5,993 |
-| Arcane Industries | 4.00% | ~5,993 |
+| The Daily Grind | 4.00% | ~5,994 |
+| Bounty Hunters | 4.00% | ~5,994 |
+| Demand for Supplies | 4.00% | ~5,994 |
+| Flooding the Market | 4.00% | ~5,994 |
+| Where it Hurts | 4.00% | ~5,994 |
+| Gild-Gotten Goods | 4.00% | ~5,994 |
+| Dungeon Imports | 4.00% | ~5,994 |
+| Through Repetition, Perfection | 4.00% | ~5,994 |
+| Did we pack lunch? | 4.00% | ~5,994 |
+| Arcane Industries | 4.00% | ~5,994 |
 | On the Path to Greatness | 3.00% | ~4,495 |
 | Ascended | 3.00% | ~4,495 |
 | Tax not Included | 3.00% | ~4,495 |
@@ -106,7 +106,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 1.00% | ~1,498 |
 | All or Nothing! | 1.00% | ~1,498 |
 | Eternal Crusade | 1.00% | ~1,498 |
-| The Greatest Grind | 0.90% | ~1,348 |
+| The Greatest Grind | 0.90% | ~1,349 |
 | Bane of Legends | 0.80% | ~1,199 |
 | Anything not Nailed Down | 0.80% | ~1,199 |
 | Marvels from the World Over | 0.80% | ~1,199 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~599 |
 | Capitalist Camaraderie | 0.20% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,833 (Ranked 86)  
+Progressed: 149,838 (Ranked 86)  
 Completed: 344 (0.23%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 344 (0.23%) (Ranked 268)
 | 2024-01-03 | 149,238 | 342 |
 | 2024-01-04 | 149,471 | 342 |
 | 2024-01-05 | 149,755 | 342 |
-| 2024-01-06 | 149,833 | 344 |
+| 2024-01-06 | 149,838 | 344 |
 ## Awards
 Max (Great for Beginners): 4,945  (Ranked 78)  
 Sum: 27,942 (Ranked 52)  

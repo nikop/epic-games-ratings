@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 48.00% | ~14 |
-| Recycling newbie | 41.00% | ~12 |
-| New recruit | 28.00% | ~8 |
-| Interesting | 24.00% | ~7 |
+| Welcome to Maupiroa | 47.00% | ~14 |
+| Recycling newbie | 40.00% | ~12 |
+| New recruit | 27.00% | ~8 |
+| Interesting | 23.00% | ~7 |
 | Amateur photographer | 17.00% | ~5 |
-| Power of the ray | 14.00% | ~4 |
+| Power of the ray | 13.00% | ~4 |
 | Pro Photographer | 10.00% | ~3 |
 | Recycling expert | 10.00% | ~3 |
 | Let's get started | 10.00% | ~3 |
@@ -37,7 +37,7 @@
 | Island cleanup | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 594)  
+Progressed: 30 (Ranked 590)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,3 +62,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-27 | 27 | 0 |
 | 2023-12-29 | 28 | 0 |
 | 2024-01-05 | 29 | 0 |
+| 2024-01-06 | 30 | 0 |

@@ -5,17 +5,17 @@ Rating: 3.75 (Ranked 1,085)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~377 |
+| I can do a thing or two | 60.00% | ~378 |
 | Buckle up | 58.00% | ~365 |
 | Quick charge | 58.00% | ~365 |
-| Hands up! | 52.00% | ~327 |
-| Now you know | 52.00% | ~327 |
-| Short circuit | 52.00% | ~327 |
-| Curious | 42.00% | ~264 |
-| Everybody lies | 36.00% | ~226 |
+| Hands up! | 52.00% | ~328 |
+| Now you know | 52.00% | ~328 |
+| Short circuit | 52.00% | ~328 |
+| Curious | 43.00% | ~271 |
+| Everybody lies | 36.00% | ~227 |
 | Trick or Treat? | 23.00% | ~145 |
-| Sysadmin | 22.00% | ~138 |
-| There is another way | 22.00% | ~138 |
+| Sysadmin | 22.00% | ~139 |
+| There is another way | 22.00% | ~139 |
 | Every little helps | 20.00% | ~126 |
 | Annoying | 19.00% | ~120 |
 | Hacker | 19.00% | ~120 |
@@ -34,11 +34,11 @@ Rating: 3.75 (Ranked 1,085)
 | Blade Runner | 10.00% | ~63 |
 | Perfect hearing | 9.00% | ~57 |
 | Meticulous | 7.00% | ~44 |
-| Lucky dog | 5.00% | ~31 |
-| Accurate | 5.00% | ~31 |
+| Lucky dog | 5.00% | ~32 |
+| Accurate | 5.00% | ~32 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 629 (Ranked 335)  
+Progressed: 630 (Ranked 335)  
 Completed: 19 (3.02%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 19 (3.02%) (Ranked 108)
 | 2024-01-02 | 626 | 19 |
 | 2024-01-03 | 627 | 19 |
 | 2024-01-05 | 629 | 19 |
+| 2024-01-06 | 630 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

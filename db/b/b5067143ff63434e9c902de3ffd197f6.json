@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18647,
+  "EOS_Progressed": 18650,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1310,
+  "EOS_NewPlayers": 1305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11489,6 +11489,11 @@
       "Time": "2024-01-06T09:07:26.9077021+00:00",
       "NumProgressed": 18647,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T10:05:51.5598329+00:00",
+      "NumProgressed": 18650,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -11613,7 +11618,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -11621,7 +11626,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -11661,7 +11666,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -11685,21 +11690,21 @@
       "Name": "Lights Out",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 18647,
+      "Progressed": 18650,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:07:26.9077018+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:05:51.5598325+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:14.7039433+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:57:16.6720801+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:07:26.9077735+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:57:15.8804489+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:05:51.5598961+00:00"
 }

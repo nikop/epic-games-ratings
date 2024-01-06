@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 75.00% | ~112 |
-| Gear Up | 65.00% | ~98 |
-| A Grand Show | 65.00% | ~98 |
-| Freshen Up | 55.00% | ~82 |
-| GG EZ | 52.00% | ~78 |
+| Iceberg Theory | 75.00% | ~113 |
+| Gear Up | 64.00% | ~97 |
+| A Grand Show | 64.00% | ~97 |
+| Freshen Up | 54.00% | ~82 |
+| GG EZ | 52.00% | ~79 |
 | Hydrophobia | 36.00% | ~54 |
 | Ka-Ching! | 29.00% | ~44 |
-| Stop Right There | 27.00% | ~40 |
+| Stop Right There | 27.00% | ~41 |
 | Get to the Point | 25.00% | ~38 |
 | Toe to Toe | 14.00% | ~21 |
 | Phew! | 14.00% | ~21 |
@@ -34,14 +34,14 @@
 | The Sunken City Conqueror | 4.00% | ~6 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~6 |
 | Death Bringer Conqueror | 4.00% | ~6 |
-| The Looping Space Conqueror | 3.00% | ~4 |
-| Break Through the Forbidden | 3.00% | ~4 |
-| Space Ranger: Prologue | 3.00% | ~4 |
-| Breaking the Limit | 3.00% | ~4 |
-| The Truth? | 3.00% | ~4 |
-| Rapidfire | 3.00% | ~4 |
-| Air Interception | 3.00% | ~4 |
-| Bye Bye Gravity | 3.00% | ~4 |
+| The Looping Space Conqueror | 3.00% | ~5 |
+| Break Through the Forbidden | 3.00% | ~5 |
+| Space Ranger: Prologue | 3.00% | ~5 |
+| Breaking the Limit | 3.00% | ~5 |
+| The Truth? | 3.00% | ~5 |
+| Rapidfire | 3.00% | ~5 |
+| Air Interception | 3.00% | ~5 |
+| Bye Bye Gravity | 3.00% | ~5 |
 | Pumped Up | 2.00% | ~3 |
 | Proliferation | 2.00% | ~3 |
 | Burn After Reading | 2.00% | ~3 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.70% | ~1 |
 | Super Alloy Ranger! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150 (Ranked 451)  
-Completed: 1 (0.67%) (Ranked 199)  
+Progressed: 151 (Ranked 450)  
+Completed: 1 (0.66%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,6 +139,7 @@ Completed: 1 (0.67%) (Ranked 199)
 | 2024-01-02 | 148 | 1 |
 | 2024-01-03 | 149 | 1 |
 | 2024-01-04 | 150 | 1 |
+| 2024-01-06 | 151 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

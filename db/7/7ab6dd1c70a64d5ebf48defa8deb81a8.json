@@ -67,7 +67,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1871,
+  "EOS_Progressed": 1872,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
@@ -3677,6 +3677,11 @@
       "Time": "2024-01-06T09:10:59.6296658+00:00",
       "NumProgressed": 1871,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T10:10:03.4470885+00:00",
+      "NumProgressed": 1872,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3688,7 +3693,7 @@
       "Name": "Break Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "ACH_02",
@@ -3696,7 +3701,7 @@
       "Name": "Find Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACH_03",
@@ -3744,7 +3749,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACH_09",
@@ -3800,7 +3805,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_16",
@@ -3904,7 +3909,7 @@
       "Name": "I Found It",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACH_29",
@@ -3928,7 +3933,7 @@
       "Name": "Stone Collection",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_33",
@@ -3975,7 +3980,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1871,
+      "Progressed": 1872,
       "Completed": 3
     }
   ],
@@ -3983,8 +3988,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-04T23:57:43.6326187+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:10:59.6296655+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:10:03.4470883+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:58:27.8283471+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:10:59.6297102+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:58:06.5030742+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:10:03.4471209+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9361,9 +9361,9 @@
       "Count": 3628
     }
   ],
-  "EOS_Progressed": 251856,
+  "EOS_Progressed": 251874,
   "EOS_Completed": 2596,
-  "EOS_NewPlayers": 4447,
+  "EOS_NewPlayers": 4444,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38911,6 +38911,11 @@
       "Time": "2024-01-06T09:11:11.1415282+00:00",
       "NumProgressed": 251856,
       "NumCompleted": 2596
+    },
+    {
+      "Time": "2024-01-06T10:10:12.9330518+00:00",
+      "NumProgressed": 251874,
+      "NumCompleted": 2596
     }
   ],
   "TotalAchievements": 546,
@@ -38922,7 +38927,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10074
+      "UsersEstimate": 10075
     },
     {
       "ID": "objective_completed_10",
@@ -43289,21 +43294,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218130,
+      "Progressed": 218148,
       "Completed": 4138
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251856,
+      "Progressed": 251874,
       "Completed": 2596
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-06T02:20:27.8906984+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:11:11.141528+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:10:12.9330511+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:00:50.8203652+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:11:11.1439047+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:59:51.3814288+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:10:12.9356542+00:00"
 }

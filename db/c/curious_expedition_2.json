@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 408,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -646,6 +646,11 @@
       "Time": "2024-01-06T04:11:15.3015086+00:00",
       "NumProgressed": 407,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T10:10:07.7866744+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -673,7 +678,7 @@
       "Name": "Zookeeper",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach-anthropology-complete",
@@ -801,7 +806,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ach-campaign-story3",
@@ -809,7 +814,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ach-cartography-complete",
@@ -833,7 +838,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ach-discover-locations-high",
@@ -855,9 +860,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 167
     },
     {
       "ID": "ach-find-treasure",
@@ -865,7 +870,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach-find-treasure-high",
@@ -1049,7 +1054,7 @@
       "Name": "Good Mama",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ach-redElk",
@@ -1136,7 +1141,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 408,
       "Completed": 1
     }
   ],
@@ -1144,8 +1149,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:11:05.2670498+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:10:07.7866743+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:57:34.2643867+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:11:05.2670895+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:57:28.5955279+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:10:07.7867431+00:00"
 }

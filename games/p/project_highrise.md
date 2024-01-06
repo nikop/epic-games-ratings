@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 55.00% | ~271 |
-| Starting Skyward | 49.00% | ~241 |
-| Grime is Not Good | 42.00% | ~207 |
+| Starting Skyward | 49.00% | ~242 |
+| Grime is Not Good | 43.00% | ~212 |
 | Floor Galore | 37.00% | ~182 |
 | Campaign Launch | 36.00% | ~177 |
 | Dinner Dash | 36.00% | ~177 |
-| Need a Consult | 34.00% | ~167 |
-| Upgrade Unlock | 33.00% | ~162 |
-| It's Technical | 33.00% | ~162 |
+| Need a Consult | 34.00% | ~168 |
+| Upgrade Unlock | 33.00% | ~163 |
+| It's Technical | 33.00% | ~163 |
 | Proper Walls | 29.00% | ~143 |
 | Delegate Maintenance | 29.00% | ~143 |
 | Destination Destiny | 28.00% | ~138 |
@@ -20,8 +20,8 @@
 | Potent Potables | 23.00% | ~113 |
 | Your Prestige is Rising | 22.00% | ~108 |
 | Smooth Service | 22.00% | ~108 |
-| Don't Feel a Loan | 21.00% | ~103 |
-| Retail Revenue | 21.00% | ~103 |
+| Don't Feel a Loan | 21.00% | ~104 |
+| Retail Revenue | 21.00% | ~104 |
 | Artfully Done | 18.00% | ~89 |
 | People Mover | 18.00% | ~89 |
 | Leveled Up Shops | 18.00% | ~89 |
@@ -45,9 +45,9 @@
 | Refined Palates | 9.00% | ~44 |
 | Plaza Plan | 8.00% | ~39 |
 | Master of Puppets | 8.00% | ~39 |
-| First 100 Days | 7.00% | ~34 |
-| Water Features | 7.00% | ~34 |
-| Phoning It In | 7.00% | ~34 |
+| First 100 Days | 7.00% | ~35 |
+| Phoning It In | 7.00% | ~35 |
+| Water Features | 6.00% | ~30 |
 | Meet Me at HQ | 6.00% | ~30 |
 | Revenue Royalty | 6.00% | ~30 |
 | Golden Opportunity | 6.00% | ~30 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492 (Ranked 348)  
+Progressed: 493 (Ranked 347)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 486 | 0 |
 | 2024-01-04 | 490 | 0 |
 | 2024-01-05 | 492 | 0 |
+| 2024-01-06 | 493 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

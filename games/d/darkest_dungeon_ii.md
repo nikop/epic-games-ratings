@@ -6,20 +6,20 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~875 |
+| Malpractice Assurance | 13.00% | ~876 |
 | Lost and Found | 8.00% | ~539 |
 | Autodidact | 7.00% | ~9,231 |
 | This Belongs in a Museum | 6.00% | ~7,912 |
 | Overdue Notice | 6.00% | ~7,912 |
-| This guy... again? | 6.00% | ~404 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,593 |
-| Serenity Now! | 5.00% | ~6,593 |
-| Creep and Sleep | 5.00% | ~6,593 |
-| Meat and Greet | 5.00% | ~6,593 |
-| Catch and Decease | 5.00% | ~6,593 |
-| Escape from the Black Hole | 5.00% | ~6,593 |
-| Rush Hour | 5.00% | ~6,593 |
-| To Grandmother's House | 5.00% | ~6,593 |
+| This guy... again? | 6.00% | ~405 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,594 |
+| Serenity Now! | 5.00% | ~6,594 |
+| Creep and Sleep | 5.00% | ~6,594 |
+| Meat and Greet | 5.00% | ~6,594 |
+| Catch and Decease | 5.00% | ~6,594 |
+| Escape from the Black Hole | 5.00% | ~6,594 |
+| Rush Hour | 5.00% | ~6,594 |
+| To Grandmother's House | 5.00% | ~6,594 |
 | Ploughshares to Swords | 5.00% | ~337 |
 | Bloody Graduation | 5.00% | ~337 |
 | It Rings a Bell | 4.00% | ~5,275 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,275 |
 | FNG | 4.00% | ~5,275 |
 | Nope | 4.00% | ~5,275 |
-| Friends 'Til the End | 4.00% | ~269 |
+| Friends 'Til the End | 4.00% | ~270 |
 | Resurrection | 3.00% | ~3,956 |
 | Unleash Hell | 3.00% | ~3,956 |
 | Funny Guy | 3.00% | ~3,956 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,865 (Ranked 91)  
+Progressed: 131,873 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,865 | 3 |
+| 2024-01-06 | 131,873 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
 Sum: 21,470 (Ranked 58)  

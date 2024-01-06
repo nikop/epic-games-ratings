@@ -4,7 +4,7 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 266,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.51,
+  "EOS_Completed_Percentage": 1.5,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -1259,6 +1259,11 @@
       "Time": "2024-01-05T20:08:40.213052+00:00",
       "NumProgressed": 265,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T10:08:48.1729215+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -1302,7 +1307,7 @@
       "Name": "YOU DESERVE THAT",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_FRIEND",
@@ -1310,7 +1315,7 @@
       "Name": "NO ONE CAN HEAR YOU SCREAM",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_GET_IN",
@@ -1318,7 +1323,7 @@
       "Name": "Lab Rat",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_GET_OUT",
@@ -1342,7 +1347,7 @@
       "Name": "GET THE HANG OF IT",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_HOUND",
@@ -1350,7 +1355,7 @@
       "Name": "DONT TURN BACK",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_KEY",
@@ -1358,7 +1363,7 @@
       "Name": "Key to your Death",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_PIPEDREAMS",
@@ -1374,7 +1379,7 @@
       "Name": "Pitfalls",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_PITFALLSDIE",
@@ -1382,7 +1387,7 @@
       "Name": "One Wrong Step",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_RUN",
@@ -1390,7 +1395,7 @@
       "Name": "RUN FOR YOUR LIFE",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_STAIRS",
@@ -1406,21 +1411,21 @@
       "Name": "Why are you running?!",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 266,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:09:18.7941679+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:08:48.1729213+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:16.2857552+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:59:42.0241957+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:09:18.7941835+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:59:01.885203+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:08:48.1729439+00:00"
 }

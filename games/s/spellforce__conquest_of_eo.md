@@ -13,7 +13,7 @@
 | Harvest Time | 56.00% | ~66 |
 | Mine! | 56.00% | ~66 |
 | Artificer's Apprentice | 47.00% | ~55 |
-| Fly the friendly Sky | 44.00% | ~52 |
+| Fly the friendly Sky | 45.00% | ~53 |
 | Get out of here! | 43.00% | ~51 |
 | Necromancer's Apprentice | 38.00% | ~45 |
 | Alchemist's Apprentice | 36.00% | ~42 |
@@ -30,9 +30,9 @@
 | Friend of Gillyshire | 14.00% | ~17 |
 | Break Free | 14.00% | ~17 |
 | Stormwatch Faste | 13.00% | ~15 |
+| Friend of Orgash | 13.00% | ~15 |
 | Friend of Silver Drift Hollow | 13.00% | ~15 |
 | A Master of Magic | 12.00% | ~14 |
-| Friend of Orgash | 12.00% | ~14 |
 | Friend of Bastion | 12.00% | ~14 |
 | Magic Academy | 12.00% | ~14 |
 | Philo's Tale | 11.00% | ~13 |

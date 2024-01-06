@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 877,
+  "EOS_Progressed": 878,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
@@ -3155,6 +3155,11 @@
       "Time": "2024-01-06T09:10:35.2667896+00:00",
       "NumProgressed": 877,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T10:09:44.541479+00:00",
+      "NumProgressed": 878,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3175,7 +3180,7 @@
       "Name": "Holey Moley",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "achievement_11",
@@ -3191,7 +3196,7 @@
       "Name": "From Way Downtown",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_13",
@@ -3199,7 +3204,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_14",
@@ -3207,7 +3212,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_15",
@@ -3223,7 +3228,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "achievement_17",
@@ -3231,7 +3236,7 @@
       "Name": "Clean Sheet",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_18",
@@ -3279,7 +3284,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_7",
@@ -3310,13 +3315,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 877,
+      "Progressed": 878,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:10:35.2667894+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:09:44.5414788+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.6527826+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:00:40.8761512+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:10:35.266814+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:59:44.1227036+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:09:44.5415087+00:00"
 }

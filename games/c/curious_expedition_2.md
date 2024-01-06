@@ -7,17 +7,17 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 65.00% | ~265 |
-| Cartographer | 58.00% | ~236 |
+| Cartographer | 58.00% | ~237 |
 | A Strange Artefact | 54.00% | ~220 |
 | Insomnia | 50.00% | ~204 |
-| Lost & Found & Lost Again | 44.00% | ~179 |
+| Lost & Found & Lost Again | 44.00% | ~180 |
 | From Whence we Came | 43.00% | ~175 |
-| Fire and Flood | 42.00% | ~171 |
+| Fire and Flood | 41.00% | ~167 |
 | Spooky! | 38.00% | ~155 |
 | Shennong Herbalist | 36.00% | ~147 |
 | Treasure Hunt | 36.00% | ~147 |
-| Good Mama | 33.00% | ~134 |
-| O Captain My Captain | 32.00% | ~130 |
+| Good Mama | 33.00% | ~135 |
+| O Captain My Captain | 32.00% | ~131 |
 | Plunderer | 30.00% | ~122 |
 | Taxonomist | 28.00% | ~114 |
 | Traveller | 26.00% | ~106 |
@@ -25,7 +25,7 @@ Number of Ratings: 20  (23.09.2022)
 | Roll to Save | 23.00% | ~94 |
 | Nahua Seeker | 23.00% | ~94 |
 | Veteran Explorer | 22.00% | ~90 |
-| Red Flag Pirate | 20.00% | ~81 |
+| Red Flag Pirate | 20.00% | ~82 |
 | Iron Man | 17.00% | ~69 |
 | A Gentle Beast | 16.00% | ~65 |
 | Practical Palaeontology | 16.00% | ~65 |
@@ -47,7 +47,7 @@ Number of Ratings: 20  (23.09.2022)
 | No Laughing Matter | 8.00% | ~33 |
 | The Great Library | 8.00% | ~33 |
 | Level Up | 8.00% | ~33 |
-| Zookeeper | 7.00% | ~28 |
+| Zookeeper | 7.00% | ~29 |
 | Islander Understanding | 6.00% | ~24 |
 | The Workshop | 6.00% | ~24 |
 | A Paris Sunset | 5.00% | ~20 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407 (Ranked 363)  
+Progressed: 408 (Ranked 363)  
 Completed: 1 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 1 (0.25%) (Ranked 264)
 | 2024-01-03 | 397 | 1 |
 | 2024-01-04 | 400 | 1 |
 | 2024-01-05 | 406 | 1 |
-| 2024-01-06 | 407 | 1 |
+| 2024-01-06 | 408 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
 | Something important | 86.00% | ~244 |
 | A piece of the story | 64.00% | ~182 |
 | It's covered up for a reason | 57.00% | ~162 |
-| Wanderer | 52.00% | ~148 |
-| Scraps of love | 49.00% | ~139 |
+| Wanderer | 53.00% | ~151 |
+| Scraps of love | 50.00% | ~142 |
 | The artist’s impression | 48.00% | ~136 |
 | Do what you have to | 42.00% | ~119 |
 | Sign of weakness | 39.00% | ~111 |
@@ -37,10 +37,10 @@
 | I remember It Like Was Yesterday | 4.00% | ~11 |
 | Immortalized in my heart | 4.00% | ~11 |
 | We Are Not Alone | 3.00% | ~9 |
+| Dark correspondence | 3.00% | ~9 |
 | The Perfect Storm | 3.00% | ~9 |
 | Se7en Seas | 3.00% | ~9 |
 | Body of Work | 2.00% | ~6 |
-| Dark correspondence | 2.00% | ~6 |
 | It was worth a try | 2.00% | ~6 |
 | Full Scoop | 2.00% | ~6 |
 | Preferred Parent | 2.00% | ~6 |

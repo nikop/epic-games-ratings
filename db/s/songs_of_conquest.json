@@ -452,7 +452,7 @@
   ],
   "EOS_Progressed": 1003,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3844,9 +3844,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 60
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -4020,8 +4020,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:09:48.7563549+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:09:09.9748858+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:59:45.6228641+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:09:48.7564036+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:59:04.4545808+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:09:09.9749564+00:00"
 }

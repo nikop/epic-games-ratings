@@ -44,10 +44,10 @@ Rating: 4.71 (Ranked 202)
 | Forbidden Knowledge | 28.00% | ~205 |
 | Brimstone Shaken, Not Stirred | 28.00% | ~205 |
 | Hungry, Hungry Gorgu! | 27.00% | ~197 |
+| Stop Tanos! | 27.00% | ~197 |
+| Raiders of the Lost Stone | 27.00% | ~197 |
 | The Rune Sockets of Finitude (Part 1) | 27.00% | ~197 |
-| Stop Tanos! | 26.00% | ~190 |
 | Sabotage! | 26.00% | ~190 |
-| Raiders of the Lost Stone | 26.00% | ~190 |
 | Bonus Evilness | 25.00% | ~183 |
 | The Rune Sockets of Finitude (Part 2) | 25.00% | ~183 |
 | The Last Stand - This Time For Real! | 23.00% | ~168 |
@@ -64,7 +64,7 @@ Rating: 4.71 (Ranked 202)
 | Laser Eyes Are So Useless | 13.00% | ~95 |
 | Hands Off My Stones | 13.00% | ~95 |
 | Gorgu is in the Best of Health | 12.00% | ~88 |
-| No Mana, No Cry | 10.00% | ~73 |
+| No Mana, No Cry | 11.00% | ~80 |
 | I Don't Need Any Help | 10.00% | ~73 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 731 (Ranked 315)  

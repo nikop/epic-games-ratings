@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 966,
+  "EOS_Progressed": 967,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.35,
+  "EOS_Completed_Percentage": 1.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -2680,6 +2680,11 @@
       "Time": "2024-01-06T04:10:33.8028299+00:00",
       "NumProgressed": 966,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-06T10:09:34.4005046+00:00",
+      "NumProgressed": 967,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -2691,7 +2696,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2779,7 +2784,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "GOOD_KARMA",
@@ -2850,7 +2855,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 966,
+      "Progressed": 967,
       "Completed": 13
     }
   ],
@@ -2858,8 +2863,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:10:21.6456825+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:09:34.4005041+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.9335088+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:59:55.4096876+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:10:21.6457136+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:59:11.3521262+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:09:34.4005357+00:00"
 }

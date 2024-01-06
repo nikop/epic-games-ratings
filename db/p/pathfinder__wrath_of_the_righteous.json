@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4823,7 +4823,7 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13071,
+  "EOS_Progressed": 13072,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -19038,6 +19038,11 @@
       "Time": "2024-01-06T09:11:07.6287162+00:00",
       "NumProgressed": 13071,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T10:10:09.5607473+00:00",
+      "NumProgressed": 13072,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19057,7 +19062,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -19225,7 +19230,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "24_Legacy",
@@ -19297,7 +19302,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -19361,7 +19366,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "42_JustPathetic",
@@ -19377,7 +19382,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "44_AshesToAshes",
@@ -19976,21 +19981,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11853,
+      "Progressed": 11854,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13071,
+      "Progressed": 13072,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-05T19:58:22.7776615+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:11:07.628716+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:10:09.5607467+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:59:16.0301264+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:11:07.6288943+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:58:42.9745368+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:10:09.5609261+00:00"
 }

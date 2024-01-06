@@ -6,34 +6,34 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~399,720 |
-| Happy Returns | 78.00% | ~384,915 |
-| Hey! That's mine! | 78.00% | ~384,915 |
-| Field Promotion | 74.00% | ~365,176 |
-| Leadhead | 71.00% | ~350,372 |
-| Eradicator | 67.00% | ~330,632 |
-| Surplus | 66.00% | ~325,697 |
-| I Spy | 64.00% | ~315,828 |
-| Burn Baby Burn | 59.00% | ~291,154 |
-| Yellow Beats Green | 56.00% | ~276,349 |
-| Salvage Rights | 53.00% | ~261,545 |
-| What IS that? | 51.00% | ~251,675 |
-| Close Call | 50.00% | ~246,740 |
-| Pew Pew | 50.00% | ~246,740 |
-| Penny Pincher | 49.00% | ~241,806 |
-| Arsenal | 46.00% | ~227,001 |
-| Boot Camp | 45.00% | ~222,066 |
-| Flawless Victory | 42.00% | ~207,262 |
-| Confident | 41.00% | ~202,327 |
-| Exterminator | 36.00% | ~177,653 |
-| Sharpshooter | 34.00% | ~167,784 |
-| Not So Fast | 33.00% | ~162,849 |
-| Great Ball of Fire | 32.00% | ~157,914 |
-| No Sale | 31.00% | ~152,979 |
-| Kaboom! | 30.00% | ~148,044 |
-| Liquidator | 29.00% | ~143,109 |
-| High Voltage | 24.00% | ~118,435 |
-| Filthy Rich | 20.00% | ~98,696 |
+| First Blood | 81.00% | ~399,722 |
+| Happy Returns | 78.00% | ~384,918 |
+| Hey! That's mine! | 78.00% | ~384,918 |
+| Field Promotion | 74.00% | ~365,178 |
+| Leadhead | 71.00% | ~350,374 |
+| Eradicator | 67.00% | ~330,634 |
+| Surplus | 66.00% | ~325,699 |
+| I Spy | 64.00% | ~315,830 |
+| Burn Baby Burn | 59.00% | ~291,156 |
+| Yellow Beats Green | 56.00% | ~276,351 |
+| Salvage Rights | 53.00% | ~261,547 |
+| What IS that? | 51.00% | ~251,677 |
+| Close Call | 50.00% | ~246,742 |
+| Pew Pew | 50.00% | ~246,742 |
+| Penny Pincher | 49.00% | ~241,807 |
+| Arsenal | 46.00% | ~227,003 |
+| Boot Camp | 45.00% | ~222,068 |
+| Flawless Victory | 42.00% | ~207,263 |
+| Confident | 41.00% | ~202,328 |
+| Exterminator | 36.00% | ~177,654 |
+| Sharpshooter | 34.00% | ~167,785 |
+| Not So Fast | 33.00% | ~162,850 |
+| Great Ball of Fire | 32.00% | ~157,915 |
+| No Sale | 31.00% | ~152,980 |
+| Kaboom! | 30.00% | ~148,045 |
+| Liquidator | 29.00% | ~143,110 |
+| High Voltage | 24.00% | ~118,436 |
+| Filthy Rich | 20.00% | ~98,697 |
 | Pyrrhic Victory | 18.00% | ~88,827 |
 | The Not-So-Friendly Skies | 18.00% | ~88,827 |
 | Power Builder | 17.00% | ~83,892 |
@@ -41,15 +41,15 @@ Number of Ratings: 1,225  (23.09.2022)
 | Retry | 16.00% | ~78,957 |
 | Head Trauma | 12.00% | ~59,218 |
 | Full Defense | 10.00% | ~49,348 |
-| Overseer | 9.00% | ~44,413 |
-| Annihilator | 8.00% | ~39,478 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~39,478 |
+| Overseer | 9.00% | ~44,414 |
+| Annihilator | 8.00% | ~39,479 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~39,479 |
 | Indecisive | 6.00% | ~29,609 |
 | Base Defender | 5.00% | ~24,674 |
 | Relay Race | 5.00% | ~24,674 |
 | Tower Expert | 4.00% | ~19,739 |
-| Diversity | 3.00% | ~14,804 |
-| Full Potential | 3.00% | ~14,804 |
+| Diversity | 3.00% | ~14,805 |
+| Full Potential | 3.00% | ~14,805 |
 | Minimalist | 2.00% | ~9,870 |
 | Nail Biter | 2.00% | ~9,870 |
 | Siege Breaker | 2.00% | ~9,870 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~493 |
 | You Monster | 0.10% | ~493 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493,481 (Ranked 42)  
+Progressed: 493,484 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,17 +355,17 @@ Completed: 5 (0.00%) (Ranked 393)
 | 2024-01-03 | 493,263 | 5 |
 | 2024-01-04 | 493,364 | 5 |
 | 2024-01-05 | 493,449 | 5 |
-| 2024-01-06 | 493,481 | 5 |
+| 2024-01-06 | 493,484 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 276)  
-Sum: 1,742 (Ranked 224)  
-Diff (max vs sum): 52  
+Sum: 1,743 (Ranked 225)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 263 |
 | This game has Quickly Understood Controls | 227 |
 | This game is Relaxing | 221 |
-| This game is Extremely Fun | 214 |
+| This game is Extremely Fun | 215 |
 | This game is Highly Recommended | 198 |
 | This game has Challenging Combat | 186 |
 | This game has Amazing Storytelling | 183 |
@@ -536,4 +536,4 @@ Diff (max vs sum): 52
 | 2024-01-03 | 4.45 | - | 263 | 1,739 |
 | 2024-01-04 | 4.45 | - | 263 | 1,740 |
 | 2024-01-05 | 4.45 | - | 263 | 1,741 |
-| 2024-01-06 | 4.45 | - | 263 | 1,742 |
+| 2024-01-06 | 4.45 | - | 263 | 1,743 |

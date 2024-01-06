@@ -3,7 +3,7 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 450,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -513,9 +513,9 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Achievement11",
@@ -682,8 +682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:10:56.5955294+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:10:01.0831396+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:54.3943326+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:59:19.7621985+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:10:56.5955506+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:58:45.8312184+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:10:01.0831618+00:00"
 }

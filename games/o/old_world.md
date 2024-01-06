@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.90% | ~145 |
 | Trade Caravan | 0.90% | ~145 |
 | Ambitious | 0.80% | ~129 |
+| Enlightened | 0.80% | ~129 |
 | Glorious | 0.80% | ~129 |
 | Just | 0.80% | ~129 |
 | Keystone | 0.80% | ~129 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.80% | ~129 |
 | Naming Landmarks | 0.80% | ~129 |
 | Brilliant | 0.70% | ~113 |
-| Enlightened | 0.70% | ~113 |
 | Fountainhead | 0.70% | ~113 |
 | Warrior | 0.70% | ~113 |
 | Strong Cities | 0.70% | ~113 |

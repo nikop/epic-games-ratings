@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,9 +294,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 329,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1574,6 +1574,11 @@
       "Time": "2024-01-06T04:10:05.1994095+00:00",
       "NumProgressed": 327,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T10:09:12.3506698+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1586,7 +1591,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1618,7 +1623,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1658,7 +1663,7 @@
       "Name": "Cult Following",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1698,7 +1703,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1712,17 +1717,17 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1730,7 +1735,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1738,15 +1743,15 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1834,15 +1839,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1874,7 +1879,7 @@
       "Name": "Dusted",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1920,9 +1925,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1937,7 +1942,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 329,
       "Completed": 2
     }
   ],
@@ -1945,8 +1950,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:09:51.8303218+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:09:12.3506696+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:00:35.2869259+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:09:51.8303767+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:59:40.1580066+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:09:12.3507018+00:00"
 }

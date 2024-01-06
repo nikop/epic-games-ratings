@@ -6,26 +6,26 @@ Rating: 4.58 (Ranked 471)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 32.00% | ~1,284 |
-| Sputnik 2049 | 28.00% | ~1,123 |
-| Infinite Growth... | 27.00% | ~1,083 |
-| Without Breaking Some Eggs... | 26.00% | ~1,043 |
-| Ready for a New World | 19.00% | ~762 |
-| Space Society | 18.00% | ~722 |
-| A Thousand Strong | 18.00% | ~722 |
+| Sputnik 2049 | 28.00% | ~1,124 |
+| Infinite Growth... | 27.00% | ~1,084 |
+| Without Breaking Some Eggs... | 26.00% | ~1,044 |
+| Ready for a New World | 19.00% | ~763 |
+| Space Society | 18.00% | ~723 |
+| A Thousand Strong | 18.00% | ~723 |
 | Permanent Redesigns | 16.00% | ~642 |
 | Fully Recycled | 15.00% | ~602 |
 | The Ship of Theseus | 15.00% | ~602 |
 | Guy de Borderlands | 14.00% | ~562 |
 | Ain't Nobody Got Time for That | 14.00% | ~562 |
-| Hope Seeker | 13.00% | ~521 |
-| A Hunk of Junk | 12.00% | ~481 |
-| Exceeding Capacity | 12.00% | ~481 |
-| Breaking Protocol | 12.00% | ~481 |
+| Hope Seeker | 13.00% | ~522 |
+| A Hunk of Junk | 12.00% | ~482 |
+| Exceeding Capacity | 12.00% | ~482 |
+| Breaking Protocol | 12.00% | ~482 |
 | Man's Best Friend | 9.00% | ~361 |
 | Power Outage | 9.00% | ~361 |
 | Please Make it Stop! | 9.00% | ~361 |
-| Sightseeing | 8.00% | ~321 |
 | Convenient Transport | 8.00% | ~321 |
+| Sightseeing | 7.00% | ~281 |
 | Necessary Enhancement | 7.00% | ~281 |
 | From the Past | 7.00% | ~281 |
 | Access Granted | 6.00% | ~241 |
@@ -37,8 +37,8 @@ Rating: 4.58 (Ranked 471)
 | In Dolos We Trust | 5.00% | ~201 |
 | BRAWL! | 5.00% | ~201 |
 | What the Ruins Teach Us | 5.00% | ~201 |
-| Sustainable Energy | 4.00% | ~160 |
-| Pedal to the Metal | 4.00% | ~160 |
+| Sustainable Energy | 4.00% | ~161 |
+| Pedal to the Metal | 4.00% | ~161 |
 | Praise the Hull! | 3.00% | ~120 |
 | Space Greenhouse | 3.00% | ~120 |
 | Delivery! | 3.00% | ~120 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 471)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,011 (Ranked 211)  
+Progressed: 4,014 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 3,940 | 0 |
 | 2024-01-04 | 3,963 | 0 |
 | 2024-01-05 | 4,002 | 0 |
-| 2024-01-06 | 4,011 | 0 |
+| 2024-01-06 | 4,014 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

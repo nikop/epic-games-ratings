@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1424,6 +1424,11 @@
       "Time": "2024-01-06T07:08:58.5402042+00:00",
       "NumProgressed": 343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T10:08:49.0878036+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1444,7 +1449,7 @@
       "Name": "Anomaly Destroyer",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "AnomalyMaster",
@@ -1658,9 +1663,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 224
     },
     {
       "ID": "EndlessTricks",
@@ -1764,7 +1769,7 @@
       "Name": "Loyal Partner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "MechanicIntegration",
@@ -1778,9 +1783,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 255
     },
     {
       "ID": "MeissasSavior",
@@ -1788,7 +1793,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "MindIlluminator",
@@ -1860,7 +1865,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ReflexiveMind",
@@ -1940,7 +1945,7 @@
       "Name": "Stellar Dismantler",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "StellarHaste",
@@ -1948,7 +1953,7 @@
       "Name": "Stellar Haste",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "TheAbyssalTerror",
@@ -2219,14 +2224,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:09:19.951917+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:08:49.0878034+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:58:31.1347493+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:09:19.9520269+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:58:09.5731112+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:08:49.087897+00:00"
 }

@@ -10572,9 +10572,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131865,
+  "EOS_Progressed": 131873,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1167,
+  "EOS_NewPlayers": 1168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38577,6 +38577,11 @@
       "Time": "2024-01-06T09:10:32.3825095+00:00",
       "NumProgressed": 131865,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T10:09:42.6174369+00:00",
+      "NumProgressed": 131873,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38588,7 +38593,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -38596,7 +38601,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38748,7 +38753,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38788,7 +38793,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38804,7 +38809,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "combat_kill_librarian",
@@ -38828,7 +38833,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38884,7 +38889,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -38908,7 +38913,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6593
+      "UsersEstimate": 6594
     },
     {
       "ID": "driving_distance_easy",
@@ -39124,7 +39129,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "combat_kill_collector",
@@ -39132,7 +39137,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39196,7 +39201,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39219,21 +39224,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131865,
+      "Progressed": 131873,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6734,
+      "Progressed": 6742,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-06T09:01:37.9714602+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:10:32.3825093+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:09:42.6174366+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:01:37.9714608+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:10:32.3826608+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:00:25.9047686+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:09:42.6176588+00:00"
 }

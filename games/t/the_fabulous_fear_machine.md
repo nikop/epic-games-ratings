@@ -12,9 +12,9 @@
 | A continent with chemistry | 29.00% | ~24 |
 | The happy farmer girl | 25.00% | ~21 |
 | Pulp! Terror Tales in the Night | 24.00% | ~20 |
-| Giant | 21.00% | ~18 |
+| Giant | 23.00% | ~19 |
+| A rival with no options | 21.00% | ~18 |
 | Pulp! Out of this World | 21.00% | ~18 |
-| A rival with no options | 20.00% | ~17 |
 | The artist | 20.00% | ~17 |
 | Diagnosis: fear | 20.00% | ~17 |
 | Ambition is... blind | 20.00% | ~17 |

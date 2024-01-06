@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1266,
+  "EOS_Progressed": 1267,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3242,6 +3242,11 @@
       "Time": "2024-01-06T09:09:03.3434789+00:00",
       "NumProgressed": 1266,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T10:08:36.6691164+00:00",
+      "NumProgressed": 1267,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3310,7 +3315,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "CompleteChapter10",
@@ -3414,7 +3419,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "CompleteChapter5",
@@ -3422,7 +3427,7 @@
       "Name": "Breathing Easy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "CompleteChapter6",
@@ -3549,14 +3554,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1266,
+      "Progressed": 1267,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:09:03.3434788+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:08:36.6691162+00:00",
   "LastUpdate_AppInfo": "2024-01-05T10:56:56.5895712+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:57:32.3198326+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:09:03.3435223+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:57:27.2303371+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:08:36.6691626+00:00"
 }

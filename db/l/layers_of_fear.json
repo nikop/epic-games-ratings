@@ -1361,9 +1361,9 @@
       "ID": "collect_notes_mother",
       "SetID": "f2im8d",
       "Name": "Dark correspondence",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "covered_up_for_a_reason",
@@ -1441,9 +1441,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "find_one_photo",
@@ -1689,9 +1689,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1712,8 +1712,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:09:16.2008712+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:08:46.0690047+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:00:53.2538243+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:09:16.2009136+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:59:53.1314263+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:08:46.0690555+00:00"
 }

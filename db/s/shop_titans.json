@@ -8029,9 +8029,9 @@
       "Count": 3815
     }
   ],
-  "EOS_Progressed": 149833,
+  "EOS_Progressed": 149838,
   "EOS_Completed": 344,
-  "EOS_NewPlayers": 1420,
+  "EOS_NewPlayers": 1418,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35559,6 +35559,11 @@
       "Time": "2024-01-06T09:08:52.6164961+00:00",
       "NumProgressed": 149833,
       "NumCompleted": 344
+    },
+    {
+      "Time": "2024-01-06T10:06:39.6358478+00:00",
+      "NumProgressed": 149838,
+      "NumCompleted": 344
     }
   ],
   "TotalAchievements": 112,
@@ -35570,7 +35575,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "advlevel02",
@@ -35706,7 +35711,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "boss02",
@@ -35738,7 +35743,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14983
+      "UsersEstimate": 14984
     },
     {
       "ID": "chest02",
@@ -35810,7 +35815,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "commonres03",
@@ -35834,7 +35839,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10488
+      "UsersEstimate": 10489
     },
     {
       "ID": "craft02",
@@ -35842,7 +35847,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "craft03",
@@ -35874,7 +35879,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "damage02",
@@ -35946,7 +35951,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10488
+      "UsersEstimate": 10489
     },
     {
       "ID": "expansion02",
@@ -36058,7 +36063,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "gold04",
@@ -36194,7 +36199,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "loot02",
@@ -36226,7 +36231,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "master02",
@@ -36258,7 +36263,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "masterpiece",
@@ -36282,7 +36287,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "quest02",
@@ -36346,7 +36351,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10488
+      "UsersEstimate": 10489
     },
     {
       "ID": "sell02",
@@ -36386,7 +36391,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14983
+      "UsersEstimate": 14984
     },
     {
       "ID": "twinenchant01",
@@ -36442,7 +36447,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5993
+      "UsersEstimate": 5994
     },
     {
       "ID": "workers03",
@@ -36465,15 +36470,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149833,
+      "Progressed": 149838,
       "Completed": 344
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-05T22:03:39.6518271+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:08:52.616496+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:06:39.6358475+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:03:39.6074266+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:08:52.6167052+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:03:06.9309295+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:06:39.6360611+00:00"
 }

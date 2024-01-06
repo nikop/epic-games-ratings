@@ -34,7 +34,7 @@ Number of Ratings: 124  (23.09.2022)
 | Free as a Bird | 5.00% | ~10 |
 | Cleric | 5.00% | ~10 |
 | Detective | 5.00% | ~10 |
-| Weaponsmith | 3.00% | ~6 |
+| Weaponsmith | 4.00% | ~8 |
 | Alchemist | 3.00% | ~6 |
 | Self-Sufficient | 3.00% | ~6 |
 | Unbreakable | 3.00% | ~6 |

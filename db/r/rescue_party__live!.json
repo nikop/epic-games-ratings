@@ -3,8 +3,8 @@
   "Name": "Rescue Party: Live!",
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 409,
-  "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.67,
+  "EOS_Completed_Percentage": 2.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -504,6 +504,11 @@
       "Time": "2024-01-02T19:05:40.6188489+00:00",
       "NumProgressed": 262,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T10:05:44.5257918+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -531,7 +536,7 @@
       "Name": "Gloable operation",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_HERT_COLLECTOR",
@@ -595,7 +600,7 @@
       "Name": "My turn",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_PANDA_SO_CUTE",
@@ -651,14 +656,14 @@
       "Name": "ASAP",
       "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 7
     }
   ],
@@ -666,8 +671,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:07:16.9955026+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:05:44.5257915+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.576737+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:57:30.1492968+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:07:16.9955142+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:57:25.7078942+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:05:44.5258089+00:00"
 }

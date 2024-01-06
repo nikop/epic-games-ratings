@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 97.00% | ~1,138 |
-| Waff! | 95.00% | ~1,114 |
+| Once Upon a Time | 97.00% | ~1,139 |
+| Waff! | 95.00% | ~1,115 |
 | Into the Barn | 87.00% | ~1,021 |
-| A Prophecy | 85.00% | ~997 |
+| A Prophecy | 85.00% | ~998 |
 | Sword, Shield, Fight! | 75.00% | ~880 |
 | A Grand Visit | 72.00% | ~845 |
-| Fun Guy | 63.00% | ~739 |
-| Vibing | 62.00% | ~727 |
-| Tragic Brave | 54.00% | ~633 |
-| Awakened Spirits | 51.00% | ~598 |
-| Little Shop | 50.00% | ~586 |
+| Fun Guy | 63.00% | ~740 |
+| Vibing | 62.00% | ~728 |
+| Tragic Brave | 53.00% | ~622 |
+| Awakened Spirits | 51.00% | ~599 |
+| Little Shop | 50.00% | ~587 |
 | Surprise! | 46.00% | ~540 |
 | An Actor! | 46.00% | ~540 |
 | Curtain Call | 45.00% | ~528 |
@@ -23,21 +23,21 @@
 | Glimmer of Hope | 42.00% | ~493 |
 | The Guardian | 41.00% | ~481 |
 | Teacups for Toppy | 41.00% | ~481 |
-| Nightmare Fuel | 40.00% | ~469 |
-| Take Heart | 40.00% | ~469 |
-| Well Rested | 40.00% | ~469 |
-| Ancient Wisdom | 39.00% | ~457 |
-| All That Glistens | 39.00% | ~457 |
-| Stronger! | 39.00% | ~457 |
+| Nightmare Fuel | 40.00% | ~470 |
+| Take Heart | 40.00% | ~470 |
+| Well Rested | 40.00% | ~470 |
+| Ancient Wisdom | 39.00% | ~458 |
+| All That Glistens | 39.00% | ~458 |
+| Stronger! | 39.00% | ~458 |
 | Frog Facts! | 38.00% | ~446 |
 | Spellbound | 37.00% | ~434 |
 | All Skilled Up! | 37.00% | ~434 |
 | It's Pointy! | 37.00% | ~434 |
-| Extinct Again! | 36.00% | ~422 |
-| Bird of Prey | 36.00% | ~422 |
-| Stardust | 36.00% | ~422 |
-| Heartbreaker | 36.00% | ~422 |
-| Kidnapped! | 36.00% | ~422 |
+| Extinct Again! | 36.00% | ~423 |
+| Bird of Prey | 36.00% | ~423 |
+| Stardust | 36.00% | ~423 |
+| Heartbreaker | 36.00% | ~423 |
+| Kidnapped! | 36.00% | ~423 |
 | Pull the Plug | 35.00% | ~411 |
 | All Heart | 35.00% | ~411 |
 | Trick Question! | 35.00% | ~411 |
@@ -47,15 +47,15 @@
 | Spot of Tea? | 34.00% | ~399 |
 | Going Home | 34.00% | ~399 |
 | Extraordinary! | 33.00% | ~387 |
-| Mirror, Mirror | 32.00% | ~375 |
-| Flower Power | 28.00% | ~328 |
-| Shopping Spree! | 25.00% | ~293 |
+| Mirror, Mirror | 32.00% | ~376 |
+| Flower Power | 28.00% | ~329 |
+| Shopping Spree! | 25.00% | ~294 |
 | Crowned | 23.00% | ~270 |
 | Max Level! | 16.00% | ~188 |
 | Dance Master | 10.00% | ~117 |
 | Bombs Away! | 9.00% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,173 (Ranked 283)  
+Progressed: 1,174 (Ranked 283)  
 Completed: 90 (7.67%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,6 +216,7 @@ Completed: 90 (7.67%) (Ranked 53)
 | 2024-01-03 | 1,169 | 90 |
 | 2024-01-04 | 1,172 | 90 |
 | 2024-01-05 | 1,173 | 90 |
+| 2024-01-06 | 1,174 | 90 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

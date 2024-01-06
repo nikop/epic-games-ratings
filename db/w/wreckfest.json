@@ -349,7 +349,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 827,
+  "EOS_Progressed": 828,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -2139,6 +2139,11 @@
       "Time": "2024-01-06T09:09:23.7522591+00:00",
       "NumProgressed": 827,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T10:08:51.6504605+00:00",
+      "NumProgressed": 828,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2159,7 +2164,7 @@
       "Name": "Highballer",
       "Percentage": 52,
       "XP": 90,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "CareerChamp1",
@@ -2205,9 +2210,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 563
     },
     {
       "ID": "CollectVehiclesA",
@@ -2310,7 +2315,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 827,
+      "Progressed": 828,
       "Completed": 0
     }
   ],
@@ -2318,8 +2323,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-04T23:58:04.2803928+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:09:23.7522588+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:08:51.6504603+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:58:47.3102288+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:09:23.7522777+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:58:20.963944+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:08:51.6504804+00:00"
 }

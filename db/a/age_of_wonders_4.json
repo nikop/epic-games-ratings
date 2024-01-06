@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -723,9 +723,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6939,
+  "EOS_Progressed": 6942,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10523,6 +10523,11 @@
       "Time": "2024-01-06T09:04:57.860914+00:00",
       "NumProgressed": 6939,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T10:04:03.9898134+00:00",
+      "NumProgressed": 6942,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10694,7 +10699,7 @@
       "Name": "From Friends to Family",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "29",
@@ -10750,7 +10755,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "35",
@@ -10868,9 +10873,9 @@
       "ID": "8",
       "SetID": "3aa2279",
       "Name": "Betrayal Most Foul",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "9",
@@ -11013,13 +11018,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6939,
+      "Progressed": 6942,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6939,
+      "Progressed": 6942,
       "Completed": 7
     }
   ],
@@ -11027,8 +11032,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:04:57.8609138+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:04:03.9898132+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:03:01.6364917+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:04:57.8610217+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:00:41.5186925+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:04:03.9899167+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 630,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.02,
   "EosHistory": [
@@ -1074,6 +1074,11 @@
       "Time": "2024-01-05T08:11:10.2878904+00:00",
       "NumProgressed": 629,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-06T10:10:00.481898+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1123,9 +1128,9 @@
       "ID": "CURIOUS",
       "SetID": "2iigf77",
       "Name": "Curious",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 271
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -1133,7 +1138,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -1173,7 +1178,7 @@
       "Name": "Hands up!",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -1205,7 +1210,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "LUCKY_DOG",
@@ -1213,7 +1218,7 @@
       "Name": "Lucky dog",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "METICULOUS",
@@ -1245,7 +1250,7 @@
       "Name": "Now you know",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1269,7 +1274,7 @@
       "Name": "Accurate",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "QUICK_CHARGE",
@@ -1285,7 +1290,7 @@
       "Name": "Short circuit",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "SILENT",
@@ -1301,7 +1306,7 @@
       "Name": "Sysadmin",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -1317,7 +1322,7 @@
       "Name": "There is another way",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "UNCERTAIN",
@@ -1340,7 +1345,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 630,
       "Completed": 19
     }
   ],
@@ -1348,8 +1353,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-06T09:10:55.8279589+00:00",
+  "LastChanged_Achievements": "2024-01-06T10:10:00.4818963+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.4333912+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:01:41.8766511+00:00",
-  "LastUpdate_Achievements": "2024-01-06T09:10:55.828002+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:00:28.6490415+00:00",
+  "LastUpdate_Achievements": "2024-01-06T10:10:00.4819278+00:00"
 }
