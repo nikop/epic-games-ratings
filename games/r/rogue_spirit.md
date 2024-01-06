@@ -7,10 +7,10 @@
 | Silent Assassin | 48.00% | ~14 |
 | Liberator | 31.00% | ~9 |
 | Parry Mastery | 28.00% | ~8 |
+| Famine Defeated | 21.00% | ~6 |
 | Perceptive | 21.00% | ~6 |
-| Famine Defeated | 17.00% | ~5 |
 | Gold Collector | 14.00% | ~4 |
-| Possess Mastery | 10.00% | ~3 |
+| Possess Mastery | 14.00% | ~4 |
 | Master Assassin | 7.00% | ~2 |
 | Body Blast Master | 3.00% | ~1 |
 | Body Spawn Master | 3.00% | ~1 |

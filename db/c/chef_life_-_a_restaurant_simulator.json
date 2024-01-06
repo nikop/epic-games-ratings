@@ -3,11 +3,11 @@
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_Rating": 693,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 982,
+  "EOS_Progressed": 985,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4232,6 +4232,11 @@
       "Time": "2024-01-06T18:09:49.2454104+00:00",
       "NumProgressed": 982,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T20:10:10.7734207+00:00",
+      "NumProgressed": 985,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4259,7 +4264,7 @@
       "Name": "Culinary Arts",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "5OvenDishesMenu",
@@ -4291,7 +4296,7 @@
       "Name": "French Flair",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -4299,7 +4304,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Clothes10",
@@ -4315,7 +4320,7 @@
       "Name": "Perfectionist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "DilemasResponsibility10",
@@ -4419,7 +4424,7 @@
       "Name": "The Big Day",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 601
     },
     {
       "ID": "Packing20",
@@ -4467,7 +4472,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ServiceMaxClient",
@@ -4499,7 +4504,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "TrattoriaSet",
@@ -4562,7 +4567,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 982,
+      "Progressed": 985,
       "Completed": 0
     }
   ],
@@ -4570,8 +4575,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-05T14:58:53.6267944+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:09:34.246513+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:10:10.7734203+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.9361067+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:29.1891221+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:09:34.2465669+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:00:46.6806229+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:10:10.7734615+00:00"
 }

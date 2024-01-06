@@ -12,11 +12,11 @@
 | Runes collector | 46.00% | ~61 |
 | Skilled rider | 44.00% | ~58 |
 | Devil's dozen | 27.00% | ~36 |
-| It doesn't work like that | 23.00% | ~30 |
+| It doesn't work like that | 24.00% | ~32 |
 | Unstoppable Curiosity | 19.00% | ~25 |
 | This is just the beginning... | 17.00% | ~22 |
 | A small victory | 15.00% | ~20 |
-| Gold Digger | 11.00% | ~15 |
+| Gold Digger | 12.00% | ~16 |
 | Time is on my side | 9.00% | ~12 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

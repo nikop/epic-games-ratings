@@ -5,24 +5,24 @@ Rating: 4.13 (Ranked 1,007)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 61.00% | ~1,174 |
-| Trinity | 29.00% | ~558 |
+| Break Out | 62.00% | ~1,194 |
+| Trinity | 29.00% | ~559 |
 | A Taste of Wrath | 23.00% | ~443 |
 | I Found It | 23.00% | ~443 |
 | The Collector | 23.00% | ~443 |
-| Find Allies | 22.00% | ~423 |
-| Shatter Them All | 22.00% | ~423 |
-| Geared Up | 22.00% | ~423 |
+| Find Allies | 22.00% | ~424 |
+| Shatter Them All | 22.00% | ~424 |
+| Geared Up | 22.00% | ~424 |
 | Adventurer | 21.00% | ~404 |
 | Fashion Victim | 21.00% | ~404 |
 | Scholar | 21.00% | ~404 |
 | Tributes of Caladrias | 19.00% | ~366 |
 | Stone Collection | 19.00% | ~366 |
-| Powerful Allies | 18.00% | ~346 |
+| Powerful Allies | 18.00% | ~347 |
 | Big Bazar | 13.00% | ~250 |
 | Essence Blow | 12.00% | ~231 |
 | Alchemist | 12.00% | ~231 |
-| The Mentor | 10.00% | ~192 |
+| The Mentor | 10.00% | ~193 |
 | Calm before the Storm | 9.00% | ~173 |
 | To Battle | 7.00% | ~135 |
 | Godslayer | 7.00% | ~135 |
@@ -32,17 +32,17 @@ Rating: 4.13 (Ranked 1,007)
 | Shatterer | 4.00% | ~77 |
 | Fine Feathers Make Fine Birds | 4.00% | ~77 |
 | A Queen's Tale | 3.00% | ~58 |
-| Slayer | 2.00% | ~38 |
-| Flawless Victory | 2.00% | ~38 |
-| All There Is | 2.00% | ~38 |
-| False God | 2.00% | ~38 |
+| Slayer | 2.00% | ~39 |
+| Flawless Victory | 2.00% | ~39 |
+| All There Is | 2.00% | ~39 |
+| False God | 2.00% | ~39 |
 | Forgemaster | 1.00% | ~19 |
 | Shardbearer | 1.00% | ~19 |
 | Summiter | 1.00% | ~19 |
 | All That Gold | 0.70% | ~13 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,924 (Ranked 250)  
+Progressed: 1,926 (Ranked 250)  
 Completed: 3 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 3 (0.16%) (Ranked 282)
 | 2024-01-03 | 1,735 | 3 |
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
-| 2024-01-06 | 1,924 | 3 |
+| 2024-01-06 | 1,926 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

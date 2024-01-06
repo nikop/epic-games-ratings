@@ -1,43 +1,43 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.49 (Ranked 635)  
+Rating: 4.50 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,759 |
-| I will survive! | 93.00% | ~5,698 |
-| All thumbs | 92.00% | ~5,637 |
-| Home, sweet home | 91.00% | ~5,576 |
-| Survivalist | 90.00% | ~5,514 |
-| One way ticket | 85.00% | ~5,208 |
-| Last man standing | 81.00% | ~4,963 |
-| Family guy | 77.00% | ~4,718 |
-| Out of the Bag | 76.00% | ~4,657 |
-| The Dark Side | 71.00% | ~4,350 |
-| Souper! | 66.00% | ~4,044 |
-| Duck and cover! | 66.00% | ~4,044 |
-| Pacifist | 60.00% | ~3,676 |
-| 2-1-6 | 59.00% | ~3,615 |
-| A gift | 55.00% | ~3,370 |
-| Girl Power | 49.00% | ~3,002 |
-| What goes around... | 45.00% | ~2,757 |
-| Be Prepared | 39.00% | ~2,390 |
-| Unbreakable | 37.00% | ~2,267 |
-| Gotta get 'em all | 35.00% | ~2,144 |
-| This is the end | 34.00% | ~2,083 |
-| Atomic drill | 32.00% | ~1,961 |
-| Disco Roach | 29.00% | ~1,777 |
-| Dawkins Residence | 22.00% | ~1,348 |
-| Rescue time! | 19.00% | ~1,164 |
+| Prepper | 94.00% | ~5,762 |
+| I will survive! | 93.00% | ~5,701 |
+| All thumbs | 92.00% | ~5,640 |
+| Home, sweet home | 91.00% | ~5,578 |
+| Survivalist | 90.00% | ~5,517 |
+| One way ticket | 85.00% | ~5,210 |
+| Last man standing | 81.00% | ~4,965 |
+| Family guy | 77.00% | ~4,720 |
+| Out of the Bag | 76.00% | ~4,659 |
+| The Dark Side | 71.00% | ~4,352 |
+| Souper! | 66.00% | ~4,046 |
+| Duck and cover! | 66.00% | ~4,046 |
+| Pacifist | 60.00% | ~3,678 |
+| 2-1-6 | 59.00% | ~3,617 |
+| A gift | 55.00% | ~3,372 |
+| Girl Power | 49.00% | ~3,004 |
+| What goes around... | 45.00% | ~2,758 |
+| Be Prepared | 39.00% | ~2,391 |
+| Unbreakable | 37.00% | ~2,268 |
+| Gotta get 'em all | 35.00% | ~2,146 |
+| This is the end | 34.00% | ~2,084 |
+| Atomic drill | 32.00% | ~1,962 |
+| Disco Roach | 29.00% | ~1,778 |
+| Dawkins Residence | 22.00% | ~1,349 |
+| Rescue time! | 19.00% | ~1,165 |
 | New order | 18.00% | ~1,103 |
 | New species | 17.00% | ~1,042 |
-| Enigma | 16.00% | ~980 |
-| A New Hope | 15.00% | ~919 |
+| Enigma | 16.00% | ~981 |
+| A New Hope | 15.00% | ~920 |
 | Challenger | 13.00% | ~797 |
 | Men in Black | 13.00% | ~797 |
-| No stone unturned | 12.00% | ~735 |
-| Unplugged | 9.00% | ~551 |
+| No stone unturned | 12.00% | ~736 |
+| Unplugged | 9.00% | ~552 |
 | Mad Hatter | 8.00% | ~490 |
 | Holidays! | 7.00% | ~429 |
 | Yes Man | 7.00% | ~429 |
@@ -66,7 +66,7 @@ Rating: 4.49 (Ranked 635)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,127 (Ranked 199)  
+Progressed: 6,130 (Ranked 199)  
 Completed: 1 (0.02%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 1 (0.02%) (Ranked 360)
 | 2024-01-03 | 6,058 | 1 |
 | 2024-01-04 | 6,079 | 1 |
 | 2024-01-05 | 6,103 | 1 |
-| 2024-01-06 | 6,127 | 1 |
+| 2024-01-06 | 6,130 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -374,3 +374,4 @@ Completed: 1 (0.02%) (Ranked 360)
 | 2024-01-01 | 4.47 | 0 | 0 |
 | 2024-01-04 | 4.48 | 0 | 0 |
 | 2024-01-05 | 4.49 | 0 | 0 |
+| 2024-01-06 | 4.50 | 0 | 0 |

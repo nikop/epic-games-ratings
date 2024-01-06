@@ -3,11 +3,11 @@
   "Name": "Freedom Fighters",
   "ProductSlug": "freedom-fighters",
   "Ranking_Rating": 301,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-09-24T14:00:00+00:00",
@@ -115,6 +115,6 @@
   "FirstSeenRating": "2022-12-09T23:57:05.1665752+00:00",
   "LastChanged": "2023-12-03T07:59:02.544563+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:57.5290514+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:52.4696372+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:04:37.8959465+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:01:23.2532386+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:05:31.1101463+00:00"
 }

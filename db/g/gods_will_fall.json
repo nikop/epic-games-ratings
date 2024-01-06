@@ -3,11 +3,11 @@
   "Name": "Gods Will Fall",
   "ProductSlug": "gods-will-fall",
   "Ranking_Rating": 1052,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-29T00:00:00+00:00",
@@ -463,6 +463,6 @@
   "FirstSeen": "2022-07-22T20:20:39.1659104+00:00",
   "LastChanged": "2023-11-11T14:57:19.4594534+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.6005231+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:41.6100472+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:08:37.3800035+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:01:06.3118814+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:08:50.3229432+00:00"
 }

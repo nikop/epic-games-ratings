@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -11561,11 +11561,17 @@
       "Rating": 4.62,
       "NumberOfAwards": 14480,
       "NumberOfAwardsMax": 2754
+    },
+    {
+      "Time": "2024-01-06T20:03:06.3601721+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 14516,
+      "NumberOfAwardsMax": 2784
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14480,
-  "NumberOfAwardsMax": 2754,
+  "NumberOfAwards": 14516,
+  "NumberOfAwardsMax": 2784,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -11578,7 +11584,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2754
+      "Count": 2784
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11626,7 +11632,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 891
+      "Count": 897
     },
     {
       "Text": "This game has Easy Combat",
@@ -11655,9 +11661,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-01-06T19:03:02.2815007+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:06:27.6339586+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T18:58:42.1542215+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:03:02.2815013+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:06:27.6339625+00:00"
+  "LastChanged": "2024-01-06T20:03:06.3601719+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:08:09.1771093+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T19:57:00.223271+00:00",
+  "LastUpdate_Ratings": "2024-01-06T20:03:06.3601726+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:08:09.1771143+00:00"
 }

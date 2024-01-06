@@ -4,7 +4,7 @@
   "ProductSlug": "rogue-spirit",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -284,9 +284,9 @@
       "ID": "FamineDefeated",
       "SetID": "b42i7am",
       "Name": "Famine Defeated",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FireBlastMaster",
@@ -444,9 +444,9 @@
       "ID": "PossessMastery",
       "SetID": "b42i7am",
       "Name": "Possess Mastery",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ProteciveDomeMaster",
@@ -597,8 +597,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2469383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00",
   "LastChanged": "2023-03-31T05:58:07.2469384+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:08:17.3358473+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:08:21.6250174+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:54.1034284+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:57:15.4265475+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:08:17.3358913+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:57:19.4176192+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:08:21.6250604+00:00"
 }

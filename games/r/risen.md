@@ -19,19 +19,19 @@ Rating: 4.55 (Ranked 526)
 | Idiot | 24.00% | ~41 |
 | Ferocious wild boars | 23.00% | ~39 |
 | Beast slayer | 21.00% | ~36 |
-| Death of a legend | 18.00% | ~31 |
+| Death of a legend | 19.00% | ~32 |
 | Archaeologist | 18.00% | ~31 |
 | Ogre friend | 18.00% | ~31 |
 | Family man | 17.00% | ~29 |
 | Wise man | 16.00% | ~27 |
 | Little hero | 16.00% | ~27 |
+| Hard worker | 16.00% | ~27 |
 | Fence | 16.00% | ~27 |
 | Sidelined | 16.00% | ~27 |
-| Hard worker | 15.00% | ~26 |
 | The fourth triplet | 15.00% | ~26 |
 | Ghost hunter | 14.00% | ~24 |
 | Master detective | 14.00% | ~24 |
-| Pandora's box | 12.00% | ~20 |
+| Pandora's box | 13.00% | ~22 |
 | Peacekeeper | 12.00% | ~20 |
 | Defender | 11.00% | ~19 |
 | Workaholic | 11.00% | ~19 |

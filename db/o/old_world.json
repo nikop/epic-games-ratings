@@ -4,10 +4,10 @@
   "ProductSlug": "old-world",
   "Ranking_Rating": 320,
   "Ranking_Popularity": 284,
-  "Ranking_PopularitySum": 221,
+  "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2220,7 +2220,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16154,
+  "EOS_Progressed": 16157,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
@@ -19080,6 +19080,11 @@
       "Time": "2024-01-06T19:10:03.4129258+00:00",
       "NumProgressed": 16154,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-06T20:10:49.8178285+00:00",
+      "NumProgressed": 16157,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19633,9 +19638,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
@@ -19713,9 +19718,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20433,9 +20438,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -20609,9 +20614,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_1",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 1",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -20625,9 +20630,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -20841,9 +20846,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -20905,9 +20910,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -21954,21 +21959,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16154,
+      "Progressed": 16157,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16154,
+      "Progressed": 16157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:10:03.4129254+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:10:49.8178282+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:16.939498+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:10:03.4140736+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:00:27.2632988+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:10:49.8188728+00:00"
 }

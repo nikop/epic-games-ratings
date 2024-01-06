@@ -6,17 +6,17 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 8.00% | ~1,624 |
-| Abandoned Settlement | 8.00% | ~1,624 |
-| Overgrown Library | 8.00% | ~1,624 |
-| First Real Expedition | 7.00% | ~1,421 |
-| No Deaths | 7.00% | ~1,421 |
-| Petrified Necropolis | 7.00% | ~1,421 |
-| Overcoming Difficulty | 6.00% | ~1,218 |
-| Coral Forest | 6.00% | ~1,218 |
-| The Marshlands | 6.00% | ~1,218 |
-| The Scarlet Orchard | 6.00% | ~1,218 |
-| Gathering Storm | 6.00% | ~1,218 |
+| Taking Action | 8.00% | ~1,625 |
+| Abandoned Settlement | 8.00% | ~1,625 |
+| Overgrown Library | 8.00% | ~1,625 |
+| First Real Expedition | 7.00% | ~1,422 |
+| No Deaths | 7.00% | ~1,422 |
+| Petrified Necropolis | 7.00% | ~1,422 |
+| Overcoming Difficulty | 6.00% | ~1,219 |
+| Coral Forest | 6.00% | ~1,219 |
+| The Marshlands | 6.00% | ~1,219 |
+| The Scarlet Orchard | 6.00% | ~1,219 |
+| Gathering Storm | 6.00% | ~1,219 |
 | Frosts | 5.00% | ~1,015 |
 | Land of Greed | 5.00% | ~1,015 |
 | Ominous Presence | 5.00% | ~1,015 |
@@ -28,6 +28,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 3.00% | ~609 |
 | Monastery of the Holy Flame | 3.00% | ~609 |
 | Lost Colonies | 3.00% | ~609 |
+| Statue of the Forefathers | 3.00% | ~609 |
 | Corrosive Torrent | 3.00% | ~609 |
 | A Real Challenge | 3.00% | ~609 |
 | Trade Baron | 3.00% | ~609 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 2.00% | ~406 |
 | Haunted Forest | 2.00% | ~406 |
 | Flooded Mines | 2.00% | ~406 |
-| Statue of the Forefathers | 2.00% | ~406 |
 | Cursed Lands | 2.00% | ~406 |
 | Defying the Crown | 2.00% | ~406 |
 | Serving Ale | 1.00% | ~203 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,303 (Ranked 154)  
+Progressed: 20,309 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,16 +327,16 @@ Completed: 34 (0.17%) (Ranked 281)
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
-| 2024-01-06 | 20,303 | 34 |
+| 2024-01-06 | 20,309 | 34 |
 ## Awards
-Max (Quickly Understood Controls): 449  (Ranked 231)  
-Sum: 3,340 (Ranked 177)  
-Diff (max vs sum): 54  
+Max (Quickly Understood Controls): 449  (Ranked 232)  
+Sum: 3,342 (Ranked 177)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 449 |
 | This game is Relaxing | 446 |
-| This game is Great for Beginners | 440 |
+| This game is Great for Beginners | 442 |
 | This game is Extremely Fun | 418 |
 | This game is Highly Recommended | 403 |
 | This game has Unique Visuals | 344 |
@@ -623,4 +623,4 @@ Diff (max vs sum): 54
 | 2024-01-03 | 4.82 | - | 447 | 3,324 |
 | 2024-01-04 | 4.82 | - | 448 | 3,331 |
 | 2024-01-05 | 4.82 | - | 448 | 3,337 |
-| 2024-01-06 | 4.82 | - | 449 | 3,340 |
+| 2024-01-06 | 4.82 | - | 449 | 3,342 |

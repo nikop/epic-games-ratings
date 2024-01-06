@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1029,9 +1029,9 @@
       "ID": "AccustomedCustomer",
       "SetID": "4bd750m",
       "Name": "Accustomed Customer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Aristocratic",
@@ -1260,8 +1260,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:05:16.0757294+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:06:25.6758038+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:03:15.3462212+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:05:16.0757543+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:03:26.6097057+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:06:25.6758223+00:00"
 }

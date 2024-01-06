@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -661,9 +661,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4221,
+  "EOS_Progressed": 4222,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9451,6 +9451,11 @@
       "Time": "2024-01-06T19:09:22.4510331+00:00",
       "NumProgressed": 4221,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-06T20:09:54.2624841+00:00",
+      "NumProgressed": 4222,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9524,9 +9529,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1013
+      "UsersEstimate": 971
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9718,7 +9723,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -9726,7 +9731,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -9774,7 +9779,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9830,7 +9835,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9838,7 +9843,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -9870,7 +9875,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -10029,13 +10034,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4172,
+      "Progressed": 4173,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4221,
+      "Progressed": 4222,
       "Completed": 11
     }
   ],
@@ -10043,8 +10048,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:09:22.4510325+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:00:03.6894203+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:09:22.4511411+00:00"
+  "LastChanged_Achievements": "2024-01-06T20:09:54.2624838+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
+  "LastUpdate_Ratings": "2024-01-06T20:01:39.6644633+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:09:54.2625813+00:00"
 }

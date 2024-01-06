@@ -3,12 +3,12 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 93,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,7 +185,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1466,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 1,
@@ -5045,6 +5045,11 @@
       "Time": "2024-01-06T18:04:42.5436362+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-06T20:05:33.8439476+00:00",
+      "NumProgressed": 1466,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5065,7 +5070,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "_03_FinishAct1",
@@ -5081,7 +5086,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "_05_FinishAct2",
@@ -5113,7 +5118,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "_09_Completion_20",
@@ -5185,7 +5190,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5201,7 +5206,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5264,7 +5269,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 36
     }
   ],
@@ -5272,8 +5277,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:04:39.720751+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:05:33.8439473+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:58:27.7544042+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:04:39.7207931+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:59:10.8062819+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:05:33.8439849+00:00"
 }

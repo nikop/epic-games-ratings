@@ -4,47 +4,47 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 89.00% | ~59 |
+| First success | 88.00% | ~59 |
 | Suicide squad | 45.00% | ~30 |
-| Train hard, fight easy | 29.00% | ~19 |
-| Under cover | 29.00% | ~19 |
-| First blood | 29.00% | ~19 |
-| Royal blessing | 23.00% | ~15 |
+| Train hard, fight easy | 28.00% | ~19 |
+| Under cover | 28.00% | ~19 |
+| First blood | 28.00% | ~19 |
+| Royal blessing | 22.00% | ~15 |
 | Blood and sand | 21.00% | ~14 |
-| All for one! | 20.00% | ~13 |
-| A hidden snake | 20.00% | ~13 |
-| Crimson rivers | 17.00% | ~11 |
-| Power of Inquisition | 17.00% | ~11 |
-| Surpass the teacher | 17.00% | ~11 |
-| Help of the Gell | 17.00% | ~11 |
+| All for one! | 19.00% | ~13 |
+| A hidden snake | 19.00% | ~13 |
+| Crimson rivers | 16.00% | ~11 |
+| Power of Inquisition | 16.00% | ~11 |
+| Surpass the teacher | 16.00% | ~11 |
+| Help of the Gell | 16.00% | ~11 |
 | Vene, vidi, vici | 15.00% | ~10 |
 | Rage | 15.00% | ~10 |
 | She-Wolf | 15.00% | ~10 |
-| Berkanan Borgia | 14.00% | ~9 |
-| Trial by cold | 14.00% | ~9 |
-| For the greater good | 11.00% | ~7 |
+| Berkanan Borgia | 13.00% | ~9 |
+| Trial by cold | 13.00% | ~9 |
+| For the greater good | 10.00% | ~7 |
 | Overplay the rogue | 9.00% | ~6 |
 | The champion of the arena | 9.00% | ~6 |
-| Collector | 8.00% | ~5 |
-| Stronger than Gellian steel | 8.00% | ~5 |
-| Punish the Punisher | 8.00% | ~5 |
-| Protect the Healer! | 8.00% | ~5 |
-| The End | 8.00% | ~5 |
+| Collector | 7.00% | ~5 |
+| Stronger than Gellian steel | 7.00% | ~5 |
+| Punish the Punisher | 7.00% | ~5 |
+| Protect the Healer! | 7.00% | ~5 |
+| The End | 7.00% | ~5 |
 | First among Frisians | 6.00% | ~4 |
 | Defeat the bear | 6.00% | ~4 |
 | Cunning plan | 6.00% | ~4 |
 | Nothing is settled | 6.00% | ~4 |
-| Supplier | 5.00% | ~3 |
-| The best apprentice | 5.00% | ~3 |
-| By own strength | 5.00% | ~3 |
-| Deadly strike | 5.00% | ~3 |
-| All's fair in love and war | 5.00% | ~3 |
+| Supplier | 4.00% | ~3 |
+| The best apprentice | 4.00% | ~3 |
+| By own strength | 4.00% | ~3 |
+| Deadly strike | 4.00% | ~3 |
+| All's fair in love and war | 4.00% | ~3 |
 | The power of persuasion | 3.00% | ~2 |
 | A solo player | 3.00% | ~2 |
 | Do it yourself | 3.00% | ~2 |
 | There can be only one | 3.00% | ~2 |
-| By someone else's hands | 2.00% | ~1 |
-| Happily ever after | 2.00% | ~1 |
+| By someone else's hands | 1.00% | ~1 |
+| Happily ever after | 1.00% | ~1 |
 | Berserk | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 528)  
+Progressed: 67 (Ranked 527)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 59 | 0 |
 | 2024-01-03 | 61 | 0 |
 | 2024-01-05 | 63 | 0 |
-| 2024-01-06 | 66 | 0 |
+| 2024-01-06 | 67 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

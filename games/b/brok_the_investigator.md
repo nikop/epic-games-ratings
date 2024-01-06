@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 75.00% | ~30 |
-| Chapter 1 | 45.00% | ~18 |
-| Chapter 2 | 43.00% | ~17 |
-| Chapter 3 | 40.00% | ~16 |
-| It's In My Nature | 40.00% | ~16 |
-| Chapter 4 | 35.00% | ~14 |
-| Your Days Are Numbered | 35.00% | ~14 |
-| Chapter 5 | 33.00% | ~13 |
-| All Materials | 33.00% | ~13 |
+| Introduction completed | 73.00% | ~30 |
+| Chapter 1 | 44.00% | ~18 |
+| Chapter 2 | 41.00% | ~17 |
+| Chapter 3 | 39.00% | ~16 |
+| It's In My Nature | 39.00% | ~16 |
+| Chapter 4 | 34.00% | ~14 |
+| Your Days Are Numbered | 34.00% | ~14 |
+| Chapter 5 | 32.00% | ~13 |
+| All Materials | 32.00% | ~13 |
 | Chapter 6 | 20.00% | ~8 |
-| Best Student | 18.00% | ~7 |
+| Best Student | 17.00% | ~7 |
 | Food Thief | 15.00% | ~6 |
-| Ads Fan | 13.00% | ~5 |
-| Hard To Wake Up | 13.00% | ~5 |
+| Ads Fan | 12.00% | ~5 |
+| Hard To Wake Up | 12.00% | ~5 |
 | Highway Survival | 10.00% | ~4 |
 | Sugar Pills Lover | 10.00% | ~4 |
 | Tramp Saver | 10.00% | ~4 |
-| Chipmunk | 8.00% | ~3 |
-| Secret Locker | 8.00% | ~3 |
-| Paw Music | 8.00% | ~3 |
+| Chipmunk | 7.00% | ~3 |
+| Secret Locker | 7.00% | ~3 |
+| Paw Music | 7.00% | ~3 |
 | Bear Cop | 5.00% | ~2 |
-| Main Endings | 3.00% | ~1 |
-| Summary Filled | 3.00% | ~1 |
-| Toilets Tormentor | 3.00% | ~1 |
+| Main Endings | 2.00% | ~1 |
+| Summary Filled | 2.00% | ~1 |
+| Toilets Tormentor | 2.00% | ~1 |
 | Master of Mattresses | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 | Pushy, pushy | 0.00% | ~0 |
 | The World Is My Doormat | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 572)  
+Progressed: 41 (Ranked 571)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 36 | 0 |
 | 2024-01-03 | 38 | 0 |
 | 2024-01-04 | 40 | 0 |
+| 2024-01-06 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

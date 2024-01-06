@@ -25,7 +25,7 @@
 | Manic Mechanic | 18.00% | ~45 |
 | Room To Spare | 15.00% | ~37 |
 | Click 'Em All | 6.00% | ~15 |
-| Accustomed Customer | 4.00% | ~10 |
+| Accustomed Customer | 5.00% | ~12 |
 | Real Purdy | 4.00% | ~10 |
 | Stack Overflow | 4.00% | ~10 |
 | Interstellar Performance | 2.00% | ~5 |

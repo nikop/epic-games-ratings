@@ -2,9 +2,9 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1094,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Rating": 1095,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 278,
@@ -95,7 +95,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2183,
+  "EOS_Progressed": 2184,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -8410,6 +8410,11 @@
       "Time": "2024-01-06T14:04:40.8392897+00:00",
       "NumProgressed": 2183,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T20:05:48.4602908+00:00",
+      "NumProgressed": 2184,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8501,7 +8506,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_headquarters_15",
@@ -8517,7 +8522,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "objective_headquarters_5",
@@ -8525,7 +8530,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8533,7 +8538,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -8573,7 +8578,7 @@
       "Name": "Colonel",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -8597,7 +8602,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8653,7 +8658,7 @@
       "Name": "Battle Ready",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -8661,7 +8666,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -8717,14 +8722,14 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2183,
+      "Progressed": 2184,
       "Completed": 1
     }
   ],
@@ -8732,8 +8737,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:04:49.7615572+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:05:48.4602904+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:00:00.937675+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:04:49.7616232+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:01:35.5380964+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:05:48.4603418+00:00"
 }

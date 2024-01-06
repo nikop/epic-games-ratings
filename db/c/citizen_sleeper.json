@@ -3,11 +3,11 @@
   "Name": "Citizen Sleeper",
   "ProductSlug": "citizen-sleeper-944858",
   "Ranking_Rating": 47,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -177,7 +177,7 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:38.6644605+00:00",
   "LastChanged": "2023-11-13T16:58:39.986126+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T18:58:37.7551319+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:01.0650181+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:05:30.7183061+00:00"
+  "LastUpdate_AppInfo": "2024-01-06T19:56:56.0215424+00:00",
+  "LastUpdate_Ratings": "2024-01-06T20:00:02.0759707+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:06:46.8223418+00:00"
 }

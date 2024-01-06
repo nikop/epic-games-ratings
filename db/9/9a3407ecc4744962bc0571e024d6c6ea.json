@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1267,
+  "EOS_Progressed": 1268,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -3649,6 +3649,11 @@
       "Time": "2024-01-06T19:09:46.4637512+00:00",
       "NumProgressed": 1267,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T20:10:27.3724887+00:00",
+      "NumProgressed": 1268,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3709,7 +3714,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -3757,7 +3762,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "Outpatient",
@@ -3765,7 +3770,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "Relic",
@@ -3773,7 +3778,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "SkeletonCrew",
@@ -3813,21 +3818,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1267,
+      "Progressed": 1268,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:09:46.4637505+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:10:27.3724883+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6987681+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:57:19.687446+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:09:46.4637809+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:57:26.2901124+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:10:27.3725148+00:00"
 }

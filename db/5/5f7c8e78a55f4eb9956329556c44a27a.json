@@ -1049,9 +1049,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 207
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -1328,8 +1328,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:05:39.2649389+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:06:58.9602318+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.3171345+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:58:20.0682798+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:05:39.2649717+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:58:59.086372+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:06:58.9602682+00:00"
 }

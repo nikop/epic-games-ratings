@@ -7,10 +7,10 @@ Rating: 4.62 (Ranked 378)
 | ---- | ---------- | ----- |
 | Secret Technique | 15.00% | ~1,046 |
 | Realm Estate | 14.00% | ~976 |
-| A Wonderful Discovery | 12.00% | ~836 |
-| Walls Cannot Stop Us | 12.00% | ~836 |
+| A Wonderful Discovery | 13.00% | ~906 |
+| Walls Cannot Stop Us | 12.00% | ~837 |
 | From Friends to Family | 11.00% | ~767 |
-| Bone Peddler | 9.00% | ~627 |
+| Bone Peddler | 9.00% | ~628 |
 | Magical Synergy | 8.00% | ~558 |
 | There Can Only Be One! | 7.00% | ~488 |
 | Full Ascension | 7.00% | ~488 |
@@ -19,7 +19,7 @@ Rating: 4.62 (Ranked 378)
 | Valley of Wonders | 6.00% | ~418 |
 | In a Liege of Your Own | 6.00% | ~418 |
 | Intimidation Tactics | 6.00% | ~418 |
-| But this one is mine | 5.00% | ~348 |
+| But this one is mine | 5.00% | ~349 |
 | Return of the Wizard King | 4.00% | ~279 |
 | Enchanted Archipelago | 4.00% | ~279 |
 | Digging for Treasure | 4.00% | ~279 |
@@ -35,6 +35,7 @@ Rating: 4.62 (Ranked 378)
 | The Creator | 2.00% | ~139 |
 | Eternal Lord | 2.00% | ~139 |
 | Crimson Caldera | 2.00% | ~139 |
+| The Eternal Court | 2.00% | ~139 |
 | Here be Dragons | 2.00% | ~139 |
 | Blood of the Dragon | 2.00% | ~139 |
 | Mighty Hoard | 2.00% | ~139 |
@@ -45,7 +46,6 @@ Rating: 4.62 (Ranked 378)
 | Lord of Chaos | 1.00% | ~70 |
 | The Goddess of Nature | 1.00% | ~70 |
 | Manufactured War | 1.00% | ~70 |
-| The Eternal Court | 1.00% | ~70 |
 | Pruning for Progress | 1.00% | ~70 |
 | Grexolis | 1.00% | ~70 |
 | One for All, All for One | 1.00% | ~70 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,970 (Ranked 196)  
+Progressed: 6,973 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
-| 2024-01-06 | 6,970 | 7 |
+| 2024-01-06 | 6,973 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 210 (Ranked 411)  

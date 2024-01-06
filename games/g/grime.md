@@ -1,16 +1,16 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 446)  
+Rating: 4.59 (Ranked 447)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Taste | 3.00% | ~5,006 |
 | Imprint | 3.00% | ~5,006 |
-| The Hunt | 2.00% | ~3,337 |
-| Weeper | 2.00% | ~3,337 |
-| Ravenous | 2.00% | ~3,337 |
+| The Hunt | 2.00% | ~3,338 |
+| Weeper | 2.00% | ~3,338 |
+| Ravenous | 2.00% | ~3,338 |
 | Devourer | 1.00% | ~1,669 |
 | Harmless | 0.90% | ~1,502 |
 | Silenced Whispers | 0.90% | ~1,502 |
@@ -24,9 +24,9 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 0.50% | ~834 |
 | Glare | 0.50% | ~832 |
 | Predator | 0.50% | ~834 |
-| Assimilation | 0.40% | ~667 |
+| Assimilation | 0.40% | ~668 |
 | Host | 0.40% | ~666 |
-| Celebration | 0.40% | ~667 |
+| Celebration | 0.40% | ~668 |
 | Hunt Down | 0.30% | ~501 |
 | Artisan | 0.30% | ~501 |
 | Hush | 0.30% | ~501 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~166 |
 | Intensify | 0.10% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166,871 (Ranked 84)  
+Progressed: 166,882 (Ranked 84)  
 Completed: 446 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 446 (0.27%) (Ranked 258)
 | 2024-01-03 | 166,329 | 441 |
 | 2024-01-04 | 166,498 | 443 |
 | 2024-01-05 | 166,702 | 445 |
-| 2024-01-06 | 166,871 | 446 |
+| 2024-01-06 | 166,882 | 446 |
 ## Awards
 Max (Unique Visuals): 62  (Ranked 428)  
 Sum: 444 (Ranked 342)  

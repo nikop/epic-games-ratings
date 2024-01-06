@@ -2,9 +2,9 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 549,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Rating": 565,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 140,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -319,13 +319,19 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-06T19:58:03.951626+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18420,
+  "EOS_Progressed": 18425,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 2,
@@ -16495,6 +16501,11 @@
       "Time": "2024-01-06T19:05:46.3550422+00:00",
       "NumProgressed": 18420,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-06T20:07:09.1771941+00:00",
+      "NumProgressed": 18425,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16523,7 +16534,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "12",
@@ -16531,7 +16542,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "13",
@@ -16539,7 +16550,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "14",
@@ -16547,7 +16558,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "15",
@@ -16563,7 +16574,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "17",
@@ -16571,7 +16582,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "18",
@@ -16579,7 +16590,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "19",
@@ -16587,7 +16598,7 @@
       "Name": "Martian Music",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "2",
@@ -16603,15 +16614,15 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2211
     },
     {
       "ID": "22",
@@ -16643,7 +16654,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "26",
@@ -16659,7 +16670,7 @@
       "Name": "Bosmang",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "28",
@@ -16683,7 +16694,7 @@
       "Name": "Captain Drummer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2580
     },
     {
       "ID": "30",
@@ -16739,7 +16750,7 @@
       "Name": "Impossible Objects",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "31",
@@ -16763,7 +16774,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "34",
@@ -16771,7 +16782,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "35",
@@ -16786,22 +16797,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18420,
+      "Progressed": 18425,
       "Completed": 59
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4374,
-      "Completed": 1216
+      "Progressed": 4379,
+      "Completed": 1217
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:05:46.3550418+00:00",
+  "LastChanged": "2024-01-06T19:58:03.9516258+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:07:09.1771937+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:57:44.1052593+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:05:46.3551566+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:58:03.9516263+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:07:09.1772925+00:00"
 }

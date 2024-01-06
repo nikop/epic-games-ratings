@@ -5,14 +5,14 @@ Rating: 4.05 (Ranked 1,034)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,964 |
-| World Map | 78.00% | ~3,324 |
+| Victor | 93.00% | ~3,965 |
+| World Map | 78.00% | ~3,325 |
 | Temple of Eternals | 56.00% | ~2,387 |
-| Prestigious | 52.00% | ~2,216 |
-| Fellowship Power | 41.00% | ~1,747 |
-| Full Party | 28.00% | ~1,193 |
+| Prestigious | 52.00% | ~2,217 |
+| Fellowship Power | 41.00% | ~1,748 |
+| Full Party | 28.00% | ~1,194 |
 | Guild Power | 23.00% | ~980 |
-| Prestigious x10 | 20.00% | ~852 |
+| Prestigious x10 | 20.00% | ~853 |
 | The game is on | 18.00% | ~767 |
 | Exotic Merchant | 16.00% | ~682 |
 | Dragon Clicker | 15.00% | ~639 |
@@ -21,16 +21,16 @@ Rating: 4.05 (Ranked 1,034)
 | Enlightenment | 13.00% | ~554 |
 | Hero inspection | 13.00% | ~554 |
 | Inspection | 13.00% | ~554 |
-| Lieutenant | 12.00% | ~511 |
+| Lieutenant | 12.00% | ~512 |
 | Milestone collector | 11.00% | ~469 |
 | Mysterious Rock | 11.00% | ~469 |
 | Natural Talent | 11.00% | ~469 |
 | Superior | 11.00% | ~469 |
 | The Unstoppable | 11.00% | ~469 |
+| Doing My Part | 9.00% | ~384 |
 | Scientist | 9.00% | ~384 |
 | Challenger | 8.00% | ~341 |
 | Daily Quest Completionist | 8.00% | ~341 |
-| Doing My Part | 8.00% | ~341 |
 | Frostfire Liberator | 8.00% | ~341 |
 | Hunter | 8.00% | ~341 |
 | Mastery | 8.00% | ~341 |
@@ -53,12 +53,12 @@ Rating: 4.05 (Ranked 1,034)
 | How Do You Turn This On? | 5.00% | ~213 |
 | Missions Dedication | 5.00% | ~213 |
 | Sailor | 5.00% | ~213 |
-| Active Member | 4.00% | ~170 |
-| Ancient Knowledge | 4.00% | ~170 |
-| Background Story | 4.00% | ~170 |
-| Legendary | 4.00% | ~170 |
-| Lock And Load | 4.00% | ~170 |
-| The Alchemist | 4.00% | ~170 |
+| Active Member | 4.00% | ~171 |
+| Ancient Knowledge | 4.00% | ~171 |
+| Background Story | 4.00% | ~171 |
+| Legendary | 4.00% | ~171 |
+| Lock And Load | 4.00% | ~171 |
+| The Alchemist | 4.00% | ~171 |
 | Arena Challenger | 3.00% | ~128 |
 | Ebony Jungle Liberator | 3.00% | ~128 |
 | Mythic Power | 3.00% | ~128 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,034)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,262 (Ranked 209)  
+Progressed: 4,263 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-03 | 4,139 | 2 |
 | 2024-01-04 | 4,183 | 2 |
 | 2024-01-05 | 4,228 | 2 |
-| 2024-01-06 | 4,262 | 2 |
+| 2024-01-06 | 4,263 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 155 (Ranked 438)  

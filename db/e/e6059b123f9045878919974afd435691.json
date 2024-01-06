@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1368,
+  "EOS_Progressed": 1370,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -3609,6 +3609,11 @@
       "Time": "2024-01-06T19:10:00.5579143+00:00",
       "NumProgressed": 1368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T20:10:46.1466439+00:00",
+      "NumProgressed": 1370,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3620,7 +3625,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 971
+      "UsersEstimate": 973
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3628,7 +3633,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3636,7 +3641,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3644,7 +3649,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -3660,7 +3665,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3690,9 +3695,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 780
+      "UsersEstimate": 767
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3754,9 +3759,9 @@
       "ID": "BURN_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "He\u0027s Getting Crazier",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 82
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -3820,7 +3825,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3900,7 +3905,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3996,7 +4001,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -4012,7 +4017,7 @@
       "Name": "Night Snack",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4028,7 +4033,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -4068,7 +4073,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4147,14 +4152,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1368,
+      "Progressed": 1370,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:10:00.5579138+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:10:46.1466437+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:57:51.6522507+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:10:00.5579804+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:58:15.7058295+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:10:46.1467179+00:00"
 }

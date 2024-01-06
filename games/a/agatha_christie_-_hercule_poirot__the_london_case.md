@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 74.00% | ~72 |
-| Little ideas | 71.00% | ~69 |
-| The Ship | 68.00% | ~66 |
-| Seeking the truth | 56.00% | ~54 |
-| An old friend | 55.00% | ~53 |
-| The Gala | 54.00% | ~52 |
+| Marc Allard | 75.00% | ~73 |
+| Little ideas | 72.00% | ~70 |
+| The Ship | 69.00% | ~67 |
+| Seeking the truth | 57.00% | ~55 |
+| An old friend | 56.00% | ~54 |
+| The Gala | 55.00% | ~53 |
 | A curious gathering | 51.00% | ~49 |
 | Little grey cells | 48.00% | ~47 |
 | Impossible is possible | 47.00% | ~46 |
@@ -21,10 +21,10 @@
 | Betty Allen | 37.00% | ~36 |
 | Order and method | 36.00% | ~35 |
 | The Investigation Begins | 35.00% | ~34 |
-| Ms. Camilla B. Culsham | 32.00% | ~31 |
-| Irene Court-Smyth | 32.00% | ~31 |
-| An odd series of events | 31.00% | ~30 |
-| The Apartment | 31.00% | ~30 |
+| Ms. Camilla B. Culsham | 33.00% | ~32 |
+| Irene Court-Smyth | 33.00% | ~32 |
+| An odd series of events | 32.00% | ~31 |
+| The Apartment | 32.00% | ~31 |
 | Nathaniel Dryden | 29.00% | ~28 |
 | A rude awakening | 28.00% | ~27 |
 | Bartholomew | 28.00% | ~27 |

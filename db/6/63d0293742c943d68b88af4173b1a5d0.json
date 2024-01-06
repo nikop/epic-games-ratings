@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 658,
+  "EOS_Progressed": 660,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2144,6 +2144,11 @@
       "Time": "2024-01-06T18:05:27.2859284+00:00",
       "NumProgressed": 658,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T20:06:36.9745291+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2218,9 +2223,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 482
     },
     {
       "ID": "REMAKE_004",
@@ -2228,7 +2233,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 401
+      "UsersEstimate": 403
     },
     {
       "ID": "Remake_005",
@@ -2252,7 +2257,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Remake_008",
@@ -2268,7 +2273,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Remake_010",
@@ -2372,21 +2377,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 658,
+      "Progressed": 660,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:05:23.8885581+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:06:36.9745288+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:34.1057792+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:05:23.888583+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:00:53.6791378+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:06:36.9745535+00:00"
 }

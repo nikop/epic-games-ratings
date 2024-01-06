@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~244 |
-| A piece of the story | 65.00% | ~185 |
-| It's covered up for a reason | 57.00% | ~162 |
-| Wanderer | 54.00% | ~153 |
-| Scraps of love | 50.00% | ~142 |
-| The artist’s impression | 48.00% | ~136 |
-| Do what you have to | 42.00% | ~119 |
-| Sign of weakness | 39.00% | ~111 |
-| Refuse to look | 36.00% | ~102 |
-| Face your fears | 30.00% | ~85 |
-| Finished it | 25.00% | ~71 |
-| Whispers long forgotten | 16.00% | ~45 |
+| Something important | 86.00% | ~246 |
+| A piece of the story | 64.00% | ~183 |
+| It's covered up for a reason | 57.00% | ~163 |
+| Wanderer | 53.00% | ~152 |
+| Scraps of love | 50.00% | ~143 |
+| The artist’s impression | 48.00% | ~137 |
+| Do what you have to | 42.00% | ~120 |
+| Sign of weakness | 39.00% | ~112 |
+| Refuse to look | 35.00% | ~100 |
+| Face your fears | 29.00% | ~83 |
+| Finished it | 25.00% | ~72 |
+| Whispers long forgotten | 16.00% | ~46 |
 | Sound Bite | 12.00% | ~34 |
 | The art of movement | 12.00% | ~34 |
 | A Slice of Life | 11.00% | ~31 |
 | Debut | 11.00% | ~31 |
-| Lights! Camera! Action! | 11.00% | ~31 |
-| Another perspective | 10.00% | ~28 |
-| Playtime | 10.00% | ~28 |
-| The tragedy unfolds | 10.00% | ~28 |
-| Tough conversation | 10.00% | ~28 |
+| Another perspective | 10.00% | ~29 |
+| Lights! Camera! Action! | 10.00% | ~29 |
+| Playtime | 10.00% | ~29 |
+| Tough conversation | 10.00% | ~29 |
 | A new way | 9.00% | ~26 |
 | First steps | 9.00% | ~26 |
+| The tragedy unfolds | 9.00% | ~26 |
 | Breaking free | 8.00% | ~23 |
 | True Reflection | 7.00% | ~20 |
 | Casting Finished | 6.00% | ~17 |
@@ -35,9 +35,9 @@
 | Fisherman | 6.00% | ~17 |
 | Something to think about | 4.00% | ~11 |
 | I remember It Like Was Yesterday | 4.00% | ~11 |
-| Immortalized in my heart | 4.00% | ~11 |
 | We Are Not Alone | 3.00% | ~9 |
 | Dark correspondence | 3.00% | ~9 |
+| Immortalized in my heart | 3.00% | ~9 |
 | The Perfect Storm | 3.00% | ~9 |
 | Se7en Seas | 3.00% | ~9 |
 | Body of Work | 2.00% | ~6 |
@@ -49,15 +49,15 @@
 | In One Take | 1.00% | ~3 |
 | Sword of the Serpent | 1.00% | ~3 |
 | Rocket Science | 0.70% | ~2 |
-| You Can’t Handle the Truth | 0.40% | ~1 |
-| The Tree and the Apple | 0.40% | ~1 |
+| You Can’t Handle the Truth | 0.30% | ~1 |
+| The Tree and the Apple | 0.30% | ~1 |
 | The whole story | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284 (Ranked 402)  
+Progressed: 286 (Ranked 402)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,4 +132,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 265 | 0 |
 | 2024-01-04 | 274 | 0 |
 | 2024-01-05 | 283 | 0 |
-| 2024-01-06 | 284 | 0 |
+| 2024-01-06 | 286 | 0 |

@@ -2,9 +2,9 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 447,
   "Ranking_Popularity": 274,
-  "Ranking_PopularitySum": 327,
+  "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 102,
@@ -1701,9 +1701,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246884,
+  "EOS_Progressed": 246896,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1286,
+  "EOS_NewPlayers": 1291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25201,6 +25201,11 @@
       "Time": "2024-01-06T19:09:58.563158+00:00",
       "NumProgressed": 246884,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-06T20:10:43.6935033+00:00",
+      "NumProgressed": 246896,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25260,7 +25265,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19751
+      "UsersEstimate": 19752
     },
     {
       "ID": "Chapter2",
@@ -25268,7 +25273,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12344
+      "UsersEstimate": 12345
     },
     {
       "ID": "Chapter3",
@@ -25276,7 +25281,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9875
+      "UsersEstimate": 9876
     },
     {
       "ID": "Chapter4",
@@ -25612,7 +25617,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22220
+      "UsersEstimate": 22221
     },
     {
       "ID": "DwarfElf15Support",
@@ -25644,7 +25649,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14813
+      "UsersEstimate": 14814
     },
     {
       "ID": "ElfEpic",
@@ -25660,7 +25665,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88878
+      "UsersEstimate": 88883
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25676,7 +25681,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12344
+      "UsersEstimate": 12345
     },
     {
       "ID": "EndCombatOneHp",
@@ -25684,7 +25689,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12344
+      "UsersEstimate": 12345
     },
     {
       "ID": "EndGameCursed",
@@ -25708,7 +25713,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24688
+      "UsersEstimate": 24690
     },
     {
       "ID": "FollowBraztok",
@@ -25860,7 +25865,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14813
+      "UsersEstimate": 14814
     },
     {
       "ID": "SupportCount4",
@@ -25908,28 +25913,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9875
+      "UsersEstimate": 9876
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246884,
+      "Progressed": 246896,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246884,
+      "Progressed": 246896,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-06T10:59:51.0086545+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:09:58.5631578+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:10:43.6935031+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:58:08.0322489+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:09:58.5633542+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:58:40.655565+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:10:43.69367+00:00"
 }

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 71.00% | ~29 |
-| Sea Legs | 61.00% | ~25 |
-| What?! | 41.00% | ~17 |
+| Shipwrecked! | 71.00% | ~30 |
+| Sea Legs | 62.00% | ~26 |
+| What?! | 40.00% | ~17 |
 | Frogs Legs | 24.00% | ~10 |
-| Mad Scientist | 20.00% | ~8 |
+| Mad Scientist | 19.00% | ~8 |
 | Hoist the Sails | 17.00% | ~7 |
 | Secure the Sheets | 17.00% | ~7 |
-| Socialite | 15.00% | ~6 |
-| Hands on the Helm | 15.00% | ~6 |
+| Socialite | 14.00% | ~6 |
+| Hands on the Helm | 14.00% | ~6 |
 | Couch-surfing | 12.00% | ~5 |
 | Replace the Rudder | 12.00% | ~5 |
 | Who Even Needs Keys | 10.00% | ~4 |
@@ -40,8 +40,8 @@
 | Crunch Time | 2.00% | ~1 |
 | Just Here for the Food | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41 (Ranked 569)  
-Completed: 1 (2.44%) (Ranked 128)  
+Progressed: 42 (Ranked 567)  
+Completed: 1 (2.38%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 1 (2.44%) (Ranked 128)
 | 2023-12-27 | 37 | 1 |
 | 2024-01-01 | 38 | 1 |
 | 2024-01-04 | 40 | 1 |
-| 2024-01-06 | 41 | 1 |
+| 2024-01-06 | 42 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

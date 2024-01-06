@@ -21,8 +21,8 @@
 | Nanonic III | 10.00% | ~93 |
 | Cybernetic | 9.00% | ~84 |
 | The Bigger They Are | 8.00% | ~75 |
+| Up Close And Personal | 7.00% | ~65 |
 | Eden Heights | 6.00% | ~56 |
-| Up Close And Personal | 6.00% | ~56 |
 | Outer Core | 5.00% | ~47 |
 | Inner Core | 4.00% | ~37 |
 | Integration | 3.00% | ~28 |

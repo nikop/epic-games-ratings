@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10498,18 +10498,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21475,
       "NumberOfAwardsMax": 7967
+    },
+    {
+      "Time": "2024-01-06T19:57:17.2184957+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21480,
+      "NumberOfAwardsMax": 7972
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21475,
-  "NumberOfAwardsMax": 7967,
+  "NumberOfAwards": 21480,
+  "NumberOfAwardsMax": 7972,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7967
+      "Count": 7972
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10578,9 +10584,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131932,
+  "EOS_Progressed": 131939,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1137,
+  "EOS_NewPlayers": 1135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38633,6 +38639,11 @@
       "Time": "2024-01-06T19:09:35.3800161+00:00",
       "NumProgressed": 131932,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T20:10:12.3811002+00:00",
+      "NumProgressed": 131939,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38660,7 +38671,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -38796,7 +38807,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -38916,7 +38927,7 @@
       "Name": "It Happens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -38948,7 +38959,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -38956,7 +38967,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -38996,7 +39007,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9235
+      "UsersEstimate": 9236
     },
     {
       "ID": "hero_story_complete_all",
@@ -39020,7 +39031,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "hospital_full_service",
@@ -39036,7 +39047,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -39052,7 +39063,7 @@
       "Name": "FNG",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "inn_visit_all_variants",
@@ -39092,7 +39103,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     },
     {
       "ID": "run_victory_act01",
@@ -39180,7 +39191,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "combat_kill_collector",
@@ -39244,7 +39255,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39275,21 +39286,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131932,
+      "Progressed": 131939,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6801,
+      "Progressed": 6808,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-06T13:57:01.790944+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:09:35.3800159+00:00",
+  "LastChanged": "2024-01-06T19:57:17.2184956+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:10:12.3811+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:57:13.9956213+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:09:35.3802071+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:57:17.218496+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:10:12.3812696+00:00"
 }

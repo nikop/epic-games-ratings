@@ -2,9 +2,9 @@
   "ID": "a8bf762f26ca484cb26164d48821e90f",
   "Name": "BROK the InvestiGator",
   "ProductSlug": "brok-the-investigator-fb0513",
-  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -206,6 +206,11 @@
       "Time": "2024-01-04T15:03:30.3176192+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T20:05:19.1643135+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -215,7 +220,7 @@
       "ID": "ADS",
       "SetID": "bb2dp",
       "Name": "Ads Fan",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -239,7 +244,7 @@
       "ID": "BESTSTUDENT",
       "SetID": "bb2dp",
       "Name": "Best Student",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -247,7 +252,7 @@
       "ID": "CHAPTER1",
       "SetID": "bb2dp",
       "Name": "Chapter 1",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 18
     },
@@ -255,7 +260,7 @@
       "ID": "CHAPTER2",
       "SetID": "bb2dp",
       "Name": "Chapter 2",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -263,7 +268,7 @@
       "ID": "CHAPTER3",
       "SetID": "bb2dp",
       "Name": "Chapter 3",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -271,7 +276,7 @@
       "ID": "CHAPTER4",
       "SetID": "bb2dp",
       "Name": "Chapter 4",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -279,7 +284,7 @@
       "ID": "CHAPTER5",
       "SetID": "bb2dp",
       "Name": "Chapter 5",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -295,7 +300,7 @@
       "ID": "CHIPMUNK",
       "SetID": "bb2dp",
       "Name": "Chipmunk",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -311,7 +316,7 @@
       "ID": "HEALTHCHECKUP",
       "SetID": "bb2dp",
       "Name": "Your Days Are Numbered",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -327,7 +332,7 @@
       "ID": "INTRO",
       "SetID": "bb2dp",
       "Name": "Introduction completed",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 30,
       "UsersEstimate": 30
     },
@@ -335,7 +340,7 @@
       "ID": "LOCKERENDING",
       "SetID": "bb2dp",
       "Name": "Secret Locker",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -343,7 +348,7 @@
       "ID": "MAINENDINGS",
       "SetID": "bb2dp",
       "Name": "Main Endings",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -351,7 +356,7 @@
       "ID": "MATERIALS",
       "SetID": "bb2dp",
       "Name": "All Materials",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -367,7 +372,7 @@
       "ID": "PIANOMUSIC",
       "SetID": "bb2dp",
       "Name": "Paw Music",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -391,7 +396,7 @@
       "ID": "SUMMARYFULL",
       "SetID": "bb2dp",
       "Name": "Summary Filled",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -399,7 +404,7 @@
       "ID": "SWIM",
       "SetID": "bb2dp",
       "Name": "It\u0027s In My Nature",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -415,7 +420,7 @@
       "ID": "TOILETSMAN",
       "SetID": "bb2dp",
       "Name": "Toilets Tormentor",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -431,7 +436,7 @@
       "ID": "WAKEUPHUSH",
       "SetID": "bb2dp",
       "Name": "Hard To Wake Up",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -448,7 +453,7 @@
     {
       "ID": "bb2dp",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
@@ -456,8 +461,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:04:29.0750048+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:05:19.1643132+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.335815+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:36.2645088+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:04:29.0750236+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:00:57.0390591+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:05:19.1643314+00:00"
 }

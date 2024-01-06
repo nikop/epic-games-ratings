@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 951,
+  "Ranking_Rating": 950,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 137,
@@ -1392,9 +1392,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32702,
+  "EOS_Progressed": 32706,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29522,6 +29522,11 @@
       "Time": "2024-01-06T19:09:40.401072+00:00",
       "NumProgressed": 32702,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-06T20:10:19.0930724+00:00",
+      "NumProgressed": 32706,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29629,7 +29634,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "1028",
@@ -29637,7 +29642,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5886
+      "UsersEstimate": 5887
     },
     {
       "ID": "1029",
@@ -29653,7 +29658,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6213
+      "UsersEstimate": 6214
     },
     {
       "ID": "1031",
@@ -29661,7 +29666,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4251
+      "UsersEstimate": 4252
     },
     {
       "ID": "1032",
@@ -29669,7 +29674,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13081
+      "UsersEstimate": 13082
     },
     {
       "ID": "1033",
@@ -29693,7 +29698,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3924
+      "UsersEstimate": 3925
     },
     {
       "ID": "1036",
@@ -29708,15 +29713,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32702,
+      "Progressed": 32706,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-05T16:59:15.5205633+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:09:40.4010715+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:10:19.093072+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7773957+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:39.4740321+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:09:40.4011811+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:01:03.0665563+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:10:19.0945327+00:00"
 }

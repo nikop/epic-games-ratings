@@ -2,7 +2,7 @@
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
-  "Ranking_Rating": 635,
+  "Ranking_Rating": 636,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 354,
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 464,
+  "EOS_Progressed": 467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1750,6 +1750,11 @@
       "Time": "2024-01-06T19:09:45.2198248+00:00",
       "NumProgressed": 464,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T20:10:25.7404446+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1856,9 +1861,9 @@
       "ID": "HellsForge",
       "SetID": "329ak73",
       "Name": "Hell\u0027s Forge",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "Infested",
@@ -2001,15 +2006,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 464,
+      "Progressed": 467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:09:45.2198243+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:10:25.7404442+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.7338435+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:57:10.190758+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:09:45.2198563+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:57:11.4742426+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:10:25.7404715+00:00"
 }

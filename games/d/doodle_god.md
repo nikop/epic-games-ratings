@@ -12,7 +12,7 @@
 | Creator of Humanity | 66.00% | ~182 |
 | Creator of Civilization | 39.00% | ~108 |
 | Creator of Technology | 24.00% | ~66 |
-| Honorable Santa | 22.00% | ~61 |
+| Honorable Santa | 23.00% | ~63 |
 | God of Fun | 18.00% | ~50 |
 | Creator of Modernity | 17.00% | ~47 |
 | Doodle Bar | 17.00% | ~47 |

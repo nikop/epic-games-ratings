@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~374,531 |
-| Now You're Talking | 62.00% | ~331,727 |
-| Steel Yourself | 62.00% | ~331,727 |
-| Window Dressing | 50.00% | ~267,522 |
-| Trigger Happy | 46.00% | ~246,120 |
-| Riverborn | 45.00% | ~240,770 |
-| Starry Eyed | 34.00% | ~181,915 |
-| Poking Around | 34.00% | ~181,915 |
+| First Step | 70.00% | ~374,533 |
+| Now You're Talking | 62.00% | ~331,729 |
+| Steel Yourself | 62.00% | ~331,729 |
+| Window Dressing | 50.00% | ~267,524 |
+| Trigger Happy | 46.00% | ~246,122 |
+| Riverborn | 45.00% | ~240,771 |
+| Starry Eyed | 34.00% | ~181,916 |
+| Poking Around | 34.00% | ~181,916 |
 | Talk of the Town | 24.00% | ~128,411 |
-| AAARR! | 23.00% | ~123,060 |
-| Hello Darkness | 23.00% | ~123,060 |
+| AAARR! | 23.00% | ~123,061 |
+| Hello Darkness | 23.00% | ~123,061 |
 | Wind At Our Backs | 22.00% | ~117,710 |
 | To the Beat | 20.00% | ~107,009 |
-| Sunny Shores | 17.00% | ~90,957 |
-| Sunday Best | 16.00% | ~85,607 |
+| Sunny Shores | 17.00% | ~90,958 |
+| Sunday Best | 16.00% | ~85,608 |
 | To Victory! | 15.00% | ~80,257 |
-| Two of a Kind | 14.00% | ~74,906 |
+| Two of a Kind | 14.00% | ~74,907 |
 | Keep On Trucking | 13.00% | ~69,556 |
-| Going on an Adventure | 12.00% | ~64,205 |
+| Going on an Adventure | 12.00% | ~64,206 |
 | Make Peace, Not War | 11.00% | ~58,855 |
-| Walking The Line | 10.00% | ~53,504 |
-| Not So Cute Anymore | 10.00% | ~53,504 |
+| Walking The Line | 10.00% | ~53,505 |
+| Not So Cute Anymore | 10.00% | ~53,505 |
 | Road Less Travelled | 9.00% | ~48,154 |
 | Lost and Found | 9.00% | ~48,154 |
 | Under the Radar | 8.00% | ~42,804 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,605 |
 | Point Taken | 0.20% | ~1,070 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535,044 (Ranked 37)  
+Progressed: 535,047 (Ranked 37)  
 Completed: 519 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 519 (0.10%) (Ranked 308)
 | 2024-01-03 | 534,766 | 515 |
 | 2024-01-04 | 534,863 | 516 |
 | 2024-01-05 | 534,950 | 517 |
-| 2024-01-06 | 535,044 | 519 |
+| 2024-01-06 | 535,047 | 519 |
 ## Awards
 Max (Relaxing): 21  (Ranked 572)  
 Sum: 21 (Ranked 574)  

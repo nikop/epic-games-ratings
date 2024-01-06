@@ -4,7 +4,7 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -504,9 +504,9 @@
       "ID": "CHAPTER_02_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Last Goodbye",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
@@ -697,8 +697,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:06:00.0577318+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:07:29.2099639+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:25.7585633+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:58:12.1312872+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:06:00.0577557+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:58:46.8723335+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:07:29.2099832+00:00"
 }

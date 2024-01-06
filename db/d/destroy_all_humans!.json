@@ -307,7 +307,7 @@
   ],
   "EOS_Progressed": 358,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.4,
   "EosHistory": [
@@ -1732,9 +1732,9 @@
       "ID": "ACH_ENEMY_KILLROBOPREZ",
       "SetID": "cefn62b",
       "Name": "Higher Than the Futen Zoku",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
@@ -1868,8 +1868,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:08:29.7852076+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:08:39.4074113+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:17.6607164+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:08:29.7852395+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:00:28.577247+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:08:39.4074494+00:00"
 }

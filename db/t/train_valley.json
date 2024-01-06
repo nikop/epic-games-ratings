@@ -2,12 +2,12 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 635,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Rating": 636,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -152,7 +152,7 @@
   "Tags": [],
   "EOS_Progressed": 638,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1960,9 +1960,9 @@
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 179
     },
     {
       "ID": "14_woodcutter",
@@ -2184,8 +2184,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:06:30.1639721+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:08:13.0581051+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.4916275+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:58:50.2815608+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:06:30.1640175+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:59:45.7435824+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:08:13.0581463+00:00"
 }

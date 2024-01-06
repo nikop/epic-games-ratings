@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 951,
+  "Ranking_Rating": 950,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 189,
@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8050,
+  "EOS_Progressed": 8052,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13381,6 +13381,11 @@
       "Time": "2024-01-06T19:08:18.2401735+00:00",
       "NumProgressed": 8050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T20:08:22.9128421+00:00",
+      "NumProgressed": 8052,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13448,7 +13453,7 @@
       "Name": "Scaling up",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -13480,7 +13485,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -13496,7 +13501,7 @@
       "Name": "Goldfish?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -13504,7 +13509,7 @@
       "Name": "Going for Gold",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -13544,7 +13549,7 @@
       "Name": "Marathon",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -13560,7 +13565,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -13711,13 +13716,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8050,
+      "Progressed": 8052,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7422,
+      "Progressed": 7424,
       "Completed": 113
     }
   ],
@@ -13725,8 +13730,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:08:18.2401731+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:08:22.9128416+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:57:35.876645+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:08:18.2402766+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:57:50.672258+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:08:22.9129262+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Lamentum",
   "ProductSlug": "lamentum-962e3e",
   "Ranking_Rating": 891,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -78,11 +78,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 348,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.88,
+  "EOS_Completed_Percentage": 2.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -493,6 +493,11 @@
       "Time": "2024-01-06T15:03:24.452458+00:00",
       "NumProgressed": 347,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T20:04:01.1943706+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 19,
@@ -584,7 +589,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_11",
@@ -592,7 +597,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_12",
@@ -606,9 +611,9 @@
       "ID": "achievement_13",
       "SetID": "7881h0d",
       "Name": "One step down",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_14",
@@ -616,7 +621,7 @@
       "Name": "Lord Clayton",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_15",
@@ -655,7 +660,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 348,
       "Completed": 10
     }
   ],
@@ -663,8 +668,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-12-19T15:00:52.3248594+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:03:37.126331+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:04:01.1943703+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:31.5419716+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:58:22.7012743+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:03:37.1263456+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:59:02.7856547+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:04:01.1943826+00:00"
 }

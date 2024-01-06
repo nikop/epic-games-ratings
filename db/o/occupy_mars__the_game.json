@@ -3,11 +3,11 @@
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
   "Ranking_Rating": 1041,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1846,
+  "EOS_Progressed": 1848,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4877,6 +4877,11 @@
       "Time": "2024-01-05T21:10:13.9072969+00:00",
       "NumProgressed": 1846,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T20:09:52.6385177+00:00",
+      "NumProgressed": 1848,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4960,7 +4965,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -5064,7 +5069,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5104,7 +5109,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5144,7 +5149,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5160,7 +5165,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5248,7 +5253,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5271,7 +5276,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1846,
+      "Progressed": 1848,
       "Completed": 0
     }
   ],
@@ -5279,8 +5284,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:09:21.3727507+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T18:58:37.9319914+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:58:55.9888481+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:09:21.3728154+00:00"
+  "LastChanged_Achievements": "2024-01-06T20:09:52.6385174+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
+  "LastUpdate_Ratings": "2024-01-06T19:59:54.2296089+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:09:52.6385662+00:00"
 }

@@ -1,35 +1,35 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,046)  
+Rating: 4.00 (Ranked 1,044)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,995 |
-| Titan's First Steps | 10.00% | ~14,995 |
-| Basic in Bulk | 9.00% | ~13,496 |
-| Tinkle of Coins | 9.00% | ~13,496 |
-| Disintermediation | 7.00% | ~10,497 |
-| It's Free Real Estate | 7.00% | ~10,497 |
-| Capitalism Ho! | 7.00% | ~10,497 |
-| Another Satisfied Customer | 6.00% | ~8,997 |
-| Budding Merchant | 6.00% | ~8,997 |
-| Own the Means of Production | 6.00% | ~8,997 |
+| Sponsored by Argon | 10.00% | ~14,997 |
+| Titan's First Steps | 10.00% | ~14,997 |
+| Basic in Bulk | 9.00% | ~13,497 |
+| Tinkle of Coins | 9.00% | ~13,497 |
+| Disintermediation | 7.00% | ~10,498 |
+| It's Free Real Estate | 7.00% | ~10,498 |
+| Capitalism Ho! | 7.00% | ~10,498 |
+| Another Satisfied Customer | 6.00% | ~8,998 |
+| Budding Merchant | 6.00% | ~8,998 |
+| Own the Means of Production | 6.00% | ~8,998 |
 | One Easy Payment | 5.00% | ~7,498 |
 | Some Assembly Required | 5.00% | ~7,498 |
 | Pretty Penny | 5.00% | ~7,498 |
 | One-Armed Bandit | 5.00% | ~7,498 |
-| The Daily Grind | 4.00% | ~5,998 |
-| Bounty Hunters | 4.00% | ~5,998 |
-| Demand for Supplies | 4.00% | ~5,998 |
-| Flooding the Market | 4.00% | ~5,998 |
-| Where it Hurts | 4.00% | ~5,998 |
-| Gild-Gotten Goods | 4.00% | ~5,998 |
-| Dungeon Imports | 4.00% | ~5,998 |
-| Through Repetition, Perfection | 4.00% | ~5,998 |
-| Did we pack lunch? | 4.00% | ~5,998 |
-| Arcane Industries | 4.00% | ~5,998 |
+| The Daily Grind | 4.00% | ~5,999 |
+| Bounty Hunters | 4.00% | ~5,999 |
+| Demand for Supplies | 4.00% | ~5,999 |
+| Flooding the Market | 4.00% | ~5,999 |
+| Where it Hurts | 4.00% | ~5,999 |
+| Gild-Gotten Goods | 4.00% | ~5,999 |
+| Dungeon Imports | 4.00% | ~5,999 |
+| Through Repetition, Perfection | 4.00% | ~5,999 |
+| Did we pack lunch? | 4.00% | ~5,999 |
+| Arcane Industries | 4.00% | ~5,999 |
 | On the Path to Greatness | 3.00% | ~4,499 |
 | Ascended | 3.00% | ~4,499 |
 | Tax not Included | 3.00% | ~4,499 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~600 |
 | Capitalist Camaraderie | 0.20% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,954 (Ranked 86)  
+Progressed: 149,967 (Ranked 86)  
 Completed: 344 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 344 (0.23%) (Ranked 269)
 | 2024-01-03 | 149,238 | 342 |
 | 2024-01-04 | 149,471 | 342 |
 | 2024-01-05 | 149,755 | 342 |
-| 2024-01-06 | 149,954 | 344 |
+| 2024-01-06 | 149,967 | 344 |
 ## Awards
 Max (Great for Beginners): 4,945  (Ranked 78)  
 Sum: 27,942 (Ranked 52)  
@@ -738,3 +738,4 @@ Diff (max vs sum): 26
 | 2024-01-03 | 3.99 | - | 4,940 | 27,918 |
 | 2024-01-04 | 3.99 | - | 4,940 | 27,924 |
 | 2024-01-05 | 3.99 | - | 4,945 | 27,942 |
+| 2024-01-06 | 4.00 | - | 4,945 | 27,942 |

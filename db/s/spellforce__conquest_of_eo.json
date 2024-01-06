@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -614,6 +614,11 @@
       "Time": "2024-01-06T17:09:47.4704094+00:00",
       "NumProgressed": 121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T20:10:00.477665+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -626,13 +631,13 @@
       "Name": "Get to the Airship!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
       "UsersEstimate": 71
     },
@@ -642,7 +647,7 @@
       "Name": "Enough rooms to swing a cat",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -658,13 +663,13 @@
       "Name": "Home Sweet Home",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
       "UsersEstimate": 88
     },
@@ -696,9 +701,9 @@
       "ID": "Craft_First_Undead",
       "SetID": "7b9f97e",
       "Name": "Necromancer\u0027s Apprentice",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "Defeat_Gor",
@@ -714,7 +719,7 @@
       "Name": "Defeat Hokan",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Defeat_Ianna",
@@ -738,7 +743,7 @@
       "Name": "Defeat Raith",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Defeat_Rohen",
@@ -776,15 +781,15 @@
       "ID": "Enslave_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Slave to the rhythm",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "First_LevelUp",
       "SetID": "7b9f97e",
       "Name": "First to the post",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 15,
       "UsersEstimate": 98
     },
@@ -792,7 +797,7 @@
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
       "UsersEstimate": 77
     },
@@ -818,7 +823,7 @@
       "Name": "Lore\u0027s Tale",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "HeroStory_Lytra",
@@ -832,9 +837,9 @@
       "ID": "HeroStory_Philo",
       "SetID": "7b9f97e",
       "Name": "Philo\u0027s Tale",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "HeroStory_Yngrid",
@@ -848,9 +853,9 @@
       "ID": "Landmark_CastleMeldec",
       "SetID": "7b9f97e",
       "Name": "Castle Meldec",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "Landmark_CryptRevenant",
@@ -858,7 +863,7 @@
       "Name": "Crypt of the Revenant",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Landmark_MistyCoastBones",
@@ -874,7 +879,7 @@
       "Name": "The Forge of Regan Gor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Landmark_SilverDriftMine",
@@ -914,7 +919,7 @@
       "Name": "Fireforge",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MainCampaign_Alchemist",
@@ -930,7 +935,7 @@
       "Name": "Master Artificer",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MainCampaign_CirclePage_All_Antagonists",
@@ -946,7 +951,7 @@
       "Name": "A Monopoly of Might",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MainCampaign_CirclePage_Apprentices",
@@ -962,15 +967,15 @@
       "Name": "Heroes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MainCampaign_CirclePage_Might",
       "SetID": "7b9f97e",
       "Name": "A Master of Magic",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "MainCampaign_CirclePage_Reputation",
@@ -994,7 +999,7 @@
       "Name": "Balanced",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MainCampaign_Necromancer",
@@ -1016,9 +1021,9 @@
       "ID": "Max_Reputation_Alluvyan",
       "SetID": "7b9f97e",
       "Name": "Friend of Alluvyan",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "Max_Reputation_Coldmark",
@@ -1026,7 +1031,7 @@
       "Name": "Friend of Grey Dusk Vale",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Max_Reputation_Gillyshire",
@@ -1040,9 +1045,9 @@
       "ID": "Max_Reputation_Goldenfields",
       "SetID": "7b9f97e",
       "Name": "Friend of Lyraine",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 43
     },
     {
       "ID": "Max_Reputation_MistyCoast",
@@ -1074,7 +1079,7 @@
       "Name": "Friend of Connach",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Max_Reputation_UramGor",
@@ -1104,9 +1109,9 @@
       "ID": "Max_Tower_And_Apprentices",
       "SetID": "7b9f97e",
       "Name": "Magic Academy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "Mine_First_Ore",
@@ -1168,24 +1173,24 @@
       "ID": "Tower_Fly",
       "SetID": "7b9f97e",
       "Name": "Fly the friendly Sky",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 52
     },
     {
       "ID": "Zombify_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Bad JuJu",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 0
     }
   ],
@@ -1193,8 +1198,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:09:26.9122779+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:10:00.4776647+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:02:51.0989335+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:09:26.9123465+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:02:49.4581502+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:10:00.4777197+00:00"
 }

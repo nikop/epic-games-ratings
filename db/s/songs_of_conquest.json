@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1023,
+  "EOS_Progressed": 1025,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3610,6 +3610,11 @@
       "Time": "2024-01-06T18:09:19.0380933+00:00",
       "NumProgressed": 1023,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T20:09:27.5306878+00:00",
+      "NumProgressed": 1025,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3646,7 +3651,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "AttackCount",
@@ -3726,7 +3731,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Deepstrike",
@@ -3766,7 +3771,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3862,7 +3867,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "RanaCampaign",
@@ -3886,7 +3891,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -3950,7 +3955,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "WielderLevel2",
@@ -3958,15 +3963,15 @@
       "Name": "Veteran",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 82
     },
     {
       "ID": "WielderLevel4",
@@ -4053,15 +4058,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1023,
+      "Progressed": 1025,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:09:03.3156077+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:09:27.5306876+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:09.9310945+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:09:03.3156775+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:00:15.840215+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:09:27.5307334+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
   "Ranking_Rating": 805,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 966,
+  "EOS_Progressed": 967,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3437,6 +3437,11 @@
       "Time": "2024-01-06T18:04:55.0701188+00:00",
       "NumProgressed": 966,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T20:05:51.0616374+00:00",
+      "NumProgressed": 967,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3448,7 +3453,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "cool-shirts",
@@ -3496,7 +3501,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "kill-lieutenants",
@@ -3510,9 +3515,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 658
     },
     {
       "ID": "play-at-night",
@@ -3568,7 +3573,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "unlock-residences",
@@ -3584,7 +3589,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "use-submarine",
@@ -3599,15 +3604,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 966,
+      "Progressed": 967,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:04:51.6373595+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:05:51.061637+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:02:59.3739381+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:04:51.6373852+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:03:02.6459702+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:05:51.0616685+00:00"
 }

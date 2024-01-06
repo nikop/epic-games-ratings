@@ -1,22 +1,22 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.28 (Ranked 1,094)  
+Rating: 3.28 (Ranked 1,095)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 28.00% | ~611 |
+| It's Good to have Allies | 28.00% | ~612 |
 | Defenses Online | 25.00% | ~546 |
-| Facility Online | 21.00% | ~458 |
-| Corporal | 15.00% | ~327 |
+| Facility Online | 21.00% | ~459 |
+| Corporal | 15.00% | ~328 |
 | Sergeant | 12.00% | ~262 |
 | Covert Operative | 12.00% | ~262 |
 | Lieutenant | 10.00% | ~218 |
 | Getting Deployment | 10.00% | ~218 |
 | Stocking Up | 10.00% | ~218 |
 | On Target | 10.00% | ~218 |
-| Keeping Busy | 9.00% | ~196 |
-| Infantry Reporting | 9.00% | ~196 |
+| Keeping Busy | 9.00% | ~197 |
+| Infantry Reporting | 9.00% | ~197 |
 | Fighting for Survival | 8.00% | ~175 |
 | Silver Competitor | 8.00% | ~175 |
 | Captain | 8.00% | ~175 |
@@ -30,10 +30,10 @@ Rating: 3.28 (Ranked 1,094)
 | Major | 5.00% | ~109 |
 | Gold Achiever | 4.00% | ~87 |
 | Resourceful | 4.00% | ~87 |
-| Advanced Warfare | 3.00% | ~65 |
-| Colonel | 3.00% | ~65 |
-| Battle Ready | 3.00% | ~65 |
-| Control the Skies | 3.00% | ~65 |
+| Advanced Warfare | 3.00% | ~66 |
+| Colonel | 3.00% | ~66 |
+| Battle Ready | 3.00% | ~66 |
+| Control the Skies | 3.00% | ~66 |
 | General | 2.00% | ~44 |
 | Seek & Destroy | 2.00% | ~44 |
 | Advanced Interceptors | 1.00% | ~22 |
@@ -44,7 +44,7 @@ Rating: 3.28 (Ranked 1,094)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,183 (Ranked 243)  
+Progressed: 2,184 (Ranked 243)  
 Completed: 1 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 1 (0.05%) (Ranked 336)
 | 2024-01-03 | 2,166 | 1 |
 | 2024-01-04 | 2,173 | 1 |
 | 2024-01-05 | 2,179 | 1 |
-| 2024-01-06 | 2,183 | 1 |
+| 2024-01-06 | 2,184 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

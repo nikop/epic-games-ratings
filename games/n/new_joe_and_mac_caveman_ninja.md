@@ -8,20 +8,20 @@
 | Crazy Jungle. | 32.00% | ~94 |
 | A turbulent river. | 18.00% | ~53 |
 | In the treetops. | 17.00% | ~50 |
-| At the top of the mountain. | 16.00% | ~47 |
+| At the top of the mountain. | 17.00% | ~50 |
 | Aggressive rocks. | 15.00% | ~44 |
 | Dino Ride. | 14.00% | ~41 |
 | Rocky fall. | 11.00% | ~32 |
 | In the heart of the volcano. | 10.00% | ~29 |
 | Dinosaur graveyard. | 10.00% | ~29 |
+| The entrails of the beast. | 9.00% | ~26 |
 | Swimming on a dino's back. | 8.00% | ~24 |
-| The entrails of the beast. | 8.00% | ~24 |
 | The mountain of peril. | 6.00% | ~18 |
 | Passing the carcass. | 5.00% | ~15 |
 | Lightning swamp. | 5.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 294 (Ranked 395)  
-Completed: 7 (2.38%) (Ranked 130)  
+Completed: 7 (2.38%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

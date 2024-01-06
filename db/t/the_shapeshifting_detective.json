@@ -2,9 +2,9 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -820,6 +820,11 @@
       "Time": "2024-01-05T22:06:54.0660457+00:00",
       "NumProgressed": 319,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T20:03:53.7425788+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -831,7 +836,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "book_em_danny",
@@ -917,9 +922,9 @@
       "ID": "play_it_again_sam",
       "SetID": "2db2j74",
       "Name": "Play It Again Sam",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 288
     },
     {
       "ID": "play_me_by_the_hour",
@@ -927,7 +932,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "poetent",
@@ -959,7 +964,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "the_big_sleep",
@@ -975,7 +980,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "voyeur",
@@ -991,14 +996,14 @@
       "Name": "You Had One Job",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 3
     }
   ],
@@ -1006,8 +1011,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:03:32.0938586+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:03:53.7425784+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.4282289+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:03:10.18048+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:03:32.0939001+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:03:18.5224499+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:03:53.7426126+00:00"
 }

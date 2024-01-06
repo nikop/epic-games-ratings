@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 90.00% | ~153 |
+| Last Goodbye | 91.00% | ~155 |
 | The Routine | 79.00% | ~134 |
 | Mother | 78.00% | ~133 |
 | Failure | 75.00% | ~128 |

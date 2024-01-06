@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -779,6 +779,11 @@
       "Time": "2024-01-05T22:10:21.2042244+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T20:10:22.5425532+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -806,7 +811,7 @@
       "Name": "The first treasure",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "digTreasure10",
@@ -830,7 +835,7 @@
       "Name": "Demoman",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "explodeItem100",
@@ -854,7 +859,7 @@
       "Name": "A sharp eye",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "getPoisoned",
@@ -876,17 +881,17 @@
       "ID": "interactChest10",
       "SetID": "ci65fo0",
       "Name": "Chests lover",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 106
     },
     {
       "ID": "killBoxes50",
       "SetID": "ci65fo0",
       "Name": "Loot collector",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 120
     },
     {
       "ID": "killElk50",
@@ -918,7 +923,7 @@
       "Name": "The First Golden Skeleton",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "killGoldSkeleton10",
@@ -926,23 +931,23 @@
       "Name": "Skeletons Fighter",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "killGolem1",
       "SetID": "ci65fo0",
       "Name": "The First Golem",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 120
     },
     {
       "ID": "killGolem10",
       "SetID": "ci65fo0",
       "Name": "Golems Fighter",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "killGrave10",
@@ -974,7 +979,7 @@
       "Name": "Nature\u0027s enemy",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "killSWBoss",
@@ -996,9 +1001,9 @@
       "ID": "killStone50",
       "SetID": "ci65fo0",
       "Name": "Stone Crusher",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 116
     },
     {
       "ID": "killStone500",
@@ -1012,9 +1017,9 @@
       "ID": "killTree100",
       "SetID": "ci65fo0",
       "Name": "Tree Hater",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 107
     },
     {
       "ID": "killTree50",
@@ -1038,7 +1043,7 @@
       "Name": "Threat to the undead",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "locBanditBoss",
@@ -1046,7 +1051,7 @@
       "Name": "The Reds camp",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "locCompDungeon10",
@@ -1068,9 +1073,9 @@
       "ID": "locDungeon1",
       "SetID": "ci65fo0",
       "Name": "The first dungeon",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 99
     },
     {
       "ID": "locDungeon2",
@@ -1086,7 +1091,7 @@
       "Name": "Goblins camp",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "locGraveyard",
@@ -1094,15 +1099,15 @@
       "Name": "Graveyard",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "locSmith",
       "SetID": "ci65fo0",
       "Name": "The second friend",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 99
     },
     {
       "ID": "locWorker",
@@ -1110,15 +1115,15 @@
       "Name": "The first friend",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "questAntiquities",
       "SetID": "ci65fo0",
       "Name": "Antiquities expert",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "questBadNews",
@@ -1126,7 +1131,7 @@
       "Name": "Bad news",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "questBountyHunter",
@@ -1148,9 +1153,9 @@
       "ID": "questBuilder",
       "SetID": "ci65fo0",
       "Name": "Builder",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 92
     },
     {
       "ID": "questCemetery",
@@ -1180,9 +1185,9 @@
       "ID": "questCompTutorial",
       "SetID": "ci65fo0",
       "Name": "Survivor",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 155
     },
     {
       "ID": "questDeadArtifact",
@@ -1206,7 +1211,7 @@
       "Name": "Defender",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "questDetective",
@@ -1230,7 +1235,7 @@
       "Name": "Generous",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "questHallucinationsKing",
@@ -1252,9 +1257,9 @@
       "ID": "questKillSwampMonster",
       "SetID": "ci65fo0",
       "Name": "Threat of the swamps",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "questNorthGraveyard",
@@ -1268,9 +1273,9 @@
       "ID": "questPumpkinKing",
       "SetID": "ci65fo0",
       "Name": "Pumpkin King",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "questReachLord",
@@ -1381,20 +1386,20 @@
     {
       "ID": "2fb6h6c",
       "IsBase": false,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     },
     {
       "ID": "ci65fo0",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:09:42.92138+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:10:22.5425529+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:15.9010052+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:00:11.9318882+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:09:42.9214628+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:01:52.2889972+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:10:22.5426298+00:00"
 }

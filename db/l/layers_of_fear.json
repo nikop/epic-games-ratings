@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1279,6 +1279,11 @@
       "Time": "2024-01-06T05:08:58.7900618+00:00",
       "NumProgressed": 284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T20:08:54.5674652+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1299,7 +1304,7 @@
       "Name": "Another perspective",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "assemble_puzzles",
@@ -1371,13 +1376,13 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "decrypt_one_myth",
       "SetID": "f2im8d",
       "Name": "You Can\u2019t Handle the Truth",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -1393,9 +1398,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "do_what_you_have_to",
@@ -1403,7 +1408,7 @@
       "Name": "Do what you have to",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "earn_all_trophies",
@@ -1417,17 +1422,17 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "find_most_of_family_mementos",
       "SetID": "f2im8d",
       "Name": "Immortalized in my heart",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "find_most_of_rat_sketches",
@@ -1443,7 +1448,7 @@
       "Name": "Scraps of love",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "find_one_photo",
@@ -1467,7 +1472,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "finished_it",
@@ -1475,7 +1480,7 @@
       "Name": "Finished it",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "first_step",
@@ -1537,9 +1542,9 @@
       "ID": "lights_camera_action",
       "SetID": "f2im8d",
       "Name": "Lights! Camera! Action!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "once_upon_a_time",
@@ -1561,9 +1566,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 183
     },
     {
       "ID": "playtime",
@@ -1571,7 +1576,7 @@
       "Name": "Playtime",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "preferred_parent",
@@ -1601,7 +1606,7 @@
       "ID": "secret_ending",
       "SetID": "f2im8d",
       "Name": "The Tree and the Apple",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1619,7 +1624,7 @@
       "Name": "Sign of weakness",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "something_important",
@@ -1627,7 +1632,7 @@
       "Name": "Something important",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 246
     },
     {
       "ID": "spy_one_item",
@@ -1657,9 +1662,9 @@
       "ID": "the_tragedy_unfolds",
       "SetID": "f2im8d",
       "Name": "The tragedy unfolds",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "tough_conversation",
@@ -1667,7 +1672,7 @@
       "Name": "Tough conversation",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "true_reflection",
@@ -1689,9 +1694,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 152
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1699,21 +1704,21 @@
       "Name": "Whispers long forgotten",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 286,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:08:40.2596722+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:08:54.5674649+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:56.7490244+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:08:40.2597221+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:01:28.7931353+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:08:54.5675427+00:00"
 }

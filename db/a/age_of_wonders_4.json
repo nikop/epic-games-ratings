@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -723,9 +723,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6970,
+  "EOS_Progressed": 6973,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10573,6 +10573,11 @@
       "Time": "2024-01-06T19:04:23.4972746+00:00",
       "NumProgressed": 6970,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T20:05:11.0984246+00:00",
+      "NumProgressed": 6973,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10702,9 +10707,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 906
     },
     {
       "ID": "24",
@@ -10720,7 +10725,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "26",
@@ -10728,7 +10733,7 @@
       "Name": "Bone Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "27",
@@ -10846,9 +10851,9 @@
       "ID": "4",
       "SetID": "3aa2279",
       "Name": "The Eternal Court",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 139
     },
     {
       "ID": "40",
@@ -11048,7 +11053,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "60",
@@ -11063,13 +11068,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6970,
+      "Progressed": 6973,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6970,
+      "Progressed": 6973,
       "Completed": 7
     }
   ],
@@ -11077,8 +11082,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:04:23.4972741+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:05:11.0984242+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:02:51.3385653+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:04:23.4973708+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:02:49.8431693+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:05:11.0984981+00:00"
 }

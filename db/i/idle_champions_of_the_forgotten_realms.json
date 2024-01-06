@@ -9367,9 +9367,9 @@
       "Count": 3628
     }
   ],
-  "EOS_Progressed": 252063,
+  "EOS_Progressed": 252085,
   "EOS_Completed": 2599,
-  "EOS_NewPlayers": 4288,
+  "EOS_NewPlayers": 4269,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38967,6 +38967,11 @@
       "Time": "2024-01-06T19:10:04.5767622+00:00",
       "NumProgressed": 252063,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-06T20:10:50.788739+00:00",
+      "NumProgressed": 252085,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 546,
@@ -39842,7 +39847,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "objective_completed_1203",
@@ -40200,9 +40205,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 756
     },
     {
       "ID": "objective_completed_17",
@@ -40650,7 +40655,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "objective_completed_34",
@@ -40770,7 +40775,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "objective_completed_390",
@@ -40842,7 +40847,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "objective_completed_40",
@@ -41114,7 +41119,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "objective_completed_54",
@@ -42194,7 +42199,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "objective_completed_80",
@@ -43345,21 +43350,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218337,
-      "Completed": 4139
+      "Progressed": 218359,
+      "Completed": 4140
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252063,
+      "Progressed": 252085,
       "Completed": 2599
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-06T14:59:42.0909962+00:00",
-  "LastChanged_Achievements": "2024-01-06T19:10:04.5767618+00:00",
+  "LastChanged_Achievements": "2024-01-06T20:10:50.7887384+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:59:54.3151565+00:00",
-  "LastUpdate_Achievements": "2024-01-06T19:10:04.5791189+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:01:26.2722007+00:00",
+  "LastUpdate_Achievements": "2024-01-06T20:10:50.7928735+00:00"
 }
