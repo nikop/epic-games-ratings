@@ -572,6 +572,7 @@
 | [House Flipper](../games/h/house_flipper.md) | 23 | 1,000 |
 | [Iron Danger](../games/i/iron_danger.md) | 23 | 1,000 |
 | [Lost Eidolons](../games/l/lost_eidolons.md) | 23 | 1,000 |
+| [Love n War: Hero by Chance II Ultimate Edition](../games/c/cec0399345494e7cbd993bc660d95980.md) | 23 | 1,000 |
 | [MythForce](../games/m/mythforce.md) | 23 | 1,000 |
 | [Sunlight Scream](../games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 23 | 1,000 |
 | [The Galactic Junkers](../games/t/the_galactic_junkers.md) | 23 | 1,000 |
