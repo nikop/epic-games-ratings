@@ -2,7 +2,7 @@
   "ID": "7f0be7eaee1f40039da74dd9591ed049",
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
-  "Ranking_EOS_Progress": 529,
+  "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 112,
@@ -318,9 +318,9 @@
       "ID": "15_RACES",
       "SetID": "2g288ag",
       "Name": "Turbocharged Odyssey",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "1_RACE",
@@ -414,9 +414,9 @@
       "ID": "WIN_AGAINST_BOT",
       "SetID": "2g288ag",
       "Name": "Unbeatable Challenge",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -428,8 +428,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:05:39.243723+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:07:20.6914821+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:58.0575536+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:00:04.8517212+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:05:39.243731+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:01:53.6086576+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:07:20.6914911+00:00"
 }

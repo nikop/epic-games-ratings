@@ -7,23 +7,23 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 70.00% | ~31,060 |
-| Say goodbye, creep! | 66.00% | ~29,285 |
-| Blood splattered | 66.00% | ~29,285 |
+| Say goodbye, creep! | 66.00% | ~29,286 |
+| Blood splattered | 66.00% | ~29,286 |
 | Choo choo! | 63.00% | ~27,954 |
-| Groovy | 62.00% | ~27,510 |
-| Cleanup on aisle 4! | 57.00% | ~25,291 |
-| Gold | 51.00% | ~22,629 |
+| Groovy | 62.00% | ~27,511 |
+| Cleanup on aisle 4! | 57.00% | ~25,292 |
+| Gold | 51.00% | ~22,630 |
 | The boat can leave now...tell the crew | 49.00% | ~21,742 |
-| Give me something to shoot! | 47.00% | ~20,854 |
-| Stand back boy! | 47.00% | ~20,854 |
+| Give me something to shoot! | 47.00% | ~20,855 |
+| Stand back boy! | 47.00% | ~20,855 |
 | Chain reaction | 45.00% | ~19,967 |
-| Weird science | 44.00% | ~19,523 |
+| Weird science | 44.00% | ~19,524 |
 | Look mummy! A shark! | 42.00% | ~18,636 |
 | What did you say, Blain? | 42.00% | ~18,636 |
 | In the dark dark woods... | 39.00% | ~17,305 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,861 |
-| Double tap | 37.00% | ~16,417 |
-| Cranial blowout! | 37.00% | ~16,417 |
+| Double tap | 37.00% | ~16,418 |
+| Cranial blowout! | 37.00% | ~16,418 |
 | All of this has happened before… | 36.00% | ~15,974 |
 | Zombie killin' machine | 36.00% | ~15,974 |
 | Every bullet counts | 36.00% | ~15,974 |
@@ -36,9 +36,9 @@ Number of Ratings: 743  (23.09.2022)
 | Is it over? | 28.00% | ~12,424 |
 | Got your back | 27.00% | ~11,980 |
 | Gore soaked | 24.00% | ~10,649 |
-| Shock therapy | 23.00% | ~10,205 |
-| Leave the limbs you've lost | 23.00% | ~10,205 |
-| Everyone's a mad scientist, life is the lab | 19.00% | ~8,430 |
+| Shock therapy | 23.00% | ~10,206 |
+| Leave the limbs you've lost | 23.00% | ~10,206 |
+| Everyone's a mad scientist, life is the lab | 19.00% | ~8,431 |
 | Take them down screaming | 18.00% | ~7,987 |
 | Bad Blood | 17.00% | ~7,543 |
 | Weapons expert | 17.00% | ~7,543 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~444 |
 | None more hard | 0.60% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,371 (Ranked 129)  
+Progressed: 44,372 (Ranked 129)  
 Completed: 25 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 25 (0.06%) (Ranked 330)
 | 2024-01-03 | 44,330 | 25 |
 | 2024-01-04 | 44,342 | 25 |
 | 2024-01-05 | 44,362 | 25 |
-| 2024-01-06 | 44,371 | 25 |
+| 2024-01-06 | 44,372 | 25 |
 ## Awards
 Max (Great Boss Battles): 872  (Ranked 175)  
 Sum: 2,632 (Ranked 198)  

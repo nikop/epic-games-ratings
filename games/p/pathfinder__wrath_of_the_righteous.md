@@ -6,25 +6,25 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,534 |
+| Devoured by Darkness | 27.00% | ~3,535 |
 | Burning City | 19.00% | ~2,487 |
 | A Spark | 19.00% | ~2,487 |
-| Defender's Heart | 16.00% | ~2,094 |
-| Mythic Choices | 15.00% | ~1,963 |
-| Banner over the Citadel | 14.00% | ~1,832 |
+| Defender's Heart | 16.00% | ~2,095 |
+| Mythic Choices | 15.00% | ~1,964 |
+| Banner over the Citadel | 14.00% | ~1,833 |
 | Queen's Gratitude | 13.00% | ~1,702 |
 | Fifth Crusade | 9.00% | ~1,178 |
 | Embrace of the Abyss | 7.00% | ~916 |
 | Path of the Angel | 7.00% | ~916 |
 | Demonic and Divine | 7.00% | ~916 |
-| Great Upstart | 6.00% | ~785 |
-| All Paths Open | 6.00% | ~785 |
-| Path of the Azata | 5.00% | ~654 |
-| Transformation | 5.00% | ~654 |
-| The Legacy | 5.00% | ~654 |
-| Voice from Your Dreams | 5.00% | ~654 |
-| Next-Door Play | 5.00% | ~654 |
-| Get the Toad | 5.00% | ~654 |
+| Great Upstart | 6.00% | ~786 |
+| All Paths Open | 6.00% | ~786 |
+| Path of the Azata | 5.00% | ~655 |
+| Transformation | 5.00% | ~655 |
+| The Legacy | 5.00% | ~655 |
+| Voice from Your Dreams | 5.00% | ~655 |
+| Next-Door Play | 5.00% | ~655 |
+| Get the Toad | 5.00% | ~655 |
 | Heart of the Fallen Land | 4.00% | ~524 |
 | Divide and Rule | 4.00% | ~524 |
 | Mythic Reinforcements | 4.00% | ~524 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,089 (Ranked 176)  
+Progressed: 13,092 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,10 +384,10 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 13,006 | 0 |
 | 2024-01-04 | 13,029 | 0 |
 | 2024-01-05 | 13,058 | 0 |
-| 2024-01-06 | 13,089 | 0 |
+| 2024-01-06 | 13,092 | 0 |
 ## Awards
 Max (Character Customization): 1,778  (Ranked 129)  
-Sum: 7,201 (Ranked 126)  
+Sum: 7,202 (Ranked 126)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -395,7 +395,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 664 |
 | This game has Diverse Characters | 659 |
 | This game is Highly Recommended | 656 |
-| This game has Amazing Characters | 652 |
+| This game has Amazing Characters | 653 |
 | This game has Amazing Storytelling | 633 |
 | This game has Challenging Combat | 600 |
 | This game has Quickly Understood Controls | 587 |
@@ -716,4 +716,4 @@ Diff (max vs sum): 3
 | 2024-01-02 | 4.76 | - | 1,776 | 7,186 |
 | 2024-01-04 | 4.76 | - | 1,777 | 7,190 |
 | 2024-01-05 | 4.76 | - | 1,777 | 7,194 |
-| 2024-01-06 | 4.76 | - | 1,778 | 7,201 |
+| 2024-01-06 | 4.76 | - | 1,778 | 7,202 |

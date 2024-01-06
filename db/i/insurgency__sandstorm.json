@@ -2,13 +2,13 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 397,
+  "Ranking_Rating": 398,
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4646,10 +4646,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3335,
       "NumberOfAwardsMax": 415
+    },
+    {
+      "Time": "2024-01-06T22:02:06.0434385+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3336,
+      "NumberOfAwardsMax": 415
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3335,
+  "NumberOfAwards": 3336,
   "NumberOfAwardsMax": 415,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4699,7 +4705,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 387
+      "Count": 388
     },
     {
       "Text": "This game has a Competitive Community",
@@ -4720,9 +4726,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 520775,
+  "EOS_Progressed": 520805,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5482,
+  "EOS_NewPlayers": 5450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34770,6 +34776,11 @@
       "Time": "2024-01-06T21:03:54.3330101+00:00",
       "NumProgressed": 520775,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T22:04:55.7374443+00:00",
+      "NumProgressed": 520805,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -34837,7 +34848,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20831
+      "UsersEstimate": 20832
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -34885,7 +34896,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20831
+      "UsersEstimate": 20832
     },
     {
       "ID": "ACH_JR_50",
@@ -34909,7 +34920,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15623
+      "UsersEstimate": 15624
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -34949,7 +34960,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26039
+      "UsersEstimate": 26040
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -35005,7 +35016,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "ACH_STYLING",
@@ -35013,7 +35024,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15623
+      "UsersEstimate": 15624
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -35037,7 +35048,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15623
+      "UsersEstimate": 15624
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -35045,7 +35056,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26039
+      "UsersEstimate": 26040
     },
     {
       "ID": "ACH_WET_FEET",
@@ -35053,22 +35064,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20831
+      "UsersEstimate": 20832
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 520775,
+      "Progressed": 520805,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2024-01-06T11:02:38.8653922+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:03:54.3330099+00:00",
+  "LastChanged": "2024-01-06T22:02:06.0434383+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:04:55.7374441+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.66739+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:00:14.6888005+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:03:54.33318+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:02:06.0434389+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:04:55.7375641+00:00"
 }

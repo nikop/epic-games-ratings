@@ -2,13 +2,13 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
-  "Ranking_Rating": 506,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-21T13:00:00+00:00",
     "PcReleaseDate": "2021-09-21T13:00:00+00:00",
@@ -12290,10 +12290,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 31839,
       "NumberOfAwardsMax": 5337
+    },
+    {
+      "Time": "2024-01-06T21:58:47.374144+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 31849,
+      "NumberOfAwardsMax": 5337
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31839,
+  "NumberOfAwards": 31849,
   "NumberOfAwardsMax": 5337,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12337,7 +12343,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3530
+      "Count": 3532
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12349,7 +12355,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3519
+      "Count": 3527
     }
   ],
   "EOS_Progressed": 0,
@@ -12371,9 +12377,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2024-01-06T19:58:09.7287728+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:04:23.3603777+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T20:57:20.6835427+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:57:56.0517056+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:04:23.3603818+00:00"
+  "LastChanged": "2024-01-06T21:58:47.3741436+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:05:35.1831225+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T21:57:24.714089+00:00",
+  "LastUpdate_Ratings": "2024-01-06T21:58:47.3741445+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:05:35.1831241+00:00"
 }

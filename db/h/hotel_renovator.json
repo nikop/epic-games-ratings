@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -275,7 +275,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1412,
+  "EOS_Progressed": 1413,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -3470,6 +3470,11 @@
       "Time": "2024-01-06T21:08:50.0771105+00:00",
       "NumProgressed": 1412,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-06T22:09:31.0454+00:00",
+      "NumProgressed": 1413,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3505,7 +3510,7 @@
       "Name": "Roll with it",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -3561,15 +3566,15 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
       "SetID": "7k95e4n",
       "Name": "Memento",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 833
+      "UsersEstimate": 848
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3577,7 +3582,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -3633,7 +3638,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ACH_STAR_2",
@@ -3649,7 +3654,7 @@
       "Name": "Still more work ahead",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_STAR_4",
@@ -3689,14 +3694,14 @@
       "Name": "I think you dropped this",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1412,
+      "Progressed": 1413,
       "Completed": 18
     }
   ],
@@ -3704,8 +3709,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-04T23:57:57.0756237+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:08:50.0771103+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T20:57:25.8678636+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:58:33.8961099+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:08:50.0771478+00:00"
+  "LastChanged_Achievements": "2024-01-06T22:09:31.0453997+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T21:57:29.8455072+00:00",
+  "LastUpdate_Ratings": "2024-01-06T21:59:39.8251628+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:09:31.0454352+00:00"
 }

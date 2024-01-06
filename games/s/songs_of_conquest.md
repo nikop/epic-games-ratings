@@ -22,13 +22,13 @@ Number of Ratings: 292  (23.09.2022)
 | The Song of Stoutheart | 5.00% | ~51 |
 | Trojan Horse | 4.00% | ~41 |
 | Expert Essence Employment | 3.00% | ~31 |
+| Venisti, Vidisti, Perdidisti | 3.00% | ~31 |
 | This Spot's Taken | 2.00% | ~21 |
 | Deepstrike | 2.00% | ~21 |
 | Infernal Influence | 2.00% | ~21 |
 | From the Ashes | 2.00% | ~21 |
 | Ultra Kill | 2.00% | ~21 |
 | Pyrrhic Victory | 2.00% | ~21 |
-| Venisti, Vidisti, Perdidisti | 2.00% | ~21 |
 | Versatile Wielder | 1.00% | ~10 |
 | In The Thick of It | 1.00% | ~10 |
 | Together For Her | 1.00% | ~10 |

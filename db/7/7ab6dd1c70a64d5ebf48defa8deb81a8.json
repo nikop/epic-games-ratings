@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1931,
+  "EOS_Progressed": 1932,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3737,6 +3737,11 @@
       "Time": "2024-01-06T21:10:02.6485862+00:00",
       "NumProgressed": 1931,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T22:11:09.1790966+00:00",
+      "NumProgressed": 1932,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3748,15 +3753,15 @@
       "Name": "Break Out",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_03",
@@ -3780,7 +3785,7 @@
       "Name": "To Battle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_06",
@@ -3820,7 +3825,7 @@
       "Name": "Trinity",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_11",
@@ -4004,7 +4009,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_35",
@@ -4035,7 +4040,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1931,
+      "Progressed": 1932,
       "Completed": 3
     }
   ],
@@ -4043,8 +4048,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-04T23:57:43.6326187+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:10:02.648586+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:11:09.1790964+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:58:25.3632052+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:10:02.6486288+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:59:27.7456889+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:11:09.1791409+00:00"
 }

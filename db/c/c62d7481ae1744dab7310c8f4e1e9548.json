@@ -1032,9 +1032,9 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "Destilat",
@@ -1088,9 +1088,9 @@
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "KrabiPyramida",
@@ -1120,9 +1120,9 @@
       "ID": "MluviciPapouch",
       "SetID": "ag48e8e",
       "Name": "Mimicking Parrot",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "Myska",
@@ -1271,8 +1271,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:06:31.4732445+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:08:30.1880097+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:03:10.844479+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:06:31.473265+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:03:54.5545814+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:08:30.188037+00:00"
 }

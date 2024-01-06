@@ -2,10 +2,10 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 482,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2023-09-12T13:07:07.5986891+00:00",
@@ -574,6 +574,11 @@
       "Time": "2024-01-04T23:09:56.7880323+00:00",
       "NumProgressed": 112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T22:11:02.2877276+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -594,7 +599,7 @@
       "Name": "Christ the Saviour",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "cold_feet",
@@ -602,7 +607,7 @@
       "Name": "Cold Feet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "cultipedia",
@@ -640,25 +645,25 @@
       "ID": "join_the_legal_team",
       "SetID": "7i36ba9",
       "Name": "Join the Legal Team",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "josh_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Josh the Saviour",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "lessons_never_learnt",
@@ -714,7 +719,7 @@
       "Name": "The Escape",
       "Percentage": 4,
       "XP": 95,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "the_fall",
@@ -730,7 +735,7 @@
       "Name": "The Four Doors",
       "Percentage": 35,
       "XP": 95,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "the_martyr",
@@ -776,9 +781,9 @@
       "ID": "time_waster",
       "SetID": "7i36ba9",
       "Name": "Time Waster",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "who_is_d",
@@ -793,14 +798,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:09:57.4644621+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:11:02.2877274+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:04.5895671+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:00:14.5699679+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:09:57.4644822+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:02:05.8706213+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:11:02.2877472+00:00"
 }

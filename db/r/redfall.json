@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -369,9 +369,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2285,
+  "EOS_Progressed": 2286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4109,6 +4109,11 @@
       "Time": "2024-01-06T21:04:43.9294128+00:00",
       "NumProgressed": 2285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T22:06:04.1825167+00:00",
+      "NumProgressed": 2286,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4312,7 +4317,7 @@
       "Name": "Fly Fisher",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "Achievement_027",
@@ -4352,7 +4357,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "Achievement_032",
@@ -4647,7 +4652,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2285,
+      "Progressed": 2286,
       "Completed": 0
     }
   ],
@@ -4655,8 +4660,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-06T04:58:33.5555876+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:04:43.9294125+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:06:04.1825163+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:58:42.5327562+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:04:43.9295388+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:59:52.0418849+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:06:04.1826142+00:00"
 }

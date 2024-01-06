@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20595,
+  "EOS_Progressed": 20607,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1662,
+  "EOS_NewPlayers": 1656,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -7131,6 +7131,11 @@
       "Time": "2024-01-06T21:06:09.6570283+00:00",
       "NumProgressed": 20595,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2024-01-06T22:08:00.6647581+00:00",
+      "NumProgressed": 20607,
+      "NumCompleted": 100
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -7175,7 +7180,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -7191,7 +7196,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2473
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -7207,7 +7212,7 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -7222,7 +7227,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 20595,
+      "Progressed": 20607,
       "Completed": 100
     }
   ],
@@ -7230,8 +7235,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:06:09.657028+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:08:00.6647577+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:24.8589698+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:57:19.839013+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:06:09.6570667+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:57:54.6950502+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:08:00.6647977+00:00"
 }

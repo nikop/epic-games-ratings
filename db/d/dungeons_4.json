@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2366,17 +2366,17 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 606
+      "UsersEstimate": 613
     },
     {
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 406
+      "UsersEstimate": 414
     },
     {
       "ID": "ach_main03demon_completed",
@@ -2430,9 +2430,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 510
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2510,9 +2510,9 @@
       "ID": "ach_main08sacrifice_completed",
       "SetID": "4hg22ll",
       "Name": "The Big Eaty",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 399
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
@@ -2582,9 +2582,9 @@
       "ID": "ach_main11blessing_completed",
       "SetID": "4hg22ll",
       "Name": "Tanos\u0027 Crusade Against Thalya",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 340
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -2598,9 +2598,9 @@
       "ID": "ach_main11blessing_undeadonly",
       "SetID": "4hg22ll",
       "Name": "Master of the Undead",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 259
     },
     {
       "ID": "ach_main12race_completed",
@@ -2814,9 +2814,9 @@
       "ID": "ach_main20end_spawners",
       "SetID": "4hg22ll",
       "Name": "Evilification",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 133
     }
   ],
   "AchievementSets": [
@@ -2831,8 +2831,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:09:10.8286482+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:57:31.3677096+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:09:10.8286991+00:00"
+  "LastChanged_Achievements": "2024-01-06T22:09:59.2594947+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
+  "LastUpdate_Ratings": "2024-01-06T21:58:11.9966936+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:09:59.2595414+00:00"
 }

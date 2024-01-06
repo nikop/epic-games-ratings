@@ -7,36 +7,36 @@ Rating: 4.71 (Ranked 203)
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~658 |
 | Thalya – Simply Immortal | 88.00% | ~650 |
-| For the Horde! | 82.00% | ~606 |
+| For the Horde! | 83.00% | ~613 |
 | Hammer Time, Round Two | 81.00% | ~599 |
 | The Hellwoods | 77.00% | ~569 |
 | The Plains of Strothalm | 73.00% | ~539 |
 | Experienced Thalya | 71.00% | ~525 |
+| Bad Elves Go Everywhere | 69.00% | ~510 |
 | Thalya's Concentrated Fury | 68.00% | ~503 |
-| Bad Elves Go Everywhere | 68.00% | ~503 |
 | Heroes’ Gorge | 65.00% | ~480 |
 | Master of Magic | 62.00% | ~458 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~458 |
 | Magic Accidents | 59.00% | ~436 |
 | The Ascent | 59.00% | ~436 |
 | It's Warm and Cozy at Home | 59.00% | ~436 |
-| Trap Master | 55.00% | ~406 |
+| Trap Master | 56.00% | ~414 |
 | Minions, Minions! | 55.00% | ~406 |
 | Hard Work | 54.00% | ~399 |
-| The Big Eaty | 53.00% | ~392 |
+| The Big Eaty | 54.00% | ~399 |
 | “… like son” | 51.00% | ~377 |
 | YOU SHALL NOT PASS! | 50.00% | ~370 |
 | The Cathedral of Light | 47.00% | ~347 |
 | Shame! Shame! Shame! | 47.00% | ~347 |
+| Tanos' Crusade Against Thalya | 46.00% | ~340 |
 | Pure Dynamite! | 45.00% | ~333 |
 | Dungeonlord Gorgu | 45.00% | ~333 |
-| Tanos' Crusade Against Thalya | 45.00% | ~333 |
 | Mana Cannon | 42.00% | ~310 |
 | All’s Well That Ends Evil | 41.00% | ~303 |
 | The Duel | 38.00% | ~281 |
 | Unstoppable Horde | 35.00% | ~259 |
+| Master of the Undead | 35.00% | ~259 |
 | If Looks Could Kill | 35.00% | ~259 |
-| Master of the Undead | 34.00% | ~251 |
 | The Finitude Drill | 33.00% | ~244 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~222 |
 | Doom Hill | 30.00% | ~222 |
@@ -57,8 +57,8 @@ Rating: 4.71 (Ranked 203)
 | To Infinity And Beyond! | 19.00% | ~140 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~133 |
 | My Little Torture Chamber | 18.00% | ~133 |
+| Evilification | 18.00% | ~133 |
 | Heal Heal Blessing | 17.00% | ~126 |
-| Evilification | 17.00% | ~126 |
 | Mirror, Mirror | 16.00% | ~118 |
 | Untouchable | 16.00% | ~118 |
 | Hands Off My Stones | 14.00% | ~103 |

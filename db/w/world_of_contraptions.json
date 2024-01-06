@@ -4,8 +4,8 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -1946,9 +1946,9 @@
       "ID": "LEVEL_EXTREME",
       "SetID": "aemieak",
       "Name": "First extreme level",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LEVEL_HARD",
@@ -1985,8 +1985,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:09:24.9048131+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:10:18.6090855+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:58.3147857+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:59:11.7273567+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:09:24.9048386+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:00:35.3093456+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:10:18.6091337+00:00"
 }

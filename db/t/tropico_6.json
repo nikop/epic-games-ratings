@@ -2,13 +2,13 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1539,9 +1539,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6953,
+  "EOS_Progressed": 6955,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16154,6 +16154,11 @@
       "Time": "2024-01-06T21:04:54.443067+00:00",
       "NumProgressed": 6953,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T22:06:18.3316874+00:00",
+      "NumProgressed": 6955,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16189,7 +16194,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -16261,7 +16266,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -16269,7 +16274,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -16285,7 +16290,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -16317,7 +16322,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -16325,7 +16330,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5076
+      "UsersEstimate": 5077
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16355,9 +16360,9 @@
       "ID": "ACH_MISSION_SWISSBANK",
       "SetID": "1p8ab95",
       "Name": "I Owe You Nothing",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 487
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_MYWAYS",
@@ -16421,7 +16426,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3059
+      "UsersEstimate": 3060
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16437,7 +16442,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2503
+      "UsersEstimate": 2504
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16484,15 +16489,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6953,
+      "Progressed": 6955,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-05T23:58:02.9228699+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:04:54.4430667+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:06:18.3316872+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:58:35.5155825+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:04:54.4431694+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:59:41.7898875+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:06:18.3317603+00:00"
 }

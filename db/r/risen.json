@@ -5,10 +5,10 @@
   "Ranking_Rating": 526,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -974,9 +974,9 @@
       "ID": "id_19",
       "SetID": "bk9jib6",
       "Name": "Pandora\u0027s box",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "id_2",
@@ -1046,9 +1046,9 @@
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "id_33",
@@ -1319,8 +1319,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:10:03.1055376+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:11:09.756234+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
   "LastUpdate_Ratings": "2024-01-06T21:00:23.6779515+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:10:03.1055777+00:00"
+  "LastUpdate_Achievements": "2024-01-06T22:11:09.7562832+00:00"
 }

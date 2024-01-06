@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5377,10 +5377,16 @@
       "Rating": 3.96,
       "NumberOfAwards": 2795,
       "NumberOfAwardsMax": 591
+    },
+    {
+      "Time": "2024-01-06T21:59:56.7593036+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 2796,
+      "NumberOfAwardsMax": 591
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2795,
+  "NumberOfAwards": 2796,
   "NumberOfAwardsMax": 591,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5400,7 +5406,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 551
+      "Count": 552
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5439,9 +5445,9 @@
       "Count": 537
     }
   ],
-  "EOS_Progressed": 93139,
+  "EOS_Progressed": 93140,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30574,6 +30580,11 @@
       "Time": "2024-01-06T21:06:17.6957262+00:00",
       "NumProgressed": 93139,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-06T22:08:11.7319465+00:00",
+      "NumProgressed": 93140,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30631,9 +30642,9 @@
       "ID": "ACH_0016",
       "SetID": "3kam13l",
       "Name": "Imports and Exports",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_0021",
@@ -30912,22 +30923,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93139,
+      "Progressed": 93140,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21486,
+      "Progressed": 21487,
       "Completed": 15596
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2024-01-06T14:58:19.3761357+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:06:17.6957258+00:00",
+  "LastChanged": "2024-01-06T21:59:56.7593035+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:08:11.7319463+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:58:45.8816484+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:06:17.6958542+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:59:56.759304+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:08:11.7320514+00:00"
 }

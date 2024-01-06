@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2712,9 +2712,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44371,
+  "EOS_Progressed": 44372,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10917,6 +10917,11 @@
       "Time": "2024-01-06T20:04:24.4479656+00:00",
       "NumProgressed": 44371,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-06T22:05:08.25683+00:00",
+      "NumProgressed": 44372,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10928,7 +10933,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27510
+      "UsersEstimate": 27511
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -11144,7 +11149,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19523
+      "UsersEstimate": 19524
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -11168,7 +11173,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8430
+      "UsersEstimate": 8431
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -11200,7 +11205,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10205
+      "UsersEstimate": 10206
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -11216,7 +11221,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16417
+      "UsersEstimate": 16418
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -11232,7 +11237,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22629
+      "UsersEstimate": 22630
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -11248,7 +11253,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16417
+      "UsersEstimate": 16418
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -11280,7 +11285,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20854
+      "UsersEstimate": 20855
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -11288,7 +11293,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25291
+      "UsersEstimate": 25292
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -11296,7 +11301,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20854
+      "UsersEstimate": 20855
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -11328,7 +11333,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29285
+      "UsersEstimate": 29286
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -11384,7 +11389,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29285
+      "UsersEstimate": 29286
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -11424,7 +11429,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10205
+      "UsersEstimate": 10206
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -11455,15 +11460,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44371,
+      "Progressed": 44372,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-06T13:57:40.9913094+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:04:03.6552129+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:05:08.2568298+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:12.9047325+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:58:00.819334+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:04:03.6552874+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:58:53.9776682+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:05:08.2568935+00:00"
 }

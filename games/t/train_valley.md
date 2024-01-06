@@ -6,7 +6,7 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~486 |
+| Getting started | 77.00% | ~492 |
 | Close call! | 71.00% | ~454 |
 | Builder | 51.00% | ~326 |
 | Living it large! | 44.00% | ~281 |
@@ -14,7 +14,7 @@ Number of Ratings: 28  (23.09.2022)
 | Collector | 42.00% | ~268 |
 | Need to think | 41.00% | ~262 |
 | Completely nuts! | 40.00% | ~256 |
-| Europe | 32.00% | ~204 |
+| Europe | 33.00% | ~211 |
 | Just in time! | 32.00% | ~204 |
 | Madness! | 31.00% | ~198 |
 | It's no coincidence. | 28.00% | ~179 |

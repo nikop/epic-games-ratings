@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1652,
+  "EOS_Progressed": 1653,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4314,6 +4314,11 @@
       "Time": "2024-01-06T21:09:59.2668601+00:00",
       "NumProgressed": 1652,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T22:11:04.5095262+00:00",
+      "NumProgressed": 1653,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4381,7 +4386,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "EXPERT_1",
@@ -4581,7 +4586,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "VVE",
@@ -4612,15 +4617,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1652,
+      "Progressed": 1653,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:09:59.2668598+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:11:04.5095259+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:58:36.5019699+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:09:59.2669195+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:59:43.3042318+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:11:04.5095738+00:00"
 }

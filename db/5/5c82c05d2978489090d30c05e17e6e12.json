@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73621,
+  "EOS_Progressed": 73629,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 1855,
+  "EOS_NewPlayers": 1846,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6363,6 +6363,11 @@
       "Time": "2024-01-06T21:08:33.1687679+00:00",
       "NumProgressed": 73621,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2024-01-06T22:08:58.0712943+00:00",
+      "NumProgressed": 73629,
+      "NumCompleted": 111
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6375,7 +6380,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27240
+      "UsersEstimate": 27243
     },
     {
       "ID": "Achievement_10",
@@ -6399,7 +6404,7 @@
       "Name": "Owl Tide Bestiary",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Achievement_13",
@@ -6415,7 +6420,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "Achievement_15",
@@ -6463,7 +6468,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20614
+      "UsersEstimate": 20616
     },
     {
       "ID": "Achievement_20",
@@ -6487,7 +6492,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "Achievement_23",
@@ -6559,7 +6564,7 @@
       "Name": "Master Engineer",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Achievement_31",
@@ -6575,7 +6580,7 @@
       "Name": "Art Director",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "Achievement_33",
@@ -6599,7 +6604,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "Achievement_5",
@@ -6607,7 +6612,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5153
+      "UsersEstimate": 5154
     },
     {
       "ID": "Achievement_6",
@@ -6646,7 +6651,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 73621,
+      "Progressed": 73629,
       "Completed": 111
     }
   ],
@@ -6654,8 +6659,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-05T18:03:34.6922579+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:08:33.1687677+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:08:58.0712941+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:03:16.3071492+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:08:33.1688074+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:04:02.3726085+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:08:58.0713357+00:00"
 }

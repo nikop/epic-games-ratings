@@ -1,18 +1,18 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 301)  
+Rating: 4.66 (Ranked 300)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,936 |
+| Genin | 12.00% | ~26,937 |
 | A thief's beginning | 11.00% | ~24,692 |
 | Thorough | 11.00% | ~24,692 |
-| Disguised | 9.00% | ~20,202 |
-| Rescue Takuma | 9.00% | ~20,202 |
-| Rollin' | 9.00% | ~20,202 |
-| Tanuki Time | 9.00% | ~20,202 |
+| Disguised | 9.00% | ~20,203 |
+| Rescue Takuma | 9.00% | ~20,203 |
+| Rollin' | 9.00% | ~20,203 |
+| Tanuki Time | 9.00% | ~20,203 |
 | Ice Ice Yuki | 8.00% | ~17,958 |
 | Stoned Ox | 8.00% | ~17,958 |
 | Yabu | 8.00% | ~17,958 |
@@ -32,11 +32,11 @@ Number of Ratings: 495  (23.09.2022)
 | Stoned | 4.00% | ~8,979 |
 | It's raining men | 3.00% | ~6,734 |
 | The Old Way | 3.00% | ~6,734 |
-| Atheist Ox | 2.00% | ~4,489 |
-| No Gimmicks | 2.00% | ~4,489 |
-| Old Man | 2.00% | ~4,489 |
-| The End | 2.00% | ~4,489 |
-| Winner Winner | 2.00% | ~4,489 |
+| Atheist Ox | 2.00% | ~4,490 |
+| No Gimmicks | 2.00% | ~4,490 |
+| Old Man | 2.00% | ~4,490 |
+| The End | 2.00% | ~4,490 |
+| Winner Winner | 2.00% | ~4,490 |
 | Meticulous | 1.00% | ~2,245 |
 | Undeserved Honor | 1.00% | ~2,245 |
 | When Cut Across the Neck | 1.00% | ~2,245 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~224 |
 | Release the Kraken | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,470 (Ranked 79)  
+Progressed: 224,475 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 105 (0.05%) (Ranked 336)
 | 2024-01-03 | 223,800 | 102 |
 | 2024-01-04 | 224,025 | 103 |
 | 2024-01-05 | 224,240 | 105 |
-| 2024-01-06 | 224,470 | 105 |
+| 2024-01-06 | 224,475 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 209)  
 Sum: 4,943 (Ranked 150)  

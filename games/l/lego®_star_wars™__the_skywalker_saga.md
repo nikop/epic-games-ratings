@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~55,782 |
-| ''I don't like you either!'' | 77.00% | ~44,742 |
-| ''Impressive, most impressive'' | 69.00% | ~40,093 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~40,093 |
-| The Phantom Menace | 56.00% | ~32,539 |
-| ''Aggressive Negotiations'' | 56.00% | ~32,539 |
-| ''I can fly anything'' | 54.00% | ~31,377 |
-| ''And who gave you permission...?'' | 51.00% | ~29,634 |
-| A New Hope | 46.00% | ~26,729 |
-| Attack of the Clones | 44.00% | ~25,567 |
-| Revenge of the Sith | 38.00% | ~22,080 |
-| ''A fine addition to my collection'' | 36.00% | ~20,918 |
-| The Empire Strikes Back | 35.00% | ~20,337 |
-| Return of the Jedi | 30.00% | ~17,432 |
-| The Force Awakens | 25.00% | ~14,526 |
-| The Last Jedi | 22.00% | ~12,783 |
-| The Rise of Skywalker | 19.00% | ~11,040 |
-| ''It's true... all of it'' | 18.00% | ~10,459 |
-| ''Get the crews to their fighters'' | 18.00% | ~10,459 |
-| ''Raw, untamed power'' | 8.00% | ~4,648 |
-| Rishi Maze | 4.00% | ~2,324 |
-| ''Only one business in the Galaxy...'' | 4.00% | ~2,324 |
-| ''You may fire when ready'' | 3.00% | ~1,743 |
-| ''What have you done with those plans?'' | 3.00% | ~1,743 |
-| ''GONK!'' | 3.00% | ~1,743 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,743 |
-| The Slice | 3.00% | ~1,743 |
+| ''You guys got yourself a ship!'' | 96.00% | ~55,795 |
+| ''I don't like you either!'' | 77.00% | ~44,752 |
+| ''Impressive, most impressive'' | 69.00% | ~40,103 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~40,103 |
+| The Phantom Menace | 56.00% | ~32,547 |
+| ''Aggressive Negotiations'' | 56.00% | ~32,547 |
+| ''I can fly anything'' | 54.00% | ~31,385 |
+| ''And who gave you permission...?'' | 51.00% | ~29,641 |
+| A New Hope | 46.00% | ~26,735 |
+| Attack of the Clones | 44.00% | ~25,573 |
+| Revenge of the Sith | 38.00% | ~22,086 |
+| ''A fine addition to my collection'' | 36.00% | ~20,923 |
+| The Empire Strikes Back | 35.00% | ~20,342 |
+| Return of the Jedi | 30.00% | ~17,436 |
+| The Force Awakens | 25.00% | ~14,530 |
+| The Last Jedi | 22.00% | ~12,786 |
+| The Rise of Skywalker | 19.00% | ~11,043 |
+| ''It's true... all of it'' | 18.00% | ~10,462 |
+| ''Get the crews to their fighters'' | 18.00% | ~10,462 |
+| ''Raw, untamed power'' | 8.00% | ~4,650 |
+| Rishi Maze | 4.00% | ~2,325 |
+| ''Only one business in the Galaxy...'' | 4.00% | ~2,325 |
+| ''You may fire when ready'' | 3.00% | ~1,744 |
+| ''What have you done with those plans?'' | 3.00% | ~1,744 |
+| ''GONK!'' | 3.00% | ~1,744 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,744 |
+| The Slice | 3.00% | ~1,744 |
 | ''Hello there!'' | 2.00% | ~1,162 |
 | Unknown Regions | 2.00% | ~1,162 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,162 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~581 |
 | ''I've never seen a real one!'' | 0.90% | ~523 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,106 (Ranked 120)  
+Progressed: 58,120 (Ranked 120)  
 Completed: 259 (0.45%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,15 +312,15 @@ Completed: 259 (0.45%) (Ranked 231)
 | 2024-01-03 | 57,403 | 256 |
 | 2024-01-04 | 57,609 | 258 |
 | 2024-01-05 | 57,874 | 258 |
-| 2024-01-06 | 58,106 | 259 |
+| 2024-01-06 | 58,120 | 259 |
 ## Awards
 Max (Great Boss Battles): 2,484  (Ranked 109)  
-Sum: 6,809 (Ranked 129)  
+Sum: 6,810 (Ranked 129)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,484 |
-| This game is Great for Beginners | 527 |
+| This game is Great for Beginners | 528 |
 | This game has Diverse Characters | 521 |
 | This game has Amazing Characters | 497 |
 | This game has Easy Combat | 480 |
@@ -622,3 +622,4 @@ Diff (max vs sum): -20
 | 2024-01-03 | 4.77 | - | 2,481 | 6,799 |
 | 2024-01-04 | 4.78 | - | 2,483 | 6,806 |
 | 2024-01-05 | 4.77 | - | 2,484 | 6,809 |
+| 2024-01-06 | 4.77 | - | 2,484 | 6,810 |

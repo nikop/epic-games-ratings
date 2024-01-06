@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 513,
+  "EOS_Progressed": 514,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1462,6 +1462,11 @@
       "Time": "2024-01-06T21:06:36.0398469+00:00",
       "NumProgressed": 513,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T22:08:36.3561569+00:00",
+      "NumProgressed": 514,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1538,7 +1543,7 @@
       "Name": "Perfect Run",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1554,7 +1559,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1576,9 +1581,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 421
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1618,7 +1623,7 @@
       "Name": "Koco Leader",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1666,7 +1671,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1793,14 +1798,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 513,
+      "Progressed": 514,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:06:36.0398467+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:08:36.3561568+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:07.7248276+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:03:20.1740409+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:06:36.0398784+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:04:08.0612914+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:08:36.3561842+00:00"
 }

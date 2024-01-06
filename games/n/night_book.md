@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Will This Help? | 76.00% | ~233 |
+| Will This Help? | 77.00% | ~236 |
 | Career Woman | 67.00% | ~206 |
-| No One Is Safe | 65.00% | ~200 |
+| No One Is Safe | 66.00% | ~203 |
 | He's Off His Meds | 53.00% | ~163 |
 | Deal Or No Deal | 50.00% | ~154 |
 | Impress Theron | 48.00% | ~147 |

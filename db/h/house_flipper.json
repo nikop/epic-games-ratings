@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2283,7 +2283,7 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22012,
+  "EOS_Progressed": 22015,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -12913,6 +12913,11 @@
       "Time": "2024-01-06T21:06:09.8383946+00:00",
       "NumProgressed": 22012,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-06T22:08:00.8955187+00:00",
+      "NumProgressed": 22015,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12972,7 +12977,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20911
+      "UsersEstimate": 20914
     },
     {
       "ID": "GameOver",
@@ -13004,7 +13009,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "JuniorEstateAgent",
@@ -13036,7 +13041,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4402
+      "UsersEstimate": 4403
     },
     {
       "ID": "Negotiator",
@@ -13060,7 +13065,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4402
+      "UsersEstimate": 4403
     },
     {
       "ID": "SeniorEstateAgent",
@@ -13076,7 +13081,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4182
+      "UsersEstimate": 4183
     },
     {
       "ID": "Strongman",
@@ -13084,7 +13089,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6824
+      "UsersEstimate": 6825
     },
     {
       "ID": "VeronicaLiptson",
@@ -13092,7 +13097,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "YouDoItWrong",
@@ -13107,15 +13112,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22012,
+      "Progressed": 22015,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-06T21:00:11.8247659+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:06:09.8383944+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:08:00.8955183+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.4984496+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:00:11.8247666+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:06:09.8384461+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:02:03.4260577+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:08:00.8955722+00:00"
 }

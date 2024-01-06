@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,945 (Ranked 91)  
+Progressed: 131,949 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,10 +337,10 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,945 | 3 |
+| 2024-01-06 | 131,949 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
-Sum: 21,480 (Ranked 58)  
+Sum: 21,481 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -351,7 +351,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,520 |
 | This game is Extremely Fun | 1,516 |
 | This game has Unique Visuals | 1,458 |
-| This game has Amazing Storytelling | 1,437 |
+| This game has Amazing Storytelling | 1,438 |
 | This game has Quickly Understood Controls | 1,406 |
 | This game has a Creative Community | 1,080 |
 | This game has Obsessive Gameplay | 585 |
@@ -702,4 +702,4 @@ Diff (max vs sum): -8
 | 2024-01-03 | 4.68 | - | 7,940 | 21,388 |
 | 2024-01-04 | 4.68 | - | 7,951 | 21,421 |
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
-| 2024-01-06 | 4.68 | - | 7,972 | 21,480 |
+| 2024-01-06 | 4.68 | - | 7,972 | 21,481 |

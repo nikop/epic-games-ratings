@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -1452,9 +1452,9 @@
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_BATHROOM",
@@ -1596,9 +1596,9 @@
       "ID": "ACH_PICKLOCK",
       "SetID": "511e31d",
       "Name": "Nimble fingers",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1668,9 +1668,9 @@
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 227
     }
   ],
   "AchievementSets": [
@@ -1683,8 +1683,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:04:50.2796666+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T20:57:24.2015651+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:58:56.6692937+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:04:50.2796925+00:00"
+  "LastChanged_Achievements": "2024-01-06T22:06:12.5168748+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T21:57:32.0336088+00:00",
+  "LastUpdate_Ratings": "2024-01-06T22:00:12.2347925+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:06:12.516897+00:00"
 }

@@ -1,54 +1,54 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 357)  
+Rating: 4.63 (Ranked 356)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 75.00% | ~271 |
-| Kaijuiced | 69.00% | ~249 |
-| Lie Back and Think of Albion | 64.00% | ~231 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 62.00% | ~224 |
-| I Look Up As I Walk to Takoshima | 58.00% | ~209 |
-| Yettisoned | 57.00% | ~206 |
-| Pimp My Raid | 54.00% | ~195 |
-| Perfect Probulator | 54.00% | ~195 |
-| Lobster Blisque | 50.00% | ~180 |
-| Earthly Pleasures | 48.00% | ~173 |
-| Fly Me to the Moon Base | 46.00% | ~166 |
-| Ducks in a Row, Fish in a Barrel | 45.00% | ~162 |
-| Forbidden Donut | 36.00% | ~130 |
-| Bodied Sattva | 36.00% | ~130 |
-| Freshly Squeezed | 35.00% | ~126 |
+| Shop Til They Drop | 75.00% | ~273 |
+| Kaijuiced | 70.00% | ~255 |
+| Lie Back and Think of Albion | 64.00% | ~233 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 62.00% | ~226 |
+| I Look Up As I Walk to Takoshima | 58.00% | ~211 |
+| Yettisoned | 57.00% | ~207 |
+| Pimp My Raid | 54.00% | ~197 |
+| Perfect Probulator | 54.00% | ~197 |
+| Lobster Blisque | 50.00% | ~182 |
+| Earthly Pleasures | 49.00% | ~178 |
+| Fly Me to the Moon Base | 46.00% | ~167 |
+| Ducks in a Row, Fish in a Barrel | 45.00% | ~164 |
+| Forbidden Donut | 36.00% | ~131 |
+| Bodied Sattva | 36.00% | ~131 |
+| Freshly Squeezed | 35.00% | ~127 |
 | Upgreatest | 32.00% | ~116 |
-| Deincarnated | 29.00% | ~105 |
-| Furon Fashion | 28.00% | ~101 |
-| Rock of the Bay | 27.00% | ~97 |
-| Trans-Siberian Express | 25.00% | ~90 |
-| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~72 |
+| Deincarnated | 29.00% | ~106 |
+| Furon Fashion | 28.00% | ~102 |
+| Rock of the Bay | 27.00% | ~98 |
+| Trans-Siberian Express | 24.00% | ~87 |
+| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~73 |
 | Arkvoodle Doodle | 19.00% | ~69 |
-| Die Nasty | 17.00% | ~61 |
+| Die Nasty | 17.00% | ~62 |
 | Ouch of Body Experience | 16.00% | ~58 |
 | If You Know What I Mean | 16.00% | ~58 |
-| Hidden Human Hive Harvest | 15.00% | ~54 |
-| Mash Machine | 15.00% | ~54 |
+| Hidden Human Hive Harvest | 15.00% | ~55 |
+| Mash Machine | 15.00% | ~55 |
 | Albion Bridge Is for Falling Down | 14.00% | ~51 |
 | Dusted | 14.00% | ~51 |
 | Scuttled | 11.00% | ~40 |
 | Higher Than the Futen Zoku | 11.00% | ~40 |
-| PK Slam Dunk | 9.00% | ~32 |
-| Arty Facts | 9.00% | ~32 |
+| PK Slam Dunk | 9.00% | ~33 |
+| Arty Facts | 9.00% | ~33 |
 | Cult Following | 6.00% | ~22 |
-| Path of the Furon | 6.00% | ~22 |
-| To Russia With Love | 4.00% | ~14 |
+| Path of the Furon | 5.00% | ~18 |
+| To Russia With Love | 4.00% | ~15 |
 | Transmitting From Sol-3 | 3.00% | ~11 |
 | Steezy Down the Spine | 2.00% | ~7 |
 | Toilet Break | 2.00% | ~7 |
 | Against All Odds | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361 (Ranked 374)  
-Completed: 5 (1.39%) (Ranked 152)  
+Progressed: 364 (Ranked 373)  
+Completed: 5 (1.37%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 5 (1.39%) (Ranked 152)
 | 2024-01-03 | 310 | 5 |
 | 2024-01-04 | 325 | 5 |
 | 2024-01-05 | 345 | 5 |
-| 2024-01-06 | 361 | 5 |
+| 2024-01-06 | 364 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 501)  
 Sum: 35 (Ranked 531)  

@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -877,9 +877,9 @@
       "ID": "Landmark_ReganGorForge",
       "SetID": "7b9f97e",
       "Name": "The Forge of Regan Gor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Landmark_SilverDriftMine",
@@ -1198,8 +1198,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:09:35.8097444+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:02:59.3888546+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:09:35.8097977+00:00"
+  "LastChanged_Achievements": "2024-01-06T22:10:32.8070394+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
+  "LastUpdate_Ratings": "2024-01-06T22:03:38.3624+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:10:32.8070992+00:00"
 }

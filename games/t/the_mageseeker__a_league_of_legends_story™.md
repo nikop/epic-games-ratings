@@ -5,61 +5,61 @@ Rating: 4.81 (Ranked 83)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,158 |
-| No more cages! | 90.00% | ~2,992 |
-| Everfrost | 77.00% | ~2,559 |
-| Pentakill | 76.00% | ~2,526 |
-| Dark Forest | 76.00% | ~2,526 |
-| The use of petricite | 73.00% | ~2,427 |
-| You can pet the dog | 60.00% | ~1,994 |
-| Thornbarrow | 43.00% | ~1,429 |
-| Big Helmet Bro | 41.00% | ~1,363 |
-| Clarion Cove | 41.00% | ~1,363 |
-| Ternmoat Headquarters | 39.00% | ~1,296 |
-| Past trauma | 38.00% | ~1,263 |
-| Elemental master | 37.00% | ~1,230 |
-| Cypress Glen Headquarters | 34.00% | ~1,130 |
-| Old friend | 33.00% | ~1,097 |
-| Petricite Burst | 33.00% | ~1,097 |
-| Devineur | 32.00% | ~1,064 |
-| Hijack | 31.00% | ~1,030 |
-| Whispers in the Woods I | 28.00% | ~931 |
-| Ancient power | 28.00% | ~931 |
-| I chose my shackles | 27.00% | ~897 |
-| Sacred Woods | 26.00% | ~864 |
-| Little light | 24.00% | ~798 |
+| For Demacia | 95.00% | ~3,162 |
+| No more cages! | 90.00% | ~2,995 |
+| Everfrost | 77.00% | ~2,563 |
+| Pentakill | 76.00% | ~2,529 |
+| Dark Forest | 76.00% | ~2,529 |
+| The use of petricite | 73.00% | ~2,429 |
+| You can pet the dog | 60.00% | ~1,997 |
+| Thornbarrow | 43.00% | ~1,431 |
+| Big Helmet Bro | 41.00% | ~1,364 |
+| Clarion Cove | 41.00% | ~1,364 |
+| Ternmoat Headquarters | 39.00% | ~1,298 |
+| Past trauma | 38.00% | ~1,265 |
+| Elemental master | 37.00% | ~1,231 |
+| Cypress Glen Headquarters | 34.00% | ~1,132 |
+| Old friend | 33.00% | ~1,098 |
+| Petricite Burst | 33.00% | ~1,098 |
+| Devineur | 32.00% | ~1,065 |
+| Hijack | 31.00% | ~1,032 |
+| Whispers in the Woods I | 28.00% | ~932 |
+| Ancient power | 28.00% | ~932 |
+| I chose my shackles | 27.00% | ~899 |
+| Sacred Woods | 26.00% | ~865 |
+| Little light | 24.00% | ~799 |
 | Glyndemere | 23.00% | ~765 |
 | Capelworth | 23.00% | ~765 |
 | Full equipped | 23.00% | ~765 |
-| Iffighain Headquarters | 22.00% | ~731 |
+| Iffighain Headquarters | 22.00% | ~732 |
 | Whispers in the Woods II | 19.00% | ~632 |
 | No more holding back | 19.00% | ~632 |
 | Terbisia | 19.00% | ~632 |
 | Quickmoore Headquarters | 19.00% | ~632 |
-| Whispers in the Woods III | 17.00% | ~565 |
-| My heart and sword always for Demacia | 17.00% | ~565 |
-| Friendly fire | 17.00% | ~565 |
-| The Central Headquarters | 17.00% | ~565 |
+| Whispers in the Woods III | 17.00% | ~566 |
+| My heart and sword always for Demacia | 17.00% | ~566 |
+| Friendly fire | 17.00% | ~566 |
+| The Central Headquarters | 17.00% | ~566 |
 | True power | 16.00% | ~532 |
 | Meltridge | 16.00% | ~532 |
 | Cloven Dell Headquarters | 16.00% | ~532 |
-| Whispers in the Woods IV | 14.00% | ~465 |
-| I smell fear | 14.00% | ~465 |
-| The end of the experiments | 14.00% | ~465 |
-| The Great City of Demacia | 14.00% | ~465 |
-| Call it 'redistribution of magic | 14.00% | ~465 |
-| Embrace the darkness | 13.00% | ~432 |
-| Truth is a dark mirror | 13.00% | ~432 |
+| Whispers in the Woods IV | 14.00% | ~466 |
+| I smell fear | 14.00% | ~466 |
+| The end of the experiments | 14.00% | ~466 |
+| The Great City of Demacia | 14.00% | ~466 |
+| Call it 'redistribution of magic | 14.00% | ~466 |
+| Embrace the darkness | 13.00% | ~433 |
+| Truth is a dark mirror | 13.00% | ~433 |
 | Do you trust me? | 12.00% | ~399 |
 | Back to sleep, then... | 12.00% | ~399 |
 | Chains master | 11.00% | ~366 |
 | The great mage rebellion starts now | 11.00% | ~366 |
 | You can pet the... horse | 11.00% | ~366 |
-| Spellcrafting | 10.00% | ~332 |
-| Silverwing nest | 2.00% | ~66 |
+| Spellcrafting | 10.00% | ~333 |
+| Silverwing nest | 2.00% | ~67 |
 | The Unshackled | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,324 (Ranked 224)  
+Progressed: 3,328 (Ranked 224)  
 Completed: 22 (0.66%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 22 (0.66%) (Ranked 200)
 | 2024-01-03 | 3,256 | 20 |
 | 2024-01-04 | 3,278 | 21 |
 | 2024-01-05 | 3,298 | 21 |
-| 2024-01-06 | 3,324 | 22 |
+| 2024-01-06 | 3,328 | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

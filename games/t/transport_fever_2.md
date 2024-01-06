@@ -1,49 +1,49 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.67 (Ranked 285)  
+Rating: 4.67 (Ranked 284)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,756 |
-| First cargo item waiting | 68.00% | ~1,614 |
-| First cargo item on board | 67.00% | ~1,590 |
-| First bus stop | 66.00% | ~1,566 |
-| First passenger on board | 63.00% | ~1,495 |
-| First passenger waiting | 63.00% | ~1,495 |
-| First bus arrived | 62.00% | ~1,471 |
-| First train station | 60.00% | ~1,424 |
-| First steam train arrived | 56.00% | ~1,329 |
-| First industry upgraded | 53.00% | ~1,258 |
-| Cadet | 52.00% | ~1,234 |
-| Transport millionaire | 51.00% | ~1,210 |
-| Transport master | 49.00% | ~1,163 |
-| Cargo hub | 49.00% | ~1,163 |
+| First line | 74.00% | ~1,758 |
+| First cargo item waiting | 68.00% | ~1,615 |
+| First cargo item on board | 67.00% | ~1,591 |
+| First bus stop | 66.00% | ~1,568 |
+| First passenger on board | 63.00% | ~1,496 |
+| First passenger waiting | 63.00% | ~1,496 |
+| First bus arrived | 62.00% | ~1,472 |
+| First train station | 60.00% | ~1,425 |
+| First steam train arrived | 56.00% | ~1,330 |
+| First industry upgraded | 53.00% | ~1,259 |
+| Cadet | 52.00% | ~1,235 |
+| Transport millionaire | 51.00% | ~1,211 |
+| Transport master | 49.00% | ~1,164 |
+| Cargo hub | 49.00% | ~1,164 |
 | Sculpturer | 46.00% | ~1,092 |
-| Settled down | 45.00% | ~1,068 |
-| First electric train arrived | 43.00% | ~1,020 |
-| Now what? | 43.00% | ~1,020 |
-| First ship arrived | 42.00% | ~997 |
-| Exemplary student | 41.00% | ~973 |
-| High speed | 39.00% | ~925 |
+| Settled down | 45.00% | ~1,069 |
+| First electric train arrived | 43.00% | ~1,021 |
+| Now what? | 43.00% | ~1,021 |
+| First ship arrived | 42.00% | ~998 |
+| Exemplary student | 41.00% | ~974 |
+| High speed | 39.00% | ~926 |
 | Transport shark | 38.00% | ~902 |
 | First aircraft arrived | 38.00% | ~902 |
-| Mass production | 32.00% | ~759 |
+| Mass production | 32.00% | ~760 |
 | Aircraft entrepreneur | 30.00% | ~712 |
-| Crowd in a train | 28.00% | ~664 |
-| The future is now, old man | 28.00% | ~664 |
+| Crowd in a train | 28.00% | ~665 |
+| The future is now, old man | 28.00% | ~665 |
 | Not in my backyard | 27.00% | ~641 |
-| The king of the sea | 26.00% | ~617 |
-| City | 25.00% | ~593 |
-| Transport tycoon | 21.00% | ~498 |
-| Old timer | 21.00% | ~498 |
+| The king of the sea | 26.00% | ~618 |
+| City | 25.00% | ~594 |
+| Transport tycoon | 21.00% | ~499 |
+| Old timer | 21.00% | ~499 |
 | Climate change | 20.00% | ~475 |
 | The ugly smell of success | 20.00% | ~475 |
 | Heavily loaded | 19.00% | ~451 |
-| Bob Ross | 14.00% | ~332 |
-| Campaign expert | 10.00% | ~237 |
-| Truck Fever | 10.00% | ~237 |
+| Bob Ross | 14.00% | ~333 |
+| Campaign expert | 10.00% | ~238 |
+| Truck Fever | 10.00% | ~238 |
 | No free seats | 9.00% | ~214 |
 | Back to the future | 8.00% | ~190 |
 | Transport belt | 8.00% | ~190 |
@@ -54,11 +54,11 @@ Number of Ratings: 180  (23.09.2022)
 | Antique | 4.00% | ~95 |
 | Transport corporation | 4.00% | ~95 |
 | Cannot get enough | 3.00% | ~71 |
-| Transport tycoon (Hard mode) | 2.00% | ~47 |
-| Charles Alton Ellis | 2.00% | ~47 |
-| Industrialist | 2.00% | ~47 |
-| Metropolis | 2.00% | ~47 |
-| Speed of light | 2.00% | ~47 |
+| Transport tycoon (Hard mode) | 2.00% | ~48 |
+| Charles Alton Ellis | 2.00% | ~48 |
+| Industrialist | 2.00% | ~48 |
+| Metropolis | 2.00% | ~48 |
+| Speed of light | 2.00% | ~48 |
 | No country for old trains | 1.00% | ~24 |
 | Campaign tycoon | 1.00% | ~24 |
 | Trans-Siberian Railway | 1.00% | ~24 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,373 (Ranked 238)  
+Progressed: 2,375 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 1 (0.04%) (Ranked 348)
 | 2024-01-03 | 2,314 | 1 |
 | 2024-01-04 | 2,331 | 1 |
 | 2024-01-05 | 2,356 | 1 |
-| 2024-01-06 | 2,373 | 1 |
+| 2024-01-06 | 2,375 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 455)  
 Sum: 332 (Ranked 373)  

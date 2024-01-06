@@ -6,16 +6,16 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,557 |
-| Powergamer | 27.00% | ~69,415 |
-| Write that down | 25.00% | ~64,273 |
-| Barely scratched the surface | 25.00% | ~64,273 |
-| Guns, lots of guns | 13.00% | ~33,422 |
-| Collector | 12.00% | ~30,851 |
-| Elementary! | 9.00% | ~23,138 |
-| Griever | 8.00% | ~20,567 |
-| Pumpkin Jack | 8.00% | ~20,567 |
-| Wake up! | 8.00% | ~20,567 |
+| I will finish what you started | 29.00% | ~74,559 |
+| Powergamer | 27.00% | ~69,417 |
+| Write that down | 25.00% | ~64,275 |
+| Barely scratched the surface | 25.00% | ~64,275 |
+| Guns, lots of guns | 13.00% | ~33,423 |
+| Collector | 12.00% | ~30,852 |
+| Elementary! | 9.00% | ~23,139 |
+| Griever | 8.00% | ~20,568 |
+| Pumpkin Jack | 8.00% | ~20,568 |
+| Wake up! | 8.00% | ~20,568 |
 | It's honest work | 7.00% | ~17,997 |
 | Me smart | 6.00% | ~15,426 |
 | Trash compactor | 6.00% | ~15,426 |
@@ -47,8 +47,8 @@ Number of Ratings: 33  (23.09.2022)
 | It's blue, always blue | 0.80% | ~2,057 |
 | Home run | 0.80% | ~2,057 |
 | I have the high ground | 0.70% | ~1,800 |
-| Enjoy these little moments | 0.50% | ~1,285 |
-| Who wouldn't love a troll? | 0.50% | ~1,285 |
+| Enjoy these little moments | 0.50% | ~1,286 |
+| Who wouldn't love a troll? | 0.50% | ~1,286 |
 | Irondec | 0.40% | ~1,028 |
 | LET ME OUT! | 0.40% | ~1,028 |
 | Un-bear-able | 0.40% | ~1,028 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~514 |
 | Memory 5 | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,093 (Ranked 68)  
+Progressed: 257,100 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 8 (0.00%) (Ranked 393)
 | 2024-01-03 | 256,748 | 8 |
 | 2024-01-04 | 256,850 | 8 |
 | 2024-01-05 | 256,975 | 8 |
-| 2024-01-06 | 257,093 | 8 |
+| 2024-01-06 | 257,100 | 8 |
 ## Awards
 Max (Character Customization): 97  (Ranked 385)  
 Sum: 97 (Ranked 469)  

@@ -1,19 +1,19 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 397)  
+Rating: 4.61 (Ranked 398)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,039 |
-| Wallbanger | 5.00% | ~26,039 |
-| Exploitative | 4.00% | ~20,831 |
-| High Speed Low Drag | 4.00% | ~20,831 |
-| Wet Feet | 4.00% | ~20,831 |
-| Lucky | 3.00% | ~15,623 |
-| Stylin' | 3.00% | ~15,623 |
-| Turf War | 3.00% | ~15,623 |
+| Point Shooting | 5.00% | ~26,040 |
+| Wallbanger | 5.00% | ~26,040 |
+| Exploitative | 4.00% | ~20,832 |
+| High Speed Low Drag | 4.00% | ~20,832 |
+| Wet Feet | 4.00% | ~20,832 |
+| Lucky | 3.00% | ~15,624 |
+| Stylin' | 3.00% | ~15,624 |
+| Turf War | 3.00% | ~15,624 |
 | Banged | 2.00% | ~10,416 |
 | Checkpoint Victory | 2.00% | ~10,416 |
 | First Blood | 2.00% | ~10,416 |
@@ -29,7 +29,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~4,687 |
 | Grounded | 0.80% | ~4,166 |
 | Play to Win | 0.80% | ~4,166 |
-| Special Delivery | 0.70% | ~3,645 |
+| Special Delivery | 0.70% | ~3,646 |
 | Firefight Victory | 0.60% | ~3,125 |
 | #1 | 0.60% | ~3,125 |
 | Cinematic | 0.50% | ~2,604 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~521 |
 | Road Hazard | 0.10% | ~521 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520,775 (Ranked 39)  
+Progressed: 520,805 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,16 +303,16 @@ Completed: 2 (0.00%) (Ranked 393)
 | 2024-01-03 | 518,784 | 2 |
 | 2024-01-04 | 519,535 | 2 |
 | 2024-01-05 | 520,152 | 2 |
-| 2024-01-06 | 520,775 | 2 |
+| 2024-01-06 | 520,805 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 237)  
-Sum: 3,335 (Ranked 178)  
+Sum: 3,336 (Ranked 178)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 415 |
 | This game has Challenging Combat | 408 |
-| This game is Extremely Fun | 387 |
+| This game is Extremely Fun | 388 |
 | This game has Competitive Players | 382 |
 | This game is Highly Recommended | 369 |
 | This game has Realistic Visuals | 365 |
@@ -654,4 +654,4 @@ Diff (max vs sum): 59
 | 2024-01-03 | 4.61 | - | 415 | 3,323 |
 | 2024-01-04 | 4.61 | - | 415 | 3,329 |
 | 2024-01-05 | 4.61 | - | 415 | 3,331 |
-| 2024-01-06 | 4.61 | - | 415 | 3,335 |
+| 2024-01-06 | 4.61 | - | 415 | 3,336 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -667,10 +667,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 210,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-01-06T22:03:38.713346+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 211,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 210,
+  "NumberOfAwards": 211,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -690,7 +696,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",
@@ -723,9 +729,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6977,
+  "EOS_Progressed": 6979,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10583,6 +10589,11 @@
       "Time": "2024-01-06T21:04:34.8381549+00:00",
       "NumProgressed": 6977,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T22:05:51.4822879+00:00",
+      "NumProgressed": 6979,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10610,7 +10621,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "12",
@@ -10634,7 +10645,7 @@
       "Name": "Full Ascension",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "15",
@@ -10754,7 +10765,7 @@
       "Name": "From Friends to Family",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "29",
@@ -10762,7 +10773,7 @@
       "Name": "Stronger Together",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "3",
@@ -10802,7 +10813,7 @@
       "Name": "Seat of Power",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "34",
@@ -11073,22 +11084,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6977,
+      "Progressed": 6979,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6977,
+      "Progressed": 6979,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:04:34.8381547+00:00",
+  "LastChanged": "2024-01-06T22:03:38.7133458+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:05:51.4822876+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:02:59.638541+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:04:34.8382457+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:03:38.7133463+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:05:51.4823651+00:00"
 }

@@ -10,8 +10,8 @@ Rating: 4.55 (Ranked 526)
 | Adventurer | 61.00% | ~104 |
 | Philanthropist | 58.00% | ~99 |
 | Archer | 41.00% | ~70 |
+| The brave little tailor | 40.00% | ~68 |
 | Field hand | 39.00% | ~66 |
-| The brave little tailor | 39.00% | ~66 |
 | Samaritan | 31.00% | ~53 |
 | Well-to-do | 31.00% | ~53 |
 | Ladies' man | 29.00% | ~49 |
@@ -29,9 +29,9 @@ Rating: 4.55 (Ranked 526)
 | Fence | 16.00% | ~27 |
 | Sidelined | 16.00% | ~27 |
 | The fourth triplet | 15.00% | ~26 |
+| Pandora's box | 14.00% | ~24 |
 | Ghost hunter | 14.00% | ~24 |
 | Master detective | 14.00% | ~24 |
-| Pandora's box | 13.00% | ~22 |
 | Defender | 12.00% | ~20 |
 | Peacekeeper | 12.00% | ~20 |
 | Workaholic | 11.00% | ~19 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 526)
 | Master of the classes | 0.60% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170 (Ranked 440)  
+Progressed: 170 (Ranked 441)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1848,
+  "EOS_Progressed": 1849,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4882,6 +4882,11 @@
       "Time": "2024-01-06T20:09:52.6385177+00:00",
       "NumProgressed": 1848,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T22:10:25.3952021+00:00",
+      "NumProgressed": 1849,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4973,7 +4978,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -5013,7 +5018,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -5085,7 +5090,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5141,7 +5146,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5276,7 +5281,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1848,
+      "Progressed": 1849,
       "Completed": 0
     }
   ],
@@ -5284,8 +5289,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:09:29.9998846+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:10:25.3952019+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:59:05.1159668+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:09:29.9999328+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:00:25.7173818+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:10:25.3952625+00:00"
 }

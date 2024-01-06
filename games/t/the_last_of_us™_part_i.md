@@ -1,14 +1,14 @@
 # The Last of Us™ Part I
 [Store](https://store.epicgames.com/en-US/p/the-last-of-us-part-1)  
 [View Rawdata](../../db/t/the_last_of_us™_part_i.json)  
-Rating: 4.50 (Ranked 613)  
+Rating: 4.51 (Ranked 591)  
 ## Awards
-Max (Great Boss Battles): 339  (Ranked 250)  
-Sum: 381 (Ranked 358)  
-Diff (max vs sum): -108  
+Max (Great Boss Battles): 350  (Ranked 249)  
+Sum: 392 (Ranked 355)  
+Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 339 |
+| This game has Great Boss Battles | 350 |
 | This game has Diverse Characters | 22 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
@@ -178,3 +178,4 @@ Diff (max vs sum): -108
 | 2024-01-03 | 4.48 | 322 | 343 |
 | 2024-01-04 | 4.49 | 330 | 352 |
 | 2024-01-05 | 4.50 | 339 | 381 |
+| 2024-01-06 | 4.51 | 350 | 392 |

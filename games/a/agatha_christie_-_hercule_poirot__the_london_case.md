@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 75.00% | ~73 |
-| Little ideas | 72.00% | ~70 |
-| The Ship | 69.00% | ~67 |
-| Seeking the truth | 57.00% | ~55 |
-| An old friend | 56.00% | ~54 |
-| The Gala | 55.00% | ~53 |
-| A curious gathering | 51.00% | ~49 |
+| Marc Allard | 74.00% | ~73 |
+| Little ideas | 71.00% | ~70 |
+| The Ship | 68.00% | ~67 |
+| Seeking the truth | 56.00% | ~55 |
+| An old friend | 55.00% | ~54 |
+| The Gala | 54.00% | ~53 |
+| A curious gathering | 50.00% | ~49 |
 | Little grey cells | 48.00% | ~47 |
 | Impossible is possible | 47.00% | ~46 |
 | Arthur Hastings | 47.00% | ~46 |
@@ -29,16 +29,16 @@
 | A rude awakening | 29.00% | ~28 |
 | Bartholomew | 29.00% | ~28 |
 | The Scheme | 26.00% | ~25 |
-| Well-acquainted | 25.00% | ~24 |
-| Anastasia Babanin | 25.00% | ~24 |
-| Zakariya Demir | 24.00% | ~23 |
-| Truth from within | 23.00% | ~22 |
-| A curious phrase | 20.00% | ~19 |
-| The Suspects | 20.00% | ~19 |
-| Evelyn Lakshmi Warbeck | 19.00% | ~18 |
-| Horace Mountjoy | 18.00% | ~17 |
-| Johan Kristiansen | 18.00% | ~17 |
-| The Secrets | 18.00% | ~17 |
+| Well-acquainted | 24.00% | ~24 |
+| Anastasia Babanin | 24.00% | ~24 |
+| Zakariya Demir | 23.00% | ~23 |
+| Truth from within | 22.00% | ~22 |
+| A curious phrase | 19.00% | ~19 |
+| The Suspects | 19.00% | ~19 |
+| Evelyn Lakshmi Warbeck | 18.00% | ~18 |
+| Horace Mountjoy | 17.00% | ~17 |
+| Johan Kristiansen | 17.00% | ~17 |
+| The Secrets | 17.00% | ~17 |
 | A peculiar fellow | 16.00% | ~16 |
 | Mortimer Ailsworth | 16.00% | ~16 |
 | Well-travelled | 15.00% | ~15 |
@@ -51,8 +51,8 @@
 | A perilous journey | 9.00% | ~9 |
 | Perkins | 6.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 495)  
-Completed: 3 (3.09%) (Ranked 107)  
+Progressed: 98 (Ranked 495)  
+Completed: 3 (3.06%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,4 +111,4 @@ Completed: 3 (3.09%) (Ranked 107)
 | 2024-01-02 | 87 | 3 |
 | 2024-01-03 | 88 | 3 |
 | 2024-01-04 | 90 | 3 |
-| 2024-01-06 | 97 | 3 |
+| 2024-01-06 | 98 | 3 |

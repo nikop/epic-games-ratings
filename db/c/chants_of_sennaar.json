@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -121,11 +121,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2490,
+  "EOS_Progressed": 2491,
   "EOS_Completed": 167,
   "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 43,
-  "EOS_Completed_Percentage": 6.71,
+  "EOS_Completed_Percentage": 6.7,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6581,6 +6581,11 @@
       "Time": "2024-01-06T21:05:31.0906689+00:00",
       "NumProgressed": 2490,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2024-01-06T22:07:09.4359195+00:00",
+      "NumProgressed": 2491,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 25,
@@ -6590,9 +6595,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 622
+      "UsersEstimate": 648
     },
     {
       "ID": "END_GOOD",
@@ -6608,7 +6613,7 @@
       "Name": "Peace walker",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6616,7 +6621,7 @@
       "Name": "Cable guy",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "META_FIRST_LINK",
@@ -6632,7 +6637,7 @@
       "Name": "Half the way",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "META_RESULT_1-2",
@@ -6680,7 +6685,7 @@
       "Name": "A Link to the Past",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -6696,7 +6701,7 @@
       "Name": "Rascal",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -6726,9 +6731,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 598
+      "UsersEstimate": 623
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -6736,7 +6741,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6760,7 +6765,7 @@
       "Name": "The great escape",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "PROGRESS_N3",
@@ -6768,7 +6773,7 @@
       "Name": "A new dawn",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "PROGRESS_N4",
@@ -6784,14 +6789,14 @@
       "Name": "One last step",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2490,
+      "Progressed": 2491,
       "Completed": 167
     }
   ],
@@ -6799,8 +6804,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-06T05:57:38.338864+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:05:31.0906686+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:07:09.4359191+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:57:57.3795594+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:05:31.0907138+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:58:49.2652803+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:07:09.4359675+00:00"
 }

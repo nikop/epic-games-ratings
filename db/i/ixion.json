@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -335,7 +335,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4040,
+  "EOS_Progressed": 4041,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
@@ -8065,6 +8065,11 @@
       "Time": "2024-01-06T21:04:18.4873262+00:00",
       "NumProgressed": 4040,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T22:05:28.6404237+00:00",
+      "NumProgressed": 4041,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8076,7 +8081,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "ACH_BASE_10",
@@ -8164,7 +8169,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ACH_BASE_22",
@@ -8372,7 +8377,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ACH_BASE_49",
@@ -8531,13 +8536,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2224,
+      "Progressed": 2225,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4040,
+      "Progressed": 4041,
       "Completed": 0
     }
   ],
@@ -8545,8 +8550,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-04T06:58:36.3655707+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:04:18.4873261+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:05:28.6404234+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:59:37.9142394+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:04:18.4873926+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:01:13.2526509+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:05:28.6404803+00:00"
 }

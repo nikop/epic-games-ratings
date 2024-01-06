@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1433,7 +1433,7 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 14080,
+  "EOS_Progressed": 14082,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 901,
   "EOS_NewCompleters": 2,
@@ -9038,6 +9038,11 @@
       "Time": "2024-01-06T21:09:13.3190633+00:00",
       "NumProgressed": 14080,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-06T22:10:02.5618698+00:00",
+      "NumProgressed": 14082,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 24,
@@ -9073,7 +9078,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8448
+      "UsersEstimate": 8449
     },
     {
       "ID": "DemonCastleRestoration",
@@ -9081,7 +9086,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "DwarfChandelier",
@@ -9097,7 +9102,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 5491
+      "UsersEstimate": 5492
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -9137,7 +9142,7 @@
       "Name": "The Hero Killer",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 3379
+      "UsersEstimate": 3380
     },
     {
       "ID": "LeoniasFall",
@@ -9145,7 +9150,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4224
+      "UsersEstimate": 4225
     },
     {
       "ID": "LeoniasFall_2",
@@ -9153,7 +9158,7 @@
       "Name": "The Levitator",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "Manners",
@@ -9169,7 +9174,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "SavedElderEnt",
@@ -9177,7 +9182,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8448
+      "UsersEstimate": 8449
     },
     {
       "ID": "SavedElderEnt_2",
@@ -9185,7 +9190,7 @@
       "Name": "Quick Movements",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4084
     },
     {
       "ID": "SkeletonKing",
@@ -9209,7 +9214,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13094
+      "UsersEstimate": 13096
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -9217,7 +9222,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6618
+      "UsersEstimate": 6619
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -9233,22 +9238,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11264
+      "UsersEstimate": 11266
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14080,
+      "Progressed": 14082,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-06T17:58:16.6335972+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:09:13.319063+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:10:02.5618695+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9431294+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:58:25.0693234+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:09:13.3191184+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:59:27.3898632+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:10:02.5619266+00:00"
 }

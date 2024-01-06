@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 262,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10504,10 +10504,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21480,
       "NumberOfAwardsMax": 7972
+    },
+    {
+      "Time": "2024-01-06T21:57:59.0039171+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21481,
+      "NumberOfAwardsMax": 7972
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21480,
+  "NumberOfAwards": 21481,
   "NumberOfAwardsMax": 7972,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10575,7 +10581,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1437
+      "Count": 1438
     },
     {
       "Text": "This game has a Creative Community",
@@ -10584,9 +10590,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131945,
+  "EOS_Progressed": 131949,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38649,6 +38655,11 @@
       "Time": "2024-01-06T21:09:44.171776+00:00",
       "NumProgressed": 131945,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T22:10:44.3349586+00:00",
+      "NumProgressed": 131949,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39291,21 +39302,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131945,
+      "Progressed": 131949,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6814,
+      "Progressed": 6818,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-06T19:57:17.2184956+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:09:44.1717758+00:00",
+  "LastChanged": "2024-01-06T21:57:59.003917+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:10:44.3349581+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:57:22.9340603+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:09:44.1719479+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:57:59.0039174+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:10:44.3351729+00:00"
 }

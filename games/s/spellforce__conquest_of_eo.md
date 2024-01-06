@@ -42,6 +42,7 @@
 | Defeat Gor | 9.00% | ~11 |
 | Yngrid's Tale | 9.00% | ~11 |
 | Defeat Uram | 8.00% | ~10 |
+| The Forge of Regan Gor | 8.00% | ~10 |
 | Tuscari Sea Portal | 8.00% | ~10 |
 | Friend of Uram Gor | 8.00% | ~10 |
 | A Joke | 8.00% | ~10 |
@@ -50,7 +51,6 @@
 | Defeat Raith | 7.00% | ~9 |
 | Lore's Tale | 7.00% | ~9 |
 | Crypt of the Revenant | 7.00% | ~9 |
-| The Forge of Regan Gor | 7.00% | ~9 |
 | Fireforge | 7.00% | ~9 |
 | Master Artificer | 7.00% | ~9 |
 | A Monopoly of Might | 7.00% | ~9 |

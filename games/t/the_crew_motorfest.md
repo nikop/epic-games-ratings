@@ -1,14 +1,14 @@
 # The Crew™ Motorfest Standard Edition
 [Store](https://store.epicgames.com/en-US/p/the-crew-motorfest)  
 [View Rawdata](../../db/t/the_crew_motorfest.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 318)  
 ## Awards
-Max (Relaxing): 681  (Ranked 195)  
-Sum: 5,492 (Ranked 139)  
+Max (Relaxing): 689  (Ranked 195)  
+Sum: 5,500 (Ranked 139)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 681 |
+| This game is Relaxing | 689 |
 | This game is Highly Recommended | 637 |
 | This game is Great for Beginners | 627 |
 | This game has Quickly Understood Controls | 624 |
@@ -134,4 +134,4 @@ Diff (max vs sum): 56
 | 2024-01-03 | 4.65 | 668 | 5,299 |
 | 2024-01-04 | 4.65 | 676 | 5,369 |
 | 2024-01-05 | 4.65 | 681 | 5,431 |
-| 2024-01-06 | 4.65 | 681 | 5,492 |
+| 2024-01-06 | 4.65 | 689 | 5,500 |

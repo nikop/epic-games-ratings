@@ -2,13 +2,13 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "ProductSlug": "among-us",
-  "Ranking_Rating": 506,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 55,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-12-18T17:00:00+00:00",
     "PcReleaseDate": "2018-06-15T14:36:00+00:00",
@@ -11439,10 +11439,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 23575,
       "NumberOfAwardsMax": 3001
+    },
+    {
+      "Time": "2024-01-06T22:01:58.6009114+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 23581,
+      "NumberOfAwardsMax": 3001
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23575,
+  "NumberOfAwards": 23581,
   "NumberOfAwardsMax": 3001,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11474,7 +11480,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2132
+      "Count": 2134
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11486,7 +11492,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2194
+      "Count": 2198
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11530,8 +11536,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2024-01-06T17:59:59.4924937+00:00",
+  "LastChanged": "2024-01-06T22:01:58.6009112+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:18.7708634+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:00:08.4622732+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:05:32.6186582+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:01:58.6009118+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:07:11.4054355+00:00"
 }

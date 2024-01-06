@@ -46,7 +46,7 @@ Rating: 4.42 (Ranked 737)
 | Assimilated | 15.00% | ~397 |
 | Go West | 14.00% | ~371 |
 | Max Power | 14.00% | ~371 |
-| Locusts | 13.00% | ~344 |
+| Locusts | 14.00% | ~371 |
 | Tycoon | 12.00% | ~318 |
 | A new Hope | 11.00% | ~291 |
 | Call of Duty | 10.00% | ~265 |

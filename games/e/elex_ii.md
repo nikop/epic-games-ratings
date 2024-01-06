@@ -6,12 +6,12 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 39.00% | ~77 |
-| Best Buddy | 34.00% | ~67 |
-| Civilian | 31.00% | ~61 |
-| Role Model | 29.00% | ~57 |
-| Creator | 25.00% | ~50 |
-| Military Leader | 24.00% | ~48 |
+| Entrepreneur | 39.00% | ~78 |
+| Best Buddy | 35.00% | ~70 |
+| Civilian | 31.00% | ~62 |
+| Role Model | 29.00% | ~58 |
+| Creator | 26.00% | ~52 |
+| Military Leader | 25.00% | ~50 |
 | Peddler | 23.00% | ~46 |
 | Festival-goer | 23.00% | ~46 |
 | Commander | 21.00% | ~42 |
@@ -30,14 +30,14 @@ Number of Ratings: 124  (23.09.2022)
 | Hotshot | 7.00% | ~14 |
 | Perfectionist | 7.00% | ~14 |
 | Treasure Hunter | 6.00% | ~12 |
+| Free as a Bird | 6.00% | ~12 |
 | Lover | 6.00% | ~12 |
-| Free as a Bird | 5.00% | ~10 |
 | Cleric | 5.00% | ~10 |
 | Detective | 5.00% | ~10 |
 | Weaponsmith | 4.00% | ~8 |
 | Self-Sufficient | 4.00% | ~8 |
+| Unbreakable | 4.00% | ~8 |
 | Alchemist | 3.00% | ~6 |
-| Unbreakable | 3.00% | ~6 |
 | Morkon | 3.00% | ~6 |
 | Pack Rat | 2.00% | ~4 |
 | Idealist | 2.00% | ~4 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198 (Ranked 427)  
+Progressed: 199 (Ranked 427)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 172 | 0 |
 | 2024-01-04 | 177 | 0 |
 | 2024-01-05 | 187 | 0 |
-| 2024-01-06 | 198 | 0 |
+| 2024-01-06 | 199 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

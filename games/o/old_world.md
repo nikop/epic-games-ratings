@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 318)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,13 +14,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 1.00% | ~162 |
 | Friendly Family | 1.00% | ~162 |
 | Hanging Gardens | 1.00% | ~162 |
+| Oracle | 1.00% | ~162 |
 | Able | 0.90% | ~145 |
 | Good | 0.90% | ~145 |
 | Learned | 0.90% | ~145 |
 | Mason | 0.90% | ~145 |
 | Noble | 0.90% | ~145 |
 | Pioneer | 0.90% | ~145 |
-| Oracle | 0.90% | ~145 |
 | Trade Caravan | 0.90% | ~145 |
 | Ambitious | 0.80% | ~129 |
 | Enlightened | 0.80% | ~129 |
@@ -42,6 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.70% | ~113 |
 | Babylonian Paganism | 0.70% | ~113 |
 | Roman Paganism | 0.70% | ~113 |
+| Zoroastrianism | 0.70% | ~113 |
 | Regicide | 0.60% | ~97 |
 | Wise | 0.60% | ~97 |
 | Able Difficulty | 0.60% | ~97 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.60% | ~97 |
 | Learn to Play 2 | 0.60% | ~97 |
 | Carthaginian Paganism | 0.60% | ~97 |
-| Zoroastrianism | 0.60% | ~97 |
 | Drillmaster | 0.50% | ~81 |
 | Great | 0.50% | ~81 |
 | Valiant | 0.50% | ~81 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,158 (Ranked 167)  
+Progressed: 16,160 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
-| 2024-01-06 | 16,158 | 5 |
+| 2024-01-06 | 16,160 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,915 (Ranked 222)  

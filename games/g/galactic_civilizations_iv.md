@@ -6,22 +6,22 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,789 |
+| Colonize a Planet | 77.00% | ~5,790 |
 | Worker Specialization | 76.00% | ~5,714 |
-| First Contact | 72.00% | ~5,413 |
+| First Contact | 72.00% | ~5,414 |
 | Win a Battle | 65.00% | ~4,887 |
 | Anomaly Researcher | 60.00% | ~4,511 |
 | Unleash My Power | 60.00% | ~4,511 |
 | Own 30 Planets | 32.00% | ~2,406 |
 | Xenocide | 31.00% | ~2,331 |
 | Design a Civilization | 31.00% | ~2,331 |
-| Commodity Trader | 29.00% | ~2,180 |
+| Commodity Trader | 29.00% | ~2,181 |
 | Design a Ship | 27.00% | ~2,030 |
-| Commodity Seller | 24.00% | ~1,804 |
+| Commodity Seller | 24.00% | ~1,805 |
 | Prestige Victory! | 13.00% | ~977 |
 | Galactic War | 10.00% | ~752 |
-| Trading Partner | 8.00% | ~601 |
-| Fleet Victory | 8.00% | ~601 |
+| Trading Partner | 8.00% | ~602 |
+| Fleet Victory | 8.00% | ~602 |
 | Gain an Ally | 6.00% | ~451 |
 | Win as Terrans | 6.00% | ~451 |
 | Win with a Custom Faction | 6.00% | ~451 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,518 (Ranked 192)  
+Progressed: 7,519 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,17 +339,17 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 7,506 | 0 |
 | 2024-01-04 | 7,511 | 0 |
 | 2024-01-05 | 7,514 | 0 |
-| 2024-01-06 | 7,518 | 0 |
+| 2024-01-06 | 7,519 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 380)  
-Sum: 699 (Ranked 313)  
+Sum: 700 (Ranked 313)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 99 |
 | This game is Relaxing | 91 |
+| This game is Highly Recommended | 88 |
 | This game has Quickly Understood Controls | 87 |
-| This game is Highly Recommended | 87 |
 | This game is Extremely Fun | 83 |
 | This game has Amazing Storytelling | 79 |
 | This game has Competitive Players | 73 |
@@ -481,3 +481,4 @@ Diff (max vs sum): 67
 | 2023-12-17 | 4.17 | - | 97 | 694 |
 | 2023-12-19 | 4.17 | - | 98 | 697 |
 | 2023-12-27 | 4.17 | - | 99 | 699 |
+| 2024-01-06 | 4.17 | - | 99 | 700 |

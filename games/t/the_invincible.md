@@ -1,41 +1,41 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.61 (Ranked 397)  
+Rating: 4.61 (Ranked 398)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 69.00% | ~1,006 |
-| The Teleprobe | 54.00% | ~787 |
-| The City | 49.00% | ~714 |
-| The field base | 44.00% | ~642 |
-| The Alliance | 40.00% | ~583 |
-| Survivors | 38.00% | ~554 |
-| The Condor | 36.00% | ~525 |
-| The End | 36.00% | ~525 |
-| Krauta is alive | 28.00% | ~408 |
-| The Necroevolution | 28.00% | ~408 |
+| The Camp | 69.00% | ~1,008 |
+| The Teleprobe | 54.00% | ~789 |
+| The City | 49.00% | ~716 |
+| The field base | 44.00% | ~643 |
+| The Alliance | 40.00% | ~584 |
+| Survivors | 38.00% | ~555 |
+| The Condor | 37.00% | ~541 |
+| The End | 36.00% | ~526 |
+| Krauta is alive | 28.00% | ~409 |
+| The Necroevolution | 28.00% | ~409 |
 | On her own | 22.00% | ~321 |
 | Peacemaker | 22.00% | ~321 |
 | Volcanologist | 22.00% | ~321 |
 | Fierce fight | 20.00% | ~292 |
 | Evacuation | 20.00% | ~292 |
 | Beyond divisions | 17.00% | ~248 |
-| Flying Objects Operator | 16.00% | ~233 |
+| Flying Objects Operator | 16.00% | ~234 |
 | I remember everything! | 13.00% | ~190 |
 | Another giant | 13.00% | ~190 |
 | Violent solution | 9.00% | ~131 |
 | I leave no man behind | 9.00% | ~131 |
 | Innate curiosity | 7.00% | ~102 |
-| Ubiquitous holes | 6.00% | ~87 |
-| The Invincible | 6.00% | ~87 |
-| Strong objection | 6.00% | ~87 |
+| Ubiquitous holes | 6.00% | ~88 |
+| The Invincible | 6.00% | ~88 |
+| Strong objection | 6.00% | ~88 |
 | Got lost again | 5.00% | ~73 |
 | I leave no man behind (no exceptions) | 2.00% | ~29 |
 | Convoy list | 0.90% | ~13 |
 | No more mistakes | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,458 (Ranked 268)  
+Progressed: 1,461 (Ranked 268)  
 Completed: 1 (0.07%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 1 (0.07%) (Ranked 325)
 | 2024-01-03 | 1,345 | 0 |
 | 2024-01-04 | 1,381 | 1 |
 | 2024-01-05 | 1,415 | 1 |
-| 2024-01-06 | 1,458 | 1 |
+| 2024-01-06 | 1,461 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

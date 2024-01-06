@@ -3,9 +3,9 @@
   "Name": "Fort Solis",
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 279,
-  "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1269,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -3741,9 +3741,9 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 355
+      "UsersEstimate": 368
     },
     {
       "ID": "LightsOut",
@@ -3821,9 +3821,9 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1117
     }
   ],
   "AchievementSets": [
@@ -3836,8 +3836,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:09:54.3959655+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:10:58.1261819+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6987681+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:57:28.6779927+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:09:54.3959883+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:58:07.5137693+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:10:58.126232+00:00"
 }

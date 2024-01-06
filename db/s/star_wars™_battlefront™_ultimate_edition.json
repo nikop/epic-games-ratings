@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2686,
+  "EOS_Progressed": 2688,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
@@ -7364,6 +7364,11 @@
       "Time": "2024-01-06T21:10:08.3363596+00:00",
       "NumProgressed": 2686,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T22:11:16.6219957+00:00",
+      "NumProgressed": 2688,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7448,7 +7453,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "achievement_19",
@@ -7472,7 +7477,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "achievement_21",
@@ -7488,7 +7493,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_23",
@@ -7512,15 +7517,15 @@
       "Name": "A tremor in the Force",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_27",
@@ -7600,7 +7605,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2339
     },
     {
       "ID": "achievement_36",
@@ -7616,7 +7621,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1667
     },
     {
       "ID": "achievement_38",
@@ -7648,7 +7653,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "achievement_41",
@@ -7672,7 +7677,7 @@
       "Name": "Walker defender",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_44",
@@ -7728,7 +7733,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "achievement_50",
@@ -7784,7 +7789,7 @@
       "Name": "Support the troops",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_57",
@@ -7879,13 +7884,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2686,
+      "Progressed": 2688,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2686,
+      "Progressed": 2688,
       "Completed": 1
     }
   ],
@@ -7893,8 +7898,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:10:08.3363595+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:11:16.6219955+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:57:37.2891346+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:10:08.3364375+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:58:20.3879229+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:11:16.6220825+00:00"
 }

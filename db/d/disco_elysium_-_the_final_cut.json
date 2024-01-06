@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1652,9 +1652,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 137849,
+  "EOS_Progressed": 137855,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1461,
+  "EOS_NewPlayers": 1460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27577,6 +27577,11 @@
       "Time": "2024-01-06T21:08:38.9276573+00:00",
       "NumProgressed": 137849,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-06T22:09:15.9783493+00:00",
+      "NumProgressed": 137855,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -27612,7 +27617,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4135
+      "UsersEstimate": 4136
     },
     {
       "ID": "ACH_COP_ART",
@@ -27620,7 +27625,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 24813
+      "UsersEstimate": 24814
     },
     {
       "ID": "ACH_COP_BAD",
@@ -27644,7 +27649,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 31705
+      "UsersEstimate": 31707
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -27660,7 +27665,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -27668,7 +27673,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38598
+      "UsersEstimate": 38599
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -27692,7 +27697,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22056
+      "UsersEstimate": 22057
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -27700,7 +27705,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27570
+      "UsersEstimate": 27571
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -27716,7 +27721,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17920
+      "UsersEstimate": 17921
     },
     {
       "ID": "ACH_COP_STAR",
@@ -27724,7 +27729,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 20677
+      "UsersEstimate": 20678
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -27732,7 +27737,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15163
+      "UsersEstimate": 15164
     },
     {
       "ID": "ACH_CUNO",
@@ -27748,7 +27753,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12406
+      "UsersEstimate": 12407
     },
     {
       "ID": "ACH_GLUTEN",
@@ -27796,7 +27801,7 @@
       "Name": "Avowed Inframaterialist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ACH_KIM",
@@ -27804,7 +27809,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19299
+      "UsersEstimate": 19300
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -27812,7 +27817,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4135
+      "UsersEstimate": 4136
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -27868,7 +27873,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19299
+      "UsersEstimate": 19300
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -27907,15 +27912,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 137849,
+      "Progressed": 137855,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-04T13:03:37.1327393+00:00",
-  "LastChanged_Achievements": "2024-01-06T21:08:38.927657+00:00",
+  "LastChanged_Achievements": "2024-01-06T22:09:15.9783491+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.6922273+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:57:27.5687397+00:00",
-  "LastUpdate_Achievements": "2024-01-06T21:08:38.9277852+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:58:05.9008274+00:00",
+  "LastUpdate_Achievements": "2024-01-06T22:09:15.9785382+00:00"
 }
