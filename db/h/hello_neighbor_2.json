@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3895,
+  "EOS_Progressed": 3896,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
@@ -6872,6 +6872,11 @@
       "Time": "2024-01-06T12:08:50.7052195+00:00",
       "NumProgressed": 3895,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-06T13:12:25.7846372+00:00",
+      "NumProgressed": 3896,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -6891,7 +6896,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -6923,7 +6928,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -6931,7 +6936,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -6971,7 +6976,7 @@
       "Name": "Shovel Night",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -6987,14 +6992,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3078
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3895,
+      "Progressed": 3896,
       "Completed": 144
     }
   ],
@@ -7002,8 +7007,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:08:50.7052193+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:12:25.7846369+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:58:50.0717752+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:08:50.705262+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:02:22.4334269+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:12:25.7846796+00:00"
 }

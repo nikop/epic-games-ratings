@@ -7,10 +7,10 @@ Number of Ratings: 37  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eureka! | 14.00% | ~620 |
-| Tax-man I | 13.00% | ~575 |
-| A new beginning | 13.00% | ~575 |
+| Tax-man I | 13.00% | ~576 |
+| A new beginning | 13.00% | ~576 |
 | Friends from the past | 11.00% | ~487 |
-| I like to build stuff... I | 10.00% | ~442 |
+| I like to build stuff... I | 10.00% | ~443 |
 | A time consuming game I | 9.00% | ~398 |
 | Builder I | 8.00% | ~354 |
 | An honorable Governor I | 8.00% | ~354 |
@@ -51,21 +51,21 @@ Number of Ratings: 37  (23.09.2022)
 | Builder III | 3.00% | ~133 |
 | A time consuming game IV | 3.00% | ~133 |
 | Out of the frying pan | 3.00% | ~133 |
-| The Art of War | 2.00% | ~88 |
-| The King's new clothes III | 2.00% | ~88 |
-| Survivalist | 2.00% | ~88 |
-| My precious... III | 2.00% | ~88 |
-| Lord of War | 2.00% | ~88 |
-| Plague strikes! | 2.00% | ~88 |
-| Builder IV | 2.00% | ~88 |
-| An honorable Governor III | 2.00% | ~88 |
-| Completionist II | 2.00% | ~88 |
-| Completionist III | 2.00% | ~88 |
-| Genius | 2.00% | ~88 |
-| Only the sausage has two ends. | 2.00% | ~88 |
-| I've been everywhere V | 2.00% | ~88 |
-| Tax-man V | 2.00% | ~88 |
-| Tools of the trade III | 2.00% | ~88 |
+| The Art of War | 2.00% | ~89 |
+| The King's new clothes III | 2.00% | ~89 |
+| Survivalist | 2.00% | ~89 |
+| My precious... III | 2.00% | ~89 |
+| Lord of War | 2.00% | ~89 |
+| Plague strikes! | 2.00% | ~89 |
+| Builder IV | 2.00% | ~89 |
+| An honorable Governor III | 2.00% | ~89 |
+| Completionist II | 2.00% | ~89 |
+| Completionist III | 2.00% | ~89 |
+| Genius | 2.00% | ~89 |
+| Only the sausage has two ends. | 2.00% | ~89 |
+| I've been everywhere V | 2.00% | ~89 |
+| Tax-man V | 2.00% | ~89 |
+| Tools of the trade III | 2.00% | ~89 |
 | When there's fire... | 1.00% | ~44 |
 | Reunification | 1.00% | ~44 |
 | Treat her well… | 1.00% | ~44 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,425 (Ranked 207)  
+Progressed: 4,427 (Ranked 207)  
 Completed: 4 (0.09%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 4 (0.09%) (Ranked 315)
 | 2024-01-03 | 4,417 | 4 |
 | 2024-01-04 | 4,420 | 4 |
 | 2024-01-05 | 4,423 | 4 |
-| 2024-01-06 | 4,425 | 4 |
+| 2024-01-06 | 4,427 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

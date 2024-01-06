@@ -1,27 +1,27 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 202)  
+Rating: 4.71 (Ranked 203)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~261,183 |
-| Cavalier | 26.00% | ~212,211 |
-| Fatso | 23.00% | ~187,726 |
-| Awakening | 21.00% | ~171,402 |
-| Ranger | 20.00% | ~163,240 |
-| Scrooge | 20.00% | ~163,240 |
-| Anorectic | 16.00% | ~130,592 |
-| Firestarter | 16.00% | ~130,592 |
-| Bookworm | 15.00% | ~122,430 |
-| Insomniac | 13.00% | ~106,106 |
-| Buddy | 12.00% | ~97,944 |
-| Thief | 12.00% | ~97,944 |
-| Sinner | 11.00% | ~89,782 |
-| Traveller | 11.00% | ~89,782 |
-| Convict | 10.00% | ~81,620 |
-| Haggler | 9.00% | ~73,458 |
+| Blacksmith's Son | 32.00% | ~261,186 |
+| Cavalier | 26.00% | ~212,214 |
+| Fatso | 23.00% | ~187,727 |
+| Awakening | 21.00% | ~171,403 |
+| Ranger | 20.00% | ~163,241 |
+| Scrooge | 20.00% | ~163,241 |
+| Anorectic | 16.00% | ~130,593 |
+| Firestarter | 16.00% | ~130,593 |
+| Bookworm | 15.00% | ~122,431 |
+| Insomniac | 13.00% | ~106,107 |
+| Buddy | 12.00% | ~97,945 |
+| Thief | 12.00% | ~97,945 |
+| Sinner | 11.00% | ~89,783 |
+| Traveller | 11.00% | ~89,783 |
+| Convict | 10.00% | ~81,621 |
+| Haggler | 9.00% | ~73,459 |
 | McLovin | 7.00% | ~57,134 |
 | Runt | 7.00% | ~57,134 |
 | Casanova | 6.00% | ~48,972 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~816 |
 | Wingman | 0.10% | ~816 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 816,198 (Ranked 20)  
+Progressed: 816,206 (Ranked 20)  
 Completed: 53 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 53 (0.01%) (Ranked 371)
 | 2024-01-03 | 815,817 | 53 |
 | 2024-01-04 | 815,980 | 53 |
 | 2024-01-05 | 816,132 | 53 |
-| 2024-01-06 | 816,198 | 53 |
+| 2024-01-06 | 816,206 | 53 |
 ## Awards
 Max (Character Customization): 7,750  (Ranked 53)  
 Sum: 28,757 (Ranked 51)  

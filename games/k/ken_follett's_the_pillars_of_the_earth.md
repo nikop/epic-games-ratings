@@ -6,7 +6,7 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~7,064 |
+| Tattletale | 40.00% | ~7,065 |
 | Man of politics | 34.00% | ~6,005 |
 | Yet another secret | 33.00% | ~5,828 |
 | Friends of sorts | 32.00% | ~5,652 |
@@ -29,11 +29,11 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 10.00% | ~1,766 |
 | First profit | 10.00% | ~1,766 |
 | Team player | 10.00% | ~1,766 |
-| Skilled merchant | 9.00% | ~1,589 |
-| Brother Marcus | 9.00% | ~1,589 |
-| The oath | 9.00% | ~1,589 |
-| The truth revealed | 9.00% | ~1,589 |
-| The End. | 9.00% | ~1,589 |
+| Skilled merchant | 9.00% | ~1,590 |
+| Brother Marcus | 9.00% | ~1,590 |
+| The oath | 9.00% | ~1,590 |
+| The truth revealed | 9.00% | ~1,590 |
+| The End. | 9.00% | ~1,590 |
 | Nothing but make-believe | 8.00% | ~1,413 |
 | A cry for help | 7.00% | ~1,236 |
 | Silentium est aureum | 7.00% | ~1,236 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~530 |
 | Boy of mystery | 2.00% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,661 (Ranked 162)  
+Progressed: 17,662 (Ranked 162)  
 Completed: 125 (0.71%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 125 (0.71%) (Ranked 195)
 | 2024-01-03 | 17,600 | 124 |
 | 2024-01-04 | 17,624 | 124 |
 | 2024-01-05 | 17,651 | 125 |
-| 2024-01-06 | 17,661 | 125 |
+| 2024-01-06 | 17,662 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 324)  
 Sum: 200 (Ranked 417)  

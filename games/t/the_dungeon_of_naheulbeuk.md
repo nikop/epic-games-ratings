@@ -6,26 +6,26 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,852 |
-| Alt+F4 | 10.00% | ~24,681 |
-| Where's that freaking Dwarf? | 9.00% | ~22,213 |
-| Déjà vu | 8.00% | ~19,745 |
+| Sowwy! | 36.00% | ~88,855 |
+| Alt+F4 | 10.00% | ~24,682 |
+| Where's that freaking Dwarf? | 9.00% | ~22,214 |
+| Déjà vu | 8.00% | ~19,746 |
 | Sock! SOCK! | 6.00% | ~14,809 |
 | Speedrun | 6.00% | ~14,809 |
-| A beer, two curses, three companions | 5.00% | ~12,340 |
-| GG EZ | 5.00% | ~12,340 |
-| DM intervention | 5.00% | ~12,340 |
-| The plot thickens... At the tavern | 4.00% | ~9,872 |
-| Fireproof Wizardess | 4.00% | ~9,872 |
-| Livin' in a dwarven paradise | 3.00% | ~7,404 |
-| Way of the Wimp | 3.00% | ~7,404 |
-| The demons' feast | 3.00% | ~7,404 |
-| The Great Library | 3.00% | ~7,404 |
-| Torture and Sensibility | 3.00% | ~7,404 |
-| Urik's Depths | 3.00% | ~7,404 |
-| The Woman in the High Castle | 3.00% | ~7,404 |
-| Team Building Exercise | 3.00% | ~7,404 |
-| Oh, when I'll be level 10... | 3.00% | ~7,404 |
+| A beer, two curses, three companions | 5.00% | ~12,341 |
+| GG EZ | 5.00% | ~12,341 |
+| DM intervention | 5.00% | ~12,341 |
+| The plot thickens... At the tavern | 4.00% | ~9,873 |
+| Fireproof Wizardess | 4.00% | ~9,873 |
+| Livin' in a dwarven paradise | 3.00% | ~7,405 |
+| Way of the Wimp | 3.00% | ~7,405 |
+| The demons' feast | 3.00% | ~7,405 |
+| The Great Library | 3.00% | ~7,405 |
+| Torture and Sensibility | 3.00% | ~7,405 |
+| Urik's Depths | 3.00% | ~7,405 |
+| The Woman in the High Castle | 3.00% | ~7,405 |
+| Team Building Exercise | 3.00% | ~7,405 |
+| Oh, when I'll be level 10... | 3.00% | ~7,405 |
 | Shiny and Crôm | 2.00% | ~4,936 |
 | The Dungeon Master | 2.00% | ~4,936 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,936 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 1.00% | ~2,468 |
 | Lust and Debauchery | 1.00% | ~2,468 |
 | Material Girl | 1.00% | ~2,468 |
-| We come in peace | 0.80% | ~1,974 |
+| We come in peace | 0.80% | ~1,975 |
 | Holistic Adventuring Party | 0.70% | ~1,728 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,728 |
 | Law and Order | 0.70% | ~1,728 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,810 (Ranked 71)  
+Progressed: 246,820 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 8 (0.00%) (Ranked 393)
 | 2024-01-03 | 246,417 | 8 |
 | 2024-01-04 | 246,586 | 8 |
 | 2024-01-05 | 246,735 | 8 |
-| 2024-01-06 | 246,810 | 8 |
+| 2024-01-06 | 246,820 | 8 |
 ## Awards
 Max (Character Customization): 266  (Ranked 274)  
 Sum: 560 (Ranked 327)  

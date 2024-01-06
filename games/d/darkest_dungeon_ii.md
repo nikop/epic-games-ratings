@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~878 |
-| Lost and Found | 8.00% | ~540 |
-| Autodidact | 7.00% | ~9,232 |
-| This Belongs in a Museum | 6.00% | ~7,913 |
-| Overdue Notice | 6.00% | ~7,913 |
-| This guy... again? | 6.00% | ~405 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,594 |
-| Serenity Now! | 5.00% | ~6,594 |
-| Creep and Sleep | 5.00% | ~6,594 |
-| Meat and Greet | 5.00% | ~6,594 |
-| Catch and Decease | 5.00% | ~6,594 |
-| Escape from the Black Hole | 5.00% | ~6,594 |
-| Rush Hour | 5.00% | ~6,594 |
-| To Grandmother's House | 5.00% | ~6,594 |
+| Malpractice Assurance | 13.00% | ~879 |
+| Lost and Found | 8.00% | ~541 |
+| Autodidact | 7.00% | ~9,233 |
+| This Belongs in a Museum | 6.00% | ~7,914 |
+| Overdue Notice | 6.00% | ~7,914 |
+| This guy... again? | 6.00% | ~406 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,595 |
+| Serenity Now! | 5.00% | ~6,595 |
+| Creep and Sleep | 5.00% | ~6,595 |
+| Meat and Greet | 5.00% | ~6,595 |
+| Catch and Decease | 5.00% | ~6,595 |
+| Escape from the Black Hole | 5.00% | ~6,595 |
+| Rush Hour | 5.00% | ~6,595 |
+| To Grandmother's House | 5.00% | ~6,595 |
 | Ploughshares to Swords | 5.00% | ~338 |
 | Bloody Graduation | 5.00% | ~338 |
-| It Rings a Bell | 4.00% | ~5,275 |
-| Not Today! | 4.00% | ~5,275 |
-| It Happens | 4.00% | ~5,275 |
-| Merry Time | 4.00% | ~5,275 |
-| Harvest Festival | 4.00% | ~5,275 |
-| Whale | 4.00% | ~5,275 |
-| A Place to Lay Your Head | 4.00% | ~5,275 |
-| FNG | 4.00% | ~5,275 |
-| Nope | 4.00% | ~5,275 |
+| It Rings a Bell | 4.00% | ~5,276 |
+| Not Today! | 4.00% | ~5,276 |
+| It Happens | 4.00% | ~5,276 |
+| Merry Time | 4.00% | ~5,276 |
+| Harvest Festival | 4.00% | ~5,276 |
+| Whale | 4.00% | ~5,276 |
+| A Place to Lay Your Head | 4.00% | ~5,276 |
+| FNG | 4.00% | ~5,276 |
+| Nope | 4.00% | ~5,276 |
 | Friends 'Til the End | 4.00% | ~270 |
 | Resurrection | 3.00% | ~3,957 |
 | Unleash Hell | 3.00% | ~3,957 |
@@ -59,12 +59,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,638 |
 | Hot Air | 2.00% | ~2,638 |
 | Eyes Up | 2.00% | ~2,638 |
+| Clearing the Ledger | 1.00% | ~1,319 |
 | Shrine of Reflection | 1.00% | ~1,319 |
 | Handled | 1.00% | ~1,319 |
 | Body of Work | 1.00% | ~1,319 |
 | Slap on the Wrist | 1.00% | ~68 |
 | For Old Time' Sake | 1.00% | ~68 |
-| Clearing the Ledger | 0.90% | ~1,187 |
 | Hat Trick | 0.90% | ~1,187 |
 | Triage | 0.90% | ~1,187 |
 | No Mercy | 0.90% | ~61 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,885 (Ranked 91)  
+Progressed: 131,893 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,885 | 3 |
+| 2024-01-06 | 131,893 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
 Sum: 21,470 (Ranked 58)  

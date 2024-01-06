@@ -1,13 +1,13 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 616)  
+Rating: 4.50 (Ranked 615)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,668 |
+| Meticulously Efficient | 9.00% | ~3,001 |
 | Advancement | 8.00% | ~2,668 |
-| Meticulously Efficient | 8.00% | ~2,668 |
 | Discovery | 6.00% | ~2,001 |
 | Solo Capture | 6.00% | ~2,001 |
 | Swift Rift Removers | 6.00% | ~2,001 |

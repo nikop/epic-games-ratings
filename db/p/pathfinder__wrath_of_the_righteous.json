@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4835,9 +4835,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13075,
+  "EOS_Progressed": 13076,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19065,6 +19065,11 @@
       "Time": "2024-01-06T12:10:57.7867807+00:00",
       "NumProgressed": 13075,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T13:13:57.9159365+00:00",
+      "NumProgressed": 13076,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19076,7 +19081,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "02_BurningCity",
@@ -19284,7 +19289,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "29_StrategicVictory",
@@ -19428,7 +19433,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -20003,21 +20008,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11857,
+      "Progressed": 11858,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13075,
+      "Progressed": 13076,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-06T11:59:32.2611938+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:10:57.7867804+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:13:57.9159363+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:59:32.2611948+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:10:57.7869542+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:02:50.6408865+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:13:57.9161052+00:00"
 }

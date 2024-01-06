@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4425,
+  "EOS_Progressed": 4427,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1943,6 +1943,11 @@
       "Time": "2024-01-06T12:10:59.9829165+00:00",
       "NumProgressed": 4425,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T13:13:59.7937569+00:00",
+      "NumProgressed": 4427,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1954,7 +1959,7 @@
       "Name": "The Art of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_AUTOTRADE_01",
@@ -2018,7 +2023,7 @@
       "Name": "I like to build stuff... I",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS2",
@@ -2082,7 +2087,7 @@
       "Name": "The King\u0027s new clothes III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_DECO_CATEGORIES",
@@ -2122,7 +2127,7 @@
       "Name": "Survivalist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_JEWELS1",
@@ -2146,7 +2151,7 @@
       "Name": "My precious... III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_LASTMANSTANDING",
@@ -2162,7 +2167,7 @@
       "Name": "Lord of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_LOSTPLAGUE",
@@ -2178,7 +2183,7 @@
       "Name": "Plague strikes!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_POPULATION1",
@@ -2210,7 +2215,7 @@
       "Name": "Builder IV",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_POPULATION5",
@@ -2242,7 +2247,7 @@
       "Name": "An honorable Governor III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_QUESTS1",
@@ -2258,7 +2263,7 @@
       "Name": "Completionist II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_QUESTS3",
@@ -2266,7 +2271,7 @@
       "Name": "Completionist III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_REBUILTIT",
@@ -2322,7 +2327,7 @@
       "Name": "Genius",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_SAUSAGES",
@@ -2330,7 +2335,7 @@
       "Name": "Only the sausage has two ends.",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_ATALEOFTWOCLANS",
@@ -2538,7 +2543,7 @@
       "Name": "I\u0027ve been everywhere V",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_TWELVE",
@@ -2602,7 +2607,7 @@
       "Name": "Tax-man I",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -2634,7 +2639,7 @@
       "Name": "Tax-man V",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_TIME1",
@@ -2698,7 +2703,7 @@
       "Name": "Tools of the trade III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION01",
@@ -2706,7 +2711,7 @@
       "Name": "A new beginning",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2761,15 +2766,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4425,
+      "Progressed": 4427,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:10:59.9829161+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:13:59.7937567+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.4533426+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:57:51.7110343+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:10:59.9830169+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:01:43.5621219+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:13:59.7938476+00:00"
 }

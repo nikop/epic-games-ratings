@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -59,7 +59,7 @@
   "Tags": [],
   "EOS_Progressed": 1249,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3775,9 +3775,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 100
     },
     {
       "ID": "CosmeticProgress1",
@@ -3911,9 +3911,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 162
     },
     {
       "ID": "NoCritterSump",
@@ -4007,9 +4007,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 325
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4144,8 +4144,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:10:55.333941+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:13:55.9308813+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:57:58.9325398+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:10:55.3339868+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:01:48.3788969+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:13:55.9309361+00:00"
 }

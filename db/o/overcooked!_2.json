@@ -2,13 +2,13 @@
   "ID": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
   "Name": "Overcooked! 2",
   "ProductSlug": "overcooked-2",
-  "Ranking_Rating": 202,
+  "Ranking_Rating": 203,
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-06-17T15:00:00+00:00",
     "PcReleaseDate": "2018-08-07T09:00:00+00:00",
@@ -3690,10 +3690,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 2361,
       "NumberOfAwardsMax": 273
+    },
+    {
+      "Time": "2024-01-06T13:02:49.7769176+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 2363,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2361,
+  "NumberOfAwards": 2363,
   "NumberOfAwardsMax": 273,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3713,7 +3719,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 219
+      "Count": 220
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3761,7 +3767,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 173
+      "Count": 174
     },
     {
       "Text": "This game has a Creative Community",
@@ -3787,8 +3793,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2024-01-06T09:58:41.5930465+00:00",
+  "LastChanged": "2024-01-06T13:02:49.7769175+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:47.1101273+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:59:30.6395649+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:08:47.2327521+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:02:49.7769179+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:12:23.2994315+00:00"
 }

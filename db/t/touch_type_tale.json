@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,7 +37,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3996,
+  "EOS_Progressed": 3997,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -5497,6 +5497,11 @@
       "Time": "2024-01-06T10:05:25.1924691+00:00",
       "NumProgressed": 3996,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-06T13:09:35.562438+00:00",
+      "NumProgressed": 3997,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5644,7 +5649,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2998
     },
     {
       "ID": "campaign20",
@@ -5668,7 +5673,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "campaign5",
@@ -5676,7 +5681,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "campaign6",
@@ -5684,7 +5689,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "campaign7",
@@ -5738,9 +5743,9 @@
       "ID": "scenario4",
       "SetID": "2h56gn1",
       "Name": "A Secret Recipe",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 240
     },
     {
       "ID": "scenario5",
@@ -5771,7 +5776,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3996,
+      "Progressed": 3997,
       "Completed": 11
     }
   ],
@@ -5779,8 +5784,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:06:56.7896677+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:09:35.5624377+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:59:57.1978656+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:06:56.7897238+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:03:07.3497485+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:09:35.5624925+00:00"
 }

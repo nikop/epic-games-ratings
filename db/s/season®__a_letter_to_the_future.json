@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1996,
+  "EOS_Progressed": 1997,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.71,
   "EosHistory": [
@@ -4584,6 +4584,11 @@
       "Time": "2024-01-06T12:10:35.7898551+00:00",
       "NumProgressed": 1996,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2024-01-06T13:13:40.9433459+00:00",
+      "NumProgressed": 1997,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 16,
@@ -4595,7 +4600,7 @@
       "Name": "Artist Assistant",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -4611,7 +4616,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -4651,15 +4656,15 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1598
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4715,14 +4720,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1996,
+      "Progressed": 1997,
       "Completed": 74
     }
   ],
@@ -4730,8 +4735,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:10:35.7898544+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:13:40.9433454+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:58:53.4251402+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:10:35.7898836+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:02:24.6515855+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:13:40.9433775+00:00"
 }

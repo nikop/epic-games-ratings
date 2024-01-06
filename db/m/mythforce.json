@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6131,
+  "EOS_Progressed": 6132,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12664,6 +12664,11 @@
       "Time": "2024-01-06T11:07:11.0325375+00:00",
       "NumProgressed": 6131,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T13:08:30.4463181+00:00",
+      "NumProgressed": 6132,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12676,7 +12681,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -12700,7 +12705,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -12724,7 +12729,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12859,15 +12864,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6131,
+      "Progressed": 6132,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:05:26.1169887+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:08:30.4463175+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:01:55.2587786+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:05:26.1170623+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:04:26.2576801+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:08:30.4463805+00:00"
 }

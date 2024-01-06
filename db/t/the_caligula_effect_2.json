@@ -6,9 +6,9 @@
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 413,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
     "PcReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251,
+  "EOS_Progressed": 252,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.8,
+  "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:18.7038891+00:00",
@@ -188,6 +188,11 @@
       "Time": "2024-01-06T12:10:50.8948351+00:00",
       "NumProgressed": 251,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T13:13:52.4935194+00:00",
+      "NumProgressed": 252,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 49,
@@ -205,9 +210,9 @@
       "ID": "ACH_02",
       "SetID": "2eg5kgc",
       "Name": "Welcome to Redo",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_03",
@@ -215,7 +220,7 @@
       "Name": "Daily Life Begins Anew",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_04",
@@ -223,7 +228,7 @@
       "Name": "Go-Home Club Activities START!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_05",
@@ -231,7 +236,7 @@
       "Name": "Behind the Curtain",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_06",
@@ -253,9 +258,9 @@
       "ID": "ACH_08",
       "SetID": "2eg5kgc",
       "Name": "The Greater Good",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_09",
@@ -293,9 +298,9 @@
       "ID": "ACH_13",
       "SetID": "2eg5kgc",
       "Name": "Depths of the Heart",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_14",
@@ -317,9 +322,9 @@
       "ID": "ACH_16",
       "SetID": "2eg5kgc",
       "Name": "Friendly Neighborhood",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_17",
@@ -341,9 +346,9 @@
       "ID": "ACH_19",
       "SetID": "2eg5kgc",
       "Name": "Philanthropist",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_20",
@@ -453,9 +458,9 @@
       "ID": "ACH_33",
       "SetID": "2eg5kgc",
       "Name": "WIRE Guru",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_34",
@@ -509,9 +514,9 @@
       "ID": "ACH_40",
       "SetID": "2eg5kgc",
       "Name": "Never Saw It Coming",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_41",
@@ -527,7 +532,7 @@
       "Name": "Coup de Grace",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_43",
@@ -535,7 +540,7 @@
       "Name": "Our World Now",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_44",
@@ -590,15 +595,15 @@
     {
       "ID": "2eg5kgc",
       "IsBase": true,
-      "Progressed": 251,
+      "Progressed": 252,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:10:50.8948349+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:13:52.4935189+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.9298582+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:58:23.0082061+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:10:50.8948653+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:02:04.3252434+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:13:52.493553+00:00"
 }

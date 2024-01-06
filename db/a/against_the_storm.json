@@ -3791,10 +3791,10 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 20267,
+  "EOS_Progressed": 20271,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 593,
-  "EOS_NewCompleters": -2,
+  "EOS_NewPlayers": 588,
+  "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -18646,6 +18646,11 @@
       "Time": "2024-01-06T12:07:49.2582316+00:00",
       "NumProgressed": 20267,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-06T13:10:12.7904752+00:00",
+      "NumProgressed": 20271,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18994,7 +18999,7 @@
       "Name": "Taking Action",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "WinWithResolve",
@@ -19058,7 +19063,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "WinNearFrosts",
@@ -19066,7 +19071,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "WinNearGreed",
@@ -19074,7 +19079,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "WinNearLibrary",
@@ -19082,7 +19087,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "WinNearPetrified",
@@ -19098,7 +19103,7 @@
       "Name": "Ominous Presence",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "WinNearStorms",
@@ -19129,15 +19134,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20267,
+      "Progressed": 20271,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-06T12:01:26.0870825+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:07:49.258231+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:10:12.7904745+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:01:26.087083+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:07:49.2583564+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:04:06.8370551+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:10:12.790623+00:00"
 }

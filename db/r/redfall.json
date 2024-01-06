@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -369,7 +369,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2274,
+  "EOS_Progressed": 2275,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -4079,6 +4079,11 @@
       "Time": "2024-01-06T12:05:14.8442942+00:00",
       "NumProgressed": 2274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T13:08:22.4515941+00:00",
+      "NumProgressed": 2275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4098,7 +4103,7 @@
       "Name": "Revelations",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_003",
@@ -4106,7 +4111,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "Achievement_004",
@@ -4122,7 +4127,7 @@
       "Name": "Contingency Plans",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_007",
@@ -4162,7 +4167,7 @@
       "Name": "Block Party",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_012",
@@ -4234,7 +4239,7 @@
       "Name": "Sic Transit Umbra",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_021",
@@ -4250,7 +4255,7 @@
       "Name": "Bell-ringer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_023",
@@ -4258,7 +4263,7 @@
       "Name": "Silence Is Golden",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_024",
@@ -4266,7 +4271,7 @@
       "Name": "Good Morning",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_025",
@@ -4282,7 +4287,7 @@
       "Name": "Fly Fisher",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Achievement_027",
@@ -4322,7 +4327,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Achievement_032",
@@ -4386,7 +4391,7 @@
       "Name": "Check, Please!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_040",
@@ -4466,7 +4471,7 @@
       "Name": "Right This Way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_052",
@@ -4482,7 +4487,7 @@
       "Name": "Harvest\u2019s End",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_055",
@@ -4617,7 +4622,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2274,
+      "Progressed": 2275,
       "Completed": 0
     }
   ],
@@ -4625,8 +4630,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-06T04:58:33.5555876+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:05:14.8442937+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:08:22.4515938+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:59:06.7846054+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:05:14.8443901+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:02:33.4544551+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:08:22.4516788+00:00"
 }

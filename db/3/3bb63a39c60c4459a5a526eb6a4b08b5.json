@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1099,
+  "EOS_Progressed": 1100,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -4274,6 +4274,11 @@
       "Time": "2024-01-06T05:10:39.4270502+00:00",
       "NumProgressed": 1099,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T13:13:52.2688941+00:00",
+      "NumProgressed": 1100,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4301,7 +4306,7 @@
       "Name": "Basic Controls",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "BigPlane",
@@ -4323,9 +4328,9 @@
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 198
     },
     {
       "ID": "Close",
@@ -4461,7 +4466,7 @@
       "Name": "Management Master",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MaximumUpgrade",
@@ -4573,7 +4578,7 @@
       "Name": "Reviewer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ScenarioAmateur",
@@ -4620,14 +4625,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1099,
+      "Progressed": 1100,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:10:50.603072+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:13:52.2688938+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.0647724+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:58:25.8154179+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:10:50.6031217+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:02:06.1567757+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:13:52.2689425+00:00"
 }

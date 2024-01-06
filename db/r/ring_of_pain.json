@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242459,
+  "EOS_Progressed": 242465,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30885,6 +30885,11 @@
       "Time": "2024-01-06T12:10:59.6421041+00:00",
       "NumProgressed": 242459,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-06T13:13:59.378158+00:00",
+      "NumProgressed": 242465,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31952,7 +31957,7 @@
       "Name": "Not Touching You",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -31999,13 +32004,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242459,
+      "Progressed": 242465,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3939,
+      "Progressed": 3945,
       "Completed": 421
     }
   ],
@@ -32013,8 +32018,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:10:59.6421038+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:13:59.3781575+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:01:06.0325099+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:10:59.6423714+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:03:53.1497455+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:13:59.3784077+00:00"
 }

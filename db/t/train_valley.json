@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 636,
+  "EOS_Progressed": 637,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1845,6 +1845,11 @@
       "Time": "2024-01-06T12:08:12.7301304+00:00",
       "NumProgressed": 636,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T13:10:29.4034657+00:00",
+      "NumProgressed": 637,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1856,7 +1861,7 @@
       "Name": "Getting started",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "02_collector",
@@ -1864,7 +1869,7 @@
       "Name": "Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "03_philatelist",
@@ -1872,7 +1877,7 @@
       "Name": "Philatelist",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "04_tycoon",
@@ -1888,7 +1893,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "06_living",
@@ -1912,7 +1917,7 @@
       "Name": "America",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "09_russia",
@@ -1984,7 +1989,7 @@
       "Name": "Builder",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "18_foreman",
@@ -2008,7 +2013,7 @@
       "Name": "Sabotage",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "21_missed",
@@ -2016,7 +2021,7 @@
       "Name": "Missed it!",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "22_ouroboros",
@@ -2088,7 +2093,7 @@
       "Name": "Completely nuts!",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "31_chancellor",
@@ -2167,15 +2172,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 636,
+      "Progressed": 637,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:08:12.7301301+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:10:29.4034654+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.4916275+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:59:33.2146577+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:08:12.7301664+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:02:51.2616504+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:10:29.4034991+00:00"
 }

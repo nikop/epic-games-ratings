@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Small town | 19.00% | ~93 |
 | I like parks | 17.00% | ~83 |
-| The spiritual world... | 9.00% | ~44 |
+| The spiritual world... | 10.00% | ~49 |
 | It is nice to share with friends in the city | 9.00% | ~44 |
 | The woodcutter | 8.00% | ~39 |
 | Sport is good for you | 8.00% | ~39 |
-| I like books | 6.00% | ~29 |
+| I like books | 7.00% | ~34 |
 | I like my life | 6.00% | ~29 |
 | Clean energy | 6.00% | ~29 |
 | Bucolic city | 6.00% | ~29 |
@@ -18,9 +18,9 @@
 | Food producer | 2.00% | ~10 |
 | I love books! | 2.00% | ~10 |
 | I love parks | 2.00% | ~10 |
+| Rebel city | 2.00% | ~10 |
 | King of fish | 1.00% | ~5 |
 | What would we do if we can't go out with friends? | 1.00% | ~5 |
-| Rebel city | 1.00% | ~5 |
 | City crisis | 0.80% | ~4 |
 | Metropolurbek | 0.80% | ~4 |
 | Banking city | 0.60% | ~3 |

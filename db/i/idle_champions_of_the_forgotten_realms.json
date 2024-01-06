@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9361,10 +9361,10 @@
       "Count": 3628
     }
   ],
-  "EOS_Progressed": 251917,
-  "EOS_Completed": 2596,
-  "EOS_NewPlayers": 4425,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 251939,
+  "EOS_Completed": 2597,
+  "EOS_NewPlayers": 4409,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -38926,6 +38926,11 @@
       "Time": "2024-01-06T12:11:01.8341727+00:00",
       "NumProgressed": 251917,
       "NumCompleted": 2596
+    },
+    {
+      "Time": "2024-01-06T13:14:01.1659624+00:00",
+      "NumProgressed": 251939,
+      "NumCompleted": 2597
     }
   ],
   "TotalAchievements": 546,
@@ -38937,7 +38942,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10077
+      "UsersEstimate": 10078
     },
     {
       "ID": "objective_completed_10",
@@ -40263,9 +40268,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 1008
     },
     {
       "ID": "objective_completed_20",
@@ -40609,7 +40614,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5038
+      "UsersEstimate": 5039
     },
     {
       "ID": "objective_completed_34",
@@ -40617,7 +40622,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "objective_completed_35",
@@ -40801,7 +40806,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "objective_completed_40",
@@ -43304,21 +43309,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218191,
+      "Progressed": 218213,
       "Completed": 4138
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251917,
-      "Completed": 2596
+      "Progressed": 251939,
+      "Completed": 2597
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-06T02:20:27.8906984+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:11:01.8341723+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:14:01.1659621+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:01:15.1563761+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:11:01.8366135+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:03:59.1841447+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:14:01.1685033+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Venus",
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:53:03.1650698+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:07:55.9378534+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:10:17.3866628+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:17.77043+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:01:33.5607959+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:07:55.9378554+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:04:11.5962053+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:10:17.386664+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2220,9 +2220,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16148,
+  "EOS_Progressed": 16150,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19055,6 +19055,11 @@
       "Time": "2024-01-06T12:11:00.4145132+00:00",
       "NumProgressed": 16148,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-06T13:14:00.0249687+00:00",
+      "NumProgressed": 16150,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19112,9 +19117,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -19418,7 +19423,7 @@
       "Name": "Architect",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -19498,7 +19503,7 @@
       "Name": "Explorer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -19554,7 +19559,7 @@
       "Name": "Intrepid",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -19690,7 +19695,7 @@
       "Name": "Settler",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -19978,7 +19983,7 @@
       "Name": "Friendly Family",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -20434,7 +20439,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -20818,7 +20823,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -21929,21 +21934,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16148,
+      "Progressed": 16150,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16148,
+      "Progressed": 16150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:11:00.4145128+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:14:00.0249685+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:00:16.0960563+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:11:00.4155522+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:03:19.4977608+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:14:00.0259407+00:00"
 }

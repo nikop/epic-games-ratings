@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 855,
+  "EOS_Progressed": 856,
   "EOS_Completed": 144,
   "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.84,
+  "EOS_Completed_Percentage": 16.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3686,6 +3686,11 @@
       "Time": "2024-01-04T11:04:22.5835226+00:00",
       "NumProgressed": 855,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-06T13:08:09.2782102+00:00",
+      "NumProgressed": 856,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 22,
@@ -3697,7 +3702,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "LEVEL_002",
@@ -3705,15 +3710,15 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 573
+      "UsersEstimate": 565
     },
     {
       "ID": "LEVEL_004",
@@ -3721,7 +3726,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "LEVEL_005",
@@ -3737,7 +3742,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "LEVEL_007",
@@ -3761,7 +3766,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "LEVEL_010",
@@ -3799,9 +3804,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 180
     },
     {
       "ID": "LEVEL_015",
@@ -3825,7 +3830,7 @@
       "Name": "Commuting",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "LEVEL_018",
@@ -3849,7 +3854,7 @@
       "Name": "City of dreams",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "LEVEL_021",
@@ -3857,7 +3862,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "LEVEL_022",
@@ -3865,14 +3870,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 855,
+      "Progressed": 856,
       "Completed": 144
     }
   ],
@@ -3880,8 +3885,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:04:56.6697839+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:08:09.2782098+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.1700467+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:01:20.3511577+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:04:56.6698205+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:04:02.6453632+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:08:09.2782623+00:00"
 }

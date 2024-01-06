@@ -19,7 +19,7 @@
 | Dopa-Miner | 32.00% | ~79 |
 | Up, Up And Away! | 32.00% | ~79 |
 | Whoa! | 30.00% | ~74 |
-| Botropolis | 25.00% | ~62 |
+| Botropolis | 26.00% | ~64 |
 | Steaming Rich | 21.00% | ~52 |
 | Steam Powered | 20.00% | ~49 |
 | Manic Mechanic | 18.00% | ~44 |

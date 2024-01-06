@@ -13,9 +13,9 @@ Rating: 4.67 (Ranked 285)
 | Time Flies | 26.00% | ~325 |
 | No, Thanks! | 26.00% | ~325 |
 | The Prince in Heels | 26.00% | ~325 |
+| Honest Mistake | 26.00% | ~325 |
 | Make Up For Lost Time | 25.00% | ~312 |
 | The Harder They Fall | 25.00% | ~312 |
-| Honest Mistake | 25.00% | ~312 |
 | Immaculate Aim | 25.00% | ~312 |
 | Fast Learner | 24.00% | ~300 |
 | The Steel Shadow | 23.00% | ~287 |
@@ -33,10 +33,10 @@ Rating: 4.67 (Ranked 285)
 | Whiz Kid | 15.00% | ~187 |
 | Good Neighbor | 15.00% | ~187 |
 | Family Memories | 14.00% | ~175 |
+| Cartographer | 13.00% | ~162 |
 | Ask Questions Later | 13.00% | ~162 |
 | Chaincrawler Explorer | 12.00% | ~150 |
 | Treasure Trove | 12.00% | ~150 |
-| Cartographer | 12.00% | ~150 |
 | Syron for Hope | 12.00% | ~150 |
 | Sump Explorer | 11.00% | ~137 |
 | Factorywood Explorer | 10.00% | ~125 |
@@ -44,8 +44,8 @@ Rating: 4.67 (Ranked 285)
 | Theater Explorer | 10.00% | ~125 |
 | Cultivair Explorer | 9.00% | ~112 |
 | Corin Goes Home | 8.00% | ~100 |
+| Sartorialist | 8.00% | ~100 |
 | Entresol Explorer | 8.00% | ~100 |
-| Sartorialist | 7.00% | ~87 |
 | Golem Hunter | 7.00% | ~87 |
 | Clovemary for Remembering | 6.00% | ~75 |
 | Hexlock for Protection | 6.00% | ~75 |

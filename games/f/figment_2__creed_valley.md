@@ -8,15 +8,15 @@
 | Remembering of the past | 47.00% | ~31 |
 | Fight like an idiot | 38.00% | ~25 |
 | Ouch, that hurt! | 36.00% | ~24 |
-| Slam-KABAM | 30.00% | ~20 |
+| Slam-KABAM | 32.00% | ~21 |
+| Heavy Thoughts | 24.00% | ~16 |
 | A heavy thinker | 24.00% | ~16 |
-| Heavy Thoughts | 23.00% | ~15 |
+| Flee like an idiot | 21.00% | ~14 |
 | Repair the Mind Validation Machine | 20.00% | ~13 |
-| Flee like an idiot | 20.00% | ~13 |
 | Elementary, My Dear Dusty | 20.00% | ~13 |
 | Dance like an idiot | 14.00% | ~9 |
+| Come full circle | 12.00% | ~8 |
 | I'm Back at the Surface now | 12.00% | ~8 |
-| Come full circle | 11.00% | ~7 |
 | Patient Listener | 6.00% | ~4 |
 | GOAAAAAAAAAL! | 6.00% | ~4 |
 | Whac-a-worker | 2.00% | ~1 |

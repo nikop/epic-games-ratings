@@ -5,21 +5,21 @@ Rating: 4.80 (Ranked 93)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 69.00% | ~1,004 |
-| The Adventure Begins | 49.00% | ~713 |
-| Swabbie | 36.00% | ~524 |
-| With Great Power… | 36.00% | ~524 |
-| This Belongs in a Museum | 33.00% | ~480 |
-| The Gambit Has Begun | 30.00% | ~436 |
-| Somewhere Deep in the Lost Caribbean | 26.00% | ~378 |
-| Mirror Mirror on the Wall | 26.00% | ~378 |
-| Powder Monkey | 26.00% | ~378 |
-| Pirates Assemble! | 24.00% | ~349 |
+| A New Journey | 68.00% | ~991 |
+| The Adventure Begins | 49.00% | ~714 |
+| Swabbie | 36.00% | ~525 |
+| With Great Power… | 36.00% | ~525 |
+| This Belongs in a Museum | 33.00% | ~481 |
+| The Gambit Has Begun | 30.00% | ~437 |
+| Somewhere Deep in the Lost Caribbean | 26.00% | ~379 |
+| Mirror Mirror on the Wall | 26.00% | ~379 |
+| Powder Monkey | 26.00% | ~379 |
+| Pirates Assemble! | 24.00% | ~350 |
 | Buccaneer | 20.00% | ~291 |
 | Fishy Fish | 20.00% | ~291 |
-| All Good Things | 17.00% | ~247 |
+| All Good Things | 17.00% | ~248 |
 | Persistent Parasite | 16.00% | ~233 |
-| Seadog | 15.00% | ~218 |
+| Seadog | 14.00% | ~204 |
 | Jaded Judge | 12.00% | ~175 |
 | Tobacco Travesty | 11.00% | ~160 |
 | Rustic Recipe | 11.00% | ~160 |
@@ -32,8 +32,8 @@ Rating: 4.80 (Ranked 93)
 | Marauder | 3.00% | ~44 |
 | Welcome Back Jester | 3.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,455 (Ranked 267)  
-Completed: 36 (2.47%) (Ranked 125)  
+Progressed: 1,457 (Ranked 267)  
+Completed: 36 (2.47%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,7 +181,7 @@ Completed: 36 (2.47%) (Ranked 125)
 | 2024-01-03 | 1,423 | 35 |
 | 2024-01-04 | 1,439 | 35 |
 | 2024-01-05 | 1,448 | 36 |
-| 2024-01-06 | 1,455 | 36 |
+| 2024-01-06 | 1,457 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

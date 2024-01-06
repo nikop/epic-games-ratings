@@ -6,9 +6,9 @@
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 335,
-  "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 109,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 631,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.02,
+  "EOS_Completed_Percentage": 3.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -1079,6 +1079,11 @@
       "Time": "2024-01-06T10:10:00.481898+00:00",
       "NumProgressed": 630,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-06T13:13:48.5772618+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1088,9 +1093,9 @@
       "ID": "ACE",
       "SetID": "2iigf77",
       "Name": "Ace",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 101
     },
     {
       "ID": "ANNOYING",
@@ -1114,23 +1119,23 @@
       "Name": "Buckle up",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "CONCRETE_PAINTING",
       "SetID": "2iigf77",
       "Name": "Concrete painting",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 101
     },
     {
       "ID": "CURIOUS",
       "SetID": "2iigf77",
       "Name": "Curious",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 265
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -1210,7 +1215,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "LUCKY_DOG",
@@ -1264,9 +1269,9 @@
       "ID": "PLEASE",
       "SetID": "2iigf77",
       "Name": "Please oh pleeease!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 101
     },
     {
       "ID": "POOL",
@@ -1282,7 +1287,7 @@
       "Name": "Quick charge",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1345,7 +1350,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 631,
       "Completed": 19
     }
   ],
@@ -1353,8 +1358,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:10:46.0765456+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:13:48.5772616+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.4333912+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:02:08.9196478+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:10:46.0765626+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:06:35.4518661+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:13:48.577286+00:00"
 }

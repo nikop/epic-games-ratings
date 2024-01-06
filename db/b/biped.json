@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9811,
+  "EOS_Progressed": 9822,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16154,6 +16154,11 @@
       "Time": "2024-01-06T12:08:20.6172907+00:00",
       "NumProgressed": 9811,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T13:10:34.7649769+00:00",
+      "NumProgressed": 9822,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16165,7 +16170,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3438
     },
     {
       "ID": "10",
@@ -16181,7 +16186,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "12",
@@ -16221,7 +16226,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2652
     },
     {
       "ID": "3",
@@ -16229,7 +16234,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1964
     },
     {
       "ID": "4",
@@ -16237,7 +16242,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "5",
@@ -16245,7 +16250,7 @@
       "Name": "Snowy Peak",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "6",
@@ -16269,7 +16274,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "9",
@@ -16284,7 +16289,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 9811,
+      "Progressed": 9822,
       "Completed": 0
     }
   ],
@@ -16292,8 +16297,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:08:20.6172902+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:10:34.7649765+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.3269948+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:01:39.4094285+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:08:20.6173708+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:04:15.3020023+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:10:34.7650439+00:00"
 }

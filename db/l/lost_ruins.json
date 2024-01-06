@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -1868,9 +1868,9 @@
       "ID": "BugHunter",
       "SetID": "82505mn",
       "Name": "Bug Hunter",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 159
     },
     {
       "ID": "Cryomancer",
@@ -2157,8 +2157,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:10:51.5450674+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:13:53.025322+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:00:06.2105+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:10:51.5450974+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:03:13.2469899+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:13:53.0253497+00:00"
 }

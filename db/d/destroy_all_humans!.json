@@ -307,7 +307,7 @@
   ],
   "EOS_Progressed": 352,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
@@ -1715,9 +1715,9 @@
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1843,8 +1843,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:08:49.153402+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:12:24.6958878+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:00:17.0644158+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:08:49.1534579+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:03:20.3361614+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:12:24.6959132+00:00"
 }

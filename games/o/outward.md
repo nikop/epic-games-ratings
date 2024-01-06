@@ -6,35 +6,35 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,309 |
-| Ready for Winter | 61.00% | ~2,765 |
-| Ready for Summer | 48.00% | ~2,176 |
-| Cordon Bleu | 41.00% | ~1,859 |
-| Tapped! | 35.00% | ~1,587 |
-| Eureka | 30.00% | ~1,360 |
-| Scourge Slayer | 23.00% | ~1,043 |
-| Science, Troglodyte! | 22.00% | ~997 |
-| Exceptional Skill | 21.00% | ~952 |
-| Home Sweet Home | 20.00% | ~907 |
-| Encyclopedic! | 18.00% | ~816 |
-| A Fortress Toppled! | 15.00% | ~680 |
-| The Power of Family | 15.00% | ~680 |
+| Venture Outward | 73.00% | ~3,313 |
+| Ready for Winter | 61.00% | ~2,768 |
+| Ready for Summer | 48.00% | ~2,178 |
+| Cordon Bleu | 41.00% | ~1,861 |
+| Tapped! | 35.00% | ~1,588 |
+| Eureka | 30.00% | ~1,361 |
+| Scourge Slayer | 23.00% | ~1,044 |
+| Science, Troglodyte! | 22.00% | ~998 |
+| Exceptional Skill | 21.00% | ~953 |
+| Home Sweet Home | 20.00% | ~908 |
+| Encyclopedic! | 18.00% | ~817 |
+| A Fortress Toppled! | 15.00% | ~681 |
+| The Power of Family | 15.00% | ~681 |
 | Apex Predator | 14.00% | ~635 |
-| The Power of Faith | 12.00% | ~544 |
+| The Power of Faith | 12.00% | ~545 |
 | Strange amalgams | 11.00% | ~499 |
 | The Power of Freedom | 9.00% | ~408 |
-| Ace Detective | 7.00% | ~317 |
-| Gift from the Ancestors | 7.00% | ~317 |
-| Let ‘em eat magma! | 7.00% | ~317 |
-| Magic is a science | 7.00% | ~317 |
+| Ace Detective | 7.00% | ~318 |
+| Gift from the Ancestors | 7.00% | ~318 |
+| Let ‘em eat magma! | 7.00% | ~318 |
+| Magic is a science | 7.00% | ~318 |
 | Hold my Mead and Watch This | 6.00% | ~272 |
 | House of Cards | 6.00% | ~272 |
 | The power of ambition | 6.00% | ~272 |
 | The stuff of legends. | 6.00% | ~272 |
 | Blood and justice | 5.00% | ~227 |
-| Ancestor's Pride | 4.00% | ~181 |
-| For All Aurai | 4.00% | ~181 |
-| Memory of a legend | 4.00% | ~181 |
+| Ancestor's Pride | 4.00% | ~182 |
+| For All Aurai | 4.00% | ~182 |
+| Memory of a legend | 4.00% | ~182 |
 | Light of Levant | 3.00% | ~136 |
 | This was a mistake... | 3.00% | ~136 |
 | Crowd Pleaser. | 2.00% | ~91 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,533 (Ranked 206)  
+Progressed: 4,538 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 5 (0.11%) (Ranked 305)
 | 2024-01-03 | 4,452 | 5 |
 | 2024-01-04 | 4,478 | 5 |
 | 2024-01-05 | 4,511 | 5 |
-| 2024-01-06 | 4,533 | 5 |
+| 2024-01-06 | 4,538 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 501)  
 Sum: 246 (Ranked 399)  

@@ -2,13 +2,13 @@
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
   "ProductSlug": "far-cry-3",
-  "Ranking_Rating": 202,
+  "Ranking_Rating": 203,
   "Ranking_Popularity": 220,
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2013-01-15T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -1728,10 +1728,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 733,
       "NumberOfAwardsMax": 502
+    },
+    {
+      "Time": "2024-01-06T13:01:57.050372+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 734,
+      "NumberOfAwardsMax": 502
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 733,
+  "NumberOfAwards": 734,
   "NumberOfAwardsMax": 502,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1787,7 +1793,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -1801,8 +1807,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2024-01-05T16:57:30.9927775+00:00",
+  "LastChanged": "2024-01-06T13:01:57.0503718+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:24.1875777+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:58:12.1182563+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:09:30.2336308+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:01:57.0503724+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:12:53.8343261+00:00"
 }

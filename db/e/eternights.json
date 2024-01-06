@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 797,
+  "EOS_Progressed": 798,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2961,6 +2961,11 @@
       "Time": "2024-01-06T12:09:34.2027646+00:00",
       "NumProgressed": 797,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T13:12:56.742787+00:00",
+      "NumProgressed": 798,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3005,7 +3010,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -3013,7 +3018,7 @@
       "Name": "Min\u0027s Promise",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -3029,7 +3034,7 @@
       "Name": "Sia\u0027s Promise",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -3037,7 +3042,7 @@
       "Name": "Find myself",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -3109,7 +3114,7 @@
       "Name": "The First Bond",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3117,7 +3122,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3157,7 +3162,7 @@
       "Name": "Stone Retriever",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3172,7 +3177,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 797,
+      "Progressed": 798,
       "Completed": 2
     }
   ],
@@ -3180,8 +3185,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:09:34.2027643+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:12:56.7427866+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:01:32.8329966+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:09:34.2027912+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:04:11.1459206+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:12:56.7428116+00:00"
 }

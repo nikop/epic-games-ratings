@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 1004,
+  "Ranking_Rating": 994,
   "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.15,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -581,10 +581,16 @@
       "Rating": 4.14,
       "NumberOfAwards": 66,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2024-01-06T13:06:57.053827+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 67,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 66,
+  "NumberOfAwards": 67,
   "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -598,12 +604,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 20
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 46542,
+  "EOS_Progressed": 46545,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17851,6 +17857,11 @@
       "Time": "2024-01-06T12:04:28.7432495+00:00",
       "NumProgressed": 46542,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T13:07:49.6285682+00:00",
+      "NumProgressed": 46545,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18285,22 +18296,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46542,
+      "Progressed": 46545,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11379,
-      "Completed": 11379
+      "Progressed": 11382,
+      "Completed": 11382
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-01-05T09:03:07.6217814+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:04:28.7432493+00:00",
+  "LastChanged": "2024-01-06T13:06:57.0538268+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:07:49.6285679+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:03:11.0238071+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:04:28.7433386+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:06:57.0538274+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:07:49.6286908+00:00"
 }

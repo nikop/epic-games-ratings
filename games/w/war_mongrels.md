@@ -13,7 +13,7 @@ Number of Ratings: 34  (23.09.2022)
 | Eat Lead! | 42.00% | ~320 |
 | Here Comes the Boom | 40.00% | ~305 |
 | Prospector | 38.00% | ~290 |
-| Sniper Wolf | 37.00% | ~282 |
+| Sniper Wolf | 38.00% | ~290 |
 | Treasure Hunter | 36.00% | ~274 |
 | The Motivation | 36.00% | ~274 |
 | Heroism | 35.00% | ~267 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762 (Ranked 312)  
+Progressed: 762 (Ranked 313)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

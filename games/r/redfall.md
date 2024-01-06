@@ -7,14 +7,14 @@ Rating: 3.66 (Ranked 1,090)
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 20.00% | ~455 |
 | Catch and Release | 15.00% | ~341 |
-| Home Is Where the Heart Is | 14.00% | ~318 |
+| Home Is Where the Heart Is | 14.00% | ~319 |
 | ICU | 13.00% | ~296 |
 | Wounded Whispers | 13.00% | ~296 |
 | Blood Will Have Blood | 11.00% | ~250 |
 | Ne Plus Ultra | 11.00% | ~250 |
 | Peek-a-boo | 11.00% | ~250 |
-| Fly Fisher | 10.00% | ~227 |
-| Sucks To Be You | 10.00% | ~227 |
+| Fly Fisher | 10.00% | ~228 |
+| Sucks To Be You | 10.00% | ~228 |
 | Throw The First Stone | 9.00% | ~205 |
 | Enter of Your Own Free Will | 8.00% | ~182 |
 | Welcome to the Neighborhood | 8.00% | ~182 |
@@ -29,16 +29,16 @@ Rating: 3.66 (Ranked 1,090)
 | From the Shadows | 3.00% | ~68 |
 | Starve the Beast | 3.00% | ~68 |
 | Helping Hand | 3.00% | ~68 |
-| Revelations | 2.00% | ~45 |
-| Contingency Plans | 2.00% | ~45 |
-| Block Party | 2.00% | ~45 |
-| Sic Transit Umbra | 2.00% | ~45 |
-| Bell-ringer | 2.00% | ~45 |
-| Silence Is Golden | 2.00% | ~45 |
-| Good Morning | 2.00% | ~45 |
-| Check, Please! | 2.00% | ~45 |
-| Right This Way | 2.00% | ~45 |
-| Harvest’s End | 2.00% | ~45 |
+| Revelations | 2.00% | ~46 |
+| Contingency Plans | 2.00% | ~46 |
+| Block Party | 2.00% | ~46 |
+| Sic Transit Umbra | 2.00% | ~46 |
+| Bell-ringer | 2.00% | ~46 |
+| Silence Is Golden | 2.00% | ~46 |
+| Good Morning | 2.00% | ~46 |
+| Check, Please! | 2.00% | ~46 |
+| Right This Way | 2.00% | ~46 |
+| Harvest’s End | 2.00% | ~46 |
 | Nice Try | 1.00% | ~23 |
 | Blacklight Down | 1.00% | ~23 |
 | Curious Finch | 1.00% | ~23 |
@@ -72,7 +72,7 @@ Rating: 3.66 (Ranked 1,090)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,274 (Ranked 241)  
+Progressed: 2,275 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 2,238 | 0 |
 | 2024-01-04 | 2,253 | 0 |
 | 2024-01-05 | 2,267 | 0 |
-| 2024-01-06 | 2,274 | 0 |
+| 2024-01-06 | 2,275 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 554)  
 Sum: 24 (Ranked 560)  

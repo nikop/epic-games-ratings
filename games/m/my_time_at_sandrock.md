@@ -12,21 +12,21 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 116.00% | ~985 |
 | Officially Official | 113.00% | ~959 |
 | Greeno-B-Gone | 109.00% | ~925 |
-| On that Grindset | 107.00% | ~908 |
-| Better Late than Never | 95.00% | ~807 |
+| On that Grindset | 108.00% | ~917 |
+| Better Late than Never | 96.00% | ~815 |
 | Your Especially Earned Trajectory | 91.00% | ~773 |
 | Pack Mule | 87.00% | ~739 |
 | Got Served | 86.00% | ~730 |
 | One of the Cool Kids | 86.00% | ~730 |
 | Knowledge is Power | 85.00% | ~722 |
 | Diamonds are Forever | 85.00% | ~722 |
+| Financially Secure | 84.00% | ~713 |
 | Mole Masher | 84.00% | ~713 |
-| Financially Secure | 83.00% | ~705 |
-| Big Game Hunter | 78.00% | ~662 |
-| Unboxing | 77.00% | ~654 |
+| Big Game Hunter | 79.00% | ~671 |
+| Unboxing | 78.00% | ~662 |
 | No Mountain Wide Enough | 76.00% | ~645 |
+| Yakmel Whisperer | 76.00% | ~645 |
 | What Plants Crave | 75.00% | ~637 |
-| Yakmel Whisperer | 75.00% | ~637 |
 | I Do! | 74.00% | ~628 |
 | Panda-kin | 73.00% | ~620 |
 | First Love | 73.00% | ~620 |
@@ -37,7 +37,7 @@ Number of Ratings: 892  (23.09.2022)
 | Bridging the Gap | 63.00% | ~535 |
 | Waste Not Want Not | 63.00% | ~535 |
 | Commissions, commissions...! | 61.00% | ~518 |
-| Lifeline Pipeline | 60.00% | ~509 |
+| Lifeline Pipeline | 61.00% | ~518 |
 | Got the Flow Back | 58.00% | ~492 |
 | Martle's Dream | 56.00% | ~475 |
 | Happier-est Place on Earth | 55.00% | ~467 |

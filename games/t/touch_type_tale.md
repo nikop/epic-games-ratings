@@ -6,14 +6,14 @@ Rating: 4.75 (Ranked 150)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You and what Army? | 87.00% | ~3,477 |
-| Flanked! | 75.00% | ~2,997 |
+| Flanked! | 75.00% | ~2,998 |
 | Economics 101 | 59.00% | ~2,358 |
-| Get Rich Quick | 41.00% | ~1,638 |
+| Get Rich Quick | 41.00% | ~1,639 |
 | Do the Splits | 37.00% | ~1,479 |
 | Maestro | 25.00% | ~999 |
 | Full Employment | 18.00% | ~719 |
-| Clay Fighter | 16.00% | ~639 |
-| Nowhere left to Hide | 13.00% | ~519 |
+| Clay Fighter | 16.00% | ~640 |
+| Nowhere left to Hide | 13.00% | ~520 |
 | All Ovens Blazing | 12.00% | ~480 |
 | Boulder Clash | 12.00% | ~480 |
 | Held Back by the Roots | 11.00% | ~440 |
@@ -24,10 +24,10 @@ Rating: 4.75 (Ranked 150)
 | Damage Control | 7.00% | ~280 |
 | Master of the Brawl | 7.00% | ~280 |
 | Your Biggest Fans | 6.00% | ~240 |
+| A Secret Recipe | 6.00% | ~240 |
 | An Ally in Need | 5.00% | ~200 |
 | For the Queen | 5.00% | ~200 |
 | Not a Drop Wasted | 5.00% | ~200 |
-| A Secret Recipe | 5.00% | ~200 |
 | Reinforcements | 4.00% | ~160 |
 | Sweet Revenge | 4.00% | ~160 |
 | We Have the Technology | 4.00% | ~160 |
@@ -39,7 +39,7 @@ Rating: 4.75 (Ranked 150)
 | Untouchable | 1.00% | ~40 |
 | All Geared Up | 0.90% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,996 (Ranked 212)  
+Progressed: 3,997 (Ranked 212)  
 Completed: 11 (0.28%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 11 (0.28%) (Ranked 257)
 | 2024-01-03 | 3,972 | 11 |
 | 2024-01-04 | 3,983 | 11 |
 | 2024-01-05 | 3,992 | 11 |
-| 2024-01-06 | 3,996 | 11 |
+| 2024-01-06 | 3,997 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

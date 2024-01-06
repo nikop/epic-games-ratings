@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -1495,9 +1495,9 @@
       "ID": "NinjaSlayer",
       "SetID": "d9ekhim",
       "Name": "Air Slash",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 221
     },
     {
       "ID": "OhNo",
@@ -1631,9 +1631,9 @@
       "ID": "World2Boss",
       "SetID": "d9ekhim",
       "Name": "Snake Eyes",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 409
     },
     {
       "ID": "World3Boss",
@@ -1704,8 +1704,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2024-01-06T12:10:50.0376166+00:00",
+  "LastChanged_Achievements": "2024-01-06T13:13:51.8408669+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:30.8786427+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:58:23.3752977+00:00",
-  "LastUpdate_Achievements": "2024-01-06T12:10:50.0376551+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:02:04.5785185+00:00",
+  "LastUpdate_Achievements": "2024-01-06T13:13:51.8408978+00:00"
 }
