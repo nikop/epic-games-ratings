@@ -7,7 +7,7 @@ Rating: 4.54 (Ranked 548)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 17.00% | ~3,121 |
 | Captain Drummer | 14.00% | ~2,570 |
-| Celebrations are in Order | 13.00% | ~2,386 |
+| Celebrations are in Order | 13.00% | ~2,387 |
 | The Pit and the Pirates | 12.00% | ~2,203 |
 | Martian Music | 12.00% | ~2,203 |
 | Bosmang | 12.00% | ~2,203 |
@@ -19,7 +19,7 @@ Rating: 4.54 (Ranked 548)
 | Call it Even | 9.00% | ~1,652 |
 | Safe Cracker | 9.00% | ~388 |
 | Madame Undersecretary | 9.00% | ~388 |
-| Heal Thy Medic | 8.00% | ~1,468 |
+| Heal Thy Medic | 8.00% | ~1,469 |
 | Keep Arjun in Check | 8.00% | ~345 |
 | Data Archivist | 7.00% | ~1,285 |
 | Drug Gifter | 7.00% | ~1,285 |
@@ -36,12 +36,12 @@ Rating: 4.54 (Ranked 548)
 | Debris Spree | 2.00% | ~367 |
 | Data Recoverer | 2.00% | ~367 |
 | Urshanabi Hoarder | 1.00% | ~184 |
-| Grave Robber | 0.70% | ~128 |
+| Grave Robber | 0.70% | ~129 |
 | Data Miner | 0.60% | ~110 |
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,356 (Ranked 159)  
+Progressed: 18,358 (Ranked 159)  
 Completed: 59 (0.32%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 59 (0.32%) (Ranked 247)
 | 2024-01-03 | 18,141 | 58 |
 | 2024-01-04 | 18,213 | 58 |
 | 2024-01-05 | 18,329 | 58 |
-| 2024-01-06 | 18,356 | 59 |
+| 2024-01-06 | 18,358 | 59 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

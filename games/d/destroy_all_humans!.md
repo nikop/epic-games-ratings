@@ -7,7 +7,7 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 74.00% | ~258 |
-| Kaijuiced | 69.00% | ~240 |
+| Kaijuiced | 70.00% | ~244 |
 | Lie Back and Think of Albion | 64.00% | ~223 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~219 |
 | I Look Up As I Walk to Takoshima | 59.00% | ~205 |
@@ -18,12 +18,12 @@ Number of Ratings: 85  (23.09.2022)
 | Earthly Pleasures | 48.00% | ~167 |
 | Fly Me to the Moon Base | 47.00% | ~164 |
 | Ducks in a Row, Fish in a Barrel | 45.00% | ~157 |
+| Bodied Sattva | 37.00% | ~129 |
+| Forbidden Donut | 36.00% | ~125 |
 | Freshly Squeezed | 36.00% | ~125 |
-| Bodied Sattva | 36.00% | ~125 |
-| Forbidden Donut | 35.00% | ~122 |
 | Upgreatest | 33.00% | ~115 |
 | Deincarnated | 29.00% | ~101 |
-| Furon Fashion | 28.00% | ~97 |
+| Furon Fashion | 29.00% | ~101 |
 | Rock of the Bay | 27.00% | ~94 |
 | Trans-Siberian Express | 25.00% | ~87 |
 | Arkvoodle Doodle | 20.00% | ~70 |

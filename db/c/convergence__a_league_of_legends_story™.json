@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1245,
+  "EOS_Progressed": 1246,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3682,6 +3682,11 @@
       "Time": "2024-01-06T04:11:14.7259375+00:00",
       "NumProgressed": 1245,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T05:10:43.5131899+00:00",
+      "NumProgressed": 1246,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3701,7 +3706,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3709,7 +3714,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ChestCompletion1",
@@ -3717,7 +3722,7 @@
       "Name": "Treasure Trove",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3741,7 +3746,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ClovemaryGift",
@@ -3797,7 +3802,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "FairgroundsChests1",
@@ -3821,7 +3826,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3853,7 +3858,7 @@
       "Name": "Rail Rat",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "HexlockGift",
@@ -3885,7 +3890,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "MapCompletion1",
@@ -3941,7 +3946,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ParryRepeated1",
@@ -3949,7 +3954,7 @@
       "Name": "No, Thanks!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3957,7 +3962,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3981,7 +3986,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "RewindParry",
@@ -3989,7 +3994,7 @@
       "Name": "Honest Mistake",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4005,7 +4010,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "SkillCompletion1",
@@ -4045,7 +4050,7 @@
       "Name": "Syron for Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "TemporalPulseKills1",
@@ -4061,7 +4066,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -4077,7 +4082,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "WatcherFought",
@@ -4116,7 +4121,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1245,
+      "Progressed": 1246,
       "Completed": 6
     }
   ],
@@ -4124,8 +4129,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:11:14.7259372+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:10:43.5131894+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:57:47.745001+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:11:14.7259819+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:57:32.3108937+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:10:43.513264+00:00"
 }

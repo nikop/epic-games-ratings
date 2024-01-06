@@ -25,8 +25,8 @@ Number of Ratings: 76  (23.09.2022)
 | Are you ready now? | 6.00% | ~45 |
 | Hello, Bikini Bottom | 6.00% | ~45 |
 | Keep it Rolling | 6.00% | ~45 |
+| Ultra Spatula Seeker | 6.00% | ~45 |
 | Robot encyclopedia | 5.00% | ~38 |
-| Ultra Spatula Seeker | 5.00% | ~38 |
 | The Small Does Not Rule | 4.00% | ~30 |
 | Ship Shape | 4.00% | ~30 |
 | Shanghaied | 4.00% | ~30 |

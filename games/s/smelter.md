@@ -4,28 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 91.00% | ~42 |
-| Welcome to the Rumbly Lands! | 89.00% | ~41 |
-| Time to Bash Some Heads! | 83.00% | ~38 |
-| Shiny! | 74.00% | ~34 |
-| Deep in the Mounds | 70.00% | ~32 |
-| Smeltastic! | 41.00% | ~19 |
-| Locked Away | 37.00% | ~17 |
-| A Little Renovating | 35.00% | ~16 |
-| It's a Sign! | 33.00% | ~15 |
+| What took you so long? | 89.00% | ~42 |
+| Welcome to the Rumbly Lands! | 87.00% | ~41 |
+| Time to Bash Some Heads! | 81.00% | ~38 |
+| Shiny! | 72.00% | ~34 |
+| Deep in the Mounds | 68.00% | ~32 |
+| Smeltastic! | 40.00% | ~19 |
+| Locked Away | 36.00% | ~17 |
+| A Little Renovating | 34.00% | ~16 |
+| It's a Sign! | 32.00% | ~15 |
 | Deflect This! | 28.00% | ~13 |
-| Just Some Improvements | 24.00% | ~11 |
-| My Precious Gems! | 22.00% | ~10 |
-| A Little Extra Love | 22.00% | ~10 |
-| An Unexpected Visitor | 22.00% | ~10 |
-| Final Announcement | 22.00% | ~10 |
-| A New Strategy | 22.00% | ~10 |
-| A Terrible Way to Go | 22.00% | ~10 |
-| Isn't It Beautiful? | 20.00% | ~9 |
-| A Generous Leader | 20.00% | ~9 |
+| Just Some Improvements | 23.00% | ~11 |
+| My Precious Gems! | 21.00% | ~10 |
+| A Little Extra Love | 21.00% | ~10 |
+| An Unexpected Visitor | 21.00% | ~10 |
+| Final Announcement | 21.00% | ~10 |
+| A New Strategy | 21.00% | ~10 |
+| A Terrible Way to Go | 21.00% | ~10 |
+| Isn't It Beautiful? | 19.00% | ~9 |
+| A Generous Leader | 19.00% | ~9 |
 | Dr. Dreinstein III | 15.00% | ~7 |
 | Orcharion Boost | 15.00% | ~7 |
 | Case Closed | 15.00% | ~7 |
+| You did it? You did it! | 13.00% | ~6 |
 | All Beefed Up | 13.00% | ~6 |
 | The Smelter | 13.00% | ~6 |
 | What's Yours Is Mine | 13.00% | ~6 |
@@ -36,7 +37,6 @@
 | With a Little Help from My Friends | 13.00% | ~6 |
 | Scheming Away | 11.00% | ~5 |
 | Fishing for Fissures | 11.00% | ~5 |
-| You did it? You did it! | 11.00% | ~5 |
 | Gotta Collect Them All | 9.00% | ~4 |
 | Keeping Things Tidy | 9.00% | ~4 |
 | Eremagu Trial Extraordinaire | 9.00% | ~4 |
@@ -56,8 +56,8 @@
 | In Her Prime | 9.00% | ~4 |
 | The More the Merrier | 9.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 561)  
-Completed: 4 (8.70%) (Ranked 46)  
+Progressed: 47 (Ranked 558)  
+Completed: 4 (8.51%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,6 +80,7 @@ Completed: 4 (8.70%) (Ranked 46)
 | 2023-12-24 | 44 | 4 |
 | 2023-12-27 | 45 | 4 |
 | 2024-01-04 | 46 | 4 |
+| 2024-01-06 | 47 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

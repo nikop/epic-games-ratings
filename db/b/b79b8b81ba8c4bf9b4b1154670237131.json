@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16412,
+  "EOS_Progressed": 16413,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5969,6 +5969,11 @@
       "Time": "2024-01-06T03:09:26.1223261+00:00",
       "NumProgressed": 16412,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-06T05:09:57.9604037+00:00",
+      "NumProgressed": 16413,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6013,7 +6018,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12309
+      "UsersEstimate": 12310
     },
     {
       "ID": "ACH_AE_14",
@@ -6021,7 +6026,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     },
     {
       "ID": "ACH_AE_15",
@@ -6053,7 +6058,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACH_AE_19",
@@ -6213,7 +6218,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "ACH_AE_5",
@@ -6221,7 +6226,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "ACH_AE_6",
@@ -6260,7 +6265,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16412,
+      "Progressed": 16413,
       "Completed": 15
     }
   ],
@@ -6268,8 +6273,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-04T16:01:00.556364+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:10:29.8949847+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:09:57.9604032+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:01:33.1827969+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:10:29.8950254+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:01:10.47615+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:09:57.9604798+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -337,7 +337,7 @@
   ],
   "EOS_Progressed": 751,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -2224,9 +2224,9 @@
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Ultra Spatula Seeker",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -2304,8 +2304,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:06:12.7968788+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:05:56.8017239+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:02:46.3147395+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:06:12.7969115+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:01:23.1062515+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:05:56.8017563+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 581,
   "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 729,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.98,
   "EosHistory": [
@@ -2606,9 +2606,9 @@
       "ID": "ach_main13tanos_evilbosses",
       "SetID": "4hg22ll",
       "Name": "Bonus Evilness",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 182
     },
     {
       "ID": "ach_main14run_completed",
@@ -2791,8 +2791,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:09:59.0464303+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:09:27.2178522+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:02:57.6339454+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:09:59.0464781+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:02:34.981905+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:09:27.2179337+00:00"
 }

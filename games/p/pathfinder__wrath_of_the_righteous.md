@@ -7,12 +7,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,527 |
-| A Spark | 20.00% | ~2,612 |
+| A Spark | 20.00% | ~2,613 |
 | Burning City | 19.00% | ~2,482 |
 | Defender's Heart | 16.00% | ~2,090 |
-| Mythic Choices | 15.00% | ~1,959 |
+| Mythic Choices | 15.00% | ~1,960 |
 | Banner over the Citadel | 14.00% | ~1,829 |
-| Queen's Gratitude | 12.00% | ~1,567 |
+| Queen's Gratitude | 12.00% | ~1,568 |
 | Fifth Crusade | 9.00% | ~1,176 |
 | Embrace of the Abyss | 7.00% | ~914 |
 | Path of the Angel | 7.00% | ~914 |
@@ -25,11 +25,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~653 |
 | Next-Door Play | 5.00% | ~653 |
 | Get the Toad | 5.00% | ~653 |
-| Heart of the Fallen Land | 4.00% | ~522 |
-| Divide and Rule | 4.00% | ~522 |
-| Mythic Reinforcements | 4.00% | ~522 |
-| A Flame | 4.00% | ~522 |
-| Hey, I Know You! | 4.00% | ~522 |
+| Heart of the Fallen Land | 4.00% | ~523 |
+| Divide and Rule | 4.00% | ~523 |
+| Mythic Reinforcements | 4.00% | ~523 |
+| A Flame | 4.00% | ~523 |
+| Hey, I Know You! | 4.00% | ~523 |
 | Path of the Trickster | 3.00% | ~392 |
 | Path of the Lich | 3.00% | ~392 |
 | Heroic Victory | 3.00% | ~392 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | This Wall Won't Fall | 1.00% | ~118 |
 | Not the Last Sarkorian | 1.00% | ~118 |
 | End of Eternal Guard | 0.90% | ~118 |
-| Playful Mood | 0.80% | ~104 |
+| Playful Mood | 0.80% | ~105 |
 | Masterful Charge | 0.70% | ~91 |
 | Dreadful Dragon | 0.70% | ~91 |
 | Prelate's Nemesis | 0.50% | ~65 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,062 (Ranked 176)  
+Progressed: 13,064 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,7 +384,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 13,006 | 0 |
 | 2024-01-04 | 13,029 | 0 |
 | 2024-01-05 | 13,058 | 0 |
-| 2024-01-06 | 13,062 | 0 |
+| 2024-01-06 | 13,064 | 0 |
 ## Awards
 Max (Character Customization): 1,777  (Ranked 128)  
 Sum: 7,194 (Ranked 126)  

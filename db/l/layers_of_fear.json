@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1274,6 +1274,11 @@
       "Time": "2024-01-05T23:10:57.4022146+00:00",
       "NumProgressed": 283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T05:08:58.7900618+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1342,7 +1347,7 @@
       "Name": "We Are Not Alone",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "collect_most_of_posters",
@@ -1366,7 +1371,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "decrypt_one_myth",
@@ -1478,7 +1483,7 @@
       "Name": "First steps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1550,7 +1555,7 @@
       "Name": "The Perfect Storm",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "piece_of_story",
@@ -1558,7 +1563,7 @@
       "Name": "A piece of the story",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "playtime",
@@ -1590,7 +1595,7 @@
       "Name": "Se7en Seas",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "secret_ending",
@@ -1614,7 +1619,7 @@
       "Name": "Sign of weakness",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "something_important",
@@ -1622,7 +1627,7 @@
       "Name": "Something important",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "spy_one_item",
@@ -1654,7 +1659,7 @@
       "Name": "The tragedy unfolds",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "tough_conversation",
@@ -1686,29 +1691,29 @@
       "Name": "Wanderer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:09:31.3932052+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:08:58.7900615+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:00:53.7659622+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:09:31.3932499+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:00:31.7554133+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:08:58.7901005+00:00"
 }

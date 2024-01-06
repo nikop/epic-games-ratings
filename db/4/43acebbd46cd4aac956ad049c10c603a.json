@@ -5,7 +5,7 @@
   "Ranking_Rating": 23,
   "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 467,
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 155,
@@ -295,9 +295,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 1286,
+  "EOS_Progressed": 1287,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3645,6 +3645,11 @@
       "Time": "2024-01-06T00:04:57.5575826+00:00",
       "NumProgressed": 1286,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T05:05:50.8541202+00:00",
+      "NumProgressed": 1287,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3697,7 +3702,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "BreakTheLoop",
@@ -3711,9 +3716,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 425
     },
     {
       "ID": "ChasingTheLight",
@@ -3737,7 +3742,7 @@
       "Name": "Circular Oasis",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "DesolateIsland",
@@ -3753,7 +3758,7 @@
       "Name": "Discovery",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "EasternWetlands",
@@ -3823,9 +3828,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 335
     },
     {
       "ID": "JustOneLap",
@@ -3937,7 +3942,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3961,7 +3966,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Signatory",
@@ -3969,7 +3974,7 @@
       "Name": "Signatory",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "SingleRod",
@@ -3993,7 +3998,7 @@
       "Name": "Southern Coast",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "TeamSpirit",
@@ -4017,7 +4022,7 @@
       "Name": "The All-Gifted",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4089,7 +4094,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Wanderers",
@@ -4105,7 +4110,7 @@
       "Name": "Western Delta",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "WoodedPlateau",
@@ -4128,7 +4133,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1286,
+      "Progressed": 1287,
       "Completed": 2
     }
   ],
@@ -4136,8 +4141,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-06T04:02:56.8031666+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:06:07.0629379+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:05:50.8541198+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:02:56.8031671+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:06:07.0630022+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:02:34.2270599+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:05:50.8541792+00:00"
 }

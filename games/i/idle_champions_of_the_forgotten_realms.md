@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,071 |
+| A Brief Tour of the Realms | 4.00% | ~10,072 |
 | The Cursed Farmer | 2.00% | ~5,036 |
 | Beast Intentions | 1.00% | ~2,518 |
 | The Mad Wizard | 1.00% | ~2,518 |
-| Welcome to Sigil | 0.80% | ~1,744 |
-| The Ring of Regeneration | 0.70% | ~1,762 |
-| Are Ya Chicken? | 0.70% | ~1,762 |
+| Welcome to Sigil | 0.80% | ~1,745 |
+| The Ring of Regeneration | 0.70% | ~1,763 |
+| Are Ya Chicken? | 0.70% | ~1,763 |
 | Were-verpowered | 0.60% | ~1,511 |
 | Friendly Imps | 0.60% | ~1,511 |
 | Fast Food | 0.60% | ~1,308 |
@@ -24,6 +24,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.40% | ~1,007 |
 | A Persistent Buzzing | 0.40% | ~1,007 |
 | Terror in the Dark | 0.40% | ~1,007 |
+| The Crumbling Temple | 0.40% | ~1,007 |
 | Arcane Suppression | 0.40% | ~872 |
 | Misaligned in Sigil | 0.40% | ~872 |
 | Chaos Theory | 0.40% | ~872 |
@@ -34,7 +35,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Mode | 0.30% | ~755 |
 | A Mysterious Summons | 0.30% | ~755 |
 | Unearthed Evil | 0.30% | ~755 |
-| The Crumbling Temple | 0.30% | ~755 |
 | Useless Allies | 0.30% | ~755 |
 | Exploring Port Nyanzaru | 0.30% | ~755 |
 | The Contagious Curse | 0.30% | ~755 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,784 (Ranked 70)  
+Progressed: 251,803 (Ranked 70)  
 Completed: 2,596 (1.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -814,7 +814,7 @@ Completed: 2,596 (1.03%) (Ranked 172)
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
-| 2024-01-06 | 251,784 | 2,596 |
+| 2024-01-06 | 251,803 | 2,596 |
 ## Awards
 Max (Great for Beginners): 5,750  (Ranked 72)  
 Sum: 33,350 (Ranked 41)  

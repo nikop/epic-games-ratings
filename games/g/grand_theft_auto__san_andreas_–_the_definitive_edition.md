@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 525)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,015 |
-| Pay 'n' Spray | 50.00% | ~9,268 |
-| All Dressed Up for San Fierro | 25.00% | ~4,634 |
-| The American Dream | 19.00% | ~3,522 |
-| School's Out | 18.00% | ~3,337 |
-| Smooth Moves | 17.00% | ~3,151 |
-| Today Was a Good Day | 15.00% | ~2,781 |
-| What happens in Las Venturas... | 14.00% | ~2,595 |
-| Horror of the Santa Maria | 10.00% | ~1,854 |
-| Liberty City State of Mind | 9.00% | ~1,668 |
-| Original Gangster | 8.00% | ~1,483 |
+| Getting Started | 81.00% | ~15,022 |
+| Pay 'n' Spray | 50.00% | ~9,273 |
+| All Dressed Up for San Fierro | 25.00% | ~4,636 |
+| The American Dream | 19.00% | ~3,524 |
+| School's Out | 18.00% | ~3,338 |
+| Smooth Moves | 16.00% | ~2,967 |
+| Today Was a Good Day | 15.00% | ~2,782 |
+| What happens in Las Venturas... | 14.00% | ~2,596 |
+| Horror of the Santa Maria | 10.00% | ~1,855 |
+| Liberty City State of Mind | 9.00% | ~1,669 |
+| Original Gangster | 8.00% | ~1,484 |
 | With Extra Dip | 7.00% | ~1,298 |
 | The End of the Line | 7.00% | ~1,298 |
-| Saviour | 6.00% | ~1,112 |
+| Saviour | 6.00% | ~1,113 |
 | Rescue a Kitten Too? | 5.00% | ~927 |
-| They Can’t Stop All of Us | 4.00% | ~741 |
-| What are the Odds | 4.00% | ~741 |
+| They Can’t Stop All of Us | 4.00% | ~742 |
+| What are the Odds | 4.00% | ~742 |
 | Bike or Biker | 3.00% | ~556 |
 | What the City Needs | 3.00% | ~556 |
 | A Legitimate Business | 2.00% | ~371 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 525)
 | ...Here we go again | 0.50% | ~93 |
 | I Ain't No Buster | 0.40% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,537 (Ranked 158)  
+Progressed: 18,546 (Ranked 158)  
 Completed: 72 (0.39%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 72 (0.39%) (Ranked 237)
 | 2024-01-03 | 18,207 | 71 |
 | 2024-01-04 | 18,344 | 72 |
 | 2024-01-05 | 18,512 | 72 |
-| 2024-01-06 | 18,537 | 72 |
+| 2024-01-06 | 18,546 | 72 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 442)  
 Sum: 351 (Ranked 368)  

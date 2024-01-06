@@ -2,9 +2,9 @@
   "ID": "acc5980b138144229ceaacdebb4cb054",
   "Name": "Smelter",
   "ProductSlug": "smelter-97a47b",
-  "Ranking_EOS_Progress": 561,
+  "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.7,
+  "EOS_Completed_Percentage": 8.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:46.9022204+00:00",
@@ -129,6 +129,11 @@
       "Time": "2024-01-04T16:11:23.0773147+00:00",
       "NumProgressed": 46,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T05:10:34.4742148+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 51,
@@ -154,7 +159,7 @@
       "ID": "SMELTER_BADBOY",
       "SetID": "1g58k92",
       "Name": "My Precious Gems!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -186,7 +191,7 @@
       "ID": "SMELTER_ELEMENTAL_TOWER",
       "SetID": "1g58k92",
       "Name": "Just Some Improvements",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -210,7 +215,7 @@
       "ID": "SMELTER_EREMAGU_RUNE",
       "SetID": "1g58k92",
       "Name": "Locked Away",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -242,7 +247,7 @@
       "ID": "SMELTER_FIRST_MEET",
       "SetID": "1g58k92",
       "Name": "What took you so long?",
-      "Percentage": 91,
+      "Percentage": 89,
       "XP": 10,
       "UsersEstimate": 42
     },
@@ -258,9 +263,9 @@
       "ID": "SMELTER_GAME_CLEARED",
       "SetID": "1g58k92",
       "Name": "You did it? You did it!",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SMELTER_GRAVITUDE",
@@ -290,7 +295,7 @@
       "ID": "SMELTER_GURABI_FORGE",
       "SetID": "1g58k92",
       "Name": "Time to Bash Some Heads!",
-      "Percentage": 83,
+      "Percentage": 81,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -298,7 +303,7 @@
       "ID": "SMELTER_GURABI_RUNE",
       "SetID": "1g58k92",
       "Name": "Deep in the Mounds",
-      "Percentage": 70,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -314,7 +319,7 @@
       "ID": "SMELTER_HEART_LEVEL_2",
       "SetID": "1g58k92",
       "Name": "Isn\u0027t It Beautiful?",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -330,7 +335,7 @@
       "ID": "SMELTER_HOUSE_UPGRADE",
       "SetID": "1g58k92",
       "Name": "A Generous Leader",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -370,7 +375,7 @@
       "ID": "SMELTER_NEW_CHALLENGER",
       "SetID": "1g58k92",
       "Name": "Shiny!",
-      "Percentage": 74,
+      "Percentage": 72,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -394,7 +399,7 @@
       "ID": "SMELTER_NUTORO_RUNE",
       "SetID": "1g58k92",
       "Name": "It\u0027s a Sign!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -410,7 +415,7 @@
       "ID": "SMELTER_PLATFORMER_HP20",
       "SetID": "1g58k92",
       "Name": "A Little Extra Love",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -418,7 +423,7 @@
       "ID": "SMELTER_RIVEL1",
       "SetID": "1g58k92",
       "Name": "An Unexpected Visitor",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -434,7 +439,7 @@
       "ID": "SMELTER_ROOPUTER",
       "SetID": "1g58k92",
       "Name": "Final Announcement",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -450,7 +455,7 @@
       "ID": "SMELTER_SALVAGE",
       "SetID": "1g58k92",
       "Name": "A Little Renovating",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -466,7 +471,7 @@
       "ID": "SMELTER_SMELT_PART1",
       "SetID": "1g58k92",
       "Name": "Smeltastic!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -482,7 +487,7 @@
       "ID": "SMELTER_SPIRE",
       "SetID": "1g58k92",
       "Name": "A New Strategy",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -506,7 +511,7 @@
       "ID": "SMELTER_WELCOME_TO_RUMBLYLANDS",
       "SetID": "1g58k92",
       "Name": "Welcome to the Rumbly Lands!",
-      "Percentage": 89,
+      "Percentage": 87,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -538,7 +543,7 @@
       "ID": "SMELTER_ZIRM_STARVE",
       "SetID": "1g58k92",
       "Name": "A Terrible Way to Go",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 10
     }
@@ -547,7 +552,7 @@
     {
       "ID": "1g58k92",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 4
     }
   ],
@@ -555,8 +560,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:11:06.0507174+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:10:34.4742144+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.7188107+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:59:21.0309108+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:11:06.0507543+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:59:01.8963631+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:10:34.4742908+00:00"
 }

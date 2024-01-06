@@ -48,8 +48,8 @@ Rating: 4.71 (Ranked 202)
 | Stop Tanos! | 26.00% | ~190 |
 | Sabotage! | 26.00% | ~190 |
 | Raiders of the Lost Stone | 26.00% | ~190 |
+| Bonus Evilness | 25.00% | ~182 |
 | The Rune Sockets of Finitude (Part 2) | 25.00% | ~182 |
-| Bonus Evilness | 24.00% | ~175 |
 | The Last Stand - This Time For Real! | 23.00% | ~168 |
 | Rubble and Ashes | 21.00% | ~153 |
 | Lavalumps on Ice! | 20.00% | ~146 |
@@ -68,7 +68,7 @@ Rating: 4.71 (Ranked 202)
 | I Don't Need Any Help | 10.00% | ~73 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 729 (Ranked 315)  
-Completed: 29 (3.98%) (Ranked 91)  
+Completed: 29 (3.98%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

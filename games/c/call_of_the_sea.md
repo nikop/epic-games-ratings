@@ -5,26 +5,26 @@ Rating: 4.40 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~110,556 |
-| 74 miles East of Otaheité | 56.00% | ~77,389 |
-| Interesting... | 42.00% | ~58,042 |
-| The Everhart Expedition | 40.00% | ~55,278 |
-| Seaside Serenade | 31.00% | ~42,840 |
-| Halfway there | 30.00% | ~41,458 |
-| The Vanishing of the Lady Shannon | 30.00% | ~41,458 |
+| A Family Heirloom | 80.00% | ~110,558 |
+| 74 miles East of Otaheité | 56.00% | ~77,391 |
+| Interesting... | 42.00% | ~58,043 |
+| The Everhart Expedition | 40.00% | ~55,279 |
+| Seaside Serenade | 31.00% | ~42,841 |
+| Halfway there | 30.00% | ~41,459 |
+| The Vanishing of the Lady Shannon | 30.00% | ~41,459 |
 | A brigantine, a brig and a barque | 28.00% | ~38,695 |
 | 506 East Hampden Avenue | 28.00% | ~38,695 |
 | Weekend at Walakea's | 27.00% | ~37,313 |
 | Quite a Show | 27.00% | ~37,313 |
-| Dark Water Ride | 25.00% | ~34,549 |
-| Sunken | 25.00% | ~34,549 |
-| Deep Cut | 24.00% | ~33,167 |
-| FHALGOF'N' | 23.00% | ~31,785 |
-| Marsh Cannery | 21.00% | ~29,021 |
-| Greetings from Y'ha-nthlei! | 18.00% | ~24,875 |
-| The only thing I have now | 17.00% | ~23,493 |
-| Not Another Boring Slideshow! | 16.00% | ~22,111 |
-| Naacalvision | 16.00% | ~22,111 |
+| Dark Water Ride | 25.00% | ~34,550 |
+| Sunken | 25.00% | ~34,550 |
+| Deep Cut | 24.00% | ~33,168 |
+| FHALGOF'N' | 23.00% | ~31,786 |
+| Marsh Cannery | 21.00% | ~29,022 |
+| Greetings from Y'ha-nthlei! | 18.00% | ~24,876 |
+| The only thing I have now | 17.00% | ~23,494 |
+| Not Another Boring Slideshow! | 16.00% | ~22,112 |
+| Naacalvision | 16.00% | ~22,112 |
 | The Norahnomicon | 10.00% | ~13,820 |
 | I'll make a note of that... | 9.00% | ~12,438 |
 | Written in Stone | 7.00% | ~9,674 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 765)
 | Gently down the stream... | 1.00% | ~1,382 |
 | Meta-reference | 1.00% | ~1,382 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,195 (Ranked 88)  
+Progressed: 138,198 (Ranked 88)  
 Completed: 1,239 (0.90%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 1,239 (0.90%) (Ranked 182)
 | 2024-01-03 | 137,807 | 1,232 |
 | 2024-01-04 | 137,985 | 1,237 |
 | 2024-01-05 | 138,164 | 1,239 |
-| 2024-01-06 | 138,195 | 1,239 |
+| 2024-01-06 | 138,198 | 1,239 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -41,7 +41,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 788,
+  "EOS_Progressed": 789,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -2931,6 +2931,11 @@
       "Time": "2024-01-06T01:55:16.2791834+00:00",
       "NumProgressed": 788,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T05:09:27.4699776+00:00",
+      "NumProgressed": 789,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2943,7 +2948,7 @@
       "Name": "New arm",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2967,7 +2972,7 @@
       "Name": "Expert Scavenger",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -3015,7 +3020,7 @@
       "Name": "Romantic",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -3023,7 +3028,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3079,7 +3084,7 @@
       "Name": "The First Bond",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3087,7 +3092,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3142,7 +3147,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 788,
+      "Progressed": 789,
       "Completed": 2
     }
   ],
@@ -3150,8 +3155,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:09:59.3724222+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:09:27.4699772+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:01:07.647443+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:09:59.3724496+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:00:45.4836+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:09:27.4700159+00:00"
 }

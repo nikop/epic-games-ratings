@@ -30,17 +30,17 @@ Rating: 4.62 (Ranked 379)
 | Against the Odds | 3.00% | ~208 |
 | Tipping the Scales | 3.00% | ~208 |
 | Freed Lands of Manuhari | 3.00% | ~208 |
-| God Emperor | 2.00% | ~138 |
-| Arch Mage | 2.00% | ~138 |
-| The Creator | 2.00% | ~138 |
-| Eternal Lord | 2.00% | ~138 |
-| Crimson Caldera | 2.00% | ~138 |
-| Here be Dragons | 2.00% | ~138 |
-| Blood of the Dragon | 2.00% | ~138 |
-| Mighty Hoard | 2.00% | ~138 |
-| Sehiran Oasis | 2.00% | ~138 |
-| Chaos Surge | 2.00% | ~138 |
-| Spoils of War | 2.00% | ~138 |
+| God Emperor | 2.00% | ~139 |
+| Arch Mage | 2.00% | ~139 |
+| The Creator | 2.00% | ~139 |
+| Eternal Lord | 2.00% | ~139 |
+| Crimson Caldera | 2.00% | ~139 |
+| Here be Dragons | 2.00% | ~139 |
+| Blood of the Dragon | 2.00% | ~139 |
+| Mighty Hoard | 2.00% | ~139 |
+| Sehiran Oasis | 2.00% | ~139 |
+| Chaos Surge | 2.00% | ~139 |
+| Spoils of War | 2.00% | ~139 |
 | I've Got Everything I Need Right Here | 1.00% | ~69 |
 | Lord of Chaos | 1.00% | ~69 |
 | The Goddess of Nature | 1.00% | ~69 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,925 (Ranked 197)  
+Progressed: 6,926 (Ranked 197)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
-| 2024-01-06 | 6,925 | 7 |
+| 2024-01-06 | 6,926 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 210 (Ranked 411)  

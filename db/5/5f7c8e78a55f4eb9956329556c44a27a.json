@@ -1146,9 +1146,9 @@
       "ID": "TINGWD_CLICKER",
       "SetID": "c0imaa6",
       "Name": "Serial Clicker",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "TINGWD_CONSPI",
@@ -1313,8 +1313,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:06:31.8254218+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:06:16.9127846+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.3171345+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:58:32.0137438+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:06:31.8254562+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:58:14.9675644+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:06:16.912832+00:00"
 }

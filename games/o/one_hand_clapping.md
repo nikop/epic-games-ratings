@@ -20,7 +20,7 @@
 | Antiphony | 0.60% | ~5 |
 | Coda Cave Glyph | 0.60% | ~5 |
 | Silent City Glyph | 0.50% | ~4 |
-| Musica Universalis | 0.40% | ~3 |
+| Musica Universalis | 0.30% | ~3 |
 | Symphony | 0.20% | ~2 |
 | Fugue Forest Glyph | 0.20% | ~2 |
 | Consonance | 0.10% | ~1 |
@@ -33,7 +33,7 @@
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 857 (Ranked 300)  
+Progressed: 858 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 850 | 0 |
 | 2024-01-04 | 851 | 0 |
 | 2024-01-05 | 857 | 0 |
+| 2024-01-06 | 858 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

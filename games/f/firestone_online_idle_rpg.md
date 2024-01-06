@@ -39,10 +39,10 @@ Rating: 4.05 (Ranked 1,032)
 | Scroll Master | 8.00% | ~339 |
 | The power of Awakening | 8.00% | ~339 |
 | Four Leaf Clover | 7.00% | ~297 |
+| Here We Go Again | 7.00% | ~297 |
 | Master Enchanter | 7.00% | ~297 |
 | The father of Dragons | 7.00% | ~297 |
 | Trader | 7.00% | ~297 |
-| Here We Go Again | 6.00% | ~254 |
 | The Expeditioner | 6.00% | ~254 |
 | Weekly Quest Completionist | 6.00% | ~254 |
 | Blueprint Upgrades | 5.00% | ~212 |

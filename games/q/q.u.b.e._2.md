@@ -6,20 +6,20 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~34,943 |
-| Quick Understanding of Block Extrusion | 68.00% | ~31,682 |
-| Nature or Nurture | 52.00% | ~24,227 |
-| Power Glove | 50.00% | ~23,296 |
-| Forgotten Memories | 43.00% | ~20,034 |
-| Cogs in the Machine | 37.00% | ~17,239 |
-| Mission Success | 23.00% | ~10,716 |
-| There's No Place Like Home | 23.00% | ~10,716 |
-| Green Cube Killer | 20.00% | ~9,318 |
-| Infinity Loop | 17.00% | ~7,920 |
-| Path to Salvation | 17.00% | ~7,920 |
+| Lost in Space | 75.00% | ~34,947 |
+| Quick Understanding of Block Extrusion | 68.00% | ~31,685 |
+| Nature or Nurture | 52.00% | ~24,230 |
+| Power Glove | 50.00% | ~23,298 |
+| Forgotten Memories | 43.00% | ~20,036 |
+| Cogs in the Machine | 37.00% | ~17,241 |
+| Mission Success | 23.00% | ~10,717 |
+| There's No Place Like Home | 23.00% | ~10,717 |
+| Green Cube Killer | 20.00% | ~9,319 |
+| Infinity Loop | 17.00% | ~7,921 |
+| Path to Salvation | 17.00% | ~7,921 |
 | Descendants | 15.00% | ~6,989 |
-| The Flawed Teacher | 12.00% | ~5,591 |
-| To Infinity and Beyond | 6.00% | ~2,795 |
+| The Flawed Teacher | 12.00% | ~5,592 |
+| To Infinity and Beyond | 6.00% | ~2,796 |
 | The Truthful Enemy | 5.00% | ~2,330 |
 | Laser Sharp | 3.00% | ~1,398 |
 | Bronze collector | 2.00% | ~932 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~466 |
 | Expert Collector | 1.00% | ~466 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,591 (Ranked 124)  
+Progressed: 46,596 (Ranked 124)  
 Completed: 234 (0.50%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 234 (0.50%) (Ranked 219)
 | 2024-01-03 | 46,314 | 234 |
 | 2024-01-04 | 46,448 | 234 |
 | 2024-01-05 | 46,563 | 234 |
-| 2024-01-06 | 46,591 | 234 |
+| 2024-01-06 | 46,596 | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

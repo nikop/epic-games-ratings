@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -500,7 +500,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98299,
+  "EOS_Progressed": 98301,
   "EOS_Completed": 451,
   "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 3,
@@ -29570,6 +29570,11 @@
       "Time": "2024-01-06T04:10:05.0677169+00:00",
       "NumProgressed": 98299,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2024-01-06T05:09:32.7172554+00:00",
+      "NumProgressed": 98301,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 10,
@@ -29621,7 +29626,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "DrawingsDLC",
@@ -29629,7 +29634,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "GameCompleted",
@@ -29660,15 +29665,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 98299,
+      "Progressed": 98301,
       "Completed": 451
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:10:05.0677164+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:09:32.7172548+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.1360404+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:03:41.6946117+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:10:05.0678851+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:03:20.6146765+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:09:32.7174613+00:00"
 }

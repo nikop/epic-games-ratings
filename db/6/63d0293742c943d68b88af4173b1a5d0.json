@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 650,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2114,6 +2114,11 @@
       "Time": "2024-01-06T03:05:09.399274+00:00",
       "NumProgressed": 649,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T05:05:56.3272062+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2134,7 +2139,7 @@
       "Name": "Iced Iced Baby",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "5",
@@ -2166,7 +2171,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "9",
@@ -2190,15 +2195,15 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 396
+      "UsersEstimate": 390
     },
     {
       "ID": "Remake_005",
@@ -2270,7 +2275,7 @@
       "Name": "Toasted",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Remake_14",
@@ -2278,7 +2283,7 @@
       "Name": "This is not how you play Slip and Die",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Remake_15",
@@ -2294,7 +2299,7 @@
       "Name": "Choked on Balls",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Remake_17",
@@ -2310,7 +2315,7 @@
       "Name": "Disobedient",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Remake_19",
@@ -2349,14 +2354,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 650,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:06:12.336438+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:05:56.3272057+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:00:21.1326366+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:06:12.3364704+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:59:59.9303249+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:05:56.3272493+00:00"
 }

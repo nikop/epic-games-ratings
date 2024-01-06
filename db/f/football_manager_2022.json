@@ -9134,9 +9134,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 478916,
+  "EOS_Progressed": 478917,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35379,6 +35379,11 @@
       "Time": "2024-01-06T04:09:33.1493568+00:00",
       "NumProgressed": 478916,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-06T05:09:00.7274084+00:00",
+      "NumProgressed": 478917,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -35406,7 +35411,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 129307
+      "UsersEstimate": 129308
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -35478,7 +35483,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 129307
+      "UsersEstimate": 129308
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -35606,7 +35611,7 @@
       "Name": "Best In Europe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 43102
+      "UsersEstimate": 43103
     },
     {
       "ID": "achievement_eyes_and_ears",
@@ -35638,7 +35643,7 @@
       "Name": "National Hero",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14367
+      "UsersEstimate": 14368
     },
     {
       "ID": "achievement_get_into_hall_of_fame",
@@ -35654,7 +35659,7 @@
       "Name": "National Service",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 43102
+      "UsersEstimate": 43103
     },
     {
       "ID": "achievement_goal_of_the_month_award",
@@ -35678,7 +35683,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 134096
+      "UsersEstimate": 134097
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -35694,7 +35699,7 @@
       "Name": "Golden Boot",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14367
+      "UsersEstimate": 14368
     },
     {
       "ID": "achievement_good_finance_control",
@@ -35726,7 +35731,7 @@
       "Name": "Headhunted",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 43102
+      "UsersEstimate": 43103
     },
     {
       "ID": "achievement_hes_a_natural",
@@ -35886,7 +35891,7 @@
       "Name": "Record Sale",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 129307
+      "UsersEstimate": 129308
     },
     {
       "ID": "achievement_record_signing",
@@ -35982,7 +35987,7 @@
       "Name": "Domination",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 43102
+      "UsersEstimate": 43103
     },
     {
       "ID": "achievement_win_a_match_after_being_2_goals_behind_at_half_time",
@@ -36006,7 +36011,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71837
+      "UsersEstimate": 71838
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -36038,7 +36043,7 @@
       "Name": "Freedom Of The Country",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14367
+      "UsersEstimate": 14368
     },
     {
       "ID": "achievement_won_promotion",
@@ -36054,7 +36059,7 @@
       "Name": "On Top Of The World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14367
+      "UsersEstimate": 14368
     },
     {
       "ID": "achievement_world_player_of_the_year",
@@ -36142,7 +36147,7 @@
       "Name": "Online Streak",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "fantasy_draft_shrewd_spender",
@@ -36173,15 +36178,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 478916,
+      "Progressed": 478917,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2024-01-06T02:18:52.7946849+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:09:33.1493562+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:09:00.7274079+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:28.9554136+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:58:32.1895218+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:09:33.1495317+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:58:15.0401202+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:09:00.7276081+00:00"
 }

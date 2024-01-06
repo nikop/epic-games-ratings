@@ -29,9 +29,9 @@ Rating: 4.63 (Ranked 357)
 | Fae Farmer | 0.70% | ~62 |
 | Got to Catch Them All | 0.60% | ~53 |
 | Rumble in the Jumble | 0.60% | ~53 |
+| Azorian Hat Dance | 0.60% | ~9 |
 | Scattered Scroll Scrounger | 0.50% | ~44 |
 | Fanatical Farmer | 0.50% | ~44 |
-| Azorian Hat Dance | 0.50% | ~8 |
 | Chatty Neighbor | 0.40% | ~36 |
 | Right Tool For the Job | 0.40% | ~36 |
 | House Proud | 0.40% | ~36 |

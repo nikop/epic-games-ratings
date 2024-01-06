@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -26,8 +26,8 @@
   "Tags": [],
   "EOS_Progressed": 716,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 55,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 54,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 7.4,
   "EosHistory": [
     {
@@ -3163,9 +3163,9 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 193
     },
     {
       "ID": "PriestRum",
@@ -3290,8 +3290,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:05:49.8426382+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:05:33.3933163+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:00:33.0435403+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:05:49.8426847+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:00:11.4481232+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:05:33.3933538+00:00"
 }

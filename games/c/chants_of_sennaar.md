@@ -17,9 +17,9 @@ Rating: 4.83 (Ranked 54)
 | One last step | 27.00% | ~657 |
 | Cable guy | 26.00% | ~633 |
 | Half the way | 26.00% | ~633 |
+| Rascal | 26.00% | ~633 |
 | I did it | 25.00% | ~609 |
 | Peace walker | 25.00% | ~609 |
-| Rascal | 25.00% | ~609 |
 | In this together | 24.00% | ~584 |
 | Champollion | 24.00% | ~584 |
 | Open door | 21.00% | ~511 |

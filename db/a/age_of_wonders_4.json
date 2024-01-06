@@ -723,9 +723,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6925,
+  "EOS_Progressed": 6926,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10498,6 +10498,11 @@
       "Time": "2024-01-06T04:04:52.2919013+00:00",
       "NumProgressed": 6925,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T05:04:34.2056842+00:00",
+      "NumProgressed": 6926,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10565,7 +10570,7 @@
       "Name": "God Emperor",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "17",
@@ -10581,7 +10586,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "19",
@@ -10589,7 +10594,7 @@
       "Name": "The Creator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "2",
@@ -10613,7 +10618,7 @@
       "Name": "Eternal Lord",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "22",
@@ -10685,7 +10690,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "30",
@@ -10861,7 +10866,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "46",
@@ -10885,7 +10890,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "49",
@@ -10893,7 +10898,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "50",
@@ -10917,7 +10922,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "53",
@@ -10933,7 +10938,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "55",
@@ -10957,7 +10962,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "58",
@@ -10988,13 +10993,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6925,
+      "Progressed": 6926,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6925,
+      "Progressed": 6926,
       "Completed": 7
     }
   ],
@@ -11002,8 +11007,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:04:52.2919008+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:04:34.2056839+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:03:08.9244702+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:04:52.2920037+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:02:47.0641279+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:04:34.2057612+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 7.00% | ~500 |
-| Smooth Operator: Madison | 5.00% | ~357 |
+| A Friend in Need... | 7.00% | ~501 |
+| Smooth Operator: Madison | 5.00% | ~358 |
 | The Brahdyssey | 3.00% | ~214 |
 | Caught in the Act | 3.00% | ~214 |
 | Katherine | 3.00% | ~214 |
@@ -15,13 +15,13 @@ Number of Ratings: 177  (23.09.2022)
 | Relentless | 3.00% | ~214 |
 | If at First You Don't Succeed... | 3.00% | ~214 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~143 |
-| Amy | 1.00% | ~71 |
-| Drunk and Disorderly: Ashley | 1.00% | ~71 |
-| IRL Let's Player | 1.00% | ~71 |
-| Inspector | 1.00% | ~71 |
-| Newcomer: Vickie | 1.00% | ~71 |
-| Social Butterfly | 1.00% | ~71 |
-| The Muse: Madison | 1.00% | ~71 |
+| Amy | 1.00% | ~72 |
+| Drunk and Disorderly: Ashley | 1.00% | ~72 |
+| IRL Let's Player | 1.00% | ~72 |
+| Inspector | 1.00% | ~72 |
+| Newcomer: Vickie | 1.00% | ~72 |
+| Social Butterfly | 1.00% | ~72 |
+| The Muse: Madison | 1.00% | ~72 |
 | Smooth Operator: Ashley | 0.80% | ~57 |
 | The Crush | 0.80% | ~57 |
 | Amy: Scavenger Hunt | 0.70% | ~50 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,147 (Ranked 193)  
+Progressed: 7,150 (Ranked 193)  
 Completed: 3 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 3 (0.04%) (Ranked 348)
 | 2024-01-03 | 7,070 | 3 |
 | 2024-01-04 | 7,099 | 3 |
 | 2024-01-05 | 7,141 | 3 |
-| 2024-01-06 | 7,147 | 3 |
+| 2024-01-06 | 7,150 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

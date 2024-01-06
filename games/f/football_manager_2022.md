@@ -24,10 +24,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Parked The Bus | 29.00% | ~138,886 |
 | Shrewd Spender | 29.00% | ~138,886 |
 | Star Man | 29.00% | ~138,886 |
-| Attack! | 28.00% | ~134,096 |
-| You're On Fire | 27.00% | ~129,307 |
-| Tremendous Trio | 27.00% | ~129,307 |
-| Record Sale | 27.00% | ~129,307 |
+| Attack! | 28.00% | ~134,097 |
+| You're On Fire | 27.00% | ~129,308 |
+| Tremendous Trio | 27.00% | ~129,308 |
+| Record Sale | 27.00% | ~129,308 |
 | On A Roll | 26.00% | ~124,518 |
 | Unstoppable Force | 26.00% | ~124,518 |
 | Armchair Expert | 25.00% | ~119,729 |
@@ -49,7 +49,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Beating Expectations | 16.00% | ~76,627 |
 | Overachiever! | 16.00% | ~76,627 |
 | Rushed signing | 16.00% | ~76,627 |
-| Window Shopping | 15.00% | ~71,837 |
+| Window Shopping | 15.00% | ~71,838 |
 | Eyes and Ears | 14.00% | ~67,048 |
 | Comeback King! | 14.00% | ~67,048 |
 | You're Up! | 13.00% | ~62,259 |
@@ -58,10 +58,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Superb Strike | 10.00% | ~47,892 |
 | International Superstar | 10.00% | ~47,892 |
 | Best In The World | 10.00% | ~47,892 |
-| Best In Europe | 9.00% | ~43,102 |
-| National Service | 9.00% | ~43,102 |
-| Headhunted | 9.00% | ~43,102 |
-| Domination | 9.00% | ~43,102 |
+| Best In Europe | 9.00% | ~43,103 |
+| National Service | 9.00% | ~43,103 |
+| Headhunted | 9.00% | ~43,103 |
+| Domination | 9.00% | ~43,103 |
 | Best In The Business | 8.00% | ~38,313 |
 | Legend | 6.00% | ~28,735 |
 | Win the Club World Cup | 6.00% | ~28,735 |
@@ -71,10 +71,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Going Places | 5.00% | ~23,946 |
 | We Trust You | 5.00% | ~23,946 |
 | Trophy Hoarder | 4.00% | ~19,157 |
-| National Hero | 3.00% | ~14,367 |
-| Golden Boot | 3.00% | ~14,367 |
-| Freedom Of The Country | 3.00% | ~14,367 |
-| On Top Of The World | 3.00% | ~14,367 |
+| National Hero | 3.00% | ~14,368 |
+| Golden Boot | 3.00% | ~14,368 |
+| Freedom Of The Country | 3.00% | ~14,368 |
+| On Top Of The World | 3.00% | ~14,368 |
 | Icon | 2.00% | ~9,578 |
 | Part Of The Furniture | 2.00% | ~9,578 |
 | Childhood Dream | 2.00% | ~9,578 |
@@ -89,7 +89,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Perfect Host | 0.70% | ~3,352 |
 | One more draft | 0.70% | ~3,352 |
 | Set Piece Specialist | 0.70% | ~3,352 |
-| Online Streak | 0.60% | ~2,873 |
+| Online Streak | 0.60% | ~2,874 |
 | Draft Rivalry | 0.50% | ~2,395 |
 | Outstanding Defence | 0.40% | ~1,916 |
 | Club Legend | 0.40% | ~1,916 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~479 |
 | Shoestring Budget | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,916 (Ranked 44)  
+Progressed: 478,917 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 22 (0.00%) (Ranked 393)
 | 2024-01-03 | 478,805 | 22 |
 | 2024-01-04 | 478,848 | 22 |
 | 2024-01-05 | 478,910 | 22 |
-| 2024-01-06 | 478,916 | 22 |
+| 2024-01-06 | 478,917 | 22 |
 ## Awards
 Max (Relaxing): 6,494  (Ranked 61)  
 Sum: 51,228 (Ranked 30)  

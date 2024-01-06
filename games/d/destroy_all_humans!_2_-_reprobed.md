@@ -6,7 +6,7 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 82.00% | ~268 |
+| Rock of the Bay | 83.00% | ~271 |
 | Mash Machine | 75.00% | ~245 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~177 |
 | Furon Fashion | 47.00% | ~154 |
@@ -14,7 +14,7 @@ Number of Ratings: 90  (23.09.2022)
 | Bodied Sattva | 39.00% | ~128 |
 | Cult Following | 35.00% | ~114 |
 | Earthly Pleasures | 35.00% | ~114 |
-| Lie Back and Think of Albion | 27.00% | ~88 |
+| Lie Back and Think of Albion | 28.00% | ~92 |
 | Upgreatest | 27.00% | ~88 |
 | Pimp My Raid | 25.00% | ~82 |
 | Freshly Squeezed | 21.00% | ~69 |

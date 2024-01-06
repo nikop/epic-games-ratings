@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242434,
+  "EOS_Progressed": 242438,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30845,6 +30845,11 @@
       "Time": "2024-01-06T03:10:08.6719858+00:00",
       "NumProgressed": 242434,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-06T05:10:48.0053031+00:00",
+      "NumProgressed": 242438,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -30872,7 +30877,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "BOSSPIT",
@@ -30952,7 +30957,7 @@
       "Name": "Delving Deeper",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "DEPTH12HARD",
@@ -31008,7 +31013,7 @@
       "Name": "R.I.P",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "DIEBOSS",
@@ -31038,9 +31043,9 @@
       "ID": "DIERAINBOWSOCKS",
       "SetID": "5l8oe0h",
       "Name": "Colorful Corpse",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2424
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -31288,7 +31293,7 @@
       "Name": "The Bestiary",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -31352,7 +31357,7 @@
       "Name": "Heartless",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "KILLPARANOIA",
@@ -31360,7 +31365,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "KILLREFLECT10",
@@ -31384,7 +31389,7 @@
       "Name": "Spine Breaker",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "KILLSPITTER",
@@ -31456,7 +31461,7 @@
       "Name": "C-C-Combo",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "NOEPIC",
@@ -31624,7 +31629,7 @@
       "Name": "Sneaky",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "STEALTH100",
@@ -31936,7 +31941,7 @@
       "Name": "Expensive Look",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -31944,7 +31949,7 @@
       "Name": "What Doesn\u0027t Kill You",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "WEARSAMESETINSLOTS",
@@ -31959,13 +31964,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242434,
+      "Progressed": 242438,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3914,
+      "Progressed": 3918,
       "Completed": 421
     }
   ],
@@ -31973,8 +31978,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:11:19.3956317+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:10:48.0053025+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:00:42.6013615+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:11:19.3959637+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:00:20.5132476+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:10:48.0056107+00:00"
 }

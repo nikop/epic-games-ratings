@@ -4540,9 +4540,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1397
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -5108,9 +5108,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1397
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -5197,8 +5197,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-06T04:08:58.493702+00:00",
+  "LastChanged_Achievements": "2024-01-06T05:08:25.0237956+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:01:09.5637514+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:08:58.4938132+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:00:47.4632892+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:08:25.0239113+00:00"
 }

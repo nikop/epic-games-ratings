@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~243 |
-| A piece of the story | 64.00% | ~181 |
-| It's covered up for a reason | 57.00% | ~161 |
-| Wanderer | 52.00% | ~147 |
+| Something important | 86.00% | ~244 |
+| A piece of the story | 64.00% | ~182 |
+| It's covered up for a reason | 57.00% | ~162 |
+| Wanderer | 52.00% | ~148 |
 | Scraps of love | 49.00% | ~139 |
 | The artist’s impression | 48.00% | ~136 |
 | Do what you have to | 42.00% | ~119 |
-| Sign of weakness | 39.00% | ~110 |
+| Sign of weakness | 39.00% | ~111 |
 | Refuse to look | 35.00% | ~99 |
 | Face your fears | 29.00% | ~82 |
 | Finished it | 25.00% | ~71 |
-| Whispers long forgotten | 16.00% | ~45 |
+| Whispers long forgotten | 15.00% | ~43 |
 | Sound Bite | 12.00% | ~34 |
 | The art of movement | 12.00% | ~34 |
 | A Slice of Life | 11.00% | ~31 |
@@ -24,8 +24,8 @@
 | Another perspective | 10.00% | ~28 |
 | Playtime | 10.00% | ~28 |
 | Tough conversation | 10.00% | ~28 |
-| First steps | 9.00% | ~25 |
-| The tragedy unfolds | 9.00% | ~25 |
+| First steps | 9.00% | ~26 |
+| The tragedy unfolds | 9.00% | ~26 |
 | A new way | 8.00% | ~23 |
 | Breaking free | 8.00% | ~23 |
 | True Reflection | 7.00% | ~20 |
@@ -36,9 +36,9 @@
 | Something to think about | 4.00% | ~11 |
 | I remember It Like Was Yesterday | 4.00% | ~11 |
 | Immortalized in my heart | 4.00% | ~11 |
-| We Are Not Alone | 3.00% | ~8 |
-| The Perfect Storm | 3.00% | ~8 |
-| Se7en Seas | 3.00% | ~8 |
+| We Are Not Alone | 3.00% | ~9 |
+| The Perfect Storm | 3.00% | ~9 |
+| Se7en Seas | 3.00% | ~9 |
 | Body of Work | 2.00% | ~6 |
 | Dark correspondence | 2.00% | ~6 |
 | It was worth a try | 2.00% | ~6 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 283 (Ranked 400)  
+Progressed: 284 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,3 +132,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 265 | 0 |
 | 2024-01-04 | 274 | 0 |
 | 2024-01-05 | 283 | 0 |
+| 2024-01-06 | 284 | 0 |

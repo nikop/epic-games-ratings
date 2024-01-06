@@ -4,7 +4,7 @@
   "ProductSlug": "relicta",
   "Ranking_Rating": 993,
   "Ranking_Popularity": 297,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 567,
@@ -673,6 +673,6 @@
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
   "LastChanged": "2023-12-21T19:02:26.6495405+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:40.5701754+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:01:10.6253639+00:00",
-  "LastUpdate_Achievements": "2024-01-06T04:05:49.6752414+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:00:48.5567109+00:00",
+  "LastUpdate_Achievements": "2024-01-06T05:05:33.1801217+00:00"
 }
