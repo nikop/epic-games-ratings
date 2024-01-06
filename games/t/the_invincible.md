@@ -27,9 +27,9 @@ Rating: 4.59 (Ranked 445)
 | Violent solution | 9.00% | ~128 |
 | I leave no man behind | 9.00% | ~128 |
 | Innate curiosity | 7.00% | ~100 |
+| Ubiquitous holes | 6.00% | ~85 |
 | The Invincible | 6.00% | ~85 |
 | Strong objection | 6.00% | ~85 |
-| Ubiquitous holes | 5.00% | ~71 |
 | Got lost again | 5.00% | ~71 |
 | I leave no man behind (no exceptions) | 2.00% | ~28 |
 | Convoy list | 0.90% | ~13 |

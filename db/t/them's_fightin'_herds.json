@@ -349,7 +349,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 234987,
+  "EOS_Progressed": 234990,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
@@ -26909,6 +26909,11 @@
       "Time": "2024-01-06T05:09:48.6865761+00:00",
       "NumProgressed": 234987,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T06:09:26.0790045+00:00",
+      "NumProgressed": 234990,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -26984,7 +26989,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84595
+      "UsersEstimate": 84596
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -27064,7 +27069,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79896
+      "UsersEstimate": 79897
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -27080,7 +27085,7 @@
       "Name": "Be Gentle...",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 49347
+      "UsersEstimate": 49348
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -27120,7 +27125,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9399
+      "UsersEstimate": 9400
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -27143,7 +27148,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234987,
+      "Progressed": 234990,
       "Completed": 6
     }
   ],
@@ -27151,8 +27156,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-05T16:00:22.9926653+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:09:48.6865756+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:09:26.0790044+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.1279895+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:01:26.1740602+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:09:48.6867654+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:01:45.3041093+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:09:26.0791177+00:00"
 }

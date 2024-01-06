@@ -6,61 +6,61 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 71.00% | ~510,195 |
-| To The Nines | 45.00% | ~323,363 |
-| Optimized | 27.00% | ~194,018 |
-| Wet Work | 25.00% | ~179,646 |
-| Performance Review | 22.00% | ~158,088 |
-| Food for Thought | 22.00% | ~158,088 |
-| The Side Job | 19.00% | ~136,531 |
-| Making a Name | 19.00% | ~136,531 |
-| Tune Up | 18.00% | ~129,345 |
-| Landlord | 16.00% | ~114,973 |
-| Wrecking Ball | 13.00% | ~93,416 |
-| Finders Keepers | 9.00% | ~64,673 |
-| A Young Empire | 9.00% | ~64,673 |
-| Work Ethic | 7.00% | ~50,301 |
-| Hijacked | 6.00% | ~43,115 |
-| Picking Fights | 6.00% | ~43,115 |
-| Quality Time | 5.00% | ~35,929 |
-| Power Players | 5.00% | ~35,929 |
-| Took It to The Limit | 5.00% | ~35,929 |
-| Showdown | 4.00% | ~28,743 |
-| Kitted Out | 4.00% | ~28,743 |
-| Et tu? | 4.00% | ~28,743 |
-| Prankster | 4.00% | ~28,743 |
-| The Spins | 3.00% | ~21,558 |
-| The Mechanic | 3.00% | ~21,558 |
-| Masters of Santo Ileso | 2.00% | ~14,372 |
-| Closet Space | 2.00% | ~14,372 |
-| We could go home, or… | 1.00% | ~7,186 |
-| The Professional | 1.00% | ~7,186 |
-| Challenge Accepted | 1.00% | ~7,186 |
-| Chaos Tamer | 1.00% | ~7,186 |
-| A Golden Age | 1.00% | ~7,186 |
-| Free Refills | 1.00% | ~7,186 |
-| Smooth Moves | 1.00% | ~7,186 |
-| Producer Credit | 1.00% | ~6,902 |
-| Tourist | 0.90% | ~6,467 |
-| Face Off | 0.90% | ~6,212 |
-| Untouchable | 0.80% | ~5,749 |
-| Neighborly | 0.80% | ~5,749 |
-| Hazardous Heist | 0.80% | ~5,522 |
-| Shopping Spree | 0.70% | ~5,030 |
-| Always Be Hustling | 0.70% | ~5,030 |
-| Bonus Round | 0.60% | ~4,312 |
-| Community Outreach | 0.40% | ~2,874 |
-| Jack of All Trades | 0.20% | ~1,437 |
-| It's a Bird! | 0.20% | ~1,437 |
-| The Collector | 0.20% | ~1,437 |
-| All Mine | 0.20% | ~1,437 |
+| First F#@!ing Day | 71.00% | ~510,745 |
+| To The Nines | 45.00% | ~323,712 |
+| Optimized | 27.00% | ~194,227 |
+| Wet Work | 25.00% | ~179,840 |
+| Performance Review | 22.00% | ~158,259 |
+| Food for Thought | 22.00% | ~158,259 |
+| The Side Job | 19.00% | ~136,678 |
+| Making a Name | 19.00% | ~136,678 |
+| Tune Up | 18.00% | ~129,485 |
+| Landlord | 16.00% | ~115,097 |
+| Wrecking Ball | 13.00% | ~93,517 |
+| Finders Keepers | 9.00% | ~64,742 |
+| A Young Empire | 9.00% | ~64,742 |
+| Work Ethic | 7.00% | ~50,355 |
+| Hijacked | 6.00% | ~43,162 |
+| Picking Fights | 6.00% | ~43,162 |
+| Quality Time | 5.00% | ~35,968 |
+| Power Players | 5.00% | ~35,968 |
+| Took It to The Limit | 5.00% | ~35,968 |
+| Showdown | 4.00% | ~28,774 |
+| Kitted Out | 4.00% | ~28,774 |
+| Et tu? | 4.00% | ~28,774 |
+| Prankster | 4.00% | ~28,774 |
+| The Spins | 3.00% | ~21,581 |
+| The Mechanic | 3.00% | ~21,581 |
+| Masters of Santo Ileso | 2.00% | ~14,387 |
+| Closet Space | 2.00% | ~14,387 |
+| We could go home, or… | 1.00% | ~7,194 |
+| The Professional | 1.00% | ~7,194 |
+| Challenge Accepted | 1.00% | ~7,194 |
+| Chaos Tamer | 1.00% | ~7,194 |
+| A Golden Age | 1.00% | ~7,194 |
+| Free Refills | 1.00% | ~7,194 |
+| Smooth Moves | 1.00% | ~7,194 |
+| Producer Credit | 1.00% | ~6,910 |
+| Tourist | 0.90% | ~6,474 |
+| Face Off | 0.90% | ~6,219 |
+| Untouchable | 0.80% | ~5,755 |
+| Neighborly | 0.80% | ~5,755 |
+| Hazardous Heist | 0.80% | ~5,528 |
+| Shopping Spree | 0.70% | ~5,036 |
+| Always Be Hustling | 0.70% | ~5,036 |
+| Bonus Round | 0.60% | ~4,316 |
+| Community Outreach | 0.40% | ~2,877 |
+| Jack of All Trades | 0.20% | ~1,439 |
+| It's a Bird! | 0.20% | ~1,439 |
+| The Collector | 0.20% | ~1,439 |
+| All Mine | 0.20% | ~1,439 |
 | Statement Pieces | 0.10% | ~719 |
 | Armor Piercing | 0.10% | ~719 |
 | A Car Named Simone | 0.10% | ~719 |
 | Heard You Like Wheels | 0.10% | ~719 |
 | Fiesta Time | 0.10% | ~719 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,584 (Ranked 28)  
+Progressed: 719,359 (Ranked 28)  
 Completed: 58 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 58 (0.01%) (Ranked 371)
 | 2024-01-03 | 666,848 | 57 |
 | 2024-01-04 | 692,546 | 57 |
 | 2024-01-05 | 714,160 | 58 |
-| 2024-01-06 | 718,584 | 58 |
+| 2024-01-06 | 719,359 | 58 |
 ## Awards
 Max (Extremely Fun): 1,089  (Ranked 153)  
 Sum: 8,867 (Ranked 103)  

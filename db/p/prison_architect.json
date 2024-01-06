@@ -8073,9 +8073,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 212466,
+  "EOS_Progressed": 212484,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2872,
+  "EOS_NewPlayers": 2878,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38013,6 +38013,11 @@
       "Time": "2024-01-06T05:10:08.0547668+00:00",
       "NumProgressed": 212466,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-06T06:09:46.1239695+00:00",
+      "NumProgressed": 212484,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 16,
@@ -38024,7 +38029,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4249
+      "UsersEstimate": 4250
     },
     {
       "ID": "Achievement_1",
@@ -38040,7 +38045,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6374
+      "UsersEstimate": 6375
     },
     {
       "ID": "Achievement_11",
@@ -38048,7 +38053,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6374
+      "UsersEstimate": 6375
     },
     {
       "ID": "Achievement_12",
@@ -38056,7 +38061,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 33995
+      "UsersEstimate": 33997
     },
     {
       "ID": "Achievement_13",
@@ -38080,7 +38085,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 6374
+      "UsersEstimate": 6375
     },
     {
       "ID": "Achievement_2",
@@ -38104,7 +38109,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 53116
+      "UsersEstimate": 53121
     },
     {
       "ID": "Achievement_5",
@@ -38112,7 +38117,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 4249
+      "UsersEstimate": 4250
     },
     {
       "ID": "Achievement_6",
@@ -38136,7 +38141,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 19122
+      "UsersEstimate": 19124
     },
     {
       "ID": "Achievement_9",
@@ -38151,15 +38156,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 212466,
+      "Progressed": 212484,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2024-01-05T14:59:41.2975106+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:10:08.0547664+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:09:46.1239693+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:17.0553999+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:00:57.8867071+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:10:08.0549703+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:01:16.9314736+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:09:46.124134+00:00"
 }

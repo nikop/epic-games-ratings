@@ -808,7 +808,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43663,
+  "EOS_Progressed": 43664,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
@@ -27483,6 +27483,11 @@
       "Time": "2024-01-06T05:04:33.9532273+00:00",
       "NumProgressed": 43663,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T06:04:35.054918+00:00",
+      "NumProgressed": 43664,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -27724,9 +27729,9 @@
       "ID": "ach_newstories",
       "SetID": "ammcm",
       "Name": "Open Your Ears",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2620
+      "UsersEstimate": 3056
     },
     {
       "ID": "ach_portbell",
@@ -27846,7 +27851,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7859
+      "UsersEstimate": 7860
     },
     {
       "ID": "ach_terror100",
@@ -27862,7 +27867,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6549
+      "UsersEstimate": 6550
     },
     {
       "ID": "ach_undercurrent",
@@ -27925,15 +27930,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43663,
+      "Progressed": 43664,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:04:33.953227+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:04:35.0549177+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:43.1015004+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:00:50.3670446+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:04:33.9534063+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:01:08.5816898+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:04:35.0551202+00:00"
 }

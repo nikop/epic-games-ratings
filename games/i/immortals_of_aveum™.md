@@ -5,26 +5,26 @@ Rating: 4.21 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,481 |
-| Battlefields Have Memories | 80.00% | ~2,255 |
-| Enlisted | 74.00% | ~2,086 |
-| Maybe Engage a Little | 69.00% | ~1,945 |
-| No More Names | 52.00% | ~1,466 |
-| Initiate | 38.00% | ~1,071 |
-| Thrada-Kul | 34.00% | ~958 |
-| Gravity-Challenged Rocks | 27.00% | ~761 |
+| Unforeseen | 88.00% | ~2,482 |
+| Battlefields Have Memories | 81.00% | ~2,285 |
+| Enlisted | 74.00% | ~2,088 |
+| Maybe Engage a Little | 69.00% | ~1,946 |
+| No More Names | 52.00% | ~1,467 |
+| Initiate | 38.00% | ~1,072 |
+| Thrada-Kul | 34.00% | ~959 |
+| Gravity-Challenged Rocks | 27.00% | ~762 |
 | Socialite | 24.00% | ~677 |
-| Soldier | 23.00% | ~648 |
-| All the Major Food Groups | 22.00% | ~620 |
+| Soldier | 23.00% | ~649 |
+| All the Major Food Groups | 22.00% | ~621 |
 | Beggars Would Ride | 20.00% | ~564 |
 | Control is an Illusion | 19.00% | ~536 |
-| The Means to Save It | 17.00% | ~479 |
+| The Means to Save It | 17.00% | ~480 |
 | Resilience to Sin | 15.00% | ~423 |
 | A Familiar Nest | 15.00% | ~423 |
 | Geas Aristeya | 14.00% | ~395 |
 | Periapt Alizarin | 14.00% | ~395 |
-| A Perfect Cycle | 13.00% | ~366 |
-| Recruit | 12.00% | ~338 |
+| A Perfect Cycle | 13.00% | ~367 |
+| Recruit | 12.00% | ~339 |
 | Armsman | 11.00% | ~310 |
 | Lights Army | 9.00% | ~254 |
 | Periapt Cerulean | 8.00% | ~226 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 950)
 | Out of Time | 0.30% | ~8 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,819 (Ranked 230)  
+Progressed: 2,821 (Ranked 230)  
 Completed: 4 (0.14%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 4 (0.14%) (Ranked 296)
 | 2024-01-03 | 2,622 | 2 |
 | 2024-01-04 | 2,699 | 2 |
 | 2024-01-05 | 2,796 | 4 |
-| 2024-01-06 | 2,819 | 4 |
+| 2024-01-06 | 2,821 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,072 |
+| A Brief Tour of the Realms | 4.00% | ~10,073 |
 | The Cursed Farmer | 2.00% | ~5,036 |
 | Beast Intentions | 1.00% | ~2,518 |
 | The Mad Wizard | 1.00% | ~2,518 |
+| The Ring of Regeneration | 0.80% | ~2,015 |
 | Welcome to Sigil | 0.80% | ~1,745 |
-| The Ring of Regeneration | 0.70% | ~1,763 |
 | Are Ya Chicken? | 0.70% | ~1,763 |
 | Were-verpowered | 0.60% | ~1,511 |
 | Friendly Imps | 0.60% | ~1,511 |
-| Fast Food | 0.60% | ~1,308 |
+| Fast Food | 0.60% | ~1,309 |
 | Seeking Allies | 0.50% | ~1,259 |
 | Mad Cow Disease | 0.50% | ~1,259 |
 | Pure Energy | 0.50% | ~1,259 |
@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.40% | ~1,007 |
 | The Crumbling Temple | 0.40% | ~1,007 |
 | Arcane Suppression | 0.40% | ~872 |
+| Welcome to the Vrocks | 0.40% | ~872 |
 | Misaligned in Sigil | 0.40% | ~872 |
 | Chaos Theory | 0.40% | ~872 |
 | When Tentacles Attack | 0.40% | ~872 |
@@ -39,7 +40,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~755 |
 | The Contagious Curse | 0.30% | ~755 |
 | Escort to Waterdeep | 0.30% | ~755 |
-| Welcome to the Vrocks | 0.30% | ~654 |
 | The Silken Swamp | 0.20% | ~504 |
 | Supply Run | 0.20% | ~504 |
 | Low Initiative | 0.20% | ~504 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,803 (Ranked 70)  
+Progressed: 251,815 (Ranked 70)  
 Completed: 2,596 (1.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -814,7 +814,7 @@ Completed: 2,596 (1.03%) (Ranked 172)
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
-| 2024-01-06 | 251,803 | 2,596 |
+| 2024-01-06 | 251,815 | 2,596 |
 ## Awards
 Max (Great for Beginners): 5,750  (Ranked 72)  
 Sum: 33,350 (Ranked 41)  

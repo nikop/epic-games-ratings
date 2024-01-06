@@ -1689,9 +1689,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246759,
+  "EOS_Progressed": 246769,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1283,
+  "EOS_NewPlayers": 1288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25119,6 +25119,11 @@
       "Time": "2024-01-06T05:10:42.601888+00:00",
       "NumProgressed": 246759,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-06T06:10:21.0005468+00:00",
+      "NumProgressed": 246769,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25178,7 +25183,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19741
+      "UsersEstimate": 19742
     },
     {
       "ID": "Chapter2",
@@ -25194,7 +25199,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9870
+      "UsersEstimate": 9871
     },
     {
       "ID": "Chapter4",
@@ -25530,7 +25535,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22208
+      "UsersEstimate": 22209
     },
     {
       "ID": "DwarfElf15Support",
@@ -25578,7 +25583,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88833
+      "UsersEstimate": 88837
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25626,7 +25631,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24676
+      "UsersEstimate": 24677
     },
     {
       "ID": "FollowBraztok",
@@ -25826,28 +25831,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9870
+      "UsersEstimate": 9871
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246759,
+      "Progressed": 246769,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246759,
+      "Progressed": 246769,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-06T02:57:39.1123586+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:10:42.6018874+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:10:21.0005465+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:57:58.1056763+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:10:42.6020903+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:58:06.435269+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:10:21.0007451+00:00"
 }

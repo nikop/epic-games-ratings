@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3952,9 +3952,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 324
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4129,8 +4129,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:10:43.5131894+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:10:21.9698119+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:57:32.3108937+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:10:43.513264+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:57:39.421717+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:10:21.9698536+00:00"
 }

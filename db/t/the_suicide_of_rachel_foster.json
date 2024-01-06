@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1827,
+  "EOS_Progressed": 1828,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.21,
   "EosHistory": [
@@ -4213,6 +4213,11 @@
       "Time": "2024-01-05T15:05:01.5422461+00:00",
       "NumProgressed": 1827,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-06T06:06:10.8427649+00:00",
+      "NumProgressed": 1828,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 11,
@@ -4232,7 +4237,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "ACH_Cacciavite",
@@ -4256,7 +4261,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ACH_FineEV9",
@@ -4311,15 +4316,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1827,
+      "Progressed": 1828,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:06:07.7265469+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:06:10.8427647+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:08.0184284+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:02:41.9868483+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:06:07.7265758+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:02:40.2324159+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:06:10.8427895+00:00"
 }

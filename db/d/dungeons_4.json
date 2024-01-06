@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -59,11 +59,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 729,
-  "EOS_Completed": 29,
-  "EOS_NewPlayers": 65,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 3.98,
+  "EOS_Progressed": 730,
+  "EOS_Completed": 30,
+  "EOS_NewPlayers": 66,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -2284,6 +2284,11 @@
       "Time": "2024-01-05T21:09:46.358088+00:00",
       "NumProgressed": 729,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-06T06:09:04.2110013+00:00",
+      "NumProgressed": 730,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2296,15 +2301,15 @@
       "Name": "The Last Stand",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ach_main01begin_die",
       "SetID": "4hg22ll",
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 642
     },
     {
       "ID": "ach_main01begin_storm",
@@ -2320,7 +2325,7 @@
       "Name": "Hammer Time, Round Two",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2328,7 +2333,7 @@
       "Name": "For the Horde!",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2336,7 +2341,7 @@
       "Name": "Trap Master",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ach_main03demon_completed",
@@ -2344,7 +2349,7 @@
       "Name": "The Hellwoods",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2352,7 +2357,7 @@
       "Name": "Master of Magic",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ach_main03demon_spells",
@@ -2360,7 +2365,7 @@
       "Name": "Magic Accidents",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ach_main04undead_completed",
@@ -2368,7 +2373,7 @@
       "Name": "The Plains of Strothalm",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ach_main04undead_minions",
@@ -2376,7 +2381,7 @@
       "Name": "Minions, Minions!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -2408,7 +2413,7 @@
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -2424,7 +2429,7 @@
       "Name": "Mana Cannon",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ach_main06transporter_transport",
@@ -2432,7 +2437,7 @@
       "Name": "YOU SHALL NOT PASS!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ach_main07storm_classified",
@@ -2448,7 +2453,7 @@
       "Name": "The Ascent",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -2464,7 +2469,7 @@
       "Name": "It\u0027s Warm and Cozy at Home",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -2600,7 +2605,7 @@
       "Name": "Gorgu is in the Best of Health",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_main13tanos_evilbosses",
@@ -2718,9 +2723,9 @@
       "ID": "ach_main18unholy_researches",
       "SetID": "4hg22ll",
       "Name": "To the Max!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 131
     },
     {
       "ID": "ach_main18unholy_training",
@@ -2783,16 +2788,16 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 729,
-      "Completed": 29
+      "Progressed": 730,
+      "Completed": 30
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:09:27.2178522+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:09:04.2110011+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
   "LastUpdate_Ratings": "2024-01-06T05:02:34.981905+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:09:27.2179337+00:00"
+  "LastUpdate_Achievements": "2024-01-06T06:09:04.2110471+00:00"
 }

@@ -5,28 +5,28 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 81.00% | ~301 |
-| First Blood | 64.00% | ~237 |
+| First Blood | 64.00% | ~238 |
 | Triple Kill | 63.00% | ~234 |
 | Aspairagus | 60.00% | ~193 |
-| No Asperascope | 58.00% | ~215 |
+| No Asperascope | 58.00% | ~216 |
 | Survivor | 56.00% | ~180 |
-| Cornivore | 54.00% | ~200 |
+| Cornivore | 54.00% | ~201 |
 | I Believe I Can Fly | 49.00% | ~182 |
-| No Diggity | 44.00% | ~141 |
-| Early Survivor | 40.00% | ~128 |
+| No Diggity | 44.00% | ~142 |
+| Early Survivor | 40.00% | ~129 |
 | Bouncemato | 31.00% | ~100 |
 | 10K | 29.00% | ~108 |
-| Amateur Survivor | 29.00% | ~93 |
+| Amateur Survivor | 28.00% | ~90 |
 | 15K | 27.00% | ~100 |
 | Grave Digger | 23.00% | ~74 |
 | Drinking Problem | 22.00% | ~82 |
-| Quick-Draw Pod | 21.00% | ~67 |
+| Quick-Draw Pod | 21.00% | ~68 |
 | Pork Chop Express | 20.00% | ~74 |
 | Professional Survivor | 19.00% | ~61 |
-| Carrocketeer | 18.00% | ~67 |
 | Skin Of Your Teeth | 17.00% | ~63 |
-| Getting Started | 16.00% | ~59 |
-| This Is My Boomstick | 16.00% | ~51 |
+| Carrocketeer | 17.00% | ~63 |
+| Getting Started | 16.00% | ~60 |
+| This Is My Boomstick | 16.00% | ~52 |
 | Eggtraordinary | 15.00% | ~56 |
 | Oh My Gourd | 14.00% | ~45 |
 | Perfect | 14.00% | ~45 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371 (Ranked 372)  
+Progressed: 372 (Ranked 372)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,6 +241,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 369 | 0 |
 | 2024-01-04 | 370 | 0 |
 | 2024-01-05 | 371 | 0 |
+| 2024-01-06 | 372 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

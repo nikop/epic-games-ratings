@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1402,
+  "EOS_Progressed": 1403,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.92,
   "EosHistory": [
@@ -4953,6 +4953,11 @@
       "Time": "2024-01-06T04:04:14.6517145+00:00",
       "NumProgressed": 1402,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2024-01-06T06:03:55.7503737+00:00",
+      "NumProgressed": 1403,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 28,
@@ -4964,7 +4969,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "MQ01_2",
@@ -4972,7 +4977,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "MQ02_1",
@@ -4980,7 +4985,7 @@
       "Name": "High Profile",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "MQ02_2",
@@ -4996,7 +5001,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "MQ02_4",
@@ -5004,7 +5009,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "MQ03_1",
@@ -5012,7 +5017,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "MQ03_2",
@@ -5098,9 +5103,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 617
+      "UsersEstimate": 603
     },
     {
       "ID": "MQ06_1",
@@ -5140,15 +5145,15 @@
       "Name": "Read It And Weep",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 575
+      "UsersEstimate": 561
     },
     {
       "ID": "MQ08_1",
@@ -5187,7 +5192,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1402,
+      "Progressed": 1403,
       "Completed": 41
     }
   ],
@@ -5195,8 +5200,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:03:55.396963+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:03:55.7503733+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.3322639+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:03:19.2263824+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:03:55.3972266+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:03:18.201099+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:03:55.7504179+00:00"
 }

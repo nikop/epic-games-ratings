@@ -6,29 +6,29 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~345 |
-| First of many… | 67.00% | ~300 |
-| Helping Hand | 63.00% | ~282 |
-| Increased Vigor | 58.00% | ~260 |
-| Fight Fire with Fire | 57.00% | ~255 |
-| Increased Capacity | 53.00% | ~237 |
-| Just the start | 48.00% | ~215 |
+| Green with Envy | 77.00% | ~346 |
+| First of many… | 67.00% | ~301 |
+| Helping Hand | 63.00% | ~283 |
+| Increased Vigor | 59.00% | ~265 |
+| Fight Fire with Fire | 57.00% | ~256 |
+| Increased Capacity | 53.00% | ~238 |
+| Just the start | 48.00% | ~216 |
 | Perfect Storm | 45.00% | ~202 |
 | All That Glitters | 45.00% | ~202 |
 | Enhance! | 41.00% | ~184 |
-| One Of the Chosen | 40.00% | ~179 |
+| One Of the Chosen | 40.00% | ~180 |
 | Throne Potato | 39.00% | ~175 |
-| Devil's in the Details | 38.00% | ~170 |
-| Five's a Crowd | 38.00% | ~170 |
-| 25 to Life | 38.00% | ~170 |
+| Five's a Crowd | 39.00% | ~175 |
+| Devil's in the Details | 38.00% | ~171 |
+| 25 to Life | 38.00% | ~171 |
 | Salvation | 37.00% | ~166 |
 | Soul Harvester | 35.00% | ~157 |
-| Unshakable Fortitude | 33.00% | ~148 |
-| I Wanna Rock | 32.00% | ~143 |
-| Delusions of Grandeur | 32.00% | ~143 |
+| Unshakable Fortitude | 34.00% | ~153 |
+| Delusions of Grandeur | 33.00% | ~148 |
+| I Wanna Rock | 32.00% | ~144 |
 | Love Tap | 31.00% | ~139 |
-| Maximum Vigor | 30.00% | ~134 |
-| For Whom the Bell Tolls | 28.00% | ~125 |
+| Maximum Vigor | 30.00% | ~135 |
+| For Whom the Bell Tolls | 28.00% | ~126 |
 | Freeze Frame | 27.00% | ~121 |
 | Eat Your Heart Out | 27.00% | ~121 |
 | Unyielding Strength | 25.00% | ~112 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~4 |
 | Beast Mode | 0.90% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448 (Ranked 356)  
+Progressed: 449 (Ranked 356)  
 Completed: 1 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 1 (0.22%) (Ranked 269)
 | 2024-01-03 | 405 | 1 |
 | 2024-01-04 | 422 | 1 |
 | 2024-01-05 | 444 | 1 |
-| 2024-01-06 | 448 | 1 |
+| 2024-01-06 | 449 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 387)  
 Sum: 96 (Ranked 471)  

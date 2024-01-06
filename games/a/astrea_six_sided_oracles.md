@@ -8,13 +8,13 @@
 | Purification Pioneer | 79.00% | ~270 |
 | Mechanical Buddy | 73.00% | ~250 |
 | Dicesmithing Time! | 65.00% | ~222 |
-| Sanctuary Guardian | 54.00% | ~185 |
+| Sanctuary Guardian | 55.00% | ~188 |
 | Endless Tricks | 51.00% | ~174 |
 | Wild's Keeper | 48.00% | ~164 |
 | Mind Illuminator | 44.00% | ~150 |
 | Stellar Dismantler | 38.00% | ~130 |
 | Astral Adventurer | 35.00% | ~120 |
-| Noctuan Champion | 34.00% | ~116 |
+| Noctuan Champion | 35.00% | ~120 |
 | Anomaly Destroyer | 31.00% | ~106 |
 | Star Killer | 30.00% | ~103 |
 | Eridanian Champion | 25.00% | ~86 |
@@ -35,8 +35,8 @@
 | The Goddes Avatar | 7.00% | ~24 |
 | Artificer | 6.00% | ~21 |
 | Favored by the Cosmos | 6.00% | ~21 |
+| Anomaly Control | 5.00% | ~17 |
 | Can't touch this | 5.00% | ~17 |
-| Anomaly Control | 4.00% | ~14 |
 | Astrarium of Holding | 4.00% | ~14 |
 | Denying Destiny | 4.00% | ~14 |
 | If I Had Failed... | 4.00% | ~14 |
@@ -46,14 +46,14 @@
 | Apian Hero | 4.00% | ~14 |
 | Behenian Hero | 4.00% | ~14 |
 | Lacertian Hero | 4.00% | ~14 |
+| Noctuan Hero | 4.00% | ~14 |
+| Purification Avatar | 3.00% | ~10 |
 | The Ardent Prince | 3.00% | ~10 |
 | The Distorted Sage | 3.00% | ~10 |
 | Eridanian Hero | 3.00% | ~10 |
-| Noctuan Hero | 3.00% | ~10 |
 | Astromancer | 2.00% | ~7 |
 | Critical Twist | 2.00% | ~7 |
 | Pocket Astrarium | 2.00% | ~7 |
-| Purification Avatar | 2.00% | ~7 |
 | Reflexive Mind | 2.00% | ~7 |
 | Sentinelphobic | 2.00% | ~7 |
 | The Abyssal Terror | 2.00% | ~7 |

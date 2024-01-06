@@ -31,7 +31,7 @@
 | Built for adventure | 11.00% | ~9 |
 | Collector Mastery | 11.00% | ~9 |
 | True Black Knight | 10.00% | ~8 |
-| Freedom Monster | 8.00% | ~7 |
+| Freedom Monster | 10.00% | ~8 |
 | No match for me! | 4.00% | ~3 |
 | True Titan | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

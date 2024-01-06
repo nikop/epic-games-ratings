@@ -20,13 +20,13 @@ Number of Ratings: 58  (23.09.2022)
 | Controlled Demolition | 53.00% | ~736 |
 | Payback | 51.00% | ~708 |
 | Huntress | 51.00% | ~708 |
-| Born to Drift | 49.00% | ~681 |
+| Born to Drift | 50.00% | ~694 |
 | Relentless | 47.00% | ~653 |
 | The Path Forward | 44.00% | ~611 |
 | Phoenix | 43.00% | ~597 |
 | Disruption | 42.00% | ~583 |
 | Cult Slayer | 39.00% | ~542 |
-| Origin | 38.00% | ~528 |
+| Origin | 39.00% | ~542 |
 | It Was An Accident | 38.00% | ~528 |
 | Set in Motion | 37.00% | ~514 |
 | In the Eye of the Storm | 36.00% | ~500 |

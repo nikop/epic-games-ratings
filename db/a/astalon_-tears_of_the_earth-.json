@@ -4,7 +4,7 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -245,9 +245,9 @@
       "ID": "Beat_Game_Gargoyle",
       "SetID": "4f0g260",
       "Name": "Freedom Monster",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Buy_All_Algus_Character_Deals",
@@ -462,8 +462,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:05:39.9950762+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:05:42.5177304+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.1356612+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:57:53.1267552+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:05:39.9950994+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:58:00.9446876+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:05:42.5177631+00:00"
 }

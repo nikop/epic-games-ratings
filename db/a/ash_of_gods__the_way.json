@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -351,6 +351,11 @@
       "Time": "2024-01-06T03:09:25.7172995+00:00",
       "NumProgressed": 64,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T06:09:35.2234444+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 49,
@@ -416,7 +421,7 @@
       "ID": "collect8",
       "SetID": "c64if4d",
       "Name": "Power of Inquisition",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -464,7 +469,7 @@
       "ID": "fights6",
       "SetID": "c64if4d",
       "Name": "Surpass the teacher",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -472,7 +477,7 @@
       "ID": "fights7",
       "SetID": "c64if4d",
       "Name": "Vene, vidi, vici",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -496,7 +501,7 @@
       "ID": "special10",
       "SetID": "c64if4d",
       "Name": "Rage",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -584,7 +589,7 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 91,
+      "Percentage": 89,
       "XP": 20,
       "UsersEstimate": 58
     },
@@ -616,7 +621,7 @@
       "ID": "story13",
       "SetID": "c64if4d",
       "Name": "Trial by cold",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -744,7 +749,7 @@
       "ID": "story9",
       "SetID": "c64if4d",
       "Name": "She-Wolf",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 10
     }
@@ -753,7 +758,7 @@
     {
       "ID": "c64if4d",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 0
     }
   ],
@@ -761,8 +766,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:09:57.6463555+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:09:35.2234442+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:41.4607095+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:59:19.8332995+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:09:57.6464219+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:59:34.3472026+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:09:35.223473+00:00"
 }

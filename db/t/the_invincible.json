@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -3779,9 +3779,9 @@
       "ID": "AchvDamnHoles",
       "SetID": "1hj060c",
       "Name": "Ubiquitous holes",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 85
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -3964,8 +3964,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-05T12:00:02.9553676+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:10:01.9755285+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:09:39.7536885+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:00:04.2302292+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:10:01.9755621+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:00:20.7065494+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:09:39.7537211+00:00"
 }

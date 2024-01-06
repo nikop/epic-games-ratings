@@ -3,8 +3,8 @@
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 520,
-  "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.04,
+  "EOS_Completed_Percentage": 6.94,
   "EosHistory": [
     {
       "Time": "2023-09-28T09:07:03.7102413+00:00",
@@ -405,6 +405,11 @@
       "Time": "2024-01-06T02:24:54.2280232+00:00",
       "NumProgressed": 71,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-06T06:04:57.3186763+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T03:06:31.4397832+00:00",
@@ -431,7 +436,7 @@
       "ID": "BeatBossNaka",
       "SetID": "123m9l1",
       "Name": "Killing Machine",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 100,
       "UsersEstimate": 32
     },
@@ -447,7 +452,7 @@
       "ID": "BeatBossTing",
       "SetID": "123m9l1",
       "Name": "Divine Retribution",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
       "UsersEstimate": 29
     },
@@ -455,7 +460,7 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
       "UsersEstimate": 43
     },
@@ -471,7 +476,7 @@
       "ID": "ClarifyRumors",
       "SetID": "123m9l1",
       "Name": "Dispel Rumors",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -495,7 +500,7 @@
       "ID": "FanOfYang",
       "SetID": "123m9l1",
       "Name": "The Real O.G.",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -513,7 +518,7 @@
       "Name": "Hero Arrives",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "HardcorePlayer",
@@ -559,7 +564,7 @@
       "ID": "RescueAKuai",
       "SetID": "123m9l1",
       "Name": "Steal Her Away",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 21
     },
@@ -575,7 +580,7 @@
       "ID": "SewerExplorer",
       "SetID": "123m9l1",
       "Name": "Sewer Rat",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -607,7 +612,7 @@
       "ID": "TombExplorer",
       "SetID": "123m9l1",
       "Name": "Tomb Raider",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -624,7 +629,7 @@
     {
       "ID": "123m9l1",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 5
     }
   ],
@@ -632,8 +637,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:04:55.7930731+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:04:57.3186761+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.5249807+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:00:27.5485002+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:04:55.7930896+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:00:44.8383851+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:04:57.3186933+00:00"
 }

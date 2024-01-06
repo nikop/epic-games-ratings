@@ -6,23 +6,23 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~12,284 |
-| Overkill | 33.00% | ~10,394 |
-| Vaccine Incoming | 31.00% | ~9,764 |
-| A normal day in Gloomhaven | 29.00% | ~9,134 |
-| Spread the plague | 27.00% | ~8,504 |
-| Get over here! | 24.00% | ~7,560 |
-| Just when I thought I was out... | 19.00% | ~5,985 |
-| Precious! | 16.00% | ~5,040 |
-| Mine... All Mine... | 16.00% | ~5,040 |
-| Grizzled veteran | 15.00% | ~4,725 |
-| Anatomy Lesson | 14.00% | ~4,410 |
-| Light of my life | 13.00% | ~4,095 |
-| Who's the Boss? | 12.00% | ~3,780 |
-| You activated my trap card! | 12.00% | ~3,780 |
-| Obstacle race | 12.00% | ~3,780 |
-| Augmented rat | 10.00% | ~3,150 |
-| Doom and gloom | 10.00% | ~3,150 |
+| I'm not dead yet | 39.00% | ~12,287 |
+| Overkill | 33.00% | ~10,397 |
+| Vaccine Incoming | 31.00% | ~9,767 |
+| A normal day in Gloomhaven | 29.00% | ~9,137 |
+| Spread the plague | 27.00% | ~8,507 |
+| Get over here! | 24.00% | ~7,561 |
+| Just when I thought I was out... | 19.00% | ~5,986 |
+| Precious! | 16.00% | ~5,041 |
+| Mine... All Mine... | 16.00% | ~5,041 |
+| Grizzled veteran | 15.00% | ~4,726 |
+| Anatomy Lesson | 14.00% | ~4,411 |
+| Light of my life | 13.00% | ~4,096 |
+| Who's the Boss? | 12.00% | ~3,781 |
+| You activated my trap card! | 12.00% | ~3,781 |
+| Obstacle race | 12.00% | ~3,781 |
+| Augmented rat | 10.00% | ~3,151 |
+| Doom and gloom | 10.00% | ~3,151 |
 | Dungeon Veteran | 8.00% | ~2,520 |
 | Pain is your friend | 8.00% | ~2,520 |
 | Pack leader | 7.00% | ~2,205 |
@@ -51,24 +51,24 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~315 |
 | Spoiler police! | 1.00% | ~315 |
 | New Blood | 1.00% | ~315 |
-| The Pacifist | 0.50% | ~157 |
-| The evil that men do | 0.50% | ~157 |
-| Born Support | 0.50% | ~157 |
+| The Pacifist | 0.50% | ~158 |
+| The evil that men do | 0.50% | ~158 |
+| Born Support | 0.50% | ~158 |
 | MacReady Steady.. Go! | 0.40% | ~126 |
-| A tough job | 0.30% | ~94 |
-| The Jaws of victory! | 0.30% | ~94 |
-| Pull out the big guns | 0.30% | ~94 |
+| A tough job | 0.30% | ~95 |
+| The Jaws of victory! | 0.30% | ~95 |
+| Pull out the big guns | 0.30% | ~95 |
 | The Cartographer | 0.20% | ~63 |
 | Beware my power | 0.20% | ~63 |
 | Crimson Tornado | 0.20% | ~63 |
 | Murder Death Kill | 0.20% | ~63 |
-| A cult following | 0.10% | ~31 |
-| Over your dead body | 0.10% | ~31 |
-| The Guildmaster | 0.10% | ~31 |
-| Lara Who? | 0.10% | ~31 |
-| Hard-travelling Heroes | 0.10% | ~31 |
+| A cult following | 0.10% | ~32 |
+| Over your dead body | 0.10% | ~32 |
+| The Guildmaster | 0.10% | ~32 |
+| Lara Who? | 0.10% | ~32 |
+| Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,498 (Ranked 140)  
+Progressed: 31,506 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-03 | 30,944 | 1 |
 | 2024-01-04 | 31,129 | 1 |
 | 2024-01-05 | 31,403 | 1 |
-| 2024-01-06 | 31,498 | 1 |
+| 2024-01-06 | 31,506 | 1 |
 ## Awards
 Max (Character Customization): 3,615  (Ranked 94)  
 Sum: 8,464 (Ranked 106)  

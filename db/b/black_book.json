@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -687,9 +687,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 65296,
+  "EOS_Progressed": 65303,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1763,
+  "EOS_NewPlayers": 1758,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15892,6 +15892,11 @@
       "Time": "2024-01-06T05:06:07.2874271+00:00",
       "NumProgressed": 65296,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2024-01-06T06:06:10.3920537+00:00",
+      "NumProgressed": 65303,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -15928,7 +15933,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9141
+      "UsersEstimate": 9142
     },
     {
       "ID": "BAD_END",
@@ -16016,7 +16021,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14365
+      "UsersEstimate": 14367
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -16080,7 +16085,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9141
+      "UsersEstimate": 9142
     },
     {
       "ID": "HERBS_2",
@@ -16104,7 +16109,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 18936
+      "UsersEstimate": 18938
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -16224,7 +16229,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9794
+      "UsersEstimate": 9795
     },
     {
       "ID": "TALES_2",
@@ -16280,7 +16285,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10447
+      "UsersEstimate": 10448
     },
     {
       "ID": "ZNATKOST_2",
@@ -16303,15 +16308,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 65296,
+      "Progressed": 65303,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:06:07.2874269+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:06:10.3920534+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:18.2621134+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:00:18.7566625+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:06:07.2875351+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:00:36.2329254+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:06:10.3921549+00:00"
 }

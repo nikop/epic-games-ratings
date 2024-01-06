@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -911,9 +911,9 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "jg2",
@@ -967,9 +967,9 @@
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "jz3",
@@ -1039,9 +1039,9 @@
       "ID": "r2",
       "SetID": "b1ggf28",
       "Name": "A Welcoming Settlement",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "r3",
@@ -1174,8 +1174,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:03:55.6808332+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:03:56.1330015+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:03:06.134915+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:03:55.6808694+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:03:04.7987953+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:03:56.1330603+00:00"
 }

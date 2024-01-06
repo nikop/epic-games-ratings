@@ -277,7 +277,7 @@
   "Tags": [],
   "EOS_Progressed": 1407,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
@@ -3622,9 +3622,9 @@
       "ID": "ACH_STAR_3",
       "SetID": "7k95e4n",
       "Name": "Still more work ahead",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH_STAR_4",
@@ -3679,8 +3679,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-04T23:57:57.0756237+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:09:00.0470659+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:08:35.8721608+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:25.8678636+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:58:21.7921349+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:09:00.0470957+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:58:31.8706801+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:08:35.8721842+00:00"
 }

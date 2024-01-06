@@ -1429,9 +1429,9 @@
       "ID": "AnomalyControl",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Control",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "AnomalyDestroyer",
@@ -1845,9 +1845,9 @@
       "ID": "PurificationAvatar",
       "SetID": "1jeo1g7",
       "Name": "Purification Avatar",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "PurificationPioneer",
@@ -1885,9 +1885,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 188
     },
     {
       "ID": "Sentinelphobic",
@@ -2189,17 +2189,17 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 120
     },
     {
       "ID": "NoctuanHero",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Hero",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "NoctuanMastery",
@@ -2220,8 +2220,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:09:02.563378+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:08:38.4486064+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:58:13.2864135+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:09:02.5634638+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:58:22.2906373+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:08:38.4487025+00:00"
 }

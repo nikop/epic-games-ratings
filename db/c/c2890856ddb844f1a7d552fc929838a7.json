@@ -285,9 +285,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 2238,
+  "EOS_Progressed": 2239,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5290,6 +5290,11 @@
       "Time": "2024-01-06T05:08:44.3565255+00:00",
       "NumProgressed": 2238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T06:08:20.173925+00:00",
+      "NumProgressed": 2239,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5310,7 +5315,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "AC02",
@@ -5318,7 +5323,7 @@
       "Name": "Blood and Dust",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "AC03",
@@ -5326,7 +5331,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "AC04",
@@ -5334,7 +5339,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "AC05",
@@ -5358,15 +5363,15 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1030
     },
     {
       "ID": "AC09",
@@ -5374,7 +5379,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "AC10",
@@ -5414,7 +5419,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "AC15",
@@ -5422,7 +5427,7 @@
       "Name": "Full Devotion",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "AC16",
@@ -5454,7 +5459,7 @@
       "Name": "Soledad",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "AC20",
@@ -5510,7 +5515,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "AC27",
@@ -5534,7 +5539,7 @@
       "Name": "The Veteran One",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "AC30",
@@ -5558,7 +5563,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "AC33",
@@ -5620,9 +5625,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1724
     },
     {
       "ID": "AC41",
@@ -5646,7 +5651,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "AC44",
@@ -5669,7 +5674,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2238,
+      "Progressed": 2239,
       "Completed": 0
     }
   ],
@@ -5677,8 +5682,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-05T17:57:02.0313772+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:08:44.3565251+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:08:20.1739247+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-06T04:57:11.337906+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:08:44.3565796+00:00"
+  "LastUpdate_Ratings": "2024-01-06T05:57:17.7332491+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:08:20.1739807+00:00"
 }

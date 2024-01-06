@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,546 |
-| Biggest Communism Builder | 23.00% | ~31,663 |
-| The World's Most Laughable Centrist | 20.00% | ~27,533 |
-| Il Coppo Del'Arte! | 18.00% | ~24,780 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,026 |
-| Hyperstellar Law Official | 15.00% | ~20,650 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,273 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,273 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,896 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,143 |
+| Goodest Of The Good Cops | 28.00% | ~38,548 |
+| Biggest Communism Builder | 23.00% | ~31,664 |
+| The World's Most Laughable Centrist | 20.00% | ~27,534 |
+| Il Coppo Del'Arte! | 18.00% | ~24,781 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,027 |
+| Hyperstellar Law Official | 15.00% | ~20,651 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,274 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,274 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,897 |
+| Truly Rabid *Traditionalist* | 11.00% | ~15,144 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,390 |
-| Unbelievably Boring **** | 8.00% | ~11,013 |
-| Enemy Of The Physical Realm | 8.00% | ~11,013 |
+| Unbelievably Boring **** | 8.00% | ~11,014 |
+| Enemy Of The Physical Realm | 8.00% | ~11,014 |
 | Hardie's Heroes | 6.00% | ~8,260 |
 | The Lawbringer | 4.00% | ~5,507 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,507 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~138 |
 | What body? | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,664 (Ranked 89)  
+Progressed: 137,671 (Ranked 89)  
 Completed: 28 (0.02%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 28 (0.02%) (Ranked 360)
 | 2024-01-03 | 137,232 | 28 |
 | 2024-01-04 | 137,415 | 28 |
 | 2024-01-05 | 137,628 | 28 |
-| 2024-01-06 | 137,664 | 28 |
+| 2024-01-06 | 137,671 | 28 |
 ## Awards
 Max (Character Customization): 758  (Ranked 190)  
 Sum: 1,157 (Ranked 260)  

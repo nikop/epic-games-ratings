@@ -10,19 +10,19 @@
 | The battle of Great Britain | 36.00% | ~30 |
 | Pulp! Where Monsters Dwell | 30.00% | ~25 |
 | A continent with chemistry | 27.00% | ~23 |
-| The happy farmer girl | 24.00% | ~20 |
+| The happy farmer girl | 25.00% | ~21 |
 | Pulp! Terror Tales in the Night | 23.00% | ~19 |
-| Giant | 20.00% | ~17 |
+| Giant | 21.00% | ~18 |
+| Pulp! Out of this World | 21.00% | ~18 |
 | A rival with no options | 20.00% | ~17 |
-| Pulp! Out of this World | 20.00% | ~17 |
-| The artist | 19.00% | ~16 |
+| The artist | 20.00% | ~17 |
 | Diagnosis: fear | 19.00% | ~16 |
 | Ambition is... blind | 19.00% | ~16 |
 | You have two wishes left | 19.00% | ~16 |
 | Pulp! Adventures into the Unknown | 18.00% | ~15 |
 | Et in arcadia ego | 17.00% | ~14 |
+| The seer | 17.00% | ~14 |
 | You had one wish left | 15.00% | ~13 |
-| The seer | 15.00% | ~13 |
 | You've awakened the beast | 14.00% | ~12 |
 | Hate is... addictive | 14.00% | ~12 |
 | Welcome to Hellville | 14.00% | ~12 |
@@ -39,8 +39,8 @@
 | Pulp! True Adventures | 8.00% | ~7 |
 | ECO mode | 8.00% | ~7 |
 | America had no Faith | 8.00% | ~7 |
-| The barbarian invasions | 6.00% | ~5 |
-| Vaccine fans | 6.00% | ~5 |
+| The barbarian invasions | 7.00% | ~6 |
+| Vaccine fans | 7.00% | ~6 |
 | A new Hindenburg | 6.00% | ~5 |
 | Pulp! Tales from the Crypt | 4.00% | ~3 |
 | Thirst for Oleum | 4.00% | ~3 |

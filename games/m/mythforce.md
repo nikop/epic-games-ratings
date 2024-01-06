@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 27.00% | ~1,652 |
-| Hit 'Em Where It Hurts | 26.00% | ~1,591 |
-| Perk Shard Punch Card | 26.00% | ~1,591 |
-| Debuff Dogpile | 25.00% | ~1,530 |
-| That'll Leave a Mark | 25.00% | ~1,530 |
-| Mushroom Madness! | 23.00% | ~1,407 |
-| First Strike | 21.00% | ~1,285 |
-| Spending Spree | 19.00% | ~1,163 |
-| Horder Better Faster Stronger | 17.00% | ~1,040 |
-| Next Time on MythForce... | 15.00% | ~918 |
-| Ten Steps from the Grave | 15.00% | ~918 |
-| Everything Must Go! | 14.00% | ~857 |
-| Cold-Blooded Critters | 11.00% | ~673 |
+| Faceroll the Bones | 27.00% | ~1,654 |
+| Hit 'Em Where It Hurts | 26.00% | ~1,593 |
+| Perk Shard Punch Card | 26.00% | ~1,593 |
+| Debuff Dogpile | 25.00% | ~1,532 |
+| That'll Leave a Mark | 25.00% | ~1,532 |
+| Mushroom Madness! | 23.00% | ~1,409 |
+| First Strike | 21.00% | ~1,286 |
+| Spending Spree | 19.00% | ~1,164 |
+| Horder Better Faster Stronger | 17.00% | ~1,041 |
+| Next Time on MythForce... | 15.00% | ~919 |
+| Ten Steps from the Grave | 15.00% | ~919 |
+| Everything Must Go! | 14.00% | ~858 |
+| Cold-Blooded Critters | 11.00% | ~674 |
 | Death Becomes You | 8.00% | ~490 |
-| On this Episode! | 7.00% | ~428 |
-| Flawless Victory | 6.00% | ~367 |
-| The Harder They Fall | 6.00% | ~367 |
+| On this Episode! | 7.00% | ~429 |
+| Flawless Victory | 6.00% | ~368 |
+| The Harder They Fall | 6.00% | ~368 |
 | Deadication | 4.00% | ~245 |
 | Season Finale | 4.00% | ~245 |
 | We've Got a Kaiju on the Field | 3.00% | ~184 |
-| The Fourth Gate | 2.00% | ~122 |
-| Vexed Her | 0.40% | ~24 |
+| The Fourth Gate | 2.00% | ~123 |
+| Vexed Her | 0.40% | ~25 |
 | Deadalus and Loving It | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,119 (Ranked 198)  
+Progressed: 6,126 (Ranked 198)  
 Completed: 4 (0.07%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 4 (0.07%) (Ranked 326)
 | 2024-01-03 | 6,055 | 4 |
 | 2024-01-04 | 6,083 | 4 |
 | 2024-01-05 | 6,110 | 4 |
-| 2024-01-06 | 6,119 | 4 |
+| 2024-01-06 | 6,126 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 496)  
 Sum: 295 (Ranked 379)  

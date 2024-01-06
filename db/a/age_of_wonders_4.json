@@ -723,7 +723,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6926,
+  "EOS_Progressed": 6928,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
@@ -10503,6 +10503,11 @@
       "Time": "2024-01-06T05:04:34.2056842+00:00",
       "NumProgressed": 6926,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T06:04:35.3638561+00:00",
+      "NumProgressed": 6928,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10626,7 +10631,7 @@
       "Name": "Realm Estate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "23",
@@ -10658,7 +10663,7 @@
       "Name": "Bone Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "27",
@@ -10848,9 +10853,9 @@
       "ID": "8",
       "SetID": "3aa2279",
       "Name": "Betrayal Most Foul",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 62
     },
     {
       "ID": "9",
@@ -10993,13 +10998,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6926,
+      "Progressed": 6928,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6926,
+      "Progressed": 6928,
       "Completed": 7
     }
   ],
@@ -11007,8 +11012,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:04:34.2056839+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:04:35.3638558+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:02:47.0641279+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:04:34.2057612+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:02:45.1104533+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:04:35.3639348+00:00"
 }

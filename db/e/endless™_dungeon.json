@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1485,
+  "EOS_Progressed": 1486,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3215,6 +3215,11 @@
       "Time": "2024-01-06T04:04:42.2863215+00:00",
       "NumProgressed": 1485,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T06:04:25.0965704+00:00",
+      "NumProgressed": 1486,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3339,7 +3344,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -3371,7 +3376,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3466,14 +3471,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1485,
+      "Progressed": 1486,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-06T05:04:24.214514+00:00",
+  "LastChanged_Achievements": "2024-01-06T06:04:25.09657+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.9593832+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:00:51.7608469+00:00",
-  "LastUpdate_Achievements": "2024-01-06T05:04:24.2145504+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:01:10.0757657+00:00",
+  "LastUpdate_Achievements": "2024-01-06T06:04:25.0966011+00:00"
 }
