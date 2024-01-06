@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 614)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,672 |
-| Meticulously Efficient | 9.00% | ~3,004 |
-| Advancement | 8.00% | ~2,670 |
+| Meticulously Efficient | 9.00% | ~3,005 |
+| Advancement | 8.00% | ~2,671 |
 | Discovery | 6.00% | ~2,003 |
 | Solo Capture | 6.00% | ~2,003 |
 | Swift Rift Removers | 6.00% | ~2,003 |
@@ -22,16 +22,16 @@ Rating: 4.50 (Ranked 614)
 | Ghostbuster In Training | 4.00% | ~1,335 |
 | Right back at ya | 4.00% | ~1,335 |
 | Whoopsie | 4.00% | ~1,335 |
-| Animated | 3.00% | ~1,001 |
-| Back Off | 3.00% | ~1,001 |
-| We have the best insurance | 3.00% | ~1,001 |
-| Ectoplasmic Entity | 3.00% | ~1,001 |
-| Icing on the Cake | 3.00% | ~1,001 |
-| Legions | 3.00% | ~1,001 |
-| Pesky Jerks | 3.00% | ~1,001 |
-| Seasoned | 3.00% | ~1,001 |
-| Side Hustle | 3.00% | ~1,001 |
-| Summoner | 3.00% | ~1,001 |
+| Animated | 3.00% | ~1,002 |
+| Back Off | 3.00% | ~1,002 |
+| We have the best insurance | 3.00% | ~1,002 |
+| Ectoplasmic Entity | 3.00% | ~1,002 |
+| Icing on the Cake | 3.00% | ~1,002 |
+| Legions | 3.00% | ~1,002 |
+| Pesky Jerks | 3.00% | ~1,002 |
+| Seasoned | 3.00% | ~1,002 |
+| Side Hustle | 3.00% | ~1,002 |
+| Summoner | 3.00% | ~1,002 |
 | Collector | 2.00% | ~668 |
 | Escape Artist | 2.00% | ~668 |
 | Reckless | 2.00% | ~668 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 614)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,381 (Ranked 136)  
+Progressed: 33,384 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 71 (0.21%) (Ranked 272)
 | 2024-01-03 | 33,206 | 71 |
 | 2024-01-04 | 33,258 | 71 |
 | 2024-01-05 | 33,310 | 71 |
-| 2024-01-06 | 33,381 | 71 |
+| 2024-01-06 | 33,384 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 255)  
 Sum: 2,952 (Ranked 186)  

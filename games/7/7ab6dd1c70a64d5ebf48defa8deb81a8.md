@@ -5,29 +5,29 @@ Rating: 4.13 (Ranked 1,007)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 62.00% | ~1,198 |
-| Trinity | 30.00% | ~580 |
-| The Collector | 24.00% | ~464 |
-| Find Allies | 23.00% | ~444 |
-| A Taste of Wrath | 23.00% | ~444 |
-| I Found It | 23.00% | ~444 |
-| Shatter Them All | 22.00% | ~425 |
-| Geared Up | 22.00% | ~425 |
-| Adventurer | 21.00% | ~406 |
-| Fashion Victim | 21.00% | ~406 |
-| Scholar | 21.00% | ~406 |
-| Tributes of Caladrias | 19.00% | ~367 |
-| Stone Collection | 19.00% | ~367 |
+| Break Out | 62.00% | ~1,200 |
+| Trinity | 30.00% | ~581 |
+| The Collector | 24.00% | ~465 |
+| Find Allies | 23.00% | ~445 |
+| A Taste of Wrath | 23.00% | ~445 |
+| I Found It | 23.00% | ~445 |
+| Shatter Them All | 22.00% | ~426 |
+| Geared Up | 22.00% | ~426 |
+| Adventurer | 21.00% | ~407 |
+| Fashion Victim | 21.00% | ~407 |
+| Scholar | 21.00% | ~407 |
+| Tributes of Caladrias | 19.00% | ~368 |
+| Stone Collection | 19.00% | ~368 |
 | Powerful Allies | 18.00% | ~348 |
-| Big Bazar | 13.00% | ~251 |
+| Big Bazar | 13.00% | ~252 |
 | Essence Blow | 12.00% | ~232 |
 | Alchemist | 12.00% | ~232 |
-| The Mentor | 10.00% | ~193 |
+| The Mentor | 10.00% | ~194 |
 | Calm before the Storm | 9.00% | ~174 |
-| To Battle | 8.00% | ~155 |
-| Godslayer | 7.00% | ~135 |
-| Airborne | 7.00% | ~135 |
-| Miner | 7.00% | ~135 |
+| To Battle | 7.00% | ~136 |
+| Godslayer | 7.00% | ~136 |
+| Airborne | 7.00% | ~136 |
+| Miner | 7.00% | ~136 |
 | Clear Sight | 4.00% | ~77 |
 | Shatterer | 4.00% | ~77 |
 | Fine Feathers Make Fine Birds | 4.00% | ~77 |
@@ -42,8 +42,8 @@ Rating: 4.13 (Ranked 1,007)
 | All That Gold | 0.70% | ~14 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,932 (Ranked 250)  
-Completed: 3 (0.16%) (Ranked 282)  
+Progressed: 1,936 (Ranked 250)  
+Completed: 3 (0.15%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 3 (0.16%) (Ranked 282)
 | 2024-01-03 | 1,735 | 3 |
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
-| 2024-01-06 | 1,932 | 3 |
+| 2024-01-06 | 1,936 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -56,8 +56,8 @@ Rating: 3.66 (Ranked 1,090)
 | So Anyway I Started Blasting | 0.40% | ~9 |
 | Under a Bushel | 0.40% | ~9 |
 | Enemy of My Enemy | 0.40% | ~9 |
+| Bob’s Final Hour | 0.30% | ~7 |
 | Faith Healer | 0.20% | ~5 |
-| Bob’s Final Hour | 0.20% | ~5 |
 | A Cry in the Dark | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |

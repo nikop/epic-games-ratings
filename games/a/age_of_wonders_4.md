@@ -5,13 +5,13 @@ Rating: 4.62 (Ranked 378)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 15.00% | ~1,047 |
-| Realm Estate | 14.00% | ~977 |
-| A Wonderful Discovery | 13.00% | ~907 |
-| Walls Cannot Stop Us | 12.00% | ~837 |
-| From Friends to Family | 11.00% | ~768 |
-| Bone Peddler | 9.00% | ~628 |
-| Magical Synergy | 8.00% | ~558 |
+| Secret Technique | 15.00% | ~1,048 |
+| Realm Estate | 14.00% | ~978 |
+| A Wonderful Discovery | 13.00% | ~908 |
+| Walls Cannot Stop Us | 12.00% | ~839 |
+| From Friends to Family | 11.00% | ~769 |
+| Bone Peddler | 9.00% | ~629 |
+| Magical Synergy | 8.00% | ~559 |
 | There Can Only Be One! | 7.00% | ~489 |
 | Full Ascension | 7.00% | ~489 |
 | Stronger Together | 7.00% | ~489 |
@@ -20,16 +20,16 @@ Rating: 4.62 (Ranked 378)
 | In a Liege of Your Own | 6.00% | ~419 |
 | Intimidation Tactics | 6.00% | ~419 |
 | But this one is mine | 5.00% | ~349 |
-| Return of the Wizard King | 4.00% | ~279 |
-| Enchanted Archipelago | 4.00% | ~279 |
-| Digging for Treasure | 4.00% | ~279 |
-| My Final Form | 4.00% | ~279 |
-| Against the Odds | 4.00% | ~279 |
-| Impenetrable Fortress | 4.00% | ~279 |
-| Preparation Is Everything | 3.00% | ~209 |
-| Fiery Friend | 3.00% | ~209 |
-| Tipping the Scales | 3.00% | ~209 |
-| Freed Lands of Manuhari | 3.00% | ~209 |
+| Return of the Wizard King | 4.00% | ~280 |
+| Enchanted Archipelago | 4.00% | ~280 |
+| Digging for Treasure | 4.00% | ~280 |
+| My Final Form | 4.00% | ~280 |
+| Against the Odds | 4.00% | ~280 |
+| Impenetrable Fortress | 4.00% | ~280 |
+| Preparation Is Everything | 3.00% | ~210 |
+| Fiery Friend | 3.00% | ~210 |
+| Tipping the Scales | 3.00% | ~210 |
+| Freed Lands of Manuhari | 3.00% | ~210 |
 | God Emperor | 2.00% | ~140 |
 | Arch Mage | 2.00% | ~140 |
 | The Creator | 2.00% | ~140 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,979 (Ranked 196)  
+Progressed: 6,988 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
-| 2024-01-06 | 6,979 | 7 |
+| 2024-01-06 | 6,988 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 211 (Ranked 411)  

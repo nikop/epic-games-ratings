@@ -4,8 +4,8 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -725,9 +725,9 @@
       "ID": "the_fall",
       "SetID": "7i36ba9",
       "Name": "The Fall",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 95,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "the_four_doors",
@@ -804,8 +804,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:11:02.2877274+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:09:36.2100933+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:04.5895671+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:02:05.8706213+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:11:02.2877472+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:00:05.4355169+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:09:36.2101062+00:00"
 }

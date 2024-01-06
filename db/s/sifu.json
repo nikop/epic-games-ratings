@@ -4,10 +4,10 @@
   "ProductSlug": "sifu",
   "Ranking_Rating": 67,
   "Ranking_Popularity": 55,
-  "Ranking_PopularitySum": 84,
+  "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8793,9 +8793,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 755887,
+  "EOS_Progressed": 755903,
   "EOS_Completed": 12976,
-  "EOS_NewPlayers": 6549,
+  "EOS_NewPlayers": 6553,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32643,6 +32643,11 @@
       "Time": "2024-01-06T22:10:08.7197637+00:00",
       "NumProgressed": 755887,
       "NumCompleted": 12976
+    },
+    {
+      "Time": "2024-01-06T23:08:56.201029+00:00",
+      "NumProgressed": 755903,
+      "NumCompleted": 12976
     }
   ],
   "TotalAchievements": 60,
@@ -32654,7 +32659,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37794
+      "UsersEstimate": 37795
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32662,7 +32667,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30235
+      "UsersEstimate": 30236
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32726,7 +32731,7 @@
       "Name": "Iron Money",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3780
     },
     {
       "ID": "11_Wude_H5",
@@ -32734,7 +32739,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3780
     },
     {
       "ID": "12_MidAge",
@@ -32750,7 +32755,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3780
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -32830,7 +32835,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37794
+      "UsersEstimate": 37795
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32870,7 +32875,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3780
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -32910,7 +32915,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3780
     },
     {
       "ID": "34_TimedTakedown",
@@ -32918,7 +32923,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30235
+      "UsersEstimate": 30236
     },
     {
       "ID": "35_WideStrike",
@@ -33133,21 +33138,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 65188,
+      "Progressed": 65204,
       "Completed": 10800
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 755887,
+      "Progressed": 755903,
       "Completed": 12976
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-06T22:04:00.6316192+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:10:08.7197635+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:08:56.2010286+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:04:00.6316198+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:10:08.7198907+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:02:52.9125509+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:08:56.2011603+00:00"
 }

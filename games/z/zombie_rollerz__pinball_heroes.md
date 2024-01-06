@@ -10,7 +10,7 @@ Rating: 4.29 (Ranked 879)
 | Graduation! | 80.00% | ~171 |
 | Villfir Forest | 71.00% | ~152 |
 | Right in the kisser! | 56.00% | ~120 |
-| The Thrower | 44.00% | ~94 |
+| The Thrower | 45.00% | ~96 |
 | Duscot Steamcity | 44.00% | ~94 |
 | The Shaman | 43.00% | ~92 |
 | The Penguin | 42.00% | ~90 |

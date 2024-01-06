@@ -2419,9 +2419,9 @@
       "ID": "scoreminrankrb2",
       "SetID": "40n95i5",
       "Name": "Freedom",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "scoreminrankrf1",
@@ -2500,8 +2500,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:11:02.7503657+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:09:36.5619641+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:58:08.1999916+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:11:02.7503854+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:57:20.8175129+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:09:36.5619836+00:00"
 }

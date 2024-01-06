@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1461,
+  "EOS_Progressed": 1462,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3789,6 +3789,11 @@
       "Time": "2024-01-06T22:10:33.3029675+00:00",
       "NumProgressed": 1461,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T23:09:14.4921076+00:00",
+      "NumProgressed": 1462,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3817,7 +3822,7 @@
       "Name": "On her own",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "AchvBattleScore",
@@ -3833,7 +3838,7 @@
       "Name": "Peacemaker",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "AchvBombing",
@@ -3841,7 +3846,7 @@
       "Name": "Violent solution",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "AchvConvoyList",
@@ -3863,9 +3868,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 599
     },
     {
       "ID": "AchvDoom",
@@ -3905,7 +3910,7 @@
       "Name": "Volcanologist",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -3913,7 +3918,7 @@
       "Name": "I leave no man behind",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -3977,7 +3982,7 @@
       "Name": "The Camp",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "AchvReachCity",
@@ -3999,9 +4004,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 570
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4025,14 +4030,14 @@
       "Name": "Beyond divisions",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1461,
+      "Progressed": 1462,
       "Completed": 1
     }
   ],
@@ -4040,8 +4045,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-06T12:00:48.1811852+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:10:33.3029673+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:09:14.4921072+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:01:26.3049696+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:10:33.3030017+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:59:36.9897041+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:09:14.4921415+00:00"
 }

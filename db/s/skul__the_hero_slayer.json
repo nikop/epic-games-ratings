@@ -6,9 +6,9 @@
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1433,9 +1433,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 14082,
+  "EOS_Progressed": 14083,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 901,
+  "EOS_NewPlayers": 902,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9043,6 +9043,11 @@
       "Time": "2024-01-06T22:10:02.5618698+00:00",
       "NumProgressed": 14082,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-06T23:08:51.4984235+00:00",
+      "NumProgressed": 14083,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 24,
@@ -9054,7 +9059,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "Chatterbox",
@@ -9078,7 +9083,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8449
+      "UsersEstimate": 8450
     },
     {
       "ID": "DemonCastleRestoration",
@@ -9118,7 +9123,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3661
+      "UsersEstimate": 3662
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -9166,7 +9171,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "RookieWelcome",
@@ -9182,7 +9187,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8449
+      "UsersEstimate": 8450
     },
     {
       "ID": "SavedElderEnt_2",
@@ -9206,7 +9211,7 @@
       "Name": "Inventory Management",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "TheLegendBegins",
@@ -9214,7 +9219,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13096
+      "UsersEstimate": 13097
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -9245,15 +9250,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14082,
+      "Progressed": 14083,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-06T17:58:16.6335972+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:10:02.5618695+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:08:51.4984233+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9431294+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:59:27.3898632+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:10:02.5619266+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:58:15.8058056+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:08:51.4984747+00:00"
 }

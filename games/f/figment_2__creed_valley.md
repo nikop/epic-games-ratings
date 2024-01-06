@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Hog Down | 64.00% | ~43 |
+| Black Hog Down | 66.00% | ~44 |
 | Remembering of the past | 46.00% | ~31 |
 | Fight like an idiot | 37.00% | ~25 |
 | Ouch, that hurt! | 36.00% | ~24 |

@@ -22,17 +22,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 5.00% | ~1,016 |
 | Royal Outpost | 4.00% | ~813 |
 | Watchtower | 4.00% | ~813 |
-| Homesick | 3.00% | ~609 |
-| Ruined Armory | 3.00% | ~609 |
-| Fertile Meadows | 3.00% | ~609 |
-| Levitating Monument | 3.00% | ~609 |
-| Monastery of the Holy Flame | 3.00% | ~609 |
-| Lost Colonies | 3.00% | ~609 |
-| Statue of the Forefathers | 3.00% | ~609 |
-| Corrosive Torrent | 3.00% | ~609 |
-| A Real Challenge | 3.00% | ~609 |
-| Trade Baron | 3.00% | ~609 |
-| Untamed Wilds | 3.00% | ~609 |
+| Homesick | 3.00% | ~610 |
+| Ruined Armory | 3.00% | ~610 |
+| Fertile Meadows | 3.00% | ~610 |
+| Levitating Monument | 3.00% | ~610 |
+| Monastery of the Holy Flame | 3.00% | ~610 |
+| Lost Colonies | 3.00% | ~610 |
+| Statue of the Forefathers | 3.00% | ~610 |
+| Corrosive Torrent | 3.00% | ~610 |
+| A Real Challenge | 3.00% | ~610 |
+| Trade Baron | 3.00% | ~610 |
+| Untamed Wilds | 3.00% | ~610 |
 | Against All Odds | 2.00% | ~406 |
 | Bandit Camp | 2.00% | ~406 |
 | Barren Lands | 2.00% | ~406 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,316 (Ranked 154)  
+Progressed: 20,318 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 34 (0.17%) (Ranked 281)
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
-| 2024-01-06 | 20,316 | 34 |
+| 2024-01-06 | 20,318 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 232)  
 Sum: 3,344 (Ranked 177)  

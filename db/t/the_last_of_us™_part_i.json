@@ -4,11 +4,11 @@
   "ProductSlug": "the-last-of-us-part-1",
   "Ranking_Rating": 591,
   "Ranking_Popularity": 249,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -1317,10 +1317,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 392,
       "NumberOfAwardsMax": 350
+    },
+    {
+      "Time": "2024-01-06T22:57:29.362733+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 393,
+      "NumberOfAwardsMax": 350
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 392,
+  "NumberOfAwards": 393,
   "NumberOfAwardsMax": 350,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1334,7 +1340,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1355,8 +1361,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2024-01-06T21:58:21.0934266+00:00",
+  "LastChanged": "2024-01-06T22:57:29.3627328+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.6180984+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:58:21.0934268+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:04:39.6896344+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:57:29.3627336+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:03:21.7989787+00:00"
 }

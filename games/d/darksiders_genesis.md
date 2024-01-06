@@ -16,8 +16,8 @@ Number of Ratings: 67  (23.09.2022)
 | Master of Strife | 1.00% | ~5 |
 | Master of War | 1.00% | ~5 |
 | The Dead Court | 1.00% | ~5 |
-| Mint II | 0.90% | ~4 |
-| Why'd It Have to Be Snakes? | 0.90% | ~4 |
+| Mint II | 0.80% | ~4 |
+| Why'd It Have to Be Snakes? | 0.80% | ~4 |
 | A Bullet for All Seasons | 0.60% | ~3 |
 | Good Deeds | 0.60% | ~3 |
 | Infested | 0.60% | ~3 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Ready to Blow | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470 (Ranked 354)  
+Progressed: 471 (Ranked 354)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 396 | 0 |
 | 2024-01-04 | 417 | 0 |
 | 2024-01-05 | 437 | 0 |
-| 2024-01-06 | 470 | 0 |
+| 2024-01-06 | 471 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 469)  
 Sum: 45 (Ranked 516)  

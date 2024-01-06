@@ -4,11 +4,11 @@
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 398,
   "Ranking_Popularity": 146,
-  "Ranking_PopularitySum": 228,
+  "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-21T16:00:00+00:00",
     "PcReleaseDate": "2021-11-18T00:00:00+00:00",
@@ -479,10 +479,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1718,
       "NumberOfAwardsMax": 1234
+    },
+    {
+      "Time": "2024-01-06T23:00:23.8619394+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1727,
+      "NumberOfAwardsMax": 1234
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1718,
+  "NumberOfAwards": 1727,
   "NumberOfAwardsMax": 1234,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -526,7 +532,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 73
+      "Count": 82
     },
     {
       "Text": "This game has Easy Combat",
@@ -559,8 +565,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-01-06T17:02:55.8817732+00:00",
+  "LastChanged": "2024-01-06T23:00:23.8619392+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.516278+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:03:32.7711797+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:05:12.5198669+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:00:23.8619397+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:03:45.7139943+00:00"
 }

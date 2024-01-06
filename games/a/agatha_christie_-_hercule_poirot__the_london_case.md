@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 74.00% | ~73 |
-| Little ideas | 71.00% | ~70 |
+| Marc Allard | 76.00% | ~74 |
+| Little ideas | 72.00% | ~71 |
 | The Ship | 68.00% | ~67 |
 | Seeking the truth | 56.00% | ~55 |
 | An old friend | 55.00% | ~54 |
@@ -16,8 +16,8 @@
 | Arthur Hastings | 47.00% | ~46 |
 | The Missing Magdalene | 46.00% | ~45 |
 | Everything matters | 42.00% | ~41 |
+| DI Hardwicke | 42.00% | ~41 |
 | An expert mediator | 41.00% | ~40 |
-| DI Hardwicke | 41.00% | ~40 |
 | Betty Allen | 37.00% | ~36 |
 | Order and method | 36.00% | ~35 |
 | The Investigation Begins | 35.00% | ~34 |

@@ -11,7 +11,7 @@
 | Welcome to the Garage | 17.00% | ~111 |
 | This is Not Heavy Metal! | 15.00% | ~98 |
 | Truthseeker | 14.00% | ~91 |
-| Freedom | 7.00% | ~46 |
+| Freedom | 8.00% | ~52 |
 | 86's Nightmare | 7.00% | ~46 |
 | Partners in Crime | 7.00% | ~46 |
 | Friendzone | 7.00% | ~46 |

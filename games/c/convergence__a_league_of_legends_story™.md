@@ -5,26 +5,26 @@ Rating: 4.67 (Ranked 284)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 45.00% | ~564 |
-| Rail Rat | 34.00% | ~426 |
+| Time Heals All Wounds | 45.00% | ~565 |
+| Rail Rat | 34.00% | ~427 |
 | The Mysterious Stranger | 33.00% | ~414 |
 | Immaculate Aim | 28.00% | ~351 |
 | The Brass Boss | 27.00% | ~339 |
 | Time Flies | 26.00% | ~326 |
-| No, Thanks! | 26.00% | ~326 |
 | The Prince in Heels | 26.00% | ~326 |
 | Honest Mistake | 26.00% | ~326 |
 | Make Up For Lost Time | 25.00% | ~314 |
 | The Harder They Fall | 25.00% | ~314 |
+| No, Thanks! | 25.00% | ~314 |
 | Fast Learner | 25.00% | ~314 |
 | Immaculate Aim | 25.00% | ~314 |
-| The Steel Shadow | 23.00% | ~288 |
-| Breaking Down Barriers | 23.00% | ~288 |
+| The Steel Shadow | 23.00% | ~289 |
+| Breaking Down Barriers | 23.00% | ~289 |
 | Right On Time | 22.00% | ~276 |
 | The Wicked Twins | 22.00% | ~276 |
 | Golem Chaser | 22.00% | ~276 |
-| Like Clockwork | 21.00% | ~263 |
-| The Betrayer | 21.00% | ~263 |
+| Like Clockwork | 21.00% | ~264 |
+| The Betrayer | 21.00% | ~264 |
 | Check Your Pulse | 20.00% | ~251 |
 | The Loose Cannon | 19.00% | ~238 |
 | Street Style | 18.00% | ~226 |
@@ -35,13 +35,13 @@ Rating: 4.67 (Ranked 284)
 | Family Memories | 14.00% | ~176 |
 | Chaincrawler Explorer | 13.00% | ~163 |
 | Cartographer | 13.00% | ~163 |
+| Syron for Hope | 13.00% | ~163 |
 | Ask Questions Later | 13.00% | ~163 |
-| Treasure Trove | 12.00% | ~150 |
-| Syron for Hope | 12.00% | ~150 |
+| Treasure Trove | 12.00% | ~151 |
 | Sump Explorer | 11.00% | ~138 |
-| Factorywood Explorer | 10.00% | ~125 |
-| Fairgrounds Explorer | 10.00% | ~125 |
-| Theater Explorer | 10.00% | ~125 |
+| Factorywood Explorer | 10.00% | ~126 |
+| Fairgrounds Explorer | 10.00% | ~126 |
+| Theater Explorer | 10.00% | ~126 |
 | Cultivair Explorer | 9.00% | ~113 |
 | Corin Goes Home | 8.00% | ~100 |
 | Sartorialist | 8.00% | ~100 |
@@ -59,7 +59,7 @@ Rating: 4.67 (Ranked 284)
 | Going to Live Forever | 0.60% | ~8 |
 | Raw Talent | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,254 (Ranked 280)  
+Progressed: 1,255 (Ranked 280)  
 Completed: 6 (0.48%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 6 (0.48%) (Ranked 223)
 | 2024-01-03 | 1,216 | 6 |
 | 2024-01-04 | 1,228 | 6 |
 | 2024-01-05 | 1,241 | 6 |
-| 2024-01-06 | 1,254 | 6 |
+| 2024-01-06 | 1,255 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

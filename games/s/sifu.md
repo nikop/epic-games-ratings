@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,794 |
-| Life is your teacher | 5.00% | ~37,794 |
-| The Assault | 4.00% | ~30,235 |
-| Lightning Hands | 4.00% | ~30,235 |
+| The Old Grandmaster | 5.00% | ~37,795 |
+| Life is your teacher | 5.00% | ~37,795 |
+| The Assault | 4.00% | ~30,236 |
+| Lightning Hands | 4.00% | ~30,236 |
 | The Hateful Pole Fighter | 3.00% | ~22,677 |
 | Old Child | 3.00% | ~22,677 |
 | A Lady's Blood in the Snow | 2.00% | ~15,118 |
@@ -38,11 +38,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.60% | ~4,535 |
 | Bloody Sport | 0.60% | ~391 |
 | Martial Hub | 0.60% | ~391 |
-| Iron Money | 0.50% | ~3,779 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,779 |
-| Prodigal Child | 0.50% | ~3,779 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,779 |
-| Sword Stained With Blood | 0.50% | ~3,779 |
+| Iron Money | 0.50% | ~3,780 |
+| Legendary Talismans of Wuxing | 0.50% | ~3,780 |
+| Prodigal Child | 0.50% | ~3,780 |
+| The 36th Chamber of Kung-Fu | 0.50% | ~3,780 |
+| Sword Stained With Blood | 0.50% | ~3,780 |
 | The best strikes are the ones we avoid | 0.40% | ~261 |
 | Drunken Fighter | 0.30% | ~2,268 |
 | Martial Artist | 0.30% | ~2,268 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~65 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755,887 (Ranked 25)  
+Progressed: 755,903 (Ranked 25)  
 Completed: 12,976 (1.72%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,11 +328,11 @@ Completed: 12,976 (1.72%) (Ranked 142)
 | 2024-01-03 | 753,003 | 12,973 |
 | 2024-01-04 | 753,906 | 12,974 |
 | 2024-01-05 | 754,888 | 12,975 |
-| 2024-01-06 | 755,887 | 12,976 |
+| 2024-01-06 | 755,903 | 12,976 |
 ## Awards
 Max (Great Boss Battles): 7,131  (Ranked 55)  
-Sum: 12,615 (Ranked 84)  
-Diff (max vs sum): -29  
+Sum: 12,615 (Ranked 85)  
+Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,131 |

@@ -3,12 +3,12 @@
   "Name": "The Outer Worlds",
   "ProductSlug": "the-outer-worlds",
   "Ranking_Rating": 356,
-  "Ranking_Popularity": 124,
+  "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2019-10-25T15:00:00+00:00",
     "PcReleaseDate": "2019-10-25T15:00:00+00:00",
@@ -3034,6 +3034,6 @@
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
   "LastChanged": "2024-01-06T20:57:25.9848735+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:00.896749+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:58:03.6324148+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:05:19.1588524+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:57:17.6399221+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:03:50.6523084+00:00"
 }

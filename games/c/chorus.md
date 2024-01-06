@@ -20,7 +20,7 @@ Number of Ratings: 58  (23.09.2022)
 | Controlled Demolition | 53.00% | ~737 |
 | Payback | 51.00% | ~709 |
 | Huntress | 51.00% | ~709 |
-| Born to Drift | 49.00% | ~682 |
+| Born to Drift | 50.00% | ~696 |
 | Relentless | 47.00% | ~654 |
 | The Path Forward | 43.00% | ~598 |
 | Phoenix | 43.00% | ~598 |

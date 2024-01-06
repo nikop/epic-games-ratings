@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 50.00% | ~15 |
-| Recycling newbie | 43.00% | ~13 |
-| New recruit | 27.00% | ~8 |
-| Interesting | 27.00% | ~8 |
-| Amateur photographer | 20.00% | ~6 |
+| Welcome to Maupiroa | 48.00% | ~15 |
+| Recycling newbie | 42.00% | ~13 |
+| New recruit | 26.00% | ~8 |
+| Interesting | 26.00% | ~8 |
+| Amateur photographer | 19.00% | ~6 |
 | Let's get started | 13.00% | ~4 |
 | Rescuer | 13.00% | ~4 |
 | In search of knowledge | 13.00% | ~4 |
@@ -18,10 +18,10 @@
 | Recycling expert | 10.00% | ~3 |
 | Picture of the bay | 10.00% | ~3 |
 | Power of the turtle | 10.00% | ~3 |
-| Island gardian angel | 7.00% | ~2 |
-| Heroic member | 7.00% | ~2 |
-| Picture of the atoll | 7.00% | ~2 |
-| Picture of the reef | 7.00% | ~2 |
+| Island gardian angel | 6.00% | ~2 |
+| Heroic member | 6.00% | ~2 |
+| Picture of the atoll | 6.00% | ~2 |
+| Picture of the reef | 6.00% | ~2 |
 | Animal reporter | 3.00% | ~1 |
 | Creek cleanup | 3.00% | ~1 |
 | Atoll cleanup | 3.00% | ~1 |
@@ -37,7 +37,7 @@
 | Island cleanup | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 590)  
+Progressed: 31 (Ranked 589)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-27 | 27 | 0 |
 | 2023-12-29 | 28 | 0 |
 | 2024-01-05 | 29 | 0 |
-| 2024-01-06 | 30 | 0 |
+| 2024-01-06 | 31 | 0 |

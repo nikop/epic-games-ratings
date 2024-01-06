@@ -4,11 +4,11 @@
   "ProductSlug": "pillars-of-eternity",
   "Ranking_Rating": 300,
   "Ranking_Popularity": 120,
-  "Ranking_PopularitySum": 152,
+  "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 287,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 3808,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -4360,8 +4360,8 @@
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2024-01-05T07:00:06.0292614+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:07:12.7866961+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:05:13.5084873+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.9932878+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:02:04.9834891+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:07:12.7867322+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:00:04.8490648+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:05:13.5085626+00:00"
 }

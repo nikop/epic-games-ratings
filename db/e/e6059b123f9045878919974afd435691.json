@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -3873,9 +3873,9 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 248
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3913,9 +3913,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 798
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4025,9 +4025,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 399
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4168,8 +4168,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:11:16.8629057+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:09:47.4195614+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:58:52.9251011+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:11:16.8629879+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:57:51.5266443+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:09:47.4196244+00:00"
 }

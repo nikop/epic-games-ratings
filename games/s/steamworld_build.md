@@ -15,7 +15,7 @@
 | Systematic | 45.00% | ~112 |
 | Gotta Go Fast | 44.00% | ~110 |
 | Mine Sweeper | 40.00% | ~100 |
-| Roll Out | 37.00% | ~92 |
+| Roll Out | 38.00% | ~95 |
 | Dopa-Miner | 32.00% | ~80 |
 | Up, Up And Away! | 32.00% | ~80 |
 | Whoa! | 30.00% | ~75 |

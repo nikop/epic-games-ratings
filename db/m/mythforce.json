@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6146,
+  "EOS_Progressed": 6147,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12704,6 +12704,11 @@
       "Time": "2024-01-06T22:06:14.0105938+00:00",
       "NumProgressed": 6146,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T23:04:30.5908888+00:00",
+      "NumProgressed": 6147,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12748,7 +12753,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -12756,7 +12761,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -12764,7 +12769,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12884,7 +12889,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -12899,15 +12904,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6146,
+      "Progressed": 6147,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:06:14.0105935+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:04:30.5908884+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:03:25.9652498+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:06:14.0106704+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:00:19.000246+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:04:30.5909587+00:00"
 }

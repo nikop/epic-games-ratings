@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 518,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
@@ -880,6 +880,11 @@
       "Time": "2024-01-06T21:04:21.7900549+00:00",
       "NumProgressed": 517,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T23:04:00.85558+00:00",
+      "NumProgressed": 518,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -913,9 +918,9 @@
       "ID": "dep4_achievement_12",
       "SetID": "5d32b60",
       "Name": "Masseltov",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 98
     },
     {
       "ID": "dep4_achievement_13",
@@ -937,9 +942,9 @@
       "ID": "dep4_achievement_15",
       "SetID": "5d32b60",
       "Name": "Weapons 101",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 41
     },
     {
       "ID": "dep4_achievement_16",
@@ -947,7 +952,7 @@
       "Name": "Brainfreeze",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "dep4_achievement_17",
@@ -963,15 +968,15 @@
       "Name": "Chunky",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "dep4_achievement_19",
       "SetID": "5d32b60",
       "Name": "FunScore",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 280
     },
     {
       "ID": "dep4_achievement_2",
@@ -993,9 +998,9 @@
       "ID": "dep4_achievement_21",
       "SetID": "5d32b60",
       "Name": "Photo Friend",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 134
+      "UsersEstimate": 130
     },
     {
       "ID": "dep4_achievement_22",
@@ -1019,7 +1024,7 @@
       "Name": "Thuna...?",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "dep4_achievement_25",
@@ -1027,15 +1032,15 @@
       "Name": "Monstrous Harassment",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "dep4_achievement_26",
       "SetID": "5d32b60",
       "Name": "Scaffolding Expert",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 186
     },
     {
       "ID": "dep4_achievement_27",
@@ -1051,7 +1056,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "dep4_achievement_29",
@@ -1065,9 +1070,9 @@
       "ID": "dep4_achievement_3",
       "SetID": "5d32b60",
       "Name": "Burn, Elysium, burn!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 316
     },
     {
       "ID": "dep4_achievement_30",
@@ -1099,7 +1104,7 @@
       "Name": "Heading the inverter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "dep4_achievement_34",
@@ -1139,7 +1144,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "dep4_achievement_6",
@@ -1147,7 +1152,7 @@
       "Name": "School\u0027s out",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "dep4_achievement_7",
@@ -1161,9 +1166,9 @@
       "ID": "dep4_achievement_8",
       "SetID": "5d32b60",
       "Name": "And everything comes full circle.",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 103
+      "UsersEstimate": 98
     },
     {
       "ID": "dep4_achievement_9",
@@ -1178,7 +1183,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 518,
       "Completed": 7
     }
   ],
@@ -1186,8 +1191,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:05:33.1263503+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:04:00.8555796+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.0571081+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:04:08.5710302+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:05:33.1263763+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:02:58.5692907+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:04:00.8556069+00:00"
 }

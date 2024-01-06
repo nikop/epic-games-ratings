@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.60% | ~97 |
 | Learn to Play 2 | 0.60% | ~97 |
 | Carthaginian Paganism | 0.60% | ~97 |
+| Beloved | 0.50% | ~81 |
 | Drillmaster | 0.50% | ~81 |
 | Great | 0.50% | ~81 |
 | Valiant | 0.50% | ~81 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.50% | ~81 |
 | Egyptian Paganism | 0.50% | ~81 |
 | Hanging Gardens in Babylon | 0.40% | ~65 |
-| Beloved | 0.40% | ~65 |
 | Intercessor | 0.40% | ~65 |
 | Mighty | 0.40% | ~65 |
 | Just Difficulty | 0.40% | ~65 |

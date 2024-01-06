@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1653,
+  "EOS_Progressed": 1654,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4319,6 +4319,11 @@
       "Time": "2024-01-06T22:11:04.5095262+00:00",
       "NumProgressed": 1653,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T23:09:38.0699116+00:00",
+      "NumProgressed": 1654,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4386,7 +4391,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "EXPERT_1",
@@ -4402,7 +4407,7 @@
       "Name": "Explorer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4426,7 +4431,7 @@
       "Name": "Head Burst",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "INDY_1",
@@ -4480,9 +4485,9 @@
       "ID": "ONE_HIT_WONDER_1",
       "SetID": "bf13m8j",
       "Name": "One HIT wonder",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 546
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4490,7 +4495,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "PACIFIST",
@@ -4617,15 +4622,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1653,
+      "Progressed": 1654,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:11:04.5095259+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:09:38.069911+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:59:43.3042318+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:11:04.5095738+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:58:27.5597296+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:09:38.0699487+00:00"
 }

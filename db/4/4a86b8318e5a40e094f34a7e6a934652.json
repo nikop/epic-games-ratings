@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -2127,9 +2127,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 142
     },
     {
       "ID": "BRING_MARY",
@@ -2286,8 +2286,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:07:49.4115764+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:05:40.5415757+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:58:50.1685612+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:07:49.4116268+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:57:49.7298953+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:05:40.5416095+00:00"
 }

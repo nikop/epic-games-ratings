@@ -12,7 +12,7 @@ Rating: 4.38 (Ranked 790)
 | Wolf King Killer | 54.00% | ~392 |
 | Fashion Connoisseur | 52.00% | ~377 |
 | Arms Mechanic | 49.00% | ~355 |
-| Flower Thief | 43.00% | ~312 |
+| Flower Thief | 44.00% | ~319 |
 | Apostle of Flame | 39.00% | ~283 |
 | Beginner Cook | 37.00% | ~268 |
 | Beginner Artificer | 37.00% | ~268 |

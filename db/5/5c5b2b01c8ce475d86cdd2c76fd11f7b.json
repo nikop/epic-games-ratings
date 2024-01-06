@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -425,9 +425,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1070,8 +1070,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-06T22:05:00.3599227+00:00",
+  "LastChanged_Achievements": "2024-01-06T23:03:37.1023947+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:22.5925378+00:00",
-  "LastUpdate_Ratings": "2024-01-06T21:59:51.4081542+00:00",
-  "LastUpdate_Achievements": "2024-01-06T22:05:00.3599805+00:00"
+  "LastUpdate_Ratings": "2024-01-06T22:58:33.0816295+00:00",
+  "LastUpdate_Achievements": "2024-01-06T23:03:37.1024589+00:00"
 }
