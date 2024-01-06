@@ -44,19 +44,19 @@ Rating: 4.71 (Ranked 202)
 | Forbidden Knowledge | 28.00% | ~204 |
 | Brimstone Shaken, Not Stirred | 28.00% | ~204 |
 | Hungry, Hungry Gorgu! | 27.00% | ~197 |
+| The Rune Sockets of Finitude (Part 1) | 27.00% | ~197 |
 | Stop Tanos! | 26.00% | ~190 |
 | Sabotage! | 26.00% | ~190 |
 | Raiders of the Lost Stone | 26.00% | ~190 |
-| The Rune Sockets of Finitude (Part 1) | 26.00% | ~190 |
 | The Rune Sockets of Finitude (Part 2) | 25.00% | ~182 |
 | Bonus Evilness | 24.00% | ~175 |
 | The Last Stand - This Time For Real! | 23.00% | ~168 |
 | Rubble and Ashes | 21.00% | ~153 |
 | Lavalumps on Ice! | 20.00% | ~146 |
+| To the Max! | 19.00% | ~139 |
 | To Infinity And Beyond! | 19.00% | ~139 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~131 |
 | My Little Torture Chamber | 18.00% | ~131 |
-| To the Max! | 18.00% | ~131 |
 | Evilification | 18.00% | ~131 |
 | Heal Heal Blessing | 17.00% | ~124 |
 | Mirror, Mirror | 16.00% | ~117 |

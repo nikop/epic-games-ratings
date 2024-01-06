@@ -5,12 +5,12 @@ Rating: 4.62 (Ranked 379)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 15.00% | ~1,037 |
+| Secret Technique | 15.00% | ~1,038 |
 | Realm Estate | 13.00% | ~899 |
 | A Wonderful Discovery | 12.00% | ~830 |
 | Walls Cannot Stop Us | 12.00% | ~830 |
 | From Friends to Family | 11.00% | ~761 |
-| Bone Peddler | 9.00% | ~622 |
+| Bone Peddler | 9.00% | ~623 |
 | Magical Synergy | 8.00% | ~553 |
 | There Can Only Be One! | 7.00% | ~484 |
 | Full Ascension | 7.00% | ~484 |
@@ -25,11 +25,11 @@ Rating: 4.62 (Ranked 379)
 | Digging for Treasure | 4.00% | ~277 |
 | My Final Form | 4.00% | ~277 |
 | Impenetrable Fortress | 4.00% | ~277 |
-| Preparation Is Everything | 3.00% | ~207 |
-| Fiery Friend | 3.00% | ~207 |
-| Against the Odds | 3.00% | ~207 |
-| Tipping the Scales | 3.00% | ~207 |
-| Freed Lands of Manuhari | 3.00% | ~207 |
+| Preparation Is Everything | 3.00% | ~208 |
+| Fiery Friend | 3.00% | ~208 |
+| Against the Odds | 3.00% | ~208 |
+| Tipping the Scales | 3.00% | ~208 |
+| Freed Lands of Manuhari | 3.00% | ~208 |
 | God Emperor | 2.00% | ~138 |
 | Arch Mage | 2.00% | ~138 |
 | The Creator | 2.00% | ~138 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,916 (Ranked 197)  
+Progressed: 6,918 (Ranked 197)  
 Completed: 7 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 7 (0.10%) (Ranked 307)
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
-| 2024-01-06 | 6,916 | 7 |
+| 2024-01-06 | 6,918 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 210 (Ranked 411)  

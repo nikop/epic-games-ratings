@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1400,
+  "EOS_Progressed": 1401,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.93,
   "EosHistory": [
@@ -4943,6 +4943,11 @@
       "Time": "2024-01-05T22:03:57.3667192+00:00",
       "NumProgressed": 1400,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2024-01-06T02:24:09.5729253+00:00",
+      "NumProgressed": 1401,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 28,
@@ -4954,7 +4959,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "MQ01_2",
@@ -4962,7 +4967,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "MQ02_1",
@@ -4970,7 +4975,7 @@
       "Name": "High Profile",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "MQ02_2",
@@ -4994,7 +4999,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "MQ03_1",
@@ -5088,9 +5093,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 616
+      "UsersEstimate": 602
     },
     {
       "ID": "MQ06_1",
@@ -5136,9 +5141,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 574
+      "UsersEstimate": 560
     },
     {
       "ID": "MQ08_1",
@@ -5177,7 +5182,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1400,
+      "Progressed": 1401,
       "Completed": 41
     }
   ],
@@ -5185,8 +5190,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:49:47.4735993+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:24:09.5729251+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.3322639+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:49:14.2766649+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:49:47.473651+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:23:47.7898257+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:24:09.5729997+00:00"
 }

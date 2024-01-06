@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1257,
+  "EOS_Progressed": 1258,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3609,6 +3609,11 @@
       "Time": "2024-01-06T01:56:19.6008671+00:00",
       "NumProgressed": 1257,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T02:30:31.0406194+00:00",
+      "NumProgressed": 1258,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3677,7 +3682,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "DustDancing",
@@ -3725,7 +3730,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "Relic",
@@ -3733,7 +3738,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "SkeletonCrew",
@@ -3755,9 +3760,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 704
+      "UsersEstimate": 692
     },
     {
       "ID": "TragedyDocumented",
@@ -3780,14 +3785,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1257,
+      "Progressed": 1258,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:56:19.6008668+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:30:31.040619+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6987681+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:48:23.6612349+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:56:19.600906+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:21:14.8247217+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:30:31.0406505+00:00"
 }

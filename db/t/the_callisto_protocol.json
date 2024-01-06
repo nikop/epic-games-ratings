@@ -2063,9 +2063,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 21208,
+  "EOS_Progressed": 21210,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1245,
+  "EOS_NewPlayers": 1239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -12723,6 +12723,11 @@
       "Time": "2024-01-06T01:55:52.8370639+00:00",
       "NumProgressed": 21208,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-06T02:30:12.5186388+00:00",
+      "NumProgressed": 21210,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12862,7 +12867,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3817
+      "UsersEstimate": 3818
     },
     {
       "ID": "KILL_ROBOT",
@@ -12894,7 +12899,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3393
+      "UsersEstimate": 3394
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -12902,7 +12907,7 @@
       "Name": "Reforged",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3605
+      "UsersEstimate": 3606
     },
     {
       "ID": "PRINT_WEAPON",
@@ -12934,7 +12939,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3181
+      "UsersEstimate": 3182
     },
     {
       "ID": "STORY_HABITAT",
@@ -13086,7 +13091,7 @@
       "Name": "Keep Fighting",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -13109,13 +13114,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21208,
+      "Progressed": 21210,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9134,
+      "Progressed": 9136,
       "Completed": 29
     }
   ],
@@ -13123,8 +13128,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-05T20:03:04.3690756+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:55:52.8370636+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:30:12.5186386+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:49:21.7391756+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:55:52.8371305+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:23:52.463128+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:30:12.5187508+00:00"
 }

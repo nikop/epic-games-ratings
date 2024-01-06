@@ -15,8 +15,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sweet Victory | 11.00% | ~83 |
 | Uptown and Downtown | 10.00% | ~75 |
 | Super Spatula Seeker | 10.00% | ~75 |
+| Star Smasher | 10.00% | ~75 |
 | Squirrel Smasher | 9.00% | ~68 |
-| Star Smasher | 9.00% | ~68 |
 | Surf's Up! | 9.00% | ~68 |
 | Life's as extreme as you wanna make it! | 7.00% | ~53 |
 | Shrimp Catcher | 7.00% | ~53 |

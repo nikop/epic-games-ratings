@@ -2,12 +2,12 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 847,
+  "Ranking_Rating": 848,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58650,
+  "EOS_Progressed": 58651,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15441,6 +15441,11 @@
       "Time": "2024-01-06T01:50:41.7761751+00:00",
       "NumProgressed": 58650,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T02:24:46.7290478+00:00",
+      "NumProgressed": 58651,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15500,7 +15505,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "Explorer",
@@ -15548,7 +15553,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "FoundAllBackers",
@@ -15684,7 +15689,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "PacifistVictory",
@@ -15764,7 +15769,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "Teamwork",
@@ -15820,7 +15825,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -15843,7 +15848,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58650,
+      "Progressed": 58651,
       "Completed": 6
     }
   ],
@@ -15851,8 +15856,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:50:41.7761747+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:24:46.7290475+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.2032486+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:48:25.4874562+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:50:41.7762717+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:21:16.0569759+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:24:46.7291274+00:00"
 }

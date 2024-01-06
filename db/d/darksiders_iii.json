@@ -1991,9 +1991,9 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 139
     },
     {
       "ID": "Kill_Enemies_666",
@@ -2135,9 +2135,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 300
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -2199,8 +2199,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:54:10.3654632+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:27:11.3586298+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:45:49.4206142+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:54:10.3655104+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:20:02.4834478+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:27:11.3586816+00:00"
 }

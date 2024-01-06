@@ -5,9 +5,9 @@ Rating: 3.28 (Ranked 1,093)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 27.00% | ~589 |
+| It's Good to have Allies | 28.00% | ~610 |
 | Defenses Online | 25.00% | ~545 |
-| Facility Online | 20.00% | ~436 |
+| Facility Online | 21.00% | ~458 |
 | Corporal | 15.00% | ~327 |
 | Sergeant | 12.00% | ~262 |
 | Covert Operative | 12.00% | ~262 |
@@ -39,7 +39,7 @@ Rating: 3.28 (Ranked 1,093)
 | Advanced Interceptors | 1.00% | ~22 |
 | Titan Tanks | 1.00% | ~22 |
 | Shock Troops | 1.00% | ~22 |
-| Jet Troops | 0.70% | ~15 |
+| Jet Troops | 0.80% | ~17 |
 | Gold Competitor | 0.10% | ~2 |
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |

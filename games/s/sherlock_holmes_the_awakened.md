@@ -5,23 +5,23 @@ Rating: 4.50 (Ranked 614)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~882 |
-| To Hell In A Handcart | 61.00% | ~854 |
-| High Profile | 55.00% | ~770 |
-| Whispers In The Dark | 52.00% | ~728 |
+| Read Between The Lines | 63.00% | ~883 |
+| To Hell In A Handcart | 61.00% | ~855 |
+| High Profile | 55.00% | ~771 |
+| Whispers In The Dark | 52.00% | ~729 |
 | Fond Memories | 50.00% | ~700 |
 | A Method To His Madness | 48.00% | ~672 |
 | History Check | 47.00% | ~658 |
 | The New World | 45.00% | ~630 |
 | Open Sesame | 44.00% | ~616 |
 | Sticky Fingers | 44.00% | ~616 |
-| Knives Out | 44.00% | ~616 |
 | Gaze Into The Abyss | 43.00% | ~602 |
+| Knives Out | 43.00% | ~602 |
 | Land, Ho! | 43.00% | ~602 |
 | Lock, Stock, And Barrel | 42.00% | ~588 |
 | Back In The Saddle | 42.00% | ~588 |
 | No Man Is An Island | 41.00% | ~574 |
-| At Wits' End | 41.00% | ~574 |
+| At Wits' End | 40.00% | ~560 |
 | Fhtagn! | 39.00% | ~546 |
 | Bookworm | 38.00% | ~532 |
 | Up In Flames | 38.00% | ~532 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 614)
 | Big Breakthrough | 12.00% | ~168 |
 | Reawakened | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,400 (Ranked 270)  
+Progressed: 1,401 (Ranked 270)  
 Completed: 41 (2.93%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,6 +251,7 @@ Completed: 41 (2.93%) (Ranked 112)
 | 2024-01-03 | 1,386 | 40 |
 | 2024-01-04 | 1,394 | 40 |
 | 2024-01-05 | 1,400 | 41 |
+| 2024-01-06 | 1,401 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~345 |
-| First of many… | 66.00% | ~296 |
+| First of many… | 67.00% | ~300 |
 | Helping Hand | 63.00% | ~282 |
 | Increased Vigor | 58.00% | ~260 |
 | Fight Fire with Fire | 57.00% | ~255 |
@@ -26,8 +26,8 @@ Number of Ratings: 116  (23.09.2022)
 | Unshakable Fortitude | 33.00% | ~148 |
 | I Wanna Rock | 32.00% | ~143 |
 | Delusions of Grandeur | 32.00% | ~143 |
+| Love Tap | 31.00% | ~139 |
 | Maximum Vigor | 30.00% | ~134 |
-| Love Tap | 30.00% | ~134 |
 | For Whom the Bell Tolls | 28.00% | ~125 |
 | Freeze Frame | 27.00% | ~121 |
 | Eat Your Heart Out | 27.00% | ~121 |

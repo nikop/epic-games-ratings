@@ -8618,9 +8618,9 @@
       "ID": "FriendInNeed",
       "SetID": "bmkn7o4",
       "Name": "A Friend in Need...",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 500
     },
     {
       "ID": "GoodRiddance",
@@ -9008,8 +9008,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:54:56.6106882+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:29:32.9580537+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:46:19.2064715+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:54:56.6107881+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:20:21.5665951+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:29:32.9581493+00:00"
 }

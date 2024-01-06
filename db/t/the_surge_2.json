@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2485,
+  "EOS_Progressed": 2487,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4354,6 +4354,11 @@
       "Time": "2024-01-06T01:53:19.3891332+00:00",
       "NumProgressed": 2485,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-06T02:26:35.893915+00:00",
+      "NumProgressed": 2487,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4373,7 +4378,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1592
     },
     {
       "ID": "ACHV_03",
@@ -4381,7 +4386,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHV_04",
@@ -4397,7 +4402,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACHV_06",
@@ -4413,7 +4418,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACHV_08",
@@ -4437,7 +4442,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACHV_11",
@@ -4525,7 +4530,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHV_22",
@@ -4541,7 +4546,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACHV_24",
@@ -4557,7 +4562,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHV_26",
@@ -4565,7 +4570,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1965
     },
     {
       "ID": "ACHV_27",
@@ -4581,7 +4586,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACHV_29",
@@ -4589,7 +4594,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHV_30",
@@ -4669,7 +4674,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ACHV_40",
@@ -4685,7 +4690,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACHV_42",
@@ -4725,7 +4730,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACHV_47",
@@ -4763,9 +4768,9 @@
       "ID": "ACHV_51",
       "SetID": "8p5mlmc",
       "Name": "Homewrecker",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHV_52",
@@ -4820,7 +4825,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2485,
+      "Progressed": 2487,
       "Completed": 13
     }
   ],
@@ -4828,8 +4833,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:53:19.3891328+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:26:35.8939148+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:47:29.8251569+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:53:19.3891872+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:21:06.4420477+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:26:35.8939711+00:00"
 }

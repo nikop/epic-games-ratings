@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,070 |
 | The Cursed Farmer | 2.00% | ~5,035 |
-| Beast Intentions | 1.00% | ~2,517 |
-| The Mad Wizard | 1.00% | ~2,517 |
+| Beast Intentions | 1.00% | ~2,518 |
+| The Mad Wizard | 1.00% | ~2,518 |
 | Welcome to Sigil | 0.80% | ~1,744 |
 | The Ring of Regeneration | 0.70% | ~1,762 |
 | Are Ya Chicken? | 0.70% | ~1,762 |
@@ -40,27 +40,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~755 |
 | Escort to Waterdeep | 0.30% | ~755 |
 | Welcome to the Vrocks | 0.30% | ~654 |
-| The Silken Swamp | 0.20% | ~503 |
-| Supply Run | 0.20% | ~503 |
-| Low Initiative | 0.20% | ~503 |
-| Street War | 0.20% | ~503 |
-| Building Trust | 0.20% | ~503 |
-| March of the Undead | 0.20% | ~503 |
-| No Time To Rest | 0.20% | ~503 |
-| Invisible Shadows | 0.20% | ~503 |
-| The Dinner Party | 0.20% | ~503 |
-| The Death Curse | 0.20% | ~503 |
-| Premature Betrayal | 0.20% | ~503 |
-| A Tale of Two Cities | 0.20% | ~503 |
-| Flying Monkey Skulls of Doom | 0.20% | ~503 |
-| Running of the Saurs | 0.20% | ~503 |
-| Close Escort | 0.20% | ~503 |
-| Constant Banditry | 0.20% | ~503 |
-| Waterdeep Detours | 0.20% | ~503 |
-| Underdeep Cartography | 0.20% | ~503 |
-| Overdue Rendezvous | 0.20% | ~503 |
-| The Templar's Camp | 0.20% | ~503 |
-| Rescue in the Jungle | 0.20% | ~503 |
+| The Silken Swamp | 0.20% | ~504 |
+| Supply Run | 0.20% | ~504 |
+| Low Initiative | 0.20% | ~504 |
+| Street War | 0.20% | ~504 |
+| Building Trust | 0.20% | ~504 |
+| March of the Undead | 0.20% | ~504 |
+| No Time To Rest | 0.20% | ~504 |
+| Invisible Shadows | 0.20% | ~504 |
+| The Dinner Party | 0.20% | ~504 |
+| The Death Curse | 0.20% | ~504 |
+| Premature Betrayal | 0.20% | ~504 |
+| A Tale of Two Cities | 0.20% | ~504 |
+| Flying Monkey Skulls of Doom | 0.20% | ~504 |
+| Running of the Saurs | 0.20% | ~504 |
+| Close Escort | 0.20% | ~504 |
+| Constant Banditry | 0.20% | ~504 |
+| Waterdeep Detours | 0.20% | ~504 |
+| Underdeep Cartography | 0.20% | ~504 |
+| Overdue Rendezvous | 0.20% | ~504 |
+| The Templar's Camp | 0.20% | ~504 |
+| Rescue in the Jungle | 0.20% | ~504 |
 | The Brains of an Illithid's Desire | 0.20% | ~436 |
 | Pros and CONs | 0.10% | ~252 |
 | Upholding the Law | 0.10% | ~252 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,744 (Ranked 70)  
+Progressed: 251,750 (Ranked 70)  
 Completed: 2,596 (1.03%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -814,10 +814,10 @@ Completed: 2,596 (1.03%) (Ranked 171)
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
-| 2024-01-06 | 251,744 | 2,596 |
+| 2024-01-06 | 251,750 | 2,596 |
 ## Awards
 Max (Great for Beginners): 5,750  (Ranked 72)  
-Sum: 33,345 (Ranked 41)  
+Sum: 33,350 (Ranked 41)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -826,7 +826,7 @@ Diff (max vs sum): 31
 | This game has Quickly Understood Controls | 4,895 |
 | This game is Relaxing | 4,763 |
 | This game has Amazing Characters | 4,319 |
-| This game is Highly Recommended | 4,298 |
+| This game is Highly Recommended | 4,303 |
 | This game has Playful Visuals | 3,628 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1176,3 +1176,4 @@ Diff (max vs sum): 31
 | 2024-01-03 | 4.06 | - | 5,730 | 33,294 |
 | 2024-01-04 | 4.06 | - | 5,740 | 33,310 |
 | 2024-01-05 | 4.06 | - | 5,750 | 33,345 |
+| 2024-01-06 | 4.06 | - | 5,750 | 33,350 |

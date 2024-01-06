@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
@@ -1351,6 +1351,11 @@
       "Time": "2024-01-06T01:55:58.6617239+00:00",
       "NumProgressed": 473,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T02:30:16.4786212+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 19,
@@ -1402,7 +1407,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ryan_date2_all",
@@ -1426,7 +1431,7 @@
       "Name": "The activist",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "success_bash",
@@ -1458,7 +1463,7 @@
       "Name": "The individualist",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "success_jake",
@@ -1472,9 +1477,9 @@
       "ID": "success_kathleen",
       "SetID": "6h5h9ho",
       "Name": "The intellectual",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 118
+      "UsersEstimate": 114
     },
     {
       "ID": "success_lucas",
@@ -1513,7 +1518,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 6
     }
   ],
@@ -1521,8 +1526,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:55:58.6617237+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:30:16.4786209+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:31.6181665+00:00",
   "LastUpdate_Ratings": "2024-01-06T01:48:51.2898969+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:55:58.6617393+00:00"
+  "LastUpdate_Achievements": "2024-01-06T02:30:16.4786378+00:00"
 }

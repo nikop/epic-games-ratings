@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -661,9 +661,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4213,
+  "EOS_Progressed": 4214,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9416,6 +9416,11 @@
       "Time": "2024-01-06T01:55:45.0425237+00:00",
       "NumProgressed": 4213,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-06T02:30:06.9260625+00:00",
+      "NumProgressed": 4214,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9507,7 +9512,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9547,7 +9552,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -9595,7 +9600,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9627,7 +9632,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9673,9 +9678,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1559
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9835,7 +9840,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9891,7 +9896,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -9994,13 +9999,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4164,
+      "Progressed": 4165,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4213,
+      "Progressed": 4214,
       "Completed": 11
     }
   ],
@@ -10008,8 +10013,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:55:45.0425232+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:30:06.9260622+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:46:43.0163422+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:55:45.0426033+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:20:36.5796852+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:30:06.9261694+00:00"
 }

@@ -377,7 +377,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 13558,
+  "EOS_Progressed": 13559,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 1378,
   "EOS_NewCompleters": 2,
@@ -9297,6 +9297,11 @@
       "Time": "2024-01-06T01:56:28.1843868+00:00",
       "NumProgressed": 13558,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-06T02:30:37.5823563+00:00",
+      "NumProgressed": 13559,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -9365,7 +9370,7 @@
       "Name": "Explosive Personality",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2441
     },
     {
       "ID": "FasterThanLight",
@@ -9381,7 +9386,7 @@
       "Name": "First Time?",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 7050
+      "UsersEstimate": 7051
     },
     {
       "ID": "FuneralForTheDeath",
@@ -9421,7 +9426,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "JackOfAllTrades",
@@ -9493,7 +9498,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "TheOldSchoolWay",
@@ -9501,7 +9506,7 @@
       "Name": "The Old-School Way",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3119
     },
     {
       "ID": "TheQuarterback",
@@ -9509,7 +9514,7 @@
       "Name": "The Quarterback",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5423
+      "UsersEstimate": 5424
     },
     {
       "ID": "ThisIsDharma",
@@ -9580,7 +9585,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 13558,
+      "Progressed": 13559,
       "Completed": 25
     }
   ],
@@ -9588,8 +9593,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-04T16:57:45.1776156+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:56:28.1843865+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:30:37.5823561+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:18.9626026+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:44:05.7372068+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:56:28.1844532+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:18:55.8666019+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:30:37.5824306+00:00"
 }

@@ -117,7 +117,7 @@
   "Tags": [],
   "EOS_Progressed": 2432,
   "EOS_Completed": 158,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 6.5,
   "EosHistory": [
@@ -6667,9 +6667,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1094
     },
     {
       "ID": "PROGRESS_N3",
@@ -6708,8 +6708,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-05T05:56:52.9506566+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:51:53.4875934+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:25:35.7147404+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:43:11.6075098+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:51:53.4876463+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:18:22.1563105+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:25:35.714775+00:00"
 }

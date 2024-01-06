@@ -1056,7 +1056,7 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 15497,
+  "EOS_Progressed": 15500,
   "EOS_Completed": 88,
   "EOS_NewPlayers": 923,
   "EOS_NewCompleters": 5,
@@ -17156,6 +17156,11 @@
       "Time": "2024-01-06T01:56:06.3943566+00:00",
       "NumProgressed": 15497,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-06T02:30:21.8795441+00:00",
+      "NumProgressed": 15500,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 34,
@@ -17271,7 +17276,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6509
+      "UsersEstimate": 6510
     },
     {
       "ID": "ACH15",
@@ -17327,7 +17332,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 7129
+      "UsersEstimate": 7130
     },
     {
       "ID": "ACH22",
@@ -17335,7 +17340,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3254
+      "UsersEstimate": 3255
     },
     {
       "ID": "ACH23",
@@ -17343,7 +17348,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 4029
+      "UsersEstimate": 4030
     },
     {
       "ID": "ACH24",
@@ -17423,7 +17428,7 @@
       "Name": "Done it All",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH34",
@@ -17438,7 +17443,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15497,
+      "Progressed": 15500,
       "Completed": 88
     }
   ],
@@ -17446,8 +17451,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:56:06.3943563+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:30:21.8795436+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:45:28.6167862+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:56:06.3944537+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:19:49.3452756+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:30:21.8796754+00:00"
 }

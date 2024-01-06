@@ -5,22 +5,22 @@ Rating: 4.46 (Ranked 675)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,980 |
-| Confirming Suspicions | 42.00% | ~1,769 |
-| The Kraken Wakes | 38.00% | ~1,601 |
+| Meeting Resistance | 47.00% | ~1,981 |
+| Confirming Suspicions | 42.00% | ~1,770 |
+| The Kraken Wakes | 37.00% | ~1,559 |
 | It's Starting to Crack | 35.00% | ~1,475 |
 | Change the Channel | 32.00% | ~1,348 |
 | Lord of War | 31.00% | ~1,306 |
 | Taking it back | 30.00% | ~1,264 |
 | Resourceful | 28.00% | ~1,180 |
 | Target America | 27.00% | ~1,138 |
-| The Kraken Sleeps | 25.00% | ~1,053 |
+| The Kraken Sleeps | 25.00% | ~1,054 |
 | As Quiet as a Mouse | 24.00% | ~1,011 |
 | Liberté | 23.00% | ~969 |
 | Organ Grinder | 23.00% | ~969 |
 | Sharpshooter | 23.00% | ~969 |
-| Gunslinger | 19.00% | ~800 |
-| Explosive Efficiency | 19.00% | ~800 |
+| Gunslinger | 19.00% | ~801 |
+| Explosive Efficiency | 19.00% | ~801 |
 | Climbing the Ladder | 17.00% | ~716 |
 | Just a Flesh Wound | 17.00% | ~716 |
 | Der Geist | 17.00% | ~716 |
@@ -37,7 +37,7 @@ Rating: 4.46 (Ranked 675)
 | Precision Is Key | 10.00% | ~421 |
 | My Little Friend | 10.00% | ~421 |
 | Rigged to Blow | 9.00% | ~379 |
-| Herr Today, Gone Tomorrow | 7.00% | ~291 |
+| Herr Today, Gone Tomorrow | 7.00% | ~292 |
 | The Long Game | 6.00% | ~253 |
 | Operation Foxley | 6.00% | ~250 |
 | Strategist | 5.00% | ~211 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 675)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,213 (Ranked 210)  
+Progressed: 4,214 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 11 (0.26%) (Ranked 260)
 | 2024-01-03 | 4,197 | 11 |
 | 2024-01-04 | 4,208 | 11 |
 | 2024-01-05 | 4,211 | 11 |
-| 2024-01-06 | 4,213 | 11 |
+| 2024-01-06 | 4,214 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 526)  
 Sum: 29 (Ranked 543)  

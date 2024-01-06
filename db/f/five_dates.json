@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 2018,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3854,9 +3854,9 @@
       "ID": "only_thyme_will_tell",
       "SetID": "c4ipj3h",
       "Name": "Only Thyme Will Tell",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 484
+      "UsersEstimate": 504
     },
     {
       "ID": "planting_the_seed",
@@ -3903,8 +3903,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:56:20.7289507+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:30:31.909435+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:43:39.609337+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:56:20.7289834+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:18:39.1797542+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:30:31.9094701+00:00"
 }

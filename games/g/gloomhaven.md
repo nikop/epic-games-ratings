@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~12,271 |
-| Overkill | 33.00% | ~10,383 |
-| Vaccine Incoming | 31.00% | ~9,754 |
-| A normal day in Gloomhaven | 29.00% | ~9,124 |
-| Spread the plague | 27.00% | ~8,495 |
-| Get over here! | 24.00% | ~7,551 |
-| Just when I thought I was out... | 19.00% | ~5,978 |
-| Precious! | 16.00% | ~5,034 |
-| Mine... All Mine... | 16.00% | ~5,034 |
-| Grizzled veteran | 15.00% | ~4,719 |
-| Anatomy Lesson | 14.00% | ~4,405 |
-| Light of my life | 13.00% | ~4,090 |
+| I'm not dead yet | 39.00% | ~12,273 |
+| Overkill | 33.00% | ~10,384 |
+| Vaccine Incoming | 31.00% | ~9,755 |
+| A normal day in Gloomhaven | 29.00% | ~9,126 |
+| Spread the plague | 27.00% | ~8,496 |
+| Get over here! | 24.00% | ~7,552 |
+| Just when I thought I was out... | 19.00% | ~5,979 |
+| Precious! | 16.00% | ~5,035 |
+| Mine... All Mine... | 16.00% | ~5,035 |
+| Grizzled veteran | 15.00% | ~4,720 |
+| Anatomy Lesson | 14.00% | ~4,406 |
+| Light of my life | 13.00% | ~4,091 |
 | Who's the Boss? | 12.00% | ~3,776 |
 | You activated my trap card! | 12.00% | ~3,776 |
 | Obstacle race | 12.00% | ~3,776 |
-| Augmented rat | 10.00% | ~3,146 |
-| Doom and gloom | 10.00% | ~3,146 |
+| Augmented rat | 10.00% | ~3,147 |
+| Doom and gloom | 10.00% | ~3,147 |
 | Dungeon Veteran | 8.00% | ~2,517 |
 | Pain is your friend | 8.00% | ~2,517 |
-| Pack leader | 7.00% | ~2,202 |
-| Black death | 7.00% | ~2,202 |
-| Play it again, Sam | 7.00% | ~2,202 |
+| Pack leader | 7.00% | ~2,203 |
+| Black death | 7.00% | ~2,203 |
+| Play it again, Sam | 7.00% | ~2,203 |
 | Quad damage | 6.00% | ~1,888 |
 | Power Up! | 5.00% | ~1,573 |
 | Merchant of doom | 5.00% | ~1,573 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~31 |
 | Hard-travelling Heroes | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,463 (Ranked 140)  
+Progressed: 31,468 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,15 +183,15 @@ Completed: 1 (0.00%) (Ranked 392)
 | 2024-01-03 | 30,944 | 1 |
 | 2024-01-04 | 31,129 | 1 |
 | 2024-01-05 | 31,403 | 1 |
-| 2024-01-06 | 31,463 | 1 |
+| 2024-01-06 | 31,468 | 1 |
 ## Awards
 Max (Character Customization): 3,615  (Ranked 94)  
-Sum: 8,463 (Ranked 106)  
+Sum: 8,464 (Ranked 106)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,615 |
-| This game has Diverse Characters | 611 |
+| This game has Diverse Characters | 612 |
 | This game has Challenging Combat | 557 |
 | This game is Highly Recommended | 553 |
 | This game is Extremely Fun | 550 |
@@ -463,3 +463,4 @@ Diff (max vs sum): -12
 | 2024-01-03 | 4.47 | - | 3,615 | 8,460 |
 | 2024-01-04 | 4.47 | - | 3,615 | 8,462 |
 | 2024-01-05 | 4.47 | - | 3,615 | 8,463 |
+| 2024-01-06 | 4.47 | - | 3,615 | 8,464 |

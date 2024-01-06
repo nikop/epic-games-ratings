@@ -8508,9 +8508,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8580,9 +8580,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 589
+      "UsersEstimate": 610
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8692,9 +8692,9 @@
       "ID": "objective_research_unlock_light_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Jet Troops",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -8717,8 +8717,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:51:08.6441192+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:25:05.1138789+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:46:38.8353921+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:51:08.6441771+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:20:33.9308097+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:25:05.1139255+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "smelter-97a47b",
   "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewPlayers": 521,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -514,9 +514,9 @@
       "ID": "SMELTER_XELADO",
       "SetID": "1g58k92",
       "Name": "A Wingman Falls",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SMELTER_ZIRMARMOR",
@@ -555,8 +555,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:56:26.7981262+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:30:36.5265588+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.7188107+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:44:52.6636524+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:56:26.7981527+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:19:25.8353028+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:30:36.5265968+00:00"
 }

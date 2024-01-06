@@ -1392,7 +1392,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32589,
+  "EOS_Progressed": 32591,
   "EOS_Completed": 86,
   "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 1,
@@ -29432,6 +29432,11 @@
       "Time": "2024-01-06T01:56:11.7557708+00:00",
       "NumProgressed": 32589,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-06T02:30:25.6361338+00:00",
+      "NumProgressed": 32591,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29467,7 +29472,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "1019",
@@ -29483,7 +29488,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "1021",
@@ -29491,7 +29496,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "1022",
@@ -29618,15 +29623,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32589,
+      "Progressed": 32591,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-05T16:59:15.5205633+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:56:11.7557706+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:30:25.6361335+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7773957+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:46:04.918446+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:56:11.7558902+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:20:12.0443759+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:30:25.6362849+00:00"
 }

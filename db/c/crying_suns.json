@@ -709,7 +709,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473418,
+  "EOS_Progressed": 473420,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 1,
@@ -27634,6 +27634,11 @@
       "Time": "2024-01-06T01:56:38.3597484+00:00",
       "NumProgressed": 473418,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-06T02:30:45.3601259+00:00",
+      "NumProgressed": 473420,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27661,7 +27666,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113620
+      "UsersEstimate": 113621
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -27693,7 +27698,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37873
+      "UsersEstimate": 37874
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -27733,7 +27738,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312456
+      "UsersEstimate": 312457
     },
     {
       "ID": "achievement_story_landa",
@@ -27757,7 +27762,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37873
+      "UsersEstimate": 37874
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -27765,7 +27770,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118354
+      "UsersEstimate": 118355
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -27805,7 +27810,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37873
+      "UsersEstimate": 37874
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -27829,7 +27834,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160962
+      "UsersEstimate": 160963
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -27837,7 +27842,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37873
+      "UsersEstimate": 37874
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -28069,7 +28074,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208304
+      "UsersEstimate": 208305
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28077,7 +28082,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 142025
+      "UsersEstimate": 142026
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -28101,7 +28106,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184633
+      "UsersEstimate": 184634
     },
     {
       "ID": "achievement_win_run_hard",
@@ -28149,7 +28154,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37873
+      "UsersEstimate": 37874
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -28276,21 +28281,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17352,
+      "Progressed": 17354,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473418,
+      "Progressed": 473420,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:56:38.3597482+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:30:45.3601256+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:44:09.0057611+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:56:38.3599005+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:18:57.929293+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:30:45.3603201+00:00"
 }

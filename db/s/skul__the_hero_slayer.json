@@ -1409,9 +1409,9 @@
       "Count": 149
     }
   ],
-  "EOS_Progressed": 13946,
+  "EOS_Progressed": 13947,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 914,
+  "EOS_NewPlayers": 913,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8914,6 +8914,11 @@
       "Time": "2024-01-06T01:55:20.4950335+00:00",
       "NumProgressed": 13946,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-06T02:29:49.5541836+00:00",
+      "NumProgressed": 13947,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 24,
@@ -8981,7 +8986,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2232
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -9005,7 +9010,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3765
+      "UsersEstimate": 3766
     },
     {
       "ID": "HeroSlayer",
@@ -9077,7 +9082,7 @@
       "Name": "Inventory Management",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4323
+      "UsersEstimate": 4324
     },
     {
       "ID": "TheLegendBegins",
@@ -9085,7 +9090,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 12970
+      "UsersEstimate": 12971
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -9109,22 +9114,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11296
+      "UsersEstimate": 11297
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 13946,
+      "Progressed": 13947,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-05T18:59:02.7414461+00:00",
-  "LastChanged_Achievements": "2024-01-06T01:55:20.4950332+00:00",
+  "LastChanged_Achievements": "2024-01-06T02:29:49.5541834+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9431294+00:00",
-  "LastUpdate_Ratings": "2024-01-06T01:43:54.1827966+00:00",
-  "LastUpdate_Achievements": "2024-01-06T01:55:20.4950992+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:18:48.4034685+00:00",
+  "LastUpdate_Achievements": "2024-01-06T02:29:49.554225+00:00"
 }
