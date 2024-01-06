@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 151,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.95,
   "EosHistory": [
@@ -838,9 +838,9 @@
       "ID": "EpicACHV_12",
       "SetID": "acn799d",
       "Name": "God Disguised as a Cow",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "EpicACHV_13",
@@ -910,9 +910,9 @@
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 70,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "EpicACHV_6",
@@ -957,8 +957,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:09:06.2182857+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:09:15.311791+00:00",
   "LastUpdate_AppInfo": "2024-01-03T15:56:53.9341623+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:59:49.0495221+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:09:06.2183049+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:00:08.7180465+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:09:15.3118055+00:00"
 }

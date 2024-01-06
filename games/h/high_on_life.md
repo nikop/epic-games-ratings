@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 320)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,11 +15,11 @@ Rating: 4.65 (Ranked 321)
 | Bring A Knife to a Gun Fight | 4.00% | ~1,002 |
 | RIP Davey Glutes | 4.00% | ~1,002 |
 | We're All Very Impressed, Trust Me | 4.00% | ~1,002 |
+| Hardest Battle In The Game | 4.00% | ~1,002 |
 | Who's The Boss? | 4.00% | ~1,002 |
 | Don't Knife The Hand That Feeds | 4.00% | ~1,002 |
 | Lezduit! | 3.00% | ~752 |
 | Legendary Bounty Hunter | 3.00% | ~752 |
-| Hardest Battle In The Game | 3.00% | ~752 |
 | Self-Actualization | 3.00% | ~752 |
 | Fallout Doesn't Let You Do This | 3.00% | ~752 |
 | Spent 15 Hours At The Alien Strip Club | 3.00% | ~752 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 321)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,051 (Ranked 145)  
+Progressed: 25,052 (Ranked 145)  
 Completed: 14 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 14 (0.06%) (Ranked 330)
 | 2024-01-03 | 25,006 | 14 |
 | 2024-01-04 | 25,022 | 14 |
 | 2024-01-05 | 25,037 | 14 |
-| 2024-01-06 | 25,051 | 14 |
+| 2024-01-06 | 25,052 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

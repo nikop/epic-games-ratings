@@ -10,7 +10,7 @@
 | I've Fallen & I Can't Get Up | 49.00% | ~51 |
 | Charmin' the Snake | 34.00% | ~36 |
 | Drums in the Deep | 24.00% | ~25 |
-| Bridge Builder | 23.00% | ~24 |
+| Bridge Builder | 24.00% | ~25 |
 | Treasure Seeker | 21.00% | ~22 |
 | Green Thumb Goliath | 17.00% | ~18 |
 | Take the Scenic Route | 14.00% | ~15 |

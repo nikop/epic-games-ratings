@@ -15,12 +15,12 @@ Rating: 4.55 (Ranked 526)
 | Boat of love, boat of love | 48.00% | ~248 |
 | Shall we play a game? | 47.00% | ~243 |
 | School's out | 43.00% | ~222 |
+| Scaffolding Expert | 37.00% | ~191 |
 | Sole Music | 36.00% | ~186 |
-| Scaffolding Expert | 36.00% | ~186 |
 | Elysian Minigame-Master | 36.00% | ~186 |
 | Portals come in packs | 30.00% | ~155 |
 | No man left behind! | 28.00% | ~144 |
-| Photo Friend | 25.00% | ~129 |
+| Photo Friend | 26.00% | ~134 |
 | Masseltov | 20.00% | ~103 |
 | Brainfreeze | 20.00% | ~103 |
 | And everything comes full circle. | 20.00% | ~103 |

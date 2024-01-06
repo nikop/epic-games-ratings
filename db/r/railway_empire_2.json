@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2645,
+  "EOS_Progressed": 2646,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7696,6 +7696,11 @@
       "Time": "2024-01-06T16:04:39.9533959+00:00",
       "NumProgressed": 2645,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T17:04:55.2925329+00:00",
+      "NumProgressed": 2646,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7715,7 +7720,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "A02",
@@ -7787,7 +7792,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "A11",
@@ -7803,7 +7808,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "A13",
@@ -7811,7 +7816,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "A14",
@@ -7843,7 +7848,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "A18",
@@ -7859,7 +7864,7 @@
       "Name": "Tycoon",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "A20",
@@ -7867,15 +7872,15 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "A21",
       "SetID": "9b7p7eo",
       "Name": "Country Life",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 741
     },
     {
       "ID": "A22",
@@ -7899,7 +7904,7 @@
       "Name": "Access granted",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "A25",
@@ -7937,9 +7942,9 @@
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 979
     },
     {
       "ID": "A30",
@@ -7955,7 +7960,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "A32",
@@ -7995,7 +8000,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "A37",
@@ -8011,7 +8016,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "A39",
@@ -8043,7 +8048,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "A43",
@@ -8059,7 +8064,7 @@
       "Name": "Breaking Ground",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "A45",
@@ -8075,7 +8080,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "A47",
@@ -8115,7 +8120,7 @@
       "Name": "Call of Duty",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "A52",
@@ -8146,7 +8151,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2645,
+      "Progressed": 2646,
       "Completed": 0
     }
   ],
@@ -8154,8 +8159,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:04:39.9533955+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:04:55.2925324+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:23.401402+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:04:39.9534619+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:36.3701076+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:04:55.2926018+00:00"
 }

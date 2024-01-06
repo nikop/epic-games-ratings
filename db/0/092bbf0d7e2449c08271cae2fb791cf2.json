@@ -2,10 +2,10 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 475,
+  "EOS_Progressed": 476,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 2,
@@ -1584,6 +1584,11 @@
       "Time": "2024-01-06T16:05:05.2092728+00:00",
       "NumProgressed": 475,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-06T17:05:21.3467862+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1610,9 +1615,9 @@
       "ID": "ach3",
       "SetID": "796kfpa",
       "Name": "Blue Bean",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 145,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     },
     {
       "ID": "ach4",
@@ -1642,23 +1647,23 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 145,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 475,
+      "Progressed": 476,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:05:05.2092724+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:05:21.3467857+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:06.3847444+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:05:05.2092876+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:19.4167013+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:05:21.3468+00:00"
 }

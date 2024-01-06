@@ -1,26 +1,26 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 357)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 75.00% | ~266 |
-| Kaijuiced | 69.00% | ~245 |
-| Lie Back and Think of Albion | 64.00% | ~227 |
+| Shop Til They Drop | 74.00% | ~263 |
+| Kaijuiced | 69.00% | ~246 |
+| Lie Back and Think of Albion | 64.00% | ~228 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~224 |
 | I Look Up As I Walk to Takoshima | 58.00% | ~206 |
-| Yettisoned | 57.00% | ~202 |
+| Yettisoned | 57.00% | ~203 |
 | Pimp My Raid | 54.00% | ~192 |
 | Perfect Probulator | 54.00% | ~192 |
 | Lobster Blisque | 50.00% | ~178 |
-| Earthly Pleasures | 48.00% | ~170 |
+| Earthly Pleasures | 49.00% | ~174 |
 | Fly Me to the Moon Base | 47.00% | ~167 |
 | Ducks in a Row, Fish in a Barrel | 45.00% | ~160 |
-| Bodied Sattva | 37.00% | ~131 |
-| Forbidden Donut | 35.00% | ~124 |
-| Freshly Squeezed | 35.00% | ~124 |
+| Bodied Sattva | 37.00% | ~132 |
+| Forbidden Donut | 35.00% | ~125 |
+| Freshly Squeezed | 35.00% | ~125 |
 | Upgreatest | 33.00% | ~117 |
 | Deincarnated | 29.00% | ~103 |
 | Furon Fashion | 29.00% | ~103 |
@@ -28,13 +28,13 @@ Number of Ratings: 85  (23.09.2022)
 | Trans-Siberian Express | 25.00% | ~89 |
 | Arkvoodle Doodle | 20.00% | ~71 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~71 |
+| Die Nasty | 17.00% | ~61 |
 | Ouch of Body Experience | 16.00% | ~57 |
 | If You Know What I Mean | 16.00% | ~57 |
-| Die Nasty | 16.00% | ~57 |
+| Hidden Human Hive Harvest | 15.00% | ~53 |
 | Mash Machine | 15.00% | ~53 |
-| Albion Bridge Is for Falling Down | 14.00% | ~50 |
-| Hidden Human Hive Harvest | 14.00% | ~50 |
 | Dusted | 14.00% | ~50 |
+| Albion Bridge Is for Falling Down | 13.00% | ~46 |
 | Scuttled | 11.00% | ~39 |
 | Higher Than the Futen Zoku | 10.00% | ~36 |
 | PK Slam Dunk | 9.00% | ~32 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 2.00% | ~7 |
 | Against All Odds | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355 (Ranked 375)  
-Completed: 5 (1.41%) (Ranked 152)  
+Progressed: 356 (Ranked 374)  
+Completed: 5 (1.40%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 5 (1.41%) (Ranked 152)
 | 2024-01-03 | 310 | 5 |
 | 2024-01-04 | 325 | 5 |
 | 2024-01-05 | 345 | 5 |
-| 2024-01-06 | 355 | 5 |
+| 2024-01-06 | 356 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 502)  
 Sum: 35 (Ranked 532)  

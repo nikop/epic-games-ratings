@@ -2,13 +2,13 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 302,
+  "Ranking_Rating": 301,
   "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -15444,10 +15444,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 34651,
       "NumberOfAwardsMax": 4298
+    },
+    {
+      "Time": "2024-01-06T16:57:24.5119472+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 34655,
+      "NumberOfAwardsMax": 4298
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34651,
+  "NumberOfAwards": 34655,
   "NumberOfAwardsMax": 4298,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -15497,7 +15503,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3493
+      "Count": 3497
     },
     {
       "Text": "This game has a Competitive Community",
@@ -15535,8 +15541,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-01-06T13:57:06.463294+00:00",
+  "LastChanged": "2024-01-06T16:57:24.511947+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:20.9854807+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:11.2333793+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:09:41.9193242+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:24.5119477+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:09:51.5075895+00:00"
 }

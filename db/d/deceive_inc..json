@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 447,
+  "Ranking_Rating": 446,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19267,
+  "EOS_Progressed": 19270,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14475,6 +14475,11 @@
       "Time": "2024-01-06T16:08:18.3226904+00:00",
       "NumProgressed": 19267,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T17:06:46.4274948+00:00",
+      "NumProgressed": 19270,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14486,7 +14491,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5780
+      "UsersEstimate": 5781
     },
     {
       "ID": "0002",
@@ -14494,7 +14499,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "0003",
@@ -14502,7 +14507,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3275
+      "UsersEstimate": 3276
     },
     {
       "ID": "0004",
@@ -14542,7 +14547,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     },
     {
       "ID": "0009",
@@ -14550,7 +14555,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "0010",
@@ -14614,7 +14619,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     },
     {
       "ID": "0018",
@@ -14678,7 +14683,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     },
     {
       "ID": "0026",
@@ -14694,7 +14699,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "0028",
@@ -14702,7 +14707,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "0029",
@@ -14718,7 +14723,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     },
     {
       "ID": "0031",
@@ -14726,7 +14731,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "0032",
@@ -14734,7 +14739,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "0033",
@@ -14742,7 +14747,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "0034",
@@ -14773,7 +14778,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19267,
+      "Progressed": 19270,
       "Completed": 4
     }
   ],
@@ -14781,8 +14786,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:08:18.3226899+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:06:46.4274944+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.2583913+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:58:38.579805+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:08:18.3228056+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:58:55.3206184+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:06:46.4275885+00:00"
 }

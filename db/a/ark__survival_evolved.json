@@ -2,13 +2,13 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -16542,10 +16542,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 283388,
       "NumberOfAwardsMax": 65514
+    },
+    {
+      "Time": "2024-01-06T16:59:36.9379011+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 283430,
+      "NumberOfAwardsMax": 65514
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 283388,
+  "NumberOfAwards": 283430,
   "NumberOfAwardsMax": 65514,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16565,7 +16571,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22790
+      "Count": 22805
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16601,13 +16607,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20556
+      "Count": 20574
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20549
+      "Count": 20558
     },
     {
       "Text": "This game has Diverse Characters",
@@ -16633,8 +16639,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-01-06T13:59:19.066187+00:00",
+  "LastChanged": "2024-01-06T16:59:36.9379009+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9997378+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:59:17.9565733+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:03:37.2756154+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:59:36.9379015+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:03:50.0732056+00:00"
 }

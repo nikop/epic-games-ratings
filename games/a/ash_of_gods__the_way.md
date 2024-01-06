@@ -20,8 +20,8 @@
 | Vene, vidi, vici | 15.00% | ~10 |
 | Rage | 15.00% | ~10 |
 | She-Wolf | 15.00% | ~10 |
+| Berkanan Borgia | 14.00% | ~9 |
 | Trial by cold | 14.00% | ~9 |
-| Berkanan Borgia | 12.00% | ~8 |
 | For the greater good | 11.00% | ~7 |
 | Overplay the rogue | 9.00% | ~6 |
 | The champion of the arena | 9.00% | ~6 |

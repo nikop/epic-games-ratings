@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 86.00% | ~244 |
-| A piece of the story | 64.00% | ~182 |
+| A piece of the story | 65.00% | ~185 |
 | It's covered up for a reason | 57.00% | ~162 |
 | Wanderer | 54.00% | ~153 |
 | Scraps of love | 50.00% | ~142 |
 | The artist’s impression | 48.00% | ~136 |
 | Do what you have to | 42.00% | ~119 |
 | Sign of weakness | 39.00% | ~111 |
-| Refuse to look | 35.00% | ~99 |
+| Refuse to look | 36.00% | ~102 |
 | Face your fears | 30.00% | ~85 |
 | Finished it | 25.00% | ~71 |
-| Whispers long forgotten | 15.00% | ~43 |
+| Whispers long forgotten | 16.00% | ~45 |
 | Sound Bite | 12.00% | ~34 |
 | The art of movement | 12.00% | ~34 |
 | A Slice of Life | 11.00% | ~31 |

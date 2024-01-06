@@ -1,7 +1,7 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.46 (Ranked 676)  
+Rating: 4.46 (Ranked 675)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,8 +9,8 @@ Rating: 4.46 (Ranked 676)
 | First Love | 44.00% | ~1,476 |
 | Clean Race | 44.00% | ~1,476 |
 | Hear That Roar! | 42.00% | ~1,409 |
+| Rivals to the End | 31.00% | ~1,040 |
 | Bitter Rivalry | 30.00% | ~1,006 |
-| Rivals to the End | 30.00% | ~1,006 |
 | Champagne Spray | 29.00% | ~973 |
 | We're Going to Need a Bigger Garage | 26.00% | ~872 |
 | Quick Pit Stop | 22.00% | ~738 |

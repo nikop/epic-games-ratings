@@ -5,28 +5,28 @@ Rating: 4.26 (Ranked 910)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 69.00% | ~583 |
-| Highballer | 53.00% | ~448 |
-| Dirty Roller | 33.00% | ~279 |
-| Regional Juniors Champion | 31.00% | ~262 |
-| Wheeler Dealer | 25.00% | ~211 |
-| Look Mom, I Can Fly | 23.00% | ~194 |
-| National Amateurs Champion | 18.00% | ~152 |
-| Hating Them Tin Cans | 15.00% | ~127 |
-| Junk Collector | 14.00% | ~118 |
-| Trashing Around | 14.00% | ~118 |
-| Challengers Champion | 10.00% | ~84 |
-| Pro Internationals Champion | 7.00% | ~59 |
-| Cash For Crashes | 7.00% | ~59 |
-| Showing Some Dedication | 3.00% | ~25 |
-| Maniac Driver | 3.00% | ~25 |
+| Storm Warning | 69.00% | ~587 |
+| Highballer | 53.00% | ~451 |
+| Dirty Roller | 32.00% | ~272 |
+| Regional Juniors Champion | 31.00% | ~264 |
+| Wheeler Dealer | 25.00% | ~213 |
+| Look Mom, I Can Fly | 23.00% | ~196 |
+| National Amateurs Champion | 18.00% | ~153 |
+| Hating Them Tin Cans | 15.00% | ~128 |
+| Junk Collector | 14.00% | ~119 |
+| Trashing Around | 14.00% | ~119 |
+| Challengers Champion | 10.00% | ~85 |
+| Cash For Crashes | 7.00% | ~60 |
+| Pro Internationals Champion | 6.00% | ~51 |
+| Showing Some Dedication | 3.00% | ~26 |
+| Maniac Driver | 3.00% | ~26 |
 | World Masters Champion | 2.00% | ~17 |
-| Garden Variety | 1.00% | ~8 |
+| Garden Variety | 1.00% | ~9 |
 | Glutton For Punishment | 0.60% | ~5 |
 | Human Lover | 0.60% | ~5 |
 | Rocketeer | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 845 (Ranked 304)  
+Progressed: 851 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 740 | 0 |
 | 2024-01-04 | 781 | 0 |
 | 2024-01-05 | 809 | 0 |
-| 2024-01-06 | 845 | 0 |
+| 2024-01-06 | 851 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

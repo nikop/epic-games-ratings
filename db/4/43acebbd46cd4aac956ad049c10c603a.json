@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -295,9 +295,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 1292,
+  "EOS_Progressed": 1293,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3670,6 +3670,11 @@
       "Time": "2024-01-06T15:05:07.7200546+00:00",
       "NumProgressed": 1292,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T17:05:32.397315+00:00",
+      "NumProgressed": 1293,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3722,7 +3727,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "BreakTheLoop",
@@ -3738,7 +3743,7 @@
       "Name": "Bridge Builder",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ChasingTheLight",
@@ -3818,7 +3823,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "GoodCitizen",
@@ -3826,7 +3831,7 @@
       "Name": "Good Citizen",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "GrasslandsRing",
@@ -3882,7 +3887,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "Mnemosyne",
@@ -3914,7 +3919,7 @@
       "Name": "A New Beginning",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "NewMorality",
@@ -3970,7 +3975,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "RenaissanceRobot",
@@ -4042,7 +4047,7 @@
       "Name": "The All-Gifted",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4088,9 +4093,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 478
     },
     {
       "ID": "TouchGrass",
@@ -4122,7 +4127,7 @@
       "Name": "Wanderers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "WesternDelta",
@@ -4153,7 +4158,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1292,
+      "Progressed": 1293,
       "Completed": 2
     }
   ],
@@ -4161,8 +4166,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-06T04:02:56.8031666+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:05:15.892526+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:05:32.3973147+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:12.5655067+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:05:15.892579+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:25.7046417+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:05:32.3973725+00:00"
 }

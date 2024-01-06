@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -61,8 +61,8 @@
   "Tags": [],
   "EOS_Progressed": 737,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 67,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 66,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.07,
   "EosHistory": [
     {
@@ -2324,9 +2324,9 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 656
     },
     {
       "ID": "ach_main01begin_die",
@@ -2556,9 +2556,9 @@
       "ID": "ach_main10fire_freehorde",
       "SetID": "4hg22ll",
       "Name": "Unstoppable Horde",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 258
     },
     {
       "ID": "ach_main10fire_naga",
@@ -2748,9 +2748,9 @@
       "ID": "ach_main18unholy_researches",
       "SetID": "4hg22ll",
       "Name": "To the Max!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 140
     },
     {
       "ID": "ach_main18unholy_training",
@@ -2821,8 +2821,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:09:12.6651358+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:09:21.8836502+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:16.2944904+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:09:12.6652051+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:28.8935786+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:09:21.8836981+00:00"
 }

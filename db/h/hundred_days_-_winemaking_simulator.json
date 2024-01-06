@@ -2,13 +2,13 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 822,
+  "Ranking_Rating": 823,
   "Ranking_Popularity": 295,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1111,7 +1111,7 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 19426,
+  "EOS_Progressed": 19436,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 1059,
   "EOS_NewCompleters": 0,
@@ -16331,6 +16331,11 @@
       "Time": "2024-01-06T16:09:42.5658006+00:00",
       "NumProgressed": 19426,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-06T17:09:52.2204979+00:00",
+      "NumProgressed": 19436,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -16343,7 +16348,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "a_10",
@@ -16391,7 +16396,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8353
+      "UsersEstimate": 8357
     },
     {
       "ID": "a_19",
@@ -16399,7 +16404,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "a_2",
@@ -16407,7 +16412,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "a_20",
@@ -16439,7 +16444,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "a_25",
@@ -16447,7 +16452,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "a_26",
@@ -16590,7 +16595,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 19426,
+      "Progressed": 19436,
       "Completed": 13
     }
   ],
@@ -16598,8 +16603,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-01T19:03:20.2476808+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:09:42.5658002+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:09:52.2204975+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.499135+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:42.7599776+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:09:42.5658965+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:56.2150432+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:09:52.220577+00:00"
 }

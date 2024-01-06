@@ -121,11 +121,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2469,
+  "EOS_Progressed": 2472,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 42,
-  "EOS_Completed_Percentage": 6.68,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6556,6 +6556,11 @@
       "Time": "2024-01-06T16:05:16.6125837+00:00",
       "NumProgressed": 2469,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2024-01-06T17:05:33.1396585+00:00",
+      "NumProgressed": 2472,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 25,
@@ -6567,7 +6572,7 @@
       "Name": "I did it",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "END_GOOD",
@@ -6583,7 +6588,7 @@
       "Name": "Peace walker",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6591,7 +6596,7 @@
       "Name": "Cable guy",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "META_FIRST_LINK",
@@ -6599,7 +6604,7 @@
       "Name": "A good beginning",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "META_HALF_LINK",
@@ -6607,7 +6612,7 @@
       "Name": "Half the way",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "META_RESULT_1-2",
@@ -6615,7 +6620,7 @@
       "Name": "Open door",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6623,7 +6628,7 @@
       "Name": "Free at last",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "META_RESULT_1-4",
@@ -6631,7 +6636,7 @@
       "Name": "Feels like springtime",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6655,7 +6660,7 @@
       "Name": "A Link to the Past",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -6671,7 +6676,7 @@
       "Name": "Rascal",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -6679,7 +6684,7 @@
       "Name": "True G3M4R",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -6687,7 +6692,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6711,7 +6716,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6719,7 +6724,7 @@
       "Name": "Scholar",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "PROGRESS_N1",
@@ -6727,7 +6732,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "PROGRESS_N2",
@@ -6735,7 +6740,7 @@
       "Name": "The great escape",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "PROGRESS_N3",
@@ -6743,15 +6748,15 @@
       "Name": "A new dawn",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 741
+      "UsersEstimate": 766
     },
     {
       "ID": "PROGRESS_N5",
@@ -6766,7 +6771,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2469,
+      "Progressed": 2472,
       "Completed": 165
     }
   ],
@@ -6774,8 +6779,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-06T05:57:38.338864+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:05:16.6125834+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:05:33.1396583+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:42.0263422+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:05:16.6126365+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:55.578893+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:05:33.1397186+00:00"
 }

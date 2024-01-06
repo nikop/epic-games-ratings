@@ -2,13 +2,13 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25051,
+  "EOS_Progressed": 25052,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8801,6 +8801,11 @@
       "Time": "2024-01-06T15:08:43.0667842+00:00",
       "NumProgressed": 25051,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-06T17:08:58.2123422+00:00",
+      "NumProgressed": 25052,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8962,9 +8967,9 @@
       "ID": "ACH_KILL_GIBLETS",
       "SetID": "cdkbb11",
       "Name": "Hardest Battle In The Game",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 752
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -9163,13 +9168,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25051,
+      "Progressed": 25052,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2344,
+      "Progressed": 2345,
       "Completed": 1376
     }
   ],
@@ -9177,8 +9182,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:08:49.2322073+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:08:58.2123418+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.3334267+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:09.7552176+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:08:49.2322661+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:23.1400952+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:08:58.2124029+00:00"
 }

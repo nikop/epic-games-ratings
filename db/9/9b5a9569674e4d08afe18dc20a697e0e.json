@@ -2,10 +2,10 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -659,6 +659,11 @@
       "Time": "2024-01-06T15:03:57.1157597+00:00",
       "NumProgressed": 165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T17:04:20.3502684+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -669,7 +674,7 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 100,
       "UsersEstimate": 134
     },
@@ -733,9 +738,9 @@
       "ID": "GAMBLER",
       "SetID": "40o4f14",
       "Name": "The Gambler",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "GENERAL",
@@ -799,7 +804,7 @@
       "Name": "Lover\u0027s dream",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "MERCENARY",
@@ -807,15 +812,15 @@
       "Name": "Mercenary",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MINES",
       "SetID": "40o4f14",
       "Name": "The mines",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "MIRROR",
@@ -829,9 +834,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 105
     },
     {
       "ID": "MOUNTAINEER",
@@ -887,15 +892,15 @@
       "Name": "A restless soul",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WASHING",
       "SetID": "40o4f14",
       "Name": "Needs washing",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "WITCH",
@@ -903,7 +908,7 @@
       "Name": "Resurrection",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "WYVERN",
@@ -911,21 +916,21 @@
       "Name": "Winged creature",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:04:05.6118817+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:04:20.350268+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.400694+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:50.3300778+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:04:05.6119058+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:58:04.4681178+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:04:20.3502984+00:00"
 }

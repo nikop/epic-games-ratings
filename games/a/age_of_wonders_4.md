@@ -1,14 +1,14 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 379)  
+Rating: 4.62 (Ranked 378)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 15.00% | ~1,044 |
+| Secret Technique | 15.00% | ~1,045 |
 | Realm Estate | 13.00% | ~905 |
-| A Wonderful Discovery | 12.00% | ~835 |
-| Walls Cannot Stop Us | 12.00% | ~835 |
+| A Wonderful Discovery | 12.00% | ~836 |
+| Walls Cannot Stop Us | 12.00% | ~836 |
 | From Friends to Family | 11.00% | ~766 |
 | Bone Peddler | 9.00% | ~627 |
 | Magical Synergy | 8.00% | ~557 |
@@ -20,12 +20,12 @@ Rating: 4.62 (Ranked 379)
 | Intimidation Tactics | 6.00% | ~418 |
 | Valley of Wonders | 5.00% | ~348 |
 | But this one is mine | 5.00% | ~348 |
-| Return of the Wizard King | 4.00% | ~278 |
-| Enchanted Archipelago | 4.00% | ~278 |
-| Digging for Treasure | 4.00% | ~278 |
-| My Final Form | 4.00% | ~278 |
-| Against the Odds | 4.00% | ~278 |
-| Impenetrable Fortress | 4.00% | ~278 |
+| Return of the Wizard King | 4.00% | ~279 |
+| Enchanted Archipelago | 4.00% | ~279 |
+| Digging for Treasure | 4.00% | ~279 |
+| My Final Form | 4.00% | ~279 |
+| Against the Odds | 4.00% | ~279 |
+| Impenetrable Fortress | 4.00% | ~279 |
 | Preparation Is Everything | 3.00% | ~209 |
 | Fiery Friend | 3.00% | ~209 |
 | Tipping the Scales | 3.00% | ~209 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,962 (Ranked 196)  
+Progressed: 6,964 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
-| 2024-01-06 | 6,962 | 7 |
+| 2024-01-06 | 6,964 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 210 (Ranked 411)  

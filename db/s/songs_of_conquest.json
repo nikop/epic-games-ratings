@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1019,
+  "EOS_Progressed": 1021,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3600,6 +3600,11 @@
       "Time": "2024-01-06T16:09:14.6528034+00:00",
       "NumProgressed": 1019,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T17:09:23.9579422+00:00",
+      "NumProgressed": 1021,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3714,9 +3719,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 235
     },
     {
       "ID": "Deepstrike",
@@ -3940,7 +3945,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "WielderLevel2",
@@ -3948,7 +3953,7 @@
       "Name": "Veteran",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "WielderLevel3",
@@ -4043,15 +4048,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1019,
+      "Progressed": 1021,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:09:14.652803+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:09:23.9579419+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:59:03.6475242+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:09:14.6529048+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:59:20.9804453+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:09:23.9579892+00:00"
 }

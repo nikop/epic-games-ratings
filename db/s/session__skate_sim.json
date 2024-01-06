@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1357,9 +1357,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 3559,
+  "EOS_Progressed": 3561,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7587,6 +7587,11 @@
       "Time": "2024-01-06T16:08:21.1638965+00:00",
       "NumProgressed": 3559,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T17:06:49.4810734+00:00",
+      "NumProgressed": 3561,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7902,7 +7907,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -7966,7 +7971,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -7974,22 +7979,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3559,
+      "Progressed": 3561,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-06T04:00:44.5663276+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:08:21.1638956+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:06:49.4810729+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.5643959+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:59:44.0447669+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:08:21.1639546+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:00:04.1032505+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:06:49.4811336+00:00"
 }

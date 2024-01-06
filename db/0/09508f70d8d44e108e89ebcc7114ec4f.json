@@ -4,8 +4,8 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 528,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.67,
+  "EOS_Completed_Percentage": 2.66,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -1564,6 +1564,11 @@
       "Time": "2023-12-31T18:09:11.3345962+00:00",
       "NumProgressed": 450,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-06T17:09:39.0264958+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -1583,15 +1588,15 @@
       "Name": "Balloon",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "big_house",
       "SetID": "ap7g2g4",
       "Name": "Big House",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 311
     },
     {
       "ID": "brewery",
@@ -1599,7 +1604,7 @@
       "Name": "Brewery",
       "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "church",
@@ -1607,7 +1612,7 @@
       "Name": "Church",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "circus",
@@ -1615,7 +1620,7 @@
       "Name": "Circus",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "expedition",
@@ -1623,7 +1628,7 @@
       "Name": "Expedition",
       "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "fish_trade",
@@ -1655,7 +1660,7 @@
       "Name": "Hope farm",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "marketplace",
@@ -1663,7 +1668,7 @@
       "Name": "Marketplace",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "match_12",
@@ -1679,7 +1684,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "match_6",
@@ -1687,7 +1692,7 @@
       "Name": "Match 6",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "match_9",
@@ -1695,7 +1700,7 @@
       "Name": "Match 9",
       "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "mill",
@@ -1703,7 +1708,7 @@
       "Name": "Mill",
       "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "sawmill",
@@ -1711,7 +1716,7 @@
       "Name": "Sawmill",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "seaweed_farm",
@@ -1766,14 +1771,14 @@
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:09:29.2339048+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:09:39.0264953+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.3144489+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:03:04.7070778+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:09:29.2339617+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:03:12.7742792+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:09:39.0265171+00:00"
 }

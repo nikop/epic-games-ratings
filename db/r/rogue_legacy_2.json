@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1578,9 +1578,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27833,
+  "EOS_Progressed": 27839,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -13243,6 +13243,11 @@
       "Time": "2024-01-06T16:09:59.3341836+00:00",
       "NumProgressed": 27833,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-06T17:10:09.4278261+00:00",
+      "NumProgressed": 27839,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13326,7 +13331,7 @@
       "Name": "For Glory",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "BossCastleDefeated",
@@ -13342,7 +13347,7 @@
       "Name": "For Wrath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "BossCaveDefeated",
@@ -13406,7 +13411,7 @@
       "Name": "For Love",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "BossStudyDefeated",
@@ -13422,7 +13427,7 @@
       "Name": "For Pride",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "BossTowerDefeated",
@@ -13446,7 +13451,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "EndTimerFail",
@@ -13526,7 +13531,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "StoryTutorial",
@@ -13534,7 +13539,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TitleDrop",
@@ -13558,28 +13563,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27833,
+      "Progressed": 27839,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6763,
+      "Progressed": 6769,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-05T17:59:53.3686411+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:09:59.334183+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:10:09.4278255+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:59:15.6384256+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:09:59.3342565+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:59:33.4268614+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:10:09.4279143+00:00"
 }

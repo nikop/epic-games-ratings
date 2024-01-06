@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~302 |
+| Seeds of War | 82.00% | ~306 |
 | First Blood | 64.00% | ~239 |
 | Triple Kill | 63.00% | ~235 |
 | Aspairagus | 60.00% | ~194 |

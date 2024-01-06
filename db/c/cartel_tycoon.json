@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,7 +307,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 962,
+  "EOS_Progressed": 963,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -3427,6 +3427,11 @@
       "Time": "2024-01-06T16:04:48.0012422+00:00",
       "NumProgressed": 962,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T17:05:03.537962+00:00",
+      "NumProgressed": 963,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3486,7 +3491,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "kill-lieutenants",
@@ -3502,7 +3507,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "play-at-night",
@@ -3526,7 +3531,7 @@
       "Name": "Bad Trip",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "rename-lieutenant",
@@ -3558,7 +3563,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "unlock-residences",
@@ -3574,7 +3579,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "use-submarine",
@@ -3589,15 +3594,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 962,
+      "Progressed": 963,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:04:48.0012419+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:05:03.5379615+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:03:00.3152654+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:04:48.0012639+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:03:08.2317175+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:05:03.5379879+00:00"
 }

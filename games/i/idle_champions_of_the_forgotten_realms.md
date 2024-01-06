@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,080 |
+| A Brief Tour of the Realms | 4.00% | ~10,081 |
 | The Cursed Farmer | 2.00% | ~5,040 |
 | Beast Intentions | 1.00% | ~2,520 |
 | The Mad Wizard | 1.00% | ~2,520 |
@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.20% | ~504 |
 | Invisible Shadows | 0.20% | ~504 |
 | The Dinner Party | 0.20% | ~504 |
+| The Botched Kidnapping | 0.20% | ~504 |
 | The Death Curse | 0.20% | ~504 |
 | Premature Betrayal | 0.20% | ~504 |
 | A Tale of Two Cities | 0.20% | ~504 |
@@ -225,7 +226,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.10% | ~252 |
 | Modron Assistance | 0.10% | ~252 |
 | Thine Bounty is Mine! | 0.10% | ~218 |
-| The Botched Kidnapping | 0.10% | ~252 |
 | Haaave You Met Asmodeus? | 0.10% | ~252 |
 | Domesticated Owlbears | 0.10% | ~252 |
 | This Quest Stinks! | 0.10% | ~218 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,010 (Ranked 70)  
-Completed: 2,598 (1.03%) (Ranked 172)  
+Progressed: 252,025 (Ranked 70)  
+Completed: 2,599 (1.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -814,7 +814,7 @@ Completed: 2,598 (1.03%) (Ranked 172)
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
-| 2024-01-06 | 252,010 | 2,598 |
+| 2024-01-06 | 252,025 | 2,599 |
 ## Awards
 Max (Great for Beginners): 5,756  (Ranked 73)  
 Sum: 33,356 (Ranked 41)  

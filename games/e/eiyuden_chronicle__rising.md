@@ -1,7 +1,7 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.50 (Ranked 614)  
+Rating: 4.50 (Ranked 613)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -57,7 +57,7 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 7.00% | ~56 |
 | Rising Champion | 6.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 794 (Ranked 309)  
+Progressed: 794 (Ranked 310)  
 Completed: 60 (7.56%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |

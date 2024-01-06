@@ -1,17 +1,17 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.13 (Ranked 1,006)  
+Rating: 4.13 (Ranked 1,007)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 61.00% | ~1,161 |
-| Trinity | 29.00% | ~552 |
-| A Taste of Wrath | 23.00% | ~438 |
-| I Found It | 23.00% | ~438 |
-| The Collector | 23.00% | ~438 |
-| Find Allies | 22.00% | ~419 |
-| Shatter Them All | 22.00% | ~419 |
+| Break Out | 61.00% | ~1,163 |
+| Trinity | 29.00% | ~553 |
+| A Taste of Wrath | 23.00% | ~439 |
+| I Found It | 23.00% | ~439 |
+| The Collector | 23.00% | ~439 |
+| Find Allies | 22.00% | ~420 |
+| Shatter Them All | 22.00% | ~420 |
 | Adventurer | 21.00% | ~400 |
 | Geared Up | 21.00% | ~400 |
 | Fashion Victim | 21.00% | ~400 |
@@ -19,11 +19,11 @@ Rating: 4.13 (Ranked 1,006)
 | Tributes of Caladrias | 19.00% | ~362 |
 | Stone Collection | 19.00% | ~362 |
 | Powerful Allies | 18.00% | ~343 |
-| Big Bazar | 13.00% | ~247 |
-| Essence Blow | 12.00% | ~228 |
-| Alchemist | 12.00% | ~228 |
-| The Mentor | 10.00% | ~190 |
-| Calm before the Storm | 9.00% | ~171 |
+| Big Bazar | 13.00% | ~248 |
+| Essence Blow | 12.00% | ~229 |
+| Alchemist | 12.00% | ~229 |
+| The Mentor | 10.00% | ~191 |
+| Calm before the Storm | 9.00% | ~172 |
 | To Battle | 7.00% | ~133 |
 | Godslayer | 7.00% | ~133 |
 | Airborne | 7.00% | ~133 |
@@ -42,7 +42,7 @@ Rating: 4.13 (Ranked 1,006)
 | All That Gold | 0.70% | ~13 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,903 (Ranked 251)  
+Progressed: 1,907 (Ranked 250)  
 Completed: 3 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 3 (0.16%) (Ranked 281)
 | 2024-01-03 | 1,735 | 3 |
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
-| 2024-01-06 | 1,903 | 3 |
+| 2024-01-06 | 1,907 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

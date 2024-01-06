@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5439,9 +5439,9 @@
       "Count": 537
     }
   ],
-  "EOS_Progressed": 93120,
+  "EOS_Progressed": 93126,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30549,6 +30549,11 @@
       "Time": "2024-01-06T16:06:02.3069282+00:00",
       "NumProgressed": 93120,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-06T17:06:20.7608148+00:00",
+      "NumProgressed": 93126,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30568,7 +30573,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_0012",
@@ -30576,7 +30581,7 @@
       "Name": "Roid Ranger",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_0013",
@@ -30616,7 +30621,7 @@
       "Name": "Rockay Raider",
       "Percentage": 0.4,
       "XP": 55,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_0022",
@@ -30720,7 +30725,7 @@
       "Name": "Groundhog Days",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_0220",
@@ -30744,7 +30749,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_0330",
@@ -30776,7 +30781,7 @@
       "Name": "Case Closed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_0420",
@@ -30784,7 +30789,7 @@
       "Name": "King of the Hill",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_0430",
@@ -30800,7 +30805,7 @@
       "Name": "Classy Joint",
       "Percentage": 0.4,
       "XP": 55,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_0440",
@@ -30816,7 +30821,7 @@
       "Name": "Off the Rocks",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_0451",
@@ -30824,7 +30829,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_0452",
@@ -30832,7 +30837,7 @@
       "Name": "Dragonslayer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_0460",
@@ -30848,7 +30853,7 @@
       "Name": "Rockay Rex",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_1010",
@@ -30887,13 +30892,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93120,
+      "Progressed": 93126,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21467,
+      "Progressed": 21473,
       "Completed": 15596
     }
   ],
@@ -30901,8 +30906,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-06T14:58:19.3761357+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:06:02.3069279+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:06:20.7608144+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:58:29.4112321+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:06:02.3070561+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:58:45.7100521+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:06:20.7609356+00:00"
 }

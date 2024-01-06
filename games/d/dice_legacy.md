@@ -1,7 +1,7 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.29 (Ranked 877)  
+Rating: 4.29 (Ranked 879)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,10 +17,10 @@ Rating: 4.29 (Ranked 877)
 | Hidden Secrets | 5.00% | ~66 |
 | The Stranded King | 5.00% | ~66 |
 | Accepting the Prophecy | 5.00% | ~66 |
-| Just Chilling | 4.00% | ~52 |
-| Ascended | 4.00% | ~52 |
-| Incredible Strength | 4.00% | ~52 |
-| Prophecy Fulfilled | 4.00% | ~52 |
+| Just Chilling | 4.00% | ~53 |
+| Ascended | 4.00% | ~53 |
+| Incredible Strength | 4.00% | ~53 |
+| Prophecy Fulfilled | 4.00% | ~53 |
 | The Greedy Ones | 3.00% | ~39 |
 | The First King | 2.00% | ~26 |
 | The great fire | 2.00% | ~26 |
@@ -28,8 +28,8 @@ Rating: 4.29 (Ranked 877)
 | The Council | 1.00% | ~13 |
 | The Mad | 1.00% | ~13 |
 | Like the dream | 1.00% | ~13 |
-| Charismatic Leader | 0.80% | ~10 |
-| Metropolis | 0.80% | ~10 |
+| Charismatic Leader | 0.80% | ~11 |
+| Metropolis | 0.80% | ~11 |
 | Knowledge is Power | 0.70% | ~9 |
 | Red Tape | 0.60% | ~8 |
 | Six Faces | 0.50% | ~7 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 877)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,312 (Ranked 275)  
+Progressed: 1,313 (Ranked 275)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 1,295 | 0 |
 | 2024-01-04 | 1,304 | 0 |
 | 2024-01-05 | 1,308 | 0 |
-| 2024-01-06 | 1,312 | 0 |
+| 2024-01-06 | 1,313 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

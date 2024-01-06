@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~272 |
-| Starting Skyward | 49.00% | ~242 |
-| Grime is Not Good | 43.00% | ~212 |
-| Floor Galore | 37.00% | ~183 |
-| Campaign Launch | 36.00% | ~178 |
-| Dinner Dash | 36.00% | ~178 |
-| Need a Consult | 34.00% | ~168 |
-| Upgrade Unlock | 33.00% | ~163 |
-| It's Technical | 33.00% | ~163 |
-| Proper Walls | 29.00% | ~143 |
-| Delegate Maintenance | 29.00% | ~143 |
-| Destination Destiny | 28.00% | ~138 |
+| In the Black | 55.00% | ~273 |
+| Starting Skyward | 49.00% | ~243 |
+| Grime is Not Good | 42.00% | ~208 |
+| Floor Galore | 37.00% | ~184 |
+| Campaign Launch | 36.00% | ~179 |
+| Dinner Dash | 36.00% | ~179 |
+| Need a Consult | 34.00% | ~169 |
+| Upgrade Unlock | 33.00% | ~164 |
+| It's Technical | 33.00% | ~164 |
+| Proper Walls | 29.00% | ~144 |
+| Delegate Maintenance | 29.00% | ~144 |
+| Destination Destiny | 28.00% | ~139 |
 | Happy Tenants | 23.00% | ~114 |
 | Potent Potables | 23.00% | ~114 |
 | Smooth Service | 22.00% | ~109 |
@@ -35,14 +35,14 @@
 | Under One Roof | 14.00% | ~69 |
 | Cashflow Chief | 14.00% | ~69 |
 | Starred Dining | 13.00% | ~64 |
-| Smooth Operator | 11.00% | ~54 |
-| Boutique Benefits | 11.00% | ~54 |
-| Terrifically Trashed | 11.00% | ~54 |
-| Thrilled Tenants | 11.00% | ~54 |
-| 28 Days Later | 10.00% | ~49 |
-| Aestheticly Pleased | 9.00% | ~44 |
-| Swimming in Surplus | 9.00% | ~44 |
-| Refined Palates | 9.00% | ~44 |
+| Smooth Operator | 11.00% | ~55 |
+| Boutique Benefits | 11.00% | ~55 |
+| Thrilled Tenants | 11.00% | ~55 |
+| 28 Days Later | 10.00% | ~50 |
+| Terrifically Trashed | 10.00% | ~50 |
+| Aestheticly Pleased | 9.00% | ~45 |
+| Swimming in Surplus | 9.00% | ~45 |
+| Refined Palates | 9.00% | ~45 |
 | Plaza Plan | 8.00% | ~40 |
 | Master of Puppets | 8.00% | ~40 |
 | First 100 Days | 7.00% | ~35 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494 (Ranked 347)  
+Progressed: 496 (Ranked 347)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 486 | 0 |
 | 2024-01-04 | 490 | 0 |
 | 2024-01-05 | 492 | 0 |
-| 2024-01-06 | 494 | 0 |
+| 2024-01-06 | 496 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

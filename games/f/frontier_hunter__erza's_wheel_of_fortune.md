@@ -8,7 +8,7 @@ Rating: 4.38 (Ranked 790)
 | Travel Streamer | 93.00% | ~671 |
 | Training Simulation | 79.00% | ~570 |
 | Kuku Bird Hunter | 65.00% | ~469 |
-| Storm Traveller | 59.00% | ~426 |
+| Storm Traveller | 60.00% | ~433 |
 | Wolf King Killer | 54.00% | ~390 |
 | Fashion Connoisseur | 52.00% | ~375 |
 | Arms Mechanic | 48.00% | ~347 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 790)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722 (Ranked 316)  
+Progressed: 722 (Ranked 317)  
 Completed: 3 (0.42%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |

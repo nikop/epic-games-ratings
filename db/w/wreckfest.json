@@ -5,10 +5,10 @@
   "Ranking_Rating": 910,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 845,
+  "EOS_Progressed": 851,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2174,6 +2174,11 @@
       "Time": "2024-01-06T16:08:56.2508784+00:00",
       "NumProgressed": 845,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T17:09:05.2452337+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2186,7 +2191,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 196
     },
     {
       "ID": "CareerAllChallenges",
@@ -2194,7 +2199,7 @@
       "Name": "Highballer",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 448
+      "UsersEstimate": 451
     },
     {
       "ID": "CareerChamp1",
@@ -2202,7 +2207,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 264
     },
     {
       "ID": "CareerChamp2",
@@ -2210,7 +2215,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "CareerChamp3",
@@ -2218,15 +2223,15 @@
       "Name": "Challengers Champion",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CareerChamp4",
       "SetID": "5hd282c",
       "Name": "Pro Internationals Champion",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 59
+      "UsersEstimate": 51
     },
     {
       "ID": "CareerComplete",
@@ -2242,7 +2247,7 @@
       "Name": "Storm Warning",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 583
+      "UsersEstimate": 587
     },
     {
       "ID": "CollectVehiclesA",
@@ -2250,7 +2255,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 213
     },
     {
       "ID": "CollectVehiclesB",
@@ -2258,7 +2263,7 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "CreditsEarnedA",
@@ -2266,7 +2271,7 @@
       "Name": "Cash For Crashes",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "GetWreckedA",
@@ -2282,7 +2287,7 @@
       "Name": "Garden Variety",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MultiplayerEventsWonA",
@@ -2296,9 +2301,9 @@
       "ID": "PlayerRankA",
       "SetID": "5hd282c",
       "Name": "Dirty Roller",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 272
     },
     {
       "ID": "PlayerRankB",
@@ -2306,7 +2311,7 @@
       "Name": "Trashing Around",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "PlayerRankC",
@@ -2314,7 +2319,7 @@
       "Name": "Showing Some Dedication",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "RocketSpeedReached",
@@ -2330,7 +2335,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "WreckOpponentsBus",
@@ -2338,14 +2343,14 @@
       "Name": "Maniac Driver",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 845,
+      "Progressed": 851,
       "Completed": 0
     }
   ],
@@ -2353,8 +2358,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-04T23:58:04.2803928+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:08:56.2508782+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:09:05.2452326+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:58:22.9412866+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:08:56.2508969+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:58:38.8297849+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:09:05.2452588+00:00"
 }

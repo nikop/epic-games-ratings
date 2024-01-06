@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.45,
+  "EOS_Completed_Percentage": 5.42,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1004,6 +1004,11 @@
       "Time": "2024-01-06T16:06:16.1766044+00:00",
       "NumProgressed": 202,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-06T17:06:34.7856678+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1024,7 +1029,7 @@
       "Name": "Cicadas",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Destilat",
@@ -1056,7 +1061,7 @@
       "Name": "Mushrooms",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Jing",
@@ -1080,7 +1085,7 @@
       "Name": "Spiral Smoke",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "KrabiPyramida",
@@ -1096,15 +1101,15 @@
       "Name": "Knife",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "MluviciPapouch",
@@ -1136,7 +1141,7 @@
       "Name": "Liana Bats",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Pejsek",
@@ -1192,7 +1197,7 @@
       "Name": "Sputnik",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Stonozka",
@@ -1200,7 +1205,7 @@
       "Name": "Centipede",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Strom",
@@ -1216,7 +1221,7 @@
       "Name": "Saint Termite",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Truhlice",
@@ -1232,7 +1237,7 @@
       "Name": "Rockheads",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Zelvak",
@@ -1255,14 +1260,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:06:16.176604+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:06:34.7856673+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:03:03.2504411+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:06:16.1766269+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:03:11.0124162+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:06:34.7857179+00:00"
 }

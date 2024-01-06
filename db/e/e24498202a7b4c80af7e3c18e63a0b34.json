@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8379,
+  "EOS_Progressed": 8380,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -9369,6 +9369,11 @@
       "Time": "2024-01-06T16:05:44.7536208+00:00",
       "NumProgressed": 8379,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-06T17:06:02.3925162+00:00",
+      "NumProgressed": 8380,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9397,7 +9402,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 5446
+      "UsersEstimate": 5447
     },
     {
       "ID": "achievement_01_04",
@@ -9405,7 +9410,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6284
+      "UsersEstimate": 6285
     },
     {
       "ID": "achievement_01_05",
@@ -9421,7 +9426,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5027
+      "UsersEstimate": 5028
     },
     {
       "ID": "achievement_01_07",
@@ -9429,7 +9434,7 @@
       "Name": "Car Workshop",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3520
     },
     {
       "ID": "achievement_01_08",
@@ -9437,7 +9442,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6284
+      "UsersEstimate": 6285
     },
     {
       "ID": "achievement_01_09",
@@ -9453,7 +9458,7 @@
       "Name": "Beat the Clock",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "achievement_02_01",
@@ -9491,9 +9496,9 @@
       "ID": "achievement_02_05",
       "SetID": "4f1m94d",
       "Name": "Fully Upgraded",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2346
     },
     {
       "ID": "achievement_02_06",
@@ -9661,7 +9666,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "achievement_04_08",
@@ -9669,7 +9674,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7290
+      "UsersEstimate": 7291
     },
     {
       "ID": "achievement_04_09",
@@ -9677,14 +9682,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8379,
+      "Progressed": 8380,
       "Completed": 49
     }
   ],
@@ -9692,8 +9697,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-04T12:00:05.3344486+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:05:44.7536203+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:06:02.3925157+00:00",
   "LastUpdate_AppInfo": "2024-01-05T01:43:58.6689875+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:32.424099+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:05:44.7536771+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:45.7326131+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:06:02.3926141+00:00"
 }

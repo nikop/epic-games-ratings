@@ -9367,10 +9367,10 @@
       "Count": 3628
     }
   ],
-  "EOS_Progressed": 252010,
-  "EOS_Completed": 2598,
-  "EOS_NewPlayers": 4363,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 252025,
+  "EOS_Completed": 2599,
+  "EOS_NewPlayers": 4333,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -38952,6 +38952,11 @@
       "Time": "2024-01-06T16:10:15.3407275+00:00",
       "NumProgressed": 252010,
       "NumCompleted": 2598
+    },
+    {
+      "Time": "2024-01-06T17:10:25.8481565+00:00",
+      "NumProgressed": 252025,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 546,
@@ -38963,7 +38968,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10080
+      "UsersEstimate": 10081
     },
     {
       "ID": "objective_completed_10",
@@ -40409,9 +40414,9 @@
       "ID": "objective_completed_235",
       "SetID": "cc37lbc",
       "Name": "The Botched Kidnapping",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 504
     },
     {
       "ID": "objective_completed_236",
@@ -43330,21 +43335,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218284,
-      "Completed": 4138
+      "Progressed": 218299,
+      "Completed": 4139
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252010,
-      "Completed": 2598
+      "Progressed": 252025,
+      "Completed": 2599
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-06T14:59:42.0909962+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:10:15.340727+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:10:25.8481561+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:59:48.9280799+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:10:15.3431934+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:00:08.6014736+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:10:25.8507384+00:00"
 }

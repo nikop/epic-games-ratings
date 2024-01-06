@@ -2,10 +2,10 @@
   "ID": "078713096df541f58f5fc4032efeeb2d",
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -424,6 +424,11 @@
       "Time": "2024-01-06T12:06:56.2940865+00:00",
       "NumProgressed": 85,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T17:05:56.237065+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:05:23.4224547+00:00",
@@ -450,17 +455,17 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "creepytale3_ach_12",
       "SetID": "7idcjbn",
       "Name": "Exchange of pleasantries",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "creepytale3_ach_14",
@@ -474,15 +479,15 @@
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 27
     },
@@ -530,7 +535,7 @@
       "ID": "creepytale3_ach_22",
       "SetID": "7idcjbn",
       "Name": "Sadomasochist",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -586,7 +591,7 @@
       "ID": "creepytale3_ach_32",
       "SetID": "7idcjbn",
       "Name": "Classic",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -602,7 +607,7 @@
       "ID": "creepytale3_ach_34",
       "SetID": "7idcjbn",
       "Name": "Harvest",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -618,7 +623,7 @@
       "ID": "creepytale3_ach_36",
       "SetID": "7idcjbn",
       "Name": "Why are there so many keys here?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -658,15 +663,15 @@
       "ID": "creepytale3_ach_5",
       "SetID": "7idcjbn",
       "Name": "Bloodthirsty",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "creepytale3_ach_6",
       "SetID": "7idcjbn",
       "Name": "Let me sleep!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -690,7 +695,7 @@
       "ID": "creepytale3_ach_9",
       "SetID": "7idcjbn",
       "Name": "Curiosity",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 3
     }
@@ -699,14 +704,14 @@
     {
       "ID": "7idcjbn",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:05:39.0619592+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:05:56.2370644+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:05.980712+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:37.1167148+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:05:39.0619809+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:50.7968826+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:05:56.2370867+00:00"
 }

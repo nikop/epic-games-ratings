@@ -1,21 +1,21 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.51 (Ranked 592)  
+Rating: 4.51 (Ranked 591)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,477 |
-| Jeef Skeejj | 44.00% | ~208,318 |
-| Careful planning | 39.00% | ~184,646 |
-| Second Coming | 34.00% | ~160,973 |
-| Jeef Skagg | 30.00% | ~142,035 |
-| Mother | 25.00% | ~118,362 |
-| In space, no one can hear you scream | 24.00% | ~113,628 |
-| Chapter I: Echoes | 22.00% | ~104,159 |
-| Excelsior Rule | 22.00% | ~104,159 |
-| Things persisted in not being what they seemed | 20.00% | ~94,690 |
+| The Shutdown | 66.00% | ~312,480 |
+| Jeef Skeejj | 44.00% | ~208,320 |
+| Careful planning | 39.00% | ~184,647 |
+| Second Coming | 34.00% | ~160,974 |
+| Jeef Skagg | 30.00% | ~142,036 |
+| Mother | 25.00% | ~118,364 |
+| In space, no one can hear you scream | 24.00% | ~113,629 |
+| Chapter I: Echoes | 22.00% | ~104,160 |
+| Excelsior Rule | 22.00% | ~104,160 |
+| Things persisted in not being what they seemed | 20.00% | ~94,691 |
 | Knightmare Frames | 15.00% | ~71,018 |
 | May His passing cleanse the world | 15.00% | ~71,018 |
 | Chapter II: Fallible Flesh | 15.00% | ~71,018 |
@@ -45,17 +45,17 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,407 |
 | The Crazy Repairman | 6.00% | ~28,407 |
 | The Weasel | 6.00% | ~28,407 |
-| Kill the Doctor | 5.00% | ~23,672 |
-| Forsaken | 5.00% | ~23,672 |
-| Mercy | 5.00% | ~23,672 |
-| Jericho Rule | 5.00% | ~23,672 |
+| Kill the Doctor | 5.00% | ~23,673 |
+| Forsaken | 5.00% | ~23,673 |
+| Mercy | 5.00% | ~23,673 |
+| Jericho Rule | 5.00% | ~23,673 |
 | Geno Rule | 3.00% | ~14,204 |
 | Hammer Rule | 3.00% | ~14,204 |
 | Survivor | 2.00% | ~9,469 |
-| A Rock in the Dark | 1.00% | ~4,734 |
-| Emperor of Misery | 1.00% | ~4,734 |
-| A Frozen Lady | 1.00% | ~4,734 |
-| Void Rule | 1.00% | ~4,734 |
+| A Rock in the Dark | 1.00% | ~4,735 |
+| Emperor of Misery | 1.00% | ~4,735 |
+| A Frozen Lady | 1.00% | ~4,735 |
+| Void Rule | 1.00% | ~4,735 |
 | Excelsior Mastery | 0.90% | ~4,261 |
 | Hand of the Emperor | 0.70% | ~122 |
 | The greatest admiral of all time | 0.50% | ~2,367 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,450 (Ranked 45)  
+Progressed: 473,454 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 21 (0.00%) (Ranked 393)
 | 2024-01-03 | 473,310 | 21 |
 | 2024-01-04 | 473,369 | 21 |
 | 2024-01-05 | 473,412 | 21 |
-| 2024-01-06 | 473,450 | 21 |
+| 2024-01-06 | 473,454 | 21 |
 ## Awards
 Max (Character Customization): 229  (Ranked 284)  
 Sum: 253 (Ranked 397)  

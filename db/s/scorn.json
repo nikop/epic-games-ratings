@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -221,11 +221,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2906,
+  "EOS_Progressed": 2908,
   "EOS_Completed": 201,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.92,
+  "EOS_Completed_Percentage": 6.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -4926,6 +4926,11 @@
       "Time": "2024-01-06T14:06:12.1240009+00:00",
       "NumProgressed": 2906,
       "NumCompleted": 201
+    },
+    {
+      "Time": "2024-01-06T17:06:34.5656159+00:00",
+      "NumProgressed": 2908,
+      "NumCompleted": 201
     }
   ],
   "TotalAchievements": 12,
@@ -4953,7 +4958,7 @@
       "Name": "003",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "004",
@@ -5032,7 +5037,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2906,
+      "Progressed": 2908,
       "Completed": 201
     }
   ],
@@ -5040,8 +5045,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-12-26T13:00:53.8529115+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:06:15.9164124+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:06:34.5656154+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.8154186+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:59:30.9131407+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:06:15.9164419+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:59:49.742577+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:06:34.5656488+00:00"
 }

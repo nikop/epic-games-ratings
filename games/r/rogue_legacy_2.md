@@ -8,7 +8,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | ---- | ---------- | ----- |
 | Spells and Swords | 6.00% | ~1,670 |
 | Captain and Crew | 5.00% | ~1,392 |
-| No Harm in Looking | 4.00% | ~1,113 |
+| No Harm in Looking | 4.00% | ~1,114 |
 | Harvest and Home | 3.00% | ~835 |
 | Poise and Poisons | 3.00% | ~835 |
 | Hands and Hammers | 2.00% | ~557 |
@@ -16,7 +16,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Progenitor and Protégé | 2.00% | ~557 |
 | Suns and Soldiers | 2.00% | ~557 |
 | Prequel to the Sequel | 1.00% | ~278 |
-| For Glory | 0.90% | ~250 |
+| For Glory | 0.90% | ~251 |
 | Truly Blessed | 0.70% | ~195 |
 | Pillow Investments | 0.70% | ~195 |
 | Looks Familiar | 0.70% | ~195 |
@@ -25,12 +25,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Survival | 0.50% | ~139 |
 | K.O. | 0.40% | ~111 |
 | Jack of all Trades | 0.40% | ~111 |
-| For Wrath | 0.30% | ~83 |
-| For Love | 0.30% | ~83 |
-| For Pride | 0.30% | ~83 |
-| Just the Beginning | 0.30% | ~83 |
-| Wasted Betrayal | 0.30% | ~83 |
-| Color Coordination | 0.30% | ~83 |
+| For Wrath | 0.30% | ~84 |
+| For Love | 0.30% | ~84 |
+| For Pride | 0.30% | ~84 |
+| Just the Beginning | 0.30% | ~84 |
+| Wasted Betrayal | 0.30% | ~84 |
+| Color Coordination | 0.30% | ~84 |
 | Black-shoppe | 0.20% | ~56 |
 | For Greed | 0.20% | ~56 |
 | For Penance | 0.20% | ~56 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,833 (Ranked 144)  
+Progressed: 27,839 (Ranked 144)  
 Completed: 35 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 35 (0.13%) (Ranked 298)
 | 2024-01-03 | 27,609 | 35 |
 | 2024-01-04 | 27,682 | 35 |
 | 2024-01-05 | 27,769 | 35 |
-| 2024-01-06 | 27,833 | 35 |
+| 2024-01-06 | 27,839 | 35 |
 ## Awards
 Max (Extremely Fun): 227  (Ranked 287)  
 Sum: 1,721 (Ranked 227)  

@@ -15,19 +15,19 @@
 | Tough Decision | 18.00% | ~26 |
 | Veteran Sniper | 17.00% | ~25 |
 | The Neuro-connector | 17.00% | ~25 |
+| Unstoppable | 16.00% | ~24 |
 | Flatline | 16.00% | ~24 |
 | Mind Over Matter | 16.00% | ~24 |
-| Unstoppable | 15.00% | ~22 |
-| Full and Final Settlement | 14.00% | ~21 |
-| One Click Away | 14.00% | ~21 |
+| Full and Final Settlement | 15.00% | ~22 |
+| One Click Away | 15.00% | ~22 |
 | Cyborg | 10.00% | ~15 |
 | Lifter | 8.00% | ~12 |
 | Brain-hacker | 7.00% | ~10 |
 | Gravity Bender | 7.00% | ~10 |
 | Hunter | 4.00% | ~6 |
-| Zero Gravity | 3.00% | ~4 |
+| Zero Gravity | 4.00% | ~6 |
+| A Voice in the Dark | 3.00% | ~4 |
 | No Place to Hide | 2.00% | ~3 |
-| A Voice in the Dark | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 147 (Ranked 458)  
 Completed: 3 (2.04%) (Ranked 136)  

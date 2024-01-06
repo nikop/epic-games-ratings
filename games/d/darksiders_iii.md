@@ -7,14 +7,14 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~360 |
-| First of many… | 67.00% | ~309 |
+| First of many… | 68.00% | ~313 |
 | Helping Hand | 64.00% | ~295 |
 | Increased Vigor | 59.00% | ~272 |
 | Fight Fire with Fire | 57.00% | ~263 |
 | Increased Capacity | 53.00% | ~244 |
 | Just the start | 48.00% | ~221 |
 | Perfect Storm | 45.00% | ~207 |
-| All That Glitters | 44.00% | ~203 |
+| All That Glitters | 45.00% | ~207 |
 | Enhance! | 41.00% | ~189 |
 | One Of the Chosen | 39.00% | ~180 |
 | Devil's in the Details | 39.00% | ~180 |
@@ -23,7 +23,7 @@ Number of Ratings: 116  (23.09.2022)
 | 25 to Life | 38.00% | ~175 |
 | Salvation | 37.00% | ~171 |
 | Soul Harvester | 35.00% | ~161 |
-| Unshakable Fortitude | 33.00% | ~152 |
+| Unshakable Fortitude | 34.00% | ~157 |
 | I Wanna Rock | 33.00% | ~152 |
 | Delusions of Grandeur | 33.00% | ~152 |
 | Love Tap | 31.00% | ~143 |
@@ -43,9 +43,9 @@ Number of Ratings: 116  (23.09.2022)
 | Protector of Humanity | 18.00% | ~83 |
 | Everybody Wants to Rule the World | 18.00% | ~83 |
 | Community Outreach | 15.00% | ~69 |
+| Unbreakable Will | 13.00% | ~60 |
 | A Parting Gift | 13.00% | ~60 |
 | Path of the Horseman | 13.00% | ~60 |
-| Unbreakable Will | 12.00% | ~55 |
 | Take it to the Limit | 12.00% | ~55 |
 | Holy Keeper | 11.00% | ~51 |
 | Demon Keeper | 11.00% | ~51 |

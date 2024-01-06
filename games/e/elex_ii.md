@@ -1,19 +1,19 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 877)  
+Rating: 4.29 (Ranked 879)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 39.00% | ~76 |
-| Best Buddy | 34.00% | ~66 |
+| Best Buddy | 35.00% | ~68 |
 | Civilian | 30.00% | ~58 |
-| Role Model | 29.00% | ~56 |
-| Creator | 25.00% | ~48 |
+| Role Model | 29.00% | ~57 |
+| Creator | 26.00% | ~51 |
+| Military Leader | 24.00% | ~47 |
 | Festival-goer | 24.00% | ~47 |
 | Peddler | 23.00% | ~45 |
-| Military Leader | 23.00% | ~45 |
 | Commander | 20.00% | ~39 |
 | Irissa's Fate | 17.00% | ~33 |
 | Long-Haul Flyer | 13.00% | ~25 |
@@ -21,9 +21,9 @@ Number of Ratings: 124  (23.09.2022)
 | Family Reunion | 12.00% | ~23 |
 | Eternal Oblivion | 12.00% | ~23 |
 | Berserker | 11.00% | ~21 |
-| Storyteller | 10.00% | ~19 |
-| Globetrotter | 10.00% | ~19 |
-| Alb | 9.00% | ~17 |
+| Storyteller | 10.00% | ~20 |
+| Globetrotter | 10.00% | ~20 |
+| Alb | 9.00% | ~18 |
 | Hunter | 8.00% | ~16 |
 | Banker | 7.00% | ~14 |
 | Beam Me Up | 7.00% | ~14 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194 (Ranked 427)  
+Progressed: 195 (Ranked 427)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 172 | 0 |
 | 2024-01-04 | 177 | 0 |
 | 2024-01-05 | 187 | 0 |
-| 2024-01-06 | 194 | 0 |
+| 2024-01-06 | 195 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

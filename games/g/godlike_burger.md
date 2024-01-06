@@ -1,40 +1,40 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 592)  
+Rating: 4.51 (Ranked 591)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~179,311 |
-| FIRST BLOOD | 40.00% | ~159,387 |
-| KEVIN! | 30.00% | ~119,540 |
-| JACK OF ALL TRADES | 23.00% | ~91,648 |
-| CRIMINAL | 20.00% | ~79,694 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~43,831 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~35,862 |
-| HONORS STUDENT | 8.00% | ~31,877 |
-| BUTCHER | 6.00% | ~23,908 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,923 |
-| RAMBO | 5.00% | ~19,923 |
-| HELL'S KITCHEN | 4.00% | ~15,939 |
-| CELEBRITY | 3.00% | ~11,954 |
-| MARTYR | 3.00% | ~11,954 |
-| GRATITUDE | 2.00% | ~7,969 |
-| PATTY-KILLER | 2.00% | ~7,969 |
+| MASTER CHEF | 45.00% | ~179,325 |
+| FIRST BLOOD | 40.00% | ~159,400 |
+| KEVIN! | 30.00% | ~119,550 |
+| JACK OF ALL TRADES | 23.00% | ~91,655 |
+| CRIMINAL | 20.00% | ~79,700 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~43,835 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~35,865 |
+| HONORS STUDENT | 8.00% | ~31,880 |
+| BUTCHER | 6.00% | ~23,910 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,925 |
+| RAMBO | 5.00% | ~19,925 |
+| HELL'S KITCHEN | 4.00% | ~15,940 |
+| CELEBRITY | 3.00% | ~11,955 |
+| MARTYR | 3.00% | ~11,955 |
+| GRATITUDE | 2.00% | ~7,970 |
+| PATTY-KILLER | 2.00% | ~7,970 |
 | EXPERIMENTALIST | 1.00% | ~3,985 |
 | GOURMET | 1.00% | ~3,985 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,985 |
 | PRUDENT | 1.00% | ~3,985 |
 | SCATTERBRAIN | 0.80% | ~3,188 |
-| HIGH TECHNOLOGIES | 0.70% | ~2,789 |
+| HIGH TECHNOLOGIES | 0.70% | ~2,790 |
 | TASTE UNTASTY | 0.60% | ~2,391 |
 | DEBTOR | 0.20% | ~797 |
 | I'VE SEEN SOME… | 0.20% | ~797 |
-| CORRUPTIONIST | 0.10% | ~398 |
-| MISTER ALL THUMBS | 0.10% | ~398 |
-| TRAVELER | 0.10% | ~398 |
+| CORRUPTIONIST | 0.10% | ~399 |
+| MISTER ALL THUMBS | 0.10% | ~399 |
+| TRAVELER | 0.10% | ~399 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398,468 (Ranked 49)  
+Progressed: 398,501 (Ranked 49)  
 Completed: 57 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 57 (0.01%) (Ranked 371)
 | 2024-01-03 | 396,921 | 56 |
 | 2024-01-04 | 397,438 | 56 |
 | 2024-01-05 | 398,030 | 57 |
-| 2024-01-06 | 398,468 | 57 |
+| 2024-01-06 | 398,501 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

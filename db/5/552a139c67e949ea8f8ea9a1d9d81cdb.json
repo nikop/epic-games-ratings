@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1869,
+  "EOS_Progressed": 1870,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4702,6 +4702,11 @@
       "Time": "2024-01-06T16:03:58.0537079+00:00",
       "NumProgressed": 1869,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T17:04:12.0616986+00:00",
+      "NumProgressed": 1870,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4792,9 +4797,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 94
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -4864,9 +4869,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 94
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4882,7 +4887,7 @@
       "Name": "The Octopus",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -5081,20 +5086,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1869,
+      "Progressed": 1870,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1537,
+      "Progressed": 1538,
       "Completed": 1007
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:03:58.0537077+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:04:12.0616983+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:02:51.2559909+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:03:58.0537512+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:02:58.7234872+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:04:12.0617533+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 497,
+  "EOS_Progressed": 498,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2079,6 +2079,11 @@
       "Time": "2024-01-06T12:07:07.7688124+00:00",
       "NumProgressed": 497,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T17:06:04.3024508+00:00",
+      "NumProgressed": 498,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2091,7 +2096,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2105,9 +2110,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 309
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2129,9 +2134,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 244
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2147,7 +2152,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2163,7 +2168,7 @@
       "Name": "A Party to Remember!",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "LUNCH_LEECH",
@@ -2185,9 +2190,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2203,7 +2208,7 @@
       "Name": "Weed Warrior",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2235,29 +2240,29 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 239
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 497,
+      "Progressed": 498,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:05:46.6379994+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:06:04.3024502+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:42.6698183+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:05:46.6380208+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:56.1992121+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:06:04.302473+00:00"
 }

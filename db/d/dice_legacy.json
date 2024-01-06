@@ -2,13 +2,13 @@
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
-  "Ranking_Rating": 877,
+  "Ranking_Rating": 879,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1312,
+  "EOS_Progressed": 1313,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2794,6 +2794,11 @@
       "Time": "2024-01-06T14:06:20.3104539+00:00",
       "NumProgressed": 1312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T17:03:35.5083064+00:00",
+      "NumProgressed": 1313,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2861,7 +2866,7 @@
       "Name": "Charismatic Leader",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
@@ -2869,7 +2874,7 @@
       "Name": "Metropolis",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CONTAINERS_FIVE_ONFIRE",
@@ -2901,7 +2906,7 @@
       "Name": "Just Chilling",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "DIE_ALL_TYPEGROUPS",
@@ -2917,7 +2922,7 @@
       "Name": "Ascended",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "DIE_FORGE_CUSTOM",
@@ -2933,7 +2938,7 @@
       "Name": "Incredible Strength",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ENDING_TRUE",
@@ -3157,14 +3162,14 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1312,
+      "Progressed": 1313,
       "Completed": 0
     }
   ],
@@ -3172,8 +3177,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:06:16.0563662+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:03:35.5083058+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:49.6801361+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:03:07.2041852+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:06:16.0564245+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:03:15.2479031+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:03:35.5083511+00:00"
 }

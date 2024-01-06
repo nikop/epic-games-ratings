@@ -5,33 +5,33 @@ Rating: 4.21 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,523 |
-| Battlefields Have Memories | 80.00% | ~2,294 |
-| Enlisted | 74.00% | ~2,122 |
-| Maybe Engage a Little | 69.00% | ~1,978 |
-| No More Names | 52.00% | ~1,491 |
-| Initiate | 37.00% | ~1,061 |
-| Thrada-Kul | 34.00% | ~975 |
-| Gravity-Challenged Rocks | 27.00% | ~774 |
-| Socialite | 24.00% | ~688 |
-| Soldier | 23.00% | ~659 |
-| All the Major Food Groups | 22.00% | ~631 |
-| Beggars Would Ride | 20.00% | ~573 |
+| Unforeseen | 88.00% | ~2,526 |
+| Battlefields Have Memories | 80.00% | ~2,297 |
+| Enlisted | 74.00% | ~2,125 |
+| Maybe Engage a Little | 69.00% | ~1,981 |
+| No More Names | 52.00% | ~1,493 |
+| Initiate | 37.00% | ~1,062 |
+| Thrada-Kul | 34.00% | ~976 |
+| Gravity-Challenged Rocks | 27.00% | ~775 |
+| Socialite | 24.00% | ~689 |
+| Soldier | 23.00% | ~660 |
+| All the Major Food Groups | 22.00% | ~632 |
+| Beggars Would Ride | 20.00% | ~574 |
 | Control is an Illusion | 19.00% | ~545 |
-| The Means to Save It | 17.00% | ~487 |
-| Resilience to Sin | 15.00% | ~430 |
-| A Familiar Nest | 15.00% | ~430 |
-| Geas Aristeya | 14.00% | ~401 |
-| Periapt Alizarin | 14.00% | ~401 |
+| The Means to Save It | 17.00% | ~488 |
+| Resilience to Sin | 15.00% | ~431 |
+| A Familiar Nest | 15.00% | ~431 |
+| Geas Aristeya | 14.00% | ~402 |
+| Periapt Alizarin | 14.00% | ~402 |
 | A Perfect Cycle | 13.00% | ~373 |
-| Recruit | 12.00% | ~344 |
-| Armsman | 11.00% | ~315 |
+| Recruit | 12.00% | ~345 |
+| Armsman | 11.00% | ~316 |
 | Lights Army | 9.00% | ~258 |
-| Periapt Cerulean | 8.00% | ~229 |
+| Periapt Cerulean | 8.00% | ~230 |
 | Good Boy | 7.00% | ~201 |
 | Periapt Viridian | 6.00% | ~172 |
-| Best Dressed | 5.00% | ~143 |
-| Shroudfane Explorer | 5.00% | ~143 |
+| Best Dressed | 5.00% | ~144 |
+| Shroudfane Explorer | 5.00% | ~144 |
 | Scholar | 4.00% | ~115 |
 | Kitted Out | 4.00% | ~115 |
 | Armaments Azure | 4.00% | ~115 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 951)
 | Treasure Hunter | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,867 (Ranked 229)  
+Progressed: 2,871 (Ranked 229)  
 Completed: 4 (0.14%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 4 (0.14%) (Ranked 296)
 | 2024-01-03 | 2,622 | 2 |
 | 2024-01-04 | 2,699 | 2 |
 | 2024-01-05 | 2,796 | 4 |
-| 2024-01-06 | 2,867 | 4 |
+| 2024-01-06 | 2,871 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,9 +3,9 @@
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 308,
-  "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 799,
+  "EOS_Progressed": 801,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2023-10-13T10:03:19.5665873+00:00",
@@ -2609,6 +2609,11 @@
       "Time": "2024-01-06T16:08:44.9879978+00:00",
       "NumProgressed": 799,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T17:08:53.8647711+00:00",
+      "NumProgressed": 801,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2627,9 +2632,9 @@
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 72
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -2683,9 +2688,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 200
+      "UsersEstimate": 192
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2699,7 +2704,7 @@
       "ID": "ach_find_all_secrets_c2",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 2",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 95,
       "UsersEstimate": 2
     },
@@ -2707,7 +2712,7 @@
       "ID": "ach_find_all_secrets_c3",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 3",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 95,
       "UsersEstimate": 2
     }
@@ -2716,14 +2721,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 799,
+      "Progressed": 801,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:08:44.9879974+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:08:53.8647708+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:58:14.0442324+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:08:44.9880152+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:58:29.4934927+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:08:53.8647876+00:00"
 }

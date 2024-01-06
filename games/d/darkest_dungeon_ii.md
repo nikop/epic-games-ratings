@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~881 |
-| Lost and Found | 8.00% | ~542 |
+| Malpractice Assurance | 13.00% | ~882 |
+| Lost and Found | 8.00% | ~543 |
 | Autodidact | 7.00% | ~9,234 |
 | This Belongs in a Museum | 6.00% | ~7,915 |
 | Overdue Notice | 6.00% | ~7,915 |
@@ -22,41 +22,41 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,596 |
 | Ploughshares to Swords | 5.00% | ~339 |
 | Bloody Graduation | 5.00% | ~339 |
-| It Rings a Bell | 4.00% | ~5,276 |
-| Not Today! | 4.00% | ~5,276 |
-| It Happens | 4.00% | ~5,276 |
-| Merry Time | 4.00% | ~5,276 |
-| Harvest Festival | 4.00% | ~5,276 |
-| Whale | 4.00% | ~5,276 |
-| A Place to Lay Your Head | 4.00% | ~5,276 |
-| FNG | 4.00% | ~5,276 |
-| Nope | 4.00% | ~5,276 |
+| It Rings a Bell | 4.00% | ~5,277 |
+| Not Today! | 4.00% | ~5,277 |
+| It Happens | 4.00% | ~5,277 |
+| Merry Time | 4.00% | ~5,277 |
+| Harvest Festival | 4.00% | ~5,277 |
+| Whale | 4.00% | ~5,277 |
+| A Place to Lay Your Head | 4.00% | ~5,277 |
+| FNG | 4.00% | ~5,277 |
+| Nope | 4.00% | ~5,277 |
 | Friends 'Til the End | 4.00% | ~271 |
-| Resurrection | 3.00% | ~3,957 |
-| Unleash Hell | 3.00% | ~3,957 |
-| Funny Guy | 3.00% | ~3,957 |
-| Long Live the King | 3.00% | ~3,957 |
-| Wyrdly Reconstructed | 3.00% | ~3,957 |
-| Boxcar Kid | 3.00% | ~3,957 |
-| Unfulfilled Desires | 3.00% | ~3,957 |
-| Predator | 3.00% | ~3,957 |
-| Dissector | 3.00% | ~3,957 |
-| Banishment | 3.00% | ~3,957 |
-| Deprogramming | 3.00% | ~3,957 |
-| Now Stay Dead | 3.00% | ~3,957 |
-| Reverse Banditry | 3.00% | ~3,957 |
-| Spelunker | 3.00% | ~3,957 |
-| Ramble On | 3.00% | ~3,957 |
-| A Clear Conscience | 3.00% | ~3,957 |
-| Unshackled | 3.00% | ~3,957 |
-| Road Trip | 3.00% | ~3,957 |
+| Resurrection | 3.00% | ~3,958 |
+| Unleash Hell | 3.00% | ~3,958 |
+| Funny Guy | 3.00% | ~3,958 |
+| Long Live the King | 3.00% | ~3,958 |
+| Wyrdly Reconstructed | 3.00% | ~3,958 |
+| Boxcar Kid | 3.00% | ~3,958 |
+| Unfulfilled Desires | 3.00% | ~3,958 |
+| Predator | 3.00% | ~3,958 |
+| Dissector | 3.00% | ~3,958 |
+| Banishment | 3.00% | ~3,958 |
+| Deprogramming | 3.00% | ~3,958 |
+| Now Stay Dead | 3.00% | ~3,958 |
+| Reverse Banditry | 3.00% | ~3,958 |
+| Spelunker | 3.00% | ~3,958 |
+| Ramble On | 3.00% | ~3,958 |
+| A Clear Conscience | 3.00% | ~3,958 |
+| Utopia | 3.00% | ~3,958 |
+| Unshackled | 3.00% | ~3,958 |
+| Road Trip | 3.00% | ~3,958 |
 | This Looks Familiar | 2.00% | ~2,638 |
 | Hope Rekindled | 2.00% | ~2,638 |
 | Ichthyophobic | 2.00% | ~2,638 |
 | No More Mouths to Feed | 2.00% | ~2,638 |
 | When You Want Something Done Right | 2.00% | ~2,638 |
 | Worldly Traveller | 2.00% | ~2,638 |
-| Utopia | 2.00% | ~2,638 |
 | Hot Air | 2.00% | ~2,638 |
 | Eyes Up | 2.00% | ~2,638 |
 | Clearing the Ledger | 1.00% | ~1,319 |
@@ -69,7 +69,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Triage | 0.90% | ~1,187 |
 | No Mercy | 0.90% | ~61 |
 | Et Tu, Riposte? | 0.80% | ~54 |
-| The World As It Was | 0.60% | ~791 |
+| The World As It Was | 0.60% | ~792 |
 | A Life Well Lived | 0.50% | ~660 |
 | Bacon Bits | 0.50% | ~660 |
 | Eidetic | 0.50% | ~660 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,911 (Ranked 91)  
+Progressed: 131,918 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,911 | 3 |
+| 2024-01-06 | 131,918 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
 Sum: 21,475 (Ranked 58)  

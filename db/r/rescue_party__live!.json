@@ -4,8 +4,8 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 265,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.65,
+  "EOS_Completed_Percentage": 2.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -514,6 +514,11 @@
       "Time": "2024-01-06T11:08:59.9194779+00:00",
       "NumProgressed": 264,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T17:06:16.0073543+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -531,9 +536,9 @@
       "ID": "ACH_DAWN_OF_VICTORY",
       "SetID": "1p69hf1",
       "Name": "Dawn of Victory",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_FOREIGN_FRIENDS",
@@ -549,7 +554,7 @@
       "Name": "Medal of honor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -573,7 +578,7 @@
       "Name": "Life matters",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_LIGHT",
@@ -653,7 +658,7 @@
       "Name": "Safety first",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_SPEEDY",
@@ -661,14 +666,14 @@
       "Name": "ASAP",
       "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 265,
       "Completed": 7
     }
   ],
@@ -676,8 +681,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:05:57.7382595+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:06:16.0073539+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.576737+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:29.5960896+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:05:57.7382725+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:42.8150179+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:06:16.0073673+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -1010,9 +1010,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 29054,
+  "EOS_Progressed": 29055,
   "EOS_Completed": 1422,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.89,
   "EosHistory": [
@@ -8865,6 +8865,11 @@
       "Time": "2024-01-06T16:09:51.3553557+00:00",
       "NumProgressed": 29054,
       "NumCompleted": 1422
+    },
+    {
+      "Time": "2024-01-06T17:10:01.1899905+00:00",
+      "NumProgressed": 29055,
+      "NumCompleted": 1422
     }
   ],
   "TotalAchievements": 30,
@@ -8876,7 +8881,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 13074
+      "UsersEstimate": 13075
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -8916,7 +8921,7 @@
       "Name": "Deep Impact",
       "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 6682
+      "UsersEstimate": 6683
     },
     {
       "ID": "ACH_CATCH_ALL",
@@ -8972,7 +8977,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 28182
+      "UsersEstimate": 28183
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -8980,7 +8985,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 20047
+      "UsersEstimate": 20048
     },
     {
       "ID": "ACH_GOLEM",
@@ -9012,7 +9017,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17723
+      "UsersEstimate": 17724
     },
     {
       "ID": "ACH_LAUNCH",
@@ -9020,7 +9025,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 16270
+      "UsersEstimate": 16271
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -9036,7 +9041,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12493
+      "UsersEstimate": 12494
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -9060,7 +9065,7 @@
       "Name": "Grab Bag",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 6682
+      "UsersEstimate": 6683
     },
     {
       "ID": "ACH_SNAXBURG",
@@ -9068,7 +9073,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 27020
+      "UsersEstimate": 27021
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -9092,7 +9097,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10459
+      "UsersEstimate": 10460
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -9100,7 +9105,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21790
+      "UsersEstimate": 21791
     },
     {
       "ID": "ACH_WATERFALL",
@@ -9108,22 +9113,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25277
+      "UsersEstimate": 25278
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 29054,
+      "Progressed": 29055,
       "Completed": 1422
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2024-01-01T01:54:40.4869499+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:09:51.3553553+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:10:01.18999+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:58.0759056+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:35.1903+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:09:51.3554027+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:48.6503825+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:10:01.1900342+00:00"
 }

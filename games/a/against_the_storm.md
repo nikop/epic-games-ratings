@@ -12,26 +12,26 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 7.00% | ~1,420 |
 | No Deaths | 7.00% | ~1,420 |
 | Petrified Necropolis | 7.00% | ~1,420 |
-| Overcoming Difficulty | 6.00% | ~1,217 |
-| Coral Forest | 6.00% | ~1,217 |
-| The Marshlands | 6.00% | ~1,217 |
-| The Scarlet Orchard | 6.00% | ~1,217 |
-| Gathering Storm | 6.00% | ~1,217 |
-| Frosts | 5.00% | ~1,014 |
-| Land of Greed | 5.00% | ~1,014 |
-| Ominous Presence | 5.00% | ~1,014 |
-| Royal Outpost | 4.00% | ~811 |
-| Watchtower | 4.00% | ~811 |
-| Homesick | 3.00% | ~608 |
-| Ruined Armory | 3.00% | ~608 |
-| Fertile Meadows | 3.00% | ~608 |
-| Levitating Monument | 3.00% | ~608 |
-| Monastery of the Holy Flame | 3.00% | ~608 |
-| Lost Colonies | 3.00% | ~608 |
-| Corrosive Torrent | 3.00% | ~608 |
-| A Real Challenge | 3.00% | ~608 |
-| Trade Baron | 3.00% | ~608 |
-| Untamed Wilds | 3.00% | ~608 |
+| Overcoming Difficulty | 6.00% | ~1,218 |
+| Coral Forest | 6.00% | ~1,218 |
+| The Marshlands | 6.00% | ~1,218 |
+| The Scarlet Orchard | 6.00% | ~1,218 |
+| Gathering Storm | 6.00% | ~1,218 |
+| Frosts | 5.00% | ~1,015 |
+| Land of Greed | 5.00% | ~1,015 |
+| Ominous Presence | 5.00% | ~1,015 |
+| Royal Outpost | 4.00% | ~812 |
+| Watchtower | 4.00% | ~812 |
+| Homesick | 3.00% | ~609 |
+| Ruined Armory | 3.00% | ~609 |
+| Fertile Meadows | 3.00% | ~609 |
+| Levitating Monument | 3.00% | ~609 |
+| Monastery of the Holy Flame | 3.00% | ~609 |
+| Lost Colonies | 3.00% | ~609 |
+| Corrosive Torrent | 3.00% | ~609 |
+| A Real Challenge | 3.00% | ~609 |
+| Trade Baron | 3.00% | ~609 |
+| Untamed Wilds | 3.00% | ~609 |
 | Against All Odds | 2.00% | ~406 |
 | Bandit Camp | 2.00% | ~406 |
 | Barren Lands | 2.00% | ~406 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,282 (Ranked 154)  
+Progressed: 20,292 (Ranked 154)  
 Completed: 33 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 33 (0.16%) (Ranked 281)
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
-| 2024-01-06 | 20,282 | 33 |
+| 2024-01-06 | 20,292 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 230)  
 Sum: 3,340 (Ranked 177)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1724,9 +1724,9 @@
       "ID": "Collect_AdamantineLarge_30",
       "SetID": "7a5k76n",
       "Name": "Unbreakable Will",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 60
     },
     {
       "ID": "Collect_AdamantineMedium_30",
@@ -1748,9 +1748,9 @@
       "ID": "Collect_AdamantineSmall_30",
       "SetID": "7a5k76n",
       "Name": "Unshakable Fortitude",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 157
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -2060,9 +2060,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 207
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -2180,9 +2180,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 313
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -2244,8 +2244,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:08:30.7350362+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:08:39.0015165+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:59:22.9448741+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:08:30.7351032+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:59:41.5214179+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:08:39.0015729+00:00"
 }

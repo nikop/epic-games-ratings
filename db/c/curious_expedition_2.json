@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 409,
+  "EOS_Progressed": 410,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -656,6 +656,11 @@
       "Time": "2024-01-06T14:10:12.5701522+00:00",
       "NumProgressed": 409,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T17:10:20.9941815+00:00",
+      "NumProgressed": 410,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -763,7 +768,7 @@
       "Name": "Traveller",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -779,7 +784,7 @@
       "Name": "Adventurer",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach-campaign-noDeath",
@@ -843,7 +848,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ach-discover-locations-high",
@@ -865,9 +870,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 168
     },
     {
       "ID": "ach-find-treasure",
@@ -915,7 +920,7 @@
       "Name": "For the Club!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach-keepHighStanding",
@@ -947,7 +952,7 @@
       "Name": "Shortening of the Way",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach-learn-traits",
@@ -955,7 +960,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -995,7 +1000,7 @@
       "Name": "Spooky!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach-noEquipment",
@@ -1011,15 +1016,15 @@
       "Name": "Insomnia",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ach-pacifist-goals",
       "SetID": "17ih7ma",
       "Name": "Nahua Seeker",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "ach-paleMask-cure",
@@ -1041,9 +1046,9 @@
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 176
     },
     {
       "ID": "ach-promotion",
@@ -1075,7 +1080,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach-rob-shrines",
@@ -1115,7 +1120,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -1146,7 +1151,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 409,
+      "Progressed": 410,
       "Completed": 1
     }
   ],
@@ -1154,8 +1159,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:10:10.3363349+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:32.3598559+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:10:10.3363849+00:00"
+  "LastChanged_Achievements": "2024-01-06T17:10:20.9941812+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
+  "LastUpdate_Ratings": "2024-01-06T16:57:45.7098731+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:10:20.9942232+00:00"
 }

@@ -1704,9 +1704,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "AC_BOSS_02",
@@ -1792,9 +1792,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 212
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1967,8 +1967,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-06T16:06:06.9455298+00:00",
+  "LastChanged_Achievements": "2024-01-06T17:06:25.454802+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:57:44.4245597+00:00",
-  "LastUpdate_Achievements": "2024-01-06T16:06:06.9455659+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:57:58.010025+00:00",
+  "LastUpdate_Achievements": "2024-01-06T17:06:25.4548449+00:00"
 }
