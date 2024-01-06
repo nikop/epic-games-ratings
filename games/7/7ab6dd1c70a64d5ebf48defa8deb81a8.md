@@ -5,12 +5,12 @@ Rating: 4.13 (Ranked 1,006)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 61.00% | ~1,138 |
-| Trinity | 30.00% | ~560 |
+| Break Out | 61.00% | ~1,139 |
+| Trinity | 29.00% | ~542 |
 | The Collector | 24.00% | ~448 |
-| Find Allies | 23.00% | ~429 |
-| A Taste of Wrath | 23.00% | ~429 |
-| I Found It | 23.00% | ~429 |
+| Find Allies | 23.00% | ~430 |
+| A Taste of Wrath | 23.00% | ~430 |
+| I Found It | 23.00% | ~430 |
 | Shatter Them All | 22.00% | ~411 |
 | Geared Up | 22.00% | ~411 |
 | Adventurer | 21.00% | ~392 |
@@ -32,17 +32,17 @@ Rating: 4.13 (Ranked 1,006)
 | Shatterer | 4.00% | ~75 |
 | Fine Feathers Make Fine Birds | 4.00% | ~75 |
 | A Queen's Tale | 3.00% | ~56 |
-| Shardbearer | 2.00% | ~37 |
 | Slayer | 2.00% | ~37 |
 | Flawless Victory | 2.00% | ~37 |
 | All There Is | 2.00% | ~37 |
 | False God | 2.00% | ~37 |
 | Forgemaster | 1.00% | ~19 |
+| Shardbearer | 1.00% | ~19 |
 | Summiter | 1.00% | ~19 |
 | All That Gold | 0.70% | ~13 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,866 (Ranked 252)  
+Progressed: 1,868 (Ranked 252)  
 Completed: 3 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 3 (0.16%) (Ranked 281)
 | 2024-01-03 | 1,735 | 3 |
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
-| 2024-01-06 | 1,866 | 3 |
+| 2024-01-06 | 1,868 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

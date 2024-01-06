@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -2804,9 +2804,9 @@
       "ID": "theme_storm_kill3Enemies",
       "SetID": "95dc8p",
       "Name": "Tempest",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "theme_tree_knockback50Tiles",
@@ -2852,8 +2852,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-03T23:58:17.6931046+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:10:20.8136431+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:10:13.5842348+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:43.1423239+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:00:20.5273028+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:10:20.8136964+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:59:23.3289762+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:10:13.5842807+00:00"
 }

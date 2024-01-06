@@ -14,7 +14,7 @@
 | Mine! | 56.00% | ~66 |
 | Artificer's Apprentice | 47.00% | ~55 |
 | Fly the friendly Sky | 44.00% | ~52 |
-| Get out of here! | 42.00% | ~50 |
+| Get out of here! | 43.00% | ~51 |
 | Necromancer's Apprentice | 38.00% | ~45 |
 | Alchemist's Apprentice | 36.00% | ~42 |
 | Friend of Lyraine | 36.00% | ~42 |

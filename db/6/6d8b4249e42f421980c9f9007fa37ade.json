@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewPlayers": 520,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -574,6 +574,11 @@
       "Time": "2023-12-29T20:03:49.5542604+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T07:08:26.4687764+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -583,7 +588,7 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
       "UsersEstimate": 92
     },
@@ -601,7 +606,7 @@
       "Name": "Pilgrim",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Epic_ChainSaw_1",
@@ -713,7 +718,7 @@
       "Name": "Dystopia",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -737,7 +742,7 @@
       "Name": "Heart-aimed Arrow",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -745,7 +750,7 @@
       "Name": "Exorcism",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -759,7 +764,7 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
       "UsersEstimate": 79
     },
@@ -817,7 +822,7 @@
       "Name": "Knife Out",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -887,7 +892,7 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
       "UsersEstimate": 74
     },
@@ -913,7 +918,7 @@
       "Name": "The Indescribable",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Epic_Swamp_1",
@@ -921,7 +926,7 @@
       "Name": "Fallen Eden",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Epic_Times_100",
@@ -935,7 +940,7 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 79
     },
@@ -968,14 +973,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:07:54.9698354+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:08:26.4687761+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:25.8631749+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:57:35.6043082+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:07:54.9698718+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:57:32.3008169+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:08:26.4688147+00:00"
 }

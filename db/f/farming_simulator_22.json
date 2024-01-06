@@ -13308,9 +13308,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 61072,
+  "EOS_Progressed": 61073,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1574,
+  "EOS_NewPlayers": 1569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38003,6 +38003,11 @@
       "Time": "2024-01-06T06:06:21.8329753+00:00",
       "NumProgressed": 61072,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T07:05:28.4086335+00:00",
+      "NumProgressed": 61073,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -38094,7 +38099,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 36032
+      "UsersEstimate": 36033
     },
     {
       "ID": "CutTree",
@@ -38102,7 +38107,7 @@
       "Name": "You wood not believe it",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 12214
+      "UsersEstimate": 12215
     },
     {
       "ID": "CutTreeFirst",
@@ -38110,7 +38115,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 34200
+      "UsersEstimate": 34201
     },
     {
       "ID": "DeliveryGrapes",
@@ -38150,7 +38155,7 @@
       "Name": "Plant get enough",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 34200
+      "UsersEstimate": 34201
     },
     {
       "ID": "Harvested",
@@ -38166,7 +38171,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 43361
+      "UsersEstimate": 43362
     },
     {
       "ID": "HorseJumps",
@@ -38190,7 +38195,7 @@
       "Name": "Giddy-up!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "LoadedOldSavegame",
@@ -38198,7 +38203,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 28093
+      "UsersEstimate": 28094
     },
     {
       "ID": "Mission",
@@ -38214,7 +38219,7 @@
       "Name": "Help me to help you",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 21375
+      "UsersEstimate": 21376
     },
     {
       "ID": "Money",
@@ -38222,7 +38227,7 @@
       "Name": "Hard work pays off",
       "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 29925
+      "UsersEstimate": 29926
     },
     {
       "ID": "NumBeehives",
@@ -38357,15 +38362,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 61072,
+      "Progressed": 61073,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-05T23:02:38.9897103+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:06:21.832975+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:05:28.4086331+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:59.878391+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:00:47.9370106+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:06:21.8330936+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:59:42.8728971+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:05:28.4087655+00:00"
 }

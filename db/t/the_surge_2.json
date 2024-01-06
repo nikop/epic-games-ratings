@@ -3,8 +3,8 @@
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
   "Ranking_Rating": 899,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 581,
+  "Ranking_Popularity": 582,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 246,
@@ -294,7 +294,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2489,
+  "EOS_Progressed": 2490,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -4364,6 +4364,11 @@
       "Time": "2024-01-06T05:07:13.759984+00:00",
       "NumProgressed": 2489,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-06T07:06:10.8603689+00:00",
+      "NumProgressed": 2490,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4383,7 +4388,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "ACHV_03",
@@ -4407,7 +4412,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACHV_06",
@@ -4575,7 +4580,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "ACHV_27",
@@ -4647,7 +4652,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ACHV_36",
@@ -4655,7 +4660,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACHV_37",
@@ -4679,7 +4684,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "ACHV_40",
@@ -4830,7 +4835,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2489,
+      "Progressed": 2490,
       "Completed": 13
     }
   ],
@@ -4838,8 +4843,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:07:19.0458597+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:06:10.8603684+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:01:43.5665977+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:07:19.0459222+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:00:20.253132+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:06:10.8604251+00:00"
 }

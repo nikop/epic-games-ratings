@@ -7,9 +7,9 @@ Rating: 4.67 (Ranked 285)
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 45.00% | ~561 |
 | Rail Rat | 34.00% | ~424 |
-| The Mysterious Stranger | 33.00% | ~411 |
+| The Mysterious Stranger | 33.00% | ~412 |
 | Immaculate Aim | 28.00% | ~349 |
-| The Brass Boss | 27.00% | ~336 |
+| The Brass Boss | 27.00% | ~337 |
 | Time Flies | 26.00% | ~324 |
 | No, Thanks! | 26.00% | ~324 |
 | The Prince in Heels | 26.00% | ~324 |
@@ -32,7 +32,7 @@ Rating: 4.67 (Ranked 285)
 | The Family Fortune | 18.00% | ~224 |
 | Whiz Kid | 15.00% | ~187 |
 | Good Neighbor | 15.00% | ~187 |
-| Family Memories | 14.00% | ~174 |
+| Family Memories | 14.00% | ~175 |
 | Cartographer | 13.00% | ~162 |
 | Ask Questions Later | 13.00% | ~162 |
 | Chaincrawler Explorer | 12.00% | ~150 |
@@ -59,7 +59,7 @@ Rating: 4.67 (Ranked 285)
 | Going to Live Forever | 0.60% | ~7 |
 | Raw Talent | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,246 (Ranked 280)  
+Progressed: 1,247 (Ranked 280)  
 Completed: 6 (0.48%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 6 (0.48%) (Ranked 222)
 | 2024-01-03 | 1,216 | 6 |
 | 2024-01-04 | 1,228 | 6 |
 | 2024-01-05 | 1,241 | 6 |
-| 2024-01-06 | 1,246 | 6 |
+| 2024-01-06 | 1,247 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

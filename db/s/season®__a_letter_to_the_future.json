@@ -3,9 +3,9 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 95,
+  "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1987,
+  "EOS_Progressed": 1988,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.72,
   "EosHistory": [
@@ -4554,6 +4554,11 @@
       "Time": "2024-01-06T06:10:03.3456886+00:00",
       "NumProgressed": 1987,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2024-01-06T07:09:59.9187784+00:00",
+      "NumProgressed": 1988,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 16,
@@ -4613,7 +4618,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -4621,7 +4626,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4629,7 +4634,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4653,7 +4658,7 @@
       "Name": "Outside World Seer",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4669,7 +4674,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACH_THEEND",
@@ -4692,7 +4697,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1987,
+      "Progressed": 1988,
       "Completed": 74
     }
   ],
@@ -4700,8 +4705,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:10:03.3456883+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:09:59.918778+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:58:31.9818925+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:10:03.3457144+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:58:09.9183107+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:09:59.9188176+00:00"
 }

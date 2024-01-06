@@ -37,13 +37,13 @@ Number of Ratings: 45  (23.09.2022)
 | All My Birds, Safely Home | 0.70% | ~11 |
 | Bears are Scary | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
+| Tempest | 0.70% | ~11 |
 | Storied Past | 0.60% | ~10 |
 | Empty the Caves | 0.60% | ~10 |
 | Bonebreakers | 0.60% | ~10 |
 | A Hunger, Sated | 0.60% | ~10 |
 | Wingknight's Prowess | 0.60% | ~10 |
 | Into Mulch | 0.60% | ~10 |
-| Tempest | 0.60% | ~10 |
 | We Emerge Changed | 0.50% | ~8 |
 | No More Nightmares | 0.50% | ~8 |
 | Fight Like a Bird | 0.50% | ~8 |

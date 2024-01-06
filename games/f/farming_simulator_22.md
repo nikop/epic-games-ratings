@@ -6,23 +6,23 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~43,361 |
-| I read Shakespeare and stuff | 59.00% | ~36,032 |
+| Own use | 71.00% | ~43,362 |
+| I read Shakespeare and stuff | 59.00% | ~36,033 |
 | Just a sprinkle | 58.00% | ~35,422 |
-| I'm stumped | 56.00% | ~34,200 |
-| Plant get enough | 56.00% | ~34,200 |
+| I'm stumped | 56.00% | ~34,201 |
+| Plant get enough | 56.00% | ~34,201 |
 | This is just my weekend vehicle | 54.00% | ~32,979 |
 | It's just the beginning | 54.00% | ~32,979 |
-| Hard work pays off | 49.00% | ~29,925 |
-| It's never too late to farm | 46.00% | ~28,093 |
+| Hard work pays off | 49.00% | ~29,926 |
+| It's never too late to farm | 46.00% | ~28,094 |
 | All out of Land | 41.00% | ~25,040 |
 | Field Trip | 40.00% | ~24,429 |
 | I like to switch it up | 37.00% | ~22,597 |
-| Help me to help you | 35.00% | ~21,375 |
+| Help me to help you | 35.00% | ~21,376 |
 | Ultimutt Pawesomeness | 25.00% | ~15,268 |
 | Van Gogh | 23.00% | ~14,047 |
 | Vehicle fleet | 21.00% | ~12,825 |
-| You wood not believe it | 20.00% | ~12,214 |
+| You wood not believe it | 20.00% | ~12,215 |
 | Well-Oiled Machine | 15.00% | ~9,161 |
 | Long haul | 15.00% | ~9,161 |
 | Clucky Streak | 14.00% | ~8,550 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Fix me up | 11.00% | ~6,718 |
 | Highly cultivated | 10.00% | ~6,107 |
 | It's sow easy | 10.00% | ~6,107 |
-| Giddy-up! | 9.00% | ~5,496 |
+| Giddy-up! | 9.00% | ~5,497 |
 | Cowherd | 6.00% | ~3,664 |
 | Fluffyness | 6.00% | ~3,664 |
 | Road Trip | 5.00% | ~3,054 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~244 |
 | Raisin the stakes | 0.30% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,072 (Ranked 118)  
+Progressed: 61,073 (Ranked 118)  
 Completed: 6 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 6 (0.01%) (Ranked 371)
 | 2024-01-03 | 60,597 | 6 |
 | 2024-01-04 | 60,804 | 6 |
 | 2024-01-05 | 61,032 | 6 |
-| 2024-01-06 | 61,072 | 6 |
+| 2024-01-06 | 61,073 | 6 |
 ## Awards
 Max (Great for Beginners): 6,016  (Ranked 68)  
 Sum: 45,227 (Ranked 34)  

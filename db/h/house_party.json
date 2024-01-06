@@ -3,11 +3,11 @@
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
   "Ranking_Rating": 856,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 581,
+  "Ranking_Popularity": 582,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -383,9 +383,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7150,
+  "EOS_Progressed": 7156,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8443,6 +8443,11 @@
       "Time": "2024-01-06T05:09:09.4067373+00:00",
       "NumProgressed": 7150,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T07:09:03.5813501+00:00",
+      "NumProgressed": 7156,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8510,7 +8515,7 @@
       "Name": "The Brahdyssey",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Bride",
@@ -8542,7 +8547,7 @@
       "Name": "Caught in the Act",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -8628,9 +8633,9 @@
       "ID": "FriendInNeed",
       "SetID": "bmkn7o4",
       "Name": "A Friend in Need...",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 429
     },
     {
       "ID": "GoodRiddance",
@@ -8718,7 +8723,7 @@
       "Name": "Katherine",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "LCA",
@@ -8774,7 +8779,7 @@
       "Name": "Relentless",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Penguinfucker",
@@ -8862,7 +8867,7 @@
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "SuckerPunch",
@@ -9005,21 +9010,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4189,
+      "Progressed": 4195,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7150,
+      "Progressed": 7156,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:08:45.3742611+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:09:03.5813499+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:00:37.1602436+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:08:45.3743771+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:59:35.4769088+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:09:03.5814411+00:00"
 }

@@ -1137,9 +1137,9 @@
       "ID": "Remove_Raider_From_Tower",
       "SetID": "7b9f97e",
       "Name": "Get out of here!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Start_Of_A_Joke",
@@ -1178,8 +1178,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:09:38.0924847+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:09:41.795553+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:02:44.9354566+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:09:38.0925348+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:02:54.101611+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:09:41.7956114+00:00"
 }

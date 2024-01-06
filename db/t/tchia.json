@@ -3,8 +3,8 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 235,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 581,
+  "Ranking_Popularity": 582,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 188,
@@ -281,7 +281,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8738,
+  "EOS_Progressed": 8739,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 1,
@@ -10946,6 +10946,11 @@
       "Time": "2024-01-06T04:03:58.8503248+00:00",
       "NumProgressed": 8738,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-06T07:03:31.0282618+00:00",
+      "NumProgressed": 8739,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 21,
@@ -11107,9 +11112,9 @@
       "ID": "THE_JOURNEY_ONWARDS",
       "SetID": "3cck1g6",
       "Name": "The Journey Onwards",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 61
     },
     {
       "ID": "THING",
@@ -11124,7 +11129,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8738,
+      "Progressed": 8739,
       "Completed": 35
     }
   ],
@@ -11132,8 +11137,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-04T06:59:23.347632+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:03:38.9780674+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:03:31.0282615+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.6099916+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:01:12.965893+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:03:38.9781275+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:00:00.2337498+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:03:31.0283298+00:00"
 }

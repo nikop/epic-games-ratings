@@ -3,8 +3,8 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_Rating": 1006,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 581,
+  "Ranking_Popularity": 582,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 166,
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1866,
+  "EOS_Progressed": 1868,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3667,6 +3667,11 @@
       "Time": "2024-01-06T06:10:16.842746+00:00",
       "NumProgressed": 1866,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T07:10:10.4398878+00:00",
+      "NumProgressed": 1868,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3678,7 +3683,7 @@
       "Name": "Break Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH_02",
@@ -3686,7 +3691,7 @@
       "Name": "Find Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_03",
@@ -3734,7 +3739,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_09",
@@ -3748,9 +3753,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_11",
@@ -3764,9 +3769,9 @@
       "ID": "ACH_12",
       "SetID": "efe2lj",
       "Name": "Shardbearer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_13",
@@ -3894,7 +3899,7 @@
       "Name": "I Found It",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_29",
@@ -3965,7 +3970,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1866,
+      "Progressed": 1868,
       "Completed": 3
     }
   ],
@@ -3973,8 +3978,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-04T23:57:43.6326187+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:10:16.8427457+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:10:10.4398875+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:58:18.7659092+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:10:16.8427848+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:58:01.5224961+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:10:10.4399351+00:00"
 }

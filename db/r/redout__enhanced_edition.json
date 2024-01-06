@@ -3,8 +3,8 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 635,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 581,
+  "Ranking_Popularity": 582,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 146,
@@ -343,7 +343,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238802,
+  "EOS_Progressed": 238808,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 0,
@@ -27733,6 +27733,11 @@
       "Time": "2024-01-06T06:05:21.3505695+00:00",
       "NumProgressed": 238802,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-06T07:04:45.3199547+00:00",
+      "NumProgressed": 238808,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -27760,7 +27765,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66865
+      "UsersEstimate": 66866
     },
     {
       "ID": "CENTAUR",
@@ -27768,7 +27773,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19104
+      "UsersEstimate": 19105
     },
     {
       "ID": "CHALLENGER",
@@ -27776,7 +27781,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26268
+      "UsersEstimate": 26269
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -27784,7 +27789,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16716
+      "UsersEstimate": 16717
     },
     {
       "ID": "DRAGOON",
@@ -27808,7 +27813,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19104
+      "UsersEstimate": 19105
     },
     {
       "ID": "FLAWLESS",
@@ -27832,7 +27837,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47760
+      "UsersEstimate": 47762
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -27880,7 +27885,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78805
+      "UsersEstimate": 78807
     },
     {
       "ID": "NOBUNAGA",
@@ -27902,9 +27907,9 @@
       "ID": "ONAROLL",
       "SetID": "11popfh",
       "Name": "ON A ROLL",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 21492
+      "UsersEstimate": 23881
     },
     {
       "ID": "PHOTOFINISH",
@@ -27912,7 +27917,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16716
+      "UsersEstimate": 16717
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -27968,7 +27973,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52536
+      "UsersEstimate": 52538
     },
     {
       "ID": "TACTICIAN",
@@ -27992,7 +27997,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52536
+      "UsersEstimate": 52538
     },
     {
       "ID": "TUNINGMANIAC",
@@ -28008,22 +28013,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97909
+      "UsersEstimate": 97911
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238802,
+      "Progressed": 238808,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:05:21.3505691+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:04:45.3199542+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:41.2856312+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:01:01.4859162+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:05:21.3507614+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:59:52.4548013+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:04:45.3201783+00:00"
 }

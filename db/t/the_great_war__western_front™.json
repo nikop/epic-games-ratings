@@ -3,8 +3,8 @@
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
   "Ranking_Rating": 1063,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 581,
+  "Ranking_Popularity": 582,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 251,
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 869,
+  "EOS_Progressed": 872,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3780,6 +3780,11 @@
       "Time": "2024-01-06T01:53:09.7386089+00:00",
       "NumProgressed": 869,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T07:06:03.4160925+00:00",
+      "NumProgressed": 872,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3839,7 +3844,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -3855,7 +3860,7 @@
       "Name": "Earth Shattering",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -3886,7 +3891,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 869,
+      "Progressed": 872,
       "Completed": 0
     }
   ],
@@ -3894,8 +3899,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-31T09:58:52.6483653+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:07:09.1631853+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:06:03.4160922+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:29.6055115+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:02:48.3165916+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:07:09.1632124+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:02:56.4403512+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:06:03.4161147+00:00"
 }

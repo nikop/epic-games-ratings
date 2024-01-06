@@ -2,6 +2,13 @@
 [Store](https://store.epicgames.com/en-US/p/outlast)  
 [View Rawdata](../../db/o/outlast.json)  
 Rating: 4.76 (Ranked 130)  
+## Awards
+Max (Highly Recommended): 20  (Ranked 577)  
+Sum: 20 (Ranked 578)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -50,3 +57,4 @@ Rating: 4.76 (Ranked 130)
 | 2024-01-01 | 4.76 | 0 | 0 |
 | 2024-01-02 | 4.77 | 0 | 0 |
 | 2024-01-04 | 4.76 | 0 | 0 |
+| 2024-01-06 | 4.76 | 20 | 20 |

@@ -3,8 +3,8 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_Rating": 1065,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 581,
+  "Ranking_Popularity": 582,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 220,
@@ -35,7 +35,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4871,
+  "EOS_Progressed": 4872,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 2,
@@ -12845,6 +12845,11 @@
       "Time": "2024-01-06T06:07:22.2997607+00:00",
       "NumProgressed": 4871,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-06T07:06:13.1508521+00:00",
+      "NumProgressed": 4872,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -12904,7 +12909,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "ach_bomb",
@@ -12952,7 +12957,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3702
+      "UsersEstimate": 3703
     },
     {
       "ID": "ach_magic_wand",
@@ -12960,7 +12965,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "ach_no_boosters",
@@ -12983,7 +12988,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4871,
+      "Progressed": 4872,
       "Completed": 44
     }
   ],
@@ -12991,8 +12996,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:07:22.2997603+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:06:13.1508517+00:00",
   "LastUpdate_AppInfo": "2024-01-05T23:57:03.8408422+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:02:38.654209+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:07:22.2998347+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:02:49.8761839+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:06:13.1509199+00:00"
 }

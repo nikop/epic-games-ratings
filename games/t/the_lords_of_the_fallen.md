@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.21 (Ranked 950)  
+Rating: 4.20 (Ranked 962)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 950)
 | A Rest Among the Dead | 0.10% | ~11 |
 | A Trace of Venom | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,442 (Ranked 178)  
+Progressed: 11,457 (Ranked 178)  
 Completed: 2 (0.02%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,10 +149,10 @@ Completed: 2 (0.02%) (Ranked 360)
 | 2024-01-03 | 10,652 | 2 |
 | 2024-01-04 | 10,965 | 2 |
 | 2024-01-05 | 11,322 | 2 |
-| 2024-01-06 | 11,442 | 2 |
+| 2024-01-06 | 11,457 | 2 |
 ## Awards
 Max (Character Customization): 443  (Ranked 233)  
-Sum: 1,047 (Ranked 268)  
+Sum: 1,049 (Ranked 268)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -160,7 +160,7 @@ Diff (max vs sum): -35
 | This game has Great Boss Battles | 308 |
 | This game has Challenging Combat | 52 |
 | This game has Amazing Storytelling | 52 |
-| This game has Diverse Characters | 43 |
+| This game has Diverse Characters | 45 |
 | This game is Highly Recommended | 42 |
 | This game has Quickly Understood Controls | 37 |
 | This game has Competitive Players | 36 |
@@ -250,3 +250,4 @@ Diff (max vs sum): -35
 | 2024-01-03 | 4.22 | 428 | 980 |
 | 2024-01-04 | 4.22 | 435 | 1,017 |
 | 2024-01-05 | 4.21 | 443 | 1,047 |
+| 2024-01-06 | 4.20 | 443 | 1,049 |

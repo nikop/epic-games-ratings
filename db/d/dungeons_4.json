@@ -3,10 +3,10 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_Rating": 202,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 581,
+  "Ranking_Popularity": 582,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
@@ -2507,9 +2507,9 @@
       "ID": "ach_main09journey_killheroes",
       "SetID": "4hg22ll",
       "Name": "Dungeonlord Gorgu",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 328
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2796,8 +2796,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:09:04.2110011+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:09:16.9636462+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:02:34.981905+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:09:04.2110471+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:57:07.9728789+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:09:16.9637014+00:00"
 }

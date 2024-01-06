@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 927,
+  "EOS_Progressed": 928,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2221,6 +2221,11 @@
       "Time": "2024-01-06T01:55:56.6603605+00:00",
       "NumProgressed": 927,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T07:09:45.5091909+00:00",
+      "NumProgressed": 928,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2272,7 +2277,7 @@
       "Name": "Cybernetic",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHV_CYBORG",
@@ -2432,7 +2437,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2463,13 +2468,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 927,
+      "Progressed": 928,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 353,
+      "Progressed": 354,
       "Completed": 3
     }
   ],
@@ -2477,8 +2482,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:09:43.4856004+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:09:45.5091906+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.3140694+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:57:44.7202794+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:09:43.4856221+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:57:38.5585022+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:09:45.509216+00:00"
 }

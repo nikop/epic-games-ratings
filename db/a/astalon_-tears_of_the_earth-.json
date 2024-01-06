@@ -3,9 +3,9 @@
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 503,
-  "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 76,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -30,10 +30,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 84,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.57,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -204,6 +204,11 @@
       "Time": "2024-01-04T23:04:22.8924868+00:00",
       "NumProgressed": 84,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T07:05:00.6788251+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 30,
@@ -213,9 +218,9 @@
       "ID": "Beat_Boss_Rush",
       "SetID": "4f0g260",
       "Name": "No match for me!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Beat_Game",
@@ -429,9 +434,9 @@
       "ID": "Unlock_All_Secrets",
       "SetID": "4f0g260",
       "Name": "True Titan",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Unlock_Bram",
@@ -455,15 +460,15 @@
       "ID": "4f0g260",
       "IsBase": true,
       "Progressed": 84,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:20.7821607+00:00",
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:05:42.5177304+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:05:00.6788248+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.1356612+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:58:00.9446876+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:05:42.5177631+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:57:49.4746811+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:05:00.6788453+00:00"
 }

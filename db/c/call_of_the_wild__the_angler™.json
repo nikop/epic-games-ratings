@@ -1021,7 +1021,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8009,
+  "EOS_Progressed": 8011,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
@@ -13316,6 +13316,11 @@
       "Time": "2024-01-06T06:07:58.5097118+00:00",
       "NumProgressed": 8009,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T07:08:29.1564073+00:00",
+      "NumProgressed": 8011,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13343,7 +13348,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13375,7 +13380,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13431,7 +13436,7 @@
       "Name": "Goldfish?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -13439,7 +13444,7 @@
       "Name": "Going for Gold",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -13646,13 +13651,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8009,
+      "Progressed": 8011,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7381,
+      "Progressed": 7383,
       "Completed": 113
     }
   ],
@@ -13660,8 +13665,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:07:58.5097116+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:08:29.1564069+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:57:18.8061278+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:07:58.5097792+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:57:20.9920446+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:08:29.1564781+00:00"
 }

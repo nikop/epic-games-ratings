@@ -32,11 +32,11 @@
 | Collector Mastery | 11.00% | ~9 |
 | True Black Knight | 10.00% | ~8 |
 | Freedom Monster | 10.00% | ~8 |
-| No match for me! | 4.00% | ~3 |
-| True Titan | 4.00% | ~3 |
+| No match for me! | 5.00% | ~4 |
+| True Titan | 5.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 84 (Ranked 503)  
-Completed: 3 (3.57%) (Ranked 98)  
+Completed: 4 (4.76%) (Ranked 76)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,6 +69,7 @@ Completed: 3 (3.57%) (Ranked 98)
 | 2023-12-31 | 81 | 3 |
 | 2024-01-02 | 82 | 3 |
 | 2024-01-04 | 84 | 3 |
+| 2024-01-06 | 84 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

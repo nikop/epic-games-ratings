@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
@@ -2332,6 +2332,11 @@
       "Time": "2024-01-05T23:12:38.4611487+00:00",
       "NumProgressed": 643,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T07:10:05.2797563+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2351,7 +2356,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 38,
       "XP": 80,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "completeact3",
@@ -2423,7 +2428,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "scoreminrankrp2",
@@ -2462,7 +2467,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 3
     }
   ],
@@ -2470,8 +2475,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:10:10.2734307+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:10:05.279756+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:02:34.3096539+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:10:10.2734531+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:02:46.9879359+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:10:05.2797754+00:00"
 }

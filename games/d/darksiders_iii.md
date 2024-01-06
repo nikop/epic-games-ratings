@@ -7,9 +7,9 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~346 |
-| First of many… | 67.00% | ~301 |
-| Helping Hand | 63.00% | ~283 |
-| Increased Vigor | 59.00% | ~265 |
+| First of many… | 66.00% | ~297 |
+| Helping Hand | 63.00% | ~284 |
+| Increased Vigor | 58.00% | ~261 |
 | Fight Fire with Fire | 57.00% | ~256 |
 | Increased Capacity | 53.00% | ~238 |
 | Just the start | 48.00% | ~216 |
@@ -17,38 +17,38 @@ Number of Ratings: 116  (23.09.2022)
 | All That Glitters | 45.00% | ~202 |
 | Enhance! | 41.00% | ~184 |
 | One Of the Chosen | 40.00% | ~180 |
-| Throne Potato | 39.00% | ~175 |
-| Five's a Crowd | 39.00% | ~175 |
+| Throne Potato | 39.00% | ~176 |
 | Devil's in the Details | 38.00% | ~171 |
+| Five's a Crowd | 38.00% | ~171 |
 | 25 to Life | 38.00% | ~171 |
 | Salvation | 37.00% | ~166 |
-| Soul Harvester | 35.00% | ~157 |
+| Soul Harvester | 35.00% | ~158 |
 | Unshakable Fortitude | 34.00% | ~153 |
 | Delusions of Grandeur | 33.00% | ~148 |
 | I Wanna Rock | 32.00% | ~144 |
-| Love Tap | 31.00% | ~139 |
+| Love Tap | 31.00% | ~140 |
 | Maximum Vigor | 30.00% | ~135 |
 | For Whom the Bell Tolls | 28.00% | ~126 |
-| Freeze Frame | 27.00% | ~121 |
-| Eat Your Heart Out | 27.00% | ~121 |
+| Freeze Frame | 27.00% | ~122 |
+| Eat Your Heart Out | 27.00% | ~122 |
 | Unyielding Strength | 25.00% | ~112 |
 | Can you restore the Balance? | 25.00% | ~112 |
 | Big Spender | 24.00% | ~108 |
-| Cleanup Crew | 23.00% | ~103 |
-| Crowd Source | 23.00% | ~103 |
+| Cleanup Crew | 23.00% | ~104 |
+| Crowd Source | 23.00% | ~104 |
 | Demon Meddler | 21.00% | ~94 |
 | Seeing Red | 21.00% | ~94 |
 | Maximum Capacity | 20.00% | ~90 |
-| Egomaniac | 19.00% | ~85 |
+| Egomaniac | 19.00% | ~86 |
 | Protector of Humanity | 18.00% | ~81 |
 | Everybody Wants to Rule the World | 18.00% | ~81 |
-| Community Outreach | 15.00% | ~67 |
+| Community Outreach | 15.00% | ~68 |
 | Unbreakable Will | 13.00% | ~58 |
 | A Parting Gift | 13.00% | ~58 |
 | Path of the Horseman | 13.00% | ~58 |
 | Take it to the Limit | 12.00% | ~54 |
-| Holy Keeper | 11.00% | ~49 |
-| Demon Keeper | 11.00% | ~49 |
+| Holy Keeper | 11.00% | ~50 |
+| Demon Keeper | 11.00% | ~50 |
 | Soul Reaper | 8.00% | ~36 |
 | Humanitarian | 8.00% | ~36 |
 | My Evil Twin | 6.00% | ~27 |
@@ -62,16 +62,16 @@ Number of Ratings: 116  (23.09.2022)
 | Keeper of the Tempo | 4.00% | ~18 |
 | Keep it 100! | 4.00% | ~18 |
 | BFA | 4.00% | ~18 |
-| "Incredible!" | 3.00% | ~13 |
-| Proceed on your way to Armageddon | 3.00% | ~13 |
-| Keeper of Colossal Automata | 3.00% | ~13 |
+| "Incredible!" | 3.00% | ~14 |
+| Proceed on your way to Armageddon | 3.00% | ~14 |
+| Keeper of Colossal Automata | 3.00% | ~14 |
 | "Apocalyptic!" | 2.00% | ~9 |
 | "Amazing!" | 2.00% | ~9 |
 | Death Incarnate | 2.00% | ~9 |
 | Quite Proper | 0.90% | ~4 |
 | Beast Mode | 0.90% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449 (Ranked 356)  
+Progressed: 450 (Ranked 355)  
 Completed: 1 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 1 (0.22%) (Ranked 269)
 | 2024-01-03 | 405 | 1 |
 | 2024-01-04 | 422 | 1 |
 | 2024-01-05 | 444 | 1 |
-| 2024-01-06 | 449 | 1 |
+| 2024-01-06 | 450 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 387)  
 Sum: 96 (Ranked 471)  

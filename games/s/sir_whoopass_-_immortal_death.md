@@ -37,14 +37,14 @@
 | Karaoke king | 35.00% | ~53 |
 | Catch the bus with me! | 34.00% | ~52 |
 | Meatballs, coming up! | 33.00% | ~50 |
-| I'm going to get a concussion | 32.00% | ~49 |
+| I'm going to get a concussion | 33.00% | ~50 |
 | Another one bites the iron | 32.00% | ~49 |
 | Ripe Meat Off The Bone! | 28.00% | ~43 |
 | Kleptomaniac | 27.00% | ~41 |
 | A Megapint...? | 26.00% | ~40 |
+| Your daily dose of Vitamin C. | 26.00% | ~40 |
 | Hovering around | 26.00% | ~40 |
 | You're not so Big anymore, Boi! | 25.00% | ~38 |
-| Your daily dose of Vitamin C. | 25.00% | ~38 |
 | I cant stand still! | 23.00% | ~35 |
 | Slimy... yet satisfying | 22.00% | ~33 |
 | Master Butcher | 19.00% | ~29 |
@@ -57,9 +57,9 @@
 | Grumpy Immortal | 11.00% | ~17 |
 | Free Of Chains | 11.00% | ~17 |
 | Spoiler alert! | 10.00% | ~15 |
+| Ancient Ruins of Moist Overhangs | 9.00% | ~14 |
 | I want to throw up! | 9.00% | ~14 |
 | I drink, but I'm not a drunk! | 9.00% | ~14 |
-| Ancient Ruins of Moist Overhangs | 8.00% | ~12 |
 | My name is Whoopass, SIR Whoopass! | 8.00% | ~12 |
 | Scrambled Eggs | 8.00% | ~12 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~8 |

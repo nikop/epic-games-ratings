@@ -19,7 +19,7 @@ Number of Ratings: 154  (23.09.2022)
 | Gallant Spin Dash | 57.00% | ~388 |
 | Knuckles the Echidna | 55.00% | ~374 |
 | Miles "Tails" Prower | 55.00% | ~374 |
-| Boss Rush Attempt | 48.00% | ~326 |
+| Boss Rush Attempt | 49.00% | ~333 |
 | Cleared Sonic the Hedgehog | 48.00% | ~326 |
 | Super Sonic | 42.00% | ~286 |
 | Shut Down Metal Sonic | 39.00% | ~265 |

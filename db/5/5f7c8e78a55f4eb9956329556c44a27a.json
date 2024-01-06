@@ -1122,9 +1122,9 @@
       "ID": "TINGWD_CHAP_END_04",
       "SetID": "c0imaa6",
       "Name": "The end of the ordeal",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "TINGWD_CHAP_END_05",
@@ -1313,8 +1313,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:06:20.3621185+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:05:27.4005199+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.3171345+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:58:24.8081506+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:06:20.362166+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:58:05.1299974+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:05:27.4005441+00:00"
 }

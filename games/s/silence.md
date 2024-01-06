@@ -9,28 +9,28 @@
 | Haute cuisine | 46.00% | ~84 |
 | I didn't do it! | 40.00% | ~73 |
 | Demolition expert | 39.00% | ~71 |
-| Open up wide | 37.00% | ~67 |
-| Keep away from children | 37.00% | ~67 |
-| Wooooooow! | 35.00% | ~64 |
-| Artistic fool | 32.00% | ~58 |
-| Shadow on the wall | 32.00% | ~58 |
-| Let the boot talk | 31.00% | ~56 |
+| Open up wide | 37.00% | ~68 |
+| Keep away from children | 37.00% | ~68 |
+| Wooooooow! | 34.00% | ~62 |
+| Artistic fool | 32.00% | ~59 |
+| Shadow on the wall | 32.00% | ~59 |
+| Let the boot talk | 31.00% | ~57 |
 | Chapter II | 25.00% | ~46 |
-| Bubblekillerfamily | 24.00% | ~44 |
-| Quite a buggy game | 23.00% | ~42 |
-| Handyman | 23.00% | ~42 |
-| Achoo!! | 23.00% | ~42 |
+| Bubblekillerfamily | 23.00% | ~42 |
 | Chapter III | 23.00% | ~42 |
 | Like a moth in the Wind | 23.00% | ~42 |
+| Quite a buggy game | 22.00% | ~40 |
+| Handyman | 22.00% | ~40 |
+| Achoo!! | 22.00% | ~40 |
 | Pacifist | 21.00% | ~38 |
 | Mirror mirror on the wall... | 19.00% | ~35 |
 | Fastidious Clown | 18.00% | ~33 |
-| It's not easy being green! | 18.00% | ~33 |
 | Home is where the heart is | 18.00% | ~33 |
-| Death is a part of life | 14.00% | ~25 |
-| To err is human... | 12.00% | ~22 |
+| It's not easy being green! | 17.00% | ~31 |
+| Death is a part of life | 14.00% | ~26 |
 | Master of Thermodynamics | 12.00% | ~22 |
-| Unfullfilled dreams | 12.00% | ~22 |
+| To err is human... | 11.00% | ~20 |
+| Unfullfilled dreams | 11.00% | ~20 |
 | Mumbo Jumbo | 10.00% | ~18 |
 | Useless but beautiful | 9.00% | ~16 |
 | Nothing can stop me | 9.00% | ~16 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.50% | ~1 |
 | Do not feed the fish! | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182 (Ranked 433)  
+Progressed: 183 (Ranked 432)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-26 | 180 | 0 |
 | 2023-12-31 | 181 | 0 |
 | 2024-01-05 | 182 | 0 |
+| 2024-01-06 | 183 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,11 +3,11 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_Rating": 285,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 581,
+  "Ranking_Popularity": 582,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1246,
+  "EOS_Progressed": 1247,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3687,6 +3687,11 @@
       "Time": "2024-01-06T05:10:43.5131899+00:00",
       "NumProgressed": 1246,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T07:10:14.3985961+00:00",
+      "NumProgressed": 1247,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3794,7 +3799,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "FactorywoodChests1",
@@ -3818,7 +3823,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4106,7 +4111,7 @@
       "Name": "The Brass Boss",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4121,7 +4126,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1246,
+      "Progressed": 1247,
       "Completed": 6
     }
   ],
@@ -4129,8 +4134,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:10:21.9698119+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:10:14.3985948+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:57:39.421717+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:10:21.9698536+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:57:35.0111031+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:10:14.3986531+00:00"
 }

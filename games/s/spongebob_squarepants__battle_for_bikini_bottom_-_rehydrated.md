@@ -16,8 +16,8 @@ Number of Ratings: 76  (23.09.2022)
 | Uptown and Downtown | 10.00% | ~75 |
 | Super Spatula Seeker | 10.00% | ~75 |
 | Star Smasher | 10.00% | ~75 |
+| Surf's Up! | 10.00% | ~75 |
 | Squirrel Smasher | 9.00% | ~68 |
-| Surf's Up! | 9.00% | ~68 |
 | Life's as extreme as you wanna make it! | 7.00% | ~53 |
 | Shrimp Catcher | 7.00% | ~53 |
 | Toxic Terror | 7.00% | ~53 |
@@ -27,8 +27,8 @@ Number of Ratings: 76  (23.09.2022)
 | Keep it Rolling | 6.00% | ~45 |
 | Ultra Spatula Seeker | 6.00% | ~45 |
 | Robot encyclopedia | 5.00% | ~38 |
+| Ship Shape | 5.00% | ~38 |
 | The Small Does Not Rule | 4.00% | ~30 |
-| Ship Shape | 4.00% | ~30 |
 | Shanghaied | 4.00% | ~30 |
 | Kelp Forest of Fear | 4.00% | ~30 |
 | SpongeBob vs SpongeBob! | 4.00% | ~30 |

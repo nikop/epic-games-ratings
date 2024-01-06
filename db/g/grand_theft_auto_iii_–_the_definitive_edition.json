@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 945,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 581,
+  "Ranking_Popularity": 582,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 136,
@@ -691,9 +691,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11692,
+  "EOS_Progressed": 11693,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -14891,6 +14891,11 @@
       "Time": "2024-01-06T06:04:46.379921+00:00",
       "NumProgressed": 11692,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-06T07:04:20.0097109+00:00",
+      "NumProgressed": 11693,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 29,
@@ -14902,7 +14907,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9704
+      "UsersEstimate": 9705
     },
     {
       "ID": "ACH02",
@@ -14910,7 +14915,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "ACH03",
@@ -14942,7 +14947,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "ACH07",
@@ -15046,7 +15051,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "ACH20",
@@ -15133,7 +15138,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 11692,
+      "Progressed": 11693,
       "Completed": 78
     }
   ],
@@ -15141,8 +15146,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-04T20:59:03.7488216+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:04:46.3799204+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:04:20.0097104+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.0840087+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:59:50.9922501+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:04:46.3800179+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:59:02.7802835+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:04:20.0098064+00:00"
 }

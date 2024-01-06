@@ -29,8 +29,8 @@ Rating: 4.71 (Ranked 202)
 | The Cathedral of Light | 47.00% | ~343 |
 | Shame! Shame! Shame! | 47.00% | ~343 |
 | Pure Dynamite! | 45.00% | ~328 |
+| Dungeonlord Gorgu | 45.00% | ~328 |
 | Tanos' Crusade Against Thalya | 45.00% | ~328 |
-| Dungeonlord Gorgu | 44.00% | ~321 |
 | Mana Cannon | 42.00% | ~307 |
 | All’s Well That Ends Evil | 41.00% | ~299 |
 | The Duel | 38.00% | ~277 |
@@ -68,7 +68,7 @@ Rating: 4.71 (Ranked 202)
 | I Don't Need Any Help | 10.00% | ~73 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 730 (Ranked 315)  
-Completed: 30 (4.11%) (Ranked 90)  
+Completed: 30 (4.11%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

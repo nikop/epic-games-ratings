@@ -32,8 +32,8 @@ Number of Ratings: 124  (23.09.2022)
 | Perfectionist | 6.00% | ~11 |
 | Lover | 6.00% | ~11 |
 | Free as a Bird | 5.00% | ~9 |
+| Detective | 5.00% | ~9 |
 | Cleric | 4.00% | ~8 |
-| Detective | 4.00% | ~8 |
 | Weaponsmith | 3.00% | ~6 |
 | Alchemist | 3.00% | ~6 |
 | Self-Sufficient | 3.00% | ~6 |

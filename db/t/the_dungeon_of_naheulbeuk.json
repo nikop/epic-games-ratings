@@ -1689,9 +1689,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246769,
+  "EOS_Progressed": 246772,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1288,
+  "EOS_NewPlayers": 1281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25124,6 +25124,11 @@
       "Time": "2024-01-06T06:10:21.0005468+00:00",
       "NumProgressed": 246769,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-06T07:10:13.6830211+00:00",
+      "NumProgressed": 246772,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25191,7 +25196,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12338
+      "UsersEstimate": 12339
     },
     {
       "ID": "Chapter3",
@@ -25583,7 +25588,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88837
+      "UsersEstimate": 88838
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25599,7 +25604,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12338
+      "UsersEstimate": 12339
     },
     {
       "ID": "EndCombatOneHp",
@@ -25607,7 +25612,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12338
+      "UsersEstimate": 12339
     },
     {
       "ID": "EndGameCursed",
@@ -25838,21 +25843,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246769,
+      "Progressed": 246772,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246769,
+      "Progressed": 246772,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-06T02:57:39.1123586+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:10:21.0005465+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:10:13.6830208+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:58:06.435269+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:10:21.0007451+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:57:53.1589423+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:10:13.6832228+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1635,
+  "EOS_Progressed": 1638,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4269,6 +4269,11 @@
       "Time": "2024-01-06T06:10:12.195417+00:00",
       "NumProgressed": 1635,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T07:10:06.7233346+00:00",
+      "NumProgressed": 1638,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4328,7 +4333,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4336,7 +4341,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1622
     },
     {
       "ID": "EXPERT_1",
@@ -4358,9 +4363,9 @@
       "ID": "GHOSTBUSTER",
       "SetID": "bf13m8j",
       "Name": "Ghostbuster",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "GRAVE_DIGGER_1",
@@ -4374,9 +4379,9 @@
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 262
     },
     {
       "ID": "INDY_1",
@@ -4432,7 +4437,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4440,7 +4445,7 @@
       "Name": "One shot, one kill",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "PACIFIST",
@@ -4456,7 +4461,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4472,7 +4477,7 @@
       "Name": "Protection racket",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "RELICTS",
@@ -4496,7 +4501,7 @@
       "Name": "Sacrifice",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "SAVANT_1",
@@ -4512,7 +4517,7 @@
       "Name": "Secret room",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "SHOG",
@@ -4536,7 +4541,7 @@
       "Name": "Traveler",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "VVE",
@@ -4552,7 +4557,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "WISHMASTER_1",
@@ -4567,15 +4572,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1635,
+      "Progressed": 1638,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:10:12.1954168+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:10:06.7233343+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:58:35.5230748+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:10:12.1954472+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:58:12.3907251+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:10:06.7233704+00:00"
 }

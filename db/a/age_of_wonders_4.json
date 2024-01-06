@@ -5,7 +5,7 @@
   "Ranking_Rating": 379,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 411,
-  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 155,
@@ -723,9 +723,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6928,
+  "EOS_Progressed": 6935,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10508,6 +10508,11 @@
       "Time": "2024-01-06T06:04:35.3638561+00:00",
       "NumProgressed": 6928,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T07:04:12.1389798+00:00",
+      "NumProgressed": 6935,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10519,7 +10524,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "10",
@@ -10631,7 +10636,7 @@
       "Name": "Realm Estate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "23",
@@ -10639,7 +10644,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "24",
@@ -10647,7 +10652,7 @@
       "Name": "Secret Technique",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "25",
@@ -10655,7 +10660,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "26",
@@ -10679,7 +10684,7 @@
       "Name": "From Friends to Family",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "29",
@@ -10711,7 +10716,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "32",
@@ -10791,7 +10796,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "41",
@@ -10983,7 +10988,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "60",
@@ -10998,13 +11003,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6928,
+      "Progressed": 6935,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6928,
+      "Progressed": 6935,
       "Completed": 7
     }
   ],
@@ -11012,8 +11017,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:04:35.3638558+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:04:12.1389793+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:02:45.1104533+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:04:35.3639348+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:02:54.2349091+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:04:12.1390574+00:00"
 }

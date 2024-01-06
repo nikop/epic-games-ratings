@@ -14097,9 +14097,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 493095,
+  "EOS_Progressed": 493118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5556,
+  "EOS_NewPlayers": 5550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44167,6 +44167,11 @@
       "Time": "2024-01-06T06:09:58.1656316+00:00",
       "NumProgressed": 493095,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T07:09:56.453954+00:00",
+      "NumProgressed": 493118,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45178,7 +45183,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "achievement_grand_coalition",
@@ -46458,7 +46463,7 @@
       "Name": "That is mine!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -46874,7 +46879,7 @@
       "Name": "Victorious!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -47081,21 +47086,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 493095,
+      "Progressed": 493118,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 493095,
+      "Progressed": 493118,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-05T18:59:54.6108366+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:09:58.1656314+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:09:56.4539537+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-06T05:59:11.1800521+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:09:58.1666651+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:58:36.1322482+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:09:56.4550411+00:00"
 }

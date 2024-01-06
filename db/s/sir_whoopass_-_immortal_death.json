@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -783,9 +783,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_01",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Moist Overhangs",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_02",
@@ -919,9 +919,9 @@
       "ID": "DODGE_2",
       "SetID": "9gfkh7c",
       "Name": "I\u0027m going to get a concussion",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "DODGE_3",
@@ -1047,9 +1047,9 @@
       "ID": "GNOME_2",
       "SetID": "9gfkh7c",
       "Name": "Your daily dose of Vitamin C.",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "GNOME_3",
@@ -1366,8 +1366,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:10:24.50401+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:10:16.3671599+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.4318618+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:03:18.9084005+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:10:24.5040899+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:03:17.1310036+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:10:16.3672282+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1093,
-  "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 581,
+  "Ranking_Popularity": 582,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,7 +95,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2180,
+  "EOS_Progressed": 2181,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -8395,6 +8395,11 @@
       "Time": "2024-01-06T01:51:08.6441195+00:00",
       "NumProgressed": 2180,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T07:04:38.7937052+00:00",
+      "NumProgressed": 2181,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8508,9 +8513,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 436
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8582,7 +8587,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8709,7 +8714,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2180,
+      "Progressed": 2181,
       "Completed": 1
     }
   ],
@@ -8717,8 +8722,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:05:12.3459027+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:04:38.7937048+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:00:55.6486363+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:05:12.3459874+00:00"
+  "LastUpdate_Ratings": "2024-01-06T06:59:48.1646194+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:04:38.7937581+00:00"
 }

@@ -819,9 +819,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3787,
+  "EOS_Progressed": 3789,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5584,6 +5584,11 @@
       "Time": "2024-01-06T03:06:32.564191+00:00",
       "NumProgressed": 3787,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T07:06:27.5703856+00:00",
+      "NumProgressed": 3789,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5683,7 +5688,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ExtractorSkullUses",
@@ -5763,7 +5768,7 @@
       "Name": "Not So Fast...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "Kills_Bleed",
@@ -5859,7 +5864,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -5867,7 +5872,7 @@
       "Name": "Nemesis Master",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -5875,7 +5880,7 @@
       "Name": "Gunmaster",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "MasterOfTheForge",
@@ -5963,7 +5968,7 @@
       "Name": "A Foul Creche",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -6138,21 +6143,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3787,
+      "Progressed": 3789,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3787,
+      "Progressed": 3789,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-04T18:03:14.3502303+00:00",
-  "LastChanged_Achievements": "2024-01-06T06:07:42.1180109+00:00",
+  "LastChanged_Achievements": "2024-01-06T07:06:27.5703851+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:03:19.6407484+00:00",
-  "LastUpdate_Achievements": "2024-01-06T06:07:42.1180933+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:03:17.6369217+00:00",
+  "LastUpdate_Achievements": "2024-01-06T07:06:27.570466+00:00"
 }
