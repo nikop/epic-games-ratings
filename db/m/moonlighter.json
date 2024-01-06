@@ -3,12 +3,12 @@
   "Name": "Moonlighter",
   "ProductSlug": "moonlighter",
   "Ranking_Rating": 235,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 580,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2018-05-29T15:00:00+00:00",
     "PcReleaseDate": "2018-05-29T15:00:00+00:00",
@@ -609,6 +609,6 @@
   "FirstSeen": "2022-07-22T20:20:50.3946089+00:00",
   "LastChanged": "2023-03-31T05:57:22.4424645+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:17.674928+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:59:07.6664218+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:03:57.3516659+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:00:07.0883363+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:04:48.2512836+00:00"
 }

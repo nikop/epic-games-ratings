@@ -6,9 +6,9 @@
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -402,9 +402,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208625,
+  "EOS_Progressed": 208631,
   "EOS_Completed": 556,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28277,6 +28277,11 @@
       "Time": "2024-01-06T03:04:17.6876523+00:00",
       "NumProgressed": 208625,
       "NumCompleted": 556
+    },
+    {
+      "Time": "2024-01-06T04:05:12.1952249+00:00",
+      "NumProgressed": 208631,
+      "NumCompleted": 556
     }
   ],
   "TotalAchievements": 29,
@@ -28296,7 +28301,7 @@
       "Name": "You\u0027ve been through a lot.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "ACHIEVEMENT_BINARY",
@@ -28304,7 +28309,7 @@
       "Name": "People\u0027s feelings on these ones are very... Binary...",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "ACHIEVEMENT_BOARDED",
@@ -28312,7 +28317,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196108
+      "UsersEstimate": 196113
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -28328,7 +28333,7 @@
       "Name": "I hope you\u0027re ready.",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "ACHIEVEMENT_CARDS",
@@ -28352,7 +28357,7 @@
       "Name": "I hope your remember your colour theory.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "ACHIEVEMENT_CONSTELLATION",
@@ -28368,7 +28373,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10431
+      "UsersEstimate": 10432
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -28376,7 +28381,7 @@
       "Name": "Corrupted \u002B",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACHIEVEMENT_CREW",
@@ -28392,7 +28397,7 @@
       "Name": "Care to take a nap?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "ACHIEVEMENT_HEIGHT",
@@ -28400,7 +28405,7 @@
       "Name": "Like wide, but upwards.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "ACHIEVEMENT_JIGSAW",
@@ -28408,7 +28413,7 @@
       "Name": "Put the pieces together.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "ACHIEVEMENT_MULTI",
@@ -28416,7 +28421,7 @@
       "Name": "Two cute little robots are better than one.",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "ACHIEVEMENT_NEGATIVE",
@@ -28432,7 +28437,7 @@
       "Name": "Technically, we told you how to solve them.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "ACHIEVEMENT_PADS",
@@ -28440,7 +28445,7 @@
       "Name": "They\u0027re like really flat pillars.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "ACHIEVEMENT_PAIRED",
@@ -28448,7 +28453,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10431
+      "UsersEstimate": 10432
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -28472,7 +28477,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20862
+      "UsersEstimate": 20863
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -28504,7 +28509,7 @@
       "Name": "That\u0027s a wrap.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "ACHIEVEMENT_YINYANG",
@@ -28512,14 +28517,14 @@
       "Name": "In balance.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     }
   ],
   "AchievementSets": [
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208625,
+      "Progressed": 208631,
       "Completed": 556
     }
   ],
@@ -28527,8 +28532,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-01T02:58:07.3780611+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:04:17.6876521+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:05:12.1952244+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.5074852+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:00:03.6189981+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:04:17.6878053+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:01:17.3378932+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:05:12.1953675+00:00"
 }

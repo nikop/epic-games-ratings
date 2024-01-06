@@ -3,12 +3,12 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 23,
-  "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 470,
+  "Ranking_Popularity": 381,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -275,18 +275,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 96,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-01-06T04:02:56.8031668+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 98,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 96,
-  "NumberOfAwardsMax": 96,
+  "NumberOfAwards": 98,
+  "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 96
+      "Count": 98
     }
   ],
   "EOS_Progressed": 1286,
@@ -3817,9 +3823,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 347
     },
     {
       "ID": "JustOneLap",
@@ -4025,9 +4031,9 @@
       "ID": "TheFuture",
       "SetID": "1n308hc",
       "Name": "The Future",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 64
     },
     {
       "ID": "TheHardWay",
@@ -4129,9 +4135,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:05:04.9153921+00:00",
+  "LastChanged": "2024-01-06T04:02:56.8031666+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:06:07.0629379+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:02:26.2075356+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:05:04.9154581+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:02:56.8031671+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:06:07.0630022+00:00"
 }

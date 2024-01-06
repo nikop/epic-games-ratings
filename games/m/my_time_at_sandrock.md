@@ -7,17 +7,17 @@ Number of Ratings: 892  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept Assembler | 208.00% | ~1,728 |
-| Super Spelunker | 146.00% | ~1,213 |
+| Super Spelunker | 147.00% | ~1,222 |
 | Iron Chef | 142.00% | ~1,180 |
 | The Little Wood that Could | 117.00% | ~972 |
-| Officially Official | 113.00% | ~939 |
+| Officially Official | 114.00% | ~947 |
 | Greeno-B-Gone | 110.00% | ~914 |
 | On that Grindset | 109.00% | ~906 |
 | Better Late than Never | 96.00% | ~798 |
 | Your Especially Earned Trajectory | 93.00% | ~773 |
+| Pack Mule | 88.00% | ~731 |
 | Got Served | 88.00% | ~731 |
 | One of the Cool Kids | 88.00% | ~731 |
-| Pack Mule | 87.00% | ~723 |
 | Knowledge is Power | 86.00% | ~715 |
 | Mole Masher | 86.00% | ~715 |
 | Diamonds are Forever | 86.00% | ~715 |
@@ -68,7 +68,7 @@ Number of Ratings: 892  (23.09.2022)
 | Sandrock's Hottest Club | 5.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 831 (Ranked 304)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-06 | 835 | 0 |
 ## Awards
 Max (Character Customization): 624  (Ranked 203)  
-Sum: 1,492 (Ranked 244)  
+Sum: 1,493 (Ranked 244)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
@@ -153,7 +153,7 @@ Diff (max vs sum): -41
 | This game is Relaxing | 82 |
 | This game has Amazing Characters | 79 |
 | This game has Amazing Storytelling | 78 |
-| This game has Easy Combat | 73 |
+| This game has Easy Combat | 74 |
 | This game has a Creative Community | 63 |
 | This game has a Kind Community | 46 |
 | This game has Obsessive Gameplay | 40 |
@@ -369,3 +369,4 @@ Diff (max vs sum): -41
 | 2024-01-03 | 4.68 | - | 623 | 1,487 |
 | 2024-01-04 | 4.68 | - | 623 | 1,489 |
 | 2024-01-05 | 4.68 | - | 624 | 1,492 |
+| 2024-01-06 | 4.68 | - | 624 | 1,493 |

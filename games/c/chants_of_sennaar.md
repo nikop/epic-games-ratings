@@ -7,7 +7,7 @@ Rating: 4.83 (Ranked 54)
 | ---- | ---------- | ----- |
 | That's the spirit | 59.00% | ~1,437 |
 | Welcome to the Tower | 53.00% | ~1,291 |
-| The great escape | 44.00% | ~1,071 |
+| The great escape | 45.00% | ~1,096 |
 | The Preacher's fate | 43.00% | ~1,047 |
 | A new dawn | 36.00% | ~877 |
 | Scholar | 32.00% | ~779 |
@@ -18,9 +18,9 @@ Rating: 4.83 (Ranked 54)
 | Cable guy | 26.00% | ~633 |
 | Half the way | 26.00% | ~633 |
 | I did it | 25.00% | ~609 |
+| Peace walker | 25.00% | ~609 |
 | Rascal | 25.00% | ~609 |
 | In this together | 24.00% | ~584 |
-| Peace walker | 24.00% | ~584 |
 | Champollion | 24.00% | ~584 |
 | Open door | 21.00% | ~511 |
 | Feels like springtime | 21.00% | ~511 |
@@ -32,7 +32,7 @@ Rating: 4.83 (Ranked 54)
 | Fashion victim | 8.00% | ~195 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,435 (Ranked 236)  
-Completed: 158 (6.49%) (Ranked 63)  
+Completed: 158 (6.49%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

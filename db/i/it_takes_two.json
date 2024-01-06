@@ -3,7 +3,7 @@
   "Name": "It Takes Two",
   "ProductSlug": "it-takes-two",
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 268,
+  "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 17,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 99818,
+  "EOS_Progressed": 99867,
   "EOS_Completed": 217,
-  "EOS_NewPlayers": 16059,
+  "EOS_NewPlayers": 16029,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -12688,6 +12688,11 @@
       "Time": "2024-01-06T03:09:26.6737288+00:00",
       "NumProgressed": 99818,
       "NumCompleted": 217
+    },
+    {
+      "Time": "2024-01-06T04:10:31.0130264+00:00",
+      "NumProgressed": 99867,
+      "NumCompleted": 217
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -12700,7 +12705,7 @@
       "Name": "It Took Two",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 29945
+      "UsersEstimate": 29960
     },
     {
       "ID": "achievement_10",
@@ -12708,7 +12713,7 @@
       "Name": "Snackosaurus",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 5989
+      "UsersEstimate": 5992
     },
     {
       "ID": "achievement_11",
@@ -12716,7 +12721,7 @@
       "Name": "Realize Your Art",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7989
     },
     {
       "ID": "achievement_12",
@@ -12724,7 +12729,7 @@
       "Name": "On Rails Experience",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 43920
+      "UsersEstimate": 43941
     },
     {
       "ID": "achievement_13",
@@ -12732,7 +12737,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 5989
+      "UsersEstimate": 5992
     },
     {
       "ID": "achievement_14",
@@ -12740,7 +12745,7 @@
       "Name": "Force Triangulated",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7989
     },
     {
       "ID": "achievement_15",
@@ -12748,7 +12753,7 @@
       "Name": "Lost And Found",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 5989
+      "UsersEstimate": 5992
     },
     {
       "ID": "achievement_16",
@@ -12756,7 +12761,7 @@
       "Name": "Mood Swing",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3993
+      "UsersEstimate": 3995
     },
     {
       "ID": "achievement_17",
@@ -12764,7 +12769,7 @@
       "Name": "Something Fishy",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 5989
+      "UsersEstimate": 5992
     },
     {
       "ID": "achievement_18",
@@ -12772,7 +12777,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 9982
+      "UsersEstimate": 9987
     },
     {
       "ID": "achievement_19",
@@ -12780,7 +12785,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 13975
+      "UsersEstimate": 13981
     },
     {
       "ID": "achievement_2",
@@ -12788,7 +12793,7 @@
       "Name": "Minigame Megalomania",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "achievement_20",
@@ -12796,7 +12801,7 @@
       "Name": "Meditation Maestro",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7989
     },
     {
       "ID": "achievement_3",
@@ -12804,7 +12809,7 @@
       "Name": "Fried Friendship",
       "Percentage": 83,
       "XP": 50,
-      "UsersEstimate": 82849
+      "UsersEstimate": 82890
     },
     {
       "ID": "achievement_4",
@@ -12812,7 +12817,7 @@
       "Name": "Struck A Pose",
       "Percentage": 82,
       "XP": 50,
-      "UsersEstimate": 81851
+      "UsersEstimate": 81891
     },
     {
       "ID": "achievement_5",
@@ -12820,7 +12825,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 12976
+      "UsersEstimate": 12983
     },
     {
       "ID": "achievement_6",
@@ -12828,7 +12833,7 @@
       "Name": "Faraway Frequencies",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "achievement_7",
@@ -12836,7 +12841,7 @@
       "Name": "Look At Him Go",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 67876
+      "UsersEstimate": 67910
     },
     {
       "ID": "achievement_8",
@@ -12844,7 +12849,7 @@
       "Name": "Break the Bank",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 32940
+      "UsersEstimate": 32956
     },
     {
       "ID": "achievement_9",
@@ -12852,20 +12857,20 @@
       "Name": "A Daring Devil",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 42922
+      "UsersEstimate": 42943
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 99818,
+      "Progressed": 99867,
       "Completed": 217
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:09:26.6737286+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:10:31.0130259+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.6113252+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:58:30.4574016+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:09:26.6738072+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:59:19.1958381+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:10:31.0130891+00:00"
 }

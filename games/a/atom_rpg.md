@@ -44,7 +44,7 @@ Number of Ratings: 54  (23.09.2022)
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,633 (Ranked 260)  
-Completed: 1 (0.06%) (Ranked 329)  
+Completed: 1 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,8 +258,8 @@ Completed: 1 (0.06%) (Ranked 329)
 | 2024-01-05 | 1,632 | 1 |
 | 2024-01-06 | 1,633 | 1 |
 ## Awards
-Max (Character Customization): 52  (Ranked 447)  
-Sum: 52 (Ranked 503)  
+Max (Character Customization): 52  (Ranked 448)  
+Sum: 52 (Ranked 504)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |

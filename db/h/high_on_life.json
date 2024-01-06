@@ -3,12 +3,12 @@
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
   "Ranking_Rating": 321,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 580,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25041,
+  "EOS_Progressed": 25042,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8761,6 +8761,11 @@
       "Time": "2024-01-06T03:08:35.2007145+00:00",
       "NumProgressed": 25041,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-06T04:09:29.5842908+00:00",
+      "NumProgressed": 25042,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9123,13 +9128,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25041,
+      "Progressed": 25042,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2334,
+      "Progressed": 2335,
       "Completed": 1376
     }
   ],
@@ -9137,8 +9142,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:08:35.2007142+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:09:29.5842902+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.3334267+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:02:49.4573764+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:08:35.200771+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:03:24.6451917+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:09:29.5843475+00:00"
 }

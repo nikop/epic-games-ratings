@@ -3,12 +3,12 @@
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
   "Ranking_Rating": 471,
-  "Ranking_Popularity": 476,
+  "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1063,9 +1063,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9788,
+  "EOS_Progressed": 9789,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10668,6 +10668,11 @@
       "Time": "2024-01-06T01:55:32.2957867+00:00",
       "NumProgressed": 9788,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T04:10:14.8141547+00:00",
+      "NumProgressed": 9789,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10687,7 +10692,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -11015,7 +11020,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -11038,7 +11043,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9788,
+      "Progressed": 9789,
       "Completed": 10
     }
   ],
@@ -11046,8 +11051,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-04T11:02:12.5493527+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:09:13.3088611+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:10:14.8141541+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:57:26.7979558+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:09:13.3089246+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:57:58.5855531+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:10:14.8142341+00:00"
 }

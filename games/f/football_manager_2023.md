@@ -107,7 +107,7 @@ Rating: 4.76 (Ranked 130)
 | Draft Value | 0.10% | ~370 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 370,062 (Ranked 53)  
-Completed: 29 (0.01%) (Ranked 370)  
+Completed: 29 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -370,8 +370,8 @@ Completed: 29 (0.01%) (Ranked 370)
 | 2024-01-06 | 370,062 | 29 |
 ## Awards
 Max (Diverse Characters): 1,349  (Ranked 141)  
-Sum: 9,236 (Ranked 100)  
-Diff (max vs sum): 41  
+Sum: 9,236 (Ranked 101)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,349 |

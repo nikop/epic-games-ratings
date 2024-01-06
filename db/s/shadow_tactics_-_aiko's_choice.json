@@ -3,12 +3,12 @@
   "Name": "Shadow Tactics - Aiko\u0027s Choice",
   "ProductSlug": "shadow-tactics-aikos-choice-5678c1",
   "Ranking_Rating": 190,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 580,
+  "Ranking_Popularity": 396,
+  "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-12-06T18:00:00+00:00",
     "PcReleaseDate": "2021-12-06T00:00:00+00:00",
@@ -513,17 +513,24 @@
       "Rating": 4.72,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2024-01-06T04:00:08.2844884+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 87,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 87,
+  "NumberOfAwardsMax": 87,
+  "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 84
+      "Count": 87
     }
   ],
   "EOS_Progressed": 0,
@@ -545,9 +552,9 @@
   ],
   "FirstSeen": "2022-07-22T20:30:07.8581549+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.6758612+00:00",
-  "LastChanged": "2023-12-28T03:59:02.7894461+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:05:10.6025192+00:00",
+  "LastChanged": "2024-01-06T04:00:08.2844883+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:06:13.8225742+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:02.7514137+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:59:08.5408551+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:05:10.6025217+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:00:08.2844887+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:06:13.8225778+00:00"
 }

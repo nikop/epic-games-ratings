@@ -3,12 +3,12 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 876,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 580,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 100,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98298,
+  "EOS_Progressed": 98299,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 1012,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -29565,6 +29565,11 @@
       "Time": "2024-01-06T03:09:05.1403839+00:00",
       "NumProgressed": 98298,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2024-01-06T04:10:05.0677169+00:00",
+      "NumProgressed": 98299,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 10,
@@ -29640,7 +29645,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34404
+      "UsersEstimate": 34405
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -29655,15 +29660,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 98298,
+      "Progressed": 98299,
       "Completed": 451
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:09:05.1403837+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:10:05.0677164+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.1360404+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:03:03.1692216+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:09:05.1405681+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:03:41.6946117+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:10:05.0678851+00:00"
 }

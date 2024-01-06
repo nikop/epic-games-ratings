@@ -3,12 +3,12 @@
   "Name": "The Jackbox Party Pack",
   "ProductSlug": "jackbox-party-pack-1",
   "Ranking_Rating": 3,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 580,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2014-11-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -61,6 +61,6 @@
   "FirstSeenRating": "2022-11-04T09:34:14.0083626+00:00",
   "LastChanged": "2023-11-06T06:57:06.6656535+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:41.5999958+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:58:45.6347091+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:03:22.8503818+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:59:39.2637067+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:04:07.6769781+00:00"
 }

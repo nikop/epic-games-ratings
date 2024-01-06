@@ -3,9 +3,9 @@
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 205,
-  "Ranking_EOS_Completed": 314,
+  "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4619,
+  "EOS_Progressed": 4638,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3339,
+  "EOS_NewPlayers": 3336,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1364,6 +1364,11 @@
       "Time": "2024-01-06T03:08:14.0952576+00:00",
       "NumProgressed": 4619,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T04:09:04.7078044+00:00",
+      "NumProgressed": 4638,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1375,7 +1380,7 @@
       "Name": "All Dead, All Dead",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 785
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -1383,7 +1388,7 @@
       "Name": "Cool Cat",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_FRIENDS",
@@ -1391,7 +1396,7 @@
       "Name": "Friends Will Be Friends",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_GOOD_COMPANY",
@@ -1407,7 +1412,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1252
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -1431,7 +1436,7 @@
       "Name": "Misfire",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 739
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_NOW_IM_HERE",
@@ -1439,7 +1444,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2133
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -1455,7 +1460,7 @@
       "Name": "Rock It",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_THE_HERO",
@@ -1463,7 +1468,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2365
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -1471,7 +1476,7 @@
       "Name": "The Hitman",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1252
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -1479,7 +1484,7 @@
       "Name": "The Invisible Man",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 739
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -1487,7 +1492,7 @@
       "Name": "The Miracle",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_WE_WILL_ROCK_YOU",
@@ -1495,14 +1500,14 @@
       "Name": "We Will Rock You",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 4619,
+      "Progressed": 4638,
       "Completed": 4
     }
   ],
@@ -1510,8 +1515,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:08:14.0952575+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:09:04.7078039+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:17.9460283+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:02:37.9960227+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:08:14.0952743+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:03:11.1216945+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:09:04.7078193+00:00"
 }

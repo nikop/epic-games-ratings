@@ -2,13 +2,13 @@
   "ID": "2a09fb19b47f46dfb11ebd382f132a8f",
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "ProductSlug": "marvels-guardians-of-the-galaxy",
-  "Ranking_Rating": 202,
+  "Ranking_Rating": 217,
   "Ranking_Popularity": 194,
-  "Ranking_PopularitySum": 278,
+  "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 898,
   "RatingHistory": [
     {
@@ -1676,10 +1676,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 974,
       "NumberOfAwardsMax": 714
+    },
+    {
+      "Time": "2024-01-06T03:58:21.4027589+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 975,
+      "NumberOfAwardsMax": 714
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 974,
+  "NumberOfAwards": 975,
   "NumberOfAwardsMax": 714,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1723,7 +1729,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1749,8 +1755,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-01-05T19:57:39.4380323+00:00",
+  "LastChanged": "2024-01-06T03:58:21.4027587+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:25.8711846+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:57:44.6290084+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:04:00.4001349+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:58:21.402759+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:04:51.8361642+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 704,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 580,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -425,7 +425,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28057,
+  "EOS_Progressed": 28060,
   "EOS_Completed": 514,
   "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 10,
@@ -28525,6 +28525,11 @@
       "Time": "2024-01-06T03:05:13.3991618+00:00",
       "NumProgressed": 28057,
       "NumCompleted": 514
+    },
+    {
+      "Time": "2024-01-06T04:06:16.9655785+00:00",
+      "NumProgressed": 28060,
+      "NumCompleted": 514
     }
   ],
   "TotalAchievements": 20,
@@ -28536,7 +28541,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -28568,7 +28573,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -28616,7 +28621,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "FOUND_MAMBA",
@@ -28624,7 +28629,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -28632,7 +28637,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3647
+      "UsersEstimate": 3648
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -28640,7 +28645,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "GAME_FINISHED",
@@ -28656,7 +28661,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21323
+      "UsersEstimate": 21326
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28664,7 +28669,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7575
+      "UsersEstimate": 7576
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28672,7 +28677,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3647
+      "UsersEstimate": 3648
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -28680,7 +28685,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "WEST_FINISHED",
@@ -28688,22 +28693,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5050
+      "UsersEstimate": 5051
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28057,
+      "Progressed": 28060,
       "Completed": 514
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:05:13.3991615+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:06:16.965578+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:58:20.6955176+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:05:13.3992779+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:59:06.5458742+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:06:16.9657334+00:00"
 }

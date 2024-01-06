@@ -32,7 +32,7 @@ Rating: 4.55 (Ranked 525)
 | Play it again, Ronny | 11.00% | ~57 |
 | Goat Team | 10.00% | ~52 |
 | Paradox! | 10.00% | ~52 |
-| Weapons 101 | 8.00% | ~41 |
+| Weapons 101 | 9.00% | ~46 |
 | Sadist | 7.00% | ~36 |
 | The customer is always right | 6.00% | ~31 |
 | Pacifist | 6.00% | ~31 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 525)
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 515 (Ranked 342)  
-Completed: 7 (1.36%) (Ranked 152)  
+Completed: 7 (1.36%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
-  "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1856,
+  "EOS_Progressed": 1857,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -4667,6 +4667,11 @@
       "Time": "2024-01-06T01:49:57.8963201+00:00",
       "NumProgressed": 1856,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T04:04:23.9715264+00:00",
+      "NumProgressed": 1857,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4823,7 +4828,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -5046,20 +5051,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1856,
+      "Progressed": 1857,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1524,
+      "Progressed": 1525,
       "Completed": 1007
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:03:36.6225836+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:04:23.971526+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:02:34.8651689+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:03:36.6226374+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:03:07.3912079+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:04:23.9715788+00:00"
 }

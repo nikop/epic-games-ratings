@@ -3,10 +3,10 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1091,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 580,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82817,
+  "EOS_Progressed": 82820,
   "EOS_Completed": 919,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29216,6 +29216,11 @@
       "Time": "2024-01-06T03:05:22.9643231+00:00",
       "NumProgressed": 82817,
       "NumCompleted": 919
+    },
+    {
+      "Time": "2024-01-06T04:06:28.2168023+00:00",
+      "NumProgressed": 82820,
+      "NumCompleted": 919
     }
   ],
   "TotalAchievements": 25,
@@ -29243,7 +29248,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15735
+      "UsersEstimate": 15736
     },
     {
       "ID": "Audiophile",
@@ -29267,7 +29272,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14907
+      "UsersEstimate": 14908
     },
     {
       "ID": "Butcher",
@@ -29299,7 +29304,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16563
+      "UsersEstimate": 16564
     },
     {
       "ID": "Hearty",
@@ -29347,7 +29352,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15735
+      "UsersEstimate": 15736
     },
     {
       "ID": "Nice Try",
@@ -29379,7 +29384,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11594
+      "UsersEstimate": 11595
     },
     {
       "ID": "Sniper",
@@ -29419,14 +29424,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 82817,
+      "Progressed": 82820,
       "Completed": 919
     }
   ],
@@ -29434,8 +29439,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:05:22.9643228+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:06:28.2168018+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.0198367+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:56:50.9210173+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:05:22.9644858+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:57:13.8204073+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:06:28.2169589+00:00"
 }

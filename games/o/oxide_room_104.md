@@ -37,7 +37,7 @@
 | Sly as a fox | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 304 (Ranked 392)  
-Completed: 1 (0.33%) (Ranked 245)  
+Completed: 1 (0.33%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,357 (Ranked 238)  
-Completed: 1 (0.04%) (Ranked 347)  
+Completed: 1 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,9 +316,9 @@ Completed: 1 (0.04%) (Ranked 347)
 | 2024-01-05 | 2,356 | 1 |
 | 2024-01-06 | 2,357 | 1 |
 ## Awards
-Max (Great for Beginners): 50  (Ranked 455)  
+Max (Great for Beginners): 50  (Ranked 456)  
 Sum: 332 (Ranked 373)  
-Diff (max vs sum): 82  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |

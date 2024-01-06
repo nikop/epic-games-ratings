@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,548 (Ranked 222)  
-Completed: 2 (0.06%) (Ranked 329)  
+Progressed: 3,549 (Ranked 222)  
+Completed: 2 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,11 +291,11 @@ Completed: 2 (0.06%) (Ranked 329)
 | 2024-01-03 | 3,515 | 2 |
 | 2024-01-04 | 3,529 | 2 |
 | 2024-01-05 | 3,543 | 2 |
-| 2024-01-06 | 3,548 | 2 |
+| 2024-01-06 | 3,549 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 63  (Ranked 422)  
-Sum: 581 (Ranked 325)  
-Diff (max vs sum): 97  
+Max (Great for Quick Sessions): 63  (Ranked 423)  
+Sum: 583 (Ranked 325)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 63 |
@@ -304,11 +304,11 @@ Diff (max vs sum): 97
 | This game has Realistic Visuals | 51 |
 | This game has a Creative Community | 50 |
 | This game has Amazing Characters | 49 |
+| This game is Relaxing | 47 |
 | This game is Extremely Fun | 47 |
-| This game is Relaxing | 46 |
 | This game has Amazing Storytelling | 46 |
 | This game has Quickly Understood Controls | 41 |
-| This game is Educational | 39 |
+| This game is Educational | 40 |
 | This game has Challenging Combat | 33 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -509,3 +509,4 @@ Diff (max vs sum): 97
 | 2024-01-02 | 4.69 | - | 62 | 579 |
 | 2024-01-03 | 4.69 | - | 62 | 580 |
 | 2024-01-04 | 4.69 | - | 63 | 581 |
+| 2024-01-06 | 4.69 | - | 63 | 583 |

@@ -23,11 +23,11 @@ Number of Ratings: 67  (23.09.2022)
 | Mint III | 0.70% | ~3 |
 | Walking Armory | 0.70% | ~3 |
 | Why'd It Have to Be Snakes? | 0.70% | ~3 |
-| Are You Not Entertained? | 0.50% | ~2 |
-| Collector | 0.50% | ~2 |
-| Full of Hell | 0.50% | ~2 |
-| Gatekeeper | 0.50% | ~2 |
-| Wicked Killington | 0.50% | ~2 |
+| Are You Not Entertained? | 0.40% | ~2 |
+| Collector | 0.40% | ~2 |
+| Full of Hell | 0.40% | ~2 |
+| Gatekeeper | 0.40% | ~2 |
+| Wicked Killington | 0.40% | ~2 |
 | Respect For Animals | 0.20% | ~1 |
 | The Promised End | 0.20% | ~1 |
 | Belial | 0.00% | ~0 |
@@ -37,8 +37,8 @@ Number of Ratings: 67  (23.09.2022)
 | Ready to Blow | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 359)  
-Completed: 0 (0.00%) (Ranked 392)  
+Progressed: 445 (Ranked 359)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,10 +61,10 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-03 | 396 | 0 |
 | 2024-01-04 | 417 | 0 |
 | 2024-01-05 | 437 | 0 |
-| 2024-01-06 | 444 | 0 |
+| 2024-01-06 | 445 | 0 |
 ## Awards
-Max (Great Boss Battles): 45  (Ranked 469)  
-Sum: 45 (Ranked 516)  
+Max (Great Boss Battles): 45  (Ranked 470)  
+Sum: 45 (Ranked 517)  
 Diff (max vs sum): -47  
 | Award | Count |
 | ----- | ----- |

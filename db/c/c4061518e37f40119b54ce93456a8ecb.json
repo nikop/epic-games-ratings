@@ -3,9 +3,9 @@
   "Name": "Return to Grace",
   "ProductSlug": "return-to-grace-92a75a",
   "Ranking_EOS_Progress": 621,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 520,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
     "PcReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -165,9 +165,9 @@
       "ID": "ACH_AllZenItems",
       "SetID": "aao9n96",
       "Name": "I\u0027m curious what makes you so curious",
-      "Percentage": 53,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_AllenEnding",
@@ -420,8 +420,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:06:30.1882131+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:08:37.0856291+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:05.0306485+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:57:33.4208631+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:06:30.1882401+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:58:06.9614021+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:08:37.0856517+00:00"
 }

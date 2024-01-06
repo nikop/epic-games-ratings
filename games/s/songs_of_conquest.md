@@ -62,7 +62,7 @@ Number of Ratings: 292  (23.09.2022)
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,001 (Ranked 290)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,9 +120,9 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-05 | 1,000 | 0 |
 | 2024-01-06 | 1,001 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 29  (Ranked 526)  
+Max (Quickly Understood Controls): 29  (Ranked 527)  
 Sum: 251 (Ranked 398)  
-Diff (max vs sum): 128  
+Diff (max vs sum): 129  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 29 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2227,9 +2227,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 291879,
+  "EOS_Progressed": 291898,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3130,
+  "EOS_NewPlayers": 3134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32117,6 +32117,11 @@
       "Time": "2024-01-06T03:06:33.6798116+00:00",
       "NumProgressed": 291879,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T04:08:41.2097141+00:00",
+      "NumProgressed": 291898,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -32352,7 +32357,7 @@
       "Name": "Ball Launched",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8756
+      "UsersEstimate": 8757
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -32439,21 +32444,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 291879,
+      "Progressed": 291898,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 10038,
+      "Progressed": 10057,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-06T00:03:17.7203346+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:06:33.6798114+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:08:41.2097135+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:37.0344456+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:03:11.9769705+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:06:33.6799876+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:03:52.6002437+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:08:41.2099186+00:00"
 }

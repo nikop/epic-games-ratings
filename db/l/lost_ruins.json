@@ -3,9 +3,9 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 664,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1814,6 +1814,11 @@
       "Time": "2024-01-06T00:10:22.5511436+00:00",
       "NumProgressed": 663,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T04:11:11.5424266+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1841,7 +1846,7 @@
       "Name": "Artifact Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Assassin",
@@ -1865,7 +1870,7 @@
       "Name": "Bug Hunter",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Cryomancer",
@@ -1903,9 +1908,9 @@
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 186
     },
     {
       "ID": "Hardboiled",
@@ -2105,7 +2110,7 @@
       "Name": "Trap Master",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "TreasureHunter",
@@ -2144,7 +2149,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 664,
       "Completed": 1
     }
   ],
@@ -2152,8 +2157,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:10:01.5185993+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:11:11.5424261+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:58:52.6112649+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:10:01.5186393+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:59:47.8718546+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:11:11.5424568+00:00"
 }

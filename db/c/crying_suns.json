@@ -6,9 +6,9 @@
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 45,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473422,
+  "EOS_Progressed": 473423,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27644,6 +27644,11 @@
       "Time": "2024-01-06T03:10:05.8937437+00:00",
       "NumProgressed": 473422,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-06T04:11:16.5897906+00:00",
+      "NumProgressed": 473423,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27671,7 +27676,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113621
+      "UsersEstimate": 113622
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -27807,7 +27812,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52076
+      "UsersEstimate": 52077
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -27831,7 +27836,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94684
+      "UsersEstimate": 94685
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -27839,7 +27844,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160963
+      "UsersEstimate": 160964
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28286,21 +28291,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17356,
+      "Progressed": 17357,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473422,
+      "Progressed": 473423,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:10:05.8937435+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:11:16.5897901+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:57:58.8129916+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:10:05.8939252+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:58:39.8829264+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:11:16.5900036+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 548,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 580,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,10 +325,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18354,
-  "EOS_Completed": 58,
-  "EOS_NewPlayers": 585,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 18356,
+  "EOS_Completed": 59,
+  "EOS_NewPlayers": 584,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -16415,6 +16415,11 @@
       "Time": "2024-01-06T03:05:34.5962081+00:00",
       "NumProgressed": 18354,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-06T04:06:41.7312666+00:00",
+      "NumProgressed": 18356,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16443,7 +16448,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "12",
@@ -16459,7 +16464,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "14",
@@ -16475,7 +16480,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "16",
@@ -16507,7 +16512,7 @@
       "Name": "Martian Music",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "2",
@@ -16579,7 +16584,7 @@
       "Name": "Bosmang",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "28",
@@ -16659,7 +16664,7 @@
       "Name": "Impossible Objects",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "31",
@@ -16691,7 +16696,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "35",
@@ -16706,22 +16711,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18354,
-      "Completed": 58
+      "Progressed": 18356,
+      "Completed": 59
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4308,
-      "Completed": 1204
+      "Progressed": 4310,
+      "Completed": 1206
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:05:34.5962079+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:06:41.7312661+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:57:11.6208167+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:05:34.596292+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:57:39.4402577+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:06:41.7313491+00:00"
 }

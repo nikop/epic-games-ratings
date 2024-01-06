@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,567 |
-| Worth it | 63.00% | ~43,266 |
-| Eagle Eye | 55.00% | ~37,772 |
-| Corpseman I | 39.00% | ~26,784 |
-| Blast fishing | 37.00% | ~25,410 |
-| Not alone | 32.00% | ~21,976 |
-| Headhunter I | 26.00% | ~17,856 |
-| Manual Labour I | 25.00% | ~17,169 |
-| Developers, Developers, Developers | 24.00% | ~16,482 |
-| Basic Training | 23.00% | ~15,795 |
+| Setting an example | 78.00% | ~53,570 |
+| Worth it | 63.00% | ~43,268 |
+| Eagle Eye | 55.00% | ~37,773 |
+| Corpseman I | 39.00% | ~26,785 |
+| Blast fishing | 37.00% | ~25,411 |
+| Not alone | 32.00% | ~21,977 |
+| Headhunter I | 26.00% | ~17,857 |
+| Manual Labour I | 25.00% | ~17,170 |
+| Developers, Developers, Developers | 24.00% | ~16,483 |
+| Basic Training | 23.00% | ~15,796 |
 | Furchtlos und Treu | 13.00% | ~8,928 |
 | Gott Mit Uns | 12.00% | ~8,241 |
 | This We'll Defend! | 9.00% | ~6,181 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | For King and Country | 9.00% | ~6,181 |
 | Battle hardened | 8.00% | ~5,494 |
 | Anker wirf! | 8.00% | ~5,494 |
-| Semper Fidelis! | 7.00% | ~4,807 |
-| Honneur et Patrie | 7.00% | ~4,807 |
+| Semper Fidelis! | 7.00% | ~4,808 |
+| Honneur et Patrie | 7.00% | ~4,808 |
 | In Treue Fest | 5.00% | ~3,434 |
 | Voor De Koning | 5.00% | ~3,434 |
 | Extreme Headhunter | 5.00% | ~3,434 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~69 |
 | Blood Brother | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,676 (Ranked 114)  
-Completed: 4 (0.01%) (Ranked 370)  
+Progressed: 68,679 (Ranked 114)  
+Completed: 4 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -327,7 +327,7 @@ Completed: 4 (0.01%) (Ranked 370)
 | 2024-01-03 | 68,472 | 4 |
 | 2024-01-04 | 68,566 | 4 |
 | 2024-01-05 | 68,665 | 4 |
-| 2024-01-06 | 68,676 | 4 |
+| 2024-01-06 | 68,679 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 370)  
 Sum: 830 (Ranked 288)  

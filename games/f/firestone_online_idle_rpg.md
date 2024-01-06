@@ -82,7 +82,7 @@ Rating: 4.05 (Ranked 1,032)
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,240 (Ranked 209)  
-Completed: 2 (0.05%) (Ranked 335)  
+Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -339,9 +339,9 @@ Completed: 2 (0.05%) (Ranked 335)
 | 2024-01-05 | 4,228 | 2 |
 | 2024-01-06 | 4,240 | 2 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 480)  
+Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 154 (Ranked 437)  
-Diff (max vs sum): 43  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |

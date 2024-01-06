@@ -3,12 +3,12 @@
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
   "Ranking_Rating": 635,
-  "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 516,
+  "Ranking_Popularity": 470,
+  "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 359,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -445,7 +445,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
@@ -1690,6 +1690,11 @@
       "Time": "2024-01-06T01:56:17.467321+00:00",
       "NumProgressed": 444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T04:10:57.0013955+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1708,7 +1713,7 @@
       "ID": "AreYouNotEntertained",
       "SetID": "329ak73",
       "Name": "Are You Not Entertained?",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1748,7 +1753,7 @@
       "ID": "Collector",
       "SetID": "329ak73",
       "Name": "Collector",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -1772,7 +1777,7 @@
       "ID": "FullofHell",
       "SetID": "329ak73",
       "Name": "Full of Hell",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -1780,7 +1785,7 @@
       "ID": "Gatekeeper",
       "SetID": "329ak73",
       "Name": "Gatekeeper",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1932,7 +1937,7 @@
       "ID": "WickedKillington",
       "SetID": "329ak73",
       "Name": "Wicked Killington",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
       "UsersEstimate": 2
     }
@@ -1941,15 +1946,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:09:48.5233833+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:10:57.0013951+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.7338435+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:00:22.1384242+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:09:48.5234114+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:01:41.3708966+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:10:57.0014196+00:00"
 }

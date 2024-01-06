@@ -6,26 +6,26 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,912 |
-| A thief's beginning | 11.00% | ~24,669 |
-| Thorough | 11.00% | ~24,669 |
-| Disguised | 9.00% | ~20,184 |
-| Rescue Takuma | 9.00% | ~20,184 |
-| Rollin' | 9.00% | ~20,184 |
-| Tanuki Time | 9.00% | ~20,184 |
-| Ice Ice Yuki | 8.00% | ~17,941 |
-| Stoned Ox | 8.00% | ~17,941 |
-| Yabu | 8.00% | ~17,941 |
+| Genin | 12.00% | ~26,913 |
+| A thief's beginning | 11.00% | ~24,670 |
+| Thorough | 11.00% | ~24,670 |
+| Disguised | 9.00% | ~20,185 |
+| Rescue Takuma | 9.00% | ~20,185 |
+| Rollin' | 9.00% | ~20,185 |
+| Tanuki Time | 9.00% | ~20,185 |
+| Ice Ice Yuki | 8.00% | ~17,942 |
+| Stoned Ox | 8.00% | ~17,942 |
+| Yabu | 8.00% | ~17,942 |
 | Happy Planning | 7.00% | ~15,699 |
 | Jonin | 7.00% | ~15,699 |
 | Mugen Unchained | 7.00% | ~15,699 |
 | Chunin | 6.00% | ~13,456 |
 | Flying Rocks | 6.00% | ~13,456 |
 | Warzone | 6.00% | ~13,456 |
-| Happy little accidents | 5.00% | ~11,213 |
-| Okkoto | 5.00% | ~11,213 |
-| Prisoners | 5.00% | ~11,213 |
-| Too Early | 5.00% | ~11,213 |
+| Happy little accidents | 5.00% | ~11,214 |
+| Okkoto | 5.00% | ~11,214 |
+| Prisoners | 5.00% | ~11,214 |
+| Too Early | 5.00% | ~11,214 |
 | Gear up | 4.00% | ~8,971 |
 | Noboru | 4.00% | ~8,971 |
 | Still Rollin' | 4.00% | ~8,971 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~224 |
 | Release the Kraken | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,268 (Ranked 79)  
-Completed: 105 (0.05%) (Ranked 335)  
+Progressed: 224,273 (Ranked 79)  
+Completed: 105 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,7 +312,7 @@ Completed: 105 (0.05%) (Ranked 335)
 | 2024-01-03 | 223,800 | 102 |
 | 2024-01-04 | 224,025 | 103 |
 | 2024-01-05 | 224,240 | 105 |
-| 2024-01-06 | 224,268 | 105 |
+| 2024-01-06 | 224,273 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 209)  
 Sum: 4,943 (Ranked 150)  

@@ -73,7 +73,7 @@ Rating: 3.66 (Ranked 1,089)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,269 (Ranked 241)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,8 +212,8 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,269 | 0 |
 ## Awards
-Max (Great Boss Battles): 22  (Ranked 564)  
-Sum: 22 (Ranked 567)  
+Max (Great Boss Battles): 22  (Ranked 565)  
+Sum: 22 (Ranked 568)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |

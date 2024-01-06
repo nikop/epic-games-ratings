@@ -3,9 +3,9 @@
   "Name": "Ikonei Island: An Earthlock Adventure",
   "ProductSlug": "ikonei-island-an-earthlock-adventure-fa1620",
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-09T10:00:00+00:00",
     "PcReleaseDate": "2022-08-18T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 3061,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4877,9 +4877,9 @@
       "ID": "ACH_AFrogboySpecial",
       "SetID": "ai9gp4m",
       "Name": "A Frogboy Special!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ANewPurpose",
@@ -4901,9 +4901,9 @@
       "ID": "ACH_AndStayAway",
       "SetID": "ai9gp4m",
       "Name": "...and Stay Away!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_Beastmaster",
@@ -5164,8 +5164,8 @@
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:06:38.560576+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:08:47.0370614+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:36.8357629+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:58:36.2086227+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:06:38.5606161+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:59:26.5544796+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:08:47.0371072+00:00"
 }

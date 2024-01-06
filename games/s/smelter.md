@@ -33,10 +33,10 @@
 | Remains of the Rumbly Lands | 13.00% | ~6 |
 | How Do You Like Them Apples? | 13.00% | ~6 |
 | A Wingman Falls | 13.00% | ~6 |
+| With a Little Help from My Friends | 13.00% | ~6 |
 | Scheming Away | 11.00% | ~5 |
 | Fishing for Fissures | 11.00% | ~5 |
 | You did it? You did it! | 11.00% | ~5 |
-| With a Little Help from My Friends | 11.00% | ~5 |
 | Gotta Collect Them All | 9.00% | ~4 |
 | Keeping Things Tidy | 9.00% | ~4 |
 | Eremagu Trial Extraordinaire | 9.00% | ~4 |
@@ -57,7 +57,7 @@
 | The More the Merrier | 9.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 46 (Ranked 561)  
-Completed: 4 (8.70%) (Ranked 45)  
+Completed: 4 (8.70%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

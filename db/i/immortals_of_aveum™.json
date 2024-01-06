@@ -3,10 +3,10 @@
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
   "Ranking_Rating": 950,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 580,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 230,
-  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
@@ -409,9 +409,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2812,
+  "EOS_Progressed": 2816,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 558,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4549,6 +4549,11 @@
       "Time": "2024-01-06T03:09:50.9761175+00:00",
       "NumProgressed": 2812,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T04:10:59.9191826+00:00",
+      "NumProgressed": 2816,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4561,7 +4566,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2478
     },
     {
       "ID": "achievement_10",
@@ -4569,7 +4574,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "achievement_11",
@@ -4577,7 +4582,7 @@
       "Name": "The Means to Save It",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_12",
@@ -4617,7 +4622,7 @@
       "Name": "Recruit",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "achievement_17",
@@ -4641,15 +4646,15 @@
       "Name": "Socialite",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2281
     },
     {
       "ID": "achievement_20",
@@ -4705,7 +4710,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1943
     },
     {
       "ID": "achievement_36",
@@ -4713,7 +4718,7 @@
       "Name": "Armsman",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_37",
@@ -4721,7 +4726,7 @@
       "Name": "Kitted Out",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_38",
@@ -4737,7 +4742,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1464
     },
     {
       "ID": "achievement_41",
@@ -4745,7 +4750,7 @@
       "Name": "Armaments Azure",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_42",
@@ -4753,7 +4758,7 @@
       "Name": "Armaments Gules",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_43",
@@ -4793,7 +4798,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2084
     },
     {
       "ID": "achievement_49",
@@ -4801,15 +4806,15 @@
       "Name": "Soldier",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1070
     },
     {
       "ID": "achievement_50",
@@ -4857,7 +4862,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "achievement_60",
@@ -4897,7 +4902,7 @@
       "Name": "Backtracker",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_67",
@@ -4913,7 +4918,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "achievement_8",
@@ -4921,7 +4926,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "achievement_9",
@@ -4929,14 +4934,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2812,
+      "Progressed": 2816,
       "Completed": 4
     }
   ],
@@ -4944,8 +4949,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-04T16:59:40.3998354+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:09:50.9761172+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:10:59.919182+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:59:56.2116757+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:09:50.976182+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:01:07.7445655+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:10:59.9192257+00:00"
 }

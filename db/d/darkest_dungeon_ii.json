@@ -6,9 +6,9 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10560,9 +10560,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131838,
+  "EOS_Progressed": 131845,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1179,
+  "EOS_NewPlayers": 1182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38535,6 +38535,11 @@
       "Time": "2024-01-06T03:09:37.5889829+00:00",
       "NumProgressed": 131838,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T04:10:44.0335968+00:00",
+      "NumProgressed": 131845,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38674,7 +38679,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7910
+      "UsersEstimate": 7911
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38770,7 +38775,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7910
+      "UsersEstimate": 7911
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39082,7 +39087,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "combat_kill_collector",
@@ -39090,7 +39095,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39130,7 +39135,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39138,7 +39143,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "quest_complete_crusader",
@@ -39154,7 +39159,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39177,21 +39182,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131838,
+      "Progressed": 131845,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6707,
+      "Progressed": 6714,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-05T20:00:17.6299255+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:09:37.5889828+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:10:44.0335955+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:00:20.4884059+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:09:37.5891509+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:01:39.1950281+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:10:44.0338092+00:00"
 }

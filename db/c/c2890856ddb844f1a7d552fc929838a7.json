@@ -3,12 +3,12 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 47,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 520,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -285,9 +285,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 2236,
+  "EOS_Progressed": 2237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5280,6 +5280,11 @@
       "Time": "2024-01-06T03:08:24.8757538+00:00",
       "NumProgressed": 2236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T04:09:17.4965208+00:00",
+      "NumProgressed": 2237,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5300,7 +5305,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "AC02",
@@ -5316,7 +5321,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "AC04",
@@ -5332,7 +5337,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "AC06",
@@ -5348,7 +5353,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "AC08",
@@ -5364,7 +5369,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "AC10",
@@ -5420,7 +5425,7 @@
       "Name": "Weight of Penance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "AC17",
@@ -5444,7 +5449,7 @@
       "Name": "Soledad",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "AC20",
@@ -5460,7 +5465,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "AC22",
@@ -5492,7 +5497,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "AC26",
@@ -5636,7 +5641,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "AC44",
@@ -5659,7 +5664,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2236,
+      "Progressed": 2237,
       "Completed": 0
     }
   ],
@@ -5667,8 +5672,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-05T17:57:02.0313772+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:08:24.8757536+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:09:17.4965203+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:57:00.6710727+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:08:24.8758294+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:57:26.3739411+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:09:17.4965785+00:00"
 }

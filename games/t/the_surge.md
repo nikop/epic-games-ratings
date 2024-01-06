@@ -75,7 +75,7 @@ Number of Ratings: 62  (23.09.2022)
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,273 (Ranked 202)  
-Completed: 18 (0.34%) (Ranked 242)  
+Completed: 18 (0.34%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -294,8 +294,8 @@ Completed: 18 (0.34%) (Ranked 242)
 | 2024-01-05 | 5,270 | 18 |
 | 2024-01-06 | 5,273 | 18 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 522)  
-Sum: 30 (Ranked 540)  
+Max (Great Boss Battles): 30  (Ranked 523)  
+Sum: 30 (Ranked 541)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |

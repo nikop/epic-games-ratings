@@ -8,10 +8,10 @@ Rating: 4.67 (Ranked 285)
 | Time Heals All Wounds | 45.00% | ~560 |
 | Rail Rat | 34.00% | ~423 |
 | The Mysterious Stranger | 33.00% | ~411 |
-| Immaculate Aim | 28.00% | ~348 |
+| Immaculate Aim | 28.00% | ~349 |
 | The Brass Boss | 27.00% | ~336 |
-| Time Flies | 26.00% | ~323 |
-| The Prince in Heels | 26.00% | ~323 |
+| Time Flies | 26.00% | ~324 |
+| The Prince in Heels | 26.00% | ~324 |
 | Make Up For Lost Time | 25.00% | ~311 |
 | The Harder They Fall | 25.00% | ~311 |
 | No, Thanks! | 25.00% | ~311 |
@@ -26,7 +26,7 @@ Rating: 4.67 (Ranked 285)
 | The Betrayer | 21.00% | ~261 |
 | Golem Chaser | 21.00% | ~261 |
 | Check Your Pulse | 20.00% | ~249 |
-| The Loose Cannon | 19.00% | ~236 |
+| The Loose Cannon | 19.00% | ~237 |
 | Street Style | 18.00% | ~224 |
 | The Man Who Shattered Time | 18.00% | ~224 |
 | The Family Fortune | 18.00% | ~224 |
@@ -56,11 +56,11 @@ Rating: 4.67 (Ranked 285)
 | A Lesson in Precision | 1.00% | ~12 |
 | No Time to Waste | 1.00% | ~12 |
 | Wildlife Protection | 0.70% | ~9 |
+| Going to Live Forever | 0.60% | ~7 |
 | Raw Talent | 0.60% | ~7 |
-| Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,244 (Ranked 280)  
-Completed: 6 (0.48%) (Ranked 221)  
+Progressed: 1,245 (Ranked 280)  
+Completed: 6 (0.48%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -226,7 +226,7 @@ Completed: 6 (0.48%) (Ranked 221)
 | 2024-01-03 | 1,216 | 6 |
 | 2024-01-04 | 1,228 | 6 |
 | 2024-01-05 | 1,241 | 6 |
-| 2024-01-06 | 1,244 | 6 |
+| 2024-01-06 | 1,245 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

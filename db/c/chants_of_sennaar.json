@@ -3,11 +3,11 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 54,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 580,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -117,7 +117,7 @@
   "Tags": [],
   "EOS_Progressed": 2435,
   "EOS_Completed": 158,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 6.49,
   "EosHistory": [
@@ -6520,9 +6520,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 584
+      "UsersEstimate": 609
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6672,9 +6672,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1096
     },
     {
       "ID": "PROGRESS_N3",
@@ -6713,8 +6713,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-05T05:56:52.9506566+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:05:05.8563013+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:06:08.1128246+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:57:17.4150675+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:05:05.8563684+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:57:46.6985347+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:06:08.112868+00:00"
 }

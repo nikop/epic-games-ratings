@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breaking Through | 70.00% | ~102 |
-| Silent Overload | 60.00% | ~87 |
-| Symbiotic Weapon | 52.00% | ~75 |
+| Silent Overload | 61.00% | ~88 |
+| Symbiotic Weapon | 53.00% | ~77 |
 | A.I. Training | 46.00% | ~67 |
 | Sniper | 34.00% | ~49 |
 | The Red Herring | 30.00% | ~44 |
@@ -30,7 +30,7 @@
 | A Voice in the Dark | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 145 (Ranked 457)  
-Completed: 3 (2.07%) (Ranked 134)  
+Completed: 3 (2.07%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

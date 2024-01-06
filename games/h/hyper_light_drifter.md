@@ -1,11 +1,11 @@
 # Hyper Light Drifter
 [Store](https://store.epicgames.com/en-US/p/hyper-light-drifter)  
 [View Rawdata](../../db/h/hyper_light_drifter.json)  
-Rating: 4.70 (Ranked 218)  
+Rating: 4.70 (Ranked 217)  
 Number of Ratings: 364  (23.09.2022)  
 ## Awards
-Max (Character Customization): 52  (Ranked 447)  
-Sum: 52 (Ranked 503)  
+Max (Character Customization): 52  (Ranked 448)  
+Sum: 52 (Ranked 504)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |

@@ -3,12 +3,12 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 548,
-  "Ranking_Popularity": 495,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,9 +294,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 327,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1569,6 +1569,11 @@
       "Time": "2024-01-06T01:55:22.1527025+00:00",
       "NumProgressed": 326,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T04:10:05.1994095+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1581,7 +1586,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1597,7 +1602,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1613,7 +1618,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1693,7 +1698,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1715,17 +1720,17 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1741,7 +1746,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1749,7 +1754,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1773,7 +1778,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1781,7 +1786,7 @@
       "Name": "Die Nasty",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1917,7 +1922,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1932,7 +1937,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 327,
       "Completed": 2
     }
   ],
@@ -1940,8 +1945,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:09:05.2009301+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:10:05.1994088+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:59:30.5260856+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:09:05.2009744+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:00:35.4663193+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:10:05.1994386+00:00"
 }

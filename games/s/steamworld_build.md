@@ -19,7 +19,7 @@
 | Dopa-Miner | 32.00% | ~79 |
 | Up, Up And Away! | 31.00% | ~76 |
 | Whoa! | 29.00% | ~71 |
-| Botropolis | 24.00% | ~59 |
+| Botropolis | 25.00% | ~62 |
 | Steaming Rich | 21.00% | ~52 |
 | Steam Powered | 20.00% | ~49 |
 | Manic Mechanic | 17.00% | ~42 |
@@ -34,7 +34,7 @@
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 246 (Ranked 414)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

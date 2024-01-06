@@ -52,7 +52,7 @@ Rating: 4.38 (Ranked 788)
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 719 (Ranked 316)  
-Completed: 3 (0.42%) (Ranked 233)  
+Completed: 3 (0.42%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

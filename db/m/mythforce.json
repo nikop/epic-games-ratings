@@ -3,12 +3,12 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 662,
-  "Ranking_Popularity": 495,
+  "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 198,
-  "Ranking_EOS_Completed": 324,
+  "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6115,
+  "EOS_Progressed": 6116,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
@@ -12628,6 +12628,11 @@
       "Time": "2024-01-06T01:50:54.2969151+00:00",
       "NumProgressed": 6115,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T04:05:14.8276573+00:00",
+      "NumProgressed": 6116,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12752,7 +12757,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -12823,15 +12828,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6115,
+      "Progressed": 6116,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-06T03:04:19.8516449+00:00",
+  "LastChanged_Achievements": "2024-01-06T04:05:14.8276567+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:00:12.4448675+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:04:19.8517052+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:01:28.5744346+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:05:14.8277594+00:00"
 }

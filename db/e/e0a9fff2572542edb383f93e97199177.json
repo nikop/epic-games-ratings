@@ -3,9 +3,9 @@
   "Name": "Space Explore",
   "ProductSlug": "space-explore-d8aab3",
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-08T18:30:00+00:00",
     "PcReleaseDate": "2021-05-03T18:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-29T02:59:40.1004634+00:00",
   "LastUpdate_AppInfo": "2023-12-30T08:57:12.2285575+00:00",
-  "LastUpdate_Ratings": "2024-01-06T03:00:09.2287313+00:00",
-  "LastUpdate_Achievements": "2024-01-06T03:03:16.129609+00:00"
+  "LastUpdate_Ratings": "2024-01-06T04:01:24.4930239+00:00",
+  "LastUpdate_Achievements": "2024-01-06T04:03:59.6438979+00:00"
 }

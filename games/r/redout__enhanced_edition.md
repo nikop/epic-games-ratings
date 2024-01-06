@@ -6,14 +6,14 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~97,906 |
-| NATURAL BORN WINNER | 33.00% | ~78,802 |
-| CALLING HOUSTON | 28.00% | ~66,862 |
+| VANGUARD | 41.00% | ~97,907 |
+| NATURAL BORN WINNER | 33.00% | ~78,803 |
+| CALLING HOUSTON | 28.00% | ~66,863 |
 | SNEAKY SNEAKY | 22.00% | ~52,535 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~52,535 |
 | GT9STRADALE | 20.00% | ~47,759 |
-| CHALLENGER | 11.00% | ~26,267 |
-| ON A ROLL | 9.00% | ~21,491 |
+| CHALLENGER | 11.00% | ~26,268 |
+| ON A ROLL | 9.00% | ~21,492 |
 | CENTAUR | 8.00% | ~19,104 |
 | FASTER THAN EVER | 8.00% | ~19,104 |
 | CHALLENGE THE WORLD | 7.00% | ~16,716 |
@@ -41,8 +41,8 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~478 |
 | ENLIGHTENED | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,794 (Ranked 74)  
-Completed: 49 (0.02%) (Ranked 359)  
+Progressed: 238,797 (Ranked 74)  
+Completed: 49 (0.02%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -302,7 +302,7 @@ Completed: 49 (0.02%) (Ranked 359)
 | 2024-01-03 | 238,629 | 49 |
 | 2024-01-04 | 238,700 | 49 |
 | 2024-01-05 | 238,776 | 49 |
-| 2024-01-06 | 238,794 | 49 |
+| 2024-01-06 | 238,797 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

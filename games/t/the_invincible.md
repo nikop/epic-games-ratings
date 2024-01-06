@@ -11,16 +11,16 @@ Rating: 4.59 (Ranked 445)
 | The field base | 44.00% | ~625 |
 | The Alliance | 40.00% | ~568 |
 | Survivors | 38.00% | ~540 |
-| The Condor | 36.00% | ~511 |
-| The End | 36.00% | ~511 |
+| The Condor | 36.00% | ~512 |
+| The End | 36.00% | ~512 |
 | Krauta is alive | 28.00% | ~398 |
 | The Necroevolution | 28.00% | ~398 |
-| Volcanologist | 22.00% | ~312 |
+| Volcanologist | 22.00% | ~313 |
 | On her own | 21.00% | ~298 |
 | Peacemaker | 21.00% | ~298 |
 | Fierce fight | 20.00% | ~284 |
 | Evacuation | 19.00% | ~270 |
-| Beyond divisions | 17.00% | ~241 |
+| Beyond divisions | 17.00% | ~242 |
 | Flying Objects Operator | 16.00% | ~227 |
 | I remember everything! | 14.00% | ~199 |
 | Another giant | 13.00% | ~185 |
@@ -35,8 +35,8 @@ Rating: 4.59 (Ranked 445)
 | Convoy list | 0.90% | ~13 |
 | No more mistakes | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,420 (Ranked 268)  
-Completed: 1 (0.07%) (Ranked 324)  
+Progressed: 1,421 (Ranked 268)  
+Completed: 1 (0.07%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,7 +97,7 @@ Completed: 1 (0.07%) (Ranked 324)
 | 2024-01-03 | 1,345 | 0 |
 | 2024-01-04 | 1,381 | 1 |
 | 2024-01-05 | 1,415 | 1 |
-| 2024-01-06 | 1,420 | 1 |
+| 2024-01-06 | 1,421 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
