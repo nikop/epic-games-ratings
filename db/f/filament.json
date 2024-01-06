@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -346,18 +346,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 700,
       "NumberOfAwardsMax": 583
+    },
+    {
+      "Time": "2024-01-06T11:02:50.1481295+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 701,
+      "NumberOfAwardsMax": 584
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 700,
-  "NumberOfAwardsMax": 583,
+  "NumberOfAwards": 701,
+  "NumberOfAwardsMax": 584,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 583
+      "Count": 584
     },
     {
       "Text": "This game is Highly Recommended",
@@ -402,9 +408,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208645,
+  "EOS_Progressed": 208648,
   "EOS_Completed": 556,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28307,6 +28313,11 @@
       "Time": "2024-01-06T10:04:19.1106908+00:00",
       "NumProgressed": 208645,
       "NumCompleted": 556
+    },
+    {
+      "Time": "2024-01-06T11:07:08.0233423+00:00",
+      "NumProgressed": 208648,
+      "NumCompleted": 556
     }
   ],
   "TotalAchievements": 29,
@@ -28342,7 +28353,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196126
+      "UsersEstimate": 196129
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -28502,7 +28513,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20864
+      "UsersEstimate": 20865
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -28549,16 +28560,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208645,
+      "Progressed": 208648,
       "Completed": 556
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2024-01-01T02:58:07.3780611+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:04:19.1106906+00:00",
+  "LastChanged": "2024-01-06T11:02:50.1481292+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:07:08.0233421+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.5074852+00:00",
-  "LastUpdate_Ratings": "2024-01-06T10:00:09.8771806+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:04:19.1108326+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:02:50.1481298+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:07:08.0234677+00:00"
 }

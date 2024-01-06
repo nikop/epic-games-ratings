@@ -4,7 +4,7 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -505,9 +505,9 @@
       "ID": "ACH_RESOURCES",
       "SetID": "ch874lb",
       "Name": "The Collector",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_RUINDIVISION",
@@ -616,8 +616,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:04:04.2040704+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:06:48.2766339+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:00.0286827+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:59:19.9768826+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:04:04.2040836+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:01:41.9441979+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:06:48.2766578+00:00"
 }

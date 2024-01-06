@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1419,9 +1419,9 @@
       "ID": "30FUEL",
       "SetID": "a1angca",
       "Name": "Long-Haul Flyer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "30POTIONS",
@@ -1739,8 +1739,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:04:20.9448059+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:07:10.4304081+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:58:00.2708411+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:04:20.94484+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:59:54.0591933+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:07:10.4304677+00:00"
 }

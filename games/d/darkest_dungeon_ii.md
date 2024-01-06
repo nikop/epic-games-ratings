@@ -6,11 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~876 |
-| Lost and Found | 8.00% | ~539 |
-| Autodidact | 7.00% | ~9,231 |
-| This Belongs in a Museum | 6.00% | ~7,912 |
-| Overdue Notice | 6.00% | ~7,912 |
+| Malpractice Assurance | 13.00% | ~877 |
+| Lost and Found | 8.00% | ~540 |
+| Autodidact | 7.00% | ~9,232 |
+| This Belongs in a Museum | 6.00% | ~7,913 |
+| Overdue Notice | 6.00% | ~7,913 |
 | This guy... again? | 6.00% | ~405 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,594 |
 | Serenity Now! | 5.00% | ~6,594 |
@@ -50,15 +50,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 3.00% | ~3,956 |
 | Unshackled | 3.00% | ~3,956 |
 | Road Trip | 3.00% | ~3,956 |
-| This Looks Familiar | 2.00% | ~2,637 |
-| Hope Rekindled | 2.00% | ~2,637 |
-| Ichthyophobic | 2.00% | ~2,637 |
-| No More Mouths to Feed | 2.00% | ~2,637 |
-| When You Want Something Done Right | 2.00% | ~2,637 |
-| Worldly Traveller | 2.00% | ~2,637 |
-| Utopia | 2.00% | ~2,637 |
-| Hot Air | 2.00% | ~2,637 |
-| Eyes Up | 2.00% | ~2,637 |
+| This Looks Familiar | 2.00% | ~2,638 |
+| Hope Rekindled | 2.00% | ~2,638 |
+| Ichthyophobic | 2.00% | ~2,638 |
+| No More Mouths to Feed | 2.00% | ~2,638 |
+| When You Want Something Done Right | 2.00% | ~2,638 |
+| Worldly Traveller | 2.00% | ~2,638 |
+| Utopia | 2.00% | ~2,638 |
+| Hot Air | 2.00% | ~2,638 |
+| Eyes Up | 2.00% | ~2,638 |
 | Shrine of Reflection | 1.00% | ~1,319 |
 | Handled | 1.00% | ~1,319 |
 | Body of Work | 1.00% | ~1,319 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,873 (Ranked 91)  
+Progressed: 131,880 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,873 | 3 |
+| 2024-01-06 | 131,880 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
 Sum: 21,470 (Ranked 58)  

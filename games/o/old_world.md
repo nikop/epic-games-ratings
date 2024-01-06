@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 1.00% | ~161 |
 | Settler | 1.00% | ~161 |
 | Friendly Family | 1.00% | ~161 |
+| Hanging Gardens | 1.00% | ~161 |
 | Play a Single Player Game | 1.00% | ~161 |
 | Able | 0.90% | ~145 |
 | Good | 0.90% | ~145 |
@@ -19,7 +20,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.90% | ~145 |
 | Pioneer | 0.90% | ~145 |
 | Strong | 0.90% | ~145 |
-| Hanging Gardens | 0.90% | ~145 |
 | Oracle | 0.90% | ~145 |
 | Trade Caravan | 0.90% | ~145 |
 | Ambitious | 0.80% | ~129 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,145 (Ranked 167)  
+Progressed: 16,147 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
-| 2024-01-06 | 16,145 | 5 |
+| 2024-01-06 | 16,147 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,915 (Ranked 221)  

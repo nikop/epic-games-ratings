@@ -7,13 +7,13 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 70.00% | ~31,058 |
-| Say goodbye, creep! | 66.00% | ~29,283 |
-| Blood splattered | 66.00% | ~29,283 |
+| Say goodbye, creep! | 66.00% | ~29,284 |
+| Blood splattered | 66.00% | ~29,284 |
 | Choo choo! | 63.00% | ~27,952 |
-| Groovy | 62.00% | ~27,508 |
+| Groovy | 62.00% | ~27,509 |
 | Cleanup on aisle 4! | 57.00% | ~25,290 |
 | Gold | 51.00% | ~22,628 |
-| The boat can leave now...tell the crew | 49.00% | ~21,740 |
+| The boat can leave now...tell the crew | 49.00% | ~21,741 |
 | Give me something to shoot! | 47.00% | ~20,853 |
 | Stand back boy! | 47.00% | ~20,853 |
 | Chain reaction | 45.00% | ~19,966 |
@@ -22,11 +22,11 @@ Number of Ratings: 743  (23.09.2022)
 | What did you say, Blain? | 42.00% | ~18,635 |
 | In the dark dark woods... | 39.00% | ~17,304 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,860 |
-| Double tap | 37.00% | ~16,416 |
-| Cranial blowout! | 37.00% | ~16,416 |
-| All of this has happened before… | 36.00% | ~15,972 |
-| Zombie killin' machine | 36.00% | ~15,972 |
-| Every bullet counts | 36.00% | ~15,972 |
+| Double tap | 37.00% | ~16,417 |
+| Cranial blowout! | 37.00% | ~16,417 |
+| All of this has happened before… | 36.00% | ~15,973 |
+| Zombie killin' machine | 36.00% | ~15,973 |
+| Every bullet counts | 36.00% | ~15,973 |
 | All roads lead to Rome | 34.00% | ~15,085 |
 | You've got red on you | 34.00% | ~15,085 |
 | You're all going to die down here | 32.00% | ~14,198 |
@@ -34,8 +34,8 @@ Number of Ratings: 743  (23.09.2022)
 | Kill of the week | 31.00% | ~13,754 |
 | I never liked them anyway | 31.00% | ~13,754 |
 | Is it over? | 28.00% | ~12,423 |
-| Got your back | 27.00% | ~11,979 |
-| Gore soaked | 24.00% | ~10,648 |
+| Got your back | 27.00% | ~11,980 |
+| Gore soaked | 24.00% | ~10,649 |
 | Shock therapy | 23.00% | ~10,205 |
 | Leave the limbs you've lost | 23.00% | ~10,205 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,430 |
@@ -47,9 +47,9 @@ Number of Ratings: 743  (23.09.2022)
 | Well equipped | 13.00% | ~5,768 |
 | Into the deep | 12.00% | ~5,324 |
 | Damnedbusters | 9.00% | ~3,993 |
-| Plane sailing | 8.00% | ~3,549 |
-| I can do anything I want. I got guns | 8.00% | ~3,549 |
-| Send me an angel | 8.00% | ~3,549 |
+| Plane sailing | 8.00% | ~3,550 |
+| I can do anything I want. I got guns | 8.00% | ~3,550 |
+| Send me an angel | 8.00% | ~3,550 |
 | This is no Sunday School picnic! | 7.00% | ~3,106 |
 | I never redoubted you! | 7.00% | ~3,106 |
 | Not today you won't | 7.00% | ~3,106 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~444 |
 | None more hard | 0.60% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,368 (Ranked 129)  
+Progressed: 44,369 (Ranked 129)  
 Completed: 25 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,16 +334,16 @@ Completed: 25 (0.06%) (Ranked 330)
 | 2024-01-03 | 44,330 | 25 |
 | 2024-01-04 | 44,342 | 25 |
 | 2024-01-05 | 44,362 | 25 |
-| 2024-01-06 | 44,368 | 25 |
+| 2024-01-06 | 44,369 | 25 |
 ## Awards
 Max (Great Boss Battles): 872  (Ranked 174)  
-Sum: 2,629 (Ranked 198)  
+Sum: 2,630 (Ranked 198)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 872 |
 | This game is Great for Beginners | 281 |
-| This game has Diverse Characters | 225 |
+| This game has Diverse Characters | 226 |
 | This game is Highly Recommended | 223 |
 | This game has Amazing Storytelling | 218 |
 | This game is Extremely Fun | 213 |
@@ -604,3 +604,4 @@ Diff (max vs sum): -24
 | 2024-01-03 | 4.69 | - | 869 | 2,621 |
 | 2024-01-04 | 4.69 | - | 872 | 2,626 |
 | 2024-01-05 | 4.69 | - | 872 | 2,629 |
+| 2024-01-06 | 4.69 | - | 872 | 2,630 |

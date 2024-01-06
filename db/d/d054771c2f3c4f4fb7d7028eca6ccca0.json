@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3649,
+  "EOS_Progressed": 3651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4089,6 +4089,11 @@
       "Time": "2024-01-06T10:06:02.9467777+00:00",
       "NumProgressed": 3649,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T11:09:24.2200486+00:00",
+      "NumProgressed": 3651,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4109,7 +4114,7 @@
       "Name": "Done for Today",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -4125,7 +4130,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -4133,7 +4138,7 @@
       "Name": "Gruesome Ball Handler",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -4189,7 +4194,7 @@
       "Name": "Grim Challenger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -4261,7 +4266,7 @@
       "Name": "Your Own Nightmare",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -4285,7 +4290,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4301,7 +4306,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4476,14 +4481,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3649,
+      "Progressed": 3651,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:06:02.9467775+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:09:24.2200483+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:57:53.685003+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:06:02.9468355+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:59:44.7396939+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:09:24.2201031+00:00"
 }

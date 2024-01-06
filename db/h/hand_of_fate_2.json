@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -949,9 +949,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666928,
+  "EOS_Progressed": 666929,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -25799,6 +25799,11 @@
       "Time": "2024-01-06T10:09:22.280855+00:00",
       "NumProgressed": 666928,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-06T11:11:46.9485638+00:00",
+      "NumProgressed": 666929,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -25810,7 +25815,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480188
+      "UsersEstimate": 480189
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -25818,7 +25823,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386818
+      "UsersEstimate": 386819
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -25826,7 +25831,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153393
+      "UsersEstimate": 153394
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -25946,7 +25951,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153393
+      "UsersEstimate": 153394
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -26010,7 +26015,7 @@
       "Name": "Gamester",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4668
+      "UsersEstimate": 4669
     },
     {
       "ID": "Achievement_27_Money_Bags",
@@ -26193,15 +26198,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666928,
+      "Progressed": 666929,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-05T16:59:07.0577072+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:09:22.2808546+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:11:46.9485636+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:45.4290677+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:59:25.8667658+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:09:22.2810394+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:01:50.0804271+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:11:46.9486754+00:00"
 }

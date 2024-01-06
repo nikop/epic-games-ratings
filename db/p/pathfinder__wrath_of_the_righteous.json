@@ -4749,18 +4749,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7194,
       "NumberOfAwardsMax": 1777
+    },
+    {
+      "Time": "2024-01-06T11:00:51.2727672+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7195,
+      "NumberOfAwardsMax": 1778
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7194,
-  "NumberOfAwardsMax": 1777,
+  "NumberOfAwards": 7195,
+  "NumberOfAwardsMax": 1778,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1777
+      "Count": 1778
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4823,9 +4829,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13072,
+  "EOS_Progressed": 13074,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19043,6 +19049,11 @@
       "Time": "2024-01-06T10:10:09.5607473+00:00",
       "NumProgressed": 13072,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T11:12:45.6449668+00:00",
+      "NumProgressed": 13074,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19054,7 +19065,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3530
     },
     {
       "ID": "02_BurningCity",
@@ -19078,7 +19089,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -19422,7 +19433,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "49_Flame",
@@ -19981,21 +19992,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11854,
+      "Progressed": 11856,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13072,
+      "Progressed": 13074,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-05T19:58:22.7776615+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:10:09.5607467+00:00",
+  "LastChanged": "2024-01-06T11:00:51.272767+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:12:45.6449664+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:58:42.9745368+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:10:09.5609261+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:00:51.2727675+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:12:45.6451299+00:00"
 }

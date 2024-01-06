@@ -295,9 +295,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 1288,
+  "EOS_Progressed": 1289,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3655,6 +3655,11 @@
       "Time": "2024-01-06T08:05:00.7634514+00:00",
       "NumProgressed": 1288,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T11:08:04.1519881+00:00",
+      "NumProgressed": 1289,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3675,7 +3680,7 @@
       "Name": "Ab Initio",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "AnthropicHills",
@@ -3819,7 +3824,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "HighPlain",
@@ -3833,9 +3838,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 348
     },
     {
       "ID": "JustOneLap",
@@ -3851,7 +3856,7 @@
       "Name": "Lord of the Files",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "LostMarshes",
@@ -3923,7 +3928,7 @@
       "Name": "Overload",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Persistent",
@@ -3937,9 +3942,9 @@
       "ID": "PrometheusUnbound",
       "SetID": "1n308hc",
       "Name": "Prometheus Unbound",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 155
     },
     {
       "ID": "PuzzleFiend",
@@ -4107,7 +4112,7 @@
       "Name": "Wanderers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "WesternDelta",
@@ -4129,16 +4134,16 @@
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 168
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1288,
+      "Progressed": 1289,
       "Completed": 2
     }
   ],
@@ -4146,8 +4151,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-06T04:02:56.8031666+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:05:01.8600876+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:08:04.1519878+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:57:08.0449015+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:05:01.8601413+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:58:41.0398112+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:08:04.1520745+00:00"
 }

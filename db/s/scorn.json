@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -221,11 +221,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2902,
+  "EOS_Progressed": 2903,
   "EOS_Completed": 201,
   "EOS_NewPlayers": 78,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.93,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 6.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -4911,6 +4911,11 @@
       "Time": "2024-01-06T10:06:02.746011+00:00",
       "NumProgressed": 2902,
       "NumCompleted": 201
+    },
+    {
+      "Time": "2024-01-06T11:09:23.948591+00:00",
+      "NumProgressed": 2903,
+      "NumCompleted": 201
     }
   ],
   "TotalAchievements": 12,
@@ -4930,7 +4935,7 @@
       "Name": "002",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "003",
@@ -4938,7 +4943,7 @@
       "Name": "003",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "004",
@@ -4946,7 +4951,7 @@
       "Name": "004",
       "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "005",
@@ -5017,7 +5022,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2902,
+      "Progressed": 2903,
       "Completed": 201
     }
   ],
@@ -5025,8 +5030,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-12-26T13:00:53.8529115+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:06:02.7460107+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:09:23.9485907+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.8154186+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:59:33.2330464+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:06:02.7460802+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:02:00.372226+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:09:23.9486224+00:00"
 }

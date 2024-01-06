@@ -6,8 +6,8 @@ Rating: 4.08 (Ranked 1,017)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 51.00% | ~1,936 |
-| Totally Intentional | 46.00% | ~1,746 |
-| Each Sold Separately | 38.00% | ~1,442 |
+| Totally Intentional | 46.00% | ~1,747 |
+| Each Sold Separately | 38.00% | ~1,443 |
 | We're In | 33.00% | ~1,253 |
 | You're Not Naked | 30.00% | ~1,139 |
 | Tale in the Toilet | 30.00% | ~1,139 |
@@ -22,7 +22,7 @@ Rating: 4.08 (Ranked 1,017)
 | Those Were the Days... | 19.00% | ~721 |
 | ...To Heroes | 18.00% | ~683 |
 | Mas, Por Favor | 18.00% | ~683 |
-| And Still Champion... | 15.00% | ~569 |
+| And Still Champion... | 15.00% | ~570 |
 | Super Trusting Friend! | 9.00% | ~342 |
 | Bring back the butt! | 4.00% | ~152 |
 | Hey, thanks! | 4.00% | ~152 |
@@ -32,7 +32,7 @@ Rating: 4.08 (Ranked 1,017)
 | Not Dolls. Action Figures! | 0.20% | ~8 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,796 (Ranked 216)  
+Progressed: 3,797 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 3,788 | 0 |
 | 2024-01-04 | 3,793 | 0 |
 | 2024-01-05 | 3,796 | 0 |
+| 2024-01-06 | 3,797 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,8 +3,8 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 317,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_Completed": 56,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 718,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 7.38,
   "EosHistory": [
@@ -3029,9 +3029,9 @@
       "ID": "BroomPistol",
       "SetID": "db30heh",
       "Name": "Target Hit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 194
     },
     {
       "ID": "DevilPriest",
@@ -3237,9 +3237,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 574
+      "UsersEstimate": 582
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -3277,9 +3277,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 280
+      "UsersEstimate": 287
     },
     {
       "ID": "WormGrilled",
@@ -3300,8 +3300,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:04:48.6082844+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:07:47.0773159+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:59:38.5341681+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:04:48.6083236+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:02:07.1828352+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:07:47.0773931+00:00"
 }

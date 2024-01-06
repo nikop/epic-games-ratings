@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18373,
+  "EOS_Progressed": 18375,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16450,6 +16450,11 @@
       "Time": "2024-01-06T10:05:28.6477803+00:00",
       "NumProgressed": 18373,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-06T11:08:39.231529+00:00",
+      "NumProgressed": 18375,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16494,7 +16499,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3124
     },
     {
       "ID": "14",
@@ -16510,7 +16515,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "16",
@@ -16574,7 +16579,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "23",
@@ -16638,7 +16643,7 @@
       "Name": "Captain Drummer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2572
+      "UsersEstimate": 2573
     },
     {
       "ID": "30",
@@ -16646,7 +16651,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "4",
@@ -16654,7 +16659,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "5",
@@ -16670,7 +16675,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "7",
@@ -16686,7 +16691,7 @@
       "Name": "Data Recoverer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "9",
@@ -16710,7 +16715,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "33",
@@ -16734,20 +16739,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18373,
+      "Progressed": 18375,
       "Completed": 59
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4327,
+      "Progressed": 4329,
       "Completed": 1211
     }
   ],
@@ -16755,8 +16760,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:05:28.6477801+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:08:39.2315286+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:57:33.5892837+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:05:28.6478728+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:59:15.9488163+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:08:39.231638+00:00"
 }

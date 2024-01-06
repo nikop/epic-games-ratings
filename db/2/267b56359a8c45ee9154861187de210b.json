@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -579,6 +579,11 @@
       "Time": "2024-01-06T10:04:46.7507093+00:00",
       "NumProgressed": 120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T11:07:44.8202924+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -677,17 +682,17 @@
       "ID": "airtime_mid",
       "SetID": "3448go",
       "Name": "Red-eye Flight",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "beat_c1_bronze",
@@ -711,15 +716,15 @@
       "Name": "Venture Time",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "beat_c1a_bronze",
@@ -773,9 +778,9 @@
       "ID": "beat_c2_gold",
       "SetID": "3448go",
       "Name": "In Good Company",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "beat_c2_silver",
@@ -1175,7 +1180,7 @@
       "Name": "Rolling the Competition",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "soccer_hattrick",
@@ -1278,14 +1283,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:04:46.750709+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:07:44.8202923+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-06T10:00:23.5456318+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:04:46.7507926+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:04:28.35155+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:07:44.8203855+00:00"
 }

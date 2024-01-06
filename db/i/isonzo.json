@@ -1063,9 +1063,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9790,
+  "EOS_Progressed": 9792,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10678,6 +10678,11 @@
       "Time": "2024-01-06T07:09:28.5663531+00:00",
       "NumProgressed": 9790,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T11:11:44.0564877+00:00",
+      "NumProgressed": 9792,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10689,7 +10694,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -10833,7 +10838,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -10857,7 +10862,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3426
+      "UsersEstimate": 3427
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -10897,7 +10902,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -10937,7 +10942,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -10969,7 +10974,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -11017,7 +11022,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4895
+      "UsersEstimate": 4896
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11041,14 +11046,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4993
+      "UsersEstimate": 4994
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9790,
+      "Progressed": 9792,
       "Completed": 10
     }
   ],
@@ -11056,8 +11061,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-04T11:02:12.5493527+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:09:19.647881+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:11:44.0564875+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:57:47.0869722+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:09:19.6479888+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:59:34.5485586+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:11:44.0565603+00:00"
 }

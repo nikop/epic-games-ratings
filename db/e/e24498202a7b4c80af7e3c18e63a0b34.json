@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8364,
+  "EOS_Progressed": 8365,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -9339,6 +9339,11 @@
       "Time": "2024-01-06T10:05:30.655337+00:00",
       "NumProgressed": 8364,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-06T11:08:41.7933571+00:00",
+      "NumProgressed": 8365,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9351,7 +9356,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7360
+      "UsersEstimate": 7361
     },
     {
       "ID": "achievement_01_02",
@@ -9375,7 +9380,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6273
+      "UsersEstimate": 6274
     },
     {
       "ID": "achievement_01_05",
@@ -9383,7 +9388,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "achievement_01_06",
@@ -9391,7 +9396,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5019
     },
     {
       "ID": "achievement_01_07",
@@ -9407,7 +9412,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6273
+      "UsersEstimate": 6274
     },
     {
       "ID": "achievement_01_09",
@@ -9463,7 +9468,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "achievement_02_06",
@@ -9479,7 +9484,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "achievement_02_08",
@@ -9615,7 +9620,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2928
     },
     {
       "ID": "achievement_04_06",
@@ -9639,7 +9644,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7277
+      "UsersEstimate": 7278
     },
     {
       "ID": "achievement_04_09",
@@ -9654,7 +9659,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8364,
+      "Progressed": 8365,
       "Completed": 49
     }
   ],
@@ -9662,8 +9667,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-04T12:00:05.3344486+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:05:30.6553368+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:08:41.7933568+00:00",
   "LastUpdate_AppInfo": "2024-01-05T01:43:58.6689875+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:57:28.4721997+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:05:30.6554213+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:59:09.228872+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:08:41.793414+00:00"
 }

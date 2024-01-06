@@ -4,7 +4,7 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -585,9 +585,9 @@
       "ID": "ach_24_hpFrag15",
       "SetID": "16n29hg",
       "Name": "HP Tank",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_25_dash2",
@@ -601,9 +601,9 @@
       "ID": "ach_26_tiLung",
       "SetID": "16n29hg",
       "Name": "Titanium Lungs",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_28_scarvenger30",
@@ -665,9 +665,9 @@
       "ID": "ach_35_clearAllPipes",
       "SetID": "16n29hg",
       "Name": "Super Plumer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_36_dodgeMaster",
@@ -862,8 +862,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:09:25.9880598+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:11:51.8175952+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6807111+00:00",
-  "LastUpdate_Ratings": "2024-01-06T10:00:31.6440443+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:09:25.9880988+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:04:39.9464933+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:11:51.8176372+00:00"
 }

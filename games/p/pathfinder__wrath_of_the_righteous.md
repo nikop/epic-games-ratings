@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,529 |
-| A Spark | 20.00% | ~2,614 |
+| Devoured by Darkness | 27.00% | ~3,530 |
+| A Spark | 20.00% | ~2,615 |
 | Burning City | 19.00% | ~2,484 |
 | Defender's Heart | 16.00% | ~2,092 |
 | Mythic Choices | 15.00% | ~1,961 |
 | Banner over the Citadel | 14.00% | ~1,830 |
 | Queen's Gratitude | 12.00% | ~1,569 |
-| Fifth Crusade | 9.00% | ~1,176 |
+| Fifth Crusade | 9.00% | ~1,177 |
 | Embrace of the Abyss | 7.00% | ~915 |
 | Path of the Angel | 7.00% | ~915 |
 | Demonic and Divine | 7.00% | ~915 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,072 (Ranked 176)  
+Progressed: 13,074 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,14 +384,14 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 13,006 | 0 |
 | 2024-01-04 | 13,029 | 0 |
 | 2024-01-05 | 13,058 | 0 |
-| 2024-01-06 | 13,072 | 0 |
+| 2024-01-06 | 13,074 | 0 |
 ## Awards
-Max (Character Customization): 1,777  (Ranked 128)  
-Sum: 7,194 (Ranked 126)  
+Max (Character Customization): 1,778  (Ranked 128)  
+Sum: 7,195 (Ranked 126)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,777 |
+| This game has Inclusive Character Customization | 1,778 |
 | This game is Extremely Fun | 664 |
 | This game is Highly Recommended | 656 |
 | This game has Diverse Characters | 655 |
@@ -716,3 +716,4 @@ Diff (max vs sum): 2
 | 2024-01-02 | 4.76 | - | 1,776 | 7,186 |
 | 2024-01-04 | 4.76 | - | 1,777 | 7,190 |
 | 2024-01-05 | 4.76 | - | 1,777 | 7,194 |
+| 2024-01-06 | 4.76 | - | 1,778 | 7,195 |

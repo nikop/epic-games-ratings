@@ -13,11 +13,11 @@ Rating: 4.46 (Ranked 675)
 | Lord of War | 31.00% | ~1,307 |
 | Taking it back | 30.00% | ~1,265 |
 | Resourceful | 28.00% | ~1,180 |
-| Target America | 27.00% | ~1,138 |
+| Target America | 28.00% | ~1,180 |
 | The Kraken Sleeps | 25.00% | ~1,054 |
+| Organ Grinder | 24.00% | ~1,012 |
 | As Quiet as a Mouse | 24.00% | ~1,012 |
 | Liberté | 23.00% | ~970 |
-| Organ Grinder | 23.00% | ~970 |
 | Sharpshooter | 23.00% | ~970 |
 | Gunslinger | 19.00% | ~801 |
 | Explosive Efficiency | 19.00% | ~801 |

@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -1154,9 +1154,9 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "creepytaleach10",
@@ -1170,9 +1170,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 151
+      "UsersEstimate": 153
     },
     {
       "ID": "creepytaleach12",
@@ -1218,9 +1218,9 @@
       "ID": "creepytaleach5",
       "SetID": "bnif31p",
       "Name": "Incorrigible researcher",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "creepytaleach6",
@@ -1242,9 +1242,9 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "creepytaleach9",
@@ -1265,8 +1265,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:09:56.3553677+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:12:29.3506978+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:06.3288119+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:57:46.2087137+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:09:56.3553817+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:59:33.4842923+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:12:29.3507096+00:00"
 }

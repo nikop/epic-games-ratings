@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 534994,
+  "EOS_Progressed": 534995,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -28243,6 +28243,11 @@
       "Time": "2024-01-06T10:06:34.2183719+00:00",
       "NumProgressed": 534994,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2024-01-06T11:10:34.4146686+00:00",
+      "NumProgressed": 534995,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 57,
@@ -28262,7 +28267,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 240747
+      "UsersEstimate": 240748
     },
     {
       "ID": "11",
@@ -28302,7 +28307,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53499
+      "UsersEstimate": 53500
     },
     {
       "ID": "16",
@@ -28310,7 +28315,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48149
+      "UsersEstimate": 48150
     },
     {
       "ID": "17",
@@ -28334,7 +28339,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 331696
+      "UsersEstimate": 331697
     },
     {
       "ID": "2",
@@ -28342,7 +28347,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 53499
+      "UsersEstimate": 53500
     },
     {
       "ID": "20",
@@ -28366,7 +28371,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 48149
+      "UsersEstimate": 48150
     },
     {
       "ID": "23",
@@ -28478,7 +28483,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267497
+      "UsersEstimate": 267498
     },
     {
       "ID": "36",
@@ -28582,7 +28587,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 331696
+      "UsersEstimate": 331697
     },
     {
       "ID": "48",
@@ -28630,7 +28635,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 246097
+      "UsersEstimate": 246098
     },
     {
       "ID": "53",
@@ -28709,15 +28714,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 534994,
+      "Progressed": 534995,
       "Completed": 519
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:06:34.2183717+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:10:34.4146683+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:29.7872424+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:59:18.8744484+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:06:34.2185092+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:01:40.5211397+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:10:34.414799+00:00"
 }

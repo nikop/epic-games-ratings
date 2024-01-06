@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 84.00% | ~289 |
-| Purification Pioneer | 79.00% | ~272 |
+| Meissa's Savior | 84.00% | ~290 |
+| Purification Pioneer | 79.00% | ~273 |
 | Mechanical Buddy | 74.00% | ~255 |
 | Dicesmithing Time! | 65.00% | ~224 |
-| Sanctuary Guardian | 55.00% | ~189 |
-| Endless Tricks | 51.00% | ~175 |
-| Wild's Keeper | 48.00% | ~165 |
-| Mind Illuminator | 44.00% | ~151 |
+| Sanctuary Guardian | 55.00% | ~190 |
+| Endless Tricks | 51.00% | ~176 |
+| Wild's Keeper | 48.00% | ~166 |
+| Mind Illuminator | 44.00% | ~152 |
 | Stellar Dismantler | 38.00% | ~131 |
-| Astral Adventurer | 35.00% | ~120 |
-| Noctuan Champion | 34.00% | ~117 |
-| Anomaly Destroyer | 31.00% | ~107 |
-| Star Killer | 30.00% | ~103 |
-| Eridanian Champion | 26.00% | ~89 |
+| Astral Adventurer | 35.00% | ~121 |
+| Noctuan Champion | 35.00% | ~121 |
+| Anomaly Destroyer | 32.00% | ~110 |
+| Star Killer | 30.00% | ~104 |
+| Eridanian Champion | 26.00% | ~90 |
 | Loyal Partner | 22.00% | ~76 |
 | Lacertian Champion | 21.00% | ~72 |
-| Shard Spender | 19.00% | ~65 |
+| Shard Spender | 19.00% | ~66 |
 | Unbeatable | 18.00% | ~62 |
 | Apian Champion | 18.00% | ~62 |
 | Sadistic Plan | 16.00% | ~55 |
@@ -67,11 +67,11 @@
 | Apian Mastery | 1.00% | ~3 |
 | Aquarian Mastery | 1.00% | ~3 |
 | Eridanian Mastery | 1.00% | ~3 |
+| Plague Doctor | 0.90% | ~3 |
 | Royal Choir | 0.90% | ~3 |
 | Astral Tinkerer | 0.60% | ~2 |
 | Astrea's Saviors | 0.60% | ~2 |
 | Astrium Specialist | 0.60% | ~2 |
-| Plague Doctor | 0.60% | ~2 |
 | Six-Sided Mastery | 0.60% | ~2 |
 | The world goes round... | 0.60% | ~2 |
 | This is Fine | 0.60% | ~2 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344 (Ranked 380)  
+Progressed: 345 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,4 +175,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 312 | 0 |
 | 2024-01-04 | 324 | 0 |
 | 2024-01-05 | 340 | 0 |
-| 2024-01-06 | 344 | 0 |
+| 2024-01-06 | 345 | 0 |

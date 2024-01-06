@@ -234,9 +234,9 @@
       "ID": "ACED",
       "SetID": "1fek4an",
       "Name": "ACED!",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CHALLENGER",
@@ -290,9 +290,9 @@
       "ID": "COMBO_HP",
       "SetID": "1fek4an",
       "Name": "Steel Egg",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "COMBO_SWORD",
@@ -506,9 +506,9 @@
       "ID": "LEVEL_COMPLETE_0_0",
       "SetID": "1fek4an",
       "Name": "Grass",
-      "Percentage": 73,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "LEVEL_COMPLETE_0_12",
@@ -714,9 +714,9 @@
       "ID": "MISS",
       "SetID": "1fek4an",
       "Name": "MISS!",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NERD_PERFECT_GUN",
@@ -793,8 +793,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:03:43.9536225+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:06:21.5701827+00:00",
   "LastUpdate_AppInfo": "2024-01-03T13:01:17.6980494+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:57:17.915049+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:03:43.9536686+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:58:54.3027905+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:06:21.5702474+00:00"
 }

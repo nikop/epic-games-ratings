@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 453,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1723,9 +1723,9 @@
       "ID": "Collect_AdamantineSmall_30",
       "SetID": "7a5k76n",
       "Name": "Unshakable Fortitude",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 154
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -2083,9 +2083,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 177
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -2219,8 +2219,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:06:33.9948278+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:10:34.1237586+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:59:24.8892064+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:06:33.9948897+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:01:48.6738105+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:10:34.1238178+00:00"
 }

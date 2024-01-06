@@ -6,7 +6,7 @@
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 326,
+  "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43614,
+  "EOS_Progressed": 43617,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -28585,6 +28585,11 @@
       "Time": "2024-01-06T10:05:08.5330359+00:00",
       "NumProgressed": 43614,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-06T11:08:12.9496839+00:00",
+      "NumProgressed": 43617,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28596,7 +28601,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6542
+      "UsersEstimate": 6543
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -28604,7 +28609,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9159
+      "UsersEstimate": 9160
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -28827,7 +28832,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43614,
+      "Progressed": 43617,
       "Completed": 30
     }
   ],
@@ -28835,8 +28840,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:05:08.5330357+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:08:12.9496835+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.0120838+00:00",
-  "LastUpdate_Ratings": "2024-01-06T10:00:38.4417105+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:05:08.5332097+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:04:49.3275988+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:08:12.949843+00:00"
 }

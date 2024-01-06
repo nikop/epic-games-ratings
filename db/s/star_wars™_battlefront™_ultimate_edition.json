@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2661,
+  "EOS_Progressed": 2662,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7314,6 +7314,11 @@
       "Time": "2024-01-06T09:11:06.2192896+00:00",
       "NumProgressed": 2661,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T11:12:44.3008964+00:00",
+      "NumProgressed": 2662,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7550,7 +7555,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2315
+      "UsersEstimate": 2316
     },
     {
       "ID": "achievement_36",
@@ -7590,7 +7595,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_40",
@@ -7630,7 +7635,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "achievement_45",
@@ -7829,13 +7834,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2661,
+      "Progressed": 2662,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2661,
+      "Progressed": 2662,
       "Completed": 1
     }
   ],
@@ -7843,8 +7848,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:10:08.5698947+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:12:44.3008962+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:57:17.7967001+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:10:08.5699678+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:58:54.1320925+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:12:44.3009615+00:00"
 }

@@ -1,20 +1,20 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.14 (Ranked 1,003)  
+Rating: 4.13 (Ranked 1,005)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 44.00% | ~36,960 |
-| More Power to You | 21.00% | ~17,640 |
-| As Far Away As Possible | 20.00% | ~16,800 |
-| A Most Unstable Organism | 14.00% | ~11,760 |
-| No Time to Follow Protocol | 9.00% | ~7,560 |
-| Float Like a Butterfly... | 8.00% | ~6,720 |
-| Nano Connoisseur | 7.00% | ~5,880 |
-| In Two Places At Once | 6.00% | ~5,040 |
-| Pulling Your Weight | 3.00% | ~2,520 |
-| Reaping Rivals | 3.00% | ~2,520 |
+| Your Lucky Day | 44.00% | ~36,968 |
+| More Power to You | 21.00% | ~17,644 |
+| As Far Away As Possible | 20.00% | ~16,804 |
+| A Most Unstable Organism | 14.00% | ~11,763 |
+| No Time to Follow Protocol | 9.00% | ~7,562 |
+| Float Like a Butterfly... | 8.00% | ~6,722 |
+| Nano Connoisseur | 7.00% | ~5,881 |
+| In Two Places At Once | 6.00% | ~5,041 |
+| Pulling Your Weight | 3.00% | ~2,521 |
+| Reaping Rivals | 3.00% | ~2,521 |
 | fifteenth Time's the Charm | 1.00% | ~840 |
 | Gone Rogue | 0.90% | ~756 |
 | Memory Keeper | 0.40% | ~336 |
@@ -22,8 +22,8 @@ Rating: 4.14 (Ranked 1,003)
 | Runs for Your Money | 0.30% | ~252 |
 | Past Master | 0.30% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,999 (Ranked 107)  
-Completed: 63 (0.08%) (Ranked 321)  
+Progressed: 84,019 (Ranked 107)  
+Completed: 63 (0.07%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,15 +154,15 @@ Completed: 63 (0.08%) (Ranked 321)
 | 2024-01-03 | 82,692 | 62 |
 | 2024-01-04 | 83,212 | 62 |
 | 2024-01-05 | 83,802 | 63 |
-| 2024-01-06 | 83,999 | 63 |
+| 2024-01-06 | 84,019 | 63 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 337)  
-Sum: 558 (Ranked 328)  
+Sum: 559 (Ranked 328)  
 Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 133 |
-| This game has Diverse Characters | 89 |
+| This game has Diverse Characters | 90 |
 | This game is Highly Recommended | 64 |
 | This game is Extremely Fun | 61 |
 | This game has Amazing Characters | 61 |
@@ -284,3 +284,4 @@ Diff (max vs sum): 9
 | 2024-01-03 | 4.15 | 128 | 543 |
 | 2024-01-04 | 4.14 | 129 | 546 |
 | 2024-01-05 | 4.14 | 133 | 558 |
+| 2024-01-06 | 4.13 | 133 | 559 |

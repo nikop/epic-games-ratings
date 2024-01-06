@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1136,6 +1136,11 @@
       "Time": "2024-01-06T09:06:47.4599283+00:00",
       "NumProgressed": 284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T11:08:32.2921694+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1699,7 +1704,7 @@
       "Name": "Press-ganged",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1761,9 +1766,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 160
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1938,7 +1943,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 0
     }
   ],
@@ -1946,8 +1951,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:05:23.3577973+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:08:32.292169+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2024-01-06T10:00:07.2366737+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:05:23.3578956+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:02:46.4350678+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:08:32.292277+00:00"
 }

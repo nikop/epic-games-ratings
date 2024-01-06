@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2190,17 +2190,17 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 208
     },
     {
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 482
     },
     {
       "ID": "REMAKE_004",
@@ -2365,8 +2365,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:05:05.769035+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:08:09.41551+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:59:29.6903974+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:05:05.7690548+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:01:55.6657999+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:08:09.4155483+00:00"
 }

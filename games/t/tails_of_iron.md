@@ -28,10 +28,10 @@ Rating: 4.56 (Ranked 505)
 | Defeat Croakhis Khan | 1.00% | ~10 |
 | Shield Maiden Yellow Tongue | 1.00% | ~10 |
 | I Remember My First Beer | 1.00% | ~10 |
+| Return the Statues | 0.90% | ~21 |
+| Defeat Rattus Augustail | 0.90% | ~21 |
 | Fix the Travellers Wagon | 0.90% | ~21 |
 | Defeat the Grub Buster | 0.90% | ~9 |
-| Return the Statues | 0.80% | ~18 |
-| Defeat Rattus Augustail | 0.80% | ~18 |
 | Defeat the Stalker Queen | 0.80% | ~8 |
 | Complete the Chefs Book | 0.70% | ~16 |
 | Complete Ranger Faction | 0.60% | ~14 |

@@ -10,7 +10,7 @@
 | The battle of Great Britain | 36.00% | ~30 |
 | Pulp! Where Monsters Dwell | 31.00% | ~26 |
 | A continent with chemistry | 29.00% | ~24 |
-| The happy farmer girl | 25.00% | ~21 |
+| The happy farmer girl | 26.00% | ~22 |
 | Pulp! Terror Tales in the Night | 24.00% | ~20 |
 | Giant | 23.00% | ~19 |
 | A rival with no options | 21.00% | ~18 |
@@ -25,8 +25,8 @@
 | You had one wish left | 15.00% | ~13 |
 | You've awakened the beast | 14.00% | ~12 |
 | Hate is... addictive | 14.00% | ~12 |
+| Kirlian's best disciple | 14.00% | ~12 |
 | Welcome to Hellville | 14.00% | ~12 |
-| Kirlian's best disciple | 13.00% | ~11 |
 | Blessed antennas | 12.00% | ~10 |
 | The bully | 12.00% | ~10 |
 | Blood Red Island | 11.00% | ~9 |

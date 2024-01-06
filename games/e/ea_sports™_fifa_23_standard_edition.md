@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 909)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~158,056 |
-| Dead-ball specialist | 61.00% | ~128,553 |
-| European Legend | 52.00% | ~109,586 |
-| Multitasking | 51.00% | ~107,478 |
-| Balanced Path | 49.00% | ~103,264 |
-| High Grades | 48.00% | ~101,156 |
-| A Moment of Your Time | 46.00% | ~96,941 |
-| Let the Games Begin | 46.00% | ~96,941 |
-| Aiming High | 46.00% | ~96,941 |
-| Tactical Tinkerer | 40.00% | ~84,297 |
-| Intuition and Execution | 39.00% | ~82,189 |
-| Squad Building Connoisseur | 38.00% | ~80,082 |
-| The Winning Formula | 36.00% | ~75,867 |
-| Parking the Bus | 28.00% | ~59,008 |
-| Safe House | 26.00% | ~54,793 |
-| Best of Five | 26.00% | ~54,793 |
-| Football is Everything | 24.00% | ~50,578 |
-| The Chosen One | 22.00% | ~46,363 |
-| Fresh Fit | 20.00% | ~42,148 |
-| Bring it on | 17.00% | ~35,826 |
-| Life-Like | 14.00% | ~29,504 |
-| Make the Grade | 12.00% | ~25,289 |
-| I Played Them All | 10.00% | ~21,074 |
-| Specialist | 10.00% | ~21,074 |
-| Teamwork works | 9.00% | ~18,967 |
-| First of Many | 9.00% | ~18,967 |
+| Power Shot | 75.00% | ~158,066 |
+| Dead-ball specialist | 61.00% | ~128,561 |
+| European Legend | 52.00% | ~109,593 |
+| Multitasking | 51.00% | ~107,485 |
+| Balanced Path | 49.00% | ~103,270 |
+| High Grades | 48.00% | ~101,162 |
+| A Moment of Your Time | 46.00% | ~96,947 |
+| Let the Games Begin | 46.00% | ~96,947 |
+| Aiming High | 46.00% | ~96,947 |
+| Tactical Tinkerer | 40.00% | ~84,302 |
+| Intuition and Execution | 39.00% | ~82,194 |
+| Squad Building Connoisseur | 38.00% | ~80,087 |
+| The Winning Formula | 36.00% | ~75,872 |
+| Parking the Bus | 28.00% | ~59,011 |
+| Safe House | 26.00% | ~54,796 |
+| Best of Five | 26.00% | ~54,796 |
+| Football is Everything | 24.00% | ~50,581 |
+| The Chosen One | 22.00% | ~46,366 |
+| Fresh Fit | 20.00% | ~42,151 |
+| Bring it on | 17.00% | ~35,828 |
+| Life-Like | 14.00% | ~29,506 |
+| Make the Grade | 12.00% | ~25,291 |
+| I Played Them All | 10.00% | ~21,076 |
+| Specialist | 10.00% | ~21,076 |
+| Teamwork works | 9.00% | ~18,968 |
+| First of Many | 9.00% | ~18,968 |
 | Momentous Achievement | 6.00% | ~12,645 |
-| In Cahoots | 5.00% | ~10,537 |
-| Becoming Unplayable | 5.00% | ~10,537 |
-| Shop till you drop | 5.00% | ~10,537 |
-| On the way up | 5.00% | ~10,537 |
+| In Cahoots | 5.00% | ~10,538 |
+| Becoming Unplayable | 5.00% | ~10,538 |
+| Shop till you drop | 5.00% | ~10,538 |
+| On the way up | 5.00% | ~10,538 |
 | Volta's best | 4.00% | ~8,430 |
 | Tune Your Club | 4.00% | ~8,430 |
 | Full-House | 4.00% | ~8,430 |
-| Sharing is Caring | 3.00% | ~6,322 |
+| Sharing is Caring | 3.00% | ~6,323 |
 | Full wardrobe | 0.50% | ~1,054 |
 | Girl Power | 0.40% | ~843 |
 | Training Addict | 0.10% | ~211 |
 | Dazzling Personality | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,742 (Ranked 81)  
+Progressed: 210,755 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 209,886 | 0 |
 | 2024-01-04 | 210,220 | 0 |
 | 2024-01-05 | 210,611 | 0 |
-| 2024-01-06 | 210,742 | 0 |
+| 2024-01-06 | 210,755 | 0 |
 ## Awards
 Max (Diverse Characters): 22,128  (Ranked 21)  
 Sum: 109,965 (Ranked 17)  

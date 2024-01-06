@@ -6,44 +6,44 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~68,637 |
-| Skillful | 6.00% | ~68,637 |
-| Zealous | 5.00% | ~57,198 |
-| Not half bad | 4.00% | ~45,758 |
-| Apt Survivor | 4.00% | ~45,758 |
-| Survival Treasures | 4.00% | ~45,758 |
-| Make Some Noise | 4.00% | ~45,758 |
-| The Grand Sacrifice | 3.00% | ~34,319 |
-| No one left behind | 3.00% | ~34,319 |
-| Medic | 3.00% | ~34,319 |
-| Handyman | 3.00% | ~34,319 |
-| Perfect Escape | 3.00% | ~34,319 |
-| Bloody Millionaire | 3.00% | ~34,319 |
-| I | 3.00% | ~34,319 |
-| Sorted | 3.00% | ~34,319 |
-| Healthy Obsession | 3.00% | ~34,319 |
-| Resurgence | 3.00% | ~34,319 |
-| Preemptive Strike | 3.00% | ~34,319 |
-| Humanitarian | 3.00% | ~34,319 |
-| Escape Artist | 2.00% | ~22,879 |
-| Agonizing Escape | 2.00% | ~22,879 |
-| Backdoor Escape | 2.00% | ~22,879 |
-| I've got your back | 2.00% | ~22,879 |
-| Perfect Killing | 2.00% | ~22,879 |
-| Apt Killer | 2.00% | ~22,879 |
-| Risk it all | 2.00% | ~22,879 |
-| Vulture | 2.00% | ~22,879 |
-| II | 2.00% | ~22,879 |
-| III | 2.00% | ~22,879 |
-| Engineer | 2.00% | ~22,879 |
-| Wounded Healer | 2.00% | ~22,879 |
-| First to the Punch | 2.00% | ~22,879 |
-| Operation: Survival | 2.00% | ~22,879 |
-| Every Last Drop | 2.00% | ~22,879 |
-| Close Shave | 2.00% | ~22,879 |
-| With Scars to Show | 2.00% | ~22,879 |
-| Lifting The Fog | 2.00% | ~22,879 |
-| Second Act | 2.00% | ~22,879 |
+| It wakes | 6.00% | ~68,642 |
+| Skillful | 6.00% | ~68,642 |
+| Zealous | 5.00% | ~57,201 |
+| Not half bad | 4.00% | ~45,761 |
+| Apt Survivor | 4.00% | ~45,761 |
+| Survival Treasures | 4.00% | ~45,761 |
+| Make Some Noise | 4.00% | ~45,761 |
+| The Grand Sacrifice | 3.00% | ~34,321 |
+| No one left behind | 3.00% | ~34,321 |
+| Medic | 3.00% | ~34,321 |
+| Handyman | 3.00% | ~34,321 |
+| Perfect Escape | 3.00% | ~34,321 |
+| Bloody Millionaire | 3.00% | ~34,321 |
+| I | 3.00% | ~34,321 |
+| Sorted | 3.00% | ~34,321 |
+| Healthy Obsession | 3.00% | ~34,321 |
+| Resurgence | 3.00% | ~34,321 |
+| Preemptive Strike | 3.00% | ~34,321 |
+| Humanitarian | 3.00% | ~34,321 |
+| Escape Artist | 2.00% | ~22,881 |
+| Agonizing Escape | 2.00% | ~22,881 |
+| Backdoor Escape | 2.00% | ~22,881 |
+| I've got your back | 2.00% | ~22,881 |
+| Perfect Killing | 2.00% | ~22,881 |
+| Apt Killer | 2.00% | ~22,881 |
+| Risk it all | 2.00% | ~22,881 |
+| Vulture | 2.00% | ~22,881 |
+| II | 2.00% | ~22,881 |
+| III | 2.00% | ~22,881 |
+| Engineer | 2.00% | ~22,881 |
+| Wounded Healer | 2.00% | ~22,881 |
+| First to the Punch | 2.00% | ~22,881 |
+| Operation: Survival | 2.00% | ~22,881 |
+| Every Last Drop | 2.00% | ~22,881 |
+| Close Shave | 2.00% | ~22,881 |
+| With Scars to Show | 2.00% | ~22,881 |
+| Lifting The Fog | 2.00% | ~22,881 |
+| Second Act | 2.00% | ~22,881 |
 | Blood on your hands | 1.00% | ~11,440 |
 | Blood on your face | 1.00% | ~11,440 |
 | Made it out alive! | 1.00% | ~11,440 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,144 |
 | Adept Good Guy | 0.10% | ~1,144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,143,951 (Ranked 13)  
+Progressed: 1,144,026 (Ranked 13)  
 Completed: 66 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -500,7 +500,7 @@ Completed: 66 (0.01%) (Ranked 371)
 | 2024-01-03 | 1,138,836 | 66 |
 | 2024-01-04 | 1,140,999 | 66 |
 | 2024-01-05 | 1,143,127 | 66 |
-| 2024-01-06 | 1,143,951 | 66 |
+| 2024-01-06 | 1,144,026 | 66 |
 ## Awards
 Max (Diverse Characters): 39,214  (Ranked 15)  
 Sum: 296,134 (Ranked 12)  

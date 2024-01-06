@@ -1,19 +1,19 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 1,032)  
+Rating: 4.05 (Ranked 1,033)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,950 |
+| Victor | 93.00% | ~3,951 |
 | World Map | 78.00% | ~3,313 |
-| Temple of Eternals | 56.00% | ~2,378 |
-| Prestigious | 52.00% | ~2,208 |
-| Fellowship Power | 41.00% | ~1,741 |
+| Temple of Eternals | 56.00% | ~2,379 |
+| Prestigious | 52.00% | ~2,209 |
+| Fellowship Power | 41.00% | ~1,742 |
 | Full Party | 28.00% | ~1,189 |
 | Guild Power | 23.00% | ~977 |
-| Prestigious x10 | 20.00% | ~849 |
-| The game is on | 18.00% | ~764 |
+| Prestigious x10 | 20.00% | ~850 |
+| The game is on | 18.00% | ~765 |
 | Exotic Merchant | 16.00% | ~680 |
 | Dragon Clicker | 15.00% | ~637 |
 | Miner Clicker | 15.00% | ~637 |
@@ -27,10 +27,10 @@ Rating: 4.05 (Ranked 1,032)
 | Natural Talent | 11.00% | ~467 |
 | Superior | 11.00% | ~467 |
 | The Unstoppable | 11.00% | ~467 |
-| Doing My Part | 9.00% | ~382 |
 | Scientist | 9.00% | ~382 |
 | Challenger | 8.00% | ~340 |
 | Daily Quest Completionist | 8.00% | ~340 |
+| Doing My Part | 8.00% | ~340 |
 | Frostfire Liberator | 8.00% | ~340 |
 | Hunter | 8.00% | ~340 |
 | Mastery | 8.00% | ~340 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,032)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,247 (Ranked 209)  
+Progressed: 4,248 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-03 | 4,139 | 2 |
 | 2024-01-04 | 4,183 | 2 |
 | 2024-01-05 | 4,228 | 2 |
-| 2024-01-06 | 4,247 | 2 |
+| 2024-01-06 | 4,248 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 154 (Ranked 437)  

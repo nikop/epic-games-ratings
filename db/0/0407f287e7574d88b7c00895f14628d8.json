@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -754,6 +754,11 @@
       "Time": "2024-01-06T08:03:34.1785688+00:00",
       "NumProgressed": 187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T11:06:09.5861779+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -796,9 +801,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 102
     },
     {
       "ID": "dl2",
@@ -820,9 +825,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "f2",
@@ -830,7 +835,7 @@
       "Name": "Tasty Food",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "f3",
@@ -940,9 +945,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "jk2",
@@ -958,7 +963,7 @@
       "Name": "Robust Settlers",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "jz1",
@@ -990,7 +995,7 @@
       "Name": "Advanced Technology",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "k2",
@@ -1036,9 +1041,9 @@
       "ID": "r1",
       "SetID": "b1ggf28",
       "Name": "Prosperity",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "r2",
@@ -1078,7 +1083,7 @@
       "Name": "Against the Cold",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "w2",
@@ -1118,7 +1123,7 @@
       "Name": "Happiness",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "zf1",
@@ -1173,14 +1178,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 188,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:03:35.0346516+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:06:09.5861775+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-06T10:02:54.8397949+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:03:35.0347152+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:05:10.6733434+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:06:09.5862293+00:00"
 }

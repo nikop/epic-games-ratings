@@ -349,7 +349,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 828,
+  "EOS_Progressed": 830,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -2144,6 +2144,11 @@
       "Time": "2024-01-06T10:08:51.6504605+00:00",
       "NumProgressed": 828,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T11:11:08.2712678+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2156,7 +2161,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "CareerAllChallenges",
@@ -2164,15 +2169,15 @@
       "Name": "Highballer",
       "Percentage": 52,
       "XP": 90,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 257
     },
     {
       "ID": "CareerChamp2",
@@ -2210,9 +2215,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 573
     },
     {
       "ID": "CollectVehiclesA",
@@ -2220,7 +2225,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "CollectVehiclesB",
@@ -2268,7 +2273,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "PlayerRankB",
@@ -2315,7 +2320,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 828,
+      "Progressed": 830,
       "Completed": 0
     }
   ],
@@ -2323,8 +2328,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-04T23:58:04.2803928+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:08:51.6504603+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:11:08.2712676+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:58:20.963944+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:08:51.6504804+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:00:22.1595353+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:11:08.271289+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "deadwater-saloon-391b9d",
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 477,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
@@ -218,9 +218,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "631i43e",
       "Name": "Under The Floorboards",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -298,9 +298,9 @@
       "ID": "NEW_ACHIEVEMENT_1_21",
       "SetID": "631i43e",
       "Name": "A Furry Friend",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -338,9 +338,9 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "631i43e",
       "Name": "Got Your Back",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -394,9 +394,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "631i43e",
       "Name": "Just A Little Taste",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -418,9 +418,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "631i43e",
       "Name": "Hating Life",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -594,9 +594,9 @@
       "ID": "NEW_ACHIEVEMENT_2_26",
       "SetID": "631i43e",
       "Name": "Evidence Disposal",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_27",
@@ -713,8 +713,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:09:10.868263+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:11:32.9597951+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.9417267+00:00",
-  "LastUpdate_Ratings": "2024-01-06T09:57:19.8102385+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:09:10.8683114+00:00"
+  "LastUpdate_Ratings": "2024-01-06T10:58:57.0969431+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:11:32.9598424+00:00"
 }

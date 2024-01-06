@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -335,9 +335,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 757,
+  "EOS_Progressed": 759,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -2040,6 +2040,11 @@
       "Time": "2024-01-06T10:05:06.4430588+00:00",
       "NumProgressed": 757,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T11:08:10.1855048+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2060,7 +2065,7 @@
       "Name": "Are you ready now?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -2090,9 +2095,9 @@
       "ID": "ACH_DOWN_TOWN",
       "SetID": "biiejkc",
       "Name": "Uptown and Downtown",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2108,7 +2113,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -2148,7 +2153,7 @@
       "Name": "Keep it Rolling",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -2236,7 +2241,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -2268,7 +2273,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2307,15 +2312,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 757,
+      "Progressed": 759,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-06T10:05:06.4430586+00:00",
+  "LastChanged_Achievements": "2024-01-06T11:08:10.1855044+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-06T10:00:29.4278316+00:00",
-  "LastUpdate_Achievements": "2024-01-06T10:05:06.4430943+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:04:36.7827117+00:00",
+  "LastUpdate_Achievements": "2024-01-06T11:08:10.1855474+00:00"
 }

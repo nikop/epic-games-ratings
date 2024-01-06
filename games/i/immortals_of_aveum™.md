@@ -5,37 +5,37 @@ Rating: 4.21 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,500 |
-| Battlefields Have Memories | 80.00% | ~2,273 |
-| Enlisted | 74.00% | ~2,102 |
-| Maybe Engage a Little | 69.00% | ~1,960 |
-| No More Names | 52.00% | ~1,477 |
-| Initiate | 37.00% | ~1,051 |
-| Thrada-Kul | 34.00% | ~966 |
-| Gravity-Challenged Rocks | 27.00% | ~767 |
-| Socialite | 24.00% | ~682 |
-| Soldier | 23.00% | ~653 |
-| All the Major Food Groups | 22.00% | ~625 |
-| Beggars Would Ride | 20.00% | ~568 |
-| Control is an Illusion | 19.00% | ~540 |
-| The Means to Save It | 17.00% | ~483 |
-| Resilience to Sin | 15.00% | ~426 |
-| A Familiar Nest | 15.00% | ~426 |
+| Unforeseen | 88.00% | ~2,504 |
+| Battlefields Have Memories | 80.00% | ~2,276 |
+| Enlisted | 74.00% | ~2,105 |
+| Maybe Engage a Little | 69.00% | ~1,963 |
+| No More Names | 52.00% | ~1,479 |
+| Initiate | 37.00% | ~1,053 |
+| Thrada-Kul | 34.00% | ~967 |
+| Gravity-Challenged Rocks | 27.00% | ~768 |
+| Socialite | 24.00% | ~683 |
+| Soldier | 23.00% | ~654 |
+| All the Major Food Groups | 22.00% | ~626 |
+| Beggars Would Ride | 20.00% | ~569 |
+| Control is an Illusion | 19.00% | ~541 |
+| The Means to Save It | 17.00% | ~484 |
+| Resilience to Sin | 15.00% | ~427 |
+| A Familiar Nest | 15.00% | ~427 |
 | Geas Aristeya | 14.00% | ~398 |
 | Periapt Alizarin | 14.00% | ~398 |
-| A Perfect Cycle | 13.00% | ~369 |
+| A Perfect Cycle | 13.00% | ~370 |
 | Recruit | 12.00% | ~341 |
 | Armsman | 11.00% | ~313 |
 | Lights Army | 9.00% | ~256 |
-| Periapt Cerulean | 8.00% | ~227 |
+| Periapt Cerulean | 8.00% | ~228 |
 | Good Boy | 7.00% | ~199 |
-| Periapt Viridian | 6.00% | ~170 |
+| Periapt Viridian | 6.00% | ~171 |
 | Best Dressed | 5.00% | ~142 |
 | Shroudfane Explorer | 5.00% | ~142 |
 | Kitted Out | 4.00% | ~114 |
+| Armaments Azure | 4.00% | ~114 |
 | Armaments Gules | 4.00% | ~114 |
 | Scholar | 3.00% | ~85 |
-| Armaments Azure | 3.00% | ~85 |
 | Armaments Vert | 3.00% | ~85 |
 | Veteran | 2.00% | ~57 |
 | Grand Magnus | 1.00% | ~28 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 950)
 | Out of Time | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,841 (Ranked 230)  
+Progressed: 2,845 (Ranked 230)  
 Completed: 4 (0.14%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 4 (0.14%) (Ranked 296)
 | 2024-01-03 | 2,622 | 2 |
 | 2024-01-04 | 2,699 | 2 |
 | 2024-01-05 | 2,796 | 4 |
-| 2024-01-06 | 2,841 | 4 |
+| 2024-01-06 | 2,845 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
