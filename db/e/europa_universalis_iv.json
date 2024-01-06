@@ -14097,9 +14097,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 493118,
+  "EOS_Progressed": 493148,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5550,
+  "EOS_NewPlayers": 5552,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44172,6 +44172,11 @@
       "Time": "2024-01-06T07:09:56.453954+00:00",
       "NumProgressed": 493118,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T08:09:40.9142199+00:00",
+      "NumProgressed": 493148,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45207,7 +45212,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -46183,7 +46188,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -46533,9 +46538,9 @@
       "ID": "achievement_the_freest_man_in_the_world",
       "SetID": "8p2n7he",
       "Name": "The Freest Man in the World",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 493
     },
     {
       "ID": "achievement_the_grand_armada",
@@ -46997,9 +47002,9 @@
       "ID": "achievement_yarr_harr_a_pirates_life_for_me",
       "SetID": "8p2n7he",
       "Name": "Yarr Harr a Pirate\u0027s Life For Me",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 493
     },
     {
       "ID": "achievement_you_get_a_new_home_and_you_get_a_new_home",
@@ -47086,21 +47091,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 493118,
+      "Progressed": 493148,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 493118,
+      "Progressed": 493148,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-05T18:59:54.6108366+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:09:56.4539537+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:09:40.9142196+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:58:36.1322482+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:09:56.4550411+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:58:24.0295622+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:09:40.9153541+00:00"
 }

@@ -2063,9 +2063,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 21242,
+  "EOS_Progressed": 21246,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1250,
+  "EOS_NewPlayers": 1248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -12753,6 +12753,11 @@
       "Time": "2024-01-06T07:09:43.2033321+00:00",
       "NumProgressed": 21242,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-06T08:09:26.5250299+00:00",
+      "NumProgressed": 21246,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12788,7 +12793,7 @@
       "Name": "You Need a Gun",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "DISARM_ENEMY",
@@ -12796,7 +12801,7 @@
       "Name": "Flesh Wound",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5098
+      "UsersEstimate": 5099
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -12868,7 +12873,7 @@
       "Name": "Get a Grip",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4249
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -12884,7 +12889,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -12932,15 +12937,15 @@
       "Name": "Reforged",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3611
+      "UsersEstimate": 3612
     },
     {
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4462
     },
     {
       "ID": "SHARE_PHOTO",
@@ -12956,7 +12961,7 @@
       "Name": "The Outer Way",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5098
+      "UsersEstimate": 5099
     },
     {
       "ID": "STORY_ESCAPE",
@@ -12964,7 +12969,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "STORY_HABITAT",
@@ -12972,7 +12977,7 @@
       "Name": "Without A Paddle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "STORY_HANGAR",
@@ -12996,7 +13001,7 @@
       "Name": "Desperate Times",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 4673
+      "UsersEstimate": 4674
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13020,7 +13025,7 @@
       "Name": "Power Up",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "DISMEMBER_100",
@@ -13124,7 +13129,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -13139,13 +13144,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21242,
+      "Progressed": 21246,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9168,
+      "Progressed": 9172,
       "Completed": 29
     }
   ],
@@ -13153,8 +13158,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-05T20:03:04.3690756+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:09:43.2033314+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:09:26.5250295+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:03:21.7064523+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:09:43.2034287+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:03:09.686397+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:09:26.5251195+00:00"
 }

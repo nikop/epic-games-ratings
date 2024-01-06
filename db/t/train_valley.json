@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 633,
+  "EOS_Progressed": 634,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1830,6 +1830,11 @@
       "Time": "2024-01-06T06:07:39.6815372+00:00",
       "NumProgressed": 633,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T08:06:18.9437827+00:00",
+      "NumProgressed": 634,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1841,7 +1846,7 @@
       "Name": "Getting started",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "02_collector",
@@ -1873,7 +1878,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "06_living",
@@ -2017,7 +2022,7 @@
       "Name": "Close call!",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "24_mega",
@@ -2065,7 +2070,7 @@
       "Name": "Madness!",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "30_completelynuts",
@@ -2127,9 +2132,9 @@
       "ID": "37_maniacvandal",
       "SetID": "chb1m60",
       "Name": "Maniac vandal",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "38_chuck",
@@ -2152,15 +2157,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 633,
+      "Progressed": 634,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:06:25.8666996+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:06:18.9437822+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.4916275+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:58:35.6542859+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:06:25.8667363+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:58:23.5250305+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:06:18.9438265+00:00"
 }

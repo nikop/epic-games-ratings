@@ -6,17 +6,17 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,303 |
-| Ready for Winter | 61.00% | ~2,760 |
+| Venture Outward | 73.00% | ~3,304 |
+| Ready for Winter | 61.00% | ~2,761 |
 | Ready for Summer | 48.00% | ~2,172 |
-| Cordon Bleu | 41.00% | ~1,855 |
+| Cordon Bleu | 41.00% | ~1,856 |
 | Tapped! | 35.00% | ~1,584 |
 | Eureka | 30.00% | ~1,358 |
 | Scourge Slayer | 24.00% | ~1,086 |
 | Science, Troglodyte! | 22.00% | ~996 |
 | Exceptional Skill | 21.00% | ~950 |
 | Home Sweet Home | 20.00% | ~905 |
-| Encyclopedic! | 18.00% | ~814 |
+| Encyclopedic! | 18.00% | ~815 |
 | A Fortress Toppled! | 15.00% | ~679 |
 | The Power of Family | 15.00% | ~679 |
 | Apex Predator | 14.00% | ~634 |
@@ -37,10 +37,10 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~181 |
 | Light of Levant | 3.00% | ~136 |
 | This was a mistake... | 3.00% | ~136 |
-| Crowd Pleaser. | 2.00% | ~90 |
-| Perfect Defense | 2.00% | ~90 |
-| Power! To! The People! | 2.00% | ~90 |
-| Your actions define you | 2.00% | ~90 |
+| Crowd Pleaser. | 2.00% | ~91 |
+| Perfect Defense | 2.00% | ~91 |
+| Power! To! The People! | 2.00% | ~91 |
+| Your actions define you | 2.00% | ~91 |
 | The blood is life | 1.00% | ~45 |
 | Vanquisher of nightmares | 1.00% | ~45 |
 | They'll Tell Stories About This | 0.90% | ~41 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,525 (Ranked 206)  
+Progressed: 4,526 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 5 (0.11%) (Ranked 305)
 | 2024-01-03 | 4,452 | 5 |
 | 2024-01-04 | 4,478 | 5 |
 | 2024-01-05 | 4,511 | 5 |
-| 2024-01-06 | 4,525 | 5 |
+| 2024-01-06 | 4,526 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 501)  
 Sum: 246 (Ranked 399)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4823,9 +4823,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13067,
+  "EOS_Progressed": 13070,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19028,6 +19028,11 @@
       "Time": "2024-01-06T07:10:16.7287791+00:00",
       "NumProgressed": 13067,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T08:10:00.9191503+00:00",
+      "NumProgressed": 13070,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19039,7 +19044,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3528
+      "UsersEstimate": 3529
     },
     {
       "ID": "02_BurningCity",
@@ -19055,7 +19060,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "04_FithCrusade",
@@ -19111,7 +19116,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "11_PathOfAeon",
@@ -19167,7 +19172,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "18_MythicChoices",
@@ -19223,7 +19228,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "25_MasterfulDispell",
@@ -19383,7 +19388,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "46_AllPathsOpen",
@@ -19407,7 +19412,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2613
+      "UsersEstimate": 2614
     },
     {
       "ID": "49_Flame",
@@ -19463,7 +19468,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "56_GetToad",
@@ -19471,7 +19476,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "57_PathOfDevil",
@@ -19919,7 +19924,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -19927,7 +19932,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -19935,7 +19940,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -19943,7 +19948,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -19951,7 +19956,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -19959,28 +19964,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11849,
+      "Progressed": 11852,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13067,
+      "Progressed": 13070,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-05T19:58:22.7776615+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:10:16.7287788+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:10:00.91915+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:58:35.0410505+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:10:16.7289941+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:58:22.8915729+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:10:00.9193231+00:00"
 }

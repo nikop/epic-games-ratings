@@ -1,3 +1,3 @@
-# Dimensions Multiverse (Game Preview)
+# Dimensions
 [Store](https://store.epicgames.com/en-US/p/dimensions-multiverse-21227d)  
 [View Rawdata](../../db/d/dimensions_multiverse_(game_preview).json)  

@@ -285,7 +285,7 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 2240,
+  "EOS_Progressed": 2241,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
@@ -5300,6 +5300,11 @@
       "Time": "2024-01-06T07:08:44.9771179+00:00",
       "NumProgressed": 2240,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T08:08:27.6529745+00:00",
+      "NumProgressed": 2241,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5328,7 +5333,7 @@
       "Name": "Blood and Dust",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "AC03",
@@ -5344,7 +5349,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "AC05",
@@ -5368,15 +5373,15 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1053
     },
     {
       "ID": "AC09",
@@ -5384,7 +5389,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "AC10",
@@ -5392,7 +5397,7 @@
       "Name": "The Wait is Over",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "AC11",
@@ -5488,7 +5493,7 @@
       "Name": "Empty Handed",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "AC23",
@@ -5512,7 +5517,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "AC26",
@@ -5616,7 +5621,7 @@
       "Name": "Edge of Orison",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "AC39",
@@ -5632,7 +5637,7 @@
       "Name": "Welcome Back!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "AC41",
@@ -5648,7 +5653,7 @@
       "Name": "Two Old Ones Eating Soup",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "AC43",
@@ -5679,7 +5684,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2240,
+      "Progressed": 2241,
       "Completed": 0
     }
   ],
@@ -5687,8 +5692,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-05T17:57:02.0313772+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:08:44.9771175+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:08:27.6529683+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:57:20.3208676+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:08:44.977171+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:57:05.2184574+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:08:27.6530251+00:00"
 }

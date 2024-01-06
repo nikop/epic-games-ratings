@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -337,7 +337,7 @@
   ],
   "EOS_Progressed": 751,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -2192,9 +2192,9 @@
       "ID": "ACH_SOCK_CONCERT",
       "SetID": "biiejkc",
       "Name": "Sock Concert",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_SOCK_OPERA",
@@ -2304,8 +2304,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:05:13.1063712+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:05:05.265472+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:00:19.4104993+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:05:13.1063968+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:00:08.1761451+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:05:05.2654987+00:00"
 }

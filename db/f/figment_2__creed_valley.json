@@ -2,9 +2,9 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
-  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -422,9 +422,9 @@
       "ID": "fluff_score_goal",
       "SetID": "7e96e7l",
       "Name": "GOAAAAAAAAAL!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "shards_all_remembranes",
@@ -519,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:10:06.6782919+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:09:50.6752529+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.3549942+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:59:49.8163359+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:10:06.6783053+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:59:36.8879553+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:09:50.6752708+00:00"
 }

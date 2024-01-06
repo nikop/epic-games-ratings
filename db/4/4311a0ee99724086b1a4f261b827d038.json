@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -857,7 +857,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 241684,
+  "EOS_Progressed": 241689,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1313,
   "EOS_NewCompleters": 0,
@@ -20212,6 +20212,11 @@
       "Time": "2024-01-06T07:10:06.5329303+00:00",
       "NumProgressed": 241684,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T08:09:50.5695551+00:00",
+      "NumProgressed": 241689,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -20256,7 +20261,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -20280,7 +20285,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50754
+      "UsersEstimate": 50755
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -20304,7 +20309,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9667
+      "UsersEstimate": 9668
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -20480,7 +20485,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60421
+      "UsersEstimate": 60422
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -20495,7 +20500,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 241684,
+      "Progressed": 241689,
       "Completed": 0
     }
   ],
@@ -20503,8 +20508,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-05T20:00:01.41393+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:10:06.53293+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:09:50.5695546+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:00:00.9686403+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:10:06.5330315+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:59:48.3118614+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:09:50.5696454+00:00"
 }

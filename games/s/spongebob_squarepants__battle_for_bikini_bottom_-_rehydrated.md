@@ -32,8 +32,8 @@ Number of Ratings: 76  (23.09.2022)
 | Shanghaied | 4.00% | ~30 |
 | Kelp Forest of Fear | 4.00% | ~30 |
 | SpongeBob vs SpongeBob! | 4.00% | ~30 |
+| Sock Concert | 4.00% | ~30 |
 | Sleepy Time | 3.00% | ~23 |
-| Sock Concert | 3.00% | ~23 |
 | Mega Spatula Seeker | 3.00% | ~23 |
 | 100% SpongeBob | 1.00% | ~8 |
 | Sock Opera | 1.00% | ~8 |

@@ -10,8 +10,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.50% | ~2,466 |
 | That is mine! | 0.50% | ~2,466 |
 | Victorious! | 0.50% | ~2,466 |
-| That's a Grand Navy | 0.40% | ~1,972 |
-| Seriously?! | 0.40% | ~1,972 |
+| That's a Grand Navy | 0.40% | ~1,973 |
+| Seriously?! | 0.40% | ~1,973 |
 | Brothers in Arms | 0.30% | ~1,479 |
 | Cold War | 0.30% | ~1,479 |
 | Blockader | 0.20% | ~986 |
@@ -274,6 +274,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Coin is Stronger than the Sword | 0.10% | ~493 |
 | The Continuation of Diplomacy | 0.10% | ~493 |
 | The Five Colonies | 0.10% | ~493 |
+| The Freest Man in the World | 0.10% | ~493 |
 | The Grand Armada | 0.10% | ~493 |
 | The Great Khan | 0.10% | ~493 |
 | The League of Mayapan | 0.10% | ~493 |
@@ -319,6 +320,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Wonderful | 0.10% | ~493 |
 | World Conqueror | 0.10% | ~493 |
 | World Discoverer | 0.10% | ~493 |
+| Yarr Harr a Pirate's Life For Me | 0.10% | ~493 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~493 |
 | Breadbasket of the World | 0.10% | ~493 |
 | Desert Power | 0.10% | ~493 |
@@ -360,7 +362,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
 | Spaghetti Western | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
-| The Freest Man in the World | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
@@ -368,9 +369,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
-| Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493,118 (Ranked 43)  
+Progressed: 493,148 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-03 | 491,381 | 1 |
 | 2024-01-04 | 492,104 | 1 |
 | 2024-01-05 | 492,930 | 1 |
-| 2024-01-06 | 493,118 | 1 |
+| 2024-01-06 | 493,148 | 1 |
 ## Awards
 Max (Educational): 7,726  (Ranked 54)  
 Sum: 63,694 (Ranked 24)  

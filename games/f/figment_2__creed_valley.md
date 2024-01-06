@@ -18,12 +18,12 @@
 | I'm Back at the Surface now | 12.00% | ~8 |
 | Come full circle | 11.00% | ~7 |
 | Patient Listener | 6.00% | ~4 |
-| GOAAAAAAAAAL! | 5.00% | ~3 |
+| GOAAAAAAAAAL! | 6.00% | ~4 |
 | Whac-a-worker | 2.00% | ~1 |
 | You're a-MAZE-ing! | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 527)  
+Progressed: 66 (Ranked 528)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -709,7 +709,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473432,
+  "EOS_Progressed": 473433,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 1,
@@ -27664,6 +27664,11 @@
       "Time": "2024-01-06T07:10:15.8516488+00:00",
       "NumProgressed": 473432,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-06T08:10:00.0720854+00:00",
+      "NumProgressed": 473433,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27763,7 +27768,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312465
+      "UsersEstimate": 312466
     },
     {
       "ID": "achievement_story_landa",
@@ -27851,7 +27856,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94686
+      "UsersEstimate": 94687
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -28099,7 +28104,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208310
+      "UsersEstimate": 208311
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28131,7 +28136,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184638
+      "UsersEstimate": 184639
     },
     {
       "ID": "achievement_win_run_hard",
@@ -28306,21 +28311,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17366,
+      "Progressed": 17367,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473432,
+      "Progressed": 473433,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:10:15.8516486+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:10:00.072085+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:58:10.4046526+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:10:15.8518273+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:57:57.7958757+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:10:00.0722461+00:00"
 }

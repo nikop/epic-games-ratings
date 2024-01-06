@@ -5,31 +5,31 @@ Rating: 4.67 (Ranked 285)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 45.00% | ~561 |
+| Time Heals All Wounds | 45.00% | ~562 |
 | Rail Rat | 34.00% | ~424 |
 | The Mysterious Stranger | 33.00% | ~412 |
 | Immaculate Aim | 28.00% | ~349 |
 | The Brass Boss | 27.00% | ~337 |
 | Time Flies | 26.00% | ~324 |
-| No, Thanks! | 26.00% | ~324 |
 | The Prince in Heels | 26.00% | ~324 |
 | Make Up For Lost Time | 25.00% | ~312 |
 | The Harder They Fall | 25.00% | ~312 |
+| No, Thanks! | 25.00% | ~312 |
 | Honest Mistake | 25.00% | ~312 |
 | Immaculate Aim | 25.00% | ~312 |
-| Fast Learner | 24.00% | ~299 |
+| Fast Learner | 24.00% | ~300 |
 | The Steel Shadow | 23.00% | ~287 |
 | Breaking Down Barriers | 23.00% | ~287 |
-| Right On Time | 22.00% | ~274 |
-| The Wicked Twins | 22.00% | ~274 |
+| Right On Time | 22.00% | ~275 |
+| The Wicked Twins | 22.00% | ~275 |
 | Like Clockwork | 21.00% | ~262 |
 | The Betrayer | 21.00% | ~262 |
 | Golem Chaser | 21.00% | ~262 |
-| Check Your Pulse | 20.00% | ~249 |
+| Check Your Pulse | 20.00% | ~250 |
 | The Loose Cannon | 19.00% | ~237 |
-| Street Style | 18.00% | ~224 |
-| The Man Who Shattered Time | 18.00% | ~224 |
-| The Family Fortune | 18.00% | ~224 |
+| Street Style | 18.00% | ~225 |
+| The Man Who Shattered Time | 18.00% | ~225 |
+| The Family Fortune | 18.00% | ~225 |
 | Whiz Kid | 15.00% | ~187 |
 | Good Neighbor | 15.00% | ~187 |
 | Family Memories | 14.00% | ~175 |
@@ -59,7 +59,7 @@ Rating: 4.67 (Ranked 285)
 | Going to Live Forever | 0.60% | ~7 |
 | Raw Talent | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,247 (Ranked 280)  
+Progressed: 1,248 (Ranked 280)  
 Completed: 6 (0.48%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 6 (0.48%) (Ranked 222)
 | 2024-01-03 | 1,216 | 6 |
 | 2024-01-04 | 1,228 | 6 |
 | 2024-01-05 | 1,241 | 6 |
-| 2024-01-06 | 1,247 | 6 |
+| 2024-01-06 | 1,248 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

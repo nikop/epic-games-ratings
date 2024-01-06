@@ -295,9 +295,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 1287,
+  "EOS_Progressed": 1288,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3650,6 +3650,11 @@
       "Time": "2024-01-06T05:05:50.8541202+00:00",
       "NumProgressed": 1287,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T08:05:00.7634514+00:00",
+      "NumProgressed": 1288,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3686,7 +3691,7 @@
       "Name": "Archaeologist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Balance",
@@ -3716,9 +3721,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 438
     },
     {
       "ID": "ChasingTheLight",
@@ -3750,7 +3755,7 @@
       "Name": "Desolate Island",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Discovery",
@@ -3790,7 +3795,7 @@
       "Name": "Flooded Valley",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "GnothiSeauton",
@@ -3838,7 +3843,7 @@
       "Name": "Just One Lap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "LordOfTheFiles",
@@ -3854,7 +3859,7 @@
       "Name": "Lost Marshes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "MistressOfRiddles",
@@ -3862,7 +3867,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Mnemosyne",
@@ -3870,15 +3875,15 @@
       "Name": "Mnemosyne",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 219
     },
     {
       "ID": "MuseumVisitor",
@@ -4030,7 +4035,7 @@
       "Name": "The Edge of Forever",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "TheFuture",
@@ -4054,15 +4059,15 @@
       "Name": "The Spark",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 309
     },
     {
       "ID": "TheWordEndures",
@@ -4070,7 +4075,7 @@
       "Name": "The Word Endures",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "TouchGrass",
@@ -4133,7 +4138,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1287,
+      "Progressed": 1288,
       "Completed": 2
     }
   ],
@@ -4141,8 +4146,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-06T04:02:56.8031666+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:05:08.6099701+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:05:00.7634508+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
   "LastUpdate_Ratings": "2024-01-06T07:02:45.9968959+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:05:08.6100257+00:00"
+  "LastUpdate_Achievements": "2024-01-06T08:05:00.7635091+00:00"
 }

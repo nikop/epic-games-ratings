@@ -1317,9 +1317,9 @@
       "ID": "TROP023",
       "SetID": "9n0dl35",
       "Name": "Detox diet",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 247
     },
     {
       "ID": "TROP024",
@@ -1366,8 +1366,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:10:10.0150237+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:09:54.1802088+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.1770758+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:58:39.9142501+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:10:10.0150451+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:58:27.8759234+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:09:54.1802282+00:00"
 }

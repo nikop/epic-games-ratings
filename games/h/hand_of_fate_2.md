@@ -6,34 +6,34 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~480,182 |
-| Apprentice | 58.00% | ~386,814 |
-| Close Shave | 25.00% | ~166,730 |
-| Mercenary | 23.00% | ~153,392 |
-| Ninja | 23.00% | ~153,392 |
-| Northern Scourge | 17.00% | ~113,376 |
-| Thief Bane | 14.00% | ~93,369 |
-| Master of Arms | 12.00% | ~80,030 |
-| Gambler | 10.00% | ~66,692 |
-| Dice Master | 10.00% | ~66,692 |
+| The Fool | 72.00% | ~480,187 |
+| Apprentice | 58.00% | ~386,818 |
+| Close Shave | 25.00% | ~166,732 |
+| Mercenary | 23.00% | ~153,393 |
+| Ninja | 23.00% | ~153,393 |
+| Northern Scourge | 17.00% | ~113,378 |
+| Thief Bane | 14.00% | ~93,370 |
+| Master of Arms | 12.00% | ~80,031 |
+| Gambler | 10.00% | ~66,693 |
+| Dice Master | 10.00% | ~66,693 |
 | Swordsman | 9.00% | ~60,023 |
 | Knight | 8.00% | ~53,354 |
 | Cure for Corruption | 8.00% | ~53,354 |
 | Focused | 8.00% | ~53,354 |
 | Flurry of Fury | 8.00% | ~53,354 |
-| Long Shot | 7.00% | ~46,684 |
-| Devil Dice | 7.00% | ~46,684 |
-| Broken Heart | 7.00% | ~46,684 |
-| Adventurer | 6.00% | ~40,015 |
-| Empire's Bane | 6.00% | ~40,015 |
+| Long Shot | 7.00% | ~46,685 |
+| Devil Dice | 7.00% | ~46,685 |
+| Broken Heart | 7.00% | ~46,685 |
+| Adventurer | 6.00% | ~40,016 |
+| Empire's Bane | 6.00% | ~40,016 |
 | Jack of all Trades | 5.00% | ~33,346 |
 | Smithy | 5.00% | ~33,346 |
 | Leap of Faith | 3.00% | ~20,008 |
 | Combat Ready | 3.00% | ~20,008 |
 | Stuffed Potato | 3.00% | ~20,008 |
-| Card Sharp | 2.00% | ~13,338 |
-| Magician | 2.00% | ~13,338 |
-| Draknar's Bane | 2.00% | ~13,338 |
+| Card Sharp | 2.00% | ~13,339 |
+| Magician | 2.00% | ~13,339 |
+| Draknar's Bane | 2.00% | ~13,339 |
 | Protector of the Realm | 1.00% | ~6,669 |
 | Purgatorium | 1.00% | ~6,669 |
 | Cursed Soul | 1.00% | ~6,669 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,920 (Ranked 31)  
+Progressed: 666,927 (Ranked 31)  
 Completed: 174 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 174 (0.03%) (Ranked 353)
 | 2024-01-03 | 666,787 | 174 |
 | 2024-01-04 | 666,845 | 174 |
 | 2024-01-05 | 666,910 | 174 |
-| 2024-01-06 | 666,920 | 174 |
+| 2024-01-06 | 666,927 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 496)  
 Sum: 194 (Ranked 419)  

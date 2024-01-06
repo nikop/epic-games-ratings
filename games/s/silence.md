@@ -11,10 +11,10 @@
 | Demolition expert | 39.00% | ~71 |
 | Open up wide | 37.00% | ~68 |
 | Keep away from children | 37.00% | ~68 |
-| Wooooooow! | 34.00% | ~62 |
+| Wooooooow! | 35.00% | ~64 |
 | Artistic fool | 32.00% | ~59 |
+| Let the boot talk | 32.00% | ~59 |
 | Shadow on the wall | 32.00% | ~59 |
-| Let the boot talk | 31.00% | ~57 |
 | Chapter II | 25.00% | ~46 |
 | Bubblekillerfamily | 23.00% | ~42 |
 | Chapter III | 23.00% | ~42 |

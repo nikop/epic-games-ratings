@@ -6,15 +6,15 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 27.00% | ~1,654 |
-| Hit 'Em Where It Hurts | 26.00% | ~1,593 |
-| Perk Shard Punch Card | 26.00% | ~1,593 |
+| Faceroll the Bones | 27.00% | ~1,655 |
+| Hit 'Em Where It Hurts | 26.00% | ~1,594 |
+| Perk Shard Punch Card | 26.00% | ~1,594 |
 | Debuff Dogpile | 25.00% | ~1,532 |
 | That'll Leave a Mark | 25.00% | ~1,532 |
-| Mushroom Madness! | 23.00% | ~1,409 |
-| First Strike | 21.00% | ~1,286 |
-| Spending Spree | 19.00% | ~1,164 |
-| Horder Better Faster Stronger | 17.00% | ~1,041 |
+| Mushroom Madness! | 23.00% | ~1,410 |
+| First Strike | 21.00% | ~1,287 |
+| Spending Spree | 19.00% | ~1,165 |
+| Horder Better Faster Stronger | 17.00% | ~1,042 |
 | Next Time on MythForce... | 15.00% | ~919 |
 | Ten Steps from the Grave | 15.00% | ~919 |
 | Everything Must Go! | 14.00% | ~858 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~25 |
 | Deadalus and Loving It | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,126 (Ranked 198)  
+Progressed: 6,129 (Ranked 198)  
 Completed: 4 (0.07%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,18 +205,18 @@ Completed: 4 (0.07%) (Ranked 326)
 | 2024-01-03 | 6,055 | 4 |
 | 2024-01-04 | 6,083 | 4 |
 | 2024-01-05 | 6,110 | 4 |
-| 2024-01-06 | 6,126 | 4 |
+| 2024-01-06 | 6,129 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 496)  
-Sum: 295 (Ranked 379)  
+Sum: 296 (Ranked 379)  
 Diff (max vs sum): 117  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
 | This game is Highly Recommended | 33 |
 | This game has Diverse Characters | 32 |
+| This game has Quickly Understood Controls | 32 |
 | This game has Amazing Characters | 31 |
-| This game has Quickly Understood Controls | 31 |
 | This game has Unique Visuals | 30 |
 | This game has Challenging Combat | 28 |
 | This game has Amazing Storytelling | 27 |
@@ -331,3 +331,4 @@ Diff (max vs sum): 117
 | 2023-12-15 | 4.47 | - | 36 | 292 |
 | 2023-12-17 | 4.47 | - | 36 | 294 |
 | 2023-12-26 | 4.47 | - | 36 | 295 |
+| 2024-01-06 | 4.47 | - | 36 | 296 |

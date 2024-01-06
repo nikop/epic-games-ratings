@@ -7,7 +7,7 @@
 | Home Sweet Home | 95.00% | ~559 |
 | A Friend in Need | 61.00% | ~359 |
 | Surviving | 43.00% | ~253 |
-| Detox diet | 41.00% | ~241 |
+| Detox diet | 42.00% | ~247 |
 | Never Give Up | 39.00% | ~229 |
 | Tasty | 37.00% | ~218 |
 | Lullaby | 30.00% | ~176 |

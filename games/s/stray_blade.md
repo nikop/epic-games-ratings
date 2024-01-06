@@ -18,12 +18,12 @@
 | Witch | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
 | Expert | 2.00% | ~3 |
+| The Golden Flash | 2.00% | ~3 |
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
 | Defeat Ingla | 1.00% | ~2 |
 | Can't touch this | 1.00% | ~2 |
 | But what of the Acreans? | 1.00% | ~2 |
 | A Deceiving Gift | 1.00% | ~2 |
-| The Golden Flash | 1.00% | ~2 |
 | The Power of the Mountains | 1.00% | ~2 |
 | Changing the World | 1.00% | ~2 |
 | Sponsor | 0.70% | ~1 |

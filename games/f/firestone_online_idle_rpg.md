@@ -5,18 +5,18 @@ Rating: 4.05 (Ranked 1,032)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,946 |
+| Victor | 93.00% | ~3,947 |
 | World Map | 78.00% | ~3,310 |
-| Temple of Eternals | 56.00% | ~2,376 |
-| Prestigious | 52.00% | ~2,206 |
+| Temple of Eternals | 56.00% | ~2,377 |
+| Prestigious | 52.00% | ~2,207 |
 | Fellowship Power | 41.00% | ~1,740 |
 | Full Party | 28.00% | ~1,188 |
 | Guild Power | 23.00% | ~976 |
 | Prestigious x10 | 20.00% | ~849 |
 | The game is on | 18.00% | ~764 |
 | Exotic Merchant | 16.00% | ~679 |
-| Dragon Clicker | 15.00% | ~636 |
-| Miner Clicker | 15.00% | ~636 |
+| Dragon Clicker | 15.00% | ~637 |
+| Miner Clicker | 15.00% | ~637 |
 | Inspection | 14.00% | ~594 |
 | Dragon Master | 13.00% | ~552 |
 | Enlightenment | 13.00% | ~552 |
@@ -29,25 +29,25 @@ Rating: 4.05 (Ranked 1,032)
 | The Unstoppable | 11.00% | ~467 |
 | Doing My Part | 9.00% | ~382 |
 | Scientist | 9.00% | ~382 |
-| Challenger | 8.00% | ~339 |
-| Daily Quest Completionist | 8.00% | ~339 |
-| Frostfire Liberator | 8.00% | ~339 |
-| Hunter | 8.00% | ~339 |
-| Mastery | 8.00% | ~339 |
-| Moving Up The Ladder | 8.00% | ~339 |
-| Relic Of The Past | 8.00% | ~339 |
-| Scroll Master | 8.00% | ~339 |
-| The power of Awakening | 8.00% | ~339 |
+| Challenger | 8.00% | ~340 |
+| Daily Quest Completionist | 8.00% | ~340 |
+| Frostfire Liberator | 8.00% | ~340 |
+| Hunter | 8.00% | ~340 |
+| Mastery | 8.00% | ~340 |
+| Moving Up The Ladder | 8.00% | ~340 |
+| Relic Of The Past | 8.00% | ~340 |
+| Scroll Master | 8.00% | ~340 |
+| The power of Awakening | 8.00% | ~340 |
 | Four Leaf Clover | 7.00% | ~297 |
 | Here We Go Again | 7.00% | ~297 |
 | Master Enchanter | 7.00% | ~297 |
 | The father of Dragons | 7.00% | ~297 |
 | Trader | 7.00% | ~297 |
+| Dragon Slayer | 6.00% | ~255 |
 | The Expeditioner | 6.00% | ~255 |
 | Weekly Quest Completionist | 6.00% | ~255 |
 | Blueprint Upgrades | 5.00% | ~212 |
 | Crystal Mining | 5.00% | ~212 |
-| Dragon Slayer | 5.00% | ~212 |
 | Enchanting skill | 5.00% | ~212 |
 | Engineer Mastery | 5.00% | ~212 |
 | How Do You Turn This On? | 5.00% | ~212 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,032)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,243 (Ranked 209)  
+Progressed: 4,244 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-03 | 4,139 | 2 |
 | 2024-01-04 | 4,183 | 2 |
 | 2024-01-05 | 4,228 | 2 |
-| 2024-01-06 | 4,243 | 2 |
+| 2024-01-06 | 4,244 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 154 (Ranked 437)  

@@ -22,8 +22,8 @@ Rating: 3.66 (Ranked 1,089)
 | Grounded | 7.00% | ~159 |
 | Skin of Their Teeth | 7.00% | ~159 |
 | Bad Wiring | 6.00% | ~136 |
-| Neighborhood Revitalization | 5.00% | ~113 |
-| Radio Silence | 5.00% | ~113 |
+| Neighborhood Revitalization | 5.00% | ~114 |
+| Radio Silence | 5.00% | ~114 |
 | I Spit On Your Grave | 4.00% | ~91 |
 | You Clean It Up | 3.00% | ~68 |
 | From the Shadows | 3.00% | ~68 |
@@ -72,7 +72,7 @@ Rating: 3.66 (Ranked 1,089)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,269 (Ranked 241)  
+Progressed: 2,270 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 2,238 | 0 |
 | 2024-01-04 | 2,253 | 0 |
 | 2024-01-05 | 2,267 | 0 |
-| 2024-01-06 | 2,269 | 0 |
+| 2024-01-06 | 2,270 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 554)  
 Sum: 24 (Ranked 560)  

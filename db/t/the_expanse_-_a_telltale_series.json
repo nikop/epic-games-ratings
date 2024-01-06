@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18366,
+  "EOS_Progressed": 18369,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16435,6 +16435,11 @@
       "Time": "2024-01-06T07:05:35.8108795+00:00",
       "NumProgressed": 18366,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-06T08:05:27.6120101+00:00",
+      "NumProgressed": 18369,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16479,7 +16484,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3122
+      "UsersEstimate": 3123
     },
     {
       "ID": "14",
@@ -16511,7 +16516,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "18",
@@ -16551,7 +16556,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "22",
@@ -16567,7 +16572,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "24",
@@ -16623,7 +16628,7 @@
       "Name": "Captain Drummer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "30",
@@ -16726,22 +16731,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18366,
+      "Progressed": 18369,
       "Completed": 59
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4320,
-      "Completed": 1209
+      "Progressed": 4323,
+      "Completed": 1210
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:05:35.810879+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:05:27.6120096+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:57:29.2610745+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:05:35.8109642+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:57:14.5182794+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:05:27.6121178+00:00"
 }

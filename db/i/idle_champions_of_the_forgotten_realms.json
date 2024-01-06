@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9361,10 +9361,10 @@
       "Count": 3628
     }
   ],
-  "EOS_Progressed": 251822,
+  "EOS_Progressed": 251835,
   "EOS_Completed": 2596,
-  "EOS_NewPlayers": 4466,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 4450,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -38901,6 +38901,11 @@
       "Time": "2024-01-06T07:10:19.8054154+00:00",
       "NumProgressed": 251822,
       "NumCompleted": 2596
+    },
+    {
+      "Time": "2024-01-06T08:10:03.7356882+00:00",
+      "NumProgressed": 251835,
+      "NumCompleted": 2596
     }
   ],
   "TotalAchievements": 546,
@@ -40016,7 +40021,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "objective_completed_149",
@@ -40104,7 +40109,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "objective_completed_165",
@@ -40240,7 +40245,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "objective_completed_20",
@@ -40584,7 +40589,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5036
+      "UsersEstimate": 5037
     },
     {
       "ID": "objective_completed_34",
@@ -40784,7 +40789,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "objective_completed_400",
@@ -41056,7 +41061,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "objective_completed_540",
@@ -41456,7 +41461,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "objective_completed_60",
@@ -41984,7 +41989,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "objective_completed_690",
@@ -43232,7 +43237,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "objective_completed_673",
@@ -43256,7 +43261,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "objective_completed_860",
@@ -43279,21 +43284,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218096,
-      "Completed": 4137
+      "Progressed": 218109,
+      "Completed": 4138
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251822,
+      "Progressed": 251835,
       "Completed": 2596
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-06T02:20:27.8906984+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:10:19.805415+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:10:03.7356877+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:59:42.1538617+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:10:19.8078904+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:59:29.1283361+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:10:03.7381527+00:00"
 }

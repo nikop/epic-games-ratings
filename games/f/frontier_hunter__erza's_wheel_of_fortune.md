@@ -12,14 +12,14 @@ Rating: 4.38 (Ranked 788)
 | Wolf King Killer | 54.00% | ~388 |
 | Fashion Connoisseur | 52.00% | ~374 |
 | Arms Mechanic | 49.00% | ~352 |
-| Flower Thief | 43.00% | ~309 |
+| Flower Thief | 44.00% | ~316 |
 | Apostle of Flame | 39.00% | ~280 |
 | Beginner Cook | 37.00% | ~266 |
 | Beginner Artificer | 37.00% | ~266 |
 | Seal Breaker | 32.00% | ~230 |
 | Handyman | 28.00% | ~201 |
 | Giant Lizard Killer | 27.00% | ~194 |
-| Guardian | 25.00% | ~180 |
+| Guardian | 26.00% | ~187 |
 | Nosebleeder | 25.00% | ~180 |
 | Trader | 22.00% | ~158 |
 | Weapon Boost | 21.00% | ~151 |

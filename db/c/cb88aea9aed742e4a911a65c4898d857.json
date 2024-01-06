@@ -287,9 +287,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 10320,
+  "EOS_Progressed": 10324,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1576,
+  "EOS_NewPlayers": 1571,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3842,6 +3842,11 @@
       "Time": "2024-01-06T07:10:04.1880751+00:00",
       "NumProgressed": 10320,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T08:09:48.2462121+00:00",
+      "NumProgressed": 10324,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3868,9 +3873,9 @@
       "ID": "04_TheTradeEmpire",
       "SetID": "37a94m8",
       "Name": "Trade Empire",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 516
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -3884,9 +3889,9 @@
       "ID": "06_TheExpanseCalamity",
       "SetID": "37a94m8",
       "Name": "Expanse Calamity",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 206
     },
     {
       "ID": "07_TheGrandFinale",
@@ -4014,7 +4019,7 @@
       "Name": "Perfect Timing",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "23_DynastyRestored",
@@ -4062,7 +4067,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4102,15 +4107,15 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "34_CuriosityIsNotAVice",
       "SetID": "37a94m8",
       "Name": "Curiosity Is Not a Vice",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 619
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4166,7 +4171,7 @@
       "Name": "Jungle Heat",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4373,7 +4378,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10320,
+      "Progressed": 10324,
       "Completed": 1
     }
   ],
@@ -4381,8 +4386,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-06T07:02:56.4873883+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:10:04.1880749+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:09:48.2462117+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:02:56.4873888+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:10:04.1881629+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:02:44.1422005+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:09:48.2462742+00:00"
 }

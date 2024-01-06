@@ -10566,9 +10566,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131857,
+  "EOS_Progressed": 131860,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1174,
+  "EOS_NewPlayers": 1167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38561,6 +38561,11 @@
       "Time": "2024-01-06T07:09:50.2673116+00:00",
       "NumProgressed": 131857,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T08:09:33.9261435+00:00",
+      "NumProgressed": 131860,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38700,7 +38705,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7911
+      "UsersEstimate": 7912
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38796,7 +38801,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7911
+      "UsersEstimate": 7912
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39108,7 +39113,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "combat_kill_collector",
@@ -39203,21 +39208,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131857,
+      "Progressed": 131860,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6726,
+      "Progressed": 6729,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-06T06:01:36.0728691+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:09:50.2673113+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:09:33.9261432+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:00:15.0624137+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:09:50.2675193+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:00:03.2859779+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:09:33.9263178+00:00"
 }

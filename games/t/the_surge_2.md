@@ -5,11 +5,11 @@ Rating: 4.27 (Ranked 899)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,967 |
+| Rigged And Ready | 79.00% | ~1,968 |
 | Don't I Know You...? | 75.00% | ~1,868 |
 | Jailbreak | 64.00% | ~1,594 |
-| HEADSHOT! | 37.00% | ~921 |
-| Suited and Booted | 37.00% | ~921 |
+| HEADSHOT! | 37.00% | ~922 |
+| Suited and Booted | 37.00% | ~922 |
 | Sleeping With The Fishes | 35.00% | ~872 |
 | Overheated | 30.00% | ~747 |
 | High Performance | 30.00% | ~747 |
@@ -45,11 +45,11 @@ Rating: 4.27 (Ranked 899)
 | Remote Surgery | 6.00% | ~149 |
 | Turbo Booster | 6.00% | ~149 |
 | Squid Pro Quo | 6.00% | ~149 |
-| Reborn | 5.00% | ~124 |
-| Hello Darkness My Old Friend | 5.00% | ~124 |
-| Counter-Sniper | 5.00% | ~124 |
-| Shrimp Cocktail | 5.00% | ~124 |
-| Juiced Up | 5.00% | ~124 |
+| Reborn | 5.00% | ~125 |
+| Hello Darkness My Old Friend | 5.00% | ~125 |
+| Counter-Sniper | 5.00% | ~125 |
+| Shrimp Cocktail | 5.00% | ~125 |
+| Juiced Up | 5.00% | ~125 |
 | Geronimo! | 4.00% | ~100 |
 | Plank of Wood | 4.00% | ~100 |
 | Gotta Craft 'em All | 3.00% | ~75 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 899)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,490 (Ranked 235)  
+Progressed: 2,491 (Ranked 235)  
 Completed: 13 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 13 (0.52%) (Ranked 216)
 | 2024-01-03 | 2,457 | 13 |
 | 2024-01-04 | 2,469 | 13 |
 | 2024-01-05 | 2,483 | 13 |
-| 2024-01-06 | 2,490 | 13 |
+| 2024-01-06 | 2,491 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

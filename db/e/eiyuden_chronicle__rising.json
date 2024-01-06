@@ -842,9 +842,9 @@
       "ID": "ACHIEVEMENT005",
       "SetID": "dejhjd5",
       "Name": "Magical Mineral Golem",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 413
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -1218,8 +1218,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:09:05.9553067+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:08:48.7182725+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:02.3357194+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:02:58.6294482+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:09:05.9553657+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:02:46.2744202+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:08:48.7183161+00:00"
 }

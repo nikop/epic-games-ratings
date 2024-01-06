@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1247,
+  "EOS_Progressed": 1248,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3692,6 +3692,11 @@
       "Time": "2024-01-06T07:10:14.3985961+00:00",
       "NumProgressed": 1247,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T08:09:58.7056569+00:00",
+      "NumProgressed": 1248,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3735,7 +3740,7 @@
       "Name": "Right On Time",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3775,7 +3780,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "CultivairChests1",
@@ -3839,7 +3844,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "GadgetCompletion1",
@@ -3957,9 +3962,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 312
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3975,7 +3980,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "PidgeDefeated",
@@ -3991,7 +3996,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "RewindParry",
@@ -4031,7 +4036,7 @@
       "Name": "Fast Learner",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "SpeedRun",
@@ -4063,7 +4068,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "TheaterChests1",
@@ -4119,14 +4124,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1247,
+      "Progressed": 1248,
       "Completed": 6
     }
   ],
@@ -4134,8 +4139,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:10:14.3985948+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:09:58.7056566+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:57:35.0111031+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:10:14.3986531+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:57:20.9073367+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:09:58.7057205+00:00"
 }

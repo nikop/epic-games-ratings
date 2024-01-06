@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 377,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5230,
+  "EOS_Progressed": 5231,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1134,6 +1134,11 @@
       "Time": "2024-01-05T23:10:29.0196951+00:00",
       "NumProgressed": 5230,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-06T08:08:19.9432574+00:00",
+      "NumProgressed": 5231,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1169,7 +1174,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -1177,7 +1182,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -1193,7 +1198,7 @@
       "Name": "Goldrush Glory Days",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ACHIEVE_50_GUTS",
@@ -1209,7 +1214,7 @@
       "Name": "Best Party Guest",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ACHIEVE_50_IRON",
@@ -1217,7 +1222,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -1249,7 +1254,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3190
+      "UsersEstimate": 3191
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1273,7 +1278,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1281,7 +1286,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3295
+      "UsersEstimate": 3296
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1297,7 +1302,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -1353,7 +1358,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4079
+      "UsersEstimate": 4080
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1361,7 +1366,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -1369,7 +1374,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1433,7 +1438,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1449,7 +1454,7 @@
       "Name": "Shrub it Off",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
@@ -1489,7 +1494,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1529,22 +1534,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5230,
+      "Progressed": 5231,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:08:37.2544816+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:08:19.9432572+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.5067997+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:58:22.4519109+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:08:37.2545193+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:58:10.2556578+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:08:19.9432956+00:00"
 }

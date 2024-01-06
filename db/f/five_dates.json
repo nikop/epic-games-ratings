@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2018,
+  "EOS_Progressed": 2019,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 1,
@@ -3765,6 +3765,11 @@
       "Time": "2024-01-06T01:56:20.7289509+00:00",
       "NumProgressed": 2018,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-06T08:09:46.4936004+00:00",
+      "NumProgressed": 2019,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3776,7 +3781,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "booty_call",
@@ -3800,7 +3805,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "hold_my_beer",
@@ -3808,7 +3813,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3832,7 +3837,7 @@
       "Name": "Light Sleepers",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "not_alone",
@@ -3856,7 +3861,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "planting_the_seed",
@@ -3888,14 +3893,14 @@
       "Name": "We Go Again",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2018,
+      "Progressed": 2019,
       "Completed": 12
     }
   ],
@@ -3903,8 +3908,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:10:02.2804992+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:09:46.4936002+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:57:51.4694895+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:10:02.2805276+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:57:37.9170071+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:09:46.4936198+00:00"
 }

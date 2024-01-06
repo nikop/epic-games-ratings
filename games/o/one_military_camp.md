@@ -10,9 +10,9 @@
 | Green Energy | 13.00% | ~37 |
 | There's something in those trees | 11.00% | ~31 |
 | Great Producer | 11.00% | ~31 |
+| Health Care | 10.00% | ~28 |
 | Desert Power | 10.00% | ~28 |
 | Indebted | 10.00% | ~28 |
-| Health Care | 9.00% | ~26 |
 | Perfect Soldier | 8.00% | ~23 |
 | Desert Rat | 8.00% | ~23 |
 | Healing | 7.00% | ~20 |
@@ -20,16 +20,16 @@
 | Food Tycoon | 7.00% | ~20 |
 | Ammo Tycoon | 7.00% | ~20 |
 | Pathfinder | 6.00% | ~17 |
+| Self-sufficient | 6.00% | ~17 |
 | Fuel Tycoon | 6.00% | ~17 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~14 |
 | Overpopulation | 5.00% | ~14 |
-| Self-sufficient | 5.00% | ~14 |
 | Medicine Tycoon | 5.00% | ~14 |
+| Supersoldier | 4.00% | ~11 |
 | Outdoor Decorator | 4.00% | ~11 |
 | Property Bro | 4.00% | ~11 |
 | Training Camp | 4.00% | ~11 |
 | Tear Down the Wall! | 3.00% | ~9 |
-| Supersoldier | 3.00% | ~9 |
 | Vive le Résistance | 3.00% | ~9 |
 | No News is Good News | 3.00% | ~9 |
 | Snowman | 2.00% | ~6 |

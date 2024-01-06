@@ -17,7 +17,7 @@ Rating: 4.52 (Ranked 575)
 | The Fire Below the Mountain | 60.00% | ~887 |
 | No Bites | 55.00% | ~813 |
 | Iceborn | 55.00% | ~813 |
-| Boom Things | 52.00% | ~769 |
+| Boom Things | 53.00% | ~783 |
 | Tear of Freedom | 51.00% | ~754 |
 | My Darkest Day | 49.00% | ~724 |
 | The Relentless Storm | 47.00% | ~695 |

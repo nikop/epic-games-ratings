@@ -53,9 +53,9 @@
 | You're looking mozzare-hella good! | 14.00% | ~21 |
 | Yeehaw!!! | 14.00% | ~21 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~20 |
-| Timber! | 11.00% | ~17 |
+| Timber! | 12.00% | ~18 |
+| Free Of Chains | 12.00% | ~18 |
 | Grumpy Immortal | 11.00% | ~17 |
-| Free Of Chains | 11.00% | ~17 |
 | Spoiler alert! | 10.00% | ~15 |
 | Ancient Ruins of Moist Overhangs | 9.00% | ~14 |
 | I want to throw up! | 9.00% | ~14 |

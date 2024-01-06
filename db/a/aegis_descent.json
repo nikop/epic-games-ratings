@@ -2,9 +2,9 @@
   "ID": "ddac88f4f58b4abc99644d6b529a16cd",
   "Name": "Aegis Descent",
   "ProductSlug": "aegis-descent-a1f5a0",
-  "Ranking_EOS_Progress": 359,
+  "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 446,
+  "EOS_Progressed": 447,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -520,6 +520,11 @@
       "Time": "2024-01-06T04:03:58.5600174+00:00",
       "NumProgressed": 446,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T08:03:21.2290005+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -531,7 +536,7 @@
       "Name": "Batteries Included",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Award_BigSpender",
@@ -569,9 +574,9 @@
       "ID": "Award_CleanSweep",
       "SetID": "9ojec6n",
       "Name": "Clean Sweep",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 420
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -643,7 +648,7 @@
       "Name": "Gunner",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Award_HalfwayThere",
@@ -707,7 +712,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -755,7 +760,7 @@
       "Name": "Perky",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Award_PowerUp",
@@ -882,7 +887,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 446,
+      "Progressed": 447,
       "Completed": 1
     }
   ],
@@ -890,8 +895,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:03:30.8562238+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:03:21.2289999+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.8568762+00:00",
-  "LastUpdate_Ratings": "2024-01-06T06:58:42.272738+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:03:30.856258+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:58:30.2639816+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:03:21.2290305+00:00"
 }

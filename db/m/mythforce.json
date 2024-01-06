@@ -780,10 +780,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 295,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-01-06T07:59:55.9427051+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 296,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 295,
+  "NumberOfAwards": 296,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -821,7 +827,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Unique Visuals",
@@ -848,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6126,
+  "EOS_Progressed": 6129,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12643,6 +12649,11 @@
       "Time": "2024-01-06T06:04:58.9701831+00:00",
       "NumProgressed": 6126,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T08:04:20.4403941+00:00",
+      "NumProgressed": 6129,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12703,7 +12714,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12711,7 +12722,7 @@
       "Name": "First Strike",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12743,7 +12754,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12751,7 +12762,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -12767,7 +12778,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -12791,7 +12802,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -12807,7 +12818,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -12838,15 +12849,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6126,
+      "Progressed": 6129,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-06T07:04:29.2274875+00:00",
+  "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
+  "LastChanged_Achievements": "2024-01-06T08:04:20.4403935+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:00:07.969041+00:00",
-  "LastUpdate_Achievements": "2024-01-06T07:04:29.2275487+00:00"
+  "LastUpdate_Ratings": "2024-01-06T07:59:55.9427055+00:00",
+  "LastUpdate_Achievements": "2024-01-06T08:04:20.4404616+00:00"
 }
