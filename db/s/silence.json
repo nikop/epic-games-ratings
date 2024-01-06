@@ -528,9 +528,9 @@
       "ID": "0000_achv_findbugs",
       "SetID": "dhn82m5",
       "Name": "Quite a buggy game",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -736,17 +736,17 @@
       "ID": "2008_achv_bubble",
       "SetID": "dhn82m5",
       "Name": "Bubblekillerfamily",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "2008_achv_spotfly",
       "SetID": "dhn82m5",
       "Name": "Master of Thermodynamics",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "2009_achv_deathwheel",
@@ -881,8 +881,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:06:10.4444423+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:07:53.9639734+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:00.9874259+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:58:25.1625992+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:06:10.4444818+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:59:19.220818+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:07:53.9640195+00:00"
 }

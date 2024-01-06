@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1882,9 +1882,9 @@
       "ID": "SadisticPlan",
       "SetID": "1jeo1g7",
       "Name": "Sadistic Plan",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 55
     },
     {
       "ID": "SanctuaryGuardian",
@@ -2225,8 +2225,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:08:41.191332+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:09:19.951917+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:57:50.716003+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:08:41.1914328+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:58:31.1347493+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:09:19.9520269+00:00"
 }

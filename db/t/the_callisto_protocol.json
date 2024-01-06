@@ -6,7 +6,7 @@
   "Ranking_Popularity": 355,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -2063,9 +2063,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 21246,
+  "EOS_Progressed": 21249,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1248,
+  "EOS_NewPlayers": 1247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -12758,6 +12758,11 @@
       "Time": "2024-01-06T08:09:26.5250299+00:00",
       "NumProgressed": 21246,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-06T09:10:22.5505959+00:00",
+      "NumProgressed": 21249,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12801,7 +12806,7 @@
       "Name": "Flesh Wound",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5099
+      "UsersEstimate": 5100
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -12873,7 +12878,7 @@
       "Name": "Get a Grip",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 4249
+      "UsersEstimate": 4250
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -12897,7 +12902,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "KILL_ROBOT",
@@ -12913,7 +12918,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -12929,7 +12934,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -12961,7 +12966,7 @@
       "Name": "The Outer Way",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5099
+      "UsersEstimate": 5100
     },
     {
       "ID": "STORY_ESCAPE",
@@ -12975,9 +12980,9 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2550
+      "UsersEstimate": 2762
     },
     {
       "ID": "STORY_HANGAR",
@@ -13001,7 +13006,7 @@
       "Name": "Desperate Times",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 4674
+      "UsersEstimate": 4675
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13081,7 +13086,7 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -13105,7 +13110,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "FINISH_DLC4",
@@ -13144,13 +13149,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21246,
+      "Progressed": 21249,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9172,
+      "Progressed": 9175,
       "Completed": 29
     }
   ],
@@ -13158,8 +13163,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-05T20:03:04.3690756+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:09:26.5250295+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:10:22.5505957+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:03:09.686397+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:09:26.5251195+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:03:42.4047835+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:10:22.5506805+00:00"
 }

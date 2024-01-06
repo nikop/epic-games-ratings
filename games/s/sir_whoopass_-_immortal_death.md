@@ -60,7 +60,7 @@
 | Ancient Ruins of Moist Overhangs | 9.00% | ~14 |
 | I want to throw up! | 9.00% | ~14 |
 | I drink, but I'm not a drunk! | 9.00% | ~14 |
-| My name is Whoopass, SIR Whoopass! | 8.00% | ~12 |
+| My name is Whoopass, SIR Whoopass! | 9.00% | ~14 |
 | Scrambled Eggs | 8.00% | ~12 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~8 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~8 |

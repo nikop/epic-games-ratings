@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -287,7 +287,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17438,
+  "EOS_Progressed": 17439,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -8092,6 +8092,11 @@
       "Time": "2024-01-06T05:08:39.080898+00:00",
       "NumProgressed": 17438,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T09:08:55.7365768+00:00",
+      "NumProgressed": 17439,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -8103,7 +8108,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16566
+      "UsersEstimate": 16567
     },
     {
       "ID": "ACH001",
@@ -8111,7 +8116,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14997
+      "UsersEstimate": 14998
     },
     {
       "ID": "ACH0010",
@@ -8183,7 +8188,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3836
+      "UsersEstimate": 3837
     },
     {
       "ID": "ACH0019",
@@ -8199,7 +8204,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12555
+      "UsersEstimate": 12556
     },
     {
       "ID": "ACH0020",
@@ -8223,7 +8228,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6103
+      "UsersEstimate": 6104
     },
     {
       "ID": "ACH0023",
@@ -8263,7 +8268,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 15171
+      "UsersEstimate": 15172
     },
     {
       "ID": "ACH005",
@@ -8279,7 +8284,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6975
+      "UsersEstimate": 6976
     },
     {
       "ID": "ACH007",
@@ -8310,7 +8315,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17438,
+      "Progressed": 17439,
       "Completed": 1
     }
   ],
@@ -8318,8 +8323,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2024-01-05T00:01:53.1523613+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:08:23.5212546+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:08:55.7365767+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.2106038+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:56:52.9577409+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:08:23.521313+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:57:10.8072561+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:08:55.736615+00:00"
 }

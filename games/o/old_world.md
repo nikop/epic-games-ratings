@@ -76,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.40% | ~65 |
 | Win a Single Player Game | 0.40% | ~65 |
 | Bad Heir Day | 0.30% | ~48 |
+| Capable | 0.30% | ~48 |
 | Conqueror | 0.30% | ~48 |
 | Ready | 0.30% | ~48 |
 | Subjugator | 0.30% | ~48 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.30% | ~48 |
 | The Clergy | 0.30% | ~48 |
 | Ishtar Gate in Babylon | 0.20% | ~32 |
-| Capable | 0.20% | ~32 |
 | Devout | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
 | Lion | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,144 (Ranked 167)  
+Progressed: 16,145 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
-| 2024-01-06 | 16,144 | 5 |
+| 2024-01-06 | 16,145 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,915 (Ranked 221)  

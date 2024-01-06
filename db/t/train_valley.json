@@ -5,9 +5,9 @@
   "Ranking_Rating": 635,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
-  "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -150,11 +150,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 635,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:48.389739+00:00",
@@ -1835,6 +1835,11 @@
       "Time": "2024-01-06T08:06:18.9437827+00:00",
       "NumProgressed": 634,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T09:08:24.395563+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1846,7 +1851,7 @@
       "Name": "Getting started",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "02_collector",
@@ -1854,7 +1859,7 @@
       "Name": "Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "03_philatelist",
@@ -1910,7 +1915,7 @@
       "Name": "Russia",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "10_japan",
@@ -1934,7 +1939,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "13_bunkrupt",
@@ -1950,7 +1955,7 @@
       "Name": "Woodcutter",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "15_bbq",
@@ -1974,15 +1979,15 @@
       "Name": "Builder",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "18_foreman",
       "SetID": "chb1m60",
       "Name": "Foreman",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 127
     },
     {
       "ID": "19_justintime",
@@ -2022,15 +2027,15 @@
       "Name": "Close call!",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "24_mega",
       "SetID": "chb1m60",
       "Name": "Mega-railroad",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "25_juggler",
@@ -2076,9 +2081,9 @@
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 254
     },
     {
       "ID": "31_chancellor",
@@ -2094,7 +2099,7 @@
       "Name": "Engineer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "33_peacemaker",
@@ -2157,15 +2162,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 635,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:06:18.9437822+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:08:24.3955627+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.4916275+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:58:23.5250305+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:06:18.9438265+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:59:16.9265116+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:08:24.3956002+00:00"
 }

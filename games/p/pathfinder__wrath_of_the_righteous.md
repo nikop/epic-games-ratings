@@ -10,9 +10,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Spark | 20.00% | ~2,614 |
 | Burning City | 19.00% | ~2,483 |
 | Defender's Heart | 16.00% | ~2,091 |
-| Mythic Choices | 15.00% | ~1,960 |
+| Mythic Choices | 15.00% | ~1,961 |
 | Banner over the Citadel | 14.00% | ~1,830 |
-| Queen's Gratitude | 12.00% | ~1,568 |
+| Queen's Gratitude | 12.00% | ~1,569 |
 | Fifth Crusade | 9.00% | ~1,176 |
 | Embrace of the Abyss | 7.00% | ~915 |
 | Path of the Angel | 7.00% | ~915 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,070 (Ranked 176)  
+Progressed: 13,071 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,7 +384,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 13,006 | 0 |
 | 2024-01-04 | 13,029 | 0 |
 | 2024-01-05 | 13,058 | 0 |
-| 2024-01-06 | 13,070 | 0 |
+| 2024-01-06 | 13,071 | 0 |
 ## Awards
 Max (Character Customization): 1,777  (Ranked 128)  
 Sum: 7,194 (Ranked 126)  

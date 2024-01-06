@@ -23,10 +23,10 @@
 | Lights! Camera! Action! | 11.00% | ~31 |
 | Another perspective | 10.00% | ~28 |
 | Playtime | 10.00% | ~28 |
+| The tragedy unfolds | 10.00% | ~28 |
 | Tough conversation | 10.00% | ~28 |
+| A new way | 9.00% | ~26 |
 | First steps | 9.00% | ~26 |
-| The tragedy unfolds | 9.00% | ~26 |
-| A new way | 8.00% | ~23 |
 | Breaking free | 8.00% | ~23 |
 | True Reflection | 7.00% | ~20 |
 | Casting Finished | 6.00% | ~17 |

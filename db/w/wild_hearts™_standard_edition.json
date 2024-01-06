@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1162,
+  "EOS_Progressed": 1163,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -3828,6 +3828,11 @@
       "Time": "2024-01-06T08:09:19.7623176+00:00",
       "NumProgressed": 1162,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-06T09:10:13.0881215+00:00",
+      "NumProgressed": 1163,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3840,7 +3845,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "achievement_10",
@@ -3928,7 +3933,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "achievement_20",
@@ -3936,7 +3941,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "achievement_21",
@@ -3952,7 +3957,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "achievement_23",
@@ -4014,9 +4019,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_30",
@@ -4072,7 +4077,7 @@
       "Name": "Bewitched by Bathing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_37",
@@ -4080,7 +4085,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "achievement_38",
@@ -4160,7 +4165,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "achievement_47",
@@ -4208,7 +4213,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "achievement_9",
@@ -4223,13 +4228,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1162,
+      "Progressed": 1163,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:09:19.7623171+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:10:13.0881212+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:58:02.0318435+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:09:19.7623632+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:58:46.3748191+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:10:13.0881793+00:00"
 }

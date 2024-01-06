@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~7,063 |
-| Man of politics | 34.00% | ~6,003 |
+| Tattletale | 40.00% | ~7,064 |
+| Man of politics | 34.00% | ~6,004 |
 | Yet another secret | 33.00% | ~5,827 |
-| Friends of sorts | 32.00% | ~5,650 |
+| Friends of sorts | 32.00% | ~5,651 |
 | Let there be darkness | 31.00% | ~5,474 |
 | End of Book One | 29.00% | ~5,121 |
-| Wannabe knight | 23.00% | ~4,061 |
-| Garden of Eden | 23.00% | ~4,061 |
-| Full house | 23.00% | ~4,061 |
+| Wannabe knight | 23.00% | ~4,062 |
+| Garden of Eden | 23.00% | ~4,062 |
+| Full house | 23.00% | ~4,062 |
 | Help an old friend | 21.00% | ~3,708 |
-| Two of us | 20.00% | ~3,531 |
-| Negotiation skills | 18.00% | ~3,178 |
-| Workers' union | 18.00% | ~3,178 |
-| End of Book Two | 18.00% | ~3,178 |
+| Two of us | 20.00% | ~3,532 |
+| Negotiation skills | 18.00% | ~3,179 |
+| Workers' union | 18.00% | ~3,179 |
+| End of Book Two | 18.00% | ~3,179 |
 | Everything's in order | 16.00% | ~2,825 |
 | Twist of Fate | 14.00% | ~2,472 |
 | Jack was here! | 14.00% | ~2,472 |
-| Exterminator | 13.00% | ~2,295 |
+| Exterminator | 13.00% | ~2,296 |
 | Whodunnit | 12.00% | ~2,119 |
 | Good midwife | 10.00% | ~1,766 |
 | Friar Tuck | 10.00% | ~1,766 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | Nothing but make-believe | 8.00% | ~1,413 |
 | A cry for help | 7.00% | ~1,236 |
 | Silentium est aureum | 7.00% | ~1,236 |
-| Rebel without a cause | 6.00% | ~1,059 |
+| Rebel without a cause | 6.00% | ~1,060 |
 | Staring contest champion | 5.00% | ~883 |
 | Lone wolf | 5.00% | ~883 |
 | Vox Populi | 5.00% | ~883 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~530 |
 | Boy of mystery | 2.00% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,657 (Ranked 162)  
+Progressed: 17,659 (Ranked 162)  
 Completed: 125 (0.71%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 125 (0.71%) (Ranked 195)
 | 2024-01-03 | 17,600 | 124 |
 | 2024-01-04 | 17,624 | 124 |
 | 2024-01-05 | 17,651 | 125 |
-| 2024-01-06 | 17,657 | 125 |
+| 2024-01-06 | 17,659 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 324)  
 Sum: 200 (Ranked 417)  

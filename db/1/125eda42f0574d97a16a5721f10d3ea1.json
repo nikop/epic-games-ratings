@@ -4,7 +4,7 @@
   "ProductSlug": "my-product-b51a19",
   "Ranking_EOS_Progress": 757,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewPlayers": 566,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -272,8 +272,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:05:04.7701307+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:06:23.2233425+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.29782+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:58:52.6145902+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:05:04.7701504+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:59:58.9108151+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:06:23.2233555+00:00"
 }

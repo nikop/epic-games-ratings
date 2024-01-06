@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -819,9 +819,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3789,
+  "EOS_Progressed": 3791,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5589,6 +5589,11 @@
       "Time": "2024-01-06T07:06:27.5703856+00:00",
       "NumProgressed": 3789,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T09:08:26.9679595+00:00",
+      "NumProgressed": 3791,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5616,7 +5621,7 @@
       "Name": "Look Over There!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "BloodAndIron",
@@ -5662,9 +5667,9 @@
       "ID": "CompletedAllShipUpgrades",
       "SetID": "3jha1np",
       "Name": "Patron of Deimos",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "Dominus",
@@ -5696,7 +5701,7 @@
       "Name": "Surgical Excision",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -5824,7 +5829,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "Kills_Streak",
@@ -5848,7 +5853,7 @@
       "Name": "An Ill Omen",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6143,21 +6148,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3789,
+      "Progressed": 3791,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3789,
+      "Progressed": 3791,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-04T18:03:14.3502303+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:06:20.7125403+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:08:26.9679592+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:03:05.8272706+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:06:20.7126271+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:03:36.7979529+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:08:26.9680269+00:00"
 }

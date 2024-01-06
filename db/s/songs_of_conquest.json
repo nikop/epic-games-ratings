@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1002,
+  "EOS_Progressed": 1003,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3565,6 +3565,11 @@
       "Time": "2024-01-06T06:09:07.2057425+00:00",
       "NumProgressed": 1002,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T09:09:48.7563551+00:00",
+      "NumProgressed": 1003,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3671,9 +3676,9 @@
       "ID": "ComingThrough",
       "SetID": "71c0n9i",
       "Name": "Coming Through!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DamageThreshold",
@@ -3681,7 +3686,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Deepstrike",
@@ -3727,9 +3732,9 @@
       "ID": "FlameAttackKillCount",
       "SetID": "71c0n9i",
       "Name": "Barbecue",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FrontlineFighterCount",
@@ -3913,7 +3918,7 @@
       "Name": "Veteran",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "WielderLevel3",
@@ -4008,15 +4013,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1002,
+      "Progressed": 1003,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:09:02.1879785+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:09:48.7563549+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:58:43.7469126+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:09:02.1880447+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:59:45.6228641+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:09:48.7564036+00:00"
 }

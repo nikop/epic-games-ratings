@@ -6,17 +6,17 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,073 |
+| A Brief Tour of the Realms | 4.00% | ~10,074 |
 | The Cursed Farmer | 2.00% | ~5,037 |
-| Beast Intentions | 1.00% | ~2,518 |
-| The Mad Wizard | 1.00% | ~2,518 |
+| Beast Intentions | 1.00% | ~2,519 |
+| The Mad Wizard | 1.00% | ~2,519 |
 | The Ring of Regeneration | 0.80% | ~2,015 |
 | Welcome to Sigil | 0.80% | ~1,745 |
 | Are Ya Chicken? | 0.70% | ~1,763 |
 | Were-verpowered | 0.60% | ~1,511 |
+| Seeking Allies | 0.60% | ~1,511 |
 | Friendly Imps | 0.60% | ~1,511 |
 | Fast Food | 0.60% | ~1,309 |
-| Seeking Allies | 0.50% | ~1,259 |
 | Mad Cow Disease | 0.50% | ~1,259 |
 | Pure Energy | 0.50% | ~1,259 |
 | The Overgrown Grove | 0.50% | ~1,091 |
@@ -25,14 +25,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.40% | ~1,007 |
 | Terror in the Dark | 0.40% | ~1,007 |
 | The Crumbling Temple | 0.40% | ~1,007 |
-| Arcane Suppression | 0.40% | ~872 |
-| Welcome to the Vrocks | 0.40% | ~872 |
-| Misaligned in Sigil | 0.40% | ~872 |
-| Chaos Theory | 0.40% | ~872 |
-| When Tentacles Attack | 0.40% | ~872 |
-| Flames of Avernus | 0.40% | ~872 |
-| Don't Lose Your Head | 0.40% | ~872 |
-| Mind Spike | 0.40% | ~872 |
+| Arcane Suppression | 0.40% | ~873 |
+| Welcome to the Vrocks | 0.40% | ~873 |
+| Misaligned in Sigil | 0.40% | ~873 |
+| Chaos Theory | 0.40% | ~873 |
+| When Tentacles Attack | 0.40% | ~873 |
+| Flames of Avernus | 0.40% | ~873 |
+| Don't Lose Your Head | 0.40% | ~873 |
+| Mind Spike | 0.40% | ~873 |
 | Beast Mode | 0.30% | ~756 |
 | A Mysterious Summons | 0.30% | ~756 |
 | Unearthed Evil | 0.30% | ~756 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,835 (Ranked 70)  
+Progressed: 251,856 (Ranked 70)  
 Completed: 2,596 (1.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -814,7 +814,7 @@ Completed: 2,596 (1.03%) (Ranked 172)
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
-| 2024-01-06 | 251,835 | 2,596 |
+| 2024-01-06 | 251,856 | 2,596 |
 ## Awards
 Max (Great for Beginners): 5,750  (Ranked 72)  
 Sum: 33,350 (Ranked 41)  

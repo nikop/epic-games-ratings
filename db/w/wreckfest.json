@@ -2,7 +2,7 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 910,
+  "Ranking_Rating": 909,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 305,
@@ -349,7 +349,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 825,
+  "EOS_Progressed": 827,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -2134,6 +2134,11 @@
       "Time": "2024-01-06T08:08:43.7981014+00:00",
       "NumProgressed": 825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T09:09:23.7522591+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2154,7 +2159,7 @@
       "Name": "Highballer",
       "Percentage": 52,
       "XP": 90,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "CareerChamp1",
@@ -2162,7 +2167,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "CareerChamp2",
@@ -2170,7 +2175,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "CareerChamp3",
@@ -2178,7 +2183,7 @@
       "Name": "Challengers Champion",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CareerChamp4",
@@ -2194,7 +2199,7 @@
       "Name": "World Masters Champion",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CareerFirstWin",
@@ -2202,7 +2207,7 @@
       "Name": "Storm Warning",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 569
+      "UsersEstimate": 571
     },
     {
       "ID": "CollectVehiclesA",
@@ -2210,7 +2215,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "CollectVehiclesB",
@@ -2258,7 +2263,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "PlayerRankB",
@@ -2305,7 +2310,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 825,
+      "Progressed": 827,
       "Completed": 0
     }
   ],
@@ -2313,8 +2318,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-04T23:58:04.2803928+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:08:43.7981006+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:09:23.7522588+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:58:02.7691331+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:08:43.7981215+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:58:47.3102288+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:09:23.7522777+00:00"
 }

@@ -28,8 +28,8 @@ Number of Ratings: 124  (23.09.2022)
 | Banker | 7.00% | ~13 |
 | Beam Me Up | 7.00% | ~13 |
 | Hotshot | 7.00% | ~13 |
+| Perfectionist | 7.00% | ~13 |
 | Treasure Hunter | 6.00% | ~11 |
-| Perfectionist | 6.00% | ~11 |
 | Lover | 6.00% | ~11 |
 | Free as a Bird | 5.00% | ~10 |
 | Cleric | 5.00% | ~10 |

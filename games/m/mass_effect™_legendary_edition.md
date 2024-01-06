@@ -45,8 +45,9 @@
 | Driven | 24.00% | ~908 |
 | Ghost Ship | 23.00% | ~871 |
 | The Assassin | 23.00% | ~871 |
+| The Justicar | 23.00% | ~871 |
 | The Quarian | 23.00% | ~871 |
-| The Justicar | 22.00% | ~833 |
+| Catharsis | 22.00% | ~833 |
 | Ghost of the Father | 22.00% | ~833 |
 | The Prodigal | 22.00% | ~833 |
 | Galactic Explorer | 22.00% | ~833 |
@@ -55,7 +56,6 @@
 | A Personal Touch | 21.00% | ~795 |
 | Archivist | 21.00% | ~795 |
 | Battlemaster | 21.00% | ~795 |
-| Catharsis | 21.00% | ~795 |
 | Fade Away | 21.00% | ~795 |
 | The Cure | 21.00% | ~795 |
 | Big Game Hunter | 21.00% | ~795 |
@@ -113,10 +113,10 @@
 | Always Prepared | 7.00% | ~265 |
 | Paramour III | 7.00% | ~265 |
 | Bruiser | 7.00% | ~265 |
+| Lift Mastery | 7.00% | ~265 |
 | Overload Specialist | 7.00% | ~265 |
 | Sky High | 6.00% | ~227 |
 | Hijacker | 6.00% | ~227 |
-| Lift Mastery | 6.00% | ~227 |
 | Damping Specialist | 4.00% | ~151 |
 | Singularity Mastery | 4.00% | ~151 |
 | Shield Breaker | 3.00% | ~114 |

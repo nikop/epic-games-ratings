@@ -5635,9 +5635,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1726
     },
     {
       "ID": "AC41",
@@ -5692,8 +5692,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-05T17:57:02.0313772+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:08:27.6529683+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:09:01.2337206+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:57:05.2184574+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:08:27.6530251+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:57:27.815955+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:09:01.233779+00:00"
 }

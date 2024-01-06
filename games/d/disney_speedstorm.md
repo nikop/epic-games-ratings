@@ -5,33 +5,33 @@ Rating: 4.42 (Ranked 736)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~50,352 |
-| IT MAKES BOOM! | 8.00% | ~30,986 |
-| EXTRA BOOST | 6.00% | ~23,240 |
-| PROTECTED | 5.00% | ~19,366 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,493 |
-| PRO | 4.00% | ~15,493 |
-| AGGRESSIVE RACER | 3.00% | ~11,620 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,747 |
-| TRAINING HARD | 2.00% | ~7,747 |
-| BE OUR GUEST | 2.00% | ~7,747 |
-| ACE SPEEDSTER | 2.00% | ~7,747 |
-| A TIGER'S FEAR | 2.00% | ~7,747 |
-| RELEASE THE KRAKEN | 1.00% | ~3,873 |
-| DEFEAT OUR CHAMPION | 1.00% | ~3,873 |
-| ACE DEFENDER | 1.00% | ~3,873 |
-| FRIENDLY | 1.00% | ~3,873 |
-| MASTER | 1.00% | ~3,873 |
-| LEGENDARY HERO | 1.00% | ~3,873 |
+| ROOKIE | 13.00% | ~50,360 |
+| IT MAKES BOOM! | 8.00% | ~30,991 |
+| EXTRA BOOST | 6.00% | ~23,243 |
+| PROTECTED | 5.00% | ~19,369 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,495 |
+| PRO | 4.00% | ~15,495 |
+| AGGRESSIVE RACER | 3.00% | ~11,622 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,748 |
+| TRAINING HARD | 2.00% | ~7,748 |
+| BE OUR GUEST | 2.00% | ~7,748 |
+| ACE SPEEDSTER | 2.00% | ~7,748 |
+| A TIGER'S FEAR | 2.00% | ~7,748 |
+| RELEASE THE KRAKEN | 1.00% | ~3,874 |
+| DEFEAT OUR CHAMPION | 1.00% | ~3,874 |
+| ACE DEFENDER | 1.00% | ~3,874 |
+| FRIENDLY | 1.00% | ~3,874 |
+| MASTER | 1.00% | ~3,874 |
+| LEGENDARY HERO | 1.00% | ~3,874 |
 | ACE BRAWLER | 0.90% | ~3,486 |
 | THE EYE OF THE HUNTER | 0.90% | ~3,486 |
 | EXPERIENCED CREW | 0.80% | ~3,099 |
-| FRAMED! | 0.70% | ~2,711 |
-| ACE TRICKSTER | 0.70% | ~2,711 |
+| FRAMED! | 0.70% | ~2,712 |
+| ACE TRICKSTER | 0.70% | ~2,712 |
 | PERFECTLY POISED | 0.60% | ~2,324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,326 (Ranked 52)  
-Completed: 1,479 (0.38%) (Ranked 240)  
+Progressed: 387,384 (Ranked 52)  
+Completed: 1,480 (0.38%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,15 +287,15 @@ Completed: 1,479 (0.38%) (Ranked 240)
 | 2024-01-03 | 382,781 | 1,420 |
 | 2024-01-04 | 384,509 | 1,441 |
 | 2024-01-05 | 386,667 | 1,471 |
-| 2024-01-06 | 387,326 | 1,479 |
+| 2024-01-06 | 387,384 | 1,480 |
 ## Awards
 Max (Great for Beginners): 174  (Ranked 315)  
-Sum: 1,127 (Ranked 261)  
+Sum: 1,132 (Ranked 261)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 174 |
-| This game is Great for Quick Sessions | 155 |
+| This game is Great for Quick Sessions | 160 |
 | This game has Diverse Characters | 123 |
 | This game has a Competitive Community | 100 |
 | This game has Playful Visuals | 93 |
@@ -406,3 +406,4 @@ Diff (max vs sum): 54
 | 2024-01-03 | 4.42 | 167 | 1,101 |
 | 2024-01-04 | 4.42 | 173 | 1,116 |
 | 2024-01-05 | 4.42 | 174 | 1,127 |
+| 2024-01-06 | 4.42 | 174 | 1,132 |

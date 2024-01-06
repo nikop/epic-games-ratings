@@ -8029,7 +8029,7 @@
       "Count": 3815
     }
   ],
-  "EOS_Progressed": 149827,
+  "EOS_Progressed": 149833,
   "EOS_Completed": 344,
   "EOS_NewPlayers": 1420,
   "EOS_NewCompleters": 4,
@@ -35554,6 +35554,11 @@
       "Time": "2024-01-06T08:08:21.5004111+00:00",
       "NumProgressed": 149827,
       "NumCompleted": 344
+    },
+    {
+      "Time": "2024-01-06T09:08:52.6164961+00:00",
+      "NumProgressed": 149833,
+      "NumCompleted": 344
     }
   ],
   "TotalAchievements": 112,
@@ -35645,7 +35650,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7491
+      "UsersEstimate": 7492
     },
     {
       "ID": "bigsale02",
@@ -35669,7 +35674,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7491
+      "UsersEstimate": 7492
     },
     {
       "ID": "blueprint02",
@@ -35797,7 +35802,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13484
+      "UsersEstimate": 13485
     },
     {
       "ID": "commonres02",
@@ -36037,7 +36042,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13484
+      "UsersEstimate": 13485
     },
     {
       "ID": "gold02",
@@ -36045,7 +36050,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7491
+      "UsersEstimate": 7492
     },
     {
       "ID": "gold03",
@@ -36117,7 +36122,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7491
+      "UsersEstimate": 7492
     },
     {
       "ID": "jackslot02",
@@ -36460,15 +36465,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149827,
+      "Progressed": 149833,
       "Completed": 344
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-05T22:03:39.6518271+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:08:21.5004108+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:08:52.616496+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:03:07.7466063+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:08:21.5006565+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:03:39.6074266+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:08:52.6167052+00:00"
 }

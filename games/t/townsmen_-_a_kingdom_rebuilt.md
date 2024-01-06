@@ -23,11 +23,11 @@ Number of Ratings: 37  (23.09.2022)
 | Completionist I | 7.00% | ~310 |
 | Full-time job II | 7.00% | ~310 |
 | A time consuming game II | 7.00% | ~310 |
+| Knee deep in snow | 7.00% | ~310 |
 | Not a small trader anymore | 6.00% | ~265 |
 | The King's new clothes I | 6.00% | ~265 |
 | Tax-man III | 6.00% | ~265 |
 | Tools of the trade I | 6.00% | ~265 |
-| Knee deep in snow | 6.00% | ~265 |
 | Bread for the people II | 5.00% | ~221 |
 | I like to build stuff... III | 5.00% | ~221 |
 | Builder II | 5.00% | ~221 |

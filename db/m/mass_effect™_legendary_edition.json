@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3785,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -7890,9 +7890,9 @@
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 833
+      "UsersEstimate": 871
     },
     {
       "ID": "achievement_48",
@@ -7954,9 +7954,9 @@
       "ID": "achievement_54",
       "SetID": "d252ncf",
       "Name": "Catharsis",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 833
     },
     {
       "ID": "achievement_55",
@@ -8002,9 +8002,9 @@
       "ID": "achievement_6",
       "SetID": "b9pe172",
       "Name": "Lift Mastery",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_60",
@@ -8366,8 +8366,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:10:01.257404+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:11:08.0463486+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.6542278+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:03:12.2961032+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:10:01.2575837+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:03:45.8597678+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:11:08.0465313+00:00"
 }

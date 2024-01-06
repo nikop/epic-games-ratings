@@ -14097,9 +14097,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 493148,
+  "EOS_Progressed": 493177,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5552,
+  "EOS_NewPlayers": 5543,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44177,6 +44177,11 @@
       "Time": "2024-01-06T08:09:40.9142199+00:00",
       "NumProgressed": 493148,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T09:10:41.5084491+00:00",
+      "NumProgressed": 493177,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44628,7 +44633,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -44708,7 +44713,7 @@
       "Name": "Cold War",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "achievement_colonial_management",
@@ -47091,21 +47096,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 493148,
+      "Progressed": 493177,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 493148,
+      "Progressed": 493177,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-05T18:59:54.6108366+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:09:40.9142196+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:10:41.5084489+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:58:24.0295622+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:09:40.9153541+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:59:17.6488699+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:10:41.5095214+00:00"
 }

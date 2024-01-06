@@ -14,7 +14,7 @@
 | Old movies enjoyer | 73.00% | ~393 |
 | Fitness professional | 72.00% | ~388 |
 | Employee of the week | 71.00% | ~383 |
-| Your own amateur gym | 67.00% | ~361 |
+| Your own amateur gym | 68.00% | ~367 |
 | First defeat | 66.00% | ~356 |
 | Run K, run! | 66.00% | ~356 |
 | Hello, world! | 64.00% | ~345 |
@@ -60,11 +60,11 @@
 | The lonesome road | 28.00% | ~151 |
 | Family comes first | 28.00% | ~151 |
 | Key memories | 28.00% | ~151 |
+| Careerist | 28.00% | ~151 |
 | The heart of the Resistance | 28.00% | ~151 |
 | Trap disarmed | 27.00% | ~146 |
 | Keep nature safe | 27.00% | ~146 |
 | The last bell ring | 27.00% | ~146 |
-| Careerist | 27.00% | ~146 |
 | Anyone can resist | 27.00% | ~146 |
 | Your own way | 27.00% | ~146 |
 | Silver’s past | 25.00% | ~135 |

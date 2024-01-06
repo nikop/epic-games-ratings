@@ -40,8 +40,8 @@
 | Friend of Windholme | 11.00% | ~13 |
 | Mage Teacher | 10.00% | ~12 |
 | Defeat Gor | 9.00% | ~11 |
+| Yngrid's Tale | 9.00% | ~11 |
 | Defeat Uram | 8.00% | ~9 |
-| Yngrid's Tale | 8.00% | ~9 |
 | The Forge of Regan Gor | 8.00% | ~9 |
 | Tuscari Sea Portal | 8.00% | ~9 |
 | Fireforge | 8.00% | ~9 |

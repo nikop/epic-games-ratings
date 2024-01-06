@@ -721,9 +721,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4244,
+  "EOS_Progressed": 4245,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11886,6 +11886,11 @@
       "Time": "2024-01-06T08:03:58.5165594+00:00",
       "NumProgressed": 4244,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T09:04:51.2641043+00:00",
+      "NumProgressed": 4245,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12105,7 +12110,7 @@
       "Name": "Full Party",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "gearenchanting",
@@ -12167,9 +12172,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 552
     },
     {
       "ID": "jewelenchanting",
@@ -12457,7 +12462,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3947
+      "UsersEstimate": 3948
     },
     {
       "ID": "warmachinesarmy",
@@ -12489,14 +12494,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4244,
+      "Progressed": 4245,
       "Completed": 2
     }
   ],
@@ -12504,8 +12509,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-05T01:45:12.3026402+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:03:58.516559+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:04:51.2641041+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:58:34.984326+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:03:58.5166849+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:59:33.3070867+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:04:51.2641919+00:00"
 }

@@ -5,17 +5,17 @@ Rating: 4.21 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 24.00% | ~5,099 |
-| The Outer Way | 24.00% | ~5,099 |
-| Desperate Times | 22.00% | ~4,674 |
+| Flesh Wound | 24.00% | ~5,100 |
+| The Outer Way | 24.00% | ~5,100 |
+| Desperate Times | 22.00% | ~4,675 |
 | Paper Jams | 21.00% | ~4,462 |
-| Get a Grip | 20.00% | ~4,249 |
-| Chew 'Em Up | 18.00% | ~3,824 |
+| Get a Grip | 20.00% | ~4,250 |
+| Chew 'Em Up | 18.00% | ~3,825 |
 | Reforged | 17.00% | ~3,612 |
-| Float Like A Butterfly | 16.00% | ~3,399 |
+| Float Like A Butterfly | 16.00% | ~3,400 |
 | If the SHU Fits... | 15.00% | ~3,187 |
-| Workplace Hazard | 14.00% | ~2,974 |
-| Without A Paddle | 12.00% | ~2,550 |
+| Workplace Hazard | 14.00% | ~2,975 |
+| Without A Paddle | 13.00% | ~2,762 |
 | In the Pipe, Five by Five | 11.00% | ~2,337 |
 | Crash Site | 11.00% | ~2,337 |
 | Two Heads Are Better Than One | 10.00% | ~2,125 |
@@ -31,8 +31,8 @@ Rating: 4.21 (Ranked 950)
 | It's Time | 5.00% | ~459 |
 | In Striking Distance | 4.00% | ~850 |
 | One Last Job | 3.00% | ~275 |
-| Big Spender | 2.00% | ~183 |
-| This Isn't About Escape | 2.00% | ~183 |
+| Big Spender | 2.00% | ~184 |
+| This Isn't About Escape | 2.00% | ~184 |
 | Armed to the Teeth | 1.00% | ~92 |
 | Mugshot | 1.00% | ~212 |
 | Instigator | 1.00% | ~92 |
@@ -53,8 +53,8 @@ Rating: 4.21 (Ranked 950)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,246 (Ranked 151)  
-Completed: 82 (0.39%) (Ranked 237)  
+Progressed: 21,249 (Ranked 151)  
+Completed: 82 (0.39%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,7 +306,7 @@ Completed: 82 (0.39%) (Ranked 237)
 | 2024-01-03 | 20,833 | 82 |
 | 2024-01-04 | 20,995 | 82 |
 | 2024-01-05 | 21,186 | 82 |
-| 2024-01-06 | 21,246 | 82 |
+| 2024-01-06 | 21,249 | 82 |
 ## Awards
 Max (Amazing Characters): 120  (Ranked 355)  
 Sum: 587 (Ranked 324)  

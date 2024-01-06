@@ -7,8 +7,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~875 |
-| Lost and Found | 8.00% | ~538 |
-| Autodidact | 7.00% | ~9,230 |
+| Lost and Found | 8.00% | ~539 |
+| Autodidact | 7.00% | ~9,231 |
 | This Belongs in a Museum | 6.00% | ~7,912 |
 | Overdue Notice | 6.00% | ~7,912 |
 | This guy... again? | 6.00% | ~404 |
@@ -20,17 +20,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 5.00% | ~6,593 |
 | Rush Hour | 5.00% | ~6,593 |
 | To Grandmother's House | 5.00% | ~6,593 |
-| Ploughshares to Swords | 5.00% | ~336 |
-| Bloody Graduation | 5.00% | ~336 |
-| It Rings a Bell | 4.00% | ~5,274 |
-| Not Today! | 4.00% | ~5,274 |
-| It Happens | 4.00% | ~5,274 |
-| Merry Time | 4.00% | ~5,274 |
-| Harvest Festival | 4.00% | ~5,274 |
-| Whale | 4.00% | ~5,274 |
-| A Place to Lay Your Head | 4.00% | ~5,274 |
-| FNG | 4.00% | ~5,274 |
-| Nope | 4.00% | ~5,274 |
+| Ploughshares to Swords | 5.00% | ~337 |
+| Bloody Graduation | 5.00% | ~337 |
+| It Rings a Bell | 4.00% | ~5,275 |
+| Not Today! | 4.00% | ~5,275 |
+| It Happens | 4.00% | ~5,275 |
+| Merry Time | 4.00% | ~5,275 |
+| Harvest Festival | 4.00% | ~5,275 |
+| Whale | 4.00% | ~5,275 |
+| A Place to Lay Your Head | 4.00% | ~5,275 |
+| FNG | 4.00% | ~5,275 |
+| Nope | 4.00% | ~5,275 |
 | Friends 'Til the End | 4.00% | ~269 |
 | Resurrection | 3.00% | ~3,956 |
 | Unleash Hell | 3.00% | ~3,956 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,860 (Ranked 91)  
+Progressed: 131,865 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,10 +337,10 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,860 | 3 |
+| 2024-01-06 | 131,865 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
-Sum: 21,468 (Ranked 58)  
+Sum: 21,470 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -352,7 +352,7 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,516 |
 | This game has Unique Visuals | 1,456 |
 | This game has Amazing Storytelling | 1,437 |
-| This game has Quickly Understood Controls | 1,404 |
+| This game has Quickly Understood Controls | 1,406 |
 | This game has a Creative Community | 1,080 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -702,4 +702,4 @@ Diff (max vs sum): -8
 | 2024-01-03 | 4.68 | - | 7,940 | 21,388 |
 | 2024-01-04 | 4.68 | - | 7,951 | 21,421 |
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
-| 2024-01-06 | 4.68 | - | 7,967 | 21,468 |
+| 2024-01-06 | 4.68 | - | 7,967 | 21,470 |

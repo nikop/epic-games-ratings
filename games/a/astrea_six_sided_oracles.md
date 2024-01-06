@@ -23,7 +23,7 @@
 | Shard Spender | 19.00% | ~65 |
 | Unbeatable | 18.00% | ~62 |
 | Apian Champion | 18.00% | ~62 |
-| Sadistic Plan | 15.00% | ~51 |
+| Sadistic Plan | 16.00% | ~55 |
 | Behenian Champion | 13.00% | ~45 |
 | Wave Bender | 11.00% | ~38 |
 | Heavy Purger | 10.00% | ~34 |

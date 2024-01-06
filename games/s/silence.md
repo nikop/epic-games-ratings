@@ -16,10 +16,10 @@
 | Let the boot talk | 32.00% | ~59 |
 | Shadow on the wall | 32.00% | ~59 |
 | Chapter II | 25.00% | ~46 |
-| Bubblekillerfamily | 23.00% | ~42 |
+| Bubblekillerfamily | 24.00% | ~44 |
+| Quite a buggy game | 23.00% | ~42 |
 | Chapter III | 23.00% | ~42 |
 | Like a moth in the Wind | 23.00% | ~42 |
-| Quite a buggy game | 22.00% | ~40 |
 | Handyman | 22.00% | ~40 |
 | Achoo!! | 22.00% | ~40 |
 | Pacifist | 21.00% | ~38 |
@@ -28,7 +28,7 @@
 | Home is where the heart is | 18.00% | ~33 |
 | It's not easy being green! | 17.00% | ~31 |
 | Death is a part of life | 14.00% | ~26 |
-| Master of Thermodynamics | 12.00% | ~22 |
+| Master of Thermodynamics | 13.00% | ~24 |
 | To err is human... | 11.00% | ~20 |
 | Unfullfilled dreams | 11.00% | ~20 |
 | Mumbo Jumbo | 10.00% | ~18 |

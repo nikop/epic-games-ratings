@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 8,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -439,9 +439,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 395901,
+  "EOS_Progressed": 396071,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 38405,
+  "EOS_NewPlayers": 38230,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4124,6 +4124,11 @@
       "Time": "2024-01-06T08:04:03.5811058+00:00",
       "NumProgressed": 395901,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-06T09:04:58.1176322+00:00",
+      "NumProgressed": 396071,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 43,
@@ -4143,7 +4148,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3961
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -4159,7 +4164,7 @@
       "Name": "autopilot",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 15836
+      "UsersEstimate": 15843
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -4175,7 +4180,7 @@
       "Name": "bicycle race",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 23754
+      "UsersEstimate": 23764
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -4183,7 +4188,7 @@
       "Name": "car wash",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 91057
+      "UsersEstimate": 91096
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -4191,7 +4196,7 @@
       "Name": "perkele",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 7918
+      "UsersEstimate": 7921
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -4207,7 +4212,7 @@
       "Name": "eurobeat",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "ACH_COLLECTIBLES_NORWAY",
@@ -4215,7 +4220,7 @@
       "Name": "viking",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "ACH_COLLECTIBLES_SARDINIA",
@@ -4223,7 +4228,7 @@
       "Name": "espresso",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3961
     },
     {
       "ID": "ACH_COMPLETE_CAREER",
@@ -4239,7 +4244,7 @@
       "Name": "grocery-getter",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19795
+      "UsersEstimate": 19804
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -4247,7 +4252,7 @@
       "Name": "rwd only",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7918
+      "UsersEstimate": 7921
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -4255,7 +4260,7 @@
       "Name": "turbo",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3961
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -4271,7 +4276,7 @@
       "Name": "monster",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 3563
+      "UsersEstimate": 3565
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -4295,7 +4300,7 @@
       "Name": "keep it tidy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 102934
+      "UsersEstimate": 102978
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -4311,7 +4316,7 @@
       "Name": "in like a lamb, out like a lion",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3961
     },
     {
       "ID": "ACH_FIVE_HUNDRED_KM",
@@ -4327,7 +4332,7 @@
       "Name": "where is the stage?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11877
+      "UsersEstimate": 11882
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -4343,7 +4348,7 @@
       "Name": "brail",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 102934
+      "UsersEstimate": 102978
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -4351,7 +4356,7 @@
       "Name": "if in doubt, flat out!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7918
+      "UsersEstimate": 7921
     },
     {
       "ID": "ACH_MAX_SPEED_LIGHT",
@@ -4359,7 +4364,7 @@
       "Name": "light attack",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 312762
+      "UsersEstimate": 312896
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -4375,7 +4380,7 @@
       "Name": "medium attack",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 67303
+      "UsersEstimate": 67332
     },
     {
       "ID": "ACH_NIGHT",
@@ -4383,7 +4388,7 @@
       "Name": "night ride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11877
+      "UsersEstimate": 11882
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -4391,7 +4396,7 @@
       "Name": "the artist",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 91057
+      "UsersEstimate": 91096
     },
     {
       "ID": "ACH_RAIN",
@@ -4399,7 +4404,7 @@
       "Name": "snorkel",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11877
+      "UsersEstimate": 11882
     },
     {
       "ID": "ACH_ROLL",
@@ -4407,7 +4412,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 7918
+      "UsersEstimate": 7921
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -4423,7 +4428,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 126688
+      "UsersEstimate": 126743
     },
     {
       "ID": "ACH_SNOW",
@@ -4431,7 +4436,7 @@
       "Name": "mittens",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7918
+      "UsersEstimate": 7921
     },
     {
       "ID": "ACH_TERMINAL_DAMAGE",
@@ -4447,7 +4452,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3961
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -4455,7 +4460,7 @@
       "Name": "food tour: pasta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11877
+      "UsersEstimate": 11882
     },
     {
       "ID": "ACH_WEEKLY",
@@ -4471,22 +4476,22 @@
       "Name": "podium",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 79180
+      "UsersEstimate": 79214
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 395901,
+      "Progressed": 396071,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2024-01-05T11:01:04.7433632+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:04:03.5811054+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:04:58.117632+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:12.6491306+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:00:00.8570824+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:04:03.5811478+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:01:34.5384288+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:04:58.1176754+00:00"
 }

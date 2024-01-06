@@ -5427,7 +5427,7 @@
       "Count": 535
     }
   ],
-  "EOS_Progressed": 93082,
+  "EOS_Progressed": 93087,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
@@ -30497,6 +30497,11 @@
       "Time": "2024-01-06T08:05:47.7500873+00:00",
       "NumProgressed": 93082,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-06T09:07:22.7095965+00:00",
+      "NumProgressed": 93087,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30548,7 +30553,7 @@
       "Name": "Legend Looter",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_0016",
@@ -30596,7 +30601,7 @@
       "Name": "Foo Finder",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_0060",
@@ -30644,7 +30649,7 @@
       "Name": "Moneybags",
       "Percentage": 0.6,
       "XP": 55,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_0200",
@@ -30676,7 +30681,7 @@
       "Name": "Too Old for This",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "ACH_0300",
@@ -30684,7 +30689,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 0.6,
       "XP": 55,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_0310",
@@ -30700,7 +30705,7 @@
       "Name": "Ding Dong",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_0340",
@@ -30740,7 +30745,7 @@
       "Name": "Fancy Pants",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "ACH_0431",
@@ -30835,13 +30840,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93082,
+      "Progressed": 93087,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21429,
+      "Progressed": 21434,
       "Completed": 15596
     }
   ],
@@ -30849,8 +30854,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-05T19:58:06.9194268+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:05:47.7500868+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:07:22.7095961+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:58:09.21161+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:05:47.7502178+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:58:56.8260848+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:07:22.7097122+00:00"
 }

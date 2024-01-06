@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 275,
+  "EOS_Progressed": 276,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1189,6 +1189,11 @@
       "Time": "2024-01-05T23:07:53.9147482+00:00",
       "NumProgressed": 275,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T09:06:11.136927+00:00",
+      "NumProgressed": 276,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1199,9 +1204,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 171
     },
     {
       "ID": "10",
@@ -1265,7 +1270,7 @@
       "Name": "Master Chess",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "18",
@@ -1281,7 +1286,7 @@
       "Name": "I am speed",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "2",
@@ -1393,15 +1398,15 @@
       "Name": "It\u0027s all coming together",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "8",
       "SetID": "6bgoh8g",
       "Name": "You\u0027re probably wondering how I got here...",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "9",
@@ -1416,14 +1421,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 275,
+      "Progressed": 276,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:04:56.1721378+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:06:11.1369267+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:18.4677846+00:00",
-  "LastUpdate_Ratings": "2024-01-06T08:03:02.3030371+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:04:56.1721636+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:03:31.4118321+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:06:11.1369439+00:00"
 }

@@ -7,10 +7,10 @@ Rating: 4.62 (Ranked 379)
 | ---- | ---------- | ----- |
 | Secret Technique | 15.00% | ~1,041 |
 | Realm Estate | 13.00% | ~902 |
-| A Wonderful Discovery | 12.00% | ~832 |
-| Walls Cannot Stop Us | 12.00% | ~832 |
+| A Wonderful Discovery | 12.00% | ~833 |
+| Walls Cannot Stop Us | 12.00% | ~833 |
 | From Friends to Family | 11.00% | ~763 |
-| Bone Peddler | 9.00% | ~624 |
+| Bone Peddler | 9.00% | ~625 |
 | Magical Synergy | 8.00% | ~555 |
 | There Can Only Be One! | 7.00% | ~486 |
 | Full Ascension | 7.00% | ~486 |
@@ -20,11 +20,11 @@ Rating: 4.62 (Ranked 379)
 | Valley of Wonders | 5.00% | ~347 |
 | Intimidation Tactics | 5.00% | ~347 |
 | But this one is mine | 5.00% | ~347 |
-| Return of the Wizard King | 4.00% | ~277 |
-| Enchanted Archipelago | 4.00% | ~277 |
-| Digging for Treasure | 4.00% | ~277 |
-| My Final Form | 4.00% | ~277 |
-| Impenetrable Fortress | 4.00% | ~277 |
+| Return of the Wizard King | 4.00% | ~278 |
+| Enchanted Archipelago | 4.00% | ~278 |
+| Digging for Treasure | 4.00% | ~278 |
+| My Final Form | 4.00% | ~278 |
+| Impenetrable Fortress | 4.00% | ~278 |
 | Preparation Is Everything | 3.00% | ~208 |
 | Fiery Friend | 3.00% | ~208 |
 | Against the Odds | 3.00% | ~208 |
@@ -54,7 +54,7 @@ Rating: 4.62 (Ranked 379)
 | Dawn of the Dread | 1.00% | ~69 |
 | One for All, All for One | 0.90% | ~62 |
 | Betrayal Most Foul | 0.90% | ~62 |
-| Duality | 0.80% | ~55 |
+| Duality | 0.80% | ~56 |
 | Snap Out of It! | 0.50% | ~35 |
 | The Magic That Empowers Me! | 0.50% | ~35 |
 | A Very Special Ring | 0.40% | ~28 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,937 (Ranked 196)  
+Progressed: 6,939 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
-| 2024-01-06 | 6,937 | 7 |
+| 2024-01-06 | 6,939 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 210 (Ranked 411)  

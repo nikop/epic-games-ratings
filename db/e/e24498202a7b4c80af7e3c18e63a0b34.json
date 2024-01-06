@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8361,
+  "EOS_Progressed": 8362,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -9329,6 +9329,11 @@
       "Time": "2024-01-06T08:05:29.5515109+00:00",
       "NumProgressed": 8361,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-06T09:06:57.605065+00:00",
+      "NumProgressed": 8362,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9341,7 +9346,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7358
+      "UsersEstimate": 7359
     },
     {
       "ID": "achievement_01_02",
@@ -9365,7 +9370,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6272
     },
     {
       "ID": "achievement_01_05",
@@ -9397,7 +9402,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6272
     },
     {
       "ID": "achievement_01_09",
@@ -9405,7 +9410,7 @@
       "Name": "Right Foot",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 3762
+      "UsersEstimate": 3763
     },
     {
       "ID": "achievement_01_10",
@@ -9413,7 +9418,7 @@
       "Name": "Beat the Clock",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 4682
+      "UsersEstimate": 4683
     },
     {
       "ID": "achievement_02_01",
@@ -9453,7 +9458,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "achievement_02_06",
@@ -9581,7 +9586,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 4013
+      "UsersEstimate": 4014
     },
     {
       "ID": "achievement_04_03",
@@ -9605,7 +9610,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "achievement_04_06",
@@ -9621,7 +9626,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "achievement_04_08",
@@ -9629,7 +9634,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7274
+      "UsersEstimate": 7275
     },
     {
       "ID": "achievement_04_09",
@@ -9644,7 +9649,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8361,
+      "Progressed": 8362,
       "Completed": 49
     }
   ],
@@ -9652,8 +9657,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-04T12:00:05.3344486+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:05:29.5515101+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:06:57.6050647+00:00",
   "LastUpdate_AppInfo": "2024-01-05T01:43:58.6689875+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:57:09.7060505+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:05:29.5515858+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:57:34.0881645+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:06:57.6051355+00:00"
 }

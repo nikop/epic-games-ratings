@@ -2,9 +2,9 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1131,6 +1131,11 @@
       "Time": "2024-01-05T20:05:20.3547889+00:00",
       "NumProgressed": 283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T09:06:47.4599283+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1198,7 +1203,7 @@
       "Name": "Conciliator",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -1286,7 +1291,7 @@
       "Name": "Tactician",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -1470,7 +1475,7 @@
       "Name": "The Voice of Hereafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_FirstFactionTier3",
@@ -1486,7 +1491,7 @@
       "Name": "Despised",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_FirstWin",
@@ -1502,7 +1507,7 @@
       "Name": "Fight Another Day",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Vanilla_Forager",
@@ -1654,7 +1659,7 @@
       "Name": "A Terrible Will",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_OddJobs",
@@ -1756,9 +1761,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 159
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1822,7 +1827,7 @@
       "Name": "The Package",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1846,7 +1851,7 @@
       "Name": "Inquisitions of Discord",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_ThreeCurses",
@@ -1894,7 +1899,7 @@
       "Name": "Unseen Patterns",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_VagrusMaxedOut",
@@ -1933,7 +1938,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
@@ -1941,8 +1946,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:05:22.2839268+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:06:47.4599281+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:59:45.0422228+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:05:22.2840688+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:01:12.7006202+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:06:47.4600278+00:00"
 }

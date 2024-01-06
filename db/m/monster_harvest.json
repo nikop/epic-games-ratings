@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.03,
+  "EOS_Completed_Percentage": 3.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -585,6 +585,11 @@
       "Time": "2024-01-04T21:10:27.97096+00:00",
       "NumProgressed": 330,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T09:10:34.5259948+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 10,
@@ -610,9 +615,9 @@
       "ID": "GREEN_SLIME_SHEEN",
       "SetID": "ca3djk0",
       "Name": "Green Sheen",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 146
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -620,7 +625,7 @@
       "Name": "Let\u0027s Get Fishy!",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MY_FIRST_PLANIMAL",
@@ -636,15 +641,15 @@
       "Name": "Red Slime Time",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "SAVE_THE_SLIMES",
       "SetID": "ca3djk0",
       "Name": "Save the Slimes!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "SO_LONG_SLIME_CO",
@@ -658,9 +663,9 @@
       "ID": "TO_THE_REC_CENTER",
       "SetID": "ca3djk0",
       "Name": "To the Rec Center!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 156
     },
     {
       "ID": "WELCOME_TO_PLANIMAL_POINT",
@@ -675,7 +680,7 @@
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 10
     }
   ],
@@ -683,8 +688,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:09:35.5281365+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:10:34.5259945+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.2662149+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:58:49.8478528+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:09:35.5281461+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:59:54.2526653+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:10:34.5260034+00:00"
 }

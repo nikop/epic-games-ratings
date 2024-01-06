@@ -12,8 +12,8 @@ Number of Ratings: 398  (23.09.2022)
 | Trade Is My Trait | 36.00% | ~2,495 |
 | Number 18 | 23.00% | ~1,594 |
 | We Don't Have Time For That | 18.00% | ~1,247 |
+| The Governator | 17.00% | ~1,178 |
 | The Legend of Langostino | 16.00% | ~1,109 |
-| The Governator | 16.00% | ~1,109 |
 | Caribbean Comrade | 15.00% | ~1,040 |
 | The Dreamer of Dreams | 15.00% | ~1,040 |
 | Go Sovereigns! | 11.00% | ~762 |

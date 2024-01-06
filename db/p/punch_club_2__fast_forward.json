@@ -2294,9 +2294,9 @@
       "ID": "buy_trainer",
       "SetID": "69co12a",
       "Name": "Your own amateur gym",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 367
     },
     {
       "ID": "carla_journey",
@@ -2622,9 +2622,9 @@
       "ID": "prof_promotion_2",
       "SetID": "69co12a",
       "Name": "Careerist",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 151
     },
     {
       "ID": "resistance_fake",
@@ -2749,8 +2749,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:09:39.8599893+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:10:40.0694587+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:36.4340723+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:58:12.5098935+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:09:39.8600649+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:59:01.4852446+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:10:40.0695246+00:00"
 }

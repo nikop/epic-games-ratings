@@ -587,9 +587,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46607,
+  "EOS_Progressed": 46609,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 931,
+  "EOS_NewPlayers": 932,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -13217,6 +13217,11 @@
       "Time": "2024-01-06T08:09:15.1180566+00:00",
       "NumProgressed": 46607,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-06T09:10:06.7186906+00:00",
+      "NumProgressed": 46609,
+      "NumCompleted": 234
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -13245,7 +13250,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9322
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -13365,7 +13370,7 @@
       "Name": "Infinity Loop",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 7923
+      "UsersEstimate": 7924
     },
     {
       "ID": "ACH_HUB1",
@@ -13381,7 +13386,7 @@
       "Name": "Path to Salvation",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7923
+      "UsersEstimate": 7924
     },
     {
       "ID": "ACH_OASIS",
@@ -13389,7 +13394,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24236
+      "UsersEstimate": 24237
     },
     {
       "ID": "ACH_PEAK",
@@ -13405,7 +13410,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "ACH_REDEND",
@@ -13421,7 +13426,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 31693
+      "UsersEstimate": 31694
     },
     {
       "ID": "ACH_S4",
@@ -13445,7 +13450,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 34955
+      "UsersEstimate": 34957
     },
     {
       "ID": "ACH_STATUE",
@@ -13453,22 +13458,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20041
+      "UsersEstimate": 20042
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 46607,
+      "Progressed": 46609,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:09:15.1180561+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:10:06.7186902+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:18.3640051+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:57:03.9867279+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:09:15.1181189+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:57:26.0686558+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:10:06.7187708+00:00"
 }

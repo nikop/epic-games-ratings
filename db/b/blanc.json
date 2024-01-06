@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3974,
+  "EOS_Progressed": 3976,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6696,6 +6696,11 @@
       "Time": "2024-01-06T08:04:16.3147207+00:00",
       "NumProgressed": 3974,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T09:05:16.0429538+00:00",
+      "NumProgressed": 3976,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6723,7 +6728,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -6731,7 +6736,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "MOVE_ON",
@@ -6771,7 +6776,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6787,7 +6792,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "TRANSMISSION",
@@ -6810,7 +6815,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3974,
+      "Progressed": 3976,
       "Completed": 6
     }
   ],
@@ -6818,8 +6823,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:04:16.3147203+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:05:16.0429536+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:57:04.2460853+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:04:16.3147596+00:00"
+  "LastUpdate_Ratings": "2024-01-06T08:57:26.4075268+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:05:16.0429973+00:00"
 }

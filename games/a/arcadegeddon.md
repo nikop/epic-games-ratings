@@ -6,23 +6,23 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,845 |
-| Photogenic | 82.00% | ~8,434 |
-| Surge Gauntlet Jockey | 79.00% | ~8,125 |
-| Plug It In | 78.00% | ~8,022 |
+| Let's Get This Party Started | 86.00% | ~8,846 |
+| Photogenic | 82.00% | ~8,435 |
+| Surge Gauntlet Jockey | 79.00% | ~8,126 |
+| Plug It In | 78.00% | ~8,023 |
 | Adventure Time | 75.00% | ~7,714 |
-| Playing With Power | 72.00% | ~7,405 |
+| Playing With Power | 72.00% | ~7,406 |
 | Coup d'Etat | 55.00% | ~5,657 |
 | You're Fired | 54.00% | ~5,554 |
-| Get Furious | 53.00% | ~5,451 |
-| Hacks In Stacks | 52.00% | ~5,348 |
-| Gunplay And Cosplay | 51.00% | ~5,245 |
-| Meching Enemies | 46.00% | ~4,731 |
+| Get Furious | 53.00% | ~5,452 |
+| Hacks In Stacks | 52.00% | ~5,349 |
+| Gunplay And Cosplay | 51.00% | ~5,246 |
+| Meching Enemies | 46.00% | ~4,732 |
 | Ticket Toddler | 42.00% | ~4,320 |
 | Booty Bashing | 36.00% | ~3,703 |
 | Field Medic | 36.00% | ~3,703 |
 | Here Comes a New Challenger | 35.00% | ~3,600 |
-| Rapid Response | 31.00% | ~3,188 |
+| Rapid Response | 31.00% | ~3,189 |
 | Surge Ahead | 29.00% | ~2,983 |
 | The Full Monty | 29.00% | ~2,983 |
 | Guardian Angel | 26.00% | ~2,674 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~41 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,285 (Ranked 180)  
+Progressed: 10,286 (Ranked 180)  
 Completed: 2 (0.02%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 2 (0.02%) (Ranked 360)
 | 2024-01-03 | 10,247 | 2 |
 | 2024-01-04 | 10,264 | 2 |
 | 2024-01-05 | 10,273 | 2 |
-| 2024-01-06 | 10,285 | 2 |
+| 2024-01-06 | 10,286 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 421)  
 Sum: 465 (Ranked 338)  

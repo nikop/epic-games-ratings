@@ -1289,9 +1289,9 @@
       "ID": "a_new_way",
       "SetID": "f2im8d",
       "Name": "A new way",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "another_perspective",
@@ -1657,9 +1657,9 @@
       "ID": "the_tragedy_unfolds",
       "SetID": "f2im8d",
       "Name": "The tragedy unfolds",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "tough_conversation",
@@ -1712,8 +1712,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-06T08:08:38.3860004+00:00",
+  "LastChanged_Achievements": "2024-01-06T09:09:16.2008712+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-06T07:59:30.8644939+00:00",
-  "LastUpdate_Achievements": "2024-01-06T08:08:38.3860488+00:00"
+  "LastUpdate_Ratings": "2024-01-06T09:00:53.2538243+00:00",
+  "LastUpdate_Achievements": "2024-01-06T09:09:16.2009136+00:00"
 }

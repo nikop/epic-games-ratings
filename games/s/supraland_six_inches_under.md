@@ -6,62 +6,62 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,395 |
-| Hit Rock Bottom | 97.00% | ~2,346 |
-| Rocket Launched | 97.00% | ~2,346 |
-| Speed | 97.00% | ~2,346 |
-| High Jump | 96.00% | ~2,322 |
-| Knee bending | 96.00% | ~2,322 |
-| Pickaxe | 94.00% | ~2,274 |
-| Cage Town | 94.00% | ~2,274 |
-| Force Beam | 93.00% | ~2,250 |
-| Entered Cage Town | 93.00% | ~2,250 |
-| Stone Pickaxe | 93.00% | ~2,250 |
-| Revenge | 93.00% | ~2,250 |
-| Surprise | 93.00% | ~2,250 |
-| Magnet | 90.00% | ~2,177 |
-| Industrial Area | 89.00% | ~2,153 |
-| Magnet Repel | 88.00% | ~2,129 |
+| Good Morning | 99.00% | ~2,396 |
+| Hit Rock Bottom | 97.00% | ~2,347 |
+| Rocket Launched | 97.00% | ~2,347 |
+| Speed | 97.00% | ~2,347 |
+| High Jump | 96.00% | ~2,323 |
+| Knee bending | 96.00% | ~2,323 |
+| Pickaxe | 94.00% | ~2,275 |
+| Entered Cage Town | 93.00% | ~2,251 |
+| Stone Pickaxe | 93.00% | ~2,251 |
+| Revenge | 93.00% | ~2,251 |
+| Cage Town | 93.00% | ~2,251 |
+| Surprise | 93.00% | ~2,251 |
+| Force Beam | 92.00% | ~2,226 |
+| Magnet | 90.00% | ~2,178 |
+| Industrial Area | 89.00% | ~2,154 |
+| Magnet Repel | 88.00% | ~2,130 |
 | You feel middle classy | 87.00% | ~2,105 |
 | Boomeraxe | 87.00% | ~2,105 |
 | Iron Pickaxe | 87.00% | ~2,105 |
-| Banking District | 86.00% | ~2,080 |
-| Mission Unlikely | 86.00% | ~2,080 |
-| Arrested | 85.00% | ~2,056 |
-| Zappy Gun | 85.00% | ~2,056 |
-| Got your own one now | 85.00% | ~2,056 |
-| Don't draw dicks pls | 85.00% | ~2,056 |
-| Ripped | 84.00% | ~2,032 |
-| Beat the big arena | 83.00% | ~2,008 |
+| Banking District | 86.00% | ~2,081 |
+| Mission Unlikely | 86.00% | ~2,081 |
+| Arrested | 85.00% | ~2,057 |
+| Zappy Gun | 85.00% | ~2,057 |
+| Got your own one now | 85.00% | ~2,057 |
+| Don't draw dicks pls | 85.00% | ~2,057 |
+| Ripped | 84.00% | ~2,033 |
+| Beat the big arena | 83.00% | ~2,009 |
 | Force Cube | 82.00% | ~1,984 |
-| Got Battery | 81.00% | ~1,959 |
-| Guard Distracted | 80.00% | ~1,935 |
-| Translocator | 80.00% | ~1,935 |
-| Inner Peace | 78.00% | ~1,887 |
-| Diamond Pickaxe | 76.00% | ~1,838 |
-| Killed them all | 76.00% | ~1,838 |
-| Trickle Down Economy | 76.00% | ~1,838 |
-| Win | 76.00% | ~1,838 |
+| Got Battery | 81.00% | ~1,960 |
+| Guard Distracted | 80.00% | ~1,936 |
+| Translocator | 80.00% | ~1,936 |
+| Inner Peace | 78.00% | ~1,888 |
+| Diamond Pickaxe | 76.00% | ~1,839 |
+| Killed them all | 76.00% | ~1,839 |
+| Trickle Down Economy | 76.00% | ~1,839 |
+| Win | 76.00% | ~1,839 |
 | Greenhouse | 72.00% | ~1,742 |
-| Played with fire | 70.00% | ~1,693 |
-| You feel very sorry | 70.00% | ~1,693 |
-| No Match for you | 65.00% | ~1,572 |
+| Played with fire | 70.00% | ~1,694 |
+| You feel very sorry | 70.00% | ~1,694 |
+| No Match for you | 65.00% | ~1,573 |
 | Bouncy | 62.00% | ~1,500 |
-| Plumbster | 60.00% | ~1,451 |
-| Faster | 60.00% | ~1,451 |
-| Much Magic | 58.00% | ~1,403 |
+| Plumbster | 60.00% | ~1,452 |
+| Faster | 60.00% | ~1,452 |
+| Much Magic | 58.00% | ~1,404 |
 | Chest Detector | 56.00% | ~1,355 |
-| Flames | 53.00% | ~1,282 |
+| Flames | 53.00% | ~1,283 |
 | Momentum | 46.00% | ~1,113 |
-| You're unsure if you broke the game or not | 43.00% | ~1,040 |
+| You're unsure if you broke the game or not | 43.00% | ~1,041 |
 | But wait... ...There's more... | 40.00% | ~968 |
 | So much force | 35.00% | ~847 |
 | You feel fully engaged | 24.00% | ~581 |
 | Too hot | 20.00% | ~484 |
 | All the chests | 14.00% | ~339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,419 (Ranked 237)  
-Completed: 295 (12.20%) (Ranked 36)  
+Progressed: 2,420 (Ranked 237)  
+Completed: 295 (12.19%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,6 +288,7 @@ Completed: 295 (12.20%) (Ranked 36)
 | 2024-01-02 | 2,410 | 292 |
 | 2024-01-03 | 2,417 | 293 |
 | 2024-01-05 | 2,419 | 295 |
+| 2024-01-06 | 2,420 | 295 |
 ## Awards
 Max (Challenging Puzzles): 109  (Ranked 364)  
 Sum: 109 (Ranked 462)  

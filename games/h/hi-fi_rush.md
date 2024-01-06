@@ -5,38 +5,38 @@ Rating: 4.86 (Ranked 31)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 53.00% | ~8,298 |
-| Feeling the beat! | 53.00% | ~8,298 |
-| You can pet the cat! | 48.00% | ~7,515 |
-| Who put gears in there? | 39.00% | ~6,106 |
-| Cream of the Crop | 34.00% | ~5,323 |
-| Thanks for the free chip, Peppermint! | 33.00% | ~5,167 |
-| You got this, Peppermint? | 29.00% | ~4,541 |
-| Perfect Parry | 27.00% | ~4,227 |
-| Alright, that felt AWESOME! | 26.00% | ~4,071 |
-| I play my own way! | 23.00% | ~3,601 |
-| This will cost you big time | 21.00% | ~3,288 |
-| Uh, they were broken when I got here | 21.00% | ~3,288 |
-| Z-shielding's got nothing on us! | 19.00% | ~2,975 |
-| Kissing the sky! | 19.00% | ~2,975 |
-| Whoa! There's ANOTHER health bar!? | 16.00% | ~2,505 |
-| Does that say weakpoint? | 16.00% | ~2,505 |
-| The Negotiator | 15.00% | ~2,349 |
-| You must like calling me in, Chai | 13.00% | ~2,035 |
-| Headliner | 12.00% | ~1,879 |
-| Out in a puff of smoke | 12.00% | ~1,879 |
-| I look cool. But I can look COOLER. | 12.00% | ~1,879 |
-| Time to pay up! | 11.00% | ~1,722 |
-| Perfecter Parry-er! | 11.00% | ~1,722 |
-| Who's the boss now? | 10.00% | ~1,566 |
-| I have to read these things? | 10.00% | ~1,566 |
+| Start with a bang! | 53.00% | ~8,304 |
+| Feeling the beat! | 53.00% | ~8,304 |
+| You can pet the cat! | 48.00% | ~7,520 |
+| Who put gears in there? | 39.00% | ~6,110 |
+| Cream of the Crop | 34.00% | ~5,327 |
+| Thanks for the free chip, Peppermint! | 33.00% | ~5,170 |
+| You got this, Peppermint? | 29.00% | ~4,543 |
+| Perfect Parry | 27.00% | ~4,230 |
+| Alright, that felt AWESOME! | 26.00% | ~4,073 |
+| I play my own way! | 23.00% | ~3,603 |
+| This will cost you big time | 21.00% | ~3,290 |
+| Uh, they were broken when I got here | 21.00% | ~3,290 |
+| Z-shielding's got nothing on us! | 19.00% | ~2,977 |
+| Kissing the sky! | 19.00% | ~2,977 |
+| Whoa! There's ANOTHER health bar!? | 16.00% | ~2,507 |
+| Does that say weakpoint? | 16.00% | ~2,507 |
+| The Negotiator | 15.00% | ~2,350 |
+| You must like calling me in, Chai | 13.00% | ~2,037 |
+| Headliner | 12.00% | ~1,880 |
+| Out in a puff of smoke | 12.00% | ~1,880 |
+| I look cool. But I can look COOLER. | 12.00% | ~1,880 |
+| Time to pay up! | 11.00% | ~1,723 |
+| Perfecter Parry-er! | 11.00% | ~1,723 |
+| Who's the boss now? | 10.00% | ~1,567 |
+| I have to read these things? | 10.00% | ~1,567 |
 | There's such a thing as TOO helpful | 8.00% | ~1,253 |
-| NOW we got a kickass hideout! | 8.00% | ~1,134 |
-| Well that was a rush! | 7.00% | ~1,096 |
-| Beat-hit mania | 6.00% | ~939 |
-| That's a lot of junk metal… | 6.00% | ~939 |
+| NOW we got a kickass hideout! | 8.00% | ~1,135 |
+| Well that was a rush! | 7.00% | ~1,097 |
+| Beat-hit mania | 6.00% | ~940 |
+| That's a lot of junk metal… | 6.00% | ~940 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~783 |
-| Chip-tuned | 4.00% | ~626 |
+| Chip-tuned | 4.00% | ~627 |
 | Wanna hear my playlist? | 3.00% | ~470 |
 | Check out my moves! | 3.00% | ~470 |
 | I think I deserve some praise, here! | 2.00% | ~313 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 31)
 | Voices from within | 0.10% | ~14 |
 | Low budget finish | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,657 (Ranked 169)  
+Progressed: 15,667 (Ranked 169)  
 Completed: 8 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,14 +328,14 @@ Completed: 8 (0.05%) (Ranked 336)
 | 2024-01-03 | 15,051 | 8 |
 | 2024-01-04 | 15,290 | 8 |
 | 2024-01-05 | 15,577 | 8 |
-| 2024-01-06 | 15,657 | 8 |
+| 2024-01-06 | 15,667 | 8 |
 ## Awards
-Max (Great Boss Battles): 28  (Ranked 533)  
-Sum: 28 (Ranked 549)  
-Diff (max vs sum): -16  
+Max (Great Boss Battles): 29  (Ranked 527)  
+Sum: 29 (Ranked 544)  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 28 |
+| This game has Great Boss Battles | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -374,3 +374,4 @@ Diff (max vs sum): -16
 | 2024-01-02 | 4.85 | 26 | 26 |
 | 2024-01-03 | 4.86 | 26 | 26 |
 | 2024-01-04 | 4.86 | 28 | 28 |
+| 2024-01-06 | 4.86 | 29 | 29 |
