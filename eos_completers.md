@@ -28,7 +28,7 @@
 | 26 | [Island Cities](games/i/island_cities.md) | 16.84% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
-| 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.30% |
+| 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.22% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.15% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Seven Doors](games/s/seven_doors.md) | 13.79% |
@@ -55,15 +55,15 @@
 | 53 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.56% |
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 55 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.45% |
-| 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.38% |
+| 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.37% |
 | 57 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 7.14% |
 | 57 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.14% |
-| 59 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.09% |
+| 59 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.08% |
 | 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.06% |
 | 61 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.94% |
 | 62 | [Scorn](games/s/scorn.md) | 6.92% |
 | 63 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.67% |
-| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.62% |
+| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.61% |
 | 65 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 66 | [Time Loader](games/t/time_loader.md) | 6.38% |
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -72,7 +72,7 @@
 | 70 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.15% |
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 73 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.13% |
+| 73 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.05% |
 | 74 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.88% |
 | 76 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.76% |
@@ -104,13 +104,13 @@
 | 101 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 3.45% |
 | 103 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 104 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.32% |
-| 105 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.23% |
 | 105 | [Bunny Park](games/b/bunny_park.md) | 3.23% |
+| 106 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.19% |
 | 107 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
 | 108 | [HordeCore](games/h/hordecore.md) | 3.02% |
-| 108 | [Monster Harvest](games/m/monster_harvest.md) | 3.02% |
 | 108 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.02% |
-| 111 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
+| 110 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
+| 110 | [Monster Harvest](games/m/monster_harvest.md) | 3.01% |
 | 112 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.97% |
 | 113 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 114 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.92% |
@@ -142,8 +142,8 @@
 | 140 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 141 | [Sifu](games/s/sifu.md) | 1.72% |
 | 142 | [Frogun](games/f/frogun.md) | 1.69% |
-| 143 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.68% |
-| 144 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.67% |
+| 142 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.69% |
+| 144 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.66% |
 | 145 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.61% |
 | 146 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 1.59% |
 | 147 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.50% |
@@ -151,7 +151,7 @@
 | 148 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.49% |
 | 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.46% |
 | 150 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
-| 152 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.43% |
+| 152 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.42% |
 | 153 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.36% |
 | 154 | [Late Shift](games/l/late_shift.md) | 1.34% |
 | 155 | [Chorus](games/c/chorus.md) | 1.30% |
@@ -230,8 +230,8 @@
 | 226 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.47% |
 | 229 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 229 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.46% |
-| 231 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
-| 232 | [Wildermyth](games/w/wildermyth.md) | 0.44% |
+| 231 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
+| 231 | [Wildermyth](games/w/wildermyth.md) | 0.44% |
 | 233 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 234 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.42% |
 | 235 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
