@@ -268,7 +268,7 @@
 | 263 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,967 | 50 |
 | 263 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,204 | 86 |
 | 263 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 50 | 455 |
-| 263 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 801 | 181 |
+| 263 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 806 | 181 |
 | 263 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 6,016 | 68 |
 | 263 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 323,298 | 3 |
 | 263 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 295,400 | 4 |
@@ -303,7 +303,7 @@
 | 285 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 580 |
 | 302 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 86 | 397 |
 | 302 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.66 | 130 | 343 |
-| 302 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,636 | 60 |
+| 302 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,649 | 60 |
 | 302 | [Crashlands](games/c/crashlands.md) | 4.66 | 198 | 301 |
 | 302 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,308 | 143 |
 | 302 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 396 | 239 |
@@ -431,7 +431,7 @@
 | 428 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 15,809 | 25 |
 | 428 | [Black Skylands](games/b/black_skylands.md) | 4.60 | 0 | 580 |
 | 428 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 657 | 199 |
-| 428 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,162 | 76 |
+| 428 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,167 | 76 |
 | 428 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 229 | 283 |
 | 428 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 580 |
 | 428 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 133 | 336 |
@@ -840,21 +840,21 @@
 | 834 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 108 | 366 |
 | 834 | [Dark Light](games/d/dark_light.md) | 4.34 | 0 | 580 |
 | 834 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.34 | 23 | 560 |
+| 834 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.34 | 0 | 580 |
 | 834 | [Encased](games/e/encased.md) | 4.34 | 163 | 321 |
 | 834 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.34 | 0 | 580 |
 | 834 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.34 | 27 | 538 |
 | 834 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 580 |
 | 834 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 270 | 273 |
 | 834 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 580 |
-| 847 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 0 | 580 |
-| 847 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 0 | 580 |
-| 847 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.33 | 0 | 580 |
-| 847 | [Filament](games/f/filament.md) | 4.33 | 583 | 213 |
-| 847 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.33 | 0 | 580 |
-| 847 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 526 |
-| 847 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 580 |
-| 847 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.33 | 387 | 240 |
-| 847 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.33 | 121 | 354 |
+| 848 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 0 | 580 |
+| 848 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 0 | 580 |
+| 848 | [Filament](games/f/filament.md) | 4.33 | 583 | 213 |
+| 848 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.33 | 0 | 580 |
+| 848 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 526 |
+| 848 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 580 |
+| 848 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.33 | 387 | 240 |
+| 848 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.33 | 121 | 354 |
 | 856 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.32 | 0 | 580 |
 | 856 | [Hammerting](games/h/hammerting.md) | 4.32 | 0 | 580 |
 | 856 | [House Party](games/h/house_party.md) | 4.32 | 0 | 580 |
@@ -976,14 +976,14 @@
 | 969 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 580 |
 | 969 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 580 |
 | 976 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.18 | 0 | 580 |
-| 976 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.18 | 62 | 426 |
 | 976 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 217,110 | 6 |
 | 976 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 386 |
 | 976 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 580 |
-| 981 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.17 | 0 | 580 |
-| 981 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 99 | 379 |
-| 981 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 580 |
-| 981 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 580 |
+| 980 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.17 | 62 | 426 |
+| 980 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.17 | 0 | 580 |
+| 980 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 99 | 379 |
+| 980 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 580 |
+| 980 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 580 |
 | 985 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 580 |
 | 985 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 622 | 204 |
 | 985 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 580 |

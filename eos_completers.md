@@ -57,8 +57,8 @@
 | 55 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.45% |
 | 56 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.41% |
 | 57 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.14% |
-| 57 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.14% |
-| 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.06% |
+| 58 | [Sonic Origins](games/s/sonic_origins.md) | 7.06% |
+| 59 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.04% |
 | 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.00% |
 | 61 | [Scorn](games/s/scorn.md) | 6.94% |
 | 62 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.67% |
@@ -101,9 +101,9 @@
 | 99 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.49% |
 | 100 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.45% |
 | 100 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 3.45% |
-| 102 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.33% |
 | 102 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 102 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.33% |
+| 104 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.30% |
 | 105 | [Bunny Park](games/b/bunny_park.md) | 3.23% |
 | 106 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
 | 107 | [Monster Harvest](games/m/monster_harvest.md) | 3.03% |
@@ -164,8 +164,8 @@
 | 162 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.15% |
 | 163 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.13% |
 | 164 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
-| 164 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.12% |
-| 166 | [Adios](games/a/adios.md) | 1.11% |
+| 165 | [Adios](games/a/adios.md) | 1.11% |
+| 165 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.11% |
 | 167 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.10% |
 | 167 | [The Devil's Face](games/t/the_devil's_face.md) | 1.10% |
 | 169 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.08% |
@@ -173,9 +173,9 @@
 | 171 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 172 | [Sable](games/s/sable.md) | 1.02% |
 | 173 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
-| 174 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.96% |
-| 175 | [Colossal Cave](games/c/colossal_cave.md) | 0.95% |
-| 175 | [Trifox](games/t/trifox.md) | 0.95% |
+| 174 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.95% |
+| 174 | [Colossal Cave](games/c/colossal_cave.md) | 0.95% |
+| 174 | [Trifox](games/t/trifox.md) | 0.95% |
 | 177 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.94% |
 | 178 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.93% |
 | 178 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.93% |
@@ -241,9 +241,9 @@
 | 239 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.38% |
 | 240 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.36% |
 | 241 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 241 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.35% |
-| 243 | [The Surge](games/t/the_surge.md) | 0.34% |
-| 243 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
+| 242 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.34% |
+| 242 | [The Surge](games/t/the_surge.md) | 0.34% |
+| 242 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
 | 245 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.33% |
 | 246 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 246 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.32% |
