@@ -8,8 +8,8 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~460 |
 | Double Kill | 40.00% | ~400 |
-| Veteran | 23.00% | ~230 |
 | Critical Hit | 22.00% | ~220 |
+| Veteran | 22.00% | ~220 |
 | Dressed For Success | 15.00% | ~150 |
 | Humiliation | 10.00% | ~100 |
 | Veni, Vidi, Vici | 10.00% | ~100 |
@@ -18,17 +18,17 @@ Number of Ratings: 292  (23.09.2022)
 | Landlord Extraordinaire | 7.00% | ~70 |
 | Master | 7.00% | ~70 |
 | Whoops! | 6.00% | ~60 |
-| Don't Touch My Stuff | 6.00% | ~60 |
 | The Song of Stoutheart | 5.00% | ~50 |
+| Don't Touch My Stuff | 5.00% | ~50 |
 | Trojan Horse | 4.00% | ~40 |
 | Expert Essence Employment | 3.00% | ~30 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~30 |
 | This Spot's Taken | 2.00% | ~20 |
 | Deepstrike | 2.00% | ~20 |
 | Infernal Influence | 2.00% | ~20 |
 | From the Ashes | 2.00% | ~20 |
 | Ultra Kill | 2.00% | ~20 |
 | Pyrrhic Victory | 2.00% | ~20 |
+| Venisti, Vidisti, Perdidisti | 2.00% | ~20 |
 | Versatile Wielder | 1.00% | ~10 |
 | In The Thick of It | 1.00% | ~10 |
 | Together For Her | 1.00% | ~10 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,000 (Ranked 290)  
+Progressed: 1,001 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-03 | 962 | 0 |
 | 2024-01-04 | 978 | 0 |
 | 2024-01-05 | 1,000 | 0 |
+| 2024-01-06 | 1,001 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 526)  
 Sum: 251 (Ranked 398)  

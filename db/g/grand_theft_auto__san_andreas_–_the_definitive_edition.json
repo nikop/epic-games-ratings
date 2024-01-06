@@ -2263,9 +2263,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 18512,
+  "EOS_Progressed": 18518,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 1045,
+  "EOS_NewPlayers": 1046,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -19198,6 +19198,11 @@
       "Time": "2024-01-05T23:12:39.8279321+00:00",
       "NumProgressed": 18512,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-06T00:10:16.80537+00:00",
+      "NumProgressed": 18518,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 35,
@@ -19209,7 +19214,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14995
+      "UsersEstimate": 15000
     },
     {
       "ID": "ACH02",
@@ -19257,7 +19262,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "ACH08",
@@ -19265,7 +19270,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9256
+      "UsersEstimate": 9259
     },
     {
       "ID": "ACH09",
@@ -19273,7 +19278,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH10",
@@ -19289,7 +19294,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACH12",
@@ -19305,7 +19310,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "ACH14",
@@ -19313,7 +19318,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "ACH15",
@@ -19321,7 +19326,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "ACH16",
@@ -19329,7 +19334,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "ACH17",
@@ -19337,7 +19342,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH18",
@@ -19377,7 +19382,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "ACH23",
@@ -19385,7 +19390,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4630
     },
     {
       "ID": "ACH24",
@@ -19401,7 +19406,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "ACH26",
@@ -19433,7 +19438,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "ACH30",
@@ -19488,7 +19493,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18512,
+      "Progressed": 18518,
       "Completed": 72
     }
   ],
@@ -19496,8 +19501,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-05T23:01:26.0102887+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:12:39.8279318+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:10:16.8053698+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:01:26.0102893+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:12:39.8280158+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:58:46.7103856+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:10:16.8054513+00:00"
 }

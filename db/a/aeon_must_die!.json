@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 3805,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3637,
+  "EOS_Progressed": 3638,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
@@ -899,6 +899,11 @@
       "Time": "2024-01-05T14:09:14.0937499+00:00",
       "NumProgressed": 3637,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-01-06T00:09:12.4335384+00:00",
+      "NumProgressed": 3638,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -910,7 +915,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "10",
@@ -990,7 +995,7 @@
       "Name": "Emperor\u0027s Hubris",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "2",
@@ -1038,7 +1043,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "25",
@@ -1189,7 +1194,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3637,
+      "Progressed": 3638,
       "Completed": -28
     }
   ],
@@ -1197,8 +1202,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:11:10.0510875+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:09:12.4335381+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.5044228+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:04:35.4304338+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:11:10.0511105+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:02:35.3412844+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:09:12.4335694+00:00"
 }

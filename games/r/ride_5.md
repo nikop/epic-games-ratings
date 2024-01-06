@@ -9,26 +9,26 @@ Rating: 4.46 (Ranked 674)
 | First Love | 44.00% | ~1,463 |
 | Clean Race | 44.00% | ~1,463 |
 | Hear That Roar! | 41.00% | ~1,363 |
-| Bitter Rivalry | 30.00% | ~997 |
-| Rivals to the End | 30.00% | ~997 |
+| Bitter Rivalry | 30.00% | ~998 |
+| Rivals to the End | 30.00% | ~998 |
 | Champagne Spray | 28.00% | ~931 |
 | We're Going to Need a Bigger Garage | 26.00% | ~864 |
-| Quick Pit Stop | 22.00% | ~731 |
+| Quick Pit Stop | 22.00% | ~732 |
 | Restored and Ready | 20.00% | ~665 |
 | I Want One Too! | 20.00% | ~665 |
 | Legendary!!! | 20.00% | ~665 |
 | Go-Faster Stripes | 17.00% | ~565 |
-| I'm Here Too! | 15.00% | ~499 |
-| We've Just Begun | 14.00% | ~465 |
+| I'm Here Too! | 14.00% | ~466 |
+| We've Just Begun | 14.00% | ~466 |
 | Is It the Right Size? | 9.00% | ~299 |
 | Stamina Star | 8.00% | ~266 |
 | Evangelist | 7.00% | ~233 |
 | Make It Your Own! | 5.00% | ~166 |
 | Cherry Blossom and Temples | 4.00% | ~133 |
 | The Road to Liberty | 4.00% | ~133 |
+| Romantic Races | 4.00% | ~133 |
 | Spoilt for Choice | 3.00% | ~100 |
 | La Dolce Vita | 3.00% | ~100 |
-| Romantic Races | 3.00% | ~100 |
 | I Make the Rules! | 3.00% | ~100 |
 | Rounding Off | 3.00% | ~100 |
 | My Work Here Is Done | 3.00% | ~100 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 674)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,324 (Ranked 223)  
+Progressed: 3,325 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-03 | 3,258 | 0 |
 | 2024-01-04 | 3,289 | 0 |
 | 2024-01-05 | 3,324 | 0 |
+| 2024-01-06 | 3,325 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

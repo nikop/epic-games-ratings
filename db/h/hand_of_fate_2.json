@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -949,7 +949,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666910,
+  "EOS_Progressed": 666911,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
@@ -25764,6 +25764,11 @@
       "Time": "2024-01-05T23:11:48.2601851+00:00",
       "NumProgressed": 666910,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-06T00:09:39.9359216+00:00",
+      "NumProgressed": 666911,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -25775,7 +25780,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480175
+      "UsersEstimate": 480176
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -25791,7 +25796,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153389
+      "UsersEstimate": 153390
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -25911,7 +25916,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153389
+      "UsersEstimate": 153390
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -25919,7 +25924,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93367
+      "UsersEstimate": 93368
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -26158,15 +26163,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666910,
+      "Progressed": 666911,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-05T16:59:07.0577072+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:11:48.2601846+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:09:39.9359213+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:45.4290677+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:01:59.9114696+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:11:48.2603421+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:59:09.2402052+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:09:39.9360876+00:00"
 }

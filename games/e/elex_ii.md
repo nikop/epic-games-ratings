@@ -13,7 +13,7 @@ Number of Ratings: 124  (23.09.2022)
 | Creator | 25.00% | ~47 |
 | Festival-goer | 24.00% | ~45 |
 | Peddler | 23.00% | ~43 |
-| Military Leader | 22.00% | ~41 |
+| Military Leader | 23.00% | ~43 |
 | Commander | 20.00% | ~37 |
 | Irissa's Fate | 17.00% | ~32 |
 | Long-Haul Flyer | 13.00% | ~24 |
@@ -25,8 +25,8 @@ Number of Ratings: 124  (23.09.2022)
 | Globetrotter | 10.00% | ~19 |
 | Alb | 9.00% | ~17 |
 | Hunter | 9.00% | ~17 |
+| Banker | 7.00% | ~13 |
 | Beam Me Up | 7.00% | ~13 |
-| Banker | 6.00% | ~11 |
 | Treasure Hunter | 6.00% | ~11 |
 | Hotshot | 6.00% | ~11 |
 | Perfectionist | 6.00% | ~11 |

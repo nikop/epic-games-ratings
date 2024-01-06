@@ -8757,9 +8757,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 754888,
+  "EOS_Progressed": 754921,
   "EOS_Completed": 12975,
-  "EOS_NewPlayers": 6676,
+  "EOS_NewPlayers": 6687,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32492,6 +32492,11 @@
       "Time": "2024-01-05T23:11:37.838401+00:00",
       "NumProgressed": 754888,
       "NumCompleted": 12975
+    },
+    {
+      "Time": "2024-01-06T00:09:32.6288389+00:00",
+      "NumProgressed": 754921,
+      "NumCompleted": 12975
     }
   ],
   "TotalAchievements": 60,
@@ -32503,7 +32508,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37744
+      "UsersEstimate": 37746
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32511,7 +32516,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30196
+      "UsersEstimate": 30197
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32519,7 +32524,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22647
+      "UsersEstimate": 22648
     },
     {
       "ID": "04_Vengeance_H3",
@@ -32551,7 +32556,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4530
     },
     {
       "ID": "08_Wude_H2",
@@ -32559,7 +32564,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4530
     },
     {
       "ID": "09_Wude_H3",
@@ -32567,7 +32572,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3774
+      "UsersEstimate": 3775
     },
     {
       "ID": "10_Wude_H4",
@@ -32575,7 +32580,7 @@
       "Name": "Iron Money",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3774
+      "UsersEstimate": 3775
     },
     {
       "ID": "11_Wude_H5",
@@ -32583,7 +32588,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3774
+      "UsersEstimate": 3775
     },
     {
       "ID": "12_MidAge",
@@ -32599,7 +32604,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3774
+      "UsersEstimate": 3775
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -32615,7 +32620,7 @@
       "Name": "Detective Story",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4530
     },
     {
       "ID": "16_Detective_H2",
@@ -32679,7 +32684,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30196
+      "UsersEstimate": 30197
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32751,7 +32756,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22647
+      "UsersEstimate": 22648
     },
     {
       "ID": "33_BladeOneShot",
@@ -32759,7 +32764,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3774
+      "UsersEstimate": 3775
     },
     {
       "ID": "34_TimedTakedown",
@@ -32767,7 +32772,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30196
+      "UsersEstimate": 30197
     },
     {
       "ID": "35_WideStrike",
@@ -32982,21 +32987,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 64189,
+      "Progressed": 64222,
       "Completed": 10799
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 754888,
+      "Progressed": 754921,
       "Completed": 12975
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-05T15:03:01.2535369+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:11:37.8384007+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:09:32.6288386+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:05:16.4909314+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:11:37.838532+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:03:02.423573+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:09:32.6290187+00:00"
 }

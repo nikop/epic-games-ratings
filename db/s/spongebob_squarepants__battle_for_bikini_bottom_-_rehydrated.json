@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -335,7 +335,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 747,
+  "EOS_Progressed": 748,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 3,
@@ -2020,6 +2020,11 @@
       "Time": "2024-01-05T23:08:07.1557329+00:00",
       "NumProgressed": 747,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T00:05:02.2089815+00:00",
+      "NumProgressed": 748,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2070,9 +2075,9 @@
       "ID": "ACH_DOWN_TOWN",
       "SetID": "biiejkc",
       "Name": "Uptown and Downtown",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2248,7 +2253,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2262,9 +2267,9 @@
       "ID": "ACH_STAT_STAR_SMASHER",
       "SetID": "biiejkc",
       "Name": "Star Smasher",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2287,15 +2292,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 747,
+      "Progressed": 748,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:08:07.1557327+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:05:02.208981+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:03:35.9753259+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:08:07.1557585+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:00:12.6935767+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:05:02.2090163+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,053 |
-| Un-Lonely Island | 45.00% | ~3,115 |
-| The Beginning of a Servantship | 43.00% | ~2,976 |
-| Trade Is My Trait | 36.00% | ~2,492 |
-| Number 18 | 23.00% | ~1,592 |
+| Just One...More...Term... | 73.00% | ~5,055 |
+| Un-Lonely Island | 45.00% | ~3,116 |
+| The Beginning of a Servantship | 43.00% | ~2,978 |
+| Trade Is My Trait | 36.00% | ~2,493 |
+| Number 18 | 23.00% | ~1,593 |
 | We Don't Have Time For That | 18.00% | ~1,246 |
 | The Governator | 17.00% | ~1,177 |
 | The Legend of Langostino | 16.00% | ~1,108 |
-| Caribbean Comrade | 15.00% | ~1,038 |
-| The Dreamer of Dreams | 15.00% | ~1,038 |
-| Go Sovereigns! | 11.00% | ~761 |
-| For Science! | 11.00% | ~761 |
+| Caribbean Comrade | 15.00% | ~1,039 |
+| The Dreamer of Dreams | 15.00% | ~1,039 |
+| Go Sovereigns! | 11.00% | ~762 |
+| For Science! | 11.00% | ~762 |
 | Happy Ending? | 10.00% | ~692 |
 | Of Seals And Men | 9.00% | ~623 |
 | Shackadelic | 9.00% | ~623 |
 | Double Trouble | 8.00% | ~554 |
 | Firestarter | 8.00% | ~554 |
-| I Owe You Nothing | 7.00% | ~485 |
 | Make Tropico Great Again! | 7.00% | ~485 |
 | French Connection | 7.00% | ~485 |
-| Don't Panic! | 6.00% | ~415 |
+| Don't Panic! | 6.00% | ~416 |
+| I Owe You Nothing | 6.00% | ~416 |
 | Viva Tropico! | 5.00% | ~346 |
 | Computer Says "No" | 5.00% | ~346 |
 | Beware The Betman | 5.00% | ~346 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~55 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,922 (Ranked 196)  
+Progressed: 6,925 (Ranked 196)  
 Completed: 2 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,9 +308,10 @@ Completed: 2 (0.03%) (Ranked 352)
 | 2024-01-03 | 6,872 | 2 |
 | 2024-01-04 | 6,898 | 2 |
 | 2024-01-05 | 6,922 | 2 |
+| 2024-01-06 | 6,925 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 368)  
-Sum: 755 (Ranked 302)  
+Sum: 756 (Ranked 302)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -320,8 +321,8 @@ Diff (max vs sum): 66
 | This game has Quickly Understood Controls | 103 |
 | This game has Amazing Storytelling | 96 |
 | This game is Extremely Fun | 94 |
+| This game is Educational | 92 |
 | This game has Amazing Characters | 91 |
-| This game is Educational | 91 |
 | This game has a Creative Community | 71 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
@@ -509,3 +510,4 @@ Diff (max vs sum): 66
 | 2023-12-30 | 4.66 | - | 105 | 749 |
 | 2024-01-01 | 4.66 | - | 106 | 752 |
 | 2024-01-04 | 4.66 | - | 106 | 755 |
+| 2024-01-05 | 4.66 | - | 106 | 756 |

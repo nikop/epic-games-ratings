@@ -1,26 +1,26 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 92)  
+Rating: 4.80 (Ranked 93)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,455 |
-| He's Signed! | 50.00% | ~239,455 |
-| First Victory | 50.00% | ~239,455 |
-| He's Sold! | 48.00% | ~229,877 |
-| I'm The Boss! | 42.00% | ~201,142 |
-| Hat-trick | 41.00% | ~196,353 |
-| Scoring Streak | 38.00% | ~181,986 |
+| Clean Sheet | 50.00% | ~239,456 |
+| He's Signed! | 50.00% | ~239,456 |
+| First Victory | 50.00% | ~239,456 |
+| He's Sold! | 48.00% | ~229,878 |
+| I'm The Boss! | 42.00% | ~201,143 |
+| Hat-trick | 41.00% | ~196,354 |
+| Scoring Streak | 38.00% | ~181,987 |
 | Unbeatable! | 37.00% | ~177,197 |
 | Thumping | 37.00% | ~177,197 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,618 |
-| Total Support | 32.00% | ~153,251 |
-| Record Signing | 32.00% | ~153,251 |
-| He's a Natural | 31.00% | ~148,462 |
-| Millionaire's Club | 31.00% | ~148,462 |
-| Team Performance | 30.00% | ~143,673 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,619 |
+| Total Support | 32.00% | ~153,252 |
+| Record Signing | 32.00% | ~153,252 |
+| He's a Natural | 31.00% | ~148,463 |
+| Millionaire's Club | 31.00% | ~148,463 |
+| Team Performance | 30.00% | ~143,674 |
 | Parked The Bus | 29.00% | ~138,884 |
 | Shrewd Spender | 29.00% | ~138,884 |
 | Star Man | 29.00% | ~138,884 |
@@ -31,16 +31,16 @@ Number of Ratings: 19,160  (23.09.2022)
 | On A Roll | 26.00% | ~124,517 |
 | Unstoppable Force | 26.00% | ~124,517 |
 | Armchair Expert | 25.00% | ~119,728 |
-| Fantastic Five | 24.00% | ~114,938 |
-| Full Faith | 24.00% | ~114,938 |
-| Iron Curtain | 24.00% | ~114,938 |
-| The Boss | 24.00% | ~114,938 |
-| Top Of The Class | 23.00% | ~110,149 |
-| Goal Machine | 23.00% | ~110,149 |
-| Splashing The Cash | 22.00% | ~105,360 |
-| Clean Bill of Health | 22.00% | ~105,360 |
-| What A Goal! | 22.00% | ~105,360 |
-| Cup Glory! | 22.00% | ~105,360 |
+| Fantastic Five | 24.00% | ~114,939 |
+| Full Faith | 24.00% | ~114,939 |
+| Iron Curtain | 24.00% | ~114,939 |
+| The Boss | 24.00% | ~114,939 |
+| Top Of The Class | 23.00% | ~110,150 |
+| Goal Machine | 23.00% | ~110,150 |
+| Splashing The Cash | 22.00% | ~105,361 |
+| Clean Bill of Health | 22.00% | ~105,361 |
+| What A Goal! | 22.00% | ~105,361 |
+| Cup Glory! | 22.00% | ~105,361 |
 | Irresistible Force | 20.00% | ~95,782 |
 | Excellent Match Cohesion | 20.00% | ~95,782 |
 | Do The Double | 19.00% | ~90,993 |
@@ -49,10 +49,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Beating Expectations | 16.00% | ~76,626 |
 | Overachiever! | 16.00% | ~76,626 |
 | Rushed signing | 16.00% | ~76,626 |
-| Window Shopping | 15.00% | ~71,836 |
-| Eyes and Ears | 14.00% | ~67,047 |
-| Comeback King! | 14.00% | ~67,047 |
-| You're Up! | 13.00% | ~62,258 |
+| Window Shopping | 15.00% | ~71,837 |
+| Eyes and Ears | 14.00% | ~67,048 |
+| Comeback King! | 14.00% | ~67,048 |
+| You're Up! | 13.00% | ~62,259 |
 | Money, Money, Money | 12.00% | ~57,469 |
 | Invincible! | 11.00% | ~52,680 |
 | Superb Strike | 10.00% | ~47,891 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~479 |
 | Shoestring Budget | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,910 (Ranked 44)  
+Progressed: 478,912 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,22 +366,23 @@ Completed: 22 (0.00%) (Ranked 392)
 | 2024-01-03 | 478,805 | 22 |
 | 2024-01-04 | 478,848 | 22 |
 | 2024-01-05 | 478,910 | 22 |
+| 2024-01-06 | 478,912 | 22 |
 ## Awards
 Max (Relaxing): 6,494  (Ranked 61)  
-Sum: 51,220 (Ranked 30)  
+Sum: 51,223 (Ranked 30)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,494 |
 | This game is Extremely Fun | 6,084 |
 | This game has Competitive Players | 5,935 |
-| This game is Highly Recommended | 5,928 |
+| This game is Highly Recommended | 5,929 |
 | This game has Quickly Understood Controls | 5,913 |
 | This game is Educational | 5,899 |
 | This game has Diverse Characters | 5,620 |
-| This game has Amazing Storytelling | 4,944 |
+| This game has Amazing Storytelling | 4,945 |
 | This game has Obsessive Gameplay | 4,416 |
-| This game has Amazing Characters | 4,403 |
+| This game has Amazing Characters | 4,404 |
 | This game has a Creative Community | 1,495 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -724,3 +725,4 @@ Diff (max vs sum): 31
 | 2024-01-02 | 4.80 | - | 6,491 | 51,209 |
 | 2024-01-03 | 4.80 | - | 6,492 | 51,215 |
 | 2024-01-04 | 4.80 | - | 6,494 | 51,220 |
+| 2024-01-05 | 4.80 | - | 6,494 | 51,223 |

@@ -2,9 +2,9 @@
   "ID": "4a0076f825604014b0540bb5d957d3bb",
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
-  "Ranking_EOS_Progress": 471,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2024-01-05T21:10:48.0684119+00:00",
       "NumProgressed": 129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T00:10:12.3678095+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -653,7 +658,7 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 40,
       "UsersEstimate": 117
     },
@@ -663,13 +668,13 @@
       "Name": "TRAINING DAY",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 40,
       "UsersEstimate": 94
     },
@@ -677,9 +682,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -695,21 +700,21 @@
       "Name": "GIFTED LIBRARIAN",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
       "SetID": "6bj96in",
       "Name": "NOVICE CRAFTSMAN",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "CgkInO_K3eIdEAIQCg",
       "SetID": "6bj96in",
       "Name": "ADVANCED CRAFTSMAN",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 40,
       "UsersEstimate": 77
     },
@@ -719,15 +724,15 @@
       "Name": "MASTER CRAFTSMAN",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CgkInO_K3eIdEAIQDA",
       "SetID": "6bj96in",
       "Name": "BRIDGES OF THE PAST",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "CgkInO_K3eIdEAIQDQ",
@@ -735,13 +740,13 @@
       "Name": "TEMPORAL ARCHITECT",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 40,
       "UsersEstimate": 94
     },
@@ -751,7 +756,7 @@
       "Name": "TIME THIEF",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -759,7 +764,7 @@
       "Name": "EAGLE EYED",
       "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -781,9 +786,9 @@
       "ID": "CgkInO_K3eIdEAIQEw",
       "SetID": "6bj96in",
       "Name": "ATTENTIVE SCRIBE",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "CgkInO_K3eIdEAIQFA",
@@ -791,15 +796,15 @@
       "Name": "WALKER",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CgkInO_K3eIdEAIQFQ",
       "SetID": "6bj96in",
       "Name": "RUNNER",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "CgkInO_K3eIdEAIQFg",
@@ -829,7 +834,7 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 40,
       "UsersEstimate": 46
     },
@@ -846,14 +851,14 @@
     {
       "ID": "6bj96in",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:12:34.0389014+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:10:12.3678093+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:12.4832166+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:00:44.9127391+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:12:34.0389182+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:58:19.9836263+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:10:12.3678264+00:00"
 }

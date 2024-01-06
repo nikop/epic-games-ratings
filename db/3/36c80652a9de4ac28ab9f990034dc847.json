@@ -2,9 +2,9 @@
   "ID": "36c80652a9de4ac28ab9f990034dc847",
   "Name": "Death Crown",
   "ProductSlug": "death-crown-b2f5cd",
-  "Ranking_EOS_Progress": 564,
+  "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.27,
+  "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
     {
       "Time": "2023-08-23T22:02:05.0482653+00:00",
@@ -254,6 +254,11 @@
       "Time": "2024-01-05T22:10:06.358581+00:00",
       "NumProgressed": 44,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T00:09:54.2005892+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-23T22:02:05.0482707+00:00",
@@ -264,9 +269,9 @@
       "ID": "All_Bosses",
       "SetID": "cla1dpp",
       "Name": "Till death tear us apart!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "All_Human_Missions",
@@ -288,9 +293,9 @@
       "ID": "Boss_Blacksmith",
       "SetID": "cla1dpp",
       "Name": "No, this is not a stack of coins!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Boss_Cita",
@@ -304,9 +309,9 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Boss_King",
@@ -320,9 +325,9 @@
       "ID": "Boss_Pyramid",
       "SetID": "cla1dpp",
       "Name": "We\u0027ll build a new one!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Boss_Sphere",
@@ -336,9 +341,9 @@
       "ID": "Boss_Tower",
       "SetID": "cla1dpp",
       "Name": "My tower is bigger than yours.",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Boss_Tree",
@@ -360,15 +365,15 @@
       "ID": "Full_Upgrade_Cita",
       "SetID": "cla1dpp",
       "Name": "Anything for my princess!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "No_Lose_All_Human_Missions",
       "SetID": "cla1dpp",
       "Name": "Deny Death.",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -376,9 +381,9 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "PvP_Mission",
@@ -424,31 +429,31 @@
       "ID": "Up_Farm",
       "SetID": "cla1dpp",
       "Name": "We need to go deeper!",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Up_Tower",
       "SetID": "cla1dpp",
       "Name": "Prepare Uranus!",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "cla1dpp",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:12:08.5899082+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:09:54.2005889+00:00",
   "LastUpdate_AppInfo": "2024-01-04T02:57:17.4356768+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:59:47.5269478+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:12:08.5899282+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:57:41.3351393+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:09:54.2006081+00:00"
 }

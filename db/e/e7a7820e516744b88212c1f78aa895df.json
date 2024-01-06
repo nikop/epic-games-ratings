@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 352,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1455,6 +1455,11 @@
       "Time": "2024-01-05T20:09:39.5669371+00:00",
       "NumProgressed": 350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T00:10:00.0351219+00:00",
+      "NumProgressed": 352,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1467,7 +1472,7 @@
       "Name": "You\u0027re Fired!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achMaxCage",
@@ -1563,7 +1568,7 @@
       "Name": "Corporate Cooperator",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achSponsor5",
@@ -1690,14 +1695,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 352,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:12:16.6698141+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:10:00.0351217+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:18.5913726+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:59:50.9051092+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:12:16.6698373+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:57:43.5915886+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:10:00.0351457+00:00"
 }

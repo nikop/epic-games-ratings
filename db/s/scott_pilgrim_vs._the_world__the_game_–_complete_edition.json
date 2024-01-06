@@ -2,7 +2,7 @@
   "ID": "a443faa3d6304a7dacd7456e0f6b0fa6",
   "Name": "Scott Pilgrim vs. The World: The Game \u2013 Complete Edition",
   "ProductSlug": "scott-pilgrim-vs-the-world-the-game",
-  "Ranking_Rating": 92,
+  "Ranking_Rating": 84,
   "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 822,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN,CU,IR,KP,SD,SY,HK,MO,TW"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.81,
   "NumberOfRatings": 99,
   "RatingHistory": [
     {
@@ -465,6 +465,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 52,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-01-05T23:57:28.9282783+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 52,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
@@ -490,8 +496,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:24.6298445+00:00",
-  "LastChanged": "2024-01-04T23:57:05.4361589+00:00",
+  "LastChanged": "2024-01-05T23:57:28.9282782+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:12.5809581+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:59:29.3389555+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:06:31.3288189+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:57:28.9282786+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:03:53.4950727+00:00"
 }

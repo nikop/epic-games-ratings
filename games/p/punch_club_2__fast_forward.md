@@ -25,9 +25,9 @@
 | Employee of the month | 59.00% | ~317 |
 | Law student | 57.00% | ~307 |
 | Workout professional | 54.00% | ~291 |
+| Little hacker | 54.00% | ~291 |
 | Handyman | 54.00% | ~291 |
 | Fight for life | 53.00% | ~285 |
-| Little hacker | 53.00% | ~285 |
 | Champion – starter pack | 53.00% | ~285 |
 | It's good to be alive | 53.00% | ~285 |
 | Intriguing candies | 53.00% | ~285 |
@@ -38,8 +38,8 @@
 | Escaped from a big trouble | 46.00% | ~247 |
 | Now you are worthy | 41.00% | ~221 |
 | Fight is life | 41.00% | ~221 |
+| Guiding on the right path | 41.00% | ~221 |
 | Mysterious voice | 40.00% | ~215 |
-| Guiding on the right path | 40.00% | ~215 |
 | No blades in the gym | 38.00% | ~204 |
 | Champion – no way back | 36.00% | ~194 |
 | Responsible approach | 36.00% | ~194 |

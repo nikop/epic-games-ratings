@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -821,6 +821,11 @@
       "Time": "2024-01-05T21:06:55.7636219+00:00",
       "NumProgressed": 490,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T00:05:40.5677657+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -848,7 +853,7 @@
       "Name": "Well-travelled",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_012",
@@ -864,7 +869,7 @@
       "Name": "Little Grey Cells",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_014",
@@ -880,7 +885,7 @@
       "Name": "Truth from Within",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_016",
@@ -904,7 +909,7 @@
       "Name": "Thinking of Everything",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_019",
@@ -928,7 +933,7 @@
       "Name": "Exquisite Artwork",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_021",
@@ -992,7 +997,7 @@
       "Name": "It Wasn\u2019t a Burglary",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_029",
@@ -1008,7 +1013,7 @@
       "Name": "The Altercation",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_030",
@@ -1024,15 +1029,15 @@
       "Name": "Angeline Van den Bosch",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_032",
       "SetID": "72imik0",
       "Name": "Archibald Sterling",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_033",
@@ -1040,7 +1045,7 @@
       "Name": "Cassandra Van den Bosch",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_034",
@@ -1056,7 +1061,7 @@
       "Name": "Elizabeth Padget",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_036",
@@ -1096,7 +1101,7 @@
       "Name": "The Major",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_040",
@@ -1144,7 +1149,7 @@
       "Name": "Viscount Edwin Van den Bosch",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_046",
@@ -1168,7 +1173,7 @@
       "Name": "The Secret",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_07",
@@ -1199,7 +1204,7 @@
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 6
     }
   ],
@@ -1207,8 +1212,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:09:00.7163437+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:05:40.5677654+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:27.1756948+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:05:18.4264601+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:09:00.7163741+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:03:03.6834449+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:05:40.567816+00:00"
 }

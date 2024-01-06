@@ -10,16 +10,16 @@ Rating: 4.62 (Ranked 379)
 | A Wonderful Discovery | 12.00% | ~829 |
 | Walls Cannot Stop Us | 12.00% | ~829 |
 | From Friends to Family | 11.00% | ~760 |
-| Bone Peddler | 9.00% | ~621 |
-| Magical Synergy | 8.00% | ~552 |
-| There Can Only Be One! | 7.00% | ~483 |
-| Full Ascension | 7.00% | ~483 |
-| Stronger Together | 7.00% | ~483 |
-| Seat of Power | 7.00% | ~483 |
-| In a Liege of Your Own | 6.00% | ~414 |
-| Valley of Wonders | 5.00% | ~345 |
-| Intimidation Tactics | 5.00% | ~345 |
-| But this one is mine | 5.00% | ~345 |
+| Bone Peddler | 9.00% | ~622 |
+| Magical Synergy | 8.00% | ~553 |
+| There Can Only Be One! | 7.00% | ~484 |
+| Full Ascension | 7.00% | ~484 |
+| Stronger Together | 7.00% | ~484 |
+| Seat of Power | 7.00% | ~484 |
+| In a Liege of Your Own | 6.00% | ~415 |
+| Valley of Wonders | 5.00% | ~346 |
+| Intimidation Tactics | 5.00% | ~346 |
+| But this one is mine | 5.00% | ~346 |
 | Return of the Wizard King | 4.00% | ~276 |
 | Enchanted Archipelago | 4.00% | ~276 |
 | Digging for Treasure | 4.00% | ~276 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,905 (Ranked 197)  
+Progressed: 6,910 (Ranked 197)  
 Completed: 7 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,6 +295,7 @@ Completed: 7 (0.10%) (Ranked 307)
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
+| 2024-01-06 | 6,910 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 210 (Ranked 411)  

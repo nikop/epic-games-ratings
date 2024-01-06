@@ -10,13 +10,13 @@ Rating: 4.65 (Ranked 321)
 | First Bounty Down | 5.00% | ~1,252 |
 | G3 Graduation | 5.00% | ~1,252 |
 | Cold-Blooded Driller | 5.00% | ~1,252 |
-| Creature Feature | 4.00% | ~1,001 |
-| Are You Packin'? | 4.00% | ~1,001 |
-| Bring A Knife to a Gun Fight | 4.00% | ~1,001 |
-| RIP Davey Glutes | 4.00% | ~1,001 |
-| We're All Very Impressed, Trust Me | 4.00% | ~1,001 |
-| Who's The Boss? | 4.00% | ~1,001 |
-| Don't Knife The Hand That Feeds | 4.00% | ~1,001 |
+| Creature Feature | 4.00% | ~1,002 |
+| Are You Packin'? | 4.00% | ~1,002 |
+| Bring A Knife to a Gun Fight | 4.00% | ~1,002 |
+| RIP Davey Glutes | 4.00% | ~1,002 |
+| We're All Very Impressed, Trust Me | 4.00% | ~1,002 |
+| Who's The Boss? | 4.00% | ~1,002 |
+| Don't Knife The Hand That Feeds | 4.00% | ~1,002 |
 | Lezduit! | 3.00% | ~751 |
 | Legendary Bounty Hunter | 3.00% | ~751 |
 | Hardest Battle In The Game | 3.00% | ~751 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 321)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,037 (Ranked 145)  
+Progressed: 25,039 (Ranked 145)  
 Completed: 14 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,6 +310,7 @@ Completed: 14 (0.06%) (Ranked 329)
 | 2024-01-03 | 25,006 | 14 |
 | 2024-01-04 | 25,022 | 14 |
 | 2024-01-05 | 25,037 | 14 |
+| 2024-01-06 | 25,039 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

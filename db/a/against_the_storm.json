@@ -3785,9 +3785,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 20228,
+  "EOS_Progressed": 20234,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18575,6 +18575,11 @@
       "Time": "2024-01-05T23:09:25.8862701+00:00",
       "NumProgressed": 20228,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-06T00:05:58.3171874+00:00",
+      "NumProgressed": 20234,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18875,7 +18880,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "WinPrestige10",
@@ -18923,7 +18928,7 @@
       "Name": "Taking Action",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "WinWithResolve",
@@ -18987,7 +18992,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "WinNearFrosts",
@@ -18995,7 +19000,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "WinNearGreed",
@@ -19003,7 +19008,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "WinNearLibrary",
@@ -19011,7 +19016,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "WinNearPetrified",
@@ -19027,7 +19032,7 @@
       "Name": "Ominous Presence",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "WinNearStorms",
@@ -19058,15 +19063,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20228,
+      "Progressed": 20234,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-05T19:01:40.5563958+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:09:25.8862698+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:05:58.3171866+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:02:48.6937631+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:09:25.8863644+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:59:41.5469846+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:05:58.3173152+00:00"
 }

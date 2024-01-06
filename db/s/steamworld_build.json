@@ -1166,9 +1166,9 @@
       "ID": "SlottingMachine",
       "SetID": "4bd750m",
       "Name": "Slotting Machine",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "StackOverflow",
@@ -1206,9 +1206,9 @@
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "UpUpAndAway",
@@ -1245,8 +1245,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:07:54.4686812+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:04:53.126964+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:05:30.4421848+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:07:54.4687112+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:03:11.618169+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:04:53.1269933+00:00"
 }

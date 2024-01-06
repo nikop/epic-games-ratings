@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 444,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1674,9 +1674,9 @@
       "ID": "Collect_AdamantineLarge_30",
       "SetID": "7a5k76n",
       "Name": "Unbreakable Will",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 58
     },
     {
       "ID": "Collect_AdamantineMedium_30",
@@ -2122,17 +2122,17 @@
       "ID": "Save_Usiel_No_Kill",
       "SetID": "7a5k76n",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 124
     },
     {
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 297
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -2194,8 +2194,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:10:22.9529992+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:08:38.3400599+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:01:58.361291+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:10:22.9530487+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:59:08.2497104+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:08:38.3401363+00:00"
 }

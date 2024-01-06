@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1000,
+  "EOS_Progressed": 1001,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
@@ -3555,6 +3555,11 @@
       "Time": "2024-01-05T23:11:31.4653314+00:00",
       "NumProgressed": 1000,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T00:09:27.9999593+00:00",
+      "NumProgressed": 1001,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3829,9 +3834,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 50
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -3901,9 +3906,9 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 220
     },
     {
       "ID": "WielderLevel3",
@@ -3957,9 +3962,9 @@
       "ID": "WinSiegeAsDefender",
       "SetID": "71c0n9i",
       "Name": "Venisti, Vidisti, Perdidisti",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 20
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -3998,15 +4003,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1000,
+      "Progressed": 1001,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:11:31.4653308+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:09:27.9999587+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:01:28.3039776+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:11:31.4654245+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:58:48.186526+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:09:28.0000137+00:00"
 }

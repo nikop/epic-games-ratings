@@ -2,7 +2,7 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 470,
   "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 130,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 401,
   "RatingHistory": [
     {
@@ -764,6 +764,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 315,
       "NumberOfAwardsMax": 221
+    },
+    {
+      "Time": "2024-01-05T23:59:49.230385+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 315,
+      "NumberOfAwardsMax": 221
     }
   ],
   "ReviewsDisabled": false,
@@ -802,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43646,
+  "EOS_Progressed": 43647,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27447,6 +27453,11 @@
       "Time": "2024-01-05T23:06:38.3017752+00:00",
       "NumProgressed": 43646,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T00:03:58.3964103+00:00",
+      "NumProgressed": 43647,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -27666,7 +27677,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6110
+      "UsersEstimate": 6111
     },
     {
       "ID": "ach_legacysalvager",
@@ -27889,15 +27900,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43646,
+      "Progressed": 43647,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "LastChanged": "2023-12-30T23:57:07.6493697+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:06:38.3017749+00:00",
+  "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:03:58.3964099+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:43.1015004+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:03:00.6776536+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:06:38.3019234+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:59:49.2303853+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:03:58.3965735+00:00"
 }

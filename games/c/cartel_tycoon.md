@@ -1,23 +1,23 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.37 (Ranked 802)  
+Rating: 4.37 (Ranked 803)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 83.00% | ~793 |
-| Take-Off | 79.00% | ~755 |
-| Hokey-Pokey | 68.00% | ~650 |
-| Camellos | 53.00% | ~507 |
+| Our Man | 83.00% | ~794 |
+| Take-Off | 79.00% | ~756 |
+| Hokey-Pokey | 68.00% | ~651 |
+| Camellos | 52.00% | ~498 |
 | Bad Trip | 44.00% | ~421 |
 | Didn't Miss A Single One | 42.00% | ~402 |
 | That was base | 42.00% | ~402 |
 | Spread | 42.00% | ~402 |
 | Safe Pair of Hands | 34.00% | ~325 |
-| Don't Let Mom Know You're A Druglord | 29.00% | ~277 |
-| Architect of Fortunes | 24.00% | ~229 |
-| Bite the Blow | 22.00% | ~210 |
+| Don't Let Mom Know You're A Druglord | 29.00% | ~278 |
+| Architect of Fortunes | 24.00% | ~230 |
+| Bite the Blow | 22.00% | ~211 |
 | Pampered Life | 21.00% | ~201 |
 | Spreading Fear | 9.00% | ~86 |
 | Follow the Money | 7.00% | ~67 |
@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.60% | ~6 |
 | Sense Of Style | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 956 (Ranked 294)  
+Progressed: 957 (Ranked 293)  
 Completed: 3 (0.31%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,6 +246,7 @@ Completed: 3 (0.31%) (Ranked 250)
 | 2024-01-03 | 930 | 3 |
 | 2024-01-04 | 947 | 3 |
 | 2024-01-05 | 956 | 3 |
+| 2024-01-06 | 957 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

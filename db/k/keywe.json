@@ -2,9 +2,9 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -625,6 +625,11 @@
       "Time": "2024-01-05T22:05:05.1201403+00:00",
       "NumProgressed": 143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T00:04:31.8758693+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -685,7 +690,7 @@
       "Name": "Practice Makes Postmasters",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "completeFall",
@@ -709,23 +714,23 @@
       "Name": "You\u0027re Hired",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 99
     },
     {
       "ID": "findFirstCollectible",
@@ -741,7 +746,7 @@
       "Name": "Working for the Kiweekend",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "goldOnAllLevels",
@@ -796,13 +801,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 0
     }
   ],
@@ -810,8 +815,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:07:24.5107394+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:04:31.8758688+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:20.8360507+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:03:32.1174081+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:07:24.5107501+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:00:10.1806378+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:04:31.8758864+00:00"
 }

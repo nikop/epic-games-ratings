@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,551 |
+| A Brief Tour of the Realms | 4.00% | ~10,069 |
 | The Cursed Farmer | 2.00% | ~5,034 |
 | Beast Intentions | 1.00% | ~2,517 |
 | The Mad Wizard | 1.00% | ~2,517 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,702 (Ranked 70)  
+Progressed: 251,717 (Ranked 70)  
 Completed: 2,596 (1.03%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -814,9 +814,10 @@ Completed: 2,596 (1.03%) (Ranked 171)
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
+| 2024-01-06 | 251,717 | 2,596 |
 ## Awards
 Max (Great for Beginners): 5,750  (Ranked 72)  
-Sum: 33,341 (Ranked 41)  
+Sum: 33,345 (Ranked 41)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -826,7 +827,7 @@ Diff (max vs sum): 31
 | This game is Relaxing | 4,763 |
 | This game has Amazing Characters | 4,319 |
 | This game is Highly Recommended | 4,298 |
-| This game has Playful Visuals | 3,624 |
+| This game has Playful Visuals | 3,628 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1174,4 +1175,4 @@ Diff (max vs sum): 31
 | 2024-01-02 | 4.06 | - | 5,730 | 33,274 |
 | 2024-01-03 | 4.06 | - | 5,730 | 33,294 |
 | 2024-01-04 | 4.06 | - | 5,740 | 33,310 |
-| 2024-01-05 | 4.06 | - | 5,750 | 33,341 |
+| 2024-01-05 | 4.06 | - | 5,750 | 33,345 |

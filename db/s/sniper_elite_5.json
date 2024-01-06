@@ -661,9 +661,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4211,
+  "EOS_Progressed": 4212,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9406,6 +9406,11 @@
       "Time": "2024-01-05T20:09:24.8865608+00:00",
       "NumProgressed": 4211,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-06T00:09:46.7928812+00:00",
+      "NumProgressed": 4212,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9497,7 +9502,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9625,7 +9630,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9665,7 +9670,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9785,7 +9790,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9984,13 +9989,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4162,
+      "Progressed": 4163,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4211,
+      "Progressed": 4212,
       "Completed": 11
     }
   ],
@@ -9998,8 +10003,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:11:57.9364961+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:09:46.7928809+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:02:51.3088925+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:11:57.9365934+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:59:43.1594605+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:09:46.7929731+00:00"
 }

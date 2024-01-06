@@ -5,39 +5,39 @@ Rating: 4.55 (Ranked 525)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~152 |
-| Map reader | 63.00% | ~104 |
-| Adventurer | 62.00% | ~102 |
-| Philanthropist | 59.00% | ~97 |
-| Archer | 42.00% | ~69 |
+| Beginner | 91.00% | ~151 |
+| Map reader | 63.00% | ~105 |
+| Adventurer | 61.00% | ~101 |
+| Philanthropist | 59.00% | ~98 |
+| Archer | 42.00% | ~70 |
 | The brave little tailor | 40.00% | ~66 |
-| Field hand | 39.00% | ~64 |
-| Samaritan | 32.00% | ~53 |
-| Well-to-do | 32.00% | ~53 |
+| Field hand | 39.00% | ~65 |
+| Samaritan | 31.00% | ~51 |
+| Well-to-do | 31.00% | ~51 |
 | The merciful one | 29.00% | ~48 |
 | Ladies' man | 28.00% | ~46 |
-| Ferocious wild boars | 24.00% | ~40 |
+| Ferocious wild boars | 23.00% | ~38 |
 | Idiot | 23.00% | ~38 |
 | Beast slayer | 21.00% | ~35 |
-| Death of a legend | 19.00% | ~31 |
+| Death of a legend | 19.00% | ~32 |
 | Archaeologist | 18.00% | ~30 |
 | Ogre friend | 18.00% | ~30 |
 | Family man | 17.00% | ~28 |
-| Wise man | 16.00% | ~26 |
-| Little hero | 16.00% | ~26 |
-| The fourth triplet | 16.00% | ~26 |
-| Fence | 16.00% | ~26 |
-| Sidelined | 16.00% | ~26 |
+| Wise man | 16.00% | ~27 |
+| Little hero | 16.00% | ~27 |
+| The fourth triplet | 16.00% | ~27 |
+| Fence | 16.00% | ~27 |
+| Sidelined | 16.00% | ~27 |
 | Hard worker | 15.00% | ~25 |
-| Master detective | 15.00% | ~25 |
-| Pandora's box | 13.00% | ~21 |
-| Ghost hunter | 13.00% | ~21 |
-| Peacekeeper | 13.00% | ~21 |
-| Defender | 12.00% | ~20 |
-| Workaholic | 12.00% | ~20 |
-| Freedom fighter | 10.00% | ~16 |
-| Safecracker | 10.00% | ~16 |
-| Master thief | 10.00% | ~16 |
+| Master detective | 14.00% | ~23 |
+| Pandora's box | 13.00% | ~22 |
+| Ghost hunter | 13.00% | ~22 |
+| Peacekeeper | 13.00% | ~22 |
+| Defender | 11.00% | ~18 |
+| Workaholic | 11.00% | ~18 |
+| Freedom fighter | 10.00% | ~17 |
+| Safecracker | 10.00% | ~17 |
+| Master thief | 10.00% | ~17 |
 | Showdown | 9.00% | ~15 |
 | King of the handymen | 8.00% | ~13 |
 | Titan Lord | 7.00% | ~12 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 525)
 | Master of the classes | 0.60% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165 (Ranked 443)  
+Progressed: 166 (Ranked 442)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-03 | 159 | 0 |
 | 2024-01-04 | 162 | 0 |
 | 2024-01-05 | 165 | 0 |
+| 2024-01-06 | 166 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

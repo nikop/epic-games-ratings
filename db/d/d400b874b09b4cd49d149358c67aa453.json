@@ -3,7 +3,7 @@
   "Name": "Electrician Simulator",
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 676,
+  "EOS_Progressed": 677,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2434,6 +2434,11 @@
       "Time": "2024-01-05T21:05:01.6164618+00:00",
       "NumProgressed": 676,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T00:04:14.1164813+00:00",
+      "NumProgressed": 677,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -2478,7 +2483,7 @@
       "Name": "Virtual Electrician",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_END_ALL_WORKBENCH_MISSIONS",
@@ -2494,7 +2499,7 @@
       "Name": "I love customers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -2502,7 +2507,7 @@
       "Name": "Ready to go",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -2510,7 +2515,7 @@
       "Name": "I can fix that",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -2518,7 +2523,7 @@
       "Name": "Gotta go fast",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_FIRST_SHOCK",
@@ -2526,7 +2531,7 @@
       "Name": "First shock",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -2574,7 +2579,7 @@
       "Name": "I like the risk",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -2590,7 +2595,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -2614,7 +2619,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -2636,9 +2641,9 @@
       "ID": "ACH_UNSCREW",
       "SetID": "al4k4nh",
       "Name": "Unscrew you",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 331
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -2653,14 +2658,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 676,
+      "Progressed": 677,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:06:59.836455+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:04:14.1164809+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.1835695+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:03:02.72961+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:06:59.8364827+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:59:50.5465088+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:04:14.1165177+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 704,
+  "Ranking_Rating": 723,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2022-12-13T19:57:02.6250274+00:00",
@@ -495,15 +495,21 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-05T23:57:59.2122095+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3885,
+  "EOS_Progressed": 3886,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.71,
   "EosHistory": [
@@ -6836,6 +6842,11 @@
       "Time": "2024-01-05T23:10:42.55399+00:00",
       "NumProgressed": 3885,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-06T00:08:52.4884302+00:00",
+      "NumProgressed": 3886,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -6871,7 +6882,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -6895,7 +6906,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -6903,7 +6914,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -6951,23 +6962,23 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3885,
+      "Progressed": 3886,
       "Completed": 144
     }
   ],
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
-  "LastChanged": "2024-01-03T23:57:00.115458+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:10:42.5539897+00:00",
+  "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:08:52.4884298+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:00:14.0629388+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:10:42.5540291+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:57:59.2122098+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:08:52.4884805+00:00"
 }

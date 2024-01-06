@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.86,
+  "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1139,6 +1139,11 @@
       "Time": "2024-01-05T23:12:36.2192182+00:00",
       "NumProgressed": 259,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T00:10:13.8483021+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1167,7 +1172,7 @@
       "Name": "Alchemist",
       "Percentage": 58,
       "XP": 75,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "creepytaleach12",
@@ -1245,23 +1250,23 @@
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:12:36.219218+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:10:13.8483018+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:06.3288119+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:59:33.9893752+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:12:36.2192346+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:57:32.1630187+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:10:13.8483181+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -289,9 +289,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 1284,
+  "EOS_Progressed": 1286,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3634,6 +3634,11 @@
       "Time": "2024-01-05T23:08:00.5743517+00:00",
       "NumProgressed": 1284,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T00:04:57.5575826+00:00",
+      "NumProgressed": 1286,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3654,7 +3659,7 @@
       "Name": "Ab Initio",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "AnthropicHills",
@@ -3662,7 +3667,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Archaeologist",
@@ -3710,7 +3715,7 @@
       "Name": "Chasing the Light",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Chicken",
@@ -3830,7 +3835,7 @@
       "Name": "Lord of the Files",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "LostMarshes",
@@ -3862,7 +3867,7 @@
       "Name": "Museum Explorer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "MuseumVisitor",
@@ -3870,7 +3875,7 @@
       "Name": "Museum Visitor",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "NewBeginning",
@@ -3894,7 +3899,7 @@
       "Name": "Not What It Seems",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Overload",
@@ -3902,7 +3907,7 @@
       "Name": "Overload",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Persistent",
@@ -3910,7 +3915,7 @@
       "Name": "Persistent",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "PrometheusUnbound",
@@ -3924,9 +3929,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 219
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3934,7 +3939,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "RenaissanceRobot",
@@ -3990,7 +3995,7 @@
       "Name": "Team Spirit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "TextAdventurer",
@@ -4046,7 +4051,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "TheWordEndures",
@@ -4054,7 +4059,7 @@
       "Name": "The Word Endures",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "TouchGrass",
@@ -4062,7 +4067,7 @@
       "Name": "Touch Grass",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "TrevorsBiographer",
@@ -4070,7 +4075,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "VerdantCanyon",
@@ -4117,7 +4122,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1284,
+      "Progressed": 1286,
       "Completed": 2
     }
   ],
@@ -4125,8 +4130,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:08:00.5743514+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:04:57.5575822+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:04:30.7192198+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:08:00.5744054+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:00:22.2604912+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:04:57.5576489+00:00"
 }

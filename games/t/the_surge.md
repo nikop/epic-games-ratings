@@ -6,14 +6,14 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,954 |
-| I'll Be Back | 84.00% | ~4,427 |
-| Sorry, I Dropped This | 76.00% | ~4,005 |
-| First Day on the Job | 76.00% | ~4,005 |
+| On My Own Two Feet | 94.00% | ~4,955 |
+| I'll Be Back | 84.00% | ~4,428 |
+| Sorry, I Dropped This | 76.00% | ~4,006 |
+| First Day on the Job | 76.00% | ~4,006 |
 | Butcher's Bill | 54.00% | ~2,846 |
-| P.A.X | 36.00% | ~1,897 |
-| Hey Listen | 36.00% | ~1,897 |
-| OPERATOR | 35.00% | ~1,844 |
+| P.A.X | 36.00% | ~1,898 |
+| Hey Listen | 36.00% | ~1,898 |
+| OPERATOR | 35.00% | ~1,845 |
 | It's Blue Light | 33.00% | ~1,739 |
 | Most Wanted | 26.00% | ~1,370 |
 | Infidel | 23.00% | ~1,212 |
@@ -21,12 +21,12 @@ Number of Ratings: 62  (23.09.2022)
 | GOLIATH | 20.00% | ~1,054 |
 | I Choose You | 17.00% | ~896 |
 | Nothing to Lose | 17.00% | ~896 |
-| Big Sister | 15.00% | ~790 |
-| Gear Up | 15.00% | ~790 |
-| SENTINEL | 15.00% | ~790 |
-| The Black Cerberus | 12.00% | ~632 |
-| Watchman | 12.00% | ~632 |
-| Core Power | 12.00% | ~632 |
+| Big Sister | 15.00% | ~791 |
+| Gear Up | 15.00% | ~791 |
+| SENTINEL | 15.00% | ~791 |
+| The Black Cerberus | 12.00% | ~633 |
+| Watchman | 12.00% | ~633 |
+| Core Power | 12.00% | ~633 |
 | CREO Killed the Video Star | 11.00% | ~580 |
 | Who's in Charge Here? | 11.00% | ~580 |
 | Shall Not Pass | 11.00% | ~580 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,270 (Ranked 202)  
+Progressed: 5,271 (Ranked 202)  
 Completed: 18 (0.34%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,6 +292,7 @@ Completed: 18 (0.34%) (Ranked 243)
 | 2024-01-03 | 5,224 | 18 |
 | 2024-01-04 | 5,249 | 18 |
 | 2024-01-05 | 5,270 | 18 |
+| 2024-01-06 | 5,271 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 522)  
 Sum: 30 (Ranked 540)  

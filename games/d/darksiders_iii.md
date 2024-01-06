@@ -7,7 +7,7 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~342 |
-| First of many… | 66.00% | ~293 |
+| First of many… | 67.00% | ~297 |
 | Helping Hand | 63.00% | ~280 |
 | Increased Vigor | 59.00% | ~262 |
 | Fight Fire with Fire | 57.00% | ~253 |
@@ -28,9 +28,9 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 32.00% | ~142 |
 | Maximum Vigor | 30.00% | ~133 |
 | Love Tap | 30.00% | ~133 |
+| For Whom the Bell Tolls | 28.00% | ~124 |
 | Freeze Frame | 27.00% | ~120 |
 | Eat Your Heart Out | 27.00% | ~120 |
-| For Whom the Bell Tolls | 27.00% | ~120 |
 | Unyielding Strength | 25.00% | ~111 |
 | Can you restore the Balance? | 25.00% | ~111 |
 | Big Spender | 24.00% | ~107 |
@@ -43,9 +43,9 @@ Number of Ratings: 116  (23.09.2022)
 | Protector of Humanity | 17.00% | ~75 |
 | Everybody Wants to Rule the World | 17.00% | ~75 |
 | Community Outreach | 15.00% | ~67 |
+| Unbreakable Will | 13.00% | ~58 |
 | A Parting Gift | 13.00% | ~58 |
 | Path of the Horseman | 13.00% | ~58 |
-| Unbreakable Will | 12.00% | ~53 |
 | Holy Keeper | 11.00% | ~49 |
 | Demon Keeper | 11.00% | ~49 |
 | Take it to the Limit | 11.00% | ~49 |

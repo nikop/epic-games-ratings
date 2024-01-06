@@ -1,24 +1,24 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.27 (Ranked 900)  
+Rating: 4.27 (Ranked 899)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 79.00% | ~1,962 |
-| Don't I Know You...? | 75.00% | ~1,862 |
-| Jailbreak | 64.00% | ~1,589 |
+| Don't I Know You...? | 75.00% | ~1,863 |
+| Jailbreak | 64.00% | ~1,590 |
 | HEADSHOT! | 37.00% | ~919 |
 | Suited and Booted | 37.00% | ~919 |
 | Sleeping With The Fishes | 35.00% | ~869 |
 | Overheated | 30.00% | ~745 |
 | High Performance | 30.00% | ~745 |
-| Powered Up | 28.00% | ~695 |
+| Powered Up | 28.00% | ~696 |
 | Studied The Blade | 24.00% | ~596 |
 | Home Invasion | 23.00% | ~571 |
 | Luminary | 22.00% | ~546 |
 | It's a Trap | 22.00% | ~546 |
-| True Survivor | 21.00% | ~521 |
+| True Survivor | 21.00% | ~522 |
 | Offensive Defense | 20.00% | ~497 |
 | Shocking | 20.00% | ~497 |
 | Court Martial | 19.00% | ~472 |
@@ -26,7 +26,7 @@ Rating: 4.27 (Ranked 900)
 | Clean Cut | 18.00% | ~447 |
 | Dead Again | 17.00% | ~422 |
 | Full Arsenal | 17.00% | ~422 |
-| Can't Trust Banks | 15.00% | ~372 |
+| Can't Trust Banks | 15.00% | ~373 |
 | Mommy Dearest | 13.00% | ~323 |
 | Bad Dog | 13.00% | ~323 |
 | Risk Tolerant | 13.00% | ~323 |
@@ -37,7 +37,7 @@ Rating: 4.27 (Ranked 900)
 | Corrupted Beauty | 11.00% | ~273 |
 | Stimulating The Local Economy | 10.00% | ~248 |
 | Triplets | 10.00% | ~248 |
-| Denying Prophecy | 9.00% | ~223 |
+| Denying Prophecy | 9.00% | ~224 |
 | A Little Banged Up | 8.00% | ~199 |
 | Following In Their Footsteps | 8.00% | ~199 |
 | Defense in Depth | 8.00% | ~199 |
@@ -53,7 +53,7 @@ Rating: 4.27 (Ranked 900)
 | Geronimo! | 4.00% | ~99 |
 | Homewrecker | 4.00% | ~99 |
 | Plank of Wood | 4.00% | ~99 |
-| Gotta Craft 'em All | 3.00% | ~74 |
+| Gotta Craft 'em All | 3.00% | ~75 |
 | Own Medicine | 2.00% | ~50 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~50 |
 | Box Office Smash | 2.00% | ~50 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 900)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,483 (Ranked 235)  
+Progressed: 2,484 (Ranked 235)  
 Completed: 13 (0.52%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,6 +261,7 @@ Completed: 13 (0.52%) (Ranked 215)
 | 2024-01-03 | 2,457 | 13 |
 | 2024-01-04 | 2,469 | 13 |
 | 2024-01-05 | 2,483 | 13 |
+| 2024-01-06 | 2,484 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

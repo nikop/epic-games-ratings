@@ -27,7 +27,7 @@
 | General | 28.00% | ~47 |
 | Bookworm | 27.00% | ~46 |
 | Floppy Disk Finder | 16.00% | ~27 |
-| Stay | 13.00% | ~22 |
+| Stay | 14.00% | ~24 |
 | Nurse | 11.00% | ~19 |
 | No Page Unturned | 6.00% | ~10 |
 | Friends | 6.00% | ~10 |

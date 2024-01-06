@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44867,
+  "EOS_Progressed": 44868,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -20437,6 +20437,11 @@
       "Time": "2024-01-05T23:05:57.891571+00:00",
       "NumProgressed": 44867,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-06T00:03:30.5591056+00:00",
+      "NumProgressed": 44868,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20448,7 +20453,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25574
+      "UsersEstimate": 25575
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -20472,7 +20477,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7627
+      "UsersEstimate": 7628
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -20480,7 +20485,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6281
+      "UsersEstimate": 6282
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -20520,7 +20525,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6281
+      "UsersEstimate": 6282
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -20608,7 +20613,7 @@
       "Name": "Look Behind You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7627
+      "UsersEstimate": 7628
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -20624,7 +20629,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10319
+      "UsersEstimate": 10320
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -20656,7 +20661,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8973
+      "UsersEstimate": 8974
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -20680,7 +20685,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14357
+      "UsersEstimate": 14358
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -20688,7 +20693,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28266
+      "UsersEstimate": 28267
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -20712,7 +20717,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26920
+      "UsersEstimate": 26921
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -20720,7 +20725,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30061
+      "UsersEstimate": 30062
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -20736,7 +20741,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6281
+      "UsersEstimate": 6282
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -20752,7 +20757,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20190
+      "UsersEstimate": 20191
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -20784,7 +20789,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41726
+      "UsersEstimate": 41727
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20799,7 +20804,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44867,
+      "Progressed": 44868,
       "Completed": 248
     }
   ],
@@ -20807,8 +20812,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:05:57.8915706+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:03:30.5591052+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.3527303+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:05:24.6325727+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:05:57.8916743+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:03:07.8724867+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:03:30.5592622+00:00"
 }

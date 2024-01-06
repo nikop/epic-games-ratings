@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3298,
+  "EOS_Progressed": 3300,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -5989,6 +5989,11 @@
       "Time": "2024-01-05T23:10:11.4386722+00:00",
       "NumProgressed": 3298,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-06T00:08:30.1363392+00:00",
+      "NumProgressed": 3300,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 53,
@@ -6008,7 +6013,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -6040,7 +6045,7 @@
       "Name": "Hijack",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -6048,7 +6053,7 @@
       "Name": "Elemental master",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -6064,7 +6069,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3135
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6080,7 +6085,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2541
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6104,7 +6109,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -6112,7 +6117,7 @@
       "Name": "I chose my shackles",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -6120,7 +6125,7 @@
       "Name": "Past trauma",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -6136,7 +6141,7 @@
       "Name": "Old friend",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -6176,7 +6181,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2508
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6184,7 +6189,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2970
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6216,7 +6221,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2508
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6224,7 +6229,7 @@
       "Name": "Thornbarrow",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -6232,7 +6237,7 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -6240,7 +6245,7 @@
       "Name": "Devineur",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -6248,7 +6253,7 @@
       "Name": "Sacred Woods",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6304,7 +6309,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6336,7 +6341,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -6344,7 +6349,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -6376,7 +6381,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6408,7 +6413,7 @@
       "Name": "Ancient power",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -6416,14 +6421,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3298,
+      "Progressed": 3300,
       "Completed": 21
     }
   ],
@@ -6431,8 +6436,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:10:11.4386719+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:08:30.1363389+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:02:59.3541126+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:10:11.4387538+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:59:48.3322736+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:08:30.1364276+00:00"
 }

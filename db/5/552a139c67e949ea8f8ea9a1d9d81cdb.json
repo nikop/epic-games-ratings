@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1850,
+  "EOS_Progressed": 1854,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4657,6 +4657,11 @@
       "Time": "2024-01-05T23:06:06.124152+00:00",
       "NumProgressed": 1850,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T00:03:36.5075278+00:00",
+      "NumProgressed": 1854,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4667,17 +4672,17 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 241
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 130
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4765,7 +4770,7 @@
       "Name": "Look, Mom! No track!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -4773,7 +4778,7 @@
       "Name": "Shapeshifter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -4837,7 +4842,7 @@
       "Name": "The Octopus",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -4853,7 +4858,7 @@
       "Name": "The Terrordactyl",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -4933,7 +4938,7 @@
       "Name": "Beyond the limit",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -4965,7 +4970,7 @@
       "Name": "Spoiled for choice",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4981,7 +4986,7 @@
       "Name": "A little nest egg",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -4989,7 +4994,7 @@
       "Name": "You\u0027re good at this!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -5005,7 +5010,7 @@
       "Name": "Mission complete",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -5036,20 +5041,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1850,
+      "Progressed": 1854,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1518,
+      "Progressed": 1522,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:06:06.1241518+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:03:36.5075274+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:04:46.1748532+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:06:06.1242097+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:02:42.1948234+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:03:36.5075721+00:00"
 }

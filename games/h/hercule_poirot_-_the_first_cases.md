@@ -5,20 +5,20 @@ Rating: 4.38 (Ranked 788)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 88.00% | ~431 |
+| It Wasn’t a Burglary | 88.00% | ~432 |
 | Luc Piette | 74.00% | ~363 |
-| Angeline Van den Bosch | 72.00% | ~353 |
-| Elizabeth Padget | 68.00% | ~333 |
-| Little Grey Cells | 67.00% | ~328 |
+| Angeline Van den Bosch | 72.00% | ~354 |
+| Elizabeth Padget | 68.00% | ~334 |
+| Little Grey Cells | 67.00% | ~329 |
 | The Bracelet | 64.00% | ~314 |
 | The Blackmail | 53.00% | ~260 |
 | Florette Duval | 53.00% | ~260 |
 | Major Felix Hagen | 53.00% | ~260 |
 | Fine-toothed Comb | 52.00% | ~255 |
 | Order and Method | 51.00% | ~250 |
-| The Altercation | 49.00% | ~240 |
-| Truth from Within | 47.00% | ~230 |
-| The Major | 46.00% | ~225 |
+| The Altercation | 49.00% | ~241 |
+| Truth from Within | 47.00% | ~231 |
+| The Major | 46.00% | ~226 |
 | Comtesse Margaux de Vos | 44.00% | ~216 |
 | Curious and Beautiful | 43.00% | ~211 |
 | Jacqueline “Jackie” Conrad | 43.00% | ~211 |
@@ -26,8 +26,8 @@ Rating: 4.38 (Ranked 788)
 | Well-acquainted | 41.00% | ~201 |
 | Zakariya Demir | 40.00% | ~196 |
 | Well-read | 39.00% | ~191 |
-| Cassandra Van den Bosch | 37.00% | ~181 |
-| The Secret | 37.00% | ~181 |
+| Cassandra Van den Bosch | 37.00% | ~182 |
+| The Secret | 37.00% | ~182 |
 | Gedeon Demir | 35.00% | ~172 |
 | Rehana Piette | 34.00% | ~167 |
 | Instinct is Marvellous | 33.00% | ~162 |
@@ -36,11 +36,11 @@ Rating: 4.38 (Ranked 788)
 | The Search | 31.00% | ~152 |
 | Hugo Beckers | 30.00% | ~147 |
 | The Family | 28.00% | ~137 |
-| Well-travelled | 27.00% | ~132 |
-| Thinking of Everything | 27.00% | ~132 |
-| Archibald Sterling | 26.00% | ~127 |
-| Viscount Edwin Van den Bosch | 26.00% | ~127 |
-| Exquisite Artwork | 25.00% | ~122 |
+| Well-travelled | 27.00% | ~133 |
+| Thinking of Everything | 27.00% | ~133 |
+| Viscount Edwin Van den Bosch | 26.00% | ~128 |
+| Exquisite Artwork | 25.00% | ~123 |
+| Archibald Sterling | 25.00% | ~123 |
 | Well-prepared | 21.00% | ~103 |
 | The Truth | 21.00% | ~103 |
 | I Like an Audience | 19.00% | ~93 |
@@ -52,7 +52,7 @@ Rating: 4.38 (Ranked 788)
 | Room with a View | 7.00% | ~34 |
 | Work-life Balance | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490 (Ranked 349)  
+Progressed: 491 (Ranked 349)  
 Completed: 6 (1.22%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 6 (1.22%) (Ranked 159)
 | 2024-01-03 | 487 | 6 |
 | 2024-01-04 | 488 | 6 |
 | 2024-01-05 | 490 | 6 |
+| 2024-01-06 | 491 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

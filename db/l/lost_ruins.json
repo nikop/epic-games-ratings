@@ -3,8 +3,8 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 662,
+  "EOS_Progressed": 663,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1809,6 +1809,11 @@
       "Time": "2024-01-05T21:11:00.7552047+00:00",
       "NumProgressed": 662,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T00:10:22.5511436+00:00",
+      "NumProgressed": 663,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1940,7 +1945,7 @@
       "Name": "Inquisitor",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Librarian",
@@ -1948,7 +1953,7 @@
       "Name": "Librarian",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Lumberjack",
@@ -2004,7 +2009,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Pyromancer",
@@ -2012,7 +2017,7 @@
       "Name": "Pyromancer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Reincarnation",
@@ -2076,7 +2081,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "TheFallen",
@@ -2084,7 +2089,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "TheTrio",
@@ -2139,7 +2144,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 662,
+      "Progressed": 663,
       "Completed": 1
     }
   ],
@@ -2147,8 +2152,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:12:47.2789636+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:10:22.551143+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:01:30.4383381+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:12:47.278997+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:58:49.413228+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:10:22.5511759+00:00"
 }

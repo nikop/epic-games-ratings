@@ -6,12 +6,12 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 6.00% | ~428 |
+| A Friend in Need... | 6.00% | ~429 |
 | Smooth Operator: Madison | 5.00% | ~357 |
 | The Brahdyssey | 3.00% | ~214 |
 | Caught in the Act | 3.00% | ~214 |
 | Katherine | 3.00% | ~214 |
-| Life Found a Way | 3.00% | ~125 |
+| Life Found a Way | 3.00% | ~126 |
 | Relentless | 3.00% | ~214 |
 | If at First You Don't Succeed... | 3.00% | ~214 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~143 |
@@ -39,7 +39,6 @@ Number of Ratings: 177  (23.09.2022)
 | Love Conquers All | 0.50% | ~36 |
 | Rule 34 | 0.40% | ~29 |
 | Rachael | 0.40% | ~29 |
-| The Muse: Derek | 0.40% | ~29 |
 | The Elder Brahs | 0.40% | ~29 |
 | Good Ol' Days | 0.40% | ~29 |
 | Beyond the Call of Dude-y | 0.30% | ~21 |
@@ -50,6 +49,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Harder They Fall...Dood | 0.30% | ~21 |
 | Do You Smell Blood? | 0.30% | ~21 |
 | A Striking Resemblance | 0.30% | ~21 |
+| The Muse: Derek | 0.30% | ~21 |
 | Howz It Goin Dood | 0.30% | ~21 |
 | Derezzed | 0.30% | ~21 |
 | Congrats, A Celebrity Hates You | 0.20% | ~8 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,141 (Ranked 193)  
+Progressed: 7,145 (Ranked 193)  
 Completed: 3 (0.04%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,6 +328,7 @@ Completed: 3 (0.04%) (Ranked 347)
 | 2024-01-03 | 7,070 | 3 |
 | 2024-01-04 | 7,099 | 3 |
 | 2024-01-05 | 7,141 | 3 |
+| 2024-01-06 | 7,145 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

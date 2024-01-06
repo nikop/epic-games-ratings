@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 729,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.98,
   "EosHistory": [
@@ -2566,9 +2566,9 @@
       "ID": "ach_main12race_completed",
       "SetID": "4hg22ll",
       "Name": "All\u2019s Well That Ends Evil",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 299
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -2791,8 +2791,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:11:28.0700421+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:09:25.7012831+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:04:34.9032052+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:11:28.0700995+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:02:34.9734715+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:09:25.7013348+00:00"
 }

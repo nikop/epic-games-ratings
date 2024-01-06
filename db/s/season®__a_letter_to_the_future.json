@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1983,
+  "EOS_Progressed": 1984,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.73,
   "EosHistory": [
@@ -4534,6 +4534,11 @@
       "Time": "2024-01-05T22:10:23.5383572+00:00",
       "NumProgressed": 1983,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2024-01-06T00:10:10.313291+00:00",
+      "NumProgressed": 1984,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 16,
@@ -4561,7 +4566,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -4593,7 +4598,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -4617,7 +4622,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -4672,7 +4677,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1983,
+      "Progressed": 1984,
       "Completed": 74
     }
   ],
@@ -4680,8 +4685,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:12:31.2725362+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:10:10.3132908+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:00:17.1511392+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:12:31.2725717+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:58:01.4248383+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:10:10.3133256+00:00"
 }

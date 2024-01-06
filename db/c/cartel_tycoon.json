@@ -2,10 +2,10 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 802,
+  "Ranking_Rating": 803,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
-  "Ranking_EOS_Progress": 294,
+  "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 155,
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 956,
+  "EOS_Progressed": 957,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3397,6 +3397,11 @@
       "Time": "2024-01-05T22:05:01.5465787+00:00",
       "NumProgressed": 956,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T00:04:28.6418861+00:00",
+      "NumProgressed": 957,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3424,7 +3429,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "dont-miss-calls",
@@ -3456,7 +3461,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "kill-lieutenants",
@@ -3472,7 +3477,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "play-at-night",
@@ -3480,7 +3485,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "product-profit",
@@ -3512,7 +3517,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "sell-variety",
@@ -3526,9 +3531,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 507
+      "UsersEstimate": 498
     },
     {
       "ID": "unlock-residences",
@@ -3544,7 +3549,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "use-submarine",
@@ -3559,15 +3564,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 956,
+      "Progressed": 957,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:07:19.8153563+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:04:28.6418858+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:05:01.2852036+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:07:19.8153862+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:02:52.0447344+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:04:28.6419162+00:00"
 }

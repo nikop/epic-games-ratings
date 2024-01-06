@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -723,9 +723,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6905,
+  "EOS_Progressed": 6910,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10473,6 +10473,11 @@
       "Time": "2024-01-05T23:06:37.9161283+00:00",
       "NumProgressed": 6905,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T00:03:58.1954484+00:00",
+      "NumProgressed": 6910,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10484,7 +10489,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "10",
@@ -10500,7 +10505,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "12",
@@ -10524,7 +10529,7 @@
       "Name": "Full Ascension",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "15",
@@ -10628,7 +10633,7 @@
       "Name": "Bone Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "27",
@@ -10652,7 +10657,7 @@
       "Name": "Stronger Together",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "3",
@@ -10676,7 +10681,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "32",
@@ -10692,7 +10697,7 @@
       "Name": "Seat of Power",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "34",
@@ -10700,7 +10705,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "35",
@@ -10756,7 +10761,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "41",
@@ -10948,7 +10953,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "60",
@@ -10963,13 +10968,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6905,
+      "Progressed": 6910,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6905,
+      "Progressed": 6910,
       "Completed": 7
     }
   ],
@@ -10977,8 +10982,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:06:37.916128+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:03:58.195448+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:04:48.0822577+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:06:37.9162011+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:02:43.3184503+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:03:58.1955613+00:00"
 }

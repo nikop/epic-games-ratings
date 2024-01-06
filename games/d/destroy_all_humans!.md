@@ -36,8 +36,8 @@ Number of Ratings: 85  (23.09.2022)
 | Dusted | 14.00% | ~48 |
 | Albion Bridge Is for Falling Down | 13.00% | ~45 |
 | Scuttled | 11.00% | ~38 |
+| PK Slam Dunk | 10.00% | ~34 |
 | Higher Than the Futen Zoku | 10.00% | ~34 |
-| PK Slam Dunk | 9.00% | ~31 |
 | Arty Facts | 8.00% | ~28 |
 | Cult Following | 6.00% | ~21 |
 | Path of the Furon | 6.00% | ~21 |

@@ -2,7 +2,7 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 899,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 235,
@@ -294,7 +294,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2483,
+  "EOS_Progressed": 2484,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -4344,6 +4344,11 @@
       "Time": "2024-01-05T21:07:21.9756898+00:00",
       "NumProgressed": 2483,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-06T00:06:00.4068153+00:00",
+      "NumProgressed": 2484,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4363,7 +4368,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "ACHV_03",
@@ -4435,7 +4440,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACHV_12",
@@ -4491,7 +4496,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACHV_19",
@@ -4539,7 +4544,7 @@
       "Name": "Gotta Craft \u0027em All",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHV_25",
@@ -4587,7 +4592,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACHV_31",
@@ -4635,7 +4640,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACHV_37",
@@ -4659,7 +4664,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACHV_40",
@@ -4810,7 +4815,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2483,
+      "Progressed": 2484,
       "Completed": 13
     }
   ],
@@ -4818,8 +4823,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-05T23:09:28.6519057+00:00",
+  "LastChanged_Achievements": "2024-01-06T00:06:00.406815+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:03:37.2993759+00:00",
-  "LastUpdate_Achievements": "2024-01-05T23:09:28.6519626+00:00"
+  "LastUpdate_Ratings": "2024-01-06T00:00:13.5630563+00:00",
+  "LastUpdate_Achievements": "2024-01-06T00:06:00.4068894+00:00"
 }
