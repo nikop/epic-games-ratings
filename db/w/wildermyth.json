@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -174,7 +174,7 @@
   ],
   "EOS_Progressed": 1587,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2569,9 +2569,9 @@
       "ID": "achievement_loversVengeance10Kills",
       "SetID": "95dc8p",
       "Name": "How Romantic!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_maimedHero",
@@ -2857,8 +2857,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-03T23:58:17.6931046+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:13:54.8831506+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:10:11.0591863+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:43.1423239+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:03:40.5907369+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:13:54.883199+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:59:32.7969907+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:10:11.0592441+00:00"
 }

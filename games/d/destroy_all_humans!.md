@@ -22,7 +22,7 @@ Number of Ratings: 85  (23.09.2022)
 | Forbidden Donut | 36.00% | ~127 |
 | Freshly Squeezed | 36.00% | ~127 |
 | Upgreatest | 33.00% | ~116 |
-| Deincarnated | 29.00% | ~102 |
+| Deincarnated | 30.00% | ~106 |
 | Furon Fashion | 29.00% | ~102 |
 | Rock of the Bay | 27.00% | ~95 |
 | Trans-Siberian Express | 25.00% | ~88 |

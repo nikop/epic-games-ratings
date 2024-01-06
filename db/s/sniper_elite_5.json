@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -661,9 +661,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4216,
+  "EOS_Progressed": 4217,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9431,6 +9431,11 @@
       "Time": "2024-01-06T10:09:29.4455613+00:00",
       "NumProgressed": 4216,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-06T14:09:35.0966721+00:00",
+      "NumProgressed": 4217,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9466,7 +9471,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -9570,7 +9575,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -9626,7 +9631,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -9658,7 +9663,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -9666,7 +9671,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9714,7 +9719,7 @@
       "Name": "From Paris with Love",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -9722,7 +9727,7 @@
       "Name": "Burn after reading",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -9730,7 +9735,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -9834,7 +9839,7 @@
       "Name": "Target America",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9842,7 +9847,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -10009,13 +10014,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4167,
+      "Progressed": 4168,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4216,
+      "Progressed": 4217,
       "Completed": 11
     }
   ],
@@ -10023,8 +10028,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:13:18.1270185+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:09:35.0966717+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:04:08.5240374+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:13:18.1271253+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:00:00.3074431+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:09:35.0968033+00:00"
 }

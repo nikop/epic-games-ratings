@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 420,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -729,6 +729,11 @@
       "Time": "2024-01-05T17:09:10.1220542+00:00",
       "NumProgressed": 434,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T14:09:09.9492095+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -756,7 +761,7 @@
       "Name": "Fore!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CATAPULT_THROW",
@@ -772,7 +777,7 @@
       "Name": "The Collector",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -796,7 +801,7 @@
       "Name": "High Roller",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -868,7 +873,7 @@
       "Name": "Disoriented",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -916,7 +921,7 @@
       "Name": "Anger Issues",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -932,7 +937,7 @@
       "Name": "Earth Defense Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -940,7 +945,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -948,7 +953,7 @@
       "Name": "Insurance fraud",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -980,7 +985,7 @@
       "Name": "Your Highness",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LEFT_LEVEL",
@@ -996,7 +1001,7 @@
       "Name": "The Wild West",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -1012,7 +1017,7 @@
       "Name": "Snow Fun!",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -1020,7 +1025,7 @@
       "Name": "Feeling Hot Hot Hot!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -1028,7 +1033,7 @@
       "Name": "Multiply that!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -1052,7 +1057,7 @@
       "Name": "Feeling Dizzy?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "STUNT_EVENT",
@@ -1068,7 +1073,7 @@
       "Name": "Out of this League",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -1084,7 +1089,7 @@
       "Name": "Ferry Good!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "USE_ROCKET",
@@ -1092,7 +1097,7 @@
       "Name": "Rocketman",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "USE_TUNNEL",
@@ -1114,9 +1119,9 @@
       "ID": "WIN_10_EVENTS",
       "SetID": "20koof9",
       "Name": "Event Amateur",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -1140,7 +1145,7 @@
       "Name": "Assert Dominance",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -1164,7 +1169,7 @@
       "Name": "You\u0027re it",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -1179,7 +1184,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 2
     }
   ],
@@ -1187,8 +1192,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:12:52.8538694+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:09:09.949209+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.1799692+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:04:06.4771612+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:12:52.8539152+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:59:58.12107+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:09:09.9492644+00:00"
 }

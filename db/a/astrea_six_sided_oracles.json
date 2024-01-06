@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1673,9 +1673,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "EndlessTricks",
@@ -1905,9 +1905,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 191
     },
     {
       "ID": "Sentinelphobic",
@@ -2240,8 +2240,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:12:38.2446224+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:08:55.2824642+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:02:18.4030464+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:12:38.2447202+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:58:08.6235475+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:08:55.2825634+00:00"
 }

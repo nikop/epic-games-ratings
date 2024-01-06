@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8898,
+  "EOS_Progressed": 8901,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9787,6 +9787,11 @@
       "Time": "2024-01-06T13:13:54.194058+00:00",
       "NumProgressed": 8898,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T14:10:10.4694753+00:00",
+      "NumProgressed": 8901,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9943,7 +9948,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -9991,7 +9996,7 @@
       "Name": "Fanatical Farmer",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "HAVE_WEDDING",
@@ -10142,13 +10147,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8898,
+      "Progressed": 8901,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1515,
+      "Progressed": 1518,
       "Completed": 1050
     }
   ],
@@ -10156,8 +10161,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-04T01:49:56.9201089+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:13:54.1940577+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:10:10.4694751+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:18.6366016+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:07:16.9443205+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:13:54.1941242+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:03:16.1386811+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:10:10.4695397+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~879 |
+| Malpractice Assurance | 13.00% | ~880 |
 | Lost and Found | 8.00% | ~541 |
 | Autodidact | 7.00% | ~9,233 |
 | This Belongs in a Museum | 6.00% | ~7,914 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,276 |
 | FNG | 4.00% | ~5,276 |
 | Nope | 4.00% | ~5,276 |
-| Friends 'Til the End | 4.00% | ~270 |
+| Friends 'Til the End | 4.00% | ~271 |
 | Resurrection | 3.00% | ~3,957 |
 | Unleash Hell | 3.00% | ~3,957 |
 | Funny Guy | 3.00% | ~3,957 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,893 (Ranked 91)  
+Progressed: 131,899 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,20 +337,20 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,893 | 3 |
+| 2024-01-06 | 131,899 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
-Sum: 21,470 (Ranked 58)  
+Sum: 21,475 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,967 |
 | This game has Diverse Characters | 1,824 |
 | This game has Challenging Combat | 1,670 |
-| This game is Highly Recommended | 1,594 |
+| This game is Highly Recommended | 1,597 |
 | This game has Amazing Characters | 1,520 |
 | This game is Extremely Fun | 1,516 |
-| This game has Unique Visuals | 1,456 |
+| This game has Unique Visuals | 1,458 |
 | This game has Amazing Storytelling | 1,437 |
 | This game has Quickly Understood Controls | 1,406 |
 | This game has a Creative Community | 1,080 |
@@ -702,4 +702,4 @@ Diff (max vs sum): -8
 | 2024-01-03 | 4.68 | - | 7,940 | 21,388 |
 | 2024-01-04 | 4.68 | - | 7,951 | 21,421 |
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
-| 2024-01-06 | 4.68 | - | 7,967 | 21,470 |
+| 2024-01-06 | 4.68 | - | 7,967 | 21,475 |

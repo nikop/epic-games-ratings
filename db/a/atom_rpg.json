@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1640,
+  "EOS_Progressed": 1642,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4284,6 +4284,11 @@
       "Time": "2024-01-06T11:12:33.4499702+00:00",
       "NumProgressed": 1640,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T14:10:04.1507329+00:00",
+      "NumProgressed": 1642,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4351,7 +4356,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1626
     },
     {
       "ID": "EXPERT_1",
@@ -4367,7 +4372,7 @@
       "Name": "Explorer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4391,7 +4396,7 @@
       "Name": "Head Burst",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "INDY_1",
@@ -4455,7 +4460,7 @@
       "Name": "One shot, one kill",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "PACIFIST",
@@ -4551,7 +4556,7 @@
       "Name": "Traveler",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "VVE",
@@ -4559,7 +4564,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "WANDERER_1",
@@ -4582,15 +4587,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1640,
+      "Progressed": 1642,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:13:47.9352824+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:10:04.1507325+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:02:27.3462393+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:13:47.9353202+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:58:17.5907346+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:10:04.1507693+00:00"
 }

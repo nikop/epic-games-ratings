@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 651,
+  "EOS_Progressed": 652,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2124,6 +2124,11 @@
       "Time": "2024-01-06T07:05:12.5622776+00:00",
       "NumProgressed": 651,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T14:05:15.2826685+00:00",
+      "NumProgressed": 652,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2192,7 +2197,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "REMAKE_002",
@@ -2248,7 +2253,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Remake_010",
@@ -2278,9 +2283,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 98
     },
     {
       "ID": "Remake_14",
@@ -2359,14 +2364,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 651,
+      "Progressed": 652,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:09:15.6704186+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:05:15.2826681+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:03:37.721306+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:09:15.6704499+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:59:29.649016+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:05:15.2827214+00:00"
 }

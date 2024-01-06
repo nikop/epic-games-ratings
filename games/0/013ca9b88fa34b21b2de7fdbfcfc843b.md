@@ -30,8 +30,8 @@ Rating: 4.63 (Ranked 357)
 | Got to Catch Them All | 0.60% | ~53 |
 | Rumble in the Jumble | 0.60% | ~53 |
 | Azorian Hat Dance | 0.60% | ~9 |
-| Scattered Scroll Scrounger | 0.50% | ~44 |
-| Fanatical Farmer | 0.50% | ~44 |
+| Scattered Scroll Scrounger | 0.50% | ~45 |
+| Fanatical Farmer | 0.50% | ~45 |
 | Chatty Neighbor | 0.40% | ~36 |
 | Right Tool For the Job | 0.40% | ~36 |
 | House Proud | 0.40% | ~36 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 357)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,898 (Ranked 184)  
+Progressed: 8,901 (Ranked 184)  
 Completed: 1 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 1 (0.01%) (Ranked 371)
 | 2024-01-03 | 8,841 | 1 |
 | 2024-01-04 | 8,863 | 1 |
 | 2024-01-05 | 8,888 | 1 |
-| 2024-01-06 | 8,898 | 1 |
+| 2024-01-06 | 8,901 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

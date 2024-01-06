@@ -17,6 +17,7 @@ Rating: 4.56 (Ranked 506)
 | Complete Elder Faction | 1.00% | ~23 |
 | End of the Mozis | 1.00% | ~23 |
 | Defeat Ratnor Rodentson | 1.00% | ~23 |
+| Fix the Travellers Wagon | 1.00% | ~23 |
 | Defeat 25 Grubs | 1.00% | ~23 |
 | Defeat 25 Mozis | 1.00% | ~23 |
 | Meet the Creatures from the Deep | 1.00% | ~23 |
@@ -30,15 +31,14 @@ Rating: 4.56 (Ranked 506)
 | I Remember My First Beer | 1.00% | ~10 |
 | Return the Statues | 0.90% | ~21 |
 | Defeat Rattus Augustail | 0.90% | ~21 |
-| Fix the Travellers Wagon | 0.90% | ~21 |
 | Defeat the Grub Buster | 0.90% | ~9 |
-| Defeat the Stalker Queen | 0.80% | ~8 |
+| Defeat the Stalker Queen | 0.90% | ~9 |
 | Complete the Chefs Book | 0.70% | ~16 |
+| Defeat Avor Warden of the Northern Wastes | 0.70% | ~16 |
+| Complete Arena Faction | 0.60% | ~14 |
 | Complete Ranger Faction | 0.60% | ~14 |
-| Defeat Avor Warden of the Northern Wastes | 0.60% | ~14 |
 | Discover the mystery of the Kings Chambers | 0.60% | ~14 |
 | Complete Redgi's Armory | 0.50% | ~12 |
-| Complete Arena Faction | 0.50% | ~12 |
 | King of Kings | 0.40% | ~9 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

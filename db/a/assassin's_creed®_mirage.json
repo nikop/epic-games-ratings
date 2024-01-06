@@ -3,12 +3,12 @@
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 693,
-  "Ranking_Popularity": 286,
+  "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -3019,18 +3019,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 1906,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2024-01-06T14:00:05.9388323+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1910,
+      "NumberOfAwardsMax": 232
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1906,
-  "NumberOfAwardsMax": 228,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 1910,
+  "NumberOfAwardsMax": 232,
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 228
+      "Count": 232
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3105,8 +3111,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2024-01-06T13:04:14.2454119+00:00",
+  "LastChanged": "2024-01-06T14:00:05.9388322+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.0158608+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:04:14.2454123+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:08:05.0029219+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:00:05.9388326+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:04:06.4484705+00:00"
 }

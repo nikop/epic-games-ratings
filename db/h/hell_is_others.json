@@ -3,12 +3,12 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 766,
-  "Ranking_Popularity": 443,
+  "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1453,9 +1453,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260294,
+  "EOS_Progressed": 260297,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26433,6 +26433,11 @@
       "Time": "2024-01-06T13:07:54.1330382+00:00",
       "NumProgressed": 260294,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T14:03:55.4990814+00:00",
+      "NumProgressed": 260297,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26492,7 +26497,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80691
+      "UsersEstimate": 80692
     },
     {
       "ID": "BackHomeNTimes",
@@ -26548,7 +26553,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26029
+      "UsersEstimate": 26030
     },
     {
       "ID": "CreditLevel2",
@@ -26836,7 +26841,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26029
+      "UsersEstimate": 26030
     },
     {
       "ID": "ReachNDays2",
@@ -26891,7 +26896,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260294,
+      "Progressed": 260297,
       "Completed": 3
     }
   ],
@@ -26899,8 +26904,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-04T22:00:56.7754949+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:07:54.1330379+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:03:55.4990811+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:04:16.7041321+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:07:54.1331638+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:00:08.2530224+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:03:55.4992231+00:00"
 }

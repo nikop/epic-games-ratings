@@ -9,14 +9,14 @@
 | A Forest Walk | 28.00% | ~122 |
 | Amateur Mechanic | 27.00% | ~117 |
 | Pushover | 27.00% | ~117 |
-| Multiply that! | 25.00% | ~108 |
+| Multiply that! | 25.00% | ~109 |
 | C-C-C-Combo! | 24.00% | ~104 |
-| Fore! | 22.00% | ~95 |
-| The Collector | 22.00% | ~95 |
-| Insurance fraud | 22.00% | ~95 |
-| The Wild West | 22.00% | ~95 |
-| Snow Fun! | 22.00% | ~95 |
-| You're it | 22.00% | ~95 |
+| Fore! | 22.00% | ~96 |
+| The Collector | 22.00% | ~96 |
+| Insurance fraud | 22.00% | ~96 |
+| The Wild West | 22.00% | ~96 |
+| Snow Fun! | 22.00% | ~96 |
+| You're it | 22.00% | ~96 |
 | To and Fro | 21.00% | ~91 |
 | Bag of Tricks | 21.00% | ~91 |
 | I see the light! | 21.00% | ~91 |
@@ -25,24 +25,24 @@
 | First Come, First Serve | 20.00% | ~87 |
 | Goodbye cruel world | 20.00% | ~87 |
 | Beach Party! | 20.00% | ~87 |
-| Disoriented | 19.00% | ~82 |
-| Anger Issues | 19.00% | ~82 |
-| Take that Frosty! | 19.00% | ~82 |
-| Your Highness | 19.00% | ~82 |
-| Event Amateur | 18.00% | ~78 |
-| Feeling Hot Hot Hot! | 16.00% | ~69 |
-| Feeling Dizzy? | 16.00% | ~69 |
-| Ferry Good! | 16.00% | ~69 |
-| Assert Dominance | 16.00% | ~69 |
+| Disoriented | 19.00% | ~83 |
+| Anger Issues | 19.00% | ~83 |
+| Take that Frosty! | 19.00% | ~83 |
+| Your Highness | 19.00% | ~83 |
+| Event Amateur | 17.00% | ~74 |
+| Feeling Hot Hot Hot! | 16.00% | ~70 |
+| Feeling Dizzy? | 16.00% | ~70 |
+| Ferry Good! | 16.00% | ~70 |
+| Assert Dominance | 16.00% | ~70 |
 | Drift King! | 15.00% | ~65 |
 | Speed of light | 15.00% | ~65 |
-| Out of this League | 13.00% | ~56 |
+| Out of this League | 13.00% | ~57 |
 | Special Forces | 12.00% | ~52 |
 | Toot Toot! | 11.00% | ~48 |
 | Blasting away! | 11.00% | ~48 |
-| High Roller | 10.00% | ~43 |
-| Earth Defense Force | 10.00% | ~43 |
-| Rocketman | 10.00% | ~43 |
+| High Roller | 10.00% | ~44 |
+| Earth Defense Force | 10.00% | ~44 |
+| Rocketman | 10.00% | ~44 |
 | Event Pro | 9.00% | ~39 |
 | Space Crash | 6.00% | ~26 |
 | To war! | 6.00% | ~26 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434 (Ranked 360)  
+Progressed: 435 (Ranked 360)  
 Completed: 2 (0.46%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 2 (0.46%) (Ranked 228)
 | 2024-01-03 | 431 | 2 |
 | 2024-01-04 | 433 | 2 |
 | 2024-01-05 | 434 | 2 |
+| 2024-01-06 | 435 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

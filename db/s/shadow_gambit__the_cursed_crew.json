@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1457,
+  "EOS_Progressed": 1458,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.47,
   "EosHistory": [
@@ -5025,6 +5025,11 @@
       "Time": "2024-01-06T13:08:29.5045488+00:00",
       "NumProgressed": 1457,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-06T14:04:30.3356199+00:00",
+      "NumProgressed": 1458,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5109,7 +5114,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "_11_Completion_40",
@@ -5189,7 +5194,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -5244,7 +5249,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1457,
+      "Progressed": 1458,
       "Completed": 36
     }
   ],
@@ -5252,8 +5257,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:08:29.5045485+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:04:30.3356197+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:02:27.6288061+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:08:29.5045845+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:58:17.8945745+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:04:30.3356631+00:00"
 }

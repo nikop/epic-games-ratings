@@ -5,22 +5,22 @@ Rating: 4.52 (Ranked 577)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,161 |
-| Greasy Palms | 42.00% | ~6,539 |
-| South American Connection | 26.00% | ~4,048 |
-| Life of the Party | 21.00% | ~3,269 |
-| Big Heat from Little Havana | 15.00% | ~2,335 |
-| Chauffeur | 15.00% | ~2,335 |
-| Tommy Two-Wheels | 15.00% | ~2,335 |
-| Salutations My Little Friend | 11.00% | ~1,712 |
-| Iron-y | 10.00% | ~1,557 |
-| Gun for Hire | 9.00% | ~1,401 |
-| Mischief Managed | 9.00% | ~1,401 |
+| Legal Counsel | 46.00% | ~7,165 |
+| Greasy Palms | 42.00% | ~6,542 |
+| South American Connection | 26.00% | ~4,050 |
+| Life of the Party | 21.00% | ~3,271 |
+| Big Heat from Little Havana | 15.00% | ~2,336 |
+| Chauffeur | 15.00% | ~2,336 |
+| Tommy Two-Wheels | 15.00% | ~2,336 |
+| Salutations My Little Friend | 11.00% | ~1,713 |
+| Iron-y | 10.00% | ~1,558 |
+| Gun for Hire | 9.00% | ~1,402 |
+| Mischief Managed | 9.00% | ~1,402 |
 | Vice City Mogul | 7.00% | ~1,090 |
-| Catch Me if You Can | 6.00% | ~934 |
-| Bloodstained Hands | 6.00% | ~934 |
-| Not my First Time | 5.00% | ~778 |
-| Grand Theft Auto | 5.00% | ~778 |
+| Catch Me if You Can | 6.00% | ~935 |
+| Bloodstained Hands | 6.00% | ~935 |
+| Not my First Time | 5.00% | ~779 |
+| Grand Theft Auto | 5.00% | ~779 |
 | Pie Guy | 4.00% | ~623 |
 | Running Rampant | 3.00% | ~467 |
 | Point A to Point B | 3.00% | ~467 |
@@ -29,10 +29,10 @@ Rating: 4.52 (Ranked 577)
 | Somebody Call the Wambulance? | 3.00% | ~467 |
 | Just Like the Real Thing | 3.00% | ~467 |
 | Don't Need Roads | 3.00% | ~467 |
-| One is Better Than Two | 2.00% | ~311 |
-| Take the Cannoli | 2.00% | ~311 |
-| Chopper’d Up | 2.00% | ~311 |
-| City Sleuth | 2.00% | ~311 |
+| One is Better Than Two | 2.00% | ~312 |
+| Take the Cannoli | 2.00% | ~312 |
+| Chopper’d Up | 2.00% | ~312 |
+| City Sleuth | 2.00% | ~312 |
 | Born in the 80’s | 1.00% | ~156 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~156 |
 | I'm Famous! | 1.00% | ~156 |
@@ -40,8 +40,8 @@ Rating: 4.52 (Ranked 577)
 | Done it All | 0.90% | ~140 |
 | Kingpin | 0.60% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,568 (Ranked 170)  
-Completed: 88 (0.57%) (Ranked 211)  
+Progressed: 15,576 (Ranked 170)  
+Completed: 88 (0.56%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,7 +301,7 @@ Completed: 88 (0.57%) (Ranked 211)
 | 2024-01-03 | 15,241 | 85 |
 | 2024-01-04 | 15,370 | 86 |
 | 2024-01-05 | 15,486 | 86 |
-| 2024-01-06 | 15,568 | 88 |
+| 2024-01-06 | 15,576 | 88 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

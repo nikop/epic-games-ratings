@@ -6,11 +6,11 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 89.00% | ~1,830 |
+| Unforgiven | 89.00% | ~1,831 |
 | Self-Improvement | 71.00% | ~1,460 |
-| Perky | 65.00% | ~1,336 |
-| Let’s Ride | 59.00% | ~1,213 |
-| Welcome to the Weird West | 56.00% | ~1,151 |
+| Perky | 65.00% | ~1,337 |
+| Let’s Ride | 59.00% | ~1,214 |
+| Welcome to the Weird West | 56.00% | ~1,152 |
 | Dead or Alive | 55.00% | ~1,131 |
 | Full House | 37.00% | ~761 |
 | Off the Trail | 34.00% | ~699 |
@@ -38,10 +38,10 @@ Number of Ratings: 125  (23.09.2022)
 | Loyalty to the Pack | 9.00% | ~185 |
 | Eternity Can Wait | 9.00% | ~185 |
 | Mystery Machine | 9.00% | ~185 |
-| Do Not Pass Go… | 8.00% | ~164 |
-| Gold Digger | 8.00% | ~164 |
-| Monster Hunter | 8.00% | ~164 |
-| Knuckle Sandwich | 8.00% | ~164 |
+| Do Not Pass Go… | 8.00% | ~165 |
+| Gold Digger | 8.00% | ~165 |
+| Monster Hunter | 8.00% | ~165 |
+| Knuckle Sandwich | 8.00% | ~165 |
 | Getting the Gang Back Together | 7.00% | ~144 |
 | Who You Gonna Call? | 6.00% | ~123 |
 | Healing Old Wounds | 5.00% | ~103 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,056 (Ranked 245)  
+Progressed: 2,057 (Ranked 245)  
 Completed: 7 (0.34%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,6 +254,7 @@ Completed: 7 (0.34%) (Ranked 243)
 | 2023-12-31 | 2,054 | 7 |
 | 2024-01-02 | 2,055 | 7 |
 | 2024-01-05 | 2,056 | 7 |
+| 2024-01-06 | 2,057 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 527)  
 Sum: 29 (Ranked 544)  

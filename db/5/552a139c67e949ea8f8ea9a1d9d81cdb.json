@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1862,
+  "EOS_Progressed": 1863,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
@@ -4687,6 +4687,11 @@
       "Time": "2024-01-06T13:07:50.7490551+00:00",
       "NumProgressed": 1862,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T14:03:51.738254+00:00",
+      "NumProgressed": 1863,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4755,7 +4760,7 @@
       "Name": "Versatile riding",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4859,7 +4864,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -4971,7 +4976,7 @@
       "Name": "Extra gear",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -4979,7 +4984,7 @@
       "Name": "Perfectionist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -5009,9 +5014,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -5066,20 +5071,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1862,
+      "Progressed": 1863,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1530,
+      "Progressed": 1531,
       "Completed": 1007
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:07:50.7490548+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:03:51.7382537+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:06:46.9439683+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:07:50.7491052+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:02:46.7790445+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:03:51.7383075+00:00"
 }

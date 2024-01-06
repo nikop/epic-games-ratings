@@ -335,11 +335,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 764,
+  "EOS_Progressed": 767,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.92,
+  "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -2055,6 +2055,11 @@
       "Time": "2024-01-06T13:09:16.1796335+00:00",
       "NumProgressed": 764,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T14:05:15.8978546+00:00",
+      "NumProgressed": 767,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2107,7 +2112,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2147,7 +2152,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2171,7 +2176,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -2179,7 +2184,7 @@
       "Name": "Toxic Terror",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -2203,7 +2208,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2243,7 +2248,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -2283,7 +2288,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2299,7 +2304,7 @@
       "Name": "Star Smasher",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2307,7 +2312,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -2322,15 +2327,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 764,
+      "Progressed": 767,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:09:16.1796331+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:05:15.8978543+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:06:36.2733127+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:09:16.1796578+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:02:36.204125+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:05:15.8978862+00:00"
 }

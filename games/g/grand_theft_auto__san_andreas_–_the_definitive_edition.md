@@ -5,21 +5,21 @@ Rating: 4.55 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,066 |
-| Pay 'n' Spray | 50.00% | ~9,300 |
-| All Dressed Up for San Fierro | 25.00% | ~4,650 |
-| The American Dream | 19.00% | ~3,534 |
-| School's Out | 18.00% | ~3,348 |
-| Smooth Moves | 17.00% | ~3,162 |
-| Today Was a Good Day | 15.00% | ~2,790 |
-| What happens in Las Venturas... | 14.00% | ~2,604 |
-| Horror of the Santa Maria | 10.00% | ~1,860 |
-| Liberty City State of Mind | 9.00% | ~1,674 |
-| Original Gangster | 8.00% | ~1,488 |
-| With Extra Dip | 7.00% | ~1,302 |
-| The End of the Line | 7.00% | ~1,302 |
-| Saviour | 6.00% | ~1,116 |
-| Rescue a Kitten Too? | 5.00% | ~930 |
+| Getting Started | 81.00% | ~15,076 |
+| Pay 'n' Spray | 50.00% | ~9,306 |
+| All Dressed Up for San Fierro | 25.00% | ~4,653 |
+| The American Dream | 19.00% | ~3,536 |
+| School's Out | 18.00% | ~3,350 |
+| Smooth Moves | 17.00% | ~3,164 |
+| Today Was a Good Day | 15.00% | ~2,792 |
+| What happens in Las Venturas... | 14.00% | ~2,606 |
+| Horror of the Santa Maria | 10.00% | ~1,861 |
+| Liberty City State of Mind | 9.00% | ~1,675 |
+| Original Gangster | 8.00% | ~1,489 |
+| With Extra Dip | 7.00% | ~1,303 |
+| The End of the Line | 7.00% | ~1,303 |
+| Saviour | 6.00% | ~1,117 |
+| Rescue a Kitten Too? | 5.00% | ~931 |
 | They Can’t Stop All of Us | 4.00% | ~744 |
 | What are the Odds | 4.00% | ~744 |
 | Bike or Biker | 3.00% | ~558 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 526)
 | ...Here we go again | 0.50% | ~93 |
 | I Ain't No Buster | 0.40% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,600 (Ranked 158)  
-Completed: 74 (0.40%) (Ranked 235)  
+Progressed: 18,612 (Ranked 158)  
+Completed: 75 (0.40%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -302,11 +302,11 @@ Completed: 74 (0.40%) (Ranked 235)
 | 2024-01-03 | 18,207 | 71 |
 | 2024-01-04 | 18,344 | 72 |
 | 2024-01-05 | 18,512 | 72 |
-| 2024-01-06 | 18,600 | 74 |
+| 2024-01-06 | 18,612 | 75 |
 ## Awards
-Max (Amazing Characters): 54  (Ranked 443)  
+Max (Amazing Characters): 54  (Ranked 444)  
 Sum: 352 (Ranked 368)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 557 |

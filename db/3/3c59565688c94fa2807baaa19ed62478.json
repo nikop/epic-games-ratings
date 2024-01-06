@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
     "PcReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -224,9 +224,9 @@
       "ID": "ACH_DEFEAT_GOBLIN",
       "SetID": "b9ng4ag",
       "Name": "Sting like a bee",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_DEFEAT_GOBLIN_SPECIAL",
@@ -271,8 +271,8 @@
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:13:37.3454364+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:09:53.8323179+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:04.8832155+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:06:38.8884873+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:13:37.3454437+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:02:38.9253104+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:09:53.8323245+00:00"
 }

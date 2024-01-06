@@ -4,8 +4,8 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -696,9 +696,9 @@
       "ID": "CULT",
       "SetID": "40o4f14",
       "Name": "Dragon Cult",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "DISCIPLE",
@@ -776,9 +776,9 @@
       "ID": "LIBERATOR",
       "SetID": "40o4f14",
       "Name": "Liberator",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "LIBRARY",
@@ -896,17 +896,17 @@
       "ID": "WITCH",
       "SetID": "40o4f14",
       "Name": "Resurrection",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "WYVERN",
       "SetID": "40o4f14",
       "Name": "Winged creature",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
@@ -919,8 +919,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:07:58.6163538+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:04:00.0327022+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.400694+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:01:56.040003+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:07:58.6163801+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:57:46.4253476+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:04:00.032727+00:00"
 }

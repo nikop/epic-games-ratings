@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,11 +294,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.61,
+  "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1584,6 +1584,11 @@
       "Time": "2024-01-06T11:11:34.9046067+00:00",
       "NumProgressed": 330,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T14:09:18.5391942+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1610,9 +1615,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1628,7 +1633,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1668,7 +1673,7 @@
       "Name": "Cult Following",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1708,7 +1713,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1722,9 +1727,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1788,7 +1793,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1828,7 +1833,7 @@
       "Name": "Yettisoned",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1844,7 +1849,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1852,7 +1857,7 @@
       "Name": "Upgreatest",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1930,9 +1935,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1940,14 +1945,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 2
     }
   ],
@@ -1955,8 +1960,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:13:01.6065912+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:09:18.5391939+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:03:47.9613359+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:13:01.6066223+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:59:39.6992212+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:09:18.5392334+00:00"
 }

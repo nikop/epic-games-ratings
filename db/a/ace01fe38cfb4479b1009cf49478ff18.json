@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 797,
+  "EOS_Progressed": 798,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2599,6 +2599,11 @@
       "Time": "2024-01-06T13:12:28.9119278+00:00",
       "NumProgressed": 797,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T14:08:46.2019975+00:00",
+      "NumProgressed": 798,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2611,15 +2616,15 @@
       "Name": "Chapter I - Complete",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 64
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -2673,9 +2678,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 191
+      "UsersEstimate": 200
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2706,14 +2711,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 797,
+      "Progressed": 798,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:12:28.9119275+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:08:46.2019971+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:02:20.3660679+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:12:28.9119493+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:58:10.5889253+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:08:46.2020268+00:00"
 }

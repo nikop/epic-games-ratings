@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -723,9 +723,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6955,
+  "EOS_Progressed": 6957,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10543,6 +10543,11 @@
       "Time": "2024-01-06T13:08:12.7844517+00:00",
       "NumProgressed": 6955,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T14:04:14.2806801+00:00",
+      "NumProgressed": 6957,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10682,7 +10687,7 @@
       "Name": "Secret Technique",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "25",
@@ -10746,7 +10751,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "32",
@@ -11033,13 +11038,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6955,
+      "Progressed": 6957,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6955,
+      "Progressed": 6957,
       "Completed": 7
     }
   ],
@@ -11047,8 +11052,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:08:12.7844514+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:04:14.2806798+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:06:48.1299862+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:08:12.7845314+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:02:48.0074348+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:04:14.2807627+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2056,
+  "EOS_Progressed": 2057,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3027,6 +3027,11 @@
       "Time": "2024-01-05T12:05:31.5289203+00:00",
       "NumProgressed": 2056,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T14:04:58.4555759+00:00",
+      "NumProgressed": 2057,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3078,7 +3083,7 @@
       "Name": "Do Not Pass Go\u2026",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_ELUSIVE_PREY",
@@ -3142,7 +3147,7 @@
       "Name": "Gold Digger",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_HEALING_OLD_WOUNDS",
@@ -3190,7 +3195,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -3238,7 +3243,7 @@
       "Name": "Monster Hunter",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_MOONDRUNK",
@@ -3286,7 +3291,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3374,7 +3379,7 @@
       "Name": "Knuckle Sandwich",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_THE_PHILOSOPHERS_STONE",
@@ -3414,7 +3419,7 @@
       "Name": "Unforgiven",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3422,7 +3427,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3461,15 +3466,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2056,
+      "Progressed": 2057,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2024-01-01T13:01:35.2225517+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:08:58.4227786+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:04:58.4555757+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.2708576+00:00",
-  "LastUpdate_Ratings": "2024-01-06T12:02:05.9627235+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:08:58.4228328+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:57:02.6405151+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:04:58.4556216+00:00"
 }

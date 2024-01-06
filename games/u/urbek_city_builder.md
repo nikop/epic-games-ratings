@@ -17,9 +17,9 @@
 | Soviet town | 6.00% | ~29 |
 | Food producer | 2.00% | ~10 |
 | I love books! | 2.00% | ~10 |
+| King of fish | 2.00% | ~10 |
 | I love parks | 2.00% | ~10 |
 | Rebel city | 2.00% | ~10 |
-| King of fish | 1.00% | ~5 |
 | What would we do if we can't go out with friends? | 1.00% | ~5 |
 | City crisis | 0.80% | ~4 |
 | Metropolurbek | 0.80% | ~4 |

@@ -5,31 +5,31 @@ Rating: 4.55 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~150 |
+| Beginner | 90.00% | ~151 |
 | Map reader | 62.00% | ~104 |
 | Adventurer | 61.00% | ~102 |
-| Philanthropist | 59.00% | ~99 |
-| Archer | 41.00% | ~68 |
+| Philanthropist | 58.00% | ~97 |
+| Archer | 41.00% | ~69 |
 | The brave little tailor | 40.00% | ~67 |
-| Field hand | 39.00% | ~65 |
+| Field hand | 39.00% | ~66 |
 | Samaritan | 31.00% | ~52 |
 | Well-to-do | 31.00% | ~52 |
-| The merciful one | 29.00% | ~48 |
-| Ladies' man | 29.00% | ~48 |
+| The merciful one | 29.00% | ~49 |
+| Ladies' man | 29.00% | ~49 |
 | Idiot | 24.00% | ~40 |
-| Ferocious wild boars | 23.00% | ~38 |
+| Ferocious wild boars | 23.00% | ~39 |
 | Beast slayer | 21.00% | ~35 |
-| Death of a legend | 19.00% | ~32 |
+| Death of a legend | 18.00% | ~30 |
 | Archaeologist | 18.00% | ~30 |
 | Ogre friend | 18.00% | ~30 |
-| Family man | 17.00% | ~28 |
-| Sidelined | 17.00% | ~28 |
+| Family man | 17.00% | ~29 |
+| Sidelined | 17.00% | ~29 |
 | Wise man | 16.00% | ~27 |
 | Little hero | 16.00% | ~27 |
-| The fourth triplet | 16.00% | ~27 |
 | Fence | 16.00% | ~27 |
 | Hard worker | 15.00% | ~25 |
-| Master detective | 14.00% | ~23 |
+| The fourth triplet | 15.00% | ~25 |
+| Master detective | 14.00% | ~24 |
 | Pandora's box | 13.00% | ~22 |
 | Ghost hunter | 13.00% | ~22 |
 | Peacekeeper | 13.00% | ~22 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 526)
 | Master of the classes | 0.60% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167 (Ranked 442)  
+Progressed: 168 (Ranked 442)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 159 | 0 |
 | 2024-01-04 | 162 | 0 |
 | 2024-01-05 | 165 | 0 |
-| 2024-01-06 | 167 | 0 |
+| 2024-01-06 | 168 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

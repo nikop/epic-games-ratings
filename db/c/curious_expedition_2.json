@@ -6,9 +6,9 @@
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 363,
-  "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -76,11 +76,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:50.9590463+00:00",
@@ -651,6 +651,11 @@
       "Time": "2024-01-06T10:10:07.7866744+00:00",
       "NumProgressed": 408,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T14:10:12.5701522+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -686,7 +691,7 @@
       "Name": "Islander Understanding",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach-ascension-complete",
@@ -782,7 +787,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -798,7 +803,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ach-campaign-story2",
@@ -860,9 +865,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 172
     },
     {
       "ID": "ach-find-treasure",
@@ -876,9 +881,9 @@
       "ID": "ach-find-treasure-high",
       "SetID": "17ih7ma",
       "Name": "X Marks the Spot",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ach-firstExpedition",
@@ -886,7 +891,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ach-hardExpeditions",
@@ -926,7 +931,7 @@
       "Name": "Taxonomist",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ach-kill-hyenas",
@@ -940,9 +945,9 @@
       "ID": "ach-kill-sandworm",
       "SetID": "17ih7ma",
       "Name": "Shortening of the Way",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "ach-learn-traits",
@@ -958,7 +963,7 @@
       "Name": "The Workshop",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach-maxClubLevel-british",
@@ -1020,9 +1025,9 @@
       "ID": "ach-paleMask-cure",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Not Too Late",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach-paleMask-party",
@@ -1036,9 +1041,9 @@
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 180
     },
     {
       "ID": "ach-promotion",
@@ -1060,9 +1065,9 @@
       "ID": "ach-redElk",
       "SetID": "17ih7ma",
       "Name": "A Gentle Beast",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 70
     },
     {
       "ID": "ach-rideDinosaur",
@@ -1078,7 +1083,7 @@
       "Name": "Plunderer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ach-salamanderPrince",
@@ -1100,9 +1105,9 @@
       "ID": "ach-totalFame",
       "SetID": "17ih7ma",
       "Name": "I Set Forth Again... and Again... and Again...",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ach-treasureFameInExpedition",
@@ -1141,7 +1146,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 1
     }
   ],
@@ -1149,8 +1154,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:13:56.1678814+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:10:12.5701519+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:01:37.5534094+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:13:56.1679297+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:57:27.699766+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:10:12.5701941+00:00"
 }

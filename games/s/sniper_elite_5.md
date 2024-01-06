@@ -12,8 +12,8 @@ Rating: 4.46 (Ranked 676)
 | Change the Channel | 32.00% | ~1,349 |
 | Lord of War | 31.00% | ~1,307 |
 | Taking it back | 30.00% | ~1,265 |
-| Resourceful | 28.00% | ~1,180 |
-| Target America | 28.00% | ~1,180 |
+| Resourceful | 28.00% | ~1,181 |
+| Target America | 28.00% | ~1,181 |
 | The Kraken Sleeps | 25.00% | ~1,054 |
 | Organ Grinder | 24.00% | ~1,012 |
 | As Quiet as a Mouse | 24.00% | ~1,012 |
@@ -27,16 +27,16 @@ Rating: 4.46 (Ranked 676)
 | Close Quarters | 16.00% | ~675 |
 | Snake in the Grass | 16.00% | ~675 |
 | Brains of the Operation | 16.00% | ~675 |
-| No Stone Unturned | 15.00% | ~632 |
-| Skirmisher | 15.00% | ~632 |
-| Die Nussknacker Sweet! | 15.00% | ~632 |
+| No Stone Unturned | 15.00% | ~633 |
+| Skirmisher | 15.00% | ~633 |
+| Die Nussknacker Sweet! | 15.00% | ~633 |
 | Opposing Force | 14.00% | ~590 |
 | Enemy at the Gates | 14.00% | ~590 |
 | Fields of Glory | 14.00% | ~590 |
 | Set Europe Ablaze | 14.00% | ~590 |
 | Precision Is Key | 10.00% | ~422 |
 | My Little Friend | 10.00% | ~422 |
-| Rigged to Blow | 9.00% | ~379 |
+| Rigged to Blow | 9.00% | ~380 |
 | Herr Today, Gone Tomorrow | 7.00% | ~292 |
 | The Long Game | 6.00% | ~253 |
 | Operation Foxley | 6.00% | ~250 |
@@ -49,10 +49,10 @@ Rating: 4.46 (Ranked 676)
 | Siegebreaker | 5.00% | ~208 |
 | Ghost of Falaise | 5.00% | ~208 |
 | Locomotion Commotion | 4.00% | ~169 |
-| From Paris with Love | 3.00% | ~126 |
-| Burn after reading | 3.00% | ~126 |
-| Souvenir hunter | 3.00% | ~126 |
-| Shoot for the Moon | 3.00% | ~126 |
+| From Paris with Love | 3.00% | ~127 |
+| Burn after reading | 3.00% | ~127 |
+| Souvenir hunter | 3.00% | ~127 |
+| Shoot for the Moon | 3.00% | ~127 |
 | If You Go Down To The Woods Today | 3.00% | ~125 |
 | Fight Another Day | 3.00% | ~125 |
 | Shipbreaker | 3.00% | ~125 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 676)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,216 (Ranked 210)  
+Progressed: 4,217 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 11 (0.26%) (Ranked 260)
 | 2024-01-03 | 4,197 | 11 |
 | 2024-01-04 | 4,208 | 11 |
 | 2024-01-05 | 4,211 | 11 |
-| 2024-01-06 | 4,216 | 11 |
+| 2024-01-06 | 4,217 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 527)  
 Sum: 29 (Ranked 544)  

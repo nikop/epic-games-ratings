@@ -3,7 +3,7 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Ranking_Rating": 1030,
-  "Ranking_Popularity": 72,
+  "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 172,
@@ -9361,9 +9361,9 @@
       "Count": 3628
     }
   ],
-  "EOS_Progressed": 251939,
+  "EOS_Progressed": 251958,
   "EOS_Completed": 2597,
-  "EOS_NewPlayers": 4409,
+  "EOS_NewPlayers": 4396,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38931,6 +38931,11 @@
       "Time": "2024-01-06T13:14:01.1659624+00:00",
       "NumProgressed": 251939,
       "NumCompleted": 2597
+    },
+    {
+      "Time": "2024-01-06T14:10:17.2877172+00:00",
+      "NumProgressed": 251958,
+      "NumCompleted": 2597
     }
   ],
   "TotalAchievements": 546,
@@ -39310,7 +39315,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2519
+      "UsersEstimate": 2520
     },
     {
       "ID": "objective_completed_110",
@@ -42086,7 +42091,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2519
+      "UsersEstimate": 2520
     },
     {
       "ID": "objective_completed_70",
@@ -43309,21 +43314,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218213,
+      "Progressed": 218232,
       "Completed": 4138
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251939,
+      "Progressed": 251958,
       "Completed": 2597
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-06T02:20:27.8906984+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:14:01.1659621+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:10:17.2877168+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:03:59.1841447+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:14:01.1685033+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:59:51.2535887+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:10:17.2902539+00:00"
 }

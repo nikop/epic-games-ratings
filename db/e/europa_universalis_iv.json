@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14023,10 +14023,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 63694,
       "NumberOfAwardsMax": 7726
+    },
+    {
+      "Time": "2024-01-06T13:58:41.8135242+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63712,
+      "NumberOfAwardsMax": 7726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63694,
+  "NumberOfAwards": 63712,
   "NumberOfAwardsMax": 7726,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14070,7 +14076,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6910
+      "Count": 6928
     },
     {
       "Text": "This game is Relaxing",
@@ -14097,9 +14103,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 493349,
+  "EOS_Progressed": 493396,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5548,
+  "EOS_NewPlayers": 5547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44202,6 +44208,11 @@
       "Time": "2024-01-06T13:13:39.0323519+00:00",
       "NumProgressed": 493349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T14:09:55.6285255+00:00",
+      "NumProgressed": 493396,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45237,7 +45248,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -46213,7 +46224,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -47116,21 +47127,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 493349,
+      "Progressed": 493396,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 493349,
+      "Progressed": 493396,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-05T18:59:54.6108366+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:13:39.0323516+00:00",
+  "LastChanged": "2024-01-06T13:58:41.813524+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:09:55.6285253+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:02:51.7741398+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:13:39.0334093+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:58:41.8135245+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:09:55.6296231+00:00"
 }

@@ -5,30 +5,30 @@ Rating: 4.05 (Ranked 1,034)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,952 |
-| World Map | 78.00% | ~3,315 |
-| Temple of Eternals | 56.00% | ~2,380 |
-| Prestigious | 52.00% | ~2,210 |
-| Fellowship Power | 41.00% | ~1,742 |
-| Full Party | 28.00% | ~1,190 |
+| Victor | 93.00% | ~3,955 |
+| World Map | 78.00% | ~3,317 |
+| Temple of Eternals | 56.00% | ~2,382 |
+| Prestigious | 52.00% | ~2,212 |
+| Fellowship Power | 41.00% | ~1,744 |
+| Full Party | 28.00% | ~1,191 |
 | Guild Power | 23.00% | ~978 |
-| Prestigious x10 | 20.00% | ~850 |
-| The game is on | 18.00% | ~765 |
+| Prestigious x10 | 20.00% | ~851 |
+| The game is on | 18.00% | ~766 |
 | Exotic Merchant | 16.00% | ~680 |
 | Dragon Clicker | 15.00% | ~638 |
 | Miner Clicker | 15.00% | ~638 |
-| Inspection | 14.00% | ~595 |
-| Dragon Master | 13.00% | ~552 |
-| Enlightenment | 13.00% | ~552 |
-| Hero inspection | 13.00% | ~552 |
+| Dragon Master | 13.00% | ~553 |
+| Enlightenment | 13.00% | ~553 |
+| Hero inspection | 13.00% | ~553 |
+| Inspection | 13.00% | ~553 |
 | Lieutenant | 12.00% | ~510 |
 | Milestone collector | 11.00% | ~468 |
 | Mysterious Rock | 11.00% | ~468 |
 | Natural Talent | 11.00% | ~468 |
 | Superior | 11.00% | ~468 |
 | The Unstoppable | 11.00% | ~468 |
-| Doing My Part | 9.00% | ~382 |
-| Scientist | 9.00% | ~382 |
+| Doing My Part | 9.00% | ~383 |
+| Scientist | 9.00% | ~383 |
 | Challenger | 8.00% | ~340 |
 | Daily Quest Completionist | 8.00% | ~340 |
 | Frostfire Liberator | 8.00% | ~340 |
@@ -46,13 +46,13 @@ Rating: 4.05 (Ranked 1,034)
 | Dragon Slayer | 6.00% | ~255 |
 | The Expeditioner | 6.00% | ~255 |
 | Weekly Quest Completionist | 6.00% | ~255 |
-| Blueprint Upgrades | 5.00% | ~212 |
-| Crystal Mining | 5.00% | ~212 |
-| Enchanting skill | 5.00% | ~212 |
-| Engineer Mastery | 5.00% | ~212 |
-| How Do You Turn This On? | 5.00% | ~212 |
-| Missions Dedication | 5.00% | ~212 |
-| Sailor | 5.00% | ~212 |
+| Blueprint Upgrades | 5.00% | ~213 |
+| Crystal Mining | 5.00% | ~213 |
+| Enchanting skill | 5.00% | ~213 |
+| Engineer Mastery | 5.00% | ~213 |
+| How Do You Turn This On? | 5.00% | ~213 |
+| Missions Dedication | 5.00% | ~213 |
+| Sailor | 5.00% | ~213 |
 | Active Member | 4.00% | ~170 |
 | Ancient Knowledge | 4.00% | ~170 |
 | Background Story | 4.00% | ~170 |
@@ -68,11 +68,11 @@ Rating: 4.05 (Ranked 1,034)
 | Guardian Master | 2.00% | ~85 |
 | Pokerface | 2.00% | ~85 |
 | What lies behind the bush | 2.00% | ~85 |
-| Conqueror | 1.00% | ~42 |
-| Enhanced War Machines | 1.00% | ~42 |
-| Titan Power | 1.00% | ~42 |
-| Transmute | 1.00% | ~42 |
-| Tree of Life | 1.00% | ~42 |
+| Conqueror | 1.00% | ~43 |
+| Enhanced War Machines | 1.00% | ~43 |
+| Titan Power | 1.00% | ~43 |
+| Transmute | 1.00% | ~43 |
+| Tree of Life | 1.00% | ~43 |
 | Angel Power | 0.90% | ~38 |
 | Silverwood liberator | 0.80% | ~34 |
 | Training makes a Pro player | 0.80% | ~34 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,034)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,250 (Ranked 209)  
+Progressed: 4,253 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-03 | 4,139 | 2 |
 | 2024-01-04 | 4,183 | 2 |
 | 2024-01-05 | 4,228 | 2 |
-| 2024-01-06 | 4,250 | 2 |
+| 2024-01-06 | 4,253 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 154 (Ranked 437)  

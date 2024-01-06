@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231511,
+  "EOS_Progressed": 231515,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29719,6 +29719,11 @@
       "Time": "2024-01-06T13:13:47.6128737+00:00",
       "NumProgressed": 231511,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-06T14:10:03.9307123+00:00",
+      "NumProgressed": 231515,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29730,7 +29735,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46302
+      "UsersEstimate": 46303
     },
     {
       "ID": "ACH_BASE_10",
@@ -29738,7 +29743,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60193
+      "UsersEstimate": 60194
     },
     {
       "ID": "ACH_BASE_11",
@@ -29754,7 +29759,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9260
+      "UsersEstimate": 9261
     },
     {
       "ID": "ACH_BASE_13",
@@ -29778,7 +29783,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23151
+      "UsersEstimate": 23152
     },
     {
       "ID": "ACH_BASE_17",
@@ -29794,7 +29799,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23151
+      "UsersEstimate": 23152
     },
     {
       "ID": "ACH_BASE_19",
@@ -29898,7 +29903,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9260
+      "UsersEstimate": 9261
     },
     {
       "ID": "ACH_BASE_30",
@@ -29978,7 +29983,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30096
+      "UsersEstimate": 30097
     },
     {
       "ID": "ACH_BASE_8",
@@ -29986,7 +29991,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9260
+      "UsersEstimate": 9261
     },
     {
       "ID": "ACH_BASE_9",
@@ -30001,7 +30006,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231511,
+      "Progressed": 231515,
       "Completed": 5
     }
   ],
@@ -30009,8 +30014,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-06T01:44:52.4701874+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:13:47.6128734+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:10:03.9307119+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:02:54.3979495+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:13:47.6130071+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:58:44.9334094+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:10:03.9309139+00:00"
 }

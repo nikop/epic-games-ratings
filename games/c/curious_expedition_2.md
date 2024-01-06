@@ -6,32 +6,32 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~265 |
+| The Adventure Begins | 65.00% | ~266 |
 | Cartographer | 58.00% | ~237 |
-| A Strange Artefact | 54.00% | ~220 |
+| A Strange Artefact | 54.00% | ~221 |
 | Insomnia | 50.00% | ~204 |
 | Lost & Found & Lost Again | 44.00% | ~180 |
-| From Whence we Came | 43.00% | ~175 |
-| Fire and Flood | 41.00% | ~167 |
+| From Whence we Came | 44.00% | ~180 |
+| Fire and Flood | 42.00% | ~172 |
 | Spooky! | 38.00% | ~155 |
 | Shennong Herbalist | 36.00% | ~147 |
 | Treasure Hunt | 36.00% | ~147 |
 | Good Mama | 33.00% | ~135 |
 | O Captain My Captain | 32.00% | ~131 |
-| Plunderer | 30.00% | ~122 |
-| Taxonomist | 28.00% | ~114 |
+| Plunderer | 30.00% | ~123 |
+| Taxonomist | 28.00% | ~115 |
 | Traveller | 26.00% | ~106 |
 | Uncertain Loyalties | 25.00% | ~102 |
 | Roll to Save | 23.00% | ~94 |
 | Nahua Seeker | 23.00% | ~94 |
 | Veteran Explorer | 22.00% | ~90 |
 | Red Flag Pirate | 20.00% | ~82 |
-| Iron Man | 17.00% | ~69 |
-| A Gentle Beast | 16.00% | ~65 |
+| Iron Man | 17.00% | ~70 |
+| A Gentle Beast | 17.00% | ~70 |
+| Shortening of the Way | 16.00% | ~65 |
 | Practical Palaeontology | 16.00% | ~65 |
 | Adventurer | 15.00% | ~61 |
 | For the Club! | 15.00% | ~61 |
-| Shortening of the Way | 15.00% | ~61 |
 | Dapper | 14.00% | ~57 |
 | The New Director | 13.00% | ~53 |
 | The Director is Dead | 13.00% | ~53 |
@@ -48,27 +48,27 @@ Number of Ratings: 20  (23.09.2022)
 | The Great Library | 8.00% | ~33 |
 | Level Up | 8.00% | ~33 |
 | Zookeeper | 7.00% | ~29 |
-| Islander Understanding | 6.00% | ~24 |
-| The Workshop | 6.00% | ~24 |
+| Islander Understanding | 6.00% | ~25 |
+| The Workshop | 6.00% | ~25 |
 | A Paris Sunset | 5.00% | ~20 |
 | The Director Perseveres | 5.00% | ~20 |
 | The Round Table | 5.00% | ~20 |
+| X Marks the Spot | 4.00% | ~16 |
 | Frugal | 4.00% | ~16 |
+| I Set Forth Again... and Again... and Again... | 4.00% | ~16 |
 | A Familiar Figure | 3.00% | ~12 |
 | Lunatic | 3.00% | ~12 |
 | A Perfect Map | 3.00% | ~12 |
-| X Marks the Spot | 3.00% | ~12 |
 | Risk/Reward | 3.00% | ~12 |
-| I Set Forth Again... and Again... and Again... | 3.00% | ~12 |
 | Look Ma, No Equipment! | 2.00% | ~8 |
+| It's Not Too Late | 1.00% | ~4 |
 | Abominable Hunger | 0.70% | ~3 |
 | Everything is FINE... | 0.70% | ~3 |
 | Pacifism Ain't Easy | 0.70% | ~3 |
-| It's Not Too Late | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408 (Ranked 363)  
-Completed: 1 (0.25%) (Ranked 264)  
+Progressed: 409 (Ranked 363)  
+Completed: 1 (0.24%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 1 (0.25%) (Ranked 264)
 | 2024-01-03 | 397 | 1 |
 | 2024-01-04 | 400 | 1 |
 | 2024-01-05 | 406 | 1 |
-| 2024-01-06 | 408 | 1 |
+| 2024-01-06 | 409 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

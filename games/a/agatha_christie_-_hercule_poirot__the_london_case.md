@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 74.00% | ~71 |
-| Little ideas | 71.00% | ~68 |
-| The Ship | 68.00% | ~65 |
+| Marc Allard | 75.00% | ~72 |
+| Little ideas | 72.00% | ~69 |
+| The Ship | 69.00% | ~66 |
 | Seeking the truth | 55.00% | ~53 |
 | An old friend | 53.00% | ~51 |
 | The Gala | 52.00% | ~50 |
 | A curious gathering | 50.00% | ~48 |
-| Little grey cells | 47.00% | ~45 |
-| Impossible is possible | 46.00% | ~44 |
-| Arthur Hastings | 46.00% | ~44 |
+| Little grey cells | 48.00% | ~46 |
+| Impossible is possible | 47.00% | ~45 |
+| Arthur Hastings | 47.00% | ~45 |
 | The Missing Magdalene | 45.00% | ~43 |
 | Everything matters | 43.00% | ~41 |
 | An expert mediator | 42.00% | ~40 |
@@ -21,23 +21,23 @@
 | Betty Allen | 38.00% | ~36 |
 | Order and method | 36.00% | ~35 |
 | The Investigation Begins | 34.00% | ~33 |
-| Ms. Camilla B. Culsham | 31.00% | ~30 |
-| Irene Court-Smyth | 31.00% | ~30 |
-| An odd series of events | 30.00% | ~29 |
-| The Apartment | 30.00% | ~29 |
-| Nathaniel Dryden | 28.00% | ~27 |
-| A rude awakening | 27.00% | ~26 |
-| Bartholomew | 27.00% | ~26 |
+| Ms. Camilla B. Culsham | 32.00% | ~31 |
+| Irene Court-Smyth | 32.00% | ~31 |
+| An odd series of events | 31.00% | ~30 |
+| The Apartment | 31.00% | ~30 |
+| Nathaniel Dryden | 29.00% | ~28 |
+| A rude awakening | 28.00% | ~27 |
+| Bartholomew | 28.00% | ~27 |
+| Well-acquainted | 25.00% | ~24 |
+| Anastasia Babanin | 25.00% | ~24 |
 | The Scheme | 25.00% | ~24 |
-| Well-acquainted | 24.00% | ~23 |
-| Anastasia Babanin | 24.00% | ~23 |
-| Zakariya Demir | 23.00% | ~22 |
-| Truth from within | 22.00% | ~21 |
-| A curious phrase | 19.00% | ~18 |
-| The Suspects | 19.00% | ~18 |
-| Evelyn Lakshmi Warbeck | 18.00% | ~17 |
-| Horace Mountjoy | 17.00% | ~16 |
-| Johan Kristiansen | 17.00% | ~16 |
+| Zakariya Demir | 24.00% | ~23 |
+| Truth from within | 23.00% | ~22 |
+| A curious phrase | 20.00% | ~19 |
+| The Suspects | 20.00% | ~19 |
+| Evelyn Lakshmi Warbeck | 19.00% | ~18 |
+| Horace Mountjoy | 18.00% | ~17 |
+| Johan Kristiansen | 18.00% | ~17 |
 | The Secrets | 17.00% | ~16 |
 | Mortimer Ailsworth | 16.00% | ~15 |
 | A peculiar fellow | 15.00% | ~14 |

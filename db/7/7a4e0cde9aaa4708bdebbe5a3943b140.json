@@ -2,10 +2,10 @@
   "ID": "7a4e0cde9aaa4708bdebbe5a3943b140",
   "Name": "RedRaptor",
   "ProductSlug": "redraptor-71deb7",
-  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Progress": 637,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 522,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 524,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
     "PcReleaseDate": "2023-10-11T13:00:00+00:00",
@@ -234,8 +234,8 @@
   ],
   "FirstSeen": "2023-12-10T02:24:26.0991702+00:00",
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:13:15.3838943+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:09:32.0259336+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:07.0719897+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:04:25.9992852+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:13:15.3839028+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:00:17.6372178+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:09:32.0259412+00:00"
 }

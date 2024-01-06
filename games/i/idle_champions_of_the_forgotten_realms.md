@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,078 |
 | The Cursed Farmer | 2.00% | ~5,039 |
-| Beast Intentions | 1.00% | ~2,519 |
-| The Mad Wizard | 1.00% | ~2,519 |
+| Beast Intentions | 1.00% | ~2,520 |
+| The Mad Wizard | 1.00% | ~2,520 |
 | The Ring of Regeneration | 0.80% | ~2,016 |
 | Welcome to Sigil | 0.80% | ~1,746 |
 | Are Ya Chicken? | 0.70% | ~1,764 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,939 (Ranked 70)  
+Progressed: 251,958 (Ranked 70)  
 Completed: 2,597 (1.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -814,11 +814,11 @@ Completed: 2,597 (1.03%) (Ranked 172)
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
-| 2024-01-06 | 251,939 | 2,597 |
+| 2024-01-06 | 251,958 | 2,597 |
 ## Awards
-Max (Great for Beginners): 5,750  (Ranked 72)  
+Max (Great for Beginners): 5,750  (Ranked 73)  
 Sum: 33,350 (Ranked 41)  
-Diff (max vs sum): 31  
+Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,750 |

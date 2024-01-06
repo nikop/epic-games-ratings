@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1011,
+  "EOS_Progressed": 1014,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3585,6 +3585,11 @@
       "Time": "2024-01-06T13:12:59.118562+00:00",
       "NumProgressed": 1011,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T14:09:16.083169+00:00",
+      "NumProgressed": 1014,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3741,7 +3746,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 406
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3909,7 +3914,7 @@
       "Name": "Trojan Horse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "UltraKill",
@@ -3925,7 +3930,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "WielderLevel2",
@@ -3933,7 +3938,7 @@
       "Name": "Veteran",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "WielderLevel3",
@@ -4028,15 +4033,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1011,
+      "Progressed": 1014,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:12:59.1185617+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:09:16.0831687+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:03:11.9656952+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:12:59.1186248+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:59:03.5682173+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:09:16.0832188+00:00"
 }

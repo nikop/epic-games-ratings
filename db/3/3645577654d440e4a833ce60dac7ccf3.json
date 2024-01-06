@@ -4,8 +4,8 @@
   "ProductSlug": "persha-and-the-magic-labyrinth-ca72d4",
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
     "PcReleaseDate": "2023-09-19T05:00:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "MagicCat10",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 10 cats unlocked",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MagicCat20",
@@ -445,25 +445,25 @@
       "ID": "Tower2_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the Second Tower",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Tower2_RankA",
       "SetID": "df8cl74",
       "Name": "The Second Tower: A Rank",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Tower2_RankS",
       "SetID": "df8cl74",
       "Name": "The Second Tower: S Rank",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Tower3_Normal",
@@ -580,8 +580,8 @@
   ],
   "FirstSeen": "2024-01-02T01:47:17.1216415+00:00",
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:09:42.1175687+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:05:41.0059785+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:06.8169463+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:02:22.562195+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:09:42.1175978+00:00"
+  "LastUpdate_Ratings": "2024-01-06T13:58:13.0761107+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:05:41.0060043+00:00"
 }

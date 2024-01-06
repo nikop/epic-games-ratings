@@ -2,10 +2,10 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -1209,6 +1209,11 @@
       "Time": "2024-01-06T13:09:07.065839+00:00",
       "NumProgressed": 283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T14:05:06.8311653+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1221,7 +1226,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "10",
@@ -1381,7 +1386,7 @@
       "Name": "It was not in the book",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "4",
@@ -1436,14 +1441,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-06T13:09:07.0658388+00:00",
+  "LastChanged_Achievements": "2024-01-06T14:05:06.8311649+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:18.4677846+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:07:07.1165913+00:00",
-  "LastUpdate_Achievements": "2024-01-06T13:09:07.0658738+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:03:06.9119782+00:00",
+  "LastUpdate_Achievements": "2024-01-06T14:05:06.8312165+00:00"
 }

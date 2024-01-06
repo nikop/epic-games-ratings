@@ -11,16 +11,16 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 14.00% | ~531 |
 | An Ill Omen | 14.00% | ~531 |
 | Not So Fast... | 13.00% | ~493 |
-| Purging Spree | 10.00% | ~379 |
+| Purging Spree | 10.00% | ~380 |
 | Blood for the Blood God! | 8.00% | ~304 |
 | Bloodless | 7.00% | ~266 |
 | Friendly Fire | 6.00% | ~228 |
 | Surgical Excision | 5.00% | ~190 |
+| A Foul Creche | 5.00% | ~190 |
 | Honoured Battle-Brother | 4.00% | ~152 |
 | The Emperor Protects | 4.00% | ~152 |
 | Nemesis Master | 4.00% | ~152 |
 | Gunmaster | 4.00% | ~152 |
-| A Foul Creche | 4.00% | ~152 |
 | Hold Your Ground | 3.00% | ~114 |
 | Just a Scratch | 3.00% | ~114 |
 | Hive Exterminator | 3.00% | ~114 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,794 (Ranked 218)  
+Progressed: 3,795 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,14 +305,14 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 3,737 | 0 |
 | 2024-01-04 | 3,765 | 0 |
 | 2024-01-05 | 3,783 | 0 |
-| 2024-01-06 | 3,794 | 0 |
+| 2024-01-06 | 3,795 | 0 |
 ## Awards
-Max (Character Customization): 232  (Ranked 282)  
-Sum: 495 (Ranked 334)  
-Diff (max vs sum): -52  
+Max (Character Customization): 233  (Ranked 281)  
+Sum: 496 (Ranked 334)  
+Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 232 |
+| This game has Inclusive Character Customization | 233 |
 | This game is Extremely Fun | 35 |
 | This game has Amazing Storytelling | 32 |
 | This game has Amazing Characters | 32 |
@@ -443,3 +443,4 @@ Diff (max vs sum): -52
 | 2023-12-29 | 4.58 | - | 232 | 493 |
 | 2024-01-01 | 4.58 | - | 232 | 494 |
 | 2024-01-04 | 4.58 | - | 232 | 495 |
+| 2024-01-06 | 4.58 | - | 233 | 496 |
