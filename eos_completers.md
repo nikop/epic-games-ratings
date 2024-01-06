@@ -48,7 +48,7 @@
 | 46 | [Smelter](games/s/smelter.md) | 8.51% |
 | 47 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.31% |
-| 49 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 8.05% |
+| 49 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 8.00% |
 | 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.86% |
 | 51 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 51 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
@@ -58,12 +58,12 @@
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.45% |
 | 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.40% |
 | 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.14% |
-| 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.06% |
-| 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.04% |
-| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.98% |
-| 62 | [Scorn](games/s/scorn.md) | 6.94% |
+| 59 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.12% |
+| 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.06% |
+| 61 | [Scorn](games/s/scorn.md) | 6.94% |
+| 61 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.94% |
 | 63 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.67% |
-| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.49% |
+| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.52% |
 | 65 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 66 | [Time Loader](games/t/time_loader.md) | 6.38% |
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -75,10 +75,10 @@
 | 73 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.15% |
 | 74 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.88% |
-| 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.76% |
 | 76 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
-| 78 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.72% |
-| 78 | [ZZT!](games/z/zzt!.md) | 4.72% |
+| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.72% |
+| 77 | [ZZT!](games/z/zzt!.md) | 4.72% |
+| 79 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.69% |
 | 80 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.55% |
 | 80 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.55% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.43% |
@@ -89,12 +89,12 @@
 | 87 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.26% |
 | 88 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21% |
 | 89 | [The Bunker](games/t/the_bunker.md) | 4.14% |
-| 90 | [Dungeons 4](games/d/dungeons_4.md) | 3.98% |
+| 90 | [Dungeons 4](games/d/dungeons_4.md) | 4.11% |
 | 91 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.90% |
 | 92 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.85% |
 | 92 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.85% |
 | 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.80% |
-| 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
+| 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.72% |
 | 96 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.70% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.65% |
 | 98 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.57% |
@@ -104,7 +104,7 @@
 | 101 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 3.45% |
 | 103 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 103 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.33% |
-| 105 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.30% |
+| 105 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.26% |
 | 106 | [Bunny Park](games/b/bunny_park.md) | 3.23% |
 | 107 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
 | 108 | [Monster Harvest](games/m/monster_harvest.md) | 3.03% |
@@ -198,11 +198,11 @@
 | 196 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.69% |
 | 196 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.69% |
 | 198 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.68% |
+| 199 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 199 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.67% |
-| 200 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.66% |
-| 200 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
+| 201 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.66% |
 | 202 | [Scrapnaut](games/s/scrapnaut.md) | 0.64% |
-| 202 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.64% |
+| 203 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.63% |
 | 204 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.61% |
 | 204 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.61% |
 | 204 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.61% |
