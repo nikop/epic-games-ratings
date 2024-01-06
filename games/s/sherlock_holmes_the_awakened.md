@@ -1,41 +1,41 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.50 (Ranked 615)  
+Rating: 4.50 (Ranked 614)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~885 |
-| To Hell In A Handcart | 61.00% | ~856 |
-| High Profile | 55.00% | ~772 |
-| Whispers In The Dark | 52.00% | ~730 |
-| Fond Memories | 50.00% | ~702 |
-| A Method To His Madness | 48.00% | ~674 |
-| History Check | 47.00% | ~660 |
-| The New World | 45.00% | ~632 |
-| Open Sesame | 44.00% | ~618 |
-| Sticky Fingers | 44.00% | ~618 |
-| Lock, Stock, And Barrel | 43.00% | ~604 |
-| Gaze Into The Abyss | 43.00% | ~604 |
-| Knives Out | 43.00% | ~604 |
-| Land, Ho! | 43.00% | ~604 |
-| Back In The Saddle | 42.00% | ~590 |
-| No Man Is An Island | 41.00% | ~576 |
-| At Wits' End | 40.00% | ~562 |
-| Fhtagn! | 39.00% | ~548 |
-| Bookworm | 38.00% | ~534 |
-| Up In Flames | 38.00% | ~534 |
-| Going Once... | 36.00% | ~505 |
-| Let Me Be Frank | 34.00% | ~477 |
-| No Stone Unturned | 32.00% | ~449 |
-| Brain Food | 31.00% | ~435 |
+| Read Between The Lines | 62.00% | ~872 |
+| To Hell In A Handcart | 61.00% | ~858 |
+| High Profile | 55.00% | ~774 |
+| Whispers In The Dark | 52.00% | ~732 |
+| Fond Memories | 50.00% | ~704 |
+| A Method To His Madness | 48.00% | ~675 |
+| History Check | 47.00% | ~661 |
+| The New World | 45.00% | ~633 |
+| Open Sesame | 44.00% | ~619 |
+| Lock, Stock, And Barrel | 43.00% | ~605 |
+| Gaze Into The Abyss | 43.00% | ~605 |
+| Sticky Fingers | 43.00% | ~605 |
+| Knives Out | 43.00% | ~605 |
+| Land, Ho! | 43.00% | ~605 |
+| Back In The Saddle | 42.00% | ~591 |
+| No Man Is An Island | 41.00% | ~577 |
+| At Wits' End | 40.00% | ~563 |
+| Fhtagn! | 39.00% | ~549 |
+| Bookworm | 38.00% | ~535 |
+| Up In Flames | 38.00% | ~535 |
+| Going Once... | 36.00% | ~507 |
+| Let Me Be Frank | 34.00% | ~478 |
+| No Stone Unturned | 32.00% | ~450 |
+| Brain Food | 31.00% | ~436 |
 | Read It And Weep | 20.00% | ~281 |
-| Curiosity Killed The Cat | 19.00% | ~267 |
-| Big Breakthrough | 12.00% | ~168 |
+| Curiosity Killed The Cat | 18.00% | ~253 |
+| Big Breakthrough | 12.00% | ~169 |
 | Reawakened | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,404 (Ranked 270)  
-Completed: 41 (2.92%) (Ranked 114)  
+Progressed: 1,407 (Ranked 270)  
+Completed: 41 (2.91%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,7 +251,7 @@ Completed: 41 (2.92%) (Ranked 114)
 | 2024-01-03 | 1,386 | 40 |
 | 2024-01-04 | 1,394 | 40 |
 | 2024-01-05 | 1,400 | 41 |
-| 2024-01-06 | 1,404 | 41 |
+| 2024-01-06 | 1,407 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

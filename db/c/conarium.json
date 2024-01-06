@@ -3,12 +3,12 @@
   "Name": "Conarium",
   "ProductSlug": "conarium",
   "Ranking_Rating": 1061,
-  "Ranking_Popularity": 582,
-  "Ranking_PopularitySum": 582,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2017-06-06T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -252,6 +252,6 @@
   "FirstSeen": "2022-07-22T20:26:30.4733415+00:00",
   "LastChanged": "2023-12-17T19:59:13.0553621+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:18.1604891+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:00:14.7246409+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:03:45.2852797+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:00:05.1726063+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:03:43.2823242+00:00"
 }

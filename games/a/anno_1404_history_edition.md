@@ -3,6 +3,13 @@
 [View Rawdata](../../db/a/anno_1404_history_edition.json)  
 Rating: 4.76 (Ranked 130)  
 Number of Ratings: 69  (23.09.2022)  
+## Awards
+Max (Diverse Characters): 20  (Ranked 577)  
+Sum: 20 (Ranked 578)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -66,3 +73,4 @@ Number of Ratings: 69  (23.09.2022)
 | 2023-12-17 | 4.76 | - | 0 | 0 |
 | 2023-12-24 | 4.75 | - | 0 | 0 |
 | 2023-12-26 | 4.76 | - | 0 | 0 |
+| 2024-01-06 | 4.76 | - | 20 | 20 |

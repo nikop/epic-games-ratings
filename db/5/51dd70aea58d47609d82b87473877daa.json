@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 430,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -1377,9 +1377,9 @@
       "ID": "ACH_PITFALLS",
       "SetID": "c2kf3nm",
       "Name": "Pitfalls",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_PITFALLSDIE",
@@ -1424,8 +1424,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:08:54.2634701+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:08:46.6228344+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:16.2857552+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:59:00.9149519+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:08:54.2634947+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:58:52.7057411+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:08:46.6228572+00:00"
 }

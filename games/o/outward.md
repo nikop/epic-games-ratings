@@ -6,31 +6,31 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,314 |
-| Ready for Winter | 61.00% | ~2,769 |
-| Ready for Summer | 48.00% | ~2,179 |
-| Cordon Bleu | 41.00% | ~1,861 |
-| Tapped! | 35.00% | ~1,589 |
-| Eureka | 30.00% | ~1,362 |
-| Scourge Slayer | 23.00% | ~1,044 |
+| Venture Outward | 73.00% | ~3,316 |
+| Ready for Winter | 61.00% | ~2,771 |
+| Ready for Summer | 48.00% | ~2,180 |
+| Cordon Bleu | 41.00% | ~1,862 |
+| Tapped! | 35.00% | ~1,590 |
+| Eureka | 30.00% | ~1,363 |
+| Scourge Slayer | 23.00% | ~1,045 |
 | Science, Troglodyte! | 22.00% | ~999 |
-| Exceptional Skill | 21.00% | ~953 |
+| Exceptional Skill | 21.00% | ~954 |
 | Home Sweet Home | 20.00% | ~908 |
-| Encyclopedic! | 18.00% | ~817 |
+| Encyclopedic! | 18.00% | ~818 |
 | A Fortress Toppled! | 15.00% | ~681 |
 | The Power of Family | 15.00% | ~681 |
 | Apex Predator | 14.00% | ~636 |
 | The Power of Faith | 12.00% | ~545 |
-| Strange amalgams | 11.00% | ~499 |
+| Strange amalgams | 11.00% | ~500 |
 | The Power of Freedom | 9.00% | ~409 |
 | Ace Detective | 7.00% | ~318 |
 | Gift from the Ancestors | 7.00% | ~318 |
 | Let ‘em eat magma! | 7.00% | ~318 |
 | Magic is a science | 7.00% | ~318 |
-| Hold my Mead and Watch This | 6.00% | ~272 |
-| House of Cards | 6.00% | ~272 |
-| The power of ambition | 6.00% | ~272 |
-| The stuff of legends. | 6.00% | ~272 |
+| Hold my Mead and Watch This | 6.00% | ~273 |
+| House of Cards | 6.00% | ~273 |
+| The power of ambition | 6.00% | ~273 |
+| The stuff of legends. | 6.00% | ~273 |
 | Blood and justice | 5.00% | ~227 |
 | Ancestor's Pride | 4.00% | ~182 |
 | For All Aurai | 4.00% | ~182 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,540 (Ranked 206)  
+Progressed: 4,542 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 5 (0.11%) (Ranked 305)
 | 2024-01-03 | 4,452 | 5 |
 | 2024-01-04 | 4,478 | 5 |
 | 2024-01-05 | 4,511 | 5 |
-| 2024-01-06 | 4,540 | 5 |
+| 2024-01-06 | 4,542 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 501)  
 Sum: 246 (Ranked 399)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10578,9 +10578,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131899,
+  "EOS_Progressed": 131904,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1153,
+  "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38608,6 +38608,11 @@
       "Time": "2024-01-06T14:09:47.9855661+00:00",
       "NumProgressed": 131899,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T15:09:39.2662724+00:00",
+      "NumProgressed": 131904,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38643,7 +38648,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -38875,7 +38880,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -39059,7 +39064,7 @@
       "Name": "Eidetic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "run_end_abandon",
@@ -39203,7 +39208,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39211,7 +39216,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "quest_complete_crusader",
@@ -39219,7 +39224,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39250,21 +39255,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131899,
+      "Progressed": 131904,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6768,
+      "Progressed": 6773,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-06T13:57:01.790944+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:09:47.9855655+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:09:39.266272+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:57:01.7909445+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:09:47.9857565+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:56:56.8288607+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:09:39.2665158+00:00"
 }

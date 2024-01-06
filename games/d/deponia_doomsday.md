@@ -23,7 +23,7 @@ Rating: 4.55 (Ranked 526)
 | Photo Friend | 25.00% | ~129 |
 | Masseltov | 20.00% | ~103 |
 | Brainfreeze | 20.00% | ~103 |
-| And everything comes full circle. | 19.00% | ~98 |
+| And everything comes full circle. | 20.00% | ~103 |
 | Quickdraw | 15.00% | ~77 |
 | Thuna...? | 14.00% | ~72 |
 | Monstrous Harassment | 14.00% | ~72 |

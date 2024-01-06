@@ -24,9 +24,9 @@
 | Unbeatable | 18.00% | ~62 |
 | Apian Champion | 18.00% | ~62 |
 | Sadistic Plan | 16.00% | ~56 |
-| Behenian Champion | 13.00% | ~45 |
+| Behenian Champion | 14.00% | ~49 |
+| Heavy Purger | 11.00% | ~38 |
 | Wave Bender | 11.00% | ~38 |
-| Heavy Purger | 10.00% | ~35 |
 | Astral Seeker | 9.00% | ~31 |
 | Aquarian Champion | 9.00% | ~31 |
 | Stellar Haste | 8.00% | ~28 |

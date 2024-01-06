@@ -7,7 +7,7 @@
 | Something important | 86.00% | ~244 |
 | A piece of the story | 64.00% | ~182 |
 | It's covered up for a reason | 57.00% | ~162 |
-| Wanderer | 53.00% | ~151 |
+| Wanderer | 54.00% | ~153 |
 | Scraps of love | 50.00% | ~142 |
 | The artist’s impression | 48.00% | ~136 |
 | Do what you have to | 42.00% | ~119 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284 (Ranked 400)  
+Progressed: 284 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

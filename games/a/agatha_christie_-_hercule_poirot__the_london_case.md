@@ -8,13 +8,13 @@
 | Little ideas | 72.00% | ~69 |
 | The Ship | 69.00% | ~66 |
 | Seeking the truth | 55.00% | ~53 |
-| An old friend | 53.00% | ~51 |
-| The Gala | 52.00% | ~50 |
+| An old friend | 54.00% | ~52 |
+| The Gala | 53.00% | ~51 |
 | A curious gathering | 50.00% | ~48 |
 | Little grey cells | 48.00% | ~46 |
 | Impossible is possible | 47.00% | ~45 |
 | Arthur Hastings | 47.00% | ~45 |
-| The Missing Magdalene | 45.00% | ~43 |
+| The Missing Magdalene | 46.00% | ~44 |
 | Everything matters | 43.00% | ~41 |
 | An expert mediator | 42.00% | ~40 |
 | DI Hardwicke | 42.00% | ~40 |
@@ -28,9 +28,9 @@
 | Nathaniel Dryden | 29.00% | ~28 |
 | A rude awakening | 28.00% | ~27 |
 | Bartholomew | 28.00% | ~27 |
+| The Scheme | 26.00% | ~25 |
 | Well-acquainted | 25.00% | ~24 |
 | Anastasia Babanin | 25.00% | ~24 |
-| The Scheme | 25.00% | ~24 |
 | Zakariya Demir | 24.00% | ~23 |
 | Truth from within | 23.00% | ~22 |
 | A curious phrase | 20.00% | ~19 |
@@ -38,15 +38,15 @@
 | Evelyn Lakshmi Warbeck | 19.00% | ~18 |
 | Horace Mountjoy | 18.00% | ~17 |
 | Johan Kristiansen | 18.00% | ~17 |
-| The Secrets | 17.00% | ~16 |
-| Mortimer Ailsworth | 16.00% | ~15 |
-| A peculiar fellow | 15.00% | ~14 |
-| Well-travelled | 14.00% | ~13 |
-| Florence Farquhar | 13.00% | ~12 |
-| The Investigation Starts Anew | 13.00% | ~12 |
-| A treasured heirloom | 10.00% | ~10 |
-| The Penitent Magdalene | 10.00% | ~10 |
-| A true performance | 10.00% | ~10 |
+| The Secrets | 18.00% | ~17 |
+| Mortimer Ailsworth | 17.00% | ~16 |
+| A peculiar fellow | 16.00% | ~15 |
+| Well-travelled | 15.00% | ~14 |
+| Florence Farquhar | 14.00% | ~13 |
+| The Investigation Starts Anew | 14.00% | ~13 |
+| A treasured heirloom | 11.00% | ~11 |
+| The Penitent Magdalene | 11.00% | ~11 |
+| A true performance | 11.00% | ~11 |
 | The Denouement | 9.00% | ~9 |
 | A perilous journey | 9.00% | ~9 |
 | Perkins | 6.00% | ~6 |

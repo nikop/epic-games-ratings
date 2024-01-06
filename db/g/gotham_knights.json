@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5105,9 +5105,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 81720,
+  "EOS_Progressed": 81722,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 1204,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29140,6 +29140,11 @@
       "Time": "2024-01-06T14:08:26.5024381+00:00",
       "NumProgressed": 81720,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2024-01-06T15:08:19.6870713+00:00",
+      "NumProgressed": 81722,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 61,
@@ -29199,7 +29204,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17978
+      "UsersEstimate": 17979
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -29231,7 +29236,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9806
+      "UsersEstimate": 9807
     },
     {
       "ID": "APPLY_STATUS",
@@ -29247,7 +29252,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13075
+      "UsersEstimate": 13076
     },
     {
       "ID": "CLAYFACE_1",
@@ -29263,7 +29268,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13892
+      "UsersEstimate": 13893
     },
     {
       "ID": "CLAYFACE_3",
@@ -29295,7 +29300,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5720
+      "UsersEstimate": 5721
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -29311,7 +29316,7 @@
       "Name": "Not On My Watch",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 9806
+      "UsersEstimate": 9807
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -29327,7 +29332,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9806
+      "UsersEstimate": 9807
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -29375,7 +29380,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22064
+      "UsersEstimate": 22065
     },
     {
       "ID": "FREEZE_1_5",
@@ -29495,7 +29500,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 40860
+      "UsersEstimate": 40861
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -29527,7 +29532,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21247
+      "UsersEstimate": 21248
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -29559,7 +29564,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17978
+      "UsersEstimate": 17979
     },
     {
       "ID": "MYSTERY_04",
@@ -29575,7 +29580,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13892
+      "UsersEstimate": 13893
     },
     {
       "ID": "MYSTERY_06",
@@ -29599,7 +29604,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9806
+      "UsersEstimate": 9807
     },
     {
       "ID": "SECRET_CACHE",
@@ -29638,13 +29643,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 81720,
+      "Progressed": 81722,
       "Completed": 132
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52000,
+      "Progressed": 52002,
       "Completed": 2679
     }
   ],
@@ -29652,8 +29657,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-06T13:57:37.9348386+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:08:26.5024379+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:08:19.687071+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.2163004+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:57:37.934839+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:08:26.5026225+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:57:32.9605101+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:08:19.6872301+00:00"
 }

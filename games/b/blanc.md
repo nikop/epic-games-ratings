@@ -8,7 +8,7 @@
 | Starting as a duo | 14.00% | ~557 |
 | Stronger together | 13.00% | ~517 |
 | Helping the little ones | 11.00% | ~438 |
-| A big leap for wolfkind | 9.00% | ~358 |
+| A big leap for wolfkind | 10.00% | ~398 |
 | Transmission | 8.00% | ~318 |
 | The will to move on | 7.00% | ~279 |
 | Reunion | 7.00% | ~279 |

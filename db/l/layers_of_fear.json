@@ -2,10 +2,10 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1689,9 +1689,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 153
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1712,8 +1712,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:08:52.5723623+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:08:44.9808171+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:59:52.8957526+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:08:52.572416+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:59:43.6711618+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:08:44.9808614+00:00"
 }

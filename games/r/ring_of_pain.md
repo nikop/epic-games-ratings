@@ -20,6 +20,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nothing To Lose | 0.90% | ~2,182 |
 | Heavy Hitter | 0.90% | ~2,182 |
 | Goodbye, Frog Friend | 0.90% | ~2,182 |
+| Heartless | 0.90% | ~2,182 |
 | Deflection | 0.90% | ~2,182 |
 | Not Touching You | 0.90% | ~36 |
 | Ambitious Intent | 0.80% | ~1,940 |
@@ -27,7 +28,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | R.I.P | 0.80% | ~1,940 |
 | Cold Hearted | 0.80% | ~1,940 |
 | The Bestiary | 0.80% | ~1,940 |
-| Heartless | 0.80% | ~1,940 |
 | What's Yours Is Mine | 0.80% | ~1,940 |
 | Spine Breaker | 0.80% | ~1,940 |
 | C-C-Combo | 0.80% | ~1,940 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,471 (Ranked 72)  
+Progressed: 242,474 (Ranked 72)  
 Completed: 304 (0.13%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 304 (0.13%) (Ranked 297)
 | 2024-01-03 | 242,304 | 303 |
 | 2024-01-04 | 242,358 | 304 |
 | 2024-01-05 | 242,422 | 304 |
-| 2024-01-06 | 242,471 | 304 |
+| 2024-01-06 | 242,474 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

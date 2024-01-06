@@ -3,12 +3,12 @@
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 130,
-  "Ranking_Popularity": 128,
+  "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4835,9 +4835,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13076,
+  "EOS_Progressed": 13077,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19070,6 +19070,11 @@
       "Time": "2024-01-06T13:13:57.9159365+00:00",
       "NumProgressed": 13076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T15:10:04.6830158+00:00",
+      "NumProgressed": 13077,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19089,7 +19094,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2484
+      "UsersEstimate": 2485
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -19217,7 +19222,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "19_EqualToAroden",
@@ -20008,21 +20013,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11858,
+      "Progressed": 11859,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13076,
+      "Progressed": 13077,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-06T11:59:32.2611938+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:10:14.2048931+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:10:04.6830154+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:58:40.6540625+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:10:14.2050671+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:58:34.3391951+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:10:04.6832004+00:00"
 }

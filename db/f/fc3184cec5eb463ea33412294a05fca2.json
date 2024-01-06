@@ -4,8 +4,8 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.31,
+  "EOS_Completed_Percentage": 8.29,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1544,6 +1544,11 @@
       "Time": "2024-01-05T03:07:05.4844812+00:00",
       "NumProgressed": 349,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-06T15:06:11.7608433+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 16,
@@ -1555,15 +1560,15 @@
       "Name": "Three is company",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 122
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1595,7 +1600,7 @@
       "Name": "High-rise",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1625,17 +1630,17 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 144
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 144
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1651,7 +1656,7 @@
       "Name": "Private pool",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1659,7 +1664,7 @@
       "Name": "Abducktion",
       "Percentage": 25,
       "XP": 95,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1667,7 +1672,7 @@
       "Name": "On fire",
       "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1675,21 +1680,21 @@
       "Name": "Watery help",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:06:16.0215035+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:06:11.760843+00:00",
   "LastUpdate_AppInfo": "2023-12-31T05:56:55.336895+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:59:20.517158+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:06:16.0215214+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:59:11.9652776+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:06:11.7608567+00:00"
 }

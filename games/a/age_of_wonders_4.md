@@ -6,7 +6,7 @@ Rating: 4.62 (Ranked 379)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 15.00% | ~1,044 |
-| Realm Estate | 13.00% | ~904 |
+| Realm Estate | 13.00% | ~905 |
 | A Wonderful Discovery | 12.00% | ~835 |
 | Walls Cannot Stop Us | 12.00% | ~835 |
 | From Friends to Family | 11.00% | ~765 |
@@ -17,8 +17,8 @@ Rating: 4.62 (Ranked 379)
 | Stronger Together | 7.00% | ~487 |
 | Seat of Power | 7.00% | ~487 |
 | In a Liege of Your Own | 6.00% | ~417 |
+| Intimidation Tactics | 6.00% | ~417 |
 | Valley of Wonders | 5.00% | ~348 |
-| Intimidation Tactics | 5.00% | ~348 |
 | But this one is mine | 5.00% | ~348 |
 | Return of the Wizard King | 4.00% | ~278 |
 | Enchanted Archipelago | 4.00% | ~278 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,957 (Ranked 196)  
+Progressed: 6,958 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
-| 2024-01-06 | 6,957 | 7 |
+| 2024-01-06 | 6,958 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 210 (Ranked 411)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -723,9 +723,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6957,
+  "EOS_Progressed": 6958,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10548,6 +10548,11 @@
       "Time": "2024-01-06T14:04:14.2806801+00:00",
       "NumProgressed": 6957,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T15:04:11.2040123+00:00",
+      "NumProgressed": 6958,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10671,7 +10676,7 @@
       "Name": "Realm Estate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "23",
@@ -10829,9 +10834,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 417
     },
     {
       "ID": "41",
@@ -11038,13 +11043,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6957,
+      "Progressed": 6958,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6957,
+      "Progressed": 6958,
       "Completed": 7
     }
   ],
@@ -11052,8 +11057,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:04:14.2806798+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:04:11.2040121+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:02:48.0074348+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:04:14.2807627+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:02:45.7805526+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:04:11.2040847+00:00"
 }

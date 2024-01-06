@@ -6,22 +6,22 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 79.00% | ~938 |
+| Cabin boy | 79.00% | ~939 |
 | My little farm | 63.00% | ~748 |
-| Every beginning is difficult | 62.00% | ~736 |
-| Gofer | 56.00% | ~665 |
-| 3, 2, 1, mine | 54.00% | ~641 |
-| O Captain! My Captain! | 54.00% | ~641 |
+| Every beginning is difficult | 62.00% | ~737 |
+| Gofer | 55.00% | ~653 |
+| 3, 2, 1, mine | 54.00% | ~642 |
+| O Captain! My Captain! | 54.00% | ~642 |
 | Seafarer | 50.00% | ~594 |
-| Greed for gold | 43.00% | ~510 |
+| Greed for gold | 43.00% | ~511 |
 | Intangible | 41.00% | ~487 |
 | I'm out of here for a while | 41.00% | ~487 |
 | In a mint condition | 38.00% | ~451 |
-| Licence to Kill | 36.00% | ~427 |
+| Licence to Kill | 36.00% | ~428 |
 | Pirates! | 34.00% | ~404 |
-| Collectionitis | 29.00% | ~344 |
-| Megalomania | 28.00% | ~332 |
-| Christening | 27.00% | ~320 |
+| Collectionitis | 29.00% | ~345 |
+| Megalomania | 28.00% | ~333 |
+| Christening | 27.00% | ~321 |
 | Groundskeeper | 25.00% | ~297 |
 | Wholesale | 22.00% | ~261 |
 | Walk the plank | 21.00% | ~249 |
@@ -39,8 +39,8 @@ Number of Ratings: 53  (23.09.2022)
 | The Grande Bouffe | 6.00% | ~71 |
 | Buccaneer | 5.00% | ~59 |
 | Flying Dutchman | 5.00% | ~59 |
-| A true pirate! | 4.00% | ~47 |
-| Overpopulation | 4.00% | ~47 |
+| A true pirate! | 4.00% | ~48 |
+| Overpopulation | 4.00% | ~48 |
 | Premier Maître | 3.00% | ~36 |
 | Supreme conqueror | 3.00% | ~36 |
 | Master & Commander | 3.00% | ~36 |
@@ -53,11 +53,11 @@ Number of Ratings: 53  (23.09.2022)
 | Raiders of the Lost Ark | 1.00% | ~12 |
 | Capitalist | 0.90% | ~11 |
 | Parlay? | 0.90% | ~11 |
-| Fleet Admiral | 0.80% | ~9 |
-| Traffic chaos | 0.80% | ~9 |
+| Fleet Admiral | 0.80% | ~10 |
+| Traffic chaos | 0.80% | ~10 |
 | Davy Jones' locker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,187 (Ranked 282)  
+Progressed: 1,188 (Ranked 282)  
 Completed: 1 (0.08%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 1 (0.08%) (Ranked 320)
 | 2024-01-03 | 1,171 | 1 |
 | 2024-01-04 | 1,178 | 1 |
 | 2024-01-05 | 1,184 | 1 |
-| 2024-01-06 | 1,187 | 1 |
+| 2024-01-06 | 1,188 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

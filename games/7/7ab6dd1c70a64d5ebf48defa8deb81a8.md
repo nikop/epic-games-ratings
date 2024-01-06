@@ -5,29 +5,29 @@ Rating: 4.13 (Ranked 1,006)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 61.00% | ~1,152 |
-| Trinity | 29.00% | ~548 |
-| The Collector | 24.00% | ~453 |
-| A Taste of Wrath | 23.00% | ~434 |
-| I Found It | 23.00% | ~434 |
-| Find Allies | 22.00% | ~415 |
-| Shatter Them All | 22.00% | ~415 |
-| Geared Up | 22.00% | ~415 |
-| Adventurer | 21.00% | ~396 |
-| Fashion Victim | 21.00% | ~396 |
-| Scholar | 21.00% | ~396 |
-| Powerful Allies | 19.00% | ~359 |
-| Tributes of Caladrias | 19.00% | ~359 |
-| Stone Collection | 19.00% | ~359 |
-| Big Bazar | 13.00% | ~245 |
-| Essence Blow | 12.00% | ~227 |
-| Alchemist | 12.00% | ~227 |
-| The Mentor | 10.00% | ~189 |
-| Calm before the Storm | 9.00% | ~170 |
-| To Battle | 7.00% | ~132 |
-| Godslayer | 7.00% | ~132 |
-| Airborne | 7.00% | ~132 |
-| Miner | 7.00% | ~132 |
+| Break Out | 61.00% | ~1,158 |
+| Trinity | 29.00% | ~550 |
+| A Taste of Wrath | 23.00% | ~437 |
+| I Found It | 23.00% | ~437 |
+| The Collector | 23.00% | ~437 |
+| Find Allies | 22.00% | ~418 |
+| Shatter Them All | 22.00% | ~418 |
+| Adventurer | 21.00% | ~399 |
+| Geared Up | 21.00% | ~399 |
+| Fashion Victim | 21.00% | ~399 |
+| Scholar | 21.00% | ~399 |
+| Powerful Allies | 19.00% | ~361 |
+| Tributes of Caladrias | 19.00% | ~361 |
+| Stone Collection | 19.00% | ~361 |
+| Big Bazar | 13.00% | ~247 |
+| Essence Blow | 12.00% | ~228 |
+| Alchemist | 12.00% | ~228 |
+| The Mentor | 10.00% | ~190 |
+| Calm before the Storm | 9.00% | ~171 |
+| To Battle | 7.00% | ~133 |
+| Godslayer | 7.00% | ~133 |
+| Airborne | 7.00% | ~133 |
+| Miner | 7.00% | ~133 |
 | Clear Sight | 4.00% | ~76 |
 | Shatterer | 4.00% | ~76 |
 | Fine Feathers Make Fine Birds | 4.00% | ~76 |
@@ -42,7 +42,7 @@ Rating: 4.13 (Ranked 1,006)
 | All That Gold | 0.70% | ~13 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,888 (Ranked 252)  
+Progressed: 1,898 (Ranked 251)  
 Completed: 3 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 3 (0.16%) (Ranked 281)
 | 2024-01-03 | 1,735 | 3 |
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
-| 2024-01-06 | 1,888 | 3 |
+| 2024-01-06 | 1,898 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

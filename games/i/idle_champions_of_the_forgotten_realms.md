@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,078 |
-| The Cursed Farmer | 2.00% | ~5,039 |
+| A Brief Tour of the Realms | 4.00% | ~10,079 |
+| The Cursed Farmer | 2.00% | ~5,040 |
 | Beast Intentions | 1.00% | ~2,520 |
 | The Mad Wizard | 1.00% | ~2,520 |
 | The Ring of Regeneration | 0.80% | ~2,016 |
@@ -16,7 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.60% | ~1,512 |
 | Seeking Allies | 0.60% | ~1,512 |
 | Friendly Imps | 0.60% | ~1,512 |
-| Fast Food | 0.60% | ~1,309 |
+| Fast Food | 0.60% | ~1,310 |
 | A Persistent Buzzing | 0.50% | ~1,260 |
 | Mad Cow Disease | 0.50% | ~1,260 |
 | Pure Energy | 0.50% | ~1,260 |
@@ -61,7 +61,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~504 |
 | The Templar's Camp | 0.20% | ~504 |
 | Rescue in the Jungle | 0.20% | ~504 |
-| The Brains of an Illithid's Desire | 0.20% | ~436 |
+| The Brains of an Illithid's Desire | 0.20% | ~437 |
 | Pros and CONs | 0.10% | ~252 |
 | Upholding the Law | 0.10% | ~252 |
 | Starving in the Jungle | 0.10% | ~252 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,958 (Ranked 70)  
+Progressed: 251,985 (Ranked 70)  
 Completed: 2,597 (1.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -814,14 +814,14 @@ Completed: 2,597 (1.03%) (Ranked 172)
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
-| 2024-01-06 | 251,958 | 2,597 |
+| 2024-01-06 | 251,985 | 2,597 |
 ## Awards
-Max (Great for Beginners): 5,750  (Ranked 73)  
-Sum: 33,350 (Ranked 41)  
+Max (Great for Beginners): 5,756  (Ranked 73)  
+Sum: 33,356 (Ranked 41)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,750 |
+| This game is Great for Beginners | 5,756 |
 | This game has Diverse Characters | 5,692 |
 | This game has Quickly Understood Controls | 4,895 |
 | This game is Relaxing | 4,763 |
@@ -1176,4 +1176,4 @@ Diff (max vs sum): 32
 | 2024-01-03 | 4.06 | - | 5,730 | 33,294 |
 | 2024-01-04 | 4.06 | - | 5,740 | 33,310 |
 | 2024-01-05 | 4.06 | - | 5,750 | 33,345 |
-| 2024-01-06 | 4.06 | - | 5,750 | 33,350 |
+| 2024-01-06 | 4.06 | - | 5,756 | 33,356 |

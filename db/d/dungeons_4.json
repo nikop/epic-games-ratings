@@ -3,11 +3,11 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_Rating": 203,
-  "Ranking_Popularity": 582,
-  "Ranking_PopularitySum": 582,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2631,9 +2631,9 @@
       "ID": "ach_main13tanos_evilbosses",
       "SetID": "4hg22ll",
       "Name": "Bonus Evilness",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_main14run_completed",
@@ -2703,9 +2703,9 @@
       "ID": "ach_main16ring_spawners",
       "SetID": "4hg22ll",
       "Name": "Rubble and Ashes",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 162
     },
     {
       "ID": "ach_main17stone_completed",
@@ -2816,8 +2816,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:09:14.1752296+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:09:05.9192846+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:57:10.9085548+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:09:14.1752931+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:57:06.0955535+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:09:05.9193409+00:00"
 }

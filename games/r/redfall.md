@@ -5,22 +5,22 @@ Rating: 3.66 (Ranked 1,090)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 20.00% | ~455 |
+| I Like My Stakes Rare! | 20.00% | ~456 |
 | Catch and Release | 15.00% | ~342 |
 | Home Is Where the Heart Is | 14.00% | ~319 |
 | ICU | 13.00% | ~296 |
 | Wounded Whispers | 13.00% | ~296 |
-| Blood Will Have Blood | 11.00% | ~250 |
-| Ne Plus Ultra | 11.00% | ~250 |
-| Peek-a-boo | 11.00% | ~250 |
+| Blood Will Have Blood | 11.00% | ~251 |
+| Ne Plus Ultra | 11.00% | ~251 |
+| Peek-a-boo | 11.00% | ~251 |
 | Fly Fisher | 10.00% | ~228 |
 | Sucks To Be You | 10.00% | ~228 |
 | Throw The First Stone | 9.00% | ~205 |
 | Enter of Your Own Free Will | 8.00% | ~182 |
 | Welcome to the Neighborhood | 8.00% | ~182 |
 | Heart Attack | 8.00% | ~182 |
-| Grounded | 7.00% | ~159 |
-| Skin of Their Teeth | 7.00% | ~159 |
+| Grounded | 7.00% | ~160 |
+| Skin of Their Teeth | 7.00% | ~160 |
 | Bad Wiring | 6.00% | ~137 |
 | Neighborhood Revitalization | 5.00% | ~114 |
 | Radio Silence | 5.00% | ~114 |
@@ -42,7 +42,7 @@ Rating: 3.66 (Ranked 1,090)
 | Nice Try | 1.00% | ~23 |
 | Blacklight Down | 1.00% | ~23 |
 | Curious Finch | 1.00% | ~23 |
-| Bloody Initiate | 0.90% | ~20 |
+| Bloody Initiate | 0.90% | ~21 |
 | Empty Nest Syndrome | 0.80% | ~18 |
 | Neighborhood Watch | 0.70% | ~16 |
 | Blood Brother | 0.70% | ~16 |
@@ -72,7 +72,7 @@ Rating: 3.66 (Ranked 1,090)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,277 (Ranked 241)  
+Progressed: 2,279 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 2,238 | 0 |
 | 2024-01-04 | 2,253 | 0 |
 | 2024-01-05 | 2,267 | 0 |
-| 2024-01-06 | 2,277 | 0 |
+| 2024-01-06 | 2,279 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 554)  
 Sum: 24 (Ranked 560)  

@@ -6,17 +6,17 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,859 |
-| Alt+F4 | 10.00% | ~24,683 |
-| Where's that freaking Dwarf? | 9.00% | ~22,215 |
-| Déjà vu | 8.00% | ~19,746 |
+| Sowwy! | 36.00% | ~88,863 |
+| Alt+F4 | 10.00% | ~24,684 |
+| Where's that freaking Dwarf? | 9.00% | ~22,216 |
+| Déjà vu | 8.00% | ~19,747 |
 | Sock! SOCK! | 6.00% | ~14,810 |
 | Speedrun | 6.00% | ~14,810 |
 | A beer, two curses, three companions | 5.00% | ~12,342 |
 | GG EZ | 5.00% | ~12,342 |
 | DM intervention | 5.00% | ~12,342 |
-| The plot thickens... At the tavern | 4.00% | ~9,873 |
-| Fireproof Wizardess | 4.00% | ~9,873 |
+| The plot thickens... At the tavern | 4.00% | ~9,874 |
+| Fireproof Wizardess | 4.00% | ~9,874 |
 | Livin' in a dwarven paradise | 3.00% | ~7,405 |
 | Way of the Wimp | 3.00% | ~7,405 |
 | The demons' feast | 3.00% | ~7,405 |
@@ -56,7 +56,7 @@ Number of Ratings: 118  (23.09.2022)
 | I'd rather... Just... Sing! | 0.40% | ~987 |
 | The number of the counting shalt be 7 | 0.40% | ~987 |
 | Inception | 0.40% | ~987 |
-| 100% satisfaction guarantee | 0.30% | ~740 |
+| 100% satisfaction guarantee | 0.30% | ~741 |
 | Cursed die | 0.20% | ~494 |
 | The Blood Countess | 0.20% | ~494 |
 | He’s alive! Aliiiive! | 0.20% | ~494 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,831 (Ranked 71)  
+Progressed: 246,841 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 8 (0.00%) (Ranked 393)
 | 2024-01-03 | 246,417 | 8 |
 | 2024-01-04 | 246,586 | 8 |
 | 2024-01-05 | 246,735 | 8 |
-| 2024-01-06 | 246,831 | 8 |
+| 2024-01-06 | 246,841 | 8 |
 ## Awards
 Max (Character Customization): 266  (Ranked 274)  
 Sum: 560 (Ranked 327)  

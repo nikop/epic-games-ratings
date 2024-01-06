@@ -3,12 +3,12 @@
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
   "Ranking_Rating": 900,
-  "Ranking_Popularity": 582,
-  "Ranking_PopularitySum": 582,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4427,
+  "EOS_Progressed": 4428,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1948,6 +1948,11 @@
       "Time": "2024-01-06T13:13:59.7937569+00:00",
       "NumProgressed": 4427,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T15:10:06.4497265+00:00",
+      "NumProgressed": 4428,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2647,7 +2652,7 @@
       "Name": "A time consuming game I",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACHIEVEMENT_TIME2",
@@ -2766,15 +2771,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4427,
+      "Progressed": 4428,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:10:15.8989598+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:10:06.4497262+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.4533426+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:57:33.762352+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:10:15.8990544+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:57:28.4955818+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:10:06.4498292+00:00"
 }

@@ -1,34 +1,34 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 577)  
+Rating: 4.52 (Ranked 576)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,165 |
-| Greasy Palms | 42.00% | ~6,542 |
-| South American Connection | 26.00% | ~4,050 |
-| Life of the Party | 21.00% | ~3,271 |
-| Big Heat from Little Havana | 15.00% | ~2,336 |
-| Chauffeur | 15.00% | ~2,336 |
-| Tommy Two-Wheels | 15.00% | ~2,336 |
-| Salutations My Little Friend | 11.00% | ~1,713 |
-| Iron-y | 10.00% | ~1,558 |
-| Gun for Hire | 9.00% | ~1,402 |
-| Mischief Managed | 9.00% | ~1,402 |
-| Vice City Mogul | 7.00% | ~1,090 |
+| Legal Counsel | 46.00% | ~7,171 |
+| Greasy Palms | 42.00% | ~6,548 |
+| South American Connection | 26.00% | ~4,053 |
+| Life of the Party | 21.00% | ~3,274 |
+| Big Heat from Little Havana | 15.00% | ~2,338 |
+| Chauffeur | 15.00% | ~2,338 |
+| Tommy Two-Wheels | 15.00% | ~2,338 |
+| Salutations My Little Friend | 11.00% | ~1,715 |
+| Iron-y | 10.00% | ~1,559 |
+| Gun for Hire | 9.00% | ~1,403 |
+| Mischief Managed | 9.00% | ~1,403 |
+| Vice City Mogul | 7.00% | ~1,091 |
 | Catch Me if You Can | 6.00% | ~935 |
 | Bloodstained Hands | 6.00% | ~935 |
-| Not my First Time | 5.00% | ~779 |
-| Grand Theft Auto | 5.00% | ~779 |
-| Pie Guy | 4.00% | ~623 |
-| Running Rampant | 3.00% | ~467 |
-| Point A to Point B | 3.00% | ~467 |
-| High Quality H2O | 3.00% | ~467 |
-| Bull in a China Shop | 3.00% | ~467 |
-| Somebody Call the Wambulance? | 3.00% | ~467 |
-| Just Like the Real Thing | 3.00% | ~467 |
-| Don't Need Roads | 3.00% | ~467 |
+| Not my First Time | 5.00% | ~780 |
+| Grand Theft Auto | 5.00% | ~780 |
+| Pie Guy | 4.00% | ~624 |
+| Running Rampant | 3.00% | ~468 |
+| Point A to Point B | 3.00% | ~468 |
+| High Quality H2O | 3.00% | ~468 |
+| Bull in a China Shop | 3.00% | ~468 |
+| Somebody Call the Wambulance? | 3.00% | ~468 |
+| Just Like the Real Thing | 3.00% | ~468 |
+| Don't Need Roads | 3.00% | ~468 |
 | One is Better Than Two | 2.00% | ~312 |
 | Take the Cannoli | 2.00% | ~312 |
 | Chopper’d Up | 2.00% | ~312 |
@@ -38,9 +38,9 @@ Rating: 4.52 (Ranked 577)
 | I'm Famous! | 1.00% | ~156 |
 | Daredevil | 1.00% | ~156 |
 | Done it All | 0.90% | ~140 |
-| Kingpin | 0.60% | ~93 |
+| Kingpin | 0.60% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,576 (Ranked 170)  
+Progressed: 15,590 (Ranked 170)  
 Completed: 88 (0.56%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 88 (0.56%) (Ranked 212)
 | 2024-01-03 | 15,241 | 85 |
 | 2024-01-04 | 15,370 | 86 |
 | 2024-01-05 | 15,486 | 86 |
-| 2024-01-06 | 15,576 | 88 |
+| 2024-01-06 | 15,590 | 88 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

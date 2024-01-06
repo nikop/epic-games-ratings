@@ -3,12 +3,12 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 994,
-  "Ranking_Popularity": 401,
+  "Ranking_Popularity": 402,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1467,9 +1467,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 8884,
+  "EOS_Progressed": 8889,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1575,
+  "EOS_NewPlayers": 1574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10282,6 +10282,11 @@
       "Time": "2024-01-06T14:04:28.1102155+00:00",
       "NumProgressed": 8884,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T15:04:24.9139215+00:00",
+      "NumProgressed": 8889,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -10302,7 +10307,7 @@
       "Name": "Stud Finder",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "achievement_11",
@@ -10310,7 +10315,7 @@
       "Name": "Big Spender",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "achievement_12",
@@ -10318,7 +10323,7 @@
       "Name": "Dealmaker",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "achievement_13",
@@ -10326,15 +10331,15 @@
       "Name": "MVP",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2488
+      "UsersEstimate": 2489
     },
     {
       "ID": "achievement_14",
       "SetID": "aiin7da",
       "Name": "ROTY",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2933
     },
     {
       "ID": "achievement_15",
@@ -10390,7 +10395,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5067
     },
     {
       "ID": "achievement_21",
@@ -10398,7 +10403,7 @@
       "Name": "Clean The Pile",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_3",
@@ -10422,7 +10427,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "achievement_6",
@@ -10430,7 +10435,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "achievement_7",
@@ -10446,7 +10451,7 @@
       "Name": "Bragging Rights",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "achievement_9",
@@ -10454,14 +10459,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 8884,
+      "Progressed": 8889,
       "Completed": 0
     }
   ],
@@ -10469,8 +10474,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-06T10:00:41.8953012+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:04:28.1102153+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:04:24.9139208+00:00",
   "LastUpdate_AppInfo": "2024-01-04T09:57:17.1124999+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:02:48.3942879+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:04:28.1102631+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:02:46.4502942+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:04:24.9139843+00:00"
 }

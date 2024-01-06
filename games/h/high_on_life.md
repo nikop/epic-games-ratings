@@ -5,11 +5,11 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 5.00% | ~1,252 |
-| Sweezy Like Sunday Morning | 5.00% | ~1,252 |
-| First Bounty Down | 5.00% | ~1,252 |
-| G3 Graduation | 5.00% | ~1,252 |
-| Cold-Blooded Driller | 5.00% | ~1,252 |
+| Satisfied Gus-tomer | 5.00% | ~1,253 |
+| Sweezy Like Sunday Morning | 5.00% | ~1,253 |
+| First Bounty Down | 5.00% | ~1,253 |
+| G3 Graduation | 5.00% | ~1,253 |
+| Cold-Blooded Driller | 5.00% | ~1,253 |
 | Creature Feature | 4.00% | ~1,002 |
 | Are You Packin'? | 4.00% | ~1,002 |
 | Bring A Knife to a Gun Fight | 4.00% | ~1,002 |
@@ -27,8 +27,8 @@ Rating: 4.65 (Ranked 321)
 | Eatin' Good in the Neighborhood | 2.00% | ~501 |
 | Eye Scream, You Scream | 2.00% | ~501 |
 | Bathe With A Giant Nude Alien | 2.00% | ~47 |
-| Gunning For Your Job | 1.00% | ~250 |
-| We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~250 |
+| Gunning For Your Job | 1.00% | ~251 |
+| We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~251 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~23 |
 | Mux Ado About Shipping | 0.90% | ~21 |
 | Fall In Love With A Parasite | 0.60% | ~14 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 321)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,050 (Ranked 145)  
+Progressed: 25,051 (Ranked 145)  
 Completed: 14 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 14 (0.06%) (Ranked 330)
 | 2024-01-03 | 25,006 | 14 |
 | 2024-01-04 | 25,022 | 14 |
 | 2024-01-05 | 25,037 | 14 |
-| 2024-01-06 | 25,050 | 14 |
+| 2024-01-06 | 25,051 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

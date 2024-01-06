@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9311,18 +9311,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 33350,
       "NumberOfAwardsMax": 5750
+    },
+    {
+      "Time": "2024-01-06T14:59:42.0909964+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33356,
+      "NumberOfAwardsMax": 5756
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33350,
-  "NumberOfAwardsMax": 5750,
+  "NumberOfAwards": 33356,
+  "NumberOfAwardsMax": 5756,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5750
+      "Count": 5756
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9361,9 +9367,9 @@
       "Count": 3628
     }
   ],
-  "EOS_Progressed": 251958,
+  "EOS_Progressed": 251985,
   "EOS_Completed": 2597,
-  "EOS_NewPlayers": 4396,
+  "EOS_NewPlayers": 4372,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38936,6 +38942,11 @@
       "Time": "2024-01-06T14:10:17.2877172+00:00",
       "NumProgressed": 251958,
       "NumCompleted": 2597
+    },
+    {
+      "Time": "2024-01-06T15:10:08.0577968+00:00",
+      "NumProgressed": 251985,
+      "NumCompleted": 2597
     }
   ],
   "TotalAchievements": 546,
@@ -38947,7 +38958,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10078
+      "UsersEstimate": 10079
     },
     {
       "ID": "objective_completed_10",
@@ -40619,7 +40630,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "objective_completed_34",
@@ -43211,7 +43222,7 @@
       "Name": "The Brains of an Illithid\u0027s Desire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "objective_completed_1347",
@@ -43251,7 +43262,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "objective_completed_1563",
@@ -43314,21 +43325,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218232,
+      "Progressed": 218259,
       "Completed": 4138
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251958,
+      "Progressed": 251985,
       "Completed": 2597
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-06T02:20:27.8906984+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:10:17.2877168+00:00",
+  "LastChanged": "2024-01-06T14:59:42.0909962+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:10:08.0577964+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:59:51.2535887+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:10:17.2902539+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:59:42.090997+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:10:08.0602232+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -1635,9 +1635,9 @@
       "ID": "AC_ALL_MONEYSACKS",
       "SetID": "16i2akc",
       "Name": "Bowels",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "AC_ALL_RECIPES",
@@ -1691,9 +1691,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 219
     },
     {
       "ID": "AC_BOSS_01",
@@ -1835,9 +1835,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1923,9 +1923,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 166
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1962,8 +1962,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:06:03.0990186+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:05:59.392249+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:57:39.9257118+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:06:03.0990586+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:57:34.8777991+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:05:59.3923026+00:00"
 }

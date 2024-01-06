@@ -2,10 +2,10 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 369,
-  "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Progress": 370,
+  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -2032,9 +2032,9 @@
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
@@ -2049,8 +2049,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:08:48.1753518+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:08:40.6378077+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:30.0285391+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:59:43.2361884+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:08:48.1753946+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:59:33.7621725+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:08:40.6378456+00:00"
 }

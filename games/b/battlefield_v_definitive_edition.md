@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 91.00% | ~81,205 |
-| Enemy Attrition | 68.00% | ~60,680 |
-| Grim Reaper | 66.00% | ~58,896 |
-| Heads Down | 64.00% | ~57,111 |
-| Not On My Watch | 60.00% | ~53,542 |
-| Combat Engineer | 40.00% | ~35,694 |
-| Eager Beaver | 30.00% | ~26,771 |
-| Call ’em in! | 29.00% | ~25,878 |
-| Lovely | 27.00% | ~24,094 |
-| Store fuglar fanga ingi flugor | 16.00% | ~14,278 |
-| Ou La Mort | 14.00% | ~12,493 |
-| Elite | 12.00% | ~10,708 |
-| Fender Bender | 8.00% | ~7,139 |
-| Globetrotter | 6.00% | ~5,354 |
-| Jack of All Trades | 5.00% | ~4,462 |
-| Storyteller | 4.00% | ~3,569 |
-| Off-hand | 3.00% | ~2,677 |
-| Death from Above | 2.00% | ~1,785 |
-| Veteran | 0.80% | ~714 |
-| Sins of the Fathers | 0.20% | ~178 |
-| Hoist the Flag | 0.20% | ~178 |
+| Last Man Standing | 91.00% | ~81,307 |
+| Enemy Attrition | 68.00% | ~60,757 |
+| Grim Reaper | 66.00% | ~58,970 |
+| Heads Down | 64.00% | ~57,183 |
+| Not On My Watch | 60.00% | ~53,609 |
+| Combat Engineer | 40.00% | ~35,739 |
+| Eager Beaver | 30.00% | ~26,804 |
+| Call ’em in! | 29.00% | ~25,911 |
+| Lovely | 27.00% | ~24,124 |
+| Store fuglar fanga ingi flugor | 16.00% | ~14,296 |
+| Ou La Mort | 14.00% | ~12,509 |
+| Elite | 12.00% | ~10,722 |
+| Fender Bender | 8.00% | ~7,148 |
+| Globetrotter | 6.00% | ~5,361 |
+| Jack of All Trades | 5.00% | ~4,467 |
+| Storyteller | 4.00% | ~3,574 |
+| Off-hand | 3.00% | ~2,680 |
+| Death from Above | 2.00% | ~1,787 |
+| Veteran | 0.80% | ~715 |
+| Sins of the Fathers | 0.20% | ~179 |
+| Hoist the Flag | 0.20% | ~179 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,236 (Ranked 105)  
+Progressed: 89,348 (Ranked 105)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,4 +138,4 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-03 | 86,146 | 1 |
 | 2024-01-04 | 87,143 | 1 |
 | 2024-01-05 | 88,238 | 1 |
-| 2024-01-06 | 89,236 | 1 |
+| 2024-01-06 | 89,348 | 1 |

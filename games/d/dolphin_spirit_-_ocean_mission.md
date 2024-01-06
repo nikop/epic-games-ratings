@@ -10,16 +10,16 @@
 | Interesting | 27.00% | ~8 |
 | Amateur photographer | 20.00% | ~6 |
 | Let's get started | 13.00% | ~4 |
+| Rescuer | 13.00% | ~4 |
+| In search of knowledge | 13.00% | ~4 |
 | Power of the ray | 13.00% | ~4 |
 | Pro Photographer | 10.00% | ~3 |
 | Recycling expert | 10.00% | ~3 |
-| Rescuer | 10.00% | ~3 |
-| In search of knowledge | 10.00% | ~3 |
+| Picture of the bay | 10.00% | ~3 |
 | Power of the turtle | 10.00% | ~3 |
 | Power of the dolphin | 10.00% | ~3 |
 | Island gardian angel | 7.00% | ~2 |
 | Heroic member | 7.00% | ~2 |
-| Picture of the bay | 7.00% | ~2 |
 | Picture of the atoll | 7.00% | ~2 |
 | Picture of the reef | 7.00% | ~2 |
 | Animal reporter | 3.00% | ~1 |

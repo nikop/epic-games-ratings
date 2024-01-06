@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 92.00% | ~109 |
-| Enough rooms to swing a cat | 81.00% | ~96 |
-| First to the post | 80.00% | ~95 |
-| A kind of Magic | 72.00% | ~86 |
-| Connected | 65.00% | ~77 |
-| Expansion | 60.00% | ~71 |
-| Harvest Time | 55.00% | ~65 |
-| Mine! | 55.00% | ~65 |
+| Home Sweet Home | 91.00% | ~109 |
+| Enough rooms to swing a cat | 81.00% | ~97 |
+| First to the post | 81.00% | ~97 |
+| A kind of Magic | 73.00% | ~88 |
+| Connected | 64.00% | ~77 |
+| Expansion | 59.00% | ~71 |
+| Harvest Time | 56.00% | ~67 |
+| Mine! | 55.00% | ~66 |
 | Artificer's Apprentice | 47.00% | ~56 |
-| Fly the friendly Sky | 45.00% | ~54 |
-| Get out of here! | 43.00% | ~51 |
-| Necromancer's Apprentice | 38.00% | ~45 |
-| Alchemist's Apprentice | 36.00% | ~43 |
+| Fly the friendly Sky | 44.00% | ~53 |
+| Get out of here! | 43.00% | ~52 |
+| Necromancer's Apprentice | 38.00% | ~46 |
+| Alchemist's Apprentice | 37.00% | ~44 |
 | Friend of Lyraine | 36.00% | ~43 |
-| Redecorating | 34.00% | ~40 |
-| The Circle | 33.00% | ~39 |
+| Redecorating | 33.00% | ~40 |
+| The Circle | 33.00% | ~40 |
 | Bad JuJu | 25.00% | ~30 |
-| Friend of Sevenkeeps | 23.00% | ~27 |
+| Friend of Sevenkeeps | 23.00% | ~28 |
 | Slave to the rhythm | 21.00% | ~25 |
 | Castle Meldec | 21.00% | ~25 |
 | Sevenkeeps Seat of Kings | 19.00% | ~23 |
 | Friend of Alluvyan | 17.00% | ~20 |
 | Friend of Connach | 15.00% | ~18 |
 | Friend of Gillyshire | 14.00% | ~17 |
-| Stormwatch Faste | 13.00% | ~15 |
-| Friend of Orgash | 13.00% | ~15 |
-| Friend of Silver Drift Hollow | 13.00% | ~15 |
-| Break Free | 13.00% | ~15 |
+| Stormwatch Faste | 13.00% | ~16 |
+| Friend of Orgash | 13.00% | ~16 |
+| Friend of Silver Drift Hollow | 13.00% | ~16 |
+| Break Free | 13.00% | ~16 |
 | A Master of Magic | 12.00% | ~14 |
 | Friend of Bastion | 12.00% | ~14 |
 | Magic Academy | 12.00% | ~14 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 477)  
+Progressed: 120 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 112 | 0 |
 | 2024-01-04 | 114 | 0 |
 | 2024-01-05 | 117 | 0 |
-| 2024-01-06 | 119 | 0 |
+| 2024-01-06 | 120 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

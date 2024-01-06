@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2996,9 +2996,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 144
     },
     {
       "ID": "BearSword",
@@ -3148,9 +3148,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 281
+      "UsersEstimate": 288
     },
     {
       "ID": "PitSoul",
@@ -3188,9 +3188,9 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 195
     },
     {
       "ID": "PriestRum",
@@ -3252,17 +3252,17 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 577
+      "UsersEstimate": 584
     },
     {
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 137
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -3315,8 +3315,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:04:58.1017494+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:04:54.4971933+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:59:38.1994166+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:04:58.1018202+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:59:28.7374959+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:04:54.4972393+00:00"
 }

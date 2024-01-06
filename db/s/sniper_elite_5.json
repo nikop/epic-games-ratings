@@ -6,9 +6,9 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -661,9 +661,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4217,
+  "EOS_Progressed": 4218,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9436,6 +9436,11 @@
       "Time": "2024-01-06T14:09:35.0966721+00:00",
       "NumProgressed": 4217,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-06T15:09:26.7437949+00:00",
+      "NumProgressed": 4218,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9479,7 +9484,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -9487,7 +9492,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -9495,7 +9500,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -9599,7 +9604,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -9615,7 +9620,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9655,7 +9660,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9695,7 +9700,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9757,9 +9762,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1434
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9783,7 +9788,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10014,13 +10019,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4168,
+      "Progressed": 4169,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4217,
+      "Progressed": 4218,
       "Completed": 11
     }
   ],
@@ -10028,8 +10033,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:09:35.0966717+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:09:26.7437944+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:00:00.3074431+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:09:35.0968033+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:59:50.6256016+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:09:26.743906+00:00"
 }

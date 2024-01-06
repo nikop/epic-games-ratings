@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -369,9 +369,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2277,
+  "EOS_Progressed": 2279,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4089,6 +4089,11 @@
       "Time": "2024-01-06T14:04:23.5194114+00:00",
       "NumProgressed": 2277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T15:04:20.4233163+00:00",
+      "NumProgressed": 2279,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4148,7 +4153,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Achievement_009",
@@ -4156,7 +4161,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Achievement_010",
@@ -4236,7 +4241,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "Achievement_020",
@@ -4284,7 +4289,7 @@
       "Name": "Grounded",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Achievement_026",
@@ -4300,7 +4305,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Achievement_028",
@@ -4436,7 +4441,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Achievement_046",
@@ -4452,7 +4457,7 @@
       "Name": "Bloody Initiate",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement_049",
@@ -4627,7 +4632,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2277,
+      "Progressed": 2279,
       "Completed": 0
     }
   ],
@@ -4635,8 +4640,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-06T04:58:33.5555876+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:04:23.519411+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:04:20.4233159+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:58:23.8205352+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:04:23.5194847+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:58:16.2863001+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:04:20.423387+00:00"
 }

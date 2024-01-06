@@ -48,10 +48,10 @@ Rating: 4.71 (Ranked 203)
 | The Rune Sockets of Finitude (Part 1) | 27.00% | ~199 |
 | Stop Tanos! | 26.00% | ~191 |
 | Sabotage! | 26.00% | ~191 |
+| Bonus Evilness | 25.00% | ~184 |
 | The Rune Sockets of Finitude (Part 2) | 25.00% | ~184 |
-| Bonus Evilness | 24.00% | ~177 |
 | The Last Stand - This Time For Real! | 23.00% | ~169 |
-| Rubble and Ashes | 21.00% | ~155 |
+| Rubble and Ashes | 22.00% | ~162 |
 | Lavalumps on Ice! | 20.00% | ~147 |
 | To Infinity And Beyond! | 19.00% | ~140 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~132 |

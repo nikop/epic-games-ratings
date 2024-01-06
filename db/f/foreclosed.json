@@ -4,8 +4,8 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 147,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.05,
+  "EOS_Completed_Percentage": 2.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -419,6 +419,11 @@
       "Time": "2024-01-06T13:10:19.1817728+00:00",
       "NumProgressed": 146,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T15:06:13.6285966+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -430,7 +435,7 @@
       "Name": "Full and Final Settlement",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AutoBullets_0",
@@ -452,9 +457,9 @@
       "ID": "ClubTurretsHack",
       "SetID": "9e3d06k",
       "Name": "Sapper",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "EnemyDefeat_0",
@@ -484,17 +489,17 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 103
     },
     {
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 68
     },
     {
       "ID": "GunUnlock",
@@ -502,7 +507,7 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Headshots_0",
@@ -518,7 +523,7 @@
       "Name": "Veteran Sniper",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KyklosPlan",
@@ -526,15 +531,15 @@
       "Name": "The Red Herring",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "LiftEnemies_0",
       "SetID": "9e3d06k",
       "Name": "Lifter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "LiftEnemies_1",
@@ -548,9 +553,9 @@
       "ID": "Neuroconnector",
       "SetID": "9e3d06k",
       "Name": "The Neuro-connector",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "SecondAutoSkillUnlock",
@@ -558,7 +563,7 @@
       "Name": "Silent Overload",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "SecretEnding",
@@ -574,15 +579,15 @@
       "Name": "Flatline",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "StealthDefeat_1",
       "SetID": "9e3d06k",
       "Name": "Brain-hacker",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "StoryEnd",
@@ -590,7 +595,7 @@
       "Name": "One Click Away",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -598,7 +603,7 @@
       "Name": "Mind Over Matter",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TelekinesisThrow_1",
@@ -621,7 +626,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 3
     }
   ],
@@ -629,8 +634,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:06:17.8218989+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:06:13.6285963+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.8333074+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:02:40.5681543+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:06:17.8219365+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:02:38.5740003+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:06:13.6286182+00:00"
 }

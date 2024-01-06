@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -295,7 +295,7 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 1291,
+  "EOS_Progressed": 1292,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -3665,6 +3665,11 @@
       "Time": "2024-01-06T14:05:11.1912254+00:00",
       "NumProgressed": 1291,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T15:05:07.7200546+00:00",
+      "NumProgressed": 1292,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3677,7 +3682,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "AbInitio",
@@ -3685,7 +3690,7 @@
       "Name": "Ab Initio",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "AnthropicHills",
@@ -3795,9 +3800,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 129
     },
     {
       "ID": "FloodedValley",
@@ -3861,7 +3866,7 @@
       "Name": "Lord of the Files",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "LostMarshes",
@@ -3893,7 +3898,7 @@
       "Name": "Museum Explorer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "MuseumVisitor",
@@ -3933,7 +3938,7 @@
       "Name": "Overload",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "Persistent",
@@ -3941,7 +3946,7 @@
       "Name": "Persistent",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "PrometheusUnbound",
@@ -3957,7 +3962,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3989,7 +3994,7 @@
       "Name": "Signatory",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "SingleRod",
@@ -4043,9 +4048,9 @@
       "ID": "TheEdgeOfForever",
       "SetID": "1n308hc",
       "Name": "The Edge of Forever",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 65
     },
     {
       "ID": "TheFuture",
@@ -4099,9 +4104,9 @@
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 129
+      "UsersEstimate": 142
     },
     {
       "ID": "VerdantCanyon",
@@ -4148,7 +4153,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1291,
+      "Progressed": 1292,
       "Completed": 2
     }
   ],
@@ -4156,8 +4161,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-06T04:02:56.8031666+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:05:11.1912253+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:05:07.7200544+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:57:07.6666886+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:05:11.1912841+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:57:03.0276453+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:05:07.720113+00:00"
 }

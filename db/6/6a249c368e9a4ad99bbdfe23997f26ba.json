@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2023-05-03T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -489,6 +489,11 @@
       "Time": "2023-12-22T09:07:13.310848+00:00",
       "NumProgressed": 99,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T15:05:41.2696895+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-18T00:01:21.9503191+00:00",
@@ -731,7 +736,7 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 55
     },
@@ -772,14 +777,14 @@
     {
       "ID": "7f5j12l",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:05:45.3290964+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:05:41.2696892+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.1011548+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:58:01.7043114+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:05:45.3291191+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:57:55.3265156+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:05:41.269715+00:00"
 }

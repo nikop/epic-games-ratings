@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,318 |
-| Off to a good start | 62.00% | ~1,652 |
-| Do... or do not. There is no try | 52.00% | ~1,385 |
-| A good blaster at your side | 25.00% | ~666 |
+| New Recruit | 87.00% | ~2,320 |
+| Off to a good start | 62.00% | ~1,654 |
+| Do... or do not. There is no try | 52.00% | ~1,387 |
+| A good blaster at your side | 25.00% | ~667 |
 | I suggest a new strategy | 17.00% | ~453 |
-| Great shot, kid! | 16.00% | ~426 |
+| Great shot, kid! | 16.00% | ~427 |
 | Scrap collector | 15.00% | ~400 |
 | All right, I'll give it a try | 15.00% | ~400 |
 | The power of the Force | 12.00% | ~320 |
@@ -18,8 +18,8 @@
 | Shoot first | 12.00% | ~320 |
 | Tell Jabba that I've got his money | 8.00% | ~213 |
 | Best star-pilot in the galaxy | 8.00% | ~213 |
-| Never tell me the odds! | 7.00% | ~186 |
-| Survivor | 7.00% | ~186 |
+| Never tell me the odds! | 7.00% | ~187 |
+| Survivor | 7.00% | ~187 |
 | What's the cargo? | 6.00% | ~160 |
 | A cunning warrior | 6.00% | ~160 |
 | "Gonk? Gonk!" | 5.00% | ~133 |
@@ -51,24 +51,24 @@
 | Playing the objective | 0.90% | ~24 |
 | Onwards! | 0.90% | ~24 |
 | Walker defender | 0.80% | ~21 |
-| You have your moments | 0.80% | ~21 |
+| You have your moments | 0.70% | ~19 |
 | When surrounded by war... | 0.70% | ~19 |
 | A New Hope | 0.60% | ~16 |
 | Stop that Droid | 0.60% | ~16 |
 | No such thing as luck | 0.50% | ~13 |
 | Do we take prisoners? | 0.50% | ~13 |
-| I’ll take that bet | 0.50% | ~13 |
+| I’ll take that bet | 0.40% | ~11 |
 | Stay on target | 0.30% | ~8 |
 | Greed can be a very powerful ally | 0.30% | ~8 |
 | That got him! | 0.20% | ~5 |
 | in a galaxy far, far away.... | 0.20% | ~5 |
 | Don't get cocky | 0.20% | ~5 |
 | Master | 0.20% | ~5 |
-| Stay in attack formation | 0.20% | ~5 |
-| I never doubted you! | 0.20% | ~5 |
+| Stay in attack formation | 0.10% | ~3 |
+| I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,664 (Ranked 232)  
+Progressed: 2,667 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 1 (0.04%) (Ranked 348)
 | 2024-01-03 | 2,563 | 1 |
 | 2024-01-04 | 2,595 | 1 |
 | 2024-01-05 | 2,649 | 1 |
-| 2024-01-06 | 2,664 | 1 |
+| 2024-01-06 | 2,667 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

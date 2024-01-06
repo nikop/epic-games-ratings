@@ -2,13 +2,13 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 857,
-  "Ranking_Popularity": 582,
-  "Ranking_PopularitySum": 582,
+  "Ranking_Rating": 856,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24822,
+  "EOS_Progressed": 24826,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 0,
@@ -22304,6 +22304,11 @@
       "Time": "2024-01-06T14:04:02.9556412+00:00",
       "NumProgressed": 24822,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2024-01-06T15:03:59.9439032+00:00",
+      "NumProgressed": 24826,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -22315,7 +22320,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 5957
+      "UsersEstimate": 5958
     },
     {
       "ID": "Burning_For_You",
@@ -22323,7 +22328,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6454
+      "UsersEstimate": 6455
     },
     {
       "ID": "Deadline",
@@ -22339,7 +22344,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "Eyes_On_Fire",
@@ -22347,7 +22352,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "Feel_The_Thunder",
@@ -22363,7 +22368,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7447
+      "UsersEstimate": 7448
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -22371,7 +22376,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "I_Am_The_Storm",
@@ -22387,7 +22392,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 9681
+      "UsersEstimate": 9682
     },
     {
       "ID": "Mirrors",
@@ -22403,7 +22408,7 @@
       "Name": "Shadow Warrior",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "Shooting_Shark",
@@ -22411,7 +22416,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11666
+      "UsersEstimate": 11668
     },
     {
       "ID": "Sole_Survivor",
@@ -22419,7 +22424,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8439
+      "UsersEstimate": 8441
     },
     {
       "ID": "Still_Burning",
@@ -22435,22 +22440,22 @@
       "Name": "The Reaper",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24822,
+      "Progressed": 24826,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-06T06:00:08.5224706+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:04:02.9556409+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:03:59.9439029+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.3485527+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:59:23.8855622+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:04:02.9558058+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:59:15.6495825+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:03:59.9440106+00:00"
 }

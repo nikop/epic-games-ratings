@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.60% | ~2,960 |
+| Until death do us apart | 0.60% | ~2,961 |
 | That's a Grand Army | 0.50% | ~2,467 |
 | That is mine! | 0.50% | ~2,467 |
 | Victorious! | 0.50% | ~2,467 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493,396 (Ranked 43)  
+Progressed: 493,450 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,15 +631,15 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-03 | 491,381 | 1 |
 | 2024-01-04 | 492,104 | 1 |
 | 2024-01-05 | 492,930 | 1 |
-| 2024-01-06 | 493,396 | 1 |
+| 2024-01-06 | 493,450 | 1 |
 ## Awards
-Max (Educational): 7,726  (Ranked 54)  
-Sum: 63,712 (Ranked 24)  
+Max (Educational): 7,742  (Ranked 54)  
+Sum: 63,751 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,726 |
-| This game has Diverse Characters | 7,563 |
+| This game is Educational | 7,742 |
+| This game has Diverse Characters | 7,586 |
 | This game is Highly Recommended | 7,418 |
 | This game has Challenging Combat | 7,348 |
 | This game is Extremely Fun | 7,243 |
@@ -1005,4 +1005,4 @@ Diff (max vs sum): 30
 | 2024-01-03 | 4.69 | - | 7,696 | 63,439 |
 | 2024-01-04 | 4.69 | - | 7,708 | 63,557 |
 | 2024-01-05 | 4.69 | - | 7,726 | 63,694 |
-| 2024-01-06 | 4.69 | - | 7,726 | 63,712 |
+| 2024-01-06 | 4.69 | - | 7,742 | 63,751 |

@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Through | 71.00% | ~104 |
-| Silent Overload | 61.00% | ~89 |
-| Symbiotic Weapon | 53.00% | ~77 |
-| A.I. Training | 47.00% | ~69 |
+| Breaking Through | 70.00% | ~103 |
+| Silent Overload | 61.00% | ~90 |
+| Symbiotic Weapon | 53.00% | ~78 |
+| A.I. Training | 46.00% | ~68 |
 | Sniper | 34.00% | ~50 |
-| The Red Herring | 31.00% | ~45 |
+| The Red Herring | 31.00% | ~46 |
 | Telekinesis | 26.00% | ~38 |
-| Sapper | 21.00% | ~31 |
+| Sapper | 20.00% | ~29 |
 | Tough Decision | 18.00% | ~26 |
-| Veteran Sniper | 16.00% | ~23 |
-| The Neuro-connector | 16.00% | ~23 |
-| Flatline | 16.00% | ~23 |
-| Mind Over Matter | 16.00% | ~23 |
+| The Neuro-connector | 17.00% | ~25 |
+| Veteran Sniper | 16.00% | ~24 |
+| Flatline | 16.00% | ~24 |
+| Mind Over Matter | 16.00% | ~24 |
 | Unstoppable | 15.00% | ~22 |
-| Full and Final Settlement | 14.00% | ~20 |
-| One Click Away | 14.00% | ~20 |
+| Full and Final Settlement | 14.00% | ~21 |
+| One Click Away | 14.00% | ~21 |
 | Cyborg | 10.00% | ~15 |
-| Lifter | 8.00% | ~12 |
-| Brain-hacker | 8.00% | ~12 |
+| Lifter | 7.00% | ~10 |
+| Brain-hacker | 7.00% | ~10 |
 | Gravity Bender | 7.00% | ~10 |
 | Hunter | 4.00% | ~6 |
 | Zero Gravity | 3.00% | ~4 |
 | No Place to Hide | 2.00% | ~3 |
 | A Voice in the Dark | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146 (Ranked 457)  
-Completed: 3 (2.05%) (Ranked 135)  
+Progressed: 147 (Ranked 457)  
+Completed: 3 (2.04%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,7 +88,7 @@ Completed: 3 (2.05%) (Ranked 135)
 | 2024-01-03 | 138 | 3 |
 | 2024-01-04 | 140 | 3 |
 | 2024-01-05 | 144 | 3 |
-| 2024-01-06 | 146 | 3 |
+| 2024-01-06 | 147 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

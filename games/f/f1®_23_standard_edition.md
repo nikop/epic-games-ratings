@@ -5,47 +5,47 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~14,520 |
-| On the Top Step | 82.00% | ~13,084 |
-| Setting up for Success | 69.00% | ~11,010 |
-| Team Orders | 67.00% | ~10,691 |
-| Engineer | 45.00% | ~7,180 |
-| Familiar Faces | 41.00% | ~6,542 |
-| Going the Extra Mile | 35.00% | ~5,585 |
-| Sharing the Love | 33.00% | ~5,265 |
-| Hitting a Season | 26.00% | ~4,149 |
-| Making History | 25.00% | ~3,989 |
-| A Dozen Pieces | 24.00% | ~3,829 |
-| Network Success | 23.00% | ~3,670 |
-| Challenge Yourself | 23.00% | ~3,670 |
-| Writing a new Chapter | 19.00% | ~3,032 |
-| Spring Cleaning | 18.00% | ~2,872 |
-| Reduce | 14.00% | ~2,234 |
-| Ups and Downs | 14.00% | ~2,234 |
-| Crucial Combo | 13.00% | ~2,074 |
-| Reuse | 12.00% | ~1,915 |
-| Proving Them Wrong | 12.00% | ~1,915 |
-| Gathering Dust | 11.00% | ~1,755 |
-| Friendly Competition | 10.00% | ~1,596 |
-| Switcheroo | 10.00% | ~1,596 |
-| One for the Book | 10.00% | ~1,596 |
-| Eagle Eye | 9.00% | ~1,436 |
-| All in a Weekend's Work | 9.00% | ~1,436 |
-| Oil and Water | 9.00% | ~1,436 |
-| Hitting a Bullseye | 9.00% | ~1,436 |
-| Spinning Around | 9.00% | ~1,436 |
-| Lightning Round the World | 8.00% | ~1,276 |
-| Recycle | 7.00% | ~1,117 |
-| Undisputed Winner | 6.00% | ~957 |
-| Tinkerer | 6.00% | ~957 |
-| For all Those Back at the Factory | 4.00% | ~638 |
-| Living up to Expectations | 4.00% | ~638 |
-| Smooth Operator | 4.00% | ~638 |
-| Peak Performance | 4.00% | ~638 |
+| Getting on the Step | 91.00% | ~14,538 |
+| On the Top Step | 82.00% | ~13,100 |
+| Setting up for Success | 69.00% | ~11,023 |
+| Team Orders | 67.00% | ~10,704 |
+| Engineer | 45.00% | ~7,189 |
+| Familiar Faces | 41.00% | ~6,550 |
+| Going the Extra Mile | 35.00% | ~5,592 |
+| Sharing the Love | 33.00% | ~5,272 |
+| Hitting a Season | 26.00% | ~4,154 |
+| Making History | 25.00% | ~3,994 |
+| A Dozen Pieces | 24.00% | ~3,834 |
+| Network Success | 23.00% | ~3,674 |
+| Challenge Yourself | 23.00% | ~3,674 |
+| Writing a new Chapter | 19.00% | ~3,035 |
+| Spring Cleaning | 18.00% | ~2,876 |
+| Reduce | 14.00% | ~2,237 |
+| Ups and Downs | 14.00% | ~2,237 |
+| Crucial Combo | 13.00% | ~2,077 |
+| Reuse | 12.00% | ~1,917 |
+| Proving Them Wrong | 12.00% | ~1,917 |
+| Gathering Dust | 11.00% | ~1,757 |
+| Friendly Competition | 10.00% | ~1,598 |
+| Switcheroo | 10.00% | ~1,598 |
+| One for the Book | 10.00% | ~1,598 |
+| Eagle Eye | 9.00% | ~1,438 |
+| All in a Weekend's Work | 9.00% | ~1,438 |
+| Oil and Water | 9.00% | ~1,438 |
+| Hitting a Bullseye | 9.00% | ~1,438 |
+| Spinning Around | 9.00% | ~1,438 |
+| Lightning Round the World | 8.00% | ~1,278 |
+| Recycle | 7.00% | ~1,118 |
+| Undisputed Winner | 6.00% | ~959 |
+| Tinkerer | 6.00% | ~959 |
+| For all Those Back at the Factory | 4.00% | ~639 |
+| Living up to Expectations | 4.00% | ~639 |
+| Smooth Operator | 4.00% | ~639 |
+| Peak Performance | 4.00% | ~639 |
 | Seasoned Rookie | 3.00% | ~479 |
 | Loyal Bond | 3.00% | ~479 |
-| Hitting a Century | 2.00% | ~319 |
-| Wait, I know you? | 2.00% | ~319 |
+| Hitting a Century | 2.00% | ~320 |
+| Wait, I know you? | 2.00% | ~320 |
 | Filling in the Gaps | 1.00% | ~160 |
 | Media Darling | 1.00% | ~160 |
 | Saturday Night Drama | 0.90% | ~144 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 321)
 | Shot in the Dark | 0.10% | ~16 |
 | Elite Racer | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,956 (Ranked 168)  
+Progressed: 15,976 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,10 +170,10 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 15,088 | 0 |
 | 2024-01-04 | 15,352 | 0 |
 | 2024-01-05 | 15,717 | 0 |
-| 2024-01-06 | 15,956 | 0 |
+| 2024-01-06 | 15,976 | 0 |
 ## Awards
 Max (Diverse Characters): 59  (Ranked 432)  
-Sum: 376 (Ranked 360)  
+Sum: 377 (Ranked 360)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -187,7 +187,7 @@ Diff (max vs sum): 72
 | This game has Challenging Combat | 32 |
 | This game is Educational | 31 |
 | This game has Amazing Storytelling | 30 |
-| This game has Competitive Players | 29 |
+| This game has Competitive Players | 30 |
 | This game is Great for Quick Sessions | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -307,4 +307,4 @@ Diff (max vs sum): 72
 | 2024-01-02 | 4.65 | 56 | 356 |
 | 2024-01-04 | 4.65 | 57 | 371 |
 | 2024-01-05 | 4.66 | 59 | 374 |
-| 2024-01-06 | 4.65 | 59 | 376 |
+| 2024-01-06 | 4.65 | 59 | 377 |

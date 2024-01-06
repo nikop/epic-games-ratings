@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~880 |
-| Lost and Found | 8.00% | ~541 |
+| Lost and Found | 8.00% | ~542 |
 | Autodidact | 7.00% | ~9,233 |
 | This Belongs in a Museum | 6.00% | ~7,914 |
 | Overdue Notice | 6.00% | ~7,914 |
@@ -20,8 +20,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 5.00% | ~6,595 |
 | Rush Hour | 5.00% | ~6,595 |
 | To Grandmother's House | 5.00% | ~6,595 |
-| Ploughshares to Swords | 5.00% | ~338 |
-| Bloody Graduation | 5.00% | ~338 |
+| Ploughshares to Swords | 5.00% | ~339 |
+| Bloody Graduation | 5.00% | ~339 |
 | It Rings a Bell | 4.00% | ~5,276 |
 | Not Today! | 4.00% | ~5,276 |
 | It Happens | 4.00% | ~5,276 |
@@ -70,9 +70,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.90% | ~61 |
 | Et Tu, Riposte? | 0.80% | ~54 |
 | The World As It Was | 0.60% | ~791 |
-| A Life Well Lived | 0.50% | ~659 |
-| Bacon Bits | 0.50% | ~659 |
-| Eidetic | 0.50% | ~659 |
+| A Life Well Lived | 0.50% | ~660 |
+| Bacon Bits | 0.50% | ~660 |
+| Eidetic | 0.50% | ~660 |
 | On This Long Road, We Found Redemption | 0.50% | ~34 |
 | Battle Hardened | 0.40% | ~27 |
 | Tears in the Rain | 0.30% | ~396 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,899 (Ranked 91)  
+Progressed: 131,904 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,899 | 3 |
+| 2024-01-06 | 131,904 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
 Sum: 21,475 (Ranked 58)  

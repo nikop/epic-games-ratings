@@ -6,10 +6,10 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 38.00% | ~73 |
-| Best Buddy | 33.00% | ~64 |
+| Entrepreneur | 39.00% | ~75 |
+| Best Buddy | 34.00% | ~66 |
 | Civilian | 30.00% | ~58 |
-| Role Model | 28.00% | ~54 |
+| Role Model | 29.00% | ~56 |
 | Creator | 25.00% | ~48 |
 | Festival-goer | 24.00% | ~46 |
 | Peddler | 23.00% | ~44 |

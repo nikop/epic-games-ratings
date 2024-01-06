@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 848,
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -408,9 +408,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208656,
+  "EOS_Progressed": 208660,
   "EOS_Completed": 556,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28328,6 +28328,11 @@
       "Time": "2024-01-06T14:04:29.2255817+00:00",
       "NumProgressed": 208656,
       "NumCompleted": 556
+    },
+    {
+      "Time": "2024-01-06T15:04:26.0084204+00:00",
+      "NumProgressed": 208660,
+      "NumCompleted": 556
     }
   ],
   "TotalAchievements": 29,
@@ -28363,7 +28368,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196137
+      "UsersEstimate": 196140
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -28475,7 +28480,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12519
+      "UsersEstimate": 12520
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -28539,7 +28544,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16692
+      "UsersEstimate": 16693
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -28570,7 +28575,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208656,
+      "Progressed": 208660,
       "Completed": 556
     }
   ],
@@ -28578,8 +28583,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-06T11:02:50.1481292+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:04:29.2255814+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:04:26.0084202+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.5074852+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:00:09.4600838+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:04:29.2257746+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:59:59.5295384+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:04:26.008539+00:00"
 }

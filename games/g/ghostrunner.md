@@ -1,59 +1,59 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.63 (Ranked 357)  
+Rating: 4.63 (Ranked 358)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 38.00% | ~370,023 |
-| Sword Runner | 22.00% | ~214,224 |
-| Running out of breath | 17.00% | ~165,537 |
-| Wallrunner | 16.00% | ~155,799 |
-| I call it luck | 13.00% | ~126,587 |
-| Homerunner | 10.00% | ~97,374 |
-| Out of order | 10.00% | ~97,374 |
-| Running Wild | 8.00% | ~77,900 |
-| Back to hell | 7.00% | ~68,162 |
-| Sword to a gunfight | 7.00% | ~68,162 |
-| Where are my Keys? | 7.00% | ~68,162 |
-| Perfection | 6.00% | ~58,425 |
-| Upgrades not mandatory | 5.00% | ~48,687 |
-| Why not both | 5.00% | ~48,687 |
-| Artificial selection | 4.00% | ~38,950 |
-| Finish line | 4.00% | ~38,950 |
-| Control freak | 4.00% | ~38,950 |
-| Unstoppable force | 4.00% | ~38,950 |
-| Can't Run Can't Hide | 3.00% | ~29,212 |
-| Dead in the air | 3.00% | ~29,212 |
-| Wave of mutilation | 3.00% | ~29,212 |
-| Pre-empative strike | 2.00% | ~19,475 |
-| R is for Running | 2.00% | ~19,475 |
-| Strike | 2.00% | ~19,475 |
-| Improvise, adapt, overrun | 1.00% | ~9,737 |
-| More than human | 1.00% | ~9,737 |
-| Triple A | 1.00% | ~9,737 |
-| Push it to the limit | 0.60% | ~5,842 |
-| Fine addition | 0.50% | ~4,869 |
-| About Adam | 0.30% | ~2,921 |
-| Hit me if you can | 0.20% | ~1,947 |
-| One Of Those Days | 0.20% | ~1,947 |
-| Where He Stood | 0.20% | ~1,947 |
-| A Grade | 0.10% | ~974 |
-| Everyone Needs A Hobby | 0.10% | ~974 |
-| GR Project Complete | 0.10% | ~974 |
-| Junkrunner | 0.10% | ~974 |
-| Just A Man | 0.10% | ~974 |
-| Legacy Drivers | 0.10% | ~974 |
-| Obedient Machine | 0.10% | ~974 |
-| One man's trash | 0.10% | ~974 |
-| Scrapped | 0.10% | ~974 |
-| Sticks And Stones | 0.10% | ~974 |
-| Strafing Run | 0.10% | ~974 |
-| Up Close And Personal | 0.10% | ~974 |
+| Longrunner | 38.00% | ~371,100 |
+| Sword Runner | 22.00% | ~214,847 |
+| Running out of breath | 17.00% | ~166,018 |
+| Wallrunner | 16.00% | ~156,252 |
+| I call it luck | 13.00% | ~126,955 |
+| Homerunner | 10.00% | ~97,658 |
+| Out of order | 10.00% | ~97,658 |
+| Running Wild | 8.00% | ~78,126 |
+| Back to hell | 7.00% | ~68,360 |
+| Sword to a gunfight | 7.00% | ~68,360 |
+| Where are my Keys? | 7.00% | ~68,360 |
+| Perfection | 6.00% | ~58,595 |
+| Upgrades not mandatory | 5.00% | ~48,829 |
+| Why not both | 5.00% | ~48,829 |
+| Artificial selection | 4.00% | ~39,063 |
+| Finish line | 4.00% | ~39,063 |
+| Control freak | 4.00% | ~39,063 |
+| Unstoppable force | 4.00% | ~39,063 |
+| Can't Run Can't Hide | 3.00% | ~29,297 |
+| Dead in the air | 3.00% | ~29,297 |
+| Wave of mutilation | 3.00% | ~29,297 |
+| Pre-empative strike | 2.00% | ~19,532 |
+| R is for Running | 2.00% | ~19,532 |
+| Strike | 2.00% | ~19,532 |
+| Improvise, adapt, overrun | 1.00% | ~9,766 |
+| More than human | 1.00% | ~9,766 |
+| Triple A | 1.00% | ~9,766 |
+| Push it to the limit | 0.60% | ~5,859 |
+| Fine addition | 0.50% | ~4,883 |
+| About Adam | 0.30% | ~2,930 |
+| Hit me if you can | 0.20% | ~1,953 |
+| One Of Those Days | 0.20% | ~1,953 |
+| Where He Stood | 0.20% | ~1,953 |
+| A Grade | 0.10% | ~977 |
+| Everyone Needs A Hobby | 0.10% | ~977 |
+| GR Project Complete | 0.10% | ~977 |
+| Junkrunner | 0.10% | ~977 |
+| Just A Man | 0.10% | ~977 |
+| Legacy Drivers | 0.10% | ~977 |
+| Obedient Machine | 0.10% | ~977 |
+| One man's trash | 0.10% | ~977 |
+| Scrapped | 0.10% | ~977 |
+| Sticks And Stones | 0.10% | ~977 |
+| Strafing Run | 0.10% | ~977 |
+| Up Close And Personal | 0.10% | ~977 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 973,745 (Ranked 17)  
-Completed: 155 (0.02%) (Ranked 360)  
+Progressed: 976,578 (Ranked 17)  
+Completed: 157 (0.02%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,11 +313,11 @@ Completed: 155 (0.02%) (Ranked 360)
 | 2024-01-03 | 840,716 | 117 |
 | 2024-01-04 | 895,166 | 133 |
 | 2024-01-05 | 942,824 | 147 |
-| 2024-01-06 | 973,745 | 155 |
+| 2024-01-06 | 976,578 | 157 |
 ## Awards
 Max (Great Boss Battles): 941  (Ranked 167)  
-Sum: 1,131 (Ranked 262)  
-Diff (max vs sum): -95  
+Sum: 1,135 (Ranked 261)  
+Diff (max vs sum): -94  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 941 |
@@ -325,10 +325,10 @@ Diff (max vs sum): -95
 | This game is Relaxing | 34 |
 | This game has Amazing Characters | 33 |
 | This game has Quickly Understood Controls | 32 |
+| This game has Unique Visuals | 29 |
 | This game has a Creative Community | 28 |
 | This game has Challenging Combat | 28 |
 | This game is Extremely Fun | 26 |
-| This game has Unique Visuals | 25 |
 | This game is Highly Recommended | 25 |
 | This game has Amazing Storytelling | 21 |
 ## Ratings History

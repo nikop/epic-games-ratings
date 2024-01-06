@@ -2,10 +2,10 @@
   "ID": "563ac8b0b7d44761a068c0e23d32b7f6",
   "Name": "Party Monsterzz",
   "ProductSlug": "party-monsterzz-f42535",
-  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
     "PcReleaseDate": "2023-10-20T17:00:00+00:00",
@@ -811,8 +811,8 @@
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:08:45.3374174+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:08:37.9947086+00:00",
   "LastUpdate_AppInfo": "2024-01-05T20:57:00.7898576+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:59:44.6509549+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:08:45.3374329+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:59:35.1538561+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:08:37.9947188+00:00"
 }

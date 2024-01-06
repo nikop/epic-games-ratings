@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -221,17 +221,17 @@
       "ID": "BOSS_06",
       "SetID": "35d3i7a",
       "Name": "Who am I?",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BOSS_07",
       "SetID": "35d3i7a",
       "Name": "This is not me.",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DEL_I",
@@ -493,9 +493,9 @@
       "ID": "MEM_XXI",
       "SetID": "35d3i7a",
       "Name": "Obstetric tenderness.",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MEM_XXII",
@@ -533,17 +533,17 @@
       "ID": "MEM_XXVI",
       "SetID": "35d3i7a",
       "Name": "I\u2019M UGLY!",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PART_I",
       "SetID": "35d3i7a",
       "Name": "The Dream.",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PART_II",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:10:06.883162+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:09:57.5930486+00:00",
   "LastUpdate_AppInfo": "2024-01-03T15:56:54.4691409+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:57:46.7126273+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:10:06.8831971+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:57:41.1509284+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:09:57.5930869+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
   "Ranking_Rating": 1018,
-  "Ranking_Popularity": 582,
-  "Ranking_PopularitySum": 582,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -2395,9 +2395,9 @@
       "ID": "PERF_EVRY_BCKGRD_CHECK",
       "SetID": "kakdpn",
       "Name": "Super Trusting Friend!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 380
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -2468,8 +2468,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-06T14:08:15.9950026+00:00",
+  "LastChanged_Achievements": "2024-01-06T15:06:19.9285279+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:14.9604799+00:00",
-  "LastUpdate_Ratings": "2024-01-06T13:59:45.6270511+00:00",
-  "LastUpdate_Achievements": "2024-01-06T14:08:15.9950361+00:00"
+  "LastUpdate_Ratings": "2024-01-06T14:59:36.3160196+00:00",
+  "LastUpdate_Achievements": "2024-01-06T15:06:19.9285603+00:00"
 }

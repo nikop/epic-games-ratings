@@ -5,18 +5,18 @@ Rating: 4.58 (Ranked 472)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 33.00% | ~1,327 |
-| Sputnik 2049 | 28.00% | ~1,126 |
-| Infinite Growth... | 27.00% | ~1,086 |
-| Without Breaking Some Eggs... | 26.00% | ~1,045 |
-| Ready for a New World | 19.00% | ~764 |
-| Space Society | 18.00% | ~724 |
-| A Thousand Strong | 18.00% | ~724 |
-| Permanent Redesigns | 16.00% | ~643 |
-| Fully Recycled | 15.00% | ~603 |
-| The Ship of Theseus | 15.00% | ~603 |
-| Guy de Borderlands | 14.00% | ~563 |
-| Ain't Nobody Got Time for That | 14.00% | ~563 |
+| Wakey Wakey | 32.00% | ~1,288 |
+| Sputnik 2049 | 28.00% | ~1,127 |
+| Infinite Growth... | 27.00% | ~1,087 |
+| Without Breaking Some Eggs... | 26.00% | ~1,047 |
+| Ready for a New World | 19.00% | ~765 |
+| Space Society | 18.00% | ~725 |
+| A Thousand Strong | 18.00% | ~725 |
+| Permanent Redesigns | 16.00% | ~644 |
+| Fully Recycled | 15.00% | ~604 |
+| The Ship of Theseus | 15.00% | ~604 |
+| Guy de Borderlands | 14.00% | ~564 |
+| Ain't Nobody Got Time for That | 14.00% | ~564 |
 | Hope Seeker | 13.00% | ~523 |
 | A Hunk of Junk | 12.00% | ~483 |
 | Exceeding Capacity | 12.00% | ~483 |
@@ -25,12 +25,12 @@ Rating: 4.58 (Ranked 472)
 | Power Outage | 9.00% | ~362 |
 | Please Make it Stop! | 9.00% | ~362 |
 | Convenient Transport | 8.00% | ~322 |
-| Sightseeing | 7.00% | ~281 |
-| Necessary Enhancement | 7.00% | ~281 |
-| From the Past | 7.00% | ~281 |
-| Access Granted | 6.00% | ~241 |
-| All in Good Health | 6.00% | ~241 |
-| Drill-dozer | 6.00% | ~241 |
+| Sightseeing | 7.00% | ~282 |
+| Necessary Enhancement | 7.00% | ~282 |
+| From the Past | 7.00% | ~282 |
+| Access Granted | 6.00% | ~242 |
+| All in Good Health | 6.00% | ~242 |
+| Drill-dozer | 6.00% | ~242 |
 | Oats | 5.00% | ~201 |
 | What They Hide From Us | 5.00% | ~201 |
 | ...  in a finite world | 5.00% | ~201 |
@@ -44,11 +44,11 @@ Rating: 4.58 (Ranked 472)
 | Delivery! | 3.00% | ~121 |
 | Help of the Forgotten Member | 3.00% | ~121 |
 | Pulsar Disciple | 3.00% | ~121 |
-| Mutual Loyalty | 2.00% | ~80 |
-| Tiqqun Contender | 2.00% | ~80 |
-| Catastrophe Avoided | 2.00% | ~80 |
-| You Had One Job... | 2.00% | ~80 |
-| Tiqqun Unchained | 2.00% | ~80 |
+| Mutual Loyalty | 2.00% | ~81 |
+| Tiqqun Contender | 2.00% | ~81 |
+| Catastrophe Avoided | 2.00% | ~81 |
+| You Had One Job... | 2.00% | ~81 |
+| Tiqqun Unchained | 2.00% | ~81 |
 | Better Him Than Me | 1.00% | ~40 |
 | Remember the Dead | 1.00% | ~40 |
 | Gregor Spinoza | 1.00% | ~40 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 472)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,021 (Ranked 211)  
+Progressed: 4,026 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 3,940 | 0 |
 | 2024-01-04 | 3,963 | 0 |
 | 2024-01-05 | 4,002 | 0 |
-| 2024-01-06 | 4,021 | 0 |
+| 2024-01-06 | 4,026 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

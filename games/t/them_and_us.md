@@ -9,9 +9,9 @@
 | A Night To Remember | 38.00% | ~147 |
 | Safe...For now? | 32.00% | ~124 |
 | Open Sesame | 27.00% | ~105 |
+| What have I done!? | 19.00% | ~74 |
 | Them and Us | 18.00% | ~70 |
 | OUTRAGE | 18.00% | ~70 |
-| What have I done!? | 18.00% | ~70 |
 | Alone In The Dark | 14.00% | ~54 |
 | This Coffin Has Your Name On It! | 14.00% | ~54 |
 | The Cultists | 13.00% | ~50 |
@@ -45,8 +45,8 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388 (Ranked 369)  
-Completed: 1 (0.26%) (Ranked 260)  
+Progressed: 388 (Ranked 370)  
+Completed: 1 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
