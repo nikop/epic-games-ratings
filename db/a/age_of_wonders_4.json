@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -723,9 +723,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6910,
+  "EOS_Progressed": 6916,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10478,6 +10478,11 @@
       "Time": "2024-01-06T00:03:58.1954484+00:00",
       "NumProgressed": 6910,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T01:50:29.3139376+00:00",
+      "NumProgressed": 6916,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10537,7 +10542,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "16",
@@ -10577,7 +10582,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "20",
@@ -10601,7 +10606,7 @@
       "Name": "Realm Estate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "23",
@@ -10609,7 +10614,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "24",
@@ -10617,7 +10622,7 @@
       "Name": "Secret Technique",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "25",
@@ -10625,7 +10630,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "26",
@@ -10641,7 +10646,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "28",
@@ -10649,7 +10654,7 @@
       "Name": "From Friends to Family",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "29",
@@ -10689,7 +10694,7 @@
       "Name": "My Final Form",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "33",
@@ -10745,7 +10750,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "4",
@@ -10968,13 +10973,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6910,
+      "Progressed": 6916,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6910,
+      "Progressed": 6916,
       "Completed": 7
     }
   ],
@@ -10982,8 +10987,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:03:58.195448+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:50:29.3139372+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:02:43.3184503+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:03:58.1955613+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:48:36.7024921+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:50:29.3140358+00:00"
 }

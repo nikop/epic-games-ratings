@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17652,
+  "EOS_Progressed": 17653,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 3,
@@ -17790,6 +17790,11 @@
       "Time": "2024-01-06T00:03:51.2425692+00:00",
       "NumProgressed": 17652,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-06T01:50:19.0652584+00:00",
+      "NumProgressed": 17653,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -17881,7 +17886,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "tpote_achievement_2",
@@ -17913,7 +17918,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "tpote_achievement_23",
@@ -17953,7 +17958,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "tpote_achievement_28",
@@ -17993,7 +17998,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "tpote_achievement_32",
@@ -18128,15 +18133,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17652,
+      "Progressed": 17653,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:03:51.2425685+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:50:19.0652581+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:02:50.2581119+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:03:51.2427163+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:48:47.2602458+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:50:19.0653796+00:00"
 }

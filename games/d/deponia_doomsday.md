@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 525)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 86.00% | ~442 |
-| And again, and again, and... | 64.00% | ~329 |
+| Huzza, he's back. | 86.00% | ~443 |
+| And again, and again, and... | 63.00% | ~324 |
 | Burn, Elysium, burn! | 62.00% | ~319 |
 | Kuvaq Minigame-Master | 61.00% | ~314 |
 | FunScore | 55.00% | ~283 |
-| Funtime's over | 52.00% | ~267 |
+| Funtime's over | 52.00% | ~268 |
 | Chunky | 49.00% | ~252 |
 | Boat of love, boat of love | 48.00% | ~247 |
 | Shall we play a game? | 47.00% | ~242 |
 | School's out | 43.00% | ~221 |
-| Sole Music | 37.00% | ~190 |
-| Scaffolding Expert | 37.00% | ~190 |
+| Sole Music | 37.00% | ~191 |
+| Scaffolding Expert | 37.00% | ~191 |
 | Elysian Minigame-Master | 36.00% | ~185 |
 | Portals come in packs | 30.00% | ~154 |
 | No man left behind! | 29.00% | ~149 |
-| Photo Friend | 25.00% | ~128 |
+| Photo Friend | 25.00% | ~129 |
 | Masseltov | 20.00% | ~103 |
 | Brainfreeze | 20.00% | ~103 |
 | And everything comes full circle. | 19.00% | ~98 |
@@ -30,8 +30,8 @@ Rating: 4.55 (Ranked 525)
 | Heading the inverter | 14.00% | ~72 |
 | Blast from the Past | 12.00% | ~62 |
 | Play it again, Ronny | 11.00% | ~57 |
-| Goat Team | 10.00% | ~51 |
-| Paradox! | 10.00% | ~51 |
+| Goat Team | 10.00% | ~52 |
+| Paradox! | 10.00% | ~52 |
 | Weapons 101 | 8.00% | ~41 |
 | Sadist | 7.00% | ~36 |
 | The customer is always right | 6.00% | ~31 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 525)
 | Every man for himself! | 5.00% | ~26 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 514 (Ranked 342)  
+Progressed: 515 (Ranked 342)  
 Completed: 7 (1.36%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,6 +149,7 @@ Completed: 7 (1.36%) (Ranked 152)
 | 2024-01-03 | 512 | 7 |
 | 2024-01-04 | 513 | 7 |
 | 2024-01-05 | 514 | 7 |
+| 2024-01-06 | 515 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

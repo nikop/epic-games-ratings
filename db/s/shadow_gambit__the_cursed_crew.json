@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,11 +185,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1448,
+  "EOS_Progressed": 1452,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.49,
+  "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -5000,6 +5000,11 @@
       "Time": "2024-01-05T21:05:03.797866+00:00",
       "NumProgressed": 1448,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-06T01:50:53.2140055+00:00",
+      "NumProgressed": 1452,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5012,7 +5017,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 378
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -5020,7 +5025,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 985
+      "UsersEstimate": 987
     },
     {
       "ID": "_03_FinishAct1",
@@ -5028,7 +5033,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5036,7 +5041,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "_05_FinishAct2",
@@ -5044,7 +5049,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 434
+      "UsersEstimate": 436
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5052,15 +5057,15 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 378
     },
     {
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 247
     },
     {
       "ID": "_08_Completion_10",
@@ -5068,7 +5073,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 523
     },
     {
       "ID": "_09_Completion_20",
@@ -5076,7 +5081,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 378
     },
     {
       "ID": "_10_Completion_30",
@@ -5092,7 +5097,7 @@
       "Name": "Seadog",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "_12_Completion_50",
@@ -5100,7 +5105,7 @@
       "Name": "Privateer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "_13_Completion_60",
@@ -5108,7 +5113,7 @@
       "Name": "Corsair",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "_14_Completion_70",
@@ -5124,7 +5129,7 @@
       "Name": "Marauder",
       "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -5140,7 +5145,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 523
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5148,7 +5153,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -5172,7 +5177,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -5180,7 +5185,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -5188,7 +5193,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -5204,7 +5209,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -5212,14 +5217,14 @@
       "Name": "Welcome Back Jester",
       "Percentage": 3,
       "XP": 140,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1448,
+      "Progressed": 1452,
       "Completed": 36
     }
   ],
@@ -5227,8 +5232,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:04:15.8463007+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:50:53.214005+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:58:04.3126904+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:04:15.8463365+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:44:12.6205061+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:50:53.2140422+00:00"
 }

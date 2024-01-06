@@ -14,7 +14,7 @@ Rating: 4.71 (Ranked 202)
 | Experienced Thalya | 71.00% | ~518 |
 | Thalya's Concentrated Fury | 68.00% | ~496 |
 | Bad Elves Go Everywhere | 68.00% | ~496 |
-| Heroes’ Gorge | 64.00% | ~467 |
+| Heroes’ Gorge | 65.00% | ~474 |
 | Master of Magic | 62.00% | ~452 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~452 |
 | Magic Accidents | 59.00% | ~430 |
@@ -28,16 +28,16 @@ Rating: 4.71 (Ranked 202)
 | YOU SHALL NOT PASS! | 50.00% | ~364 |
 | The Cathedral of Light | 47.00% | ~343 |
 | Shame! Shame! Shame! | 47.00% | ~343 |
+| Pure Dynamite! | 45.00% | ~328 |
 | Tanos' Crusade Against Thalya | 45.00% | ~328 |
-| Pure Dynamite! | 44.00% | ~321 |
 | Dungeonlord Gorgu | 44.00% | ~321 |
 | Mana Cannon | 42.00% | ~306 |
 | All’s Well That Ends Evil | 41.00% | ~299 |
 | The Duel | 38.00% | ~277 |
+| Unstoppable Horde | 35.00% | ~255 |
 | If Looks Could Kill | 35.00% | ~255 |
-| Unstoppable Horde | 34.00% | ~248 |
 | Master of the Undead | 34.00% | ~248 |
-| The Finitude Drill | 32.00% | ~233 |
+| The Finitude Drill | 33.00% | ~241 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~219 |
 | Doom Hill | 30.00% | ~219 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~204 |
@@ -57,15 +57,15 @@ Rating: 4.71 (Ranked 202)
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~131 |
 | My Little Torture Chamber | 18.00% | ~131 |
 | To the Max! | 18.00% | ~131 |
-| Evilification | 17.00% | ~124 |
+| Evilification | 18.00% | ~131 |
+| Heal Heal Blessing | 17.00% | ~124 |
 | Mirror, Mirror | 16.00% | ~117 |
 | Untouchable | 16.00% | ~117 |
-| Heal Heal Blessing | 16.00% | ~117 |
 | Laser Eyes Are So Useless | 13.00% | ~95 |
 | Hands Off My Stones | 13.00% | ~95 |
 | Gorgu is in the Best of Health | 12.00% | ~87 |
 | No Mana, No Cry | 10.00% | ~73 |
-| I Don't Need Any Help | 9.00% | ~66 |
+| I Don't Need Any Help | 10.00% | ~73 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 729 (Ranked 315)  
 Completed: 29 (3.98%) (Ranked 90)  

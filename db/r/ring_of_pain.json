@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3800,10 +3800,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11786,
       "NumberOfAwardsMax": 1514
+    },
+    {
+      "Time": "2024-01-06T01:46:20.0115003+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11788,
+      "NumberOfAwardsMax": 1514
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11786,
+  "NumberOfAwards": 11788,
   "NumberOfAwardsMax": 1514,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3859,7 +3865,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1332
+      "Count": 1334
     },
     {
       "Text": "This game is Relaxing",
@@ -3874,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242423,
+  "EOS_Progressed": 242426,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30824,6 +30830,11 @@
       "Time": "2024-01-06T00:10:29.3789328+00:00",
       "NumProgressed": 242423,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-06T01:56:41.2780699+00:00",
+      "NumProgressed": 242426,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31938,22 +31949,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242423,
+      "Progressed": 242426,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3903,
+      "Progressed": 3906,
       "Completed": 421
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-01-04T22:00:17.6708288+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:10:29.3789325+00:00",
+  "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:56:41.2780697+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:59:27.7062352+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:10:29.3792363+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:46:20.0115008+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:56:41.2783148+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -525,9 +525,9 @@
       "ID": "BlueTrick",
       "SetID": "9kk0gal",
       "Name": "Blue\u0027s drawing",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 127
     },
     {
       "ID": "Cat",
@@ -613,9 +613,9 @@
       "ID": "FriendDoor",
       "SetID": "9kk0gal",
       "Name": "Complicated padlock",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "Furball",
@@ -742,8 +742,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:08:27.5902028+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:53:55.4979591+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.5313351+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:59:06.9152288+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:08:27.590221+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:45:47.4778028+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:53:55.4979787+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 514,
+  "EOS_Progressed": 515,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.36,
   "EosHistory": [
@@ -865,6 +865,11 @@
       "Time": "2024-01-05T22:04:14.3677703+00:00",
       "NumProgressed": 514,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T01:50:10.1089237+00:00",
+      "NumProgressed": 515,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -876,7 +881,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "dep4_achievement_10",
@@ -884,7 +889,7 @@
       "Name": "Sole Music",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "dep4_achievement_11",
@@ -962,9 +967,9 @@
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 324
     },
     {
       "ID": "dep4_achievement_20",
@@ -980,7 +985,7 @@
       "Name": "Photo Friend",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "dep4_achievement_22",
@@ -1020,7 +1025,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "dep4_achievement_27",
@@ -1068,7 +1073,7 @@
       "Name": "Goat Team",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "dep4_achievement_32",
@@ -1100,7 +1105,7 @@
       "Name": "Paradox!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "dep4_achievement_36",
@@ -1116,7 +1121,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "dep4_achievement_5",
@@ -1163,7 +1168,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 514,
+      "Progressed": 515,
       "Completed": 7
     }
   ],
@@ -1171,8 +1176,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:03:44.9814524+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:50:10.1089232+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.0571081+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:03:07.6470143+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:03:44.9814856+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:49:13.1053674+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:50:10.1089479+00:00"
 }

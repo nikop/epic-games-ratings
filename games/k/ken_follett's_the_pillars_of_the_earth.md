@@ -16,10 +16,10 @@ Number of Ratings: 368  (23.09.2022)
 | Garden of Eden | 23.00% | ~4,060 |
 | Full house | 23.00% | ~4,060 |
 | Help an old friend | 21.00% | ~3,707 |
-| Two of us | 20.00% | ~3,530 |
-| Negotiation skills | 18.00% | ~3,177 |
-| Workers' union | 18.00% | ~3,177 |
-| End of Book Two | 18.00% | ~3,177 |
+| Two of us | 20.00% | ~3,531 |
+| Negotiation skills | 18.00% | ~3,178 |
+| Workers' union | 18.00% | ~3,178 |
+| End of Book Two | 18.00% | ~3,178 |
 | Everything's in order | 16.00% | ~2,824 |
 | Twist of Fate | 14.00% | ~2,471 |
 | Jack was here! | 14.00% | ~2,471 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~530 |
 | Boy of mystery | 2.00% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,652 (Ranked 162)  
+Progressed: 17,653 (Ranked 162)  
 Completed: 125 (0.71%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 125 (0.71%) (Ranked 194)
 | 2024-01-03 | 17,600 | 124 |
 | 2024-01-04 | 17,624 | 124 |
 | 2024-01-05 | 17,651 | 125 |
-| 2024-01-06 | 17,652 | 125 |
+| 2024-01-06 | 17,653 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 324)  
 Sum: 200 (Ranked 417)  

@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 787,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2564,6 +2564,11 @@
       "Time": "2024-01-05T23:10:46.4197487+00:00",
       "NumProgressed": 786,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T01:54:34.1220572+00:00",
+      "NumProgressed": 787,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2632,7 +2637,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -2671,14 +2676,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 787,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:08:55.55277+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:54:34.122057+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:57:57.1212706+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:08:55.5527923+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:44:01.9369469+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:54:34.1220772+00:00"
 }

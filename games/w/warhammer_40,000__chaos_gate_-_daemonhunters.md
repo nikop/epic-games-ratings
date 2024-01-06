@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 470)  
+Rating: 4.58 (Ranked 471)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,9 +21,9 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 4.00% | ~151 |
 | Gunmaster | 4.00% | ~151 |
 | A Foul Creche | 4.00% | ~151 |
-| Hold Your Ground | 3.00% | ~113 |
-| Just a Scratch | 3.00% | ~113 |
-| Hive Exterminator | 3.00% | ~113 |
+| Hold Your Ground | 3.00% | ~114 |
+| Just a Scratch | 3.00% | ~114 |
+| Hive Exterminator | 3.00% | ~114 |
 | Daemonkeeper | 2.00% | ~76 |
 | Corruption Cleanser | 2.00% | ~76 |
 | Mind Like a Fortress | 2.00% | ~76 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,783 (Ranked 217)  
+Progressed: 3,785 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,6 +305,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-03 | 3,737 | 0 |
 | 2024-01-04 | 3,765 | 0 |
 | 2024-01-05 | 3,783 | 0 |
+| 2024-01-06 | 3,785 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 495 (Ranked 334)  

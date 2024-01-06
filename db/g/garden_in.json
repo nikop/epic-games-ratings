@@ -3,9 +3,9 @@
   "Name": "Garden In",
   "ProductSlug": "garden-in-671c44",
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 520,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-01-26T13:00:00+00:00",
     "PcReleaseDate": "2023-01-26T13:00:00+00:00",
@@ -482,9 +482,9 @@
       "ID": "ACH_DRY_NO_MORE",
       "SetID": "95o50of",
       "Name": "Dry No More",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FEET_IN_THE_WATER",
@@ -538,9 +538,9 @@
       "ID": "ACH_LEAVE_MY_BABY_ALONE",
       "SetID": "95o50of",
       "Name": "Leave My Baby Alone!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_LETS_GO_FOR_A_WALK",
@@ -602,17 +602,17 @@
       "ID": "ACH_RESEARCH_COMPLETE",
       "SetID": "95o50of",
       "Name": "Research Complete",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ROOM_REVEALER",
       "SetID": "95o50of",
       "Name": "Room Revealer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_SAY_CHEESE",
@@ -626,9 +626,9 @@
       "ID": "ACH_SEED_OF_LOVE",
       "SetID": "95o50of",
       "Name": "Seed of Love",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_SPRAY_SPRAY_SPRAY",
@@ -642,9 +642,9 @@
       "ID": "ACH_TAKING_NOTES",
       "SetID": "95o50of",
       "Name": "Taking Notes",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_THE_BEST_ONE",
@@ -690,9 +690,9 @@
       "ID": "ACH_WHO_IS_A_GOOD_PLANT",
       "SetID": "95o50of",
       "Name": "Who\u0027s a Good Plant?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -707,8 +707,8 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5695131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.2425806+00:00",
   "LastChanged": "2023-03-31T05:57:23.5695132+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:08:55.0183633+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:54:33.1848978+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.9003231+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:00:20.995057+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:08:55.0183837+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:47:40.8016874+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:54:33.1849187+00:00"
 }

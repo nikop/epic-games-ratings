@@ -5,16 +5,16 @@ Rating: 4.59 (Ranked 445)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 69.00% | ~979 |
-| The Teleprobe | 54.00% | ~766 |
-| The City | 49.00% | ~695 |
-| The field base | 44.00% | ~624 |
+| The Camp | 69.00% | ~980 |
+| The Teleprobe | 54.00% | ~767 |
+| The City | 49.00% | ~696 |
+| The field base | 44.00% | ~625 |
 | The Alliance | 40.00% | ~568 |
-| Survivors | 38.00% | ~539 |
+| Survivors | 38.00% | ~540 |
 | The Condor | 36.00% | ~511 |
 | The End | 36.00% | ~511 |
-| Krauta is alive | 28.00% | ~397 |
-| The Necroevolution | 28.00% | ~397 |
+| Krauta is alive | 28.00% | ~398 |
+| The Necroevolution | 28.00% | ~398 |
 | Volcanologist | 22.00% | ~312 |
 | On her own | 21.00% | ~298 |
 | Peacemaker | 21.00% | ~298 |
@@ -23,7 +23,7 @@ Rating: 4.59 (Ranked 445)
 | Beyond divisions | 17.00% | ~241 |
 | Flying Objects Operator | 16.00% | ~227 |
 | I remember everything! | 14.00% | ~199 |
-| Another giant | 13.00% | ~184 |
+| Another giant | 13.00% | ~185 |
 | Violent solution | 9.00% | ~128 |
 | I leave no man behind | 9.00% | ~128 |
 | Innate curiosity | 7.00% | ~99 |
@@ -35,7 +35,7 @@ Rating: 4.59 (Ranked 445)
 | Convoy list | 0.90% | ~13 |
 | No more mistakes | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,419 (Ranked 268)  
+Progressed: 1,420 (Ranked 268)  
 Completed: 1 (0.07%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 1 (0.07%) (Ranked 324)
 | 2024-01-03 | 1,345 | 0 |
 | 2024-01-04 | 1,381 | 1 |
 | 2024-01-05 | 1,415 | 1 |
-| 2024-01-06 | 1,419 | 1 |
+| 2024-01-06 | 1,420 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

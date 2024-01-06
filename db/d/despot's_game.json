@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -918,9 +918,9 @@
       "ID": "last-hero",
       "SetID": "799afm0",
       "Name": "Last Man Standing",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 158
     },
     {
       "ID": "save-zombie",
@@ -1031,8 +1031,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:05:16.5391781+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:52:18.5912062+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.2003375+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:58:43.557631+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:05:16.5392146+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:45:11.5543048+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:52:18.5912373+00:00"
 }

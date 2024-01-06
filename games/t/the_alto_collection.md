@@ -6,32 +6,32 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,488 |
-| Finding Your Footing | 25.00% | ~13,415 |
-| Nomad | 17.00% | ~9,122 |
-| Picking Up Speed | 15.00% | ~8,049 |
-| Welcome Maya | 14.00% | ~7,513 |
-| Scout | 11.00% | ~5,903 |
-| Sightseer | 11.00% | ~5,903 |
-| Amateur | 10.00% | ~5,366 |
-| Unlock Maya | 8.00% | ~4,293 |
-| Wanderer | 8.00% | ~4,293 |
-| Enter Paz | 7.00% | ~3,756 |
+| Rookie | 27.00% | ~14,492 |
+| Finding Your Footing | 25.00% | ~13,419 |
+| Nomad | 17.00% | ~9,125 |
+| Picking Up Speed | 15.00% | ~8,051 |
+| Welcome Maya | 14.00% | ~7,515 |
+| Scout | 11.00% | ~5,904 |
+| Sightseer | 11.00% | ~5,904 |
+| Amateur | 10.00% | ~5,368 |
+| Unlock Maya | 8.00% | ~4,294 |
+| Wanderer | 8.00% | ~4,294 |
+| Enter Paz | 7.00% | ~3,757 |
 | Aviator | 6.00% | ~3,220 |
-| My Little Friend | 5.00% | ~2,683 |
-| One With The Board | 5.00% | ~2,683 |
-| Voyager | 4.00% | ~2,146 |
+| My Little Friend | 5.00% | ~2,684 |
+| One With The Board | 5.00% | ~2,684 |
+| Voyager | 4.00% | ~2,147 |
 | Junkie | 3.00% | ~1,610 |
 | Traveler | 3.00% | ~1,610 |
 | Unlock Paz | 3.00% | ~1,610 |
 | Human Flight | 3.00% | ~1,610 |
 | Sandboarder | 3.00% | ~1,610 |
 | Izel Has Arrived | 3.00% | ~1,610 |
-| Explorer | 2.00% | ~1,073 |
-| Pro | 2.00% | ~1,073 |
-| Journeyer | 2.00% | ~1,073 |
-| Unlock Izel | 2.00% | ~1,073 |
-| Here Comes Felipe | 2.00% | ~1,073 |
+| Explorer | 2.00% | ~1,074 |
+| Pro | 2.00% | ~1,074 |
+| Journeyer | 2.00% | ~1,074 |
+| Unlock Izel | 2.00% | ~1,074 |
+| Here Comes Felipe | 2.00% | ~1,074 |
 | Hoist the Mainsail | 1.00% | ~537 |
 | Daredevil | 1.00% | ~537 |
 | Introducing Sumara | 1.00% | ~537 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~54 |
 | Windswept | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,661 (Ranked 121)  
+Progressed: 53,675 (Ranked 121)  
 Completed: 5 (0.01%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 5 (0.01%) (Ranked 370)
 | 2024-01-03 | 53,366 | 5 |
 | 2024-01-04 | 53,507 | 5 |
 | 2024-01-05 | 53,651 | 5 |
-| 2024-01-06 | 53,661 | 5 |
+| 2024-01-06 | 53,675 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 50  (Ranked 455)  
 Sum: 393 (Ranked 354)  

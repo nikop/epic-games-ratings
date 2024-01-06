@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 418,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -914,6 +914,11 @@
       "Time": "2024-01-05T20:04:08.3731903+00:00",
       "NumProgressed": 417,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T01:50:50.7835723+00:00",
+      "NumProgressed": 418,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -979,9 +984,9 @@
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 96
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -1029,7 +1034,7 @@
       "Name": "Third Commander",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "PET_DOG",
@@ -1052,7 +1057,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 418,
       "Completed": 4
     }
   ],
@@ -1060,8 +1065,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:04:13.9052886+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:50:50.7835718+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:25.7594248+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:57:48.5458843+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:04:13.9053053+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:43:48.993626+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:50:50.783586+00:00"
 }

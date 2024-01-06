@@ -6,21 +6,21 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~870 |
-| Lost and Found | 8.00% | ~535 |
-| Autodidact | 7.00% | ~9,227 |
-| This Belongs in a Museum | 6.00% | ~7,909 |
-| Overdue Notice | 6.00% | ~7,909 |
-| This guy... again? | 6.00% | ~401 |
-| Serenity Now! | 5.00% | ~6,591 |
-| Creep and Sleep | 5.00% | ~6,591 |
-| Meat and Greet | 5.00% | ~6,591 |
-| Catch and Decease | 5.00% | ~6,591 |
-| Escape from the Black Hole | 5.00% | ~6,591 |
-| Rush Hour | 5.00% | ~6,591 |
-| To Grandmother's House | 5.00% | ~6,591 |
-| Ploughshares to Swords | 5.00% | ~334 |
-| Bloody Graduation | 5.00% | ~334 |
+| Malpractice Assurance | 13.00% | ~871 |
+| Lost and Found | 8.00% | ~536 |
+| Autodidact | 7.00% | ~9,228 |
+| This Belongs in a Museum | 6.00% | ~7,910 |
+| Overdue Notice | 6.00% | ~7,910 |
+| This guy... again? | 6.00% | ~402 |
+| Serenity Now! | 5.00% | ~6,592 |
+| Creep and Sleep | 5.00% | ~6,592 |
+| Meat and Greet | 5.00% | ~6,592 |
+| Catch and Decease | 5.00% | ~6,592 |
+| Escape from the Black Hole | 5.00% | ~6,592 |
+| Rush Hour | 5.00% | ~6,592 |
+| To Grandmother's House | 5.00% | ~6,592 |
+| Ploughshares to Swords | 5.00% | ~335 |
+| Bloody Graduation | 5.00% | ~335 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,273 |
 | It Rings a Bell | 4.00% | ~5,273 |
 | Not Today! | 4.00% | ~5,273 |
@@ -50,30 +50,30 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 3.00% | ~3,955 |
 | Unshackled | 3.00% | ~3,955 |
 | Road Trip | 3.00% | ~3,955 |
-| This Looks Familiar | 2.00% | ~2,636 |
-| Hope Rekindled | 2.00% | ~2,636 |
-| Ichthyophobic | 2.00% | ~2,636 |
-| No More Mouths to Feed | 2.00% | ~2,636 |
-| When You Want Something Done Right | 2.00% | ~2,636 |
-| Worldly Traveller | 2.00% | ~2,636 |
-| Utopia | 2.00% | ~2,636 |
-| Hot Air | 2.00% | ~2,636 |
-| Eyes Up | 2.00% | ~2,636 |
+| This Looks Familiar | 2.00% | ~2,637 |
+| Hope Rekindled | 2.00% | ~2,637 |
+| Ichthyophobic | 2.00% | ~2,637 |
+| No More Mouths to Feed | 2.00% | ~2,637 |
+| When You Want Something Done Right | 2.00% | ~2,637 |
+| Worldly Traveller | 2.00% | ~2,637 |
+| Utopia | 2.00% | ~2,637 |
+| Hot Air | 2.00% | ~2,637 |
+| Eyes Up | 2.00% | ~2,637 |
 | Shrine of Reflection | 1.00% | ~1,318 |
 | Handled | 1.00% | ~1,318 |
 | Body of Work | 1.00% | ~1,318 |
 | Slap on the Wrist | 1.00% | ~67 |
 | For Old Time' Sake | 1.00% | ~67 |
 | Clearing the Ledger | 0.90% | ~1,186 |
+| Hat Trick | 0.90% | ~1,186 |
 | Triage | 0.90% | ~1,186 |
 | No Mercy | 0.90% | ~60 |
-| Hat Trick | 0.80% | ~1,055 |
 | Et Tu, Riposte? | 0.80% | ~54 |
 | The World As It Was | 0.60% | ~791 |
 | A Life Well Lived | 0.50% | ~659 |
 | Bacon Bits | 0.50% | ~659 |
 | Eidetic | 0.50% | ~659 |
-| On This Long Road, We Found Redemption | 0.50% | ~33 |
+| On This Long Road, We Found Redemption | 0.50% | ~34 |
 | Battle Hardened | 0.40% | ~27 |
 | Tears in the Rain | 0.30% | ~395 |
 | Maître De La Lame | 0.30% | ~20 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,821 (Ranked 91)  
+Progressed: 131,831 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,821 | 3 |
+| 2024-01-06 | 131,831 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
 Sum: 21,464 (Ranked 58)  

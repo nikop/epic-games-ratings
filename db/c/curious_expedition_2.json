@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -850,9 +850,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 171
     },
     {
       "ID": "ach-find-treasure",
@@ -1139,8 +1139,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:10:25.8005984+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:56:37.0474046+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:57:14.3728957+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:10:25.8006536+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:42:56.8435207+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:56:37.0474439+00:00"
 }

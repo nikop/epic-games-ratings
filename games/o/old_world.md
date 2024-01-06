@@ -6,13 +6,13 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Architect | 1.00% | ~161 |
 | Explorer | 1.00% | ~161 |
 | Intrepid | 1.00% | ~161 |
 | Settler | 1.00% | ~161 |
 | Friendly Family | 1.00% | ~161 |
 | Play a Single Player Game | 1.00% | ~161 |
 | Able | 0.90% | ~145 |
-| Architect | 0.90% | ~145 |
 | Good | 0.90% | ~145 |
 | Mason | 0.90% | ~145 |
 | Noble | 0.90% | ~145 |
@@ -138,6 +138,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.20% | ~32 |
 | The Clergy | 0.20% | ~32 |
 | Deposed Tribe | 0.20% | ~32 |
+| Kushite Pyramids | 0.20% | ~32 |
 | Kushite Paganism | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
@@ -285,7 +286,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Re-writing History | 0.10% | ~16 |
 | History Repeats | 0.10% | ~16 |
 | Egypt Campaign | 0.10% | ~16 |
-| Kushite Pyramids | 0.10% | ~16 |
 | Kush | 0.10% | ~16 |
 | Beja Archer | 0.10% | ~16 |
 | Al Khazneh | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,138 (Ranked 167)  
+Progressed: 16,139 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 5 (0.03%) (Ranked 352)
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
-| 2024-01-06 | 16,138 | 5 |
+| 2024-01-06 | 16,139 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,915 (Ranked 221)  

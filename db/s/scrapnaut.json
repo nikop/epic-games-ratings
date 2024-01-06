@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 621,
+  "EOS_Progressed": 622,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2141,6 +2141,11 @@
       "Time": "2024-01-05T20:09:17.4861014+00:00",
       "NumProgressed": 621,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T01:55:35.7296542+00:00",
+      "NumProgressed": 622,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2152,7 +2157,7 @@
       "Name": "Digger",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -2168,7 +2173,7 @@
       "Name": "Black Gold",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
@@ -2208,7 +2213,7 @@
       "Name": "Master Of Technology",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -2232,7 +2237,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -2240,7 +2245,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_COOK",
@@ -2262,9 +2267,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -2280,7 +2285,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -2304,7 +2309,7 @@
       "Name": "Scrapper",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_KILL_50",
@@ -2399,7 +2404,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 621,
+      "Progressed": 622,
       "Completed": 4
     }
   ],
@@ -2407,8 +2412,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:09:40.1308611+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:55:35.7296539+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.8569887+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:59:08.0037656+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:09:40.1308881+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:45:49.0341378+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:55:35.7296825+00:00"
 }

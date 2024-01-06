@@ -5,28 +5,28 @@ Rating: 4.54 (Ranked 548)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 18.00% | ~21,181 |
-| I've Had Enough! | 14.00% | ~16,474 |
-| Fists, Fury & a lot of Rage | 10.00% | ~11,767 |
-| All For One and One For All | 8.00% | ~9,414 |
-| Seasoned Fighter | 8.00% | ~9,414 |
-| A New Age | 5.00% | ~5,884 |
-| Home Sweet Home? | 5.00% | ~5,884 |
-| Oh Baby, A Triple | 3.00% | ~3,530 |
-| Symbiotic | 3.00% | ~3,530 |
-| Battle Hardened | 2.00% | ~2,353 |
-| Master of Disguise | 2.00% | ~2,353 |
-| It's Mayhem! | 2.00% | ~2,353 |
-| Right back at'cha | 2.00% | ~2,353 |
+| All Grown Up! | 18.00% | ~21,191 |
+| I've Had Enough! | 14.00% | ~16,482 |
+| Fists, Fury & a lot of Rage | 10.00% | ~11,773 |
+| All For One and One For All | 8.00% | ~9,418 |
+| Seasoned Fighter | 8.00% | ~9,418 |
+| A New Age | 5.00% | ~5,886 |
+| Home Sweet Home? | 5.00% | ~5,886 |
+| Oh Baby, A Triple | 3.00% | ~3,532 |
+| Symbiotic | 3.00% | ~3,532 |
+| Battle Hardened | 2.00% | ~2,355 |
+| Master of Disguise | 2.00% | ~2,355 |
+| It's Mayhem! | 2.00% | ~2,355 |
+| Right back at'cha | 2.00% | ~2,355 |
 | Cautious Veteran | 1.00% | ~1,177 |
 | Double Punch! | 1.00% | ~1,177 |
 | Martyrdom | 1.00% | ~1,177 |
 | Spectacular Finisher | 1.00% | ~1,177 |
-| Katamari | 0.90% | ~1,059 |
-| Zero-sum Game | 0.90% | ~1,059 |
-| Ninja Reflex | 0.80% | ~941 |
+| Katamari | 0.90% | ~1,060 |
+| Zero-sum Game | 0.90% | ~1,060 |
+| Ninja Reflex | 0.80% | ~942 |
 | Taste Your Own Medicine | 0.70% | ~824 |
-| This is GigaBash! | 0.50% | ~588 |
+| This is GigaBash! | 0.50% | ~589 |
 | Just Getting Warmed Up | 0.40% | ~471 |
 | Sidetracked... | 0.40% | ~471 |
 | Top of the Food Chain | 0.40% | ~471 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 548)
 | What's Mine is Yours | 0.10% | ~118 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,673 (Ranked 93)  
+Progressed: 117,728 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-03 | 116,064 | 0 |
 | 2024-01-04 | 116,792 | 0 |
 | 2024-01-05 | 117,637 | 0 |
-| 2024-01-06 | 117,673 | 0 |
+| 2024-01-06 | 117,728 | 0 |
 ## Awards
 Max (Great Boss Battles): 48  (Ranked 460)  
 Sum: 48 (Ranked 513)  

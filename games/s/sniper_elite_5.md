@@ -1,19 +1,19 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 674)  
+Rating: 4.46 (Ranked 675)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,980 |
 | Confirming Suspicions | 42.00% | ~1,769 |
 | The Kraken Wakes | 38.00% | ~1,601 |
-| It's Starting to Crack | 35.00% | ~1,474 |
+| It's Starting to Crack | 35.00% | ~1,475 |
 | Change the Channel | 32.00% | ~1,348 |
 | Lord of War | 31.00% | ~1,306 |
 | Taking it back | 30.00% | ~1,264 |
-| Resourceful | 28.00% | ~1,179 |
-| Target America | 27.00% | ~1,137 |
+| Resourceful | 28.00% | ~1,180 |
+| Target America | 27.00% | ~1,138 |
 | The Kraken Sleeps | 25.00% | ~1,053 |
 | As Quiet as a Mouse | 24.00% | ~1,011 |
 | Liberté | 23.00% | ~969 |
@@ -48,7 +48,7 @@ Rating: 4.46 (Ranked 674)
 | Last Resort | 5.00% | ~208 |
 | Siegebreaker | 5.00% | ~208 |
 | Ghost of Falaise | 5.00% | ~208 |
-| Locomotion Commotion | 4.00% | ~168 |
+| Locomotion Commotion | 4.00% | ~169 |
 | From Paris with Love | 3.00% | ~126 |
 | Burn after reading | 3.00% | ~126 |
 | Souvenir hunter | 3.00% | ~126 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 674)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,212 (Ranked 210)  
+Progressed: 4,213 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 11 (0.26%) (Ranked 260)
 | 2024-01-03 | 4,197 | 11 |
 | 2024-01-04 | 4,208 | 11 |
 | 2024-01-05 | 4,211 | 11 |
-| 2024-01-06 | 4,212 | 11 |
+| 2024-01-06 | 4,213 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 526)  
 Sum: 29 (Ranked 543)  

@@ -4,7 +4,7 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 68,
   "Ranking_Popularity": 230,
-  "Ranking_PopularitySum": 176,
+  "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 141,
@@ -3785,9 +3785,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 20234,
+  "EOS_Progressed": 20238,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18580,6 +18580,11 @@
       "Time": "2024-01-06T00:05:58.3171874+00:00",
       "NumProgressed": 20234,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-06T01:53:16.6108476+00:00",
+      "NumProgressed": 20238,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18680,7 +18685,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "WinHard",
@@ -18808,7 +18813,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "WinNearRuins",
@@ -18848,7 +18853,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "WinOnCoral",
@@ -18968,7 +18973,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "WinWithoutOrders",
@@ -19024,7 +19029,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "WinNearPresence",
@@ -19063,15 +19068,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20234,
+      "Progressed": 20238,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-05T19:01:40.5563958+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:05:58.3171866+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:53:16.6108473+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:59:41.5469846+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:05:58.3173152+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:46:40.5082601+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:53:16.6109495+00:00"
 }

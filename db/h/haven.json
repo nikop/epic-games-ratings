@@ -2,13 +2,13 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 129,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1897,
+  "EOS_Progressed": 1898,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3359,6 +3359,11 @@
       "Time": "2024-01-06T00:05:03.4684924+00:00",
       "NumProgressed": 1897,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T01:52:00.6080597+00:00",
+      "NumProgressed": 1898,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3394,7 +3399,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "13",
@@ -3426,7 +3431,7 @@
       "Name": "My little pony",
       "Percentage": 17,
       "XP": 70,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "17",
@@ -3434,7 +3439,7 @@
       "Name": "Balding bloot!",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "18",
@@ -3609,15 +3614,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1897,
+      "Progressed": 1898,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:05:03.4684922+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:52:00.6080594+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:00:15.5855378+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:05:03.4685402+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:47:32.8847165+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:52:00.6080904+00:00"
 }

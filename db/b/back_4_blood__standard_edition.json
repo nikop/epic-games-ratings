@@ -2,13 +2,13 @@
   "ID": "57dfd95548214a138218e56cd9e5b9d8",
   "Name": "Back 4 Blood: Standard Edition",
   "ProductSlug": "back-4-blood",
-  "Ranking_Rating": 674,
-  "Ranking_Popularity": 89,
+  "Ranking_Rating": 675,
+  "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-12T15:00:00+00:00",
     "PcReleaseDate": "2021-10-12T15:00:00+00:00",
@@ -6951,6 +6951,6 @@
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
   "LastChanged": "2024-01-05T22:03:29.4147314+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:25.2322065+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:03:02.0411238+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:05:06.1384527+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:49:04.5978906+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:52:04.1386361+00:00"
 }

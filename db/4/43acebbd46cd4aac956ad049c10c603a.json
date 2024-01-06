@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -291,7 +291,7 @@
   ],
   "EOS_Progressed": 1286,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3929,9 +3929,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 231
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4130,8 +4130,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:04:57.5575822+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:51:52.3136153+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:00:22.2604912+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:04:57.5576489+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:47:42.3062218+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:51:52.3136773+00:00"
 }

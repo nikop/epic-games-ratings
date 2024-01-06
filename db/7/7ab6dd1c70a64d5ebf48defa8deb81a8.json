@@ -5,10 +5,10 @@
   "Ranking_Rating": 1006,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1844,
+  "EOS_Progressed": 1850,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3637,6 +3637,11 @@
       "Time": "2024-01-06T00:10:21.0870142+00:00",
       "NumProgressed": 1844,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T01:56:31.3656248+00:00",
+      "NumProgressed": 1850,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3648,7 +3653,7 @@
       "Name": "Break Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH_02",
@@ -3656,7 +3661,7 @@
       "Name": "Find Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH_03",
@@ -3664,15 +3669,15 @@
       "Name": "Powerful Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_05",
@@ -3680,7 +3685,7 @@
       "Name": "To Battle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_06",
@@ -3688,7 +3693,7 @@
       "Name": "Godslayer",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_07",
@@ -3704,7 +3709,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH_09",
@@ -3712,7 +3717,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_10",
@@ -3720,7 +3725,7 @@
       "Name": "Trinity",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 553
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_11",
@@ -3734,9 +3739,9 @@
       "ID": "ACH_12",
       "SetID": "efe2lj",
       "Name": "Shardbearer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_13",
@@ -3744,7 +3749,7 @@
       "Name": "Adventurer",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_14",
@@ -3752,15 +3757,15 @@
       "Name": "Airborne",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 369
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_16",
@@ -3768,7 +3773,7 @@
       "Name": "Essence Blow",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_17",
@@ -3784,7 +3789,7 @@
       "Name": "Shatter Them All",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH_19",
@@ -3824,7 +3829,7 @@
       "Name": "Geared Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH_24",
@@ -3840,7 +3845,7 @@
       "Name": "Fashion Victim",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_26",
@@ -3848,7 +3853,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_27",
@@ -3864,7 +3869,7 @@
       "Name": "I Found It",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH_29",
@@ -3880,7 +3885,7 @@
       "Name": "Alchemist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_31",
@@ -3888,7 +3893,7 @@
       "Name": "Stone Collection",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_33",
@@ -3896,7 +3901,7 @@
       "Name": "Miner",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_34",
@@ -3904,7 +3909,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_35",
@@ -3920,7 +3925,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_38",
@@ -3935,7 +3940,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1844,
+      "Progressed": 1850,
       "Completed": 3
     }
   ],
@@ -3943,8 +3948,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-04T23:57:43.6326187+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:10:21.0870139+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:56:31.3656247+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:57:52.6684051+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:10:21.0870586+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:43:55.1658729+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:56:31.3656567+00:00"
 }

@@ -24,9 +24,9 @@
 | Spirit of the past | 59.00% | ~317 |
 | Employee of the month | 59.00% | ~317 |
 | Law student | 57.00% | ~307 |
+| Handyman | 55.00% | ~296 |
 | Workout professional | 54.00% | ~291 |
 | Little hacker | 54.00% | ~291 |
-| Handyman | 54.00% | ~291 |
 | Fight for life | 53.00% | ~285 |
 | Champion – starter pack | 53.00% | ~285 |
 | It's good to be alive | 53.00% | ~285 |
@@ -72,7 +72,7 @@
 | The only right decision | 25.00% | ~134 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 538 (Ranked 340)  
-Completed: 9 (1.67%) (Ranked 143)  
+Completed: 9 (1.67%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

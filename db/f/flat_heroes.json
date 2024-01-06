@@ -4,8 +4,8 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -1650,9 +1650,9 @@
       "ID": "World5Boss",
       "SetID": "d9ekhim",
       "Name": "Eat That Apple",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 168
     },
     {
       "ID": "World6Boss",
@@ -1699,8 +1699,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:10:20.6491602+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:56:30.8032327+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:30.8786427+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:57:41.4575234+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:10:20.6491971+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:43:38.261705+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:56:30.8032595+00:00"
 }

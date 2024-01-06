@@ -1,23 +1,23 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.46 (Ranked 674)  
+Rating: 4.46 (Ranked 675)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 49.00% | ~1,629 |
-| First Love | 44.00% | ~1,463 |
-| Clean Race | 44.00% | ~1,463 |
-| Hear That Roar! | 41.00% | ~1,363 |
+| Eat My Dust | 49.00% | ~1,630 |
+| First Love | 44.00% | ~1,464 |
+| Clean Race | 44.00% | ~1,464 |
+| Hear That Roar! | 41.00% | ~1,364 |
 | Bitter Rivalry | 30.00% | ~998 |
 | Rivals to the End | 30.00% | ~998 |
-| Champagne Spray | 28.00% | ~931 |
-| We're Going to Need a Bigger Garage | 26.00% | ~864 |
+| Champagne Spray | 28.00% | ~932 |
+| We're Going to Need a Bigger Garage | 26.00% | ~865 |
 | Quick Pit Stop | 22.00% | ~732 |
 | Restored and Ready | 20.00% | ~665 |
 | I Want One Too! | 20.00% | ~665 |
 | Legendary!!! | 20.00% | ~665 |
-| Go-Faster Stripes | 17.00% | ~565 |
+| Go-Faster Stripes | 17.00% | ~566 |
 | I'm Here Too! | 14.00% | ~466 |
 | We've Just Begun | 14.00% | ~466 |
 | Is It the Right Size? | 9.00% | ~299 |
@@ -32,11 +32,11 @@ Rating: 4.46 (Ranked 674)
 | I Make the Rules! | 3.00% | ~100 |
 | Rounding Off | 3.00% | ~100 |
 | My Work Here Is Done | 3.00% | ~100 |
-| Iconic! | 2.00% | ~66 |
-| I'll Be the Best! | 2.00% | ~66 |
-| Back in Blighty | 2.00% | ~66 |
-| Still Here | 2.00% | ~66 |
-| Overtaking the Master | 2.00% | ~66 |
+| Iconic! | 2.00% | ~67 |
+| I'll Be the Best! | 2.00% | ~67 |
+| Back in Blighty | 2.00% | ~67 |
+| Still Here | 2.00% | ~67 |
+| Overtaking the Master | 2.00% | ~67 |
 | Next Level | 1.00% | ~33 |
 | I Don't Stop | 1.00% | ~33 |
 | Exhausted but Happy | 0.70% | ~23 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 674)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,325 (Ranked 223)  
+Progressed: 3,327 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-03 | 3,258 | 0 |
 | 2024-01-04 | 3,289 | 0 |
 | 2024-01-05 | 3,324 | 0 |
-| 2024-01-06 | 3,325 | 0 |
+| 2024-01-06 | 3,327 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

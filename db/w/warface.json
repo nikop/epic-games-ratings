@@ -3,12 +3,12 @@
   "Name": "Warface: Clutch",
   "ProductSlug": "warface",
   "Ranking_Rating": 1065,
-  "Ranking_Popularity": 225,
-  "Ranking_PopularitySum": 173,
+  "Ranking_Popularity": 224,
+  "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
     "PcReleaseDate": "2013-10-21T09:00:00+00:00",
@@ -4438,11 +4438,17 @@
       "Rating": 3.9,
       "NumberOfAwards": 3478,
       "NumberOfAwardsMax": 472
+    },
+    {
+      "Time": "2024-01-06T01:47:25.6334335+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 3479,
+      "NumberOfAwardsMax": 473
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3478,
-  "NumberOfAwardsMax": 472,
+  "NumberOfAwards": 3479,
+  "NumberOfAwardsMax": 473,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4485,7 +4491,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 472
+      "Count": 473
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4523,8 +4529,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-12-30T18:59:19.979404+00:00",
+  "LastChanged": "2024-01-06T01:47:25.6334333+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:50.0768205+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:00:10.9600373+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:05:44.837538+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:47:25.6334338+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:52:57.9000623+00:00"
 }

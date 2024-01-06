@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Taking Notes | 4.00% | ~9 |
 | A Greener Day | 3.00% | ~6 |
 | A Sad Moment | 3.00% | ~6 |
-| Taking Notes | 3.00% | ~6 |
+| Dry No More | 3.00% | ~6 |
+| Leave My Baby Alone! | 3.00% | ~6 |
+| Research Complete | 3.00% | ~6 |
+| Room Revealer | 3.00% | ~6 |
+| Seed of Love | 3.00% | ~6 |
 | The Mendel Experiment | 3.00% | ~6 |
 | Time for Renovations | 3.00% | ~6 |
+| Who's a Good Plant? | 3.00% | ~6 |
 | Budding Scientist | 2.00% | ~4 |
-| Dry No More | 2.00% | ~4 |
 | Hands in the Dirt | 2.00% | ~4 |
 | Landlord | 2.00% | ~4 |
-| Leave My Baby Alone! | 2.00% | ~4 |
 | Let's Go for a Walk | 2.00% | ~4 |
 | Master Gardener | 2.00% | ~4 |
 | #NewFilter | 2.00% | ~4 |
 | Pet Pet Pet | 2.00% | ~4 |
 | Pottery Connoisseur | 2.00% | ~4 |
-| Research Complete | 2.00% | ~4 |
-| Room Revealer | 2.00% | ~4 |
-| Seed of Love | 2.00% | ~4 |
 | Spray Spray Spray | 2.00% | ~4 |
 | Water Water Water | 2.00% | ~4 |
-| Who's a Good Plant? | 2.00% | ~4 |
 | Balcony Optimizer | 1.00% | ~2 |
 | Feet in the Water | 1.00% | ~2 |
 | Food for Insects | 1.00% | ~2 |
@@ -37,7 +37,7 @@
 | Perfectionist | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 213 (Ranked 423)  
-Completed: 1 (0.47%) (Ranked 224)  
+Completed: 1 (0.47%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

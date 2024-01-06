@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 614)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,664 |
+| Stylish | 11.00% | ~3,665 |
 | Advancement | 8.00% | ~2,665 |
 | Meticulously Efficient | 8.00% | ~2,665 |
 | Discovery | 6.00% | ~1,999 |
@@ -17,21 +17,21 @@ Rating: 4.50 (Ranked 614)
 | Teamwork | 5.00% | ~1,666 |
 | There you are! | 5.00% | ~1,666 |
 | Vaporous Expansion | 5.00% | ~1,666 |
-| Cultured | 4.00% | ~1,332 |
-| Daily Dose | 4.00% | ~1,332 |
-| Ghostbuster In Training | 4.00% | ~1,332 |
-| Right back at ya | 4.00% | ~1,332 |
-| Whoopsie | 4.00% | ~1,332 |
-| Animated | 3.00% | ~999 |
-| Back Off | 3.00% | ~999 |
-| We have the best insurance | 3.00% | ~999 |
-| Ectoplasmic Entity | 3.00% | ~999 |
-| Icing on the Cake | 3.00% | ~999 |
-| Legions | 3.00% | ~999 |
-| Pesky Jerks | 3.00% | ~999 |
-| Seasoned | 3.00% | ~999 |
-| Side Hustle | 3.00% | ~999 |
-| Summoner | 3.00% | ~999 |
+| Cultured | 4.00% | ~1,333 |
+| Daily Dose | 4.00% | ~1,333 |
+| Ghostbuster In Training | 4.00% | ~1,333 |
+| Right back at ya | 4.00% | ~1,333 |
+| Whoopsie | 4.00% | ~1,333 |
+| Animated | 3.00% | ~1,000 |
+| Back Off | 3.00% | ~1,000 |
+| We have the best insurance | 3.00% | ~1,000 |
+| Ectoplasmic Entity | 3.00% | ~1,000 |
+| Icing on the Cake | 3.00% | ~1,000 |
+| Legions | 3.00% | ~1,000 |
+| Pesky Jerks | 3.00% | ~1,000 |
+| Seasoned | 3.00% | ~1,000 |
+| Side Hustle | 3.00% | ~1,000 |
+| Summoner | 3.00% | ~1,000 |
 | Collector | 2.00% | ~666 |
 | Escape Artist | 2.00% | ~666 |
 | Reckless | 2.00% | ~666 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 614)
 | Rivalry | 1.00% | ~333 |
 | Surprise! | 1.00% | ~333 |
 | Terrifying | 1.00% | ~333 |
-| Therapeutic | 0.80% | ~266 |
+| Therapeutic | 0.80% | ~267 |
 | Rift Seeker | 0.60% | ~200 |
 | Master Collector | 0.50% | ~167 |
 | Ghost Expert | 0.30% | ~100 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 614)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,311 (Ranked 136)  
+Progressed: 33,317 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,15 +318,15 @@ Completed: 71 (0.21%) (Ranked 271)
 | 2024-01-03 | 33,206 | 71 |
 | 2024-01-04 | 33,258 | 71 |
 | 2024-01-05 | 33,310 | 71 |
-| 2024-01-06 | 33,311 | 71 |
+| 2024-01-06 | 33,317 | 71 |
 ## Awards
-Max (Great for Quick Sessions): 327  (Ranked 255)  
-Sum: 2,950 (Ranked 186)  
+Max (Great for Quick Sessions): 328  (Ranked 255)  
+Sum: 2,951 (Ranked 186)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Quick Sessions | 328 |
 | This game is Great for Beginners | 327 |
-| This game is Great for Quick Sessions | 327 |
 | This game has Diverse Characters | 312 |
 | This game has Amazing Storytelling | 293 |
 | This game is Highly Recommended | 292 |
@@ -598,3 +598,4 @@ Diff (max vs sum): 69
 | 2024-01-03 | 4.50 | 327 | 2,948 |
 | 2024-01-04 | 4.50 | 327 | 2,949 |
 | 2024-01-05 | 4.50 | 327 | 2,950 |
+| 2024-01-06 | 4.50 | 328 | 2,951 |

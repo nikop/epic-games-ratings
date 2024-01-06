@@ -2,10 +2,10 @@
   "ID": "7f0be7eaee1f40039da74dd9591ed049",
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
-  "Ranking_EOS_Progress": 538,
-  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_Progress": 533,
+  "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
     "PcReleaseDate": "2021-02-20T01:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 62,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.69,
+  "EOS_NewPlayers": 52,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
     {
       "Time": "2023-12-23T19:03:08.1103933+00:00",
@@ -272,6 +272,11 @@
       "Time": "2024-01-05T22:05:42.8532027+00:00",
       "NumProgressed": 59,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T01:52:05.2275891+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-23T19:03:08.11154+00:00",
@@ -290,7 +295,7 @@
       "ID": "10_RACES",
       "SetID": "2g288ag",
       "Name": "Swift Decade Sprinter",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -298,7 +303,7 @@
       "ID": "15_RACES",
       "SetID": "2g288ag",
       "Name": "Turbocharged Odyssey",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -308,13 +313,13 @@
       "Name": "Rookie Racer",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     },
     {
       "ID": "20_RACES",
       "SetID": "2g288ag",
       "Name": "Race Maestro",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -322,7 +327,7 @@
       "ID": "25_RACES",
       "SetID": "2g288ag",
       "Name": "Silver Streak Spectacle",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 160,
       "UsersEstimate": 4
     },
@@ -330,7 +335,7 @@
       "ID": "2PLAYERS",
       "SetID": "2g288ag",
       "Name": "Dynamic Duo",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 90,
       "UsersEstimate": 18
     },
@@ -340,7 +345,7 @@
       "Name": "Twice on the Track, Twice to win",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "2_RACES",
@@ -348,7 +353,7 @@
       "Name": "Double Trouble",
       "Percentage": 81,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "30_RACES",
@@ -364,13 +369,13 @@
       "Name": "Triple Threat",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "5_MAPS",
       "SetID": "2g288ag",
       "Name": "Track Tourist",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -378,23 +383,23 @@
       "ID": "5_RACES",
       "SetID": "2g288ag",
       "Name": "Quintessential Quest",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NO_CRASH",
       "SetID": "2g288ag",
       "Name": "Zen Racer on Map Number 1",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "WIN_AGAINST_BOT",
       "SetID": "2g288ag",
       "Name": "Unbeatable Challenge",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 7
     }
@@ -403,13 +408,13 @@
     {
       "ID": "2g288ag",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 62,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:05:06.8974243+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:52:05.2275888+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.1375402+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:59:35.0900595+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:05:06.8974448+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:46:30.8622799+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:52:05.2276037+00:00"
 }

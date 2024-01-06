@@ -3,12 +3,12 @@
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
   "Ranking_Rating": 614,
-  "Ranking_Popularity": 103,
-  "Ranking_PopularitySum": 180,
+  "Ranking_Popularity": 101,
+  "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -969,18 +969,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 3282,
       "NumberOfAwardsMax": 2827
+    },
+    {
+      "Time": "2024-01-06T01:47:10.6557144+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 3507,
+      "NumberOfAwardsMax": 3052
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3282,
-  "NumberOfAwardsMax": 2827,
+  "NumberOfAwards": 3507,
+  "NumberOfAwardsMax": 3052,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2827
+      "Count": 3052
     },
     {
       "Text": "This game is Relaxing",
@@ -1057,9 +1063,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-01-06T00:00:01.1166463+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:05:25.1521667+00:00",
+  "LastChanged": "2024-01-06T01:47:10.6557142+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:52:30.4546664+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:45.1038851+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:00:01.1166467+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:05:25.1521695+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:47:10.6557147+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:52:30.4546679+00:00"
 }

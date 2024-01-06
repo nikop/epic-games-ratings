@@ -1,15 +1,15 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 723)  
+Rating: 4.43 (Ranked 724)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,181 |
-| This is only the beginning | 20.00% | ~46,293 |
-| Knowledge is power | 13.00% | ~30,090 |
-| Galvanic Rifle | 10.00% | ~23,146 |
-| Radium Ready | 10.00% | ~23,146 |
+| No aid from the Omnissiah | 26.00% | ~60,183 |
+| This is only the beginning | 20.00% | ~46,294 |
+| Knowledge is power | 13.00% | ~30,091 |
+| Galvanic Rifle | 10.00% | ~23,147 |
+| Radium Ready | 10.00% | ~23,147 |
 | Power Ranger | 9.00% | ~20,832 |
 | Taser Goad | 9.00% | ~20,832 |
 | Half a cog | 9.00% | ~20,832 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 723)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,464 (Ranked 77)  
+Progressed: 231,472 (Ranked 77)  
 Completed: 5 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,16 +301,16 @@ Completed: 5 (0.00%) (Ranked 392)
 | 2024-01-03 | 231,298 | 5 |
 | 2024-01-04 | 231,373 | 5 |
 | 2024-01-05 | 231,461 | 5 |
-| 2024-01-06 | 231,464 | 5 |
+| 2024-01-06 | 231,472 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 264)  
-Sum: 2,224 (Ranked 210)  
+Sum: 2,225 (Ranked 210)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 292 |
 | This game has Quickly Understood Controls | 287 |
-| This game is Extremely Fun | 283 |
+| This game is Extremely Fun | 284 |
 | This game has Amazing Characters | 276 |
 | This game has Diverse Characters | 269 |
 | This game has Amazing Storytelling | 252 |
@@ -436,3 +436,4 @@ Diff (max vs sum): 54
 | 2024-01-02 | 4.43 | 291 | 2,222 |
 | 2024-01-03 | 4.43 | 291 | 2,223 |
 | 2024-01-04 | 4.43 | 292 | 2,224 |
+| 2024-01-06 | 4.43 | 292 | 2,225 |

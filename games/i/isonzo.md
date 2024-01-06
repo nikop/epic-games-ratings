@@ -1,21 +1,21 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 470)  
+Rating: 4.58 (Ranked 471)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,991 |
+| You Shall Not Pass | 51.00% | ~4,992 |
 | Tutti Eroi! | 50.00% | ~4,894 |
-| Peak Performance | 45.00% | ~4,404 |
-| Avanti Savoia! | 44.00% | ~4,306 |
-| Mamma Mia! | 35.00% | ~3,425 |
+| Peak Performance | 45.00% | ~4,405 |
+| Avanti Savoia! | 44.00% | ~4,307 |
+| Mamma Mia! | 35.00% | ~3,426 |
 | Conrad von Hotzensocks | 32.00% | ~3,132 |
 | Gabriele D'Annunzio | 32.00% | ~3,132 |
-| Silver Lining | 27.00% | ~2,642 |
+| Silver Lining | 27.00% | ~2,643 |
 | Aurelio Baruzzi | 21.00% | ~2,055 |
-| Decimation | 20.00% | ~1,957 |
+| Decimation | 20.00% | ~1,958 |
 | Donatello | 19.00% | ~1,860 |
 | Insubordination | 19.00% | ~1,860 |
 | The Italian Job | 19.00% | ~1,860 |
@@ -24,9 +24,9 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 16.00% | ~1,566 |
 | The Lion of the Isonzo | 14.00% | ~1,370 |
 | Uomo Universale | 13.00% | ~1,272 |
-| Die Bosniaken Kommen! | 12.00% | ~1,174 |
-| Dirty Dozen | 12.00% | ~1,174 |
-| Shaken, Not Stirred | 12.00% | ~1,174 |
+| Die Bosniaken Kommen! | 12.00% | ~1,175 |
+| Dirty Dozen | 12.00% | ~1,175 |
+| Shaken, Not Stirred | 12.00% | ~1,175 |
 | Machiavelli | 11.00% | ~1,077 |
 | The Devil's Paintbrush | 10.00% | ~979 |
 | Thus With A Kiss | 10.00% | ~979 |
@@ -38,10 +38,10 @@ Number of Ratings: 98  (23.09.2022)
 | 12th Bottle of the Isonzo | 6.00% | ~587 |
 | The Enlightment | 6.00% | ~587 |
 | Cercatore d'Oro | 5.00% | ~489 |
-| Generalissimo | 4.00% | ~391 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~391 |
+| Generalissimo | 4.00% | ~392 |
+| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~392 |
+| Farewell to Arms | 3.00% | ~294 |
 | Seeing Red | 3.00% | ~294 |
-| Farewell to Arms | 2.00% | ~196 |
 | Ponte of No Return | 2.00% | ~196 |
 | Soča Drag | 2.00% | ~196 |
 | Saboteur | 2.00% | ~196 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,787 (Ranked 181)  
+Progressed: 9,788 (Ranked 181)  
 Completed: 10 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,6 +307,7 @@ Completed: 10 (0.10%) (Ranked 307)
 | 2024-01-03 | 9,754 | 10 |
 | 2024-01-04 | 9,768 | 10 |
 | 2024-01-05 | 9,787 | 10 |
+| 2024-01-06 | 9,788 | 10 |
 ## Awards
 Max (Diverse Characters): 42  (Ranked 476)  
 Sum: 338 (Ranked 371)  

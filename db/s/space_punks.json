@@ -4,11 +4,11 @@
   "ProductSlug": "space-punks",
   "Ranking_Rating": 985,
   "Ranking_Popularity": 313,
-  "Ranking_PopularitySum": 278,
+  "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-20T14:00:00+00:00",
     "PcReleaseDate": "2022-04-20T14:00:00+00:00",
@@ -1894,6 +1894,6 @@
   "FirstSeen": "2022-07-22T20:20:42.1353747+00:00",
   "LastChanged": "2023-10-06T05:00:36.0664089+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:23.1664918+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:57:23.5896277+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:04:22.4264467+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:43:10.2269617+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:51:02.6808501+00:00"
 }

@@ -23,17 +23,18 @@ Number of Ratings: 45  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~32 |
 | Echoes Die | 2.00% | ~32 |
 | Let Me Get My Chisel | 1.00% | ~16 |
+| Chain Reaction | 1.00% | ~16 |
 | Everfading | 1.00% | ~16 |
 | Another Tale to Tell | 1.00% | ~16 |
 | A Story of Heroes | 1.00% | ~16 |
 | Turncoat | 1.00% | ~16 |
 | Some Say I'm Too Flashy | 1.00% | ~16 |
 | Legends Never Die | 0.90% | ~14 |
-| Chain Reaction | 0.90% | ~14 |
 | In Soil, In Smoke | 0.90% | ~14 |
 | No Time for Clawmonsters | 0.80% | ~13 |
 | Worldwalker | 0.70% | ~11 |
 | Plague Doctor | 0.70% | ~11 |
+| All My Birds, Safely Home | 0.70% | ~11 |
 | Bears are Scary | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | Storied Past | 0.60% | ~10 |
@@ -41,7 +42,6 @@ Number of Ratings: 45  (23.09.2022)
 | Bonebreakers | 0.60% | ~10 |
 | A Hunger, Sated | 0.60% | ~10 |
 | Wingknight's Prowess | 0.60% | ~10 |
-| All My Birds, Safely Home | 0.60% | ~10 |
 | Into Mulch | 0.60% | ~10 |
 | Tempest | 0.60% | ~10 |
 | We Emerge Changed | 0.50% | ~8 |

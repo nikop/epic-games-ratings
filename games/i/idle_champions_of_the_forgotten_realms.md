@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,069 |
-| The Cursed Farmer | 2.00% | ~5,034 |
+| A Brief Tour of the Realms | 4.00% | ~10,070 |
+| The Cursed Farmer | 2.00% | ~5,035 |
 | Beast Intentions | 1.00% | ~2,517 |
 | The Mad Wizard | 1.00% | ~2,517 |
 | Welcome to Sigil | 0.80% | ~1,744 |
@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.50% | ~1,259 |
 | The Overgrown Grove | 0.50% | ~1,090 |
 | Mental Gymnastics | 0.50% | ~1,090 |
+| Maddening | 0.40% | ~1,007 |
 | A Persistent Buzzing | 0.40% | ~1,007 |
 | Terror in the Dark | 0.40% | ~1,007 |
 | Arcane Suppression | 0.40% | ~872 |
@@ -30,7 +31,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.40% | ~872 |
 | Don't Lose Your Head | 0.40% | ~872 |
 | Mind Spike | 0.40% | ~872 |
-| Maddening | 0.30% | ~755 |
 | Beast Mode | 0.30% | ~755 |
 | A Mysterious Summons | 0.30% | ~755 |
 | Unearthed Evil | 0.30% | ~755 |
@@ -43,6 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~503 |
 | Supply Run | 0.20% | ~503 |
 | Low Initiative | 0.20% | ~503 |
+| Street War | 0.20% | ~503 |
 | Building Trust | 0.20% | ~503 |
 | March of the Undead | 0.20% | ~503 |
 | No Time To Rest | 0.20% | ~503 |
@@ -200,7 +201,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~252 |
 | Double Vision | 0.10% | ~252 |
 | Underground Railroad | 0.10% | ~252 |
-| Street War | 0.10% | ~252 |
 | Force Grey Unleashed | 0.10% | ~252 |
 | Vajra's Guards | 0.10% | ~252 |
 | Wisdom Check | 0.10% | ~252 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,717 (Ranked 70)  
+Progressed: 251,744 (Ranked 70)  
 Completed: 2,596 (1.03%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -814,7 +814,7 @@ Completed: 2,596 (1.03%) (Ranked 171)
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
-| 2024-01-06 | 251,717 | 2,596 |
+| 2024-01-06 | 251,744 | 2,596 |
 ## Awards
 Max (Great for Beginners): 5,750  (Ranked 72)  
 Sum: 33,345 (Ranked 41)  

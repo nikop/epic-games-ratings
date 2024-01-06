@@ -1,35 +1,35 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 952)  
+Rating: 4.21 (Ranked 950)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,031 |
-| Battering Crew | 19.00% | ~6,190 |
-| The Kingsroad | 18.00% | ~5,864 |
-| Well Stocked | 13.00% | ~4,235 |
-| Royal Fleet | 13.00% | ~4,235 |
-| The Kraken’s Grasp | 9.00% | ~2,932 |
-| Daggers in the Dark | 8.00% | ~2,606 |
-| Alliance | 8.00% | ~2,606 |
-| Winter is Coming | 7.00% | ~2,280 |
-| Oathkeeper | 7.00% | ~2,280 |
-| Influential | 7.00% | ~2,280 |
-| A Long Journey | 7.00% | ~2,280 |
+| Conqueror | 40.00% | ~13,036 |
+| Battering Crew | 19.00% | ~6,192 |
+| The Kingsroad | 18.00% | ~5,866 |
+| Well Stocked | 13.00% | ~4,237 |
+| Royal Fleet | 13.00% | ~4,237 |
+| The Kraken’s Grasp | 9.00% | ~2,933 |
+| Daggers in the Dark | 8.00% | ~2,607 |
+| Alliance | 8.00% | ~2,607 |
+| Winter is Coming | 7.00% | ~2,281 |
+| Oathkeeper | 7.00% | ~2,281 |
+| Influential | 7.00% | ~2,281 |
+| A Long Journey | 7.00% | ~2,281 |
 | Ours is the Fury | 6.00% | ~1,955 |
 | We Do Not Sow | 6.00% | ~1,955 |
 | Defender of the Wall | 6.00% | ~1,955 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,629 |
 | Growing Strong | 5.00% | ~1,629 |
 | Hear me Roar! | 5.00% | ~1,629 |
-| What is Dead may Never Die | 3.00% | ~977 |
+| What is Dead may Never Die | 3.00% | ~978 |
 | King in the North | 2.00% | ~652 |
 | The Swift | 2.00% | ~652 |
 | War of the Five Kings | 1.00% | ~326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,577 (Ranked 137)  
+Progressed: 32,589 (Ranked 137)  
 Completed: 86 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,11 +290,11 @@ Completed: 86 (0.26%) (Ranked 260)
 | 2024-01-03 | 32,380 | 86 |
 | 2024-01-04 | 32,460 | 86 |
 | 2024-01-05 | 32,570 | 86 |
-| 2024-01-06 | 32,577 | 86 |
+| 2024-01-06 | 32,589 | 86 |
 ## Awards
-Max (Quickly Understood Controls): 128  (Ranked 345)  
+Max (Quickly Understood Controls): 128  (Ranked 346)  
 Sum: 809 (Ranked 291)  
-Diff (max vs sum): 54  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 128 |

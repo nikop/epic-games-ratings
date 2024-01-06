@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1854,
+  "EOS_Progressed": 1856,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4662,6 +4662,11 @@
       "Time": "2024-01-06T00:03:36.5075278+00:00",
       "NumProgressed": 1854,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T01:49:57.8963201+00:00",
+      "NumProgressed": 1856,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4720,9 +4725,9 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 130
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -4768,9 +4773,9 @@
       "ID": "ML_ACHIEVEMENT_13",
       "SetID": "5k00jcd",
       "Name": "Look, Mom! No track!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -4856,9 +4861,9 @@
       "ID": "ML_ACHIEVEMENT_24",
       "SetID": "5k00jcd",
       "Name": "The Terrordactyl",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -5000,9 +5005,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -5041,20 +5046,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1854,
+      "Progressed": 1856,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1522,
-      "Completed": 1006
+      "Progressed": 1524,
+      "Completed": 1007
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:03:36.5075274+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:49:57.8963198+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:02:42.1948234+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:03:36.5075721+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:48:34.991228+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:49:57.8963673+00:00"
 }

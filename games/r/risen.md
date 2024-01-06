@@ -23,11 +23,11 @@ Rating: 4.55 (Ranked 525)
 | Archaeologist | 18.00% | ~30 |
 | Ogre friend | 18.00% | ~30 |
 | Family man | 17.00% | ~28 |
+| Sidelined | 17.00% | ~28 |
 | Wise man | 16.00% | ~27 |
 | Little hero | 16.00% | ~27 |
 | The fourth triplet | 16.00% | ~27 |
 | Fence | 16.00% | ~27 |
-| Sidelined | 16.00% | ~27 |
 | Hard worker | 15.00% | ~25 |
 | Master detective | 14.00% | ~23 |
 | Pandora's box | 13.00% | ~22 |

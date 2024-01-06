@@ -8,7 +8,7 @@
 | First Blood | 64.00% | ~237 |
 | Triple Kill | 63.00% | ~234 |
 | Aspairagus | 60.00% | ~193 |
-| No Asperascope | 57.00% | ~211 |
+| No Asperascope | 58.00% | ~215 |
 | Survivor | 56.00% | ~180 |
 | Cornivore | 54.00% | ~200 |
 | I Believe I Can Fly | 49.00% | ~182 |

@@ -4,8 +4,8 @@
   "ProductSlug": "voicemod-34bcbe",
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-30T13:00:06.5781425+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:59:56.9238163+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:05:48.2691442+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:47:04.1057079+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:53:02.654077+00:00"
 }

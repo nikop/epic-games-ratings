@@ -5,10 +5,10 @@
   "Ranking_Rating": 263,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 467,
-  "Ranking_EOS_Progress": 180,
+  "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -281,9 +281,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10269,
+  "EOS_Progressed": 10281,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1600,
+  "EOS_NewPlayers": 1585,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3801,6 +3801,11 @@
       "Time": "2024-01-06T00:10:14.2157879+00:00",
       "NumProgressed": 10269,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T01:56:22.6984473+00:00",
+      "NumProgressed": 10281,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3813,7 +3818,7 @@
       "Name": "Conspiracy",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "03_TheStolenStar",
@@ -3821,7 +3826,7 @@
       "Name": "Stolen Star",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3901,7 +3906,7 @@
       "Name": "Doom Trader",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -3917,7 +3922,7 @@
       "Name": "Pentakill",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "16_TheRise",
@@ -3941,7 +3946,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3949,7 +3954,7 @@
       "Name": "Void Wolf",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3973,7 +3978,7 @@
       "Name": "Perfect Timing",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "23_DynastyRestored",
@@ -3981,7 +3986,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "24_TheHighrise",
@@ -4021,7 +4026,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4029,7 +4034,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "30_The GreatestExploration",
@@ -4037,7 +4042,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "31_DontTouchThis",
@@ -4061,7 +4066,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4069,7 +4074,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4125,7 +4130,7 @@
       "Name": "Jungle Heat",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4133,7 +4138,7 @@
       "Name": "Iron Judgement",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4141,7 +4146,7 @@
       "Name": "No Place Like Home",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -4165,7 +4170,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "47_AFlame",
@@ -4253,7 +4258,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -4332,7 +4337,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10269,
+      "Progressed": 10281,
       "Completed": 1
     }
   ],
@@ -4340,8 +4345,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-05T14:02:45.9085705+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:10:14.2157877+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:56:22.698447+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:02:45.5967298+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:10:14.2158488+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:48:40.309131+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:56:22.6985002+00:00"
 }

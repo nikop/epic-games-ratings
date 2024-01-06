@@ -4,8 +4,8 @@
   "ProductSlug": "indoorlands-3b2356",
   "Ranking_EOS_Progress": 598,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -198,9 +198,9 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "contractor",
@@ -390,9 +390,9 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "visitorLife",
@@ -429,8 +429,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:06:10.4086155+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:53:32.9375988+00:00",
   "LastUpdate_AppInfo": "2024-01-04T09:57:17.0588856+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:57:28.1889428+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:06:10.4086412+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:43:17.0552744+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:53:32.9376232+00:00"
 }

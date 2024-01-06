@@ -4,11 +4,11 @@
   "ProductSlug": "pinball-fx",
   "Ranking_Rating": 1024,
   "Ranking_Popularity": 292,
-  "Ranking_PopularitySum": 231,
+  "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2227,9 +2227,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 291824,
+  "EOS_Progressed": 291862,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3117,
+  "EOS_NewPlayers": 3131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32102,6 +32102,11 @@
       "Time": "2024-01-06T00:08:21.1081153+00:00",
       "NumProgressed": 291824,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T01:53:46.3607495+00:00",
+      "NumProgressed": 291862,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -32273,7 +32278,7 @@
       "Name": "I Found it!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2918
+      "UsersEstimate": 2919
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -32337,7 +32342,7 @@
       "Name": "Ball Launched",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8755
+      "UsersEstimate": 8756
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -32424,21 +32429,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 291824,
+      "Progressed": 291862,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 9983,
+      "Progressed": 10021,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-06T00:03:17.7203346+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:08:21.108115+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:53:46.3607492+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:37.0344456+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:03:17.7203351+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:08:21.1083275+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:49:27.9150009+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:53:46.3609626+00:00"
 }

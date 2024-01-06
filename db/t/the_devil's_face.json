@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 635,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -2789,6 +2789,11 @@
       "Time": "2024-01-05T16:04:18.2263666+00:00",
       "NumProgressed": 634,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T01:50:55.172409+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2808,7 +2813,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2872,7 +2877,7 @@
       "Name": "Unholy lands",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2880,7 +2885,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2888,7 +2893,7 @@
       "Name": "The court",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2911,14 +2916,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 635,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:04:17.2203152+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:50:55.1724086+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.2024016+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:58:08.4350387+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:04:17.2203518+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:44:18.4366594+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:50:55.1724314+00:00"
 }

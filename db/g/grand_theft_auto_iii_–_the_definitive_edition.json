@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -691,9 +691,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11673,
+  "EOS_Progressed": 11675,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -14861,6 +14861,11 @@
       "Time": "2024-01-06T00:04:06.6878805+00:00",
       "NumProgressed": 11673,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-06T01:50:41.1437521+00:00",
+      "NumProgressed": 11675,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 29,
@@ -14872,7 +14877,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9689
+      "UsersEstimate": 9690
     },
     {
       "ID": "ACH02",
@@ -14880,7 +14885,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3969
+      "UsersEstimate": 3970
     },
     {
       "ID": "ACH03",
@@ -14888,7 +14893,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH04",
@@ -14936,7 +14941,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACH10",
@@ -14944,7 +14949,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     },
     {
       "ID": "ACH11",
@@ -14960,7 +14965,7 @@
       "Name": "Come Out to Play-y-y-y",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH13",
@@ -14968,7 +14973,7 @@
       "Name": "Where To?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH14",
@@ -14976,7 +14981,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "ACH15",
@@ -14992,7 +14997,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2918
+      "UsersEstimate": 2919
     },
     {
       "ID": "ACH17",
@@ -15000,7 +15005,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "ACH18",
@@ -15008,7 +15013,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACH19",
@@ -15032,7 +15037,7 @@
       "Name": "Splish Splash",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH22",
@@ -15040,7 +15045,7 @@
       "Name": "Playing Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH23",
@@ -15064,7 +15069,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACH26",
@@ -15080,7 +15085,7 @@
       "Name": "Liberty City Secrets",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH28",
@@ -15103,7 +15108,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 11673,
+      "Progressed": 11675,
       "Completed": 77
     }
   ],
@@ -15111,8 +15116,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-04T20:59:03.7488216+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:04:06.6878802+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:50:41.1437517+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.0840087+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:58:55.466383+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:04:06.6879729+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:45:29.5893311+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:50:41.1438591+00:00"
 }

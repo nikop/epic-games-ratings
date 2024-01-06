@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -363,9 +363,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2268,
+  "EOS_Progressed": 2269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4048,6 +4048,11 @@
       "Time": "2024-01-06T00:04:07.8671759+00:00",
       "NumProgressed": 2268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T01:50:42.8603232+00:00",
+      "NumProgressed": 2269,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4073,9 +4078,9 @@
       "ID": "Achievement_003",
       "SetID": "6b34g18",
       "Name": "Home Is Where the Heart Is",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 318
     },
     {
       "ID": "Achievement_004",
@@ -4083,7 +4088,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Achievement_006",
@@ -4107,7 +4112,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Achievement_009",
@@ -4115,7 +4120,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Achievement_010",
@@ -4123,7 +4128,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Achievement_011",
@@ -4363,7 +4368,7 @@
       "Name": "Heart Attack",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Achievement_041",
@@ -4577,16 +4582,16 @@
       "ID": "Achievement_071",
       "SetID": "6b34g18",
       "Name": "I Spit On Your Grave",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2268,
+      "Progressed": 2269,
       "Completed": 0
     }
   ],
@@ -4594,8 +4599,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-05T20:58:30.2960535+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:04:07.8671754+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:50:42.860323+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:58:10.2671416+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:04:07.8672683+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:44:21.2837613+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:50:42.8603935+00:00"
 }

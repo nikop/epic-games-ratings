@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 729,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.98,
   "EosHistory": [
@@ -2414,9 +2414,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 474
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -2454,9 +2454,9 @@
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 328
     },
     {
       "ID": "ach_main07storm_storm",
@@ -2526,9 +2526,9 @@
       "ID": "ach_main10fire_freehorde",
       "SetID": "4hg22ll",
       "Name": "Unstoppable Horde",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 255
     },
     {
       "ID": "ach_main10fire_naga",
@@ -2638,9 +2638,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 241
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -2742,9 +2742,9 @@
       "ID": "ach_main19war_heal",
       "SetID": "4hg22ll",
       "Name": "Heal Heal Blessing",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_main19war_stonedamage",
@@ -2766,17 +2766,17 @@
       "ID": "ach_main20end_notristan",
       "SetID": "4hg22ll",
       "Name": "I Don\u0027t Need Any Help",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_main20end_spawners",
       "SetID": "4hg22ll",
       "Name": "Evilification",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 131
     }
   ],
   "AchievementSets": [
@@ -2791,8 +2791,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:09:25.7012831+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:55:15.6383647+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-06T00:02:34.9734715+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:09:25.7013348+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:48:23.9577182+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:55:15.6384115+00:00"
 }

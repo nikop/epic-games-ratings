@@ -6,35 +6,35 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 82.00% | ~266 |
-| Mash Machine | 75.00% | ~243 |
-| Ducks in a Row, Fish in a Barrel | 54.00% | ~175 |
-| Furon Fashion | 47.00% | ~152 |
+| Rock of the Bay | 83.00% | ~271 |
+| Mash Machine | 75.00% | ~244 |
+| Ducks in a Row, Fish in a Barrel | 54.00% | ~176 |
+| Furon Fashion | 47.00% | ~153 |
 | Shop Til They Drop | 40.00% | ~130 |
-| Bodied Sattva | 38.00% | ~123 |
-| Cult Following | 35.00% | ~113 |
-| Earthly Pleasures | 34.00% | ~110 |
-| Lie Back and Think of Albion | 26.00% | ~84 |
-| Upgreatest | 26.00% | ~84 |
-| Pimp My Raid | 25.00% | ~81 |
+| Bodied Sattva | 39.00% | ~127 |
+| Cult Following | 35.00% | ~114 |
+| Earthly Pleasures | 35.00% | ~114 |
+| Lie Back and Think of Albion | 26.00% | ~85 |
+| Upgreatest | 26.00% | ~85 |
+| Pimp My Raid | 25.00% | ~82 |
+| Freshly Squeezed | 21.00% | ~68 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~65 |
-| Freshly Squeezed | 20.00% | ~65 |
 | Perfect Probulator | 17.00% | ~55 |
 | Die Nasty | 17.00% | ~55 |
 | Transmitting From Sol-3 | 15.00% | ~49 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~42 |
-| Fly Me to the Moon Base | 10.00% | ~32 |
-| Kaijuiced | 10.00% | ~32 |
+| Fly Me to the Moon Base | 10.00% | ~33 |
+| Kaijuiced | 10.00% | ~33 |
 | Dusted | 9.00% | ~29 |
 | Scuttled | 8.00% | ~26 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~23 |
-| Lobster Blisque | 6.00% | ~19 |
+| Lobster Blisque | 6.00% | ~20 |
 | Yettisoned | 5.00% | ~16 |
 | Ultimate Smoothie | 4.00% | ~13 |
 | Arkvoodle Doodle | 4.00% | ~13 |
 | Deincarnated | 3.00% | ~10 |
-| Against All Odds | 2.00% | ~6 |
-| The Optional Mandate | 2.00% | ~6 |
+| Against All Odds | 2.00% | ~7 |
+| The Optional Mandate | 2.00% | ~7 |
 | Arty Facts | 1.00% | ~3 |
 | Forbidden Donut | 1.00% | ~3 |
 | PK Slam Dunk | 0.90% | ~3 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.60% | ~2 |
 | Trans-Siberian Express | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324 (Ranked 384)  
-Completed: 2 (0.62%) (Ranked 203)  
+Progressed: 326 (Ranked 384)  
+Completed: 2 (0.61%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,6 +92,7 @@ Completed: 2 (0.62%) (Ranked 203)
 | 2024-01-03 | 301 | 1 |
 | 2024-01-04 | 311 | 1 |
 | 2024-01-05 | 324 | 2 |
+| 2024-01-06 | 326 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 495)  
 Sum: 36 (Ranked 527)  

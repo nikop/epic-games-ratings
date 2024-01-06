@@ -9355,9 +9355,9 @@
       "Count": 3628
     }
   ],
-  "EOS_Progressed": 251717,
+  "EOS_Progressed": 251744,
   "EOS_Completed": 2596,
-  "EOS_NewPlayers": 4561,
+  "EOS_NewPlayers": 4530,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38860,6 +38860,11 @@
       "Time": "2024-01-06T00:10:30.8449658+00:00",
       "NumProgressed": 251717,
       "NumCompleted": 2596
+    },
+    {
+      "Time": "2024-01-06T01:56:42.7385677+00:00",
+      "NumProgressed": 251744,
+      "NumCompleted": 2596
     }
   ],
   "TotalAchievements": 546,
@@ -38871,15 +38876,15 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10069
+      "UsersEstimate": 10070
     },
     {
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 1007
     },
     {
       "ID": "objective_completed_100",
@@ -40069,9 +40074,9 @@
       "ID": "objective_completed_165",
       "SetID": "cc37lbc",
       "Name": "Street War",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 503
     },
     {
       "ID": "objective_completed_166",
@@ -40543,7 +40548,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "objective_completed_34",
@@ -43238,21 +43243,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217991,
-      "Completed": 4136
+      "Progressed": 218018,
+      "Completed": 4137
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251717,
+      "Progressed": 251744,
       "Completed": 2596
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-05T23:59:33.9852982+00:00",
-  "LastChanged_Achievements": "2024-01-06T00:10:30.8449654+00:00",
+  "LastChanged_Achievements": "2024-01-06T01:56:42.7385672+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-05T23:59:33.9852994+00:00",
-  "LastUpdate_Achievements": "2024-01-06T00:10:30.8474354+00:00"
+  "LastUpdate_Ratings": "2024-01-06T01:46:29.2232145+00:00",
+  "LastUpdate_Achievements": "2024-01-06T01:56:42.7408884+00:00"
 }

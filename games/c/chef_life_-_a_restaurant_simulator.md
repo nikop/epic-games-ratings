@@ -5,7 +5,7 @@ Rating: 4.45 (Ranked 693)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 61.00% | ~594 |
+| The Big Day | 61.00% | ~595 |
 | You're the Expert! | 27.00% | ~263 |
 | Home Cook | 24.00% | ~234 |
 | So Clean You Can Eat Off the Floor | 16.00% | ~156 |
@@ -19,7 +19,7 @@ Rating: 4.45 (Ranked 693)
 | Well-Stocked Kitchen | 4.00% | ~39 |
 | Culinary Arts | 3.00% | ~29 |
 | Perfectionist | 3.00% | ~29 |
-| Leaning Tower of Pizza | 2.00% | ~19 |
+| Leaning Tower of Pizza | 2.00% | ~20 |
 | The Bigger the Better | 0.50% | ~5 |
 | Eco Warrior | 0.30% | ~3 |
 | Chef, Yes Chef! | 0.30% | ~3 |
@@ -46,7 +46,7 @@ Rating: 4.45 (Ranked 693)
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974 (Ranked 291)  
+Progressed: 975 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,6 +260,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-03 | 948 | 0 |
 | 2024-01-04 | 960 | 0 |
 | 2024-01-05 | 974 | 0 |
+| 2024-01-06 | 975 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

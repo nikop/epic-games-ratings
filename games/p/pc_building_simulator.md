@@ -6,43 +6,43 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,766,129 |
-| Easy to forget | 46.00% | ~1,657,999 |
-| Back in the black | 39.00% | ~1,405,695 |
-| That's what I'm talking about | 29.00% | ~1,045,260 |
-| The Best of Both Worlds | 25.00% | ~901,086 |
-| Get your wings | 20.00% | ~720,869 |
-| Double trouble | 16.00% | ~576,695 |
-| Smashing it | 11.00% | ~396,478 |
-| But can it run Crysis? | 9.00% | ~324,391 |
-| My favourite feature... | 9.00% | ~324,391 |
-| From humble beginnings... | 7.00% | ~252,304 |
-| Customer satisfaction | 7.00% | ~252,304 |
-| Keeping things neat | 4.00% | ~144,174 |
-| Seems you're pretty good at this | 4.00% | ~144,174 |
-| Bending over backwards | 4.00% | ~144,174 |
-| I'm broke, Uncle! | 3.00% | ~108,130 |
-| Triple threat | 3.00% | ~108,130 |
-| You rock at this! | 3.00% | ~108,130 |
-| Perfection | 3.00% | ~108,130 |
-| Your music sucks | 3.00% | ~108,130 |
-| Maybe you should try something else? | 2.00% | ~72,087 |
-| Taking care of business | 2.00% | ~72,087 |
-| Things are under control | 2.00% | ~72,087 |
-| Calling in Sick | 2.00% | ~72,087 |
-| Overvolted | 1.00% | ~36,043 |
-| If you fail the first time... | 1.00% | ~36,043 |
-| Amazonian | 1.00% | ~36,043 |
-| Show off | 1.00% | ~36,043 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,043 |
-| Building isn't cheap! | 1.00% | ~36,043 |
-| Majority Shareholder | 1.00% | ~36,043 |
-| Owner | 1.00% | ~36,043 |
-| Work ethic 101 | 0.70% | ~25,230 |
+| You need to plug it in... | 49.00% | ~1,766,150 |
+| Easy to forget | 46.00% | ~1,658,018 |
+| Back in the black | 39.00% | ~1,405,711 |
+| That's what I'm talking about | 29.00% | ~1,045,272 |
+| The Best of Both Worlds | 25.00% | ~901,097 |
+| Get your wings | 20.00% | ~720,877 |
+| Double trouble | 16.00% | ~576,702 |
+| Smashing it | 11.00% | ~396,483 |
+| But can it run Crysis? | 9.00% | ~324,395 |
+| My favourite feature... | 9.00% | ~324,395 |
+| From humble beginnings... | 7.00% | ~252,307 |
+| Customer satisfaction | 7.00% | ~252,307 |
+| Keeping things neat | 4.00% | ~144,175 |
+| Seems you're pretty good at this | 4.00% | ~144,175 |
+| Bending over backwards | 4.00% | ~144,175 |
+| I'm broke, Uncle! | 3.00% | ~108,132 |
+| Triple threat | 3.00% | ~108,132 |
+| You rock at this! | 3.00% | ~108,132 |
+| Perfection | 3.00% | ~108,132 |
+| Your music sucks | 3.00% | ~108,132 |
+| Maybe you should try something else? | 2.00% | ~72,088 |
+| Taking care of business | 2.00% | ~72,088 |
+| Things are under control | 2.00% | ~72,088 |
+| Calling in Sick | 2.00% | ~72,088 |
+| Overvolted | 1.00% | ~36,044 |
+| If you fail the first time... | 1.00% | ~36,044 |
+| Amazonian | 1.00% | ~36,044 |
+| Show off | 1.00% | ~36,044 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,044 |
+| Building isn't cheap! | 1.00% | ~36,044 |
+| Majority Shareholder | 1.00% | ~36,044 |
+| Owner | 1.00% | ~36,044 |
+| Work ethic 101 | 0.70% | ~25,231 |
 | Building momentum | 0.60% | ~21,626 |
 | Lead by example | 0.60% | ~21,626 |
 | Treat yourself - RAM | 0.50% | ~18,022 |
-| Mr big business | 0.40% | ~14,417 |
+| Mr big business | 0.40% | ~14,418 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,813 |
 | Mister Big | 0.30% | ~10,813 |
 | Getting your feet wet | 0.30% | ~10,813 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,604 |
 | Treat yourself - GPU | 0.10% | ~3,604 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,604,345 (Ranked 5)  
+Progressed: 3,604,387 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,11 +320,11 @@ Completed: 41 (0.00%) (Ranked 392)
 | 2024-01-03 | 3,603,102 | 41 |
 | 2024-01-04 | 3,603,683 | 41 |
 | 2024-01-05 | 3,604,324 | 41 |
-| 2024-01-06 | 3,604,345 | 41 |
+| 2024-01-06 | 3,604,387 | 41 |
 ## Awards
-Max (Great for Beginners): 1,131  (Ranked 149)  
+Max (Great for Beginners): 1,131  (Ranked 150)  
 Sum: 8,269 (Ranked 113)  
-Diff (max vs sum): 36  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,131 |
