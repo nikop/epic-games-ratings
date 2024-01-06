@@ -2,10 +2,10 @@
   "ID": "5f3452bade6849f4981ca2bcaaec5505",
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
-  "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 378,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 10.27,
+  "EOS_Completed_Percentage": 10.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -815,6 +815,11 @@
       "Time": "2024-01-06T18:09:52.8725567+00:00",
       "NumProgressed": 292,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-06T19:09:37.7246287+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 17,
@@ -826,7 +831,7 @@
       "Name": "And away we go!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "bless_the_rain",
@@ -842,7 +847,7 @@
       "Name": "Blow",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "brown_nosing",
@@ -888,9 +893,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 179
     },
     {
       "ID": "just_like_me",
@@ -898,7 +903,7 @@
       "Name": "Just like me",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "making_a_murderer",
@@ -906,7 +911,7 @@
       "Name": "Making a murderer",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "prove_it",
@@ -922,7 +927,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "the_truth",
@@ -954,14 +959,14 @@
       "Name": "You are Carol Vorderman",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 30
     }
   ],
@@ -969,8 +974,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:09:52.8725565+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:09:37.7246282+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:45.8627972+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:02:44.5340213+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:09:52.8725693+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:02:41.791958+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:09:37.7246524+00:00"
 }

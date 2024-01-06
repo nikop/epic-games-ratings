@@ -6,9 +6,9 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 82.00% | ~276 |
-| Mash Machine | 74.00% | ~249 |
-| Ducks in a Row, Fish in a Barrel | 53.00% | ~179 |
+| Rock of the Bay | 83.00% | ~280 |
+| Mash Machine | 75.00% | ~253 |
+| Ducks in a Row, Fish in a Barrel | 54.00% | ~182 |
 | Furon Fashion | 47.00% | ~158 |
 | Shop Til They Drop | 40.00% | ~135 |
 | Bodied Sattva | 38.00% | ~128 |
@@ -19,8 +19,8 @@ Number of Ratings: 90  (23.09.2022)
 | Pimp My Raid | 24.00% | ~81 |
 | Freshly Squeezed | 21.00% | ~71 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~67 |
+| Die Nasty | 18.00% | ~61 |
 | Perfect Probulator | 17.00% | ~57 |
-| Die Nasty | 17.00% | ~57 |
 | Transmitting From Sol-3 | 15.00% | ~51 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~40 |
 | Kaijuiced | 10.00% | ~34 |

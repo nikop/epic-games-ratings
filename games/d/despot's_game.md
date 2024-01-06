@@ -18,8 +18,8 @@ Rating: 4.50 (Ranked 613)
 | He's Seen It All | 28.00% | ~138 |
 | Great Hero | 28.00% | ~138 |
 | Campaigning | 27.00% | ~133 |
+| Catch Jonathan_tostar | 27.00% | ~133 |
 | Rookie | 27.00% | ~133 |
-| Catch Jonathan_tostar | 26.00% | ~128 |
 | Assemble a Meganewbie | 24.00% | ~119 |
 | Frugal | 21.00% | ~104 |
 | Feed a God | 21.00% | ~104 |

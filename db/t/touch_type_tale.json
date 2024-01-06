@@ -2,12 +2,12 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 150,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,11 +37,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3998,
+  "EOS_Progressed": 4000,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.3745824+00:00",
@@ -5507,6 +5507,11 @@
       "Time": "2024-01-06T15:05:30.894758+00:00",
       "NumProgressed": 3998,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-06T19:05:43.2595058+00:00",
+      "NumProgressed": 4000,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5566,7 +5571,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3480
     },
     {
       "ID": "campaign10",
@@ -5654,7 +5659,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2998
+      "UsersEstimate": 3000
     },
     {
       "ID": "campaign20",
@@ -5670,7 +5675,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "campaign4",
@@ -5678,7 +5683,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "campaign5",
@@ -5726,7 +5731,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "scenario2",
@@ -5781,7 +5786,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3998,
+      "Progressed": 4000,
       "Completed": 11
     }
   ],
@@ -5789,8 +5794,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:05:46.5318993+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:05:43.2595055+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:59:06.1560062+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:05:46.5319384+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:59:05.4860873+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:05:43.2595789+00:00"
 }

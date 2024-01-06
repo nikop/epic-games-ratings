@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 413,
-  "EOS_Completed": 99,
-  "EOS_NewPlayers": 33,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 23.97,
+  "EOS_Completed": 100,
+  "EOS_NewPlayers": 31,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 24.21,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -2194,6 +2194,11 @@
       "Time": "2024-01-06T18:04:13.0844768+00:00",
       "NumProgressed": 413,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2024-01-06T19:04:10.2790034+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 100
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -2260,9 +2265,9 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 186
+      "UsersEstimate": 190
     },
     {
       "ID": "GasDeath",
@@ -2308,9 +2313,9 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 186
+      "UsersEstimate": 190
     }
   ],
   "AchievementSets": [
@@ -2318,13 +2323,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 413,
-      "Completed": 99
+      "Completed": 100
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:04:13.0844765+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:04:10.2790028+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:23.201102+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:59:04.8462222+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:04:13.0844952+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:59:04.1793304+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:04:10.2790239+00:00"
 }

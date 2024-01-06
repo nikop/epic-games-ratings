@@ -5,19 +5,19 @@ Rating: 4.58 (Ranked 471)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 32.00% | ~1,290 |
-| Sputnik 2049 | 28.00% | ~1,129 |
-| Infinite Growth... | 27.00% | ~1,089 |
-| Without Breaking Some Eggs... | 26.00% | ~1,048 |
-| Ready for a New World | 19.00% | ~766 |
-| Space Society | 18.00% | ~726 |
-| A Thousand Strong | 18.00% | ~726 |
-| Permanent Redesigns | 16.00% | ~645 |
-| Fully Recycled | 15.00% | ~605 |
-| The Ship of Theseus | 15.00% | ~605 |
-| Guy de Borderlands | 14.00% | ~564 |
-| Ain't Nobody Got Time for That | 14.00% | ~564 |
-| Hope Seeker | 13.00% | ~524 |
+| Wakey Wakey | 33.00% | ~1,332 |
+| Sputnik 2049 | 28.00% | ~1,130 |
+| Infinite Growth... | 27.00% | ~1,090 |
+| Without Breaking Some Eggs... | 26.00% | ~1,050 |
+| Ready for a New World | 19.00% | ~767 |
+| Space Society | 18.00% | ~727 |
+| A Thousand Strong | 18.00% | ~727 |
+| Permanent Redesigns | 16.00% | ~646 |
+| Fully Recycled | 15.00% | ~606 |
+| The Ship of Theseus | 15.00% | ~606 |
+| Guy de Borderlands | 14.00% | ~565 |
+| Ain't Nobody Got Time for That | 14.00% | ~565 |
+| Hope Seeker | 13.00% | ~525 |
 | A Hunk of Junk | 12.00% | ~484 |
 | Exceeding Capacity | 12.00% | ~484 |
 | Breaking Protocol | 12.00% | ~484 |
@@ -25,9 +25,9 @@ Rating: 4.58 (Ranked 471)
 | Power Outage | 9.00% | ~363 |
 | Please Make it Stop! | 9.00% | ~363 |
 | Convenient Transport | 8.00% | ~323 |
-| Sightseeing | 7.00% | ~282 |
-| Necessary Enhancement | 7.00% | ~282 |
-| From the Past | 7.00% | ~282 |
+| Sightseeing | 7.00% | ~283 |
+| Necessary Enhancement | 7.00% | ~283 |
+| From the Past | 7.00% | ~283 |
 | Access Granted | 6.00% | ~242 |
 | All in Good Health | 6.00% | ~242 |
 | Drill-dozer | 6.00% | ~242 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 471)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,032 (Ranked 211)  
+Progressed: 4,037 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 3,940 | 0 |
 | 2024-01-04 | 3,963 | 0 |
 | 2024-01-05 | 4,002 | 0 |
-| 2024-01-06 | 4,032 | 0 |
+| 2024-01-06 | 4,037 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

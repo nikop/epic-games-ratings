@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 499,
+  "EOS_Progressed": 500,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -2089,6 +2089,11 @@
       "Time": "2024-01-06T18:05:53.7950345+00:00",
       "NumProgressed": 499,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T19:05:50.2946046+00:00",
+      "NumProgressed": 500,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2101,7 +2106,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2115,9 +2120,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 310
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2139,9 +2144,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 245
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2157,7 +2162,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2211,9 +2216,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 250
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2245,7 +2250,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2260,14 +2265,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 499,
+      "Progressed": 500,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:05:53.7950341+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:05:50.2946042+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:57:49.6830659+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:05:53.795055+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:57:49.5833079+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:05:50.2946209+00:00"
 }

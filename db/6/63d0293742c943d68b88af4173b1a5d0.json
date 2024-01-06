@@ -2170,9 +2170,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 66
     },
     {
       "ID": "6",
@@ -2210,17 +2210,17 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 211
     },
     {
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 487
     },
     {
       "ID": "REMAKE_004",
@@ -2385,8 +2385,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:05:27.2859281+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:05:23.8885581+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:59:34.6396996+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:05:27.2859519+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:59:34.1057792+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:05:23.888583+00:00"
 }

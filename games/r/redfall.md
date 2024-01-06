@@ -43,13 +43,13 @@ Rating: 3.66 (Ranked 1,090)
 | Blacklight Down | 1.00% | ~23 |
 | Curious Finch | 1.00% | ~23 |
 | Bloody Initiate | 0.90% | ~21 |
+| Blood Brother | 0.80% | ~18 |
 | Empty Nest Syndrome | 0.80% | ~18 |
 | Neighborhood Watch | 0.70% | ~16 |
-| Blood Brother | 0.70% | ~16 |
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
+| Good Samaritan | 0.70% | ~16 |
 | Sisterhood | 0.60% | ~14 |
-| Good Samaritan | 0.60% | ~14 |
 | Scream Team | 0.50% | ~11 |
 | Monster Hunters Club | 0.40% | ~9 |
 | Friendgineering | 0.40% | ~9 |

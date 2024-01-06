@@ -3,7 +3,7 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 67,
-  "Ranking_Popularity": 230,
+  "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 281,
@@ -3797,9 +3797,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 20297,
+  "EOS_Progressed": 20303,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18682,6 +18682,11 @@
       "Time": "2024-01-06T18:06:22.3970504+00:00",
       "NumProgressed": 20297,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-06T19:06:19.1599466+00:00",
+      "NumProgressed": 20303,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19022,7 +19027,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "WinWithEvents",
@@ -19158,22 +19163,22 @@
       "Name": "Fox Utopia",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20297,
+      "Progressed": 20303,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-06T15:59:55.8031788+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:06:22.39705+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:06:19.1599462+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:00:02.0555626+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:06:22.3971648+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:00:01.9883213+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:06:19.1600507+00:00"
 }

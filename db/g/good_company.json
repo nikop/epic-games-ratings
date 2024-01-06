@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5798,
+  "EOS_Progressed": 5799,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5249,6 +5249,11 @@
       "Time": "2024-01-06T18:06:00.1797298+00:00",
       "NumProgressed": 5798,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T19:05:56.656674+00:00",
+      "NumProgressed": 5799,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5372,7 +5377,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2842
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5412,7 +5417,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "ach_campaign_special10",
@@ -5867,15 +5872,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5798,
+      "Progressed": 5799,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:06:00.1797294+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:05:56.6566736+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.6175263+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:58:53.3277671+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:06:00.1798094+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:58:53.1612916+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:05:56.6567639+00:00"
 }

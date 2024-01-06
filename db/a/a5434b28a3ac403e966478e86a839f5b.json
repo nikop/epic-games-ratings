@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 892,
+  "EOS_Progressed": 893,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -3095,6 +3095,11 @@
       "Time": "2024-01-06T18:09:00.4918265+00:00",
       "NumProgressed": 892,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T19:08:45.2267831+00:00",
+      "NumProgressed": 893,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3123,7 +3128,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_eou3",
@@ -3139,7 +3144,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_eou5",
@@ -3147,7 +3152,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_eou6",
@@ -3163,7 +3168,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_eou8",
@@ -3210,14 +3215,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 892,
+      "Progressed": 893,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:09:00.4918263+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:08:45.2267827+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:57:47.1451576+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:09:00.4918485+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:57:47.3371097+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:08:45.2268093+00:00"
 }

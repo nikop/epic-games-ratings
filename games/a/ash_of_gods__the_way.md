@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 89.00% | ~58 |
-| Suicide squad | 46.00% | ~30 |
+| First success | 89.00% | ~59 |
+| Suicide squad | 45.00% | ~30 |
 | Train hard, fight easy | 29.00% | ~19 |
 | Under cover | 29.00% | ~19 |
 | First blood | 29.00% | ~19 |
 | Royal blessing | 23.00% | ~15 |
-| Blood and sand | 22.00% | ~14 |
+| Blood and sand | 21.00% | ~14 |
 | All for one! | 20.00% | ~13 |
 | A hidden snake | 20.00% | ~13 |
 | Crimson rivers | 17.00% | ~11 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 529)  
+Progressed: 66 (Ranked 528)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 59 | 0 |
 | 2024-01-03 | 61 | 0 |
 | 2024-01-05 | 63 | 0 |
-| 2024-01-06 | 65 | 0 |
+| 2024-01-06 | 66 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

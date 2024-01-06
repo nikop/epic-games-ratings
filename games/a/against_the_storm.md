@@ -53,8 +53,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 1.00% | ~203 |
 | Feeding The People | 0.70% | ~142 |
 | Like a Machine | 0.70% | ~142 |
-| Blood Flower Farmer | 0.50% | ~101 |
-| Fox Utopia | 0.50% | ~101 |
+| Blood Flower Farmer | 0.50% | ~102 |
+| Fox Utopia | 0.50% | ~102 |
 | Prestigious Expedition | 0.40% | ~81 |
 | Human Utopia | 0.30% | ~61 |
 | Beaver Utopia | 0.20% | ~41 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,297 (Ranked 154)  
+Progressed: 20,303 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,11 +327,11 @@ Completed: 34 (0.17%) (Ranked 281)
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
-| 2024-01-06 | 20,297 | 34 |
+| 2024-01-06 | 20,303 | 34 |
 ## Awards
-Max (Quickly Understood Controls): 449  (Ranked 230)  
+Max (Quickly Understood Controls): 449  (Ranked 231)  
 Sum: 3,340 (Ranked 177)  
-Diff (max vs sum): 53  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 449 |

@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -940,9 +940,9 @@
       "ID": "killGolem10",
       "SetID": "ci65fo0",
       "Name": "Golems Fighter",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "killGrave10",
@@ -1393,8 +1393,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:09:57.5935808+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:09:42.92138+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:15.9010052+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:00:13.0266835+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:09:57.5936424+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:00:11.9318882+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:09:42.9214628+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -987,9 +987,9 @@
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "jz3",
@@ -1194,8 +1194,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:03:57.0569922+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:03:54.8341276+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:03:06.1223728+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:03:57.0570227+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:03:03.1465425+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:03:54.8341644+00:00"
 }

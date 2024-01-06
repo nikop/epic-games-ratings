@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 477,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 52,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -513,9 +513,9 @@
       "ID": "ACH_WIN_BY_40",
       "SetID": "1lnhagg",
       "Name": "Overpowered",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_WIN_EUROLEAGUE",
@@ -552,8 +552,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:08:49.5695325+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:08:34.070968+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:09.2723811+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:59:01.5790081+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:08:49.569558+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:59:00.8678353+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:08:34.0709943+00:00"
 }

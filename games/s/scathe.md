@@ -12,9 +12,9 @@
 | Doomed | 0.80% | ~5 |
 | Postal Service | 0.80% | ~5 |
 | Unreal | 0.80% | ~5 |
-| Bloodstorm | 0.70% | ~4 |
-| Pacifantastic | 0.70% | ~4 |
-| SCATHE Too | 0.70% | ~4 |
+| Bloodstorm | 0.60% | ~4 |
+| Pacifantastic | 0.60% | ~4 |
+| SCATHE Too | 0.60% | ~4 |
 | Amaging Work | 0.50% | ~3 |
 | ...And I'm All Out Of Gun | 0.50% | ~3 |
 | Castle Of The Wolf | 0.50% | ~3 |
@@ -35,7 +35,7 @@
 | Rage Quit | 0.20% | ~1 |
 | Until Dusk | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615 (Ranked 338)  
+Progressed: 616 (Ranked 338)  
 Completed: 1 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 1 (0.16%) (Ranked 282)
 | 2024-01-03 | 610 | 1 |
 | 2024-01-04 | 611 | 1 |
 | 2024-01-05 | 612 | 1 |
-| 2024-01-06 | 615 | 1 |
+| 2024-01-06 | 616 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

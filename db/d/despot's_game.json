@@ -875,9 +875,9 @@
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 133
     },
     {
       "ID": "finished-quest-sci",
@@ -1036,8 +1036,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:05:41.6522502+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:05:38.1887762+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.2003375+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:59:06.2273857+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:05:41.6522733+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:59:05.5503048+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:05:38.1888002+00:00"
 }

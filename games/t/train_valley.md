@@ -6,28 +6,28 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~484 |
-| Close call! | 71.00% | ~452 |
+| Getting started | 76.00% | ~485 |
+| Close call! | 71.00% | ~453 |
 | Builder | 51.00% | ~325 |
-| Living it large! | 44.00% | ~280 |
+| Living it large! | 44.00% | ~281 |
 | Pangs of conscience | 43.00% | ~274 |
 | Collector | 42.00% | ~268 |
-| Need to think | 41.00% | ~261 |
+| Need to think | 41.00% | ~262 |
 | Completely nuts! | 40.00% | ~255 |
 | Europe | 32.00% | ~204 |
 | Just in time! | 32.00% | ~204 |
-| Madness! | 31.00% | ~197 |
+| Madness! | 31.00% | ~198 |
 | It's no coincidence. | 27.00% | ~172 |
 | Philatelist | 26.00% | ~166 |
-| Let's roll! | 25.00% | ~159 |
+| Let's roll! | 25.00% | ~160 |
 | Ouroboros | 24.00% | ~153 |
 | Non Stop! | 24.00% | ~153 |
-| Foreman | 20.00% | ~127 |
+| Foreman | 20.00% | ~128 |
 | Russia | 19.00% | ~121 |
 | America | 18.00% | ~115 |
 | Missed it! | 18.00% | ~115 |
 | Sabotage | 15.00% | ~96 |
-| Achtung! | 12.00% | ~76 |
+| Achtung! | 12.00% | ~77 |
 | Japan | 11.00% | ~70 |
 | Woodcutter | 10.00% | ~64 |
 | Engineer | 10.00% | ~64 |
@@ -36,7 +36,7 @@ Number of Ratings: 28  (23.09.2022)
 | Сhancellor | 5.00% | ~32 |
 | Supercrash! | 5.00% | ~32 |
 | Chuck Norris | 5.00% | ~32 |
-| Peacemaker | 4.00% | ~25 |
+| Peacemaker | 4.00% | ~26 |
 | Forgotten | 3.00% | ~19 |
 | Lucky vandal | 3.00% | ~19 |
 | Salesman | 1.00% | ~6 |
@@ -46,8 +46,8 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~4 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 637 (Ranked 333)  
-Completed: 2 (0.31%) (Ranked 250)  
+Progressed: 638 (Ranked 333)  
+Completed: 2 (0.31%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -192,7 +192,7 @@ Completed: 2 (0.31%) (Ranked 250)
 | 2024-01-03 | 627 | 2 |
 | 2024-01-04 | 630 | 2 |
 | 2024-01-05 | 632 | 2 |
-| 2024-01-06 | 637 | 2 |
+| 2024-01-06 | 638 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

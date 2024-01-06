@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2675,
+  "EOS_Progressed": 2678,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
@@ -7349,6 +7349,11 @@
       "Time": "2024-01-06T18:10:16.0923532+00:00",
       "NumProgressed": 2675,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T19:10:00.3725792+00:00",
+      "NumProgressed": 2678,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7393,7 +7398,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_14",
@@ -7553,7 +7558,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_32",
@@ -7561,7 +7566,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_33",
@@ -7585,7 +7590,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2330
     },
     {
       "ID": "achievement_36",
@@ -7601,7 +7606,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1660
     },
     {
       "ID": "achievement_38",
@@ -7633,7 +7638,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1393
     },
     {
       "ID": "achievement_41",
@@ -7647,9 +7652,9 @@
       "ID": "achievement_42",
       "SetID": "271ol84",
       "Name": "Not bad for a little furball",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_43",
@@ -7665,7 +7670,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "achievement_45",
@@ -7841,7 +7846,7 @@
       "Name": "A cunning warrior",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_8",
@@ -7864,13 +7869,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2675,
+      "Progressed": 2678,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2675,
+      "Progressed": 2678,
       "Completed": 1
     }
   ],
@@ -7878,8 +7883,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:10:16.0923528+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:10:00.3725788+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:57:29.2158171+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:10:16.0924341+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:57:28.8495769+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:10:00.3726757+00:00"
 }

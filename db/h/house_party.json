@@ -383,9 +383,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7170,
+  "EOS_Progressed": 7175,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8483,6 +8483,11 @@
       "Time": "2024-01-06T18:09:02.6819977+00:00",
       "NumProgressed": 7170,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T19:08:47.3525254+00:00",
+      "NumProgressed": 7175,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8630,7 +8635,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "DoNotBurn",
@@ -8862,7 +8867,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "SmellBlood",
@@ -8948,9 +8953,9 @@
       "ID": "TheCrush",
       "SetID": "bmkn7o4",
       "Name": "The Crush",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 65
     },
     {
       "ID": "TheCrushes",
@@ -9045,21 +9050,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4209,
+      "Progressed": 4214,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7170,
+      "Progressed": 7175,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:09:02.6819975+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:08:47.352525+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:59:48.4057101+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:09:02.6821114+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:59:47.9873157+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:08:47.3526219+00:00"
 }

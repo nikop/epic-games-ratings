@@ -652,9 +652,9 @@
       "ID": "SAVE_THE_SLIMES",
       "SetID": "ca3djk0",
       "Name": "Save the Slimes!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "SO_LONG_SLIME_CO",
@@ -693,8 +693,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:09:51.4844496+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:09:36.3915067+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.2662149+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:59:16.6106979+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:09:51.4844596+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:59:15.7942041+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:09:36.391523+00:00"
 }

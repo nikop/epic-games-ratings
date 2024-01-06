@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3908,
+  "EOS_Progressed": 3910,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.68,
   "EosHistory": [
@@ -6902,6 +6902,11 @@
       "Time": "2024-01-06T18:08:46.0023548+00:00",
       "NumProgressed": 3908,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-06T19:08:30.7201043+00:00",
+      "NumProgressed": 3910,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -6913,7 +6918,7 @@
       "Name": "Ancient Curse",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -6945,7 +6950,7 @@
       "Name": "Dog Person",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -6961,7 +6966,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7009,7 +7014,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -7017,14 +7022,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3087
+      "UsersEstimate": 3089
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3908,
+      "Progressed": 3910,
       "Completed": 144
     }
   ],
@@ -7032,8 +7037,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:08:46.0023543+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:08:30.7201039+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:58:23.2427245+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:08:46.002396+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:58:22.932851+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:08:30.7201482+00:00"
 }

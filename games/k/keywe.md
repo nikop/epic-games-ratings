@@ -14,8 +14,8 @@
 | Kiwinter Kiwonderland | 7.00% | ~10 |
 | Secrets of the Telepost | 4.00% | ~6 |
 | Summer Postmasters | 2.00% | ~3 |
+| Against All Odds | 1.00% | ~1 |
 | Autumn Postmasters | 1.00% | ~1 |
-| Against All Odds | 0.70% | ~1 |
 | Postmasters General | 0.70% | ~1 |
 | Winter Postmasters | 0.70% | ~1 |
 | Stocking Up | 0.70% | ~1 |

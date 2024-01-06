@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 75.00% | ~72 |
-| Little ideas | 72.00% | ~69 |
-| The Ship | 69.00% | ~66 |
+| Marc Allard | 74.00% | ~72 |
+| Little ideas | 71.00% | ~69 |
+| The Ship | 68.00% | ~66 |
 | Seeking the truth | 56.00% | ~54 |
 | An old friend | 55.00% | ~53 |
 | The Gala | 54.00% | ~52 |
-| A curious gathering | 50.00% | ~48 |
-| Little grey cells | 48.00% | ~46 |
-| Impossible is possible | 47.00% | ~45 |
-| Arthur Hastings | 47.00% | ~45 |
-| The Missing Magdalene | 46.00% | ~44 |
-| Everything matters | 43.00% | ~41 |
-| An expert mediator | 42.00% | ~40 |
-| DI Hardwicke | 42.00% | ~40 |
-| Betty Allen | 38.00% | ~36 |
+| A curious gathering | 51.00% | ~49 |
+| Little grey cells | 48.00% | ~47 |
+| Impossible is possible | 47.00% | ~46 |
+| Arthur Hastings | 47.00% | ~46 |
+| The Missing Magdalene | 46.00% | ~45 |
+| Everything matters | 42.00% | ~41 |
+| An expert mediator | 41.00% | ~40 |
+| DI Hardwicke | 41.00% | ~40 |
+| Betty Allen | 37.00% | ~36 |
 | Order and method | 36.00% | ~35 |
 | The Investigation Begins | 35.00% | ~34 |
 | Ms. Camilla B. Culsham | 32.00% | ~31 |
@@ -39,20 +39,20 @@
 | Horace Mountjoy | 18.00% | ~17 |
 | Johan Kristiansen | 18.00% | ~17 |
 | The Secrets | 18.00% | ~17 |
-| A peculiar fellow | 17.00% | ~16 |
-| Mortimer Ailsworth | 17.00% | ~16 |
-| Well-travelled | 16.00% | ~15 |
-| Florence Farquhar | 15.00% | ~14 |
-| The Investigation Starts Anew | 15.00% | ~14 |
-| A treasured heirloom | 13.00% | ~12 |
-| The Penitent Magdalene | 13.00% | ~12 |
-| A true performance | 13.00% | ~12 |
+| A peculiar fellow | 16.00% | ~16 |
+| Mortimer Ailsworth | 16.00% | ~16 |
+| Well-travelled | 15.00% | ~15 |
+| Florence Farquhar | 14.00% | ~14 |
+| The Investigation Starts Anew | 14.00% | ~14 |
+| A treasured heirloom | 12.00% | ~12 |
+| The Penitent Magdalene | 12.00% | ~12 |
+| A true performance | 12.00% | ~12 |
 | The Denouement | 10.00% | ~10 |
 | A perilous journey | 9.00% | ~9 |
 | Perkins | 6.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 495)  
-Completed: 3 (3.12%) (Ranked 106)  
+Progressed: 97 (Ranked 495)  
+Completed: 3 (3.09%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,4 +111,4 @@ Completed: 3 (3.12%) (Ranked 106)
 | 2024-01-02 | 87 | 3 |
 | 2024-01-03 | 88 | 3 |
 | 2024-01-04 | 90 | 3 |
-| 2024-01-06 | 96 | 3 |
+| 2024-01-06 | 97 | 3 |

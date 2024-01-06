@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 91.00% | ~154 |
-| The Routine | 80.00% | ~135 |
-| Mother | 78.00% | ~132 |
-| Failure | 76.00% | ~128 |
-| Replace Fuse | 68.00% | ~115 |
-| Alarm | 67.00% | ~113 |
-| Air Filtration | 64.00% | ~108 |
-| Broken | 62.00% | ~105 |
-| Radiation | 60.00% | ~101 |
-| Descent | 59.00% | ~100 |
-| Awakenings | 58.00% | ~98 |
-| Cold Storage | 58.00% | ~98 |
-| Sam | 57.00% | ~96 |
-| Soldier | 53.00% | ~90 |
-| Leave | 51.00% | ~86 |
-| Churchill | 50.00% | ~84 |
-| Commissioner | 50.00% | ~84 |
-| Engineer | 50.00% | ~84 |
-| Doctor | 47.00% | ~79 |
-| Press Play | 37.00% | ~63 |
-| General | 28.00% | ~47 |
-| Bookworm | 27.00% | ~46 |
+| Last Goodbye | 90.00% | ~153 |
+| The Routine | 79.00% | ~134 |
+| Mother | 78.00% | ~133 |
+| Failure | 75.00% | ~128 |
+| Replace Fuse | 68.00% | ~116 |
+| Alarm | 66.00% | ~112 |
+| Air Filtration | 64.00% | ~109 |
+| Broken | 61.00% | ~104 |
+| Radiation | 60.00% | ~102 |
+| Descent | 58.00% | ~99 |
+| Awakenings | 58.00% | ~99 |
+| Cold Storage | 58.00% | ~99 |
+| Sam | 57.00% | ~97 |
+| Soldier | 52.00% | ~88 |
+| Leave | 51.00% | ~87 |
+| Churchill | 50.00% | ~85 |
+| Commissioner | 50.00% | ~85 |
+| Engineer | 49.00% | ~83 |
+| Doctor | 46.00% | ~78 |
+| Press Play | 36.00% | ~61 |
+| General | 28.00% | ~48 |
+| Bookworm | 26.00% | ~44 |
 | Floppy Disk Finder | 16.00% | ~27 |
 | Stay | 14.00% | ~24 |
 | Nurse | 11.00% | ~19 |
@@ -33,8 +33,8 @@
 | Friends | 6.00% | ~10 |
 | The Missing Piece | 6.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169 (Ranked 440)  
-Completed: 7 (4.14%) (Ranked 90)  
+Progressed: 170 (Ranked 440)  
+Completed: 7 (4.12%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,6 +100,7 @@ Completed: 7 (4.14%) (Ranked 90)
 | 2023-12-31 | 166 | 7 |
 | 2024-01-01 | 168 | 7 |
 | 2024-01-05 | 169 | 7 |
+| 2024-01-06 | 170 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

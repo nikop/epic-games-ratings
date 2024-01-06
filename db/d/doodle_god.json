@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 275,
+  "EOS_Progressed": 276,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.64,
+  "EOS_Completed_Percentage": 3.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -459,6 +459,11 @@
       "Time": "2024-01-06T16:08:36.0553665+00:00",
       "NumProgressed": 275,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T19:08:24.9468012+00:00",
+      "NumProgressed": 276,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 22,
@@ -470,7 +475,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "605742",
@@ -478,7 +483,7 @@
       "Name": "Creator of Diversity",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "605752",
@@ -486,7 +491,7 @@
       "Name": "Creator of Life",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "605762",
@@ -500,9 +505,9 @@
       "ID": "605772",
       "SetID": "4lpaifm",
       "Name": "Creator of Civilization",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 108
     },
     {
       "ID": "605782",
@@ -532,9 +537,9 @@
       "ID": "605812",
       "SetID": "4lpaifm",
       "Name": "God of Fun",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "605822",
@@ -582,15 +587,15 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "605892",
       "SetID": "4lpaifm",
       "Name": "Similar to Similar",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 193
     },
     {
       "ID": "605912",
@@ -598,7 +603,7 @@
       "Name": "Master of Alchemy",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "605942",
@@ -606,7 +611,7 @@
       "Name": "Master of the Worlds",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "610000",
@@ -628,9 +633,9 @@
       "ID": "740512",
       "SetID": "4lpaifm",
       "Name": "Honorable Santa",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "844452",
@@ -645,7 +650,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 275,
+      "Progressed": 276,
       "Completed": 10
     }
   ],
@@ -653,8 +658,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:08:39.896354+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:08:24.9468008+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.1434822+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:59:11.6365905+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:08:39.8963662+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:59:10.9899396+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:08:24.946823+00:00"
 }

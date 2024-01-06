@@ -492,9 +492,9 @@
       "ID": "RUNE_BROOMDASHDAMAGE",
       "SetID": "9433p49",
       "Name": "Time is on my side",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "RUNE_CURSEDCOINS",
@@ -589,8 +589,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:08:29.9122617+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:08:14.9901843+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:56.7750228+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:57:31.8740532+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:08:29.9122738+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:57:31.7255872+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:08:14.9902013+00:00"
 }

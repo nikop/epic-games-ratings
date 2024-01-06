@@ -1,44 +1,44 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 164)  
+Rating: 4.74 (Ranked 163)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 42.00% | ~37,975 |
-| Landlord | 34.00% | ~30,741 |
-| Trained | 29.00% | ~26,221 |
-| Bannerlord | 24.00% | ~21,700 |
-| Lawmaker | 23.00% | ~20,796 |
-| Horde breaker | 21.00% | ~18,987 |
-| The king is pleased | 19.00% | ~17,179 |
-| King Solomon | 17.00% | ~15,371 |
-| Apple of my eye | 16.00% | ~14,467 |
-| I can do it | 15.00% | ~13,562 |
-| This Is Our Land | 15.00% | ~13,562 |
-| Against all odds | 14.00% | ~12,658 |
-| Duelist | 12.00% | ~10,850 |
-| God of the Arena | 12.00% | ~10,850 |
-| Swordbearer | 11.00% | ~9,946 |
-| Dynasty | 10.00% | ~9,042 |
-| I spit on your grave | 10.00% | ~9,042 |
-| What have the Romans ever done for us? | 10.00% | ~9,042 |
-| Butterlord | 9.00% | ~8,137 |
-| Mastery | 7.00% | ~6,329 |
-| Know your enemy | 6.00% | ~5,425 |
-| My way | 5.00% | ~4,521 |
-| Crowdfunded | 4.00% | ~3,617 |
-| Crush your enemies | 4.00% | ~3,617 |
-| Veni vidi vici | 4.00% | ~3,617 |
-| Freedom! | 3.00% | ~2,712 |
-| Long live the Empire! | 3.00% | ~2,712 |
-| Real Estate | 3.00% | ~2,712 |
-| Supreme Emperor | 1.00% | ~904 |
+| Lawbringer | 42.00% | ~37,992 |
+| Landlord | 34.00% | ~30,755 |
+| Trained | 29.00% | ~26,233 |
+| Bannerlord | 24.00% | ~21,710 |
+| Lawmaker | 23.00% | ~20,805 |
+| Horde breaker | 21.00% | ~18,996 |
+| The king is pleased | 19.00% | ~17,187 |
+| King Solomon | 17.00% | ~15,378 |
+| Apple of my eye | 16.00% | ~14,473 |
+| I can do it | 15.00% | ~13,569 |
+| This Is Our Land | 15.00% | ~13,569 |
+| Against all odds | 14.00% | ~12,664 |
+| Duelist | 12.00% | ~10,855 |
+| God of the Arena | 12.00% | ~10,855 |
+| Swordbearer | 11.00% | ~9,950 |
+| Dynasty | 10.00% | ~9,046 |
+| I spit on your grave | 10.00% | ~9,046 |
+| What have the Romans ever done for us? | 10.00% | ~9,046 |
+| Butterlord | 9.00% | ~8,141 |
+| Mastery | 7.00% | ~6,332 |
+| Know your enemy | 6.00% | ~5,427 |
+| My way | 5.00% | ~4,523 |
+| Crowdfunded | 4.00% | ~3,618 |
+| Crush your enemies | 4.00% | ~3,618 |
+| Veni vidi vici | 4.00% | ~3,618 |
+| Freedom! | 3.00% | ~2,714 |
+| Long live the Empire! | 3.00% | ~2,714 |
+| Real Estate | 3.00% | ~2,714 |
+| Supreme Emperor | 1.00% | ~905 |
 | Entrepreneur | 0.90% | ~814 |
-| Crackshot | 0.80% | ~723 |
-| Undercover | 0.80% | ~723 |
-| Fat Cat | 0.60% | ~542 |
+| Crackshot | 0.80% | ~724 |
+| Undercover | 0.80% | ~724 |
+| Fat Cat | 0.60% | ~543 |
 | Catch | 0.50% | ~452 |
 | Slice 'n dice | 0.40% | ~362 |
 | Ride it like you stole it | 0.30% | ~271 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,416 (Ranked 103)  
+Progressed: 90,457 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,19 +319,19 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 88,238 | 0 |
 | 2024-01-04 | 88,865 | 0 |
 | 2024-01-05 | 89,622 | 0 |
-| 2024-01-06 | 90,416 | 0 |
+| 2024-01-06 | 90,457 | 0 |
 ## Awards
-Max (Character Customization): 7,903  (Ranked 51)  
-Sum: 16,455 (Ranked 67)  
+Max (Character Customization): 7,926  (Ranked 51)  
+Sum: 16,479 (Ranked 67)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,903 |
+| This game has Inclusive Character Customization | 7,926 |
 | This game is Great for Beginners | 1,187 |
 | This game has Diverse Characters | 1,105 |
 | This game is Highly Recommended | 1,008 |
 | This game is Extremely Fun | 937 |
-| This game has Amazing Storytelling | 922 |
+| This game has Amazing Storytelling | 923 |
 | This game has Amazing Characters | 918 |
 | This game is Relaxing | 901 |
 | This game has Quickly Understood Controls | 883 |
@@ -697,4 +697,4 @@ Diff (max vs sum): -16
 | 2024-01-03 | 4.74 | - | 7,868 | 16,389 |
 | 2024-01-04 | 4.74 | - | 7,884 | 16,416 |
 | 2024-01-05 | 4.74 | - | 7,903 | 16,440 |
-| 2024-01-06 | 4.74 | - | 7,903 | 16,455 |
+| 2024-01-06 | 4.74 | - | 7,926 | 16,479 |

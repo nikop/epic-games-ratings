@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1647,
+  "EOS_Progressed": 1651,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4304,6 +4304,11 @@
       "Time": "2024-01-06T18:10:06.9578204+00:00",
       "NumProgressed": 1647,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T19:09:51.4560418+00:00",
+      "NumProgressed": 1651,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4363,7 +4368,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4371,7 +4376,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1634
     },
     {
       "ID": "EXPERT_1",
@@ -4403,7 +4408,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4419,7 +4424,7 @@
       "Name": "Indy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "KORALOV",
@@ -4435,7 +4440,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "LOVE_GURU_1",
@@ -4443,7 +4448,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -4451,7 +4456,7 @@
       "Name": "Neanderthal",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "NO_NAME",
@@ -4465,9 +4470,9 @@
       "ID": "ONE_HIT_WONDER_1",
       "SetID": "bf13m8j",
       "Name": "One HIT wonder",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 545
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4475,7 +4480,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "PACIFIST",
@@ -4491,7 +4496,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4521,9 +4526,9 @@
       "ID": "ROBOT_DEAD",
       "SetID": "bf13m8j",
       "Name": "It was worth a shot",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "SACRIFICE_1",
@@ -4539,7 +4544,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "SECRET_ROOM",
@@ -4555,7 +4560,7 @@
       "Name": "Cosmic Horror",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SUPERHUMAN_1",
@@ -4569,9 +4574,9 @@
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 363
     },
     {
       "ID": "VVE",
@@ -4587,7 +4592,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "WISHMASTER_1",
@@ -4595,22 +4600,22 @@
       "Name": "Wishmaster",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1647,
+      "Progressed": 1651,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:10:06.95782+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:09:51.4560416+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:58:27.8703637+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:10:06.9578693+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:58:27.4820965+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:09:51.4560773+00:00"
 }

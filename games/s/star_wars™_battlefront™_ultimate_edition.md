@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,327 |
-| Off to a good start | 62.00% | ~1,658 |
-| Do... or do not. There is no try | 52.00% | ~1,391 |
-| A good blaster at your side | 25.00% | ~669 |
+| New Recruit | 87.00% | ~2,330 |
+| Off to a good start | 62.00% | ~1,660 |
+| Do... or do not. There is no try | 52.00% | ~1,393 |
+| A good blaster at your side | 25.00% | ~670 |
 | I suggest a new strategy | 17.00% | ~455 |
 | Great shot, kid! | 16.00% | ~428 |
-| Scrap collector | 15.00% | ~401 |
-| All right, I'll give it a try | 15.00% | ~401 |
+| Scrap collector | 15.00% | ~402 |
+| All right, I'll give it a try | 15.00% | ~402 |
 | The power of the Force | 12.00% | ~321 |
 | Collector | 12.00% | ~321 |
 | Together we can rule the galaxy | 12.00% | ~321 |
@@ -20,16 +20,16 @@
 | Best star-pilot in the galaxy | 8.00% | ~214 |
 | Never tell me the odds! | 7.00% | ~187 |
 | Survivor | 7.00% | ~187 |
-| What's the cargo? | 6.00% | ~160 |
-| A cunning warrior | 6.00% | ~160 |
+| What's the cargo? | 6.00% | ~161 |
+| A cunning warrior | 6.00% | ~161 |
 | "Gonk? Gonk!" | 5.00% | ~134 |
 | Impressive. Most impressive. | 5.00% | ~134 |
 | Judge me by my size, do you? | 5.00% | ~134 |
 | Distinguished | 4.00% | ~107 |
 | A tremor in the Force | 4.00% | ~107 |
+| Not bad for a little furball | 4.00% | ~107 |
 | Support the troops | 4.00% | ~107 |
 | Safety ain't the point of a joyride | 3.00% | ~80 |
-| Not bad for a little furball | 3.00% | ~80 |
 | Patience you must have | 3.00% | ~80 |
 | Don't underestimate the Force | 3.00% | ~80 |
 | The Force is strong with this one | 2.00% | ~54 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,675 (Ranked 232)  
+Progressed: 2,678 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 1 (0.04%) (Ranked 348)
 | 2024-01-03 | 2,563 | 1 |
 | 2024-01-04 | 2,595 | 1 |
 | 2024-01-05 | 2,649 | 1 |
-| 2024-01-06 | 2,675 | 1 |
+| 2024-01-06 | 2,678 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

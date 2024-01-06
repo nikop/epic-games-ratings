@@ -356,9 +356,9 @@
       "ID": "DigestiveCollapse",
       "SetID": "aaidab7",
       "Name": "Digestive Collapse",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "HeartAttack",
@@ -436,9 +436,9 @@
       "ID": "MuscularCollapse",
       "SetID": "aaidab7",
       "Name": "Muscular Collapse",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NervousCollapse",
@@ -476,9 +476,9 @@
       "ID": "RenalCollapse",
       "SetID": "aaidab7",
       "Name": "Renal Collapse",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "RespiratoryCollapse",
@@ -492,9 +492,9 @@
       "ID": "RichieRich",
       "SetID": "aaidab7",
       "Name": "Richie Rich",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SilentKiller",
@@ -547,8 +547,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:08:47.8815968+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:08:32.4890471+00:00",
   "LastUpdate_AppInfo": "2024-01-02T06:57:01.1508619+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:02:54.0334892+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:08:47.8816222+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:02:50.8473795+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:08:32.4890697+00:00"
 }

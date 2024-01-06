@@ -6,7 +6,7 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,997 |
+| You Shall Not Pass | 51.00% | ~4,999 |
 | Tutti Eroi! | 50.00% | ~4,900 |
 | Peak Performance | 45.00% | ~4,410 |
 | Avanti Savoia! | 44.00% | ~4,312 |
@@ -40,8 +40,8 @@ Number of Ratings: 98  (23.09.2022)
 | Cercatore d'Oro | 5.00% | ~490 |
 | Generalissimo | 4.00% | ~392 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~392 |
-| Farewell to Arms | 3.00% | ~294 |
 | Seeing Red | 3.00% | ~294 |
+| Farewell to Arms | 2.00% | ~196 |
 | Ponte of No Return | 2.00% | ~196 |
 | Soča Drag | 2.00% | ~196 |
 | Saboteur | 2.00% | ~196 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,799 (Ranked 182)  
+Progressed: 9,801 (Ranked 182)  
 Completed: 10 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 10 (0.10%) (Ranked 308)
 | 2024-01-03 | 9,754 | 10 |
 | 2024-01-04 | 9,768 | 10 |
 | 2024-01-05 | 9,787 | 10 |
-| 2024-01-06 | 9,799 | 10 |
+| 2024-01-06 | 9,801 | 10 |
 ## Awards
 Max (Diverse Characters): 42  (Ranked 478)  
 Sum: 338 (Ranked 371)  

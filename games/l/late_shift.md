@@ -10,7 +10,7 @@
 | Star-Crossed Lovers | 47.00% | ~458 |
 | The Delivery | 44.00% | ~429 |
 | Shill Bidder | 41.00% | ~400 |
-| The Frenzy | 31.00% | ~302 |
+| The Frenzy | 32.00% | ~312 |
 | Good Karma | 29.00% | ~283 |
 | Office Clerk | 27.00% | ~263 |
 | Protector | 27.00% | ~263 |

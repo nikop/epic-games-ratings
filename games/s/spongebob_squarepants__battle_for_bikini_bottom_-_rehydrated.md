@@ -7,9 +7,9 @@ Number of Ratings: 76  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponge Smasher | 21.00% | ~163 |
-| Spatula Seeker | 20.00% | ~155 |
-| Jellyfish Jam | 19.00% | ~147 |
-| Jellyfishing | 15.00% | ~116 |
+| Jellyfish Jam | 20.00% | ~156 |
+| Spatula Seeker | 20.00% | ~156 |
+| Jellyfishing | 16.00% | ~124 |
 | Sweet Victory | 12.00% | ~93 |
 | Sock Getter | 12.00% | ~93 |
 | Time For Tutorial | 12.00% | ~93 |
@@ -23,12 +23,12 @@ Number of Ratings: 76  (23.09.2022)
 | Shrimp Catcher | 7.00% | ~54 |
 | Toxic Terror | 7.00% | ~54 |
 | Hit Rock Bottom | 7.00% | ~54 |
-| Are you ready now? | 6.00% | ~46 |
-| Hello, Bikini Bottom | 6.00% | ~46 |
-| Ultra Spatula Seeker | 6.00% | ~46 |
+| Are you ready now? | 6.00% | ~47 |
+| Hello, Bikini Bottom | 6.00% | ~47 |
+| Ultra Spatula Seeker | 6.00% | ~47 |
 | Robot encyclopedia | 5.00% | ~39 |
-| Ship Shape | 5.00% | ~39 |
 | The Small Does Not Rule | 4.00% | ~31 |
+| Ship Shape | 4.00% | ~31 |
 | Shanghaied | 4.00% | ~31 |
 | Kelp Forest of Fear | 4.00% | ~31 |
 | SpongeBob vs SpongeBob! | 4.00% | ~31 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~8 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 775 (Ranked 312)  
+Progressed: 778 (Ranked 312)  
 Completed: 7 (0.90%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 7 (0.90%) (Ranked 181)
 | 2024-01-03 | 684 | 7 |
 | 2024-01-04 | 715 | 7 |
 | 2024-01-05 | 747 | 7 |
-| 2024-01-06 | 775 | 7 |
+| 2024-01-06 | 778 | 7 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 497)  
 Sum: 36 (Ranked 529)  

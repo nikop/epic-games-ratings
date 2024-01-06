@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~36,567 |
-| Safety in the Storm | 23.00% | ~8,853 |
-| A Better Idea | 23.00% | ~8,853 |
-| Begin the Ceremony | 19.00% | ~7,313 |
-| Mission Accomplished | 18.00% | ~6,929 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~5,774 |
-| A Starfighter of Your Own | 13.00% | ~5,004 |
-| Asset Secured | 12.00% | ~4,619 |
-| Unkillable | 7.00% | ~2,694 |
-| Together, Vanguard | 7.00% | ~2,694 |
+| Fracture at Fostar Haven | 95.00% | ~36,583 |
+| Safety in the Storm | 23.00% | ~8,857 |
+| A Better Idea | 23.00% | ~8,857 |
+| Begin the Ceremony | 19.00% | ~7,317 |
+| Mission Accomplished | 18.00% | ~6,931 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~5,776 |
+| A Starfighter of Your Own | 13.00% | ~5,006 |
+| Asset Secured | 12.00% | ~4,621 |
+| Unkillable | 7.00% | ~2,696 |
+| Together, Vanguard | 7.00% | ~2,696 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~2,310 |
 | Sound Strategy | 6.00% | ~2,310 |
 | Stomped | 5.00% | ~1,925 |
@@ -32,27 +32,27 @@
 | Dressed for the Job You Want | 2.00% | ~770 |
 | I Have You Now | 1.00% | ~385 |
 | Against the Current | 0.80% | ~308 |
-| Denied | 0.70% | ~269 |
+| Denied | 0.70% | ~270 |
 | Found Your Place | 0.60% | ~231 |
-| Unstoppable Ace | 0.50% | ~192 |
+| Unstoppable Ace | 0.50% | ~193 |
 | The Galaxy's Finest (Veteran) | 0.40% | ~154 |
 | Special Modifications | 0.40% | ~154 |
-| Seasoned Star Pilot | 0.30% | ~115 |
-| Heavy Hitter | 0.30% | ~115 |
-| The Trap is Set | 0.30% | ~115 |
-| Across the Stars | 0.30% | ~115 |
-| Got 'Em | 0.30% | ~115 |
+| Seasoned Star Pilot | 0.30% | ~116 |
+| Heavy Hitter | 0.30% | ~116 |
+| The Trap is Set | 0.30% | ~116 |
+| Across the Stars | 0.30% | ~116 |
+| Got 'Em | 0.30% | ~116 |
 | Victory for the New Republic | 0.20% | ~77 |
 | Victory for the Empire | 0.20% | ~77 |
 | Stay on Target | 0.20% | ~77 |
-| I Know a Few Maneuvers | 0.10% | ~38 |
-| Trigger Happy | 0.10% | ~38 |
-| Shallow Grave | 0.10% | ~38 |
-| Fully Decorated | 0.10% | ~38 |
-| The Galaxy's Finest (Ace) | 0.10% | ~38 |
-| Ultimate Weapon | 0.10% | ~38 |
+| I Know a Few Maneuvers | 0.10% | ~39 |
+| Trigger Happy | 0.10% | ~39 |
+| Shallow Grave | 0.10% | ~39 |
+| Fully Decorated | 0.10% | ~39 |
+| The Galaxy's Finest (Ace) | 0.10% | ~39 |
+| Ultimate Weapon | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,492 (Ranked 133)  
+Progressed: 38,508 (Ranked 133)  
 Completed: 3 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 3 (0.01%) (Ranked 371)
 | 2024-01-03 | 37,413 | 3 |
 | 2024-01-04 | 37,777 | 3 |
 | 2024-01-05 | 38,163 | 3 |
-| 2024-01-06 | 38,492 | 3 |
+| 2024-01-06 | 38,508 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
-  "Ranking_Rating": 149,
-  "Ranking_Popularity": 180,
+  "Ranking_Rating": 163,
+  "Ranking_Popularity": 181,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-19T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -1565,10 +1565,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1262,
       "NumberOfAwardsMax": 838
+    },
+    {
+      "Time": "2024-01-06T18:58:26.2636462+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1263,
+      "NumberOfAwardsMax": 838
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1262,
+  "NumberOfAwards": 1263,
   "NumberOfAwardsMax": 838,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1612,7 +1618,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1651,8 +1657,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2024-01-06T16:58:34.8200007+00:00",
+  "LastChanged": "2024-01-06T18:58:26.263646+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.3230359+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:58:26.6375299+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:05:05.2865531+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:58:26.2636466+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:05:01.8160355+00:00"
 }

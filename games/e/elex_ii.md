@@ -11,8 +11,8 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 30.00% | ~59 |
 | Civilian | 30.00% | ~59 |
 | Creator | 26.00% | ~51 |
+| Military Leader | 24.00% | ~47 |
 | Peddler | 23.00% | ~45 |
-| Military Leader | 23.00% | ~45 |
 | Festival-goer | 23.00% | ~45 |
 | Commander | 20.00% | ~39 |
 | Irissa's Fate | 17.00% | ~33 |
@@ -20,9 +20,9 @@ Number of Ratings: 124  (23.09.2022)
 | Pass A38 | 13.00% | ~25 |
 | Family Reunion | 12.00% | ~24 |
 | Eternal Oblivion | 12.00% | ~24 |
+| Storyteller | 11.00% | ~22 |
 | Globetrotter | 11.00% | ~22 |
 | Berserker | 11.00% | ~22 |
-| Storyteller | 10.00% | ~20 |
 | Alb | 9.00% | ~18 |
 | Hunter | 8.00% | ~16 |
 | Banker | 7.00% | ~14 |
@@ -44,8 +44,8 @@ Number of Ratings: 124  (23.09.2022)
 | Toy Time | 2.00% | ~4 |
 | Destroyer | 2.00% | ~4 |
 | Legendary | 2.00% | ~4 |
+| Outlaw | 1.00% | ~2 |
 | Defector | 0.50% | ~1 |
-| Outlaw | 0.50% | ~1 |
 | Ruthless | 0.50% | ~1 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |

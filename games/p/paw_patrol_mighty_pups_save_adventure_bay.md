@@ -27,7 +27,7 @@
 | Mountain and Ice | 24.00% | ~14 |
 | You Have Been Everywhere | 22.00% | ~13 |
 | Everything Under Control | 19.00% | ~11 |
-| Nothing Can Stop You | 10.00% | ~6 |
+| Nothing Can Stop You | 12.00% | ~7 |
 | A Great Explorer | 8.00% | ~5 |
 | King of the Mountain | 5.00% | ~3 |
 | Air Ace | 0.00% | ~0 |

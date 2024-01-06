@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -723,9 +723,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6968,
+  "EOS_Progressed": 6970,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10568,6 +10568,11 @@
       "Time": "2024-01-06T18:04:26.3828227+00:00",
       "NumProgressed": 6968,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T19:04:23.4972746+00:00",
+      "NumProgressed": 6970,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10689,9 +10694,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 906
+      "UsersEstimate": 976
     },
     {
       "ID": "23",
@@ -10707,7 +10712,7 @@
       "Name": "Secret Technique",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "25",
@@ -10739,7 +10744,7 @@
       "Name": "From Friends to Family",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "29",
@@ -10771,7 +10776,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "32",
@@ -11058,13 +11063,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6968,
+      "Progressed": 6970,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6968,
+      "Progressed": 6970,
       "Completed": 7
     }
   ],
@@ -11072,8 +11077,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:04:26.3828223+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:04:23.4972741+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:02:54.5919917+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:04:26.3829023+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:02:51.3385653+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:04:23.4973708+00:00"
 }

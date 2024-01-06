@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1253,
+  "EOS_Progressed": 1254,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3712,6 +3712,11 @@
       "Time": "2024-01-06T16:10:10.0433613+00:00",
       "NumProgressed": 1253,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T19:09:59.4986729+00:00",
+      "NumProgressed": 1254,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3819,7 +3824,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "FactorywoodChests1",
@@ -3843,7 +3848,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3915,7 +3920,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "MapCompletion1",
@@ -3971,7 +3976,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ParryRepeated1",
@@ -4107,7 +4112,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "WatcherFought",
@@ -4131,7 +4136,7 @@
       "Name": "The Brass Boss",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4146,7 +4151,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1253,
+      "Progressed": 1254,
       "Completed": 6
     }
   ],
@@ -4154,8 +4159,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:10:15.0437828+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:09:59.4986725+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:57:49.7853263+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:10:15.043837+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:57:49.6870077+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:09:59.498737+00:00"
 }

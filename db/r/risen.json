@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -95,7 +95,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -895,6 +895,11 @@
       "Time": "2024-01-06T18:10:10.8914238+00:00",
       "NumProgressed": 169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T19:09:55.3700918+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -907,7 +912,7 @@
       "Name": "The merciful one",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "id_11",
@@ -931,7 +936,7 @@
       "Name": "Death of a legend",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "id_15",
@@ -939,7 +944,7 @@
       "Name": "Archaeologist",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "id_16",
@@ -993,9 +998,9 @@
       "ID": "id_22",
       "SetID": "bk9jib6",
       "Name": "Ghost hunter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "id_23",
@@ -1025,25 +1030,25 @@
       "ID": "id_3",
       "SetID": "bk9jib6",
       "Name": "Philanthropist",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 99
     },
     {
       "ID": "id_30",
       "SetID": "bk9jib6",
       "Name": "Beginner",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 153
     },
     {
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "id_33",
@@ -1067,7 +1072,7 @@
       "Name": "Beast slayer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "id_37",
@@ -1083,7 +1088,7 @@
       "Name": "Samaritan",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "id_42",
@@ -1091,7 +1096,7 @@
       "Name": "Ogre friend",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "id_43",
@@ -1099,15 +1104,15 @@
       "Name": "Hard worker",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "id_44",
       "SetID": "bk9jib6",
       "Name": "Expert",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "id_45",
@@ -1171,7 +1176,7 @@
       "Name": "The fourth triplet",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "id_52",
@@ -1219,7 +1224,7 @@
       "Name": "Well-to-do",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "id_58",
@@ -1249,17 +1254,17 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 104
     },
     {
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 105
     },
     {
       "ID": "id_62",
@@ -1267,7 +1272,7 @@
       "Name": "Archer",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "id_63",
@@ -1281,17 +1286,17 @@
       "ID": "id_7",
       "SetID": "bk9jib6",
       "Name": "Ladies\u0027 man",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "id_8",
       "SetID": "bk9jib6",
       "Name": "Sidelined",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "id_9",
@@ -1306,7 +1311,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 0
     }
   ],
@@ -1314,8 +1319,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:10:10.8914236+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:09:55.3700914+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:00:16.8384621+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:10:10.8914659+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:02:35.3608641+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:09:55.3701389+00:00"
 }

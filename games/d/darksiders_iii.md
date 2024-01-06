@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 0.90% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 462 (Ranked 356)  
-Completed: 1 (0.22%) (Ranked 269)  
+Completed: 2 (0.43%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,7 +93,7 @@ Completed: 1 (0.22%) (Ranked 269)
 | 2024-01-03 | 405 | 1 |
 | 2024-01-04 | 422 | 1 |
 | 2024-01-05 | 444 | 1 |
-| 2024-01-06 | 462 | 1 |
+| 2024-01-06 | 462 | 2 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 388)  
 Sum: 96 (Ranked 472)  

@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1151,6 +1151,11 @@
       "Time": "2024-01-06T17:05:54.7088289+00:00",
       "NumProgressed": 287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T19:05:41.4698717+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1242,7 +1247,7 @@
       "Name": "Quartermaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Vanilla_CargoEfficiencyTier2",
@@ -1546,7 +1551,7 @@
       "Name": "Been There",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Vanilla_Garrik",
@@ -1712,9 +1717,9 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1762,7 +1767,7 @@
       "Name": "Spiritual Journey",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Vanilla_Scythichnis",
@@ -1953,7 +1958,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 0
     }
   ],
@@ -1961,8 +1966,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:05:44.822229+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:05:41.4698713+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:00:11.0868604+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:05:44.8223348+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:00:09.9891258+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:05:41.4699695+00:00"
 }

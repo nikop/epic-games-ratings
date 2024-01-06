@@ -10,6 +10,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 1.00% | ~162 |
 | Intrepid | 1.00% | ~162 |
 | Settler | 1.00% | ~162 |
+| Strong | 1.00% | ~162 |
 | Friendly Family | 1.00% | ~162 |
 | Hanging Gardens | 1.00% | ~162 |
 | Play a Single Player Game | 1.00% | ~162 |
@@ -19,7 +20,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 0.90% | ~145 |
 | Noble | 0.90% | ~145 |
 | Pioneer | 0.90% | ~145 |
-| Strong | 0.90% | ~145 |
 | Oracle | 0.90% | ~145 |
 | Trade Caravan | 0.90% | ~145 |
 | Ambitious | 0.80% | ~129 |
@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.80% | ~129 |
 | Keystone | 0.80% | ~129 |
 | Developing Cities | 0.80% | ~129 |
+| Strong Cities | 0.80% | ~129 |
 | Pyramids | 0.80% | ~129 |
 | Judaism | 0.80% | ~129 |
 | Greek Paganism | 0.80% | ~129 |
@@ -35,17 +36,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.70% | ~113 |
 | Fountainhead | 0.70% | ~113 |
 | Warrior | 0.70% | ~113 |
-| Strong Cities | 0.70% | ~113 |
+| Ishtar Gate | 0.70% | ~113 |
 | Learn to Play 1 | 0.70% | ~113 |
 | Christianity | 0.70% | ~113 |
 | Babylonian Paganism | 0.70% | ~113 |
 | Regicide | 0.60% | ~97 |
 | Magnificent | 0.60% | ~97 |
 | Wise | 0.60% | ~97 |
+| Able Difficulty | 0.60% | ~97 |
 | Furious Family | 0.60% | ~97 |
 | Apadana | 0.60% | ~97 |
 | Great Ziggurat | 0.60% | ~97 |
-| Ishtar Gate | 0.60% | ~97 |
 | Lighthouse | 0.60% | ~97 |
 | Roman Paganism | 0.60% | ~97 |
 | Zoroastrianism | 0.60% | ~97 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.50% | ~81 |
 | Valiant | 0.50% | ~81 |
 | Legendary Cities | 0.50% | ~81 |
-| Able Difficulty | 0.50% | ~81 |
 | Acropolis | 0.50% | ~81 |
 | Mausoleum | 0.50% | ~81 |
 | Musaeum | 0.50% | ~81 |
@@ -61,6 +61,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.50% | ~81 |
 | Manichaeism | 0.50% | ~81 |
 | Carthaginian Paganism | 0.50% | ~81 |
+| Egyptian Paganism | 0.50% | ~81 |
 | Hanging Gardens in Babylon | 0.40% | ~65 |
 | Beloved | 0.40% | ~65 |
 | Intercessor | 0.40% | ~65 |
@@ -70,7 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.40% | ~65 |
 | Sages | 0.40% | ~65 |
 | Colossus | 0.40% | ~65 |
-| Egyptian Paganism | 0.40% | ~65 |
 | Building Wonders | 0.40% | ~65 |
 | Mythology | 0.40% | ~65 |
 | Points Victory | 0.40% | ~65 |
@@ -100,6 +100,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.30% | ~48 |
 | Economic Reform | 0.30% | ~48 |
 | Military Prestige | 0.30% | ~48 |
+| Dualism | 0.30% | ~48 |
 | Enlightenment | 0.30% | ~48 |
 | Cimmerian Archer | 0.30% | ~48 |
 | Legionary | 0.30% | ~48 |
@@ -123,7 +124,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.20% | ~32 |
 | Hittite Paganism | 0.20% | ~32 |
 | Industrial Progress | 0.20% | ~32 |
-| Dualism | 0.20% | ~32 |
 | Gnosticism | 0.20% | ~32 |
 | Legalism | 0.20% | ~32 |
 | Redemption | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,153 (Ranked 167)  
+Progressed: 16,154 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
-| 2024-01-06 | 16,153 | 5 |
+| 2024-01-06 | 16,154 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,915 (Ranked 221)  

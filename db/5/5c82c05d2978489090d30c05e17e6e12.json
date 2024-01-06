@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73583,
+  "EOS_Progressed": 73594,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 1870,
+  "EOS_NewPlayers": 1861,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6348,6 +6348,11 @@
       "Time": "2024-01-06T18:08:38.7524624+00:00",
       "NumProgressed": 73583,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2024-01-06T19:08:23.7464761+00:00",
+      "NumProgressed": 73594,
+      "NumCompleted": 111
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6360,7 +6365,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27226
+      "UsersEstimate": 27230
     },
     {
       "ID": "Achievement_10",
@@ -6392,7 +6397,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "Achievement_14",
@@ -6440,7 +6445,7 @@
       "Name": "Fearless in Karba",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Achievement_2",
@@ -6448,7 +6453,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20603
+      "UsersEstimate": 20606
     },
     {
       "ID": "Achievement_20",
@@ -6488,7 +6493,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "Achievement_25",
@@ -6496,7 +6501,7 @@
       "Name": "Konkylian Custodian",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Achievement_26",
@@ -6528,7 +6533,7 @@
       "Name": "Gold Finger",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Achievement_3",
@@ -6536,7 +6541,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8830
+      "UsersEstimate": 8831
     },
     {
       "ID": "Achievement_30",
@@ -6584,7 +6589,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6622
+      "UsersEstimate": 6623
     },
     {
       "ID": "Achievement_5",
@@ -6592,7 +6597,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5151
+      "UsersEstimate": 5152
     },
     {
       "ID": "Achievement_6",
@@ -6600,7 +6605,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "Achievement_7",
@@ -6608,7 +6613,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "Achievement_8",
@@ -6616,7 +6621,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "Achievement_9",
@@ -6631,7 +6636,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 73583,
+      "Progressed": 73594,
       "Completed": 111
     }
   ],
@@ -6639,8 +6644,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-05T18:03:34.6922579+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:08:38.7524622+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:08:23.7464753+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:03:11.3017976+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:08:38.7525178+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:03:07.7553795+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:08:23.7465676+00:00"
 }

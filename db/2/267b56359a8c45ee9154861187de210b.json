@@ -2,9 +2,9 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 476,
+  "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -589,6 +589,11 @@
       "Time": "2024-01-06T12:06:02.5213811+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T19:05:06.1360135+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -719,17 +724,17 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "beat_c1a_bronze",
@@ -793,7 +798,7 @@
       "Name": "Gone for a Whirl",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "beat_c2a_bronze",
@@ -1185,7 +1190,7 @@
       "Name": "Rolling the Competition",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "soccer_hattrick",
@@ -1288,14 +1293,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:05:09.24273+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:05:06.1360131+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:02:44.9829675+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:05:09.242797+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:02:42.1893669+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:05:06.1361058+00:00"
 }

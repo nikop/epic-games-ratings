@@ -9,7 +9,7 @@
 | Friendzone | 80.00% | ~649 |
 | Hello World | 75.00% | ~608 |
 | Space Engineer | 65.00% | ~527 |
-| Tinkerer | 63.00% | ~511 |
+| Tinkerer | 64.00% | ~519 |
 | Dust to Dust | 59.00% | ~478 |
 | Across The Stars | 49.00% | ~397 |
 | Crafty | 49.00% | ~397 |

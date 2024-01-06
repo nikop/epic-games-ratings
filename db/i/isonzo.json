@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1063,9 +1063,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9799,
+  "EOS_Progressed": 9801,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10703,6 +10703,11 @@
       "Time": "2024-01-06T18:09:28.4432329+00:00",
       "NumProgressed": 9799,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T19:09:13.201901+00:00",
+      "NumProgressed": 9801,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10816,9 +10821,9 @@
       "ID": "ISONZO_ACH_FAREWELL_TO_ARMS",
       "SetID": "akchbl3",
       "Name": "Farewell to Arms",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 196
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -11066,14 +11071,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4997
+      "UsersEstimate": 4999
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9799,
+      "Progressed": 9801,
       "Completed": 10
     }
   ],
@@ -11081,8 +11086,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-04T11:02:12.5493527+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:09:28.4432326+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:09:13.2019005+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:57:57.7469406+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:09:28.4433277+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:57:57.120359+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:09:13.201963+00:00"
 }

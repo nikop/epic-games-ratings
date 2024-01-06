@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8787,9 +8787,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 755790,
+  "EOS_Progressed": 755818,
   "EOS_Completed": 12976,
-  "EOS_NewPlayers": 6551,
+  "EOS_NewPlayers": 6550,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32617,6 +32617,11 @@
       "Time": "2024-01-06T18:09:24.1811888+00:00",
       "NumProgressed": 755790,
       "NumCompleted": 12976
+    },
+    {
+      "Time": "2024-01-06T19:09:08.6717199+00:00",
+      "NumProgressed": 755818,
+      "NumCompleted": 12976
     }
   ],
   "TotalAchievements": 60,
@@ -32628,7 +32633,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37790
+      "UsersEstimate": 37791
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32636,7 +32641,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30232
+      "UsersEstimate": 30233
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32644,7 +32649,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22674
+      "UsersEstimate": 22675
     },
     {
       "ID": "04_Vengeance_H3",
@@ -32804,7 +32809,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37790
+      "UsersEstimate": 37791
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32876,7 +32881,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22674
+      "UsersEstimate": 22675
     },
     {
       "ID": "33_BladeOneShot",
@@ -32892,7 +32897,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30232
+      "UsersEstimate": 30233
     },
     {
       "ID": "35_WideStrike",
@@ -33107,21 +33112,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 65091,
+      "Progressed": 65119,
       "Completed": 10800
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 755790,
+      "Progressed": 755818,
       "Completed": 12976
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-06T17:03:15.1213993+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:09:24.1811884+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:09:08.6717195+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:03:09.5570153+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:09:24.1813458+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:03:06.3270181+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:09:08.6718585+00:00"
 }

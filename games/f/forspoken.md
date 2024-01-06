@@ -5,9 +5,9 @@ Rating: 4.15 (Ranked 994)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,589 |
+| Attachments | 12.00% | ~5,590 |
 | Unlocked Potential | 11.00% | ~5,124 |
-| Tinkerer | 9.00% | ~4,192 |
+| Tinkerer | 9.00% | ~4,193 |
 | Leapfrogger | 7.00% | ~3,261 |
 | Knock 'Em Dead | 7.00% | ~3,261 |
 | Pilgrimage: Initiate | 7.00% | ~3,261 |
@@ -19,9 +19,9 @@ Rating: 4.15 (Ranked 994)
 | Stuck | 5.00% | ~2,329 |
 | Help Me Out Here | 5.00% | ~2,329 |
 | The Interloper | 4.00% | ~1,863 |
-| Outdoorsperson | 3.00% | ~1,397 |
-| Hop, Step, Jump | 3.00% | ~1,397 |
-| Endless Runner | 3.00% | ~1,397 |
+| Outdoorsperson | 3.00% | ~1,398 |
+| Hop, Step, Jump | 3.00% | ~1,398 |
+| Endless Runner | 3.00% | ~1,398 |
 | What Must Be Done | 2.00% | ~932 |
 | Might and Main | 2.00% | ~932 |
 | Damned If You Do... | 2.00% | ~932 |
@@ -34,10 +34,10 @@ Rating: 4.15 (Ranked 994)
 | None the Wiser | 1.00% | ~466 |
 | Forspoken | 1.00% | ~466 |
 | Pilgrimage: Novice | 1.00% | ~466 |
+| Awakening | 0.70% | ~326 |
 | Wildfire | 0.70% | ~326 |
 | Realized Potential | 0.70% | ~326 |
-| Awakening | 0.60% | ~279 |
-| Explorer: Trailblazer | 0.60% | ~279 |
+| Explorer: Trailblazer | 0.60% | ~280 |
 | Through the Eyes of Another: Seer | 0.50% | ~233 |
 | Craftsperson | 0.40% | ~186 |
 | Archivist | 0.30% | ~140 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 994)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,579 (Ranked 125)  
+Progressed: 46,585 (Ranked 125)  
 Completed: 4 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 4 (0.01%) (Ranked 371)
 | 2024-01-03 | 46,259 | 4 |
 | 2024-01-04 | 46,369 | 4 |
 | 2024-01-05 | 46,484 | 4 |
-| 2024-01-06 | 46,579 | 4 |
+| 2024-01-06 | 46,585 | 4 |
 ## Awards
 Max (Character Customization): 46  (Ranked 468)  
 Sum: 67 (Ranked 494)  

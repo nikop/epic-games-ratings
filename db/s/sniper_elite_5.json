@@ -6,8 +6,8 @@
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -661,7 +661,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4220,
+  "EOS_Progressed": 4221,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -9446,6 +9446,11 @@
       "Time": "2024-01-06T16:09:33.3845551+00:00",
       "NumProgressed": 4220,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-06T19:09:22.4510331+00:00",
+      "NumProgressed": 4221,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9457,7 +9462,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -9513,7 +9518,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -9537,7 +9542,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9625,7 +9630,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9665,7 +9670,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9689,7 +9694,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -9793,7 +9798,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10024,13 +10029,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4171,
+      "Progressed": 4172,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4220,
+      "Progressed": 4221,
       "Completed": 11
     }
   ],
@@ -10038,8 +10043,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:09:37.7914839+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:09:22.4510325+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:00:04.4233105+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:09:37.7915718+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:00:03.6894203+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:09:22.4511411+00:00"
 }

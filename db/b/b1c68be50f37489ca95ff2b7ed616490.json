@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1219,6 +1219,11 @@
       "Time": "2024-01-06T16:05:11.7455784+00:00",
       "NumProgressed": 286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T19:05:15.712732+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1231,7 +1236,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "10",
@@ -1341,9 +1346,9 @@
       "ID": "22",
       "SetID": "6bgoh8g",
       "Name": "I know kung fu",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "23",
@@ -1407,7 +1412,7 @@
       "Name": "The power of observation",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "6",
@@ -1446,14 +1451,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:05:18.9408581+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:05:15.7127316+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:18.4677846+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:03:13.4674779+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:05:18.9408743+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:03:09.7058359+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:05:15.7127528+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -573,7 +573,7 @@
   ],
   "EOS_Progressed": 196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1404,9 +1404,9 @@
       "ID": "20AUDIOLOGS",
       "SetID": "a1angca",
       "Name": "Storyteller",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "20TELEPORTS",
@@ -1484,9 +1484,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ALLCOMBAT",
@@ -1588,9 +1588,9 @@
       "ID": "CHOSEOUT",
       "SetID": "a1angca",
       "Name": "Outlaw",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CONSTRUCTION",
@@ -1764,8 +1764,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:04:43.1922346+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:04:40.3509233+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:58:11.2758354+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:04:43.1922645+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:58:10.3011442+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:04:40.3509566+00:00"
 }

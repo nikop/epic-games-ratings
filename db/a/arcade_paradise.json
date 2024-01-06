@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -99,7 +99,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
@@ -909,6 +909,11 @@
       "Time": "2024-01-05T16:05:46.1878643+00:00",
       "NumProgressed": 742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T19:06:00.320478+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -968,7 +973,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "AhoyTrophy",
@@ -1062,9 +1067,9 @@
       "ID": "EntryTrophy",
       "SetID": "32aeje8",
       "Name": "Pushing a pull door",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 721
     },
     {
       "ID": "Ext4Trophy",
@@ -1200,7 +1205,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1240,7 +1245,7 @@
       "Name": "Taking the plunge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "RacerTrophy",
@@ -1320,7 +1325,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1351,7 +1356,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 0
     }
   ],
@@ -1359,8 +1364,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-12-23T15:58:00.3414014+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:06:03.9544141+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:06:00.3204777+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:02.7304338+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:57:45.6917573+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:06:03.9544551+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:57:45.8233228+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:06:00.3205323+00:00"
 }

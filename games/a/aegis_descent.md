@@ -50,7 +50,7 @@
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 448 (Ranked 358)  
-Completed: 1 (0.22%) (Ranked 269)  
+Completed: 1 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

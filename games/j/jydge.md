@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Dawn of Jydgement | 44.00% | ~7 |
-| Mission Mastered | 44.00% | ~7 |
-| The Jydgement Day | 19.00% | ~3 |
-| Savior | 13.00% | ~2 |
+| The Dawn of Jydgement | 41.00% | ~7 |
+| Mission Mastered | 41.00% | ~7 |
+| The Jydgement Day | 18.00% | ~3 |
+| Savior | 12.00% | ~2 |
 | The Dusk Falls | 6.00% | ~1 |
 | Cyberware | 6.00% | ~1 |
 | Crime Reaper | 6.00% | ~1 |
@@ -20,7 +20,7 @@
 | Lawful Not Awful | 0.00% | ~0 |
 | Special Specialist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 630)  
+Progressed: 17 (Ranked 628)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -37,6 +37,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-11-05 | 14 | 0 |
 | 2023-11-25 | 15 | 0 |
 | 2023-12-29 | 16 | 0 |
+| 2024-01-06 | 17 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

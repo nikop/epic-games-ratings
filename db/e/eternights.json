@@ -6,8 +6,8 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 804,
+  "EOS_Progressed": 805,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2987,6 +2987,11 @@
       "Time": "2024-01-06T17:09:21.2957712+00:00",
       "NumProgressed": 804,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T19:09:00.7758299+00:00",
+      "NumProgressed": 805,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2999,7 +3004,7 @@
       "Name": "New arm",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3021,9 +3026,9 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 241
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -3079,7 +3084,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3143,7 +3148,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3157,9 +3162,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 346
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3175,7 +3180,7 @@
       "Name": "Second wall",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3198,7 +3203,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 804,
+      "Progressed": 805,
       "Completed": 2
     }
   ],
@@ -3206,8 +3211,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-06T15:59:59.9482178+00:00",
-  "LastChanged_Achievements": "2024-01-06T18:09:16.3842537+00:00",
+  "LastChanged_Achievements": "2024-01-06T19:09:00.7758295+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-06T18:00:06.90621+00:00",
-  "LastUpdate_Achievements": "2024-01-06T18:09:16.3842838+00:00"
+  "LastUpdate_Ratings": "2024-01-06T19:00:06.2090172+00:00",
+  "LastUpdate_Achievements": "2024-01-06T19:09:00.7758695+00:00"
 }
