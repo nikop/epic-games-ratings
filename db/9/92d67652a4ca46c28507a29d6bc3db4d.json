@@ -2,12 +2,12 @@
   "ID": "92d67652a4ca46c28507a29d6bc3db4d",
   "Name": "Karos",
   "ProductSlug": "karos-09de0a",
-  "Ranking_Rating": 592,
+  "Ranking_Rating": 593,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-16T06:00:00+00:00",
@@ -441,6 +441,6 @@
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
   "LastChanged": "2024-01-05T18:03:41.7194719+00:00",
   "LastUpdate_AppInfo": "2024-01-04T09:57:17.2333149+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:05:25.1349386+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:06:13.7699277+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:03:29.9871399+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:04:24.6079361+00:00"
 }

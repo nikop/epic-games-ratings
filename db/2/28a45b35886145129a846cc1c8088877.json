@@ -2,12 +2,12 @@
   "ID": "28a45b35886145129a846cc1c8088877",
   "Name": "Mortal Online 2",
   "ProductSlug": "mortal-online-2-d7bb78",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 655,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-11T11:00:00+00:00",
@@ -141,6 +141,6 @@
   "FirstSeenRating": "2023-12-21T16:59:51.7204834+00:00",
   "LastChanged": "2024-01-05T19:00:05.6833535+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:09.2035989+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:01:03.4795048+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:06:46.8059137+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:59:45.2882735+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:05:00.33082+00:00"
 }

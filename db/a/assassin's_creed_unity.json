@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
@@ -2428,18 +2428,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 1242,
       "NumberOfAwardsMax": 959
+    },
+    {
+      "Time": "2024-01-06T11:59:16.7102453+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1244,
+      "NumberOfAwardsMax": 961
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1242,
-  "NumberOfAwardsMax": 959,
+  "NumberOfAwards": 1244,
+  "NumberOfAwardsMax": 961,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 959
+      "Count": 961
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -2531,8 +2537,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2024-01-05T04:58:03.0483923+00:00",
+  "LastChanged": "2024-01-06T11:59:16.7102451+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:40.0538552+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:00:36.333372+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:09:38.3261006+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:59:16.7102457+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:08:06.50185+00:00"
 }

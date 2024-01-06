@@ -2,9 +2,9 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 516,
+  "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76,
+  "EOS_Progressed": 77,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -394,6 +394,11 @@
       "Time": "2024-01-05T11:07:21.1303555+00:00",
       "NumProgressed": 76,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T12:08:01.2915252+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 132,
@@ -595,7 +600,7 @@
       "ID": "ClearedAllLevels1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Hitchhiker",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -635,7 +640,7 @@
       "ID": "CompleteAllMissionsAchievement",
       "SetID": "a8djcgh",
       "Name": "Diligent",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -763,7 +768,7 @@
       "ID": "ConsumableWithActiveCountOf10Achievement",
       "SetID": "a8djcgh",
       "Name": "Hoarder",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -803,7 +808,7 @@
       "ID": "ErebusSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Defrosted",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -811,7 +816,7 @@
       "ID": "FlamethrowerDiarrheaAchievement",
       "SetID": "a8djcgh",
       "Name": "Food Poisoning",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1011,7 +1016,7 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 51
     },
@@ -1019,7 +1024,7 @@
       "ID": "Killed10BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper I",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1027,7 +1032,7 @@
       "ID": "Killed10EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "First Blood",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 5,
       "UsersEstimate": 64
     },
@@ -1067,7 +1072,7 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 25
     },
@@ -1083,7 +1088,7 @@
       "ID": "LilySpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Flower Power",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1115,7 +1120,7 @@
       "ID": "PerksUnlocked25Achievement",
       "SetID": "a8djcgh",
       "Name": "25Gb HDD",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -1131,7 +1136,7 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -1179,7 +1184,7 @@
       "ID": "PlayedFor5HoursAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Lieutenant",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1267,7 +1272,7 @@
       "ID": "SilverMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Captain",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1347,7 +1352,7 @@
       "ID": "VisitLostLord10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage II",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1411,7 +1416,7 @@
       "ID": "VisitOverlord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Almost There I",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -1435,7 +1440,7 @@
       "ID": "VisitRegular100TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit II",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1460,14 +1465,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 76,
+      "Progressed": 77,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:09:33.4543478+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:08:01.2915245+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.525576+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:01:15.1896798+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:09:33.4544863+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:59:58.1440193+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:08:01.2916859+00:00"
 }

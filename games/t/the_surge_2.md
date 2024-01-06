@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.27 (Ranked 899)  
+Rating: 4.27 (Ranked 900)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,10 +29,10 @@ Rating: 4.27 (Ranked 899)
 | Can't Trust Banks | 15.00% | ~374 |
 | Mommy Dearest | 13.00% | ~324 |
 | Bad Dog | 13.00% | ~324 |
+| Where It All Began | 13.00% | ~324 |
 | Risk Tolerant | 13.00% | ~324 |
 | What A Catchy Song | 13.00% | ~324 |
 | Marked For Success | 12.00% | ~299 |
-| Where It All Began | 12.00% | ~299 |
 | Sorry, Didn't See You There | 12.00% | ~299 |
 | Corrupted Beauty | 11.00% | ~274 |
 | Stimulating The Local Economy | 10.00% | ~249 |

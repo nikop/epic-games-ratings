@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1029,
+  "Ranking_Rating": 1030,
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
@@ -9361,9 +9361,9 @@
       "Count": 3628
     }
   ],
-  "EOS_Progressed": 251898,
+  "EOS_Progressed": 251917,
   "EOS_Completed": 2596,
-  "EOS_NewPlayers": 4446,
+  "EOS_NewPlayers": 4425,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38921,6 +38921,11 @@
       "Time": "2024-01-06T11:12:48.7420313+00:00",
       "NumProgressed": 251898,
       "NumCompleted": 2596
+    },
+    {
+      "Time": "2024-01-06T12:11:01.8341727+00:00",
+      "NumProgressed": 251917,
+      "NumCompleted": 2596
     }
   ],
   "TotalAchievements": 546,
@@ -38932,7 +38937,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10076
+      "UsersEstimate": 10077
     },
     {
       "ID": "objective_completed_10",
@@ -39796,7 +39801,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "objective_completed_1203",
@@ -39906,9 +39911,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1260
     },
     {
       "ID": "objective_completed_130",
@@ -40724,7 +40729,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "objective_completed_390",
@@ -41068,7 +41073,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "objective_completed_54",
@@ -42148,7 +42153,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "objective_completed_80",
@@ -42676,7 +42681,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "objective_completed_902",
@@ -43220,7 +43225,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "objective_completed_1558",
@@ -43299,21 +43304,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218172,
+      "Progressed": 218191,
       "Completed": 4138
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251898,
+      "Progressed": 251917,
       "Completed": 2596
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-06T02:20:27.8906984+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:12:48.7420308+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:11:01.8341723+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:02:24.740143+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:12:48.7442949+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:01:15.1563761+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:11:01.8366135+00:00"
 }

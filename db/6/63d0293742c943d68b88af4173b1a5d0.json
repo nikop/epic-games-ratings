@@ -2278,9 +2278,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 104
     },
     {
       "ID": "Remake_14",
@@ -2365,8 +2365,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:08:09.41551+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:06:29.0949094+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:01:55.6657999+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:08:09.4155483+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:00:43.7490095+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:06:29.094939+00:00"
 }

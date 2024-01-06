@@ -2,12 +2,12 @@
   "ID": "c7f9346e3db148fca6dd63e9dd8451bd",
   "Name": "theHunter: Call of the Wild\u2122",
   "ProductSlug": "thehunter-call-of-the-wild",
-  "Ranking_Rating": 494,
+  "Ranking_Rating": 495,
   "Ranking_Popularity": 80,
-  "Ranking_PopularitySum": 50,
+  "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-11-25T16:00:00+00:00",
@@ -11731,11 +11731,17 @@
       "Rating": 4.57,
       "NumberOfAwards": 29981,
       "NumberOfAwardsMax": 4840
+    },
+    {
+      "Time": "2024-01-06T11:59:01.8421441+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 29999,
+      "NumberOfAwardsMax": 4852
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29981,
-  "NumberOfAwardsMax": 4840,
+  "NumberOfAwards": 29999,
+  "NumberOfAwardsMax": 4852,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -11748,7 +11754,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3595
+      "Count": 3601
     },
     {
       "Text": "This game is Relaxing",
@@ -11796,7 +11802,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4840
+      "Count": 4852
     }
   ],
   "EOS_Progressed": 0,
@@ -11810,8 +11816,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2024-01-06T09:58:21.3550647+00:00",
+  "LastChanged": "2024-01-06T11:59:01.8421439+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:23.7972055+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:00:22.6923126+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:08:04.4676517+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:59:01.8421445+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:06:23.586532+00:00"
 }

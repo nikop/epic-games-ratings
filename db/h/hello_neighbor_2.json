@@ -2,13 +2,13 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 722,
+  "Ranking_Rating": 723,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -507,10 +507,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3892,
+  "EOS_Progressed": 3895,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 170,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 171,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
     {
@@ -6867,6 +6867,11 @@
       "Time": "2024-01-06T10:08:36.6886291+00:00",
       "NumProgressed": 3892,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-06T12:08:50.7052195+00:00",
+      "NumProgressed": 3895,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -6878,7 +6883,7 @@
       "Name": "Ancient Curse",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -6886,7 +6891,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -6894,7 +6899,7 @@
       "Name": "Cat Person",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH_CLIMBER",
@@ -6902,7 +6907,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -6918,7 +6923,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -6934,7 +6939,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -6942,7 +6947,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -6950,7 +6955,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH_REUNION",
@@ -6958,7 +6963,7 @@
       "Name": "Reunion",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -6966,7 +6971,7 @@
       "Name": "Shovel Night",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -6974,7 +6979,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -6982,14 +6987,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3077
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3892,
+      "Progressed": 3895,
       "Completed": 144
     }
   ],
@@ -6997,8 +7002,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:10:49.1239123+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:08:50.7052193+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:00:11.7853908+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:10:49.1239534+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:58:50.0717752+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:08:50.705262+00:00"
 }

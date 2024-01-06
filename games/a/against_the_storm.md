@@ -9,9 +9,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 8.00% | ~1,621 |
 | Abandoned Settlement | 8.00% | ~1,621 |
 | Overgrown Library | 8.00% | ~1,621 |
-| First Real Expedition | 7.00% | ~1,418 |
-| No Deaths | 7.00% | ~1,418 |
-| Petrified Necropolis | 7.00% | ~1,418 |
+| First Real Expedition | 7.00% | ~1,419 |
+| No Deaths | 7.00% | ~1,419 |
+| Petrified Necropolis | 7.00% | ~1,419 |
 | Overcoming Difficulty | 6.00% | ~1,216 |
 | Coral Forest | 6.00% | ~1,216 |
 | The Marshlands | 6.00% | ~1,216 |
@@ -20,8 +20,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Frosts | 5.00% | ~1,013 |
 | Land of Greed | 5.00% | ~1,013 |
 | Ominous Presence | 5.00% | ~1,013 |
-| Royal Outpost | 4.00% | ~810 |
-| Watchtower | 4.00% | ~810 |
+| Royal Outpost | 4.00% | ~811 |
+| Watchtower | 4.00% | ~811 |
 | Homesick | 3.00% | ~608 |
 | Ruined Armory | 3.00% | ~608 |
 | Fertile Meadows | 3.00% | ~608 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,262 (Ranked 154)  
+Progressed: 20,267 (Ranked 154)  
 Completed: 33 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,10 +327,10 @@ Completed: 33 (0.16%) (Ranked 281)
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
-| 2024-01-06 | 20,262 | 33 |
+| 2024-01-06 | 20,267 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 448  (Ranked 230)  
-Sum: 3,337 (Ranked 177)  
+Sum: 3,339 (Ranked 177)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -338,7 +338,7 @@ Diff (max vs sum): 53
 | This game is Relaxing | 446 |
 | This game is Great for Beginners | 440 |
 | This game is Extremely Fun | 418 |
-| This game is Highly Recommended | 401 |
+| This game is Highly Recommended | 403 |
 | This game has Unique Visuals | 344 |
 | This game has Amazing Storytelling | 329 |
 | This game has Amazing Characters | 293 |
@@ -623,3 +623,4 @@ Diff (max vs sum): 53
 | 2024-01-03 | 4.82 | - | 447 | 3,324 |
 | 2024-01-04 | 4.82 | - | 448 | 3,331 |
 | 2024-01-05 | 4.82 | - | 448 | 3,337 |
+| 2024-01-06 | 4.82 | - | 448 | 3,339 |

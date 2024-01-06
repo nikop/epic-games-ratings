@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1166,
+  "EOS_Progressed": 1167,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -3843,6 +3843,11 @@
       "Time": "2024-01-06T11:11:54.5955244+00:00",
       "NumProgressed": 1166,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-06T12:10:02.5422589+00:00",
+      "NumProgressed": 1167,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3855,7 +3860,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "achievement_10",
@@ -3903,7 +3908,7 @@
       "Name": "Memory Rouser",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "achievement_16",
@@ -4015,7 +4020,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "achievement_29",
@@ -4029,9 +4034,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 432
     },
     {
       "ID": "achievement_30",
@@ -4095,7 +4100,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "achievement_38",
@@ -4207,7 +4212,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "achievement_7",
@@ -4215,7 +4220,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "achievement_8",
@@ -4238,13 +4243,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1166,
+      "Progressed": 1167,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:11:54.5955241+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:10:02.5422585+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:00:21.1335581+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:11:54.5955708+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:59:00.1536587+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:10:02.5423074+00:00"
 }

@@ -1,7 +1,7 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 675)  
+Rating: 4.46 (Ranked 676)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,10 +14,10 @@ Rating: 4.46 (Ranked 675)
 | Crowning Around | 18.00% | ~45,568 |
 | Can You Dig It? | 17.00% | ~43,037 |
 | You Juan-A-Go? | 16.00% | ~40,505 |
-| Chan-tastic | 15.00% | ~37,973 |
+| Chan-tastic | 15.00% | ~37,974 |
 | Muddy Waters | 14.00% | ~35,442 |
 | Toasty! | 13.00% | ~32,910 |
-| Lazy Laser | 8.00% | ~20,252 |
+| Lazy Laser | 8.00% | ~20,253 |
 | Just A Phaze | 7.00% | ~17,721 |
 | Into The Drift | 7.00% | ~17,721 |
 | Ready? Fight! | 7.00% | ~17,721 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 675)
 | Talent Scout | 0.10% | ~253 |
 | True Completionist | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,156 (Ranked 69)  
+Progressed: 253,157 (Ranked 69)  
 Completed: 6 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 6 (0.00%) (Ranked 393)
 | 2024-01-03 | 253,046 | 6 |
 | 2024-01-04 | 253,093 | 6 |
 | 2024-01-05 | 253,137 | 6 |
-| 2024-01-06 | 253,156 | 6 |
+| 2024-01-06 | 253,157 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

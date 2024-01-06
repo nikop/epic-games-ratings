@@ -1,32 +1,32 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 235)  
+Rating: 4.69 (Ranked 234)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~215,141 |
-| 50 HEADSHOTS | 31.00% | ~202,102 |
-| SCIENCE AND INDUSTRY | 30.00% | ~195,582 |
-| FINISHED CHAPTER 1 | 28.00% | ~182,543 |
-| FINISHED CHAPTER 2 | 21.00% | ~136,908 |
-| 200 HEADSHOTS | 19.00% | ~123,869 |
-| FINISHED CHAPTER 3 | 18.00% | ~117,349 |
-| FINISHED CHAPTER 4 | 15.00% | ~97,791 |
-| FINISH CHAPTER 5 | 13.00% | ~84,752 |
-| FINISH CHAPTER 6 | 11.00% | ~71,714 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,714 |
-| 1000 KILLS | 10.00% | ~65,194 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,078 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,039 |
-| FIRST BLOOD | 2.00% | ~13,039 |
+| 100 KILLS | 33.00% | ~215,132 |
+| 50 HEADSHOTS | 31.00% | ~202,093 |
+| SCIENCE AND INDUSTRY | 30.00% | ~195,574 |
+| FINISHED CHAPTER 1 | 28.00% | ~182,536 |
+| FINISHED CHAPTER 2 | 21.00% | ~136,902 |
+| 200 HEADSHOTS | 19.00% | ~123,864 |
+| FINISHED CHAPTER 3 | 18.00% | ~117,345 |
+| FINISHED CHAPTER 4 | 15.00% | ~97,787 |
+| FINISH CHAPTER 5 | 13.00% | ~84,749 |
+| FINISH CHAPTER 6 | 11.00% | ~71,711 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,711 |
+| 1000 KILLS | 10.00% | ~65,191 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,077 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,038 |
+| FIRST BLOOD | 2.00% | ~13,038 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,519 |
 | OUT OF ORDER | 1.00% | ~6,519 |
 | PACEMAKER | 1.00% | ~6,519 |
 | TIME PARADOX | 1.00% | ~6,519 |
-| PARTYHARD | 0.80% | ~5,216 |
-| NEW GAME PLUS | 0.70% | ~4,564 |
-| FIREFIGHT LEVEL 40 | 0.60% | ~3,912 |
+| PARTYHARD | 0.80% | ~5,215 |
+| NEW GAME PLUS | 0.70% | ~4,563 |
+| FIREFIGHT LEVEL 40 | 0.60% | ~3,911 |
 | CHURCH | 0.40% | ~2,608 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~1,956 |
 | REMEMBER THE ARMORY | 0.30% | ~1,956 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 235)
 | THE GAMBLER | 0.10% | ~652 |
 | WARRIOR IN A GARDEN | 0.10% | ~652 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651,941 (Ranked 32)  
+Progressed: 651,914 (Ranked 32)  
 Completed: 59 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |

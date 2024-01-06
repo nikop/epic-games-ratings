@@ -1,75 +1,75 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.20 (Ranked 962)  
+Rating: 4.21 (Ranked 951)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wayfarer | 0.10% | ~11 |
-| A Veil Lifted | 0.10% | ~11 |
-| Lost and Found | 0.10% | ~11 |
-| Weapon Collector | 0.10% | ~11 |
-| Ironclad | 0.10% | ~11 |
-| What Sights Contained Within | 0.10% | ~11 |
-| Trinket Collector | 0.10% | ~11 |
-| Ammunition Collector | 0.10% | ~11 |
-| Inferno Adept | 0.10% | ~11 |
-| Radiant Adept | 0.10% | ~11 |
-| Umbral Adept | 0.10% | ~11 |
-| Throwable Collector | 0.10% | ~11 |
-| Gesture Collector | 0.10% | ~11 |
-| Salvation in Blood | 0.10% | ~11 |
-| Honed to Perfection | 0.10% | ~11 |
-| Rune Novice | 0.10% | ~11 |
-| Rune Master | 0.10% | ~11 |
-| Carving Out Victory | 0.10% | ~11 |
-| Utmost Insight | 0.10% | ~11 |
-| Comrades | 0.10% | ~11 |
-| Shared Triumph | 0.10% | ~11 |
-| Vengeance for the Fallen | 0.10% | ~11 |
-| No Mercy | 0.10% | ~11 |
-| Infernal Offerings | 0.10% | ~11 |
-| Radiant Offerings | 0.10% | ~11 |
-| Umbral Offerings | 0.10% | ~11 |
-| Shades of Violence | 0.10% | ~11 |
-| Rise and Fall | 0.10% | ~11 |
-| Together in Death | 0.10% | ~11 |
-| Burying the Past | 0.10% | ~11 |
-| Unwanted | 0.10% | ~11 |
-| Unbroken to the End | 0.10% | ~11 |
-| Wings of Grief | 0.10% | ~11 |
-| Twin Faces of Sin | 0.10% | ~11 |
-| Judgement | 0.10% | ~11 |
-| Hunt's End | 0.10% | ~11 |
-| The King is Dead | 0.10% | ~11 |
-| A Hunger Sated | 0.10% | ~11 |
-| Fallen | 0.10% | ~11 |
-| None Shall be Spared | 0.10% | ~11 |
-| The Price of Knowledge | 0.10% | ~11 |
-| Part of the Divine | 0.10% | ~11 |
-| Travels Resumed | 0.10% | ~11 |
-| Moving On | 0.10% | ~11 |
-| Hero Worship | 0.10% | ~11 |
-| Antanas' Legacy | 0.10% | ~11 |
-| Faithful | 0.10% | ~11 |
-| Without Purpose | 0.10% | ~11 |
-| A Queen's Rest | 0.10% | ~11 |
-| The Last Step | 0.10% | ~11 |
-| Vengeful Reflection | 0.10% | ~11 |
-| Lord of the Risen | 0.10% | ~11 |
-| In Light we Walk | 0.10% | ~11 |
-| Back to the Void | 0.10% | ~11 |
-| A Shadow Dispelled | 0.10% | ~11 |
-| Essence of Death | 0.10% | ~11 |
-| Thriving in Darkness | 0.10% | ~11 |
-| Seasoned | 0.10% | ~11 |
-| Lord of the Fallen | 0.10% | ~11 |
-| The Past Shapes the Present | 0.10% | ~11 |
-| Lingering Moments | 0.10% | ~11 |
-| A Rest Among the Dead | 0.10% | ~11 |
-| A Trace of Venom | 0.10% | ~11 |
+| Wayfarer | 0.10% | ~12 |
+| A Veil Lifted | 0.10% | ~12 |
+| Lost and Found | 0.10% | ~12 |
+| Weapon Collector | 0.10% | ~12 |
+| Ironclad | 0.10% | ~12 |
+| What Sights Contained Within | 0.10% | ~12 |
+| Trinket Collector | 0.10% | ~12 |
+| Ammunition Collector | 0.10% | ~12 |
+| Inferno Adept | 0.10% | ~12 |
+| Radiant Adept | 0.10% | ~12 |
+| Umbral Adept | 0.10% | ~12 |
+| Throwable Collector | 0.10% | ~12 |
+| Gesture Collector | 0.10% | ~12 |
+| Salvation in Blood | 0.10% | ~12 |
+| Honed to Perfection | 0.10% | ~12 |
+| Rune Novice | 0.10% | ~12 |
+| Rune Master | 0.10% | ~12 |
+| Carving Out Victory | 0.10% | ~12 |
+| Utmost Insight | 0.10% | ~12 |
+| Comrades | 0.10% | ~12 |
+| Shared Triumph | 0.10% | ~12 |
+| Vengeance for the Fallen | 0.10% | ~12 |
+| No Mercy | 0.10% | ~12 |
+| Infernal Offerings | 0.10% | ~12 |
+| Radiant Offerings | 0.10% | ~12 |
+| Umbral Offerings | 0.10% | ~12 |
+| Shades of Violence | 0.10% | ~12 |
+| Rise and Fall | 0.10% | ~12 |
+| Together in Death | 0.10% | ~12 |
+| Burying the Past | 0.10% | ~12 |
+| Unwanted | 0.10% | ~12 |
+| Unbroken to the End | 0.10% | ~12 |
+| Wings of Grief | 0.10% | ~12 |
+| Twin Faces of Sin | 0.10% | ~12 |
+| Judgement | 0.10% | ~12 |
+| Hunt's End | 0.10% | ~12 |
+| The King is Dead | 0.10% | ~12 |
+| A Hunger Sated | 0.10% | ~12 |
+| Fallen | 0.10% | ~12 |
+| None Shall be Spared | 0.10% | ~12 |
+| The Price of Knowledge | 0.10% | ~12 |
+| Part of the Divine | 0.10% | ~12 |
+| Travels Resumed | 0.10% | ~12 |
+| Moving On | 0.10% | ~12 |
+| Hero Worship | 0.10% | ~12 |
+| Antanas' Legacy | 0.10% | ~12 |
+| Faithful | 0.10% | ~12 |
+| Without Purpose | 0.10% | ~12 |
+| A Queen's Rest | 0.10% | ~12 |
+| The Last Step | 0.10% | ~12 |
+| Vengeful Reflection | 0.10% | ~12 |
+| Lord of the Risen | 0.10% | ~12 |
+| In Light we Walk | 0.10% | ~12 |
+| Back to the Void | 0.10% | ~12 |
+| A Shadow Dispelled | 0.10% | ~12 |
+| Essence of Death | 0.10% | ~12 |
+| Thriving in Darkness | 0.10% | ~12 |
+| Seasoned | 0.10% | ~12 |
+| Lord of the Fallen | 0.10% | ~12 |
+| The Past Shapes the Present | 0.10% | ~12 |
+| Lingering Moments | 0.10% | ~12 |
+| A Rest Among the Dead | 0.10% | ~12 |
+| A Trace of Venom | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,498 (Ranked 178)  
+Progressed: 11,516 (Ranked 178)  
 Completed: 2 (0.02%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,10 +149,10 @@ Completed: 2 (0.02%) (Ranked 360)
 | 2024-01-03 | 10,652 | 2 |
 | 2024-01-04 | 10,965 | 2 |
 | 2024-01-05 | 11,322 | 2 |
-| 2024-01-06 | 11,498 | 2 |
+| 2024-01-06 | 11,516 | 2 |
 ## Awards
 Max (Character Customization): 443  (Ranked 233)  
-Sum: 1,049 (Ranked 268)  
+Sum: 1,050 (Ranked 268)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -162,7 +162,7 @@ Diff (max vs sum): -35
 | This game has Amazing Storytelling | 52 |
 | This game has Diverse Characters | 45 |
 | This game is Highly Recommended | 42 |
-| This game has Quickly Understood Controls | 37 |
+| This game has Quickly Understood Controls | 38 |
 | This game has Competitive Players | 36 |
 | This game has Amazing Characters | 36 |
 | This game is Extremely Fun | 34 |
@@ -250,4 +250,4 @@ Diff (max vs sum): -35
 | 2024-01-03 | 4.22 | 428 | 980 |
 | 2024-01-04 | 4.22 | 435 | 1,017 |
 | 2024-01-05 | 4.21 | 443 | 1,047 |
-| 2024-01-06 | 4.20 | 443 | 1,049 |
+| 2024-01-06 | 4.21 | 443 | 1,050 |

@@ -1,15 +1,15 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.59 (Ranked 445)  
+Rating: 4.61 (Ranked 398)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 69.00% | ~985 |
-| The Teleprobe | 54.00% | ~771 |
+| The Camp | 69.00% | ~986 |
+| The Teleprobe | 54.00% | ~772 |
 | The City | 49.00% | ~700 |
-| The field base | 44.00% | ~628 |
-| The Alliance | 40.00% | ~571 |
+| The field base | 44.00% | ~629 |
+| The Alliance | 40.00% | ~572 |
 | Survivors | 38.00% | ~543 |
 | The Condor | 36.00% | ~514 |
 | The End | 36.00% | ~514 |
@@ -19,9 +19,9 @@ Rating: 4.59 (Ranked 445)
 | Volcanologist | 22.00% | ~314 |
 | Peacemaker | 21.00% | ~300 |
 | Fierce fight | 20.00% | ~286 |
-| Evacuation | 19.00% | ~271 |
+| Evacuation | 19.00% | ~272 |
 | Beyond divisions | 17.00% | ~243 |
-| Flying Objects Operator | 16.00% | ~228 |
+| Flying Objects Operator | 16.00% | ~229 |
 | I remember everything! | 13.00% | ~186 |
 | Another giant | 13.00% | ~186 |
 | Violent solution | 9.00% | ~129 |
@@ -35,7 +35,7 @@ Rating: 4.59 (Ranked 445)
 | Convoy list | 0.90% | ~13 |
 | No more mistakes | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,428 (Ranked 268)  
+Progressed: 1,429 (Ranked 268)  
 Completed: 1 (0.07%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 1 (0.07%) (Ranked 325)
 | 2024-01-03 | 1,345 | 0 |
 | 2024-01-04 | 1,381 | 1 |
 | 2024-01-05 | 1,415 | 1 |
-| 2024-01-06 | 1,428 | 1 |
+| 2024-01-06 | 1,429 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -109,3 +109,4 @@ Completed: 1 (0.07%) (Ranked 325)
 | 2024-01-01 | 4.56 | 0 | 0 |
 | 2024-01-03 | 4.57 | 0 | 0 |
 | 2024-01-05 | 4.59 | 0 | 0 |
+| 2024-01-06 | 4.61 | 0 | 0 |

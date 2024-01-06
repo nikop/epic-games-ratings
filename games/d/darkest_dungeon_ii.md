@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~877 |
+| Malpractice Assurance | 13.00% | ~878 |
 | Lost and Found | 8.00% | ~540 |
 | Autodidact | 7.00% | ~9,232 |
 | This Belongs in a Museum | 6.00% | ~7,913 |
@@ -20,8 +20,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 5.00% | ~6,594 |
 | Rush Hour | 5.00% | ~6,594 |
 | To Grandmother's House | 5.00% | ~6,594 |
-| Ploughshares to Swords | 5.00% | ~337 |
-| Bloody Graduation | 5.00% | ~337 |
+| Ploughshares to Swords | 5.00% | ~338 |
+| Bloody Graduation | 5.00% | ~338 |
 | It Rings a Bell | 4.00% | ~5,275 |
 | Not Today! | 4.00% | ~5,275 |
 | It Happens | 4.00% | ~5,275 |
@@ -32,24 +32,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 4.00% | ~5,275 |
 | Nope | 4.00% | ~5,275 |
 | Friends 'Til the End | 4.00% | ~270 |
-| Resurrection | 3.00% | ~3,956 |
-| Unleash Hell | 3.00% | ~3,956 |
-| Funny Guy | 3.00% | ~3,956 |
-| Long Live the King | 3.00% | ~3,956 |
-| Wyrdly Reconstructed | 3.00% | ~3,956 |
-| Boxcar Kid | 3.00% | ~3,956 |
-| Unfulfilled Desires | 3.00% | ~3,956 |
-| Predator | 3.00% | ~3,956 |
-| Dissector | 3.00% | ~3,956 |
-| Banishment | 3.00% | ~3,956 |
-| Deprogramming | 3.00% | ~3,956 |
-| Now Stay Dead | 3.00% | ~3,956 |
-| Reverse Banditry | 3.00% | ~3,956 |
-| Spelunker | 3.00% | ~3,956 |
-| Ramble On | 3.00% | ~3,956 |
-| A Clear Conscience | 3.00% | ~3,956 |
-| Unshackled | 3.00% | ~3,956 |
-| Road Trip | 3.00% | ~3,956 |
+| Resurrection | 3.00% | ~3,957 |
+| Unleash Hell | 3.00% | ~3,957 |
+| Funny Guy | 3.00% | ~3,957 |
+| Long Live the King | 3.00% | ~3,957 |
+| Wyrdly Reconstructed | 3.00% | ~3,957 |
+| Boxcar Kid | 3.00% | ~3,957 |
+| Unfulfilled Desires | 3.00% | ~3,957 |
+| Predator | 3.00% | ~3,957 |
+| Dissector | 3.00% | ~3,957 |
+| Banishment | 3.00% | ~3,957 |
+| Deprogramming | 3.00% | ~3,957 |
+| Now Stay Dead | 3.00% | ~3,957 |
+| Reverse Banditry | 3.00% | ~3,957 |
+| Spelunker | 3.00% | ~3,957 |
+| Ramble On | 3.00% | ~3,957 |
+| A Clear Conscience | 3.00% | ~3,957 |
+| Unshackled | 3.00% | ~3,957 |
+| Road Trip | 3.00% | ~3,957 |
 | This Looks Familiar | 2.00% | ~2,638 |
 | Hope Rekindled | 2.00% | ~2,638 |
 | Ichthyophobic | 2.00% | ~2,638 |
@@ -62,8 +62,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 1.00% | ~1,319 |
 | Handled | 1.00% | ~1,319 |
 | Body of Work | 1.00% | ~1,319 |
-| Slap on the Wrist | 1.00% | ~67 |
-| For Old Time' Sake | 1.00% | ~67 |
+| Slap on the Wrist | 1.00% | ~68 |
+| For Old Time' Sake | 1.00% | ~68 |
 | Clearing the Ledger | 0.90% | ~1,187 |
 | Hat Trick | 0.90% | ~1,187 |
 | Triage | 0.90% | ~1,187 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,880 (Ranked 91)  
+Progressed: 131,885 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,880 | 3 |
+| 2024-01-06 | 131,885 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
 Sum: 21,470 (Ranked 58)  

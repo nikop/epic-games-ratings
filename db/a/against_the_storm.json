@@ -3717,10 +3717,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3337,
       "NumberOfAwardsMax": 448
+    },
+    {
+      "Time": "2024-01-06T12:01:26.0870826+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3339,
+      "NumberOfAwardsMax": 448
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3337,
+  "NumberOfAwards": 3339,
   "NumberOfAwardsMax": 448,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3740,7 +3746,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 401
+      "Count": 403
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3785,9 +3791,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 20262,
+  "EOS_Progressed": 20267,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18635,6 +18641,11 @@
       "Time": "2024-01-06T11:09:22.5524319+00:00",
       "NumProgressed": 20262,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-06T12:07:49.2582316+00:00",
+      "NumProgressed": 20267,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18735,7 +18746,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "WinHard",
@@ -18863,7 +18874,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "WinNearRuins",
@@ -18903,7 +18914,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "WinOnCoral",
@@ -19023,7 +19034,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "WinWithoutOrders",
@@ -19079,7 +19090,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "WinNearPresence",
@@ -19118,15 +19129,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20262,
+      "Progressed": 20267,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-05T19:01:40.5563958+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:09:22.5524315+00:00",
+  "LastChanged": "2024-01-06T12:01:26.0870825+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:07:49.258231+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:02:34.7767787+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:09:22.5525565+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:01:26.087083+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:07:49.2583564+00:00"
 }

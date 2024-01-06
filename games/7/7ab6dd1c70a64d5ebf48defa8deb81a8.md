@@ -1,7 +1,7 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.13 (Ranked 1,005)  
+Rating: 4.13 (Ranked 1,006)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,8 +11,8 @@ Rating: 4.13 (Ranked 1,005)
 | Find Allies | 23.00% | ~431 |
 | A Taste of Wrath | 23.00% | ~431 |
 | I Found It | 23.00% | ~431 |
-| Shatter Them All | 22.00% | ~412 |
-| Geared Up | 22.00% | ~412 |
+| Shatter Them All | 22.00% | ~413 |
+| Geared Up | 22.00% | ~413 |
 | Adventurer | 21.00% | ~394 |
 | Fashion Victim | 21.00% | ~394 |
 | Scholar | 21.00% | ~394 |
@@ -42,7 +42,7 @@ Rating: 4.13 (Ranked 1,005)
 | All That Gold | 0.70% | ~13 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,875 (Ranked 252)  
+Progressed: 1,876 (Ranked 252)  
 Completed: 3 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 3 (0.16%) (Ranked 281)
 | 2024-01-03 | 1,735 | 3 |
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
-| 2024-01-06 | 1,875 | 3 |
+| 2024-01-06 | 1,876 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

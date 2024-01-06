@@ -2,7 +2,7 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 235,
+  "Ranking_Rating": 234,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 148,
@@ -2277,9 +2277,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 21996,
+  "EOS_Progressed": 21998,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12867,6 +12867,11 @@
       "Time": "2024-01-06T10:05:41.2783811+00:00",
       "NumProgressed": 21996,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-06T12:07:19.7360836+00:00",
+      "NumProgressed": 21998,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12878,7 +12883,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "CarMechanic",
@@ -12910,7 +12915,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "EstateAgent",
@@ -12926,7 +12931,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20896
+      "UsersEstimate": 20898
     },
     {
       "ID": "GameOver",
@@ -12966,7 +12971,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "KnockKnock",
@@ -12990,7 +12995,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4399
+      "UsersEstimate": 4400
     },
     {
       "ID": "Negotiator",
@@ -13014,7 +13019,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4399
+      "UsersEstimate": 4400
     },
     {
       "ID": "SeniorEstateAgent",
@@ -13030,7 +13035,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "Strongman",
@@ -13061,15 +13066,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21996,
+      "Progressed": 21998,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-02T23:59:10.3822298+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:08:55.7494125+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:07:19.7360832+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.4984496+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:02:36.1994164+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:08:55.7494799+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:01:27.5995507+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:07:19.7361332+00:00"
 }

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 345,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2092,9 +2092,9 @@
       "ID": "ApianHero",
       "SetID": "1jeo1g7",
       "Name": "Apian Hero",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "ApianMastery",
@@ -2235,8 +2235,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:11:04.9628194+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:09:07.5508255+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:00:06.1806637+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:11:04.9628978+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:58:44.0177055+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:09:07.5509115+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -296,7 +296,7 @@
   ],
   "EOS_Progressed": 330,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1762,9 +1762,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1850,9 +1850,9 @@
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1930,9 +1930,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1955,8 +1955,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:11:34.9046064+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:09:40.982674+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:02:09.3832291+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:11:34.9046347+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:00:58.495467+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:09:40.9827165+00:00"
 }

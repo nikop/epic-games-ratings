@@ -1,12 +1,12 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.37 (Ranked 804)  
+Rating: 4.37 (Ranked 805)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 67.00% | ~511 |
+| Explorer | 68.00% | ~518 |
 | Cowardice | 61.00% | ~465 |
 | The Breaking Point | 44.00% | ~335 |
 | NO LIFE IS WORTH SAVING... | 44.00% | ~335 |

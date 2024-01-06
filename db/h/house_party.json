@@ -2,7 +2,7 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 856,
+  "Ranking_Rating": 857,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 194,
@@ -383,9 +383,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7161,
+  "EOS_Progressed": 7162,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8458,6 +8458,11 @@
       "Time": "2024-01-06T11:11:11.2148507+00:00",
       "NumProgressed": 7161,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T12:09:15.0444949+00:00",
+      "NumProgressed": 7162,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8643,9 +8648,9 @@
       "ID": "FriendInNeed",
       "SetID": "bmkn7o4",
       "Name": "A Friend in Need...",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 501
     },
     {
       "ID": "GoodRiddance",
@@ -9020,21 +9025,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4200,
+      "Progressed": 4201,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7161,
+      "Progressed": 7162,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:11:11.2148503+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:09:15.0444945+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:02:15.5155291+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:11:11.2149301+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:01:05.0777254+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:09:15.0445973+00:00"
 }

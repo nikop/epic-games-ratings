@@ -4,7 +4,7 @@
   "ProductSlug": "discovery-tour-viking-age",
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-19T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:14.7987738+00:00",
   "LastChanged": "2023-03-31T05:57:14.7987739+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:01.9588014+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:01:39.3009879+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:05:45.0645404+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:00:27.6427676+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:03:52.8362079+00:00"
 }

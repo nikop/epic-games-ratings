@@ -1,16 +1,16 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.81 (Ranked 1,080)  
+Rating: 3.81 (Ranked 1,081)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,567 |
-| No Half Measures | 87.00% | ~15,172 |
+| Eeligally Ambitious | 95.00% | ~16,568 |
+| No Half Measures | 87.00% | ~15,173 |
 | Personal Matter | 86.00% | ~14,998 |
-| But You Have Heard of Me | 72.00% | ~12,556 |
-| Double the Barrels, double the Fun | 54.00% | ~9,417 |
-| Pimp My Glide | 49.00% | ~8,545 |
+| But You Have Heard of Me | 72.00% | ~12,557 |
+| Double the Barrels, double the Fun | 54.00% | ~9,418 |
+| Pimp My Glide | 49.00% | ~8,546 |
 | ... And Where Do the Stories Come From? | 40.00% | ~6,976 |
 | House Party! | 35.00% | ~6,104 |
 | Make It Rain | 23.00% | ~4,011 |
@@ -32,7 +32,7 @@ Rating: 3.81 (Ranked 1,080)
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,439 (Ranked 163)  
+Progressed: 17,440 (Ranked 163)  
 Completed: 1 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 1 (0.01%) (Ranked 371)
 | 2024-01-03 | 17,412 | 1 |
 | 2024-01-04 | 17,425 | 1 |
 | 2024-01-05 | 17,434 | 1 |
-| 2024-01-06 | 17,439 | 1 |
+| 2024-01-06 | 17,440 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

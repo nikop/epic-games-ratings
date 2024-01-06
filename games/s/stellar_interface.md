@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 84.00% | ~64 |
-| Killing Spree | 67.00% | ~51 |
+| First Blood | 83.00% | ~64 |
+| Killing Spree | 66.00% | ~51 |
 | Merchant Prince I | 55.00% | ~42 |
-| 5Gb HDD | 50.00% | ~38 |
+| 5Gb HDD | 49.00% | ~38 |
 | Fighting Fit I | 34.00% | ~26 |
-| Dominating | 33.00% | ~25 |
+| Dominating | 32.00% | ~25 |
 | Rambo I | 29.00% | ~22 |
 | 10Gb HDD | 29.00% | ~22 |
 | The Vette | 26.00% | ~20 |
 | Mega Kill | 22.00% | ~17 |
-| Almost There I | 20.00% | ~15 |
+| Almost There I | 19.00% | ~15 |
 | Stoic | 18.00% | ~14 |
 | Galactic Cadet | 16.00% | ~12 |
 | Omicron Alpha | 14.00% | ~11 |
 | Bronze Prince of Ball-air | 12.00% | ~9 |
 | Pacifist | 12.00% | ~9 |
 | Collateral Damage I | 12.00% | ~9 |
-| Defrosted | 11.00% | ~8 |
-| 25Gb HDD | 11.00% | ~8 |
+| Defrosted | 10.00% | ~8 |
+| 25Gb HDD | 10.00% | ~8 |
 | Sectoral Ensign | 9.00% | ~7 |
 | Rambo II | 9.00% | ~7 |
 | Unstoppable | 9.00% | ~7 |
@@ -30,16 +30,16 @@
 | Golden Prince of Ball-air | 8.00% | ~6 |
 | Space Surfer | 8.00% | ~6 |
 | Merchant Prince II | 8.00% | ~6 |
-| Hitchhiker | 7.00% | ~5 |
-| Diligent | 7.00% | ~5 |
-| Hoarder | 7.00% | ~5 |
-| Food Poisoning | 7.00% | ~5 |
-| Usurper I | 7.00% | ~5 |
-| Flower Power | 7.00% | ~5 |
-| Galactic Lieutenant | 7.00% | ~5 |
-| Sectoral Captain | 7.00% | ~5 |
-| Collateral Damage II | 7.00% | ~5 |
-| Fighting Fit II | 7.00% | ~5 |
+| Hitchhiker | 6.00% | ~5 |
+| Diligent | 6.00% | ~5 |
+| Hoarder | 6.00% | ~5 |
+| Food Poisoning | 6.00% | ~5 |
+| Usurper I | 6.00% | ~5 |
+| Flower Power | 6.00% | ~5 |
+| Galactic Lieutenant | 6.00% | ~5 |
+| Sectoral Captain | 6.00% | ~5 |
+| Collateral Damage II | 6.00% | ~5 |
+| Fighting Fit II | 6.00% | ~5 |
 | Bronze Foundation | 5.00% | ~4 |
 | System Ensign | 5.00% | ~4 |
 | Bronze Pest Control | 5.00% | ~4 |
@@ -137,7 +137,7 @@
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 516)  
+Progressed: 77 (Ranked 514)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,3 +192,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-30 | 74 | 0 |
 | 2024-01-04 | 75 | 0 |
 | 2024-01-05 | 76 | 0 |
+| 2024-01-06 | 77 | 0 |

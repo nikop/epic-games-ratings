@@ -1,30 +1,30 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.50 (Ranked 614)  
+Rating: 4.50 (Ranked 616)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~884 |
+| Read Between The Lines | 63.00% | ~885 |
 | To Hell In A Handcart | 61.00% | ~856 |
 | High Profile | 55.00% | ~772 |
 | Whispers In The Dark | 52.00% | ~730 |
 | Fond Memories | 50.00% | ~702 |
-| A Method To His Madness | 48.00% | ~673 |
-| History Check | 47.00% | ~659 |
-| The New World | 45.00% | ~631 |
-| Open Sesame | 44.00% | ~617 |
-| Sticky Fingers | 44.00% | ~617 |
-| Gaze Into The Abyss | 43.00% | ~603 |
-| Knives Out | 43.00% | ~603 |
-| Land, Ho! | 43.00% | ~603 |
-| Lock, Stock, And Barrel | 42.00% | ~589 |
-| Back In The Saddle | 42.00% | ~589 |
-| No Man Is An Island | 41.00% | ~575 |
-| At Wits' End | 40.00% | ~561 |
-| Fhtagn! | 39.00% | ~547 |
-| Bookworm | 38.00% | ~533 |
-| Up In Flames | 38.00% | ~533 |
+| A Method To His Madness | 48.00% | ~674 |
+| History Check | 47.00% | ~660 |
+| The New World | 45.00% | ~632 |
+| Open Sesame | 44.00% | ~618 |
+| Sticky Fingers | 44.00% | ~618 |
+| Gaze Into The Abyss | 43.00% | ~604 |
+| Knives Out | 43.00% | ~604 |
+| Land, Ho! | 43.00% | ~604 |
+| Lock, Stock, And Barrel | 42.00% | ~590 |
+| Back In The Saddle | 42.00% | ~590 |
+| No Man Is An Island | 41.00% | ~576 |
+| At Wits' End | 40.00% | ~562 |
+| Fhtagn! | 39.00% | ~548 |
+| Bookworm | 38.00% | ~534 |
+| Up In Flames | 38.00% | ~534 |
 | Going Once... | 36.00% | ~505 |
 | Let Me Be Frank | 34.00% | ~477 |
 | No Stone Unturned | 32.00% | ~449 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 614)
 | Big Breakthrough | 12.00% | ~168 |
 | Reawakened | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,403 (Ranked 270)  
+Progressed: 1,404 (Ranked 270)  
 Completed: 41 (2.92%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 41 (2.92%) (Ranked 114)
 | 2024-01-03 | 1,386 | 40 |
 | 2024-01-04 | 1,394 | 40 |
 | 2024-01-05 | 1,400 | 41 |
-| 2024-01-06 | 1,403 | 41 |
+| 2024-01-06 | 1,404 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,39 +1,39 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 565)  
+Rating: 4.53 (Ranked 566)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,591 |
-| Worth it | 63.00% | ~43,285 |
-| Eagle Eye | 55.00% | ~37,788 |
-| Corpseman I | 39.00% | ~26,795 |
-| Blast fishing | 37.00% | ~25,421 |
-| Not alone | 32.00% | ~21,986 |
-| Headhunter I | 26.00% | ~17,864 |
-| Manual Labour I | 25.00% | ~17,176 |
-| Developers, Developers, Developers | 24.00% | ~16,489 |
-| Basic Training | 23.00% | ~15,802 |
-| Furchtlos und Treu | 13.00% | ~8,932 |
-| Gott Mit Uns | 12.00% | ~8,245 |
+| Setting an example | 78.00% | ~53,598 |
+| Worth it | 63.00% | ~43,290 |
+| Eagle Eye | 55.00% | ~37,793 |
+| Corpseman I | 39.00% | ~26,799 |
+| Blast fishing | 37.00% | ~25,425 |
+| Not alone | 32.00% | ~21,989 |
+| Headhunter I | 26.00% | ~17,866 |
+| Manual Labour I | 25.00% | ~17,179 |
+| Developers, Developers, Developers | 24.00% | ~16,492 |
+| Basic Training | 23.00% | ~15,804 |
+| Furchtlos und Treu | 13.00% | ~8,933 |
+| Gott Mit Uns | 12.00% | ~8,246 |
 | This We'll Defend! | 9.00% | ~6,184 |
 | Providentiea Memor | 9.00% | ~6,184 |
 | For King and Country | 9.00% | ~6,184 |
-| Battle hardened | 8.00% | ~5,496 |
-| Anker wirf! | 8.00% | ~5,496 |
-| Semper Fidelis! | 7.00% | ~4,809 |
-| Honneur et Patrie | 7.00% | ~4,809 |
-| In Treue Fest | 5.00% | ~3,435 |
-| Voor De Koning | 5.00% | ~3,435 |
-| Extreme Headhunter | 5.00% | ~3,435 |
-| Advance Australia | 4.00% | ~2,748 |
-| We Stand on Guard | 4.00% | ~2,748 |
-| Sidi Brahim | 4.00% | ~2,748 |
-| War is better with friends I | 4.00% | ~2,748 |
-| Let them, come to us | 4.00% | ~2,748 |
-| Corpseman II | 4.00% | ~2,748 |
+| Battle hardened | 8.00% | ~5,497 |
+| Anker wirf! | 8.00% | ~5,497 |
+| Semper Fidelis! | 7.00% | ~4,810 |
+| Honneur et Patrie | 7.00% | ~4,810 |
+| In Treue Fest | 5.00% | ~3,436 |
+| Voor De Koning | 5.00% | ~3,436 |
+| Extreme Headhunter | 5.00% | ~3,436 |
+| Advance Australia | 4.00% | ~2,749 |
+| We Stand on Guard | 4.00% | ~2,749 |
+| Sidi Brahim | 4.00% | ~2,749 |
+| War is better with friends I | 4.00% | ~2,749 |
+| Let them, come to us | 4.00% | ~2,749 |
+| Corpseman II | 4.00% | ~2,749 |
 | Offense is the best defence | 3.00% | ~2,061 |
 | There is no I in team | 3.00% | ~2,061 |
 | Veteran | 3.00% | ~2,061 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~69 |
 | Blood Brother | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,706 (Ranked 114)  
+Progressed: 68,715 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 4 (0.01%) (Ranked 371)
 | 2024-01-03 | 68,472 | 4 |
 | 2024-01-04 | 68,566 | 4 |
 | 2024-01-05 | 68,665 | 4 |
-| 2024-01-06 | 68,706 | 4 |
+| 2024-01-06 | 68,715 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 370)  
 Sum: 830 (Ranked 288)  

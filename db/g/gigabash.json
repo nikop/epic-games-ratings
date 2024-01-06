@@ -2,7 +2,7 @@
   "ID": "16fc138ed83846bc90d923fe0d87ad72",
   "Name": "GigaBash",
   "ProductSlug": "gigabash",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 93,
@@ -309,9 +309,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 118109,
+  "EOS_Progressed": 118161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6770,
+  "EOS_NewPlayers": 6764,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3579,6 +3579,11 @@
       "Time": "2024-01-06T11:09:41.8985094+00:00",
       "NumProgressed": 118109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T12:08:10.3263859+00:00",
+      "NumProgressed": 118161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -3591,7 +3596,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3543
+      "UsersEstimate": 3545
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -3615,7 +3620,7 @@
       "Name": "Battle Hardened",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "ACH_CAUTIOUS_VETERAN",
@@ -3623,7 +3628,7 @@
       "Name": "Cautious Veteran",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -3639,7 +3644,7 @@
       "Name": "Double Punch!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "ACH_EYE_OF_THE_TITAN",
@@ -3647,7 +3652,7 @@
       "Name": "Eye of the Titan",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_GOROGONG_STORY",
@@ -3655,7 +3660,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11811
+      "UsersEstimate": 11816
     },
     {
       "ID": "ACH_GROWNUP",
@@ -3663,7 +3668,7 @@
       "Name": "All Grown Up!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 21260
+      "UsersEstimate": 21269
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -3671,7 +3676,7 @@
       "Name": "Just Getting Warmed Up",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_KATAMARI",
@@ -3687,7 +3692,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16535
+      "UsersEstimate": 16543
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -3703,7 +3708,7 @@
       "Name": "Martyrdom",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "ACH_MASTER_OF_DISGUISE",
@@ -3711,7 +3716,7 @@
       "Name": "Master of Disguise",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "ACH_MAYHEM",
@@ -3719,7 +3724,7 @@
       "Name": "It\u0027s Mayhem!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "ACH_NINJA_REFLEX",
@@ -3743,7 +3748,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9449
+      "UsersEstimate": 9453
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -3751,7 +3756,7 @@
       "Name": "Right back at\u0027cha",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "ACH_SEASONED_FIGHTER",
@@ -3759,7 +3764,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9449
+      "UsersEstimate": 9453
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -3775,7 +3780,7 @@
       "Name": "Sidetracked...",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_STORY_APEX",
@@ -3799,7 +3804,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3543
+      "UsersEstimate": 3545
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -3815,7 +3820,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5905
+      "UsersEstimate": 5908
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -3823,7 +3828,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_ULTIMATE_DESTRUCTION",
@@ -3831,7 +3836,7 @@
       "Name": "Spectacular Finisher",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "ACH_WATCHFUL_SENTINEL",
@@ -3853,9 +3858,9 @@
       "ID": "ACH_WOOLLEY_STORY",
       "SetID": "3k5ibhn",
       "Name": "Home Sweet Home?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5905
+      "UsersEstimate": 7090
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -3870,7 +3875,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 118109,
+      "Progressed": 118161,
       "Completed": 0
     }
   ],
@@ -3878,8 +3883,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-06T10:58:39.0922646+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:09:41.8985092+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:08:10.3263854+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.1582373+00:00",
-  "LastUpdate_Ratings": "2024-01-06T10:58:39.0922651+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:09:41.8985593+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:57:10.2174456+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:08:10.3264298+00:00"
 }

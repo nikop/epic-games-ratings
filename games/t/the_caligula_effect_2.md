@@ -1,23 +1,23 @@
 # The Caligula Effect 2
 [Store](https://store.epicgames.com/en-US/p/the-caligula-effect-2-a51f60)  
 [View Rawdata](../../db/t/the_caligula_effect_2.json)  
-Rating: 4.44 (Ranked 704)  
+Rating: 4.44 (Ranked 705)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 97.00% | ~242 |
-| Daily Life Begins Anew | 81.00% | ~202 |
-| Our World Now | 81.00% | ~202 |
-| Never Saw It Coming | 66.00% | ~165 |
-| Coup de Grace | 57.00% | ~142 |
+| Welcome to Redo | 97.00% | ~243 |
+| Daily Life Begins Anew | 81.00% | ~203 |
+| Our World Now | 80.00% | ~201 |
+| Never Saw It Coming | 66.00% | ~166 |
+| Coup de Grace | 57.00% | ~143 |
 | Go-Home Club Activities START! | 48.00% | ~120 |
 | Philanthropist | 39.00% | ~98 |
-| Test Your Luck | 34.00% | ~85 |
+| Test Your Luck | 33.00% | ~83 |
 | Behind the Curtain | 32.00% | ~80 |
-| Master of Surprise | 29.00% | ~72 |
+| Master of Surprise | 29.00% | ~73 |
 | Be Who You Wanna Be | 27.00% | ~68 |
-| Investment Ban-χ-ing | 25.00% | ~62 |
+| Investment Ban-χ-ing | 25.00% | ~63 |
 | Friendly Neighborhood | 24.00% | ~60 |
 | Counter Champion | 24.00% | ~60 |
 | Combo Commando | 24.00% | ~60 |
@@ -32,12 +32,12 @@ Number of Ratings: 32  (23.09.2022)
 | Selfish Decisions | 18.00% | ~45 |
 | Pulling Heartstrings | 18.00% | ~45 |
 | Extracurricular Affair | 18.00% | ~45 |
-| Hopes Rewarded | 17.00% | ~42 |
-| Guarding Guru | 17.00% | ~42 |
+| Hopes Rewarded | 17.00% | ~43 |
+| Guarding Guru | 17.00% | ~43 |
 | To Each Their Own | 11.00% | ~28 |
 | Eat Your Heart Out | 11.00% | ~28 |
 | Hustled and Bustled | 11.00% | ~28 |
-| Extra! Extra! Journalism Club Showdown | 9.00% | ~22 |
+| Extra! Extra! Journalism Club Showdown | 9.00% | ~23 |
 | Redo Redone | 8.00% | ~20 |
 | Prince of Lettuce | 8.00% | ~20 |
 | Love, Loss, and the Omega Nebula | 8.00% | ~20 |
@@ -51,12 +51,12 @@ Number of Ratings: 32  (23.09.2022)
 | Birth of a Salesman | 2.00% | ~5 |
 | Group Therapy | 2.00% | ~5 |
 | χ Signature | 2.00% | ~5 |
-| World Peace | 1.00% | ~2 |
-| Heart of Gold | 1.00% | ~2 |
-| Topical Conversationalist | 1.00% | ~2 |
+| World Peace | 1.00% | ~3 |
+| Heart of Gold | 1.00% | ~3 |
+| Topical Conversationalist | 1.00% | ~3 |
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250 (Ranked 413)  
+Progressed: 251 (Ranked 413)  
 Completed: 2 (0.80%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 2 (0.80%) (Ranked 188)
 | 2023-12-27 | 248 | 2 |
 | 2023-12-30 | 249 | 2 |
 | 2024-01-05 | 250 | 2 |
+| 2024-01-06 | 251 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

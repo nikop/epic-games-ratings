@@ -1,26 +1,26 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.85 (Ranked 1,071)  
+Rating: 3.85 (Ranked 1,072)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,854 |
-| The First Step | 87.00% | ~1,646 |
-| Moonbury Traveller | 62.00% | ~1,173 |
-| Rookie Chemist | 60.00% | ~1,135 |
-| Great Doctor | 49.00% | ~927 |
-| Dog Whisperer | 47.00% | ~889 |
-| Friendly | 46.00% | ~870 |
+| Welcome to Moonbury | 98.00% | ~1,855 |
+| The First Step | 87.00% | ~1,647 |
+| Moonbury Traveller | 62.00% | ~1,174 |
+| Rookie Chemist | 60.00% | ~1,136 |
+| Great Doctor | 49.00% | ~928 |
+| Dog Whisperer | 47.00% | ~890 |
+| Friendly | 46.00% | ~871 |
 | The Capitalist | 43.00% | ~814 |
 | K.O.! | 42.00% | ~795 |
 | Intermediate Chemist | 39.00% | ~738 |
-| Decorative Mind | 33.00% | ~624 |
+| Decorative Mind | 32.00% | ~606 |
 | Lumber Specialist | 31.00% | ~587 |
 | Kind-hearted | 25.00% | ~473 |
 | Catch of the Day | 24.00% | ~454 |
 | Amateur Chef | 22.00% | ~416 |
-| Fishing Guru | 20.00% | ~378 |
+| Fishing Guru | 20.00% | ~379 |
 | Spark of Love | 18.00% | ~341 |
 | Community Helper | 16.00% | ~303 |
 | Expert Chemist | 14.00% | ~265 |
@@ -44,7 +44,7 @@ Rating: 3.85 (Ranked 1,071)
 | Moonbury Navigator | 1.00% | ~19 |
 | Being a donut... | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,892 (Ranked 251)  
+Progressed: 1,893 (Ranked 251)  
 Completed: 11 (0.58%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 11 (0.58%) (Ranked 210)
 | 2024-01-03 | 1,870 | 11 |
 | 2024-01-04 | 1,876 | 11 |
 | 2024-01-05 | 1,886 | 11 |
-| 2024-01-06 | 1,892 | 11 |
+| 2024-01-06 | 1,893 | 11 |
 ## Awards
 Max (Character Customization): 70  (Ranked 418)  
 Sum: 70 (Ranked 492)  

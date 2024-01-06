@@ -1,35 +1,35 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 950)  
+Rating: 4.21 (Ranked 951)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 24.00% | ~5,103 |
-| The Outer Way | 24.00% | ~5,103 |
-| Desperate Times | 22.00% | ~4,678 |
-| Paper Jams | 21.00% | ~4,465 |
-| Get a Grip | 20.00% | ~4,252 |
-| Chew 'Em Up | 18.00% | ~3,827 |
-| Reforged | 17.00% | ~3,615 |
-| Float Like A Butterfly | 16.00% | ~3,402 |
-| Workplace Hazard | 15.00% | ~3,189 |
-| If the SHU Fits... | 15.00% | ~3,189 |
-| Without A Paddle | 13.00% | ~2,764 |
+| Flesh Wound | 24.00% | ~5,104 |
+| The Outer Way | 24.00% | ~5,104 |
+| Desperate Times | 22.00% | ~4,679 |
+| Paper Jams | 21.00% | ~4,466 |
+| Get a Grip | 20.00% | ~4,254 |
+| Chew 'Em Up | 18.00% | ~3,828 |
+| Reforged | 17.00% | ~3,616 |
+| Float Like A Butterfly | 16.00% | ~3,403 |
+| Workplace Hazard | 15.00% | ~3,190 |
+| If the SHU Fits... | 15.00% | ~3,190 |
+| Without A Paddle | 13.00% | ~2,765 |
 | In the Pipe, Five by Five | 11.00% | ~2,339 |
 | Crash Site | 11.00% | ~2,339 |
-| Two Heads Are Better Than One | 10.00% | ~2,126 |
-| Power Up | 10.00% | ~2,126 |
+| Two Heads Are Better Than One | 10.00% | ~2,127 |
+| Power Up | 10.00% | ~2,127 |
 | Giving Back | 9.00% | ~1,914 |
 | Terminated | 9.00% | ~1,914 |
 | What Lies Beneath | 9.00% | ~1,914 |
 | Full Circle | 9.00% | ~1,914 |
 | You Need a Gun | 8.00% | ~1,701 |
-| I Do Belong Here | 7.00% | ~1,488 |
-| Keep Fighting | 7.00% | ~643 |
+| I Do Belong Here | 7.00% | ~1,489 |
+| Keep Fighting | 7.00% | ~644 |
 | The Commonality | 5.00% | ~1,063 |
-| It's Time | 5.00% | ~459 |
-| In Striking Distance | 4.00% | ~850 |
+| It's Time | 5.00% | ~460 |
+| In Striking Distance | 4.00% | ~851 |
 | One Last Job | 3.00% | ~276 |
 | Big Spender | 2.00% | ~184 |
 | This Isn't About Escape | 2.00% | ~184 |
@@ -42,8 +42,8 @@ Rating: 4.21 (Ranked 950)
 | Quick Pick | 0.70% | ~64 |
 | Subject Alpha | 0.60% | ~55 |
 | The Protocol is About Life | 0.40% | ~85 |
+| Don't Let It Mellow | 0.40% | ~37 |
 | Hoard Mode | 0.30% | ~28 |
-| Don't Let It Mellow | 0.30% | ~28 |
 | Recidivist | 0.20% | ~18 |
 | Bear Trap | 0.20% | ~18 |
 | It's over, Jacob! | 0.10% | ~21 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 950)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,262 (Ranked 150)  
+Progressed: 21,268 (Ranked 150)  
 Completed: 82 (0.39%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 82 (0.39%) (Ranked 238)
 | 2024-01-03 | 20,833 | 82 |
 | 2024-01-04 | 20,995 | 82 |
 | 2024-01-05 | 21,186 | 82 |
-| 2024-01-06 | 21,262 | 82 |
+| 2024-01-06 | 21,268 | 82 |
 ## Awards
 Max (Amazing Characters): 120  (Ranked 355)  
 Sum: 587 (Ranked 324)  

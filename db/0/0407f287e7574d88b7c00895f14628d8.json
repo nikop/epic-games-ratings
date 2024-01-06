@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -801,9 +801,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "dl2",
@@ -993,9 +993,9 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "k2",
@@ -1184,8 +1184,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:06:09.5861775+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:04:20.0911837+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:05:10.6733434+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:06:09.5862293+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:03:16.142526+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:04:20.0912126+00:00"
 }

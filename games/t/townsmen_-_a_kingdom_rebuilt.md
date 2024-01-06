@@ -1,12 +1,12 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.27 (Ranked 899)  
+Rating: 4.27 (Ranked 900)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 14.00% | ~619 |
+| Eureka! | 14.00% | ~620 |
 | Tax-man I | 13.00% | ~575 |
 | A new beginning | 13.00% | ~575 |
 | Friends from the past | 11.00% | ~487 |
@@ -24,10 +24,10 @@ Number of Ratings: 37  (23.09.2022)
 | Full-time job II | 7.00% | ~310 |
 | A time consuming game II | 7.00% | ~310 |
 | Knee deep in snow | 7.00% | ~310 |
-| Not a small trader anymore | 6.00% | ~265 |
-| The King's new clothes I | 6.00% | ~265 |
-| Tax-man III | 6.00% | ~265 |
-| Tools of the trade I | 6.00% | ~265 |
+| Not a small trader anymore | 6.00% | ~266 |
+| The King's new clothes I | 6.00% | ~266 |
+| Tax-man III | 6.00% | ~266 |
+| Tools of the trade I | 6.00% | ~266 |
 | Bread for the people II | 5.00% | ~221 |
 | I like to build stuff... III | 5.00% | ~221 |
 | Builder II | 5.00% | ~221 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,424 (Ranked 207)  
+Progressed: 4,425 (Ranked 207)  
 Completed: 4 (0.09%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 4 (0.09%) (Ranked 315)
 | 2024-01-03 | 4,417 | 4 |
 | 2024-01-04 | 4,420 | 4 |
 | 2024-01-05 | 4,423 | 4 |
-| 2024-01-06 | 4,424 | 4 |
+| 2024-01-06 | 4,425 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

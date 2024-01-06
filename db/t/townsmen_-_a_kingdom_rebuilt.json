@@ -2,12 +2,12 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 899,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4424,
+  "EOS_Progressed": 4425,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1938,6 +1938,11 @@
       "Time": "2024-01-06T10:10:11.3081961+00:00",
       "NumProgressed": 4424,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T12:10:59.9829165+00:00",
+      "NumProgressed": 4425,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1957,7 +1962,7 @@
       "Name": "Not a small trader anymore",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -2061,7 +2066,7 @@
       "Name": "The King\u0027s new clothes I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES2",
@@ -2301,7 +2306,7 @@
       "Name": "Eureka!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -2613,7 +2618,7 @@
       "Name": "Tax-man III",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_TAXES4",
@@ -2677,7 +2682,7 @@
       "Name": "Tools of the trade I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -2756,15 +2761,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4424,
+      "Progressed": 4425,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:12:47.4851456+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:10:59.9829161+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.4533426+00:00",
-  "LastUpdate_Ratings": "2024-01-06T10:59:17.541988+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:12:47.4852555+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:57:51.7110343+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:10:59.9830169+00:00"
 }

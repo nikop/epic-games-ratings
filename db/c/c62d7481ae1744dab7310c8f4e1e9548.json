@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 198,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.13,
+  "EOS_Completed_Percentage": 5.05,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -984,6 +984,11 @@
       "Time": "2024-01-06T11:09:23.7706735+00:00",
       "NumProgressed": 195,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T12:07:50.555569+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -996,7 +1001,7 @@
       "Name": "Woodworm",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Cikady",
@@ -1004,7 +1009,7 @@
       "Name": "Cicadas",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Destilat",
@@ -1028,15 +1033,15 @@
       "Name": "Four Flutes",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "Jing",
@@ -1044,15 +1049,15 @@
       "Name": "Jing Jang",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     },
     {
       "ID": "Kour",
@@ -1060,7 +1065,7 @@
       "Name": "Spiral Smoke",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "KrabiPyramida",
@@ -1068,7 +1073,7 @@
       "Name": "Crab Pyramid",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Kudla",
@@ -1076,7 +1081,7 @@
       "Name": "Knife",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "Kvitky",
@@ -1084,7 +1089,7 @@
       "Name": "Blossoms",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "MluviciPapouch",
@@ -1092,7 +1097,7 @@
       "Name": "Mimicking Parrot",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Myska",
@@ -1100,7 +1105,7 @@
       "Name": "Singing Mouse",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Netopyrci",
@@ -1108,7 +1113,7 @@
       "Name": "Cave Bats",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Netopyrek",
@@ -1116,7 +1121,7 @@
       "Name": "Liana Bats",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Pejsek",
@@ -1124,7 +1129,7 @@
       "Name": "Dog",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Poustevnik",
@@ -1140,7 +1145,7 @@
       "Name": "Cosmic Ring",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Rybka",
@@ -1148,7 +1153,7 @@
       "Name": "Goldfish",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Sova",
@@ -1156,7 +1161,7 @@
       "Name": "Owl",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SpiciPapouch",
@@ -1172,7 +1177,7 @@
       "Name": "Sputnik",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Stonozka",
@@ -1180,7 +1185,7 @@
       "Name": "Centipede",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Strom",
@@ -1194,9 +1199,9 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "Truhlice",
@@ -1204,7 +1209,7 @@
       "Name": "Shem Is Home",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Xicht",
@@ -1212,7 +1217,7 @@
       "Name": "Rockheads",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Zelvak",
@@ -1220,7 +1225,7 @@
       "Name": "Goldbug",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ZpivajiciHouba",
@@ -1235,14 +1240,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 198,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:09:23.7706731+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:07:50.5555685+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:05:09.7911128+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:09:23.7706967+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:03:15.1821069+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:07:50.5555908+00:00"
 }

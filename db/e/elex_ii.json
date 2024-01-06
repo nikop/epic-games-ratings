@@ -2,12 +2,12 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 876,
+  "Ranking_Rating": 877,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1331,9 +1331,9 @@
       "ID": "100000ITEMS",
       "SetID": "a1angca",
       "Name": "Pack Rat",
-      "Percentage": 0.5,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "10000ELEXIT",
@@ -1395,9 +1395,9 @@
       "ID": "20TRADER",
       "SetID": "a1angca",
       "Name": "Peddler",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1475,9 +1475,9 @@
       "ID": "ALLCRAFT",
       "SetID": "a1angca",
       "Name": "Self-Sufficient",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ALLJETPACK",
@@ -1595,9 +1595,9 @@
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "FINDBILLY",
@@ -1739,8 +1739,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:07:10.4304081+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:05:25.4484099+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-06T10:59:54.0591933+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:07:10.4304677+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:58:31.1485598+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:05:25.4484481+00:00"
 }

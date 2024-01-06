@@ -4755,10 +4755,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7195,
       "NumberOfAwardsMax": 1778
+    },
+    {
+      "Time": "2024-01-06T11:59:32.261194+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7196,
+      "NumberOfAwardsMax": 1778
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7195,
+  "NumberOfAwards": 7196,
   "NumberOfAwardsMax": 1778,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4808,7 +4814,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 566
+      "Count": 567
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4829,9 +4835,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13074,
+  "EOS_Progressed": 13075,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19054,6 +19060,11 @@
       "Time": "2024-01-06T11:12:45.6449668+00:00",
       "NumProgressed": 13074,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T12:10:57.7867807+00:00",
+      "NumProgressed": 13075,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19081,7 +19092,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "04_FithCrusade",
@@ -19129,7 +19140,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "10_PathOfAzata",
@@ -19145,7 +19156,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "12_PathOfTrickster",
@@ -19345,7 +19356,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -19465,7 +19476,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -19992,21 +20003,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11856,
+      "Progressed": 11857,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13074,
+      "Progressed": 13075,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-06T11:00:51.272767+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:12:45.6449664+00:00",
+  "LastChanged": "2024-01-06T11:59:32.2611938+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:10:57.7867804+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:00:51.2727675+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:12:45.6451299+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:59:32.2611948+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:10:57.7869542+00:00"
 }

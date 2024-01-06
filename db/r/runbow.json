@@ -2,7 +2,7 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 675,
+  "Ranking_Rating": 676,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 69,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253156,
+  "EOS_Progressed": 253157,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23387,6 +23387,11 @@
       "Time": "2024-01-06T11:12:30.70983+00:00",
       "NumProgressed": 253156,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T12:10:41.9839291+00:00",
+      "NumProgressed": 253157,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23470,7 +23475,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37973
+      "UsersEstimate": 37974
     },
     {
       "ID": "clearCut",
@@ -23614,7 +23619,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20252
+      "UsersEstimate": 20253
     },
     {
       "ID": "lockupLockdown",
@@ -23765,7 +23770,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253156,
+      "Progressed": 253157,
       "Completed": 6
     }
   ],
@@ -23773,8 +23778,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:12:30.7098298+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:10:41.9839289+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.9407923+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:02:44.8645071+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:12:30.7099427+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:01:37.5493766+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:10:41.9840428+00:00"
 }

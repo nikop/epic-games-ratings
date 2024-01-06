@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 19.00% | ~2,484 |
 | Defender's Heart | 16.00% | ~2,092 |
 | Mythic Choices | 15.00% | ~1,961 |
-| Banner over the Citadel | 14.00% | ~1,830 |
+| Banner over the Citadel | 14.00% | ~1,831 |
 | Queen's Gratitude | 12.00% | ~1,569 |
 | Fifth Crusade | 9.00% | ~1,177 |
 | Embrace of the Abyss | 7.00% | ~915 |
@@ -39,10 +39,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 3.00% | ~356 |
 | The Lady of the Forest | 3.00% | ~356 |
 | Beware Still Water | 3.00% | ~356 |
-| Path of the Demon | 2.00% | ~261 |
-| Path of the Aeon | 2.00% | ~261 |
-| Your First Big Enemy | 2.00% | ~261 |
-| Truly Important Deed | 2.00% | ~261 |
+| Path of the Demon | 2.00% | ~262 |
+| Path of the Aeon | 2.00% | ~262 |
+| Your First Big Enemy | 2.00% | ~262 |
+| Truly Important Deed | 2.00% | ~262 |
 | Stay Underground | 2.00% | ~237 |
 | The Final Threshold | 1.00% | ~131 |
 | Path of the Dragon | 1.00% | ~131 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,074 (Ranked 176)  
+Progressed: 13,075 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,10 +384,10 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 13,006 | 0 |
 | 2024-01-04 | 13,029 | 0 |
 | 2024-01-05 | 13,058 | 0 |
-| 2024-01-06 | 13,074 | 0 |
+| 2024-01-06 | 13,075 | 0 |
 ## Awards
 Max (Character Customization): 1,778  (Ranked 128)  
-Sum: 7,195 (Ranked 126)  
+Sum: 7,196 (Ranked 126)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -399,7 +399,7 @@ Diff (max vs sum): 2
 | This game has Amazing Storytelling | 633 |
 | This game has Challenging Combat | 600 |
 | This game has Quickly Understood Controls | 587 |
-| This game is Relaxing | 566 |
+| This game is Relaxing | 567 |
 | This game has a Creative Community | 404 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
@@ -716,4 +716,4 @@ Diff (max vs sum): 2
 | 2024-01-02 | 4.76 | - | 1,776 | 7,186 |
 | 2024-01-04 | 4.76 | - | 1,777 | 7,190 |
 | 2024-01-05 | 4.76 | - | 1,777 | 7,194 |
-| 2024-01-06 | 4.76 | - | 1,778 | 7,195 |
+| 2024-01-06 | 4.76 | - | 1,778 | 7,196 |

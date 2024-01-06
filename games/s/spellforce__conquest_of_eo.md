@@ -52,13 +52,13 @@
 | Defeat Hokan | 7.00% | ~8 |
 | Defeat Raith | 7.00% | ~8 |
 | Lore's Tale | 7.00% | ~8 |
+| Crypt of the Revenant | 7.00% | ~8 |
 | Master Artificer | 7.00% | ~8 |
 | Heroes | 7.00% | ~8 |
 | Balanced | 7.00% | ~8 |
 | Friend of Grey Dusk Vale | 7.00% | ~8 |
 | Defeat Undergast | 6.00% | ~7 |
 | Elynn's Tale | 6.00% | ~7 |
-| Crypt of the Revenant | 6.00% | ~7 |
 | Defeat Ianna | 5.00% | ~6 |
 | Defeat Yria | 5.00% | ~6 |
 | My Friends! | 5.00% | ~6 |

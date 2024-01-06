@@ -1,24 +1,24 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 576)  
+Rating: 4.52 (Ranked 577)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,155 |
-| Greasy Palms | 42.00% | ~6,533 |
-| South American Connection | 26.00% | ~4,044 |
-| Life of the Party | 21.00% | ~3,267 |
-| Big Heat from Little Havana | 15.00% | ~2,333 |
-| Chauffeur | 15.00% | ~2,333 |
-| Tommy Two-Wheels | 15.00% | ~2,333 |
-| Salutations My Little Friend | 11.00% | ~1,711 |
+| Legal Counsel | 46.00% | ~7,159 |
+| Greasy Palms | 42.00% | ~6,536 |
+| South American Connection | 26.00% | ~4,046 |
+| Life of the Party | 21.00% | ~3,268 |
+| Big Heat from Little Havana | 15.00% | ~2,334 |
+| Chauffeur | 15.00% | ~2,334 |
+| Tommy Two-Wheels | 15.00% | ~2,334 |
+| Salutations My Little Friend | 11.00% | ~1,712 |
 | Iron-y | 10.00% | ~1,556 |
-| Gun for Hire | 9.00% | ~1,400 |
-| Mischief Managed | 9.00% | ~1,400 |
+| Gun for Hire | 9.00% | ~1,401 |
+| Mischief Managed | 9.00% | ~1,401 |
 | Vice City Mogul | 7.00% | ~1,089 |
-| Catch Me if You Can | 6.00% | ~933 |
-| Bloodstained Hands | 6.00% | ~933 |
+| Catch Me if You Can | 6.00% | ~934 |
+| Bloodstained Hands | 6.00% | ~934 |
 | Not my First Time | 5.00% | ~778 |
 | Grand Theft Auto | 5.00% | ~778 |
 | Pie Guy | 4.00% | ~622 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 576)
 | Done it All | 0.90% | ~140 |
 | Kingpin | 0.60% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,555 (Ranked 170)  
+Progressed: 15,562 (Ranked 170)  
 Completed: 88 (0.57%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 88 (0.57%) (Ranked 211)
 | 2024-01-03 | 15,241 | 85 |
 | 2024-01-04 | 15,370 | 86 |
 | 2024-01-05 | 15,486 | 86 |
-| 2024-01-06 | 15,555 | 88 |
+| 2024-01-06 | 15,562 | 88 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

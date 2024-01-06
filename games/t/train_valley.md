@@ -1,27 +1,27 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.49 (Ranked 635)  
+Rating: 4.49 (Ranked 636)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 76.00% | ~483 |
-| Close call! | 71.00% | ~451 |
+| Close call! | 71.00% | ~452 |
 | Builder | 51.00% | ~324 |
-| Living it large! | 44.00% | ~279 |
-| Collector | 43.00% | ~273 |
+| Living it large! | 44.00% | ~280 |
 | Pangs of conscience | 43.00% | ~273 |
-| Need to think | 41.00% | ~260 |
+| Collector | 42.00% | ~267 |
+| Need to think | 41.00% | ~261 |
 | Completely nuts! | 40.00% | ~254 |
-| Europe | 32.00% | ~203 |
-| Just in time! | 32.00% | ~203 |
+| Europe | 32.00% | ~204 |
+| Just in time! | 32.00% | ~204 |
 | Madness! | 31.00% | ~197 |
-| It's no coincidence. | 27.00% | ~171 |
+| It's no coincidence. | 27.00% | ~172 |
 | Philatelist | 26.00% | ~165 |
 | Let's roll! | 25.00% | ~159 |
-| Ouroboros | 24.00% | ~152 |
-| Non Stop! | 24.00% | ~152 |
+| Ouroboros | 24.00% | ~153 |
+| Non Stop! | 24.00% | ~153 |
 | Foreman | 20.00% | ~127 |
 | Russia | 19.00% | ~121 |
 | America | 18.00% | ~114 |
@@ -32,7 +32,7 @@ Number of Ratings: 28  (23.09.2022)
 | Woodcutter | 10.00% | ~64 |
 | Engineer | 10.00% | ~64 |
 | Tycoon | 9.00% | ~57 |
-| Germany | 7.00% | ~44 |
+| Germany | 7.00% | ~45 |
 | Сhancellor | 5.00% | ~32 |
 | Supercrash! | 5.00% | ~32 |
 | Chuck Norris | 5.00% | ~32 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~4 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 635 (Ranked 333)  
+Progressed: 636 (Ranked 333)  
 Completed: 2 (0.31%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 2 (0.31%) (Ranked 250)
 | 2024-01-03 | 627 | 2 |
 | 2024-01-04 | 630 | 2 |
 | 2024-01-05 | 632 | 2 |
-| 2024-01-06 | 635 | 2 |
+| 2024-01-06 | 636 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

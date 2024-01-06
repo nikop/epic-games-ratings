@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 447,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -14776,8 +14776,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:09:42.7805664+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:08:11.4040461+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.2583913+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:00:45.193832+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:09:42.7806486+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:59:26.08281+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:08:11.4041437+00:00"
 }

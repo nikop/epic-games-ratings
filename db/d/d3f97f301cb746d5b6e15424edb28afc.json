@@ -2,12 +2,12 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 505,
+  "Ranking_Rating": 506,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -4550,9 +4550,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1399
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -4902,9 +4902,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1224
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -5030,9 +5030,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1272
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -5207,8 +5207,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:10:32.4219735+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:08:32.6151529+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:02:42.9009278+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:10:32.4220675+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:01:35.0807001+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:08:32.6152859+00:00"
 }

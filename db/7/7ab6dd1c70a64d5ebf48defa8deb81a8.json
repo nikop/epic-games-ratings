@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 1005,
+  "Ranking_Rating": 1006,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 252,
@@ -67,7 +67,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1875,
+  "EOS_Progressed": 1876,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
@@ -3687,6 +3687,11 @@
       "Time": "2024-01-06T11:12:38.0675558+00:00",
       "NumProgressed": 1875,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T12:10:49.8104075+00:00",
+      "NumProgressed": 1876,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3834,7 +3839,7 @@
       "Name": "Shatter Them All",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH_19",
@@ -3874,7 +3879,7 @@
       "Name": "Geared Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH_24",
@@ -3985,7 +3990,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1875,
+      "Progressed": 1876,
       "Completed": 3
     }
   ],
@@ -3993,8 +3998,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-04T23:57:43.6326187+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:12:38.0675555+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:10:49.8104073+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:00:02.8049409+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:12:38.0675915+00:00"
+  "LastUpdate_Ratings": "2024-01-06T11:58:40.4039321+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:10:49.810447+00:00"
 }

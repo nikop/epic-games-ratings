@@ -2,12 +2,12 @@
   "ID": "d98c82a9d1554fbdad96b236199c53ca",
   "Name": "Flatout",
   "ProductSlug": "flatout-940461",
-  "Ranking_Rating": 890,
+  "Ranking_Rating": 891,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-08T04:00:00+00:00",
@@ -106,6 +106,6 @@
   "FirstSeenRating": "2022-10-20T20:02:03.0558069+00:00",
   "LastChanged": "2023-12-23T11:57:25.1766442+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.8653579+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:03:00.7340337+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:07:35.2096962+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:01:54.1767509+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:05:52.5255924+00:00"
 }

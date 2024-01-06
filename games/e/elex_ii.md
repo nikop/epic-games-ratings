@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 876)  
+Rating: 4.29 (Ranked 877)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,10 +11,10 @@ Number of Ratings: 124  (23.09.2022)
 | Civilian | 30.00% | ~57 |
 | Role Model | 28.00% | ~53 |
 | Creator | 25.00% | ~48 |
+| Peddler | 24.00% | ~46 |
 | Festival-goer | 24.00% | ~46 |
-| Peddler | 23.00% | ~44 |
 | Military Leader | 23.00% | ~44 |
-| Commander | 19.00% | ~36 |
+| Commander | 20.00% | ~38 |
 | Irissa's Fate | 16.00% | ~30 |
 | Long-Haul Flyer | 14.00% | ~27 |
 | Pass A38 | 13.00% | ~25 |
@@ -35,15 +35,15 @@ Number of Ratings: 124  (23.09.2022)
 | Cleric | 5.00% | ~10 |
 | Detective | 5.00% | ~10 |
 | Weaponsmith | 4.00% | ~8 |
+| Self-Sufficient | 4.00% | ~8 |
 | Alchemist | 3.00% | ~6 |
-| Self-Sufficient | 3.00% | ~6 |
 | Unbreakable | 3.00% | ~6 |
 | Morkon | 3.00% | ~6 |
+| Pack Rat | 2.00% | ~4 |
 | Idealist | 2.00% | ~4 |
 | Toy Time | 2.00% | ~4 |
 | Destroyer | 2.00% | ~4 |
 | Legendary | 2.00% | ~4 |
-| Pack Rat | 0.50% | ~1 |
 | Defector | 0.50% | ~1 |
 | Outlaw | 0.50% | ~1 |
 | Ruthless | 0.50% | ~1 |

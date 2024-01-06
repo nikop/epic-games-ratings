@@ -1,11 +1,11 @@
 # Ranch Simulator
 [Store](https://store.epicgames.com/en-US/p/ranch-simulator)  
 [View Rawdata](../../db/r/ranch_simulator.json)  
-Rating: 4.41 (Ranked 749)  
+Rating: 4.41 (Ranked 750)  
 Number of Ratings: 338  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 74  (Ranked 410)  
-Sum: 485 (Ranked 336)  
+Sum: 487 (Ranked 336)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -14,8 +14,8 @@ Diff (max vs sum): 74
 | This game has Quickly Understood Controls | 52 |
 | This game is Educational | 49 |
 | This game has Amazing Storytelling | 49 |
+| This game has Amazing Characters | 48 |
 | This game has Easy Combat | 48 |
-| This game has Amazing Characters | 46 |
 | This game is Extremely Fun | 39 |
 | This game is Relaxing | 36 |
 | This game has a Creative Community | 28 |
@@ -217,3 +217,4 @@ Diff (max vs sum): 74
 | 2023-12-30 | 4.42 | - | 74 | 481 |
 | 2023-12-31 | 4.41 | - | 74 | 483 |
 | 2024-01-04 | 4.41 | - | 74 | 485 |
+| 2024-01-06 | 4.41 | - | 74 | 487 |

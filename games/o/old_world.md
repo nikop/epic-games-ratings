@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.30% | ~48 |
 | Temple of Solomon | 0.30% | ~48 |
 | Pantheon | 0.30% | ~48 |
+| Via Recta Souk | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
 | Greece | 0.30% | ~48 |
 | Power to the People | 0.30% | ~48 |
@@ -114,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.20% | ~32 |
 | Church of the Holy Sepulchre | 0.20% | ~32 |
 | Adur Burzen-Mihr | 0.20% | ~32 |
-| Via Recta Souk | 0.20% | ~32 |
 | Learn to Play 4 | 0.20% | ~32 |
 | Babylonia | 0.20% | ~32 |
 | Carthage | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,147 (Ranked 167)  
+Progressed: 16,148 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
-| 2024-01-06 | 16,147 | 5 |
+| 2024-01-06 | 16,148 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,915 (Ranked 221)  

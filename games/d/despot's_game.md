@@ -1,27 +1,27 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 614)  
+Rating: 4.50 (Ranked 616)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 88.00% | ~434 |
-| Vanquisher of Robots | 79.00% | ~389 |
-| Party | 51.00% | ~251 |
+| Good start! | 88.00% | ~435 |
+| Vanquisher of Robots | 79.00% | ~390 |
+| Party | 51.00% | ~252 |
 | Impossible Cube | 45.00% | ~222 |
 | Through the Darkness | 45.00% | ~222 |
 | No Mercy | 44.00% | ~217 |
 | Knowledge is Power | 44.00% | ~217 |
-| The Return of a Rat | 41.00% | ~202 |
-| Fat of the Earth | 36.00% | ~177 |
+| The Return of a Rat | 40.00% | ~198 |
+| Fat of the Earth | 36.00% | ~178 |
 | Last Man Standing | 32.00% | ~158 |
 | He's Seen It All | 28.00% | ~138 |
 | Great Hero | 28.00% | ~138 |
 | Campaigning | 27.00% | ~133 |
 | Rookie | 27.00% | ~133 |
 | Catch Jonathan_tostar | 26.00% | ~128 |
-| Assemble a Meganewbie | 24.00% | ~118 |
-| Frugal | 22.00% | ~108 |
+| Assemble a Meganewbie | 24.00% | ~119 |
+| Frugal | 21.00% | ~104 |
 | Feed a God | 21.00% | ~104 |
 | To the Moon and Back | 20.00% | ~99 |
 | Great Flight | 19.00% | ~94 |
@@ -29,7 +29,7 @@ Rating: 4.50 (Ranked 614)
 | Honorary Cultist | 13.00% | ~64 |
 | Strength and Sorcery | 11.00% | ~54 |
 | Brain and Brawn | 11.00% | ~54 |
-| Omae Wa Mou Shindeiru | 8.00% | ~39 |
+| Omae Wa Mou Shindeiru | 8.00% | ~40 |
 | Experimentalist | 7.00% | ~35 |
 | Soldier | 7.00% | ~35 |
 | Wide Selection | 6.00% | ~30 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 614)
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493 (Ranked 347)  
+Progressed: 494 (Ranked 347)  
 Completed: 1 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 1 (0.20%) (Ranked 273)
 | 2024-01-03 | 488 | 1 |
 | 2024-01-04 | 492 | 1 |
 | 2024-01-05 | 493 | 1 |
+| 2024-01-06 | 494 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 548)  
+Rating: 4.54 (Ranked 549)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,12 +10,12 @@ Number of Ratings: 90  (23.09.2022)
 | Mash Machine | 75.00% | ~248 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~178 |
 | Furon Fashion | 47.00% | ~155 |
-| Shop Til They Drop | 40.00% | ~132 |
-| Bodied Sattva | 38.00% | ~125 |
+| Shop Til They Drop | 41.00% | ~135 |
+| Bodied Sattva | 39.00% | ~129 |
 | Cult Following | 35.00% | ~115 |
 | Earthly Pleasures | 35.00% | ~115 |
+| Upgreatest | 28.00% | ~92 |
 | Lie Back and Think of Albion | 27.00% | ~89 |
-| Upgreatest | 27.00% | ~89 |
 | Pimp My Raid | 25.00% | ~82 |
 | Freshly Squeezed | 21.00% | ~69 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~66 |

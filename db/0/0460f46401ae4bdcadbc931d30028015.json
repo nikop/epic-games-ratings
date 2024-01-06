@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 993,
+  "Ranking_Rating": 994,
   "Ranking_Popularity": 400,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 185,
@@ -1467,7 +1467,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 8874,
+  "EOS_Progressed": 8875,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1569,
   "EOS_NewCompleters": 0,
@@ -10267,6 +10267,11 @@
       "Time": "2024-01-06T11:07:06.6055507+00:00",
       "NumProgressed": 8874,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T12:05:21.6766481+00:00",
+      "NumProgressed": 8875,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -10319,7 +10324,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "achievement_15",
@@ -10375,7 +10380,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 5058
+      "UsersEstimate": 5059
     },
     {
       "ID": "achievement_21",
@@ -10399,7 +10404,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_5",
@@ -10431,7 +10436,7 @@
       "Name": "Bragging Rights",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "achievement_9",
@@ -10446,7 +10451,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 8874,
+      "Progressed": 8875,
       "Completed": 0
     }
   ],
@@ -10454,8 +10459,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-06T10:00:41.8953012+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:07:06.6055503+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:05:21.6766475+00:00",
   "LastUpdate_AppInfo": "2024-01-04T09:57:17.1124999+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:04:54.093545+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:07:06.6056199+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:02:28.6703683+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:05:21.6766985+00:00"
 }

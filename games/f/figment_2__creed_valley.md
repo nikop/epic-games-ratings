@@ -9,11 +9,11 @@
 | Fight like an idiot | 38.00% | ~25 |
 | Ouch, that hurt! | 36.00% | ~24 |
 | Slam-KABAM | 30.00% | ~20 |
+| A heavy thinker | 24.00% | ~16 |
 | Heavy Thoughts | 23.00% | ~15 |
-| A heavy thinker | 21.00% | ~14 |
+| Repair the Mind Validation Machine | 20.00% | ~13 |
 | Flee like an idiot | 20.00% | ~13 |
-| Repair the Mind Validation Machine | 18.00% | ~12 |
-| Elementary, My Dear Dusty | 18.00% | ~12 |
+| Elementary, My Dear Dusty | 20.00% | ~13 |
 | Dance like an idiot | 14.00% | ~9 |
 | I'm Back at the Surface now | 12.00% | ~8 |
 | Come full circle | 11.00% | ~7 |

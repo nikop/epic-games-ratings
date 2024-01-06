@@ -1,24 +1,24 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 235)  
+Rating: 4.69 (Ranked 234)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~463 |
-| Double Kill | 40.00% | ~402 |
-| Critical Hit | 23.00% | ~231 |
-| Veteran | 22.00% | ~221 |
+| Adept | 46.00% | ~464 |
+| Double Kill | 40.00% | ~404 |
+| Critical Hit | 23.00% | ~232 |
+| Veteran | 22.00% | ~222 |
 | Dressed For Success | 15.00% | ~151 |
 | Humiliation | 10.00% | ~101 |
 | Veni, Vidi, Vici | 10.00% | ~101 |
 | Multi Kill | 9.00% | ~91 |
-| Sorcerous Spree | 8.00% | ~80 |
-| Landlord Extraordinaire | 7.00% | ~70 |
-| Master | 7.00% | ~70 |
-| Whoops! | 6.00% | ~60 |
-| Don't Touch My Stuff | 6.00% | ~60 |
+| Sorcerous Spree | 8.00% | ~81 |
+| Landlord Extraordinaire | 7.00% | ~71 |
+| Master | 7.00% | ~71 |
+| Whoops! | 6.00% | ~61 |
+| Don't Touch My Stuff | 6.00% | ~61 |
 | The Song of Stoutheart | 5.00% | ~50 |
 | Trojan Horse | 4.00% | ~40 |
 | Expert Essence Employment | 3.00% | ~30 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,006 (Ranked 290)  
+Progressed: 1,009 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 962 | 0 |
 | 2024-01-04 | 978 | 0 |
 | 2024-01-05 | 1,000 | 0 |
-| 2024-01-06 | 1,006 | 0 |
+| 2024-01-06 | 1,009 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 527)  
 Sum: 251 (Ranked 398)  

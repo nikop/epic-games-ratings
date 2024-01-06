@@ -1,7 +1,7 @@
 # Banners of Ruin
 [Store](https://store.epicgames.com/en-US/p/banners-of-ruin)  
 [View Rawdata](../../db/b/banners_of_ruin.json)  
-Rating: 4.33 (Ranked 848)  
+Rating: 4.33 (Ranked 849)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

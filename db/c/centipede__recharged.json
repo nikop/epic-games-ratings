@@ -2,7 +2,7 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 856,
+  "Ranking_Rating": 857,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 146,
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24815,
+  "EOS_Progressed": 24816,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -22289,6 +22289,11 @@
       "Time": "2024-01-06T11:06:33.3034922+00:00",
       "NumProgressed": 24815,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2024-01-06T12:04:45.390146+00:00",
+      "NumProgressed": 24816,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -22348,7 +22353,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -22364,7 +22369,7 @@
       "Name": "I Am The Storm",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3971
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -22396,7 +22401,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11663
+      "UsersEstimate": 11664
     },
     {
       "ID": "Sole_Survivor",
@@ -22412,7 +22417,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3971
     },
     {
       "ID": "The_Reaper",
@@ -22427,15 +22432,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24815,
+      "Progressed": 24816,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-06T06:00:08.5224706+00:00",
-  "LastChanged_Achievements": "2024-01-06T11:06:33.3034918+00:00",
+  "LastChanged_Achievements": "2024-01-06T12:04:45.3901455+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.3485527+00:00",
-  "LastUpdate_Ratings": "2024-01-06T11:01:47.7620915+00:00",
-  "LastUpdate_Achievements": "2024-01-06T11:06:33.3036124+00:00"
+  "LastUpdate_Ratings": "2024-01-06T12:00:35.2036146+00:00",
+  "LastUpdate_Achievements": "2024-01-06T12:04:45.3902522+00:00"
 }
