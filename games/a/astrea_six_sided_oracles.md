@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 84.00% | ~286 |
-| Purification Pioneer | 79.00% | ~269 |
-| Mechanical Buddy | 73.00% | ~249 |
+| Meissa's Savior | 84.00% | ~287 |
+| Purification Pioneer | 79.00% | ~270 |
+| Mechanical Buddy | 73.00% | ~250 |
 | Dicesmithing Time! | 65.00% | ~222 |
-| Sanctuary Guardian | 55.00% | ~188 |
+| Sanctuary Guardian | 54.00% | ~185 |
 | Endless Tricks | 51.00% | ~174 |
 | Wild's Keeper | 48.00% | ~164 |
 | Mind Illuminator | 44.00% | ~150 |
 | Stellar Dismantler | 38.00% | ~130 |
-| Astral Adventurer | 35.00% | ~119 |
+| Astral Adventurer | 35.00% | ~120 |
 | Noctuan Champion | 34.00% | ~116 |
 | Anomaly Destroyer | 31.00% | ~106 |
-| Star Killer | 30.00% | ~102 |
-| Eridanian Champion | 25.00% | ~85 |
+| Star Killer | 30.00% | ~103 |
+| Eridanian Champion | 25.00% | ~86 |
 | Loyal Partner | 22.00% | ~75 |
 | Lacertian Champion | 21.00% | ~72 |
-| Shard Spender | 18.00% | ~61 |
-| Unbeatable | 18.00% | ~61 |
-| Apian Champion | 18.00% | ~61 |
-| Sadistic Plan | 16.00% | ~55 |
+| Shard Spender | 18.00% | ~62 |
+| Unbeatable | 18.00% | ~62 |
+| Apian Champion | 18.00% | ~62 |
+| Sadistic Plan | 15.00% | ~51 |
 | Behenian Champion | 13.00% | ~44 |
 | Wave Bender | 11.00% | ~38 |
 | Heavy Purger | 10.00% | ~34 |
@@ -33,8 +33,8 @@
 | Heart Gate | 7.00% | ~24 |
 | The Corruption Goddess | 7.00% | ~24 |
 | The Goddes Avatar | 7.00% | ~24 |
-| Artificer | 6.00% | ~20 |
-| Favored by the Cosmos | 6.00% | ~20 |
+| Artificer | 6.00% | ~21 |
+| Favored by the Cosmos | 6.00% | ~21 |
 | Can't touch this | 5.00% | ~17 |
 | Anomaly Control | 4.00% | ~14 |
 | Astrarium of Holding | 4.00% | ~14 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341 (Ranked 380)  
+Progressed: 342 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,4 +175,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-03 | 312 | 0 |
 | 2024-01-04 | 324 | 0 |
 | 2024-01-05 | 340 | 0 |
-| 2024-01-06 | 341 | 0 |
+| 2024-01-06 | 342 | 0 |

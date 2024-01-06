@@ -5,34 +5,34 @@ Rating: 4.83 (Ranked 54)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 59.00% | ~1,435 |
-| Welcome to the Tower | 53.00% | ~1,289 |
-| The great escape | 45.00% | ~1,094 |
-| The Preacher's fate | 43.00% | ~1,046 |
-| A new dawn | 36.00% | ~876 |
-| Scholar | 32.00% | ~778 |
+| That's the spirit | 59.00% | ~1,437 |
+| Welcome to the Tower | 53.00% | ~1,291 |
+| The great escape | 44.00% | ~1,071 |
+| The Preacher's fate | 43.00% | ~1,047 |
+| A new dawn | 36.00% | ~877 |
+| Scholar | 32.00% | ~779 |
 | True G3M4R | 30.00% | ~730 |
 | The darkness | 30.00% | ~730 |
-| A good beginning | 29.00% | ~705 |
+| A good beginning | 29.00% | ~706 |
 | One last step | 27.00% | ~657 |
-| Cable guy | 26.00% | ~632 |
-| Half the way | 26.00% | ~632 |
-| I did it | 25.00% | ~608 |
-| Rascal | 25.00% | ~608 |
+| Cable guy | 26.00% | ~633 |
+| Half the way | 26.00% | ~633 |
+| I did it | 25.00% | ~609 |
+| Rascal | 25.00% | ~609 |
 | In this together | 24.00% | ~584 |
 | Peace walker | 24.00% | ~584 |
 | Champollion | 24.00% | ~584 |
 | Open door | 21.00% | ~511 |
 | Feels like springtime | 21.00% | ~511 |
-| Alchemists Express | 20.00% | ~486 |
+| Alchemists Express | 20.00% | ~487 |
 | Free at last | 18.00% | ~438 |
-| A Link to the Past | 16.00% | ~389 |
-| A great audience | 14.00% | ~340 |
-| For its own good | 13.00% | ~316 |
+| A Link to the Past | 16.00% | ~390 |
+| A great audience | 14.00% | ~341 |
+| For its own good | 13.00% | ~317 |
 | Fashion victim | 8.00% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,432 (Ranked 236)  
-Completed: 158 (6.50%) (Ranked 63)  
+Progressed: 2,435 (Ranked 236)  
+Completed: 158 (6.49%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,7 +199,7 @@ Completed: 158 (6.50%) (Ranked 63)
 | 2024-01-03 | 2,307 | 145 |
 | 2024-01-04 | 2,370 | 149 |
 | 2024-01-05 | 2,427 | 158 |
-| 2024-01-06 | 2,432 | 158 |
+| 2024-01-06 | 2,435 | 158 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

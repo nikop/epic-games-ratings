@@ -2,7 +2,7 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "ProductSlug": "supraland",
-  "Ranking_Rating": 398,
+  "Ranking_Rating": 399,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 26,
@@ -3387,7 +3387,7 @@
   ],
   "EOS_Progressed": 739120,
   "EOS_Completed": 780,
-  "EOS_NewPlayers": 1055,
+  "EOS_NewPlayers": 1052,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -33631,8 +33631,8 @@
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-05T17:57:38.4247332+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:30:45.1833022+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:10:05.8145746+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:21.7826738+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:18:29.7678254+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:30:45.1835026+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:57:26.322446+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:10:05.8147668+00:00"
 }

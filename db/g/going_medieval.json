@@ -1667,9 +1667,9 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 7780,
+  "EOS_Progressed": 7781,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -16232,6 +16232,11 @@
       "Time": "2024-01-06T01:53:45.9067178+00:00",
       "NumProgressed": 7780,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-06T03:06:33.4720221+00:00",
+      "NumProgressed": 7781,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -16243,7 +16248,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5913
+      "UsersEstimate": 5914
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -16267,7 +16272,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -16283,7 +16288,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5913
+      "UsersEstimate": 5914
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -16291,7 +16296,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5679
+      "UsersEstimate": 5680
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -16315,7 +16320,7 @@
       "Name": "Oh Deer!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -16355,7 +16360,7 @@
       "Name": "Retribution",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -16387,7 +16392,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -16403,7 +16408,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5446
+      "UsersEstimate": 5447
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -16411,7 +16416,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -16451,7 +16456,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -16475,7 +16480,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4512
+      "UsersEstimate": 4513
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -16483,22 +16488,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4123
+      "UsersEstimate": 4124
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7780,
+      "Progressed": 7781,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-03T16:59:16.511255+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:26:53.9518328+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:06:33.4720219+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:26.1002888+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:20:33.698387+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:26:53.9519019+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:59:49.8958647+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:06:33.4721246+00:00"
 }

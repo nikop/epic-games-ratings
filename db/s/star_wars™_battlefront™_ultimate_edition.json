@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2654,
+  "EOS_Progressed": 2655,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
@@ -7289,6 +7289,11 @@
       "Time": "2024-01-06T01:56:38.037214+00:00",
       "NumProgressed": 2654,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T03:10:05.5868314+00:00",
+      "NumProgressed": 2655,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7373,7 +7378,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_19",
@@ -7397,7 +7402,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_21",
@@ -7445,7 +7450,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_27",
@@ -7525,7 +7530,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "achievement_36",
@@ -7541,7 +7546,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "achievement_38",
@@ -7573,7 +7578,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "achievement_41",
@@ -7653,7 +7658,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_50",
@@ -7804,13 +7809,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2654,
+      "Progressed": 2655,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2654,
+      "Progressed": 2655,
       "Completed": 1
     }
   ],
@@ -7818,8 +7823,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:30:45.1011992+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:10:05.5868311+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:18:01.8493359+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:30:45.1013445+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:56:53.4840936+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:10:05.586914+00:00"
 }

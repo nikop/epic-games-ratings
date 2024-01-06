@@ -27,15 +27,15 @@
 | Orcharion Boost | 15.00% | ~7 |
 | Case Closed | 15.00% | ~7 |
 | All Beefed Up | 13.00% | ~6 |
+| The Smelter | 13.00% | ~6 |
 | What's Yours Is Mine | 13.00% | ~6 |
+| We're Breaking Up | 13.00% | ~6 |
+| Remains of the Rumbly Lands | 13.00% | ~6 |
 | How Do You Like Them Apples? | 13.00% | ~6 |
 | A Wingman Falls | 13.00% | ~6 |
 | Scheming Away | 11.00% | ~5 |
 | Fishing for Fissures | 11.00% | ~5 |
 | You did it? You did it! | 11.00% | ~5 |
-| The Smelter | 11.00% | ~5 |
-| We're Breaking Up | 11.00% | ~5 |
-| Remains of the Rumbly Lands | 11.00% | ~5 |
 | With a Little Help from My Friends | 11.00% | ~5 |
 | Gotta Collect Them All | 9.00% | ~4 |
 | Keeping Things Tidy | 9.00% | ~4 |

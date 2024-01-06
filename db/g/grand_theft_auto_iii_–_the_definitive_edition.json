@@ -6,7 +6,7 @@
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
@@ -691,7 +691,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11678,
+  "EOS_Progressed": 11680,
   "EOS_Completed": 77,
   "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 7,
@@ -14871,6 +14871,11 @@
       "Time": "2024-01-06T02:24:46.3203884+00:00",
       "NumProgressed": 11678,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-06T03:04:09.7305915+00:00",
+      "NumProgressed": 11680,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 29,
@@ -14882,7 +14887,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9693
+      "UsersEstimate": 9694
     },
     {
       "ID": "ACH02",
@@ -14986,7 +14991,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "ACH15",
@@ -15026,7 +15031,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH20",
@@ -15066,7 +15071,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "ACH25",
@@ -15113,7 +15118,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 11678,
+      "Progressed": 11680,
       "Completed": 77
     }
   ],
@@ -15121,8 +15126,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-04T20:59:03.7488216+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:24:46.3203879+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:04:09.7305913+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.0840087+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:19:50.1346392+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:24:46.3204562+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:58:59.0835488+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:04:09.7306742+00:00"
 }

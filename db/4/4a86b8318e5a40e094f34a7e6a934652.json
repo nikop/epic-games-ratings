@@ -2,7 +2,7 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 347,
+  "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 154,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 492,
+  "EOS_Progressed": 493,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -2059,6 +2059,11 @@
       "Time": "2024-01-05T23:08:45.2099475+00:00",
       "NumProgressed": 492,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T03:05:39.2508684+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2071,7 +2076,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2087,7 +2092,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2111,7 +2116,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2127,7 +2132,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2135,7 +2140,7 @@
       "Name": "Farmer",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "HOUSEWARMING",
@@ -2151,7 +2156,7 @@
       "Name": "Leech Lunch",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2207,7 +2212,7 @@
       "Name": "Crypto Bro",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "TAKE_LEECH",
@@ -2215,7 +2220,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2223,21 +2228,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 492,
+      "Progressed": 493,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:26:06.0128514+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:05:39.2508666+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:18:22.6401712+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:26:06.0128732+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:57:17.9919479+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:05:39.2508975+00:00"
 }

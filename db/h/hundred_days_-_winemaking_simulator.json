@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 820,
+  "Ranking_Rating": 821,
   "Ranking_Popularity": 294,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 155,
@@ -1111,9 +1111,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 19331,
+  "EOS_Progressed": 19334,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1057,
+  "EOS_NewPlayers": 1059,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -16261,6 +16261,11 @@
       "Time": "2024-01-06T02:30:16.3742346+00:00",
       "NumProgressed": 19331,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-06T03:09:33.9563154+00:00",
+      "NumProgressed": 19334,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -16321,7 +16326,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8312
+      "UsersEstimate": 8314
     },
     {
       "ID": "a_19",
@@ -16329,7 +16334,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "a_2",
@@ -16369,7 +16374,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "a_25",
@@ -16520,7 +16525,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 19331,
+      "Progressed": 19334,
       "Completed": 13
     }
   ],
@@ -16528,8 +16533,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-01T19:03:20.2476808+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:30:16.3742343+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:09:33.9563152+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.499135+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:18:22.7610031+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:30:16.3743298+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:57:18.1344403+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:09:33.9564071+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.50 (Ranked 614)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,665 |
-| Advancement | 8.00% | ~2,665 |
-| Meticulously Efficient | 8.00% | ~2,665 |
-| Discovery | 6.00% | ~1,999 |
-| Solo Capture | 6.00% | ~1,999 |
-| Swift Rift Removers | 6.00% | ~1,999 |
+| Stylish | 11.00% | ~3,666 |
+| Advancement | 8.00% | ~2,666 |
+| Meticulously Efficient | 8.00% | ~2,666 |
+| Discovery | 6.00% | ~2,000 |
+| Solo Capture | 6.00% | ~2,000 |
+| Swift Rift Removers | 6.00% | ~2,000 |
 | Clutch Capture | 5.00% | ~1,666 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,666 |
 | Fully Upgraded | 5.00% | ~1,666 |
@@ -32,14 +32,14 @@ Rating: 4.50 (Ranked 614)
 | Seasoned | 3.00% | ~1,000 |
 | Side Hustle | 3.00% | ~1,000 |
 | Summoner | 3.00% | ~1,000 |
-| Collector | 2.00% | ~666 |
-| Escape Artist | 2.00% | ~666 |
-| Reckless | 2.00% | ~666 |
-| Rift Destroyer | 2.00% | ~666 |
-| Skilled | 2.00% | ~666 |
-| Stunner | 2.00% | ~666 |
-| Tobin's Prodigy | 2.00% | ~666 |
-| Welcome to the Crew | 2.00% | ~666 |
+| Collector | 2.00% | ~667 |
+| Escape Artist | 2.00% | ~667 |
+| Reckless | 2.00% | ~667 |
+| Rift Destroyer | 2.00% | ~667 |
+| Skilled | 2.00% | ~667 |
+| Stunner | 2.00% | ~667 |
+| Tobin's Prodigy | 2.00% | ~667 |
+| Welcome to the Crew | 2.00% | ~667 |
 | Diabolical | 1.00% | ~333 |
 | Fragile Panes | 1.00% | ~333 |
 | Liability | 1.00% | ~333 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 614)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,318 (Ranked 136)  
+Progressed: 33,327 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 71 (0.21%) (Ranked 271)
 | 2024-01-03 | 33,206 | 71 |
 | 2024-01-04 | 33,258 | 71 |
 | 2024-01-05 | 33,310 | 71 |
-| 2024-01-06 | 33,318 | 71 |
+| 2024-01-06 | 33,327 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 255)  
 Sum: 2,951 (Ranked 186)  

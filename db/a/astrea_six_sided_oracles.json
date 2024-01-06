@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -1414,6 +1414,11 @@
       "Time": "2024-01-06T01:54:48.9414128+00:00",
       "NumProgressed": 341,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T03:08:39.6723057+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1506,7 +1511,7 @@
       "Name": "Artificer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AstralAdventurer",
@@ -1514,7 +1519,7 @@
       "Name": "Astral Adventurer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "AstralSeeker",
@@ -1690,7 +1695,7 @@
       "Name": "Favored by the Cosmos",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Gottatinkeremall",
@@ -1770,7 +1775,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "MeissasSavior",
@@ -1778,7 +1783,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "MindIlluminator",
@@ -1850,7 +1855,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ReflexiveMind",
@@ -1872,17 +1877,17 @@
       "ID": "SadisticPlan",
       "SetID": "1jeo1g7",
       "Name": "Sadistic Plan",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 51
     },
     {
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 185
     },
     {
       "ID": "Sentinelphobic",
@@ -1898,7 +1903,7 @@
       "Name": "Shard Spender",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "SixSidedMastery",
@@ -1922,7 +1927,7 @@
       "Name": "Star Killer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "StellarDismantler",
@@ -2026,7 +2031,7 @@
       "Name": "Unbeatable",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "UnepicHero",
@@ -2066,7 +2071,7 @@
       "Name": "Apian Champion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ApianHero",
@@ -2138,7 +2143,7 @@
       "Name": "Eridanian Champion",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "EridanianHero",
@@ -2209,14 +2214,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:29:27.7214914+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:08:39.6723055+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:18:51.4447096+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:29:27.7216092+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:57:51.3872115+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:08:39.6723909+00:00"
 }

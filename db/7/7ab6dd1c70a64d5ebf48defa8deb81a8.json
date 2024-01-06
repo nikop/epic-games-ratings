@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1856,
+  "EOS_Progressed": 1857,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3647,6 +3647,11 @@
       "Time": "2024-01-06T02:30:39.9148366+00:00",
       "NumProgressed": 1856,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T03:10:00.0600844+00:00",
+      "NumProgressed": 1857,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3658,7 +3663,7 @@
       "Name": "Break Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ACH_02",
@@ -3680,9 +3685,9 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_05",
@@ -3794,7 +3799,7 @@
       "Name": "Shatter Them All",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACH_19",
@@ -3834,7 +3839,7 @@
       "Name": "Geared Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACH_24",
@@ -3914,7 +3919,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_35",
@@ -3945,7 +3950,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1856,
+      "Progressed": 1857,
       "Completed": 3
     }
   ],
@@ -3953,8 +3958,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-04T23:57:43.6326187+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:30:39.9148363+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:10:00.0600842+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:18:49.0266945+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:30:39.9148782+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:57:48.6973362+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:10:00.0601295+00:00"
 }

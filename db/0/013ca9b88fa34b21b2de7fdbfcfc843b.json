@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8892,
+  "EOS_Progressed": 8893,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9762,6 +9762,11 @@
       "Time": "2024-01-06T01:56:34.3247307+00:00",
       "NumProgressed": 8892,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T03:10:02.4665582+00:00",
+      "NumProgressed": 8893,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9780,9 +9785,9 @@
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 356
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -10117,13 +10122,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8892,
+      "Progressed": 8893,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1509,
+      "Progressed": 1510,
       "Completed": 1050
     }
   ],
@@ -10131,8 +10136,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-04T01:49:56.9201089+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:30:42.1304966+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:10:02.466558+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:18.6366016+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:23:54.3501164+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:30:42.1305904+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:03:09.7133638+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:10:02.4666401+00:00"
 }

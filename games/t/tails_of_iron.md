@@ -6,17 +6,17 @@ Rating: 4.56 (Ranked 505)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Become King | 2.00% | ~46 |
+| Collect Monster Parts | 2.00% | ~46 |
 | Complete Guard Faction | 2.00% | ~46 |
 | Ranged Weapon | 2.00% | ~46 |
+| Two Handed Weapon | 2.00% | ~46 |
 | Defeat 25 Frogs | 2.00% | ~46 |
 | The Bright Fir | 2.00% | ~19 |
 | Collect Gold | 1.00% | ~23 |
 | Collect Iron Ore | 1.00% | ~23 |
-| Collect Monster Parts | 1.00% | ~23 |
 | Complete Elder Faction | 1.00% | ~23 |
 | End of the Mozis | 1.00% | ~23 |
 | Defeat Ratnor Rodentson | 1.00% | ~23 |
-| Two Handed Weapon | 1.00% | ~23 |
 | Defeat 25 Grubs | 1.00% | ~23 |
 | Defeat 25 Mozis | 1.00% | ~23 |
 | Meet the Creatures from the Deep | 1.00% | ~23 |

@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5272,
+  "EOS_Progressed": 5273,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -4800,6 +4800,11 @@
       "Time": "2024-01-06T01:52:21.1659613+00:00",
       "NumProgressed": 5272,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-06T03:05:27.3430595+00:00",
+      "NumProgressed": 5273,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4819,7 +4824,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -4859,7 +4864,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4428
+      "UsersEstimate": 4429
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4867,7 +4872,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4956
+      "UsersEstimate": 4957
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5043,7 +5048,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -5139,7 +5144,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -5147,7 +5152,7 @@
       "Name": "GOLIATH",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5155,7 +5160,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5346,15 +5351,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5272,
+      "Progressed": 5273,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:25:54.8159438+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:05:27.3430593+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:20:51.8040762+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:25:54.8160107+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:00:10.7458832+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:05:27.3431452+00:00"
 }

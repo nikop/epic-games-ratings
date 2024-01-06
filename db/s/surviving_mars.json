@@ -2,12 +2,12 @@
   "ID": "d759128018124dcabb1fbee9bb28e178",
   "Name": "Surviving Mars",
   "ProductSlug": "surviving-mars",
-  "Ranking_Rating": 398,
-  "Ranking_Popularity": 216,
+  "Ranking_Rating": 399,
+  "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2018-03-15T15:00:00+00:00",
@@ -4446,6 +4446,6 @@
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
   "LastChanged": "2024-01-05T20:59:04.1246473+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:51.5978229+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:19:28.3592515+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:29:26.7439443+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:58:34.7529457+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:08:38.5449786+00:00"
 }

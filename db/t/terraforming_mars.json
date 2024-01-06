@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3499,9 +3499,9 @@
       "Count": 262
     }
   ],
-  "EOS_Progressed": 89347,
+  "EOS_Progressed": 89348,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 1115,
+  "EOS_NewPlayers": 1110,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -32664,6 +32664,11 @@
       "Time": "2024-01-06T02:26:55.4662299+00:00",
       "NumProgressed": 89347,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2024-01-06T03:06:35.1793693+00:00",
+      "NumProgressed": 89348,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 30,
@@ -32755,7 +32760,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 33058
+      "UsersEstimate": 33059
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -32795,7 +32800,7 @@
       "Name": "Curiosity",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 16082
+      "UsersEstimate": 16083
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -32827,7 +32832,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 17869
+      "UsersEstimate": 17870
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -32899,7 +32904,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 16082
+      "UsersEstimate": 16083
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -32914,15 +32919,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 89347,
+      "Progressed": 89348,
       "Completed": 180
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-05T16:58:53.2868841+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:26:55.4662296+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:06:35.1793692+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.7214012+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:19:50.5408029+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:26:55.4663925+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:58:59.5335117+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:06:35.1795405+00:00"
 }

@@ -723,9 +723,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6918,
+  "EOS_Progressed": 6921,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10488,6 +10488,11 @@
       "Time": "2024-01-06T02:24:38.1224429+00:00",
       "NumProgressed": 6918,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T03:04:00.7169605+00:00",
+      "NumProgressed": 6921,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10611,7 +10616,7 @@
       "Name": "Realm Estate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "23",
@@ -10619,7 +10624,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "24",
@@ -10635,7 +10640,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "26",
@@ -10691,7 +10696,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "32",
@@ -10978,13 +10983,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6918,
+      "Progressed": 6921,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6918,
+      "Progressed": 6921,
       "Completed": 7
     }
   ],
@@ -10992,8 +10997,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:24:38.1224426+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:04:00.7169604+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:21:23.2345914+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:24:38.1225202+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:02:36.1381905+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:04:00.7170359+00:00"
 }

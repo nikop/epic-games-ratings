@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 90.00% | ~57 |
-| Suicide squad | 46.00% | ~29 |
-| Train hard, fight easy | 29.00% | ~18 |
-| Under cover | 29.00% | ~18 |
-| First blood | 29.00% | ~18 |
+| First success | 91.00% | ~58 |
+| Suicide squad | 45.00% | ~29 |
+| Train hard, fight easy | 28.00% | ~18 |
+| Under cover | 28.00% | ~18 |
+| First blood | 28.00% | ~18 |
 | Royal blessing | 22.00% | ~14 |
 | Blood and sand | 22.00% | ~14 |
-| All for one! | 21.00% | ~13 |
-| A hidden snake | 21.00% | ~13 |
+| All for one! | 20.00% | ~13 |
+| A hidden snake | 20.00% | ~13 |
 | Crimson rivers | 17.00% | ~11 |
 | Help of the Gell | 17.00% | ~11 |
 | Power of Inquisition | 16.00% | ~10 |
 | Surpass the teacher | 16.00% | ~10 |
 | Vene, vidi, vici | 16.00% | ~10 |
+| Rage | 16.00% | ~10 |
 | She-Wolf | 16.00% | ~10 |
-| Rage | 14.00% | ~9 |
 | Trial by cold | 13.00% | ~8 |
 | Berkanan Borgia | 11.00% | ~7 |
-| For the greater good | 10.00% | ~6 |
-| Overplay the rogue | 10.00% | ~6 |
-| The champion of the arena | 10.00% | ~6 |
+| For the greater good | 9.00% | ~6 |
+| Overplay the rogue | 9.00% | ~6 |
+| The champion of the arena | 9.00% | ~6 |
 | Collector | 8.00% | ~5 |
 | Stronger than Gellian steel | 8.00% | ~5 |
+| Punish the Punisher | 8.00% | ~5 |
 | Protect the Healer! | 8.00% | ~5 |
 | The End | 8.00% | ~5 |
 | First among Frisians | 6.00% | ~4 |
-| Punish the Punisher | 6.00% | ~4 |
 | Cunning plan | 6.00% | ~4 |
 | Nothing is settled | 6.00% | ~4 |
 | Supplier | 5.00% | ~3 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 530)  
+Progressed: 64 (Ranked 529)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 59 | 0 |
 | 2024-01-03 | 61 | 0 |
 | 2024-01-05 | 63 | 0 |
+| 2024-01-06 | 64 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3636,
+  "EOS_Progressed": 3638,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4054,6 +4054,11 @@
       "Time": "2024-01-06T02:26:35.1549553+00:00",
       "NumProgressed": 3636,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T03:06:12.3954866+00:00",
+      "NumProgressed": 3638,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4090,7 +4095,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -4112,9 +4117,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "c167foo",
       "Name": "Power Overwhelming",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -4170,7 +4175,7 @@
       "Name": "Worthy Badge",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -4250,7 +4255,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4266,7 +4271,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4441,14 +4446,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3636,
+      "Progressed": 3638,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:26:35.154955+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:06:12.3954863+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:18:36.4974394+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:26:35.1550032+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:57:34.0415319+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:06:12.3955394+00:00"
 }

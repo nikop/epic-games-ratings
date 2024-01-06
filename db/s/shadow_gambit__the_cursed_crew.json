@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1453,
+  "EOS_Progressed": 1454,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -5010,6 +5010,11 @@
       "Time": "2024-01-06T02:24:54.5587143+00:00",
       "NumProgressed": 1453,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-06T03:04:18.984892+00:00",
+      "NumProgressed": 1454,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5030,7 +5035,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "_03_FinishAct1",
@@ -5046,7 +5051,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "_05_FinishAct2",
@@ -5166,7 +5171,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5229,7 +5234,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1453,
+      "Progressed": 1454,
       "Completed": 36
     }
   ],
@@ -5237,8 +5242,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:24:54.5587141+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:04:18.9848918+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:19:00.2396686+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:24:54.5587515+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:58:01.4500316+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:04:18.984931+00:00"
 }

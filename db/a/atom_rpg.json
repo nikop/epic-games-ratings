@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1632,
+  "EOS_Progressed": 1633,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4254,6 +4254,11 @@
       "Time": "2024-01-05T22:10:31.0192215+00:00",
       "NumProgressed": 1632,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T03:09:56.0242594+00:00",
+      "NumProgressed": 1633,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4321,7 +4326,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "EXPERT_1",
@@ -4353,7 +4358,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4361,7 +4366,7 @@
       "Name": "Head Burst",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "INDY_1",
@@ -4425,7 +4430,7 @@
       "Name": "One shot, one kill",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "PACIFIST",
@@ -4521,7 +4526,7 @@
       "Name": "Traveler",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "VVE",
@@ -4537,7 +4542,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "WISHMASTER_1",
@@ -4552,15 +4557,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1632,
+      "Progressed": 1633,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:30:36.147243+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:09:56.0242592+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:18:59.8733998+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:30:36.147281+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:58:01.0585077+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:09:56.0243045+00:00"
 }

@@ -31,7 +31,7 @@ Rating: 4.76 (Ranked 130)
 | Dreamboat | 1.00% | ~8 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 788 (Ranked 309)  
+Progressed: 788 (Ranked 310)  
 Completed: 2 (0.25%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |

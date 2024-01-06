@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6996,
+  "EOS_Progressed": 6997,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -7349,6 +7349,11 @@
       "Time": "2024-01-06T02:25:46.6411246+00:00",
       "NumProgressed": 6996,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-06T03:05:18.0674553+00:00",
+      "NumProgressed": 6997,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -7417,7 +7422,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 5527
+      "UsersEstimate": 5528
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -7488,14 +7493,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6996,
+      "Progressed": 6997,
       "Completed": 63
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:25:46.6411243+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:05:18.0674551+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.3556672+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:20:47.1776809+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:25:46.6411744+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:00:05.2806816+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:05:18.0675029+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 450,
-  "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.67,
+  "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -491,6 +491,11 @@
       "Time": "2024-01-05T02:32:06.8888332+00:00",
       "NumProgressed": 150,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T03:09:57.6133994+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -510,7 +515,7 @@
       "Name": "The Pride of Moozhaw",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Achievement11",
@@ -534,7 +539,7 @@
       "Name": "Armor Collector",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement14",
@@ -548,9 +553,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Achievement16",
@@ -572,9 +577,9 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement19",
@@ -582,7 +587,7 @@
       "Name": "Corwid Hill",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement2",
@@ -612,9 +617,9 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement4",
@@ -622,7 +627,7 @@
       "Name": "Omnia Vincit Amor",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Achievement5",
@@ -654,7 +659,7 @@
       "Name": "Armored",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Achievement9",
@@ -669,7 +674,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 1
     }
   ],
@@ -677,8 +682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:30:37.5971046+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:09:57.6133992+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:54.3943326+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:19:24.7777394+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:30:37.5971148+00:00"
+  "LastUpdate_Ratings": "2024-01-06T02:58:30.7371095+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:09:57.6134126+00:00"
 }

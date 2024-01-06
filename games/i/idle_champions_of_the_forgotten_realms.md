@@ -13,8 +13,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.80% | ~1,744 |
 | The Ring of Regeneration | 0.70% | ~1,762 |
 | Are Ya Chicken? | 0.70% | ~1,762 |
-| Were-verpowered | 0.60% | ~1,510 |
-| Friendly Imps | 0.60% | ~1,510 |
+| Were-verpowered | 0.60% | ~1,511 |
+| Friendly Imps | 0.60% | ~1,511 |
 | Fast Food | 0.60% | ~1,308 |
 | Seeking Allies | 0.50% | ~1,259 |
 | Mad Cow Disease | 0.50% | ~1,259 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,750 (Ranked 70)  
+Progressed: 251,760 (Ranked 70)  
 Completed: 2,596 (1.03%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -814,7 +814,7 @@ Completed: 2,596 (1.03%) (Ranked 171)
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
-| 2024-01-06 | 251,750 | 2,596 |
+| 2024-01-06 | 251,760 | 2,596 |
 ## Awards
 Max (Great for Beginners): 5,750  (Ranked 72)  
 Sum: 33,350 (Ranked 41)  

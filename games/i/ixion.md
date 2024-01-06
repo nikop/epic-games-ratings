@@ -24,8 +24,8 @@ Rating: 4.58 (Ranked 471)
 | Man's Best Friend | 9.00% | ~361 |
 | Power Outage | 9.00% | ~361 |
 | Please Make it Stop! | 9.00% | ~361 |
-| Sightseeing | 8.00% | ~320 |
-| Convenient Transport | 8.00% | ~320 |
+| Sightseeing | 8.00% | ~321 |
+| Convenient Transport | 8.00% | ~321 |
 | Necessary Enhancement | 7.00% | ~280 |
 | From the Past | 7.00% | ~280 |
 | Access Granted | 6.00% | ~240 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 471)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,006 (Ranked 211)  
+Progressed: 4,007 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-03 | 3,940 | 0 |
 | 2024-01-04 | 3,963 | 0 |
 | 2024-01-05 | 4,002 | 0 |
-| 2024-01-06 | 4,006 | 0 |
+| 2024-01-06 | 4,007 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

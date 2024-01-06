@@ -35,7 +35,7 @@
 | Head Hunter | 29.00% | ~1,093 |
 | Scholar | 29.00% | ~1,093 |
 | The Archangel | 28.00% | ~1,055 |
-| Operative | 27.00% | ~1,018 |
+| Operative | 28.00% | ~1,055 |
 | The Convict | 26.00% | ~980 |
 | The Krogan | 26.00% | ~980 |
 | Power Full | 26.00% | ~980 |

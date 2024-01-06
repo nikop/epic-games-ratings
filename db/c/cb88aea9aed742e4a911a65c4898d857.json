@@ -281,9 +281,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10283,
+  "EOS_Progressed": 10285,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1581,
+  "EOS_NewPlayers": 1576,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3811,6 +3811,11 @@
       "Time": "2024-01-06T02:30:33.5005512+00:00",
       "NumProgressed": 10283,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T03:09:52.9190821+00:00",
+      "NumProgressed": 10285,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3831,7 +3836,7 @@
       "Name": "Stolen Star",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3943,7 +3948,7 @@
       "Name": "Exemplar",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3951,7 +3956,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3999,7 +4004,7 @@
       "Name": "Highrise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "25_DynastyProspers",
@@ -4175,7 +4180,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "47_AFlame",
@@ -4207,7 +4212,7 @@
       "Name": "Whodunit?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -4342,7 +4347,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10283,
+      "Progressed": 10285,
       "Completed": 1
     }
   ],
@@ -4350,8 +4355,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-05T14:02:45.9085705+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:30:33.500551+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:09:52.9190819+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:21:25.4817345+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:30:33.5006335+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:02:38.7261433+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:09:52.9191538+00:00"
 }

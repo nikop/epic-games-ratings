@@ -2,7 +2,7 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 804,
   "Ranking_Popularity": 114,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 123,
@@ -2473,9 +2473,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 48749,
+  "EOS_Progressed": 48750,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30838,6 +30838,11 @@
       "Time": "2024-01-06T02:25:57.2781811+00:00",
       "NumProgressed": 48749,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-06T03:05:29.4364607+00:00",
+      "NumProgressed": 48750,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -30865,7 +30870,7 @@
       "Name": "Blood Madness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6337
+      "UsersEstimate": 6338
     },
     {
       "ID": "achievements_12",
@@ -30921,7 +30926,7 @@
       "Name": "More Mortal Suffering!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "achievements_20",
@@ -30945,7 +30950,7 @@
       "Name": "First Sacrifice",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6337
+      "UsersEstimate": 6338
     },
     {
       "ID": "achievements_23",
@@ -30953,7 +30958,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 29249
+      "UsersEstimate": 29250
     },
     {
       "ID": "achievements_24",
@@ -30961,7 +30966,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 26812
+      "UsersEstimate": 26813
     },
     {
       "ID": "achievements_25",
@@ -30977,7 +30982,7 @@
       "Name": "Mountain King - I",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 19987
+      "UsersEstimate": 19988
     },
     {
       "ID": "achievements_27",
@@ -31097,7 +31102,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 31687
+      "UsersEstimate": 31688
     },
     {
       "ID": "achievements_40",
@@ -31121,7 +31126,7 @@
       "Name": "Forbidden Knowledge",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "achievements_43",
@@ -31153,7 +31158,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 41437
+      "UsersEstimate": 41438
     },
     {
       "ID": "achievements_47",
@@ -31161,7 +31166,7 @@
       "Name": "Master of Alchemy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 6337
+      "UsersEstimate": 6338
     },
     {
       "ID": "achievements_48",
@@ -31185,7 +31190,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 24374
+      "UsersEstimate": 24375
     },
     {
       "ID": "achievements_50",
@@ -31297,7 +31302,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 12187
+      "UsersEstimate": 12188
     },
     {
       "ID": "achievements_64",
@@ -31321,7 +31326,7 @@
       "Name": "Nightmare of the Humanity - II",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 10237
+      "UsersEstimate": 10238
     },
     {
       "ID": "achievements_67",
@@ -31329,7 +31334,7 @@
       "Name": "Nightmare of the Humanity - III",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "achievements_68",
@@ -31385,7 +31390,7 @@
       "Name": "Live Operation",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "achievements_74",
@@ -31425,7 +31430,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 35587
+      "UsersEstimate": 35588
     },
     {
       "ID": "achievements_8",
@@ -31441,22 +31446,22 @@
       "Name": "Blood Mage",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8287
+      "UsersEstimate": 8288
     }
   ],
   "AchievementSets": [
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 48749,
+      "Progressed": 48750,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2024-01-05T06:02:25.130456+00:00",
-  "LastChanged_Achievements": "2024-01-06T02:25:57.2781808+00:00",
+  "LastChanged_Achievements": "2024-01-06T03:05:29.4364605+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:18.237307+00:00",
-  "LastUpdate_Ratings": "2024-01-06T02:21:25.3512432+00:00",
-  "LastUpdate_Achievements": "2024-01-06T02:25:57.278358+00:00"
+  "LastUpdate_Ratings": "2024-01-06T03:02:38.5337129+00:00",
+  "LastUpdate_Achievements": "2024-01-06T03:05:29.4366744+00:00"
 }
