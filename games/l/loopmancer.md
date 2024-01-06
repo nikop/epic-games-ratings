@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 112.00% | ~115 |
-| Break no Sweat | 107.00% | ~110 |
-| Every little bit counts | 101.00% | ~104 |
+| Black Cat's Warning | 112.00% | ~116 |
+| Break no Sweat | 107.00% | ~111 |
+| Every little bit counts | 101.00% | ~105 |
 | Growth | 85.00% | ~88 |
-| Targeting the Enemy | 69.00% | ~71 |
-| Unavoidable | 66.00% | ~68 |
-| Revenge | 63.00% | ~65 |
-| Reunion | 41.00% | ~42 |
+| Targeting the Enemy | 68.00% | ~71 |
+| Unavoidable | 66.00% | ~69 |
+| Revenge | 63.00% | ~66 |
+| Reunion | 40.00% | ~42 |
 | Fluke | 35.00% | ~36 |
 | Elimination | 33.00% | ~34 |
 | Victor's Prejudice | 32.00% | ~33 |
@@ -29,7 +29,7 @@
 | Brain in a Vat | 18.00% | ~19 |
 | Final Battle | 17.00% | ~18 |
 | Outsider's Profit | 17.00% | ~18 |
-| Reappearance | 16.00% | ~16 |
+| Reappearance | 15.00% | ~16 |
 | King of the Streets | 10.00% | ~10 |
 | Survival Expert | 10.00% | ~10 |
 | Calamity | 9.00% | ~9 |
@@ -62,7 +62,7 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 488)  
+Progressed: 104 (Ranked 488)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-31 | 103 | 0 |
 | 2024-01-01 | 103 | 0 |
 | 2024-01-05 | 104 | 0 |
+| 2024-01-06 | 104 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -17,11 +17,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 6.00% | ~1,219 |
 | The Scarlet Orchard | 6.00% | ~1,219 |
 | Gathering Storm | 6.00% | ~1,219 |
-| Frosts | 5.00% | ~1,015 |
-| Land of Greed | 5.00% | ~1,015 |
-| Ominous Presence | 5.00% | ~1,015 |
-| Royal Outpost | 4.00% | ~812 |
-| Watchtower | 4.00% | ~812 |
+| Frosts | 5.00% | ~1,016 |
+| Land of Greed | 5.00% | ~1,016 |
+| Ominous Presence | 5.00% | ~1,016 |
+| Royal Outpost | 4.00% | ~813 |
+| Watchtower | 4.00% | ~813 |
 | Homesick | 3.00% | ~609 |
 | Ruined Armory | 3.00% | ~609 |
 | Fertile Meadows | 3.00% | ~609 |
@@ -42,6 +42,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 2.00% | ~406 |
 | Cursed Lands | 2.00% | ~406 |
 | Defying the Crown | 2.00% | ~406 |
+| Into the Forest | 2.00% | ~406 |
 | Serving Ale | 1.00% | ~203 |
 | Efficient Explorer | 1.00% | ~203 |
 | Refinery | 1.00% | ~203 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 1.00% | ~203 |
 | Forsaken Gods Temple | 1.00% | ~203 |
 | Victory Through Prosperity | 1.00% | ~203 |
-| Into the Forest | 1.00% | ~203 |
 | Feeding The People | 0.70% | ~142 |
 | Like a Machine | 0.70% | ~142 |
 | Blood Flower Farmer | 0.50% | ~102 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,309 (Ranked 154)  
+Progressed: 20,314 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,10 +327,10 @@ Completed: 34 (0.17%) (Ranked 281)
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
-| 2024-01-06 | 20,309 | 34 |
+| 2024-01-06 | 20,314 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 232)  
-Sum: 3,342 (Ranked 177)  
+Sum: 3,344 (Ranked 177)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +340,7 @@ Diff (max vs sum): 55
 | This game is Extremely Fun | 418 |
 | This game is Highly Recommended | 403 |
 | This game has Unique Visuals | 344 |
-| This game has Amazing Storytelling | 329 |
+| This game has Amazing Storytelling | 331 |
 | This game has Amazing Characters | 293 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 218 |
@@ -623,4 +623,4 @@ Diff (max vs sum): 55
 | 2024-01-03 | 4.82 | - | 447 | 3,324 |
 | 2024-01-04 | 4.82 | - | 448 | 3,331 |
 | 2024-01-05 | 4.82 | - | 448 | 3,337 |
-| 2024-01-06 | 4.82 | - | 449 | 3,342 |
+| 2024-01-06 | 4.82 | - | 449 | 3,344 |

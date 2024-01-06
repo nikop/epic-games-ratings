@@ -25,9 +25,9 @@
 | Irene Court-Smyth | 33.00% | ~32 |
 | An odd series of events | 32.00% | ~31 |
 | The Apartment | 32.00% | ~31 |
-| Nathaniel Dryden | 29.00% | ~28 |
-| A rude awakening | 28.00% | ~27 |
-| Bartholomew | 28.00% | ~27 |
+| Nathaniel Dryden | 30.00% | ~29 |
+| A rude awakening | 29.00% | ~28 |
+| Bartholomew | 29.00% | ~28 |
 | The Scheme | 26.00% | ~25 |
 | Well-acquainted | 25.00% | ~24 |
 | Anastasia Babanin | 25.00% | ~24 |
@@ -52,7 +52,7 @@
 | Perkins | 6.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 97 (Ranked 495)  
-Completed: 3 (3.09%) (Ranked 108)  
+Completed: 3 (3.09%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

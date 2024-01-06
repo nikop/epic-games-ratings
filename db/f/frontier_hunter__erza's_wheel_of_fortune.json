@@ -3,12 +3,12 @@
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_Rating": 790,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
-  "Ranking_EOS_Progress": 316,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
+  "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -45,7 +45,7 @@
   "Tags": [],
   "EOS_Progressed": 724,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -2633,9 +2633,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "7pimpda",
       "Name": "Cave Master",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -2665,9 +2665,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 355
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2865,9 +2865,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2906,8 +2906,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:09:43.2575311+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:09:23.4623798+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:59:36.1921103+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:09:43.2575815+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:58:53.478462+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:09:23.4624338+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Farmer\u0027s Dynasty",
   "ProductSlug": "farmers-dynasty",
   "Ranking_Rating": 939,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-01-13T11:00:00+00:00",
     "PcReleaseDate": "2017-12-14T12:00:00+00:00",
@@ -339,6 +339,6 @@
   "FirstSeen": "2022-07-22T20:23:48.9867279+00:00",
   "LastChanged": "2024-01-01T14:01:33.6900522+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.4326501+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:59:55.1425045+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:10:15.867127+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:59:05.9274709+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:09:46.5356838+00:00"
 }

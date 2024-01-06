@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 378,
-  "Ranking_Popularity": 481,
+  "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -723,7 +723,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6973,
+  "EOS_Progressed": 6977,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
@@ -10578,6 +10578,11 @@
       "Time": "2024-01-06T20:05:11.0984246+00:00",
       "NumProgressed": 6973,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-06T21:04:34.8381549+00:00",
+      "NumProgressed": 6977,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10589,7 +10594,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "10",
@@ -10645,7 +10650,7 @@
       "Name": "God Emperor",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "17",
@@ -10661,7 +10666,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "19",
@@ -10669,7 +10674,7 @@
       "Name": "The Creator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "2",
@@ -10693,7 +10698,7 @@
       "Name": "Eternal Lord",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "22",
@@ -10701,7 +10706,7 @@
       "Name": "Realm Estate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "23",
@@ -10709,7 +10714,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "24",
@@ -10717,7 +10722,7 @@
       "Name": "Secret Technique",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "25",
@@ -10765,7 +10770,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "30",
@@ -10805,7 +10810,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "35",
@@ -10853,7 +10858,7 @@
       "Name": "The Eternal Court",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "40",
@@ -10861,7 +10866,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "41",
@@ -10941,7 +10946,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "46",
@@ -10965,7 +10970,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "49",
@@ -10973,7 +10978,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "50",
@@ -10997,7 +11002,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "53",
@@ -11013,7 +11018,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "55",
@@ -11037,7 +11042,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "58",
@@ -11068,13 +11073,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6973,
+      "Progressed": 6977,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6973,
+      "Progressed": 6977,
       "Completed": 7
     }
   ],
@@ -11082,8 +11087,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-05T22:03:08.039537+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:05:11.0984242+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:04:34.8381547+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:02:49.8431693+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:05:11.0984981+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:02:59.638541+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:04:34.8382457+00:00"
 }

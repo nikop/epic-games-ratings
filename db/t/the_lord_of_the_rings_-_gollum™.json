@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -2181,9 +2181,9 @@
       "ID": "Murderer",
       "SetID": "70l3651",
       "Name": "Murderer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 68
     },
     {
       "ID": "NoDamage",
@@ -2292,8 +2292,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:08:42.5956014+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:08:41.3125663+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.7488707+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:57:28.3671372+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:08:42.5956305+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:57:30.0328689+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:08:41.312601+00:00"
 }

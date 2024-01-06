@@ -3,12 +3,12 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 1090,
-  "Ranking_Popularity": 554,
-  "Ranking_PopularitySum": 560,
+  "Ranking_Popularity": 553,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -369,9 +369,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2282,
+  "EOS_Progressed": 2285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4104,6 +4104,11 @@
       "Time": "2024-01-06T20:05:24.2134903+00:00",
       "NumProgressed": 2282,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T21:04:43.9294128+00:00",
+      "NumProgressed": 2285,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4131,7 +4136,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Achievement_004",
@@ -4251,7 +4256,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "Achievement_020",
@@ -4323,7 +4328,7 @@
       "Name": "You Clean It Up",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Achievement_029",
@@ -4331,7 +4336,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Achievement_030",
@@ -4371,7 +4376,7 @@
       "Name": "Catch and Release",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "Achievement_035",
@@ -4379,7 +4384,7 @@
       "Name": "From the Shadows",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Achievement_036",
@@ -4435,7 +4440,7 @@
       "Name": "Starve the Beast",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Achievement_044",
@@ -4579,7 +4584,7 @@
       "Name": "Helping Hand",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Achievement_064",
@@ -4642,7 +4647,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2282,
+      "Progressed": 2285,
       "Completed": 0
     }
   ],
@@ -4650,8 +4655,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-06T04:58:33.5555876+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:05:24.21349+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:04:43.9294125+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:59:19.5263978+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:05:24.2135493+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:58:42.5327562+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:04:43.9295388+00:00"
 }

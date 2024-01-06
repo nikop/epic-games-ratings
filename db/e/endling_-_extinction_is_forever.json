@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 590,
+  "EOS_Progressed": 591,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1134,6 +1134,11 @@
       "Time": "2024-01-06T15:09:58.3209145+00:00",
       "NumProgressed": 590,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T21:10:02.8326479+00:00",
+      "NumProgressed": 591,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1159,9 +1164,9 @@
       "ID": "TROP002",
       "SetID": "9n0dl35",
       "Name": "Three Little Foxes",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 65
+      "UsersEstimate": 59
     },
     {
       "ID": "TROP003",
@@ -1183,9 +1188,9 @@
       "ID": "TROP005",
       "SetID": "9n0dl35",
       "Name": "A Friend in Need",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 355
     },
     {
       "ID": "TROP006",
@@ -1193,7 +1198,7 @@
       "Name": "Maternity",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "TROP007",
@@ -1207,17 +1212,17 @@
       "ID": "TROP008",
       "SetID": "9n0dl35",
       "Name": "Home Sweet Home",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 556
     },
     {
       "ID": "TROP009",
       "SetID": "9n0dl35",
       "Name": "Surviving",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 248
     },
     {
       "ID": "TROP010",
@@ -1297,7 +1302,7 @@
       "Name": "Barking in The Rain",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "TROP020",
@@ -1313,7 +1318,7 @@
       "Name": "Tasty",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "TROP022",
@@ -1368,7 +1373,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 590,
+      "Progressed": 591,
       "Completed": 3
     }
   ],
@@ -1376,8 +1381,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:10:38.9568539+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:10:02.8326476+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.1770758+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:59:52.3550991+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:10:38.9568795+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:59:03.9130611+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:10:02.8326706+00:00"
 }

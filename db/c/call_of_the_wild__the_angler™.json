@@ -3,12 +3,12 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 950,
-  "Ranking_Popularity": 480,
+  "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8052,
+  "EOS_Progressed": 8055,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13386,6 +13386,11 @@
       "Time": "2024-01-06T20:08:22.9128421+00:00",
       "NumProgressed": 8052,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T21:08:27.8078394+00:00",
+      "NumProgressed": 8055,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13397,7 +13402,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13405,7 +13410,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -13421,15 +13426,15 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 564
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -13437,7 +13442,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -13587,9 +13592,9 @@
       "ID": "ACHIEVEMENT_025",
       "SetID": "1a05lfd",
       "Name": "Taylor Made",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -13716,13 +13721,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8052,
+      "Progressed": 8055,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7424,
+      "Progressed": 7427,
       "Completed": 113
     }
   ],
@@ -13730,8 +13735,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:08:22.9128416+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:08:27.8078392+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:57:50.672258+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:08:22.9129262+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:57:44.2503602+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:08:27.807913+00:00"
 }

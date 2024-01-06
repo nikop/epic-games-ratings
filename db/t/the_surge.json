@@ -3,12 +3,12 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 705,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 522,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5293,
+  "EOS_Progressed": 5294,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -4865,6 +4865,11 @@
       "Time": "2024-01-06T20:07:00.2812693+00:00",
       "NumProgressed": 5293,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-06T21:05:50.8094138+00:00",
+      "NumProgressed": 5294,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4876,7 +4881,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4924,7 +4929,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4446
+      "UsersEstimate": 4447
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4932,7 +4937,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4975
+      "UsersEstimate": 4976
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4948,7 +4953,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5012,7 +5017,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -5020,7 +5025,7 @@
       "Name": "Melting Down",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -5124,7 +5129,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5148,7 +5153,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -5252,7 +5257,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -5292,7 +5297,7 @@
       "Name": "No More Marching",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -5324,7 +5329,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -5411,15 +5416,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5293,
+      "Progressed": 5294,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:07:00.281269+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:05:50.8094135+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:01:59.975643+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:07:00.2813828+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:00:26.8568731+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:05:50.8095058+00:00"
 }

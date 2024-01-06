@@ -1,14 +1,14 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breathe In… Breathe Out… | 73.00% | ~771 |
 | It’s Heating up! | 69.00% | ~729 |
-| Let’s patch things up | 64.00% | ~676 |
+| Let’s patch things up | 65.00% | ~686 |
 | I can fix it! | 62.00% | ~655 |
 | Post No Bills | 54.00% | ~570 |
 | Truly Shocking! | 48.00% | ~507 |

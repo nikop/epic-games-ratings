@@ -5,36 +5,36 @@ Rating: 4.50 (Ranked 613)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~887 |
-| To Hell In A Handcart | 61.00% | ~859 |
-| High Profile | 55.00% | ~774 |
-| Whispers In The Dark | 52.00% | ~732 |
-| Fond Memories | 50.00% | ~704 |
-| A Method To His Madness | 48.00% | ~676 |
-| History Check | 47.00% | ~662 |
+| Read Between The Lines | 63.00% | ~888 |
+| To Hell In A Handcart | 61.00% | ~860 |
+| High Profile | 55.00% | ~776 |
+| Whispers In The Dark | 52.00% | ~733 |
+| Fond Memories | 50.00% | ~705 |
+| A Method To His Madness | 48.00% | ~677 |
+| History Check | 47.00% | ~663 |
 | The New World | 45.00% | ~634 |
 | Gaze Into The Abyss | 44.00% | ~620 |
 | Open Sesame | 44.00% | ~620 |
 | Sticky Fingers | 44.00% | ~620 |
-| Lock, Stock, And Barrel | 43.00% | ~605 |
-| Knives Out | 43.00% | ~605 |
-| Land, Ho! | 43.00% | ~605 |
-| Back In The Saddle | 42.00% | ~591 |
-| No Man Is An Island | 41.00% | ~577 |
-| At Wits' End | 40.00% | ~563 |
-| Fhtagn! | 39.00% | ~549 |
-| Bookworm | 38.00% | ~535 |
-| Up In Flames | 38.00% | ~535 |
-| Going Once... | 36.00% | ~507 |
+| Lock, Stock, And Barrel | 43.00% | ~606 |
+| Knives Out | 43.00% | ~606 |
+| Land, Ho! | 43.00% | ~606 |
+| Back In The Saddle | 42.00% | ~592 |
+| No Man Is An Island | 41.00% | ~578 |
+| At Wits' End | 40.00% | ~564 |
+| Fhtagn! | 39.00% | ~550 |
+| Bookworm | 38.00% | ~536 |
+| Up In Flames | 38.00% | ~536 |
+| Going Once... | 36.00% | ~508 |
 | Let Me Be Frank | 34.00% | ~479 |
 | No Stone Unturned | 32.00% | ~451 |
-| Brain Food | 31.00% | ~436 |
+| Brain Food | 31.00% | ~437 |
 | Read It And Weep | 20.00% | ~282 |
 | Curiosity Killed The Cat | 19.00% | ~268 |
 | Big Breakthrough | 12.00% | ~169 |
 | Reawakened | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,408 (Ranked 270)  
+Progressed: 1,410 (Ranked 270)  
 Completed: 41 (2.91%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 41 (2.91%) (Ranked 115)
 | 2024-01-03 | 1,386 | 40 |
 | 2024-01-04 | 1,394 | 40 |
 | 2024-01-05 | 1,400 | 41 |
-| 2024-01-06 | 1,408 | 41 |
+| 2024-01-06 | 1,410 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,12 +3,12 @@
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 656,
-  "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 472,
+  "Ranking_Popularity": 387,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 464,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1835,9 +1835,9 @@
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 153
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2091,9 +2091,9 @@
       "ID": "Kill_Sin_Envy",
       "SetID": "7a5k76n",
       "Name": "Green with Envy",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 362
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -2123,9 +2123,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -2259,8 +2259,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:08:25.02414+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:08:29.3866399+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:00:46.1957279+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:08:25.0241968+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:59:39.0009467+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:08:29.3867013+00:00"
 }

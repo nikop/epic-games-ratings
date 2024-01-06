@@ -3,8 +3,8 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 83,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 202,
@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3323,
+  "EOS_Progressed": 3324,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 5,
@@ -6064,6 +6064,11 @@
       "Time": "2024-01-06T20:04:07.9976656+00:00",
       "NumProgressed": 3323,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-06T21:03:53.5293199+00:00",
+      "NumProgressed": 3324,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 53,
@@ -6083,7 +6088,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -6099,7 +6104,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -6131,7 +6136,7 @@
       "Name": "No more holding back",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -6139,7 +6144,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6179,7 +6184,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -6251,7 +6256,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6259,7 +6264,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2991
+      "UsersEstimate": 2992
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6291,7 +6296,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6307,7 +6312,7 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -6315,7 +6320,7 @@
       "Name": "Devineur",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -6331,7 +6336,7 @@
       "Name": "Glyndemere",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -6339,7 +6344,7 @@
       "Name": "Capelworth",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -6347,7 +6352,7 @@
       "Name": "Terbisia",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -6435,7 +6440,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -6451,7 +6456,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6467,7 +6472,7 @@
       "Name": "Full equipped",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -6483,7 +6488,7 @@
       "Name": "Ancient power",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -6498,7 +6503,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3323,
+      "Progressed": 3324,
       "Completed": 22
     }
   ],
@@ -6506,8 +6511,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:04:07.9976652+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:03:53.5293197+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:01:48.1599486+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:04:07.9977188+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:00:19.0244592+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:03:53.5293678+00:00"
 }

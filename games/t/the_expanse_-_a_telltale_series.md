@@ -1,26 +1,26 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 565)  
+Rating: 4.53 (Ranked 564)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~3,132 |
+| Oyedang, Kopengs | 17.00% | ~3,133 |
 | Captain Drummer | 14.00% | ~2,580 |
-| Celebrations are in Order | 13.00% | ~2,395 |
+| Celebrations are in Order | 13.00% | ~2,396 |
 | The Pit and the Pirates | 12.00% | ~2,211 |
 | Martian Music | 12.00% | ~2,211 |
 | Drone Dodger | 12.00% | ~2,211 |
 | Bosmang | 12.00% | ~2,211 |
 | Impossible Objects | 12.00% | ~2,211 |
 | Spore Taste | 11.00% | ~2,027 |
-| Stogie for Fogey | 10.00% | ~1,842 |
+| Stogie for Fogey | 10.00% | ~1,843 |
 | Zen Master | 10.00% | ~438 |
-| Call it Even | 9.00% | ~1,658 |
+| Call it Even | 9.00% | ~1,659 |
 | Safe Cracker | 9.00% | ~394 |
 | Madame Undersecretary | 9.00% | ~394 |
 | Heal Thy Medic | 8.00% | ~1,474 |
-| Keep Arjun in Check | 8.00% | ~350 |
+| Keep Arjun in Check | 8.00% | ~351 |
 | Data Archivist | 7.00% | ~1,290 |
 | Drug Gifter | 7.00% | ~1,290 |
 | Thorston Mayer | 7.00% | ~1,290 |
@@ -31,17 +31,17 @@ Rating: 4.53 (Ranked 565)
 | Data Logger | 4.00% | ~737 |
 | Miraculous Maya | 4.00% | ~737 |
 | Data Master | 3.00% | ~553 |
-| Brother's Reaper | 2.00% | ~368 |
-| No Belter Left Behind | 2.00% | ~368 |
-| Debris Spree | 2.00% | ~368 |
-| Data Recoverer | 2.00% | ~368 |
+| Brother's Reaper | 2.00% | ~369 |
+| No Belter Left Behind | 2.00% | ~369 |
+| Debris Spree | 2.00% | ~369 |
+| Data Recoverer | 2.00% | ~369 |
 | Urshanabi Hoarder | 1.00% | ~184 |
 | Grave Robber | 0.70% | ~129 |
 | Data Miner | 0.60% | ~111 |
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,425 (Ranked 159)  
+Progressed: 18,429 (Ranked 159)  
 Completed: 59 (0.32%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 59 (0.32%) (Ranked 249)
 | 2024-01-03 | 18,141 | 58 |
 | 2024-01-04 | 18,213 | 58 |
 | 2024-01-05 | 18,329 | 58 |
-| 2024-01-06 | 18,425 | 59 |
+| 2024-01-06 | 18,429 | 59 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -17,12 +17,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 1.00% | ~2,425 |
 | An Offering | 1.00% | ~2,425 |
 | Matching | 1.00% | ~40 |
-| Nothing To Lose | 0.90% | ~2,182 |
-| Heavy Hitter | 0.90% | ~2,182 |
-| Goodbye, Frog Friend | 0.90% | ~2,182 |
-| Heartless | 0.90% | ~2,182 |
-| Spine Breaker | 0.90% | ~2,182 |
-| Deflection | 0.90% | ~2,182 |
+| Nothing To Lose | 0.90% | ~2,183 |
+| Heavy Hitter | 0.90% | ~2,183 |
+| Goodbye, Frog Friend | 0.90% | ~2,183 |
+| Heartless | 0.90% | ~2,183 |
+| Spine Breaker | 0.90% | ~2,183 |
+| Deflection | 0.90% | ~2,183 |
 | Not Touching You | 0.90% | ~36 |
 | Ambitious Intent | 0.80% | ~1,940 |
 | Delving Deeper | 0.80% | ~1,940 |
@@ -32,16 +32,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | What's Yours Is Mine | 0.80% | ~1,940 |
 | C-C-Combo | 0.80% | ~1,940 |
 | Sneaky | 0.80% | ~1,940 |
-| Dig Your Own Grave | 0.70% | ~1,697 |
-| Who To Trust? | 0.70% | ~1,697 |
-| Walk It Off | 0.70% | ~1,697 |
-| I Am Overburdened | 0.70% | ~1,697 |
-| Destroy Your Fears | 0.70% | ~1,697 |
-| Shootout | 0.70% | ~1,697 |
-| Stone Touch | 0.70% | ~1,697 |
-| Toxic | 0.70% | ~1,697 |
-| Shadow Walker | 0.70% | ~1,697 |
-| Flesh Wound | 0.70% | ~1,697 |
+| Dig Your Own Grave | 0.70% | ~1,698 |
+| Who To Trust? | 0.70% | ~1,698 |
+| Walk It Off | 0.70% | ~1,698 |
+| I Am Overburdened | 0.70% | ~1,698 |
+| Destroy Your Fears | 0.70% | ~1,698 |
+| Shootout | 0.70% | ~1,698 |
+| Stone Touch | 0.70% | ~1,698 |
+| Toxic | 0.70% | ~1,698 |
+| Shadow Walker | 0.70% | ~1,698 |
+| Flesh Wound | 0.70% | ~1,698 |
 | Consecutive Curses | 0.60% | ~1,455 |
 | Just Chilling | 0.60% | ~1,455 |
 | Save Our Souls | 0.60% | ~1,455 |
@@ -50,15 +50,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shapeshifting | 0.60% | ~1,455 |
 | Expensive Look | 0.60% | ~24 |
 | What Doesn't Kill You | 0.60% | ~24 |
-| Shadow Spreads | 0.50% | ~1,212 |
-| To The Death! | 0.50% | ~1,212 |
-| Well Prepared | 0.50% | ~1,212 |
-| Don't Ignore Me! | 0.50% | ~1,212 |
-| All Consuming | 0.50% | ~1,212 |
-| Stop Hitting Yourself | 0.50% | ~1,212 |
-| Illuminate, Eliminate | 0.50% | ~1,212 |
-| Doing Time | 0.50% | ~1,212 |
-| Spreading Plague | 0.50% | ~1,212 |
+| Shadow Spreads | 0.50% | ~1,213 |
+| To The Death! | 0.50% | ~1,213 |
+| Well Prepared | 0.50% | ~1,213 |
+| Don't Ignore Me! | 0.50% | ~1,213 |
+| All Consuming | 0.50% | ~1,213 |
+| Stop Hitting Yourself | 0.50% | ~1,213 |
+| Illuminate, Eliminate | 0.50% | ~1,213 |
+| Doing Time | 0.50% | ~1,213 |
+| Spreading Plague | 0.50% | ~1,213 |
 | Thank You, Friend | 0.40% | ~970 |
 | Max Damage! | 0.40% | ~970 |
 | A Rough Road | 0.40% | ~970 |
@@ -68,20 +68,20 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.40% | ~970 |
 | The Long Run | 0.40% | ~970 |
 | Who Needs Luck? | 0.40% | ~16 |
-| Achievement Hunter | 0.30% | ~727 |
-| Challenge Increases | 0.30% | ~727 |
-| New Game+ | 0.30% | ~727 |
-| Barbecue | 0.30% | ~727 |
-| Soul Stash | 0.30% | ~727 |
-| Juggernaut | 0.30% | ~727 |
-| Clearing The Room | 0.30% | ~727 |
-| Decisions, Decisions | 0.30% | ~727 |
-| Fragile Mortality | 0.30% | ~727 |
-| Fire Away! | 0.30% | ~727 |
-| Defuser | 0.30% | ~727 |
-| Obsessed | 0.30% | ~727 |
-| Sentimental Value | 0.30% | ~727 |
-| Precious | 0.30% | ~727 |
+| Achievement Hunter | 0.30% | ~728 |
+| Challenge Increases | 0.30% | ~728 |
+| New Game+ | 0.30% | ~728 |
+| Barbecue | 0.30% | ~728 |
+| Soul Stash | 0.30% | ~728 |
+| Juggernaut | 0.30% | ~728 |
+| Clearing The Room | 0.30% | ~728 |
+| Decisions, Decisions | 0.30% | ~728 |
+| Fragile Mortality | 0.30% | ~728 |
+| Fire Away! | 0.30% | ~728 |
+| Defuser | 0.30% | ~728 |
+| Obsessed | 0.30% | ~728 |
+| Sentimental Value | 0.30% | ~728 |
+| Precious | 0.30% | ~728 |
 | Raw Power | 0.30% | ~12 |
 | A Long Climb | 0.20% | ~485 |
 | Hydrophobe | 0.20% | ~485 |
@@ -103,39 +103,39 @@ Number of Ratings: 15,086  (23.09.2022)
 | Champion of the Day | 0.20% | ~485 |
 | Diviner | 0.20% | ~8 |
 | Nuclear | 0.20% | ~8 |
-| Quick Descent | 0.10% | ~242 |
-| A Week Attempt | 0.10% | ~242 |
-| Disposal | 0.10% | ~242 |
-| Hanging On | 0.10% | ~242 |
-| A Hard Carry | 0.10% | ~242 |
-| Powerful Potion | 0.10% | ~242 |
-| For Science | 0.10% | ~242 |
-| Here Comes The Airplane | 0.10% | ~242 |
-| Blizzard | 0.10% | ~242 |
-| Overthrown | 0.10% | ~242 |
-| Poor Choices | 0.10% | ~242 |
-| Not What I Meant | 0.10% | ~242 |
-| A Rock And A Hard Place | 0.10% | ~242 |
-| Illuminate, Annihilate | 0.10% | ~242 |
-| Never Too Many Hats | 0.10% | ~242 |
-| Master of Strategy | 0.10% | ~242 |
-| Good Boys | 0.10% | ~242 |
-| Need An Antidote? | 0.10% | ~242 |
-| Sprinter | 0.10% | ~242 |
-| The Tickler | 0.10% | ~242 |
-| Masochist | 0.10% | ~242 |
-| Minimalist | 0.10% | ~242 |
-| Near Death Experience | 0.10% | ~242 |
-| Down Under | 0.10% | ~242 |
-| Only The Best | 0.10% | ~242 |
-| Mastermind | 0.10% | ~242 |
-| No Swapsies | 0.10% | ~242 |
-| Ignoring Midgame | 0.10% | ~242 |
-| Quick To Pick | 0.10% | ~242 |
-| Tunnel Vision | 0.10% | ~242 |
-| Martial Master | 0.10% | ~242 |
-| Nudie Run | 0.10% | ~242 |
-| You Call That A Knife? | 0.10% | ~242 |
+| Quick Descent | 0.10% | ~243 |
+| A Week Attempt | 0.10% | ~243 |
+| Disposal | 0.10% | ~243 |
+| Hanging On | 0.10% | ~243 |
+| A Hard Carry | 0.10% | ~243 |
+| Powerful Potion | 0.10% | ~243 |
+| For Science | 0.10% | ~243 |
+| Here Comes The Airplane | 0.10% | ~243 |
+| Blizzard | 0.10% | ~243 |
+| Overthrown | 0.10% | ~243 |
+| Poor Choices | 0.10% | ~243 |
+| Not What I Meant | 0.10% | ~243 |
+| A Rock And A Hard Place | 0.10% | ~243 |
+| Illuminate, Annihilate | 0.10% | ~243 |
+| Never Too Many Hats | 0.10% | ~243 |
+| Master of Strategy | 0.10% | ~243 |
+| Good Boys | 0.10% | ~243 |
+| Need An Antidote? | 0.10% | ~243 |
+| Sprinter | 0.10% | ~243 |
+| The Tickler | 0.10% | ~243 |
+| Masochist | 0.10% | ~243 |
+| Minimalist | 0.10% | ~243 |
+| Near Death Experience | 0.10% | ~243 |
+| Down Under | 0.10% | ~243 |
+| Only The Best | 0.10% | ~243 |
+| Mastermind | 0.10% | ~243 |
+| No Swapsies | 0.10% | ~243 |
+| Ignoring Midgame | 0.10% | ~243 |
+| Quick To Pick | 0.10% | ~243 |
+| Tunnel Vision | 0.10% | ~243 |
+| Martial Master | 0.10% | ~243 |
+| Nudie Run | 0.10% | ~243 |
+| You Call That A Knife? | 0.10% | ~243 |
 | Scrounger Appreciation | 0.10% | ~4 |
 | Explosives Expert | 0.10% | ~4 |
 | All Natural | 0.10% | ~4 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,498 (Ranked 72)  
+Progressed: 242,503 (Ranked 72)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-03 | 242,304 | 303 |
 | 2024-01-04 | 242,358 | 304 |
 | 2024-01-05 | 242,422 | 304 |
-| 2024-01-06 | 242,498 | 304 |
+| 2024-01-06 | 242,503 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

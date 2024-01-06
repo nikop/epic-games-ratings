@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -1701,9 +1701,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 220
     },
     {
       "ID": "AC_BOSS_01",
@@ -1797,9 +1797,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 212
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1821,17 +1821,17 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 326
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 184
+      "UsersEstimate": 188
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1933,9 +1933,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 167
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1972,8 +1972,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:07:44.637263+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:06:22.4678155+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:58:15.3269745+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:07:44.6372963+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:57:59.8317787+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:06:22.4678558+00:00"
 }

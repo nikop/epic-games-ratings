@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8035,10 +8035,10 @@
       "Count": 3815
     }
   ],
-  "EOS_Progressed": 149967,
-  "EOS_Completed": 344,
-  "EOS_NewPlayers": 1465,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 149973,
+  "EOS_Completed": 345,
+  "EOS_NewPlayers": 1455,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -35620,6 +35620,11 @@
       "Time": "2024-01-06T20:08:33.479805+00:00",
       "NumProgressed": 149967,
       "NumCompleted": 344
+    },
+    {
+      "Time": "2024-01-06T21:08:35.1004357+00:00",
+      "NumProgressed": 149973,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -35711,7 +35716,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7498
+      "UsersEstimate": 7499
     },
     {
       "ID": "bigsale02",
@@ -35735,7 +35740,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7498
+      "UsersEstimate": 7499
     },
     {
       "ID": "blueprint02",
@@ -35863,7 +35868,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13497
+      "UsersEstimate": 13498
     },
     {
       "ID": "commonres02",
@@ -36103,7 +36108,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13497
+      "UsersEstimate": 13498
     },
     {
       "ID": "gold02",
@@ -36111,7 +36116,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7498
+      "UsersEstimate": 7499
     },
     {
       "ID": "gold03",
@@ -36183,7 +36188,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7498
+      "UsersEstimate": 7499
     },
     {
       "ID": "jackslot02",
@@ -36526,15 +36531,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149967,
-      "Completed": 344
+      "Progressed": 149973,
+      "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-06T20:03:26.2385153+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:08:33.4798046+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:08:35.1004355+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:03:26.2385163+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:08:33.4800256+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:03:23.7147677+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:08:35.100652+00:00"
 }

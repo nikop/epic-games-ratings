@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.70% | ~113 |
 | Christianity | 0.70% | ~113 |
 | Babylonian Paganism | 0.70% | ~113 |
+| Roman Paganism | 0.70% | ~113 |
 | Regicide | 0.60% | ~97 |
 | Wise | 0.60% | ~97 |
 | Able Difficulty | 0.60% | ~97 |
@@ -48,8 +49,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.60% | ~97 |
 | Great Ziggurat | 0.60% | ~97 |
 | Lighthouse | 0.60% | ~97 |
+| Learn to Play 2 | 0.60% | ~97 |
 | Carthaginian Paganism | 0.60% | ~97 |
-| Roman Paganism | 0.60% | ~97 |
 | Zoroastrianism | 0.60% | ~97 |
 | Drillmaster | 0.50% | ~81 |
 | Great | 0.50% | ~81 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.50% | ~81 |
 | Musaeum | 0.50% | ~81 |
 | Necropolis | 0.50% | ~81 |
-| Learn to Play 2 | 0.50% | ~81 |
 | Manichaeism | 0.50% | ~81 |
 | Egyptian Paganism | 0.50% | ~81 |
 | Hanging Gardens in Babylon | 0.40% | ~65 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,157 (Ranked 167)  
+Progressed: 16,158 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
-| 2024-01-06 | 16,157 | 5 |
+| 2024-01-06 | 16,158 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,915 (Ranked 222)  

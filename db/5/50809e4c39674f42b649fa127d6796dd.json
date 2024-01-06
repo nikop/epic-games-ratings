@@ -3,9 +3,9 @@
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 513,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_NewPlayers": 11,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-10-18T09:06:38.9917479+00:00",
@@ -1457,6 +1457,11 @@
       "Time": "2024-01-06T08:06:06.6025524+00:00",
       "NumProgressed": 512,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T21:06:36.0398469+00:00",
+      "NumProgressed": 513,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1469,7 +1474,7 @@
       "Name": "Combo Crackerjack",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND1",
@@ -1485,7 +1490,7 @@
       "Name": "Ares Island Explorer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
@@ -1525,7 +1530,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1571,9 +1576,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 416
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1629,7 +1634,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1661,7 +1666,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1685,7 +1690,7 @@
       "Name": "Ares Island Memories",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD3",
@@ -1788,14 +1793,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 513,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:08:04.423446+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:06:36.0398467+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:07.7248276+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:03:20.7297157+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:08:04.4234765+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:03:20.1740409+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:06:36.0398784+00:00"
 }

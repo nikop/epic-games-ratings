@@ -20,9 +20,9 @@ Rating: 4.55 (Ranked 526)
 | Ferocious wild boars | 23.00% | ~39 |
 | Beast slayer | 21.00% | ~36 |
 | Death of a legend | 19.00% | ~32 |
+| Family man | 18.00% | ~31 |
 | Archaeologist | 18.00% | ~31 |
 | Ogre friend | 18.00% | ~31 |
-| Family man | 17.00% | ~29 |
 | Wise man | 16.00% | ~27 |
 | Little hero | 16.00% | ~27 |
 | Hard worker | 16.00% | ~27 |
@@ -32,8 +32,8 @@ Rating: 4.55 (Ranked 526)
 | Ghost hunter | 14.00% | ~24 |
 | Master detective | 14.00% | ~24 |
 | Pandora's box | 13.00% | ~22 |
+| Defender | 12.00% | ~20 |
 | Peacekeeper | 12.00% | ~20 |
-| Defender | 11.00% | ~19 |
 | Workaholic | 11.00% | ~19 |
 | Safecracker | 10.00% | ~17 |
 | Freedom fighter | 9.00% | ~15 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 526)
 | Master thief | 9.00% | ~15 |
 | King of the handymen | 8.00% | ~14 |
 | Titan Lord | 7.00% | ~12 |
+| Expert | 7.00% | ~12 |
 | Terror of the hens | 6.00% | ~10 |
-| Expert | 6.00% | ~10 |
 | Moneybags | 6.00% | ~10 |
 | The traveler | 5.00% | ~8 |
 | King Midas | 5.00% | ~8 |

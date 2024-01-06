@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Stilesville | 96.00% | ~144 |
+| Welcome to Stilesville | 97.00% | ~146 |
 | Talented Performer | 55.00% | ~82 |
 | Welcome to Barcelona | 54.00% | ~81 |
 | We will need a bigger wardrobe | 41.00% | ~61 |
@@ -13,9 +13,9 @@
 | Welcome to Seoul | 36.00% | ~54 |
 | Stilesville Hidden Style | 34.00% | ~51 |
 | Creating New Trends | 26.00% | ~39 |
+| Scooter Race | 26.00% | ~39 |
 | Best Gala Ever | 25.00% | ~38 |
 | Welcome to the The Stylin' Soiree | 25.00% | ~38 |
-| Scooter Race | 25.00% | ~38 |
 | Barcelona Hidden Style | 20.00% | ~30 |
 | Seoul Hidden Style | 15.00% | ~22 |
 | Hoverboard Race | 7.00% | ~11 |

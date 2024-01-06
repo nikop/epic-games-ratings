@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 613)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,671 |
+| Stylish | 11.00% | ~3,672 |
 | Meticulously Efficient | 9.00% | ~3,004 |
 | Advancement | 8.00% | ~2,670 |
 | Discovery | 6.00% | ~2,003 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 613)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,376 (Ranked 136)  
+Progressed: 33,378 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,17 +318,17 @@ Completed: 71 (0.21%) (Ranked 272)
 | 2024-01-03 | 33,206 | 71 |
 | 2024-01-04 | 33,258 | 71 |
 | 2024-01-05 | 33,310 | 71 |
-| 2024-01-06 | 33,376 | 71 |
+| 2024-01-06 | 33,378 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 255)  
-Sum: 2,951 (Ranked 186)  
+Sum: 2,952 (Ranked 186)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 328 |
 | This game is Great for Beginners | 327 |
 | This game has Diverse Characters | 312 |
-| This game has Amazing Storytelling | 293 |
+| This game has Amazing Storytelling | 294 |
 | This game is Highly Recommended | 292 |
 | This game has Competitive Players | 286 |
 | This game is Extremely Fun | 285 |
@@ -598,4 +598,4 @@ Diff (max vs sum): 69
 | 2024-01-03 | 4.50 | 327 | 2,948 |
 | 2024-01-04 | 4.50 | 327 | 2,949 |
 | 2024-01-05 | 4.50 | 327 | 2,950 |
-| 2024-01-06 | 4.50 | 328 | 2,951 |
+| 2024-01-06 | 4.50 | 328 | 2,952 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1523,9 +1523,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430219,
+  "EOS_Progressed": 430221,
   "EOS_Completed": 555,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -18878,6 +18878,11 @@
       "Time": "2024-01-06T20:03:44.5675739+00:00",
       "NumProgressed": 430219,
       "NumCompleted": 555
+    },
+    {
+      "Time": "2024-01-06T21:03:36.3265938+00:00",
+      "NumProgressed": 430221,
+      "NumCompleted": 555
     }
   ],
   "TotalAchievements": 41,
@@ -18897,7 +18902,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167785
+      "UsersEstimate": 167786
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -18905,7 +18910,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258131
+      "UsersEstimate": 258133
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -18929,7 +18934,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 180692
+      "UsersEstimate": 180693
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -18969,7 +18974,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258131
+      "UsersEstimate": 258133
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -19001,7 +19006,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 133368
+      "UsersEstimate": 133369
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -19025,7 +19030,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 202203
+      "UsersEstimate": 202204
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -19057,7 +19062,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 408708
+      "UsersEstimate": 408710
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -19073,7 +19078,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309758
+      "UsersEstimate": 309759
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -19081,7 +19086,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 159181
+      "UsersEstimate": 159182
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -19089,7 +19094,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 301153
+      "UsersEstimate": 301155
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -19105,7 +19110,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 344175
+      "UsersEstimate": 344177
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -19137,7 +19142,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197901
+      "UsersEstimate": 197902
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -19145,7 +19150,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141972
+      "UsersEstimate": 141973
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -19153,7 +19158,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 116159
+      "UsersEstimate": 116160
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -19161,7 +19166,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120461
+      "UsersEstimate": 120462
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -19169,7 +19174,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240923
+      "UsersEstimate": 240924
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -19177,7 +19182,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 189296
+      "UsersEstimate": 189297
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -19185,7 +19190,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 146274
+      "UsersEstimate": 146275
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -19193,7 +19198,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 116159
+      "UsersEstimate": 116160
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -19201,7 +19206,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 133368
+      "UsersEstimate": 133369
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -19216,15 +19221,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 430219,
+      "Progressed": 430221,
       "Completed": 555
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-06T15:59:33.3577619+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:03:44.5675736+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:03:36.3265935+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.4551903+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:01:03.2549252+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:03:44.5676577+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:59:48.9052274+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:03:36.3267086+00:00"
 }

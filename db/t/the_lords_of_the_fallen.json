@@ -4,11 +4,11 @@
   "ProductSlug": "lords-of-the-fallen",
   "Ranking_Rating": 961,
   "Ranking_Popularity": 227,
-  "Ranking_PopularitySum": 268,
+  "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -1501,10 +1501,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 1064,
       "NumberOfAwardsMax": 457
+    },
+    {
+      "Time": "2024-01-06T20:58:47.7025018+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 1076,
+      "NumberOfAwardsMax": 457
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1064,
+  "NumberOfAwards": 1076,
   "NumberOfAwardsMax": 457,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1518,7 +1524,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 308
+      "Count": 319
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1530,7 +1536,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1581,9 +1587,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11686,
+  "EOS_Progressed": 11712,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2164,
+  "EOS_NewPlayers": 2159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8141,6 +8147,11 @@
       "Time": "2024-01-06T20:09:32.9132037+00:00",
       "NumProgressed": 11686,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-06T21:09:16.5944002+00:00",
+      "NumProgressed": 11712,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -8656,16 +8667,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 11686,
+      "Progressed": 11712,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2024-01-06T18:58:38.0722947+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:09:32.9132033+00:00",
+  "LastChanged": "2024-01-06T20:58:47.7025017+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:09:16.5943999+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:08.2831107+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:59:26.5974098+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:09:32.913275+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:58:47.7025022+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:09:16.5945003+00:00"
 }

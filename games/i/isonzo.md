@@ -6,24 +6,24 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,999 |
-| Tutti Eroi! | 50.00% | ~4,901 |
-| Peak Performance | 45.00% | ~4,411 |
-| Avanti Savoia! | 44.00% | ~4,313 |
+| You Shall Not Pass | 51.00% | ~5,000 |
+| Tutti Eroi! | 50.00% | ~4,902 |
+| Peak Performance | 45.00% | ~4,412 |
+| Avanti Savoia! | 44.00% | ~4,314 |
 | Mamma Mia! | 35.00% | ~3,431 |
 | Conrad von Hotzensocks | 32.00% | ~3,137 |
 | Gabriele D'Annunzio | 32.00% | ~3,137 |
 | Silver Lining | 27.00% | ~2,647 |
-| Aurelio Baruzzi | 21.00% | ~2,058 |
-| Decimation | 20.00% | ~1,960 |
-| Donatello | 19.00% | ~1,862 |
-| Insubordination | 19.00% | ~1,862 |
-| The Italian Job | 19.00% | ~1,862 |
-| Veni Vidi Vici | 19.00% | ~1,862 |
-| Ragazzi del '99 | 17.00% | ~1,666 |
-| Luigi Cadorna | 16.00% | ~1,568 |
-| The Lion of the Isonzo | 14.00% | ~1,372 |
-| Uomo Universale | 13.00% | ~1,274 |
+| Aurelio Baruzzi | 21.00% | ~2,059 |
+| Decimation | 20.00% | ~1,961 |
+| Donatello | 19.00% | ~1,863 |
+| Insubordination | 19.00% | ~1,863 |
+| The Italian Job | 19.00% | ~1,863 |
+| Veni Vidi Vici | 19.00% | ~1,863 |
+| Ragazzi del '99 | 17.00% | ~1,667 |
+| Luigi Cadorna | 16.00% | ~1,569 |
+| The Lion of the Isonzo | 14.00% | ~1,373 |
+| Uomo Universale | 13.00% | ~1,275 |
 | Die Bosniaken Kommen! | 12.00% | ~1,176 |
 | Dirty Dozen | 12.00% | ~1,176 |
 | Shaken, Not Stirred | 12.00% | ~1,176 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,802 (Ranked 182)  
+Progressed: 9,804 (Ranked 182)  
 Completed: 10 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,11 +307,11 @@ Completed: 10 (0.10%) (Ranked 308)
 | 2024-01-03 | 9,754 | 10 |
 | 2024-01-04 | 9,768 | 10 |
 | 2024-01-05 | 9,787 | 10 |
-| 2024-01-06 | 9,802 | 10 |
+| 2024-01-06 | 9,804 | 10 |
 ## Awards
-Max (Diverse Characters): 42  (Ranked 478)  
+Max (Diverse Characters): 42  (Ranked 477)  
 Sum: 338 (Ranked 371)  
-Diff (max vs sum): 107  
+Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 42 |

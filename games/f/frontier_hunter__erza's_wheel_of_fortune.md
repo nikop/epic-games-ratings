@@ -11,8 +11,8 @@ Rating: 4.38 (Ranked 790)
 | Storm Traveller | 60.00% | ~434 |
 | Wolf King Killer | 54.00% | ~391 |
 | Fashion Connoisseur | 52.00% | ~376 |
-| Arms Mechanic | 48.00% | ~348 |
-| Flower Thief | 43.00% | ~311 |
+| Arms Mechanic | 49.00% | ~355 |
+| Flower Thief | 44.00% | ~319 |
 | Apostle of Flame | 39.00% | ~282 |
 | Beginner Cook | 37.00% | ~268 |
 | Beginner Artificer | 37.00% | ~268 |
@@ -31,7 +31,7 @@ Rating: 4.38 (Ranked 790)
 | Master Artificer | 17.00% | ~123 |
 | Kind Adventurer | 15.00% | ~109 |
 | Mermaid Killer | 15.00% | ~109 |
-| Cave Master | 14.00% | ~101 |
+| Cave Master | 15.00% | ~109 |
 | Face Slapper | 14.00% | ~101 |
 | Boss challenge | 11.00% | ~80 |
 | Berserker Slayer | 11.00% | ~80 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 790)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724 (Ranked 316)  
+Progressed: 724 (Ranked 317)  
 Completed: 3 (0.41%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,10 +2,10 @@
   "ID": "72a2d3937aaf45b082fc20ad5b6703ae",
   "Name": "The Making of Karateka",
   "ProductSlug": "the-making-of-karateka-7d9a6c",
-  "Ranking_EOS_Progress": 583,
+  "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
     "PcReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34,
+  "EOS_Progressed": 35,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -199,6 +199,11 @@
       "Time": "2024-01-05T01:52:13.4909041+00:00",
       "NumProgressed": 34,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T21:06:15.1448831+00:00",
+      "NumProgressed": 35,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-17T00:04:53.817175+00:00",
@@ -217,7 +222,7 @@
       "ID": "deathbouncer",
       "SetID": "l4g2eh",
       "Name": "Deathbouncer",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -241,7 +246,7 @@
       "ID": "feather_cap",
       "SetID": "l4g2eh",
       "Name": "Feather in Your Cap",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -273,7 +278,7 @@
       "ID": "little_star",
       "SetID": "l4g2eh",
       "Name": "Little Star",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -289,7 +294,7 @@
       "ID": "modern_hero",
       "SetID": "l4g2eh",
       "Name": "Modern Hero",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 80,
       "UsersEstimate": 4
     },
@@ -305,9 +310,9 @@
       "ID": "one_down",
       "SetID": "l4g2eh",
       "Name": "One Down",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "original",
@@ -321,7 +326,7 @@
       "ID": "ran_trouble",
       "SetID": "l4g2eh",
       "Name": "Ran Into Trouble",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -362,14 +367,14 @@
     {
       "ID": "l4g2eh",
       "IsBase": true,
-      "Progressed": 34,
+      "Progressed": 35,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:07:34.2550746+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:06:15.1448829+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:02.6507763+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:58:19.4635725+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:07:34.2550858+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:58:02.5476668+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:06:15.1448951+00:00"
 }

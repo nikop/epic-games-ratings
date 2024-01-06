@@ -3,12 +3,12 @@
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
   "Ranking_Rating": 879,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -158,7 +158,7 @@
   "Tags": [],
   "EOS_Progressed": 625,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2427,8 +2427,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:09:44.1919926+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:09:24.0783538+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.8569887+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:00:46.5647302+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:09:44.192025+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:59:39.2444136+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:09:24.0783861+00:00"
 }

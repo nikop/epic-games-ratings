@@ -5,9 +5,9 @@ Rating: 4.62 (Ranked 378)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 15.00% | ~1,046 |
-| Realm Estate | 14.00% | ~976 |
-| A Wonderful Discovery | 13.00% | ~906 |
+| Secret Technique | 15.00% | ~1,047 |
+| Realm Estate | 14.00% | ~977 |
+| A Wonderful Discovery | 13.00% | ~907 |
 | Walls Cannot Stop Us | 12.00% | ~837 |
 | From Friends to Family | 11.00% | ~767 |
 | Bone Peddler | 9.00% | ~628 |
@@ -16,9 +16,9 @@ Rating: 4.62 (Ranked 378)
 | Full Ascension | 7.00% | ~488 |
 | Stronger Together | 7.00% | ~488 |
 | Seat of Power | 7.00% | ~488 |
-| Valley of Wonders | 6.00% | ~418 |
-| In a Liege of Your Own | 6.00% | ~418 |
-| Intimidation Tactics | 6.00% | ~418 |
+| Valley of Wonders | 6.00% | ~419 |
+| In a Liege of Your Own | 6.00% | ~419 |
+| Intimidation Tactics | 6.00% | ~419 |
 | But this one is mine | 5.00% | ~349 |
 | Return of the Wizard King | 4.00% | ~279 |
 | Enchanted Archipelago | 4.00% | ~279 |
@@ -30,18 +30,18 @@ Rating: 4.62 (Ranked 378)
 | Fiery Friend | 3.00% | ~209 |
 | Tipping the Scales | 3.00% | ~209 |
 | Freed Lands of Manuhari | 3.00% | ~209 |
-| God Emperor | 2.00% | ~139 |
-| Arch Mage | 2.00% | ~139 |
-| The Creator | 2.00% | ~139 |
-| Eternal Lord | 2.00% | ~139 |
-| Crimson Caldera | 2.00% | ~139 |
-| The Eternal Court | 2.00% | ~139 |
-| Here be Dragons | 2.00% | ~139 |
-| Blood of the Dragon | 2.00% | ~139 |
-| Mighty Hoard | 2.00% | ~139 |
-| Sehiran Oasis | 2.00% | ~139 |
-| Chaos Surge | 2.00% | ~139 |
-| Spoils of War | 2.00% | ~139 |
+| God Emperor | 2.00% | ~140 |
+| Arch Mage | 2.00% | ~140 |
+| The Creator | 2.00% | ~140 |
+| Eternal Lord | 2.00% | ~140 |
+| Crimson Caldera | 2.00% | ~140 |
+| The Eternal Court | 2.00% | ~140 |
+| Here be Dragons | 2.00% | ~140 |
+| Blood of the Dragon | 2.00% | ~140 |
+| Mighty Hoard | 2.00% | ~140 |
+| Sehiran Oasis | 2.00% | ~140 |
+| Chaos Surge | 2.00% | ~140 |
+| Spoils of War | 2.00% | ~140 |
 | I've Got Everything I Need Right Here | 1.00% | ~70 |
 | Lord of Chaos | 1.00% | ~70 |
 | The Goddess of Nature | 1.00% | ~70 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,973 (Ranked 196)  
+Progressed: 6,977 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,11 +295,11 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
-| 2024-01-06 | 6,973 | 7 |
+| 2024-01-06 | 6,977 | 7 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 481)  
+Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 210 (Ranked 411)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |

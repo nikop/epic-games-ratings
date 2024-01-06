@@ -4,8 +4,8 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -696,9 +696,9 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -872,9 +872,9 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "bad_ending",
@@ -1009,8 +1009,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:05:26.525928+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:04:45.5828534+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.5094104+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:01:06.8656567+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:05:26.5259514+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:59:51.2233771+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:04:45.5828755+00:00"
 }

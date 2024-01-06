@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Too Cool For School | 86.00% | ~173 |
-| Caretaker | 85.00% | ~171 |
+| Caretaker | 85.00% | ~172 |
+| Too Cool For School | 85.00% | ~172 |
 | Feng Shui | 72.00% | ~145 |
 | Who's A Good Boy | 71.00% | ~143 |
-| Power Up | 71.00% | ~143 |
-| Thick Skin | 69.00% | ~139 |
-| Math Wizard | 67.00% | ~135 |
-| Destroy Erase Improve | 67.00% | ~135 |
-| Power Overload | 64.00% | ~129 |
-| Quite A Snack | 61.00% | ~123 |
-| Impenetrable Skin | 57.00% | ~115 |
-| Overwhelming Power | 55.00% | ~111 |
-| Chomp Chomp! | 47.00% | ~94 |
-| Supreme Power | 46.00% | ~92 |
-| The Duelist | 44.00% | ~88 |
-| Diaper Time! | 44.00% | ~88 |
-| Target Practice | 44.00% | ~88 |
-| Glorious Battle | 43.00% | ~86 |
-| Meat Larder | 40.00% | ~80 |
-| Mutant And Proud | 39.00% | ~78 |
-| The Emperor's New Clothes | 33.00% | ~66 |
-| You Shall Not Pass | 32.00% | ~64 |
-| Happy Little Home | 32.00% | ~64 |
-| Final Evolution | 32.00% | ~64 |
-| Animal Lover | 31.00% | ~62 |
-| Godlike Power | 31.00% | ~62 |
-| Undying Skin | 31.00% | ~62 |
-| Fight Me! | 30.00% | ~60 |
-| Supremacy | 30.00% | ~60 |
-| Mommy's Very Angry | 29.00% | ~58 |
-| Loyal Companion | 27.00% | ~54 |
-| Back To The Future | 26.00% | ~52 |
+| Power Up | 70.00% | ~141 |
+| Thick Skin | 68.00% | ~137 |
+| Math Wizard | 66.00% | ~133 |
+| Destroy Erase Improve | 66.00% | ~133 |
+| Power Overload | 63.00% | ~127 |
+| Quite A Snack | 60.00% | ~121 |
+| Impenetrable Skin | 56.00% | ~113 |
+| Overwhelming Power | 54.00% | ~109 |
+| Chomp Chomp! | 47.00% | ~95 |
+| Supreme Power | 46.00% | ~93 |
+| The Duelist | 44.00% | ~89 |
+| Diaper Time! | 44.00% | ~89 |
+| Target Practice | 44.00% | ~89 |
+| Glorious Battle | 43.00% | ~87 |
+| Meat Larder | 40.00% | ~81 |
+| Mutant And Proud | 39.00% | ~79 |
+| The Emperor's New Clothes | 33.00% | ~67 |
+| You Shall Not Pass | 32.00% | ~65 |
+| Happy Little Home | 32.00% | ~65 |
+| Final Evolution | 32.00% | ~65 |
+| Animal Lover | 31.00% | ~63 |
+| Godlike Power | 31.00% | ~63 |
+| Undying Skin | 31.00% | ~63 |
+| Fight Me! | 30.00% | ~61 |
+| Supremacy | 30.00% | ~61 |
+| Mommy's Very Angry | 29.00% | ~59 |
+| Loyal Companion | 27.00% | ~55 |
+| Back To The Future | 26.00% | ~53 |
 | Immortal Skin | 25.00% | ~50 |
 | Lunch Before The Lunch | 23.00% | ~46 |
 | Fire Beacon | 23.00% | ~46 |
@@ -58,7 +58,7 @@
 | Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201 (Ranked 426)  
+Progressed: 202 (Ranked 426)  
 Completed: 1 (0.50%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 1 (0.50%) (Ranked 219)
 | 2023-12-28 | 199 | 1 |
 | 2023-12-29 | 200 | 1 |
 | 2023-12-30 | 201 | 1 |
+| 2024-01-06 | 202 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

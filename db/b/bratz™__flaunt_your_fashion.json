@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -620,9 +620,9 @@
       "ID": "1",
       "SetID": "41h3j82",
       "Name": "Welcome to Stilesville",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "10",
@@ -740,9 +740,9 @@
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "7",
@@ -781,8 +781,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:05:13.2878142+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:04:36.3022295+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:52.6103683+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:58:50.0664775+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:05:13.2878292+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:58:23.3396796+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:04:36.3022397+00:00"
 }

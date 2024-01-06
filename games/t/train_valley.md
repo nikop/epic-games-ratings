@@ -6,14 +6,14 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~485 |
-| Close call! | 71.00% | ~453 |
-| Builder | 51.00% | ~325 |
+| Getting started | 76.00% | ~486 |
+| Close call! | 71.00% | ~454 |
+| Builder | 51.00% | ~326 |
 | Living it large! | 44.00% | ~281 |
-| Pangs of conscience | 43.00% | ~274 |
+| Pangs of conscience | 43.00% | ~275 |
 | Collector | 42.00% | ~268 |
 | Need to think | 41.00% | ~262 |
-| Completely nuts! | 40.00% | ~255 |
+| Completely nuts! | 40.00% | ~256 |
 | Europe | 32.00% | ~204 |
 | Just in time! | 32.00% | ~204 |
 | Madness! | 31.00% | ~198 |
@@ -29,9 +29,9 @@ Number of Ratings: 28  (23.09.2022)
 | Sabotage | 15.00% | ~96 |
 | Achtung! | 12.00% | ~77 |
 | Japan | 11.00% | ~70 |
+| Tycoon | 10.00% | ~64 |
 | Woodcutter | 10.00% | ~64 |
 | Engineer | 10.00% | ~64 |
-| Tycoon | 9.00% | ~57 |
 | Germany | 7.00% | ~45 |
 | Сhancellor | 5.00% | ~32 |
 | Supercrash! | 5.00% | ~32 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~4 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 638 (Ranked 333)  
+Progressed: 639 (Ranked 333)  
 Completed: 2 (0.31%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 2 (0.31%) (Ranked 251)
 | 2024-01-03 | 627 | 2 |
 | 2024-01-04 | 630 | 2 |
 | 2024-01-05 | 632 | 2 |
-| 2024-01-06 | 638 | 2 |
+| 2024-01-06 | 639 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

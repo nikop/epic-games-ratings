@@ -6,7 +6,7 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~357 |
+| Green with Envy | 78.00% | ~362 |
 | First of many… | 67.00% | ~311 |
 | Helping Hand | 64.00% | ~297 |
 | Increased Vigor | 59.00% | ~274 |
@@ -17,15 +17,15 @@ Number of Ratings: 116  (23.09.2022)
 | All That Glitters | 44.00% | ~204 |
 | Enhance! | 41.00% | ~190 |
 | One Of the Chosen | 39.00% | ~181 |
+| Throne Potato | 39.00% | ~181 |
 | Five's a Crowd | 39.00% | ~181 |
 | Devil's in the Details | 38.00% | ~176 |
-| Throne Potato | 38.00% | ~176 |
 | 25 to Life | 38.00% | ~176 |
 | Salvation | 37.00% | ~172 |
 | Soul Harvester | 35.00% | ~162 |
 | Unshakable Fortitude | 34.00% | ~158 |
+| I Wanna Rock | 33.00% | ~153 |
 | Delusions of Grandeur | 33.00% | ~153 |
-| I Wanna Rock | 32.00% | ~148 |
 | Love Tap | 31.00% | ~144 |
 | Maximum Vigor | 30.00% | ~139 |
 | For Whom the Bell Tolls | 28.00% | ~130 |
@@ -95,8 +95,8 @@ Completed: 2 (0.43%) (Ranked 233)
 | 2024-01-05 | 444 | 1 |
 | 2024-01-06 | 464 | 2 |
 ## Awards
-Max (Great Boss Battles): 96  (Ranked 388)  
-Sum: 96 (Ranked 472)  
+Max (Great Boss Battles): 96  (Ranked 387)  
+Sum: 96 (Ranked 471)  
 Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |

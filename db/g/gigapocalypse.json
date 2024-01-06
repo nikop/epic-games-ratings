@@ -4,8 +4,8 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201,
+  "EOS_Progressed": 202,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -466,6 +466,11 @@
       "Time": "2023-12-30T17:06:33.9656755+00:00",
       "NumProgressed": 201,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T21:06:09.0857137+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -491,9 +496,9 @@
       "ID": "secret11",
       "SetID": "39f6ck8",
       "Name": "Math Wizard",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "secret12",
@@ -501,7 +506,7 @@
       "Name": "The Duelist",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "secret13",
@@ -509,7 +514,7 @@
       "Name": "You Shall Not Pass",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "secret14",
@@ -517,7 +522,7 @@
       "Name": "Mommy\u0027s Very Angry",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "secret15",
@@ -525,7 +530,7 @@
       "Name": "Back To The Future",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "secret16",
@@ -549,7 +554,7 @@
       "Name": "Animal Lover",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "secret19",
@@ -573,7 +578,7 @@
       "Name": "Caretaker",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "secret21",
@@ -581,7 +586,7 @@
       "Name": "Mutant And Proud",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "secret22",
@@ -589,7 +594,7 @@
       "Name": "The Emperor\u0027s New Clothes",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "secret23",
@@ -603,17 +608,17 @@
       "ID": "secret24",
       "SetID": "39f6ck8",
       "Name": "Power Up",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 141
     },
     {
       "ID": "secret25",
       "SetID": "39f6ck8",
       "Name": "Power Overload",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "secret26",
@@ -621,7 +626,7 @@
       "Name": "Supreme Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "secret27",
@@ -629,23 +634,23 @@
       "Name": "Godlike Power",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "secret28",
       "SetID": "39f6ck8",
       "Name": "Thick Skin",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 137
     },
     {
       "ID": "secret29",
       "SetID": "39f6ck8",
       "Name": "Impenetrable Skin",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "secret3",
@@ -661,7 +666,7 @@
       "Name": "Undying Skin",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "secret31",
@@ -685,7 +690,7 @@
       "Name": "Glorious Battle",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "secret34",
@@ -693,7 +698,7 @@
       "Name": "Fight Me!",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "secret35",
@@ -707,9 +712,9 @@
       "ID": "secret36",
       "SetID": "39f6ck8",
       "Name": "Overwhelming Power",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 109
     },
     {
       "ID": "secret37",
@@ -717,7 +722,7 @@
       "Name": "Meat Larder",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "secret38",
@@ -725,7 +730,7 @@
       "Name": "Loyal Companion",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "secret39",
@@ -733,7 +738,7 @@
       "Name": "Chomp Chomp!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "secret4",
@@ -749,7 +754,7 @@
       "Name": "Diaper Time!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "secret41",
@@ -757,7 +762,7 @@
       "Name": "Happy Little Home",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "secret42",
@@ -765,15 +770,15 @@
       "Name": "Final Evolution",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "secret43",
       "SetID": "39f6ck8",
       "Name": "Quite A Snack",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 121
     },
     {
       "ID": "secret44",
@@ -797,7 +802,7 @@
       "Name": "Target Practice",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "secret47",
@@ -875,17 +880,17 @@
       "ID": "secret7",
       "SetID": "39f6ck8",
       "Name": "Too Cool For School",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 172
     },
     {
       "ID": "secret8",
       "SetID": "39f6ck8",
       "Name": "Destroy Erase Improve",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "secret9",
@@ -893,14 +898,14 @@
       "Name": "Supremacy",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "39f6ck8",
       "IsBase": true,
-      "Progressed": 201,
+      "Progressed": 202,
       "Completed": 1
     }
   ],
@@ -908,8 +913,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:07:25.6166257+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:06:09.0857134+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:36.9525794+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:03:36.2335048+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:07:25.6166669+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:03:30.5808112+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:06:09.08575+00:00"
 }

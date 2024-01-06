@@ -1,15 +1,15 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.66 (Ranked 301)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponge Smasher | 21.00% | ~163 |
+| Sponge Smasher | 21.00% | ~164 |
 | Jellyfish Jam | 20.00% | ~156 |
 | Spatula Seeker | 20.00% | ~156 |
-| Jellyfishing | 16.00% | ~124 |
+| Jellyfishing | 16.00% | ~125 |
 | Sweet Victory | 12.00% | ~93 |
 | Sock Getter | 12.00% | ~93 |
 | Time For Tutorial | 12.00% | ~93 |
@@ -19,10 +19,10 @@ Number of Ratings: 76  (23.09.2022)
 | Surf's Up! | 10.00% | ~78 |
 | Squirrel Smasher | 9.00% | ~70 |
 | Life's as extreme as you wanna make it! | 8.00% | ~62 |
-| Keep it Rolling | 7.00% | ~54 |
-| Shrimp Catcher | 7.00% | ~54 |
-| Toxic Terror | 7.00% | ~54 |
-| Hit Rock Bottom | 7.00% | ~54 |
+| Keep it Rolling | 7.00% | ~55 |
+| Shrimp Catcher | 7.00% | ~55 |
+| Toxic Terror | 7.00% | ~55 |
+| Hit Rock Bottom | 7.00% | ~55 |
 | Are you ready now? | 6.00% | ~47 |
 | Hello, Bikini Bottom | 6.00% | ~47 |
 | Ultra Spatula Seeker | 6.00% | ~47 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~8 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 778 (Ranked 312)  
+Progressed: 779 (Ranked 312)  
 Completed: 7 (0.90%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,10 +63,10 @@ Completed: 7 (0.90%) (Ranked 181)
 | 2024-01-03 | 684 | 7 |
 | 2024-01-04 | 715 | 7 |
 | 2024-01-05 | 747 | 7 |
-| 2024-01-06 | 778 | 7 |
+| 2024-01-06 | 779 | 7 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 497)  
-Sum: 36 (Ranked 529)  
+Max (Great Boss Battles): 36  (Ranked 496)  
+Sum: 36 (Ranked 528)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -134,3 +134,4 @@ Diff (max vs sum): -32
 | 2023-12-31 | 4.65 | - | 35 | 35 |
 | 2024-01-01 | 4.65 | - | 36 | 36 |
 | 2024-01-04 | 4.66 | - | 36 | 36 |
+| 2024-01-06 | 4.65 | - | 36 | 36 |

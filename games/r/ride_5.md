@@ -5,28 +5,28 @@ Rating: 4.46 (Ranked 675)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 49.00% | ~1,646 |
-| First Love | 44.00% | ~1,478 |
-| Clean Race | 44.00% | ~1,478 |
-| Hear That Roar! | 42.00% | ~1,411 |
-| Rivals to the End | 31.00% | ~1,042 |
-| Bitter Rivalry | 30.00% | ~1,008 |
-| Champagne Spray | 29.00% | ~974 |
+| Eat My Dust | 49.00% | ~1,648 |
+| First Love | 44.00% | ~1,480 |
+| Clean Race | 44.00% | ~1,480 |
+| Hear That Roar! | 42.00% | ~1,412 |
+| Rivals to the End | 31.00% | ~1,043 |
+| Bitter Rivalry | 30.00% | ~1,009 |
+| Champagne Spray | 29.00% | ~975 |
 | We're Going to Need a Bigger Garage | 26.00% | ~874 |
-| Quick Pit Stop | 22.00% | ~739 |
-| Restored and Ready | 20.00% | ~672 |
-| I Want One Too! | 20.00% | ~672 |
-| Legendary!!! | 20.00% | ~672 |
-| Go-Faster Stripes | 17.00% | ~571 |
+| Quick Pit Stop | 22.00% | ~740 |
+| Restored and Ready | 20.00% | ~673 |
+| I Want One Too! | 20.00% | ~673 |
+| Legendary!!! | 20.00% | ~673 |
+| Go-Faster Stripes | 17.00% | ~572 |
 | I'm Here Too! | 15.00% | ~504 |
-| We've Just Begun | 14.00% | ~470 |
-| Is It the Right Size? | 9.00% | ~302 |
+| We've Just Begun | 14.00% | ~471 |
+| Is It the Right Size? | 9.00% | ~303 |
 | Stamina Star | 8.00% | ~269 |
 | Evangelist | 7.00% | ~235 |
 | Make It Your Own! | 5.00% | ~168 |
-| Cherry Blossom and Temples | 4.00% | ~134 |
-| The Road to Liberty | 4.00% | ~134 |
-| Romantic Races | 4.00% | ~134 |
+| Cherry Blossom and Temples | 4.00% | ~135 |
+| The Road to Liberty | 4.00% | ~135 |
+| Romantic Races | 4.00% | ~135 |
 | Spoilt for Choice | 3.00% | ~101 |
 | La Dolce Vita | 3.00% | ~101 |
 | I Make the Rules! | 3.00% | ~101 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 675)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,360 (Ranked 223)  
+Progressed: 3,363 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 3,258 | 0 |
 | 2024-01-04 | 3,289 | 0 |
 | 2024-01-05 | 3,324 | 0 |
-| 2024-01-06 | 3,360 | 0 |
+| 2024-01-06 | 3,363 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

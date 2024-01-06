@@ -5,12 +5,12 @@ Rating: 4.55 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 86.00% | ~444 |
-| And again, and again, and... | 63.00% | ~325 |
-| Burn, Elysium, burn! | 62.00% | ~320 |
+| Huzza, he's back. | 86.00% | ~445 |
+| And again, and again, and... | 63.00% | ~326 |
+| Burn, Elysium, burn! | 62.00% | ~321 |
 | Kuvaq Minigame-Master | 61.00% | ~315 |
 | FunScore | 55.00% | ~284 |
-| Funtime's over | 52.00% | ~268 |
+| Funtime's over | 52.00% | ~269 |
 | Chunky | 49.00% | ~253 |
 | Boat of love, boat of love | 48.00% | ~248 |
 | Shall we play a game? | 47.00% | ~243 |
@@ -19,12 +19,12 @@ Rating: 4.55 (Ranked 526)
 | Sole Music | 36.00% | ~186 |
 | Elysian Minigame-Master | 36.00% | ~186 |
 | Portals come in packs | 30.00% | ~155 |
-| No man left behind! | 28.00% | ~144 |
+| No man left behind! | 28.00% | ~145 |
 | Photo Friend | 26.00% | ~134 |
 | Masseltov | 20.00% | ~103 |
 | Brainfreeze | 20.00% | ~103 |
 | And everything comes full circle. | 20.00% | ~103 |
-| Quickdraw | 15.00% | ~77 |
+| Quickdraw | 15.00% | ~78 |
 | Thuna...? | 14.00% | ~72 |
 | Monstrous Harassment | 14.00% | ~72 |
 | Heading the inverter | 14.00% | ~72 |
@@ -32,7 +32,7 @@ Rating: 4.55 (Ranked 526)
 | Play it again, Ronny | 11.00% | ~57 |
 | Goat Team | 10.00% | ~52 |
 | Paradox! | 10.00% | ~52 |
-| Weapons 101 | 9.00% | ~46 |
+| Weapons 101 | 9.00% | ~47 |
 | Sadist | 7.00% | ~36 |
 | The customer is always right | 6.00% | ~31 |
 | Pacifist | 6.00% | ~31 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 526)
 | Every man for himself! | 5.00% | ~26 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516 (Ranked 342)  
-Completed: 7 (1.36%) (Ranked 153)  
+Progressed: 517 (Ranked 342)  
+Completed: 7 (1.35%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -149,7 +149,7 @@ Completed: 7 (1.36%) (Ranked 153)
 | 2024-01-03 | 512 | 7 |
 | 2024-01-04 | 513 | 7 |
 | 2024-01-05 | 514 | 7 |
-| 2024-01-06 | 516 | 7 |
+| 2024-01-06 | 517 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

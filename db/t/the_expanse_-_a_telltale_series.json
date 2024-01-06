@@ -2,12 +2,12 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 565,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Rating": 564,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18425,
+  "EOS_Progressed": 18429,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 2,
@@ -16506,6 +16506,11 @@
       "Time": "2024-01-06T20:07:09.1771941+00:00",
       "NumProgressed": 18425,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-06T21:05:57.2062108+00:00",
+      "NumProgressed": 18429,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16550,7 +16555,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3133
     },
     {
       "ID": "14",
@@ -16566,7 +16571,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "16",
@@ -16630,7 +16635,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "23",
@@ -16662,7 +16667,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "27",
@@ -16702,7 +16707,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "4",
@@ -16710,7 +16715,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "5",
@@ -16726,7 +16731,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2396
     },
     {
       "ID": "7",
@@ -16742,7 +16747,7 @@
       "Name": "Data Recoverer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "9",
@@ -16758,7 +16763,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "32",
@@ -16797,22 +16802,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18425,
+      "Progressed": 18429,
       "Completed": 59
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4379,
-      "Completed": 1217
+      "Progressed": 4383,
+      "Completed": 1219
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-06T19:58:03.9516258+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:07:09.1771937+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:05:57.2062104+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:58:03.9516263+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:07:09.1772925+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:57:52.5335373+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:05:57.2062969+00:00"
 }

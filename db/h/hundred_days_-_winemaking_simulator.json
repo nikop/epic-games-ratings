@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1111,9 +1111,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 19467,
+  "EOS_Progressed": 19471,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1062,
+  "EOS_NewPlayers": 1057,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -16351,6 +16351,11 @@
       "Time": "2024-01-06T20:10:07.1237622+00:00",
       "NumProgressed": 19467,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-06T21:09:40.3956875+00:00",
+      "NumProgressed": 19471,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -16411,7 +16416,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8371
+      "UsersEstimate": 8373
     },
     {
       "ID": "a_19",
@@ -16419,7 +16424,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "a_2",
@@ -16427,7 +16432,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "a_20",
@@ -16459,7 +16464,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "a_25",
@@ -16467,7 +16472,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "a_26",
@@ -16610,7 +16615,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 19467,
+      "Progressed": 19471,
       "Completed": 13
     }
   ],
@@ -16618,8 +16623,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-01T19:03:20.2476808+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:10:07.1237618+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:09:40.3956873+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.499135+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:58:12.6558922+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:10:07.1238385+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:57:57.9608817+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:09:40.3957735+00:00"
 }

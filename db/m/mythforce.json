@@ -3,12 +3,12 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 663,
-  "Ranking_Popularity": 497,
+  "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6144,
+  "EOS_Progressed": 6145,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12694,6 +12694,11 @@
       "Time": "2024-01-06T18:04:43.1090216+00:00",
       "NumProgressed": 6144,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T21:04:51.3340003+00:00",
+      "NumProgressed": 6145,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12794,7 +12799,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12802,7 +12807,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -12842,7 +12847,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -12858,7 +12863,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -12889,15 +12894,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6144,
+      "Progressed": 6145,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:05:34.4836695+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:04:51.334+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:02:03.0005698+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:05:34.4837216+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:00:29.2366415+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:04:51.3340703+00:00"
 }

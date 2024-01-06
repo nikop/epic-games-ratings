@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 648,
+  "EOS_Progressed": 652,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2352,6 +2352,11 @@
       "Time": "2024-01-06T17:10:10.7574659+00:00",
       "NumProgressed": 648,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T21:09:57.8099533+00:00",
+      "NumProgressed": 652,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2363,7 +2368,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 298
+      "UsersEstimate": 300
     },
     {
       "ID": "completeact2",
@@ -2371,7 +2376,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 38,
       "XP": 80,
-      "UsersEstimate": 246
+      "UsersEstimate": 248
     },
     {
       "ID": "completeact3",
@@ -2379,7 +2384,7 @@
       "Name": "On the Road",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "findalltapes",
@@ -2387,7 +2392,7 @@
       "Name": "Song Harvester",
       "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "scoremaxrankallrides",
@@ -2395,7 +2400,7 @@
       "Name": "Try Harder",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "scoreminrankrb1",
@@ -2411,7 +2416,7 @@
       "Name": "Freedom",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "scoreminrankrf1",
@@ -2419,7 +2424,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "scoreminrankrf2",
@@ -2427,7 +2432,7 @@
       "Name": "Partners in Crime",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "scoreminrankrh1",
@@ -2435,7 +2440,7 @@
       "Name": "Souvenirs",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "scoreminrankrp1",
@@ -2443,7 +2448,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "scoreminrankrp2",
@@ -2451,7 +2456,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "scoreminrankrp3",
@@ -2467,7 +2472,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "scoreminrankrv2",
@@ -2475,14 +2480,14 @@
       "Name": "Friendzone",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 648,
+      "Progressed": 652,
       "Completed": 3
     }
   ],
@@ -2490,8 +2495,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:10:32.2710851+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:09:57.809953+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:57:27.0400753+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:10:32.2711095+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:57:29.1733743+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:09:57.8099814+00:00"
 }

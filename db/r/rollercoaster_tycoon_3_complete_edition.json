@@ -2,13 +2,13 @@
   "ID": "f01b3e0178d448f0b93911e292d8e614",
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
   "ProductSlug": "rollercoaster-tycoon-3-complete-edition",
-  "Ranking_Rating": 320,
-  "Ranking_Popularity": 436,
+  "Ranking_Rating": 319,
+  "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-09-24T15:00:00+00:00",
     "PcReleaseDate": "2020-09-24T15:00:00+00:00",
@@ -1214,12 +1214,18 @@
       "Rating": 4.65,
       "NumberOfAwards": 460,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2024-01-06T21:00:23.2579652+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 462,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 460,
+  "NumberOfAwards": 462,
   "NumberOfAwardsMax": 57,
-  "MaxAwardTitle": "Relaxing",
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
@@ -1261,7 +1267,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1273,7 +1279,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1305,8 +1311,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2024-01-06T17:00:29.870619+00:00",
+  "LastChanged": "2024-01-06T21:00:23.257965+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:42.8136561+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:01:54.6517565+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:04:58.5092478+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:00:23.2579655+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:04:26.5202109+00:00"
 }

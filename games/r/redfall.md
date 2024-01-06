@@ -5,9 +5,9 @@ Rating: 3.66 (Ranked 1,090)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 20.00% | ~456 |
-| Catch and Release | 15.00% | ~342 |
-| Home Is Where the Heart Is | 14.00% | ~319 |
+| I Like My Stakes Rare! | 20.00% | ~457 |
+| Catch and Release | 15.00% | ~343 |
+| Home Is Where the Heart Is | 14.00% | ~320 |
 | ICU | 13.00% | ~297 |
 | Wounded Whispers | 13.00% | ~297 |
 | Blood Will Have Blood | 11.00% | ~251 |
@@ -15,7 +15,7 @@ Rating: 3.66 (Ranked 1,090)
 | Peek-a-boo | 11.00% | ~251 |
 | Fly Fisher | 10.00% | ~228 |
 | Sucks To Be You | 10.00% | ~228 |
-| Throw The First Stone | 9.00% | ~205 |
+| Throw The First Stone | 9.00% | ~206 |
 | Enter of Your Own Free Will | 8.00% | ~183 |
 | Welcome to the Neighborhood | 8.00% | ~183 |
 | Heart Attack | 8.00% | ~183 |
@@ -25,10 +25,10 @@ Rating: 3.66 (Ranked 1,090)
 | Neighborhood Revitalization | 5.00% | ~114 |
 | Radio Silence | 5.00% | ~114 |
 | I Spit On Your Grave | 4.00% | ~91 |
-| You Clean It Up | 3.00% | ~68 |
-| From the Shadows | 3.00% | ~68 |
-| Starve the Beast | 3.00% | ~68 |
-| Helping Hand | 3.00% | ~68 |
+| You Clean It Up | 3.00% | ~69 |
+| From the Shadows | 3.00% | ~69 |
+| Starve the Beast | 3.00% | ~69 |
+| Helping Hand | 3.00% | ~69 |
 | Revelations | 2.00% | ~46 |
 | Contingency Plans | 2.00% | ~46 |
 | Block Party | 2.00% | ~46 |
@@ -72,7 +72,7 @@ Rating: 3.66 (Ranked 1,090)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,282 (Ranked 241)  
+Progressed: 2,285 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,10 +210,10 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 2,238 | 0 |
 | 2024-01-04 | 2,253 | 0 |
 | 2024-01-05 | 2,267 | 0 |
-| 2024-01-06 | 2,282 | 0 |
+| 2024-01-06 | 2,285 | 0 |
 ## Awards
-Max (Great Boss Battles): 24  (Ranked 554)  
-Sum: 24 (Ranked 560)  
+Max (Great Boss Battles): 24  (Ranked 553)  
+Sum: 24 (Ranked 559)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |

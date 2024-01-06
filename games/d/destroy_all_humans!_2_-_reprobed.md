@@ -9,7 +9,7 @@ Number of Ratings: 90  (23.09.2022)
 | Rock of the Bay | 83.00% | ~281 |
 | Mash Machine | 75.00% | ~254 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~183 |
-| Furon Fashion | 46.00% | ~156 |
+| Furon Fashion | 47.00% | ~159 |
 | Shop Til They Drop | 40.00% | ~136 |
 | Bodied Sattva | 38.00% | ~129 |
 | Cult Following | 35.00% | ~119 |
@@ -94,8 +94,8 @@ Completed: 2 (0.59%) (Ranked 206)
 | 2024-01-05 | 324 | 2 |
 | 2024-01-06 | 339 | 2 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 497)  
-Sum: 36 (Ranked 529)  
+Max (Great Boss Battles): 36  (Ranked 496)  
+Sum: 36 (Ranked 528)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |

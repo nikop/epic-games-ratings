@@ -6,19 +6,19 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,910 |
-| Strongman | 31.00% | ~6,823 |
+| First money | 95.00% | ~20,911 |
+| Strongman | 31.00% | ~6,824 |
 | Just Enough | 20.00% | ~4,402 |
 | Alpha Male | 20.00% | ~4,402 |
 | Pro-creative | 19.00% | ~4,182 |
-| Worth Every Penny | 14.00% | ~3,081 |
-| Family man | 13.00% | ~2,861 |
-| Junior Estate Agent | 13.00% | ~2,861 |
+| Worth Every Penny | 14.00% | ~3,082 |
+| Family man | 13.00% | ~2,862 |
+| Junior Estate Agent | 13.00% | ~2,862 |
 | Mystery | 10.00% | ~2,201 |
 | Artistic soul | 10.00% | ~2,201 |
-| Estate Agent | 5.00% | ~1,100 |
-| Millionaire | 5.00% | ~1,100 |
-| Perfectionist | 5.00% | ~1,100 |
+| Estate Agent | 5.00% | ~1,101 |
+| Millionaire | 5.00% | ~1,101 |
+| Perfectionist | 5.00% | ~1,101 |
 | I'm Belieber | 3.00% | ~660 |
 | Knock, knock | 1.00% | ~220 |
 | You do it wrong | 1.00% | ~220 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~132 |
 | Senior Estate Agent | 0.60% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,010 (Ranked 148)  
+Progressed: 22,012 (Ranked 148)  
 Completed: 21 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,10 +290,10 @@ Completed: 21 (0.10%) (Ranked 308)
 | 2024-01-03 | 21,939 | 21 |
 | 2024-01-04 | 21,958 | 21 |
 | 2024-01-05 | 21,986 | 21 |
-| 2024-01-06 | 22,010 | 21 |
+| 2024-01-06 | 22,012 | 21 |
 ## Awards
 Max (Great for Beginners): 330  (Ranked 253)  
-Sum: 2,296 (Ranked 208)  
+Sum: 2,299 (Ranked 208)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -302,10 +302,10 @@ Diff (max vs sum): 45
 | This game is Relaxing | 237 |
 | This game is Extremely Fun | 233 |
 | This game has a Creative Community | 225 |
+| This game is Highly Recommended | 224 |
 | This game has Quickly Understood Controls | 224 |
-| This game is Highly Recommended | 223 |
 | This game has Amazing Storytelling | 221 |
-| This game has Amazing Characters | 194 |
+| This game has Amazing Characters | 196 |
 | This game has Obsessive Gameplay | 173 |
 | This game has Easy Combat | 166 |
 ## Ratings History
@@ -510,3 +510,4 @@ Diff (max vs sum): 45
 | 2023-12-30 | 4.69 | - | 329 | 2,290 |
 | 2024-01-01 | 4.69 | - | 330 | 2,292 |
 | 2024-01-02 | 4.69 | - | 330 | 2,296 |
+| 2024-01-06 | 4.69 | - | 330 | 2,299 |

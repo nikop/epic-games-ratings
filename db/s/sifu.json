@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8787,10 +8787,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 755838,
+  "EOS_Progressed": 755866,
   "EOS_Completed": 12976,
-  "EOS_NewPlayers": 6544,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 6548,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
     {
@@ -32627,6 +32627,11 @@
       "Time": "2024-01-06T20:09:34.7389479+00:00",
       "NumProgressed": 755838,
       "NumCompleted": 12976
+    },
+    {
+      "Time": "2024-01-06T21:09:17.8631479+00:00",
+      "NumProgressed": 755866,
+      "NumCompleted": 12976
     }
   ],
   "TotalAchievements": 60,
@@ -32638,7 +32643,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37792
+      "UsersEstimate": 37793
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32646,7 +32651,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30234
+      "UsersEstimate": 30235
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32654,7 +32659,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22675
+      "UsersEstimate": 22676
     },
     {
       "ID": "04_Vengeance_H3",
@@ -32678,7 +32683,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7558
+      "UsersEstimate": 7559
     },
     {
       "ID": "07_Wude_H1",
@@ -32726,7 +32731,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7558
+      "UsersEstimate": 7559
     },
     {
       "ID": "13_LowAge",
@@ -32798,7 +32803,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7558
+      "UsersEstimate": 7559
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -32814,7 +32819,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37792
+      "UsersEstimate": 37793
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32830,7 +32835,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7558
+      "UsersEstimate": 7559
     },
     {
       "ID": "26_ShrineSpirit",
@@ -32886,7 +32891,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22675
+      "UsersEstimate": 22676
     },
     {
       "ID": "33_BladeOneShot",
@@ -32902,7 +32907,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30234
+      "UsersEstimate": 30235
     },
     {
       "ID": "35_WideStrike",
@@ -32910,7 +32915,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7558
+      "UsersEstimate": 7559
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -32950,7 +32955,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7558
+      "UsersEstimate": 7559
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -32974,7 +32979,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -33006,7 +33011,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -33117,21 +33122,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 65139,
+      "Progressed": 65167,
       "Completed": 10800
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 755838,
+      "Progressed": 755866,
       "Completed": 12976
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-06T17:03:15.1213993+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:09:34.7389475+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:09:17.8631476+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:03:12.9098115+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:09:34.7391178+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:03:14.627205+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:09:17.8632855+00:00"
 }

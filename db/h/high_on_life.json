@@ -2,13 +2,13 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 320,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Rating": 319,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25054,
+  "EOS_Progressed": 25058,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8816,6 +8816,11 @@
       "Time": "2024-01-06T20:08:51.6514369+00:00",
       "NumProgressed": 25054,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-06T21:08:47.6189376+00:00",
+      "NumProgressed": 25058,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9131,7 +9136,7 @@
       "Name": "We Came, We Chainsaw, We Conquered",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_MAKE_A_WISH",
@@ -9178,13 +9183,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25054,
+      "Progressed": 25058,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2347,
+      "Progressed": 2351,
       "Completed": 1376
     }
   ],
@@ -9192,8 +9197,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:08:51.6514365+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:08:47.6189373+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.3334267+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:57:21.8780885+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:08:51.6514979+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:57:25.869774+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:08:47.6189972+00:00"
 }

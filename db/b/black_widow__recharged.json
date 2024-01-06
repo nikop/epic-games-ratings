@@ -3,12 +3,12 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 950,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,7 +173,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24564,
+  "EOS_Progressed": 24566,
   "EOS_Completed": 62,
   "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 1,
@@ -22618,6 +22618,11 @@
       "Time": "2024-01-06T20:06:33.1591628+00:00",
       "NumProgressed": 24564,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-06T21:05:31.5382308+00:00",
+      "NumProgressed": 24566,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 14,
@@ -22629,7 +22634,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 18914
+      "UsersEstimate": 18916
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -22645,7 +22650,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -22653,7 +22658,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6141
+      "UsersEstimate": 6142
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -22685,7 +22690,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12528
+      "UsersEstimate": 12529
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -22717,7 +22722,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -22733,22 +22738,22 @@
       "Name": "Wild West Hero",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 3193
+      "UsersEstimate": 3194
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24564,
+      "Progressed": 24566,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:06:33.1591625+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:05:31.5382306+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:21.7307915+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:03:05.5994702+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:06:33.1592749+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:03:10.0894505+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:05:31.538358+00:00"
 }

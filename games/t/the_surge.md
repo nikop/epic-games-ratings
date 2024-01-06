@@ -6,17 +6,17 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,975 |
-| I'll Be Back | 84.00% | ~4,446 |
+| On My Own Two Feet | 94.00% | ~4,976 |
+| I'll Be Back | 84.00% | ~4,447 |
 | Sorry, I Dropped This | 76.00% | ~4,023 |
 | First Day on the Job | 76.00% | ~4,023 |
-| Butcher's Bill | 54.00% | ~2,858 |
-| P.A.X | 36.00% | ~1,905 |
-| Hey Listen | 36.00% | ~1,905 |
+| Butcher's Bill | 54.00% | ~2,859 |
+| P.A.X | 36.00% | ~1,906 |
+| Hey Listen | 36.00% | ~1,906 |
 | OPERATOR | 35.00% | ~1,853 |
 | It's Blue Light | 33.00% | ~1,747 |
 | Most Wanted | 26.00% | ~1,376 |
-| Infidel | 23.00% | ~1,217 |
+| Infidel | 23.00% | ~1,218 |
 | Firebug | 20.00% | ~1,059 |
 | GOLIATH | 20.00% | ~1,059 |
 | I Choose You | 17.00% | ~900 |
@@ -33,11 +33,11 @@ Number of Ratings: 62  (23.09.2022)
 | Right Tool for the Job | 10.00% | ~529 |
 | Raging Drones | 9.00% | ~476 |
 | Overconfident | 9.00% | ~476 |
-| Pusher Man | 8.00% | ~423 |
-| Melting Down | 8.00% | ~423 |
-| Squad Chief Helvig | 8.00% | ~423 |
-| No More Marching | 8.00% | ~423 |
-| Is This Real Life? | 8.00% | ~423 |
+| Pusher Man | 8.00% | ~424 |
+| Melting Down | 8.00% | ~424 |
+| Squad Chief Helvig | 8.00% | ~424 |
+| No More Marching | 8.00% | ~424 |
+| Is This Real Life? | 8.00% | ~424 |
 | Duty-Bound | 7.00% | ~371 |
 | Follow the White Rabbit | 7.00% | ~371 |
 | Liberation | 7.00% | ~371 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,293 (Ranked 202)  
+Progressed: 5,294 (Ranked 202)  
 Completed: 18 (0.34%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,10 +292,10 @@ Completed: 18 (0.34%) (Ranked 244)
 | 2024-01-03 | 5,224 | 18 |
 | 2024-01-04 | 5,249 | 18 |
 | 2024-01-05 | 5,270 | 18 |
-| 2024-01-06 | 5,293 | 18 |
+| 2024-01-06 | 5,294 | 18 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 523)  
-Sum: 30 (Ranked 541)  
+Max (Great Boss Battles): 30  (Ranked 522)  
+Sum: 30 (Ranked 540)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |

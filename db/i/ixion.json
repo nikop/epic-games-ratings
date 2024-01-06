@@ -3,12 +3,12 @@
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
   "Ranking_Rating": 471,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4039,
+  "EOS_Progressed": 4040,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8060,6 +8060,11 @@
       "Time": "2024-01-06T20:04:46.3344033+00:00",
       "NumProgressed": 4039,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T21:04:18.4873262+00:00",
+      "NumProgressed": 4040,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8151,7 +8156,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_BASE_21",
@@ -8183,7 +8188,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "ACH_BASE_25",
@@ -8271,7 +8276,7 @@
       "Name": "Ready for a New World",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ACH_BASE_35",
@@ -8375,7 +8380,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_BASE_5",
@@ -8526,13 +8531,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2223,
+      "Progressed": 2224,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4039,
+      "Progressed": 4040,
       "Completed": 0
     }
   ],
@@ -8540,8 +8545,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-04T06:58:36.3655707+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:04:46.3344029+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:04:18.4873261+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:00:44.5219845+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:04:46.334467+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:59:37.9142394+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:04:18.4873926+00:00"
 }

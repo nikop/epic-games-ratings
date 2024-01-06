@@ -3,12 +3,12 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 234,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8757,
+  "EOS_Progressed": 8760,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -11006,6 +11006,11 @@
       "Time": "2024-01-06T19:03:42.4081213+00:00",
       "NumProgressed": 8757,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-06T21:03:53.8422611+00:00",
+      "NumProgressed": 8760,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 21,
@@ -11184,7 +11189,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8757,
+      "Progressed": 8760,
       "Completed": 35
     }
   ],
@@ -11192,8 +11197,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-04T06:59:23.347632+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:04:08.5233657+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:03:53.8422608+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.6099916+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:01:53.2565719+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:04:08.5234289+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:00:22.2928809+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:03:53.842342+00:00"
 }

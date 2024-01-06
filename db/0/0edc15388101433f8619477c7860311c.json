@@ -2,10 +2,10 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 488,
+  "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -570,9 +570,9 @@
       "ID": "JustCautious",
       "SetID": "7m88n8p",
       "Name": "Just Being Cautious",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KarmaEyes",
@@ -610,9 +610,9 @@
       "ID": "MortuaryMarkup",
       "SetID": "7m88n8p",
       "Name": "Mortuary Makeup Artist",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "NoOneLeft",
@@ -674,9 +674,9 @@
       "ID": "WaitingForSalvation",
       "SetID": "7m88n8p",
       "Name": "Waiting for Salvation",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "WhoseChild",
@@ -697,8 +697,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:03:52.1979838+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:03:42.0593804+00:00",
   "LastUpdate_AppInfo": "2024-01-01T14:57:04.940635+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:01:21.9000125+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:03:52.1979981+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:00:00.9024732+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:03:42.059396+00:00"
 }

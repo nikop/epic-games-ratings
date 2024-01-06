@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 698,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2342,9 +2342,9 @@
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 77
     },
     {
       "ID": "TKO2_DOMINO",
@@ -2381,8 +2381,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-06T20:10:23.2827632+00:00",
+  "LastChanged_Achievements": "2024-01-06T21:09:51.5934035+00:00",
   "LastUpdate_AppInfo": "2024-01-06T02:18:00.4383159+00:00",
-  "LastUpdate_Ratings": "2024-01-06T20:01:41.6260202+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:10:23.2828173+00:00"
+  "LastUpdate_Ratings": "2024-01-06T21:00:14.7765615+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:09:51.5934508+00:00"
 }

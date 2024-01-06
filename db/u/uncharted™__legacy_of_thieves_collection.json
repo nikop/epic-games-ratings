@@ -2,13 +2,13 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
-  "Ranking_Rating": 163,
+  "Ranking_Rating": 164,
   "Ranking_Popularity": 181,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-10-19T15:00:00+00:00",
@@ -1571,10 +1571,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 1263,
       "NumberOfAwardsMax": 838
+    },
+    {
+      "Time": "2024-01-06T20:58:35.1050898+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1266,
+      "NumberOfAwardsMax": 838
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1263,
+  "NumberOfAwards": 1266,
   "NumberOfAwardsMax": 838,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1612,7 +1618,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 49
+      "Count": 52
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1657,8 +1663,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2024-01-06T18:58:26.263646+00:00",
+  "LastChanged": "2024-01-06T20:58:35.1050896+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.3230359+00:00",
-  "LastUpdate_Ratings": "2024-01-06T19:59:08.432905+00:00",
-  "LastUpdate_Achievements": "2024-01-06T20:06:05.7327356+00:00"
+  "LastUpdate_Ratings": "2024-01-06T20:58:35.1050903+00:00",
+  "LastUpdate_Achievements": "2024-01-06T21:05:12.4246722+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,083 |
+| A Brief Tour of the Realms | 4.00% | ~10,084 |
 | The Cursed Farmer | 2.00% | ~5,042 |
 | Beast Intentions | 1.00% | ~2,521 |
 | The Mad Wizard | 1.00% | ~2,521 |
@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.40% | ~1,008 |
 | Unearthed Evil | 0.40% | ~1,008 |
 | The Crumbling Temple | 0.40% | ~1,008 |
+| The Contagious Curse | 0.40% | ~1,008 |
 | Arcane Suppression | 0.40% | ~873 |
 | Welcome to the Vrocks | 0.40% | ~873 |
 | Misaligned in Sigil | 0.40% | ~873 |
@@ -39,7 +40,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.30% | ~756 |
 | Useless Allies | 0.30% | ~756 |
 | Exploring Port Nyanzaru | 0.30% | ~756 |
-| The Contagious Curse | 0.30% | ~756 |
 | Escort to Waterdeep | 0.30% | ~756 |
 | The Silken Swamp | 0.20% | ~504 |
 | Supply Run | 0.20% | ~504 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,085 (Ranked 70)  
+Progressed: 252,099 (Ranked 70)  
 Completed: 2,599 (1.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -814,7 +814,7 @@ Completed: 2,599 (1.03%) (Ranked 172)
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
-| 2024-01-06 | 252,085 | 2,599 |
+| 2024-01-06 | 252,099 | 2,599 |
 ## Awards
 Max (Great for Beginners): 5,756  (Ranked 73)  
 Sum: 33,356 (Ranked 41)  

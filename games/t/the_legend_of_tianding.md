@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 89.00% | ~64 |
-| Eat the Rich | 61.00% | ~44 |
-| Killing Machine | 49.00% | ~35 |
-| Phantom Kunoichi | 43.00% | ~31 |
-| Death Battle | 42.00% | ~30 |
+| Hero Arrives | 89.00% | ~65 |
+| Eat the Rich | 60.00% | ~44 |
+| Killing Machine | 48.00% | ~35 |
+| Phantom Kunoichi | 42.00% | ~31 |
+| Death Battle | 41.00% | ~30 |
 | Divine Retribution | 40.00% | ~29 |
-| Captain Mustache | 39.00% | ~28 |
+| Captain Mustache | 38.00% | ~28 |
 | Final Showdown | 36.00% | ~26 |
 | The End of an Outlaw | 36.00% | ~26 |
-| Dispel Rumors | 35.00% | ~25 |
-| Demon Slayer | 31.00% | ~22 |
+| Dispel Rumors | 34.00% | ~25 |
+| Demon Slayer | 30.00% | ~22 |
 | Steal Her Away | 29.00% | ~21 |
 | Sewer Rat | 29.00% | ~21 |
 | Fight Fire With Fire | 29.00% | ~21 |
@@ -22,17 +22,17 @@
 | Not Today | 26.00% | ~19 |
 | Big Eater | 25.00% | ~18 |
 | Coward | 25.00% | ~18 |
-| Tour Guide | 24.00% | ~17 |
-| Tomb Raider | 24.00% | ~17 |
+| Tour Guide | 23.00% | ~17 |
+| Tomb Raider | 23.00% | ~17 |
 | The Real O.G. | 19.00% | ~14 |
 | The Hero of the People | 15.00% | ~11 |
-| Talk to the Fist | 13.00% | ~9 |
+| Talk to the Fist | 12.00% | ~9 |
 | Collector | 11.00% | ~8 |
 | Taoist | 10.00% | ~7 |
 | The Legend | 7.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 520)  
-Completed: 5 (6.94%) (Ranked 61)  
+Progressed: 73 (Ranked 520)  
+Completed: 5 (6.85%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 5 (6.94%) (Ranked 61)
 | 2024-01-03 | 65 | 5 |
 | 2024-01-04 | 67 | 5 |
 | 2024-01-05 | 70 | 5 |
-| 2024-01-06 | 72 | 5 |
+| 2024-01-06 | 73 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

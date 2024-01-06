@@ -16,8 +16,8 @@
 | God of Fun | 18.00% | ~50 |
 | Creator of Modernity | 17.00% | ~47 |
 | Doodle Bar | 17.00% | ~47 |
+| Half the Kingdom | 17.00% | ~47 |
 | Deity of Darkness | 16.00% | ~44 |
-| Half the Kingdom | 16.00% | ~44 |
 | Creator of Magic | 15.00% | ~41 |
 | Heavenly Virtues | 11.00% | ~30 |
 | Salvation! | 10.00% | ~28 |

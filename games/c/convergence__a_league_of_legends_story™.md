@@ -16,8 +16,8 @@ Rating: 4.67 (Ranked 285)
 | Honest Mistake | 26.00% | ~326 |
 | Make Up For Lost Time | 25.00% | ~314 |
 | The Harder They Fall | 25.00% | ~314 |
+| Fast Learner | 25.00% | ~314 |
 | Immaculate Aim | 25.00% | ~314 |
-| Fast Learner | 24.00% | ~301 |
 | The Steel Shadow | 23.00% | ~288 |
 | Breaking Down Barriers | 23.00% | ~288 |
 | Right On Time | 22.00% | ~276 |
