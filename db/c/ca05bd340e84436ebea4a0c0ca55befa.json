@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-14T16:00:00+00:00",
     "PcReleaseDate": "2021-03-11T07:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16246,
+  "EOS_Progressed": 16247,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -912,6 +912,11 @@
       "Time": "2024-01-04T01:52:06.8405774+00:00",
       "NumProgressed": 16246,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T16:03:27.0958296+00:00",
+      "NumProgressed": 16247,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-12T12:03:32.4502016+00:00",
@@ -948,7 +953,7 @@
       "Name": "Don\u0027t play with fire, kids",
       "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -1060,7 +1065,7 @@
       "Name": "Hands up!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -1108,7 +1113,7 @@
       "Name": "Don\u0027t interrupt my research!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2274
+      "UsersEstimate": 2275
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -1132,7 +1137,7 @@
       "Name": "First steps",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_11",
@@ -1244,7 +1249,7 @@
       "Name": "Feeling Better",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_27",
@@ -1459,7 +1464,7 @@
     {
       "ID": "h261mm",
       "IsBase": true,
-      "Progressed": 16246,
+      "Progressed": 16247,
       "Completed": 0
     }
   ],
@@ -1467,8 +1472,8 @@
   "FirstSeenRating": "2023-11-17T10:00:31.8324772+00:00",
   "FirstSeenAchievements": "2023-10-12T12:03:32.4502016+00:00",
   "LastChanged": "2024-01-04T04:59:03.0830703+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:03:18.732163+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:03:27.0958295+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:23.3196013+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:59:41.0202289+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:03:18.7322501+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:59:47.906437+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:03:27.0958753+00:00"
 }

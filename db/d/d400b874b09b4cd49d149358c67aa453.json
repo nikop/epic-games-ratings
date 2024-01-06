@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -2517,9 +2517,9 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -2684,8 +2684,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:04:25.8241147+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:04:34.7047978+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.1835695+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:59:57.6231019+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:04:25.8241395+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:00:05.4491792+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:04:34.7048189+00:00"
 }

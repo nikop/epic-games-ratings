@@ -27,7 +27,7 @@ Number of Ratings: 38  (23.09.2022)
 | Master Of Technology | 16.00% | ~100 |
 | Treasure Hunter | 16.00% | ~100 |
 | Mythical Smelter | 14.00% | ~87 |
-| Blacksmith | 11.00% | ~69 |
+| Blacksmith | 12.00% | ~75 |
 | Forest Lord | 10.00% | ~62 |
 | Fuel | 10.00% | ~62 |
 | Master Of Management | 9.00% | ~56 |
@@ -39,7 +39,7 @@ Number of Ratings: 38  (23.09.2022)
 | Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 624 (Ranked 336)  
-Completed: 4 (0.64%) (Ranked 202)  
+Completed: 4 (0.64%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

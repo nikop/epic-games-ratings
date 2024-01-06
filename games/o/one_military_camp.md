@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~148 |
+| First Step | 51.00% | ~146 |
 | The 4 Pillars | 49.00% | ~140 |
 | Capitalism | 20.00% | ~57 |
 | Green Energy | 13.00% | ~37 |
 | There's something in those trees | 11.00% | ~31 |
-| Great Producer | 11.00% | ~31 |
-| Desert Power | 10.00% | ~28 |
-| Indebted | 10.00% | ~28 |
+| Desert Power | 10.00% | ~29 |
+| Indebted | 10.00% | ~29 |
+| Great Producer | 10.00% | ~29 |
 | Health Care | 9.00% | ~26 |
 | Perfect Soldier | 8.00% | ~23 |
 | Desert Rat | 8.00% | ~23 |
@@ -25,13 +25,13 @@
 | Jantine: the Misfortunes of Evil | 5.00% | ~14 |
 | Overpopulation | 5.00% | ~14 |
 | Medicine Tycoon | 5.00% | ~14 |
-| Supersoldier | 4.00% | ~11 |
 | Outdoor Decorator | 4.00% | ~11 |
 | Property Bro | 4.00% | ~11 |
-| Training Camp | 4.00% | ~11 |
 | Tear Down the Wall! | 3.00% | ~9 |
+| Supersoldier | 3.00% | ~9 |
 | Vive le Résistance | 3.00% | ~9 |
 | No News is Good News | 3.00% | ~9 |
+| Training Camp | 3.00% | ~9 |
 | Snowman | 2.00% | ~6 |
 | Human Resources | 2.00% | ~6 |
 | Winter Soldier | 2.00% | ~6 |
@@ -41,15 +41,15 @@
 | Reconquest | 1.00% | ~3 |
 | Against Adversity | 1.00% | ~3 |
 | Researcher | 1.00% | ~3 |
-| Self-management | 0.40% | ~1 |
-| Conveyor Belt Madness | 0.40% | ~1 |
-| People's Hero | 0.40% | ~1 |
+| Self-management | 0.30% | ~1 |
+| Conveyor Belt Madness | 0.30% | ~1 |
+| People's Hero | 0.30% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 399)  
+Progressed: 286 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,4 +145,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 277 | 0 |
 | 2024-01-04 | 282 | 0 |
 | 2024-01-05 | 284 | 0 |
-| 2024-01-06 | 285 | 0 |
+| 2024-01-06 | 286 | 0 |

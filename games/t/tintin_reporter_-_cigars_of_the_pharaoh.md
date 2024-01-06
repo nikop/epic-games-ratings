@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 77.00% | ~91 |
-| A Loyal Friend | 40.00% | ~47 |
-| Abandon Ship! | 28.00% | ~33 |
-| The Tomb of Kih-Oskh | 23.00% | ~27 |
-| The Weighing of the Soul | 19.00% | ~22 |
+| My Papyrus! | 78.00% | ~94 |
+| A Loyal Friend | 39.00% | ~47 |
+| Abandon Ship! | 28.00% | ~34 |
+| The Tomb of Kih-Oskh | 23.00% | ~28 |
+| The Weighing of the Soul | 19.00% | ~23 |
 | The Curse of Kih-Oskh | 17.00% | ~20 |
-| It's a Deal! | 14.00% | ~17 |
+| It's a Deal! | 13.00% | ~16 |
 | Cat Lover | 12.00% | ~14 |
 | Dynamite, Treason and Coconuts | 12.00% | ~14 |
 | In the Name of the Law | 11.00% | ~13 |
 | Au Revoir, Abudin | 11.00% | ~13 |
 | Save a Friend | 11.00% | ~13 |
 | Mysterious Bungalow | 9.00% | ~11 |
-| The Eyes! | 8.00% | ~9 |
-| Keep the Doctor Away | 8.00% | ~9 |
-| Just a Palm Tree | 8.00% | ~9 |
-| Under the Hood | 8.00% | ~9 |
-| Long Live Gaipajama! | 8.00% | ~9 |
-| Punctual | 8.00% | ~9 |
-| Mummy Nightmare | 8.00% | ~9 |
+| The Eyes! | 8.00% | ~10 |
+| Keep the Doctor Away | 8.00% | ~10 |
+| Just a Palm Tree | 8.00% | ~10 |
+| Under the Hood | 8.00% | ~10 |
+| Long Live Gaipajama! | 8.00% | ~10 |
+| Punctual | 8.00% | ~10 |
+| Mummy Nightmare | 8.00% | ~10 |
 | Eyes Shut | 7.00% | ~8 |
 | Tintin, Reporter | 6.00% | ~7 |
 | Barking Dog | 6.00% | ~7 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 478)  
+Progressed: 120 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,4 +89,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 113 | 0 |
 | 2024-01-03 | 116 | 0 |
 | 2024-01-04 | 117 | 0 |
-| 2024-01-06 | 118 | 0 |
+| 2024-01-06 | 120 | 0 |

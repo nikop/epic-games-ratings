@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1015,
+  "EOS_Progressed": 1019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3595,6 +3595,11 @@
       "Time": "2024-01-06T15:09:07.8638284+00:00",
       "NumProgressed": 1015,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T16:09:14.6528034+00:00",
+      "NumProgressed": 1019,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3631,7 +3636,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "AttackCount",
@@ -3709,9 +3714,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 224
     },
     {
       "ID": "Deepstrike",
@@ -3751,7 +3756,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 408
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3815,7 +3820,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "MultiplayerWins",
@@ -3887,7 +3892,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -3935,7 +3940,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 469
     },
     {
       "ID": "WielderLevel2",
@@ -3943,7 +3948,7 @@
       "Name": "Veteran",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "WielderLevel3",
@@ -3983,7 +3988,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -4038,15 +4043,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1015,
+      "Progressed": 1019,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:09:07.8638279+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:09:14.652803+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:58:55.1773478+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:09:07.8638876+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:59:03.6475242+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:09:14.6529048+00:00"
 }

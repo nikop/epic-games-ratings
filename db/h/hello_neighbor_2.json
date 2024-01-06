@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3902,
+  "EOS_Progressed": 3905,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
@@ -6887,6 +6887,11 @@
       "Time": "2024-01-06T15:08:35.811465+00:00",
       "NumProgressed": 3902,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-06T16:08:41.8367013+00:00",
+      "NumProgressed": 3905,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -6906,7 +6911,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -6914,15 +6919,15 @@
       "Name": "Cat Person",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "ACH_CLIMBER",
       "SetID": "4kfb9pd",
       "Name": "Climber",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 936
+      "UsersEstimate": 898
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -6930,7 +6935,7 @@
       "Name": "Dog Person",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -6938,7 +6943,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -6946,7 +6951,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -6954,7 +6959,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -6962,7 +6967,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -6970,7 +6975,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "ACH_REUNION",
@@ -6978,7 +6983,7 @@
       "Name": "Reunion",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -6986,7 +6991,7 @@
       "Name": "Shovel Night",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -7002,14 +7007,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3085
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3902,
+      "Progressed": 3905,
       "Completed": 144
     }
   ],
@@ -7017,8 +7022,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:08:35.8114647+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:08:41.8367011+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:58:05.7153796+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:08:35.811501+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:58:15.9542601+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:08:41.8367365+00:00"
 }

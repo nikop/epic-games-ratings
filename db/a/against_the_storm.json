@@ -3723,18 +3723,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 3339,
       "NumberOfAwardsMax": 448
+    },
+    {
+      "Time": "2024-01-06T15:59:55.803179+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3340,
+      "NumberOfAwardsMax": 449
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3339,
-  "NumberOfAwardsMax": 448,
+  "NumberOfAwards": 3340,
+  "NumberOfAwardsMax": 449,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 448
+      "Count": 449
     },
     {
       "Text": "This game is Relaxing",
@@ -3791,9 +3797,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 20277,
+  "EOS_Progressed": 20282,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18661,6 +18667,11 @@
       "Time": "2024-01-06T15:06:07.4157527+00:00",
       "NumProgressed": 20277,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-06T16:06:15.3171952+00:00",
+      "NumProgressed": 20282,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18761,7 +18772,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "WinHard",
@@ -19009,7 +19020,7 @@
       "Name": "Taking Action",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "WinWithResolve",
@@ -19049,7 +19060,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "WinWithoutOrders",
@@ -19073,7 +19084,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "WinNearFrosts",
@@ -19097,7 +19108,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "WinNearPetrified",
@@ -19105,7 +19116,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "WinNearPresence",
@@ -19144,15 +19155,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20277,
+      "Progressed": 20282,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-06T12:01:26.0870825+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:06:07.4157524+00:00",
+  "LastChanged": "2024-01-06T15:59:55.8031788+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:06:15.3171947+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:59:48.9720744+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:06:07.4158635+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:59:55.8031793+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:06:15.3173064+00:00"
 }

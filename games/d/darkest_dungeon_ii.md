@@ -1,25 +1,25 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 263)  
+Rating: 4.68 (Ranked 262)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~880 |
+| Malpractice Assurance | 13.00% | ~881 |
 | Lost and Found | 8.00% | ~542 |
-| Autodidact | 7.00% | ~9,233 |
-| This Belongs in a Museum | 6.00% | ~7,914 |
-| Overdue Notice | 6.00% | ~7,914 |
-| This guy... again? | 6.00% | ~406 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,595 |
-| Serenity Now! | 5.00% | ~6,595 |
-| Creep and Sleep | 5.00% | ~6,595 |
-| Meat and Greet | 5.00% | ~6,595 |
-| Catch and Decease | 5.00% | ~6,595 |
-| Escape from the Black Hole | 5.00% | ~6,595 |
-| Rush Hour | 5.00% | ~6,595 |
-| To Grandmother's House | 5.00% | ~6,595 |
+| Autodidact | 7.00% | ~9,234 |
+| This Belongs in a Museum | 6.00% | ~7,915 |
+| Overdue Notice | 6.00% | ~7,915 |
+| This guy... again? | 6.00% | ~407 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,596 |
+| Serenity Now! | 5.00% | ~6,596 |
+| Creep and Sleep | 5.00% | ~6,596 |
+| Meat and Greet | 5.00% | ~6,596 |
+| Catch and Decease | 5.00% | ~6,596 |
+| Escape from the Black Hole | 5.00% | ~6,596 |
+| Rush Hour | 5.00% | ~6,596 |
+| To Grandmother's House | 5.00% | ~6,596 |
 | Ploughshares to Swords | 5.00% | ~339 |
 | Bloody Graduation | 5.00% | ~339 |
 | It Rings a Bell | 4.00% | ~5,276 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,904 (Ranked 91)  
+Progressed: 131,911 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,904 | 3 |
+| 2024-01-06 | 131,911 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
 Sum: 21,475 (Ranked 58)  

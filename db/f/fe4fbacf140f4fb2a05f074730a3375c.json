@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -269,17 +269,17 @@
       "ID": "BackFuture",
       "SetID": "bl5ebnd",
       "Name": "Back of the Future",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "BigBrother",
       "SetID": "bl5ebnd",
       "Name": "Big Brother is Watching You",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CustomerService",
@@ -301,17 +301,17 @@
       "ID": "GoldenYouth",
       "SetID": "bl5ebnd",
       "Name": "Golden Youth",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Highway2Hell",
       "SetID": "bl5ebnd",
       "Name": "Highway to Hell",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LikeDislike",
@@ -325,9 +325,9 @@
       "ID": "MilitaryContract",
       "SetID": "bl5ebnd",
       "Name": "Military Contract",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "NewLife",
@@ -349,17 +349,17 @@
       "ID": "PetLover",
       "SetID": "bl5ebnd",
       "Name": "Pet Lover",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "PortraitMadness",
       "SetID": "bl5ebnd",
       "Name": "Portrait of Madness",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "PrivateVisit",
@@ -381,9 +381,9 @@
       "ID": "SelfieKing",
       "SetID": "bl5ebnd",
       "Name": "Selfie King",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 85,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TrueBlogger",
@@ -412,8 +412,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:04:45.2302333+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:04:53.7908891+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:26.7593426+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:57:30.0843505+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:04:45.2302443+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:57:39.2352061+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:04:53.7909069+00:00"
 }

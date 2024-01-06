@@ -14,8 +14,8 @@
 | Pulp! Terror Tales in the Night | 24.00% | ~20 |
 | Giant | 23.00% | ~19 |
 | A rival with no options | 21.00% | ~18 |
+| The artist | 21.00% | ~18 |
 | Pulp! Out of this World | 21.00% | ~18 |
-| The artist | 20.00% | ~17 |
 | Diagnosis: fear | 20.00% | ~17 |
 | Ambition is... blind | 20.00% | ~17 |
 | You have two wishes left | 19.00% | ~16 |

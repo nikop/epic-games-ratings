@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 721,
+  "EOS_Progressed": 722,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2513,6 +2513,11 @@
       "Time": "2024-01-06T15:09:18.8675095+00:00",
       "NumProgressed": 721,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T16:09:25.244411+00:00",
+      "NumProgressed": 722,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2532,15 +2537,15 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -2650,9 +2655,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 347
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2708,7 +2713,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -2778,9 +2783,9 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "7pimpda",
       "Name": "Storm Traveller",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2844,7 +2849,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2860,7 +2865,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2883,7 +2888,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 721,
+      "Progressed": 722,
       "Completed": 3
     }
   ],
@@ -2891,8 +2896,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:09:18.867509+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:09:25.2444106+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:58:28.7536587+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:09:18.8675518+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:58:37.0119819+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:09:25.2444621+00:00"
 }

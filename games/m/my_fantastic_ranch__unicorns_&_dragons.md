@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let the Adventure Begin! | 58.00% | ~28 |
-| Spirit of competition | 35.00% | ~17 |
-| Prized Possession | 31.00% | ~15 |
+| Spirit of competition | 38.00% | ~18 |
+| Prized Possession | 33.00% | ~16 |
 | Creature Evolution | 29.00% | ~14 |
 | Kingdom Party Time | 25.00% | ~12 |
-| Think Positive | 21.00% | ~10 |
+| Think Positive | 23.00% | ~11 |
 | Festival Fever | 21.00% | ~10 |
 | Entering New Territory | 19.00% | ~9 |
 | Gotta Adopt Them All! | 13.00% | ~6 |

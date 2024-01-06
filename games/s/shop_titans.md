@@ -6,20 +6,20 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,990 |
-| Titan's First Steps | 10.00% | ~14,990 |
-| Basic in Bulk | 9.00% | ~13,491 |
-| Tinkle of Coins | 9.00% | ~13,491 |
-| Disintermediation | 7.00% | ~10,493 |
-| It's Free Real Estate | 7.00% | ~10,493 |
-| Capitalism Ho! | 7.00% | ~10,493 |
-| Another Satisfied Customer | 6.00% | ~8,994 |
-| Budding Merchant | 6.00% | ~8,994 |
-| Own the Means of Production | 6.00% | ~8,994 |
-| One Easy Payment | 5.00% | ~7,495 |
-| Some Assembly Required | 5.00% | ~7,495 |
-| Pretty Penny | 5.00% | ~7,495 |
-| One-Armed Bandit | 5.00% | ~7,495 |
+| Sponsored by Argon | 10.00% | ~14,991 |
+| Titan's First Steps | 10.00% | ~14,991 |
+| Basic in Bulk | 9.00% | ~13,492 |
+| Tinkle of Coins | 9.00% | ~13,492 |
+| Disintermediation | 7.00% | ~10,494 |
+| It's Free Real Estate | 7.00% | ~10,494 |
+| Capitalism Ho! | 7.00% | ~10,494 |
+| Another Satisfied Customer | 6.00% | ~8,995 |
+| Budding Merchant | 6.00% | ~8,995 |
+| Own the Means of Production | 6.00% | ~8,995 |
+| One Easy Payment | 5.00% | ~7,496 |
+| Some Assembly Required | 5.00% | ~7,496 |
+| Pretty Penny | 5.00% | ~7,496 |
+| One-Armed Bandit | 5.00% | ~7,496 |
 | The Daily Grind | 4.00% | ~5,996 |
 | Bounty Hunters | 4.00% | ~5,996 |
 | Demand for Supplies | 4.00% | ~5,996 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.70% | ~1,049 |
 | JACKPOT!!! | 0.70% | ~1,049 |
 | Ultimate Collector | 0.60% | ~899 |
-| Oligarch Monarch | 0.50% | ~749 |
-| Merchant Extraordinaire | 0.50% | ~749 |
+| Oligarch Monarch | 0.50% | ~750 |
+| Merchant Extraordinaire | 0.50% | ~750 |
 | To Hell and Back | 0.40% | ~600 |
 | Cash Only Please | 0.40% | ~600 |
 | Capitalist Camaraderie | 0.20% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,899 (Ranked 86)  
+Progressed: 149,912 (Ranked 86)  
 Completed: 344 (0.23%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 344 (0.23%) (Ranked 268)
 | 2024-01-03 | 149,238 | 342 |
 | 2024-01-04 | 149,471 | 342 |
 | 2024-01-05 | 149,755 | 342 |
-| 2024-01-06 | 149,899 | 344 |
+| 2024-01-06 | 149,912 | 344 |
 ## Awards
 Max (Great for Beginners): 4,945  (Ranked 78)  
 Sum: 27,942 (Ranked 52)  

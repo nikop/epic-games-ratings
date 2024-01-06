@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 961,
+  "EOS_Progressed": 962,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3422,6 +3422,11 @@
       "Time": "2024-01-06T11:07:26.5475974+00:00",
       "NumProgressed": 961,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T16:04:48.0012422+00:00",
+      "NumProgressed": 962,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3447,9 +3452,9 @@
       "ID": "custom-sandbox",
       "SetID": "bed33dd",
       "Name": "Architect of Fortunes",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 221
     },
     {
       "ID": "dont-miss-calls",
@@ -3489,7 +3494,7 @@
       "Name": "Spreading Fear",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "pack-and-sell",
@@ -3497,7 +3502,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "play-at-night",
@@ -3537,7 +3542,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "sell-variety",
@@ -3567,9 +3572,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 760
     },
     {
       "ID": "use-submarine",
@@ -3584,15 +3589,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 961,
+      "Progressed": 962,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:04:39.5161256+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:04:48.0012419+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:02:53.8689176+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:04:39.5161512+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:03:00.3152654+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:04:48.0012639+00:00"
 }

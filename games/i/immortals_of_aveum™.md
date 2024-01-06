@@ -5,37 +5,37 @@ Rating: 4.21 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,518 |
-| Battlefields Have Memories | 80.00% | ~2,289 |
-| Enlisted | 74.00% | ~2,117 |
-| Maybe Engage a Little | 69.00% | ~1,974 |
-| No More Names | 52.00% | ~1,488 |
-| Initiate | 37.00% | ~1,059 |
-| Thrada-Kul | 34.00% | ~973 |
-| Gravity-Challenged Rocks | 27.00% | ~772 |
-| Socialite | 24.00% | ~687 |
-| Soldier | 23.00% | ~658 |
-| All the Major Food Groups | 22.00% | ~629 |
-| Beggars Would Ride | 20.00% | ~572 |
-| Control is an Illusion | 19.00% | ~544 |
-| The Means to Save It | 17.00% | ~486 |
-| Resilience to Sin | 15.00% | ~429 |
-| A Familiar Nest | 15.00% | ~429 |
+| Unforeseen | 88.00% | ~2,523 |
+| Battlefields Have Memories | 80.00% | ~2,294 |
+| Enlisted | 74.00% | ~2,122 |
+| Maybe Engage a Little | 69.00% | ~1,978 |
+| No More Names | 52.00% | ~1,491 |
+| Initiate | 37.00% | ~1,061 |
+| Thrada-Kul | 34.00% | ~975 |
+| Gravity-Challenged Rocks | 27.00% | ~774 |
+| Socialite | 24.00% | ~688 |
+| Soldier | 23.00% | ~659 |
+| All the Major Food Groups | 22.00% | ~631 |
+| Beggars Would Ride | 20.00% | ~573 |
+| Control is an Illusion | 19.00% | ~545 |
+| The Means to Save It | 17.00% | ~487 |
+| Resilience to Sin | 15.00% | ~430 |
+| A Familiar Nest | 15.00% | ~430 |
 | Geas Aristeya | 14.00% | ~401 |
 | Periapt Alizarin | 14.00% | ~401 |
-| A Perfect Cycle | 13.00% | ~372 |
-| Recruit | 12.00% | ~343 |
+| A Perfect Cycle | 13.00% | ~373 |
+| Recruit | 12.00% | ~344 |
 | Armsman | 11.00% | ~315 |
-| Lights Army | 9.00% | ~257 |
+| Lights Army | 9.00% | ~258 |
 | Periapt Cerulean | 8.00% | ~229 |
-| Good Boy | 7.00% | ~200 |
+| Good Boy | 7.00% | ~201 |
 | Periapt Viridian | 6.00% | ~172 |
 | Best Dressed | 5.00% | ~143 |
 | Shroudfane Explorer | 5.00% | ~143 |
-| Scholar | 4.00% | ~114 |
-| Kitted Out | 4.00% | ~114 |
-| Armaments Azure | 4.00% | ~114 |
-| Armaments Gules | 4.00% | ~114 |
+| Scholar | 4.00% | ~115 |
+| Kitted Out | 4.00% | ~115 |
+| Armaments Azure | 4.00% | ~115 |
+| Armaments Gules | 4.00% | ~115 |
 | Armaments Vert | 3.00% | ~86 |
 | Veteran | 2.00% | ~57 |
 | Grand Magnus | 1.00% | ~29 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 951)
 | Treasure Hunter | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,861 (Ranked 229)  
+Progressed: 2,867 (Ranked 229)  
 Completed: 4 (0.14%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 4 (0.14%) (Ranked 296)
 | 2024-01-03 | 2,622 | 2 |
 | 2024-01-04 | 2,699 | 2 |
 | 2024-01-05 | 2,796 | 4 |
-| 2024-01-06 | 2,861 | 4 |
+| 2024-01-06 | 2,867 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

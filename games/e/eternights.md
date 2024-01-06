@@ -1,20 +1,20 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.77 (Ranked 116)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 76.00% | ~609 |
-| Shelter Escape | 75.00% | ~601 |
+| New arm | 76.00% | ~610 |
+| Shelter Escape | 75.00% | ~602 |
 | The First Bond | 63.00% | ~505 |
 | Novice Scavenger | 56.00% | ~449 |
-| Master Craftsman | 44.00% | ~352 |
-| First wall | 44.00% | ~352 |
-| Piggyback Expert | 42.00% | ~336 |
-| Second wall | 32.00% | ~256 |
-| Expert Scavenger | 31.00% | ~248 |
-| Their Rock | 27.00% | ~216 |
+| Master Craftsman | 44.00% | ~353 |
+| First wall | 44.00% | ~353 |
+| Piggyback Expert | 42.00% | ~337 |
+| Second wall | 32.00% | ~257 |
+| Expert Scavenger | 31.00% | ~249 |
+| Their Rock | 27.00% | ~217 |
 | Yuna's Promise | 25.00% | ~200 |
 | Stone Retriever | 25.00% | ~200 |
 | Find myself | 24.00% | ~192 |
@@ -31,7 +31,7 @@ Rating: 4.76 (Ranked 130)
 | Dreamboat | 1.00% | ~8 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801 (Ranked 307)  
+Progressed: 802 (Ranked 307)  
 Completed: 2 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,9 +136,10 @@ Completed: 2 (0.25%) (Ranked 264)
 | 2024-01-03 | 757 | 2 |
 | 2024-01-04 | 768 | 2 |
 | 2024-01-05 | 785 | 2 |
-| 2024-01-06 | 801 | 2 |
+| 2024-01-06 | 802 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-12-27 | 4.75 | 0 | 0 |
 | 2023-12-31 | 4.76 | 0 | 0 |
+| 2024-01-06 | 4.77 | 0 | 0 |

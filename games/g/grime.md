@@ -12,12 +12,12 @@ Number of Ratings: 46  (23.09.2022)
 | Weeper | 2.00% | ~3,337 |
 | Ravenous | 2.00% | ~3,337 |
 | Devourer | 1.00% | ~1,668 |
-| Harmless | 0.90% | ~1,501 |
-| Silenced Whispers | 0.90% | ~1,501 |
+| Harmless | 0.90% | ~1,502 |
+| Silenced Whispers | 0.90% | ~1,502 |
 | Yank | 0.80% | ~1,335 |
 | Sharpened Vessel | 0.80% | ~1,335 |
 | Feast | 0.70% | ~1,168 |
-| Scion | 0.60% | ~998 |
+| Scion | 0.60% | ~999 |
 | Jawcrab | 0.60% | ~1,001 |
 | Jawstag | 0.60% | ~1,001 |
 | Watcher | 0.60% | ~1,001 |
@@ -27,13 +27,13 @@ Number of Ratings: 46  (23.09.2022)
 | Assimilation | 0.40% | ~667 |
 | Host | 0.40% | ~666 |
 | Celebration | 0.40% | ~667 |
-| Hunt Down | 0.30% | ~500 |
-| Artisan | 0.30% | ~500 |
-| Hush | 0.30% | ~500 |
-| Inevitable | 0.30% | ~500 |
-| All-Seeing | 0.30% | ~500 |
-| Breathsmith | 0.30% | ~500 |
-| Unwrap the Gift | 0.30% | ~500 |
+| Hunt Down | 0.30% | ~501 |
+| Artisan | 0.30% | ~501 |
+| Hush | 0.30% | ~501 |
+| Inevitable | 0.30% | ~501 |
+| All-Seeing | 0.30% | ~501 |
+| Breathsmith | 0.30% | ~501 |
+| Unwrap the Gift | 0.30% | ~501 |
 | Dream | 0.30% | ~499 |
 | Bloodhunter | 0.20% | ~334 |
 | Breath | 0.20% | ~334 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~166 |
 | Intensify | 0.10% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166,829 (Ranked 84)  
+Progressed: 166,842 (Ranked 84)  
 Completed: 446 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,18 +291,18 @@ Completed: 446 (0.27%) (Ranked 258)
 | 2024-01-03 | 166,329 | 441 |
 | 2024-01-04 | 166,498 | 443 |
 | 2024-01-05 | 166,702 | 445 |
-| 2024-01-06 | 166,829 | 446 |
+| 2024-01-06 | 166,842 | 446 |
 ## Awards
 Max (Unique Visuals): 62  (Ranked 428)  
-Sum: 442 (Ranked 342)  
+Sum: 444 (Ranked 342)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game has Unique Visuals | 62 |
 | This game is Highly Recommended | 60 |
+| This game has Challenging Combat | 58 |
 | This game has Quickly Understood Controls | 58 |
 | This game has Amazing Storytelling | 58 |
-| This game has Challenging Combat | 56 |
 | This game is Extremely Fun | 56 |
 | This game has Amazing Characters | 52 |
 | This game has a Creative Community | 40 |
@@ -485,3 +485,4 @@ Diff (max vs sum): 86
 | 2024-01-03 | 4.60 | - | 61 | 440 |
 | 2024-01-04 | 4.59 | - | 61 | 441 |
 | 2024-01-05 | 4.60 | - | 62 | 442 |
+| 2024-01-06 | 4.59 | - | 62 | 444 |

@@ -6,24 +6,24 @@
 | ---- | ---------- | ----- |
 | Hero Arrives | 89.00% | ~64 |
 | Eat the Rich | 61.00% | ~44 |
-| Killing Machine | 46.00% | ~33 |
+| Killing Machine | 47.00% | ~34 |
 | Death Battle | 42.00% | ~30 |
 | Phantom Kunoichi | 42.00% | ~30 |
 | Divine Retribution | 40.00% | ~29 |
 | Captain Mustache | 39.00% | ~28 |
 | Final Showdown | 35.00% | ~25 |
+| Dispel Rumors | 35.00% | ~25 |
 | The End of an Outlaw | 35.00% | ~25 |
-| Dispel Rumors | 33.00% | ~24 |
 | Demon Slayer | 31.00% | ~22 |
 | Steal Her Away | 29.00% | ~21 |
-| Fight Fire With Fire | 28.00% | ~20 |
-| Sewer Rat | 26.00% | ~19 |
+| Sewer Rat | 29.00% | ~21 |
+| Fight Fire With Fire | 29.00% | ~21 |
 | Big Eater | 25.00% | ~18 |
 | Urban Explorer | 25.00% | ~18 |
 | Not Today | 25.00% | ~18 |
 | Coward | 25.00% | ~18 |
 | Tour Guide | 24.00% | ~17 |
-| Tomb Raider | 22.00% | ~16 |
+| Tomb Raider | 24.00% | ~17 |
 | The Real O.G. | 19.00% | ~14 |
 | The Hero of the People | 15.00% | ~11 |
 | Talk to the Fist | 13.00% | ~9 |

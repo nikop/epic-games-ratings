@@ -20,7 +20,9 @@
 | Fast 13x13 | 1.00% | ~1 |
 | Complete 100 levels | 1.00% | ~1 |
 | Complete 25 6x6 levels | 1.00% | ~1 |
+| Complete 25 7x7 levels | 1.00% | ~1 |
 | By Yourself 6x6 | 1.00% | ~1 |
+| By Yourself 9x9 | 1.00% | ~1 |
 | By Yourself 13x13 | 1.00% | ~1 |
 | Addicted for 3 Days | 0.00% | ~0 |
 | Addicted for 7 Days | 0.00% | ~0 |
@@ -33,7 +35,6 @@
 | Complete 500 levels | 0.00% | ~0 |
 | Complete 1000 levels | 0.00% | ~0 |
 | Complete 5000 levels | 0.00% | ~0 |
-| Complete 25 7x7 levels | 0.00% | ~0 |
 | Complete 25 8x8 levels | 0.00% | ~0 |
 | Complete 25 9x9 levels | 0.00% | ~0 |
 | Complete 25 10x10 levels | 0.00% | ~0 |
@@ -41,7 +42,6 @@
 | Complete 25 12x12 levels | 0.00% | ~0 |
 | Complete 25 13x13 levels | 0.00% | ~0 |
 | By Yourself 8x8 | 0.00% | ~0 |
-| By Yourself 9x9 | 0.00% | ~0 |
 | By Yourself 10x10 | 0.00% | ~0 |
 | By Yourself 11x11 | 0.00% | ~0 |
 | By Yourself 12x12 | 0.00% | ~0 |

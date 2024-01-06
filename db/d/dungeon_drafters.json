@@ -4,8 +4,8 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -666,6 +666,11 @@
       "Time": "2024-01-06T01:50:45.7351669+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T16:04:30.5039657+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -709,7 +714,7 @@
       "Name": "Dungeon Mastery",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LW_complete",
@@ -787,9 +792,9 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -867,9 +872,9 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "bad_ending",
@@ -885,7 +890,7 @@
       "Name": "Clear as Water",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "cards_discovered_complete",
@@ -901,7 +906,7 @@
       "Name": "Card Collector",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "demiurge_defeated",
@@ -915,9 +920,9 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "git_gud?",
@@ -996,7 +1001,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 0
     }
   ],
@@ -1004,8 +1009,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:04:22.119673+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:04:30.5039653+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.4890913+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:59:28.3739486+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:04:22.1196965+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:59:35.7271685+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:04:30.5040028+00:00"
 }

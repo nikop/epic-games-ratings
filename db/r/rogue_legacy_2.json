@@ -6,9 +6,9 @@
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1578,9 +1578,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27828,
+  "EOS_Progressed": 27833,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -13238,6 +13238,11 @@
       "Time": "2024-01-06T15:09:52.1874726+00:00",
       "NumProgressed": 27828,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-06T16:09:59.3341836+00:00",
+      "NumProgressed": 27833,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13313,7 +13318,7 @@
       "Name": "Captain and Crew",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -13560,21 +13565,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27828,
+      "Progressed": 27833,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6758,
+      "Progressed": 6763,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-05T17:59:53.3686411+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:09:52.1874723+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:09:59.334183+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:59:07.4003105+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:09:52.1875531+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:59:15.6384256+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:09:59.3342565+00:00"
 }

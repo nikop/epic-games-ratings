@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -1819,6 +1819,11 @@
       "Time": "2024-01-06T04:11:11.5424266+00:00",
       "NumProgressed": 664,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T16:10:07.1393196+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1870,7 +1875,7 @@
       "Name": "Bug Hunter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Cryomancer",
@@ -2006,7 +2011,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "OrcMustDie",
@@ -2054,7 +2059,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SlingOfDavid",
@@ -2149,7 +2154,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 1
     }
   ],
@@ -2157,8 +2162,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:09:59.9221011+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:10:07.139319+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:58:56.377824+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:09:59.9221433+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:59:04.8575229+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:10:07.1393778+00:00"
 }

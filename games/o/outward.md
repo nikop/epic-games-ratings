@@ -6,21 +6,21 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,316 |
-| Ready for Winter | 61.00% | ~2,771 |
-| Ready for Summer | 48.00% | ~2,180 |
-| Cordon Bleu | 41.00% | ~1,862 |
-| Tapped! | 35.00% | ~1,590 |
-| Eureka | 30.00% | ~1,363 |
-| Scourge Slayer | 23.00% | ~1,045 |
-| Science, Troglodyte! | 22.00% | ~999 |
-| Exceptional Skill | 21.00% | ~954 |
-| Home Sweet Home | 20.00% | ~908 |
+| Venture Outward | 72.00% | ~3,273 |
+| Ready for Winter | 61.00% | ~2,773 |
+| Ready for Summer | 48.00% | ~2,182 |
+| Cordon Bleu | 41.00% | ~1,864 |
+| Tapped! | 35.00% | ~1,591 |
+| Eureka | 30.00% | ~1,364 |
+| Scourge Slayer | 23.00% | ~1,046 |
+| Science, Troglodyte! | 22.00% | ~1,000 |
+| Exceptional Skill | 21.00% | ~955 |
+| Home Sweet Home | 20.00% | ~909 |
 | Encyclopedic! | 18.00% | ~818 |
-| A Fortress Toppled! | 15.00% | ~681 |
-| The Power of Family | 15.00% | ~681 |
+| A Fortress Toppled! | 15.00% | ~682 |
+| The Power of Family | 15.00% | ~682 |
 | Apex Predator | 14.00% | ~636 |
-| The Power of Faith | 12.00% | ~545 |
+| The Power of Faith | 12.00% | ~546 |
 | Strange amalgams | 11.00% | ~500 |
 | The Power of Freedom | 9.00% | ~409 |
 | Ace Detective | 7.00% | ~318 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,542 (Ranked 206)  
+Progressed: 4,546 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,11 +296,11 @@ Completed: 5 (0.11%) (Ranked 305)
 | 2024-01-03 | 4,452 | 5 |
 | 2024-01-04 | 4,478 | 5 |
 | 2024-01-05 | 4,511 | 5 |
-| 2024-01-06 | 4,542 | 5 |
+| 2024-01-06 | 4,546 | 5 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 501)  
+Max (Highly Recommended): 35  (Ranked 502)  
 Sum: 246 (Ranked 399)  
-Diff (max vs sum): 102  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

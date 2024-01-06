@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1866,
+  "EOS_Progressed": 1869,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4697,6 +4697,11 @@
       "Time": "2024-01-06T15:03:49.3155432+00:00",
       "NumProgressed": 1866,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T16:03:58.0537079+00:00",
+      "NumProgressed": 1869,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4739,9 +4744,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "5k00jcd",
       "Name": "Like lightning!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 56
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4787,9 +4792,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -4811,9 +4816,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "5k00jcd",
       "Name": "Shapeshifter",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -4859,9 +4864,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4965,7 +4970,7 @@
       "Name": "Spin the wheel",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5019,9 +5024,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -5035,9 +5040,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -5076,20 +5081,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1866,
+      "Progressed": 1869,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1534,
+      "Progressed": 1537,
       "Completed": 1007
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:03:49.315543+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:03:58.0537077+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:02:44.6501175+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:03:49.3155852+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:02:51.2559909+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:03:58.0537512+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -661,9 +661,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4218,
+  "EOS_Progressed": 4220,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9441,6 +9441,11 @@
       "Time": "2024-01-06T15:09:26.7437949+00:00",
       "NumProgressed": 4218,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-06T16:09:33.3845551+00:00",
+      "NumProgressed": 4220,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9460,7 +9465,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -9516,7 +9521,7 @@
       "Name": "Organ Grinder",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9532,7 +9537,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9572,7 +9577,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -9588,7 +9593,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9652,7 +9657,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9676,7 +9681,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9692,7 +9697,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -9700,7 +9705,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9762,9 +9767,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1477
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9820,7 +9825,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9844,7 +9849,7 @@
       "Name": "Target America",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9860,7 +9865,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9940,7 +9945,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -9948,7 +9953,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -9956,7 +9961,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -10019,13 +10024,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4169,
+      "Progressed": 4171,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4218,
+      "Progressed": 4220,
       "Completed": 11
     }
   ],
@@ -10033,8 +10038,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:09:26.7437944+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:09:33.3845547+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:59:50.6256016+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:09:26.743906+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:59:57.5034858+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:09:33.3846659+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18393,
+  "EOS_Progressed": 18396,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 2,
@@ -16475,6 +16475,11 @@
       "Time": "2024-01-06T15:05:34.095437+00:00",
       "NumProgressed": 18393,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-06T16:05:42.6162758+00:00",
+      "NumProgressed": 18396,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16503,7 +16508,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "12",
@@ -16535,7 +16540,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "16",
@@ -16551,7 +16556,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "18",
@@ -16567,7 +16572,7 @@
       "Name": "Martian Music",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "2",
@@ -16591,7 +16596,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "22",
@@ -16607,7 +16612,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "24",
@@ -16631,7 +16636,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "27",
@@ -16639,7 +16644,7 @@
       "Name": "Bosmang",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "28",
@@ -16719,7 +16724,7 @@
       "Name": "Impossible Objects",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "31",
@@ -16735,7 +16740,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "33",
@@ -16759,29 +16764,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18393,
+      "Progressed": 18396,
       "Completed": 59
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4347,
-      "Completed": 1213
+      "Progressed": 4350,
+      "Completed": 1214
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:05:34.0954367+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:05:42.6162754+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:57:27.0114823+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:05:34.0955154+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:57:36.8798606+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:05:42.6163713+00:00"
 }

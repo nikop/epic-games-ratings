@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 270,
-  "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -165,7 +165,7 @@
   "Tags": [],
   "EOS_Progressed": 1407,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.91,
   "EosHistory": [
@@ -4977,9 +4977,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 872
+      "UsersEstimate": 886
     },
     {
       "ID": "MQ01_2",
@@ -5009,9 +5009,9 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 267
     },
     {
       "ID": "MQ02_4",
@@ -5049,9 +5049,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 619
     },
     {
       "ID": "MQ03_5",
@@ -5210,8 +5210,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:03:42.0363822+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:03:50.8921107+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.3322639+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:03:06.491569+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:03:42.0364206+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:03:13.1819397+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:03:50.8921601+00:00"
 }

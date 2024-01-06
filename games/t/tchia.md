@@ -5,8 +5,8 @@ Rating: 4.69 (Ranked 234)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Saver | 1.00% | ~87 |
-| In a Pinch | 1.00% | ~87 |
+| Energy Saver | 1.00% | ~88 |
+| In a Pinch | 1.00% | ~88 |
 | The Journey Onwards | 0.70% | ~61 |
 | Soul-Canon | 0.50% | ~44 |
 | Body and Soul | 0.40% | ~35 |
@@ -14,9 +14,9 @@ Rating: 4.69 (Ranked 234)
 | Ahem Ahem | 0.30% | ~26 |
 | Audiophile | 0.30% | ~26 |
 | Shredder | 0.30% | ~26 |
-| Clay Pigeon | 0.20% | ~17 |
-| Historian | 0.20% | ~17 |
-| Iconoclast | 0.20% | ~17 |
+| Clay Pigeon | 0.20% | ~18 |
+| Historian | 0.20% | ~18 |
+| Iconoclast | 0.20% | ~18 |
 | Arrr! | 0.10% | ~9 |
 | Ça de Wizz! | 0.10% | ~9 |
 | Fashion Faux-Pas | 0.10% | ~9 |
@@ -27,7 +27,7 @@ Rating: 4.69 (Ranked 234)
 | Snip Snip | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,749 (Ranked 187)  
+Progressed: 8,752 (Ranked 187)  
 Completed: 35 (0.40%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 35 (0.40%) (Ranked 235)
 | 2024-01-03 | 8,678 | 34 |
 | 2024-01-04 | 8,703 | 35 |
 | 2024-01-05 | 8,733 | 35 |
-| 2024-01-06 | 8,749 | 35 |
+| 2024-01-06 | 8,752 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201,
+  "EOS_Progressed": 202,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.47,
+  "EOS_Completed_Percentage": 5.45,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -999,6 +999,11 @@
       "Time": "2024-01-06T15:06:08.3091648+00:00",
       "NumProgressed": 201,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-06T16:06:16.1766044+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1059,7 +1064,7 @@
       "Name": "Jing Jang",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Kamzik",
@@ -1067,7 +1072,7 @@
       "Name": "Chamois",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Kour",
@@ -1099,7 +1104,7 @@
       "Name": "Blossoms",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "MluviciPapouch",
@@ -1179,7 +1184,7 @@
       "Name": "Sleeping Parrot",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Sputnik2",
@@ -1243,21 +1248,21 @@
       "Name": "Dancing Fungus",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 201,
+      "Progressed": 202,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:06:08.3091645+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:06:16.176604+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-06T15:02:56.623533+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:06:08.3091862+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:03:03.2504411+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:06:16.1766269+00:00"
 }

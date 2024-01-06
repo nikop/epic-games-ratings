@@ -1769,10 +1769,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 442,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-06T15:57:18.5501398+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 444,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 442,
+  "NumberOfAwards": 444,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -1792,7 +1798,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 56
+      "Count": 58
     },
     {
       "Text": "This game has a Creative Community",
@@ -1831,9 +1837,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166829,
+  "EOS_Progressed": 166842,
   "EOS_Completed": 446,
-  "EOS_NewPlayers": 1325,
+  "EOS_NewPlayers": 1333,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22071,6 +22077,11 @@
       "Time": "2024-01-06T15:06:17.2992908+00:00",
       "NumProgressed": 166829,
       "NumCompleted": 446
+    },
+    {
+      "Time": "2024-01-06T16:08:14.5692222+00:00",
+      "NumProgressed": 166842,
+      "NumCompleted": 446
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22163,7 +22174,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -22171,7 +22182,7 @@
       "Name": "Artisan",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -22187,7 +22198,7 @@
       "Name": "Scion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -22211,7 +22222,7 @@
       "Name": "Hush",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -22219,7 +22230,7 @@
       "Name": "Harmless",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -22251,7 +22262,7 @@
       "Name": "Inevitable",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -22275,7 +22286,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -22291,7 +22302,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -22331,7 +22342,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -22363,7 +22374,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -22450,21 +22461,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166412,
-      "Completed": 1254
+      "Progressed": 166425,
+      "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166829,
+      "Progressed": 166842,
       "Completed": 446
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-05T17:00:16.9854489+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:06:17.2992906+00:00",
+  "LastChanged": "2024-01-06T15:57:18.5501396+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:08:14.5692216+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:57:08.4178723+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:06:17.2994166+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:57:18.5501401+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:08:14.5693521+00:00"
 }

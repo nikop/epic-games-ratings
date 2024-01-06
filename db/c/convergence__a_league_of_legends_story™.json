@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1252,
+  "EOS_Progressed": 1253,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3707,6 +3707,11 @@
       "Time": "2024-01-06T14:10:12.2822537+00:00",
       "NumProgressed": 1252,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-06T16:10:10.0433613+00:00",
+      "NumProgressed": 1253,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3750,7 +3755,7 @@
       "Name": "Right On Time",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3790,7 +3795,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "CultivairChests1",
@@ -3854,7 +3859,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "GadgetCompletion1",
@@ -3972,9 +3977,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 326
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3990,7 +3995,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "PidgeDefeated",
@@ -4006,15 +4011,15 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 326
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4046,7 +4051,7 @@
       "Name": "Fast Learner",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "SpeedRun",
@@ -4078,7 +4083,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "TheaterChests1",
@@ -4134,14 +4139,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1252,
+      "Progressed": 1253,
       "Completed": 6
     }
   ],
@@ -4149,8 +4154,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:10:02.778222+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:10:10.0433608+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:57:33.3122249+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:10:02.778287+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:57:42.7992093+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:10:10.0434098+00:00"
 }

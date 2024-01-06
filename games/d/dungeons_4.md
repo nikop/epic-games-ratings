@@ -5,38 +5,38 @@ Rating: 4.71 (Ranked 203)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~648 |
-| Thalya – Simply Immortal | 88.00% | ~648 |
+| The Last Stand | 88.00% | ~649 |
+| Thalya – Simply Immortal | 88.00% | ~649 |
 | For the Horde! | 82.00% | ~604 |
-| Hammer Time, Round Two | 81.00% | ~596 |
+| Hammer Time, Round Two | 81.00% | ~597 |
 | The Hellwoods | 77.00% | ~567 |
-| The Plains of Strothalm | 73.00% | ~537 |
+| The Plains of Strothalm | 73.00% | ~538 |
 | Experienced Thalya | 71.00% | ~523 |
-| Thalya's Concentrated Fury | 68.00% | ~500 |
-| Bad Elves Go Everywhere | 68.00% | ~500 |
-| Heroes’ Gorge | 64.00% | ~471 |
-| Master of Magic | 62.00% | ~456 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~456 |
-| Magic Accidents | 59.00% | ~434 |
-| The Ascent | 59.00% | ~434 |
-| It's Warm and Cozy at Home | 59.00% | ~434 |
-| Trap Master | 56.00% | ~412 |
+| Thalya's Concentrated Fury | 68.00% | ~501 |
+| Bad Elves Go Everywhere | 68.00% | ~501 |
+| Heroes’ Gorge | 64.00% | ~472 |
+| Master of Magic | 62.00% | ~457 |
+| Unicorn steaks – fresh off the hoof! | 62.00% | ~457 |
+| Magic Accidents | 59.00% | ~435 |
+| The Ascent | 59.00% | ~435 |
+| It's Warm and Cozy at Home | 59.00% | ~435 |
+| Trap Master | 55.00% | ~405 |
 | Minions, Minions! | 55.00% | ~405 |
-| Hard Work | 54.00% | ~397 |
-| The Big Eaty | 53.00% | ~390 |
-| “… like son” | 51.00% | ~375 |
+| Hard Work | 54.00% | ~398 |
+| The Big Eaty | 53.00% | ~391 |
+| “… like son” | 51.00% | ~376 |
 | YOU SHALL NOT PASS! | 50.00% | ~368 |
 | The Cathedral of Light | 47.00% | ~346 |
 | Shame! Shame! Shame! | 47.00% | ~346 |
-| Pure Dynamite! | 45.00% | ~331 |
-| Dungeonlord Gorgu | 45.00% | ~331 |
-| Tanos' Crusade Against Thalya | 45.00% | ~331 |
-| Mana Cannon | 42.00% | ~309 |
+| Pure Dynamite! | 45.00% | ~332 |
+| Dungeonlord Gorgu | 45.00% | ~332 |
+| Tanos' Crusade Against Thalya | 45.00% | ~332 |
+| Mana Cannon | 42.00% | ~310 |
 | All’s Well That Ends Evil | 41.00% | ~302 |
 | The Duel | 38.00% | ~280 |
 | If Looks Could Kill | 35.00% | ~258 |
-| Unstoppable Horde | 34.00% | ~250 |
-| Master of the Undead | 34.00% | ~250 |
+| Unstoppable Horde | 34.00% | ~251 |
+| Master of the Undead | 34.00% | ~251 |
 | The Finitude Drill | 33.00% | ~243 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~221 |
 | Doom Hill | 30.00% | ~221 |
@@ -46,18 +46,18 @@ Rating: 4.71 (Ranked 203)
 | Hungry, Hungry Gorgu! | 27.00% | ~199 |
 | Raiders of the Lost Stone | 27.00% | ~199 |
 | The Rune Sockets of Finitude (Part 1) | 27.00% | ~199 |
-| Stop Tanos! | 26.00% | ~191 |
-| Sabotage! | 26.00% | ~191 |
+| Stop Tanos! | 26.00% | ~192 |
+| Sabotage! | 26.00% | ~192 |
 | Bonus Evilness | 25.00% | ~184 |
 | The Rune Sockets of Finitude (Part 2) | 25.00% | ~184 |
-| The Last Stand - This Time For Real! | 23.00% | ~169 |
+| The Last Stand - This Time For Real! | 23.00% | ~170 |
 | Rubble and Ashes | 22.00% | ~162 |
 | Lavalumps on Ice! | 20.00% | ~147 |
 | To Infinity And Beyond! | 19.00% | ~140 |
-| Sacrificial Pit = Garbage Disposal? | 18.00% | ~132 |
-| My Little Torture Chamber | 18.00% | ~132 |
-| To the Max! | 18.00% | ~132 |
-| Evilification | 18.00% | ~132 |
+| Sacrificial Pit = Garbage Disposal? | 18.00% | ~133 |
+| My Little Torture Chamber | 18.00% | ~133 |
+| To the Max! | 18.00% | ~133 |
+| Evilification | 18.00% | ~133 |
 | Heal Heal Blessing | 17.00% | ~125 |
 | Mirror, Mirror | 16.00% | ~118 |
 | Untouchable | 16.00% | ~118 |
@@ -67,8 +67,8 @@ Rating: 4.71 (Ranked 203)
 | No Mana, No Cry | 11.00% | ~81 |
 | I Don't Need Any Help | 10.00% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736 (Ranked 315)  
-Completed: 30 (4.08%) (Ranked 91)  
+Progressed: 737 (Ranked 315)  
+Completed: 30 (4.07%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 30 (4.08%) (Ranked 91)
 | 2024-01-03 | 710 | 28 |
 | 2024-01-04 | 719 | 28 |
 | 2024-01-05 | 729 | 29 |
-| 2024-01-06 | 736 | 30 |
+| 2024-01-06 | 737 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -22,8 +22,8 @@ Number of Ratings: 154  (23.09.2022)
 | Boss Rush Attempt | 48.00% | ~327 |
 | Cleared Sonic the Hedgehog | 48.00% | ~327 |
 | Super Sonic | 42.00% | ~286 |
+| Beware Stingers! | 40.00% | ~272 |
 | Shut Down Metal Sonic | 39.00% | ~266 |
-| Beware Stingers! | 39.00% | ~266 |
 | Museum Time | 39.00% | ~266 |
 | Very First Mission Clear! | 39.00% | ~266 |
 | Beware Moto Bugs! | 38.00% | ~259 |
@@ -222,8 +222,8 @@ Completed: 48 (7.05%) (Ranked 59)
 | 2024-01-05 | 680 | 48 |
 | 2024-01-06 | 681 | 48 |
 ## Awards
-Max (Great Boss Battles): 131  (Ranked 340)  
-Sum: 131 (Ranked 445)  
+Max (Great Boss Battles): 131  (Ranked 341)  
+Sum: 131 (Ranked 446)  
 Diff (max vs sum): -105  
 | Award | Count |
 | ----- | ----- |

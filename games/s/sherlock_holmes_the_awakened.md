@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 614)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~872 |
+| Read Between The Lines | 63.00% | ~886 |
 | To Hell In A Handcart | 61.00% | ~858 |
 | High Profile | 55.00% | ~774 |
 | Whispers In The Dark | 52.00% | ~732 |
@@ -13,9 +13,9 @@ Rating: 4.50 (Ranked 614)
 | A Method To His Madness | 48.00% | ~675 |
 | History Check | 47.00% | ~661 |
 | The New World | 45.00% | ~633 |
+| Gaze Into The Abyss | 44.00% | ~619 |
 | Open Sesame | 44.00% | ~619 |
 | Lock, Stock, And Barrel | 43.00% | ~605 |
-| Gaze Into The Abyss | 43.00% | ~605 |
 | Sticky Fingers | 43.00% | ~605 |
 | Knives Out | 43.00% | ~605 |
 | Land, Ho! | 43.00% | ~605 |
@@ -30,12 +30,12 @@ Rating: 4.50 (Ranked 614)
 | No Stone Unturned | 32.00% | ~450 |
 | Brain Food | 31.00% | ~436 |
 | Read It And Weep | 20.00% | ~281 |
-| Curiosity Killed The Cat | 18.00% | ~253 |
+| Curiosity Killed The Cat | 19.00% | ~267 |
 | Big Breakthrough | 12.00% | ~169 |
 | Reawakened | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,407 (Ranked 270)  
-Completed: 41 (2.91%) (Ranked 114)  
+Completed: 41 (2.91%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

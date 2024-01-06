@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10578,9 +10578,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131904,
+  "EOS_Progressed": 131911,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1151,
+  "EOS_NewPlayers": 1152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38613,6 +38613,11 @@
       "Time": "2024-01-06T15:09:39.2662724+00:00",
       "NumProgressed": 131904,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T16:09:46.2844457+00:00",
+      "NumProgressed": 131911,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38624,7 +38629,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -38632,7 +38637,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38752,7 +38757,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7914
+      "UsersEstimate": 7915
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38784,7 +38789,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38824,7 +38829,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38840,7 +38845,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "combat_kill_librarian",
@@ -38848,7 +38853,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7914
+      "UsersEstimate": 7915
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38864,7 +38869,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38920,7 +38925,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -38944,7 +38949,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "driving_distance_easy",
@@ -38976,7 +38981,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9233
+      "UsersEstimate": 9234
     },
     {
       "ID": "hero_story_complete_all",
@@ -39160,7 +39165,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "combat_kill_collector",
@@ -39168,7 +39173,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39255,21 +39260,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131904,
+      "Progressed": 131911,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6773,
+      "Progressed": 6780,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-06T13:57:01.790944+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:09:39.266272+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:09:46.2844452+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:56:56.8288607+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:09:39.2665158+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:57:06.7607904+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:09:46.2846254+00:00"
 }

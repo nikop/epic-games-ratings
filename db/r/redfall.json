@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -369,9 +369,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2279,
+  "EOS_Progressed": 2281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4094,6 +4094,11 @@
       "Time": "2024-01-06T15:04:20.4233163+00:00",
       "NumProgressed": 2279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T16:04:28.8184483+00:00",
+      "NumProgressed": 2281,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4329,7 +4334,7 @@
       "Name": "ICU",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Achievement_031",
@@ -4353,7 +4358,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Achievement_034",
@@ -4632,7 +4637,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2279,
+      "Progressed": 2281,
       "Completed": 0
     }
   ],
@@ -4640,8 +4645,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-06T04:58:33.5555876+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:04:20.4233159+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:04:28.818448+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:58:16.2863001+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:04:20.423387+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:58:26.189589+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:04:28.8185266+00:00"
 }

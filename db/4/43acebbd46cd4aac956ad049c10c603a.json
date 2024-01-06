@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -297,7 +297,7 @@
   ],
   "EOS_Progressed": 1292,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3944,9 +3944,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 233
     },
     {
       "ID": "PrometheusUnbound",
@@ -4144,9 +4144,9 @@
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 181
     }
   ],
   "AchievementSets": [
@@ -4161,8 +4161,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-06T04:02:56.8031666+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:05:07.7200544+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:05:15.892526+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:57:03.0276453+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:05:07.720113+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:57:12.5655067+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:05:15.892579+00:00"
 }

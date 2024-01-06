@@ -7,15 +7,15 @@
 | The Remains of Fleed | 51.00% | ~35 |
 | Life of Pi | 51.00% | ~35 |
 | The Legend | 49.00% | ~34 |
-| Escape from Fleed | 41.00% | ~28 |
-| Strength in Defeat | 41.00% | ~28 |
+| Escape from Fleed | 42.00% | ~29 |
+| Strength in Defeat | 42.00% | ~29 |
 | First Contact | 39.00% | ~27 |
-| The Exterminator | 19.00% | ~13 |
+| The Exterminator | 20.00% | ~14 |
 | Earth's Savior | 17.00% | ~12 |
 | Technology first! | 16.00% | ~11 |
 | The Keeper of Fleed | 12.00% | ~8 |
 | The Collector | 10.00% | ~7 |
-| The Broken Guard | 6.00% | ~4 |
+| The Broken Guard | 7.00% | ~5 |
 | The Vega Turtle | 6.00% | ~4 |
 | Gold Seeker | 4.00% | ~3 |
 | A Good Paint Job | 4.00% | ~3 |

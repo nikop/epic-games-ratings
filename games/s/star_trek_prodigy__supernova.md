@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Restoring the Protostar | 56.00% | ~10 |
-| Three Watchers, Two Phasers | 39.00% | ~7 |
-| Guess who's back | 33.00% | ~6 |
-| One for the Crew | 28.00% | ~5 |
-| The Clock is Ticking | 28.00% | ~5 |
-| A Helping Hand | 28.00% | ~5 |
-| I've Got You | 17.00% | ~3 |
+| Restoring the Protostar | 53.00% | ~10 |
+| Three Watchers, Two Phasers | 37.00% | ~7 |
+| Guess who's back | 32.00% | ~6 |
+| One for the Crew | 26.00% | ~5 |
+| The Clock is Ticking | 26.00% | ~5 |
+| A Helping Hand | 26.00% | ~5 |
+| I've Got You | 21.00% | ~4 |
 | One Man Army | 11.00% | ~2 |
 | Up your Arsenal | 11.00% | ~2 |
 | Punny Lover | 11.00% | ~2 |
@@ -27,14 +27,14 @@
 | Welcome back | 11.00% | ~2 |
 | Getting Better | 11.00% | ~2 |
 | Teamwork makes the dream work | 11.00% | ~2 |
-| Priceless Collection | 6.00% | ~1 |
-| Quest for Loot | 6.00% | ~1 |
-| Proto Menagerie | 6.00% | ~1 |
-| Stopping the Supernova | 6.00% | ~1 |
-| Saved the System | 6.00% | ~1 |
-| Seeking Discovery | 6.00% | ~1 |
-| Open Sesame | 6.00% | ~1 |
-| Trekkie | 6.00% | ~1 |
+| Priceless Collection | 5.00% | ~1 |
+| Quest for Loot | 5.00% | ~1 |
+| Proto Menagerie | 5.00% | ~1 |
+| Stopping the Supernova | 5.00% | ~1 |
+| Saved the System | 5.00% | ~1 |
+| Seeking Discovery | 5.00% | ~1 |
+| Open Sesame | 5.00% | ~1 |
+| Trekkie | 5.00% | ~1 |
 | Badge of a Captain | 0.00% | ~0 |
 | A True Merit Badge | 0.00% | ~0 |
 | Wilderness Badge | 0.00% | ~0 |
@@ -46,7 +46,7 @@
 | Relic Hunter | 0.00% | ~0 |
 | Maxed out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 624)  
+Progressed: 19 (Ranked 622)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,6 +63,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-11-24 | 16 | 0 |
 | 2023-11-26 | 17 | 0 |
 | 2023-12-02 | 18 | 0 |
+| 2024-01-06 | 19 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

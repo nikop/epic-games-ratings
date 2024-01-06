@@ -20,9 +20,9 @@
 | Vene, vidi, vici | 15.00% | ~10 |
 | Rage | 15.00% | ~10 |
 | She-Wolf | 15.00% | ~10 |
+| Trial by cold | 14.00% | ~9 |
 | Berkanan Borgia | 12.00% | ~8 |
-| Trial by cold | 12.00% | ~8 |
-| For the greater good | 9.00% | ~6 |
+| For the greater good | 11.00% | ~7 |
 | Overplay the rogue | 9.00% | ~6 |
 | The champion of the arena | 9.00% | ~6 |
 | Collector | 8.00% | ~5 |
@@ -31,19 +31,19 @@
 | Protect the Healer! | 8.00% | ~5 |
 | The End | 8.00% | ~5 |
 | First among Frisians | 6.00% | ~4 |
+| Defeat the bear | 6.00% | ~4 |
 | Cunning plan | 6.00% | ~4 |
 | Nothing is settled | 6.00% | ~4 |
 | Supplier | 5.00% | ~3 |
 | The best apprentice | 5.00% | ~3 |
-| Defeat the bear | 5.00% | ~3 |
 | By own strength | 5.00% | ~3 |
 | Deadly strike | 5.00% | ~3 |
 | All's fair in love and war | 5.00% | ~3 |
 | The power of persuasion | 3.00% | ~2 |
 | A solo player | 3.00% | ~2 |
 | Do it yourself | 3.00% | ~2 |
+| There can be only one | 3.00% | ~2 |
 | By someone else's hands | 2.00% | ~1 |
-| There can be only one | 2.00% | ~1 |
 | Happily ever after | 2.00% | ~1 |
 | Berserk | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |

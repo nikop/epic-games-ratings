@@ -41,17 +41,17 @@ Number of Ratings: 177  (23.09.2022)
 | Rachael | 0.40% | ~29 |
 | The Elder Brahs | 0.40% | ~29 |
 | Good Ol' Days | 0.40% | ~29 |
-| Beyond the Call of Dude-y | 0.30% | ~21 |
-| The Bride | 0.30% | ~21 |
-| Drunk and Disorderly: Madison | 0.30% | ~21 |
-| Do Not Burn | 0.30% | ~21 |
-| First Impressions | 0.30% | ~21 |
-| The Harder They Fall...Dood | 0.30% | ~21 |
-| Do You Smell Blood? | 0.30% | ~21 |
-| A Striking Resemblance | 0.30% | ~21 |
-| The Muse: Derek | 0.30% | ~21 |
-| Howz It Goin Dood | 0.30% | ~21 |
-| Derezzed | 0.30% | ~21 |
+| Beyond the Call of Dude-y | 0.30% | ~22 |
+| The Bride | 0.30% | ~22 |
+| Drunk and Disorderly: Madison | 0.30% | ~22 |
+| Do Not Burn | 0.30% | ~22 |
+| First Impressions | 0.30% | ~22 |
+| The Harder They Fall...Dood | 0.30% | ~22 |
+| Do You Smell Blood? | 0.30% | ~22 |
+| A Striking Resemblance | 0.30% | ~22 |
+| The Muse: Derek | 0.30% | ~22 |
+| Howz It Goin Dood | 0.30% | ~22 |
+| Derezzed | 0.30% | ~22 |
 | Congrats, A Celebrity Hates You | 0.20% | ~8 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~8 |
 | Duck n' Weave | 0.20% | ~14 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,166 (Ranked 194)  
+Progressed: 7,168 (Ranked 194)  
 Completed: 3 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 3 (0.04%) (Ranked 348)
 | 2024-01-03 | 7,070 | 3 |
 | 2024-01-04 | 7,099 | 3 |
 | 2024-01-05 | 7,141 | 3 |
-| 2024-01-06 | 7,166 | 3 |
+| 2024-01-06 | 7,168 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

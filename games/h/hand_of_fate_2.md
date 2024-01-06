@@ -6,16 +6,16 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~480,200 |
-| Apprentice | 58.00% | ~386,828 |
-| Close Shave | 25.00% | ~166,736 |
-| Mercenary | 23.00% | ~153,397 |
-| Ninja | 23.00% | ~153,397 |
-| Northern Scourge | 17.00% | ~113,380 |
-| Thief Bane | 14.00% | ~93,372 |
-| Master of Arms | 12.00% | ~80,033 |
-| Gambler | 10.00% | ~66,694 |
-| Dice Master | 10.00% | ~66,694 |
+| The Fool | 72.00% | ~480,202 |
+| Apprentice | 58.00% | ~386,829 |
+| Close Shave | 25.00% | ~166,737 |
+| Mercenary | 23.00% | ~153,398 |
+| Ninja | 23.00% | ~153,398 |
+| Northern Scourge | 17.00% | ~113,381 |
+| Thief Bane | 14.00% | ~93,373 |
+| Master of Arms | 12.00% | ~80,034 |
+| Gambler | 10.00% | ~66,695 |
+| Dice Master | 10.00% | ~66,695 |
 | Swordsman | 9.00% | ~60,025 |
 | Knight | 8.00% | ~53,356 |
 | Cure for Corruption | 8.00% | ~53,356 |
@@ -39,7 +39,7 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,669 |
 | Champion | 1.00% | ~6,669 |
 | Final Death | 1.00% | ~6,669 |
-| Thomas' Bane | 0.90% | ~6,002 |
+| Thomas' Bane | 0.90% | ~6,003 |
 | Ally | 0.80% | ~5,336 |
 | Gamester | 0.70% | ~4,669 |
 | Hero | 0.60% | ~4,002 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,944 (Ranked 31)  
+Progressed: 666,947 (Ranked 31)  
 Completed: 174 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,11 +316,11 @@ Completed: 174 (0.03%) (Ranked 353)
 | 2024-01-03 | 666,787 | 174 |
 | 2024-01-04 | 666,845 | 174 |
 | 2024-01-05 | 666,910 | 174 |
-| 2024-01-06 | 666,944 | 174 |
+| 2024-01-06 | 666,947 | 174 |
 ## Awards
-Max (Amazing Storytelling): 36  (Ranked 496)  
+Max (Amazing Storytelling): 36  (Ranked 497)  
 Sum: 194 (Ranked 419)  
-Diff (max vs sum): 77  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

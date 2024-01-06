@@ -9367,9 +9367,9 @@
       "Count": 3628
     }
   ],
-  "EOS_Progressed": 251985,
-  "EOS_Completed": 2597,
-  "EOS_NewPlayers": 4372,
+  "EOS_Progressed": 252010,
+  "EOS_Completed": 2598,
+  "EOS_NewPlayers": 4363,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38947,6 +38947,11 @@
       "Time": "2024-01-06T15:10:08.0577968+00:00",
       "NumProgressed": 251985,
       "NumCompleted": 2597
+    },
+    {
+      "Time": "2024-01-06T16:10:15.3407275+00:00",
+      "NumProgressed": 252010,
+      "NumCompleted": 2598
     }
   ],
   "TotalAchievements": 546,
@@ -38958,7 +38963,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10079
+      "UsersEstimate": 10080
     },
     {
       "ID": "objective_completed_10",
@@ -41092,9 +41097,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1512
     },
     {
       "ID": "objective_completed_54",
@@ -43325,21 +43330,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218259,
+      "Progressed": 218284,
       "Completed": 4138
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251985,
-      "Completed": 2597
+      "Progressed": 252010,
+      "Completed": 2598
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-06T14:59:42.0909962+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:10:08.0577964+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:10:15.340727+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:59:42.090997+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:10:08.0602232+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:59:48.9280799+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:10:15.3431934+00:00"
 }

@@ -26,14 +26,14 @@
 | Castle Meldec | 21.00% | ~25 |
 | Sevenkeeps Seat of Kings | 19.00% | ~23 |
 | Friend of Alluvyan | 17.00% | ~20 |
+| Friend of Gillyshire | 15.00% | ~18 |
 | Friend of Connach | 15.00% | ~18 |
-| Friend of Gillyshire | 14.00% | ~17 |
 | Stormwatch Faste | 13.00% | ~16 |
 | Friend of Orgash | 13.00% | ~16 |
 | Friend of Silver Drift Hollow | 13.00% | ~16 |
+| Friend of Bastion | 13.00% | ~16 |
 | Break Free | 13.00% | ~16 |
 | A Master of Magic | 12.00% | ~14 |
-| Friend of Bastion | 12.00% | ~14 |
 | Magic Academy | 12.00% | ~14 |
 | Philo's Tale | 11.00% | ~13 |
 | Silver Drift Hollow Mine | 11.00% | ~13 |

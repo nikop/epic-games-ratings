@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1331,6 +1331,11 @@
       "Time": "2024-01-06T14:04:30.9173457+00:00",
       "NumProgressed": 193,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T16:04:36.5546485+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1359,7 +1364,7 @@
       "Name": "Entrepreneur",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "100HEALS",
@@ -1407,7 +1412,7 @@
       "Name": "Peddler",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1471,7 +1476,7 @@
       "Name": "Military Leader",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ALLCOMBAT",
@@ -1615,7 +1620,7 @@
       "Name": "Festival-goer",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "FINDCITY",
@@ -1653,9 +1658,9 @@
       "ID": "FUTUREIRISSA",
       "SetID": "a1angca",
       "Name": "Irissa\u0027s Fate",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "HELPCHILDREN",
@@ -1687,7 +1692,7 @@
       "Name": "Hunter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "KILL20SKYANDS",
@@ -1742,15 +1747,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:04:27.7219518+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:04:36.5546482+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:57:53.6334001+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:04:27.7219823+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:58:03.7051025+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:04:36.5546838+00:00"
 }

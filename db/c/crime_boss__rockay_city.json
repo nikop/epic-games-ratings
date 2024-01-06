@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5439,7 +5439,7 @@
       "Count": 537
     }
   ],
-  "EOS_Progressed": 93114,
+  "EOS_Progressed": 93120,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
@@ -30544,6 +30544,11 @@
       "Time": "2024-01-06T15:05:54.6723823+00:00",
       "NumProgressed": 93114,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-06T16:06:02.3069282+00:00",
+      "NumProgressed": 93120,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30723,7 +30728,7 @@
       "Name": "Too Old for This",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "ACH_0300",
@@ -30787,7 +30792,7 @@
       "Name": "Fancy Pants",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "ACH_0431",
@@ -30882,13 +30887,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93114,
+      "Progressed": 93120,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21461,
+      "Progressed": 21467,
       "Completed": 15596
     }
   ],
@@ -30896,8 +30901,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-06T14:58:19.3761357+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:05:54.672382+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:06:02.3069279+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:58:19.3761365+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:05:54.6725073+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:58:29.4112321+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:06:02.3070561+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.65,
+  "EOS_Completed_Percentage": 3.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -454,6 +454,11 @@
       "Time": "2024-01-04T03:08:41.8698837+00:00",
       "NumProgressed": 274,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-06T16:08:36.0553665+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 22,
@@ -465,7 +470,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "605742",
@@ -473,7 +478,7 @@
       "Name": "Creator of Diversity",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "605752",
@@ -481,7 +486,7 @@
       "Name": "Creator of Life",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "605762",
@@ -489,7 +494,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "605772",
@@ -511,9 +516,9 @@
       "ID": "605792",
       "SetID": "4lpaifm",
       "Name": "Creator of Modernity",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "605802",
@@ -559,9 +564,9 @@
       "ID": "605852",
       "SetID": "4lpaifm",
       "Name": "Doodle Bar",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "605862",
@@ -577,15 +582,15 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "605892",
       "SetID": "4lpaifm",
       "Name": "Similar to Similar",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 195
     },
     {
       "ID": "605912",
@@ -617,15 +622,15 @@
       "Name": "Salvation!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "740512",
       "SetID": "4lpaifm",
       "Name": "Honorable Santa",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "844452",
@@ -640,7 +645,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 10
     }
   ],
@@ -648,8 +653,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:08:29.930299+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:08:36.0553661+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.1434822+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:58:56.1567712+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:08:29.9303432+00:00"
+  "LastUpdate_Ratings": "2024-01-06T15:59:04.6789626+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:08:36.0553912+00:00"
 }

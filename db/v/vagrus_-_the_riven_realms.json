@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1141,6 +1141,11 @@
       "Time": "2024-01-06T11:08:32.2921694+00:00",
       "NumProgressed": 285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T16:05:37.6022523+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1198,7 +1203,7 @@
       "ID": "Vanilla_AndtheSkyFullofStars",
       "SetID": "27kik8p",
       "Name": "And the Sky Full of Stars",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1246,7 +1251,7 @@
       "ID": "Vanilla_Carpenters",
       "SetID": "27kik8p",
       "Name": "Carpenter",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1310,7 +1315,7 @@
       "ID": "Vanilla_CombatStrenghtTier3",
       "SetID": "27kik8p",
       "Name": "General",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1318,9 +1323,9 @@
       "ID": "Vanilla_CompanionMaxedOut",
       "SetID": "27kik8p",
       "Name": "Potential Unlocked",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_CompanionSkillsMaxedOut",
@@ -1342,7 +1347,7 @@
       "ID": "Vanilla_CompanionsProwessTier2",
       "SetID": "27kik8p",
       "Name": "Company of Heroes",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1454,7 +1459,7 @@
       "ID": "Vanilla_FactionBalancer",
       "SetID": "27kik8p",
       "Name": "Diplomat",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1462,7 +1467,7 @@
       "ID": "Vanilla_FactionMaxer",
       "SetID": "27kik8p",
       "Name": "Factotum",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1470,9 +1475,9 @@
       "ID": "Vanilla_FailedContract",
       "SetID": "27kik8p",
       "Name": "Breached",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "Vanilla_Finndurarth",
@@ -1502,7 +1507,7 @@
       "ID": "Vanilla_FirstWin",
       "SetID": "27kik8p",
       "Name": "Conqueror",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1518,7 +1523,7 @@
       "ID": "Vanilla_Forager",
       "SetID": "27kik8p",
       "Name": "Forager",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1558,7 +1563,7 @@
       "ID": "Vanilla_GorGoro",
       "SetID": "27kik8p",
       "Name": "Forged in Battle",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1574,7 +1579,7 @@
       "ID": "Vanilla_HouseDarius",
       "SetID": "27kik8p",
       "Name": "Captain",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1614,7 +1619,7 @@
       "ID": "Vanilla_LegendaryEquipment",
       "SetID": "27kik8p",
       "Name": "Chromatic Collector",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1734,7 +1739,7 @@
       "ID": "Vanilla_Renown",
       "SetID": "27kik8p",
       "Name": "Celebrity",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1768,7 +1773,7 @@
       "Name": "A Second Chance",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1814,7 +1819,7 @@
       "ID": "Vanilla_TaxEvasion",
       "SetID": "27kik8p",
       "Name": "Tax Evasion",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1943,7 +1948,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 0
     }
   ],
@@ -1951,8 +1956,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-06T15:05:29.0876224+00:00",
+  "LastChanged_Achievements": "2024-01-06T16:05:37.6022518+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2024-01-06T14:59:56.8721174+00:00",
-  "LastUpdate_Achievements": "2024-01-06T15:05:29.0877192+00:00"
+  "LastUpdate_Ratings": "2024-01-06T16:00:04.6767608+00:00",
+  "LastUpdate_Achievements": "2024-01-06T16:05:37.6023669+00:00"
 }

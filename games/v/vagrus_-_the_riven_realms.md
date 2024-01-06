@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~162 |
+| A Second Chance | 57.00% | ~163 |
 | Press-ganged | 42.00% | ~120 |
 | The Package | 27.00% | ~77 |
 | Conquered | 19.00% | ~54 |
 | Randomized | 18.00% | ~51 |
 | Scribe | 11.00% | ~31 |
-| Breached | 11.00% | ~31 |
+| Breached | 10.00% | ~29 |
 | Conciliator | 9.00% | ~26 |
 | Tactician | 9.00% | ~26 |
 | Fight Another Day | 9.00% | ~26 |
@@ -27,9 +27,9 @@
 | Merchant | 5.00% | ~14 |
 | Trouble at Fort Larius | 5.00% | ~14 |
 | Quartermaster | 4.00% | ~11 |
-| Potential Unlocked | 4.00% | ~11 |
 | Been There | 4.00% | ~11 |
 | Spiritual Journey | 4.00% | ~11 |
+| Potential Unlocked | 3.00% | ~9 |
 | The Voice of Hereafter | 3.00% | ~9 |
 | Despised | 3.00% | ~9 |
 | A Terrible Will | 3.00% | ~9 |
@@ -71,19 +71,19 @@
 | What Lies Below | 0.70% | ~2 |
 | The Last Voyage | 0.70% | ~2 |
 | Theory to Practice | 0.70% | ~2 |
-| And the Sky Full of Stars | 0.40% | ~1 |
-| Carpenter | 0.40% | ~1 |
-| General | 0.40% | ~1 |
-| Company of Heroes | 0.40% | ~1 |
-| Diplomat | 0.40% | ~1 |
-| Factotum | 0.40% | ~1 |
-| Conqueror | 0.40% | ~1 |
-| Forager | 0.40% | ~1 |
-| Forged in Battle | 0.40% | ~1 |
-| Captain | 0.40% | ~1 |
-| Chromatic Collector | 0.40% | ~1 |
-| Celebrity | 0.40% | ~1 |
-| Tax Evasion | 0.40% | ~1 |
+| And the Sky Full of Stars | 0.30% | ~1 |
+| Carpenter | 0.30% | ~1 |
+| General | 0.30% | ~1 |
+| Company of Heroes | 0.30% | ~1 |
+| Diplomat | 0.30% | ~1 |
+| Factotum | 0.30% | ~1 |
+| Conqueror | 0.30% | ~1 |
+| Forager | 0.30% | ~1 |
+| Forged in Battle | 0.30% | ~1 |
+| Captain | 0.30% | ~1 |
+| Chromatic Collector | 0.30% | ~1 |
+| Celebrity | 0.30% | ~1 |
+| Tax Evasion | 0.30% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 399)  
+Progressed: 286 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 277 | 0 |
 | 2024-01-04 | 279 | 0 |
 | 2024-01-05 | 283 | 0 |
-| 2024-01-06 | 285 | 0 |
+| 2024-01-06 | 286 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
