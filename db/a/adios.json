@@ -141,10 +141,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82871,
-  "EOS_Completed": 922,
+  "EOS_Progressed": 82873,
+  "EOS_Completed": 923,
   "EOS_NewPlayers": 737,
-  "EOS_NewCompleters": 17,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
@@ -29281,6 +29281,11 @@
       "Time": "2024-01-06T17:05:49.0872711+00:00",
       "NumProgressed": 82871,
       "NumCompleted": 922
+    },
+    {
+      "Time": "2024-01-06T18:05:39.1986249+00:00",
+      "NumProgressed": 82873,
+      "NumCompleted": 923
     }
   ],
   "TotalAchievements": 25,
@@ -29308,7 +29313,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15745
+      "UsersEstimate": 15746
     },
     {
       "ID": "Audiophile",
@@ -29364,7 +29369,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16574
+      "UsersEstimate": 16575
     },
     {
       "ID": "Hearty",
@@ -29380,7 +29385,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7458
+      "UsersEstimate": 7459
     },
     {
       "ID": "Magnetic Miracles",
@@ -29412,7 +29417,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15745
+      "UsersEstimate": 15746
     },
     {
       "ID": "Nice Try",
@@ -29420,7 +29425,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13259
+      "UsersEstimate": 13260
     },
     {
       "ID": "Nothing Left to Say",
@@ -29491,16 +29496,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 82871,
-      "Completed": 922
+      "Progressed": 82873,
+      "Completed": 923
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:05:49.0872705+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:05:39.1986246+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.0198367+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:57:32.488457+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:05:49.0874528+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:57:26.7908796+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:05:39.1987504+00:00"
 }

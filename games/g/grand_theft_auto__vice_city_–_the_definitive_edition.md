@@ -5,23 +5,23 @@ Rating: 4.52 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,180 |
-| Greasy Palms | 42.00% | ~6,555 |
-| South American Connection | 26.00% | ~4,058 |
-| Life of the Party | 21.00% | ~3,278 |
-| Big Heat from Little Havana | 15.00% | ~2,341 |
-| Chauffeur | 15.00% | ~2,341 |
-| Tommy Two-Wheels | 15.00% | ~2,341 |
-| Salutations My Little Friend | 11.00% | ~1,717 |
-| Iron-y | 10.00% | ~1,561 |
+| Legal Counsel | 46.00% | ~7,183 |
+| Greasy Palms | 42.00% | ~6,558 |
+| South American Connection | 26.00% | ~4,060 |
+| Life of the Party | 21.00% | ~3,279 |
+| Big Heat from Little Havana | 15.00% | ~2,342 |
+| Chauffeur | 15.00% | ~2,342 |
+| Tommy Two-Wheels | 15.00% | ~2,342 |
+| Salutations My Little Friend | 11.00% | ~1,718 |
+| Iron-y | 10.00% | ~1,562 |
 | Gun for Hire | 9.00% | ~1,405 |
 | Mischief Managed | 9.00% | ~1,405 |
 | Vice City Mogul | 7.00% | ~1,093 |
-| Catch Me if You Can | 6.00% | ~936 |
-| Bloodstained Hands | 6.00% | ~936 |
-| Not my First Time | 5.00% | ~780 |
-| Grand Theft Auto | 5.00% | ~780 |
-| Pie Guy | 4.00% | ~624 |
+| Catch Me if You Can | 6.00% | ~937 |
+| Bloodstained Hands | 6.00% | ~937 |
+| Not my First Time | 5.00% | ~781 |
+| Grand Theft Auto | 5.00% | ~781 |
+| Pie Guy | 4.00% | ~625 |
 | Running Rampant | 3.00% | ~468 |
 | Point A to Point B | 3.00% | ~468 |
 | High Quality H2O | 3.00% | ~468 |
@@ -37,10 +37,10 @@ Rating: 4.52 (Ranked 576)
 | Keepie-Uppy Okie Dokie | 1.00% | ~156 |
 | I'm Famous! | 1.00% | ~156 |
 | Daredevil | 1.00% | ~156 |
-| Done it All | 0.90% | ~140 |
+| Done it All | 0.90% | ~141 |
 | Kingpin | 0.60% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,608 (Ranked 170)  
+Progressed: 15,615 (Ranked 170)  
 Completed: 88 (0.56%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 88 (0.56%) (Ranked 212)
 | 2024-01-03 | 15,241 | 85 |
 | 2024-01-04 | 15,370 | 86 |
 | 2024-01-05 | 15,486 | 86 |
-| 2024-01-06 | 15,608 | 88 |
+| 2024-01-06 | 15,615 | 88 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

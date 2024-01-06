@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14047,10 +14047,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 63781,
       "NumberOfAwardsMax": 7742
+    },
+    {
+      "Time": "2024-01-06T17:58:51.019552+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63796,
+      "NumberOfAwardsMax": 7742
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63781,
+  "NumberOfAwards": 63796,
   "NumberOfAwardsMax": 7742,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14100,7 +14106,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7084
+      "Count": 7099
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14121,9 +14127,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 493543,
+  "EOS_Progressed": 493593,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5529,
+  "EOS_NewPlayers": 5533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44246,6 +44252,11 @@
       "Time": "2024-01-06T17:10:04.5385434+00:00",
       "NumProgressed": 493543,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T18:09:58.9466305+00:00",
+      "NumProgressed": 493593,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46921,7 +46932,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -47160,21 +47171,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 493543,
+      "Progressed": 493593,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 493543,
+      "Progressed": 493593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-06T16:59:01.3030651+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:10:04.5385431+00:00",
+  "LastChanged": "2024-01-06T17:58:51.0195518+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:09:58.9466302+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:59:01.303066+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:10:04.5396254+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:58:51.0195524+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:09:58.9477182+00:00"
 }

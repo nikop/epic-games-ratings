@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10578,9 +10578,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131918,
+  "EOS_Progressed": 131927,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1145,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38623,6 +38623,11 @@
       "Time": "2024-01-06T17:09:56.0680793+00:00",
       "NumProgressed": 131918,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-06T18:09:50.4840028+00:00",
+      "NumProgressed": 131927,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38730,7 +38735,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -38738,7 +38743,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -38762,7 +38767,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7915
+      "UsersEstimate": 7916
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38810,7 +38815,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "combat_kill_gaunts",
@@ -38826,7 +38831,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -38858,7 +38863,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7915
+      "UsersEstimate": 7916
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38986,7 +38991,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9234
+      "UsersEstimate": 9235
     },
     {
       "ID": "hero_story_complete_all",
@@ -39034,7 +39039,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -39050,7 +39055,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -39098,7 +39103,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "run_victory_act03",
@@ -39106,7 +39111,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "run_victory_act04",
@@ -39170,7 +39175,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "combat_kill_collector",
@@ -39178,7 +39183,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39216,9 +39221,9 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 408
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39226,7 +39231,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "quest_complete_crusader",
@@ -39234,7 +39239,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39242,7 +39247,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39265,21 +39270,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131918,
+      "Progressed": 131927,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6787,
+      "Progressed": 6796,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-06T13:57:01.790944+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:09:56.068079+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:09:50.4840025+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:57:19.8176143+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:09:56.0682807+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:57:14.6378817+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:09:50.4841708+00:00"
 }

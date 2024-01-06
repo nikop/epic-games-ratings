@@ -4,11 +4,11 @@
   "ProductSlug": "hood-outlaws-and-legends",
   "Ranking_Rating": 1046,
   "Ranking_Popularity": 242,
-  "Ranking_PopularitySum": 191,
+  "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-05-10T15:00:00+00:00",
     "PcReleaseDate": "2021-05-10T15:00:00+00:00",
@@ -2699,10 +2699,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 2796,
       "NumberOfAwardsMax": 379
+    },
+    {
+      "Time": "2024-01-06T17:59:02.3944506+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 2798,
+      "NumberOfAwardsMax": 379
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2796,
+  "NumberOfAwards": 2798,
   "NumberOfAwardsMax": 379,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2734,7 +2740,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 336
+      "Count": 338
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2766,8 +2772,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:31.7735861+00:00",
-  "LastChanged": "2024-01-05T06:58:50.4876734+00:00",
+  "LastChanged": "2024-01-06T17:59:02.3944504+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.0297866+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:59:12.4090161+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:08:38.4386136+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:59:02.3944512+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:08:34.0608646+00:00"
 }

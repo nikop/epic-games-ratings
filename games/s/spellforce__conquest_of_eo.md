@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Home Sweet Home | 91.00% | ~110 |
 | Enough rooms to swing a cat | 81.00% | ~98 |
-| First to the post | 80.00% | ~97 |
-| A kind of Magic | 72.00% | ~87 |
+| First to the post | 81.00% | ~98 |
+| A kind of Magic | 73.00% | ~88 |
 | Connected | 64.00% | ~77 |
 | Expansion | 59.00% | ~71 |
 | Harvest Time | 55.00% | ~67 |
@@ -26,8 +26,8 @@
 | Castle Meldec | 21.00% | ~25 |
 | Sevenkeeps Seat of Kings | 19.00% | ~23 |
 | Friend of Alluvyan | 17.00% | ~21 |
+| Friend of Connach | 16.00% | ~19 |
 | Friend of Gillyshire | 15.00% | ~18 |
-| Friend of Connach | 15.00% | ~18 |
 | Stormwatch Faste | 13.00% | ~16 |
 | Break Free | 13.00% | ~16 |
 | A Master of Magic | 12.00% | ~15 |

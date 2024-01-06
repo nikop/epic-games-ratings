@@ -20,9 +20,9 @@
 | Hello, world! | 64.00% | ~349 |
 | Fighting is cool | 63.00% | ~343 |
 | No bullying more | 63.00% | ~343 |
-| Pal of your father? | 60.00% | ~327 |
+| Pal of your father? | 61.00% | ~332 |
 | Spirit of the past | 59.00% | ~322 |
-| Employee of the month | 58.00% | ~316 |
+| Employee of the month | 59.00% | ~322 |
 | Law student | 56.00% | ~305 |
 | Handyman | 54.00% | ~294 |
 | Workout professional | 53.00% | ~289 |
@@ -37,9 +37,9 @@
 | Extreme neuropower! | 48.00% | ~262 |
 | Escaped from a big trouble | 46.00% | ~251 |
 | Now you are worthy | 41.00% | ~223 |
-| Fight is life | 40.00% | ~218 |
-| Guiding on the right path | 40.00% | ~218 |
-| Mysterious voice | 39.00% | ~213 |
+| Fight is life | 41.00% | ~223 |
+| Guiding on the right path | 41.00% | ~223 |
+| Mysterious voice | 40.00% | ~218 |
 | No blades in the gym | 38.00% | ~207 |
 | Champion – no way back | 36.00% | ~196 |
 | Responsible approach | 36.00% | ~196 |

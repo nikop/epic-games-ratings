@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -825,9 +825,9 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "ae95dh3",
       "Name": "Dust to Dust",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -952,8 +952,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:06:28.3621275+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:06:16.9769903+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:23.9346853+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:58:18.5017165+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:06:28.3621602+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:58:11.6233629+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:06:16.9770456+00:00"
 }

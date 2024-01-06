@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 378,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2024-01-06T14:05:59.5079323+00:00",
       "NumProgressed": 810,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T18:06:10.8448702+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1249,7 +1254,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1273,7 +1278,7 @@
       "Name": "Extreme Makeover",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Achievement_FeelsLikeHome",
@@ -1321,7 +1326,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1401,7 +1406,7 @@
       "Name": "Meet the Petersons",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -1409,7 +1414,7 @@
       "Name": "Mutiny in making",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1423,9 +1428,9 @@
       "ID": "Achievement_NoManLeftBehind",
       "SetID": "c01p6e5",
       "Name": "No Man Left Behind",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 81
+      "UsersEstimate": 73
     },
     {
       "ID": "Achievement_NonFiction",
@@ -1465,7 +1470,7 @@
       "Name": "Space Colonization",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1473,7 +1478,7 @@
       "Name": "Space Engineer",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1513,7 +1518,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "Achievement_Traitor",
@@ -1528,7 +1533,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 1
     }
   ],
@@ -1536,8 +1541,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:06:22.038805+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:06:10.8448698+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:36.3559417+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:58:02.6369028+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:06:22.0388581+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:57:55.6438684+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:06:10.8449027+00:00"
 }

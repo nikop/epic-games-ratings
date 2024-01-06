@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231533,
+  "EOS_Progressed": 231536,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29739,6 +29739,11 @@
       "Time": "2024-01-06T17:10:11.9335582+00:00",
       "NumProgressed": 231533,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-06T18:10:06.5780847+00:00",
+      "NumProgressed": 231536,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29798,7 +29803,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23153
+      "UsersEstimate": 23154
     },
     {
       "ID": "ACH_BASE_17",
@@ -29814,7 +29819,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23153
+      "UsersEstimate": 23154
     },
     {
       "ID": "ACH_BASE_19",
@@ -29998,7 +30003,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30099
+      "UsersEstimate": 30100
     },
     {
       "ID": "ACH_BASE_8",
@@ -30021,7 +30026,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231533,
+      "Progressed": 231536,
       "Completed": 5
     }
   ],
@@ -30029,8 +30034,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-06T01:44:52.4701874+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:10:11.9335578+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:10:06.5780844+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:59:03.9889755+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:10:11.933717+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:58:53.6034639+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:10:06.578302+00:00"
 }

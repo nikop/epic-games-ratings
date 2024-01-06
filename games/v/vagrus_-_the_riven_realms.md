@@ -45,6 +45,7 @@
 | A Real Battle | 2.00% | ~6 |
 | Life... Finds a Way | 2.00% | ~6 |
 | Merchant Lord | 2.00% | ~6 |
+| Glorious leader | 2.00% | ~6 |
 | Insectoid Propagator | 2.00% | ~6 |
 | Making Contact | 1.00% | ~3 |
 | Watcher | 1.00% | ~3 |
@@ -58,7 +59,6 @@
 | Moving At Odd Angles | 1.00% | ~3 |
 | The Darkness Within | 1.00% | ~3 |
 | Wyrmslayer | 1.00% | ~3 |
-| Glorious leader | 1.00% | ~3 |
 | Voracity Confronted | 1.00% | ~3 |
 | Embellished | 0.70% | ~2 |
 | Manticore | 0.70% | ~2 |

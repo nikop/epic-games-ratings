@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 82.00% | ~306 |
+| Seeds of War | 81.00% | ~303 |
 | First Blood | 64.00% | ~239 |
-| Triple Kill | 63.00% | ~235 |
-| Aspairagus | 60.00% | ~194 |
-| No Asperascope | 58.00% | ~216 |
+| Triple Kill | 63.00% | ~236 |
+| Aspairagus | 59.00% | ~191 |
+| No Asperascope | 57.00% | ~213 |
 | Survivor | 56.00% | ~181 |
-| Cornivore | 54.00% | ~201 |
+| Cornivore | 54.00% | ~202 |
 | I Believe I Can Fly | 49.00% | ~183 |
-| No Diggity | 44.00% | ~142 |
+| No Diggity | 44.00% | ~143 |
 | Early Survivor | 39.00% | ~126 |
 | Bouncemato | 31.00% | ~100 |
 | 10K | 29.00% | ~108 |
-| Amateur Survivor | 28.00% | ~90 |
-| 15K | 27.00% | ~101 |
-| Grave Digger | 23.00% | ~74 |
+| Amateur Survivor | 28.00% | ~91 |
+| 15K | 26.00% | ~97 |
 | Drinking Problem | 22.00% | ~82 |
+| Grave Digger | 22.00% | ~71 |
 | Quick-Draw Pod | 21.00% | ~68 |
 | Pork Chop Express | 20.00% | ~75 |
-| Professional Survivor | 19.00% | ~61 |
-| Skin Of Your Teeth | 17.00% | ~63 |
-| Carrocketeer | 17.00% | ~63 |
+| Professional Survivor | 19.00% | ~62 |
+| Skin Of Your Teeth | 17.00% | ~64 |
+| Carrocketeer | 17.00% | ~64 |
 | Getting Started | 16.00% | ~60 |
 | This Is My Boomstick | 16.00% | ~52 |
 | Eggtraordinary | 14.00% | ~52 |
 | Oh My Gourd | 14.00% | ~45 |
 | Perfect | 14.00% | ~45 |
-| Summers Here | 12.00% | ~39 |
 | Quit Horsin' Around | 11.00% | ~41 |
+| Summers Here | 11.00% | ~36 |
 | Fresh Pancake | 10.00% | ~37 |
 | Quadsparagus | 10.00% | ~32 |
 | Bring Home The Bacon | 9.00% | ~34 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 373 (Ranked 372)  
+Progressed: 374 (Ranked 372)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 369 | 0 |
 | 2024-01-04 | 370 | 0 |
 | 2024-01-05 | 371 | 0 |
-| 2024-01-06 | 373 | 0 |
+| 2024-01-06 | 374 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

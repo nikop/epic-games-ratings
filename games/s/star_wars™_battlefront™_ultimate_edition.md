@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,324 |
-| Off to a good start | 62.00% | ~1,656 |
-| Do... or do not. There is no try | 52.00% | ~1,389 |
-| A good blaster at your side | 25.00% | ~668 |
-| I suggest a new strategy | 17.00% | ~454 |
-| Great shot, kid! | 16.00% | ~427 |
+| New Recruit | 87.00% | ~2,327 |
+| Off to a good start | 62.00% | ~1,658 |
+| Do... or do not. There is no try | 52.00% | ~1,391 |
+| A good blaster at your side | 25.00% | ~669 |
+| I suggest a new strategy | 17.00% | ~455 |
+| Great shot, kid! | 16.00% | ~428 |
 | Scrap collector | 15.00% | ~401 |
 | All right, I'll give it a try | 15.00% | ~401 |
 | The power of the Force | 12.00% | ~321 |
@@ -32,15 +32,15 @@
 | Not bad for a little furball | 3.00% | ~80 |
 | Patience you must have | 3.00% | ~80 |
 | Don't underestimate the Force | 3.00% | ~80 |
-| The Force is strong with this one | 2.00% | ~53 |
-| I've been waiting for you | 2.00% | ~53 |
-| When 900 years old you reach... | 2.00% | ~53 |
-| Determined | 2.00% | ~53 |
-| Your journey has only started | 2.00% | ~53 |
-| On the ball | 2.00% | ~53 |
-| Precision shot | 2.00% | ~53 |
-| That's no moon | 2.00% | ~53 |
-| What will you become? | 2.00% | ~53 |
+| The Force is strong with this one | 2.00% | ~54 |
+| I've been waiting for you | 2.00% | ~54 |
+| When 900 years old you reach... | 2.00% | ~54 |
+| Determined | 2.00% | ~54 |
+| Your journey has only started | 2.00% | ~54 |
+| On the ball | 2.00% | ~54 |
+| Precision shot | 2.00% | ~54 |
+| That's no moon | 2.00% | ~54 |
+| What will you become? | 2.00% | ~54 |
 | Hold the line! | 1.00% | ~27 |
 | Ackbar's Elite | 1.00% | ~27 |
 | This is a new day, a new beginning | 1.00% | ~27 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,671 (Ranked 232)  
+Progressed: 2,675 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 1 (0.04%) (Ranked 348)
 | 2024-01-03 | 2,563 | 1 |
 | 2024-01-04 | 2,595 | 1 |
 | 2024-01-05 | 2,649 | 1 |
-| 2024-01-06 | 2,671 | 1 |
+| 2024-01-06 | 2,675 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

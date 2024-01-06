@@ -7,9 +7,9 @@
 | Marc Allard | 75.00% | ~72 |
 | Little ideas | 72.00% | ~69 |
 | The Ship | 69.00% | ~66 |
-| Seeking the truth | 55.00% | ~53 |
-| An old friend | 54.00% | ~52 |
-| The Gala | 53.00% | ~51 |
+| Seeking the truth | 56.00% | ~54 |
+| An old friend | 55.00% | ~53 |
+| The Gala | 54.00% | ~52 |
 | A curious gathering | 50.00% | ~48 |
 | Little grey cells | 48.00% | ~46 |
 | Impossible is possible | 47.00% | ~45 |
@@ -20,7 +20,7 @@
 | DI Hardwicke | 42.00% | ~40 |
 | Betty Allen | 38.00% | ~36 |
 | Order and method | 36.00% | ~35 |
-| The Investigation Begins | 34.00% | ~33 |
+| The Investigation Begins | 35.00% | ~34 |
 | Ms. Camilla B. Culsham | 32.00% | ~31 |
 | Irene Court-Smyth | 32.00% | ~31 |
 | An odd series of events | 31.00% | ~30 |
@@ -44,10 +44,10 @@
 | Well-travelled | 16.00% | ~15 |
 | Florence Farquhar | 15.00% | ~14 |
 | The Investigation Starts Anew | 15.00% | ~14 |
-| A treasured heirloom | 11.00% | ~11 |
-| The Penitent Magdalene | 11.00% | ~11 |
-| A true performance | 11.00% | ~11 |
-| The Denouement | 9.00% | ~9 |
+| A treasured heirloom | 13.00% | ~12 |
+| The Penitent Magdalene | 13.00% | ~12 |
+| A true performance | 13.00% | ~12 |
+| The Denouement | 10.00% | ~10 |
 | A perilous journey | 9.00% | ~9 |
 | Perkins | 6.00% | ~6 |
 ## Popularity (Based on EOS Achievements)

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent Assassin | 46.00% | ~13 |
-| Liberator | 29.00% | ~8 |
-| Parry Mastery | 25.00% | ~7 |
-| Famine Defeated | 18.00% | ~5 |
-| Perceptive | 18.00% | ~5 |
+| Silent Assassin | 48.00% | ~14 |
+| Liberator | 31.00% | ~9 |
+| Parry Mastery | 28.00% | ~8 |
+| Perceptive | 21.00% | ~6 |
+| Famine Defeated | 17.00% | ~5 |
 | Gold Collector | 14.00% | ~4 |
-| Possess Mastery | 11.00% | ~3 |
+| Possess Mastery | 10.00% | ~3 |
 | Master Assassin | 7.00% | ~2 |
-| Body Blast Master | 4.00% | ~1 |
-| Body Spawn Master | 4.00% | ~1 |
-| Body Swapper | 4.00% | ~1 |
-| Dash Mastery | 4.00% | ~1 |
-| Death Defeated | 4.00% | ~1 |
-| Decay Defeated | 4.00% | ~1 |
-| Demon Butcher | 4.00% | ~1 |
-| Earth Shatter Master | 4.00% | ~1 |
-| Elemental Mastery | 4.00% | ~1 |
-| Fire Blast Master | 4.00% | ~1 |
-| Group Fight Mastery | 4.00% | ~1 |
-| Land Mine Master | 4.00% | ~1 |
-| Reanimate Master | 4.00% | ~1 |
-| Skill Adept | 4.00% | ~1 |
-| Token Collector | 4.00% | ~1 |
-| Vanish Master | 4.00% | ~1 |
-| War Defeated | 4.00% | ~1 |
+| Body Blast Master | 3.00% | ~1 |
+| Body Spawn Master | 3.00% | ~1 |
+| Body Swapper | 3.00% | ~1 |
+| Dash Mastery | 3.00% | ~1 |
+| Death Defeated | 3.00% | ~1 |
+| Decay Defeated | 3.00% | ~1 |
+| Demon Butcher | 3.00% | ~1 |
+| Earth Shatter Master | 3.00% | ~1 |
+| Elemental Mastery | 3.00% | ~1 |
+| Fire Blast Master | 3.00% | ~1 |
+| Group Fight Mastery | 3.00% | ~1 |
+| Land Mine Master | 3.00% | ~1 |
+| Reanimate Master | 3.00% | ~1 |
+| Skill Adept | 3.00% | ~1 |
+| Token Collector | 3.00% | ~1 |
+| Vanish Master | 3.00% | ~1 |
+| War Defeated | 3.00% | ~1 |
 | Blink Master | 0.00% | ~0 |
 | Body Snatcher Champion | 0.00% | ~0 |
 | Cold Skin Master | 0.00% | ~0 |
@@ -65,7 +65,7 @@
 | Sprinter Champion | 0.00% | ~0 |
 | Thunderstorm Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 600)  
+Progressed: 29 (Ranked 595)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-17 | 25 | 0 |
 | 2023-12-19 | 26 | 0 |
 | 2023-12-21 | 27 | 0 |
-| 2024-01-06 | 28 | 0 |
+| 2024-01-06 | 29 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

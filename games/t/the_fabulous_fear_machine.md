@@ -16,12 +16,12 @@
 | A rival with no options | 21.00% | ~18 |
 | The artist | 21.00% | ~18 |
 | Pulp! Out of this World | 21.00% | ~18 |
-| Diagnosis: fear | 20.00% | ~17 |
-| Ambition is... blind | 20.00% | ~17 |
+| Diagnosis: fear | 21.00% | ~18 |
+| Ambition is... blind | 21.00% | ~18 |
 | You have two wishes left | 19.00% | ~16 |
+| The seer | 18.00% | ~15 |
 | Pulp! Adventures into the Unknown | 18.00% | ~15 |
 | Et in arcadia ego | 17.00% | ~14 |
-| The seer | 17.00% | ~14 |
 | You had one wish left | 15.00% | ~13 |
 | You've awakened the beast | 14.00% | ~12 |
 | Hate is... addictive | 14.00% | ~12 |

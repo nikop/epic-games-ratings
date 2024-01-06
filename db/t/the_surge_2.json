@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2494,
+  "EOS_Progressed": 2495,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4389,6 +4389,11 @@
       "Time": "2024-01-06T15:06:09.4882649+00:00",
       "NumProgressed": 2494,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-06T18:06:24.459991+00:00",
+      "NumProgressed": 2495,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4408,7 +4413,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ACHV_03",
@@ -4480,7 +4485,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHV_12",
@@ -4560,7 +4565,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHV_22",
@@ -4600,7 +4605,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "ACHV_27",
@@ -4624,7 +4629,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHV_30",
@@ -4632,7 +4637,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACHV_31",
@@ -4704,7 +4709,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "ACHV_40",
@@ -4855,7 +4860,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2494,
+      "Progressed": 2495,
       "Completed": 13
     }
   ],
@@ -4863,8 +4868,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:06:36.0155413+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:00:40.8053719+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:06:36.0156037+00:00"
+  "LastChanged_Achievements": "2024-01-06T18:06:24.4599906+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
+  "LastUpdate_Ratings": "2024-01-06T18:02:46.6548122+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:06:24.4600672+00:00"
 }

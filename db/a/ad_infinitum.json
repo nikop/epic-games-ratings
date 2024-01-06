@@ -4,8 +4,8 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 186,
+  "EOS_Progressed": 187,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -900,6 +900,11 @@
       "Time": "2024-01-06T17:06:17.523806+00:00",
       "NumProgressed": 186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-06T18:06:06.4666686+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T17:06:03.7591+00:00",
@@ -952,7 +957,7 @@
       "Name": "Art critic",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_AWAITINGORDERS",
@@ -1016,7 +1021,7 @@
       "Name": "Hunger",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_JIGSAW",
@@ -1040,7 +1045,7 @@
       "Name": "Mayhem",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_MORGENGRAUEN",
@@ -1048,7 +1053,7 @@
       "Name": "Morgengrauen",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
@@ -1062,9 +1067,9 @@
       "ID": "ACH_NOTALONE",
       "SetID": "88d7anj",
       "Name": "Not alone",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_PAIN",
@@ -1086,9 +1091,9 @@
       "ID": "ACH_PATHOFDESPAIR",
       "SetID": "88d7anj",
       "Name": "Path of Despair",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_PATHOFPAIN",
@@ -1136,21 +1141,21 @@
       "Name": "The shining",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "88d7anj",
       "IsBase": true,
-      "Progressed": 186,
+      "Progressed": 187,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:06:17.5238052+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:06:06.4666683+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.8016212+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:57:44.7090733+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:06:17.5238356+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:57:38.4631947+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:06:06.4666881+00:00"
 }

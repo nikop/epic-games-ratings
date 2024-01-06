@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16434,
+  "EOS_Progressed": 16435,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
@@ -6024,6 +6024,11 @@
       "Time": "2024-01-06T17:09:44.9454509+00:00",
       "NumProgressed": 16434,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-06T18:09:39.5830901+00:00",
+      "NumProgressed": 16435,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6084,7 +6089,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3615
+      "UsersEstimate": 3616
     },
     {
       "ID": "ACH_AE_16",
@@ -6092,7 +6097,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "ACH_AE_17",
@@ -6132,7 +6137,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACH_AE_21",
@@ -6172,7 +6177,7 @@
       "Name": "Family History",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACH_AE_26",
@@ -6212,7 +6217,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "ACH_AE_30",
@@ -6292,7 +6297,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACH_AE_8",
@@ -6300,7 +6305,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACH_AE_9",
@@ -6315,7 +6320,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16434,
+      "Progressed": 16435,
       "Completed": 15
     }
   ],
@@ -6323,8 +6328,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-04T16:01:00.556364+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:09:44.9454505+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:09:39.5830899+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
   "LastUpdate_Ratings": "2024-01-06T17:00:37.1598879+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:09:44.9454935+00:00"
+  "LastUpdate_Achievements": "2024-01-06T18:09:39.5831364+00:00"
 }

@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,096 |
-| Pay 'n' Spray | 50.00% | ~9,318 |
-| All Dressed Up for San Fierro | 25.00% | ~4,659 |
-| The American Dream | 19.00% | ~3,541 |
-| School's Out | 18.00% | ~3,355 |
-| Smooth Moves | 16.00% | ~2,982 |
-| Today Was a Good Day | 15.00% | ~2,796 |
-| What happens in Las Venturas... | 14.00% | ~2,609 |
-| Horror of the Santa Maria | 10.00% | ~1,864 |
-| Liberty City State of Mind | 9.00% | ~1,677 |
-| Original Gangster | 8.00% | ~1,491 |
+| Getting Started | 81.00% | ~15,105 |
+| Pay 'n' Spray | 50.00% | ~9,324 |
+| All Dressed Up for San Fierro | 25.00% | ~4,662 |
+| The American Dream | 19.00% | ~3,543 |
+| School's Out | 18.00% | ~3,357 |
+| Smooth Moves | 17.00% | ~3,170 |
+| Today Was a Good Day | 15.00% | ~2,797 |
+| What happens in Las Venturas... | 14.00% | ~2,611 |
+| Horror of the Santa Maria | 10.00% | ~1,865 |
+| Liberty City State of Mind | 9.00% | ~1,678 |
+| Original Gangster | 8.00% | ~1,492 |
 | With Extra Dip | 7.00% | ~1,305 |
 | The End of the Line | 7.00% | ~1,305 |
-| Saviour | 6.00% | ~1,118 |
+| Saviour | 6.00% | ~1,119 |
 | Rescue a Kitten Too? | 5.00% | ~932 |
-| They Can’t Stop All of Us | 4.00% | ~745 |
-| What are the Odds | 4.00% | ~745 |
+| They Can’t Stop All of Us | 4.00% | ~746 |
+| What are the Odds | 4.00% | ~746 |
 | Bike or Biker | 3.00% | ~559 |
 | What the City Needs | 3.00% | ~559 |
 | A Legitimate Business | 2.00% | ~373 |
@@ -37,11 +37,11 @@ Rating: 4.55 (Ranked 526)
 | Lucky Spinner | 1.00% | ~186 |
 | Not a Player | 1.00% | ~186 |
 | Chick Magnet | 1.00% | ~186 |
-| Remastered | 0.70% | ~130 |
+| Remastered | 0.70% | ~131 |
 | ...Here we go again | 0.50% | ~93 |
 | I Ain't No Buster | 0.40% | ~75 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,637 (Ranked 158)  
+Progressed: 18,648 (Ranked 158)  
 Completed: 75 (0.40%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 75 (0.40%) (Ranked 235)
 | 2024-01-03 | 18,207 | 71 |
 | 2024-01-04 | 18,344 | 72 |
 | 2024-01-05 | 18,512 | 72 |
-| 2024-01-06 | 18,637 | 75 |
+| 2024-01-06 | 18,648 | 75 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 444)  
 Sum: 354 (Ranked 368)  

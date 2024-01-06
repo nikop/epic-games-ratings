@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 99,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 24.03,
+  "EOS_Completed_Percentage": 23.97,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -2189,6 +2189,11 @@
       "Time": "2024-01-06T00:03:45.5919407+00:00",
       "NumProgressed": 412,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2024-01-06T18:04:13.0844768+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 99
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -2233,7 +2238,7 @@
       "Name": "Test Task",
       "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "Floppy",
@@ -2249,7 +2254,7 @@
       "Name": "Beginner Electrician",
       "Percentage": 82,
       "XP": 70,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "GameComplete",
@@ -2257,7 +2262,7 @@
       "Name": "Savior",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "GasDeath",
@@ -2281,7 +2286,7 @@
       "Name": "Holographic Scanner",
       "Percentage": 51,
       "XP": 70,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Screwdriver",
@@ -2289,7 +2294,7 @@
       "Name": "Screwdriver",
       "Percentage": 74,
       "XP": 70,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "SecretRoom",
@@ -2305,21 +2310,21 @@
       "Name": "Beginner Chemist",
       "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 99
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:04:21.0050492+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:04:13.0844765+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:23.201102+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:59:14.9890525+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:04:21.0050999+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:59:04.8462222+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:04:13.0844952+00:00"
 }

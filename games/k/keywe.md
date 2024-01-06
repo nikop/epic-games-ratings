@@ -12,7 +12,7 @@
 | A Startling Discovery | 29.00% | ~43 |
 | Pumpkins and Postage Stamps | 18.00% | ~27 |
 | Kiwinter Kiwonderland | 7.00% | ~10 |
-| Secrets of the Telepost | 3.00% | ~4 |
+| Secrets of the Telepost | 4.00% | ~6 |
 | Summer Postmasters | 2.00% | ~3 |
 | Autumn Postmasters | 1.00% | ~1 |
 | Against All Odds | 0.70% | ~1 |

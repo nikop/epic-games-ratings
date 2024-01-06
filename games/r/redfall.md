@@ -38,8 +38,8 @@ Rating: 3.66 (Ranked 1,090)
 | Good Morning | 2.00% | ~46 |
 | Check, Please! | 2.00% | ~46 |
 | Right This Way | 2.00% | ~46 |
+| Nice Try | 2.00% | ~46 |
 | Harvest’s End | 2.00% | ~46 |
-| Nice Try | 1.00% | ~23 |
 | Blacklight Down | 1.00% | ~23 |
 | Curious Finch | 1.00% | ~23 |
 | Bloody Initiate | 0.90% | ~21 |

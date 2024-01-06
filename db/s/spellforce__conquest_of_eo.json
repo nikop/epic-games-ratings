@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -664,9 +664,9 @@
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Circle_Page",
@@ -784,9 +784,9 @@
       "ID": "First_LevelUp",
       "SetID": "7b9f97e",
       "Name": "First to the post",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "First_Node_Meld",
@@ -1072,9 +1072,9 @@
       "ID": "Max_Reputation_Southwatch",
       "SetID": "7b9f97e",
       "Name": "Friend of Connach",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Max_Reputation_UramGor",
@@ -1193,8 +1193,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:09:47.4704091+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:09:42.0978169+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:02:59.7256062+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:09:47.4704589+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:02:54.3568002+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:09:42.097871+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.40 (Ranked 766)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,695 |
-| Predator I | 23.00% | ~59,871 |
-| Fixer I | 10.00% | ~26,031 |
-| A week in Century City | 10.00% | ~26,031 |
-| The Wait | 7.00% | ~18,221 |
-| Green thumb I | 6.00% | ~15,618 |
-| Cleaning Company | 6.00% | ~15,618 |
-| Well-oiled machine | 5.00% | ~13,015 |
-| Saver I | 5.00% | ~13,015 |
-| The Ascent | 4.00% | ~10,412 |
-| Pacifist | 4.00% | ~10,412 |
-| Vandalism | 4.00% | ~10,412 |
-| Capitalist I | 4.00% | ~10,412 |
+| Survivor | 31.00% | ~80,698 |
+| Predator I | 23.00% | ~59,872 |
+| Fixer I | 10.00% | ~26,032 |
+| A week in Century City | 10.00% | ~26,032 |
+| The Wait | 7.00% | ~18,222 |
+| Green thumb I | 6.00% | ~15,619 |
+| Cleaning Company | 6.00% | ~15,619 |
+| Well-oiled machine | 5.00% | ~13,016 |
+| Saver I | 5.00% | ~13,016 |
+| The Ascent | 4.00% | ~10,413 |
+| Pacifist | 4.00% | ~10,413 |
+| Vandalism | 4.00% | ~10,413 |
+| Capitalist I | 4.00% | ~10,413 |
 | Fixer II | 3.00% | ~7,809 |
 | It took a while | 3.00% | ~7,809 |
 | Adrenaline | 3.00% | ~7,809 |
@@ -35,8 +35,8 @@ Rating: 4.40 (Ranked 766)
 | Green thumb II | 1.00% | ~2,603 |
 | Bricklayer | 1.00% | ~2,603 |
 | Run the Economy | 1.00% | ~2,603 |
-| Committed Relationship | 0.80% | ~2,082 |
-| Number 1 | 0.80% | ~2,082 |
+| Committed Relationship | 0.80% | ~2,083 |
+| Number 1 | 0.80% | ~2,083 |
 | The Gamble | 0.60% | ~1,562 |
 | A major purchase | 0.60% | ~1,562 |
 | Interior designer | 0.60% | ~1,562 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 766)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,307 (Ranked 67)  
+Progressed: 260,315 (Ranked 67)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 260,179 | 3 |
 | 2024-01-04 | 260,226 | 3 |
 | 2024-01-05 | 260,269 | 3 |
-| 2024-01-06 | 260,307 | 3 |
+| 2024-01-06 | 260,315 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 444)  
 Sum: 374 (Ranked 361)  

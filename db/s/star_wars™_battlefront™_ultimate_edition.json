@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2671,
+  "EOS_Progressed": 2675,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7344,6 +7344,11 @@
       "Time": "2024-01-06T17:10:21.7846101+00:00",
       "NumProgressed": 2671,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-06T18:10:16.0923532+00:00",
+      "NumProgressed": 2675,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7404,7 +7409,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_16",
@@ -7412,7 +7417,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_17",
@@ -7436,7 +7441,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_2",
@@ -7476,7 +7481,7 @@
       "Name": "Determined",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_24",
@@ -7508,7 +7513,7 @@
       "Name": "Your journey has only started",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_28",
@@ -7524,7 +7529,7 @@
       "Name": "On the ball",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_3",
@@ -7540,7 +7545,7 @@
       "Name": "Precision shot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_31",
@@ -7580,7 +7585,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2327
     },
     {
       "ID": "achievement_36",
@@ -7596,7 +7601,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1658
     },
     {
       "ID": "achievement_38",
@@ -7620,7 +7625,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_40",
@@ -7628,7 +7633,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1391
     },
     {
       "ID": "achievement_41",
@@ -7660,7 +7665,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "achievement_45",
@@ -7748,7 +7753,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_55",
@@ -7796,7 +7801,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_60",
@@ -7804,7 +7809,7 @@
       "Name": "What will you become?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_61",
@@ -7859,13 +7864,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2671,
+      "Progressed": 2675,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2671,
+      "Progressed": 2675,
       "Completed": 1
     }
   ],
@@ -7873,8 +7878,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:10:21.7846094+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:10:16.0923528+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:57:34.8879471+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:10:21.7846931+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:57:29.2158171+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:10:16.0924341+00:00"
 }

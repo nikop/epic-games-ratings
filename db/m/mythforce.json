@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6143,
+  "EOS_Progressed": 6144,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12689,6 +12689,11 @@
       "Time": "2024-01-06T17:04:51.8383407+00:00",
       "NumProgressed": 6143,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-06T18:04:43.1090216+00:00",
+      "NumProgressed": 6144,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12725,7 +12730,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -12821,7 +12826,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -12861,7 +12866,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -12884,15 +12889,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6143,
+      "Progressed": 6144,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:04:51.8383404+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:04:43.1090212+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:00:35.137271+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:04:51.8384134+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:00:21.5397879+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:04:43.1090892+00:00"
 }

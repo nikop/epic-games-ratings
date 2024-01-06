@@ -61,8 +61,8 @@ Rating: 4.71 (Ranked 203)
 | Heal Heal Blessing | 17.00% | ~125 |
 | Mirror, Mirror | 16.00% | ~118 |
 | Untouchable | 16.00% | ~118 |
+| Hands Off My Stones | 14.00% | ~103 |
 | Laser Eyes Are So Useless | 13.00% | ~96 |
-| Hands Off My Stones | 13.00% | ~96 |
 | Gorgu is in the Best of Health | 12.00% | ~88 |
 | No Mana, No Cry | 11.00% | ~81 |
 | I Don't Need Any Help | 10.00% | ~74 |

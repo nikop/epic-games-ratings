@@ -5,25 +5,25 @@ Rating: 4.53 (Ranked 566)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,100 |
+| Feels Familiar | 74.00% | ~1,101 |
 | I Broke It | 73.00% | ~1,086 |
-| Better On Ice | 68.00% | ~1,011 |
-| Notai Notes | 66.00% | ~981 |
+| Better On Ice | 68.00% | ~1,012 |
+| Notai Notes | 66.00% | ~982 |
 | Blue Dreams | 65.00% | ~967 |
 | He's Famous! | 65.00% | ~967 |
 | Cutie Poro | 65.00% | ~967 |
 | Krugmazing | 64.00% | ~952 |
-| Moneyball | 60.00% | ~892 |
-| The Fire Below the Mountain | 60.00% | ~892 |
+| Moneyball | 60.00% | ~893 |
+| The Fire Below the Mountain | 60.00% | ~893 |
 | No Bites | 55.00% | ~818 |
 | Iceborn | 55.00% | ~818 |
-| Boom Things | 53.00% | ~788 |
-| Tear of Freedom | 52.00% | ~773 |
+| Tear of Freedom | 52.00% | ~774 |
+| Boom Things | 52.00% | ~774 |
 | My Darkest Day | 48.00% | ~714 |
 | Rhythm Of Willump | 46.00% | ~684 |
 | The Relentless Storm | 46.00% | ~684 |
-| A Tragic Reminder | 45.00% | ~669 |
-| 3000 Year Blackout | 44.00% | ~654 |
+| A Tragic Reminder | 45.00% | ~670 |
+| 3000 Year Blackout | 44.00% | ~655 |
 | The Finisher | 42.00% | ~625 |
 | So Close | 41.00% | ~610 |
 | You Get Used To It | 41.00% | ~610 |
@@ -33,8 +33,8 @@ Rating: 4.53 (Ranked 566)
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~580 |
 | Freeze The Ice Witch | 38.00% | ~565 |
 | True Legends | 38.00% | ~565 |
-| Bullseye | 36.00% | ~535 |
-| It Is Not Over | 35.00% | ~520 |
+| Bullseye | 36.00% | ~536 |
+| It Is Not Over | 35.00% | ~521 |
 | On The Rocks | 33.00% | ~491 |
 | Snowy Poro | 32.00% | ~476 |
 | Never Gets Old | 32.00% | ~476 |
@@ -50,8 +50,8 @@ Rating: 4.53 (Ranked 566)
 | We Are Speed | 2.00% | ~30 |
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,487 (Ranked 266)  
-Completed: 9 (0.61%) (Ranked 204)  
+Progressed: 1,488 (Ranked 266)  
+Completed: 9 (0.60%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 9 (0.61%) (Ranked 204)
 | 2024-01-03 | 1,451 | 9 |
 | 2024-01-04 | 1,464 | 9 |
 | 2024-01-05 | 1,474 | 9 |
-| 2024-01-06 | 1,487 | 9 |
+| 2024-01-06 | 1,488 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

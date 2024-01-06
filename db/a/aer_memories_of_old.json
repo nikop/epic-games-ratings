@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -425,9 +425,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28106,
+  "EOS_Progressed": 28109,
   "EOS_Completed": 515,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
@@ -28595,6 +28595,11 @@
       "Time": "2024-01-06T17:05:40.1588262+00:00",
       "NumProgressed": 28106,
       "NumCompleted": 515
+    },
+    {
+      "Time": "2024-01-06T18:05:30.9280966+00:00",
+      "NumProgressed": 28109,
+      "NumCompleted": 515
     }
   ],
   "TotalAchievements": 20,
@@ -28654,7 +28659,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -28686,7 +28691,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "FOUND_MAMBA",
@@ -28694,7 +28699,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -28710,7 +28715,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "GAME_FINISHED",
@@ -28726,7 +28731,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21361
+      "UsersEstimate": 21363
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28750,7 +28755,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "WEST_FINISHED",
@@ -28758,22 +28763,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5059
+      "UsersEstimate": 5060
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28106,
+      "Progressed": 28109,
       "Completed": 515
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:05:40.1588254+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:05:30.9280964+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:58:53.1942802+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:05:40.1589515+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:58:44.0448401+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:05:30.9282536+00:00"
 }

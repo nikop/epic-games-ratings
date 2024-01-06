@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 737,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.07,
   "EosHistory": [
@@ -2780,9 +2780,9 @@
       "ID": "ach_main19war_stonedamage",
       "SetID": "4hg22ll",
       "Name": "Hands Off My Stones",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_main20end_completed",
@@ -2821,8 +2821,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:09:21.8836502+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:09:17.1320005+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:57:28.8935786+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:09:21.8836981+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:57:23.3999097+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:09:17.132051+00:00"
 }

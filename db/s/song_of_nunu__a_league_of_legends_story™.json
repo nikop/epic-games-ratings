@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -75,11 +75,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1487,
+  "EOS_Progressed": 1488,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.61,
+  "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
     {
       "Time": "2023-10-23T07:07:08.0528773+00:00",
@@ -3945,6 +3945,11 @@
       "Time": "2024-01-06T17:10:19.5746711+00:00",
       "NumProgressed": 1487,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-06T18:10:14.0314156+00:00",
+      "NumProgressed": 1488,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -3989,7 +3994,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "EV_ACH06",
@@ -3997,7 +4002,7 @@
       "Name": "A Tragic Reminder",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "EV_ACH07",
@@ -4005,7 +4010,7 @@
       "Name": "3000 Year Blackout",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "EV_ACH08",
@@ -4053,15 +4058,15 @@
       "Name": "It Is Not Over",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 788
+      "UsersEstimate": 774
     },
     {
       "ID": "EV_ACH15",
@@ -4069,7 +4074,7 @@
       "Name": "Better On Ice",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "EV_ACH16",
@@ -4125,7 +4130,7 @@
       "Name": "Bullseye",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "EV_ACH23",
@@ -4157,7 +4162,7 @@
       "Name": "Moneyball",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "EV_ACH27",
@@ -4197,7 +4202,7 @@
       "Name": "Feels Familiar",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "EV_ACH32",
@@ -4213,7 +4218,7 @@
       "Name": "Notai Notes",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "EV_ACH34",
@@ -4229,7 +4234,7 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "EV_ACH36",
@@ -4308,7 +4313,7 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1487,
+      "Progressed": 1488,
       "Completed": 9
     }
   ],
@@ -4316,8 +4321,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-06T08:58:42.2777074+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:10:19.5746707+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:10:14.0314154+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.1823177+00:00",
-  "LastUpdate_Ratings": "2024-01-06T16:58:35.2607145+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:10:19.5747436+00:00"
+  "LastUpdate_Ratings": "2024-01-06T17:58:27.0773838+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:10:14.0314577+00:00"
 }

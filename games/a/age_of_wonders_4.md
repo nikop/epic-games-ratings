@@ -6,19 +6,19 @@ Rating: 4.62 (Ranked 378)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 15.00% | ~1,045 |
-| Realm Estate | 13.00% | ~905 |
+| Realm Estate | 13.00% | ~906 |
 | A Wonderful Discovery | 12.00% | ~836 |
 | Walls Cannot Stop Us | 12.00% | ~836 |
 | From Friends to Family | 11.00% | ~766 |
 | Bone Peddler | 9.00% | ~627 |
 | Magical Synergy | 8.00% | ~557 |
-| There Can Only Be One! | 7.00% | ~487 |
-| Full Ascension | 7.00% | ~487 |
-| Stronger Together | 7.00% | ~487 |
-| Seat of Power | 7.00% | ~487 |
+| There Can Only Be One! | 7.00% | ~488 |
+| Full Ascension | 7.00% | ~488 |
+| Stronger Together | 7.00% | ~488 |
+| Seat of Power | 7.00% | ~488 |
+| Valley of Wonders | 6.00% | ~418 |
 | In a Liege of Your Own | 6.00% | ~418 |
 | Intimidation Tactics | 6.00% | ~418 |
-| Valley of Wonders | 5.00% | ~348 |
 | But this one is mine | 5.00% | ~348 |
 | Return of the Wizard King | 4.00% | ~279 |
 | Enchanted Archipelago | 4.00% | ~279 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,964 (Ranked 196)  
+Progressed: 6,968 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
-| 2024-01-06 | 6,964 | 7 |
+| 2024-01-06 | 6,968 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 210 (Ranked 411)  

@@ -6,12 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~882 |
-| Lost and Found | 8.00% | ~543 |
-| Autodidact | 7.00% | ~9,234 |
-| This Belongs in a Museum | 6.00% | ~7,915 |
-| Overdue Notice | 6.00% | ~7,915 |
-| This guy... again? | 6.00% | ~407 |
+| Malpractice Assurance | 13.00% | ~883 |
+| Lost and Found | 8.00% | ~544 |
+| Autodidact | 7.00% | ~9,235 |
+| This Belongs in a Museum | 6.00% | ~7,916 |
+| Overdue Notice | 6.00% | ~7,916 |
+| This guy... again? | 6.00% | ~408 |
+| Ploughshares to Swords | 6.00% | ~408 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,596 |
 | Serenity Now! | 5.00% | ~6,596 |
 | Creep and Sleep | 5.00% | ~6,596 |
@@ -20,8 +21,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 5.00% | ~6,596 |
 | Rush Hour | 5.00% | ~6,596 |
 | To Grandmother's House | 5.00% | ~6,596 |
-| Ploughshares to Swords | 5.00% | ~339 |
-| Bloody Graduation | 5.00% | ~339 |
+| Bloody Graduation | 5.00% | ~340 |
 | It Rings a Bell | 4.00% | ~5,277 |
 | Not Today! | 4.00% | ~5,277 |
 | It Happens | 4.00% | ~5,277 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,277 |
 | FNG | 4.00% | ~5,277 |
 | Nope | 4.00% | ~5,277 |
-| Friends 'Til the End | 4.00% | ~271 |
+| Friends 'Til the End | 4.00% | ~272 |
 | Resurrection | 3.00% | ~3,958 |
 | Unleash Hell | 3.00% | ~3,958 |
 | Funny Guy | 3.00% | ~3,958 |
@@ -51,14 +51,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~3,958 |
 | Unshackled | 3.00% | ~3,958 |
 | Road Trip | 3.00% | ~3,958 |
-| This Looks Familiar | 2.00% | ~2,638 |
-| Hope Rekindled | 2.00% | ~2,638 |
-| Ichthyophobic | 2.00% | ~2,638 |
-| No More Mouths to Feed | 2.00% | ~2,638 |
-| When You Want Something Done Right | 2.00% | ~2,638 |
-| Worldly Traveller | 2.00% | ~2,638 |
-| Hot Air | 2.00% | ~2,638 |
-| Eyes Up | 2.00% | ~2,638 |
+| This Looks Familiar | 2.00% | ~2,639 |
+| Hope Rekindled | 2.00% | ~2,639 |
+| Ichthyophobic | 2.00% | ~2,639 |
+| No More Mouths to Feed | 2.00% | ~2,639 |
+| When You Want Something Done Right | 2.00% | ~2,639 |
+| Worldly Traveller | 2.00% | ~2,639 |
+| Hot Air | 2.00% | ~2,639 |
+| Eyes Up | 2.00% | ~2,639 |
 | Clearing the Ledger | 1.00% | ~1,319 |
 | Shrine of Reflection | 1.00% | ~1,319 |
 | Handled | 1.00% | ~1,319 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,918 (Ranked 91)  
+Progressed: 131,927 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
-| 2024-01-06 | 131,918 | 3 |
+| 2024-01-06 | 131,927 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
 Sum: 21,475 (Ranked 58)  

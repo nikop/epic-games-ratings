@@ -6,8 +6,8 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~470 |
-| Double Kill | 40.00% | ~408 |
+| Adept | 46.00% | ~471 |
+| Double Kill | 40.00% | ~409 |
 | Critical Hit | 23.00% | ~235 |
 | Veteran | 22.00% | ~225 |
 | Dressed For Success | 15.00% | ~153 |
@@ -15,8 +15,8 @@ Number of Ratings: 292  (23.09.2022)
 | Veni, Vidi, Vici | 10.00% | ~102 |
 | Multi Kill | 9.00% | ~92 |
 | Sorcerous Spree | 8.00% | ~82 |
-| Landlord Extraordinaire | 7.00% | ~71 |
-| Master | 7.00% | ~71 |
+| Landlord Extraordinaire | 7.00% | ~72 |
+| Master | 7.00% | ~72 |
 | Whoops! | 6.00% | ~61 |
 | Don't Touch My Stuff | 6.00% | ~61 |
 | The Song of Stoutheart | 5.00% | ~51 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,021 (Ranked 290)  
+Progressed: 1,023 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,11 +118,11 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 962 | 0 |
 | 2024-01-04 | 978 | 0 |
 | 2024-01-05 | 1,000 | 0 |
-| 2024-01-06 | 1,021 | 0 |
+| 2024-01-06 | 1,023 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 29  (Ranked 527)  
+Max (Quickly Understood Controls): 29  (Ranked 528)  
 Sum: 251 (Ranked 398)  
-Diff (max vs sum): 129  
+Diff (max vs sum): 130  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 29 |

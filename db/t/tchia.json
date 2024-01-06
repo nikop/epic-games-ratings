@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8753,
+  "EOS_Progressed": 8756,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -10996,6 +10996,11 @@
       "Time": "2024-01-06T17:03:51.2231906+00:00",
       "NumProgressed": 8753,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-06T18:03:44.5565863+00:00",
+      "NumProgressed": 8756,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 21,
@@ -11029,9 +11034,9 @@
       "ID": "BODY_AND_SOUL",
       "SetID": "3cck1g6",
       "Name": "Body and Soul",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 35
+      "UsersEstimate": 44
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -11174,7 +11179,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8753,
+      "Progressed": 8756,
       "Completed": 35
     }
   ],
@@ -11182,8 +11187,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-04T06:59:23.347632+00:00",
-  "LastChanged_Achievements": "2024-01-06T17:03:51.2231902+00:00",
+  "LastChanged_Achievements": "2024-01-06T18:03:44.5565858+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.6099916+00:00",
-  "LastUpdate_Ratings": "2024-01-06T17:00:27.182084+00:00",
-  "LastUpdate_Achievements": "2024-01-06T17:03:51.2232962+00:00"
+  "LastUpdate_Ratings": "2024-01-06T18:00:13.6526573+00:00",
+  "LastUpdate_Achievements": "2024-01-06T18:03:44.5566382+00:00"
 }
