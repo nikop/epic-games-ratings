@@ -268,7 +268,7 @@
 | [DAY_000](games/7/7862c34b00e749a3b3066004ae157859.md) | 2099-01-01 | - |  | - | - |
 | [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | 2099-01-01 | - |  | - | - |
 | [Debtors' Club](games/d/dda54842f3d34f8791f2bddfe7d21676.md) | 2099-01-01 | - |  | - | - |
-| [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2099-01-01 | 28 (1,000 XP) | 1 | - | - |
+| [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2099-01-01 | 28 (1,000 XP) | 2 | - | - |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | - |  | - | - |
 | [Derelicts](games/d/derelicts.md) | 2099-01-01 | - |  | - | - |
 | [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 2099-01-01 | 23 (1,000 XP) | 3 | - | - |
