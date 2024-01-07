@@ -5,21 +5,21 @@ Rating: 4.46 (Ranked 674)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 49.00% | ~1,653 |
+| Eat My Dust | 49.00% | ~1,654 |
 | First Love | 44.00% | ~1,485 |
 | Clean Race | 44.00% | ~1,485 |
-| Hear That Roar! | 42.00% | ~1,417 |
-| Bitter Rivalry | 30.00% | ~1,012 |
-| Rivals to the End | 30.00% | ~1,012 |
-| Champagne Spray | 29.00% | ~978 |
-| We're Going to Need a Bigger Garage | 26.00% | ~877 |
-| Quick Pit Stop | 22.00% | ~742 |
+| Hear That Roar! | 42.00% | ~1,418 |
+| Bitter Rivalry | 30.00% | ~1,013 |
+| Rivals to the End | 30.00% | ~1,013 |
+| Champagne Spray | 29.00% | ~979 |
+| We're Going to Need a Bigger Garage | 26.00% | ~878 |
+| Quick Pit Stop | 22.00% | ~743 |
 | Restored and Ready | 20.00% | ~675 |
 | I Want One Too! | 20.00% | ~675 |
 | Legendary!!! | 20.00% | ~675 |
 | Go-Faster Stripes | 17.00% | ~574 |
-| I'm Here Too! | 14.00% | ~472 |
-| We've Just Begun | 14.00% | ~472 |
+| I'm Here Too! | 14.00% | ~473 |
+| We've Just Begun | 14.00% | ~473 |
 | Is It the Right Size? | 9.00% | ~304 |
 | Stamina Star | 8.00% | ~270 |
 | Evangelist | 7.00% | ~236 |
@@ -32,16 +32,16 @@ Rating: 4.46 (Ranked 674)
 | I Make the Rules! | 3.00% | ~101 |
 | Rounding Off | 3.00% | ~101 |
 | My Work Here Is Done | 3.00% | ~101 |
-| Iconic! | 2.00% | ~67 |
-| I'll Be the Best! | 2.00% | ~67 |
-| Back in Blighty | 2.00% | ~67 |
-| Still Here | 2.00% | ~67 |
-| Overtaking the Master | 2.00% | ~67 |
+| Iconic! | 2.00% | ~68 |
+| I'll Be the Best! | 2.00% | ~68 |
+| Back in Blighty | 2.00% | ~68 |
+| Still Here | 2.00% | ~68 |
+| Overtaking the Master | 2.00% | ~68 |
 | Next Level | 1.00% | ~34 |
 | I Don't Stop | 1.00% | ~34 |
 | Exhausted but Happy | 0.70% | ~24 |
 | In Search of Perfection | 0.70% | ~24 |
-| Globe-trotter | 0.40% | ~13 |
+| Globe-trotter | 0.40% | ~14 |
 | Maximum Endurance | 0.20% | ~7 |
 | Breathtaking Views | 0.20% | ~7 |
 | Beyond the Limiter | 0.20% | ~7 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 674)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,374 (Ranked 223)  
+Progressed: 3,376 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,289 | 0 |
 | 2024-01-05 | 3,324 | 0 |
 | 2024-01-06 | 3,370 | 0 |
-| 2024-01-07 | 3,374 | 0 |
+| 2024-01-07 | 3,376 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

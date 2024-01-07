@@ -3815,9 +3815,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 20329,
+  "EOS_Progressed": 20332,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18735,6 +18735,11 @@
       "Time": "2024-01-07T02:01:17.2427205+00:00",
       "NumProgressed": 20329,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-07T03:07:32.1873979+00:00",
+      "NumProgressed": 20332,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19083,7 +19088,7 @@
       "Name": "Taking Action",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "WinWithResolve",
@@ -19147,7 +19152,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "WinNearFrosts",
@@ -19155,7 +19160,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "WinNearGreed",
@@ -19163,7 +19168,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "WinNearLibrary",
@@ -19171,7 +19176,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "WinNearPetrified",
@@ -19187,7 +19192,7 @@
       "Name": "Ominous Presence",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "WinNearStorms",
@@ -19218,15 +19223,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20329,
+      "Progressed": 20332,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-07T01:55:16.6666445+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:01:17.2427202+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:07:32.1873975+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:55:16.6666452+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:01:17.2428282+00:00"
+  "LastUpdate_Ratings": "2024-01-07T03:01:16.4516404+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:07:32.1875582+00:00"
 }

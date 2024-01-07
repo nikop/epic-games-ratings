@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -4573,9 +4573,9 @@
       "ID": "LEVEL_026",
       "SetID": "212bg48",
       "Name": "Hiking, camping, picnics... you choose",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 122
+      "UsersEstimate": 140
     },
     {
       "ID": "LEVEL_027",
@@ -4620,8 +4620,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:04:59.5967772+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:10:49.9735803+00:00",
   "LastUpdate_AppInfo": "2024-01-02T06:57:01.1048278+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:53:16.0079686+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:04:59.596817+00:00"
+  "LastUpdate_Ratings": "2024-01-07T02:58:59.8191416+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:10:49.9736185+00:00"
 }

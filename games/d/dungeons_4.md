@@ -26,7 +26,7 @@ Rating: 4.71 (Ranked 203)
 | The Big Eaty | 54.00% | ~400 |
 | YOU SHALL NOT PASS! | 51.00% | ~377 |
 | “… like son” | 51.00% | ~377 |
-| The Cathedral of Light | 47.00% | ~348 |
+| The Cathedral of Light | 48.00% | ~355 |
 | Shame! Shame! Shame! | 47.00% | ~348 |
 | Tanos' Crusade Against Thalya | 46.00% | ~340 |
 | Pure Dynamite! | 45.00% | ~333 |
@@ -34,9 +34,9 @@ Rating: 4.71 (Ranked 203)
 | Mana Cannon | 42.00% | ~311 |
 | All’s Well That Ends Evil | 41.00% | ~303 |
 | The Duel | 38.00% | ~281 |
+| If Looks Could Kill | 36.00% | ~266 |
 | Unstoppable Horde | 35.00% | ~259 |
 | Master of the Undead | 35.00% | ~259 |
-| If Looks Could Kill | 35.00% | ~259 |
 | The Finitude Drill | 33.00% | ~244 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~222 |
 | Doom Hill | 30.00% | ~222 |

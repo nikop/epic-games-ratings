@@ -1,17 +1,17 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~889 |
-| Lost and Found | 8.00% | ~547 |
+| Malpractice Assurance | 13.00% | ~890 |
+| Lost and Found | 8.00% | ~548 |
 | Autodidact | 7.00% | ~9,238 |
-| This Belongs in a Museum | 6.00% | ~7,918 |
-| Creep and Sleep | 6.00% | ~7,918 |
-| Overdue Notice | 6.00% | ~7,918 |
+| This Belongs in a Museum | 6.00% | ~7,919 |
+| Creep and Sleep | 6.00% | ~7,919 |
+| Overdue Notice | 6.00% | ~7,919 |
 | This guy... again? | 6.00% | ~411 |
 | Ploughshares to Swords | 6.00% | ~411 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,599 |
@@ -21,6 +21,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 5.00% | ~6,599 |
 | Rush Hour | 5.00% | ~6,599 |
 | To Grandmother's House | 5.00% | ~6,599 |
+| FNG | 5.00% | ~6,599 |
 | Bloody Graduation | 5.00% | ~342 |
 | It Rings a Bell | 4.00% | ~5,279 |
 | Not Today! | 4.00% | ~5,279 |
@@ -29,7 +30,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Harvest Festival | 4.00% | ~5,279 |
 | Whale | 4.00% | ~5,279 |
 | A Place to Lay Your Head | 4.00% | ~5,279 |
-| FNG | 4.00% | ~5,279 |
 | Nope | 4.00% | ~5,279 |
 | Friends 'Til the End | 4.00% | ~274 |
 | Resurrection | 3.00% | ~3,959 |
@@ -51,14 +51,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~3,959 |
 | Unshackled | 3.00% | ~3,959 |
 | Road Trip | 3.00% | ~3,959 |
-| This Looks Familiar | 2.00% | ~2,639 |
-| Hope Rekindled | 2.00% | ~2,639 |
-| Ichthyophobic | 2.00% | ~2,639 |
-| No More Mouths to Feed | 2.00% | ~2,639 |
-| When You Want Something Done Right | 2.00% | ~2,639 |
-| Worldly Traveller | 2.00% | ~2,639 |
-| Hot Air | 2.00% | ~2,639 |
-| Eyes Up | 2.00% | ~2,639 |
+| This Looks Familiar | 2.00% | ~2,640 |
+| Hope Rekindled | 2.00% | ~2,640 |
+| Ichthyophobic | 2.00% | ~2,640 |
+| No More Mouths to Feed | 2.00% | ~2,640 |
+| When You Want Something Done Right | 2.00% | ~2,640 |
+| Worldly Traveller | 2.00% | ~2,640 |
+| Hot Air | 2.00% | ~2,640 |
+| Eyes Up | 2.00% | ~2,640 |
 | Clearing the Ledger | 1.00% | ~1,320 |
 | Shrine of Reflection | 1.00% | ~1,320 |
 | Handled | 1.00% | ~1,320 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,973 (Ranked 91)  
+Progressed: 131,977 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 131,973 | 3 |
+| 2024-01-07 | 131,977 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
 Sum: 21,484 (Ranked 58)  

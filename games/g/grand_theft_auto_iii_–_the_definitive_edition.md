@@ -1,41 +1,41 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.20 (Ranked 960)  
+Rating: 4.20 (Ranked 961)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~9,793 |
-| Disposing of the Evidence | 38.00% | ~4,484 |
-| Without a Scratch | 34.00% | ~4,012 |
-| Wreckless Driving | 28.00% | ~3,304 |
-| A Marked Man | 26.00% | ~3,068 |
-| Street Sweeper | 19.00% | ~2,242 |
-| Liberty City Minute | 17.00% | ~2,006 |
-| Offshore Delivery | 14.00% | ~1,652 |
-| Dirty Money | 13.00% | ~1,534 |
-| By a Mile | 10.00% | ~1,180 |
-| Not So Fast | 10.00% | ~1,180 |
-| Right-hand Man | 10.00% | ~1,180 |
-| A Gift from the King | 7.00% | ~826 |
+| First Day on the Job | 83.00% | ~9,801 |
+| Disposing of the Evidence | 38.00% | ~4,487 |
+| Without a Scratch | 34.00% | ~4,015 |
+| Wreckless Driving | 28.00% | ~3,306 |
+| A Marked Man | 26.00% | ~3,070 |
+| Street Sweeper | 19.00% | ~2,244 |
+| Liberty City Minute | 17.00% | ~2,007 |
+| Offshore Delivery | 14.00% | ~1,653 |
+| Dirty Money | 13.00% | ~1,535 |
+| By a Mile | 10.00% | ~1,181 |
+| Not So Fast | 10.00% | ~1,181 |
+| Right-hand Man | 10.00% | ~1,181 |
+| A Gift from the King | 7.00% | ~827 |
 | Full Artillery | 4.00% | ~472 |
 | Mob Boss | 3.00% | ~354 |
 | Escape Artist | 2.00% | ~236 |
 | Got This Figured Out | 2.00% | ~236 |
-| Come Out to Play-y-y-y | 2.00% | ~236 |
 | Where To? | 2.00% | ~236 |
 | Splish Splash | 2.00% | ~236 |
 | Playing Doctor | 2.00% | ~236 |
 | Liberty City Secrets | 2.00% | ~236 |
 | Planned Ahead | 1.00% | ~118 |
 | Wheels Up | 1.00% | ~118 |
+| Come Out to Play-y-y-y | 1.00% | ~118 |
 | Man Toyz | 1.00% | ~118 |
 | Going Rogue | 1.00% | ~118 |
 | Furious First Responder | 1.00% | ~118 |
 | Is That All You've Got? | 0.90% | ~106 |
 | King of Liberty City | 0.70% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,799 (Ranked 178)  
+Progressed: 11,808 (Ranked 178)  
 Completed: 79 (0.67%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 79 (0.67%) (Ranked 197)
 | 2024-01-04 | 11,553 | 77 |
 | 2024-01-05 | 11,665 | 77 |
 | 2024-01-06 | 11,790 | 79 |
-| 2024-01-07 | 11,799 | 79 |
+| 2024-01-07 | 11,808 | 79 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1392,9 +1392,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32741,
+  "EOS_Progressed": 32743,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29552,6 +29552,11 @@
       "Time": "2024-01-07T02:04:46.7365896+00:00",
       "NumProgressed": 32741,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-07T03:10:35.9401805+00:00",
+      "NumProgressed": 32743,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29571,7 +29576,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "1017",
@@ -29579,7 +29584,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "1018",
@@ -29619,7 +29624,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "1023",
@@ -29667,7 +29672,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5893
+      "UsersEstimate": 5894
     },
     {
       "ID": "1029",
@@ -29691,7 +29696,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "1032",
@@ -29699,7 +29704,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13096
+      "UsersEstimate": 13097
     },
     {
       "ID": "1033",
@@ -29738,15 +29743,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32741,
+      "Progressed": 32743,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-05T16:59:15.5205633+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:04:46.736589+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:10:35.94018+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:54:53.6891512+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:04:46.7367528+00:00"
+  "LastUpdate_Ratings": "2024-01-07T03:00:50.632047+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:10:35.940407+00:00"
 }

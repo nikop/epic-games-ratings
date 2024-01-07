@@ -1578,9 +1578,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27862,
+  "EOS_Progressed": 27866,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -13288,6 +13288,11 @@
       "Time": "2024-01-07T02:04:55.3823467+00:00",
       "NumProgressed": 27862,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-07T03:10:45.2925531+00:00",
+      "NumProgressed": 27866,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13491,7 +13496,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "EndTimerFail",
@@ -13610,21 +13615,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27862,
+      "Progressed": 27866,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6792,
+      "Progressed": 6796,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-05T17:59:53.3686411+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:04:55.3823463+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:10:45.2925528+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:54:35.6012509+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:04:55.3824564+00:00"
+  "LastUpdate_Ratings": "2024-01-07T03:00:30.5122293+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:10:45.2926371+00:00"
 }

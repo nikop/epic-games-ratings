@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -352,10 +352,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 701,
       "NumberOfAwardsMax": 584
+    },
+    {
+      "Time": "2024-01-07T03:01:28.6311384+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 703,
+      "NumberOfAwardsMax": 584
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 701,
+  "NumberOfAwards": 703,
   "NumberOfAwardsMax": 584,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -375,13 +381,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -408,9 +414,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208696,
+  "EOS_Progressed": 208701,
   "EOS_Completed": 557,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28383,6 +28389,11 @@
       "Time": "2024-01-07T01:59:35.6348939+00:00",
       "NumProgressed": 208696,
       "NumCompleted": 557
+    },
+    {
+      "Time": "2024-01-07T03:05:40.5233995+00:00",
+      "NumProgressed": 208701,
+      "NumCompleted": 557
     }
   ],
   "TotalAchievements": 29,
@@ -28394,7 +28405,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -28418,7 +28429,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196174
+      "UsersEstimate": 196179
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -28586,7 +28597,7 @@
       "Name": "Snooper \u002B",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "ACHIEVEMENT_VANILLA",
@@ -28625,16 +28636,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208696,
+      "Progressed": 208701,
       "Completed": 557
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2024-01-06T11:02:50.1481292+00:00",
-  "LastChanged_Achievements": "2024-01-07T01:59:35.6348937+00:00",
+  "LastChanged": "2024-01-07T03:01:28.6311382+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:05:40.5233993+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.3451627+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:55:27.7364761+00:00",
-  "LastUpdate_Achievements": "2024-01-07T01:59:35.635043+00:00"
+  "LastUpdate_Ratings": "2024-01-07T03:01:28.6311387+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:05:40.5235663+00:00"
 }

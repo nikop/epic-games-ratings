@@ -13,8 +13,8 @@ Rating: 4.16 (Ranked 986)
 | Pilgrimage: Initiate | 7.00% | ~3,264 |
 | Hell of a Run | 7.00% | ~3,264 |
 | Call of the Fount: Baptized | 7.00% | ~3,264 |
-| No Mercy | 6.00% | ~2,797 |
-| Explorer: Seeker | 6.00% | ~2,797 |
+| No Mercy | 6.00% | ~2,798 |
+| Explorer: Seeker | 6.00% | ~2,798 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,331 |
 | Stuck | 5.00% | ~2,331 |
 | Help Me Out Here | 5.00% | ~2,331 |
@@ -22,12 +22,12 @@ Rating: 4.16 (Ranked 986)
 | Outdoorsperson | 3.00% | ~1,399 |
 | Hop, Step, Jump | 3.00% | ~1,399 |
 | Endless Runner | 3.00% | ~1,399 |
-| What Must Be Done | 2.00% | ~932 |
-| Might and Main | 2.00% | ~932 |
-| Damned If You Do... | 2.00% | ~932 |
-| Explorer: Pathfinder | 2.00% | ~932 |
-| Shocker | 2.00% | ~932 |
-| From Every Angle | 2.00% | ~932 |
+| What Must Be Done | 2.00% | ~933 |
+| Might and Main | 2.00% | ~933 |
+| Damned If You Do... | 2.00% | ~933 |
+| Explorer: Pathfinder | 2.00% | ~933 |
+| Shocker | 2.00% | ~933 |
+| From Every Angle | 2.00% | ~933 |
 | The Hue of Blue | 1.00% | ~466 |
 | The Truth Will Out | 1.00% | ~466 |
 | Breaking Point | 1.00% | ~466 |
@@ -39,7 +39,7 @@ Rating: 4.16 (Ranked 986)
 | Realized Potential | 0.70% | ~326 |
 | Explorer: Trailblazer | 0.60% | ~280 |
 | Through the Eyes of Another: Seer | 0.50% | ~233 |
-| Craftsperson | 0.40% | ~186 |
+| Craftsperson | 0.40% | ~187 |
 | Archivist | 0.30% | ~140 |
 | Tit for Tat | 0.30% | ~140 |
 | A Roaring Trade | 0.30% | ~140 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 986)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,623 (Ranked 126)  
+Progressed: 46,626 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 4 (0.01%) (Ranked 371)
 | 2024-01-04 | 46,369 | 4 |
 | 2024-01-05 | 46,484 | 4 |
 | 2024-01-06 | 46,610 | 4 |
-| 2024-01-07 | 46,623 | 4 |
+| 2024-01-07 | 46,626 | 4 |
 ## Awards
 Max (Character Customization): 46  (Ranked 467)  
 Sum: 67 (Ranked 493)  

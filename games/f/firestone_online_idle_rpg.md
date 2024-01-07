@@ -5,15 +5,15 @@ Rating: 4.05 (Ranked 1,034)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,970 |
-| World Map | 78.00% | ~3,330 |
+| Victor | 93.00% | ~3,971 |
+| World Map | 78.00% | ~3,331 |
 | Temple of Eternals | 56.00% | ~2,391 |
 | Prestigious | 52.00% | ~2,220 |
-| Fellowship Power | 41.00% | ~1,750 |
-| Full Party | 28.00% | ~1,195 |
+| Fellowship Power | 41.00% | ~1,751 |
+| Full Party | 28.00% | ~1,196 |
 | Guild Power | 23.00% | ~982 |
 | Prestigious x10 | 20.00% | ~854 |
-| The game is on | 18.00% | ~768 |
+| The game is on | 18.00% | ~769 |
 | Exotic Merchant | 16.00% | ~683 |
 | Dragon Clicker | 15.00% | ~640 |
 | Miner Clicker | 15.00% | ~640 |
@@ -46,12 +46,12 @@ Rating: 4.05 (Ranked 1,034)
 | Dragon Slayer | 6.00% | ~256 |
 | The Expeditioner | 6.00% | ~256 |
 | Weekly Quest Completionist | 6.00% | ~256 |
-| Blueprint Upgrades | 5.00% | ~213 |
-| Crystal Mining | 5.00% | ~213 |
-| Enchanting skill | 5.00% | ~213 |
-| Engineer Mastery | 5.00% | ~213 |
-| How Do You Turn This On? | 5.00% | ~213 |
-| Missions Dedication | 5.00% | ~213 |
+| Blueprint Upgrades | 5.00% | ~214 |
+| Crystal Mining | 5.00% | ~214 |
+| Enchanting skill | 5.00% | ~214 |
+| Engineer Mastery | 5.00% | ~214 |
+| How Do You Turn This On? | 5.00% | ~214 |
+| Missions Dedication | 5.00% | ~214 |
 | Active Member | 4.00% | ~171 |
 | Ancient Knowledge | 4.00% | ~171 |
 | Background Story | 4.00% | ~171 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,034)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,269 (Ranked 209)  
+Progressed: 4,270 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-04 | 4,183 | 2 |
 | 2024-01-05 | 4,228 | 2 |
 | 2024-01-06 | 4,266 | 2 |
-| 2024-01-07 | 4,269 | 2 |
+| 2024-01-07 | 4,270 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 155 (Ranked 438)  

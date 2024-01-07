@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -1049,9 +1049,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 209
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -1113,9 +1113,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 201
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1169,9 +1169,9 @@
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 204
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -1328,8 +1328,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:00:37.7560262+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:06:48.5213423+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.3171345+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:53:32.1754376+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:00:37.7560558+00:00"
+  "LastUpdate_Ratings": "2024-01-07T02:59:17.6228537+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:06:48.5213681+00:00"
 }

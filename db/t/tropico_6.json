@@ -1545,7 +1545,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6960,
+  "EOS_Progressed": 6962,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
@@ -16180,6 +16180,11 @@
       "Time": "2024-01-07T01:59:40.7268869+00:00",
       "NumProgressed": 6960,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T03:05:46.2084058+00:00",
+      "NumProgressed": 6962,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16271,7 +16276,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -16287,7 +16292,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -16303,7 +16308,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -16351,7 +16356,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5081
+      "UsersEstimate": 5082
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16447,7 +16452,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16461,9 +16466,9 @@
       "ID": "ACH_TRADEISMYTRAIT",
       "SetID": "1p8ab95",
       "Name": "Trade Is My Trait",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2437
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16510,15 +16515,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6960,
+      "Progressed": 6962,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-07T01:53:38.5060517+00:00",
-  "LastChanged_Achievements": "2024-01-07T01:59:40.7268867+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:05:46.2084053+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:53:38.5060521+00:00",
-  "LastUpdate_Achievements": "2024-01-07T01:59:40.7269681+00:00"
+  "LastUpdate_Ratings": "2024-01-07T02:59:24.7603046+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:05:46.2085364+00:00"
 }

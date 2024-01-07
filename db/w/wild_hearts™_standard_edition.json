@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1199,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -3908,6 +3908,11 @@
       "Time": "2024-01-07T00:09:42.8607754+00:00",
       "NumProgressed": 1199,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-07T03:10:15.505691+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3918,9 +3923,9 @@
       "ID": "achievement_1",
       "SetID": "2cpn27e",
       "Name": "Land of the Rising Sun",
-      "Percentage": 99,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1201
     },
     {
       "ID": "achievement_10",
@@ -4062,9 +4067,9 @@
       "ID": "achievement_26",
       "SetID": "2cpn27e",
       "Name": "Vanquisher of the Volatile",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 84
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_27",
@@ -4086,9 +4091,9 @@
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 300
     },
     {
       "ID": "achievement_3",
@@ -4102,9 +4107,9 @@
       "ID": "achievement_30",
       "SetID": "2cpn27e",
       "Name": "Tender Touch",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_31",
@@ -4160,7 +4165,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 853
     },
     {
       "ID": "achievement_38",
@@ -4272,7 +4277,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 733
     },
     {
       "ID": "achievement_7",
@@ -4280,7 +4285,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 709
     },
     {
       "ID": "achievement_8",
@@ -4303,13 +4308,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1199,
+      "Progressed": 1201,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:04:27.8568792+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:10:15.5056905+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:53:41.49027+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:04:27.8569279+00:00"
+  "LastUpdate_Ratings": "2024-01-07T02:59:28.2370841+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:10:15.5057617+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2563,9 +2563,9 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 355
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -2659,9 +2659,9 @@
       "ID": "ach_main14run_completed",
       "SetID": "4hg22ll",
       "Name": "If Looks Could Kill",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 266
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -2836,8 +2836,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:04:07.486556+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:09:54.3061189+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:52:33.4183175+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:04:07.4866096+00:00"
+  "LastUpdate_Ratings": "2024-01-07T02:58:12.5492336+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:09:54.3061802+00:00"
 }

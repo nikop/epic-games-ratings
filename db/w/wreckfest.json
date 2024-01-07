@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 873,
+  "EOS_Progressed": 875,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2219,6 +2219,11 @@
       "Time": "2024-01-07T02:03:50.329081+00:00",
       "NumProgressed": 873,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T03:09:35.5738139+00:00",
+      "NumProgressed": 875,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2239,7 +2244,7 @@
       "Name": "Highballer",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 471
+      "UsersEstimate": 473
     },
     {
       "ID": "CareerChamp1",
@@ -2247,7 +2252,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "CareerChamp2",
@@ -2255,7 +2260,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "CareerChamp3",
@@ -2263,7 +2268,7 @@
       "Name": "Challengers Champion",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CareerChamp4",
@@ -2279,7 +2284,7 @@
       "Name": "World Masters Champion",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CareerFirstWin",
@@ -2287,7 +2292,7 @@
       "Name": "Storm Warning",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "CollectVehiclesA",
@@ -2295,7 +2300,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "CollectVehiclesB",
@@ -2303,7 +2308,7 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "CreditsEarnedA",
@@ -2343,7 +2348,7 @@
       "Name": "Dirty Roller",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "PlayerRankB",
@@ -2351,7 +2356,7 @@
       "Name": "Trashing Around",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "PlayerRankC",
@@ -2390,7 +2395,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 873,
+      "Progressed": 875,
       "Completed": 0
     }
   ],
@@ -2398,8 +2403,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-04T23:58:04.2803928+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:03:50.3290807+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:09:35.5738132+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:53:42.2652056+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:03:50.3291007+00:00"
+  "LastUpdate_Ratings": "2024-01-07T02:59:29.0673723+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:09:35.5738313+00:00"
 }

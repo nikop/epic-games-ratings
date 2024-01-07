@@ -9,7 +9,7 @@ Rating: 4.84 (Ranked 47)
 | Welcome to the Tower | 53.00% | ~1,322 |
 | The great escape | 45.00% | ~1,122 |
 | The Preacher's fate | 43.00% | ~1,072 |
-| A new dawn | 36.00% | ~898 |
+| A new dawn | 37.00% | ~923 |
 | Scholar | 32.00% | ~798 |
 | The darkness | 31.00% | ~773 |
 | True G3M4R | 30.00% | ~748 |

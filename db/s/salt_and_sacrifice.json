@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -2017,7 +2017,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 68150,
+  "EOS_Progressed": 68151,
   "EOS_Completed": 1289,
   "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 4,
@@ -16662,6 +16662,11 @@
       "Time": "2024-01-07T02:01:08.8751653+00:00",
       "NumProgressed": 68150,
       "NumCompleted": 1289
+    },
+    {
+      "Time": "2024-01-07T03:07:23.0579415+00:00",
+      "NumProgressed": 68151,
+      "NumCompleted": 1289
     }
   ],
   "TotalAchievements": 53,
@@ -16697,7 +16702,7 @@
       "Name": "The Swamp",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34075
+      "UsersEstimate": 34076
     },
     {
       "ID": "area_wastes",
@@ -16705,7 +16710,7 @@
       "Name": "The Wastes",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 56564
+      "UsersEstimate": 56565
     },
     {
       "ID": "bibliomancer",
@@ -16761,7 +16766,7 @@
       "Name": "Waste Not",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 54520
+      "UsersEstimate": 54521
     },
     {
       "ID": "crafting_first_replenish",
@@ -16769,7 +16774,7 @@
       "Name": "Stock Up",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 51112
+      "UsersEstimate": 51113
     },
     {
       "ID": "crafting_max_upgrade",
@@ -16785,7 +16790,7 @@
       "Name": "The Cryomancer",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 51794
+      "UsersEstimate": 51795
     },
     {
       "ID": "diablomancer",
@@ -16817,7 +16822,7 @@
       "Name": "The Champion",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 61335
+      "UsersEstimate": 61336
     },
     {
       "ID": "end_climb",
@@ -16841,7 +16846,7 @@
       "Name": "Blueheart Runners",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 36801
+      "UsersEstimate": 36802
     },
     {
       "ID": "faction_chaos",
@@ -16849,7 +16854,7 @@
       "Name": "Chaos Hunger",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18400
+      "UsersEstimate": 18401
     },
     {
       "ID": "faction_dawnlight",
@@ -16857,7 +16862,7 @@
       "Name": "Dawnlight Order",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 43616
+      "UsersEstimate": 43617
     },
     {
       "ID": "faction_oath",
@@ -16873,7 +16878,7 @@
       "Name": "Sheriff Inquisitors",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 37482
+      "UsersEstimate": 37483
     },
     {
       "ID": "faction_shroud",
@@ -16881,7 +16886,7 @@
       "Name": "Shroud Alliance",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 26578
+      "UsersEstimate": 26579
     },
     {
       "ID": "firelord",
@@ -16897,7 +16902,7 @@
       "Name": "The Fungalmancer",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32030
+      "UsersEstimate": 32031
     },
     {
       "ID": "hag",
@@ -16929,7 +16934,7 @@
       "Name": "The Kinetomancer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18400
+      "UsersEstimate": 18401
     },
     {
       "ID": "luminimancer",
@@ -16969,7 +16974,7 @@
       "Name": "The Necromancer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 35438
+      "UsersEstimate": 35439
     },
     {
       "ID": "neuromancer",
@@ -16977,7 +16982,7 @@
       "Name": "The Neuromancer",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23852
+      "UsersEstimate": 23853
     },
     {
       "ID": "npc_blue_nomad",
@@ -16993,7 +16998,7 @@
       "Name": "The King",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 12948
+      "UsersEstimate": 12949
     },
     {
       "ID": "npc_owlmancer",
@@ -17009,7 +17014,7 @@
       "Name": "The Soldier",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7496
+      "UsersEstimate": 7497
     },
     {
       "ID": "pyromancer",
@@ -17017,7 +17022,7 @@
       "Name": "The Pyromancer",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 58609
+      "UsersEstimate": 58610
     },
     {
       "ID": "queen",
@@ -17025,7 +17030,7 @@
       "Name": "The Matriarch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 47705
+      "UsersEstimate": 47706
     },
     {
       "ID": "sanguimancer",
@@ -17033,7 +17038,7 @@
       "Name": "The Sanguimancer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18400
+      "UsersEstimate": 18401
     },
     {
       "ID": "skylord",
@@ -17049,7 +17054,7 @@
       "Name": "The Terramancer",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 40208
+      "UsersEstimate": 40209
     },
     {
       "ID": "thaumamancer",
@@ -17057,7 +17062,7 @@
       "Name": "The Thaumamancer",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32030
+      "UsersEstimate": 32031
     },
     {
       "ID": "treeheart",
@@ -17096,15 +17101,15 @@
     {
       "ID": "2jelldm",
       "IsBase": true,
-      "Progressed": 68150,
+      "Progressed": 68151,
       "Completed": 1289
     }
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2024-01-05T19:56:55.8550326+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:01:08.8751649+00:00",
-  "LastUpdate_AppInfo": "2023-12-31T02:21:08.6289806+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:52:46.3880186+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:01:08.8752674+00:00"
+  "LastChanged_Achievements": "2024-01-07T03:07:23.0579411+00:00",
+  "LastUpdate_AppInfo": "2024-01-07T02:57:08.8901557+00:00",
+  "LastUpdate_Ratings": "2024-01-07T02:58:26.3328438+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:07:23.0580546+00:00"
 }

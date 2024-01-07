@@ -12,10 +12,10 @@ Rating: 4.62 (Ranked 378)
 | From Friends to Family | 11.00% | ~769 |
 | Bone Peddler | 9.00% | ~629 |
 | Magical Synergy | 8.00% | ~559 |
-| There Can Only Be One! | 7.00% | ~489 |
-| Full Ascension | 7.00% | ~489 |
-| Stronger Together | 7.00% | ~489 |
-| Seat of Power | 7.00% | ~489 |
+| There Can Only Be One! | 7.00% | ~490 |
+| Full Ascension | 7.00% | ~490 |
+| Stronger Together | 7.00% | ~490 |
+| Seat of Power | 7.00% | ~490 |
 | Valley of Wonders | 6.00% | ~420 |
 | In a Liege of Your Own | 6.00% | ~420 |
 | Intimidation Tactics | 6.00% | ~420 |
@@ -53,7 +53,7 @@ Rating: 4.62 (Ranked 378)
 | Seal the Deal | 1.00% | ~70 |
 | A Conqueror's Cohort | 1.00% | ~70 |
 | Dawn of the Dread | 1.00% | ~70 |
-| Betrayal Most Foul | 0.80% | ~56 |
+| Betrayal Most Foul | 0.90% | ~63 |
 | Duality | 0.80% | ~56 |
 | Snap Out of It! | 0.60% | ~42 |
 | The Magic That Empowers Me! | 0.50% | ~35 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,992 (Ranked 196)  
+Progressed: 6,993 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
-| 2024-01-07 | 6,992 | 7 |
+| 2024-01-07 | 6,993 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 212 (Ranked 410)  

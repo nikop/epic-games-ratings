@@ -735,9 +735,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6992,
+  "EOS_Progressed": 6993,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10615,6 +10615,11 @@
       "Time": "2024-01-07T01:59:20.9907593+00:00",
       "NumProgressed": 6992,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T03:05:24.7250179+00:00",
+      "NumProgressed": 6993,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10642,7 +10647,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "12",
@@ -10666,7 +10671,7 @@
       "Name": "Full Ascension",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "15",
@@ -10794,7 +10799,7 @@
       "Name": "Stronger Together",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "3",
@@ -10834,7 +10839,7 @@
       "Name": "Seat of Power",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "34",
@@ -10960,9 +10965,9 @@
       "ID": "8",
       "SetID": "3aa2279",
       "Name": "Betrayal Most Foul",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "9",
@@ -11105,13 +11110,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6992,
+      "Progressed": 6993,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6992,
+      "Progressed": 6993,
       "Completed": 7
     }
   ],
@@ -11119,8 +11124,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-07T01:59:20.9907586+00:00",
-  "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:57:40.7700844+00:00",
-  "LastUpdate_Achievements": "2024-01-07T01:59:20.9908423+00:00"
+  "LastChanged_Achievements": "2024-01-07T03:05:24.7250176+00:00",
+  "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
+  "LastUpdate_Ratings": "2024-01-07T03:03:32.6993552+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:05:24.7251154+00:00"
 }

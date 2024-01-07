@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
@@ -10596,9 +10596,9 @@
       "Count": 1083
     }
   ],
-  "EOS_Progressed": 131973,
+  "EOS_Progressed": 131977,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1107,
+  "EOS_NewPlayers": 1103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38681,6 +38681,11 @@
       "Time": "2024-01-07T02:04:42.4402433+00:00",
       "NumProgressed": 131973,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T03:10:31.3314754+00:00",
+      "NumProgressed": 131977,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38788,7 +38793,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -38796,7 +38801,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -38820,7 +38825,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7918
+      "UsersEstimate": 7919
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38852,7 +38857,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7918
+      "UsersEstimate": 7919
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38868,7 +38873,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "combat_kill_gaunts",
@@ -38884,7 +38889,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -38916,7 +38921,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7918
+      "UsersEstimate": 7919
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39092,15 +39097,15 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "inn_replacement_hero_add",
       "SetID": "64l4lke",
       "Name": "FNG",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5279
+      "UsersEstimate": 6599
     },
     {
       "ID": "inn_visit_all_variants",
@@ -39108,7 +39113,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -39156,7 +39161,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "run_victory_act03",
@@ -39164,7 +39169,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "run_victory_act04",
@@ -39228,7 +39233,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "combat_kill_collector",
@@ -39292,7 +39297,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39323,21 +39328,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131973,
+      "Progressed": 131977,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6842,
+      "Progressed": 6846,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-07T01:52:23.4626652+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:04:42.4402431+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:10:31.3314745+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:52:23.4626661+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:04:42.4404217+00:00"
+  "LastUpdate_Ratings": "2024-01-07T02:58:02.092026+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:10:31.3316925+00:00"
 }

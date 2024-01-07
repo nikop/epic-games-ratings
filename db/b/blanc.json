@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3994,
+  "EOS_Progressed": 3995,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6751,6 +6751,11 @@
       "Time": "2024-01-07T01:59:33.0734059+00:00",
       "NumProgressed": 3994,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T03:05:37.8695742+00:00",
+      "NumProgressed": 3995,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6770,7 +6775,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "FALLEN_TREE",
@@ -6786,7 +6791,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "MOVE_ON",
@@ -6865,7 +6870,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3994,
+      "Progressed": 3995,
       "Completed": 6
     }
   ],
@@ -6873,8 +6878,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-07T01:59:33.0734056+00:00",
-  "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:52:45.4952508+00:00",
-  "LastUpdate_Achievements": "2024-01-07T01:59:33.0734524+00:00"
+  "LastChanged_Achievements": "2024-01-07T03:05:37.8695738+00:00",
+  "LastUpdate_AppInfo": "2024-01-07T02:57:08.6041157+00:00",
+  "LastUpdate_Ratings": "2024-01-07T02:58:25.3261586+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:05:37.8696232+00:00"
 }

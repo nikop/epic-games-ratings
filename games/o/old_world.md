@@ -18,11 +18,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 1.00% | ~162 |
 | Hanging Gardens | 1.00% | ~162 |
 | Oracle | 1.00% | ~162 |
-| Learned | 0.90% | ~145 |
-| Noble | 0.90% | ~145 |
-| Pioneer | 0.90% | ~145 |
-| Judaism | 0.90% | ~145 |
-| Trade Caravan | 0.90% | ~145 |
+| Learned | 0.90% | ~146 |
+| Noble | 0.90% | ~146 |
+| Pioneer | 0.90% | ~146 |
+| Judaism | 0.90% | ~146 |
+| Trade Caravan | 0.90% | ~146 |
 | Ambitious | 0.80% | ~129 |
 | Enlightened | 0.80% | ~129 |
 | Glorious | 0.80% | ~129 |
@@ -78,34 +78,34 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.40% | ~65 |
 | Points Victory | 0.40% | ~65 |
 | Win a Single Player Game | 0.40% | ~65 |
-| Bad Heir Day | 0.30% | ~48 |
-| Capable | 0.30% | ~48 |
-| Conqueror | 0.30% | ~48 |
-| Ready | 0.30% | ~48 |
-| Subjugator | 0.30% | ~48 |
-| Victorious | 0.30% | ~48 |
-| Good Difficulty | 0.30% | ~48 |
-| Landowners | 0.30% | ~48 |
-| Patrons | 0.30% | ~48 |
-| Riders | 0.30% | ~48 |
-| Traders | 0.30% | ~48 |
-| Hittite Iron | 0.30% | ~48 |
-| Circus Maximus | 0.30% | ~48 |
-| Hagia Sophia | 0.30% | ~48 |
-| Temple of Solomon | 0.30% | ~48 |
-| Pantheon | 0.30% | ~48 |
-| Via Recta Souk | 0.30% | ~48 |
-| Greece | 0.30% | ~48 |
-| Assyrian Paganism | 0.30% | ~48 |
-| Persian Paganism | 0.30% | ~48 |
-| Economic Reform | 0.30% | ~48 |
-| Military Prestige | 0.30% | ~48 |
-| Dualism | 0.30% | ~48 |
-| Enlightenment | 0.30% | ~48 |
-| Cimmerian Archer | 0.30% | ~48 |
-| Legionary | 0.30% | ~48 |
-| Double Victory | 0.30% | ~48 |
-| The Clergy | 0.30% | ~48 |
+| Bad Heir Day | 0.30% | ~49 |
+| Capable | 0.30% | ~49 |
+| Conqueror | 0.30% | ~49 |
+| Ready | 0.30% | ~49 |
+| Subjugator | 0.30% | ~49 |
+| Victorious | 0.30% | ~49 |
+| Good Difficulty | 0.30% | ~49 |
+| Landowners | 0.30% | ~49 |
+| Patrons | 0.30% | ~49 |
+| Riders | 0.30% | ~49 |
+| Traders | 0.30% | ~49 |
+| Hittite Iron | 0.30% | ~49 |
+| Circus Maximus | 0.30% | ~49 |
+| Hagia Sophia | 0.30% | ~49 |
+| Temple of Solomon | 0.30% | ~49 |
+| Pantheon | 0.30% | ~49 |
+| Via Recta Souk | 0.30% | ~49 |
+| Greece | 0.30% | ~49 |
+| Assyrian Paganism | 0.30% | ~49 |
+| Persian Paganism | 0.30% | ~49 |
+| Economic Reform | 0.30% | ~49 |
+| Military Prestige | 0.30% | ~49 |
+| Dualism | 0.30% | ~49 |
+| Enlightenment | 0.30% | ~49 |
+| Cimmerian Archer | 0.30% | ~49 |
+| Legionary | 0.30% | ~49 |
+| Double Victory | 0.30% | ~49 |
+| The Clergy | 0.30% | ~49 |
 | Ishtar Gate in Babylon | 0.20% | ~32 |
 | Devout | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,165 (Ranked 168)  
+Progressed: 16,168 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
-| 2024-01-07 | 16,165 | 5 |
+| 2024-01-07 | 16,168 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,915 (Ranked 222)  

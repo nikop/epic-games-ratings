@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 52.00% | ~150 |
-| The 4 Pillars | 50.00% | ~144 |
+| The 4 Pillars | 49.00% | ~142 |
 | Capitalism | 19.00% | ~55 |
-| Green Energy | 13.00% | ~37 |
+| Green Energy | 12.00% | ~35 |
 | There's something in those trees | 11.00% | ~32 |
 | Desert Power | 10.00% | ~29 |
 | Indebted | 10.00% | ~29 |
@@ -24,9 +24,9 @@
 | Fuel Tycoon | 6.00% | ~17 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~14 |
 | Overpopulation | 5.00% | ~14 |
-| Medicine Tycoon | 5.00% | ~14 |
 | Outdoor Decorator | 4.00% | ~12 |
 | Property Bro | 4.00% | ~12 |
+| Medicine Tycoon | 4.00% | ~12 |
 | Tear Down the Wall! | 3.00% | ~9 |
 | Supersoldier | 3.00% | ~9 |
 | Vive le Résistance | 3.00% | ~9 |
@@ -49,7 +49,7 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288 (Ranked 401)  
+Progressed: 289 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,4 +146,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 282 | 0 |
 | 2024-01-05 | 284 | 0 |
 | 2024-01-06 | 287 | 0 |
-| 2024-01-07 | 288 | 0 |
+| 2024-01-07 | 289 | 0 |

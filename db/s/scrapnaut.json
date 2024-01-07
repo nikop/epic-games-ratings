@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 628,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2166,6 +2166,11 @@
       "Time": "2024-01-06T22:10:17.6796294+00:00",
       "NumProgressed": 627,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T03:10:08.9244946+00:00",
+      "NumProgressed": 628,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2209,7 +2214,7 @@
       "Name": "Scrap Master",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -2249,7 +2254,7 @@
       "Name": "Master Of Management",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
@@ -2313,7 +2318,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH_KILL_100",
@@ -2321,7 +2326,7 @@
       "Name": "Robot Hunter",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_KILL_20",
@@ -2345,7 +2350,7 @@
       "Name": "Prepper",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -2361,7 +2366,7 @@
       "Name": "Smelting Master",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_MYTHRIL_SMELTER",
@@ -2385,15 +2390,15 @@
       "Name": "Smelter",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survivor",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -2424,7 +2429,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 628,
       "Completed": 4
     }
   ],
@@ -2432,8 +2437,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:04:21.6952612+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:10:08.9244943+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.8569887+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:54:43.7846082+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:04:21.6952942+00:00"
+  "LastUpdate_Ratings": "2024-01-07T03:00:39.0728792+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:10:08.9245274+00:00"
 }

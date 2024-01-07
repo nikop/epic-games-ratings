@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -465,9 +465,9 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "BigEater",
@@ -642,8 +642,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-07T01:59:36.6515218+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:05:41.6527942+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.5249807+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:55:07.950044+00:00",
-  "LastUpdate_Achievements": "2024-01-07T01:59:36.6515421+00:00"
+  "LastUpdate_Ratings": "2024-01-07T03:01:07.0065284+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:05:41.6528169+00:00"
 }

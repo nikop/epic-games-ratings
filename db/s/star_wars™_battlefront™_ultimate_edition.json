@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2699,
+  "EOS_Progressed": 2701,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
@@ -7384,6 +7384,11 @@
       "Time": "2024-01-07T02:05:06.9706599+00:00",
       "NumProgressed": 2699,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T03:10:57.6173429+00:00",
+      "NumProgressed": 2701,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7620,7 +7625,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2350
     },
     {
       "ID": "achievement_36",
@@ -7634,9 +7639,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1648
     },
     {
       "ID": "achievement_38",
@@ -7668,7 +7673,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1405
     },
     {
       "ID": "achievement_41",
@@ -7732,7 +7737,7 @@
       "Name": "No such thing as luck",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_49",
@@ -7740,7 +7745,7 @@
       "Name": "Do we take prisoners?",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_5",
@@ -7899,13 +7904,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2699,
+      "Progressed": 2701,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2699,
+      "Progressed": 2701,
       "Completed": 1
     }
   ],
@@ -7913,8 +7918,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:05:06.9706593+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:10:57.6173424+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:52:39.4343428+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:05:06.9707658+00:00"
+  "LastUpdate_Ratings": "2024-01-07T02:58:19.1888751+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:10:57.6174403+00:00"
 }

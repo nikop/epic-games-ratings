@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -425,10 +425,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28145,
-  "EOS_Completed": 515,
-  "EOS_NewPlayers": 645,
-  "EOS_NewCompleters": 11,
+  "EOS_Progressed": 28149,
+  "EOS_Completed": 516,
+  "EOS_NewPlayers": 640,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
     {
@@ -28635,6 +28635,11 @@
       "Time": "2024-01-07T02:00:25.6970348+00:00",
       "NumProgressed": 28145,
       "NumCompleted": 515
+    },
+    {
+      "Time": "2024-01-07T03:06:35.1541208+00:00",
+      "NumProgressed": 28149,
+      "NumCompleted": 516
     }
   ],
   "TotalAchievements": 20,
@@ -28646,7 +28651,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4503
+      "UsersEstimate": 4504
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -28662,7 +28667,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3941
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -28686,7 +28691,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -28702,7 +28707,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -28710,7 +28715,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3941
     },
     {
       "ID": "FOUND_ERIN",
@@ -28758,7 +28763,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "INTRO_FINISHED",
@@ -28766,7 +28771,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21390
+      "UsersEstimate": 21393
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28774,7 +28779,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7599
+      "UsersEstimate": 7600
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28798,22 +28803,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5066
+      "UsersEstimate": 5067
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28145,
-      "Completed": 515
+      "Progressed": 28149,
+      "Completed": 516
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:00:25.6970345+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:06:35.1541204+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:53:56.062538+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:00:25.6972105+00:00"
+  "LastUpdate_Ratings": "2024-01-07T02:59:44.5453253+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:06:35.1543159+00:00"
 }

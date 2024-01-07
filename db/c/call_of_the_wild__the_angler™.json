@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8066,
+  "EOS_Progressed": 8070,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13411,6 +13411,11 @@
       "Time": "2024-01-07T02:03:24.7564179+00:00",
       "NumProgressed": 8066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T03:09:07.9328224+00:00",
+      "NumProgressed": 8070,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13422,7 +13427,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13430,7 +13435,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -13526,7 +13531,7 @@
       "Name": "Goldfish?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -13534,7 +13539,7 @@
       "Name": "Going for Gold",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -13741,13 +13746,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8066,
+      "Progressed": 8070,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7438,
+      "Progressed": 7442,
       "Completed": 113
     }
   ],
@@ -13755,8 +13760,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:03:24.7564176+00:00",
-  "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:52:47.1908676+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:03:24.7565063+00:00"
+  "LastChanged_Achievements": "2024-01-07T03:09:07.932822+00:00",
+  "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
+  "LastUpdate_Ratings": "2024-01-07T02:58:27.2624634+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:09:07.9328963+00:00"
 }

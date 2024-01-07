@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20655,
+  "EOS_Progressed": 20657,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 1670,
+  "EOS_NewPlayers": 1669,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -7151,6 +7151,11 @@
       "Time": "2024-01-07T02:00:57.7364148+00:00",
       "NumProgressed": 20655,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2024-01-07T03:07:10.3604568+00:00",
+      "NumProgressed": 20657,
+      "NumCompleted": 100
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -7227,7 +7232,7 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -7242,7 +7247,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 20655,
+      "Progressed": 20657,
       "Completed": 100
     }
   ],
@@ -7250,8 +7255,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-07T02:00:57.7364145+00:00",
+  "LastChanged_Achievements": "2024-01-07T03:07:10.3604564+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:24.8589698+00:00",
-  "LastUpdate_Ratings": "2024-01-07T01:52:20.3418027+00:00",
-  "LastUpdate_Achievements": "2024-01-07T02:00:57.7364655+00:00"
+  "LastUpdate_Ratings": "2024-01-07T02:57:58.1163065+00:00",
+  "LastUpdate_Achievements": "2024-01-07T03:07:10.3605013+00:00"
 }

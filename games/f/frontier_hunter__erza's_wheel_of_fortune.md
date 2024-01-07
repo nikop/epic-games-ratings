@@ -1,26 +1,26 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.38 (Ranked 789)  
+Rating: 4.38 (Ranked 790)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~674 |
-| Training Simulation | 79.00% | ~573 |
-| Kuku Bird Hunter | 65.00% | ~471 |
-| Storm Traveller | 60.00% | ~435 |
+| Travel Streamer | 93.00% | ~675 |
+| Training Simulation | 79.00% | ~574 |
+| Kuku Bird Hunter | 65.00% | ~472 |
+| Storm Traveller | 60.00% | ~436 |
 | Wolf King Killer | 55.00% | ~399 |
-| Fashion Connoisseur | 52.00% | ~377 |
-| Arms Mechanic | 49.00% | ~355 |
+| Fashion Connoisseur | 52.00% | ~378 |
+| Arms Mechanic | 49.00% | ~356 |
 | Flower Thief | 44.00% | ~319 |
 | Apostle of Flame | 39.00% | ~283 |
-| Beginner Cook | 37.00% | ~268 |
-| Beginner Artificer | 37.00% | ~268 |
+| Beginner Cook | 37.00% | ~269 |
+| Beginner Artificer | 37.00% | ~269 |
 | Seal Breaker | 32.00% | ~232 |
 | Handyman | 28.00% | ~203 |
-| Giant Lizard Killer | 26.00% | ~188 |
-| Guardian | 25.00% | ~181 |
-| Nosebleeder | 25.00% | ~181 |
+| Giant Lizard Killer | 26.00% | ~189 |
+| Guardian | 25.00% | ~182 |
+| Nosebleeder | 25.00% | ~182 |
 | Trader | 22.00% | ~160 |
 | Weapon Boost | 21.00% | ~152 |
 | Flying Kobold Killer | 19.00% | ~138 |
@@ -35,23 +35,23 @@ Rating: 4.38 (Ranked 789)
 | Face Slapper | 14.00% | ~102 |
 | Boss challenge | 11.00% | ~80 |
 | Berserker Slayer | 11.00% | ~80 |
-| Giantess Slayer | 10.00% | ~72 |
-| Warden Slayer | 10.00% | ~72 |
+| Giantess Slayer | 10.00% | ~73 |
+| Warden Slayer | 10.00% | ~73 |
 | Master Cook | 8.00% | ~58 |
 | Silver Moon Wolf King Challenge | 4.00% | ~29 |
 | Flying Kobold Challenge | 3.00% | ~22 |
 | Furious Scorpion Challenge | 3.00% | ~22 |
 | Giant Lizard Challenge | 3.00% | ~22 |
-| Rebellious | 2.00% | ~14 |
-| Blade Mantis Challenge | 2.00% | ~14 |
-| Big Face Goalkeeper Challenge | 2.00% | ~14 |
-| Giant Claw Spider Challenge | 2.00% | ~14 |
-| Mermaid Challenge | 2.00% | ~14 |
-| Berserker Challenge | 2.00% | ~14 |
-| Giantess Challenge | 2.00% | ~14 |
-| Warden Challenge | 2.00% | ~14 |
+| Rebellious | 2.00% | ~15 |
+| Blade Mantis Challenge | 2.00% | ~15 |
+| Big Face Goalkeeper Challenge | 2.00% | ~15 |
+| Giant Claw Spider Challenge | 2.00% | ~15 |
+| Mermaid Challenge | 2.00% | ~15 |
+| Berserker Challenge | 2.00% | ~15 |
+| Giantess Challenge | 2.00% | ~15 |
+| Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725 (Ranked 316)  
+Progressed: 726 (Ranked 316)  
 Completed: 3 (0.41%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,6 +175,7 @@ Completed: 3 (0.41%) (Ranked 235)
 | 2024-01-04 | 707 | 3 |
 | 2024-01-05 | 719 | 3 |
 | 2024-01-06 | 725 | 3 |
+| 2024-01-07 | 726 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

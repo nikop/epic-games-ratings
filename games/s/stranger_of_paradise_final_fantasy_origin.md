@@ -6,54 +6,54 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~79,672 |
-| No Escape | 86.00% | ~70,637 |
-| Seeker of Power | 84.00% | ~68,994 |
-| Hopes and Dreams | 82.00% | ~67,352 |
-| Lantern Smasher | 78.00% | ~64,066 |
-| The Pirate's Way | 73.00% | ~59,959 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~58,317 |
-| The King of the Dark Elves | 67.00% | ~55,031 |
-| Memories of the Distant Past | 66.00% | ~54,210 |
-| Distortion's Progeny | 62.00% | ~50,924 |
-| Savant | 61.00% | ~50,103 |
-| A Landscape of Memory | 58.00% | ~47,639 |
-| The Wind's Light | 54.00% | ~44,353 |
-| Vague Remembrances | 49.00% | ~40,247 |
-| The Fire's Light | 47.00% | ~38,604 |
-| Phantom Memories | 47.00% | ~38,604 |
-| Imbued Memories | 46.00% | ~37,783 |
-| The Earth's Light | 45.00% | ~36,961 |
-| Shared Recollections | 42.00% | ~34,497 |
-| The Water's Light | 40.00% | ~32,854 |
-| Path of the Sage | 39.00% | ~32,033 |
-| Malice Takes Root | 37.00% | ~30,390 |
-| Path of the Dark Knight | 37.00% | ~30,390 |
-| Path of the Breaker | 37.00% | ~30,390 |
-| Duty's Course | 36.00% | ~29,569 |
-| Path of the Paladin | 36.00% | ~29,569 |
-| Path of the Liberator | 35.00% | ~28,748 |
-| Led by the Nose | 34.00% | ~27,926 |
-| Path of the Void Knight | 34.00% | ~27,926 |
-| Path of the Tyrant | 34.00% | ~27,926 |
-| Terminus of Fate | 33.00% | ~27,105 |
-| Path of the Ninja | 33.00% | ~27,105 |
-| His Name Is Garland | 33.00% | ~27,105 |
-| Path of the Assassin | 31.00% | ~25,462 |
-| Seeker of Ultimate Power | 23.00% | ~18,891 |
-| Artifact Collector | 22.00% | ~18,070 |
-| Polymath | 22.00% | ~18,070 |
-| True Potential | 21.00% | ~17,249 |
-| Origin of True Chaos | 20.00% | ~16,427 |
-| Master's Awakening | 19.00% | ~15,606 |
-| Jack-of-All-Trades | 19.00% | ~15,606 |
-| Cycle of Darkness | 16.00% | ~13,142 |
+| Manifestation of the Soul | 97.00% | ~79,677 |
+| No Escape | 86.00% | ~70,641 |
+| Seeker of Power | 84.00% | ~68,998 |
+| Hopes and Dreams | 82.00% | ~67,356 |
+| Lantern Smasher | 78.00% | ~64,070 |
+| The Pirate's Way | 73.00% | ~59,963 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~58,320 |
+| The King of the Dark Elves | 67.00% | ~55,034 |
+| Memories of the Distant Past | 66.00% | ~54,213 |
+| Distortion's Progeny | 62.00% | ~50,927 |
+| Savant | 61.00% | ~50,106 |
+| A Landscape of Memory | 58.00% | ~47,642 |
+| The Wind's Light | 54.00% | ~44,356 |
+| Vague Remembrances | 49.00% | ~40,249 |
+| The Fire's Light | 47.00% | ~38,606 |
+| Phantom Memories | 47.00% | ~38,606 |
+| Imbued Memories | 46.00% | ~37,785 |
+| The Earth's Light | 45.00% | ~36,963 |
+| Shared Recollections | 42.00% | ~34,499 |
+| The Water's Light | 40.00% | ~32,856 |
+| Path of the Sage | 39.00% | ~32,035 |
+| Malice Takes Root | 37.00% | ~30,392 |
+| Path of the Dark Knight | 37.00% | ~30,392 |
+| Path of the Breaker | 37.00% | ~30,392 |
+| Duty's Course | 36.00% | ~29,571 |
+| Path of the Paladin | 36.00% | ~29,571 |
+| Path of the Liberator | 35.00% | ~28,749 |
+| Led by the Nose | 34.00% | ~27,928 |
+| Path of the Void Knight | 34.00% | ~27,928 |
+| Path of the Tyrant | 34.00% | ~27,928 |
+| Terminus of Fate | 33.00% | ~27,107 |
+| Path of the Ninja | 33.00% | ~27,107 |
+| His Name Is Garland | 33.00% | ~27,107 |
+| Path of the Assassin | 31.00% | ~25,464 |
+| Seeker of Ultimate Power | 23.00% | ~18,892 |
+| Artifact Collector | 22.00% | ~18,071 |
+| Polymath | 22.00% | ~18,071 |
+| True Potential | 21.00% | ~17,250 |
+| Origin of True Chaos | 20.00% | ~16,428 |
+| Master's Awakening | 19.00% | ~15,607 |
+| Jack-of-All-Trades | 19.00% | ~15,607 |
+| Cycle of Darkness | 16.00% | ~13,143 |
 | Job Master | 8.00% | ~6,571 |
 | Crest Bearer | 7.00% | ~5,750 |
 | Strangers' Memories | 3.00% | ~2,464 |
 | A Tale of Origins and Endings | 2.00% | ~1,643 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,136 (Ranked 109)  
+Progressed: 82,141 (Ranked 109)  
 Completed: 2,219 (2.70%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 2,219 (2.70%) (Ranked 120)
 | 2024-01-04 | 81,978 | 2,218 |
 | 2024-01-05 | 82,040 | 2,218 |
 | 2024-01-06 | 82,125 | 2,219 |
-| 2024-01-07 | 82,136 | 2,219 |
+| 2024-01-07 | 82,141 | 2,219 |
 ## Awards
 Max (Great Boss Battles): 778  (Ranked 187)  
 Sum: 1,603 (Ranked 239)  
