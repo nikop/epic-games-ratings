@@ -4,8 +4,8 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 478,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 503,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
     "PcReleaseDate": "2021-05-17T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -829,9 +829,9 @@
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Metalball Badge",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
@@ -892,8 +892,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:10:29.4514716+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:09:52.3758434+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:57:00.0282457+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:02:59.5473867+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:10:29.4514785+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:02:45.0374903+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:09:52.3758579+00:00"
 }

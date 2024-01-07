@@ -2,13 +2,13 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 234,
+  "Ranking_Rating": 235,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1038,
+  "EOS_Progressed": 1039,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3640,6 +3640,11 @@
       "Time": "2024-01-07T05:09:19.6979051+00:00",
       "NumProgressed": 1038,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T07:09:08.7935447+00:00",
+      "NumProgressed": 1039,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3796,7 +3801,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3860,7 +3865,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "MultiplayerWins",
@@ -3980,7 +3985,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "WielderLevel2",
@@ -3988,7 +3993,7 @@
       "Name": "Veteran",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "WielderLevel3",
@@ -4083,15 +4088,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1038,
+      "Progressed": 1039,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:09:32.948429+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:09:08.7935446+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:00:21.5330166+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:09:32.9484827+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:59:27.4813498+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:09:08.7936046+00:00"
 }

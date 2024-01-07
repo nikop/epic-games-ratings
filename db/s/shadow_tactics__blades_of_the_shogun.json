@@ -2470,9 +2470,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 224532,
+  "EOS_Progressed": 224537,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 1634,
+  "EOS_NewPlayers": 1629,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32590,6 +32590,11 @@
       "Time": "2024-01-07T06:06:48.1242077+00:00",
       "NumProgressed": 224532,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-07T07:05:37.1793873+00:00",
+      "NumProgressed": 224537,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 44,
@@ -32689,7 +32694,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15717
+      "UsersEstimate": 15718
     },
     {
       "ID": "HighFiveTheMoon",
@@ -32721,7 +32726,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15717
+      "UsersEstimate": 15718
     },
     {
       "ID": "Mercyful",
@@ -32753,7 +32758,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15717
+      "UsersEstimate": 15718
     },
     {
       "ID": "NoGimmicks",
@@ -32952,15 +32957,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 224532,
+      "Progressed": 224537,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-05T20:00:15.2748862+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:06:48.1242071+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:05:37.1793871+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.88387+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:02:47.5436648+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:06:48.1244162+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:02:36.4680245+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:05:37.1795652+00:00"
 }

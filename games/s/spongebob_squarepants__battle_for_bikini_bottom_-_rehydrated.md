@@ -27,7 +27,7 @@ Number of Ratings: 76  (23.09.2022)
 | Are you ready now? | 6.00% | ~47 |
 | Hello, Bikini Bottom | 6.00% | ~47 |
 | Ultra Spatula Seeker | 6.00% | ~47 |
-| Ship Shape | 5.00% | ~39 |
+| Ship Shape | 5.00% | ~40 |
 | The Small Does Not Rule | 4.00% | ~32 |
 | Shanghaied | 4.00% | ~32 |
 | Kelp Forest of Fear | 4.00% | ~32 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~8 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 789 (Ranked 311)  
+Progressed: 790 (Ranked 311)  
 Completed: 7 (0.89%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 7 (0.89%) (Ranked 183)
 | 2024-01-04 | 715 | 7 |
 | 2024-01-05 | 747 | 7 |
 | 2024-01-06 | 780 | 7 |
-| 2024-01-07 | 789 | 7 |
+| 2024-01-07 | 790 | 7 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 497)  
 Sum: 36 (Ranked 528)  

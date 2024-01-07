@@ -8,15 +8,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,090 |
 | The Cursed Farmer | 2.00% | ~5,045 |
-| Beast Intentions | 1.00% | ~2,522 |
-| The Mad Wizard | 1.00% | ~2,522 |
+| Beast Intentions | 1.00% | ~2,523 |
+| The Mad Wizard | 1.00% | ~2,523 |
 | The Ring of Regeneration | 0.80% | ~2,018 |
 | Welcome to Sigil | 0.80% | ~1,748 |
 | Are Ya Chicken? | 0.70% | ~1,766 |
-| Were-verpowered | 0.60% | ~1,513 |
-| Seeking Allies | 0.60% | ~1,513 |
-| Mad Cow Disease | 0.60% | ~1,513 |
-| Friendly Imps | 0.60% | ~1,513 |
+| Were-verpowered | 0.60% | ~1,514 |
+| Seeking Allies | 0.60% | ~1,514 |
+| Mad Cow Disease | 0.60% | ~1,514 |
+| Friendly Imps | 0.60% | ~1,514 |
 | Fast Food | 0.60% | ~1,311 |
 | A Persistent Buzzing | 0.50% | ~1,261 |
 | Pure Energy | 0.50% | ~1,261 |
@@ -43,25 +43,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~757 |
 | Escort to Waterdeep | 0.30% | ~757 |
 | Waterdeep Detours | 0.30% | ~757 |
-| The Silken Swamp | 0.20% | ~504 |
-| Supply Run | 0.20% | ~504 |
-| Street War | 0.20% | ~504 |
-| March of the Undead | 0.20% | ~504 |
-| No Time To Rest | 0.20% | ~504 |
-| Invisible Shadows | 0.20% | ~504 |
-| The Dinner Party | 0.20% | ~504 |
-| The Botched Kidnapping | 0.20% | ~504 |
-| The Death Curse | 0.20% | ~504 |
-| Premature Betrayal | 0.20% | ~504 |
-| A Tale of Two Cities | 0.20% | ~504 |
-| Flying Monkey Skulls of Doom | 0.20% | ~504 |
-| Running of the Saurs | 0.20% | ~504 |
-| Close Escort | 0.20% | ~504 |
-| Constant Banditry | 0.20% | ~504 |
-| Underdeep Cartography | 0.20% | ~504 |
-| Overdue Rendezvous | 0.20% | ~504 |
-| The Templar's Camp | 0.20% | ~504 |
-| Rescue in the Jungle | 0.20% | ~504 |
+| The Silken Swamp | 0.20% | ~505 |
+| Supply Run | 0.20% | ~505 |
+| Street War | 0.20% | ~505 |
+| March of the Undead | 0.20% | ~505 |
+| No Time To Rest | 0.20% | ~505 |
+| Invisible Shadows | 0.20% | ~505 |
+| The Dinner Party | 0.20% | ~505 |
+| The Botched Kidnapping | 0.20% | ~505 |
+| The Death Curse | 0.20% | ~505 |
+| Premature Betrayal | 0.20% | ~505 |
+| A Tale of Two Cities | 0.20% | ~505 |
+| Flying Monkey Skulls of Doom | 0.20% | ~505 |
+| Running of the Saurs | 0.20% | ~505 |
+| Close Escort | 0.20% | ~505 |
+| Constant Banditry | 0.20% | ~505 |
+| Underdeep Cartography | 0.20% | ~505 |
+| Overdue Rendezvous | 0.20% | ~505 |
+| The Templar's Camp | 0.20% | ~505 |
+| Rescue in the Jungle | 0.20% | ~505 |
 | The Brains of an Illithid's Desire | 0.20% | ~437 |
 | Pros and CONs | 0.10% | ~252 |
 | Upholding the Law | 0.10% | ~252 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,240 (Ranked 70)  
+Progressed: 252,259 (Ranked 70)  
 Completed: 2,599 (1.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -815,7 +815,7 @@ Completed: 2,599 (1.03%) (Ranked 172)
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
-| 2024-01-07 | 252,240 | 2,599 |
+| 2024-01-07 | 252,259 | 2,599 |
 ## Awards
 Max (Great for Beginners): 5,756  (Ranked 74)  
 Sum: 33,383 (Ranked 41)  

@@ -5,13 +5,13 @@ Rating: 4.42 (Ranked 737)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~50,606 |
-| IT MAKES BOOM! | 8.00% | ~31,142 |
-| EXTRA BOOST | 6.00% | ~23,357 |
-| PROTECTED | 5.00% | ~19,464 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,571 |
-| PRO | 4.00% | ~15,571 |
-| AGGRESSIVE RACER | 3.00% | ~11,678 |
+| ROOKIE | 13.00% | ~50,610 |
+| IT MAKES BOOM! | 8.00% | ~31,145 |
+| EXTRA BOOST | 6.00% | ~23,359 |
+| PROTECTED | 5.00% | ~19,466 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,572 |
+| PRO | 4.00% | ~15,572 |
+| AGGRESSIVE RACER | 3.00% | ~11,679 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~7,786 |
 | TRAINING HARD | 2.00% | ~7,786 |
 | BE OUR GUEST | 2.00% | ~7,786 |
@@ -23,14 +23,14 @@ Rating: 4.42 (Ranked 737)
 | FRIENDLY | 1.00% | ~3,893 |
 | MASTER | 1.00% | ~3,893 |
 | LEGENDARY HERO | 1.00% | ~3,893 |
-| ACE BRAWLER | 0.90% | ~3,503 |
-| THE EYE OF THE HUNTER | 0.90% | ~3,503 |
+| ACE BRAWLER | 0.90% | ~3,504 |
+| THE EYE OF THE HUNTER | 0.90% | ~3,504 |
 | EXPERIENCED CREW | 0.80% | ~3,114 |
 | FRAMED! | 0.70% | ~2,725 |
 | ACE TRICKSTER | 0.70% | ~2,725 |
 | PERFECTLY POISED | 0.60% | ~2,336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 389,276 (Ranked 52)  
+Progressed: 389,311 (Ranked 52)  
 Completed: 1,498 (0.38%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,14 +288,14 @@ Completed: 1,498 (0.38%) (Ranked 239)
 | 2024-01-04 | 384,509 | 1,441 |
 | 2024-01-05 | 386,667 | 1,471 |
 | 2024-01-06 | 388,747 | 1,493 |
-| 2024-01-07 | 389,276 | 1,498 |
+| 2024-01-07 | 389,311 | 1,498 |
 ## Awards
-Max (Great for Beginners): 174  (Ranked 315)  
-Sum: 1,138 (Ranked 262)  
+Max (Great for Beginners): 176  (Ranked 314)  
+Sum: 1,140 (Ranked 261)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 174 |
+| This game is Great for Beginners | 176 |
 | This game is Great for Quick Sessions | 160 |
 | This game has Diverse Characters | 123 |
 | This game has a Competitive Community | 100 |
@@ -408,3 +408,4 @@ Diff (max vs sum): 53
 | 2024-01-04 | 4.42 | 173 | 1,116 |
 | 2024-01-05 | 4.42 | 174 | 1,127 |
 | 2024-01-06 | 4.42 | 174 | 1,138 |
+| 2024-01-07 | 4.42 | 176 | 1,140 |

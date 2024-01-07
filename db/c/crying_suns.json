@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -709,7 +709,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473482,
+  "EOS_Progressed": 473483,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
@@ -27764,6 +27764,11 @@
       "Time": "2024-01-07T06:10:45.2630815+00:00",
       "NumProgressed": 473482,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-07T07:10:05.2440102+00:00",
+      "NumProgressed": 473483,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27863,7 +27868,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312498
+      "UsersEstimate": 312499
     },
     {
       "ID": "achievement_story_landa",
@@ -27895,7 +27900,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118370
+      "UsersEstimate": 118371
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -27951,7 +27956,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94696
+      "UsersEstimate": 94697
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -28199,7 +28204,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208332
+      "UsersEstimate": 208333
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28406,21 +28411,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17416,
+      "Progressed": 17417,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473482,
+      "Progressed": 473483,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:10:45.2630812+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:10:05.2440099+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:59:17.3141475+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:10:45.2632777+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:58:40.5211995+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:10:05.2442504+00:00"
 }

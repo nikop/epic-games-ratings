@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -141,10 +141,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82931,
-  "EOS_Completed": 923,
-  "EOS_NewPlayers": 741,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 82933,
+  "EOS_Completed": 924,
+  "EOS_NewPlayers": 740,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
@@ -29341,6 +29341,11 @@
       "Time": "2024-01-07T06:06:49.7592336+00:00",
       "NumProgressed": 82931,
       "NumCompleted": 923
+    },
+    {
+      "Time": "2024-01-07T07:05:38.4618561+00:00",
+      "NumProgressed": 82933,
+      "NumCompleted": 924
     }
   ],
   "TotalAchievements": 25,
@@ -29424,7 +29429,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16586
+      "UsersEstimate": 16587
     },
     {
       "ID": "Hearty",
@@ -29496,7 +29501,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9122
+      "UsersEstimate": 9123
     },
     {
       "ID": "Right On Target",
@@ -29504,7 +29509,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11610
+      "UsersEstimate": 11611
     },
     {
       "ID": "Sniper",
@@ -29544,23 +29549,23 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6634
+      "UsersEstimate": 6635
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 82931,
-      "Completed": 923
+      "Progressed": 82933,
+      "Completed": 924
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:06:49.7592333+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:05:38.4618559+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:57:51.6810618+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:06:49.7594136+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:57:38.2141902+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:05:38.4620089+00:00"
 }

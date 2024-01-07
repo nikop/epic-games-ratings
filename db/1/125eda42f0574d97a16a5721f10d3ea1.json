@@ -4,8 +4,8 @@
   "ProductSlug": "my-product-b51a19",
   "Ranking_EOS_Progress": 726,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 528,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2019-02-06T06:00:00+00:00",
@@ -277,8 +277,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:06:34.7444505+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:05:27.0076012+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.29782+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:00:34.784982+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:06:34.7444658+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:59:36.3985312+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:05:27.007625+00:00"
 }

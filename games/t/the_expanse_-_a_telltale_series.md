@@ -5,26 +5,26 @@ Rating: 4.53 (Ranked 564)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~3,141 |
+| Oyedang, Kopengs | 17.00% | ~3,142 |
 | Captain Drummer | 14.00% | ~2,587 |
-| Bosmang | 13.00% | ~2,402 |
-| Celebrations are in Order | 13.00% | ~2,402 |
-| The Pit and the Pirates | 12.00% | ~2,217 |
-| Martian Music | 12.00% | ~2,217 |
-| Drone Dodger | 12.00% | ~2,217 |
-| Impossible Objects | 12.00% | ~2,217 |
-| Spore Taste | 11.00% | ~2,032 |
+| Martian Music | 13.00% | ~2,403 |
+| Bosmang | 13.00% | ~2,403 |
+| Celebrations are in Order | 13.00% | ~2,403 |
+| Impossible Objects | 13.00% | ~2,403 |
+| The Pit and the Pirates | 12.00% | ~2,218 |
+| Drone Dodger | 12.00% | ~2,218 |
+| Spore Taste | 11.00% | ~2,033 |
 | Stogie for Fogey | 10.00% | ~1,848 |
-| Zen Master | 10.00% | ~443 |
+| Zen Master | 10.00% | ~444 |
 | Call it Even | 9.00% | ~1,663 |
 | Safe Cracker | 9.00% | ~399 |
 | Madame Undersecretary | 9.00% | ~399 |
 | Heal Thy Medic | 8.00% | ~1,478 |
-| Keep Arjun in Check | 8.00% | ~354 |
-| Data Archivist | 7.00% | ~1,293 |
-| Drug Gifter | 7.00% | ~1,293 |
-| Thorston Mayer | 7.00% | ~1,293 |
-| Khan's Revenge | 7.00% | ~1,293 |
+| Keep Arjun in Check | 8.00% | ~355 |
+| Data Archivist | 7.00% | ~1,294 |
+| Drug Gifter | 7.00% | ~1,294 |
+| Thorston Mayer | 7.00% | ~1,294 |
+| Khan's Revenge | 7.00% | ~1,294 |
 | Doctor Approved | 6.00% | ~1,109 |
 | Bottoms up! | 6.00% | ~1,109 |
 | Master Negotiator | 6.00% | ~266 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 564)
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,476 (Ranked 159)  
+Progressed: 18,481 (Ranked 159)  
 Completed: 59 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 59 (0.32%) (Ranked 248)
 | 2024-01-04 | 18,213 | 58 |
 | 2024-01-05 | 18,329 | 58 |
 | 2024-01-06 | 18,440 | 59 |
-| 2024-01-07 | 18,476 | 59 |
+| 2024-01-07 | 18,481 | 59 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

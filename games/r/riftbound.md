@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adventure Time | 96.00% | ~43 |
-| Master Of The Arts | 71.00% | ~32 |
+| Adventure Time | 96.00% | ~44 |
+| Master Of The Arts | 70.00% | ~32 |
 | Getting Good At This | 22.00% | ~10 |
 | Close Call | 20.00% | ~9 |
 | Evolution Revolution | 9.00% | ~4 |
@@ -32,7 +32,7 @@
 | Who Turned Out The Lights | 0.00% | ~0 |
 | Who's The Boss? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 564)  
+Progressed: 46 (Ranked 562)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,3 +64,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-11-16 | 43 | 0 |
 | 2023-11-23 | 44 | 0 |
 | 2023-12-21 | 45 | 0 |
+| 2024-01-07 | 46 | 0 |

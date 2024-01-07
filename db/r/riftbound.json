@@ -2,10 +2,10 @@
   "ID": "62c5dc16e57d4850916f5de42635625d",
   "Name": "Riftbound",
   "ProductSlug": "riftbound-db891d",
-  "Ranking_EOS_Progress": 564,
+  "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-18T23:00:00+00:00",
     "PcReleaseDate": "2022-05-12T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 46,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -229,6 +229,11 @@
       "Time": "2023-12-21T21:09:49.3153981+00:00",
       "NumProgressed": 45,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T07:09:50.5352558+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -248,7 +253,7 @@
       "Name": "Adventure Time",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ApprenticeSummoner",
@@ -374,7 +379,7 @@
       "ID": "ACH_MasterOfTheArts",
       "SetID": "1od64h3",
       "Name": "Master Of The Arts",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -455,14 +460,14 @@
     {
       "ID": "1od64h3",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 46,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-24T05:57:01.1343555+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:10:27.1784102+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:09:50.5352556+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:32.6742665+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:00:05.7519239+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:10:27.1784258+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:59:16.6121729+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:09:50.5352703+00:00"
 }

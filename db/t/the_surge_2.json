@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -294,7 +294,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2499,
+  "EOS_Progressed": 2500,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -4404,6 +4404,11 @@
       "Time": "2024-01-06T23:06:11.4746125+00:00",
       "NumProgressed": 2499,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-07T07:08:14.4769084+00:00",
+      "NumProgressed": 2500,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4423,7 +4428,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "ACHV_03",
@@ -4615,7 +4620,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "ACHV_27",
@@ -4719,7 +4724,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "ACHV_40",
@@ -4870,7 +4875,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2499,
+      "Progressed": 2500,
       "Completed": 13
     }
   ],
@@ -4878,8 +4883,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:08:20.0429633+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:08:14.4769082+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:02:49.6740585+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:08:20.0430279+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:02:38.0080204+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:08:14.4769808+00:00"
 }

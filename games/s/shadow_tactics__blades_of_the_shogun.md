@@ -16,9 +16,9 @@ Number of Ratings: 495  (23.09.2022)
 | Ice Ice Yuki | 8.00% | ~17,963 |
 | Stoned Ox | 8.00% | ~17,963 |
 | Yabu | 8.00% | ~17,963 |
-| Happy Planning | 7.00% | ~15,717 |
-| Jonin | 7.00% | ~15,717 |
-| Mugen Unchained | 7.00% | ~15,717 |
+| Happy Planning | 7.00% | ~15,718 |
+| Jonin | 7.00% | ~15,718 |
+| Mugen Unchained | 7.00% | ~15,718 |
 | Chunin | 6.00% | ~13,472 |
 | Flying Rocks | 6.00% | ~13,472 |
 | Warzone | 6.00% | ~13,472 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,532 (Ranked 79)  
+Progressed: 224,537 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 105 (0.05%) (Ranked 336)
 | 2024-01-04 | 224,025 | 103 |
 | 2024-01-05 | 224,240 | 105 |
 | 2024-01-06 | 224,483 | 105 |
-| 2024-01-07 | 224,532 | 105 |
+| 2024-01-07 | 224,537 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 209)  
 Sum: 4,943 (Ranked 150)  

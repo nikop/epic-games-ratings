@@ -7,16 +7,16 @@ Rating: 4.13 (Ranked 1,008)
 | ---- | ---------- | ----- |
 | Break Out | 62.00% | ~1,211 |
 | Trinity | 30.00% | ~586 |
-| A Taste of Wrath | 24.00% | ~469 |
 | The Collector | 24.00% | ~469 |
 | Find Allies | 23.00% | ~449 |
+| A Taste of Wrath | 23.00% | ~449 |
 | I Found It | 23.00% | ~449 |
 | Shatter Them All | 22.00% | ~430 |
 | Geared Up | 22.00% | ~430 |
 | Adventurer | 21.00% | ~410 |
 | Fashion Victim | 21.00% | ~410 |
 | Scholar | 21.00% | ~410 |
-| Tributes of Caladrias | 20.00% | ~391 |
+| Tributes of Caladrias | 19.00% | ~371 |
 | Stone Collection | 19.00% | ~371 |
 | Powerful Allies | 18.00% | ~352 |
 | Big Bazar | 13.00% | ~254 |
@@ -31,8 +31,8 @@ Rating: 4.13 (Ranked 1,008)
 | Clear Sight | 4.00% | ~78 |
 | Shatterer | 4.00% | ~78 |
 | Fine Feathers Make Fine Birds | 4.00% | ~78 |
+| Slayer | 3.00% | ~59 |
 | A Queen's Tale | 3.00% | ~59 |
-| Slayer | 2.00% | ~39 |
 | Flawless Victory | 2.00% | ~39 |
 | All There Is | 2.00% | ~39 |
 | False God | 2.00% | ~39 |
@@ -42,7 +42,7 @@ Rating: 4.13 (Ranked 1,008)
 | All That Gold | 0.70% | ~14 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,953 (Ranked 249)  
+Progressed: 1,954 (Ranked 249)  
 Completed: 3 (0.15%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 3 (0.15%) (Ranked 285)
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
 | 2024-01-06 | 1,936 | 3 |
-| 2024-01-07 | 1,953 | 3 |
+| 2024-01-07 | 1,954 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

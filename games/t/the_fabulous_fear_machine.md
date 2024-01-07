@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 52.00% | ~44 |
-| You have three wishes left | 46.00% | ~39 |
+| Master trainee | 52.00% | ~45 |
+| You have three wishes left | 45.00% | ~39 |
 | Jung's dream | 36.00% | ~31 |
-| The battle of Great Britain | 35.00% | ~30 |
-| Pulp! Where Monsters Dwell | 31.00% | ~26 |
+| The battle of Great Britain | 36.00% | ~31 |
+| Pulp! Where Monsters Dwell | 30.00% | ~26 |
 | A continent with chemistry | 28.00% | ~24 |
 | The happy farmer girl | 26.00% | ~22 |
-| Pulp! Terror Tales in the Night | 24.00% | ~20 |
+| Pulp! Terror Tales in the Night | 23.00% | ~20 |
 | Giant | 22.00% | ~19 |
 | A rival with no options | 21.00% | ~18 |
 | The artist | 21.00% | ~18 |
@@ -19,8 +19,8 @@
 | Diagnosis: fear | 21.00% | ~18 |
 | Ambition is... blind | 21.00% | ~18 |
 | You have two wishes left | 19.00% | ~16 |
-| The seer | 18.00% | ~15 |
-| Pulp! Adventures into the Unknown | 18.00% | ~15 |
+| The seer | 17.00% | ~15 |
+| Pulp! Adventures into the Unknown | 17.00% | ~15 |
 | Et in arcadia ego | 16.00% | ~14 |
 | You had one wish left | 15.00% | ~13 |
 | You've awakened the beast | 14.00% | ~12 |
@@ -29,10 +29,10 @@
 | Welcome to Hellville | 14.00% | ~12 |
 | Blessed antennas | 12.00% | ~10 |
 | The bully | 12.00% | ~10 |
-| Blood Red Island | 11.00% | ~9 |
-| Bread and bocaua | 11.00% | ~9 |
-| Fanatacism is... poisonous | 11.00% | ~9 |
-| Pulp! The Beyond | 11.00% | ~9 |
+| Blood Red Island | 10.00% | ~9 |
+| Bread and bocaua | 10.00% | ~9 |
+| Fanatacism is... poisonous | 10.00% | ~9 |
+| Pulp! The Beyond | 10.00% | ~9 |
 | The beast in the Oval Office | 9.00% | ~8 |
 | The adventurer | 9.00% | ~8 |
 | The scholar | 8.00% | ~7 |
@@ -42,8 +42,8 @@
 | The barbarian invasions | 7.00% | ~6 |
 | Vaccine fans | 7.00% | ~6 |
 | A new Hindenburg | 6.00% | ~5 |
-| Pulp! Tales from the Crypt | 4.00% | ~3 |
-| Thirst for Oleum | 4.00% | ~3 |
+| Pulp! Tales from the Crypt | 3.00% | ~3 |
+| Thirst for Oleum | 3.00% | ~3 |
 | Pulp! Weird Science | 2.00% | ~2 |
 | Pulp! Heart Throbs | 2.00% | ~2 |
 | Troy is burning! | 2.00% | ~2 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 504)  
+Progressed: 86 (Ranked 502)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,4 +99,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 79 | 0 |
 | 2024-01-04 | 83 | 0 |
 | 2024-01-05 | 84 | 0 |
-| 2024-01-07 | 85 | 0 |
+| 2024-01-07 | 86 | 0 |

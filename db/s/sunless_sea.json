@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43758,
+  "EOS_Progressed": 43761,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27603,6 +27603,11 @@
       "Time": "2024-01-07T06:05:12.1461871+00:00",
       "NumProgressed": 43758,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T07:04:24.5325766+00:00",
+      "NumProgressed": 43761,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -27678,7 +27683,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4813
+      "UsersEstimate": 4814
     },
     {
       "ID": "ach_cursestone",
@@ -27702,7 +27707,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4813
+      "UsersEstimate": 4814
     },
     {
       "ID": "ach_deathofermod",
@@ -27734,7 +27739,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15753
+      "UsersEstimate": 15754
     },
     {
       "ID": "ach_die10",
@@ -27782,7 +27787,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4813
+      "UsersEstimate": 4814
     },
     {
       "ID": "ach_invictus",
@@ -27822,7 +27827,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "ach_legacysalvager",
@@ -27838,7 +27843,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4813
+      "UsersEstimate": 4814
     },
     {
       "ID": "ach_newstories",
@@ -27966,7 +27971,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7876
+      "UsersEstimate": 7877
     },
     {
       "ID": "ach_terror100",
@@ -28045,15 +28050,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43758,
+      "Progressed": 43761,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:05:12.1461867+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:04:24.5325757+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.5653659+00:00",
   "LastUpdate_Ratings": "2024-01-07T06:01:46.9440819+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:05:12.1463196+00:00"
+  "LastUpdate_Achievements": "2024-01-07T07:04:24.5327006+00:00"
 }

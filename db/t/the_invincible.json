@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1475,
+  "EOS_Progressed": 1476,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3824,6 +3824,11 @@
       "Time": "2024-01-07T06:10:03.2485674+00:00",
       "NumProgressed": 1475,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T07:09:32.4192622+00:00",
+      "NumProgressed": 1476,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3836,7 +3841,7 @@
       "Name": "The Teleprobe",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "AchvAllMemories",
@@ -3852,7 +3857,7 @@
       "Name": "On her own",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "AchvBattleScore",
@@ -3868,7 +3873,7 @@
       "Name": "Peacemaker",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "AchvBombing",
@@ -3892,7 +3897,7 @@
       "Name": "Ubiquitous holes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -3908,7 +3913,7 @@
       "Name": "The Invincible",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "AchvEvacuate",
@@ -3940,7 +3945,7 @@
       "Name": "Volcanologist",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -3996,7 +4001,7 @@
       "Name": "Strong objection",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "AchvReachBase",
@@ -4036,7 +4041,7 @@
       "Name": "Survivors",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4067,7 +4072,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1475,
+      "Progressed": 1476,
       "Completed": 1
     }
   ],
@@ -4075,8 +4080,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-06T12:00:48.1811852+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:10:03.2485671+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:09:32.4192619+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:01:01.7681997+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:10:03.248612+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:59:55.3875385+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:09:32.4193111+00:00"
 }

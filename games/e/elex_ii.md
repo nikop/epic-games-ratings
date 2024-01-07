@@ -6,7 +6,7 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 40.00% | ~80 |
+| Entrepreneur | 41.00% | ~82 |
 | Best Buddy | 34.00% | ~68 |
 | Civilian | 31.00% | ~62 |
 | Role Model | 29.00% | ~58 |
@@ -24,8 +24,8 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 10.00% | ~20 |
 | Globetrotter | 10.00% | ~20 |
 | Alb | 9.00% | ~18 |
+| Banker | 8.00% | ~16 |
 | Hunter | 8.00% | ~16 |
-| Banker | 7.00% | ~14 |
 | Beam Me Up | 7.00% | ~14 |
 | Perfectionist | 7.00% | ~14 |
 | Treasure Hunter | 6.00% | ~12 |

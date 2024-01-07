@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1953,
+  "EOS_Progressed": 1954,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3777,6 +3777,11 @@
       "Time": "2024-01-07T06:10:38.617325+00:00",
       "NumProgressed": 1953,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T07:09:59.7644644+00:00",
+      "NumProgressed": 1954,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3842,9 +3847,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_09",
@@ -3898,9 +3903,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_16",
@@ -3930,9 +3935,9 @@
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 39
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_20",
@@ -4075,7 +4080,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1953,
+      "Progressed": 1954,
       "Completed": 3
     }
   ],
@@ -4083,8 +4088,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-04T23:57:43.6326187+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:10:38.6173247+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:09:59.7644642+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:59:04.4197796+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:10:38.6173664+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:58:30.9943673+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:09:59.7645087+00:00"
 }

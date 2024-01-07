@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 79,
   "Ranking_EOS_NewPlayers": 411,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -1097,9 +1097,9 @@
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 60,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -1232,8 +1232,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:07:05.1491647+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:05:50.1295058+00:00",
   "LastUpdate_AppInfo": "2024-01-02T23:57:08.4629099+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:01:41.3374125+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:07:05.1491791+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:00:25.6407528+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:05:50.1295197+00:00"
 }

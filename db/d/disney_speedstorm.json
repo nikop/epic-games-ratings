@@ -3,8 +3,8 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 737,
-  "Ranking_Popularity": 315,
-  "Ranking_PopularitySum": 262,
+  "Ranking_Popularity": 314,
+  "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 23,
@@ -2587,11 +2587,17 @@
       "Rating": 4.42,
       "NumberOfAwards": 1138,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2024-01-07T07:00:06.805917+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1140,
+      "NumberOfAwardsMax": 176
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1138,
-  "NumberOfAwardsMax": 174,
+  "NumberOfAwards": 1140,
+  "NumberOfAwardsMax": 176,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2604,7 +2610,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 174
+      "Count": 176
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2667,10 +2673,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 389276,
+  "EOS_Progressed": 389311,
   "EOS_Completed": 1498,
-  "EOS_NewPlayers": 12505,
-  "EOS_NewCompleters": 162,
+  "EOS_NewPlayers": 12477,
+  "EOS_NewCompleters": 161,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
@@ -19877,6 +19883,11 @@
       "Time": "2024-01-07T06:08:37.5956365+00:00",
       "NumProgressed": 389276,
       "NumCompleted": 1498
+    },
+    {
+      "Time": "2024-01-07T07:08:27.4197788+00:00",
+      "NumProgressed": 389311,
+      "NumCompleted": 1498
     }
   ],
   "TotalAchievements": 24,
@@ -19896,7 +19907,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23357
+      "UsersEstimate": 23359
     },
     {
       "ID": "11",
@@ -19928,7 +19939,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 31142
+      "UsersEstimate": 31145
     },
     {
       "ID": "15",
@@ -19960,7 +19971,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 3503
+      "UsersEstimate": 3504
     },
     {
       "ID": "19",
@@ -19984,7 +19995,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19464
+      "UsersEstimate": 19466
     },
     {
       "ID": "21",
@@ -20000,7 +20011,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 0.9,
       "XP": 55,
-      "UsersEstimate": 3503
+      "UsersEstimate": 3504
     },
     {
       "ID": "23",
@@ -20016,7 +20027,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 15571
+      "UsersEstimate": 15572
     },
     {
       "ID": "3",
@@ -20032,7 +20043,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 11678
+      "UsersEstimate": 11679
     },
     {
       "ID": "5",
@@ -20040,7 +20051,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 50606
+      "UsersEstimate": 50610
     },
     {
       "ID": "6",
@@ -20048,7 +20059,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15571
+      "UsersEstimate": 15572
     },
     {
       "ID": "7",
@@ -20079,16 +20090,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 389276,
+      "Progressed": 389311,
       "Completed": 1498
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2024-01-06T22:01:42.8289803+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:08:37.5956363+00:00",
+  "LastChanged": "2024-01-07T07:00:06.8059168+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:08:27.4197785+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.3145678+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:01:17.5194581+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:08:37.5957592+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:00:06.8059175+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:08:27.4199038+00:00"
 }

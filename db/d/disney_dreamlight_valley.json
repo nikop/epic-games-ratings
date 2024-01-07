@@ -5811,7 +5811,7 @@
       "Count": 553
     }
   ],
-  "EOS_Progressed": 13878,
+  "EOS_Progressed": 13879,
   "EOS_Completed": 344,
   "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 9,
@@ -24551,6 +24551,11 @@
       "Time": "2024-01-07T06:09:30.7339653+00:00",
       "NumProgressed": 13878,
       "NumCompleted": 344
+    },
+    {
+      "Time": "2024-01-07T07:09:07.0092395+00:00",
+      "NumProgressed": 13879,
+      "NumCompleted": 344
     }
   ],
   "TotalAchievements": 15,
@@ -24578,7 +24583,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6106
+      "UsersEstimate": 6107
     },
     {
       "ID": "Chef_Cook",
@@ -24602,7 +24607,7 @@
       "Name": "Constructor",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 6800
+      "UsersEstimate": 6801
     },
     {
       "ID": "Duty_Bound",
@@ -24618,7 +24623,7 @@
       "Name": "Gardener",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4163
+      "UsersEstimate": 4164
     },
     {
       "ID": "Generous",
@@ -24634,7 +24639,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 9298
+      "UsersEstimate": 9299
     },
     {
       "ID": "Miner",
@@ -24650,7 +24655,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9298
+      "UsersEstimate": 9299
     },
     {
       "ID": "Renovator",
@@ -24658,7 +24663,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 6939
+      "UsersEstimate": 6940
     },
     {
       "ID": "Thorn_Cleaner",
@@ -24674,14 +24679,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8188
+      "UsersEstimate": 8189
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13878,
+      "Progressed": 13879,
       "Completed": 344
     }
   ],
@@ -24689,8 +24694,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-07T05:58:10.8746174+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:09:30.733965+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:09:07.0092392+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.1438624+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:58:10.8746179+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:09:30.7340551+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:57:52.5931082+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:09:07.0093116+00:00"
 }

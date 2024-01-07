@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4847,7 +4847,7 @@
       "Count": 405
     }
   ],
-  "EOS_Progressed": 13096,
+  "EOS_Progressed": 13097,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -19127,6 +19127,11 @@
       "Time": "2024-01-07T05:10:38.5249728+00:00",
       "NumProgressed": 13096,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T07:10:06.1144649+00:00",
+      "NumProgressed": 13097,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19154,7 +19159,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "04_FithCrusade",
@@ -19274,7 +19279,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "19_EqualToAroden",
@@ -19338,7 +19343,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "28_GreatUpstart",
@@ -19386,7 +19391,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -20065,21 +20070,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11878,
+      "Progressed": 11879,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13096,
+      "Progressed": 13097,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-06T22:00:15.768728+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:10:46.3416777+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:10:06.1144647+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:59:51.9786873+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:10:46.3418634+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:59:05.8463597+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:10:06.1146404+00:00"
 }

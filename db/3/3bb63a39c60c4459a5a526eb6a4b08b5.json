@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1101,
+  "EOS_Progressed": 1102,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4284,6 +4284,11 @@
       "Time": "2024-01-06T23:09:42.4093831+00:00",
       "NumProgressed": 1101,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T07:10:00.4577456+00:00",
+      "NumProgressed": 1102,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4319,7 +4324,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "BudgetFlight",
@@ -4327,7 +4332,7 @@
       "Name": "Budget Flight",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "Calculated",
@@ -4495,7 +4500,7 @@
       "Name": "New Record",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "NoTimeForModernization",
@@ -4511,7 +4516,7 @@
       "Name": "No Way Back",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "NotPlanned",
@@ -4567,7 +4572,7 @@
       "Name": "Resource Economy",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "Restructuring",
@@ -4623,21 +4628,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1101,
+      "Progressed": 1102,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:10:39.4014102+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:10:00.4577453+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.0647724+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:58:50.9717605+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:10:39.4014574+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:58:21.2739418+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:10:00.4578002+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10602,9 +10602,9 @@
       "Count": 1083
     }
   ],
-  "EOS_Progressed": 131995,
+  "EOS_Progressed": 131997,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1097,
+  "EOS_NewPlayers": 1092,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38707,6 +38707,11 @@
       "Time": "2024-01-07T06:10:14.7995428+00:00",
       "NumProgressed": 131995,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T07:09:41.2416711+00:00",
+      "NumProgressed": 131997,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38804,9 +38809,9 @@
       "ID": "altar_of_hope_upgrade_total_full",
       "SetID": "64l4lke",
       "Name": "The World As It Was",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 792
+      "UsersEstimate": 924
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -39254,7 +39259,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "combat_kill_collector",
@@ -39349,21 +39354,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131995,
+      "Progressed": 131997,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6864,
+      "Progressed": 6866,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-07T04:57:26.8113463+00:00",
-  "LastChanged_Achievements": "2024-01-07T06:10:14.7995424+00:00",
+  "LastChanged_Achievements": "2024-01-07T07:09:41.2416708+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:57:33.7549015+00:00",
-  "LastUpdate_Achievements": "2024-01-07T06:10:14.7997492+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:57:25.4448245+00:00",
+  "LastUpdate_Achievements": "2024-01-07T07:09:41.2418405+00:00"
 }
