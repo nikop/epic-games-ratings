@@ -5,38 +5,38 @@ Rating: 4.58 (Ranked 472)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 33.00% | ~1,343 |
-| Sputnik 2049 | 29.00% | ~1,180 |
+| Wakey Wakey | 33.00% | ~1,344 |
+| Sputnik 2049 | 29.00% | ~1,181 |
 | Infinite Growth... | 27.00% | ~1,099 |
-| Without Breaking Some Eggs... | 26.00% | ~1,058 |
-| Space Society | 19.00% | ~773 |
-| Ready for a New World | 19.00% | ~773 |
-| A Thousand Strong | 18.00% | ~732 |
-| Permanent Redesigns | 16.00% | ~651 |
-| Fully Recycled | 15.00% | ~610 |
-| The Ship of Theseus | 15.00% | ~610 |
+| Without Breaking Some Eggs... | 26.00% | ~1,059 |
+| Ready for a New World | 19.00% | ~774 |
+| Space Society | 18.00% | ~733 |
+| A Thousand Strong | 18.00% | ~733 |
+| Permanent Redesigns | 16.00% | ~652 |
+| Fully Recycled | 15.00% | ~611 |
+| The Ship of Theseus | 15.00% | ~611 |
 | Guy de Borderlands | 14.00% | ~570 |
 | Ain't Nobody Got Time for That | 14.00% | ~570 |
 | Hope Seeker | 13.00% | ~529 |
-| A Hunk of Junk | 12.00% | ~488 |
-| Exceeding Capacity | 12.00% | ~488 |
-| Breaking Protocol | 12.00% | ~488 |
+| A Hunk of Junk | 12.00% | ~489 |
+| Exceeding Capacity | 12.00% | ~489 |
+| Breaking Protocol | 12.00% | ~489 |
 | Man's Best Friend | 9.00% | ~366 |
 | Power Outage | 9.00% | ~366 |
 | Please Make it Stop! | 9.00% | ~366 |
+| Sightseeing | 8.00% | ~326 |
 | Convenient Transport | 8.00% | ~326 |
-| Sightseeing | 7.00% | ~285 |
 | Necessary Enhancement | 7.00% | ~285 |
 | From the Past | 7.00% | ~285 |
 | Access Granted | 6.00% | ~244 |
 | All in Good Health | 6.00% | ~244 |
 | Drill-dozer | 6.00% | ~244 |
-| Oats | 5.00% | ~203 |
-| What They Hide From Us | 5.00% | ~203 |
-| ...  in a finite world | 5.00% | ~203 |
-| In Dolos We Trust | 5.00% | ~203 |
-| BRAWL! | 5.00% | ~203 |
-| What the Ruins Teach Us | 5.00% | ~203 |
+| Oats | 5.00% | ~204 |
+| What They Hide From Us | 5.00% | ~204 |
+| ...  in a finite world | 5.00% | ~204 |
+| In Dolos We Trust | 5.00% | ~204 |
+| BRAWL! | 5.00% | ~204 |
+| What the Ruins Teach Us | 5.00% | ~204 |
 | Sustainable Energy | 4.00% | ~163 |
 | Pedal to the Metal | 4.00% | ~163 |
 | Praise the Hull! | 3.00% | ~122 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 472)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,069 (Ranked 211)  
+Progressed: 4,072 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,963 | 0 |
 | 2024-01-05 | 4,002 | 0 |
 | 2024-01-06 | 4,042 | 0 |
-| 2024-01-07 | 4,069 | 0 |
+| 2024-01-07 | 4,072 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

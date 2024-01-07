@@ -22,10 +22,10 @@
 | Redecorating | 32.00% | ~40 |
 | Bad JuJu | 25.00% | ~32 |
 | Friend of Sevenkeeps | 22.00% | ~28 |
+| Slave to the rhythm | 21.00% | ~26 |
 | Castle Meldec | 21.00% | ~26 |
-| Slave to the rhythm | 20.00% | ~25 |
 | Sevenkeeps Seat of Kings | 19.00% | ~24 |
-| Friend of Alluvyan | 16.00% | ~20 |
+| Friend of Alluvyan | 17.00% | ~21 |
 | Friend of Connach | 15.00% | ~19 |
 | Stormwatch Faste | 14.00% | ~18 |
 | Friend of Gillyshire | 14.00% | ~18 |
@@ -43,10 +43,10 @@
 | Defeat Uram | 9.00% | ~11 |
 | Yngrid's Tale | 9.00% | ~11 |
 | Tuscari Sea Portal | 9.00% | ~11 |
+| Crypt of the Revenant | 8.00% | ~10 |
 | The Forge of Regan Gor | 8.00% | ~10 |
 | Friend of Uram Gor | 8.00% | ~10 |
 | A Joke | 8.00% | ~10 |
-| Crypt of the Revenant | 7.00% | ~9 |
 | Fireforge | 7.00% | ~9 |
 | A Monopoly of Might | 7.00% | ~9 |
 | Get to the Airship! | 6.00% | ~8 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126 (Ranked 474)  
+Progressed: 126 (Ranked 475)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -26,17 +26,17 @@ Rating: 4.63 (Ranked 357)
 | Flaming Hot Completos | 0.80% | ~71 |
 | Azorian Anniversary | 0.80% | ~71 |
 | Skilled | 0.80% | ~71 |
-| Fae Farmer | 0.70% | ~62 |
+| Fae Farmer | 0.70% | ~63 |
 | Got to Catch Them All | 0.60% | ~54 |
 | Scattered Scroll Scrounger | 0.60% | ~54 |
 | Rumble in the Jumble | 0.60% | ~54 |
 | Fanatical Farmer | 0.60% | ~54 |
 | Azorian Hat Dance | 0.60% | ~9 |
+| I Now Pronounce You... | 0.40% | ~36 |
 | Chatty Neighbor | 0.40% | ~36 |
 | Right Tool For the Job | 0.40% | ~36 |
 | House Proud | 0.40% | ~36 |
 | Going Down | 0.40% | ~6 |
-| I Now Pronounce You... | 0.30% | ~27 |
 | Captain of Cozy | 0.30% | ~27 |
 | Angling Authority | 0.20% | ~18 |
 | Polyglot | 0.20% | ~3 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 357)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,928 (Ranked 185)  
+Progressed: 8,929 (Ranked 185)  
 Completed: 1 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 1 (0.01%) (Ranked 372)
 | 2024-01-04 | 8,863 | 1 |
 | 2024-01-05 | 8,888 | 1 |
 | 2024-01-06 | 8,910 | 1 |
-| 2024-01-07 | 8,928 | 1 |
+| 2024-01-07 | 8,929 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

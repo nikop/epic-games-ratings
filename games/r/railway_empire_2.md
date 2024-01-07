@@ -6,12 +6,12 @@ Rating: 4.42 (Ranked 739)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 77.00% | ~2,046 |
-| A new Journey | 75.00% | ~1,993 |
+| A new Journey | 76.00% | ~2,019 |
 | From X to Y | 74.00% | ~1,966 |
 | Departure | 74.00% | ~1,966 |
-| Way of Iron | 71.00% | ~1,886 |
+| Way of Iron | 72.00% | ~1,913 |
 | Mystery Tour | 70.00% | ~1,860 |
-| We brake for nobody | 68.00% | ~1,807 |
+| We brake for nobody | 69.00% | ~1,833 |
 | Brainstorm | 67.00% | ~1,780 |
 | Mind the Gap | 66.00% | ~1,754 |
 | Travel Company | 66.00% | ~1,754 |
@@ -57,8 +57,8 @@ Rating: 4.42 (Ranked 739)
 | Engineer | 4.00% | ~106 |
 | Accurate | 4.00% | ~106 |
 | Three Cheers for Progress | 1.00% | ~27 |
+| United States | 0.70% | ~19 |
 | European Union | 0.60% | ~16 |
-| United States | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,657 (Ranked 233)  

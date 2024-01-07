@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 812,
+  "EOS_Progressed": 813,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1176,6 +1176,11 @@
       "Time": "2024-01-07T19:08:30.3124003+00:00",
       "NumProgressed": 812,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T22:06:36.8605072+00:00",
+      "NumProgressed": 813,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1259,7 +1264,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1267,7 +1272,7 @@
       "Name": "Dust to Dust",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -1323,7 +1328,7 @@
       "Name": "For Science!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "Achievement_Friendzone",
@@ -1347,7 +1352,7 @@
       "Name": "Gold Medalist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Achievement_HandsFull",
@@ -1363,7 +1368,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1371,7 +1376,7 @@
       "Name": "The Improvinator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Achievement_IntergalacticBreakup",
@@ -1387,7 +1392,7 @@
       "Name": "KIA",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Achievement_LastSupper",
@@ -1395,7 +1400,7 @@
       "Name": "The Last Supper",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Achievement_Maegangement",
@@ -1443,7 +1448,7 @@
       "Name": "Non-Fiction",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Achievement_SecondLife",
@@ -1475,7 +1480,7 @@
       "Name": "Space Colonization",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1531,14 +1536,14 @@
       "Name": "Et tu, Astrocitizen?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     }
   ],
   "AchievementSets": [
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 812,
+      "Progressed": 813,
       "Completed": 1
     }
   ],
@@ -1546,8 +1551,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:08:20.7939994+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:06:36.860507+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:53.4860847+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:59:03.6795785+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:08:20.7940611+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:58:35.1711446+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:06:36.8605444+00:00"
 }

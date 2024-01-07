@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 995,
+  "EOS_Progressed": 996,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
@@ -2775,6 +2775,11 @@
       "Time": "2024-01-07T20:09:21.6266615+00:00",
       "NumProgressed": 995,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-07T22:09:32.1300367+00:00",
+      "NumProgressed": 996,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -2786,7 +2791,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2850,15 +2855,15 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 537
+      "UsersEstimate": 548
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2945,7 +2950,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 995,
+      "Progressed": 996,
       "Completed": 13
     }
   ],
@@ -2953,8 +2958,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:10:11.7427954+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:09:32.1300364+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:01:14.7890348+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:10:11.742828+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:00:00.9144214+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:09:32.1300593+00:00"
 }

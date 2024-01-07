@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Choking Hazard | 43.00% | ~123 |
-| Animal Lover | 32.00% | ~91 |
+| Animal Lover | 32.00% | ~92 |
 | Don't Breathe | 30.00% | ~86 |
 | Smooth Operator | 16.00% | ~46 |
 | Easy Listening | 15.00% | ~43 |
@@ -20,9 +20,9 @@
 | The Long Night | 1.00% | ~3 |
 | Luddite | 0.70% | ~2 |
 | Maids of Sker | 0.70% | ~2 |
-| Axe of Kindness | 0.40% | ~1 |
-| In Darkness | 0.40% | ~1 |
-| Scholar | 0.40% | ~1 |
+| Axe of Kindness | 0.30% | ~1 |
+| In Darkness | 0.30% | ~1 |
+| Scholar | 0.30% | ~1 |
 | Axeman | 0.00% | ~0 |
 | Dodgy Geezer | 0.00% | ~0 |
 | Hard Times | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 404)  
+Progressed: 286 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 276 | 0 |
 | 2024-01-05 | 279 | 0 |
 | 2024-01-06 | 281 | 0 |
-| 2024-01-07 | 285 | 0 |
+| 2024-01-07 | 286 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,27 +8,27 @@ Number of Ratings: 20  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Adventure Begins | 65.00% | ~270 |
 | Cartographer | 58.00% | ~241 |
-| A Strange Artefact | 54.00% | ~224 |
-| Insomnia | 49.00% | ~203 |
+| A Strange Artefact | 54.00% | ~225 |
+| Insomnia | 49.00% | ~204 |
 | Lost & Found & Lost Again | 44.00% | ~183 |
-| From Whence we Came | 43.00% | ~178 |
-| Fire and Flood | 41.00% | ~170 |
+| From Whence we Came | 43.00% | ~179 |
+| Fire and Flood | 41.00% | ~171 |
 | Spooky! | 38.00% | ~158 |
-| Treasure Hunt | 36.00% | ~149 |
-| Shennong Herbalist | 35.00% | ~145 |
+| Treasure Hunt | 36.00% | ~150 |
+| Shennong Herbalist | 35.00% | ~146 |
 | Good Mama | 33.00% | ~137 |
 | O Captain My Captain | 32.00% | ~133 |
-| Plunderer | 30.00% | ~124 |
+| Plunderer | 30.00% | ~125 |
 | Taxonomist | 27.00% | ~112 |
 | Traveller | 26.00% | ~108 |
 | Uncertain Loyalties | 25.00% | ~104 |
 | Nahua Seeker | 24.00% | ~100 |
-| Roll to Save | 23.00% | ~95 |
-| Veteran Explorer | 22.00% | ~91 |
+| Roll to Save | 23.00% | ~96 |
+| Veteran Explorer | 22.00% | ~92 |
 | Red Flag Pirate | 20.00% | ~83 |
 | Iron Man | 17.00% | ~71 |
 | A Gentle Beast | 17.00% | ~71 |
-| Practical Palaeontology | 16.00% | ~66 |
+| Practical Palaeontology | 16.00% | ~67 |
 | Adventurer | 15.00% | ~62 |
 | For the Club! | 15.00% | ~62 |
 | Shortening of the Way | 15.00% | ~62 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415 (Ranked 364)  
+Progressed: 416 (Ranked 364)  
 Completed: 1 (0.24%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.24%) (Ranked 267)
 | 2024-01-04 | 400 | 1 |
 | 2024-01-05 | 406 | 1 |
 | 2024-01-06 | 410 | 1 |
-| 2024-01-07 | 415 | 1 |
+| 2024-01-07 | 416 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

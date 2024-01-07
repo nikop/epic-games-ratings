@@ -17,8 +17,8 @@ Number of Ratings: 124  (23.09.2022)
 | Commander | 20.00% | ~42 |
 | Irissa's Fate | 16.00% | ~34 |
 | Long-Haul Flyer | 15.00% | ~32 |
+| Pass A38 | 15.00% | ~32 |
 | Family Reunion | 14.00% | ~30 |
-| Pass A38 | 14.00% | ~30 |
 | Eternal Oblivion | 12.00% | ~25 |
 | Berserker | 11.00% | ~23 |
 | Storyteller | 10.00% | ~21 |

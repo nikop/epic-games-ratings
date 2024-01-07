@@ -5,28 +5,28 @@ Rating: 4.55 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 107.00% | ~19,143 |
-| Before the Downfall | 102.00% | ~18,249 |
-| Money like Water | 100.00% | ~17,891 |
-| Minimalist | 98.00% | ~17,533 |
-| Builder | 90.00% | ~16,102 |
-| Eraser | 76.00% | ~13,597 |
-| Pocket of Trains | 71.00% | ~12,703 |
-| Inspector | 65.00% | ~11,629 |
-| Going the Distance | 59.00% | ~10,556 |
-| Oil Baron | 46.00% | ~8,230 |
-| Loads-a-Money | 46.00% | ~8,230 |
+| Trevithick's Legacy | 107.00% | ~19,142 |
+| Before the Downfall | 102.00% | ~18,248 |
+| Money like Water | 100.00% | ~17,890 |
+| Minimalist | 98.00% | ~17,532 |
+| Builder | 90.00% | ~16,101 |
+| Eraser | 76.00% | ~13,596 |
+| Pocket of Trains | 71.00% | ~12,702 |
+| Inspector | 65.00% | ~11,628 |
+| Going the Distance | 59.00% | ~10,555 |
+| Oil Baron | 46.00% | ~8,229 |
+| Loads-a-Money | 46.00% | ~8,229 |
 | Helper of the People | 43.00% | ~7,693 |
-| Simplification | 37.00% | ~6,620 |
-| Box of Trains | 36.00% | ~6,441 |
-| Let There be Light | 36.00% | ~6,441 |
+| Simplification | 37.00% | ~6,619 |
+| Box of Trains | 36.00% | ~6,440 |
+| Let There be Light | 36.00% | ~6,440 |
 | Hot Water | 34.00% | ~6,083 |
 | Indecisive | 32.00% | ~5,725 |
 | The scenic route | 30.00% | ~5,367 |
 | Industrialist | 28.00% | ~5,009 |
-| Perfectionist | 26.00% | ~4,652 |
-| 8K is Enough for Everyone | 25.00% | ~4,473 |
-| Trains over Pipes | 25.00% | ~4,473 |
+| Perfectionist | 26.00% | ~4,651 |
+| 8K is Enough for Everyone | 25.00% | ~4,472 |
+| Trains over Pipes | 25.00% | ~4,472 |
 | Man of Steel | 18.00% | ~3,220 |
 | Room Full of Trains | 14.00% | ~2,505 |
 | Investor | 11.00% | ~1,968 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 527)
 | Overdeer | 0.60% | ~107 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,891 (Ranked 161)  
+Progressed: 17,890 (Ranked 161)  
 Completed: 26 (0.15%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |

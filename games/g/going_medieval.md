@@ -6,21 +6,21 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,948 |
-| Having A Field Day | 76.00% | ~5,948 |
-| Reap What You Sow | 73.00% | ~5,713 |
-| The First Day | 70.00% | ~5,478 |
+| Get A Room | 76.00% | ~5,949 |
+| Having A Field Day | 76.00% | ~5,949 |
+| Reap What You Sow | 73.00% | ~5,714 |
+| The First Day | 70.00% | ~5,479 |
 | Novice Researcher | 68.00% | ~5,322 |
-| Green Thumb | 67.00% | ~5,243 |
-| Home Cooked Meal | 62.00% | ~4,852 |
-| Onward | 58.00% | ~4,539 |
+| Green Thumb | 67.00% | ~5,244 |
+| Home Cooked Meal | 62.00% | ~4,853 |
+| Onward | 58.00% | ~4,540 |
 | The First Week | 56.00% | ~4,383 |
 | Studious Researcher | 53.00% | ~4,148 |
 | Beam Me Up | 52.00% | ~4,070 |
 | Adept Researcher | 45.00% | ~3,522 |
-| Retribution | 43.00% | ~3,365 |
-| Putting Food on the Table | 43.00% | ~3,365 |
-| ...And Don’t Come Back! | 43.00% | ~3,365 |
+| Retribution | 43.00% | ~3,366 |
+| Putting Food on the Table | 43.00% | ~3,366 |
+| ...And Don’t Come Back! | 43.00% | ~3,366 |
 | Feast or Famine | 35.00% | ~2,739 |
 | Heating Up | 33.00% | ~2,583 |
 | Luminary Researcher | 30.00% | ~2,348 |
@@ -32,13 +32,13 @@ Number of Ratings: 706  (23.09.2022)
 | A Party Now | 22.00% | ~1,722 |
 | All Year Round | 22.00% | ~1,722 |
 | Don't Cry Wolf | 14.00% | ~1,096 |
-| Nothing Wasted | 13.00% | ~1,017 |
+| Nothing Wasted | 13.00% | ~1,018 |
 | Deerly Departed | 8.00% | ~626 |
 | Where Wolf? | 5.00% | ~391 |
 | Food Chain | 2.00% | ~157 |
 | Wabbit Season | 0.50% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,826 (Ranked 190)  
+Progressed: 7,827 (Ranked 190)  
 Completed: 14 (0.18%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 14 (0.18%) (Ranked 281)
 | 2024-01-04 | 7,751 | 14 |
 | 2024-01-05 | 7,776 | 14 |
 | 2024-01-06 | 7,803 | 14 |
-| 2024-01-07 | 7,826 | 14 |
+| 2024-01-07 | 7,827 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 343)  
 Sum: 1,058 (Ranked 270)  

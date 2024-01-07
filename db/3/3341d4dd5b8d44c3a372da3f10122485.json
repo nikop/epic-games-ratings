@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -1584,9 +1584,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 80,
-      "UsersEstimate": 152
+      "UsersEstimate": 155
     },
     {
       "ID": "Intro",
@@ -1695,8 +1695,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:03:53.6673763+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:03:32.5752796+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:04.239255+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:57:02.9248108+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:03:53.6673967+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:57:18.6192443+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:03:32.575296+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10626,9 +10626,9 @@
       "Count": 1083
     }
   ],
-  "EOS_Progressed": 132092,
+  "EOS_Progressed": 132101,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1074,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38806,6 +38806,11 @@
       "Time": "2024-01-07T21:10:25.5986339+00:00",
       "NumProgressed": 132092,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T22:09:41.6620895+00:00",
+      "NumProgressed": 132101,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38841,7 +38846,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -39073,7 +39078,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -39169,7 +39174,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9246
+      "UsersEstimate": 9247
     },
     {
       "ID": "hero_story_complete_all",
@@ -39257,7 +39262,7 @@
       "Name": "Eidetic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "run_end_abandon",
@@ -39353,7 +39358,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "combat_kill_collector",
@@ -39417,7 +39422,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39425,7 +39430,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39448,21 +39453,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132092,
+      "Progressed": 132101,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6961,
+      "Progressed": 6970,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-07T19:57:35.9368309+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:10:25.5986335+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:09:41.6620893+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:57:56.5349179+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:10:25.5988284+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:57:53.3642391+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:09:41.662271+00:00"
 }

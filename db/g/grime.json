@@ -1837,9 +1837,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 167119,
+  "EOS_Progressed": 167134,
   "EOS_Completed": 449,
-  "EOS_NewPlayers": 1323,
+  "EOS_NewPlayers": 1334,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22222,6 +22222,11 @@
       "Time": "2024-01-07T21:08:32.8738789+00:00",
       "NumProgressed": 167119,
       "NumCompleted": 449
+    },
+    {
+      "Time": "2024-01-07T22:08:24.7184323+00:00",
+      "NumProgressed": 167134,
+      "NumCompleted": 449
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22258,7 +22263,7 @@
       "Name": "Assimilation",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -22306,7 +22311,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -22394,7 +22399,7 @@
       "Name": "Celebration",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -22506,7 +22511,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -22601,21 +22606,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166702,
+      "Progressed": 166717,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167119,
+      "Progressed": 167134,
       "Completed": 449
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-06T15:57:18.5501396+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:08:32.8738784+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:08:24.718432+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:58:14.5205195+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:08:32.8740486+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:58:05.0729462+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:08:24.7185528+00:00"
 }

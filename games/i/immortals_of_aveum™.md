@@ -5,29 +5,29 @@ Rating: 4.19 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,677 |
-| Battlefields Have Memories | 80.00% | ~2,434 |
-| Enlisted | 74.00% | ~2,251 |
-| Maybe Engage a Little | 69.00% | ~2,099 |
-| No More Names | 52.00% | ~1,582 |
-| Initiate | 38.00% | ~1,156 |
-| Thrada-Kul | 34.00% | ~1,034 |
-| Gravity-Challenged Rocks | 27.00% | ~821 |
-| Socialite | 24.00% | ~730 |
-| Soldier | 23.00% | ~700 |
-| All the Major Food Groups | 23.00% | ~700 |
-| Beggars Would Ride | 21.00% | ~639 |
-| Control is an Illusion | 19.00% | ~578 |
-| The Means to Save It | 17.00% | ~517 |
-| Resilience to Sin | 15.00% | ~456 |
-| A Familiar Nest | 15.00% | ~456 |
-| Geas Aristeya | 14.00% | ~426 |
-| Periapt Alizarin | 14.00% | ~426 |
-| A Perfect Cycle | 13.00% | ~395 |
-| Recruit | 12.00% | ~365 |
+| Unforeseen | 88.00% | ~2,683 |
+| Battlefields Have Memories | 80.00% | ~2,439 |
+| Enlisted | 74.00% | ~2,256 |
+| Maybe Engage a Little | 69.00% | ~2,104 |
+| No More Names | 52.00% | ~1,585 |
+| Initiate | 38.00% | ~1,159 |
+| Thrada-Kul | 34.00% | ~1,037 |
+| Gravity-Challenged Rocks | 28.00% | ~854 |
+| Socialite | 24.00% | ~732 |
+| Soldier | 23.00% | ~701 |
+| All the Major Food Groups | 23.00% | ~701 |
+| Beggars Would Ride | 21.00% | ~640 |
+| Control is an Illusion | 19.00% | ~579 |
+| The Means to Save It | 17.00% | ~518 |
+| Resilience to Sin | 15.00% | ~457 |
+| A Familiar Nest | 15.00% | ~457 |
+| Geas Aristeya | 14.00% | ~427 |
+| Periapt Alizarin | 14.00% | ~427 |
+| A Perfect Cycle | 13.00% | ~396 |
+| Recruit | 12.00% | ~366 |
 | Armsman | 11.00% | ~335 |
 | Lights Army | 9.00% | ~274 |
-| Periapt Cerulean | 8.00% | ~243 |
+| Periapt Cerulean | 8.00% | ~244 |
 | Good Boy | 7.00% | ~213 |
 | Best Dressed | 6.00% | ~183 |
 | Periapt Viridian | 6.00% | ~183 |
@@ -48,12 +48,12 @@ Rating: 4.19 (Ranked 971)
 | Diplomat | 0.60% | ~18 |
 | Petite Bourgeoisie | 0.60% | ~18 |
 | Master of Ultramarine | 0.60% | ~18 |
-| Master of Malachite | 0.50% | ~15 |
+| Master of Malachite | 0.60% | ~18 |
 | Treasure Hunter | 0.40% | ~12 |
 | Out of Time | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,042 (Ranked 228)  
+Progressed: 3,049 (Ranked 228)  
 Completed: 4 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 4 (0.13%) (Ranked 298)
 | 2024-01-04 | 2,699 | 2 |
 | 2024-01-05 | 2,796 | 4 |
 | 2024-01-06 | 2,915 | 4 |
-| 2024-01-07 | 3,042 | 4 |
+| 2024-01-07 | 3,049 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

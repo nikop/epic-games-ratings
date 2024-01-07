@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 213,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.19,
+  "EOS_Completed_Percentage": 5.16,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1039,6 +1039,11 @@
       "Time": "2024-01-07T18:03:29.9128682+00:00",
       "NumProgressed": 212,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-07T22:03:40.6583753+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1083,7 +1088,7 @@
       "Name": "Four Flutes",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Houby",
@@ -1099,7 +1104,7 @@
       "Name": "Jing Jang",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Kamzik",
@@ -1115,7 +1120,7 @@
       "Name": "Spiral Smoke",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "KrabiPyramida",
@@ -1123,7 +1128,7 @@
       "Name": "Crab Pyramid",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Kudla",
@@ -1145,9 +1150,9 @@
       "ID": "MluviciPapouch",
       "SetID": "ag48e8e",
       "Name": "Mimicking Parrot",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "Myska",
@@ -1171,7 +1176,7 @@
       "Name": "Liana Bats",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Pejsek",
@@ -1195,15 +1200,15 @@
       "Name": "Cosmic Ring",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "Sova",
@@ -1211,7 +1216,7 @@
       "Name": "Owl",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SpiciPapouch",
@@ -1219,7 +1224,7 @@
       "Name": "Sleeping Parrot",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Sputnik2",
@@ -1235,7 +1240,7 @@
       "Name": "Centipede",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Strom",
@@ -1283,21 +1288,21 @@
       "Name": "Dancing Fungus",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:04:05.4387217+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:03:40.6583752+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:03:13.4176406+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:04:05.4387427+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:03:07.1513822+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:03:40.6583928+00:00"
 }

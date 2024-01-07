@@ -37,20 +37,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.80% | ~130 |
 | Warrior | 0.80% | ~130 |
 | Strong Cities | 0.80% | ~130 |
+| Christianity | 0.80% | ~130 |
 | Babylonian Paganism | 0.80% | ~130 |
 | Magnificent | 0.70% | ~113 |
+| Wise | 0.70% | ~113 |
+| Able Difficulty | 0.70% | ~113 |
 | Furious Family | 0.70% | ~113 |
 | Great Ziggurat | 0.70% | ~113 |
 | Ishtar Gate | 0.70% | ~113 |
 | Lighthouse | 0.70% | ~113 |
-| Christianity | 0.70% | ~113 |
 | Roman Paganism | 0.70% | ~113 |
 | Zoroastrianism | 0.70% | ~113 |
 | Regicide | 0.60% | ~97 |
 | Great | 0.60% | ~97 |
-| Wise | 0.60% | ~97 |
 | Legendary Cities | 0.60% | ~97 |
-| Able Difficulty | 0.60% | ~97 |
 | Acropolis | 0.60% | ~97 |
 | Apadana | 0.60% | ~97 |
 | Necropolis | 0.60% | ~97 |
@@ -61,6 +61,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.50% | ~81 |
 | Valiant | 0.50% | ~81 |
 | Just Difficulty | 0.50% | ~81 |
+| Artisans | 0.50% | ~81 |
 | Sages | 0.50% | ~81 |
 | Colossus | 0.50% | ~81 |
 | Mausoleum | 0.50% | ~81 |
@@ -71,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.40% | ~65 |
 | Mighty | 0.40% | ~65 |
 | Good Difficulty | 0.40% | ~65 |
-| Artisans | 0.40% | ~65 |
 | Champions | 0.40% | ~65 |
 | Patrons | 0.40% | ~65 |
 | Statesmen | 0.40% | ~65 |
@@ -106,8 +106,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.30% | ~49 |
 | Revelation | 0.30% | ~49 |
 | Cimmerian Archer | 0.30% | ~49 |
+| Kushite Cavalry | 0.30% | ~49 |
 | Legionary | 0.30% | ~49 |
 | Phalangite | 0.30% | ~49 |
+| Ambition Victory | 0.30% | ~49 |
 | Double Victory | 0.30% | ~49 |
 | The Clergy | 0.30% | ~49 |
 | Ishtar Gate in Babylon | 0.20% | ~32 |
@@ -133,11 +135,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.20% | ~32 |
 | Veneration | 0.20% | ~32 |
 | Cataphract Archer | 0.20% | ~32 |
-| Kushite Cavalry | 0.20% | ~32 |
 | Siege Tower | 0.20% | ~32 |
 | Turreted Elephant | 0.20% | ~32 |
 | All Nations | 0.20% | ~32 |
-| Ambition Victory | 0.20% | ~32 |
 | No Undo | 0.20% | ~32 |
 | Deposed Tribe | 0.20% | ~32 |
 | Kushite Pyramids | 0.20% | ~32 |
@@ -182,6 +182,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~16 |
 | Destroyer | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |
+| Rebuilder | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
 | Via Recta Souk in Damascus | 0.10% | ~16 |
 | Glorious Difficulty | 0.10% | ~16 |
@@ -280,6 +281,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Prosperous Kmt | 0.10% | ~16 |
 | Pharaonic Kmt Golden Age | 0.10% | ~16 |
 | Prosperous Pharaonic Kmt | 0.10% | ~16 |
+| Akhen-who? | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
 | Lost the Hearts of Kmt | 0.10% | ~16 |
 | Won the Hearts of Kmt | 0.10% | ~16 |
@@ -300,7 +302,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colosseum in Roma | 0.10% | ~16 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
-| Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
@@ -336,7 +337,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | Worst Pharaoh Ever | 0.00% | ~0 |
 | Failed the Aten | 0.00% | ~0 |
-| Akhen-who? | 0.00% | ~0 |
 | Glory to The Aten | 0.00% | ~0 |
 | Akhenaten's Legacy | 0.00% | ~0 |
 | Pharaonic Glory to The Aten | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,203 (Ranked 168)  
+Progressed: 16,206 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
-| 2024-01-07 | 16,203 | 5 |
+| 2024-01-07 | 16,206 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 222)  

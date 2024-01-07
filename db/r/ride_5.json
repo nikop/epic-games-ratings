@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3424,
+  "EOS_Progressed": 3426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8390,6 +8390,11 @@
       "Time": "2024-01-07T21:08:27.3642901+00:00",
       "NumProgressed": 3424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T22:08:20.9790879+00:00",
+      "NumProgressed": 3426,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8402,7 +8407,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8410,7 +8415,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8450,15 +8455,15 @@
       "Name": "Iconic!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "c7hf6a4",
       "Name": "I Want One Too!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 685
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -8474,7 +8479,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -8506,7 +8511,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -8514,7 +8519,7 @@
       "Name": "I\u0027ll Be the Best!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -8546,7 +8551,7 @@
       "Name": "Back in Blighty",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -8578,7 +8583,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -8586,7 +8591,7 @@
       "Name": "Still Here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -8658,7 +8663,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -8690,7 +8695,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8698,7 +8703,7 @@
       "Name": "Eat My Dust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8706,7 +8711,7 @@
       "Name": "Champagne Spray",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -8746,15 +8751,15 @@
       "Name": "Overtaking the Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1062
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8793,7 +8798,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3424,
+      "Progressed": 3426,
       "Completed": 0
     }
   ],
@@ -8801,8 +8806,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:08:27.3642896+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:08:20.9790875+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:01:47.5055753+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:08:27.3643555+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:00:20.5192033+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:08:20.979185+00:00"
 }

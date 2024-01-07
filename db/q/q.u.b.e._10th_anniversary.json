@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -348,9 +348,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 28778,
+  "EOS_Progressed": 28780,
   "EOS_Completed": 200,
-  "EOS_NewPlayers": 989,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -9753,6 +9753,11 @@
       "Time": "2024-01-07T21:10:39.8775597+00:00",
       "NumProgressed": 28778,
       "NumCompleted": 200
+    },
+    {
+      "Time": "2024-01-07T22:09:51.6608475+00:00",
+      "NumProgressed": 28780,
+      "NumCompleted": 200
     }
   ],
   "TotalAchievements": 24,
@@ -9892,7 +9897,7 @@
       "Name": "Sector 1",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 9209
+      "UsersEstimate": 9210
     },
     {
       "ID": "ACH_Sector2",
@@ -9948,14 +9953,14 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2015
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 28778,
+      "Progressed": 28780,
       "Completed": 200
     }
   ],
@@ -9963,8 +9968,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-07T21:02:45.1474426+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:10:39.8775591+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:09:51.6608473+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:27.6717087+00:00",
   "LastUpdate_Ratings": "2024-01-07T21:02:45.1474435+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:10:39.8776319+00:00"
+  "LastUpdate_Achievements": "2024-01-07T22:09:51.6608987+00:00"
 }

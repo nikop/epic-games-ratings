@@ -305,7 +305,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 388,
+  "EOS_Progressed": 389,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -1600,6 +1600,11 @@
       "Time": "2024-01-07T20:08:20.863637+00:00",
       "NumProgressed": 388,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T22:08:38.4852526+00:00",
+      "NumProgressed": 389,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1612,7 +1617,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1652,7 +1657,7 @@
       "Name": "Yettisoned",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1674,17 +1679,17 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
       "SetID": "cefn62b",
       "Name": "Rock of the Bay",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -1700,7 +1705,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1762,9 +1767,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "cefn62b",
       "Name": "Earthly Pleasures",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -1844,7 +1849,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1860,7 +1865,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1900,15 +1905,15 @@
       "Name": "Dusted",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1931,15 +1936,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 388,
+      "Progressed": 389,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:08:52.9963399+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:08:38.4852525+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:01:15.948345+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:08:52.9963716+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:00:01.6469017+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:08:38.4852838+00:00"
 }

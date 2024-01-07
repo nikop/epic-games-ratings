@@ -9,7 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 11.00% | ~16,520 |
 | Basic in Bulk | 10.00% | ~15,018 |
 | Titan's First Steps | 10.00% | ~15,018 |
-| Tinkle of Coins | 9.00% | ~13,516 |
+| Tinkle of Coins | 9.00% | ~13,517 |
 | Disintermediation | 7.00% | ~10,513 |
 | It's Free Real Estate | 7.00% | ~10,513 |
 | Capitalism Ho! | 7.00% | ~10,513 |
@@ -30,27 +30,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 4.00% | ~6,007 |
 | Did we pack lunch? | 4.00% | ~6,007 |
 | Arcane Industries | 4.00% | ~6,007 |
-| On the Path to Greatness | 3.00% | ~4,505 |
-| Ascended | 3.00% | ~4,505 |
-| Tax not Included | 3.00% | ~4,505 |
-| Research & Development | 3.00% | ~4,505 |
-| Vanity, Verily | 3.00% | ~4,505 |
-| Fated Encounters | 3.00% | ~4,505 |
-| For the Hoard! | 3.00% | ~4,505 |
-| Blank Page Syndrome | 3.00% | ~4,505 |
-| This Power Level...! | 3.00% | ~4,505 |
-| Power of Love | 3.00% | ~4,505 |
-| Efficient Floor Space | 3.00% | ~4,505 |
-| Flawless Fusion | 3.00% | ~4,505 |
-| Trash to Treasure | 3.00% | ~4,505 |
-| Gem Expert | 3.00% | ~4,505 |
-| Royal Ransom | 3.00% | ~4,505 |
-| Helping Hand | 3.00% | ~4,505 |
-| Accomplished Merchant | 3.00% | ~4,505 |
-| Natural 20 | 3.00% | ~4,505 |
-| Magical Harmony | 3.00% | ~4,505 |
-| Special Ingredient | 3.00% | ~4,505 |
-| Complete Monopoly | 3.00% | ~4,505 |
+| On the Path to Greatness | 3.00% | ~4,506 |
+| Ascended | 3.00% | ~4,506 |
+| Tax not Included | 3.00% | ~4,506 |
+| Research & Development | 3.00% | ~4,506 |
+| Vanity, Verily | 3.00% | ~4,506 |
+| Fated Encounters | 3.00% | ~4,506 |
+| For the Hoard! | 3.00% | ~4,506 |
+| Blank Page Syndrome | 3.00% | ~4,506 |
+| This Power Level...! | 3.00% | ~4,506 |
+| Power of Love | 3.00% | ~4,506 |
+| Efficient Floor Space | 3.00% | ~4,506 |
+| Flawless Fusion | 3.00% | ~4,506 |
+| Trash to Treasure | 3.00% | ~4,506 |
+| Gem Expert | 3.00% | ~4,506 |
+| Royal Ransom | 3.00% | ~4,506 |
+| Helping Hand | 3.00% | ~4,506 |
+| Accomplished Merchant | 3.00% | ~4,506 |
+| Natural 20 | 3.00% | ~4,506 |
+| Magical Harmony | 3.00% | ~4,506 |
+| Special Ingredient | 3.00% | ~4,506 |
+| Complete Monopoly | 3.00% | ~4,506 |
 | A Notch Above the Rest | 2.00% | ~3,004 |
 | Cream of the Crop | 2.00% | ~3,004 |
 | Top of the World | 2.00% | ~3,004 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~601 |
 | Capitalist Camaraderie | 0.20% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,179 (Ranked 86)  
+Progressed: 150,184 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -381,7 +381,7 @@ Completed: 345 (0.23%) (Ranked 270)
 | 2024-01-04 | 149,471 | 342 |
 | 2024-01-05 | 149,755 | 342 |
 | 2024-01-06 | 149,985 | 345 |
-| 2024-01-07 | 150,179 | 345 |
+| 2024-01-07 | 150,184 | 345 |
 ## Awards
 Max (Great for Beginners): 4,946  (Ranked 78)  
 Sum: 27,950 (Ranked 52)  

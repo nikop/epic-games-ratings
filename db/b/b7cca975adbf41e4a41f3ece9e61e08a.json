@@ -289,7 +289,7 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 17975,
+  "EOS_Progressed": 17976,
   "EOS_Completed": 305,
   "EOS_NewPlayers": 989,
   "EOS_NewCompleters": 24,
@@ -9154,6 +9154,11 @@
       "Time": "2024-01-07T20:09:21.5603188+00:00",
       "NumProgressed": 17975,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-07T22:09:32.1064107+00:00",
+      "NumProgressed": 17976,
+      "NumCompleted": 305
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -9166,7 +9171,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 15818
+      "UsersEstimate": 15819
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -9174,7 +9179,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 14560
+      "UsersEstimate": 14561
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -9270,7 +9275,7 @@
       "Name": "Happy Family",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5392
+      "UsersEstimate": 5393
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -9316,9 +9321,9 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "7opfcp",
       "Name": "Still Single",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4853
+      "UsersEstimate": 5033
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -9414,7 +9419,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 5392
+      "UsersEstimate": 5393
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -9422,7 +9427,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8448
+      "UsersEstimate": 8449
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -9438,7 +9443,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5572
+      "UsersEstimate": 5573
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -9470,7 +9475,7 @@
       "Name": "Worthless Speech",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5392
+      "UsersEstimate": 5393
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -9501,7 +9506,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 17975,
+      "Progressed": 17976,
       "Completed": 305
     }
   ],
@@ -9509,8 +9514,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-05T17:59:56.8207395+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:10:11.7129483+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:09:32.1064102+00:00",
   "LastUpdate_AppInfo": "2024-01-06T03:57:10.1244373+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:01:25.582682+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:10:11.7130149+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:00:07.9222429+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:09:32.1064708+00:00"
 }

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~788 |
-| Space Colonization | 81.00% | ~658 |
+| Don't Panic! | 97.00% | ~789 |
+| Space Colonization | 81.00% | ~659 |
 | Friendzone | 80.00% | ~650 |
-| Hello World | 75.00% | ~609 |
+| Hello World | 75.00% | ~610 |
 | Space Engineer | 65.00% | ~528 |
 | Tinkerer | 63.00% | ~512 |
-| Dust to Dust | 59.00% | ~479 |
+| Dust to Dust | 59.00% | ~480 |
 | Across The Stars | 49.00% | ~398 |
 | Crafty | 49.00% | ~398 |
 | All Seats Taken | 40.00% | ~325 |
-| For Science! | 35.00% | ~284 |
+| For Science! | 35.00% | ~285 |
 | Meet the Petersons | 32.00% | ~260 |
 | Stay Cool | 30.00% | ~244 |
-| KIA | 28.00% | ~227 |
+| KIA | 28.00% | ~228 |
 | Mutiny in making | 25.00% | ~203 |
 | Eco-Shuttle | 21.00% | ~171 |
-| Et tu, Astrocitizen? | 20.00% | ~162 |
+| Et tu, Astrocitizen? | 20.00% | ~163 |
 | Space Explorer | 17.00% | ~138 |
 | Hands Full | 13.00% | ~106 |
-| Gold Medalist | 12.00% | ~97 |
-| Non-Fiction | 12.00% | ~97 |
+| Gold Medalist | 12.00% | ~98 |
+| Non-Fiction | 12.00% | ~98 |
 | No Man Left Behind | 9.00% | ~73 |
 | First of April | 8.00% | ~65 |
 | Fix-It Felix | 8.00% | ~65 |
@@ -33,8 +33,8 @@
 | Axel jump in space! | 7.00% | ~57 |
 | Flawless Maegangement | 7.00% | ~57 |
 | Extreme Makeover | 5.00% | ~41 |
-| The Improvinator | 4.00% | ~32 |
-| The Last Supper | 4.00% | ~32 |
+| The Improvinator | 4.00% | ~33 |
+| The Last Supper | 4.00% | ~33 |
 | 2018: A Soup Odyssey | 3.00% | ~24 |
 | Bovine Domain | 2.00% | ~16 |
 | That's No Moon! | 2.00% | ~16 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812 (Ranked 309)  
+Progressed: 813 (Ranked 309)  
 Completed: 1 (0.12%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 1 (0.12%) (Ranked 303)
 | 2024-01-04 | 804 | 1 |
 | 2024-01-05 | 809 | 1 |
 | 2024-01-06 | 811 | 1 |
-| 2024-01-07 | 812 | 1 |
+| 2024-01-07 | 813 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,20 +5,20 @@ Rating: 4.53 (Ranked 561)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,109 |
-| I Broke It | 73.00% | ~1,094 |
-| Better On Ice | 68.00% | ~1,019 |
-| Notai Notes | 66.00% | ~989 |
-| Blue Dreams | 65.00% | ~974 |
-| He's Famous! | 65.00% | ~974 |
-| Cutie Poro | 65.00% | ~974 |
-| Krugmazing | 64.00% | ~959 |
-| Moneyball | 60.00% | ~899 |
-| The Fire Below the Mountain | 60.00% | ~899 |
-| No Bites | 55.00% | ~824 |
-| Iceborn | 55.00% | ~824 |
-| Boom Things | 53.00% | ~794 |
-| Tear of Freedom | 52.00% | ~779 |
+| Feels Familiar | 74.00% | ~1,111 |
+| I Broke It | 73.00% | ~1,096 |
+| Better On Ice | 68.00% | ~1,021 |
+| Notai Notes | 66.00% | ~991 |
+| Blue Dreams | 65.00% | ~976 |
+| He's Famous! | 65.00% | ~976 |
+| Cutie Poro | 65.00% | ~976 |
+| Krugmazing | 64.00% | ~961 |
+| Moneyball | 60.00% | ~901 |
+| The Fire Below the Mountain | 60.00% | ~901 |
+| Iceborn | 55.00% | ~826 |
+| No Bites | 54.00% | ~811 |
+| Boom Things | 53.00% | ~796 |
+| Tear of Freedom | 52.00% | ~781 |
 | My Darkest Day | 49.00% | ~735 |
 | The Relentless Storm | 47.00% | ~705 |
 | Rhythm Of Willump | 46.00% | ~690 |
@@ -35,7 +35,7 @@ Rating: 4.53 (Ranked 561)
 | True Legends | 38.00% | ~570 |
 | Bullseye | 36.00% | ~540 |
 | It Is Not Over | 35.00% | ~525 |
-| On The Rocks | 33.00% | ~495 |
+| On The Rocks | 34.00% | ~510 |
 | Snowy Poro | 32.00% | ~480 |
 | Never Gets Old | 32.00% | ~480 |
 | Vertical Power | 26.00% | ~390 |
@@ -50,7 +50,7 @@ Rating: 4.53 (Ranked 561)
 | We Are Speed | 2.00% | ~30 |
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,499 (Ranked 266)  
+Progressed: 1,501 (Ranked 266)  
 Completed: 9 (0.60%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 9 (0.60%) (Ranked 206)
 | 2024-01-04 | 1,464 | 9 |
 | 2024-01-05 | 1,474 | 9 |
 | 2024-01-06 | 1,490 | 9 |
-| 2024-01-07 | 1,499 | 9 |
+| 2024-01-07 | 1,501 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

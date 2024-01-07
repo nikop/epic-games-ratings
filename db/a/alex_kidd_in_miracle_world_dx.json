@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 426,
+  "EOS_Progressed": 427,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -959,6 +959,11 @@
       "Time": "2024-01-07T20:05:06.9865129+00:00",
       "NumProgressed": 426,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T22:05:09.5615009+00:00",
+      "NumProgressed": 427,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1010,7 +1015,7 @@
       "Name": "Prisoner",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -1018,7 +1023,7 @@
       "Name": "First Commander",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -1088,16 +1093,16 @@
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 426,
+      "Progressed": 427,
       "Completed": 4
     }
   ],
@@ -1105,8 +1110,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:06:13.8872765+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:05:09.5615006+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:59:29.6308119+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:06:13.887288+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:58:53.0982996+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:05:09.5615135+00:00"
 }

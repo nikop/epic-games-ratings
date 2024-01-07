@@ -5,15 +5,15 @@ Rating: 4.38 (Ranked 791)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~683 |
-| Training Simulation | 79.00% | ~580 |
-| Kuku Bird Hunter | 65.00% | ~477 |
-| Storm Traveller | 60.00% | ~440 |
-| Wolf King Killer | 54.00% | ~396 |
+| Travel Streamer | 93.00% | ~684 |
+| Training Simulation | 79.00% | ~581 |
+| Kuku Bird Hunter | 65.00% | ~478 |
+| Storm Traveller | 60.00% | ~441 |
+| Wolf King Killer | 54.00% | ~397 |
 | Fashion Connoisseur | 52.00% | ~382 |
 | Arms Mechanic | 49.00% | ~360 |
 | Flower Thief | 44.00% | ~323 |
-| Apostle of Flame | 39.00% | ~286 |
+| Apostle of Flame | 39.00% | ~287 |
 | Beginner Artificer | 38.00% | ~279 |
 | Beginner Cook | 37.00% | ~272 |
 | Seal Breaker | 32.00% | ~235 |
@@ -21,10 +21,10 @@ Rating: 4.38 (Ranked 791)
 | Giant Lizard Killer | 27.00% | ~198 |
 | Guardian | 25.00% | ~184 |
 | Nosebleeder | 25.00% | ~184 |
-| Trader | 22.00% | ~161 |
+| Trader | 22.00% | ~162 |
 | Weapon Boost | 21.00% | ~154 |
-| Flying Kobold Killer | 19.00% | ~139 |
-| Youth Magnet | 19.00% | ~139 |
+| Flying Kobold Killer | 19.00% | ~140 |
+| Youth Magnet | 19.00% | ~140 |
 | Furious Scorpion Killer | 17.00% | ~125 |
 | Lethal Blade Mantis Killer | 17.00% | ~125 |
 | Squeaky Clean | 17.00% | ~125 |
@@ -35,8 +35,8 @@ Rating: 4.38 (Ranked 791)
 | Face Slapper | 15.00% | ~110 |
 | Boss challenge | 11.00% | ~81 |
 | Berserker Slayer | 11.00% | ~81 |
-| Giantess Slayer | 10.00% | ~73 |
-| Warden Slayer | 10.00% | ~73 |
+| Giantess Slayer | 10.00% | ~74 |
+| Warden Slayer | 10.00% | ~74 |
 | Master Cook | 8.00% | ~59 |
 | Silver Moon Wolf King Challenge | 4.00% | ~29 |
 | Flying Kobold Challenge | 3.00% | ~22 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 791)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734 (Ranked 316)  
+Progressed: 735 (Ranked 316)  
 Completed: 3 (0.41%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 3 (0.41%) (Ranked 235)
 | 2024-01-04 | 707 | 3 |
 | 2024-01-05 | 719 | 3 |
 | 2024-01-06 | 725 | 3 |
-| 2024-01-07 | 734 | 3 |
+| 2024-01-07 | 735 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

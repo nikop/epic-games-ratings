@@ -1110,9 +1110,9 @@
       "ID": "TINGWD_CARMACK",
       "SetID": "c0imaa6",
       "Name": "Carmack junior",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "TINGWD_CHAP_END_01",
@@ -1134,9 +1134,9 @@
       "ID": "TINGWD_CHAP_END_03",
       "SetID": "c0imaa6",
       "Name": "Princess saver",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -1333,8 +1333,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:07:44.4833804+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:06:11.9484741+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.3171345+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:59:41.7314867+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:07:44.4834068+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:59:00.4483011+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:06:11.9484993+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "fallout-3-game-of-the-year-edition",
   "Ranking_Rating": 447,
   "Ranking_Popularity": 28,
-  "Ranking_PopularitySum": 49,
+  "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
@@ -6947,10 +6947,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 30067,
       "NumberOfAwardsMax": 14631
+    },
+    {
+      "Time": "2024-01-07T21:58:52.0209238+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 30077,
+      "NumberOfAwardsMax": 14631
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30067,
+  "NumberOfAwards": 30077,
   "NumberOfAwardsMax": 14631,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6982,7 +6988,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1679
+      "Count": 1683
     },
     {
       "Text": "This game is Relaxing",
@@ -7018,7 +7024,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1042
+      "Count": 1048
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7039,8 +7045,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-07T19:58:44.7837114+00:00",
+  "LastChanged": "2024-01-07T21:58:52.0209236+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:22.976249+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:59:27.8638843+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:04:08.7847643+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:58:52.0209241+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:03:42.8609503+00:00"
 }

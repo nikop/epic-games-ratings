@@ -5,30 +5,30 @@ Rating: 4.52 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,271 |
-| Greasy Palms | 42.00% | ~6,639 |
-| South American Connection | 26.00% | ~4,110 |
-| Life of the Party | 21.00% | ~3,319 |
-| Big Heat from Little Havana | 15.00% | ~2,371 |
-| Chauffeur | 15.00% | ~2,371 |
-| Tommy Two-Wheels | 15.00% | ~2,371 |
-| Salutations My Little Friend | 11.00% | ~1,739 |
-| Iron-y | 10.00% | ~1,581 |
-| Gun for Hire | 9.00% | ~1,423 |
-| Mischief Managed | 9.00% | ~1,423 |
-| Vice City Mogul | 7.00% | ~1,106 |
-| Catch Me if You Can | 6.00% | ~948 |
-| Bloodstained Hands | 6.00% | ~948 |
-| Not my First Time | 5.00% | ~790 |
-| Grand Theft Auto | 5.00% | ~790 |
-| Pie Guy | 4.00% | ~632 |
-| Running Rampant | 3.00% | ~474 |
-| Point A to Point B | 3.00% | ~474 |
-| High Quality H2O | 3.00% | ~474 |
-| Bull in a China Shop | 3.00% | ~474 |
-| Somebody Call the Wambulance? | 3.00% | ~474 |
-| Just Like the Real Thing | 3.00% | ~474 |
-| Don't Need Roads | 3.00% | ~474 |
+| Legal Counsel | 46.00% | ~7,276 |
+| Greasy Palms | 42.00% | ~6,644 |
+| South American Connection | 26.00% | ~4,113 |
+| Life of the Party | 21.00% | ~3,322 |
+| Big Heat from Little Havana | 15.00% | ~2,373 |
+| Chauffeur | 15.00% | ~2,373 |
+| Tommy Two-Wheels | 15.00% | ~2,373 |
+| Salutations My Little Friend | 11.00% | ~1,740 |
+| Iron-y | 10.00% | ~1,582 |
+| Gun for Hire | 9.00% | ~1,424 |
+| Mischief Managed | 9.00% | ~1,424 |
+| Vice City Mogul | 7.00% | ~1,107 |
+| Catch Me if You Can | 6.00% | ~949 |
+| Bloodstained Hands | 6.00% | ~949 |
+| Not my First Time | 5.00% | ~791 |
+| Grand Theft Auto | 5.00% | ~791 |
+| Pie Guy | 4.00% | ~633 |
+| Running Rampant | 3.00% | ~475 |
+| Point A to Point B | 3.00% | ~475 |
+| High Quality H2O | 3.00% | ~475 |
+| Bull in a China Shop | 3.00% | ~475 |
+| Somebody Call the Wambulance? | 3.00% | ~475 |
+| Just Like the Real Thing | 3.00% | ~475 |
+| Don't Need Roads | 3.00% | ~475 |
 | One is Better Than Two | 2.00% | ~316 |
 | Take the Cannoli | 2.00% | ~316 |
 | Chopper’d Up | 2.00% | ~316 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 574)
 | Done it All | 0.90% | ~142 |
 | Kingpin | 0.60% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,806 (Ranked 171)  
+Progressed: 15,818 (Ranked 171)  
 Completed: 91 (0.58%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 91 (0.58%) (Ranked 207)
 | 2024-01-04 | 15,370 | 86 |
 | 2024-01-05 | 15,486 | 86 |
 | 2024-01-06 | 15,660 | 88 |
-| 2024-01-07 | 15,806 | 91 |
+| 2024-01-07 | 15,818 | 91 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

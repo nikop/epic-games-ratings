@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -1139,6 +1139,11 @@
       "Time": "2024-01-07T20:08:47.5060929+00:00",
       "NumProgressed": 254,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T22:09:01.9967712+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1157,9 +1162,9 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1223,7 +1228,7 @@
       "Name": "End Of The Road",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1287,7 +1292,7 @@
       "Name": "Meant To Be",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1303,7 +1308,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1367,7 +1372,7 @@
       "Name": "The Choice Is Yours",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -1446,14 +1451,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:09:27.3661597+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:09:01.9967709+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:59:22.7473187+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:09:27.366198+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:58:48.5077992+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:09:01.9968373+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 512,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1855,6 +1855,11 @@
       "Time": "2024-01-07T21:10:37.5352439+00:00",
       "NumProgressed": 507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T22:09:50.0826951+00:00",
+      "NumProgressed": 512,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2003,7 +2008,7 @@
       "Name": "Mint I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MintII",
@@ -2051,7 +2056,7 @@
       "Name": "Soul Cache",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "TheDeadCourt",
@@ -2106,15 +2111,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 512,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:10:37.5352434+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:09:50.0826941+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:57:51.0852535+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:10:37.535295+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:57:49.6765813+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:09:50.0827375+00:00"
 }

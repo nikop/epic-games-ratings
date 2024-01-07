@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -686,6 +686,11 @@
       "Time": "2024-01-07T20:09:57.1092022+00:00",
       "NumProgressed": 415,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T22:10:03.8114616+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -833,7 +838,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ach-campaign-story2",
@@ -865,7 +870,7 @@
       "Name": "Roll to Save",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach-discover-locations",
@@ -897,7 +902,7 @@
       "Name": "Fire and Flood",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ach-find-treasure",
@@ -985,7 +990,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -1017,7 +1022,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach-meetGhost",
@@ -1041,7 +1046,7 @@
       "Name": "Insomnia",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ach-pacifist-goals",
@@ -1073,7 +1078,7 @@
       "Name": "From Whence we Came",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ach-promotion",
@@ -1105,7 +1110,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ach-rob-shrines",
@@ -1113,7 +1118,7 @@
       "Name": "Plunderer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ach-salamanderPrince",
@@ -1145,7 +1150,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -1176,7 +1181,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 1
     }
   ],
@@ -1184,8 +1189,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:10:55.5199835+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:10:03.8114613+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:58:37.8583317+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:10:55.5200285+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:58:19.103439+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:10:03.8115382+00:00"
 }

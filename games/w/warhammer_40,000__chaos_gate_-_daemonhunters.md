@@ -6,11 +6,11 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 20.00% | ~766 |
-| Look Over There! | 14.00% | ~536 |
-| Not So Fast... | 14.00% | ~536 |
-| Watch Where You Step... | 14.00% | ~536 |
-| An Ill Omen | 14.00% | ~536 |
+| Executioner | 20.00% | ~767 |
+| Look Over There! | 14.00% | ~537 |
+| Not So Fast... | 14.00% | ~537 |
+| Watch Where You Step... | 14.00% | ~537 |
+| An Ill Omen | 14.00% | ~537 |
 | Purging Spree | 10.00% | ~383 |
 | Blood for the Blood God! | 8.00% | ~307 |
 | Bloodless | 7.00% | ~268 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,832 (Ranked 217)  
+Progressed: 3,833 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,10 +306,10 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,765 | 0 |
 | 2024-01-05 | 3,783 | 0 |
 | 2024-01-06 | 3,811 | 0 |
-| 2024-01-07 | 3,832 | 0 |
+| 2024-01-07 | 3,833 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 284)  
-Sum: 497 (Ranked 334)  
+Sum: 500 (Ranked 334)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
@@ -317,12 +317,12 @@ Diff (max vs sum): -50
 | This game is Extremely Fun | 35 |
 | This game has Amazing Storytelling | 33 |
 | This game has Amazing Characters | 32 |
-| This game is Highly Recommended | 31 |
+| This game is Highly Recommended | 32 |
 | This game has Diverse Characters | 30 |
-| This game has Competitive Players | 29 |
+| This game has Competitive Players | 30 |
 | This game has Challenging Combat | 29 |
 | This game is Relaxing | 25 |
-| This game has Quickly Understood Controls | 20 |
+| This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -445,4 +445,4 @@ Diff (max vs sum): -50
 | 2024-01-01 | 4.58 | - | 232 | 494 |
 | 2024-01-04 | 4.58 | - | 232 | 495 |
 | 2024-01-06 | 4.58 | - | 233 | 496 |
-| 2024-01-07 | 4.58 | - | 233 | 497 |
+| 2024-01-07 | 4.58 | - | 233 | 500 |

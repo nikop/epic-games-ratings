@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~905 |
-| Lost and Found | 8.00% | ~557 |
-| Autodidact | 7.00% | ~9,246 |
+| Malpractice Assurance | 13.00% | ~906 |
+| Lost and Found | 8.00% | ~558 |
+| Autodidact | 7.00% | ~9,247 |
 | This Belongs in a Museum | 6.00% | ~7,926 |
 | Creep and Sleep | 6.00% | ~7,926 |
 | Overdue Notice | 6.00% | ~7,926 |
@@ -32,7 +32,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,284 |
 | A Place to Lay Your Head | 4.00% | ~5,284 |
 | Nope | 4.00% | ~5,284 |
-| Friends 'Til the End | 4.00% | ~278 |
+| Friends 'Til the End | 4.00% | ~279 |
 | Resurrection | 3.00% | ~3,963 |
 | Unleash Hell | 3.00% | ~3,963 |
 | Funny Guy | 3.00% | ~3,963 |
@@ -70,9 +70,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.90% | ~63 |
 | Et Tu, Riposte? | 0.80% | ~56 |
 | The World As It Was | 0.70% | ~925 |
-| A Life Well Lived | 0.50% | ~660 |
-| Bacon Bits | 0.50% | ~660 |
-| Eidetic | 0.50% | ~660 |
+| A Life Well Lived | 0.50% | ~661 |
+| Bacon Bits | 0.50% | ~661 |
+| Eidetic | 0.50% | ~661 |
 | On This Long Road, We Found Redemption | 0.50% | ~35 |
 | Battle Hardened | 0.40% | ~28 |
 | Tears in the Rain | 0.30% | ~396 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,092 (Ranked 91)  
+Progressed: 132,101 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 132,092 | 3 |
+| 2024-01-07 | 132,101 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
 Sum: 21,519 (Ranked 58)  

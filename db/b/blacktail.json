@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 888,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2821,6 +2821,11 @@
       "Time": "2024-01-07T21:10:48.2355122+00:00",
       "NumProgressed": 887,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T22:09:58.0151691+00:00",
+      "NumProgressed": 888,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2832,7 +2837,7 @@
       "Name": "Extensive retelling",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "BadApple",
@@ -2888,7 +2893,7 @@
       "Name": "Sneak peek",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Favourite",
@@ -2896,7 +2901,7 @@
       "Name": "Favorite",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FisherKing",
@@ -2992,7 +2997,7 @@
       "Name": "Queen",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Rats",
@@ -3087,7 +3092,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 888,
       "Completed": 1
     }
   ],
@@ -3095,8 +3100,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:10:48.2355117+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:09:58.0151688+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.0155754+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:58:36.6954115+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:10:48.2355763+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:58:18.3678987+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:09:58.0151978+00:00"
 }

@@ -2220,9 +2220,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16203,
+  "EOS_Progressed": 16206,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19190,6 +19190,11 @@
       "Time": "2024-01-07T21:11:00.4212301+00:00",
       "NumProgressed": 16203,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T22:10:08.014962+00:00",
+      "NumProgressed": 16206,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19807,9 +19812,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
       "SetID": "9201eeb",
       "Name": "Rebuilder",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_RESTORER",
@@ -19879,9 +19884,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -19935,9 +19940,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able Difficulty",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -20031,9 +20036,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
       "SetID": "7l38kb8",
       "Name": "Artisans",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
@@ -20975,9 +20980,9 @@
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
       "SetID": "7l38kb8",
       "Name": "Christianity",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -21263,9 +21268,9 @@
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
       "SetID": "9201eeb",
       "Name": "Kushite Cavalry",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -21319,9 +21324,9 @@
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
       "SetID": "7l38kb8",
       "Name": "Ambition Victory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -21679,9 +21684,9 @@
       "ID": "ACHIEVEMENT_EGYPT3_MAJOR_DEFEAT",
       "SetID": "9201eeb",
       "Name": "Akhen-who?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT3_MAJOR_VICTORY",
@@ -22064,21 +22069,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16203,
+      "Progressed": 16206,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16203,
+      "Progressed": 16206,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-07T21:11:00.4212297+00:00",
+  "LastChanged_Achievements": "2024-01-07T22:10:08.0149618+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:01:14.8696891+00:00",
-  "LastUpdate_Achievements": "2024-01-07T21:11:00.4222834+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:00:01.0361921+00:00",
+  "LastUpdate_Achievements": "2024-01-07T22:10:08.015952+00:00"
 }
