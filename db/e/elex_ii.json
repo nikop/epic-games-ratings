@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 201,
+  "EOS_Progressed": 202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1371,6 +1371,11 @@
       "Time": "2024-01-07T05:05:36.9335453+00:00",
       "NumProgressed": 201,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T09:04:41.3506596+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1399,7 +1404,7 @@
       "Name": "Entrepreneur",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "100HEALS",
@@ -1469,9 +1474,9 @@
       "ID": "30FUEL",
       "SetID": "a1angca",
       "Name": "Long-Haul Flyer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "30POTIONS",
@@ -1533,9 +1538,9 @@
       "ID": "ALLJETPACK",
       "SetID": "a1angca",
       "Name": "Free as a Bird",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ALLPERSONALITY",
@@ -1559,7 +1564,7 @@
       "Name": "Role Model",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "BRINGTOYS",
@@ -1623,7 +1628,7 @@
       "Name": "Creator",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "DESTRUCTION",
@@ -1663,7 +1668,7 @@
       "Name": "Civilian",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "FINDCRONY",
@@ -1671,7 +1676,7 @@
       "Name": "Best Buddy",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "FINDMAP",
@@ -1782,15 +1787,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 201,
+      "Progressed": 202,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:06:23.4965915+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:04:41.3506591+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:59:19.2879605+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:06:23.4966327+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:58:21.2912605+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:04:41.3507115+00:00"
 }

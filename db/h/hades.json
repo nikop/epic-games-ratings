@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -6346,10 +6346,10 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 723129,
+  "EOS_Progressed": 723130,
   "EOS_Completed": 6596,
-  "EOS_NewPlayers": 1311,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 1304,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
@@ -35056,6 +35056,11 @@
       "Time": "2024-01-07T08:11:14.2502979+00:00",
       "NumProgressed": 723129,
       "NumCompleted": 6596
+    },
+    {
+      "Time": "2024-01-07T09:09:51.0071152+00:00",
+      "NumProgressed": 723130,
+      "NumCompleted": 6596
     }
   ],
   "TotalAchievements": 49,
@@ -35075,7 +35080,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 108469
+      "UsersEstimate": 108470
     },
     {
       "ID": "AchBeatCharon",
@@ -35083,7 +35088,7 @@
       "Name": "To Charon\u0027s Credit",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 159088
+      "UsersEstimate": 159089
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -35123,7 +35128,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 376027
+      "UsersEstimate": 376028
     },
     {
       "ID": "AchClearAsphodel",
@@ -35131,7 +35136,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 571272
+      "UsersEstimate": 571273
     },
     {
       "ID": "AchClearElysium",
@@ -35187,7 +35192,7 @@
       "Name": "Slashed Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 86775
+      "UsersEstimate": 86776
     },
     {
       "ID": "AchFishFromEachBiome",
@@ -35227,7 +35232,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 159088
+      "UsersEstimate": 159089
     },
     {
       "ID": "AchGreaterCall",
@@ -35235,7 +35240,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 484496
+      "UsersEstimate": 484497
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -35291,7 +35296,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 448340
+      "UsersEstimate": 448341
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -35339,7 +35344,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 260326
+      "UsersEstimate": 260327
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -35419,7 +35424,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 303714
+      "UsersEstimate": 303715
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -35427,7 +35432,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 506190
+      "UsersEstimate": 506191
     },
     {
       "ID": "AchWeaponClears",
@@ -35458,15 +35463,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 723129,
+      "Progressed": 723130,
       "Completed": 6596
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2024-01-07T06:01:01.5969217+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:11:14.2502977+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:09:51.0071147+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.1750669+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:01:36.6925232+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:11:14.2504638+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:59:47.9932294+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:09:51.0072798+00:00"
 }

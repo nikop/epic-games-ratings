@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5302,
+  "EOS_Progressed": 5304,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -4900,6 +4900,11 @@
       "Time": "2024-01-07T07:05:43.3469422+00:00",
       "NumProgressed": 5302,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-07T09:05:40.9605788+00:00",
+      "NumProgressed": 5304,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4919,7 +4924,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -4927,7 +4932,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -4959,7 +4964,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4967,7 +4972,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4986
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4975,7 +4980,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4030
+      "UsersEstimate": 4031
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4999,7 +5004,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -5127,7 +5132,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4030
+      "UsersEstimate": 4031
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5159,7 +5164,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5183,7 +5188,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -5199,7 +5204,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -5231,7 +5236,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -5247,7 +5252,7 @@
       "Name": "GOLIATH",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5263,7 +5268,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -5446,15 +5451,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5302,
+      "Progressed": 5304,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:07:51.1042691+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:05:40.9605784+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:03:09.9545554+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:07:51.1043529+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:02:31.8618679+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:05:40.9606478+00:00"
 }

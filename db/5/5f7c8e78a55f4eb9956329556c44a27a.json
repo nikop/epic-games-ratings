@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 255,
+  "EOS_Progressed": 256,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1039,6 +1039,11 @@
       "Time": "2024-01-06T18:05:42.709206+00:00",
       "NumProgressed": 255,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T09:05:39.6844595+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -1049,17 +1054,17 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 207
     },
     {
       "ID": "TINGWD_ANIMAL",
       "SetID": "c0imaa6",
       "Name": "A friend of the animals... or not.",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "TINGWD_BEATEM",
@@ -1115,7 +1120,7 @@
       "Name": "There\u0027s a bug in the soup",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1123,7 +1128,7 @@
       "Name": "A soundly led quest",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -1147,7 +1152,7 @@
       "Name": "It\u0027s not over yet",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -1161,17 +1166,17 @@
       "ID": "TINGWD_CLICKER",
       "SetID": "c0imaa6",
       "Name": "Serial Clicker",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 202
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -1179,7 +1184,7 @@
       "Name": "Private Detective",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1227,7 +1232,7 @@
       "Name": "Have you no shame?",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1251,7 +1256,7 @@
       "Name": "One Punch Man",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "TINGWD_RADAR",
@@ -1267,7 +1272,7 @@
       "Name": "Raiders of the lost game",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "TINGWD_RANDOM",
@@ -1322,14 +1327,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 255,
+      "Progressed": 256,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:07:49.2080124+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:05:39.684459+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.3171345+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:59:34.3578989+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:07:49.2080543+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:58:30.7485357+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:05:39.6844911+00:00"
 }

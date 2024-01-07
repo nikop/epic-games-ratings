@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25062,
+  "EOS_Progressed": 25063,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8841,6 +8841,11 @@
       "Time": "2024-01-07T08:09:27.6195659+00:00",
       "NumProgressed": 25062,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-07T09:08:36.3804235+00:00",
+      "NumProgressed": 25063,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8892,7 +8897,7 @@
       "Name": "Creature Feature",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_GET_GUS",
@@ -8908,7 +8913,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -8916,7 +8921,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -8932,7 +8937,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -8972,7 +8977,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -9004,7 +9009,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -9028,7 +9033,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -9044,7 +9049,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -9203,13 +9208,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25062,
+      "Progressed": 25063,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2355,
+      "Progressed": 2356,
       "Completed": 1376
     }
   ],
@@ -9217,8 +9222,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:09:27.6195654+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:08:36.380423+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.9175912+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:57:53.3973274+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:09:27.6196532+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:57:26.4156073+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:08:36.3805213+00:00"
 }

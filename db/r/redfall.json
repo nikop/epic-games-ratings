@@ -375,9 +375,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2292,
+  "EOS_Progressed": 2293,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4140,6 +4140,11 @@
       "Time": "2024-01-07T07:04:35.2905875+00:00",
       "NumProgressed": 2292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T09:04:34.2324533+00:00",
+      "NumProgressed": 2293,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4287,7 +4292,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "Achievement_020",
@@ -4335,7 +4340,7 @@
       "Name": "Grounded",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Achievement_026",
@@ -4487,7 +4492,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Achievement_046",
@@ -4678,7 +4683,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2292,
+      "Progressed": 2293,
       "Completed": 0
     }
   ],
@@ -4686,8 +4691,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-07T04:01:29.1090541+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:06:12.5887892+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:04:34.2324529+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:59:55.9125759+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:06:12.588868+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:58:44.3713673+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:04:34.2325198+00:00"
 }

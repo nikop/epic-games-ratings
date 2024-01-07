@@ -2,9 +2,9 @@
   "ID": "942b563ee0aa4086a55d8b746aca514d",
   "Name": "Train World",
   "ProductSlug": "train-world-07e156",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 607,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 528,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -153,6 +153,11 @@
     {
       "Time": "2024-01-01T17:03:58.8939142+00:00",
       "NumProgressed": 25,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T09:05:29.9711366+00:00",
+      "NumProgressed": 26,
       "NumCompleted": 0
     }
   ],
@@ -565,14 +570,14 @@
     {
       "ID": "5ia1dkp",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:07:35.1095455+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:05:29.9711364+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.4555683+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:03:41.9972564+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:07:35.1095766+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:02:51.3263974+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:05:29.9711786+00:00"
 }

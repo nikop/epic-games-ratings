@@ -5,8 +5,8 @@
   "Ranking_Rating": 549,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 528,
-  "Ranking_EOS_Progress": 380,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
@@ -294,11 +294,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 348,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.58,
+  "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1634,6 +1634,11 @@
       "Time": "2024-01-07T08:10:06.8377051+00:00",
       "NumProgressed": 347,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T09:09:03.8231225+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1644,9 +1649,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1678,7 +1683,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1718,7 +1723,7 @@
       "Name": "Cult Following",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1782,7 +1787,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1798,7 +1803,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1814,7 +1819,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1838,7 +1843,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1846,7 +1851,7 @@
       "Name": "Die Nasty",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1982,7 +1987,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1990,14 +1995,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 348,
       "Completed": 2
     }
   ],
@@ -2005,8 +2010,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:10:06.8377047+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:09:03.8231221+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:01:47.7379702+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:10:06.8377432+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:59:54.7496246+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:09:03.8231709+00:00"
 }

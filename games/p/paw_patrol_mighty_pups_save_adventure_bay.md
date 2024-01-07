@@ -28,9 +28,9 @@
 | You Have Been Everywhere | 22.00% | ~13 |
 | Everything Under Control | 19.00% | ~11 |
 | Nothing Can Stop You | 12.00% | ~7 |
-| A Great Explorer | 8.00% | ~5 |
+| A Great Explorer | 10.00% | ~6 |
 | King of the Mountain | 5.00% | ~3 |
-| Air Ace | 0.00% | ~0 |
+| Air Ace | 2.00% | ~1 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |

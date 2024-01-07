@@ -5,28 +5,28 @@ Rating: 4.20 (Ranked 961)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~9,815 |
-| Disposing of the Evidence | 38.00% | ~4,494 |
-| Without a Scratch | 34.00% | ~4,021 |
-| Wreckless Driving | 28.00% | ~3,311 |
-| A Marked Man | 25.00% | ~2,956 |
-| Street Sweeper | 19.00% | ~2,247 |
-| Liberty City Minute | 17.00% | ~2,010 |
+| First Day on the Job | 83.00% | ~9,819 |
+| Disposing of the Evidence | 38.00% | ~4,495 |
+| Without a Scratch | 34.00% | ~4,022 |
+| Wreckless Driving | 28.00% | ~3,312 |
+| A Marked Man | 25.00% | ~2,958 |
+| Street Sweeper | 19.00% | ~2,248 |
+| Liberty City Minute | 17.00% | ~2,011 |
 | Offshore Delivery | 14.00% | ~1,656 |
-| Dirty Money | 12.00% | ~1,419 |
-| By a Mile | 10.00% | ~1,182 |
-| Not So Fast | 10.00% | ~1,182 |
-| Right-hand Man | 10.00% | ~1,182 |
+| Dirty Money | 12.00% | ~1,420 |
+| By a Mile | 10.00% | ~1,183 |
+| Not So Fast | 10.00% | ~1,183 |
+| Right-hand Man | 10.00% | ~1,183 |
 | A Gift from the King | 7.00% | ~828 |
 | Full Artillery | 4.00% | ~473 |
 | Mob Boss | 3.00% | ~355 |
-| Escape Artist | 2.00% | ~236 |
-| Got This Figured Out | 2.00% | ~236 |
-| Come Out to Play-y-y-y | 2.00% | ~236 |
-| Where To? | 2.00% | ~236 |
-| Splish Splash | 2.00% | ~236 |
-| Playing Doctor | 2.00% | ~236 |
-| Liberty City Secrets | 2.00% | ~236 |
+| Escape Artist | 2.00% | ~237 |
+| Got This Figured Out | 2.00% | ~237 |
+| Come Out to Play-y-y-y | 2.00% | ~237 |
+| Where To? | 2.00% | ~237 |
+| Splish Splash | 2.00% | ~237 |
+| Playing Doctor | 2.00% | ~237 |
+| Liberty City Secrets | 2.00% | ~237 |
 | Planned Ahead | 1.00% | ~118 |
 | Wheels Up | 1.00% | ~118 |
 | Man Toyz | 1.00% | ~118 |
@@ -35,7 +35,7 @@ Rating: 4.20 (Ranked 961)
 | Is That All You've Got? | 0.90% | ~106 |
 | King of Liberty City | 0.70% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,825 (Ranked 178)  
+Progressed: 11,830 (Ranked 178)  
 Completed: 79 (0.67%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 79 (0.67%) (Ranked 198)
 | 2024-01-04 | 11,553 | 77 |
 | 2024-01-05 | 11,665 | 77 |
 | 2024-01-06 | 11,790 | 79 |
-| 2024-01-07 | 11,825 | 79 |
+| 2024-01-07 | 11,830 | 79 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

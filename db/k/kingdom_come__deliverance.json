@@ -9835,10 +9835,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28769,
       "NumberOfAwardsMax": 7759
+    },
+    {
+      "Time": "2024-01-07T08:57:21.4975523+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28772,
+      "NumberOfAwardsMax": 7759
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28769,
+  "NumberOfAwards": 28772,
   "NumberOfAwardsMax": 7759,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9888,7 +9894,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1694
+      "Count": 1697
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9921,9 +9927,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 816346,
+  "EOS_Progressed": 816348,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1134,
+  "EOS_NewPlayers": 1125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39541,6 +39547,11 @@
       "Time": "2024-01-07T08:11:16.6807449+00:00",
       "NumProgressed": 816346,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-07T09:09:52.8634735+00:00",
+      "NumProgressed": 816348,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -39576,7 +39587,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130615
+      "UsersEstimate": 130616
     },
     {
       "ID": "Awakening",
@@ -39768,7 +39779,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130615
+      "UsersEstimate": 130616
     },
     {
       "ID": "Freud",
@@ -40032,7 +40043,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163269
+      "UsersEstimate": 163270
     },
     {
       "ID": "RevenantOfLedechko",
@@ -40072,7 +40083,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163269
+      "UsersEstimate": 163270
     },
     {
       "ID": "SerialKiller",
@@ -40207,15 +40218,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 816346,
+      "Progressed": 816348,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2024-01-07T03:59:31.0539352+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:11:16.6807441+00:00",
+  "LastChanged": "2024-01-07T08:57:21.4975522+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:09:52.8634731+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.1586279+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:57:45.9055155+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:11:16.6809222+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:57:21.4975528+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:09:52.8636716+00:00"
 }

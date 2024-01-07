@@ -55,7 +55,7 @@
 | City Link | 0.00% | ~0 |
 | Double Trouble | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 609)  
+Progressed: 26 (Ranked 607)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,3 +82,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-27 | 22 | 0 |
 | 2023-12-29 | 24 | 0 |
 | 2024-01-01 | 25 | 0 |
+| 2024-01-07 | 26 | 0 |

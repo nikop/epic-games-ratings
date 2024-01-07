@@ -7,41 +7,41 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~370 |
-| First of many… | 68.00% | ~322 |
-| Helping Hand | 64.00% | ~303 |
+| First of many… | 68.00% | ~323 |
+| Helping Hand | 64.00% | ~304 |
 | Increased Vigor | 59.00% | ~280 |
-| Fight Fire with Fire | 57.00% | ~270 |
+| Fight Fire with Fire | 57.00% | ~271 |
 | Increased Capacity | 54.00% | ~256 |
 | Just the start | 48.00% | ~228 |
-| Perfect Storm | 46.00% | ~218 |
-| All That Glitters | 45.00% | ~213 |
-| Enhance! | 41.00% | ~194 |
+| Perfect Storm | 45.00% | ~214 |
+| All That Glitters | 45.00% | ~214 |
+| Enhance! | 41.00% | ~195 |
 | One Of the Chosen | 39.00% | ~185 |
 | Throne Potato | 39.00% | ~185 |
 | Five's a Crowd | 39.00% | ~185 |
 | Devil's in the Details | 38.00% | ~180 |
-| 25 to Life | 38.00% | ~180 |
-| Salvation | 37.00% | ~175 |
+| Salvation | 37.00% | ~176 |
+| 25 to Life | 37.00% | ~176 |
 | Soul Harvester | 35.00% | ~166 |
-| Unshakable Fortitude | 34.00% | ~161 |
-| Delusions of Grandeur | 33.00% | ~156 |
+| Unshakable Fortitude | 34.00% | ~162 |
+| Delusions of Grandeur | 33.00% | ~157 |
 | I Wanna Rock | 32.00% | ~152 |
 | Maximum Vigor | 31.00% | ~147 |
 | Love Tap | 31.00% | ~147 |
 | For Whom the Bell Tolls | 28.00% | ~133 |
 | Freeze Frame | 27.00% | ~128 |
 | Eat Your Heart Out | 27.00% | ~128 |
-| Unyielding Strength | 26.00% | ~123 |
+| Unyielding Strength | 25.00% | ~119 |
 | Can you restore the Balance? | 24.00% | ~114 |
 | Crowd Source | 24.00% | ~114 |
 | Big Spender | 24.00% | ~114 |
 | Cleanup Crew | 23.00% | ~109 |
-| Demon Meddler | 22.00% | ~104 |
 | Maximum Capacity | 21.00% | ~100 |
+| Demon Meddler | 21.00% | ~100 |
 | Seeing Red | 21.00% | ~100 |
 | Egomaniac | 19.00% | ~90 |
-| Protector of Humanity | 18.00% | ~85 |
-| Everybody Wants to Rule the World | 18.00% | ~85 |
+| Protector of Humanity | 18.00% | ~86 |
+| Everybody Wants to Rule the World | 18.00% | ~86 |
 | Community Outreach | 15.00% | ~71 |
 | A Parting Gift | 13.00% | ~62 |
 | Path of the Horseman | 13.00% | ~62 |
@@ -65,13 +65,13 @@ Number of Ratings: 116  (23.09.2022)
 | "Incredible!" | 3.00% | ~14 |
 | Proceed on your way to Armageddon | 3.00% | ~14 |
 | Keeper of Colossal Automata | 3.00% | ~14 |
-| "Apocalyptic!" | 2.00% | ~9 |
-| "Amazing!" | 2.00% | ~9 |
-| Death Incarnate | 2.00% | ~9 |
+| "Apocalyptic!" | 2.00% | ~10 |
+| "Amazing!" | 2.00% | ~10 |
+| Death Incarnate | 2.00% | ~10 |
 | Quite Proper | 0.80% | ~4 |
 | Beast Mode | 0.80% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474 (Ranked 355)  
+Progressed: 475 (Ranked 355)  
 Completed: 2 (0.42%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 2 (0.42%) (Ranked 234)
 | 2024-01-04 | 422 | 1 |
 | 2024-01-05 | 444 | 1 |
 | 2024-01-06 | 466 | 2 |
-| 2024-01-07 | 474 | 2 |
+| 2024-01-07 | 475 | 2 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 387)  
 Sum: 96 (Ranked 472)  

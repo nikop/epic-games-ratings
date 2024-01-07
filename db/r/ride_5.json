@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3384,
+  "EOS_Progressed": 3385,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8325,6 +8325,11 @@
       "Time": "2024-01-07T08:08:39.1450801+00:00",
       "NumProgressed": 3384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T09:08:03.1878788+00:00",
+      "NumProgressed": 3385,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8345,7 +8350,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8441,7 +8446,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -8527,9 +8532,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "c7hf6a4",
       "Name": "Exhausted but Happy",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -8625,7 +8630,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8633,7 +8638,7 @@
       "Name": "Eat My Dust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8641,7 +8646,7 @@
       "Name": "Champagne Spray",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -8689,7 +8694,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8728,7 +8733,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3384,
+      "Progressed": 3385,
       "Completed": 0
     }
   ],
@@ -8736,8 +8741,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:08:39.1450797+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:08:03.1878784+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:01:36.9590936+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:08:39.1451562+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:59:48.1965755+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:08:03.1879643+00:00"
 }

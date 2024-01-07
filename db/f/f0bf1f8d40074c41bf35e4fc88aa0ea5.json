@@ -152,9 +152,9 @@
       "ID": "GUARDIAN",
       "SetID": "d0gblle",
       "Name": "Hellfire",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HEART",
@@ -239,8 +239,8 @@
   ],
   "FirstSeen": "2023-12-29T14:58:56.0005709+00:00",
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:08:58.5770005+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:08:16.5229207+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.9956497+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:00:00.5198479+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:08:58.577014+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:58:47.3955402+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:08:16.5229418+00:00"
 }

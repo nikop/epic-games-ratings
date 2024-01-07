@@ -383,9 +383,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7198,
+  "EOS_Progressed": 7201,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8543,6 +8543,11 @@
       "Time": "2024-01-07T08:09:40.9511906+00:00",
       "NumProgressed": 7198,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T09:08:45.7573774+00:00",
+      "NumProgressed": 7201,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8600,9 +8605,9 @@
       "ID": "BeyondTheCall",
       "SetID": "bmkn7o4",
       "Name": "Beyond the Call of Dude-y",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 14
     },
     {
       "ID": "Brahdyssey",
@@ -8952,9 +8957,9 @@
       "ID": "StrikingResemblance",
       "SetID": "bmkn7o4",
       "Name": "A Striking Resemblance",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 14
     },
     {
       "ID": "Succeed",
@@ -8984,9 +8989,9 @@
       "ID": "TM_Frank",
       "SetID": "bmkn7o4",
       "Name": "Howz It Goin Dood",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 14
     },
     {
       "ID": "TM_Madison",
@@ -9105,21 +9110,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4237,
+      "Progressed": 4240,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7198,
+      "Progressed": 7201,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:09:40.9511902+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:08:45.757377+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.9696266+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:01:54.4461633+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:09:40.9512732+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:59:58.9184422+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:08:45.7574866+00:00"
 }

@@ -10,10 +10,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Cavalier | 26.00% | ~212,250 |
 | Fatso | 23.00% | ~187,760 |
 | Awakening | 21.00% | ~171,433 |
-| Ranger | 20.00% | ~163,269 |
-| Scrooge | 20.00% | ~163,269 |
-| Anorectic | 16.00% | ~130,615 |
-| Firestarter | 16.00% | ~130,615 |
+| Ranger | 20.00% | ~163,270 |
+| Scrooge | 20.00% | ~163,270 |
+| Anorectic | 16.00% | ~130,616 |
+| Firestarter | 16.00% | ~130,616 |
 | Bookworm | 15.00% | ~122,452 |
 | Insomniac | 13.00% | ~106,125 |
 | Buddy | 12.00% | ~97,962 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~816 |
 | Wingman | 0.10% | ~816 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 816,346 (Ranked 20)  
+Progressed: 816,348 (Ranked 20)  
 Completed: 53 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,10 +351,10 @@ Completed: 53 (0.01%) (Ranked 371)
 | 2024-01-04 | 815,980 | 53 |
 | 2024-01-05 | 816,132 | 53 |
 | 2024-01-06 | 816,306 | 53 |
-| 2024-01-07 | 816,346 | 53 |
+| 2024-01-07 | 816,348 | 53 |
 ## Awards
 Max (Character Customization): 7,759  (Ranked 53)  
-Sum: 28,769 (Ranked 50)  
+Sum: 28,772 (Ranked 50)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -366,7 +366,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 1,723 |
 | This game is Extremely Fun | 1,716 |
 | This game has Realistic Visuals | 1,701 |
-| This game has Amazing Characters | 1,694 |
+| This game has Amazing Characters | 1,697 |
 | This game is Educational | 1,636 |
 | This game is Relaxing | 1,561 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -718,4 +718,4 @@ Diff (max vs sum): 3
 | 2024-01-04 | 4.71 | - | 7,743 | 28,738 |
 | 2024-01-05 | 4.71 | - | 7,750 | 28,756 |
 | 2024-01-06 | 4.71 | - | 7,750 | 28,760 |
-| 2024-01-07 | 4.71 | - | 7,759 | 28,769 |
+| 2024-01-07 | 4.71 | - | 7,759 | 28,772 |

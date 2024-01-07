@@ -10522,10 +10522,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21491,
       "NumberOfAwardsMax": 7972
+    },
+    {
+      "Time": "2024-01-07T08:57:23.0514677+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21493,
+      "NumberOfAwardsMax": 7972
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21491,
+  "NumberOfAwards": 21493,
   "NumberOfAwardsMax": 7972,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10557,7 +10563,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1670
+      "Count": 1672
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10602,9 +10608,9 @@
       "Count": 1083
     }
   ],
-  "EOS_Progressed": 132001,
+  "EOS_Progressed": 132003,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1093,
+  "EOS_NewPlayers": 1090,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38717,6 +38723,11 @@
       "Time": "2024-01-07T08:10:49.2115428+00:00",
       "NumProgressed": 132001,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T09:09:33.1963915+00:00",
+      "NumProgressed": 132003,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39359,21 +39370,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132001,
+      "Progressed": 132003,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6870,
+      "Progressed": 6872,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-07T04:57:26.8113463+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:10:49.2115426+00:00",
+  "LastChanged": "2024-01-07T08:57:23.0514675+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:09:33.1963911+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:57:48.3802702+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:10:49.2117189+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:57:23.051468+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:09:33.1965882+00:00"
 }

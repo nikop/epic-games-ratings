@@ -5,7 +5,7 @@ Rating: 3.67 (Ranked 1,090)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 20.00% | ~458 |
+| I Like My Stakes Rare! | 20.00% | ~459 |
 | Catch and Release | 15.00% | ~344 |
 | Home Is Where the Heart Is | 14.00% | ~321 |
 | ICU | 13.00% | ~298 |
@@ -19,8 +19,8 @@ Rating: 3.67 (Ranked 1,090)
 | Enter of Your Own Free Will | 8.00% | ~183 |
 | Welcome to the Neighborhood | 8.00% | ~183 |
 | Heart Attack | 8.00% | ~183 |
-| Grounded | 7.00% | ~160 |
-| Skin of Their Teeth | 7.00% | ~160 |
+| Grounded | 7.00% | ~161 |
+| Skin of Their Teeth | 7.00% | ~161 |
 | Bad Wiring | 6.00% | ~138 |
 | Neighborhood Revitalization | 5.00% | ~115 |
 | Radio Silence | 5.00% | ~115 |
@@ -72,7 +72,7 @@ Rating: 3.67 (Ranked 1,090)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,292 (Ranked 242)  
+Progressed: 2,293 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 2,253 | 0 |
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,286 | 0 |
-| 2024-01-07 | 2,292 | 0 |
+| 2024-01-07 | 2,293 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 553)  
 Sum: 24 (Ranked 559)  

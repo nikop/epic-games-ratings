@@ -474,9 +474,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 474,
+  "EOS_Progressed": 475,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1769,6 +1769,11 @@
       "Time": "2024-01-07T07:08:26.1478021+00:00",
       "NumProgressed": 474,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T09:08:19.6072733+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1787,9 +1792,9 @@
       "ID": "Collect_AdamantineMedium_30",
       "SetID": "7a5k76n",
       "Name": "Unyielding Strength",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 119
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -1805,7 +1810,7 @@
       "Name": "Unshakable Fortitude",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -1869,7 +1874,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1891,9 +1896,9 @@
       "ID": "Collect_Hollow_Storm",
       "SetID": "7a5k76n",
       "Name": "Perfect Storm",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 214
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -1933,7 +1938,7 @@
       "Name": "Salvation",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -1957,7 +1962,7 @@
       "Name": "Enhance!",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1981,7 +1986,7 @@
       "Name": "\u0022Apocalyptic!\u0022",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Crucible_Wave_25",
@@ -2005,7 +2010,7 @@
       "Name": "\u0022Amazing!\u0022",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Game_Complete",
@@ -2013,7 +2018,7 @@
       "Name": "Protector of Humanity",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Game_CompleteApocolyptic",
@@ -2021,7 +2026,7 @@
       "Name": "Death Incarnate",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Game_CompleteNGPlus",
@@ -2083,9 +2088,9 @@
       "ID": "Kill_Demon_Abraxis",
       "SetID": "7a5k76n",
       "Name": "Demon Meddler",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -2117,7 +2122,7 @@
       "Name": "All That Glitters",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -2125,7 +2130,7 @@
       "Name": "Everybody Wants to Rule the World",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Kill_Sin_Envy",
@@ -2149,7 +2154,7 @@
       "Name": "Delusions of Grandeur",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -2189,7 +2194,7 @@
       "Name": "Helping Hand",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "Save_Humans_10",
@@ -2237,15 +2242,15 @@
       "Name": "First of many\u2026",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 176
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2292,15 +2297,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 474,
+      "Progressed": 475,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:09:02.9736363+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:08:19.6072728+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:01:24.5964272+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:09:02.9736843+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:59:40.3280454+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:08:19.6073339+00:00"
 }

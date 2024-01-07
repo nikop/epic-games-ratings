@@ -6,14 +6,15 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 2.00% | ~323 |
-| Play a Single Player Game | 2.00% | ~323 |
+| Settler | 2.00% | ~324 |
+| Play a Single Player Game | 2.00% | ~324 |
 | Able | 1.00% | ~162 |
 | Architect | 1.00% | ~162 |
 | Explorer | 1.00% | ~162 |
 | Good | 1.00% | ~162 |
 | Intrepid | 1.00% | ~162 |
 | Mason | 1.00% | ~162 |
+| Noble | 1.00% | ~162 |
 | Strong | 1.00% | ~162 |
 | Friendly Family | 1.00% | ~162 |
 | Hanging Gardens | 1.00% | ~162 |
@@ -21,7 +22,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.90% | ~146 |
 | Keystone | 0.90% | ~146 |
 | Learned | 0.90% | ~146 |
-| Noble | 0.90% | ~146 |
 | Pioneer | 0.90% | ~146 |
 | Pyramids | 0.90% | ~146 |
 | Judaism | 0.90% | ~146 |
@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.70% | ~113 |
 | Magnificent | 0.70% | ~113 |
 | Ishtar Gate | 0.70% | ~113 |
+| Lighthouse | 0.70% | ~113 |
 | Christianity | 0.70% | ~113 |
 | Roman Paganism | 0.70% | ~113 |
 | Zoroastrianism | 0.70% | ~113 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.60% | ~97 |
 | Apadana | 0.60% | ~97 |
 | Great Ziggurat | 0.60% | ~97 |
-| Lighthouse | 0.60% | ~97 |
 | Learn to Play 2 | 0.60% | ~97 |
 | Carthaginian Paganism | 0.60% | ~97 |
 | Beloved | 0.50% | ~81 |
@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.40% | ~65 |
 | Learn to Play 3 | 0.40% | ~65 |
 | Power to the People | 0.40% | ~65 |
+| Persian Paganism | 0.40% | ~65 |
 | Building Wonders | 0.40% | ~65 |
 | Mythology | 0.40% | ~65 |
 | Points Victory | 0.40% | ~65 |
@@ -97,11 +98,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.30% | ~49 |
 | Greece | 0.30% | ~49 |
 | Assyrian Paganism | 0.30% | ~49 |
-| Persian Paganism | 0.30% | ~49 |
 | Economic Reform | 0.30% | ~49 |
+| Industrial Progress | 0.30% | ~49 |
 | Military Prestige | 0.30% | ~49 |
 | Dualism | 0.30% | ~49 |
 | Enlightenment | 0.30% | ~49 |
+| Legalism | 0.30% | ~49 |
 | Cimmerian Archer | 0.30% | ~49 |
 | Legionary | 0.30% | ~49 |
 | Double Victory | 0.30% | ~49 |
@@ -124,9 +126,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.20% | ~32 |
 | One True Faith | 0.20% | ~32 |
 | Hittite Paganism | 0.20% | ~32 |
-| Industrial Progress | 0.20% | ~32 |
 | Gnosticism | 0.20% | ~32 |
-| Legalism | 0.20% | ~32 |
 | Redemption | 0.20% | ~32 |
 | Revelation | 0.20% | ~32 |
 | Veneration | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,174 (Ranked 168)  
+Progressed: 16,176 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
-| 2024-01-07 | 16,174 | 5 |
+| 2024-01-07 | 16,176 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 222)  

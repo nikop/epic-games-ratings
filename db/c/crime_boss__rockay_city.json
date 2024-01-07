@@ -5445,9 +5445,9 @@
       "Count": 537
     }
   ],
-  "EOS_Progressed": 93160,
+  "EOS_Progressed": 93163,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30625,6 +30625,11 @@
       "Time": "2024-01-07T08:08:29.0798106+00:00",
       "NumProgressed": 93160,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-07T09:06:06.8168466+00:00",
+      "NumProgressed": 93163,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30636,7 +30641,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3726
+      "UsersEstimate": 3727
     },
     {
       "ID": "ACH_0011",
@@ -30706,9 +30711,9 @@
       "ID": "ACH_0030",
       "SetID": "3kam13l",
       "Name": "Savvy Seeker",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_0040",
@@ -30780,7 +30785,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3726
+      "UsersEstimate": 3727
     },
     {
       "ID": "ACH_0210",
@@ -30788,7 +30793,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3726
+      "UsersEstimate": 3727
     },
     {
       "ID": "ACH_0211",
@@ -30963,13 +30968,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93160,
+      "Progressed": 93163,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21507,
+      "Progressed": 21510,
       "Completed": 15596
     }
   ],
@@ -30977,8 +30982,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-06T21:59:56.7593035+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:08:29.0798101+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:06:06.8168462+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:00:00.7180789+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:08:29.0799513+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:58:47.5137631+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:06:06.8170036+00:00"
 }

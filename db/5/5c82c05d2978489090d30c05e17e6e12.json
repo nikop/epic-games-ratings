@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -263,10 +263,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73722,
-  "EOS_Completed": 111,
-  "EOS_NewPlayers": 1832,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 73731,
+  "EOS_Completed": 112,
+  "EOS_NewPlayers": 1834,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -6413,6 +6413,11 @@
       "Time": "2024-01-07T08:09:08.1238106+00:00",
       "NumProgressed": 73722,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2024-01-07T09:08:23.2447777+00:00",
+      "NumProgressed": 73731,
+      "NumCompleted": 112
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6425,7 +6430,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27277
+      "UsersEstimate": 27280
     },
     {
       "ID": "Achievement_10",
@@ -6441,7 +6446,7 @@
       "Name": "Owls of the Nest",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Achievement_12",
@@ -6465,7 +6470,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "Achievement_15",
@@ -6513,7 +6518,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20642
+      "UsersEstimate": 20645
     },
     {
       "ID": "Achievement_20",
@@ -6537,7 +6542,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "Achievement_23",
@@ -6585,7 +6590,7 @@
       "Name": "A Better World",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Achievement_29",
@@ -6601,7 +6606,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8847
+      "UsersEstimate": 8848
     },
     {
       "ID": "Achievement_30",
@@ -6625,7 +6630,7 @@
       "Name": "Art Director",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "Achievement_33",
@@ -6649,7 +6654,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6635
+      "UsersEstimate": 6636
     },
     {
       "ID": "Achievement_5",
@@ -6696,16 +6701,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 73722,
-      "Completed": 111
+      "Progressed": 73731,
+      "Completed": 112
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-05T18:03:34.6922579+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:09:08.1238103+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:08:23.2447772+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:03:47.5862691+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:09:08.1238606+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:02:54.7911573+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:08:23.2448312+00:00"
 }

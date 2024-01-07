@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 84.00% | ~292 |
-| Purification Pioneer | 79.00% | ~275 |
+| Meissa's Savior | 84.00% | ~293 |
+| Purification Pioneer | 79.00% | ~276 |
 | Mechanical Buddy | 74.00% | ~258 |
-| Dicesmithing Time! | 65.00% | ~226 |
-| Sanctuary Guardian | 55.00% | ~191 |
-| Endless Tricks | 51.00% | ~177 |
-| Wild's Keeper | 48.00% | ~167 |
-| Mind Illuminator | 44.00% | ~153 |
-| Stellar Dismantler | 38.00% | ~132 |
-| Astral Adventurer | 35.00% | ~122 |
+| Dicesmithing Time! | 65.00% | ~227 |
+| Sanctuary Guardian | 55.00% | ~192 |
+| Endless Tricks | 51.00% | ~178 |
+| Wild's Keeper | 48.00% | ~168 |
+| Mind Illuminator | 44.00% | ~154 |
+| Stellar Dismantler | 38.00% | ~133 |
+| Astral Adventurer | 36.00% | ~126 |
 | Noctuan Champion | 35.00% | ~122 |
-| Anomaly Destroyer | 32.00% | ~111 |
+| Anomaly Destroyer | 32.00% | ~112 |
 | Star Killer | 31.00% | ~108 |
-| Eridanian Champion | 26.00% | ~90 |
+| Eridanian Champion | 26.00% | ~91 |
 | Loyal Partner | 22.00% | ~77 |
 | Lacertian Champion | 21.00% | ~73 |
 | Shard Spender | 19.00% | ~66 |
@@ -37,11 +37,11 @@
 | Anomaly Control | 5.00% | ~17 |
 | Artificer | 5.00% | ~17 |
 | Can't touch this | 5.00% | ~17 |
+| Prestidigitation | 5.00% | ~17 |
 | Apian Hero | 5.00% | ~17 |
 | Astrarium of Holding | 4.00% | ~14 |
 | Denying Destiny | 4.00% | ~14 |
 | If I Had Failed... | 4.00% | ~14 |
-| Prestidigitation | 4.00% | ~14 |
 | The Chaos Artisan | 4.00% | ~14 |
 | The Dark Moon | 4.00% | ~14 |
 | Behenian Hero | 4.00% | ~14 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348 (Ranked 378)  
+Progressed: 349 (Ranked 378)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,4 +176,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 324 | 0 |
 | 2024-01-05 | 340 | 0 |
 | 2024-01-06 | 347 | 0 |
-| 2024-01-07 | 348 | 0 |
+| 2024-01-07 | 349 | 0 |

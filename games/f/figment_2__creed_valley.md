@@ -8,8 +8,8 @@
 | Remembering of the past | 46.00% | ~31 |
 | Fight like an idiot | 37.00% | ~25 |
 | Ouch, that hurt! | 36.00% | ~24 |
-| Slam-KABAM | 31.00% | ~21 |
-| Heavy Thoughts | 25.00% | ~17 |
+| Slam-KABAM | 33.00% | ~22 |
+| Heavy Thoughts | 27.00% | ~18 |
 | A heavy thinker | 24.00% | ~16 |
 | Flee like an idiot | 22.00% | ~15 |
 | Repair the Mind Validation Machine | 19.00% | ~13 |

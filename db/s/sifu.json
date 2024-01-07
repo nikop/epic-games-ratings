@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8713,10 +8713,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12615,
       "NumberOfAwardsMax": 7131
+    },
+    {
+      "Time": "2024-01-07T09:02:53.450271+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12617,
+      "NumberOfAwardsMax": 7131
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12615,
+  "NumberOfAwards": 12617,
   "NumberOfAwardsMax": 7131,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8784,7 +8790,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 602
+      "Count": 604
     },
     {
       "Text": "This game has a Creative Community",
@@ -8793,9 +8799,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 756194,
+  "EOS_Progressed": 756240,
   "EOS_Completed": 12976,
-  "EOS_NewPlayers": 6497,
+  "EOS_NewPlayers": 6481,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32688,6 +32694,11 @@
       "Time": "2024-01-07T08:10:11.5744633+00:00",
       "NumProgressed": 756194,
       "NumCompleted": 12976
+    },
+    {
+      "Time": "2024-01-07T09:09:07.1318423+00:00",
+      "NumProgressed": 756240,
+      "NumCompleted": 12976
     }
   ],
   "TotalAchievements": 60,
@@ -32699,7 +32710,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37810
+      "UsersEstimate": 37812
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32707,7 +32718,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30248
+      "UsersEstimate": 30250
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32715,7 +32726,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22686
+      "UsersEstimate": 22687
     },
     {
       "ID": "04_Vengeance_H3",
@@ -32723,7 +32734,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "05_Vengeance_H4",
@@ -32731,7 +32742,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "06_Vengeance_H5",
@@ -32803,7 +32814,7 @@
       "Name": "Kill Nil",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "15_Detective_H1",
@@ -32851,7 +32862,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -32867,7 +32878,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -32875,7 +32886,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37810
+      "UsersEstimate": 37812
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32883,7 +32894,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "25_ShrineMind",
@@ -32899,7 +32910,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "27_ShrineBody",
@@ -32907,7 +32918,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -32931,7 +32942,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "31_ComboHigh",
@@ -32947,7 +32958,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22686
+      "UsersEstimate": 22687
     },
     {
       "ID": "33_BladeOneShot",
@@ -32963,7 +32974,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30248
+      "UsersEstimate": 30250
     },
     {
       "ID": "35_WideStrike",
@@ -32979,7 +32990,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -32987,7 +32998,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -33043,7 +33054,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -33067,7 +33078,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -33107,7 +33118,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -33131,7 +33142,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -33139,7 +33150,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "57_Arena_Car",
@@ -33147,7 +33158,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "58_Arena_Music",
@@ -33171,28 +33182,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 65495,
+      "Progressed": 65541,
       "Completed": 10800
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 756194,
+      "Progressed": 756240,
       "Completed": 12976
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-06T22:04:00.6316192+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:10:11.5744628+00:00",
+  "LastChanged": "2024-01-07T09:02:53.4502709+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:09:07.1318419+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:03:45.4540409+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:10:11.5746283+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:02:53.4502714+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:09:07.1320349+00:00"
 }

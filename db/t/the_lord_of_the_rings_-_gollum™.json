@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1993,6 +1993,11 @@
       "Time": "2024-01-07T05:03:38.6029488+00:00",
       "NumProgressed": 681,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T09:03:19.2118492+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2004,7 +2009,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "BreakLegs",
@@ -2028,7 +2033,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "Chapter10",
@@ -2060,7 +2065,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Chapter5",
@@ -2108,7 +2113,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "Collectibles2",
@@ -2291,14 +2296,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:04:23.4148331+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:03:19.2118488+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.7354128+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:57:59.8366372+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:04:23.414871+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:57:31.0201588+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:03:19.2118835+00:00"
 }

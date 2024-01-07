@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1650,
+  "EOS_Progressed": 1651,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 0,
@@ -2104,6 +2104,11 @@
       "Time": "2024-01-07T06:09:33.0377381+00:00",
       "NumProgressed": 1650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T09:09:01.6600559+00:00",
+      "NumProgressed": 1651,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -2228,7 +2233,7 @@
       "Name": "Upcoming force",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "PODIUM_3",
@@ -2250,9 +2255,9 @@
       "ID": "RESEARCHED_2",
       "SetID": "4nk2039",
       "Name": "Generation 2",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 413
     },
     {
       "ID": "RESEARCHED_3",
@@ -2284,7 +2289,7 @@
       "Name": "Generation 6",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "RESEARCHED_7",
@@ -2340,7 +2345,7 @@
       "Name": "Multiple race winner",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "WIN_HORICE",
@@ -2395,14 +2400,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 1650,
+      "Progressed": 1651,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:10:03.86117+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:09:01.6600554+00:00",
   "LastUpdate_AppInfo": "2024-01-01T01:53:25.5000764+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:58:26.6593288+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:10:03.8612035+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:57:47.7253272+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:09:01.6600947+00:00"
 }

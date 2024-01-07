@@ -2,9 +2,9 @@
   "ID": "a4b5203877a04321bd1989cef6ba51dc",
   "Name": "One Hand Clapping",
   "ProductSlug": "one-hand-clapping",
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 881,
+  "EOS_Progressed": 886,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -704,6 +704,11 @@
       "Time": "2024-01-07T08:07:01.2490103+00:00",
       "NumProgressed": 881,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T09:05:06.7993895+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -715,7 +720,7 @@
       "Name": "Silent City",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "10",
@@ -921,9 +926,9 @@
       "ID": "8",
       "SetID": "7l2nmpm",
       "Name": "Fermata",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 27
     },
     {
       "ID": "9",
@@ -938,7 +943,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 881,
+      "Progressed": 886,
       "Completed": 0
     }
   ],
@@ -946,8 +951,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:07:01.24901+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:05:06.7993889+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.3557849+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:59:37.1228414+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:07:01.2490291+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:58:32.8482755+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:05:06.7994163+00:00"
 }

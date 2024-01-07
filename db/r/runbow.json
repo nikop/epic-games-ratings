@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253202,
+  "EOS_Progressed": 253204,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
@@ -23482,6 +23482,11 @@
       "Time": "2024-01-07T07:09:54.1407005+00:00",
       "NumProgressed": 253202,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T09:09:45.7171911+00:00",
+      "NumProgressed": 253204,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23517,7 +23522,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53172
+      "UsersEstimate": 53173
     },
     {
       "ID": "blotbuster",
@@ -23549,7 +23554,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43044
+      "UsersEstimate": 43045
     },
     {
       "ID": "cantBeKeptDown",
@@ -23565,7 +23570,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37980
+      "UsersEstimate": 37981
     },
     {
       "ID": "clearCut",
@@ -23589,7 +23594,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45576
+      "UsersEstimate": 45577
     },
     {
       "ID": "curator",
@@ -23597,7 +23602,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50640
+      "UsersEstimate": 50641
     },
     {
       "ID": "didYourTime",
@@ -23669,7 +23674,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134197
+      "UsersEstimate": 134198
     },
     {
       "ID": "indegestible",
@@ -23725,7 +23730,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35448
+      "UsersEstimate": 35449
     },
     {
       "ID": "myFirstRunbow",
@@ -23733,7 +23738,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126601
+      "UsersEstimate": 126602
     },
     {
       "ID": "notScared",
@@ -23797,7 +23802,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58236
+      "UsersEstimate": 58237
     },
     {
       "ID": "thunderstruck",
@@ -23813,7 +23818,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32916
+      "UsersEstimate": 32917
     },
     {
       "ID": "treeMedalist",
@@ -23853,14 +23858,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40512
+      "UsersEstimate": 40513
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253202,
+      "Progressed": 253204,
       "Completed": 6
     }
   ],
@@ -23868,8 +23873,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:11:07.1952369+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:09:45.7171906+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:57:12.4434968+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:11:07.1953526+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:56:59.7897838+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:09:45.7173681+00:00"
 }

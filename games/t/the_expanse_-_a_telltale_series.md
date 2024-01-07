@@ -11,9 +11,9 @@ Rating: 4.53 (Ranked 564)
 | Bosmang | 13.00% | ~2,403 |
 | Celebrations are in Order | 13.00% | ~2,403 |
 | Impossible Objects | 13.00% | ~2,403 |
-| The Pit and the Pirates | 12.00% | ~2,218 |
-| Drone Dodger | 12.00% | ~2,218 |
-| Spore Taste | 11.00% | ~2,033 |
+| The Pit and the Pirates | 12.00% | ~2,219 |
+| Drone Dodger | 12.00% | ~2,219 |
+| Spore Taste | 11.00% | ~2,034 |
 | Stogie for Fogey | 10.00% | ~1,849 |
 | Zen Master | 10.00% | ~444 |
 | Call it Even | 9.00% | ~1,664 |
@@ -27,9 +27,9 @@ Rating: 4.53 (Ranked 564)
 | Khan's Revenge | 7.00% | ~1,294 |
 | Doctor Approved | 6.00% | ~1,109 |
 | Bottoms up! | 6.00% | ~1,109 |
-| Master Negotiator | 6.00% | ~266 |
-| Data Logger | 4.00% | ~739 |
-| Miraculous Maya | 4.00% | ~739 |
+| Master Negotiator | 6.00% | ~267 |
+| Data Logger | 4.00% | ~740 |
+| Miraculous Maya | 4.00% | ~740 |
 | Data Master | 3.00% | ~555 |
 | Brother's Reaper | 2.00% | ~370 |
 | No Belter Left Behind | 2.00% | ~370 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 564)
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,486 (Ranked 159)  
+Progressed: 18,488 (Ranked 159)  
 Completed: 59 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 59 (0.32%) (Ranked 248)
 | 2024-01-04 | 18,213 | 58 |
 | 2024-01-05 | 18,329 | 58 |
 | 2024-01-06 | 18,440 | 59 |
-| 2024-01-07 | 18,486 | 59 |
+| 2024-01-07 | 18,488 | 59 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

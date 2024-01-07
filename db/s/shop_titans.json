@@ -8047,9 +8047,9 @@
       "Count": 3815
     }
   ],
-  "EOS_Progressed": 150053,
+  "EOS_Progressed": 150061,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1454,
+  "EOS_NewPlayers": 1453,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35687,6 +35687,11 @@
       "Time": "2024-01-07T08:09:12.5910773+00:00",
       "NumProgressed": 150053,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-07T09:08:26.3067786+00:00",
+      "NumProgressed": 150061,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -35778,7 +35783,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9003
+      "UsersEstimate": 9004
     },
     {
       "ID": "bigsale02",
@@ -35866,7 +35871,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15005
+      "UsersEstimate": 15006
     },
     {
       "ID": "chest02",
@@ -35930,7 +35935,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15005
+      "UsersEstimate": 15006
     },
     {
       "ID": "commonres02",
@@ -36050,7 +36055,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9003
+      "UsersEstimate": 9004
     },
     {
       "ID": "energy02",
@@ -36282,7 +36287,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9003
+      "UsersEstimate": 9004
     },
     {
       "ID": "level02",
@@ -36386,7 +36391,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "masterpiece",
@@ -36514,7 +36519,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15005
+      "UsersEstimate": 15006
     },
     {
       "ID": "twinenchant01",
@@ -36562,7 +36567,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9003
+      "UsersEstimate": 9004
     },
     {
       "ID": "workers02",
@@ -36593,15 +36598,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150053,
+      "Progressed": 150061,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-07T01:58:03.9645227+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:09:12.5910768+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:08:26.3067781+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:03:59.2748634+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:09:12.5913289+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:03:02.5735093+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:08:26.3069905+00:00"
 }

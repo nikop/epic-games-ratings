@@ -4,7 +4,7 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 625,
+  "EOS_Progressed": 627,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2641,6 +2641,11 @@
       "Time": "2024-01-07T04:12:16.2092226+00:00",
       "NumProgressed": 625,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T09:09:25.7423968+00:00",
+      "NumProgressed": 627,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2668,7 +2673,7 @@
       "Name": "Bad Blood",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_BLOODSTORM",
@@ -2891,7 +2896,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 625,
+      "Progressed": 627,
       "Completed": 1
     }
   ],
@@ -2899,8 +2904,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2024-01-07T08:10:38.9705829+00:00",
+  "LastChanged_Achievements": "2024-01-07T09:09:25.7423963+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:19.4523339+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:57:37.6758049+00:00",
-  "LastUpdate_Achievements": "2024-01-07T08:10:38.9706179+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:57:16.5023657+00:00",
+  "LastUpdate_Achievements": "2024-01-07T09:09:25.7424375+00:00"
 }
