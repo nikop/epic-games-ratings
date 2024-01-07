@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~893 |
+| Malpractice Assurance | 13.00% | ~894 |
 | Lost and Found | 8.00% | ~550 |
-| Autodidact | 7.00% | ~9,240 |
-| This Belongs in a Museum | 6.00% | ~7,920 |
-| Creep and Sleep | 6.00% | ~7,920 |
-| Overdue Notice | 6.00% | ~7,920 |
-| This guy... again? | 6.00% | ~412 |
-| Ploughshares to Swords | 6.00% | ~412 |
+| Autodidact | 7.00% | ~9,241 |
+| This Belongs in a Museum | 6.00% | ~7,921 |
+| Creep and Sleep | 6.00% | ~7,921 |
+| Overdue Notice | 6.00% | ~7,921 |
+| This guy... again? | 6.00% | ~413 |
+| Ploughshares to Swords | 6.00% | ~413 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,600 |
 | Serenity Now! | 5.00% | ~6,600 |
 | Meat and Greet | 5.00% | ~6,600 |
@@ -74,7 +74,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.50% | ~660 |
 | Eidetic | 0.50% | ~660 |
 | On This Long Road, We Found Redemption | 0.50% | ~34 |
-| Battle Hardened | 0.40% | ~27 |
+| Battle Hardened | 0.40% | ~28 |
 | Tears in the Rain | 0.30% | ~396 |
 | Maître De La Lame | 0.30% | ~21 |
 | Circle of Life | 0.20% | ~264 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,003 (Ranked 91)  
+Progressed: 132,009 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 132,003 | 3 |
+| 2024-01-07 | 132,009 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
 Sum: 21,493 (Ranked 58)  

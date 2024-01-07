@@ -3,11 +3,11 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 448,
-  "Ranking_Popularity": 274,
+  "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1701,7 +1701,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247005,
+  "EOS_Progressed": 247015,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 1318,
   "EOS_NewCompleters": 0,
@@ -25266,6 +25266,11 @@
       "Time": "2024-01-07T09:09:55.1927248+00:00",
       "NumProgressed": 247005,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-07T10:11:24.8295633+00:00",
+      "NumProgressed": 247015,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25325,7 +25330,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19760
+      "UsersEstimate": 19761
     },
     {
       "ID": "Chapter2",
@@ -25333,7 +25338,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "Chapter3",
@@ -25341,7 +25346,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9880
+      "UsersEstimate": 9881
     },
     {
       "ID": "Chapter4",
@@ -25677,7 +25682,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22230
+      "UsersEstimate": 22231
     },
     {
       "ID": "DwarfElf15Support",
@@ -25709,7 +25714,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14820
+      "UsersEstimate": 14821
     },
     {
       "ID": "ElfEpic",
@@ -25725,7 +25730,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88922
+      "UsersEstimate": 88925
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25741,7 +25746,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "EndCombatOneHp",
@@ -25749,7 +25754,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "EndGameCursed",
@@ -25773,7 +25778,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24700
+      "UsersEstimate": 24702
     },
     {
       "ID": "FollowBraztok",
@@ -25925,7 +25930,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14820
+      "UsersEstimate": 14821
     },
     {
       "ID": "SupportCount4",
@@ -25973,28 +25978,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9880
+      "UsersEstimate": 9881
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247005,
+      "Progressed": 247015,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247005,
+      "Progressed": 247015,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-06T10:59:51.0086545+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:09:55.1927238+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:11:24.8295629+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:19.0742261+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:09:55.1930137+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:59:00.8426793+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:11:24.8297291+00:00"
 }

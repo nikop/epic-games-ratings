@@ -31,11 +31,11 @@ Number of Ratings: 45  (23.09.2022)
 | Some Say I'm Too Flashy | 1.00% | ~16 |
 | Legends Never Die | 0.90% | ~14 |
 | In Soil, In Smoke | 0.90% | ~14 |
+| Bears are Scary | 0.80% | ~13 |
 | No Time for Clawmonsters | 0.80% | ~13 |
 | Worldwalker | 0.70% | ~11 |
 | Plague Doctor | 0.70% | ~11 |
 | All My Birds, Safely Home | 0.70% | ~11 |
-| Bears are Scary | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | Tempest | 0.70% | ~11 |
 | Storied Past | 0.60% | ~10 |

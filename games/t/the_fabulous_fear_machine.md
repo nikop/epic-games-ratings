@@ -10,7 +10,7 @@
 | The battle of Great Britain | 36.00% | ~31 |
 | Pulp! Where Monsters Dwell | 30.00% | ~26 |
 | A continent with chemistry | 28.00% | ~24 |
-| The happy farmer girl | 26.00% | ~22 |
+| The happy farmer girl | 25.00% | ~22 |
 | Pulp! Terror Tales in the Night | 23.00% | ~20 |
 | Giant | 22.00% | ~19 |
 | A rival with no options | 21.00% | ~18 |
@@ -18,7 +18,7 @@
 | Pulp! Out of this World | 21.00% | ~18 |
 | Diagnosis: fear | 21.00% | ~18 |
 | Ambition is... blind | 21.00% | ~18 |
-| You have two wishes left | 19.00% | ~16 |
+| You have two wishes left | 18.00% | ~16 |
 | The seer | 17.00% | ~15 |
 | Pulp! Adventures into the Unknown | 17.00% | ~15 |
 | Et in arcadia ego | 16.00% | ~14 |
@@ -27,8 +27,8 @@
 | Hate is... addictive | 14.00% | ~12 |
 | Kirlian's best disciple | 14.00% | ~12 |
 | Welcome to Hellville | 14.00% | ~12 |
-| Blessed antennas | 12.00% | ~10 |
-| The bully | 12.00% | ~10 |
+| Blessed antennas | 11.00% | ~10 |
+| The bully | 11.00% | ~10 |
 | Blood Red Island | 10.00% | ~9 |
 | Bread and bocaua | 10.00% | ~9 |
 | Fanatacism is... poisonous | 10.00% | ~9 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86 (Ranked 502)  
+Progressed: 87 (Ranked 502)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,4 +99,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 79 | 0 |
 | 2024-01-04 | 83 | 0 |
 | 2024-01-05 | 84 | 0 |
-| 2024-01-07 | 86 | 0 |
+| 2024-01-07 | 87 | 0 |

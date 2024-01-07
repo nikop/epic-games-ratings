@@ -5,7 +5,7 @@
   "Ranking_Rating": 879,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 155,
@@ -571,7 +571,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -1376,6 +1376,11 @@
       "Time": "2024-01-07T09:04:41.3506596+00:00",
       "NumProgressed": 202,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T10:06:02.7635525+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1434,9 +1439,9 @@
       "ID": "20AUDIOLOGS",
       "SetID": "a1angca",
       "Name": "Storyteller",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "20TELEPORTS",
@@ -1452,15 +1457,15 @@
       "Name": "Peddler",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "20WEAPONSCRAFTED",
       "SetID": "a1angca",
       "Name": "Weaponsmith",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "300QUESTS",
@@ -1516,7 +1521,7 @@
       "Name": "Military Leader",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ALLCOMBAT",
@@ -1554,9 +1559,9 @@
       "ID": "ALLSURVIVAL",
       "SetID": "a1angca",
       "Name": "Unbreakable",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ALLXP",
@@ -1652,7 +1657,7 @@
       "Name": "Commander",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "FINDBILLY",
@@ -1660,15 +1665,15 @@
       "Name": "Festival-goer",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "FINDCITY",
       "SetID": "a1angca",
       "Name": "Civilian",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "FINDCRONY",
@@ -1700,7 +1705,7 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "HELPCHILDREN",
@@ -1770,9 +1775,9 @@
       "ID": "KILLKAHN",
       "SetID": "a1angca",
       "Name": "Eternal Oblivion",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "LOVECAJA",
@@ -1787,15 +1792,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:04:41.3506591+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:06:02.7635519+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:21.2912605+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:04:41.3507115+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:59:04.4903684+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:06:02.7635881+00:00"
 }

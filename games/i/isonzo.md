@@ -14,7 +14,7 @@ Number of Ratings: 98  (23.09.2022)
 | Conrad von Hotzensocks | 32.00% | ~3,140 |
 | Gabriele D'Annunzio | 32.00% | ~3,140 |
 | Silver Lining | 27.00% | ~2,649 |
-| Aurelio Baruzzi | 21.00% | ~2,060 |
+| Aurelio Baruzzi | 21.00% | ~2,061 |
 | Decimation | 20.00% | ~1,962 |
 | Donatello | 19.00% | ~1,864 |
 | Insubordination | 19.00% | ~1,864 |
@@ -23,7 +23,7 @@ Number of Ratings: 98  (23.09.2022)
 | Ragazzi del '99 | 17.00% | ~1,668 |
 | Luigi Cadorna | 16.00% | ~1,570 |
 | The Lion of the Isonzo | 14.00% | ~1,374 |
-| Uomo Universale | 13.00% | ~1,275 |
+| Uomo Universale | 13.00% | ~1,276 |
 | Die Bosniaken Kommen! | 12.00% | ~1,177 |
 | Dirty Dozen | 12.00% | ~1,177 |
 | Shaken, Not Stirred | 12.00% | ~1,177 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,811 (Ranked 182)  
+Progressed: 9,812 (Ranked 182)  
 Completed: 10 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 10 (0.10%) (Ranked 308)
 | 2024-01-04 | 9,768 | 10 |
 | 2024-01-05 | 9,787 | 10 |
 | 2024-01-06 | 9,806 | 10 |
-| 2024-01-07 | 9,811 | 10 |
+| 2024-01-07 | 9,812 | 10 |
 ## Awards
 Max (Diverse Characters): 43  (Ranked 476)  
 Sum: 339 (Ranked 371)  

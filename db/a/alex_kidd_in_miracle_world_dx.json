@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 422,
+  "EOS_Progressed": 423,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -939,6 +939,11 @@
       "Time": "2024-01-07T08:06:18.7179144+00:00",
       "NumProgressed": 422,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T10:05:58.0626785+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1006,7 +1011,7 @@
       "Name": "Assailants",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -1030,7 +1035,7 @@
       "Name": "Pacifist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "NO_PURCHASES",
@@ -1077,7 +1082,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 422,
+      "Progressed": 423,
       "Completed": 4
     }
   ],
@@ -1085,8 +1090,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:04:38.2340987+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:05:58.0626782+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:23.3467552+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:04:38.2341218+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:59:07.598861+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:05:58.0626911+00:00"
 }

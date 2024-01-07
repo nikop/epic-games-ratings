@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 84.00% | ~293 |
+| Meissa's Savior | 84.00% | ~294 |
 | Purification Pioneer | 79.00% | ~276 |
-| Mechanical Buddy | 74.00% | ~258 |
-| Dicesmithing Time! | 65.00% | ~227 |
-| Sanctuary Guardian | 55.00% | ~192 |
+| Mechanical Buddy | 74.00% | ~259 |
+| Dicesmithing Time! | 65.00% | ~228 |
+| Sanctuary Guardian | 55.00% | ~193 |
 | Endless Tricks | 51.00% | ~178 |
 | Wild's Keeper | 48.00% | ~168 |
 | Mind Illuminator | 44.00% | ~154 |
 | Stellar Dismantler | 38.00% | ~133 |
-| Astral Adventurer | 36.00% | ~126 |
+| Astral Adventurer | 35.00% | ~122 |
 | Noctuan Champion | 35.00% | ~122 |
-| Anomaly Destroyer | 32.00% | ~112 |
+| Anomaly Destroyer | 31.00% | ~108 |
 | Star Killer | 31.00% | ~108 |
-| Eridanian Champion | 26.00% | ~91 |
+| Eridanian Champion | 25.00% | ~88 |
 | Loyal Partner | 22.00% | ~77 |
-| Lacertian Champion | 21.00% | ~73 |
+| Lacertian Champion | 21.00% | ~74 |
 | Shard Spender | 19.00% | ~66 |
 | Apian Champion | 19.00% | ~66 |
 | Unbeatable | 18.00% | ~63 |
@@ -27,18 +27,18 @@
 | Behenian Champion | 14.00% | ~49 |
 | Heavy Purger | 11.00% | ~38 |
 | Wave Bender | 11.00% | ~38 |
-| Astral Seeker | 9.00% | ~31 |
-| Aquarian Champion | 9.00% | ~31 |
+| Astral Seeker | 9.00% | ~32 |
+| Aquarian Champion | 9.00% | ~32 |
 | Stellar Haste | 8.00% | ~28 |
-| Heart Gate | 7.00% | ~24 |
-| The Corruption Goddess | 7.00% | ~24 |
-| The Goddes Avatar | 7.00% | ~24 |
+| Heart Gate | 7.00% | ~25 |
+| The Corruption Goddess | 7.00% | ~25 |
+| The Goddes Avatar | 7.00% | ~25 |
 | Favored by the Cosmos | 6.00% | ~21 |
-| Anomaly Control | 5.00% | ~17 |
-| Artificer | 5.00% | ~17 |
-| Can't touch this | 5.00% | ~17 |
-| Prestidigitation | 5.00% | ~17 |
-| Apian Hero | 5.00% | ~17 |
+| Anomaly Control | 5.00% | ~18 |
+| Artificer | 5.00% | ~18 |
+| Can't touch this | 5.00% | ~18 |
+| Prestidigitation | 5.00% | ~18 |
+| Apian Hero | 5.00% | ~18 |
 | Astrarium of Holding | 4.00% | ~14 |
 | Denying Destiny | 4.00% | ~14 |
 | If I Had Failed... | 4.00% | ~14 |
@@ -62,11 +62,11 @@
 | Behenian Mastery | 2.00% | ~7 |
 | Lacertian Mastery | 2.00% | ~7 |
 | Noctuan Mastery | 2.00% | ~7 |
-| Anomaly Master | 1.00% | ~3 |
-| Unepic Hero | 1.00% | ~3 |
-| Apian Mastery | 1.00% | ~3 |
-| Aquarian Mastery | 1.00% | ~3 |
-| Eridanian Mastery | 1.00% | ~3 |
+| Anomaly Master | 1.00% | ~4 |
+| Unepic Hero | 1.00% | ~4 |
+| Apian Mastery | 1.00% | ~4 |
+| Aquarian Mastery | 1.00% | ~4 |
+| Eridanian Mastery | 1.00% | ~4 |
 | Plague Doctor | 0.90% | ~3 |
 | Royal Choir | 0.90% | ~3 |
 | Astral Tinkerer | 0.60% | ~2 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349 (Ranked 378)  
+Progressed: 350 (Ranked 378)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,4 +176,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 324 | 0 |
 | 2024-01-05 | 340 | 0 |
 | 2024-01-06 | 347 | 0 |
-| 2024-01-07 | 349 | 0 |
+| 2024-01-07 | 350 | 0 |

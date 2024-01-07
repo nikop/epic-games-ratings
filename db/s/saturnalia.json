@@ -2,7 +2,7 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 912,
+  "Ranking_Rating": 911,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 113,
@@ -273,7 +273,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70277,
+  "EOS_Progressed": 70278,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
@@ -19788,6 +19788,11 @@
       "Time": "2024-01-07T07:04:07.4878223+00:00",
       "NumProgressed": 70277,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-07T10:05:12.9057845+00:00",
+      "NumProgressed": 70278,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -19815,7 +19820,7 @@
       "Name": "Bless me Father...",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_CLAUDIAMISSION",
@@ -19958,7 +19963,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 70277,
+      "Progressed": 70278,
       "Completed": 18
     }
   ],
@@ -19966,8 +19971,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:04:07.1556527+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:05:12.9057838+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:33.3205211+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:59:20.4699668+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:04:07.1557741+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:00:36.5946679+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:05:12.9059246+00:00"
 }

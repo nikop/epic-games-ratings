@@ -6,18 +6,18 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~12,436 |
-| Overkill | 33.00% | ~10,523 |
-| Vaccine Incoming | 31.00% | ~9,885 |
+| I'm not dead yet | 39.00% | ~12,437 |
+| Overkill | 33.00% | ~10,524 |
+| Vaccine Incoming | 31.00% | ~9,886 |
 | A normal day in Gloomhaven | 29.00% | ~9,248 |
-| Spread the plague | 27.00% | ~8,610 |
-| Get over here! | 24.00% | ~7,653 |
+| Spread the plague | 27.00% | ~8,611 |
+| Get over here! | 24.00% | ~7,654 |
 | Just when I thought I was out... | 19.00% | ~6,059 |
-| Precious! | 16.00% | ~5,102 |
-| Mine... All Mine... | 16.00% | ~5,102 |
-| Grizzled veteran | 15.00% | ~4,783 |
-| Anatomy Lesson | 14.00% | ~4,464 |
-| Light of my life | 13.00% | ~4,145 |
+| Precious! | 16.00% | ~5,103 |
+| Mine... All Mine... | 16.00% | ~5,103 |
+| Grizzled veteran | 15.00% | ~4,784 |
+| Anatomy Lesson | 14.00% | ~4,465 |
+| Light of my life | 13.00% | ~4,146 |
 | Who's the Boss? | 12.00% | ~3,827 |
 | You activated my trap card! | 12.00% | ~3,827 |
 | Obstacle race | 12.00% | ~3,827 |
@@ -29,10 +29,10 @@ Number of Ratings: 68  (23.09.2022)
 | Black death | 7.00% | ~2,232 |
 | Play it again, Sam | 7.00% | ~2,232 |
 | Quad damage | 6.00% | ~1,913 |
-| Power Up! | 5.00% | ~1,594 |
-| Merchant of doom | 5.00% | ~1,594 |
-| Caught off guard | 5.00% | ~1,594 |
-| Now you see me... | 5.00% | ~1,594 |
+| Power Up! | 5.00% | ~1,595 |
+| Merchant of doom | 5.00% | ~1,595 |
+| Caught off guard | 5.00% | ~1,595 |
+| Now you see me... | 5.00% | ~1,595 |
 | The Pro from Dover | 4.00% | ~1,276 |
 | Pretty lights! | 4.00% | ~1,276 |
 | I hate portals | 3.00% | ~957 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~32 |
 | Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,888 (Ranked 140)  
+Progressed: 31,891 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-04 | 31,129 | 1 |
 | 2024-01-05 | 31,403 | 1 |
 | 2024-01-06 | 31,749 | 1 |
-| 2024-01-07 | 31,888 | 1 |
+| 2024-01-07 | 31,891 | 1 |
 ## Awards
 Max (Character Customization): 3,616  (Ranked 94)  
 Sum: 8,465 (Ranked 106)  

@@ -1879,9 +1879,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 128
     },
     {
       "ID": "Assassin",
@@ -2192,8 +2192,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:09:52.6525831+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:11:21.6214768+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:59:22.73637+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:09:52.6526333+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:00:40.2316326+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:11:21.6215084+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 892  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept Assembler | 211.00% | ~1,756 |
 | Super Spelunker | 151.00% | ~1,256 |
-| Iron Chef | 144.00% | ~1,198 |
+| Iron Chef | 145.00% | ~1,206 |
 | The Little Wood that Could | 120.00% | ~998 |
 | Officially Official | 120.00% | ~998 |
 | On that Grindset | 113.00% | ~940 |
@@ -19,8 +19,8 @@ Number of Ratings: 892  (23.09.2022)
 | Got Served | 91.00% | ~757 |
 | One of the Cool Kids | 91.00% | ~757 |
 | Knowledge is Power | 90.00% | ~749 |
+| Diamonds are Forever | 90.00% | ~749 |
 | Mole Masher | 89.00% | ~740 |
-| Diamonds are Forever | 89.00% | ~740 |
 | Financially Secure | 88.00% | ~732 |
 | Big Game Hunter | 82.00% | ~682 |
 | Unboxing | 81.00% | ~674 |
@@ -52,9 +52,9 @@ Number of Ratings: 892  (23.09.2022)
 | Just What I Always Wanted! | 47.00% | ~391 |
 | Jewel of the Eufaula | 44.00% | ~366 |
 | My Time Mansion | 42.00% | ~349 |
+| Santa In Training | 41.00% | ~341 |
 | Sandrunning Speedster | 41.00% | ~341 |
 | He Can Spin A Yarn... | 40.00% | ~333 |
-| Santa In Training | 40.00% | ~333 |
 | It Belongs in a Museum! | 37.00% | ~308 |
 | Do Your Part | 36.00% | ~300 |
 | Pro Gamer | 34.00% | ~283 |

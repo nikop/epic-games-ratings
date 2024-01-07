@@ -2,12 +2,12 @@
   "ID": "62a6ce9d61c545f2975a3315aa58adc7",
   "Name": "Cat Cafe Manager",
   "ProductSlug": "cat-cafe-manager-68bd0d",
-  "Ranking_Rating": 356,
+  "Ranking_Rating": 355,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-14T16:00:00+00:00",
@@ -111,6 +111,6 @@
   "FirstSeen": "2022-07-22T20:29:32.4410641+00:00",
   "LastChanged": "2023-03-31T05:58:21.6656685+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:21.2491176+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:18.8589568+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:08:39.9901958+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:59:00.5496066+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:09:37.4211815+00:00"
 }

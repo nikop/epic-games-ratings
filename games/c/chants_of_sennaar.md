@@ -15,16 +15,16 @@ Rating: 4.85 (Ranked 39)
 | A good beginning | 30.00% | ~751 |
 | True G3M4R | 30.00% | ~751 |
 | One last step | 28.00% | ~701 |
+| Cable guy | 27.00% | ~676 |
+| Half the way | 27.00% | ~676 |
 | I did it | 26.00% | ~651 |
-| Cable guy | 26.00% | ~651 |
-| Half the way | 26.00% | ~651 |
 | Rascal | 26.00% | ~651 |
 | Peace walker | 25.00% | ~626 |
 | Champollion | 25.00% | ~626 |
 | In this together | 24.00% | ~601 |
 | Open door | 22.00% | ~551 |
 | Feels like springtime | 21.00% | ~526 |
-| Alchemists Express | 20.00% | ~501 |
+| Alchemists Express | 21.00% | ~526 |
 | Free at last | 19.00% | ~476 |
 | A Link to the Past | 16.00% | ~401 |
 | A great audience | 14.00% | ~351 |

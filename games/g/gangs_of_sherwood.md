@@ -14,8 +14,8 @@
 | Tap Dancing | 51.00% | ~59 |
 | Right between the eyes | 40.00% | ~46 |
 | Starry Night | 38.00% | ~44 |
-| Spring Board | 37.00% | ~43 |
-| Locksley's Tears | 34.00% | ~39 |
+| Spring Board | 38.00% | ~44 |
+| Locksley's Tears | 35.00% | ~41 |
 | Rebel Unleashed | 33.00% | ~38 |
 | Merry Co-operation | 31.00% | ~36 |
 | Assault on the Ram | 24.00% | ~28 |

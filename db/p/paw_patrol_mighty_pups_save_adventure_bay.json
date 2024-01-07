@@ -346,9 +346,9 @@
       "ID": "10",
       "SetID": "38ide56",
       "Name": "King of the Mountain",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "11",
@@ -370,9 +370,9 @@
       "ID": "13",
       "SetID": "38ide56",
       "Name": "Everything Under Control",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "14",
@@ -466,9 +466,9 @@
       "ID": "24",
       "SetID": "38ide56",
       "Name": "You Know Them All",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "25",
@@ -490,17 +490,17 @@
       "ID": "27",
       "SetID": "38ide56",
       "Name": "The Collector",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "28",
       "SetID": "38ide56",
       "Name": "Pup Treat Master",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "29",
@@ -579,8 +579,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:05:50.887477+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:07:43.2318859+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:24.271148+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:39.8928586+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:05:50.887501+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:59:33.3030037+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:07:43.2319102+00:00"
 }

@@ -8,12 +8,12 @@ Number of Ratings: 90  (23.09.2022)
 | ---- | ---------- | ----- |
 | Rock of the Bay | 83.00% | ~289 |
 | Mash Machine | 75.00% | ~261 |
-| Ducks in a Row, Fish in a Barrel | 53.00% | ~184 |
+| Ducks in a Row, Fish in a Barrel | 54.00% | ~188 |
 | Furon Fashion | 47.00% | ~164 |
-| Shop Til They Drop | 39.00% | ~136 |
-| Bodied Sattva | 37.00% | ~129 |
+| Shop Til They Drop | 40.00% | ~139 |
+| Bodied Sattva | 38.00% | ~132 |
 | Cult Following | 35.00% | ~122 |
-| Earthly Pleasures | 33.00% | ~115 |
+| Earthly Pleasures | 34.00% | ~118 |
 | Lie Back and Think of Albion | 27.00% | ~94 |
 | Upgreatest | 27.00% | ~94 |
 | Pimp My Raid | 24.00% | ~84 |

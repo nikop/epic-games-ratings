@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -1078,9 +1078,9 @@
       "ID": "locDungeon1",
       "SetID": "ci65fo0",
       "Name": "The first dungeon",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "locDungeon2",
@@ -1110,9 +1110,9 @@
       "ID": "locSmith",
       "SetID": "ci65fo0",
       "Name": "The second friend",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "locWorker",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:09:40.0896088+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:11:04.4779664+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:15.9010052+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:02:31.0515341+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:09:40.0897075+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:02:48.2409692+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:11:04.4780298+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -60,10 +60,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 740,
-  "EOS_Completed": 30,
+  "EOS_Completed": 31,
   "EOS_NewPlayers": 64,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 4.05,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 4.19,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -2329,6 +2329,11 @@
       "Time": "2024-01-06T23:08:49.0764317+00:00",
       "NumProgressed": 740,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-07T10:10:06.8423327+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2635,9 +2640,9 @@
       "ID": "ach_main13tanos_completed",
       "SetID": "4hg22ll",
       "Name": "The Duel",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 289
     },
     {
       "ID": "ach_main13tanos_dungeonlord",
@@ -2829,15 +2834,15 @@
       "ID": "4hg22ll",
       "IsBase": true,
       "Progressed": 740,
-      "Completed": 30
+      "Completed": 31
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:09:00.0904497+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:10:06.8423321+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:57:32.7459158+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:09:00.0905073+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:57:49.1938625+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:10:06.8423961+00:00"
 }

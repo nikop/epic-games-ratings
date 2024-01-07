@@ -4,7 +4,7 @@
   "ProductSlug": "houseparty",
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-07T03:58:40.4374677+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:02:42.497283+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:09:17.3557997+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:03:06.5702901+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:10:32.0272189+00:00"
 }

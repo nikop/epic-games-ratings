@@ -1054,9 +1054,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 210
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -1174,9 +1174,9 @@
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 205
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -1230,9 +1230,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 220
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1286,9 +1286,9 @@
       "ID": "TINGWD_SHIFUMI_LOSE",
       "SetID": "c0imaa6",
       "Name": "Roshambo Addict",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "TINGWD_SHOOT",
@@ -1333,8 +1333,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:05:39.684459+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:07:26.9181913+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.3171345+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:30.7485357+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:05:39.6844911+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:59:19.3714635+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:07:26.9182193+00:00"
 }

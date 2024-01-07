@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1041,
+  "EOS_Progressed": 1042,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3650,6 +3650,11 @@
       "Time": "2024-01-07T08:10:03.837255+00:00",
       "NumProgressed": 1041,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T10:10:09.2486407+00:00",
+      "NumProgressed": 1042,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3740,9 +3745,9 @@
       "ID": "ChainLightningKills",
       "SetID": "71c0n9i",
       "Name": "Unlimited Power!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ChargerCount",
@@ -3766,7 +3771,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Deepstrike",
@@ -3806,7 +3811,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3902,7 +3907,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "RanaCampaign",
@@ -3926,7 +3931,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -4093,15 +4098,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1041,
+      "Progressed": 1042,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:09:01.7662299+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:10:09.2486404+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:59:21.4320496+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:09:01.7663169+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:00:38.1009969+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:10:09.2487024+00:00"
 }

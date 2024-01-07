@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 886,
+  "EOS_Progressed": 889,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -709,6 +709,11 @@
       "Time": "2024-01-07T09:05:06.7993895+00:00",
       "NumProgressed": 886,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T10:06:39.3928017+00:00",
+      "NumProgressed": 889,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -808,7 +813,7 @@
       "Name": "Duet Desert",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "20",
@@ -830,7 +835,7 @@
       "ID": "22",
       "SetID": "7l2nmpm",
       "Name": "Silent City Glyph",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -943,7 +948,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 886,
+      "Progressed": 889,
       "Completed": 0
     }
   ],
@@ -951,8 +956,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:05:06.7993889+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:06:39.3928015+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.3557849+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:32.8482755+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:05:06.7994163+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:59:22.0502449+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:06:39.3928224+00:00"
 }

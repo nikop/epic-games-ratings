@@ -22,6 +22,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Goodbye, Frog Friend | 0.90% | ~2,183 |
 | Heartless | 0.90% | ~2,183 |
 | Spine Breaker | 0.90% | ~2,183 |
+| C-C-Combo | 0.90% | ~2,183 |
 | Deflection | 0.90% | ~2,183 |
 | Not Touching You | 0.90% | ~36 |
 | Ambitious Intent | 0.80% | ~1,940 |
@@ -30,7 +31,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Cold Hearted | 0.80% | ~1,940 |
 | The Bestiary | 0.80% | ~1,940 |
 | What's Yours Is Mine | 0.80% | ~1,940 |
-| C-C-Combo | 0.80% | ~1,940 |
 | Toxic | 0.80% | ~1,940 |
 | Sneaky | 0.80% | ~1,940 |
 | Dig Your Own Grave | 0.70% | ~1,698 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,528 (Ranked 72)  
-Completed: 304 (0.13%) (Ranked 298)  
+Progressed: 242,534 (Ranked 72)  
+Completed: 304 (0.13%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -407,7 +407,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-04 | 242,358 | 304 |
 | 2024-01-05 | 242,422 | 304 |
 | 2024-01-06 | 242,507 | 304 |
-| 2024-01-07 | 242,528 | 304 |
+| 2024-01-07 | 242,534 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

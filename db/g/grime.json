@@ -1837,9 +1837,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 167008,
+  "EOS_Progressed": 167013,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 1350,
+  "EOS_NewPlayers": 1343,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22162,6 +22162,11 @@
       "Time": "2024-01-07T09:08:12.0436449+00:00",
       "NumProgressed": 167008,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2024-01-07T10:08:56.9155547+00:00",
+      "NumProgressed": 167013,
+      "NumCompleted": 448
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22276,9 +22281,9 @@
       "ID": "DEFEAT_FLOWERHEART",
       "SetID": "72k7oh",
       "Name": "Scion",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1166
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -22541,21 +22546,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166591,
+      "Progressed": 166596,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167008,
+      "Progressed": 167013,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-06T15:57:18.5501396+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:08:12.0436444+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:08:56.9155542+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:57:34.9853878+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:08:12.0437909+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:57:52.5841096+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:08:56.9156958+00:00"
 }

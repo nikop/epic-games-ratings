@@ -1,23 +1,23 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.54 (Ranked 549)  
+Rating: 4.53 (Ranked 563)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 18.00% | ~21,415 |
-| I've Had Enough! | 14.00% | ~16,656 |
-| Fists, Fury & a lot of Rage | 10.00% | ~11,897 |
-| All For One and One For All | 8.00% | ~9,518 |
-| Seasoned Fighter | 8.00% | ~9,518 |
-| Home Sweet Home? | 6.00% | ~7,138 |
-| A New Age | 5.00% | ~5,949 |
-| Oh Baby, A Triple | 3.00% | ~3,569 |
-| Symbiotic | 3.00% | ~3,569 |
-| Battle Hardened | 2.00% | ~2,379 |
-| Master of Disguise | 2.00% | ~2,379 |
-| It's Mayhem! | 2.00% | ~2,379 |
-| Right back at'cha | 2.00% | ~2,379 |
+| All Grown Up! | 18.00% | ~21,420 |
+| I've Had Enough! | 14.00% | ~16,660 |
+| Fists, Fury & a lot of Rage | 10.00% | ~11,900 |
+| All For One and One For All | 8.00% | ~9,520 |
+| Seasoned Fighter | 8.00% | ~9,520 |
+| Home Sweet Home? | 6.00% | ~7,140 |
+| A New Age | 5.00% | ~5,950 |
+| Oh Baby, A Triple | 3.00% | ~3,570 |
+| Symbiotic | 3.00% | ~3,570 |
+| Battle Hardened | 2.00% | ~2,380 |
+| Master of Disguise | 2.00% | ~2,380 |
+| It's Mayhem! | 2.00% | ~2,380 |
+| Right back at'cha | 2.00% | ~2,380 |
 | Cautious Veteran | 1.00% | ~1,190 |
 | Double Punch! | 1.00% | ~1,190 |
 | Martyrdom | 1.00% | ~1,190 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 549)
 | What's Mine is Yours | 0.10% | ~119 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,973 (Ranked 93)  
+Progressed: 119,001 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 116,792 | 0 |
 | 2024-01-05 | 117,637 | 0 |
 | 2024-01-06 | 118,583 | 0 |
-| 2024-01-07 | 118,973 | 0 |
+| 2024-01-07 | 119,001 | 0 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 459)  
 Sum: 49 (Ranked 511)  
@@ -128,3 +128,4 @@ Diff (max vs sum): -52
 | 2024-01-02 | 4.53 | 48 | 48 |
 | 2024-01-05 | 4.54 | 48 | 48 |
 | 2024-01-06 | 4.54 | 49 | 49 |
+| 2024-01-07 | 4.53 | 49 | 49 |

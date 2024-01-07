@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8082,
+  "EOS_Progressed": 8084,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13441,6 +13441,11 @@
       "Time": "2024-01-07T09:08:18.2367555+00:00",
       "NumProgressed": 8082,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T10:09:06.1393393+00:00",
+      "NumProgressed": 8084,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13460,7 +13465,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -13468,7 +13473,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13612,7 +13617,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -13628,7 +13633,7 @@
       "Name": "No Fin left to give",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -13771,13 +13776,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8082,
+      "Progressed": 8084,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7454,
+      "Progressed": 7456,
       "Completed": 113
     }
   ],
@@ -13785,8 +13790,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:08:18.236755+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:09:06.1393386+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:57:45.862972+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:08:18.2368611+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:58:09.7118157+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:09:06.1394514+00:00"
 }

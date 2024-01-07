@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
@@ -10551,10 +10551,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 5361,
       "NumberOfAwardsMax": 662
+    },
+    {
+      "Time": "2024-01-07T09:59:04.8738854+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 5365,
+      "NumberOfAwardsMax": 662
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5361,
+  "NumberOfAwards": 5365,
   "NumberOfAwardsMax": 662,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -10568,7 +10574,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 559
+      "Count": 563
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10643,8 +10649,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2024-01-07T05:58:56.1093031+00:00",
+  "LastChanged": "2024-01-07T09:59:04.8738852+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:22.5321487+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:21.6357408+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:09:25.2847936+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:59:04.8738859+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:10:43.2938032+00:00"
 }

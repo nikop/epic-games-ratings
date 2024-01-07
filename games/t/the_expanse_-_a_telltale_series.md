@@ -1,32 +1,32 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 564)  
+Rating: 4.53 (Ranked 563)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~3,143 |
-| Captain Drummer | 14.00% | ~2,588 |
-| Martian Music | 13.00% | ~2,403 |
-| Bosmang | 13.00% | ~2,403 |
-| Celebrations are in Order | 13.00% | ~2,403 |
-| Impossible Objects | 13.00% | ~2,403 |
-| The Pit and the Pirates | 12.00% | ~2,219 |
-| Drone Dodger | 12.00% | ~2,219 |
-| Spore Taste | 11.00% | ~2,034 |
-| Stogie for Fogey | 10.00% | ~1,849 |
-| Zen Master | 10.00% | ~444 |
-| Call it Even | 9.00% | ~1,664 |
-| Safe Cracker | 9.00% | ~400 |
-| Madame Undersecretary | 9.00% | ~400 |
-| Heal Thy Medic | 8.00% | ~1,479 |
-| Keep Arjun in Check | 8.00% | ~355 |
-| Data Archivist | 7.00% | ~1,294 |
-| Drug Gifter | 7.00% | ~1,294 |
-| Thorston Mayer | 7.00% | ~1,294 |
-| Khan's Revenge | 7.00% | ~1,294 |
-| Doctor Approved | 6.00% | ~1,109 |
-| Bottoms up! | 6.00% | ~1,109 |
+| Oyedang, Kopengs | 17.00% | ~3,145 |
+| Captain Drummer | 14.00% | ~2,590 |
+| Martian Music | 13.00% | ~2,405 |
+| Bosmang | 13.00% | ~2,405 |
+| Celebrations are in Order | 13.00% | ~2,405 |
+| Impossible Objects | 13.00% | ~2,405 |
+| The Pit and the Pirates | 12.00% | ~2,220 |
+| Drone Dodger | 12.00% | ~2,220 |
+| Spore Taste | 11.00% | ~2,035 |
+| Stogie for Fogey | 10.00% | ~1,850 |
+| Zen Master | 10.00% | ~445 |
+| Call it Even | 9.00% | ~1,665 |
+| Safe Cracker | 9.00% | ~401 |
+| Madame Undersecretary | 9.00% | ~401 |
+| Heal Thy Medic | 8.00% | ~1,480 |
+| Keep Arjun in Check | 8.00% | ~356 |
+| Data Archivist | 7.00% | ~1,295 |
+| Drug Gifter | 7.00% | ~1,295 |
+| Thorston Mayer | 7.00% | ~1,295 |
+| Khan's Revenge | 7.00% | ~1,295 |
+| Doctor Approved | 6.00% | ~1,110 |
+| Bottoms up! | 6.00% | ~1,110 |
 | Master Negotiator | 6.00% | ~267 |
 | Data Logger | 4.00% | ~740 |
 | Miraculous Maya | 4.00% | ~740 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 564)
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,488 (Ranked 159)  
+Progressed: 18,498 (Ranked 159)  
 Completed: 59 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 59 (0.32%) (Ranked 248)
 | 2024-01-04 | 18,213 | 58 |
 | 2024-01-05 | 18,329 | 58 |
 | 2024-01-06 | 18,440 | 59 |
-| 2024-01-07 | 18,488 | 59 |
+| 2024-01-07 | 18,498 | 59 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

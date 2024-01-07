@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 901,
+  "EOS_Progressed": 902,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -3130,6 +3130,11 @@
       "Time": "2024-01-07T04:11:16.48742+00:00",
       "NumProgressed": 901,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T10:09:41.9421951+00:00",
+      "NumProgressed": 902,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3158,7 +3163,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_eou3",
@@ -3245,14 +3250,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 901,
+      "Progressed": 902,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:08:43.0092434+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:09:41.9421946+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:57:58.3057135+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:08:43.0092741+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:58:28.2264745+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:09:41.942217+00:00"
 }

@@ -24,8 +24,8 @@ Number of Ratings: 116  (23.09.2022)
 | 25 to Life | 37.00% | ~176 |
 | Soul Harvester | 35.00% | ~166 |
 | Unshakable Fortitude | 34.00% | ~162 |
+| I Wanna Rock | 33.00% | ~157 |
 | Delusions of Grandeur | 33.00% | ~157 |
-| I Wanna Rock | 32.00% | ~152 |
 | Maximum Vigor | 31.00% | ~147 |
 | Love Tap | 31.00% | ~147 |
 | For Whom the Bell Tolls | 28.00% | ~133 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 2504,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 6.79,
   "EosHistory": [
@@ -6665,9 +6665,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 651
+      "UsersEstimate": 676
     },
     {
       "ID": "META_FIRST_LINK",
@@ -6681,9 +6681,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 651
+      "UsersEstimate": 676
     },
     {
       "ID": "META_RESULT_1-2",
@@ -6737,9 +6737,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 526
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6850,8 +6850,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:05:21.2810031+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:07:00.2700837+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:00.0556262+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:05:21.2810563+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:58:30.8678575+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:07:00.2701485+00:00"
 }

@@ -1,7 +1,7 @@
 # Saturnalia
 [Store](https://store.epicgames.com/en-US/p/saturnalia)  
 [View Rawdata](../../db/s/saturnalia.json)  
-Rating: 4.26 (Ranked 912)  
+Rating: 4.26 (Ranked 911)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,7 +15,7 @@ Rating: 4.26 (Ranked 912)
 | Fear Of The Dark | 1.00% | ~703 |
 | Detective of the occult | 1.00% | ~703 |
 | Depression | 1.00% | ~703 |
-| Bless me Father... | 0.90% | ~632 |
+| Bless me Father... | 0.90% | ~633 |
 | Phone Bill | 0.80% | ~562 |
 | Power of Friendship | 0.70% | ~492 |
 | Chain Breaker | 0.70% | ~492 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 912)
 | Are you still there? | 0.40% | ~281 |
 | Ear Ringing | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,277 (Ranked 113)  
+Progressed: 70,278 (Ranked 113)  
 Completed: 18 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 18 (0.03%) (Ranked 353)
 | 2024-01-04 | 70,173 | 18 |
 | 2024-01-05 | 70,215 | 18 |
 | 2024-01-06 | 70,262 | 18 |
-| 2024-01-07 | 70,277 | 18 |
+| 2024-01-07 | 70,278 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

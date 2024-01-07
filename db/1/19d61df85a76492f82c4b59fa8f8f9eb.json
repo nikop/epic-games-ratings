@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 501,
+  "EOS_Progressed": 502,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 42,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 9.78,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 9.76,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2354,6 +2354,11 @@
       "Time": "2024-01-07T08:09:53.56826+00:00",
       "NumProgressed": 501,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-07T10:09:58.7908048+00:00",
+      "NumProgressed": 502,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 6,
@@ -2381,7 +2386,7 @@
       "Name": "Viola Organista",
       "Percentage": 48,
       "XP": 165,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -2389,7 +2394,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 30,
       "XP": 165,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -2397,7 +2402,7 @@
       "Name": "Revolving Bridge",
       "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -2405,21 +2410,21 @@
       "Name": "Flying Machine",
       "Percentage": 33,
       "XP": 165,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 501,
+      "Progressed": 502,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:08:54.6451856+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:09:58.7908045+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:10.7268546+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:57:55.3761787+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:08:54.6452166+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:58:23.6692126+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:09:58.7908208+00:00"
 }

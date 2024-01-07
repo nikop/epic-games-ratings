@@ -41,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.30% | ~757 |
 | Useless Allies | 0.30% | ~757 |
 | Exploring Port Nyanzaru | 0.30% | ~757 |
+| Running of the Saurs | 0.30% | ~757 |
 | Escort to Waterdeep | 0.30% | ~757 |
 | Waterdeep Detours | 0.30% | ~757 |
 | The Silken Swamp | 0.20% | ~505 |
@@ -55,7 +56,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.20% | ~505 |
 | A Tale of Two Cities | 0.20% | ~505 |
 | Flying Monkey Skulls of Doom | 0.20% | ~505 |
-| Running of the Saurs | 0.20% | ~505 |
 | Close Escort | 0.20% | ~505 |
 | Constant Banditry | 0.20% | ~505 |
 | Underdeep Cartography | 0.20% | ~505 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,280 (Ranked 70)  
+Progressed: 252,285 (Ranked 70)  
 Completed: 2,599 (1.03%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -815,7 +815,7 @@ Completed: 2,599 (1.03%) (Ranked 171)
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
-| 2024-01-07 | 252,280 | 2,599 |
+| 2024-01-07 | 252,285 | 2,599 |
 ## Awards
 Max (Great for Beginners): 5,756  (Ranked 74)  
 Sum: 33,383 (Ranked 41)  

@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1274,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3300,9 +3300,9 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 166
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -3492,9 +3492,9 @@
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 191
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -3595,8 +3595,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:08:30.0119371+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:09:23.2656781+00:00",
   "LastUpdate_AppInfo": "2024-01-05T10:56:56.5895712+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:57:48.2147456+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:08:30.0119869+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:58:13.8306416+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:09:23.2657272+00:00"
 }

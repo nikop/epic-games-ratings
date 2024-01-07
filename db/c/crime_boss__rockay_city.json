@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5445,9 +5445,9 @@
       "Count": 537
     }
   ],
-  "EOS_Progressed": 93163,
+  "EOS_Progressed": 93169,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30630,6 +30630,11 @@
       "Time": "2024-01-07T09:06:06.8168466+00:00",
       "NumProgressed": 93163,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-07T10:08:36.297149+00:00",
+      "NumProgressed": 93169,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30705,7 +30710,7 @@
       "Name": "Rockay Knight",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_0030",
@@ -30753,7 +30758,7 @@
       "Name": "Headhunter",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH_0101",
@@ -30841,7 +30846,7 @@
       "Name": "Red Star",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_0350",
@@ -30968,13 +30973,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93163,
+      "Progressed": 93169,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21510,
+      "Progressed": 21516,
       "Completed": 15596
     }
   ],
@@ -30982,8 +30987,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-06T21:59:56.7593035+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:06:06.8168462+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:08:36.2971481+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:47.5137631+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:06:06.8170036+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:59:45.3622671+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:08:36.2973102+00:00"
 }

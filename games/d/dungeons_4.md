@@ -33,7 +33,7 @@ Rating: 4.71 (Ranked 202)
 | Dungeonlord Gorgu | 45.00% | ~333 |
 | Mana Cannon | 43.00% | ~318 |
 | All’s Well That Ends Evil | 41.00% | ~303 |
-| The Duel | 38.00% | ~281 |
+| The Duel | 39.00% | ~289 |
 | If Looks Could Kill | 36.00% | ~266 |
 | Unstoppable Horde | 35.00% | ~259 |
 | Master of the Undead | 35.00% | ~259 |
@@ -68,7 +68,7 @@ Rating: 4.71 (Ranked 202)
 | I Don't Need Any Help | 10.00% | ~74 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 740 (Ranked 315)  
-Completed: 30 (4.05%) (Ranked 91)  
+Completed: 31 (4.19%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,6 +130,7 @@ Completed: 30 (4.05%) (Ranked 91)
 | 2024-01-04 | 719 | 28 |
 | 2024-01-05 | 729 | 29 |
 | 2024-01-06 | 740 | 30 |
+| 2024-01-07 | 740 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

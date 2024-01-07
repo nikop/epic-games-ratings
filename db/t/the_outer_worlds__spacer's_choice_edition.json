@@ -4,10 +4,10 @@
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
   "Ranking_Rating": 613,
   "Ranking_Popularity": 99,
-  "Ranking_PopularitySum": 167,
+  "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -1035,10 +1035,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 3888,
       "NumberOfAwardsMax": 3327
+    },
+    {
+      "Time": "2024-01-07T09:57:38.4541012+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 3909,
+      "NumberOfAwardsMax": 3327
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3888,
+  "NumberOfAwards": 3909,
   "NumberOfAwardsMax": 3327,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1058,19 +1064,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 67
+      "Count": 71
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 56
+      "Count": 63
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 51
+      "Count": 61
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1123,9 +1129,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-01-07T07:57:51.2953949+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:05:45.7158176+00:00",
+  "LastChanged": "2024-01-07T09:57:38.454101+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:07:35.680145+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:40.3845685+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:57:25.0711716+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:05:45.7158188+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:57:38.4541015+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:07:35.6801528+00:00"
 }

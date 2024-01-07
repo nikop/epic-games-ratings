@@ -2,9 +2,9 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 168,
+  "EOS_Progressed": 169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -669,6 +669,11 @@
       "Time": "2024-01-06T20:04:50.4959641+00:00",
       "NumProgressed": 168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T10:05:18.3345591+00:00",
+      "NumProgressed": 169,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -679,9 +684,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 135
     },
     {
       "ID": "BARON",
@@ -713,7 +718,7 @@
       "Name": "Dragon Cult",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "DISCIPLE",
@@ -729,7 +734,7 @@
       "Name": "How to train your...",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DRESSED",
@@ -745,7 +750,7 @@
       "Name": "The Gambler",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "GENERAL",
@@ -793,7 +798,7 @@
       "Name": "Liberator",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LIBRARY",
@@ -815,9 +820,9 @@
       "ID": "MERCENARY",
       "SetID": "40o4f14",
       "Name": "Mercenary",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "MINES",
@@ -857,7 +862,7 @@
       "Name": "The prison",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "RECOVERING",
@@ -911,31 +916,31 @@
       "ID": "WITCH",
       "SetID": "40o4f14",
       "Name": "Resurrection",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "WYVERN",
       "SetID": "40o4f14",
       "Name": "Winged creature",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 168,
+      "Progressed": 169,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:04:10.7661795+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:05:18.3345587+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.400694+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:08.6064055+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:04:10.7662092+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:58:43.5385631+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:05:18.3345852+00:00"
 }

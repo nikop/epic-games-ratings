@@ -10608,9 +10608,9 @@
       "Count": 1083
     }
   ],
-  "EOS_Progressed": 132003,
+  "EOS_Progressed": 132009,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1090,
+  "EOS_NewPlayers": 1089,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38728,6 +38728,11 @@
       "Time": "2024-01-07T09:09:33.1963915+00:00",
       "NumProgressed": 132003,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T10:10:54.4566616+00:00",
+      "NumProgressed": 132009,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38867,7 +38872,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7920
+      "UsersEstimate": 7921
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38899,7 +38904,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7920
+      "UsersEstimate": 7921
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38963,7 +38968,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7920
+      "UsersEstimate": 7921
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39091,7 +39096,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9240
+      "UsersEstimate": 9241
     },
     {
       "ID": "hero_story_complete_all",
@@ -39259,7 +39264,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -39275,7 +39280,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "combat_kill_collector",
@@ -39283,7 +39288,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39323,7 +39328,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39370,21 +39375,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132003,
+      "Progressed": 132009,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6872,
+      "Progressed": 6878,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-07T08:57:23.0514675+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:09:33.1963911+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:10:54.4566612+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:57:23.051468+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:09:33.1965882+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:57:35.0881233+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:10:54.4568704+00:00"
 }

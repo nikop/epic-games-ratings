@@ -8,8 +8,8 @@ Number of Ratings: 281  (23.09.2022)
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 18.00% | ~1,455 |
 | More Fish in the Sea | 16.00% | ~1,293 |
-| Hey Good Hookin | 15.00% | ~1,212 |
-| Can you smell what the Rod is Hooking | 14.00% | ~1,131 |
+| Hey Good Hookin | 15.00% | ~1,213 |
+| Can you smell what the Rod is Hooking | 14.00% | ~1,132 |
 | Scaling up | 13.00% | ~1,051 |
 | I'm on a Boat! | 12.00% | ~970 |
 | Ready to Rod and Roll | 10.00% | ~808 |
@@ -19,14 +19,14 @@ Number of Ratings: 281  (23.09.2022)
 | Going for Gold | 5.00% | ~404 |
 | License to Gill | 4.00% | ~323 |
 | School's Out for Summer | 4.00% | ~323 |
-| I'm Hooked! | 3.00% | ~242 |
+| I'm Hooked! | 3.00% | ~243 |
 | I'm the Captain Now | 1.00% | ~81 |
 | Marathon | 1.00% | ~81 |
 | Diamond in the Rough | 1.00% | ~81 |
 | More than a Tourist | 0.90% | ~73 |
 | Hook, Line and Sinker | 0.80% | ~65 |
 | Gonna Need a Bigger Boat | 0.70% | ~57 |
-| No Fin left to give | 0.60% | ~48 |
+| No Fin left to give | 0.60% | ~49 |
 | Live by the Rod, Diez by the Rod! | 0.40% | ~30 |
 | Aguas Claras Conquistador | 0.40% | ~30 |
 | The Beetles | 0.30% | ~24 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,082 (Ranked 189)  
+Progressed: 8,084 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 7,958 | 0 |
 | 2024-01-05 | 8,002 | 0 |
 | 2024-01-06 | 8,058 | 0 |
-| 2024-01-07 | 8,082 | 0 |
+| 2024-01-07 | 8,084 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 479)  
 Sum: 212 (Ranked 410)  

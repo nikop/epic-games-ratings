@@ -285,9 +285,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 2299,
+  "EOS_Progressed": 2300,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5400,6 +5400,11 @@
       "Time": "2024-01-07T09:08:29.0111139+00:00",
       "NumProgressed": 2299,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T10:09:21.6047572+00:00",
+      "NumProgressed": 2300,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5420,7 +5425,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "AC02",
@@ -5428,7 +5433,7 @@
       "Name": "Blood and Dust",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "AC03",
@@ -5436,7 +5441,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "AC04",
@@ -5444,7 +5449,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "AC05",
@@ -5452,7 +5457,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "AC06",
@@ -5594,9 +5599,9 @@
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 644
     },
     {
       "ID": "AC24",
@@ -5706,9 +5711,9 @@
       "ID": "AC37",
       "SetID": "l4abp0",
       "Name": "Storm of Death",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 460
     },
     {
       "ID": "AC38",
@@ -5730,9 +5735,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1748
     },
     {
       "ID": "AC41",
@@ -5779,7 +5784,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2299,
+      "Progressed": 2300,
       "Completed": 0
     }
   ],
@@ -5787,8 +5792,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-05T17:57:02.0313772+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:08:29.0111135+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:09:21.6047567+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:57:44.8975063+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:08:29.0112184+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:58:08.1747516+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:09:21.6048575+00:00"
 }

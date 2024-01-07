@@ -2,10 +2,10 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 899,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 155,
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 880,
+  "EOS_Progressed": 882,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2245,6 +2245,11 @@
       "Time": "2024-01-07T09:08:42.7870875+00:00",
       "NumProgressed": 880,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T10:09:41.5774433+00:00",
+      "NumProgressed": 882,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2257,7 +2262,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "CareerAllChallenges",
@@ -2265,23 +2270,23 @@
       "Name": "Highballer",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 282
     },
     {
       "ID": "CareerChamp2",
       "SetID": "5hd282c",
       "Name": "National Amateurs Champion",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 150
     },
     {
       "ID": "CareerChamp3",
@@ -2313,7 +2318,7 @@
       "Name": "Storm Warning",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 600
     },
     {
       "ID": "CollectVehiclesA",
@@ -2383,9 +2388,9 @@
       "ID": "PlayerRankC",
       "SetID": "5hd282c",
       "Name": "Showing Some Dedication",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 18
     },
     {
       "ID": "RocketSpeedReached",
@@ -2416,7 +2421,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 880,
+      "Progressed": 882,
       "Completed": 0
     }
   ],
@@ -2424,8 +2429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:08:42.7870871+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:09:41.5774429+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:41.1267762+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:08:42.787114+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:59:35.5270893+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:09:41.5774658+00:00"
 }

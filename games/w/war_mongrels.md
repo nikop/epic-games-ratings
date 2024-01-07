@@ -6,7 +6,7 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 67.00% | ~513 |
+| Explorer | 68.00% | ~520 |
 | Cowardice | 61.00% | ~467 |
 | The Breaking Point | 44.00% | ~337 |
 | NO LIFE IS WORTH SAVING... | 44.00% | ~337 |

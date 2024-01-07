@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106,
+  "EOS_Progressed": 107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -519,6 +519,11 @@
       "Time": "2024-01-07T09:03:31.4612292+00:00",
       "NumProgressed": 106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T10:04:22.2153911+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -529,9 +534,9 @@
       "ID": "CarryingDoll",
       "SetID": "7m88n8p",
       "Name": "Girl Carrying A Doll",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "DatingAttraction",
@@ -545,7 +550,7 @@
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 54
     },
@@ -593,9 +598,9 @@
       "ID": "KarmaEyes",
       "SetID": "7m88n8p",
       "Name": "Karma in My Eyes",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "Letters",
@@ -617,9 +622,9 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "MortuaryMarkup",
@@ -649,9 +654,9 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "RoadToSalvation",
@@ -706,14 +711,14 @@
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 106,
+      "Progressed": 107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:03:31.4612285+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:04:22.2153905+00:00",
   "LastUpdate_AppInfo": "2024-01-01T14:57:04.940635+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:00:02.826372+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:03:31.4612496+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:01:43.3516905+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:04:22.2154201+00:00"
 }

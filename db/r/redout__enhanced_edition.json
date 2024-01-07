@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238895,
+  "EOS_Progressed": 238896,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27853,6 +27853,11 @@
       "Time": "2024-01-07T08:06:46.807195+00:00",
       "NumProgressed": 238895,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-07T10:06:25.4830924+00:00",
+      "NumProgressed": 238896,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -27896,7 +27901,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26278
+      "UsersEstimate": 26279
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -28000,7 +28005,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78835
+      "UsersEstimate": 78836
     },
     {
       "ID": "NOBUNAGA",
@@ -28135,15 +28140,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238895,
+      "Progressed": 238896,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:04:56.8722902+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:06:25.483092+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.0149602+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:00:16.0136575+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:04:56.8724653+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:02:43.391136+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:06:25.4832658+00:00"
 }

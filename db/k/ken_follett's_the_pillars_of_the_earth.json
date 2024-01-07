@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 591,
+  "Ranking_Rating": 592,
   "Ranking_Popularity": 324,
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 162,
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17685,
+  "EOS_Progressed": 17686,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -17900,6 +17900,11 @@
       "Time": "2024-01-07T09:04:16.9835934+00:00",
       "NumProgressed": 17685,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-07T10:05:27.2279434+00:00",
+      "NumProgressed": 17686,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -17911,7 +17916,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "tpote_achievement_10",
@@ -17951,7 +17956,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5659
+      "UsersEstimate": 5660
     },
     {
       "ID": "tpote_achievement_15",
@@ -17983,7 +17988,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "tpote_achievement_19",
@@ -18039,7 +18044,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "tpote_achievement_25",
@@ -18087,7 +18092,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5482
+      "UsersEstimate": 5483
     },
     {
       "ID": "tpote_achievement_30",
@@ -18095,7 +18100,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "tpote_achievement_31",
@@ -18238,15 +18243,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17685,
+      "Progressed": 17686,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:04:16.9835932+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:05:27.2279431+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:02:45.7133711+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:04:16.9837041+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:03:11.886543+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:05:27.2280291+00:00"
 }

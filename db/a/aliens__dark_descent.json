@@ -531,9 +531,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 6065,
+  "EOS_Progressed": 6066,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9101,6 +9101,11 @@
       "Time": "2024-01-07T09:04:18.3664842+00:00",
       "NumProgressed": 6065,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T10:05:29.1455994+00:00",
+      "NumProgressed": 6066,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9120,7 +9125,7 @@
       "Name": "Flawless Victory",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -9152,7 +9157,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -9168,7 +9173,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -9208,7 +9213,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 3942
+      "UsersEstimate": 3943
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -9216,15 +9221,15 @@
       "Name": "Regicide",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
       "SetID": "816efe",
       "Name": "Call Me Snake",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3275
+      "UsersEstimate": 3215
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9272,7 +9277,7 @@
       "Name": "Bandage Lover",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -9288,7 +9293,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -9336,7 +9341,7 @@
       "Name": "Where It All Begun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "ACH_MISSION_06",
@@ -9416,7 +9421,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4670
+      "UsersEstimate": 4671
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -9424,7 +9429,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3032
+      "UsersEstimate": 3033
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -9464,14 +9469,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2911
+      "UsersEstimate": 2912
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6065,
+      "Progressed": 6066,
       "Completed": 3
     }
   ],
@@ -9479,8 +9484,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-05T21:02:34.1658267+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:04:18.3664838+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:05:29.1455989+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:57:39.5653723+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:04:18.3665813+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:58:00.0255774+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:05:29.1456622+00:00"
 }

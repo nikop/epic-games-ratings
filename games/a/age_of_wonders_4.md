@@ -10,15 +10,15 @@ Rating: 4.62 (Ranked 377)
 | A Wonderful Discovery | 13.00% | ~911 |
 | Walls Cannot Stop Us | 13.00% | ~911 |
 | From Friends to Family | 11.00% | ~771 |
-| Bone Peddler | 9.00% | ~630 |
-| Full Ascension | 8.00% | ~560 |
-| Magical Synergy | 8.00% | ~560 |
-| There Can Only Be One! | 7.00% | ~490 |
-| Stronger Together | 7.00% | ~490 |
-| Seat of Power | 7.00% | ~490 |
-| Valley of Wonders | 6.00% | ~420 |
-| In a Liege of Your Own | 6.00% | ~420 |
-| Intimidation Tactics | 6.00% | ~420 |
+| Bone Peddler | 9.00% | ~631 |
+| Full Ascension | 8.00% | ~561 |
+| Magical Synergy | 8.00% | ~561 |
+| There Can Only Be One! | 7.00% | ~491 |
+| Stronger Together | 7.00% | ~491 |
+| Seat of Power | 7.00% | ~491 |
+| Valley of Wonders | 6.00% | ~421 |
+| In a Liege of Your Own | 6.00% | ~421 |
+| Intimidation Tactics | 6.00% | ~421 |
 | My Final Form | 5.00% | ~350 |
 | But this one is mine | 5.00% | ~350 |
 | Return of the Wizard King | 4.00% | ~280 |
@@ -59,14 +59,14 @@ Rating: 4.62 (Ranked 377)
 | The Magic That Empowers Me! | 0.50% | ~35 |
 | Jack of All Tomes | 0.40% | ~28 |
 | A Very Special Ring | 0.40% | ~28 |
+| Returning Circle | 0.20% | ~14 |
 | I Want to Break Free | 0.10% | ~7 |
 | Master of Evilness | 0.10% | ~7 |
 | The Grey Wizard | 0.10% | ~7 |
-| Returning Circle | 0.10% | ~7 |
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,005 (Ranked 196)  
+Progressed: 7,009 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
-| 2024-01-07 | 7,005 | 7 |
+| 2024-01-07 | 7,009 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 212 (Ranked 410)  

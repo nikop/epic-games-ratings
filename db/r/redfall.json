@@ -375,9 +375,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2293,
+  "EOS_Progressed": 2294,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4145,6 +4145,11 @@
       "Time": "2024-01-07T09:04:34.2324533+00:00",
       "NumProgressed": 2293,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T10:05:52.3499418+00:00",
+      "NumProgressed": 2294,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4180,7 +4185,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Achievement_006",
@@ -4220,7 +4225,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Achievement_011",
@@ -4460,7 +4465,7 @@
       "Name": "Heart Attack",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Achievement_041",
@@ -4683,7 +4688,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2293,
+      "Progressed": 2294,
       "Completed": 0
     }
   ],
@@ -4691,8 +4696,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-07T04:01:29.1090541+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:04:34.2324529+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:05:52.3499415+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:58:44.3713673+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:04:34.2325198+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:59:40.580814+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:05:52.3500174+00:00"
 }

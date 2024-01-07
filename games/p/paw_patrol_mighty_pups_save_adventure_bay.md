@@ -26,14 +26,14 @@
 | Don’t Miss Any | 25.00% | ~15 |
 | Mountain and Ice | 24.00% | ~14 |
 | You Have Been Everywhere | 22.00% | ~13 |
-| Everything Under Control | 19.00% | ~11 |
+| Everything Under Control | 20.00% | ~12 |
 | Nothing Can Stop You | 12.00% | ~7 |
 | A Great Explorer | 10.00% | ~6 |
-| King of the Mountain | 5.00% | ~3 |
+| King of the Mountain | 7.00% | ~4 |
 | Air Ace | 2.00% | ~1 |
-| You Know Them All | 0.00% | ~0 |
-| The Collector | 0.00% | ~0 |
-| Pup Treat Master | 0.00% | ~0 |
+| You Know Them All | 2.00% | ~1 |
+| The Collector | 2.00% | ~1 |
+| Pup Treat Master | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 59 (Ranked 540)  
 Completed: 0 (0.00%) (Ranked 393)  

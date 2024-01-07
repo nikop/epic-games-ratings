@@ -16,9 +16,9 @@ Rating: 3.67 (Ranked 1,090)
 | Fly Fisher | 10.00% | ~229 |
 | Sucks To Be You | 10.00% | ~229 |
 | Throw The First Stone | 9.00% | ~206 |
-| Enter of Your Own Free Will | 8.00% | ~183 |
-| Welcome to the Neighborhood | 8.00% | ~183 |
-| Heart Attack | 8.00% | ~183 |
+| Enter of Your Own Free Will | 8.00% | ~184 |
+| Welcome to the Neighborhood | 8.00% | ~184 |
+| Heart Attack | 8.00% | ~184 |
 | Grounded | 7.00% | ~161 |
 | Skin of Their Teeth | 7.00% | ~161 |
 | Bad Wiring | 6.00% | ~138 |
@@ -72,7 +72,7 @@ Rating: 3.67 (Ranked 1,090)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,293 (Ranked 242)  
+Progressed: 2,294 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 2,253 | 0 |
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,286 | 0 |
-| 2024-01-07 | 2,293 | 0 |
+| 2024-01-07 | 2,294 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 553)  
 Sum: 24 (Ranked 559)  

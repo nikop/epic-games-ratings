@@ -293,9 +293,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 10525,
+  "EOS_Progressed": 10529,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1474,
+  "EOS_NewPlayers": 1473,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3973,6 +3973,11 @@
       "Time": "2024-01-07T09:09:46.0254789+00:00",
       "NumProgressed": 10525,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T10:11:12.7630047+00:00",
+      "NumProgressed": 10529,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3993,7 +3998,7 @@
       "Name": "Stolen Star",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4017,15 +4022,15 @@
       "Name": "Expanse Calamity",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "07_TheGrandFinale",
       "SetID": "37a94m8",
       "Name": "Grand Finale",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 42
     },
     {
       "ID": "08_TheEmperorsHand",
@@ -4073,7 +4078,7 @@
       "Name": "Doom Trader",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -4097,7 +4102,7 @@
       "Name": "The Rise",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "17_TheExemplar",
@@ -4113,7 +4118,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4201,7 +4206,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "30_The GreatestExploration",
@@ -4209,7 +4214,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "31_DontTouchThis",
@@ -4217,7 +4222,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "32_AviationSaviour",
@@ -4255,9 +4260,9 @@
       "ID": "36_TheAdventurousArchaelogist",
       "SetID": "37a94m8",
       "Name": "Adventurous Archaeologist",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 95
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -4337,7 +4342,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "47_AFlame",
@@ -4439,9 +4444,9 @@
       "ID": "59_ThePossessedShip",
       "SetID": "37a94m8",
       "Name": "The Possessed Ship",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 95
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -4504,7 +4509,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10525,
+      "Progressed": 10529,
       "Completed": 1
     }
   ],
@@ -4512,8 +4517,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-07T07:57:26.3541054+00:00",
-  "LastChanged_Achievements": "2024-01-07T09:09:46.0254784+00:00",
+  "LastChanged_Achievements": "2024-01-07T10:11:12.7630045+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-07T08:57:08.9357594+00:00",
-  "LastUpdate_Achievements": "2024-01-07T09:09:46.0256049+00:00"
+  "LastUpdate_Ratings": "2024-01-07T09:57:13.4913257+00:00",
+  "LastUpdate_Achievements": "2024-01-07T10:11:12.7630826+00:00"
 }
