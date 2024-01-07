@@ -14,7 +14,7 @@ Rating: 4.84 (Ranked 47)
 | The darkness | 31.00% | ~773 |
 | True G3M4R | 30.00% | ~748 |
 | A good beginning | 29.00% | ~723 |
-| One last step | 27.00% | ~673 |
+| One last step | 28.00% | ~698 |
 | I did it | 26.00% | ~648 |
 | Cable guy | 26.00% | ~648 |
 | Half the way | 26.00% | ~648 |
@@ -32,7 +32,7 @@ Rating: 4.84 (Ranked 47)
 | Fashion victim | 9.00% | ~224 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,494 (Ranked 236)  
-Completed: 168 (6.74%) (Ranked 63)  
+Completed: 169 (6.78%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -200,7 +200,7 @@ Completed: 168 (6.74%) (Ranked 63)
 | 2024-01-04 | 2,370 | 149 |
 | 2024-01-05 | 2,427 | 158 |
 | 2024-01-06 | 2,492 | 168 |
-| 2024-01-07 | 2,494 | 168 |
+| 2024-01-07 | 2,494 | 169 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17679,
+  "EOS_Progressed": 17681,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -17875,6 +17875,11 @@
       "Time": "2024-01-07T00:04:42.0456198+00:00",
       "NumProgressed": 17679,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-07T01:59:13.1859156+00:00",
+      "NumProgressed": 17681,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -17902,7 +17907,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "tpote_achievement_12",
@@ -17926,7 +17931,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5657
+      "UsersEstimate": 5658
     },
     {
       "ID": "tpote_achievement_15",
@@ -17966,7 +17971,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "tpote_achievement_2",
@@ -17974,7 +17979,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5834
+      "UsersEstimate": 5835
     },
     {
       "ID": "tpote_achievement_20",
@@ -18030,7 +18035,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "tpote_achievement_27",
@@ -18038,7 +18043,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "tpote_achievement_28",
@@ -18046,7 +18051,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "tpote_achievement_29",
@@ -18062,7 +18067,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5480
+      "UsersEstimate": 5481
     },
     {
       "ID": "tpote_achievement_30",
@@ -18078,7 +18083,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "tpote_achievement_32",
@@ -18174,7 +18179,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "tpote_achievement_6",
@@ -18182,7 +18187,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "tpote_achievement_7",
@@ -18206,22 +18211,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6011
+      "UsersEstimate": 6012
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17679,
+      "Progressed": 17681,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:04:42.0456191+00:00",
+  "LastChanged_Achievements": "2024-01-07T01:59:13.1859153+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-07T00:03:17.8231868+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:04:42.0457646+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:57:46.2723924+00:00",
+  "LastUpdate_Achievements": "2024-01-07T01:59:13.1860188+00:00"
 }

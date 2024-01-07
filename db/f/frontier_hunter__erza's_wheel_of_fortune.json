@@ -2582,9 +2582,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2862,9 +2862,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 399
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2911,8 +2911,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:09:36.1189468+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:04:21.0874019+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:59:09.0213336+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:09:36.1189924+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:53:56.3573812+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:04:21.0874535+00:00"
 }

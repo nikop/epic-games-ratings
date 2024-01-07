@@ -9373,9 +9373,9 @@
       "Count": 3628
     }
   ],
-  "EOS_Progressed": 252137,
+  "EOS_Progressed": 252172,
   "EOS_Completed": 2599,
-  "EOS_NewPlayers": 4195,
+  "EOS_NewPlayers": 4165,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38998,6 +38998,11 @@
       "Time": "2024-01-07T00:10:25.5358446+00:00",
       "NumProgressed": 252137,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-07T02:05:11.3679792+00:00",
+      "NumProgressed": 252172,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 546,
@@ -39009,7 +39014,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10085
+      "UsersEstimate": 10087
     },
     {
       "ID": "objective_completed_10",
@@ -39377,7 +39382,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "objective_completed_110",
@@ -40113,7 +40118,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "objective_completed_149",
@@ -40191,9 +40196,9 @@
       "ID": "objective_completed_16",
       "SetID": "cc37lbc",
       "Name": "Low Initiative",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 757
     },
     {
       "ID": "objective_completed_164",
@@ -40201,7 +40206,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "objective_completed_165",
@@ -40233,7 +40238,7 @@
       "Name": "Building Trust",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "objective_completed_17",
@@ -40881,7 +40886,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "objective_completed_400",
@@ -41153,7 +41158,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "objective_completed_540",
@@ -42081,7 +42086,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "objective_completed_690",
@@ -42153,7 +42158,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "objective_completed_70",
@@ -43297,7 +43302,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "objective_completed_1558",
@@ -43313,7 +43318,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "objective_completed_1563",
@@ -43376,21 +43381,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218411,
+      "Progressed": 218446,
       "Completed": 4140
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252137,
+      "Progressed": 252172,
       "Completed": 2599
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-06T22:59:55.3402787+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:10:25.5358442+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:05:11.3679787+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-07T00:00:20.3280721+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:10:25.5383451+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:55:09.4340616+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:05:11.37042+00:00"
 }

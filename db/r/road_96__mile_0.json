@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 653,
+  "EOS_Progressed": 654,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2362,6 +2362,11 @@
       "Time": "2024-01-06T22:11:02.7503659+00:00",
       "NumProgressed": 653,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T02:04:56.1945103+00:00",
+      "NumProgressed": 654,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2373,15 +2378,15 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 80,
-      "UsersEstimate": 248
+      "UsersEstimate": 255
     },
     {
       "ID": "completeact3",
@@ -2413,15 +2418,15 @@
       "Name": "Truthseeker",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "scoreminrankrb2",
       "SetID": "40n95i5",
       "Name": "Freedom",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 46
     },
     {
       "ID": "scoreminrankrf1",
@@ -2435,9 +2440,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 46
     },
     {
       "ID": "scoreminrankrh1",
@@ -2445,7 +2450,7 @@
       "Name": "Souvenirs",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "scoreminrankrp1",
@@ -2492,7 +2497,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 653,
+      "Progressed": 654,
       "Completed": 3
     }
   ],
@@ -2500,8 +2505,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:10:10.6180553+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:04:56.1945101+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:57:46.135937+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:10:10.6180733+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:52:30.9608429+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:04:56.1945308+00:00"
 }

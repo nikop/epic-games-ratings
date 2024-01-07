@@ -39,13 +39,13 @@
 | Sword Master | 1.00% | ~7 |
 | Weapon Master | 1.00% | ~7 |
 | Witch | 1.00% | ~7 |
-| Assassin | 0.80% | ~5 |
-| Art Collector | 0.50% | ~3 |
-| Necromancer | 0.50% | ~3 |
+| Assassin | 0.70% | ~5 |
+| Art Collector | 0.40% | ~3 |
+| Necromancer | 0.40% | ~3 |
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 327)  
+Progressed: 667 (Ranked 327)  
 Completed: 1 (0.15%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 1 (0.15%) (Ranked 285)
 | 2024-01-04 | 659 | 1 |
 | 2024-01-05 | 662 | 1 |
 | 2024-01-06 | 666 | 1 |
+| 2024-01-07 | 667 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,18 +6,18 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,085 |
+| A Brief Tour of the Realms | 4.00% | ~10,087 |
 | The Cursed Farmer | 2.00% | ~5,043 |
-| Beast Intentions | 1.00% | ~2,521 |
-| The Mad Wizard | 1.00% | ~2,521 |
+| Beast Intentions | 1.00% | ~2,522 |
+| The Mad Wizard | 1.00% | ~2,522 |
 | The Ring of Regeneration | 0.80% | ~2,017 |
-| Welcome to Sigil | 0.80% | ~1,747 |
+| Welcome to Sigil | 0.80% | ~1,748 |
 | Are Ya Chicken? | 0.70% | ~1,765 |
 | Were-verpowered | 0.60% | ~1,513 |
 | Seeking Allies | 0.60% | ~1,513 |
 | Mad Cow Disease | 0.60% | ~1,513 |
 | Friendly Imps | 0.60% | ~1,513 |
-| Fast Food | 0.60% | ~1,310 |
+| Fast Food | 0.60% | ~1,311 |
 | A Persistent Buzzing | 0.50% | ~1,261 |
 | Pure Energy | 0.50% | ~1,261 |
 | The Overgrown Grove | 0.50% | ~1,092 |
@@ -35,15 +35,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.40% | ~874 |
 | Don't Lose Your Head | 0.40% | ~874 |
 | Mind Spike | 0.40% | ~874 |
-| Beast Mode | 0.30% | ~756 |
-| A Mysterious Summons | 0.30% | ~756 |
-| Building Trust | 0.30% | ~756 |
-| Useless Allies | 0.30% | ~756 |
-| Exploring Port Nyanzaru | 0.30% | ~756 |
-| Escort to Waterdeep | 0.30% | ~756 |
+| Beast Mode | 0.30% | ~757 |
+| Low Initiative | 0.30% | ~757 |
+| A Mysterious Summons | 0.30% | ~757 |
+| Building Trust | 0.30% | ~757 |
+| Useless Allies | 0.30% | ~757 |
+| Exploring Port Nyanzaru | 0.30% | ~757 |
+| Escort to Waterdeep | 0.30% | ~757 |
 | The Silken Swamp | 0.20% | ~504 |
 | Supply Run | 0.20% | ~504 |
-| Low Initiative | 0.20% | ~504 |
 | Street War | 0.20% | ~504 |
 | March of the Undead | 0.20% | ~504 |
 | No Time To Rest | 0.20% | ~504 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,137 (Ranked 70)  
+Progressed: 252,172 (Ranked 70)  
 Completed: 2,599 (1.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -815,7 +815,7 @@ Completed: 2,599 (1.03%) (Ranked 172)
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
-| 2024-01-07 | 252,137 | 2,599 |
+| 2024-01-07 | 252,172 | 2,599 |
 ## Awards
 Max (Great for Beginners): 5,756  (Ranked 74)  
 Sum: 33,362 (Ranked 41)  

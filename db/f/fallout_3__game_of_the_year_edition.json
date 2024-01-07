@@ -2,13 +2,13 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 447,
+  "Ranking_Rating": 448,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
     "PcReleaseDate": "2009-10-13T13:00:00+00:00",
@@ -6917,10 +6917,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 30018,
       "NumberOfAwardsMax": 14601
+    },
+    {
+      "Time": "2024-01-07T01:53:23.0602468+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 30020,
+      "NumberOfAwardsMax": 14601
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30018,
+  "NumberOfAwards": 30020,
   "NumberOfAwardsMax": 14601,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6982,7 +6988,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1428
+      "Count": 1430
     },
     {
       "Text": "This game has a Creative Community",
@@ -7009,8 +7015,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-06T23:58:36.4475463+00:00",
+  "LastChanged": "2024-01-07T01:53:23.0602466+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.7164037+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:58:36.4475469+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:08:22.8379274+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:53:23.0602473+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:01:14.9217421+00:00"
 }

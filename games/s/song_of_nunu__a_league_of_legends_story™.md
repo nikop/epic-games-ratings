@@ -29,16 +29,16 @@ Rating: 4.53 (Ranked 564)
 | You Get Used To It | 41.00% | ~611 |
 | Family | 39.00% | ~581 |
 | Biggest Snowball Ever | 39.00% | ~581 |
+| Freeze The Ice Witch | 39.00% | ~581 |
 | Boosted! | 39.00% | ~581 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~581 |
-| Freeze The Ice Witch | 38.00% | ~566 |
 | True Legends | 38.00% | ~566 |
+| It Is Not Over | 36.00% | ~536 |
 | Bullseye | 36.00% | ~536 |
-| It Is Not Over | 35.00% | ~522 |
 | On The Rocks | 34.00% | ~507 |
 | Snowy Poro | 32.00% | ~477 |
 | Never Gets Old | 32.00% | ~477 |
-| Vertical Power | 26.00% | ~387 |
+| Vertical Power | 27.00% | ~402 |
 | One From The Heart | 14.00% | ~209 |
 | Yummy | 10.00% | ~149 |
 | Snowball Fightn't | 9.00% | ~134 |

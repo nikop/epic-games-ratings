@@ -10,7 +10,7 @@
 | Randomized | 18.00% | ~52 |
 | Conquered | 18.00% | ~52 |
 | Scribe | 11.00% | ~32 |
-| Breached | 10.00% | ~29 |
+| Breached | 11.00% | ~32 |
 | Conciliator | 9.00% | ~26 |
 | Tactician | 9.00% | ~26 |
 | Fight Another Day | 9.00% | ~26 |
@@ -21,9 +21,9 @@
 | Harbinger | 6.00% | ~17 |
 | Tail-wind | 6.00% | ~17 |
 | Pilgrimage's End | 6.00% | ~17 |
+| Merchant | 6.00% | ~17 |
 | Deputized | 5.00% | ~14 |
 | Courier | 5.00% | ~14 |
-| Merchant | 5.00% | ~14 |
 | Quartermaster | 4.00% | ~12 |
 | Strategist | 4.00% | ~12 |
 | Been There | 4.00% | ~12 |

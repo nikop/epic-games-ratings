@@ -17,10 +17,10 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 6.00% | ~229 |
 | Surgical Excision | 5.00% | ~191 |
 | A Foul Creche | 5.00% | ~191 |
-| Honoured Battle-Brother | 4.00% | ~152 |
-| The Emperor Protects | 4.00% | ~152 |
-| Nemesis Master | 4.00% | ~152 |
-| Gunmaster | 4.00% | ~152 |
+| Honoured Battle-Brother | 4.00% | ~153 |
+| The Emperor Protects | 4.00% | ~153 |
+| Nemesis Master | 4.00% | ~153 |
+| Gunmaster | 4.00% | ~153 |
 | Hold Your Ground | 3.00% | ~114 |
 | Just a Scratch | 3.00% | ~114 |
 | Hive Exterminator | 3.00% | ~114 |
@@ -42,7 +42,7 @@ Number of Ratings: 371  (23.09.2022)
 | Patron of Deimos | 0.90% | ~34 |
 | Engine Kill | 0.90% | ~34 |
 | Death Comes For All | 0.90% | ~34 |
-| Harvest No More | 0.80% | ~30 |
+| Harvest No More | 0.80% | ~31 |
 | Hands-On Research | 0.70% | ~27 |
 | True Mastery | 0.70% | ~27 |
 | Strike Force | 0.60% | ~23 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,812 (Ranked 217)  
+Progressed: 3,813 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,765 | 0 |
 | 2024-01-05 | 3,783 | 0 |
 | 2024-01-06 | 3,811 | 0 |
-| 2024-01-07 | 3,812 | 0 |
+| 2024-01-07 | 3,813 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 281)  
 Sum: 496 (Ranked 334)  

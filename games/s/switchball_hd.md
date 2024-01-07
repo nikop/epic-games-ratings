@@ -9,12 +9,12 @@
 | Metalball Badge | 21.00% | ~37 |
 | Powerball Badge | 16.00% | ~28 |
 | Airball Badge | 3.00% | ~5 |
-| Spyglass | 2.00% | ~3 |
+| Spyglass | 2.00% | ~4 |
 | Speedroller Trainee | 1.00% | ~2 |
 | Speedroller Expert | 0.60% | ~1 |
 | Speedroller Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 438)  
+Progressed: 175 (Ranked 438)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,3 +90,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-25 | 172 | 0 |
 | 2024-01-05 | 173 | 0 |
 | 2024-01-06 | 174 | 0 |
+| 2024-01-07 | 175 | 0 |

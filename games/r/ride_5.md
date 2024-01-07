@@ -1,13 +1,13 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.46 (Ranked 675)  
+Rating: 4.46 (Ranked 674)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 49.00% | ~1,653 |
-| First Love | 44.00% | ~1,484 |
-| Clean Race | 44.00% | ~1,484 |
+| First Love | 44.00% | ~1,485 |
+| Clean Race | 44.00% | ~1,485 |
 | Hear That Roar! | 42.00% | ~1,417 |
 | Bitter Rivalry | 30.00% | ~1,012 |
 | Rivals to the End | 30.00% | ~1,012 |
@@ -17,7 +17,7 @@ Rating: 4.46 (Ranked 675)
 | Restored and Ready | 20.00% | ~675 |
 | I Want One Too! | 20.00% | ~675 |
 | Legendary!!! | 20.00% | ~675 |
-| Go-Faster Stripes | 17.00% | ~573 |
+| Go-Faster Stripes | 17.00% | ~574 |
 | I'm Here Too! | 14.00% | ~472 |
 | We've Just Begun | 14.00% | ~472 |
 | Is It the Right Size? | 9.00% | ~304 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 675)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,373 (Ranked 223)  
+Progressed: 3,374 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,289 | 0 |
 | 2024-01-05 | 3,324 | 0 |
 | 2024-01-06 | 3,370 | 0 |
-| 2024-01-07 | 3,373 | 0 |
+| 2024-01-07 | 3,374 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

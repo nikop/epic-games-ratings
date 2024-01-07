@@ -24,8 +24,8 @@
 | Egg On His Face | 8.00% | ~8 |
 | Who dat? | 8.00% | ~8 |
 | Batteries not Included | 7.00% | ~7 |
-| What a Winner! | 5.00% | ~5 |
-| Colossal Cave Explorer | 4.00% | ~4 |
+| What a Winner! | 6.00% | ~6 |
+| Colossal Cave Explorer | 5.00% | ~5 |
 | Master Cave Plunderer | 4.00% | ~4 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

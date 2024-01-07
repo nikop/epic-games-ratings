@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1465,10 +1465,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 756,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-01-07T01:53:38.5060518+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 757,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 756,
+  "NumberOfAwards": 757,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1476,7 +1482,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game is Relaxing",
@@ -1539,9 +1545,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6957,
+  "EOS_Progressed": 6960,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16169,6 +16175,11 @@
       "Time": "2024-01-07T00:05:09.3387014+00:00",
       "NumProgressed": 6957,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T01:59:40.7268869+00:00",
+      "NumProgressed": 6960,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16188,7 +16199,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -16220,7 +16231,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -16276,7 +16287,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2992
+      "UsersEstimate": 2993
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -16284,7 +16295,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -16300,7 +16311,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -16324,7 +16335,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -16332,7 +16343,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -16340,7 +16351,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5079
+      "UsersEstimate": 5081
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16364,7 +16375,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -16372,7 +16383,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH_MYWAYS",
@@ -16436,7 +16447,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16452,7 +16463,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16499,15 +16510,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6957,
+      "Progressed": 6960,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-01-05T23:58:02.9228699+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:05:09.338701+00:00",
+  "LastChanged": "2024-01-07T01:53:38.5060517+00:00",
+  "LastChanged_Achievements": "2024-01-07T01:59:40.7268867+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:58:51.2239481+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:05:09.3387917+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:53:38.5060521+00:00",
+  "LastUpdate_Achievements": "2024-01-07T01:59:40.7269681+00:00"
 }

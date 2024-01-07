@@ -9,7 +9,7 @@ Rating: 4.38 (Ranked 789)
 | Training Simulation | 79.00% | ~573 |
 | Kuku Bird Hunter | 65.00% | ~471 |
 | Storm Traveller | 60.00% | ~435 |
-| Wolf King Killer | 54.00% | ~392 |
+| Wolf King Killer | 55.00% | ~399 |
 | Fashion Connoisseur | 52.00% | ~377 |
 | Arms Mechanic | 49.00% | ~355 |
 | Flower Thief | 44.00% | ~319 |
@@ -24,7 +24,7 @@ Rating: 4.38 (Ranked 789)
 | Trader | 22.00% | ~160 |
 | Weapon Boost | 21.00% | ~152 |
 | Flying Kobold Killer | 19.00% | ~138 |
-| Youth Magnet | 18.00% | ~130 |
+| Youth Magnet | 19.00% | ~138 |
 | Furious Scorpion Killer | 17.00% | ~123 |
 | Lethal Blade Mantis Killer | 17.00% | ~123 |
 | Squeaky Clean | 17.00% | ~123 |

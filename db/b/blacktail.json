@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,7 +81,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 880,
+  "EOS_Progressed": 881,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -2791,6 +2791,11 @@
       "Time": "2024-01-06T19:09:53.856014+00:00",
       "NumProgressed": 880,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T02:05:00.2271489+00:00",
+      "NumProgressed": 881,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2936,9 +2941,9 @@
       "ID": "LostAndFound",
       "SetID": "2aagp3d",
       "Name": "Both sides",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 18
     },
     {
       "ID": "MuhsroomTruth",
@@ -2994,7 +2999,7 @@
       "Name": "Uprooting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "TheGuardian",
@@ -3018,15 +3023,15 @@
       "Name": "Tooth fairy",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Toxic",
       "SetID": "2aagp3d",
       "Name": "Toxic",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 18
     },
     {
       "ID": "Webbed",
@@ -3057,7 +3062,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 880,
+      "Progressed": 881,
       "Completed": 1
     }
   ],
@@ -3065,8 +3070,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:10:14.6363485+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:05:00.2271485+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:21.1393886+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:58:03.890806+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:10:14.6363998+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:52:50.1597978+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:05:00.2272085+00:00"
 }

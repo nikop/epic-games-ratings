@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1829,6 +1829,11 @@
       "Time": "2024-01-06T20:10:40.8857428+00:00",
       "NumProgressed": 666,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T02:05:02.7481891+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1846,7 +1851,7 @@
       "ID": "ArtCollector",
       "SetID": "82505mn",
       "Name": "Art Collector",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1862,7 +1867,7 @@
       "ID": "Assassin",
       "SetID": "82505mn",
       "Name": "Assassin",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -2006,7 +2011,7 @@
       "ID": "Necromancer",
       "SetID": "82505mn",
       "Name": "Necromancer",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -2159,7 +2164,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 1
     }
   ],
@@ -2167,8 +2172,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:10:17.1615917+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:05:02.7481887+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:59:37.0347668+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:10:17.1616461+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:54:24.7576761+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:05:02.7482218+00:00"
 }

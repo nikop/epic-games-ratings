@@ -2,7 +2,7 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 150,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 173,
@@ -1433,9 +1433,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 14085,
+  "EOS_Progressed": 14086,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 902,
+  "EOS_NewPlayers": 895,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9053,6 +9053,11 @@
       "Time": "2024-01-07T00:09:26.0057925+00:00",
       "NumProgressed": 14085,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-07T02:04:09.9053729+00:00",
+      "NumProgressed": 14086,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 24,
@@ -9088,7 +9093,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8451
+      "UsersEstimate": 8452
     },
     {
       "ID": "DemonCastleRestoration",
@@ -9104,7 +9109,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "FakeGoddessGone",
@@ -9112,7 +9117,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 5493
+      "UsersEstimate": 5494
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -9152,7 +9157,7 @@
       "Name": "The Hero Killer",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 3380
+      "UsersEstimate": 3381
     },
     {
       "ID": "LeoniasFall",
@@ -9176,7 +9181,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5211
+      "UsersEstimate": 5212
     },
     {
       "ID": "RookieWelcome",
@@ -9192,7 +9197,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8451
+      "UsersEstimate": 8452
     },
     {
       "ID": "SavedElderEnt_2",
@@ -9216,7 +9221,7 @@
       "Name": "Inventory Management",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4366
+      "UsersEstimate": 4367
     },
     {
       "ID": "TheLegendBegins",
@@ -9224,7 +9229,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13099
+      "UsersEstimate": 13100
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -9248,22 +9253,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11268
+      "UsersEstimate": 11269
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14085,
+      "Progressed": 14086,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-06T17:58:16.6335972+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:09:26.005792+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:04:09.9053725+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9431294+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:58:41.0261783+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:09:26.005851+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:53:27.947911+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:04:09.9054281+00:00"
 }

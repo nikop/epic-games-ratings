@@ -4,8 +4,8 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 502,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
     "PcReleaseDate": "2021-05-17T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -799,6 +799,11 @@
       "Time": "2024-01-06T14:10:00.4970613+00:00",
       "NumProgressed": 174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T02:04:54.0393959+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -874,21 +879,21 @@
       "Name": "Spyglass",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:10:08.3845148+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:04:54.0393956+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:57:00.0282457+00:00",
-  "LastUpdate_Ratings": "2024-01-07T00:03:15.78805+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:10:08.3845264+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:57:43.7751492+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:04:54.0394056+00:00"
 }

@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.50 (Ranked 614)  
+Rating: 4.50 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,8 +20,8 @@ Rating: 4.50 (Ranked 614)
 | Lock, Stock, And Barrel | 43.00% | ~606 |
 | Land, Ho! | 43.00% | ~606 |
 | Back In The Saddle | 42.00% | ~592 |
-| No Man Is An Island | 41.00% | ~578 |
-| At Wits' End | 40.00% | ~564 |
+| No Man Is An Island | 42.00% | ~592 |
+| At Wits' End | 41.00% | ~578 |
 | Fhtagn! | 39.00% | ~550 |
 | Bookworm | 38.00% | ~536 |
 | Up In Flames | 38.00% | ~536 |
@@ -35,7 +35,7 @@ Rating: 4.50 (Ranked 614)
 | Reawakened | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,410 (Ranked 270)  
-Completed: 41 (2.91%) (Ranked 115)  
+Completed: 42 (2.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -252,6 +252,7 @@ Completed: 41 (2.91%) (Ranked 115)
 | 2024-01-04 | 1,394 | 40 |
 | 2024-01-05 | 1,400 | 41 |
 | 2024-01-06 | 1,410 | 41 |
+| 2024-01-07 | 1,410 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

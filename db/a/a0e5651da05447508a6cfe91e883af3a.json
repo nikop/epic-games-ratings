@@ -2,10 +2,10 @@
   "ID": "a0e5651da05447508a6cfe91e883af3a",
   "Name": "Dark Table CCG",
   "ProductSlug": "dark-table-ccg-abe8b6",
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-18T02:00:00+00:00",
     "PcReleaseDate": "2023-11-18T02:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 680,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -2244,6 +2244,11 @@
       "Time": "2024-01-07T00:10:02.0332687+00:00",
       "NumProgressed": 679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T02:04:47.598644+00:00",
+      "NumProgressed": 680,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-03T19:09:22.7139112+00:00",
@@ -2360,7 +2365,7 @@
       "Name": "First Login",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "Losses_100",
@@ -2422,9 +2427,9 @@
       "ID": "Wins_Land_17",
       "SetID": "2bonhb9",
       "Name": "Land Origin Player",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Wins_SameLeader_100",
@@ -2471,14 +2476,14 @@
     {
       "ID": "2bonhb9",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 680,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:10:02.0332683+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:04:47.5986435+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:09.7203154+00:00",
-  "LastUpdate_Ratings": "2024-01-07T00:00:14.4152536+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:10:02.033297+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:55:03.0678642+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:04:47.5986933+00:00"
 }

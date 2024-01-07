@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1034,
+  "EOS_Progressed": 1035,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3625,6 +3625,11 @@
       "Time": "2024-01-06T23:08:50.9395487+00:00",
       "NumProgressed": 1034,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T02:04:09.3918496+00:00",
+      "NumProgressed": 1035,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3819,9 +3824,9 @@
       "ID": "KillingSpree",
       "SetID": "71c0n9i",
       "Name": "Killing Spree",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LothCampaign",
@@ -3955,9 +3960,9 @@
       "ID": "UltraKill",
       "SetID": "71c0n9i",
       "Name": "Ultra Kill",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 31
     },
     {
       "ID": "WielderLevel1",
@@ -3971,9 +3976,9 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 238
     },
     {
       "ID": "WielderLevel3",
@@ -3997,7 +4002,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4021,7 +4026,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4068,15 +4073,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1034,
+      "Progressed": 1035,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:09:25.5005284+00:00",
-  "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:59:35.8079868+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:09:25.5005811+00:00"
+  "LastChanged_Achievements": "2024-01-07T02:04:09.3918455+00:00",
+  "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
+  "LastUpdate_Ratings": "2024-01-07T01:54:23.2382304+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:04:09.3918939+00:00"
 }

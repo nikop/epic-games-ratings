@@ -6,21 +6,21 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~888 |
+| Malpractice Assurance | 13.00% | ~889 |
 | Lost and Found | 8.00% | ~547 |
-| Autodidact | 7.00% | ~9,237 |
+| Autodidact | 7.00% | ~9,238 |
 | This Belongs in a Museum | 6.00% | ~7,918 |
 | Creep and Sleep | 6.00% | ~7,918 |
 | Overdue Notice | 6.00% | ~7,918 |
-| This guy... again? | 6.00% | ~410 |
-| Ploughshares to Swords | 6.00% | ~410 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,598 |
-| Serenity Now! | 5.00% | ~6,598 |
-| Meat and Greet | 5.00% | ~6,598 |
-| Catch and Decease | 5.00% | ~6,598 |
-| Escape from the Black Hole | 5.00% | ~6,598 |
-| Rush Hour | 5.00% | ~6,598 |
-| To Grandmother's House | 5.00% | ~6,598 |
+| This guy... again? | 6.00% | ~411 |
+| Ploughshares to Swords | 6.00% | ~411 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,599 |
+| Serenity Now! | 5.00% | ~6,599 |
+| Meat and Greet | 5.00% | ~6,599 |
+| Catch and Decease | 5.00% | ~6,599 |
+| Escape from the Black Hole | 5.00% | ~6,599 |
+| Rush Hour | 5.00% | ~6,599 |
+| To Grandmother's House | 5.00% | ~6,599 |
 | Bloody Graduation | 5.00% | ~342 |
 | It Rings a Bell | 4.00% | ~5,279 |
 | Not Today! | 4.00% | ~5,279 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,279 |
 | FNG | 4.00% | ~5,279 |
 | Nope | 4.00% | ~5,279 |
-| Friends 'Til the End | 4.00% | ~273 |
+| Friends 'Til the End | 4.00% | ~274 |
 | Resurrection | 3.00% | ~3,959 |
 | Unleash Hell | 3.00% | ~3,959 |
 | Funny Guy | 3.00% | ~3,959 |
@@ -67,7 +67,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 1.00% | ~68 |
 | Hat Trick | 0.90% | ~1,188 |
 | Triage | 0.90% | ~1,188 |
-| No Mercy | 0.90% | ~61 |
+| No Mercy | 0.90% | ~62 |
 | Et Tu, Riposte? | 0.80% | ~55 |
 | The World As It Was | 0.60% | ~792 |
 | A Life Well Lived | 0.50% | ~660 |
@@ -76,7 +76,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | On This Long Road, We Found Redemption | 0.50% | ~34 |
 | Battle Hardened | 0.40% | ~27 |
 | Tears in the Rain | 0.30% | ~396 |
-| Maître De La Lame | 0.30% | ~20 |
+| Maître De La Lame | 0.30% | ~21 |
 | Circle of Life | 0.20% | ~264 |
 | Grand Slam | 0.20% | ~264 |
 | Loop Year | 0.10% | ~132 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,963 (Ranked 91)  
+Progressed: 131,973 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,10 +338,10 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 131,963 | 3 |
+| 2024-01-07 | 131,973 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
-Sum: 21,481 (Ranked 58)  
+Sum: 21,484 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): -8
 | This game has Unique Visuals | 1,458 |
 | This game has Amazing Storytelling | 1,438 |
 | This game has Quickly Understood Controls | 1,406 |
-| This game has a Creative Community | 1,080 |
+| This game has a Creative Community | 1,083 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -704,3 +704,4 @@ Diff (max vs sum): -8
 | 2024-01-04 | 4.68 | - | 7,951 | 21,421 |
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
+| 2024-01-07 | 4.68 | - | 7,972 | 21,484 |

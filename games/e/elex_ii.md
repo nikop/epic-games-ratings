@@ -16,7 +16,7 @@ Number of Ratings: 124  (23.09.2022)
 | Festival-goer | 23.00% | ~46 |
 | Commander | 21.00% | ~42 |
 | Irissa's Fate | 17.00% | ~34 |
-| Long-Haul Flyer | 15.00% | ~30 |
+| Long-Haul Flyer | 14.00% | ~28 |
 | Pass A38 | 13.00% | ~26 |
 | Berserker | 12.00% | ~24 |
 | Family Reunion | 12.00% | ~24 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199 (Ranked 427)  
+Progressed: 200 (Ranked 427)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,6 +82,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 177 | 0 |
 | 2024-01-05 | 187 | 0 |
 | 2024-01-06 | 199 | 0 |
+| 2024-01-07 | 200 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

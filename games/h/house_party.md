@@ -22,8 +22,8 @@ Number of Ratings: 177  (23.09.2022)
 | Newcomer: Vickie | 1.00% | ~72 |
 | Social Butterfly | 1.00% | ~72 |
 | The Muse: Madison | 1.00% | ~72 |
+| The Crush | 0.90% | ~65 |
 | Smooth Operator: Ashley | 0.80% | ~57 |
-| The Crush | 0.80% | ~57 |
 | Amy: Scavenger Hunt | 0.70% | ~50 |
 | Casanova | 0.70% | ~50 |
 | Deck the Balls | 0.70% | ~30 |
@@ -58,6 +58,7 @@ Number of Ratings: 177  (23.09.2022)
 | Good Riddance! | 0.20% | ~14 |
 | I Know Grump-Fu | 0.20% | ~14 |
 | Ronin | 0.20% | ~14 |
+| The Crush(es) | 0.20% | ~14 |
 | La Coochadora | 0.20% | ~14 |
 | Snapped | 0.20% | ~14 |
 | Against All Odds | 0.10% | ~7 |
@@ -72,7 +73,6 @@ Number of Ratings: 177  (23.09.2022)
 | Party Pooper | 0.10% | ~7 |
 | Sucker Punch | 0.10% | ~7 |
 | That's a Nice Bush! | 0.10% | ~4 |
-| The Crush(es) | 0.10% | ~7 |
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)

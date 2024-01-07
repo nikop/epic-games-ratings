@@ -2,13 +2,13 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 270,
-  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -164,10 +164,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1410,
-  "EOS_Completed": 41,
+  "EOS_Completed": 42,
   "EOS_NewPlayers": 53,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.91,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 2.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -4978,6 +4978,11 @@
       "Time": "2024-01-06T21:04:06.2120203+00:00",
       "NumProgressed": 1410,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2024-01-07T01:58:51.1250452+00:00",
+      "NumProgressed": 1410,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 28,
@@ -5155,9 +5160,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 578
+      "UsersEstimate": 592
     },
     {
       "ID": "MQ07_1",
@@ -5171,9 +5176,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 564
+      "UsersEstimate": 578
     },
     {
       "ID": "MQ08_1",
@@ -5213,15 +5218,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 1410,
-      "Completed": 41
+      "Completed": 42
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:04:20.0379327+00:00",
+  "LastChanged_Achievements": "2024-01-07T01:58:51.125045+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.4350556+00:00",
-  "LastUpdate_Ratings": "2024-01-07T00:03:31.7673734+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:04:20.037986+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:58:00.889275+00:00",
+  "LastUpdate_Achievements": "2024-01-07T01:58:51.1250905+00:00"
 }

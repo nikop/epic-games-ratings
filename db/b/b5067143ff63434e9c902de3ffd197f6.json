@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18703,
+  "EOS_Progressed": 18706,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1201,
+  "EOS_NewPlayers": 1190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11564,6 +11564,11 @@
       "Time": "2024-01-07T00:06:35.1173381+00:00",
       "NumProgressed": 18703,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T02:01:08.2558491+00:00",
+      "NumProgressed": 18706,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -11680,7 +11685,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -11688,7 +11693,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -11767,14 +11772,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 18703,
+      "Progressed": 18706,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:06:35.1173374+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:01:08.2558486+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:14.7039433+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:57:52.2685274+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:06:35.11745+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:52:37.44652+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:01:08.2559342+00:00"
 }

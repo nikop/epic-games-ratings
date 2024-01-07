@@ -1,13 +1,13 @@
 # Touch Type Tale
 [Store](https://store.epicgames.com/en-US/p/touch-type-tale)  
 [View Rawdata](../../db/t/touch_type_tale.json)  
-Rating: 4.75 (Ranked 150)  
+Rating: 4.75 (Ranked 149)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 87.00% | ~3,480 |
-| Flanked! | 75.00% | ~3,000 |
-| Economics 101 | 59.00% | ~2,360 |
+| You and what Army? | 87.00% | ~3,481 |
+| Flanked! | 75.00% | ~3,001 |
+| Economics 101 | 59.00% | ~2,361 |
 | Get Rich Quick | 41.00% | ~1,640 |
 | Do the Splits | 37.00% | ~1,480 |
 | Maestro | 25.00% | ~1,000 |
@@ -24,10 +24,10 @@ Rating: 4.75 (Ranked 150)
 | Damage Control | 7.00% | ~280 |
 | Master of the Brawl | 7.00% | ~280 |
 | Your Biggest Fans | 6.00% | ~240 |
-| A Secret Recipe | 6.00% | ~240 |
 | An Ally in Need | 5.00% | ~200 |
 | For the Queen | 5.00% | ~200 |
 | Not a Drop Wasted | 5.00% | ~200 |
+| A Secret Recipe | 5.00% | ~200 |
 | Reinforcements | 4.00% | ~160 |
 | Sweet Revenge | 4.00% | ~160 |
 | We Have the Technology | 4.00% | ~160 |
@@ -37,9 +37,9 @@ Rating: 4.75 (Ranked 150)
 | The Handyman Can! | 3.00% | ~120 |
 | A Brief Moment of Respite | 3.00% | ~120 |
 | Untouchable | 1.00% | ~40 |
-| All Geared Up | 0.90% | ~36 |
+| All Geared Up | 0.80% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,000 (Ranked 212)  
+Progressed: 4,001 (Ranked 212)  
 Completed: 11 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,6 +271,7 @@ Completed: 11 (0.27%) (Ranked 258)
 | 2024-01-04 | 3,983 | 11 |
 | 2024-01-05 | 3,992 | 11 |
 | 2024-01-06 | 4,000 | 11 |
+| 2024-01-07 | 4,001 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

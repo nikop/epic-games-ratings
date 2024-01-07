@@ -2,13 +2,13 @@
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
-  "Ranking_Rating": 636,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 472,
+  "EOS_Progressed": 475,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1770,6 +1770,11 @@
       "Time": "2024-01-07T00:10:05.775055+00:00",
       "NumProgressed": 472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T02:04:51.3553419+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1894,7 +1899,7 @@
       "Name": "Mammon",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "MasterofStrife",
@@ -1916,9 +1921,9 @@
       "ID": "MintI",
       "SetID": "329ak73",
       "Name": "Mint I",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "MintII",
@@ -2021,15 +2026,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 472,
+      "Progressed": 475,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:10:05.7750504+00:00",
-  "LastUpdate_AppInfo": "2023-12-31T01:46:47.7338435+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:57:35.6914457+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:10:05.7750745+00:00"
+  "LastChanged_Achievements": "2024-01-07T02:04:51.3553417+00:00",
+  "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
+  "LastUpdate_Ratings": "2024-01-07T01:52:19.7048273+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:04:51.3553693+00:00"
 }

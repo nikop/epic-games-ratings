@@ -6,18 +6,18 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,079 |
-| Un-Lonely Island | 44.00% | ~3,061 |
-| The Beginning of a Servantship | 43.00% | ~2,992 |
-| Trade Is My Trait | 36.00% | ~2,505 |
-| Number 18 | 23.00% | ~1,600 |
-| We Don't Have Time For That | 18.00% | ~1,252 |
-| The Legend of Langostino | 16.00% | ~1,113 |
-| The Governator | 16.00% | ~1,113 |
+| Just One...More...Term... | 73.00% | ~5,081 |
+| Un-Lonely Island | 44.00% | ~3,062 |
+| The Beginning of a Servantship | 43.00% | ~2,993 |
+| Trade Is My Trait | 36.00% | ~2,506 |
+| Number 18 | 23.00% | ~1,601 |
+| We Don't Have Time For That | 18.00% | ~1,253 |
+| The Legend of Langostino | 16.00% | ~1,114 |
+| The Governator | 16.00% | ~1,114 |
 | Caribbean Comrade | 15.00% | ~1,044 |
 | The Dreamer of Dreams | 15.00% | ~1,044 |
-| Go Sovereigns! | 11.00% | ~765 |
-| For Science! | 11.00% | ~765 |
+| Go Sovereigns! | 11.00% | ~766 |
+| For Science! | 11.00% | ~766 |
 | Happy Ending? | 10.00% | ~696 |
 | Of Seals And Men | 9.00% | ~626 |
 | Shackadelic | 9.00% | ~626 |
@@ -25,8 +25,8 @@ Number of Ratings: 398  (23.09.2022)
 | Firestarter | 7.00% | ~487 |
 | Make Tropico Great Again! | 7.00% | ~487 |
 | French Connection | 7.00% | ~487 |
-| Don't Panic! | 6.00% | ~417 |
-| I Owe You Nothing | 6.00% | ~417 |
+| Don't Panic! | 6.00% | ~418 |
+| I Owe You Nothing | 6.00% | ~418 |
 | Viva Tropico! | 5.00% | ~348 |
 | Computer Says "No" | 5.00% | ~348 |
 | Beware The Betman | 5.00% | ~348 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~56 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,957 (Ranked 197)  
+Progressed: 6,960 (Ranked 197)  
 Completed: 2 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,10 +309,10 @@ Completed: 2 (0.03%) (Ranked 353)
 | 2024-01-04 | 6,898 | 2 |
 | 2024-01-05 | 6,922 | 2 |
 | 2024-01-06 | 6,956 | 2 |
-| 2024-01-07 | 6,957 | 2 |
+| 2024-01-07 | 6,960 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 369)  
-Sum: 756 (Ranked 302)  
+Sum: 757 (Ranked 302)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -321,7 +321,7 @@ Diff (max vs sum): 67
 | This game is Relaxing | 103 |
 | This game has Quickly Understood Controls | 103 |
 | This game has Amazing Storytelling | 96 |
-| This game is Extremely Fun | 94 |
+| This game is Extremely Fun | 95 |
 | This game is Educational | 92 |
 | This game has Amazing Characters | 91 |
 | This game has a Creative Community | 71 |
@@ -512,3 +512,4 @@ Diff (max vs sum): 67
 | 2024-01-01 | 4.66 | - | 106 | 752 |
 | 2024-01-04 | 4.66 | - | 106 | 755 |
 | 2024-01-05 | 4.66 | - | 106 | 756 |
+| 2024-01-07 | 4.66 | - | 106 | 757 |

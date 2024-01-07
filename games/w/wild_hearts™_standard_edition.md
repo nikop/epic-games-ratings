@@ -17,15 +17,15 @@
 | Kemono Hunter | 41.00% | ~492 |
 | Helpful Heart | 39.00% | ~468 |
 | Expert Conjuror | 39.00% | ~468 |
-| Flawless Crystal | 36.00% | ~432 |
+| Flawless Crystal | 37.00% | ~444 |
 | Bonds of Enmity | 36.00% | ~432 |
 | Distance Devourer | 35.00% | ~420 |
 | Counter Specialist | 32.00% | ~384 |
 | Master of the Skies | 31.00% | ~372 |
 | Mighty Marmelizer | 27.00% | ~324 |
 | Axer of Auspice | 27.00% | ~324 |
+| Fair Means or Foul | 26.00% | ~312 |
 | Kemono at Heart | 26.00% | ~312 |
-| Fair Means or Foul | 25.00% | ~300 |
 | Single Minded | 24.00% | ~288 |
 | Snare Specialist | 23.00% | ~276 |
 | Karakuri Trail | 22.00% | ~264 |

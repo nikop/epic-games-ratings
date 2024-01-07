@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 378)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 15.00% | ~1,048 |
+| Secret Technique | 15.00% | ~1,049 |
 | Realm Estate | 14.00% | ~979 |
 | A Wonderful Discovery | 13.00% | ~909 |
 | Walls Cannot Stop Us | 12.00% | ~839 |
@@ -16,9 +16,9 @@ Rating: 4.62 (Ranked 378)
 | Full Ascension | 7.00% | ~489 |
 | Stronger Together | 7.00% | ~489 |
 | Seat of Power | 7.00% | ~489 |
-| Valley of Wonders | 6.00% | ~419 |
-| In a Liege of Your Own | 6.00% | ~419 |
-| Intimidation Tactics | 6.00% | ~419 |
+| Valley of Wonders | 6.00% | ~420 |
+| In a Liege of Your Own | 6.00% | ~420 |
+| Intimidation Tactics | 6.00% | ~420 |
 | My Final Form | 5.00% | ~350 |
 | But this one is mine | 5.00% | ~350 |
 | Return of the Wizard King | 4.00% | ~280 |
@@ -55,7 +55,7 @@ Rating: 4.62 (Ranked 378)
 | Dawn of the Dread | 1.00% | ~70 |
 | Betrayal Most Foul | 0.80% | ~56 |
 | Duality | 0.80% | ~56 |
-| Snap Out of It! | 0.50% | ~35 |
+| Snap Out of It! | 0.60% | ~42 |
 | The Magic That Empowers Me! | 0.50% | ~35 |
 | Jack of All Tomes | 0.40% | ~28 |
 | A Very Special Ring | 0.40% | ~28 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,990 (Ranked 196)  
+Progressed: 6,992 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
-| 2024-01-07 | 6,990 | 7 |
+| 2024-01-07 | 6,992 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 212 (Ranked 410)  

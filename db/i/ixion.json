@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4042,
+  "EOS_Progressed": 4043,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8075,6 +8075,11 @@
       "Time": "2024-01-06T23:03:57.615245+00:00",
       "NumProgressed": 4042,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T01:59:03.9709177+00:00",
+      "NumProgressed": 4043,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8150,7 +8155,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_BASE_19",
@@ -8470,7 +8475,7 @@
       "Name": "Hope Seeker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_BASE_60",
@@ -8541,13 +8546,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2226,
+      "Progressed": 2227,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4042,
+      "Progressed": 4043,
       "Completed": 0
     }
   ],
@@ -8555,8 +8560,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-04T06:58:36.3655707+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:04:32.8874724+00:00",
+  "LastChanged_Achievements": "2024-01-07T01:59:03.9709174+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:59:53.8800158+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:04:32.8875569+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:54:42.2770165+00:00",
+  "LastUpdate_Achievements": "2024-01-07T01:59:03.9710012+00:00"
 }

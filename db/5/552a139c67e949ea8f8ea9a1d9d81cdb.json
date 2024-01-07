@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1875,
+  "EOS_Progressed": 1876,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4722,6 +4722,11 @@
       "Time": "2024-01-07T00:04:27.9241104+00:00",
       "NumProgressed": 1875,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T01:58:58.825186+00:00",
+      "NumProgressed": 1876,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4756,9 +4761,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "5k00jcd",
       "Name": "Drifting teacher",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4924,9 +4929,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -4998,7 +5003,7 @@
       "Name": "Beyond the limit",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -5101,20 +5106,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1875,
+      "Progressed": 1876,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1543,
+      "Progressed": 1544,
       "Completed": 1009
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:04:27.92411+00:00",
+  "LastChanged_Achievements": "2024-01-07T01:58:58.8251855+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
   "LastUpdate_Ratings": "2024-01-07T00:03:11.67145+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:04:27.9241907+00:00"
+  "LastUpdate_Achievements": "2024-01-07T01:58:58.8252331+00:00"
 }

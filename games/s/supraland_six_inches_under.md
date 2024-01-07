@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.76 (Ranked 131)  
+Rating: 4.75 (Ranked 149)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 14.00% | ~339 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,420 (Ranked 237)  
-Completed: 295 (12.19%) (Ranked 36)  
+Completed: 295 (12.19%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -365,3 +365,4 @@ Diff (max vs sum): -99
 | 2023-12-07 | 4.77 | - | 108 | 108 |
 | 2023-12-19 | 4.77 | - | 109 | 109 |
 | 2023-12-30 | 4.76 | - | 109 | 109 |
+| 2024-01-07 | 4.75 | - | 109 | 109 |

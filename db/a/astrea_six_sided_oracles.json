@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1793,9 +1793,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 257
     },
     {
       "ID": "MeissasSavior",
@@ -2240,8 +2240,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:09:04.8339929+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:03:48.1449411+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:58:43.7159791+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:09:04.8340847+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:53:30.9554379+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:03:48.1450373+00:00"
 }

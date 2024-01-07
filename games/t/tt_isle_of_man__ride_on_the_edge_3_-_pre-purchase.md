@@ -10,8 +10,8 @@
 | You Get An Upgrade, You Get An Upgrade! | 18.00% | ~46 |
 | Onwards and Upwards | 12.00% | ~31 |
 | Serial Winner | 9.00% | ~23 |
-| Start Your Engines | 8.00% | ~20 |
-| Lone Wolf | 8.00% | ~20 |
+| Start Your Engines | 8.00% | ~21 |
+| Lone Wolf | 8.00% | ~21 |
 | Highly Qualified | 7.00% | ~18 |
 | No Room for Improvement | 7.00% | ~18 |
 | Tailor-Made | 5.00% | ~13 |
@@ -44,7 +44,7 @@
 | Superbike Superfan | 0.80% | ~2 |
 | Playing Favourites | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256 (Ranked 411)  
+Progressed: 257 (Ranked 411)  
 Completed: 2 (0.78%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,3 +161,4 @@ Completed: 2 (0.78%) (Ranked 190)
 | 2024-01-04 | 248 | 2 |
 | 2024-01-05 | 254 | 2 |
 | 2024-01-06 | 256 | 2 |
+| 2024-01-07 | 257 | 2 |

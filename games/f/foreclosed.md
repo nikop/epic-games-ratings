@@ -12,16 +12,16 @@
 | The Red Herring | 31.00% | ~46 |
 | Telekinesis | 26.00% | ~38 |
 | Sapper | 21.00% | ~31 |
-| Tough Decision | 18.00% | ~27 |
+| Tough Decision | 19.00% | ~28 |
+| The Neuro-connector | 18.00% | ~27 |
 | Veteran Sniper | 17.00% | ~25 |
-| The Neuro-connector | 17.00% | ~25 |
+| Flatline | 17.00% | ~25 |
 | Unstoppable | 16.00% | ~24 |
-| Flatline | 16.00% | ~24 |
 | Mind Over Matter | 16.00% | ~24 |
 | Full and Final Settlement | 15.00% | ~22 |
 | One Click Away | 15.00% | ~22 |
 | Cyborg | 10.00% | ~15 |
-| Lifter | 8.00% | ~12 |
+| Lifter | 9.00% | ~13 |
 | Brain-hacker | 7.00% | ~10 |
 | Gravity Bender | 7.00% | ~10 |
 | Hunter | 4.00% | ~6 |

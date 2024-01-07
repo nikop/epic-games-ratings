@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 636,
+  "EOS_Progressed": 637,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -2799,6 +2799,11 @@
       "Time": "2024-01-07T00:05:06.5928706+00:00",
       "NumProgressed": 636,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T01:59:37.9651257+00:00",
+      "NumProgressed": 637,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2816,9 +2821,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 312
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2866,7 +2871,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2874,7 +2879,7 @@
       "Name": "This looks really bad",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2921,14 +2926,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 636,
+      "Progressed": 637,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:05:06.5928702+00:00",
+  "LastChanged_Achievements": "2024-01-07T01:59:37.9651255+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.0957409+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:58:56.4611368+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:05:06.5928969+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:53:43.8593676+00:00",
+  "LastUpdate_Achievements": "2024-01-07T01:59:37.9651461+00:00"
 }

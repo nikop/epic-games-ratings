@@ -6,38 +6,38 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,796 |
-| Life is your teacher | 5.00% | ~37,796 |
-| The Assault | 4.00% | ~30,237 |
-| Lightning Hands | 4.00% | ~30,237 |
-| The Hateful Pole Fighter | 3.00% | ~22,678 |
-| Old Child | 3.00% | ~22,678 |
-| A Lady's Blood in the Snow | 2.00% | ~15,118 |
-| Lady Wing Chun | 2.00% | ~15,118 |
-| Kill Nil | 2.00% | ~15,118 |
-| Stuntmaster | 2.00% | ~15,118 |
-| Street Fighting | 2.00% | ~15,118 |
-| State of constant learning | 2.00% | ~15,118 |
-| Qi Gong: Breath | 2.00% | ~15,118 |
-| Qi Gong: Essence | 2.00% | ~15,118 |
-| I know Kung-Fu | 2.00% | ~15,118 |
-| Path of the Prospect | 2.00% | ~15,118 |
-| Rumble in the Hangar | 2.00% | ~15,118 |
-| Diligence as a goal | 2.00% | ~1,304 |
-| Furious Fists | 1.00% | ~7,559 |
-| Scareless | 1.00% | ~7,559 |
-| Dance of the Praying Mantis | 1.00% | ~7,559 |
-| Qi Gong: Mind | 1.00% | ~7,559 |
-| Kung-Fu Tussle | 1.00% | ~7,559 |
-| Take damage to save time | 1.00% | ~7,559 |
-| Project Arena | 1.00% | ~652 |
+| The Old Grandmaster | 5.00% | ~37,798 |
+| Life is your teacher | 5.00% | ~37,798 |
+| The Assault | 4.00% | ~30,238 |
+| Lightning Hands | 4.00% | ~30,238 |
+| The Hateful Pole Fighter | 3.00% | ~22,679 |
+| Old Child | 3.00% | ~22,679 |
+| A Lady's Blood in the Snow | 2.00% | ~15,119 |
+| Lady Wing Chun | 2.00% | ~15,119 |
+| Kill Nil | 2.00% | ~15,119 |
+| Stuntmaster | 2.00% | ~15,119 |
+| Street Fighting | 2.00% | ~15,119 |
+| State of constant learning | 2.00% | ~15,119 |
+| Qi Gong: Breath | 2.00% | ~15,119 |
+| Qi Gong: Essence | 2.00% | ~15,119 |
+| I know Kung-Fu | 2.00% | ~15,119 |
+| Path of the Prospect | 2.00% | ~15,119 |
+| Rumble in the Hangar | 2.00% | ~15,119 |
+| Diligence as a goal | 2.00% | ~1,305 |
+| Furious Fists | 1.00% | ~7,560 |
+| Scareless | 1.00% | ~7,560 |
+| Dance of the Praying Mantis | 1.00% | ~7,560 |
+| Qi Gong: Mind | 1.00% | ~7,560 |
+| Kung-Fu Tussle | 1.00% | ~7,560 |
+| Take damage to save time | 1.00% | ~7,560 |
+| Project Arena | 1.00% | ~653 |
 | Fight the way you practice | 0.80% | ~522 |
 | Muk Yan Master | 0.60% | ~4,536 |
 | Tiger on Fire | 0.60% | ~4,536 |
 | Source of Flying Daggers | 0.60% | ~4,536 |
 | Detective Story | 0.60% | ~4,536 |
-| Bloody Sport | 0.60% | ~391 |
-| Martial Hub | 0.60% | ~391 |
+| Bloody Sport | 0.60% | ~392 |
+| Martial Hub | 0.60% | ~392 |
 | Iron Money | 0.50% | ~3,780 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,780 |
 | Prodigal Child | 0.50% | ~3,780 |
@@ -54,12 +54,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.20% | ~1,512 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,512 |
 | Be like water my friend | 0.20% | ~1,512 |
-| Secure, Protect, Leave | 0.20% | ~130 |
-| A Touch of Acumen | 0.20% | ~130 |
-| Crouching Tiger | 0.20% | ~130 |
-| Skill and an even stronger will | 0.20% | ~130 |
-| Master of the Flying Assassins | 0.20% | ~130 |
-| Beatmaker | 0.20% | ~130 |
+| Secure, Protect, Leave | 0.20% | ~131 |
+| A Touch of Acumen | 0.20% | ~131 |
+| Crouching Tiger | 0.20% | ~131 |
+| Skill and an even stronger will | 0.20% | ~131 |
+| Master of the Flying Assassins | 0.20% | ~131 |
+| Beatmaker | 0.20% | ~131 |
 | Warriors from the Mountain | 0.10% | ~756 |
 | Hidden Dragon | 0.10% | ~65 |
 | Here Cometh the Iceman | 0.10% | ~65 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~65 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755,922 (Ranked 25)  
+Progressed: 755,953 (Ranked 25)  
 Completed: 12,976 (1.72%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 12,976 (1.72%) (Ranked 142)
 | 2024-01-04 | 753,906 | 12,974 |
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
-| 2024-01-07 | 755,922 | 12,976 |
+| 2024-01-07 | 755,953 | 12,976 |
 ## Awards
 Max (Great Boss Battles): 7,131  (Ranked 55)  
 Sum: 12,615 (Ranked 85)  

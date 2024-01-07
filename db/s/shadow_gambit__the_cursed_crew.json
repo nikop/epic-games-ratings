@@ -5,7 +5,7 @@
   "Ranking_Rating": 93,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 113,
@@ -185,11 +185,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1466,
+  "EOS_Progressed": 1467,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.46,
+  "EOS_Completed_Percentage": 2.45,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -5050,6 +5050,11 @@
       "Time": "2024-01-06T20:05:33.8439476+00:00",
       "NumProgressed": 1466,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-07T01:59:37.0403694+00:00",
+      "NumProgressed": 1467,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5070,7 +5075,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "_03_FinishAct1",
@@ -5078,7 +5083,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5108,9 +5113,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 264
     },
     {
       "ID": "_08_Completion_10",
@@ -5269,7 +5274,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1466,
+      "Progressed": 1467,
       "Completed": 36
     }
   ],
@@ -5277,8 +5282,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:05:05.6716029+00:00",
+  "LastChanged_Achievements": "2024-01-07T01:59:37.0403691+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:58:52.5436699+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:05:05.6716411+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:53:39.8940861+00:00",
+  "LastUpdate_Achievements": "2024-01-07T01:59:37.0404274+00:00"
 }

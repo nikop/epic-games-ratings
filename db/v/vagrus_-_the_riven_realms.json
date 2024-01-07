@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1490,9 +1490,9 @@
       "ID": "Vanilla_FailedContract",
       "SetID": "27kik8p",
       "Name": "Breached",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "Vanilla_Finndurarth",
@@ -1898,9 +1898,9 @@
       "ID": "Vanilla_TradeTasksTier1",
       "SetID": "27kik8p",
       "Name": "Merchant",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "Vanilla_TradeTasksTier2",
@@ -1971,8 +1971,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:06:07.8077259+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:00:40.5592983+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2024-01-07T00:00:35.8598747+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:06:07.8078232+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:55:25.2182601+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:00:40.5593904+00:00"
 }

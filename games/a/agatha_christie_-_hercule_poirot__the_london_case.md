@@ -18,13 +18,13 @@
 | Everything matters | 43.00% | ~42 |
 | An expert mediator | 42.00% | ~41 |
 | DI Hardwicke | 42.00% | ~41 |
+| Betty Allen | 38.00% | ~37 |
 | Order and method | 37.00% | ~36 |
-| Betty Allen | 37.00% | ~36 |
-| The Investigation Begins | 35.00% | ~34 |
-| Ms. Camilla B. Culsham | 33.00% | ~32 |
-| Irene Court-Smyth | 33.00% | ~32 |
-| An odd series of events | 32.00% | ~31 |
-| The Apartment | 32.00% | ~31 |
+| The Investigation Begins | 36.00% | ~35 |
+| Ms. Camilla B. Culsham | 34.00% | ~33 |
+| Irene Court-Smyth | 34.00% | ~33 |
+| An odd series of events | 33.00% | ~32 |
+| The Apartment | 33.00% | ~32 |
 | Nathaniel Dryden | 30.00% | ~29 |
 | A rude awakening | 29.00% | ~28 |
 | Bartholomew | 29.00% | ~28 |

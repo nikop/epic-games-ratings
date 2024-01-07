@@ -33,16 +33,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 3.00% | ~610 |
 | Trade Baron | 3.00% | ~610 |
 | Untamed Wilds | 3.00% | ~610 |
-| Against All Odds | 2.00% | ~406 |
-| Bandit Camp | 2.00% | ~406 |
-| Barren Lands | 2.00% | ~406 |
-| Ancient Battleground | 2.00% | ~406 |
-| Sparkdew Crystals | 2.00% | ~406 |
-| Haunted Forest | 2.00% | ~406 |
-| Flooded Mines | 2.00% | ~406 |
-| Cursed Lands | 2.00% | ~406 |
-| Defying the Crown | 2.00% | ~406 |
-| Into the Forest | 2.00% | ~406 |
+| Against All Odds | 2.00% | ~407 |
+| Bandit Camp | 2.00% | ~407 |
+| Barren Lands | 2.00% | ~407 |
+| Ancient Battleground | 2.00% | ~407 |
+| Sparkdew Crystals | 2.00% | ~407 |
+| Haunted Forest | 2.00% | ~407 |
+| Flooded Mines | 2.00% | ~407 |
+| Cursed Lands | 2.00% | ~407 |
+| Defying the Crown | 2.00% | ~407 |
+| Into the Forest | 2.00% | ~407 |
 | Serving Ale | 1.00% | ~203 |
 | Efficient Explorer | 1.00% | ~203 |
 | Refinery | 1.00% | ~203 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,325 (Ranked 154)  
+Progressed: 20,329 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 34 (0.17%) (Ranked 281)
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
-| 2024-01-07 | 20,325 | 34 |
+| 2024-01-07 | 20,329 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 232)  
-Sum: 3,344 (Ranked 177)  
+Sum: 3,345 (Ranked 177)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -344,7 +344,7 @@ Diff (max vs sum): 55
 | This game has Amazing Storytelling | 331 |
 | This game has Amazing Characters | 293 |
 | This game has Obsessive Gameplay | 254 |
-| This game has a Creative Community | 218 |
+| This game has a Creative Community | 219 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -625,3 +625,4 @@ Diff (max vs sum): 55
 | 2024-01-04 | 4.82 | - | 448 | 3,331 |
 | 2024-01-05 | 4.82 | - | 448 | 3,337 |
 | 2024-01-06 | 4.82 | - | 449 | 3,344 |
+| 2024-01-07 | 4.82 | - | 449 | 3,345 |

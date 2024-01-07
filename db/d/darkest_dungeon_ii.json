@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10510,10 +10510,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21481,
       "NumberOfAwardsMax": 7972
+    },
+    {
+      "Time": "2024-01-07T01:52:23.4626653+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21484,
+      "NumberOfAwardsMax": 7972
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21481,
+  "NumberOfAwards": 21484,
   "NumberOfAwardsMax": 7972,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10587,12 +10593,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1080
+      "Count": 1083
     }
   ],
-  "EOS_Progressed": 131963,
+  "EOS_Progressed": 131973,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38670,6 +38676,11 @@
       "Time": "2024-01-07T00:09:56.841859+00:00",
       "NumProgressed": 131963,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T02:04:42.4402433+00:00",
+      "NumProgressed": 131973,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38681,7 +38692,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6598
+      "UsersEstimate": 6599
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -38689,7 +38700,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6598
+      "UsersEstimate": 6599
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38881,7 +38892,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6598
+      "UsersEstimate": 6599
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38897,7 +38908,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6598
+      "UsersEstimate": 6599
     },
     {
       "ID": "combat_kill_librarian",
@@ -38921,7 +38932,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6598
+      "UsersEstimate": 6599
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38977,7 +38988,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6598
+      "UsersEstimate": 6599
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -39001,7 +39012,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6598
+      "UsersEstimate": 6599
     },
     {
       "ID": "driving_distance_easy",
@@ -39033,7 +39044,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9237
+      "UsersEstimate": 9238
     },
     {
       "ID": "hero_story_complete_all",
@@ -39209,7 +39220,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -39217,7 +39228,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "combat_kill_collector",
@@ -39225,7 +39236,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39241,7 +39252,7 @@
       "Name": "No Mercy",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -39265,7 +39276,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39289,7 +39300,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39312,21 +39323,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131963,
+      "Progressed": 131973,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6832,
+      "Progressed": 6842,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-06T21:57:59.003917+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:09:56.8418586+00:00",
-  "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:57:39.905378+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:09:56.84205+00:00"
+  "LastChanged": "2024-01-07T01:52:23.4626652+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:04:42.4402431+00:00",
+  "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
+  "LastUpdate_Ratings": "2024-01-07T01:52:23.4626661+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:04:42.4404217+00:00"
 }

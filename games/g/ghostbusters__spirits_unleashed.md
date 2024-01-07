@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 614)  
+Rating: 4.50 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,17 +11,17 @@ Rating: 4.50 (Ranked 614)
 | Discovery | 6.00% | ~2,003 |
 | Solo Capture | 6.00% | ~2,003 |
 | Swift Rift Removers | 6.00% | ~2,003 |
-| Clutch Capture | 5.00% | ~1,669 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,669 |
-| Fully Upgraded | 5.00% | ~1,669 |
-| Teamwork | 5.00% | ~1,669 |
-| There you are! | 5.00% | ~1,669 |
-| Vaporous Expansion | 5.00% | ~1,669 |
-| Cultured | 4.00% | ~1,335 |
-| Daily Dose | 4.00% | ~1,335 |
-| Ghostbuster In Training | 4.00% | ~1,335 |
-| Right back at ya | 4.00% | ~1,335 |
-| Whoopsie | 4.00% | ~1,335 |
+| Clutch Capture | 5.00% | ~1,670 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,670 |
+| Fully Upgraded | 5.00% | ~1,670 |
+| Teamwork | 5.00% | ~1,670 |
+| There you are! | 5.00% | ~1,670 |
+| Vaporous Expansion | 5.00% | ~1,670 |
+| Cultured | 4.00% | ~1,336 |
+| Daily Dose | 4.00% | ~1,336 |
+| Ghostbuster In Training | 4.00% | ~1,336 |
+| Right back at ya | 4.00% | ~1,336 |
+| Whoopsie | 4.00% | ~1,336 |
 | Animated | 3.00% | ~1,002 |
 | Back Off | 3.00% | ~1,002 |
 | We have the best insurance | 3.00% | ~1,002 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 614)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,387 (Ranked 136)  
+Progressed: 33,391 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,10 +319,10 @@ Completed: 71 (0.21%) (Ranked 272)
 | 2024-01-04 | 33,258 | 71 |
 | 2024-01-05 | 33,310 | 71 |
 | 2024-01-06 | 33,384 | 71 |
-| 2024-01-07 | 33,387 | 71 |
+| 2024-01-07 | 33,391 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 255)  
-Sum: 2,952 (Ranked 186)  
+Sum: 2,953 (Ranked 186)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -330,7 +330,7 @@ Diff (max vs sum): 69
 | This game is Great for Beginners | 327 |
 | This game has Diverse Characters | 312 |
 | This game has Amazing Storytelling | 294 |
-| This game is Highly Recommended | 292 |
+| This game is Highly Recommended | 293 |
 | This game has Competitive Players | 286 |
 | This game is Extremely Fun | 285 |
 | This game is Relaxing | 284 |
@@ -600,3 +600,4 @@ Diff (max vs sum): 69
 | 2024-01-04 | 4.50 | 327 | 2,949 |
 | 2024-01-05 | 4.50 | 327 | 2,950 |
 | 2024-01-06 | 4.50 | 328 | 2,952 |
+| 2024-01-07 | 4.50 | 328 | 2,953 |

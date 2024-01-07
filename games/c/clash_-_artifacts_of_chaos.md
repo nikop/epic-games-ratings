@@ -17,8 +17,8 @@
 | The Pride of Moozhaw | 20.00% | ~31 |
 | Omnia Vincit Amor | 20.00% | ~31 |
 | Stilt House | 14.00% | ~21 |
+| Armor Collector | 11.00% | ~17 |
 | Corwid Hill | 11.00% | ~17 |
-| Armor Collector | 10.00% | ~15 |
 | Total Eclipse | 8.00% | ~12 |
 | Dreamwalker | 8.00% | ~12 |
 | Your Training Is Complete | 5.00% | ~8 |

@@ -5,29 +5,29 @@ Rating: 4.55 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~154 |
-| Map reader | 62.00% | ~106 |
-| Adventurer | 61.00% | ~104 |
-| Philanthropist | 58.00% | ~99 |
-| The brave little tailor | 40.00% | ~68 |
-| Archer | 40.00% | ~68 |
-| Field hand | 39.00% | ~67 |
+| Beginner | 91.00% | ~157 |
+| Map reader | 62.00% | ~107 |
+| Adventurer | 61.00% | ~105 |
+| Philanthropist | 58.00% | ~100 |
+| The brave little tailor | 40.00% | ~69 |
+| Archer | 40.00% | ~69 |
+| Field hand | 38.00% | ~65 |
 | Well-to-do | 31.00% | ~53 |
-| Samaritan | 30.00% | ~51 |
+| Samaritan | 30.00% | ~52 |
 | Ladies' man | 29.00% | ~50 |
 | The merciful one | 28.00% | ~48 |
 | Idiot | 24.00% | ~41 |
-| Ferocious wild boars | 23.00% | ~39 |
+| Ferocious wild boars | 23.00% | ~40 |
 | Beast slayer | 20.00% | ~34 |
-| Death of a legend | 19.00% | ~32 |
-| Family man | 18.00% | ~31 |
-| Archaeologist | 18.00% | ~31 |
-| Ogre friend | 18.00% | ~31 |
+| Death of a legend | 19.00% | ~33 |
+| Family man | 17.00% | ~29 |
+| Archaeologist | 17.00% | ~29 |
+| Ogre friend | 17.00% | ~29 |
 | Sidelined | 17.00% | ~29 |
-| Wise man | 16.00% | ~27 |
-| Little hero | 16.00% | ~27 |
-| Hard worker | 16.00% | ~27 |
-| Fence | 16.00% | ~27 |
+| Wise man | 16.00% | ~28 |
+| Little hero | 16.00% | ~28 |
+| Hard worker | 16.00% | ~28 |
+| Fence | 16.00% | ~28 |
 | The fourth triplet | 15.00% | ~26 |
 | Master detective | 14.00% | ~24 |
 | Pandora's box | 13.00% | ~22 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 526)
 | Master of the classes | 0.60% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171 (Ranked 440)  
+Progressed: 172 (Ranked 440)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 162 | 0 |
 | 2024-01-05 | 165 | 0 |
 | 2024-01-06 | 171 | 0 |
+| 2024-01-07 | 172 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

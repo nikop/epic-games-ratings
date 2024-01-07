@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -1124,6 +1124,11 @@
       "Time": "2024-01-07T00:09:17.8401169+00:00",
       "NumProgressed": 250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T02:04:01.440502+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1136,7 +1141,7 @@
       "Name": "Abdication",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -1160,7 +1165,7 @@
       "Name": "All The Help You Need",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -1184,7 +1189,7 @@
       "Name": "Brave On Time",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SG_CHARISMATIC",
@@ -1208,7 +1213,7 @@
       "Name": "End Of The Road",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1216,7 +1221,7 @@
       "Name": "Everything Has Changed",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SG_FIERY",
@@ -1240,7 +1245,7 @@
       "Name": "Heartbreaker",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -1256,7 +1261,7 @@
       "Name": "Lost In A Song",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_MAESTRO",
@@ -1272,7 +1277,7 @@
       "Name": "Meant To Be",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1296,7 +1301,7 @@
       "Name": "Not Taking Any Chances",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SG_QUEENWITHOUTATHRONE",
@@ -1431,14 +1436,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:09:17.8401165+00:00",
+  "LastChanged_Achievements": "2024-01-07T02:04:01.4405016+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:58:33.2499285+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:09:17.8401737+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:53:19.8036195+00:00",
+  "LastUpdate_Achievements": "2024-01-07T02:04:01.4405308+00:00"
 }

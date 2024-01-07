@@ -2,13 +2,13 @@
   "ID": "b6dd761bd5894441b3e3776b7bfe5bb4",
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 378,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-27T15:00:00+00:00",
     "PcReleaseDate": "2023-12-27T15:00:00+00:00",
@@ -22,11 +22,17 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2024-01-06T12:01:38.2851424+00:00",
       "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-07T01:55:24.7224591+00:00",
+      "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -35,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3089,
+  "EOS_Progressed": 3100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1375,
+  "EOS_NewPlayers": 1372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1455,6 +1461,11 @@
       "Time": "2024-01-07T00:05:16.648616+00:00",
       "NumProgressed": 3089,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T01:59:48.0500434+00:00",
+      "NumProgressed": 3100,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T23:05:42.1114138+00:00",
@@ -1465,9 +1476,9 @@
       "ID": "FishingSmallBronze",
       "SetID": "13dm16l",
       "Name": "Bronze Angler Trophy",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "FishingSmallGold",
@@ -1506,16 +1517,16 @@
     {
       "ID": "13dm16l",
       "IsBase": true,
-      "Progressed": 3089,
+      "Progressed": 3100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-27T16:00:11.4368103+00:00",
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged": "2024-01-06T12:01:38.2851423+00:00",
-  "LastChanged_Achievements": "2024-01-07T00:05:16.6486156+00:00",
+  "LastChanged": "2024-01-07T01:55:24.7224589+00:00",
+  "LastChanged_Achievements": "2024-01-07T01:59:48.050043+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.2182979+00:00",
-  "LastUpdate_Ratings": "2024-01-07T00:00:35.3754332+00:00",
-  "LastUpdate_Achievements": "2024-01-07T00:05:16.648635+00:00"
+  "LastUpdate_Ratings": "2024-01-07T01:55:24.7224594+00:00",
+  "LastUpdate_Achievements": "2024-01-07T01:59:48.050054+00:00"
 }
