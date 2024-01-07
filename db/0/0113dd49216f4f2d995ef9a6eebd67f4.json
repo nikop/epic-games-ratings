@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 415,
+  "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1119,6 +1119,11 @@
       "Time": "2024-01-06T22:09:51.7454506+00:00",
       "NumProgressed": 249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T00:09:17.8401169+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1171,7 +1176,7 @@
       "Name": "Brand New Chorus",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_BRAVEONTIME",
@@ -1187,7 +1192,7 @@
       "Name": "Charismatic",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_CUNNING",
@@ -1203,7 +1208,7 @@
       "Name": "End Of The Road",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1219,7 +1224,7 @@
       "Name": "Fiery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SG_GODOFTHESUN",
@@ -1275,7 +1280,7 @@
       "Name": "My Time To Shine",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -1283,7 +1288,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1323,7 +1328,7 @@
       "Name": "Snake Charmer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -1339,7 +1344,7 @@
       "Name": "The Answer Is You",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SG_THECHOICEISYOURS",
@@ -1387,7 +1392,7 @@
       "Name": "The Queen Of The Dead",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SG_THEULTIMATESACRIFICE",
@@ -1395,7 +1400,7 @@
       "Name": "The Ultimate Sacrifice",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_THISHELLISMINE",
@@ -1426,14 +1431,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:08:43.3476766+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:09:17.8401165+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:58:07.6790182+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:08:43.3477081+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:58:33.2499285+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:09:17.8401737+00:00"
 }

@@ -24,8 +24,8 @@ Rating: 4.53 (Ranked 564)
 | Rhythm Of Willump | 46.00% | ~685 |
 | A Tragic Reminder | 45.00% | ~670 |
 | 3000 Year Blackout | 44.00% | ~656 |
+| So Close | 42.00% | ~626 |
 | The Finisher | 42.00% | ~626 |
-| So Close | 41.00% | ~611 |
 | You Get Used To It | 41.00% | ~611 |
 | Family | 39.00% | ~581 |
 | Biggest Snowball Ever | 39.00% | ~581 |
@@ -39,7 +39,7 @@ Rating: 4.53 (Ranked 564)
 | Snowy Poro | 32.00% | ~477 |
 | Never Gets Old | 32.00% | ~477 |
 | Vertical Power | 26.00% | ~387 |
-| One From The Heart | 13.00% | ~194 |
+| One From The Heart | 14.00% | ~209 |
 | Yummy | 10.00% | ~149 |
 | Snowball Fightn't | 9.00% | ~134 |
 | It Was Him | 7.00% | ~104 |

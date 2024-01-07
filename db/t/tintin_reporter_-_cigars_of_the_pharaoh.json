@@ -4,8 +4,8 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -755,9 +755,9 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement30",
@@ -827,9 +827,9 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Achievement5",
@@ -882,8 +882,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:04:01.7150175+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:04:36.9742316+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:40.8073713+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:58:43.8014522+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:04:01.7150443+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:59:09.0399255+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:04:36.9742561+00:00"
 }

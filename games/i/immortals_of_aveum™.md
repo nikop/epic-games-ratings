@@ -5,38 +5,38 @@ Rating: 4.20 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,565 |
-| Battlefields Have Memories | 80.00% | ~2,332 |
-| Enlisted | 74.00% | ~2,157 |
-| Maybe Engage a Little | 69.00% | ~2,011 |
-| No More Names | 52.00% | ~1,516 |
-| Initiate | 38.00% | ~1,108 |
-| Thrada-Kul | 34.00% | ~991 |
-| Gravity-Challenged Rocks | 27.00% | ~787 |
-| Socialite | 24.00% | ~700 |
-| Soldier | 23.00% | ~670 |
-| All the Major Food Groups | 23.00% | ~670 |
-| Beggars Would Ride | 20.00% | ~583 |
-| Control is an Illusion | 19.00% | ~554 |
+| Unforeseen | 88.00% | ~2,569 |
+| Battlefields Have Memories | 81.00% | ~2,364 |
+| Enlisted | 74.00% | ~2,160 |
+| Maybe Engage a Little | 69.00% | ~2,014 |
+| No More Names | 52.00% | ~1,518 |
+| Initiate | 38.00% | ~1,109 |
+| Thrada-Kul | 34.00% | ~992 |
+| Gravity-Challenged Rocks | 27.00% | ~788 |
+| Socialite | 24.00% | ~701 |
+| Soldier | 23.00% | ~671 |
+| All the Major Food Groups | 23.00% | ~671 |
+| Beggars Would Ride | 20.00% | ~584 |
+| Control is an Illusion | 19.00% | ~555 |
 | The Means to Save It | 17.00% | ~496 |
-| Resilience to Sin | 15.00% | ~437 |
-| A Familiar Nest | 15.00% | ~437 |
-| Geas Aristeya | 14.00% | ~408 |
-| Periapt Alizarin | 14.00% | ~408 |
+| Resilience to Sin | 15.00% | ~438 |
+| A Familiar Nest | 15.00% | ~438 |
+| Geas Aristeya | 14.00% | ~409 |
+| Periapt Alizarin | 14.00% | ~409 |
 | A Perfect Cycle | 13.00% | ~379 |
 | Recruit | 12.00% | ~350 |
 | Armsman | 11.00% | ~321 |
-| Lights Army | 9.00% | ~262 |
-| Periapt Cerulean | 8.00% | ~233 |
+| Lights Army | 9.00% | ~263 |
+| Periapt Cerulean | 8.00% | ~234 |
 | Good Boy | 7.00% | ~204 |
+| Best Dressed | 6.00% | ~175 |
 | Periapt Viridian | 6.00% | ~175 |
-| Best Dressed | 5.00% | ~146 |
 | Shroudfane Explorer | 5.00% | ~146 |
 | Scholar | 4.00% | ~117 |
 | Kitted Out | 4.00% | ~117 |
 | Armaments Azure | 4.00% | ~117 |
 | Armaments Gules | 4.00% | ~117 |
-| Armaments Vert | 3.00% | ~87 |
+| Armaments Vert | 3.00% | ~88 |
 | Veteran | 2.00% | ~58 |
 | Grand Magnus | 1.00% | ~29 |
 | Master of Carmine | 1.00% | ~29 |
@@ -44,8 +44,8 @@ Rating: 4.20 (Ranked 960)
 | Witch-Taker | 0.80% | ~23 |
 | Shroudfane Surveyor | 0.80% | ~23 |
 | Backtracker | 0.80% | ~23 |
-| Master of Ultramarine | 0.60% | ~17 |
-| Family Business | 0.50% | ~15 |
+| Family Business | 0.60% | ~18 |
+| Master of Ultramarine | 0.60% | ~18 |
 | Diplomat | 0.50% | ~15 |
 | Petite Bourgeoisie | 0.50% | ~15 |
 | Master of Malachite | 0.50% | ~15 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 960)
 | Treasure Hunter | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,915 (Ranked 228)  
+Progressed: 2,919 (Ranked 228)  
 Completed: 4 (0.14%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 4 (0.14%) (Ranked 296)
 | 2024-01-04 | 2,699 | 2 |
 | 2024-01-05 | 2,796 | 4 |
 | 2024-01-06 | 2,915 | 4 |
+| 2024-01-07 | 2,919 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

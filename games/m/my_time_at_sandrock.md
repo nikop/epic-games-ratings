@@ -6,68 +6,68 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 211.00% | ~1,747 |
-| Super Spelunker | 150.00% | ~1,242 |
-| Iron Chef | 144.00% | ~1,192 |
-| The Little Wood that Could | 119.00% | ~985 |
-| Officially Official | 118.00% | ~977 |
-| On that Grindset | 112.00% | ~927 |
-| Greeno-B-Gone | 112.00% | ~927 |
-| Better Late than Never | 100.00% | ~828 |
-| Your Especially Earned Trajectory | 94.00% | ~778 |
-| Pack Mule | 90.00% | ~745 |
-| Got Served | 90.00% | ~745 |
-| One of the Cool Kids | 90.00% | ~745 |
-| Knowledge is Power | 89.00% | ~737 |
-| Mole Masher | 88.00% | ~729 |
-| Diamonds are Forever | 88.00% | ~729 |
-| Financially Secure | 87.00% | ~720 |
-| Big Game Hunter | 82.00% | ~679 |
-| Unboxing | 81.00% | ~671 |
-| No Mountain Wide Enough | 79.00% | ~654 |
-| What Plants Crave | 78.00% | ~646 |
-| Yakmel Whisperer | 78.00% | ~646 |
-| Panda-kin | 77.00% | ~638 |
+| Adept Assembler | 211.00% | ~1,745 |
+| Super Spelunker | 151.00% | ~1,249 |
+| Iron Chef | 144.00% | ~1,191 |
+| The Little Wood that Could | 120.00% | ~992 |
+| Officially Official | 118.00% | ~976 |
+| On that Grindset | 113.00% | ~935 |
+| Greeno-B-Gone | 112.00% | ~926 |
+| Better Late than Never | 100.00% | ~827 |
+| Your Especially Earned Trajectory | 94.00% | ~777 |
+| One of the Cool Kids | 91.00% | ~753 |
+| Pack Mule | 90.00% | ~744 |
+| Got Served | 90.00% | ~744 |
+| Knowledge is Power | 89.00% | ~736 |
+| Mole Masher | 89.00% | ~736 |
+| Diamonds are Forever | 89.00% | ~736 |
+| Financially Secure | 87.00% | ~719 |
+| Big Game Hunter | 82.00% | ~678 |
+| Unboxing | 81.00% | ~670 |
+| No Mountain Wide Enough | 79.00% | ~653 |
+| What Plants Crave | 78.00% | ~645 |
+| Yakmel Whisperer | 78.00% | ~645 |
+| Panda-kin | 77.00% | ~637 |
+| I Do! | 77.00% | ~637 |
 | First Love | 76.00% | ~629 |
-| I Do! | 76.00% | ~629 |
-| Chatterbox | 75.00% | ~621 |
+| Chatterbox | 75.00% | ~620 |
 | Can We Keep It? | 73.00% | ~604 |
-| Builder of the Month | 70.00% | ~580 |
-| Elementary, My Dear | 67.00% | ~555 |
-| Bridging the Gap | 66.00% | ~546 |
+| Builder of the Month | 70.00% | ~579 |
+| Elementary, My Dear | 68.00% | ~562 |
+| Bridging the Gap | 67.00% | ~554 |
 | Waste Not Want Not | 65.00% | ~538 |
-| Commissions, commissions...! | 63.00% | ~522 |
-| Lifeline Pipeline | 63.00% | ~522 |
-| Got the Flow Back | 61.00% | ~505 |
+| Commissions, commissions...! | 63.00% | ~521 |
+| Lifeline Pipeline | 63.00% | ~521 |
+| Got the Flow Back | 61.00% | ~504 |
 | Martle's Dream | 58.00% | ~480 |
-| Happier-est Place on Earth | 56.00% | ~464 |
-| Anti-Santa | 56.00% | ~464 |
+| Happier-est Place on Earth | 56.00% | ~463 |
+| Anti-Santa | 56.00% | ~463 |
 | Sepia Toned Memories | 55.00% | ~455 |
 | Who Ya Gonna Call...? | 55.00% | ~455 |
 | You Don't Win Friends With Salad | 55.00% | ~455 |
-| Time Flies | 53.00% | ~439 |
-| Finishing Touches | 53.00% | ~439 |
-| Call Me Fishmael | 53.00% | ~439 |
+| Time Flies | 53.00% | ~438 |
+| Finishing Touches | 53.00% | ~438 |
+| Call Me Fishmael | 53.00% | ~438 |
 | Kind of a Big Deal | 47.00% | ~389 |
 | Just What I Always Wanted! | 47.00% | ~389 |
 | Jewel of the Eufaula | 44.00% | ~364 |
-| My Time Mansion | 42.00% | ~348 |
+| My Time Mansion | 42.00% | ~347 |
 | Santa In Training | 41.00% | ~339 |
 | Sandrunning Speedster | 41.00% | ~339 |
 | He Can Spin A Yarn... | 40.00% | ~331 |
 | It Belongs in a Museum! | 37.00% | ~306 |
 | Do Your Part | 36.00% | ~298 |
-| Pro Gamer | 34.00% | ~282 |
-| Newton | 34.00% | ~282 |
+| Pro Gamer | 34.00% | ~281 |
+| Newton | 34.00% | ~281 |
 | Cardistry | 28.00% | ~232 |
-| Winner and Still Champeen | 27.00% | ~224 |
+| Winner and Still Champeen | 27.00% | ~223 |
 | Strong Arms | 19.00% | ~157 |
 | It's High Noon... | 18.00% | ~149 |
 | Got the Receipt? | 18.00% | ~149 |
 | Jack of All Trades | 8.00% | ~66 |
 | Sandrock's Hottest Club | 5.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 828 (Ranked 305)  
+Progressed: 827 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 814 | 0 |
 | 2024-01-05 | 833 | 0 |
 | 2024-01-06 | 855 | 0 |
+| 2024-01-07 | 827 | 0 |
 ## Awards
 Max (Character Customization): 627  (Ranked 203)  
 Sum: 1,496 (Ranked 244)  

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 312,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
@@ -341,11 +341,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 780,
+  "EOS_Progressed": 783,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.9,
+  "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -2096,6 +2096,11 @@
       "Time": "2024-01-06T22:07:14.6707472+00:00",
       "NumProgressed": 780,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T00:05:50.4522924+00:00",
+      "NumProgressed": 783,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2140,7 +2145,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -2188,7 +2193,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2242,9 +2247,9 @@
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2316,7 +2321,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2363,15 +2368,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 780,
+      "Progressed": 783,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-06T21:00:31.8698684+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:05:14.7324116+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:05:50.4522921+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:00:21.8112515+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:05:14.7324394+00:00"
+  "LastUpdate_Ratings": "2024-01-07T00:03:06.6083133+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:05:50.4523284+00:00"
 }

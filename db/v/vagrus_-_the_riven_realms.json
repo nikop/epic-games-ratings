@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 289,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1786,9 +1786,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1850,9 +1850,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1971,8 +1971,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:05:31.8691747+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:06:07.8077259+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:00:10.7238677+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:05:31.8693075+00:00"
+  "LastUpdate_Ratings": "2024-01-07T00:00:35.8598747+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:06:07.8078232+00:00"
 }

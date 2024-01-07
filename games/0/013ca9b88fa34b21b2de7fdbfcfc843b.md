@@ -18,11 +18,11 @@ Rating: 4.63 (Ranked 356)
 | Bramble Breaker | 2.00% | ~178 |
 | Clear the Air | 1.00% | ~89 |
 | Search for the Hairy Grell | 1.00% | ~89 |
+| Beach Comber | 1.00% | ~89 |
 | Higher Tax Bracket | 1.00% | ~89 |
 | Oui, Chef! | 1.00% | ~89 |
 | Botanical Breakthrough | 1.00% | ~89 |
 | Exit Through The Gift Shop | 1.00% | ~15 |
-| Beach Comber | 0.90% | ~80 |
 | Flaming Hot Completos | 0.80% | ~71 |
 | Azorian Anniversary | 0.80% | ~71 |
 | Skilled | 0.80% | ~71 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 356)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,910 (Ranked 185)  
+Progressed: 8,911 (Ranked 185)  
 Completed: 1 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 1 (0.01%) (Ranked 371)
 | 2024-01-04 | 8,863 | 1 |
 | 2024-01-05 | 8,888 | 1 |
 | 2024-01-06 | 8,910 | 1 |
+| 2024-01-07 | 8,911 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

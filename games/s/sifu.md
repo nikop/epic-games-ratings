@@ -6,12 +6,12 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,795 |
-| Life is your teacher | 5.00% | ~37,795 |
-| The Assault | 4.00% | ~30,236 |
-| Lightning Hands | 4.00% | ~30,236 |
-| The Hateful Pole Fighter | 3.00% | ~22,677 |
-| Old Child | 3.00% | ~22,677 |
+| The Old Grandmaster | 5.00% | ~37,796 |
+| Life is your teacher | 5.00% | ~37,796 |
+| The Assault | 4.00% | ~30,237 |
+| Lightning Hands | 4.00% | ~30,237 |
+| The Hateful Pole Fighter | 3.00% | ~22,678 |
+| Old Child | 3.00% | ~22,678 |
 | A Lady's Blood in the Snow | 2.00% | ~15,118 |
 | Lady Wing Chun | 2.00% | ~15,118 |
 | Kill Nil | 2.00% | ~15,118 |
@@ -32,10 +32,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,559 |
 | Project Arena | 1.00% | ~652 |
 | Fight the way you practice | 0.80% | ~522 |
-| Muk Yan Master | 0.60% | ~4,535 |
-| Tiger on Fire | 0.60% | ~4,535 |
-| Source of Flying Daggers | 0.60% | ~4,535 |
-| Detective Story | 0.60% | ~4,535 |
+| Muk Yan Master | 0.60% | ~4,536 |
+| Tiger on Fire | 0.60% | ~4,536 |
+| Source of Flying Daggers | 0.60% | ~4,536 |
+| Detective Story | 0.60% | ~4,536 |
 | Bloody Sport | 0.60% | ~391 |
 | Martial Hub | 0.60% | ~391 |
 | Iron Money | 0.50% | ~3,780 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~65 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755,903 (Ranked 25)  
+Progressed: 755,922 (Ranked 25)  
 Completed: 12,976 (1.72%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,6 +329,7 @@ Completed: 12,976 (1.72%) (Ranked 142)
 | 2024-01-04 | 753,906 | 12,974 |
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
+| 2024-01-07 | 755,922 | 12,976 |
 ## Awards
 Max (Great Boss Battles): 7,131  (Ranked 55)  
 Sum: 12,615 (Ranked 85)  

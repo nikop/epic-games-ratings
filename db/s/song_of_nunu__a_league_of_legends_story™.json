@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -4026,9 +4026,9 @@
       "ID": "EV_ACH08",
       "SetID": "6jeac23",
       "Name": "So Close",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 626
     },
     {
       "ID": "EV_ACH09",
@@ -4234,9 +4234,9 @@
       "ID": "EV_ACH34",
       "SetID": "6jeac23",
       "Name": "One From The Heart",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 194
+      "UsersEstimate": 209
     },
     {
       "ID": "EV_ACH35",
@@ -4331,8 +4331,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-06T08:58:42.2777074+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:44.906636+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:10:18.8193475+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.1823177+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:58:26.7799087+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:44.9066899+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:58:51.4590704+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:10:18.8193951+00:00"
 }

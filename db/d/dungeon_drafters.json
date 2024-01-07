@@ -2,10 +2,10 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -671,6 +671,11 @@
       "Time": "2024-01-06T16:04:30.5039657+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T00:05:00.2429331+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -696,9 +701,9 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 52
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -722,7 +727,7 @@
       "Name": "The Familiar",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MC_complete",
@@ -738,7 +743,7 @@
       "Name": "Ancient Nemesis",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MasterOracleQuestlineFirst",
@@ -746,7 +751,7 @@
       "Name": "Riddlesolver",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -810,7 +815,7 @@
       "Name": "Traveler Mastery",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MasterWardenQuestlineFirst",
@@ -818,7 +823,7 @@
       "Name": "Uncut Gem",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -834,7 +839,7 @@
       "Name": "Warden Mastery",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "StrangerQuestlineFirst",
@@ -858,7 +863,7 @@
       "Name": "The Plot Thickens",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "all_curios",
@@ -904,9 +909,9 @@
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "demiurge_defeated",
@@ -922,7 +927,7 @@
       "Name": "Shine!",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "git_gud?",
@@ -1001,7 +1006,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
@@ -1009,8 +1014,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:04:25.0929988+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:05:00.2429328+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.5094104+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:59:42.1306825+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:04:25.0930262+00:00"
+  "LastUpdate_Ratings": "2024-01-07T00:00:07.5585976+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:05:00.2429848+00:00"
 }

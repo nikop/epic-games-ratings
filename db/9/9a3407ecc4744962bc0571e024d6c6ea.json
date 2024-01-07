@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -3794,9 +3794,9 @@
       "ID": "SkeletonCrew",
       "SetID": "3ai6ml8",
       "Name": "Skeleton Crew",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 622
+      "UsersEstimate": 635
     },
     {
       "ID": "TerraTourGuide",
@@ -3841,8 +3841,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:32.9299584+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:10:07.1416638+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6987681+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:57:20.3345651+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:32.9299808+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:57:45.663354+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:10:07.1416983+00:00"
 }

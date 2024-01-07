@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,340 |
-| Off to a good start | 62.00% | ~1,668 |
-| Do... or do not. There is no try | 52.00% | ~1,399 |
-| A good blaster at your side | 25.00% | ~672 |
-| I suggest a new strategy | 17.00% | ~457 |
-| Great shot, kid! | 16.00% | ~430 |
+| New Recruit | 87.00% | ~2,344 |
+| Off to a good start | 62.00% | ~1,670 |
+| Do... or do not. There is no try | 52.00% | ~1,401 |
+| A good blaster at your side | 25.00% | ~674 |
+| I suggest a new strategy | 17.00% | ~458 |
+| Great shot, kid! | 16.00% | ~431 |
 | Scrap collector | 15.00% | ~404 |
 | All right, I'll give it a try | 15.00% | ~404 |
 | The power of the Force | 12.00% | ~323 |
 | Collector | 12.00% | ~323 |
 | Shoot first | 12.00% | ~323 |
 | Together we can rule the galaxy | 11.00% | ~296 |
-| Tell Jabba that I've got his money | 8.00% | ~215 |
-| Best star-pilot in the galaxy | 8.00% | ~215 |
-| Never tell me the odds! | 7.00% | ~188 |
-| Survivor | 7.00% | ~188 |
-| What's the cargo? | 6.00% | ~161 |
-| A cunning warrior | 6.00% | ~161 |
-| "Gonk? Gonk!" | 5.00% | ~134 |
-| Impressive. Most impressive. | 5.00% | ~134 |
-| Judge me by my size, do you? | 5.00% | ~134 |
+| Tell Jabba that I've got his money | 8.00% | ~216 |
+| Best star-pilot in the galaxy | 8.00% | ~216 |
+| Never tell me the odds! | 7.00% | ~189 |
+| Survivor | 7.00% | ~189 |
+| What's the cargo? | 6.00% | ~162 |
+| A cunning warrior | 6.00% | ~162 |
+| "Gonk? Gonk!" | 5.00% | ~135 |
+| Impressive. Most impressive. | 5.00% | ~135 |
+| Judge me by my size, do you? | 5.00% | ~135 |
 | Distinguished | 4.00% | ~108 |
 | A tremor in the Force | 4.00% | ~108 |
 | Not bad for a little furball | 4.00% | ~108 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,690 (Ranked 232)  
+Progressed: 2,694 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 1 (0.04%) (Ranked 348)
 | 2024-01-04 | 2,595 | 1 |
 | 2024-01-05 | 2,649 | 1 |
 | 2024-01-06 | 2,690 | 1 |
+| 2024-01-07 | 2,694 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

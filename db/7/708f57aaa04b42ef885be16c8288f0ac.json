@@ -383,9 +383,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13798,
+  "EOS_Progressed": 13804,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 1465,
+  "EOS_NewPlayers": 1470,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -9413,6 +9413,11 @@
       "Time": "2024-01-06T23:09:39.4646086+00:00",
       "NumProgressed": 13798,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-07T00:10:13.5875629+00:00",
+      "NumProgressed": 13804,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -9433,7 +9438,7 @@
       "Name": "Baby Steps",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 5243
+      "UsersEstimate": 5246
     },
     {
       "ID": "BeLikeWater",
@@ -9465,7 +9470,7 @@
       "Name": "Connection Lost",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3036
+      "UsersEstimate": 3037
     },
     {
       "ID": "Eavesdropper",
@@ -9481,7 +9486,7 @@
       "Name": "Explosive Personality",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "FasterThanLight",
@@ -9497,7 +9502,7 @@
       "Name": "First Time?",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 7313
+      "UsersEstimate": 7316
     },
     {
       "ID": "FuneralForTheDeath",
@@ -9505,7 +9510,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "GarbageMan",
@@ -9529,7 +9534,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -9569,7 +9574,7 @@
       "Name": "Nasty!",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3727
     },
     {
       "ID": "NoMoreTotems",
@@ -9617,7 +9622,7 @@
       "Name": "The Old-School Way",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     },
     {
       "ID": "TheQuarterback",
@@ -9625,7 +9630,7 @@
       "Name": "The Quarterback",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 5657
+      "UsersEstimate": 5660
     },
     {
       "ID": "ThisIsDharma",
@@ -9633,7 +9638,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -9641,7 +9646,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "UnResurrected",
@@ -9657,7 +9662,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -9665,7 +9670,7 @@
       "Name": "Digestive Issues",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -9696,7 +9701,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 13798,
+      "Progressed": 13804,
       "Completed": 25
     }
   ],
@@ -9704,8 +9709,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-06T04:58:19.7016091+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:39.4646084+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:10:13.5875626+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:18.9626026+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:58:23.8546742+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:39.4646624+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:58:48.5722942+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:10:13.5876242+00:00"
 }

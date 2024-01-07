@@ -5,32 +5,32 @@ Rating: 4.13 (Ranked 1,007)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 62.00% | ~1,200 |
-| Trinity | 30.00% | ~581 |
+| Break Out | 62.00% | ~1,202 |
+| Trinity | 30.00% | ~582 |
+| A Taste of Wrath | 24.00% | ~465 |
 | The Collector | 24.00% | ~465 |
-| Find Allies | 23.00% | ~445 |
-| A Taste of Wrath | 23.00% | ~445 |
-| I Found It | 23.00% | ~445 |
-| Shatter Them All | 22.00% | ~426 |
-| Geared Up | 22.00% | ~426 |
+| Find Allies | 23.00% | ~446 |
+| I Found It | 23.00% | ~446 |
+| Shatter Them All | 22.00% | ~427 |
+| Geared Up | 22.00% | ~427 |
 | Adventurer | 21.00% | ~407 |
 | Fashion Victim | 21.00% | ~407 |
 | Scholar | 21.00% | ~407 |
 | Tributes of Caladrias | 19.00% | ~368 |
 | Stone Collection | 19.00% | ~368 |
-| Powerful Allies | 18.00% | ~348 |
+| Powerful Allies | 18.00% | ~349 |
 | Big Bazar | 13.00% | ~252 |
-| Essence Blow | 12.00% | ~232 |
-| Alchemist | 12.00% | ~232 |
+| Essence Blow | 12.00% | ~233 |
+| Alchemist | 12.00% | ~233 |
 | The Mentor | 10.00% | ~194 |
-| Calm before the Storm | 9.00% | ~174 |
+| Calm before the Storm | 9.00% | ~175 |
 | To Battle | 7.00% | ~136 |
 | Godslayer | 7.00% | ~136 |
 | Airborne | 7.00% | ~136 |
 | Miner | 7.00% | ~136 |
-| Clear Sight | 4.00% | ~77 |
-| Shatterer | 4.00% | ~77 |
-| Fine Feathers Make Fine Birds | 4.00% | ~77 |
+| Clear Sight | 4.00% | ~78 |
+| Shatterer | 4.00% | ~78 |
+| Fine Feathers Make Fine Birds | 4.00% | ~78 |
 | A Queen's Tale | 3.00% | ~58 |
 | Slayer | 2.00% | ~39 |
 | Flawless Victory | 2.00% | ~39 |
@@ -42,7 +42,7 @@ Rating: 4.13 (Ranked 1,007)
 | All That Gold | 0.70% | ~14 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,936 (Ranked 250)  
+Progressed: 1,939 (Ranked 249)  
 Completed: 3 (0.15%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 3 (0.15%) (Ranked 285)
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
 | 2024-01-06 | 1,936 | 3 |
+| 2024-01-07 | 1,939 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

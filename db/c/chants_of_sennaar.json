@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2492,
+  "EOS_Progressed": 2494,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 6.74,
   "EosHistory": [
@@ -6591,6 +6591,11 @@
       "Time": "2024-01-06T23:05:10.9914345+00:00",
       "NumProgressed": 2492,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2024-01-07T00:05:46.6109255+00:00",
+      "NumProgressed": 2494,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 25,
@@ -6610,7 +6615,7 @@
       "Name": "In this together",
       "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "META_ALL_LINK",
@@ -6618,7 +6623,7 @@
       "Name": "Peace walker",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6650,7 +6655,7 @@
       "Name": "Open door",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6666,7 +6671,7 @@
       "Name": "Feels like springtime",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6698,7 +6703,7 @@
       "Name": "Alchemists Express",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6738,7 +6743,7 @@
       "Name": "Champollion",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -6746,7 +6751,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6754,7 +6759,7 @@
       "Name": "Scholar",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "PROGRESS_N1",
@@ -6762,7 +6767,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "PROGRESS_N2",
@@ -6770,7 +6775,7 @@
       "Name": "The great escape",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "PROGRESS_N3",
@@ -6778,7 +6783,7 @@
       "Name": "A new dawn",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "PROGRESS_N4",
@@ -6801,7 +6806,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2492,
+      "Progressed": 2494,
       "Completed": 168
     }
   ],
@@ -6809,8 +6814,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-06T05:57:38.338864+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:05:10.9914342+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:05:46.610925+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:57:49.1219279+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:05:10.991481+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:58:14.0954482+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:05:46.6109702+00:00"
 }

@@ -10,7 +10,7 @@ Number of Ratings: 371  (23.09.2022)
 | Look Over There! | 14.00% | ~534 |
 | Watch Where You Step... | 14.00% | ~534 |
 | An Ill Omen | 14.00% | ~534 |
-| Not So Fast... | 13.00% | ~495 |
+| Not So Fast... | 13.00% | ~496 |
 | Purging Spree | 10.00% | ~381 |
 | Blood for the Blood God! | 8.00% | ~305 |
 | Bloodless | 7.00% | ~267 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,811 (Ranked 217)  
+Progressed: 3,812 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,6 +306,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,765 | 0 |
 | 2024-01-05 | 3,783 | 0 |
 | 2024-01-06 | 3,811 | 0 |
+| 2024-01-07 | 3,812 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 281)  
 Sum: 496 (Ranked 334)  

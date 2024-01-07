@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1849,
+  "EOS_Progressed": 1850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4887,6 +4887,11 @@
       "Time": "2024-01-06T22:10:25.3952021+00:00",
       "NumProgressed": 1849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T00:09:42.6372239+00:00",
+      "NumProgressed": 1850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4930,7 +4935,7 @@
       "Name": "Hard Landing",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_HISTORICAL_PLACES",
@@ -5050,7 +5055,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -5098,7 +5103,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -5122,7 +5127,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -5168,9 +5173,9 @@
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
       "SetID": "l546gc",
       "Name": "Occupy Mars!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 555
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5281,7 +5286,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1849,
+      "Progressed": 1850,
       "Completed": 0
     }
   ],
@@ -5289,8 +5294,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:08.3999545+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:09:42.6372235+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:58:56.1450043+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:08.4000216+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:59:21.0644317+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:09:42.6372729+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -597,9 +597,9 @@
       "ID": "LEAVE",
       "SetID": "bho0i1h",
       "Name": "Leave",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "MISSING_PIECE",
@@ -702,8 +702,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:05:50.7169316+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:06:26.4618481+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:25.7585633+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:58:11.5851245+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:05:50.7169563+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:58:37.2528947+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:06:26.4618636+00:00"
 }

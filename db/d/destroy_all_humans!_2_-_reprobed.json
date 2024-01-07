@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -1629,9 +1629,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1773,9 +1773,9 @@
       "ID": "ACH_ENTER_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1789,9 +1789,9 @@
       "ID": "ACH_ENTER_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1821,9 +1821,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1990,8 +1990,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:08:53.2409171+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:59:44.0062092+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:08:53.2409571+00:00"
+  "LastChanged_Achievements": "2024-01-07T00:09:27.684109+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
+  "LastUpdate_Ratings": "2024-01-07T00:00:09.8252015+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:09:27.6841434+00:00"
 }

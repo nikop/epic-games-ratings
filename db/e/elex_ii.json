@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1547,9 +1547,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "BRINGTOYS",
@@ -1579,9 +1579,9 @@
       "ID": "CHOSEBSK",
       "SetID": "a1angca",
       "Name": "Berserker",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "CHOSEKLE",
@@ -1779,8 +1779,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:04:30.9016321+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:05:06.4208876+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:58:09.8833674+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:04:30.9016708+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:58:35.3696862+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:05:06.4209304+00:00"
 }

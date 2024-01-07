@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242507,
+  "EOS_Progressed": 242508,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30940,6 +30940,11 @@
       "Time": "2024-01-06T23:09:49.2805765+00:00",
       "NumProgressed": 242507,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-07T00:10:23.5929125+00:00",
+      "NumProgressed": 242508,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31517,9 +31522,9 @@
       "ID": "LIGHTENDINGMEDIUM",
       "SetID": "5l8oe0h",
       "Name": "Path To Enlightenment",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 728
     },
     {
       "ID": "LOTSOFHATS",
@@ -32054,13 +32059,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242507,
+      "Progressed": 242508,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3987,
+      "Progressed": 3988,
       "Completed": 421
     }
   ],
@@ -32068,8 +32073,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:49.2805763+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:10:23.5929121+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:59:48.8735575+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:49.2808575+00:00"
+  "LastUpdate_Ratings": "2024-01-07T00:00:14.5343907+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:10:23.5932055+00:00"
 }

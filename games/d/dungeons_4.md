@@ -15,8 +15,8 @@ Rating: 4.71 (Ranked 203)
 | Bad Elves Go Everywhere | 69.00% | ~511 |
 | Thalya's Concentrated Fury | 68.00% | ~503 |
 | Heroes’ Gorge | 65.00% | ~481 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~466 |
 | Master of Magic | 62.00% | ~459 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~459 |
 | Magic Accidents | 59.00% | ~437 |
 | The Ascent | 59.00% | ~437 |
 | It's Warm and Cozy at Home | 59.00% | ~437 |
@@ -35,8 +35,8 @@ Rating: 4.71 (Ranked 203)
 | All’s Well That Ends Evil | 41.00% | ~303 |
 | The Duel | 38.00% | ~281 |
 | Unstoppable Horde | 35.00% | ~259 |
+| Master of the Undead | 35.00% | ~259 |
 | If Looks Could Kill | 35.00% | ~259 |
-| Master of the Undead | 34.00% | ~252 |
 | The Finitude Drill | 33.00% | ~244 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~222 |
 | Doom Hill | 30.00% | ~222 |

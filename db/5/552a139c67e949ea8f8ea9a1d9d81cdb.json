@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1873,
+  "EOS_Progressed": 1875,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -4717,6 +4717,11 @@
       "Time": "2024-01-06T23:03:52.6992624+00:00",
       "NumProgressed": 1873,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T00:04:27.9241104+00:00",
+      "NumProgressed": 1875,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4729,7 +4734,7 @@
       "Name": "Rookie",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4753,7 +4758,7 @@
       "Name": "Drifting teacher",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4793,7 +4798,7 @@
       "Name": "Masterful!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -4817,7 +4822,7 @@
       "Name": "Immortal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4825,7 +4830,7 @@
       "Name": "Look, Mom! No track!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -4833,7 +4838,7 @@
       "Name": "Shapeshifter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -4857,7 +4862,7 @@
       "Name": "Solo",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -4865,7 +4870,7 @@
       "Name": "International license",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -4913,7 +4918,7 @@
       "Name": "The Terrordactyl",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -4937,7 +4942,7 @@
       "Name": "Extreme conditions",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5007,9 +5012,9 @@
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 94
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -5065,7 +5070,7 @@
       "Name": "Mission complete",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -5096,20 +5101,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1873,
+      "Progressed": 1875,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1541,
+      "Progressed": 1543,
       "Completed": 1009
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:03:52.699262+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:04:27.92411+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:00:26.5189047+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:03:52.6993184+00:00"
+  "LastUpdate_Ratings": "2024-01-07T00:03:11.67145+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:04:27.9241907+00:00"
 }

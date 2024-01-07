@@ -5,10 +5,10 @@
   "Ranking_Rating": 614,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 494,
+  "EOS_Progressed": 495,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -738,6 +738,11 @@
       "Time": "2024-01-06T12:06:49.9925126+00:00",
       "NumProgressed": 494,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T00:06:04.3960153+00:00",
+      "NumProgressed": 495,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -797,7 +802,7 @@
       "Name": "No Mercy",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "different-items1",
@@ -829,7 +834,7 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "finished-quest-flight",
@@ -845,7 +850,7 @@
       "Name": "Campaigning",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "finished-quest-nurgle",
@@ -875,9 +880,9 @@
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 129
     },
     {
       "ID": "finished-quest-sci",
@@ -885,7 +890,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "finished-quest-secret",
@@ -917,7 +922,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "last-hero",
@@ -955,9 +960,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 139
     },
     {
       "ID": "win-first-biom",
@@ -965,7 +970,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "win-first-level",
@@ -973,7 +978,7 @@
       "Name": "Good start!",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "win-koth-fights1",
@@ -981,7 +986,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "win-koth-fights2",
@@ -1005,7 +1010,7 @@
       "Name": "Through the Darkness",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "win-with-3-cultists",
@@ -1028,7 +1033,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 494,
+      "Progressed": 495,
       "Completed": 1
     }
   ],
@@ -1036,8 +1041,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:05:28.441531+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:06:04.3960149+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.2003375+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:59:06.2290464+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:05:28.4415624+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:59:30.9855257+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:06:04.3960636+00:00"
 }

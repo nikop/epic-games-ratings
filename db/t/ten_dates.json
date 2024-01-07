@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
@@ -1376,6 +1376,11 @@
       "Time": "2024-01-06T21:09:40.3233551+00:00",
       "NumProgressed": 480,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T00:09:52.7453995+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 19,
@@ -1409,9 +1414,9 @@
       "ID": "misha_date3_all",
       "SetID": "6h5h9ho",
       "Name": "Keep the spark alive",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "profile_misha",
@@ -1427,7 +1432,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ryan_date2_all",
@@ -1538,7 +1543,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 6
     }
   ],
@@ -1546,8 +1551,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:18.5754264+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:09:52.7453987+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:57:26.7371828+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:18.5754526+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:57:51.9586924+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:09:52.7454175+00:00"
 }

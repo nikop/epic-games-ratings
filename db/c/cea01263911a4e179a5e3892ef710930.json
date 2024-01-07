@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92551,
+  "EOS_Progressed": 92552,
   "EOS_Completed": 332,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 976,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -17010,6 +17010,11 @@
       "Time": "2024-01-06T23:05:15.0989636+00:00",
       "NumProgressed": 92551,
       "NumCompleted": 332
+    },
+    {
+      "Time": "2024-01-07T00:05:50.7618252+00:00",
+      "NumProgressed": 92552,
+      "NumCompleted": 332
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -17022,7 +17027,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 74041
+      "UsersEstimate": 74042
     },
     {
       "ID": "grp_beet",
@@ -17038,7 +17043,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 71264
+      "UsersEstimate": 71265
     },
     {
       "ID": "grp_endless",
@@ -17126,7 +17131,7 @@
       "Name": "As the dodo flies",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 44424
+      "UsersEstimate": 44425
     },
     {
       "ID": "grp_stone",
@@ -17157,7 +17162,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 92551,
+      "Progressed": 92552,
       "Completed": 332
     }
   ],
@@ -17165,8 +17170,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-06T10:00:02.9214127+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:05:15.098963+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:05:50.7618248+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:23.7863776+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:00:06.5395296+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:05:15.0990359+00:00"
+  "LastUpdate_Ratings": "2024-01-07T00:00:31.6956849+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:05:50.7619164+00:00"
 }

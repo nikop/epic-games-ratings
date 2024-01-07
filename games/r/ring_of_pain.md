@@ -75,6 +75,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Soul Stash | 0.30% | ~728 |
 | Juggernaut | 0.30% | ~728 |
 | Clearing The Room | 0.30% | ~728 |
+| Path To Enlightenment | 0.30% | ~728 |
 | Decisions, Decisions | 0.30% | ~728 |
 | Fragile Mortality | 0.30% | ~728 |
 | Fire Away! | 0.30% | ~728 |
@@ -97,7 +98,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Become The Nightmare | 0.20% | ~485 |
 | Trail Of Death | 0.20% | ~485 |
 | The Boulder | 0.20% | ~485 |
-| Path To Enlightenment | 0.20% | ~485 |
 | No Mercy | 0.20% | ~485 |
 | Just Looking Around | 0.20% | ~485 |
 | Champion of the Day | 0.20% | ~485 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,507 (Ranked 72)  
+Progressed: 242,508 (Ranked 72)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,6 +407,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-04 | 242,358 | 304 |
 | 2024-01-05 | 242,422 | 304 |
 | 2024-01-06 | 242,507 | 304 |
+| 2024-01-07 | 242,508 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

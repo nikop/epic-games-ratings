@@ -1,7 +1,7 @@
 # Kitaria Fables
 [Store](https://store.epicgames.com/en-US/p/kitaria-fables)  
 [View Rawdata](../../db/k/kitaria_fables.json)  
-Rating: 4.43 (Ranked 723)  
+Rating: 4.45 (Ranked 693)  
 Number of Ratings: 20  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -17,3 +17,4 @@ Number of Ratings: 20  (23.09.2022)
 | 2023-03-31 | 4.39 | - | 0 | 0 |
 | 2023-06-10 | 4.41 | - | 0 | 0 |
 | 2023-09-25 | 4.43 | - | 0 | 0 |
+| 2024-01-06 | 4.45 | - | 0 | 0 |

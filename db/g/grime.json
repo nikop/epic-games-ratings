@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1837,10 +1837,10 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166913,
+  "EOS_Progressed": 166923,
   "EOS_Completed": 446,
-  "EOS_NewPlayers": 1333,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 1338,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -22117,6 +22117,11 @@
       "Time": "2024-01-06T23:06:17.576063+00:00",
       "NumProgressed": 166913,
       "NumCompleted": 446
+    },
+    {
+      "Time": "2024-01-07T00:08:33.2465431+00:00",
+      "NumProgressed": 166923,
+      "NumCompleted": 446
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22169,7 +22174,7 @@
       "Name": "Zygote",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -22193,7 +22198,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -22241,7 +22246,7 @@
       "Name": "Glare",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -22273,7 +22278,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -22281,7 +22286,7 @@
       "Name": "Jawstag",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -22313,7 +22318,7 @@
       "Name": "Watcher",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -22345,7 +22350,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -22425,7 +22430,7 @@
       "Name": "Dream",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "QUEST_CODA",
@@ -22441,7 +22446,7 @@
       "Name": "Kin",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "QUEST_LISTENER",
@@ -22449,7 +22454,7 @@
       "Name": "Listen",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "QUEST_YON",
@@ -22465,7 +22470,7 @@
       "Name": "The Nightmare",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "MISC_FINISHNG",
@@ -22473,7 +22478,7 @@
       "Name": "Touch of Otherwhere",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -22481,7 +22486,7 @@
       "Name": "Enrich",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
@@ -22489,28 +22494,28 @@
       "Name": "Intensify",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166496,
+      "Progressed": 166506,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166913,
+      "Progressed": 166923,
       "Completed": 446
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-06T15:57:18.5501396+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:06:17.5760627+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:08:33.2465427+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:57:25.5354943+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:06:17.5761924+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:57:50.6449157+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:08:33.2466907+00:00"
 }

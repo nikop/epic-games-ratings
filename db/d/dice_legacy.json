@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1313,
+  "EOS_Progressed": 1314,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2799,6 +2799,11 @@
       "Time": "2024-01-06T17:03:35.5083064+00:00",
       "NumProgressed": 1313,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T00:03:53.1320502+00:00",
+      "NumProgressed": 1314,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2994,7 +2999,7 @@
       "Name": "The City",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "GOLDMASTER",
@@ -3034,7 +3039,7 @@
       "Name": "We made it",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -3169,7 +3174,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1313,
+      "Progressed": 1314,
       "Completed": 0
     }
   ],
@@ -3177,8 +3182,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:03:18.2756454+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T22:57:49.6801361+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:02:53.1332177+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:03:18.2757238+00:00"
+  "LastChanged_Achievements": "2024-01-07T00:03:53.1320497+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T23:57:23.342608+00:00",
+  "LastUpdate_Ratings": "2024-01-07T00:03:26.0426758+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:03:53.1320964+00:00"
 }

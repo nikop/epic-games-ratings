@@ -6,8 +6,8 @@ Rating: 4.62 (Ranked 378)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 15.00% | ~1,048 |
-| Realm Estate | 14.00% | ~978 |
-| A Wonderful Discovery | 13.00% | ~908 |
+| Realm Estate | 14.00% | ~979 |
+| A Wonderful Discovery | 13.00% | ~909 |
 | Walls Cannot Stop Us | 12.00% | ~839 |
 | From Friends to Family | 11.00% | ~769 |
 | Bone Peddler | 9.00% | ~629 |
@@ -19,11 +19,11 @@ Rating: 4.62 (Ranked 378)
 | Valley of Wonders | 6.00% | ~419 |
 | In a Liege of Your Own | 6.00% | ~419 |
 | Intimidation Tactics | 6.00% | ~419 |
-| But this one is mine | 5.00% | ~349 |
+| My Final Form | 5.00% | ~350 |
+| But this one is mine | 5.00% | ~350 |
 | Return of the Wizard King | 4.00% | ~280 |
 | Enchanted Archipelago | 4.00% | ~280 |
 | Digging for Treasure | 4.00% | ~280 |
-| My Final Form | 4.00% | ~280 |
 | Against the Odds | 4.00% | ~280 |
 | Impenetrable Fortress | 4.00% | ~280 |
 | Preparation Is Everything | 3.00% | ~210 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,988 (Ranked 196)  
+Progressed: 6,990 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,10 +296,11 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
+| 2024-01-07 | 6,990 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
-Sum: 211 (Ranked 411)  
-Diff (max vs sum): 69  
+Sum: 212 (Ranked 410)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |
@@ -309,7 +310,7 @@ Diff (max vs sum): 69
 | This game has Amazing Storytelling | 21 |
 | This game has Challenging Combat | 21 |
 | This game has Quickly Understood Controls | 21 |
-| This game has Beautiful Visuals | 20 |
+| This game has Beautiful Visuals | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -398,3 +399,4 @@ Diff (max vs sum): 69
 | 2024-01-03 | 4.62 | 40 | 209 |
 | 2024-01-05 | 4.62 | 40 | 210 |
 | 2024-01-06 | 4.62 | 40 | 211 |
+| 2024-01-07 | 4.62 | 40 | 212 |

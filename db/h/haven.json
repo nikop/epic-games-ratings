@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1909,
+  "EOS_Progressed": 1910,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -3409,6 +3409,11 @@
       "Time": "2024-01-06T21:05:36.6625732+00:00",
       "NumProgressed": 1909,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T00:05:52.2359406+00:00",
+      "NumProgressed": 1910,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3436,7 +3441,7 @@
       "Name": "Strike!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "12",
@@ -3484,7 +3489,7 @@
       "Name": "Balding bloot!",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "18",
@@ -3572,7 +3577,7 @@
       "Name": "A love supreme",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "3",
@@ -3580,7 +3585,7 @@
       "Name": "Hug therapy",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "30",
@@ -3620,7 +3625,7 @@
       "Name": "An eye for an eye",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "6",
@@ -3628,7 +3633,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "7",
@@ -3659,15 +3664,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1909,
+      "Progressed": 1910,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:05:16.5683042+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:05:52.2359403+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:57:09.9296257+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:05:16.5683757+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:57:34.9393559+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:05:52.2359745+00:00"
 }

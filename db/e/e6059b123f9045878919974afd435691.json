@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1375,
+  "EOS_Progressed": 1378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3624,6 +3624,11 @@
       "Time": "2024-01-06T22:11:16.8629059+00:00",
       "NumProgressed": 1375,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T00:10:21.4902786+00:00",
+      "NumProgressed": 1378,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3635,7 +3640,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 978
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3643,7 +3648,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3659,7 +3664,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -3675,7 +3680,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3707,7 +3712,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3771,7 +3776,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -3835,15 +3840,15 @@
       "Name": "Greetings from Royalty",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Think Bullets Will Affect Her?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 152
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -3883,7 +3888,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -3907,15 +3912,15 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 785
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3923,7 +3928,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3931,7 +3936,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3947,7 +3952,7 @@
       "Name": "Do This In Silence",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -3955,7 +3960,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3987,7 +3992,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -3995,7 +4000,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4011,7 +4016,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -4027,7 +4032,7 @@
       "Name": "Night Snack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4067,7 +4072,7 @@
       "Name": "The Last of Us",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4083,7 +4088,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 703
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4162,14 +4167,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1375,
+      "Progressed": 1378,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:47.4195614+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:10:21.4902783+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:57:51.5266443+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:47.4196244+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:58:16.833241+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:10:21.4903599+00:00"
 }

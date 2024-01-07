@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~888 |
-| Lost and Found | 8.00% | ~546 |
+| Lost and Found | 8.00% | ~547 |
 | Autodidact | 7.00% | ~9,237 |
 | This Belongs in a Museum | 6.00% | ~7,918 |
 | Creep and Sleep | 6.00% | ~7,918 |
@@ -21,16 +21,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 5.00% | ~6,598 |
 | Rush Hour | 5.00% | ~6,598 |
 | To Grandmother's House | 5.00% | ~6,598 |
-| Bloody Graduation | 5.00% | ~341 |
-| It Rings a Bell | 4.00% | ~5,278 |
-| Not Today! | 4.00% | ~5,278 |
-| It Happens | 4.00% | ~5,278 |
-| Merry Time | 4.00% | ~5,278 |
-| Harvest Festival | 4.00% | ~5,278 |
-| Whale | 4.00% | ~5,278 |
-| A Place to Lay Your Head | 4.00% | ~5,278 |
-| FNG | 4.00% | ~5,278 |
-| Nope | 4.00% | ~5,278 |
+| Bloody Graduation | 5.00% | ~342 |
+| It Rings a Bell | 4.00% | ~5,279 |
+| Not Today! | 4.00% | ~5,279 |
+| It Happens | 4.00% | ~5,279 |
+| Merry Time | 4.00% | ~5,279 |
+| Harvest Festival | 4.00% | ~5,279 |
+| Whale | 4.00% | ~5,279 |
+| A Place to Lay Your Head | 4.00% | ~5,279 |
+| FNG | 4.00% | ~5,279 |
+| Nope | 4.00% | ~5,279 |
 | Friends 'Til the End | 4.00% | ~273 |
 | Resurrection | 3.00% | ~3,959 |
 | Unleash Hell | 3.00% | ~3,959 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,959 (Ranked 91)  
+Progressed: 131,963 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,6 +338,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
+| 2024-01-07 | 131,963 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
 Sum: 21,481 (Ranked 58)  

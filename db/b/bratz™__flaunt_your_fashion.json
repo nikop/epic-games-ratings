@@ -4,8 +4,8 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -636,9 +636,9 @@
       "ID": "11",
       "SetID": "41h3j82",
       "Name": "Creating New Trends",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 70,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "12",
@@ -724,17 +724,17 @@
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 70,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "6",
@@ -781,8 +781,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:04:15.6204248+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:04:50.9720874+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:52.6103683+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:58:14.1292598+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:04:15.6204396+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:58:39.3242669+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:04:50.972103+00:00"
 }

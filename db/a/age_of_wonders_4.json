@@ -4,11 +4,11 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 378,
   "Ranking_Popularity": 480,
-  "Ranking_PopularitySum": 411,
+  "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -673,10 +673,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 211,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-01-07T00:03:12.979047+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 212,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 211,
+  "NumberOfAwards": 212,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -726,12 +732,12 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 20
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 6988,
+  "EOS_Progressed": 6990,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10599,6 +10605,11 @@
       "Time": "2024-01-06T23:04:14.3346148+00:00",
       "NumProgressed": 6988,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T00:04:49.6949627+00:00",
+      "NumProgressed": 6990,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10722,7 +10733,7 @@
       "Name": "Realm Estate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "23",
@@ -10730,7 +10741,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "24",
@@ -10808,9 +10819,9 @@
       "ID": "32",
       "SetID": "3aa2279",
       "Name": "My Final Form",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 280
+      "UsersEstimate": 350
     },
     {
       "ID": "33",
@@ -11074,7 +11085,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "60",
@@ -11089,22 +11100,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6988,
+      "Progressed": 6990,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6988,
+      "Progressed": 6990,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-06T22:03:38.7133458+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:04:14.3346145+00:00",
+  "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:04:49.6949622+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:00:27.9524332+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:04:14.3346891+00:00"
+  "LastUpdate_Ratings": "2024-01-07T00:03:12.9790472+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:04:49.6950821+00:00"
 }

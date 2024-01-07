@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10590,9 +10590,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131959,
+  "EOS_Progressed": 131963,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1121,
+  "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38665,6 +38665,11 @@
       "Time": "2024-01-06T23:09:22.7127569+00:00",
       "NumProgressed": 131959,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T00:09:56.841859+00:00",
+      "NumProgressed": 131963,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38692,7 +38697,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -38828,7 +38833,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -38948,7 +38953,7 @@
       "Name": "It Happens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -38980,7 +38985,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -38988,7 +38993,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -39052,7 +39057,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "hospital_full_service",
@@ -39068,7 +39073,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -39084,7 +39089,7 @@
       "Name": "FNG",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "inn_visit_all_variants",
@@ -39124,7 +39129,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "run_victory_act01",
@@ -39268,7 +39273,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "quest_complete_crusader",
@@ -39276,7 +39281,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39307,21 +39312,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131959,
+      "Progressed": 131963,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6828,
+      "Progressed": 6832,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-06T21:57:59.003917+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:22.7127564+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:09:56.8418586+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:57:14.4774483+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:22.7129705+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:57:39.905378+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:09:56.84205+00:00"
 }

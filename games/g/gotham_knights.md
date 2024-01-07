@@ -5,40 +5,40 @@ Rating: 4.19 (Ranked 970)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~40,896 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,809 |
-| Loose Ends | 33.00% | ~26,991 |
-| To the Victor Go the Spoils | 27.00% | ~22,084 |
-| Knighthood | 26.00% | ~21,266 |
-| Get ReQ'd | 24.00% | ~19,630 |
-| Whispered Words | 24.00% | ~19,630 |
-| The Batman Family | 22.00% | ~17,994 |
-| Lock and Key | 22.00% | ~17,994 |
-| Something in the Clay | 20.00% | ~16,358 |
-| Quartzer Life Crisis | 20.00% | ~16,358 |
-| Working Hard or Harley Working? | 20.00% | ~16,358 |
-| Unstoppable Force | 20.00% | ~16,358 |
-| Bad Apples in Every Orchard | 20.00% | ~16,358 |
-| Snow Problem | 19.00% | ~15,540 |
-| The Show Mud Go On | 17.00% | ~13,905 |
-| From Inside Gotham's Walls | 17.00% | ~13,905 |
-| Protector of Gotham | 16.00% | ~13,087 |
-| In Your Element | 15.00% | ~12,269 |
-| Universal Health Scare | 15.00% | ~12,269 |
-| Rock and a Hard Place | 14.00% | ~11,451 |
-| Cooldown | 14.00% | ~11,451 |
-| Voiceless | 14.00% | ~11,451 |
-| Shock Til They Drop | 13.00% | ~10,633 |
-| Seeking Asylum | 13.00% | ~10,633 |
-| End of an Era | 12.00% | ~9,815 |
-| Not On My Watch | 12.00% | ~9,815 |
-| Bulldozed | 12.00% | ~9,815 |
-| Gotham Knight | 12.00% | ~9,815 |
-| Gotham City Confidential | 11.00% | ~8,997 |
-| Out of Their League | 9.00% | ~7,361 |
-| Drone You Out | 9.00% | ~7,361 |
-| Solid Alibi | 8.00% | ~6,543 |
-| Fusion Expert | 7.00% | ~5,725 |
+| First Step Into the Knight | 50.00% | ~40,900 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,812 |
+| Loose Ends | 33.00% | ~26,994 |
+| To the Victor Go the Spoils | 27.00% | ~22,086 |
+| Knighthood | 26.00% | ~21,268 |
+| Get ReQ'd | 24.00% | ~19,632 |
+| Whispered Words | 24.00% | ~19,632 |
+| The Batman Family | 22.00% | ~17,996 |
+| Lock and Key | 22.00% | ~17,996 |
+| Something in the Clay | 20.00% | ~16,360 |
+| Quartzer Life Crisis | 20.00% | ~16,360 |
+| Working Hard or Harley Working? | 20.00% | ~16,360 |
+| Unstoppable Force | 20.00% | ~16,360 |
+| Bad Apples in Every Orchard | 20.00% | ~16,360 |
+| Snow Problem | 19.00% | ~15,542 |
+| The Show Mud Go On | 17.00% | ~13,906 |
+| From Inside Gotham's Walls | 17.00% | ~13,906 |
+| Protector of Gotham | 16.00% | ~13,088 |
+| In Your Element | 15.00% | ~12,270 |
+| Universal Health Scare | 15.00% | ~12,270 |
+| Rock and a Hard Place | 14.00% | ~11,452 |
+| Cooldown | 14.00% | ~11,452 |
+| Voiceless | 14.00% | ~11,452 |
+| Shock Til They Drop | 13.00% | ~10,634 |
+| Seeking Asylum | 13.00% | ~10,634 |
+| End of an Era | 12.00% | ~9,816 |
+| Not On My Watch | 12.00% | ~9,816 |
+| Bulldozed | 12.00% | ~9,816 |
+| Gotham Knight | 12.00% | ~9,816 |
+| Gotham City Confidential | 11.00% | ~8,998 |
+| Out of Their League | 9.00% | ~7,362 |
+| Drone You Out | 9.00% | ~7,362 |
+| Solid Alibi | 8.00% | ~6,544 |
+| Fusion Expert | 7.00% | ~5,726 |
 | Family Meeting | 6.00% | ~4,908 |
 | A Worthy Successor | 6.00% | ~4,908 |
 | Expert Crime Fighter | 5.00% | ~4,090 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 970)
 | The Cold, the Bad and the Ugly | 0.30% | ~156 |
 | It's Nice to Be Wanted | 0.20% | ~104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,792 (Ranked 110)  
+Progressed: 81,800 (Ranked 110)  
 Completed: 132 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,13 +329,14 @@ Completed: 132 (0.16%) (Ranked 282)
 | 2024-01-04 | 81,437 | 131 |
 | 2024-01-05 | 81,609 | 131 |
 | 2024-01-06 | 81,792 | 132 |
+| 2024-01-07 | 81,800 | 132 |
 ## Awards
-Max (Great Boss Battles): 3,140  (Ranked 100)  
-Sum: 5,368 (Ranked 142)  
+Max (Great Boss Battles): 3,146  (Ranked 100)  
+Sum: 5,374 (Ranked 142)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,140 |
+| This game has Great Boss Battles | 3,146 |
 | This game is Great for Beginners | 285 |
 | This game has Diverse Characters | 285 |
 | This game is Relaxing | 282 |
@@ -662,4 +663,4 @@ Diff (max vs sum): -42
 | 2024-01-03 | 4.19 | 3,120 | 5,334 |
 | 2024-01-04 | 4.19 | 3,129 | 5,347 |
 | 2024-01-05 | 4.19 | 3,140 | 5,362 |
-| 2024-01-06 | 4.19 | 3,140 | 5,368 |
+| 2024-01-06 | 4.19 | 3,146 | 5,374 |

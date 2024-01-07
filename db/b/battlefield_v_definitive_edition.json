@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
     "PcReleaseDate": "2018-11-09T16:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 89832,
+  "EOS_Progressed": 89859,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8779,
+  "EOS_NewPlayers": 8777,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12798,6 +12798,11 @@
       "Time": "2024-01-06T23:09:33.6667102+00:00",
       "NumProgressed": 89832,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T00:10:07.8466026+00:00",
+      "NumProgressed": 89859,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -12810,7 +12815,7 @@
       "Name": "Storyteller",
       "Percentage": 4,
       "XP": 85,
-      "UsersEstimate": 3593
+      "UsersEstimate": 3594
     },
     {
       "ID": "achievement_10",
@@ -12818,7 +12823,7 @@
       "Name": "Globetrotter",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 5390
+      "UsersEstimate": 5392
     },
     {
       "ID": "achievement_11",
@@ -12834,7 +12839,7 @@
       "Name": "Fender Bender",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 7187
+      "UsersEstimate": 7189
     },
     {
       "ID": "achievement_13",
@@ -12842,7 +12847,7 @@
       "Name": "Grim Reaper",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 59289
+      "UsersEstimate": 59307
     },
     {
       "ID": "achievement_14",
@@ -12850,7 +12855,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 26051
+      "UsersEstimate": 26059
     },
     {
       "ID": "achievement_15",
@@ -12858,7 +12863,7 @@
       "Name": "Combat Engineer",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 35933
+      "UsersEstimate": 35944
     },
     {
       "ID": "achievement_16",
@@ -12866,7 +12871,7 @@
       "Name": "Heads Down",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 57492
+      "UsersEstimate": 57510
     },
     {
       "ID": "achievement_17",
@@ -12874,7 +12879,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 4492
+      "UsersEstimate": 4493
     },
     {
       "ID": "achievement_18",
@@ -12882,7 +12887,7 @@
       "Name": "Eager Beaver",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 26950
+      "UsersEstimate": 26958
     },
     {
       "ID": "achievement_19",
@@ -12890,7 +12895,7 @@
       "Name": "Elite",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 10780
+      "UsersEstimate": 10783
     },
     {
       "ID": "achievement_2",
@@ -12906,7 +12911,7 @@
       "Name": "Last Man Standing",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 81747
+      "UsersEstimate": 81772
     },
     {
       "ID": "achievement_21",
@@ -12914,7 +12919,7 @@
       "Name": "Not On My Watch",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 53899
+      "UsersEstimate": 53915
     },
     {
       "ID": "achievement_3",
@@ -12930,7 +12935,7 @@
       "Name": "Lovely",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 24255
+      "UsersEstimate": 24262
     },
     {
       "ID": "achievement_5",
@@ -12938,7 +12943,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 14373
+      "UsersEstimate": 14377
     },
     {
       "ID": "achievement_6",
@@ -12946,7 +12951,7 @@
       "Name": "Ou La Mort",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 12576
+      "UsersEstimate": 12580
     },
     {
       "ID": "achievement_7",
@@ -12954,7 +12959,7 @@
       "Name": "Off-hand",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "achievement_8",
@@ -12962,7 +12967,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 61086
+      "UsersEstimate": 61104
     },
     {
       "ID": "achievement_9",
@@ -12970,20 +12975,20 @@
       "Name": "Hoist the Flag",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     }
   ],
   "AchievementSets": [
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 89832,
+      "Progressed": 89859,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:33.6667098+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:10:07.846602+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.4618667+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:59:50.5090123+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:33.6667917+00:00"
+  "LastUpdate_Ratings": "2024-01-07T00:00:15.5045338+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:10:07.8466807+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 723,
+  "Ranking_Rating": 724,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1080,9 +1080,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231558,
+  "EOS_Progressed": 231562,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29775,6 +29775,11 @@
       "Time": "2024-01-06T23:09:37.6768794+00:00",
       "NumProgressed": 231558,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T00:10:11.8137208+00:00",
+      "NumProgressed": 231562,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29794,7 +29799,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60205
+      "UsersEstimate": 60206
     },
     {
       "ID": "ACH_BASE_11",
@@ -29826,7 +29831,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ACH_BASE_16",
@@ -29842,7 +29847,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "ACH_BASE_18",
@@ -29866,7 +29871,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13893
+      "UsersEstimate": 13894
     },
     {
       "ID": "ACH_BASE_20",
@@ -30050,14 +30055,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231558,
+      "Progressed": 231562,
       "Completed": 5
     }
   ],
@@ -30065,8 +30070,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-06T19:59:50.5101793+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:37.6768791+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:10:11.8137201+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:58:53.5695333+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:37.6770435+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:59:18.8274565+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:10:11.8139167+00:00"
 }

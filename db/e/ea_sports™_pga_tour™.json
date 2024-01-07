@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -3195,6 +3195,11 @@
       "Time": "2024-01-06T23:09:23.6884324+00:00",
       "NumProgressed": 890,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T00:09:57.7262692+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3263,7 +3268,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "achievement_17",
@@ -3335,7 +3340,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "achievement_9",
@@ -3350,13 +3355,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:23.6884322+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T22:57:46.6527826+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:59:47.6616746+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:23.6884563+00:00"
+  "LastChanged_Achievements": "2024-01-07T00:09:57.7262688+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
+  "LastUpdate_Ratings": "2024-01-07T00:00:13.5858785+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:09:57.7262957+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -504,6 +504,11 @@
       "Time": "2024-01-06T20:09:42.2434653+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T00:09:35.3525141+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -522,7 +527,7 @@
       "ID": "achievement_appearance_of_god_gleda",
       "SetID": "bngbnfb",
       "Name": "Theophany (Gleda)",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -530,7 +535,7 @@
       "ID": "achievement_appearance_of_god_philia",
       "SetID": "bngbnfb",
       "Name": "Theophany (Philia)",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -562,7 +567,7 @@
       "ID": "achievement_bench_for_spare",
       "SetID": "bngbnfb",
       "Name": "Sidelined",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -594,7 +599,7 @@
       "ID": "achievement_death_to_javelin",
       "SetID": "bngbnfb",
       "Name": "Death to the javelin thrower",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -602,7 +607,7 @@
       "ID": "achievement_drunk_lucky",
       "SetID": "bngbnfb",
       "Name": "The luck of drunkards",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -626,7 +631,7 @@
       "ID": "achievement_fidelity_to_the_clan",
       "SetID": "bngbnfb",
       "Name": "True to the clan",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -642,7 +647,7 @@
       "ID": "achievement_flit_alive",
       "SetID": "bngbnfb",
       "Name": "The luck of wiseguys",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -658,7 +663,7 @@
       "ID": "achievement_genius_of_tactics",
       "SetID": "bngbnfb",
       "Name": "Tactical genius",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 140,
       "UsersEstimate": 1
     },
@@ -698,7 +703,7 @@
       "ID": "achievement_hero",
       "SetID": "bngbnfb",
       "Name": "Hero",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -714,7 +719,7 @@
       "ID": "achievement_kriger_alive",
       "SetID": "bngbnfb",
       "Name": "A friend in need",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -738,7 +743,7 @@
       "ID": "achievement_makt_alive",
       "SetID": "bngbnfb",
       "Name": "Makt makes it",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -802,7 +807,7 @@
       "ID": "achievement_save_the_king",
       "SetID": "bngbnfb",
       "Name": "Save the King",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -810,7 +815,7 @@
       "ID": "achievement_save_the_prince",
       "SetID": "bngbnfb",
       "Name": "Save the Prince",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -826,7 +831,7 @@
       "ID": "achievement_the_baptism",
       "SetID": "bngbnfb",
       "Name": "The Baptism of the Triune",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -844,7 +849,7 @@
       "Name": "Thorn\u0027s alive!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_thorn_is_my_choise",
@@ -858,7 +863,7 @@
       "ID": "achievement_thrifty",
       "SetID": "bngbnfb",
       "Name": "Parsimonious",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -882,7 +887,7 @@
       "ID": "achievement_we_are_saved_gleda",
       "SetID": "bngbnfb",
       "Name": "We\u0027re saved (Gleda)",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -915,14 +920,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:01.0056183+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:09:35.3525137+00:00",
   "LastUpdate_AppInfo": "2024-01-03T15:56:53.5899494+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:59:21.7124271+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:01.0056564+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:59:46.9746328+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:09:35.3525473+00:00"
 }

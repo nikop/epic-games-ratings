@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -577,9 +577,9 @@
       "ID": "ACH_015",
       "SetID": "7b646ck",
       "Name": "Everything matters",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_016",
@@ -601,9 +601,9 @@
       "ID": "ACH_018",
       "SetID": "7b646ck",
       "Name": "Order and method",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_019",
@@ -641,9 +641,9 @@
       "ID": "ACH_022",
       "SetID": "7b646ck",
       "Name": "An expert mediator",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_023",
@@ -904,8 +904,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:24.2946668+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:09:58.3691958+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:16.5856967+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:59:33.1501059+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:24.2947016+00:00"
+  "LastUpdate_Ratings": "2024-01-06T23:59:58.8934503+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:09:58.3692611+00:00"
 }

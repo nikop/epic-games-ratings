@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1578,9 +1578,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27858,
+  "EOS_Progressed": 27860,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -13278,6 +13278,11 @@
       "Time": "2024-01-06T23:09:35.4916074+00:00",
       "NumProgressed": 27858,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-07T00:10:09.7235918+00:00",
+      "NumProgressed": 27860,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13369,7 +13374,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -13600,21 +13605,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27858,
+      "Progressed": 27860,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6788,
+      "Progressed": 6790,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-05T17:59:53.3686411+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:09:35.4916072+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-06T22:59:22.4334293+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:09:35.4916857+00:00"
+  "LastChanged_Achievements": "2024-01-07T00:10:09.7235916+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
+  "LastUpdate_Ratings": "2024-01-06T23:59:47.6918893+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:10:09.7236703+00:00"
 }

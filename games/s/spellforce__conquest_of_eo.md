@@ -10,8 +10,8 @@
 | A kind of Magic | 73.00% | ~89 |
 | Connected | 64.00% | ~78 |
 | Expansion | 59.00% | ~72 |
+| Harvest Time | 56.00% | ~68 |
 | Mine! | 56.00% | ~68 |
-| Harvest Time | 55.00% | ~67 |
 | Artificer's Apprentice | 48.00% | ~59 |
 | Fly the friendly Sky | 44.00% | ~54 |
 | Get out of here! | 43.00% | ~52 |
@@ -30,10 +30,10 @@
 | Friend of Gillyshire | 15.00% | ~18 |
 | Stormwatch Faste | 13.00% | ~16 |
 | Break Free | 13.00% | ~16 |
+| Philo's Tale | 12.00% | ~15 |
 | Friend of Orgash | 12.00% | ~15 |
 | Friend of Silver Drift Hollow | 12.00% | ~15 |
 | Friend of Bastion | 12.00% | ~15 |
-| Philo's Tale | 11.00% | ~13 |
 | Silver Drift Hollow Mine | 11.00% | ~13 |
 | A Master of Magic | 11.00% | ~13 |
 | Friend of Windholme | 11.00% | ~13 |

@@ -15,8 +15,8 @@
 | Clean energy | 6.00% | ~30 |
 | Bucolic city | 6.00% | ~30 |
 | Soviet town | 6.00% | ~30 |
+| I love books! | 3.00% | ~15 |
 | Food producer | 2.00% | ~10 |
-| I love books! | 2.00% | ~10 |
 | King of fish | 2.00% | ~10 |
 | I love parks | 2.00% | ~10 |
 | Rebel city | 2.00% | ~10 |

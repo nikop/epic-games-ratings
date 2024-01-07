@@ -4,11 +4,11 @@
   "ProductSlug": "doom-64",
   "Ranking_Rating": 300,
   "Ranking_Popularity": 143,
-  "Ranking_PopularitySum": 231,
+  "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-18T15:00:00+00:00",
     "PcReleaseDate": "1997-03-31T12:00:00+00:00",
@@ -1169,18 +1169,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 1669,
       "NumberOfAwardsMax": 1308
+    },
+    {
+      "Time": "2024-01-07T00:00:37.2032517+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1671,
+      "NumberOfAwardsMax": 1310
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1669,
-  "NumberOfAwardsMax": 1308,
+  "NumberOfAwards": 1671,
+  "NumberOfAwardsMax": 1310,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1308
+      "Count": 1310
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1261,8 +1267,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-18T18:02:01.0810167+00:00",
   "FirstSeenRating": "2022-08-19T16:01:55.9057824+00:00",
-  "LastChanged": "2023-12-29T02:59:23.0235316+00:00",
-  "LastUpdate_AppInfo": "2023-12-30T22:57:16.7861553+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:00:12.0934624+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:06:21.7239584+00:00"
+  "LastChanged": "2024-01-07T00:00:37.2032515+00:00",
+  "LastUpdate_AppInfo": "2024-01-06T23:57:20.4100557+00:00",
+  "LastUpdate_Ratings": "2024-01-07T00:00:37.2032521+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:08:37.3269578+00:00"
 }

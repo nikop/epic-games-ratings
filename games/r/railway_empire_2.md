@@ -5,35 +5,35 @@ Rating: 4.42 (Ranked 737)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~2,012 |
-| A new Journey | 75.00% | ~1,986 |
+| Country Bumpkin | 76.00% | ~2,013 |
+| A new Journey | 75.00% | ~1,987 |
 | From X to Y | 74.00% | ~1,960 |
 | Departure | 74.00% | ~1,960 |
-| Way of Iron | 71.00% | ~1,880 |
+| Way of Iron | 71.00% | ~1,881 |
 | Mystery Tour | 70.00% | ~1,854 |
 | We brake for nobody | 68.00% | ~1,801 |
 | Brainstorm | 66.00% | ~1,748 |
 | Mind the Gap | 66.00% | ~1,748 |
 | Travel Company | 66.00% | ~1,748 |
 | All around the World | 64.00% | ~1,695 |
-| Right through the middle | 59.00% | ~1,562 |
+| Right through the middle | 59.00% | ~1,563 |
 | Facility Manager | 54.00% | ~1,430 |
 | Poor Devil | 54.00% | ~1,430 |
-| Producer | 51.00% | ~1,350 |
+| Producer | 51.00% | ~1,351 |
 | Bridge Builder | 43.00% | ~1,139 |
-| Apprentice | 42.00% | ~1,112 |
+| Apprentice | 42.00% | ~1,113 |
 | Going once, going twice, sold | 37.00% | ~980 |
-| Access granted | 36.00% | ~953 |
+| Access granted | 36.00% | ~954 |
 | Bull and bear | 35.00% | ~927 |
-| Stoker | 34.00% | ~900 |
+| Stoker | 34.00% | ~901 |
 | Full Steam ahead | 33.00% | ~874 |
 | All mine | 31.00% | ~821 |
 | Mole | 31.00% | ~821 |
 | Financial Shark | 31.00% | ~821 |
 | General Manager | 29.00% | ~768 |
 | Country Life | 29.00% | ~768 |
-| Socializer | 28.00% | ~741 |
-| Hostile Takeover | 26.00% | ~688 |
+| Socializer | 28.00% | ~742 |
+| Hostile Takeover | 26.00% | ~689 |
 | Seven at one stroke | 25.00% | ~662 |
 | Breaking Ground | 23.00% | ~609 |
 | Trailblazer | 22.00% | ~583 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 737)
 | United States | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,648 (Ranked 233)  
+Progressed: 2,649 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,6 +295,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 2,630 | 0 |
 | 2024-01-05 | 2,642 | 0 |
 | 2024-01-06 | 2,648 | 0 |
+| 2024-01-07 | 2,649 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

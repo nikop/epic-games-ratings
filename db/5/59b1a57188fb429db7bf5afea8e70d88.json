@@ -4,8 +4,8 @@
   "ProductSlug": "dinobreak-307b09",
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 480,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
     "PcReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -360,9 +360,9 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SPEED_RUNNER_ACH",
@@ -376,17 +376,17 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "THE_FOURTH_SURVIVOR_ACH",
@@ -431,8 +431,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2024-01-06T23:08:23.0691736+00:00",
+  "LastChanged_Achievements": "2024-01-07T00:08:57.8993924+00:00",
   "LastUpdate_AppInfo": "2024-01-04T02:57:17.7673922+00:00",
-  "LastUpdate_Ratings": "2024-01-06T23:02:52.5370541+00:00",
-  "LastUpdate_Achievements": "2024-01-06T23:08:23.0691973+00:00"
+  "LastUpdate_Ratings": "2024-01-07T00:03:25.6844848+00:00",
+  "LastUpdate_Achievements": "2024-01-07T00:08:57.8994147+00:00"
 }
