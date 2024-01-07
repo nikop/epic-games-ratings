@@ -1,28 +1,28 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.13 (Ranked 1,008)  
+Rating: 4.13 (Ranked 1,009)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 62.00% | ~1,223 |
-| Trinity | 30.00% | ~592 |
-| A Taste of Wrath | 24.00% | ~474 |
-| The Collector | 24.00% | ~474 |
-| Find Allies | 23.00% | ~454 |
-| I Found It | 23.00% | ~454 |
-| Shatter Them All | 22.00% | ~434 |
-| Geared Up | 22.00% | ~434 |
-| Adventurer | 21.00% | ~414 |
-| Fashion Victim | 21.00% | ~414 |
-| Scholar | 21.00% | ~414 |
-| Powerful Allies | 19.00% | ~375 |
-| Tributes of Caladrias | 19.00% | ~375 |
-| Stone Collection | 19.00% | ~375 |
-| Big Bazar | 13.00% | ~256 |
+| Break Out | 62.00% | ~1,226 |
+| Trinity | 30.00% | ~593 |
+| A Taste of Wrath | 24.00% | ~475 |
+| The Collector | 24.00% | ~475 |
+| Find Allies | 23.00% | ~455 |
+| I Found It | 23.00% | ~455 |
+| Shatter Them All | 22.00% | ~435 |
+| Geared Up | 22.00% | ~435 |
+| Adventurer | 21.00% | ~415 |
+| Fashion Victim | 21.00% | ~415 |
+| Scholar | 21.00% | ~415 |
+| Powerful Allies | 19.00% | ~376 |
+| Tributes of Caladrias | 19.00% | ~376 |
+| Stone Collection | 19.00% | ~376 |
+| Big Bazar | 13.00% | ~257 |
 | Essence Blow | 12.00% | ~237 |
 | Alchemist | 12.00% | ~237 |
-| The Mentor | 10.00% | ~197 |
+| The Mentor | 10.00% | ~198 |
 | Calm before the Storm | 9.00% | ~178 |
 | To Battle | 8.00% | ~158 |
 | Godslayer | 7.00% | ~138 |
@@ -33,16 +33,16 @@ Rating: 4.13 (Ranked 1,008)
 | Fine Feathers Make Fine Birds | 4.00% | ~79 |
 | Slayer | 3.00% | ~59 |
 | A Queen's Tale | 3.00% | ~59 |
-| Flawless Victory | 2.00% | ~39 |
-| All There Is | 2.00% | ~39 |
-| False God | 2.00% | ~39 |
+| Flawless Victory | 2.00% | ~40 |
+| All There Is | 2.00% | ~40 |
+| False God | 2.00% | ~40 |
 | Forgemaster | 1.00% | ~20 |
 | Shardbearer | 1.00% | ~20 |
 | Summiter | 1.00% | ~20 |
 | All That Gold | 0.80% | ~16 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,973 (Ranked 249)  
+Progressed: 1,978 (Ranked 249)  
 Completed: 3 (0.15%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 3 (0.15%) (Ranked 285)
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
 | 2024-01-06 | 1,936 | 3 |
-| 2024-01-07 | 1,973 | 3 |
+| 2024-01-07 | 1,978 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

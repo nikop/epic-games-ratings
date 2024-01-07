@@ -5,61 +5,61 @@ Rating: 4.81 (Ranked 82)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,172 |
-| No more cages! | 90.00% | ~3,005 |
-| Everfrost | 77.00% | ~2,571 |
-| Pentakill | 76.00% | ~2,538 |
-| Dark Forest | 76.00% | ~2,538 |
-| The use of petricite | 73.00% | ~2,437 |
-| You can pet the dog | 60.00% | ~2,003 |
-| Thornbarrow | 43.00% | ~1,436 |
-| Big Helmet Bro | 41.00% | ~1,369 |
-| Clarion Cove | 41.00% | ~1,369 |
-| Ternmoat Headquarters | 39.00% | ~1,302 |
-| Past trauma | 38.00% | ~1,269 |
-| Elemental master | 37.00% | ~1,235 |
-| Cypress Glen Headquarters | 35.00% | ~1,169 |
-| Old friend | 33.00% | ~1,102 |
-| Petricite Burst | 33.00% | ~1,102 |
-| Devineur | 32.00% | ~1,068 |
-| Hijack | 31.00% | ~1,035 |
-| Whispers in the Woods I | 28.00% | ~935 |
-| I chose my shackles | 28.00% | ~935 |
-| Ancient power | 28.00% | ~935 |
-| Sacred Woods | 26.00% | ~868 |
-| Little light | 24.00% | ~801 |
-| Capelworth | 24.00% | ~801 |
-| Glyndemere | 23.00% | ~768 |
-| Full equipped | 23.00% | ~768 |
+| For Demacia | 95.00% | ~3,175 |
+| No more cages! | 90.00% | ~3,008 |
+| Everfrost | 77.00% | ~2,573 |
+| Pentakill | 76.00% | ~2,540 |
+| Dark Forest | 76.00% | ~2,540 |
+| The use of petricite | 73.00% | ~2,440 |
+| You can pet the dog | 60.00% | ~2,005 |
+| Thornbarrow | 43.00% | ~1,437 |
+| Big Helmet Bro | 41.00% | ~1,370 |
+| Clarion Cove | 41.00% | ~1,370 |
+| Ternmoat Headquarters | 39.00% | ~1,303 |
+| Past trauma | 38.00% | ~1,270 |
+| Elemental master | 37.00% | ~1,237 |
+| Cypress Glen Headquarters | 35.00% | ~1,170 |
+| Old friend | 33.00% | ~1,103 |
+| Petricite Burst | 33.00% | ~1,103 |
+| Devineur | 32.00% | ~1,069 |
+| Hijack | 31.00% | ~1,036 |
+| Whispers in the Woods I | 28.00% | ~936 |
+| I chose my shackles | 28.00% | ~936 |
+| Ancient power | 28.00% | ~936 |
+| Sacred Woods | 26.00% | ~869 |
+| Little light | 24.00% | ~802 |
+| Glyndemere | 23.00% | ~769 |
+| Capelworth | 23.00% | ~769 |
+| Full equipped | 23.00% | ~769 |
 | Iffighain Headquarters | 22.00% | ~735 |
-| No more holding back | 19.00% | ~634 |
-| Terbisia | 19.00% | ~634 |
-| Quickmoore Headquarters | 19.00% | ~634 |
-| Whispers in the Woods II | 18.00% | ~601 |
+| No more holding back | 19.00% | ~635 |
+| Terbisia | 19.00% | ~635 |
+| Quickmoore Headquarters | 19.00% | ~635 |
+| Whispers in the Woods II | 18.00% | ~602 |
 | Whispers in the Woods III | 17.00% | ~568 |
 | My heart and sword always for Demacia | 17.00% | ~568 |
 | Friendly fire | 17.00% | ~568 |
 | The Central Headquarters | 17.00% | ~568 |
-| True power | 16.00% | ~534 |
-| Meltridge | 16.00% | ~534 |
-| Cloven Dell Headquarters | 16.00% | ~534 |
-| Whispers in the Woods IV | 14.00% | ~467 |
-| I smell fear | 14.00% | ~467 |
-| The end of the experiments | 14.00% | ~467 |
-| The Great City of Demacia | 14.00% | ~467 |
-| Call it 'redistribution of magic | 14.00% | ~467 |
+| True power | 16.00% | ~535 |
+| Meltridge | 16.00% | ~535 |
+| Cloven Dell Headquarters | 16.00% | ~535 |
+| Whispers in the Woods IV | 14.00% | ~468 |
+| I smell fear | 14.00% | ~468 |
+| The end of the experiments | 14.00% | ~468 |
+| The Great City of Demacia | 14.00% | ~468 |
+| Call it 'redistribution of magic | 14.00% | ~468 |
 | Embrace the darkness | 13.00% | ~434 |
 | Truth is a dark mirror | 13.00% | ~434 |
 | Do you trust me? | 12.00% | ~401 |
 | Back to sleep, then... | 12.00% | ~401 |
-| Chains master | 11.00% | ~367 |
-| The great mage rebellion starts now | 11.00% | ~367 |
-| You can pet the... horse | 11.00% | ~367 |
+| Chains master | 11.00% | ~368 |
+| The great mage rebellion starts now | 11.00% | ~368 |
+| You can pet the... horse | 11.00% | ~368 |
 | Spellcrafting | 10.00% | ~334 |
 | Silverwing nest | 2.00% | ~67 |
 | The Unshackled | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,339 (Ranked 224)  
+Progressed: 3,342 (Ranked 224)  
 Completed: 22 (0.66%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 22 (0.66%) (Ranked 199)
 | 2024-01-04 | 3,278 | 21 |
 | 2024-01-05 | 3,298 | 21 |
 | 2024-01-06 | 3,329 | 22 |
-| 2024-01-07 | 3,339 | 22 |
+| 2024-01-07 | 3,342 | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

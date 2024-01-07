@@ -6,25 +6,25 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 8.00% | ~1,630 |
-| No Deaths | 8.00% | ~1,630 |
-| Abandoned Settlement | 8.00% | ~1,630 |
-| Overgrown Library | 8.00% | ~1,630 |
-| First Real Expedition | 7.00% | ~1,426 |
-| The Marshlands | 7.00% | ~1,426 |
-| Petrified Necropolis | 7.00% | ~1,426 |
-| Overcoming Difficulty | 6.00% | ~1,222 |
-| Coral Forest | 6.00% | ~1,222 |
-| The Scarlet Orchard | 6.00% | ~1,222 |
-| Gathering Storm | 6.00% | ~1,222 |
+| First Real Expedition | 8.00% | ~1,631 |
+| Taking Action | 8.00% | ~1,631 |
+| No Deaths | 8.00% | ~1,631 |
+| Abandoned Settlement | 8.00% | ~1,631 |
+| Overgrown Library | 8.00% | ~1,631 |
+| Petrified Necropolis | 8.00% | ~1,631 |
+| The Marshlands | 7.00% | ~1,427 |
+| Overcoming Difficulty | 6.00% | ~1,223 |
+| Coral Forest | 6.00% | ~1,223 |
+| The Scarlet Orchard | 6.00% | ~1,223 |
+| Gathering Storm | 6.00% | ~1,223 |
 | Frosts | 5.00% | ~1,019 |
 | Land of Greed | 5.00% | ~1,019 |
 | Ominous Presence | 5.00% | ~1,019 |
+| Homesick | 4.00% | ~815 |
+| Fertile Meadows | 4.00% | ~815 |
 | Royal Outpost | 4.00% | ~815 |
 | Watchtower | 4.00% | ~815 |
-| Homesick | 3.00% | ~611 |
 | Ruined Armory | 3.00% | ~611 |
-| Fertile Meadows | 3.00% | ~611 |
 | Levitating Monument | 3.00% | ~611 |
 | Monastery of the Holy Flame | 3.00% | ~611 |
 | Lost Colonies | 3.00% | ~611 |
@@ -34,15 +34,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 3.00% | ~611 |
 | Trade Baron | 3.00% | ~611 |
 | Untamed Wilds | 3.00% | ~611 |
-| Against All Odds | 2.00% | ~407 |
-| Bandit Camp | 2.00% | ~407 |
-| Barren Lands | 2.00% | ~407 |
-| Ancient Battleground | 2.00% | ~407 |
-| Sparkdew Crystals | 2.00% | ~407 |
-| Haunted Forest | 2.00% | ~407 |
-| Flooded Mines | 2.00% | ~407 |
-| Defying the Crown | 2.00% | ~407 |
-| Into the Forest | 2.00% | ~407 |
+| Against All Odds | 2.00% | ~408 |
+| Bandit Camp | 2.00% | ~408 |
+| Barren Lands | 2.00% | ~408 |
+| Ancient Battleground | 2.00% | ~408 |
+| Sparkdew Crystals | 2.00% | ~408 |
+| Haunted Forest | 2.00% | ~408 |
+| Flooded Mines | 2.00% | ~408 |
+| Defying the Crown | 2.00% | ~408 |
+| Into the Forest | 2.00% | ~408 |
 | Serving Ale | 1.00% | ~204 |
 | Efficient Explorer | 1.00% | ~204 |
 | Refinery | 1.00% | ~204 |
@@ -55,7 +55,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 0.70% | ~143 |
 | Blood Flower Farmer | 0.50% | ~102 |
 | Fox Utopia | 0.50% | ~102 |
-| Prestigious Expedition | 0.40% | ~81 |
+| Prestigious Expedition | 0.40% | ~82 |
 | Human Utopia | 0.30% | ~61 |
 | Beaver Utopia | 0.20% | ~41 |
 | Harpy Utopia | 0.20% | ~41 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,374 (Ranked 154)  
+Progressed: 20,383 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 34 (0.17%) (Ranked 281)
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
-| 2024-01-07 | 20,374 | 34 |
+| 2024-01-07 | 20,383 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 232)  
 Sum: 3,345 (Ranked 177)  

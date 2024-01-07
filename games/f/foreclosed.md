@@ -22,10 +22,10 @@
 | One Click Away | 16.00% | ~24 |
 | Cyborg | 11.00% | ~16 |
 | Lifter | 9.00% | ~13 |
-| Brain-hacker | 7.00% | ~10 |
+| Brain-hacker | 8.00% | ~12 |
 | Gravity Bender | 7.00% | ~10 |
+| Hunter | 5.00% | ~7 |
 | Zero Gravity | 5.00% | ~7 |
-| Hunter | 4.00% | ~6 |
 | A Voice in the Dark | 3.00% | ~4 |
 | No Place to Hide | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

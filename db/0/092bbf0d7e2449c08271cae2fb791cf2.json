@@ -4,8 +4,8 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 489,
+  "EOS_Progressed": 491,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -1639,6 +1639,11 @@
       "Time": "2024-01-07T13:10:09.431321+00:00",
       "NumProgressed": 489,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T14:05:32.2213564+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1659,7 +1664,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 244
+      "UsersEstimate": 246
     },
     {
       "ID": "ach3",
@@ -1667,7 +1672,7 @@
       "Name": "Blue Bean",
       "Percentage": 5,
       "XP": 145,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach4",
@@ -1706,14 +1711,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 489,
+      "Progressed": 491,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:10:09.4313206+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:05:32.221356+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:00:58.2584443+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:10:09.4313354+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:57:32.9842+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:05:32.221377+00:00"
 }

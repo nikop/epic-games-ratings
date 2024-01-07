@@ -1,19 +1,19 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,030)  
+Rating: 4.06 (Ranked 1,031)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,093 |
+| A Brief Tour of the Realms | 4.00% | ~10,095 |
 | The Cursed Farmer | 2.00% | ~5,047 |
-| Beast Intentions | 1.00% | ~2,523 |
-| The Mad Wizard | 1.00% | ~2,523 |
+| Beast Intentions | 1.00% | ~2,524 |
+| The Mad Wizard | 1.00% | ~2,524 |
 | The Ring of Regeneration | 0.80% | ~2,019 |
 | Welcome to Sigil | 0.80% | ~1,749 |
-| Were-verpowered | 0.70% | ~1,766 |
-| Are Ya Chicken? | 0.70% | ~1,766 |
+| Were-verpowered | 0.70% | ~1,767 |
+| Are Ya Chicken? | 0.70% | ~1,767 |
 | Seeking Allies | 0.60% | ~1,514 |
 | Mad Cow Disease | 0.60% | ~1,514 |
 | Friendly Imps | 0.60% | ~1,514 |
@@ -27,14 +27,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.40% | ~1,009 |
 | The Crumbling Temple | 0.40% | ~1,009 |
 | The Contagious Curse | 0.40% | ~1,009 |
-| Arcane Suppression | 0.40% | ~874 |
-| Welcome to the Vrocks | 0.40% | ~874 |
-| Misaligned in Sigil | 0.40% | ~874 |
-| Chaos Theory | 0.40% | ~874 |
-| When Tentacles Attack | 0.40% | ~874 |
-| Flames of Avernus | 0.40% | ~874 |
-| Don't Lose Your Head | 0.40% | ~874 |
-| Mind Spike | 0.40% | ~874 |
+| Arcane Suppression | 0.40% | ~875 |
+| Welcome to the Vrocks | 0.40% | ~875 |
+| Misaligned in Sigil | 0.40% | ~875 |
+| Chaos Theory | 0.40% | ~875 |
+| When Tentacles Attack | 0.40% | ~875 |
+| Flames of Avernus | 0.40% | ~875 |
+| Don't Lose Your Head | 0.40% | ~875 |
+| Mind Spike | 0.40% | ~875 |
 | Beast Mode | 0.30% | ~757 |
 | Low Initiative | 0.30% | ~757 |
 | A Mysterious Summons | 0.30% | ~757 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,334 (Ranked 70)  
+Progressed: 252,365 (Ranked 70)  
 Completed: 2,599 (1.03%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -815,7 +815,7 @@ Completed: 2,599 (1.03%) (Ranked 171)
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
-| 2024-01-07 | 252,334 | 2,599 |
+| 2024-01-07 | 252,365 | 2,599 |
 ## Awards
 Max (Great for Beginners): 5,756  (Ranked 74)  
 Sum: 33,386 (Ranked 41)  

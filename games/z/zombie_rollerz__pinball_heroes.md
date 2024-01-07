@@ -1,7 +1,7 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.29 (Ranked 879)  
+Rating: 4.29 (Ranked 880)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.29 (Ranked 879)
 | Villfir Forest | 71.00% | ~152 |
 | Right in the kisser! | 56.00% | ~120 |
 | The Thrower | 45.00% | ~96 |
-| Duscot Steamcity | 44.00% | ~94 |
+| Duscot Steamcity | 45.00% | ~96 |
 | The Shaman | 43.00% | ~92 |
 | The Penguin | 42.00% | ~90 |
 | The Magician | 38.00% | ~81 |

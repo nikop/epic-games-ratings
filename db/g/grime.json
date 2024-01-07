@@ -1837,9 +1837,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 167040,
+  "EOS_Progressed": 167045,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 1339,
+  "EOS_NewPlayers": 1335,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22182,6 +22182,11 @@
       "Time": "2024-01-07T13:11:50.7633273+00:00",
       "NumProgressed": 167040,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2024-01-07T14:08:21.7960076+00:00",
+      "NumProgressed": 167045,
+      "NumCompleted": 448
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22248,9 +22253,9 @@
       "ID": "ACQUIRE_MAXBREATH",
       "SetID": "ccc0dlh",
       "Name": "Breath",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 334
+      "UsersEstimate": 501
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -22314,7 +22319,7 @@
       "Name": "Host",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -22561,21 +22566,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166623,
+      "Progressed": 166628,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167040,
+      "Progressed": 167045,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-06T15:57:18.5501396+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:11:50.7633269+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:08:21.7960072+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:01:16.2208563+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:11:50.7634533+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:57:44.9092423+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:08:21.7961159+00:00"
 }

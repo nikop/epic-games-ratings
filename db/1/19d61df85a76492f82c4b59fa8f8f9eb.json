@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502,
+  "EOS_Progressed": 503,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 9.76,
+  "EOS_Completed_Percentage": 9.74,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2359,6 +2359,11 @@
       "Time": "2024-01-07T10:09:58.7908048+00:00",
       "NumProgressed": 502,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-07T14:09:04.3362283+00:00",
+      "NumProgressed": 503,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 6,
@@ -2370,7 +2375,7 @@
       "Name": "Printing Press",
       "Percentage": 59,
       "XP": 175,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -2378,7 +2383,7 @@
       "Name": "File-cutter",
       "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2417,14 +2422,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 502,
+      "Progressed": 503,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:12:52.9764628+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:09:04.3362277+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:10.7268546+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:01:47.1055483+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:12:52.9764832+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:58:04.2849824+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:09:04.3362535+00:00"
 }

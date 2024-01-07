@@ -128,9 +128,9 @@
       "ID": "GOLD",
       "SetID": "d0gblle",
       "Name": "King Midas",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GOLD_KEY",
@@ -160,9 +160,9 @@
       "ID": "HEART",
       "SetID": "d0gblle",
       "Name": "Invincible",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KRONOSS",
@@ -184,9 +184,9 @@
       "ID": "MEDUSA",
       "SetID": "d0gblle",
       "Name": "Perseus",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PEGASUS",
@@ -239,8 +239,8 @@
   ],
   "FirstSeen": "2023-12-29T14:58:56.0005709+00:00",
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:11:57.3800738+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:08:26.4472053+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.9956497+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:03:08.9130413+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:11:57.3800838+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:58:58.8487121+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:08:26.447215+00:00"
 }

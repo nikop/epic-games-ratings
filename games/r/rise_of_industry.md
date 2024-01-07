@@ -1,26 +1,26 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.25 (Ranked 919)  
+Rating: 4.25 (Ranked 920)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~368,002 |
-| Well educated | 37.00% | ~283,668 |
-| City Planner | 19.00% | ~145,667 |
-| Deforester | 17.00% | ~130,334 |
-| Big Hauling | 16.00% | ~122,667 |
-| Apprentice Manufacturer | 13.00% | ~99,667 |
-| Exporter | 13.00% | ~99,667 |
-| I would drive 500 tiles... | 12.00% | ~92,000 |
-| Landscaper | 12.00% | ~92,000 |
-| Railwayman | 8.00% | ~61,334 |
-| Penniless | 6.00% | ~46,000 |
-| Massive Gains | 6.00% | ~46,000 |
-| Salesman | 3.00% | ~23,000 |
-| Engineer | 2.00% | ~15,333 |
-| High Flyer | 2.00% | ~15,333 |
-| Captain | 0.80% | ~6,133 |
+| Entrepreneur | 48.00% | ~368,011 |
+| Well educated | 37.00% | ~283,675 |
+| City Planner | 19.00% | ~145,671 |
+| Deforester | 17.00% | ~130,337 |
+| Big Hauling | 16.00% | ~122,670 |
+| Apprentice Manufacturer | 13.00% | ~99,670 |
+| Exporter | 13.00% | ~99,670 |
+| I would drive 500 tiles... | 12.00% | ~92,003 |
+| Landscaper | 12.00% | ~92,003 |
+| Railwayman | 8.00% | ~61,335 |
+| Penniless | 6.00% | ~46,001 |
+| Massive Gains | 6.00% | ~46,001 |
+| Salesman | 3.00% | ~23,001 |
+| Engineer | 2.00% | ~15,334 |
+| High Flyer | 2.00% | ~15,334 |
+| Captain | 0.80% | ~6,134 |
 | Billionaire | 0.70% | ~5,367 |
 | Vroom Vroom | 0.40% | ~3,067 |
 | Excavator | 0.30% | ~2,300 |
@@ -33,7 +33,7 @@ Rating: 4.25 (Ranked 919)
 | Master Builder | 0.10% | ~767 |
 | Hard working | 0.10% | ~767 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 766,670 (Ranked 23)  
+Progressed: 766,689 (Ranked 23)  
 Completed: 4 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 4 (0.00%) (Ranked 393)
 | 2024-01-04 | 765,803 | 4 |
 | 2024-01-05 | 766,123 | 4 |
 | 2024-01-06 | 766,484 | 4 |
-| 2024-01-07 | 766,670 | 4 |
+| 2024-01-07 | 766,689 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

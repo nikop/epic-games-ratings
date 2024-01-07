@@ -2,7 +2,7 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 635,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 333,
@@ -1916,9 +1916,9 @@
       "ID": "05_pangs",
       "SetID": "chb1m60",
       "Name": "Pangs of conscience",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 282
     },
     {
       "ID": "06_living",
@@ -1940,9 +1940,9 @@
       "ID": "08_america",
       "SetID": "chb1m60",
       "Name": "America",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 122
     },
     {
       "ID": "09_russia",
@@ -2204,8 +2204,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:07:24.927287+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:03:39.0900371+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.7403389+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:03:31.4313764+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:07:24.9273209+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:59:12.995234+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:03:39.0900718+00:00"
 }

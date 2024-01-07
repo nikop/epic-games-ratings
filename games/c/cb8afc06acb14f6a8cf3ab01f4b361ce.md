@@ -1,30 +1,30 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 950)  
+Rating: 4.21 (Ranked 951)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,118 |
-| The touch of Chaos | 5.00% | ~17,118 |
-| A powerful aura was here | 3.00% | ~10,270 |
-| Let's raise the stakes!! | 2.00% | ~6,847 |
+| May the Torchbearer light our way | 5.00% | ~17,119 |
+| The touch of Chaos | 5.00% | ~17,119 |
+| A powerful aura was here | 3.00% | ~10,271 |
+| Let's raise the stakes!! | 2.00% | ~6,848 |
 | Rumors are true | 1.00% | ~3,424 |
 | Pride is a sin, young Knight | 1.00% | ~3,424 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,424 |
 | We'll be careful | 0.90% | ~3,081 |
 | Back to your senses | 0.80% | ~2,739 |
-| They tricked me | 0.70% | ~2,396 |
-| We need to talk | 0.70% | ~2,396 |
-| They won't last long | 0.70% | ~2,396 |
-| Bring it on! | 0.70% | ~2,396 |
+| They tricked me | 0.70% | ~2,397 |
+| We need to talk | 0.70% | ~2,397 |
+| They won't last long | 0.70% | ~2,397 |
+| Bring it on! | 0.70% | ~2,397 |
 | I feel drawn to it | 0.60% | ~2,054 |
 | Here to stay | 0.60% | ~2,054 |
 | Counting on you | 0.50% | ~1,712 |
 | This is the end | 0.50% | ~1,712 |
 | We can choose to fight | 0.50% | ~1,712 |
 | I took a risk | 0.50% | ~1,712 |
-| Their fate is sealed | 0.40% | ~1,369 |
+| Their fate is sealed | 0.40% | ~1,370 |
 | Not even from this world | 0.30% | ~1,027 |
 | No damsels in distress | 0.20% | ~685 |
 | Chaos be damned! | 0.20% | ~685 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 950)
 | Something... unnatural | 0.10% | ~342 |
 | We strike as one | 0.10% | ~342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342,350 (Ranked 59)  
+Progressed: 342,379 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 7 (0.00%) (Ranked 393)
 | 2024-01-04 | 340,944 | 7 |
 | 2024-01-05 | 341,422 | 7 |
 | 2024-01-06 | 342,038 | 7 |
-| 2024-01-07 | 342,350 | 7 |
+| 2024-01-07 | 342,379 | 7 |
 ## Awards
 Max (Great Boss Battles): 79  (Ranked 403)  
 Sum: 79 (Ranked 481)  

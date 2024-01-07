@@ -2,12 +2,12 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 1042,
+  "Ranking_Rating": 1043,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1856,
+  "EOS_Progressed": 1858,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4907,6 +4907,11 @@
       "Time": "2024-01-07T12:09:22.224457+00:00",
       "NumProgressed": 1856,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T14:09:28.581721+00:00",
+      "NumProgressed": 1858,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5022,7 +5027,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -5038,7 +5043,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -5094,7 +5099,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5132,9 +5137,9 @@
       "ID": "NEW_ACHIEVEMENT_GREATEST_BOTANIST",
       "SetID": "l546gc",
       "Name": "I am the greatest botanist on this planet.",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 538
+      "UsersEstimate": 520
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5174,7 +5179,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5278,7 +5283,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5301,7 +5306,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1856,
+      "Progressed": 1858,
       "Completed": 0
     }
   ],
@@ -5309,8 +5314,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:13:28.360025+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:09:28.5817206+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:03:40.3627255+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:13:28.3600949+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:59:19.0528843+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:09:28.5817816+00:00"
 }

@@ -1,20 +1,20 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 994)  
+Rating: 4.15 (Ranked 995)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 12.00% | ~5,601 |
-| Unlocked Potential | 11.00% | ~5,134 |
-| Tinkerer | 9.00% | ~4,200 |
-| Leapfrogger | 7.00% | ~3,267 |
-| Knock 'Em Dead | 7.00% | ~3,267 |
-| Pilgrimage: Initiate | 7.00% | ~3,267 |
-| Hell of a Run | 7.00% | ~3,267 |
-| Call of the Fount: Baptized | 7.00% | ~3,267 |
-| No Mercy | 6.00% | ~2,800 |
-| Explorer: Seeker | 6.00% | ~2,800 |
+| Unlocked Potential | 11.00% | ~5,135 |
+| Tinkerer | 9.00% | ~4,201 |
+| Leapfrogger | 7.00% | ~3,268 |
+| Knock 'Em Dead | 7.00% | ~3,268 |
+| Pilgrimage: Initiate | 7.00% | ~3,268 |
+| Hell of a Run | 7.00% | ~3,268 |
+| Call of the Fount: Baptized | 7.00% | ~3,268 |
+| No Mercy | 6.00% | ~2,801 |
+| Explorer: Seeker | 6.00% | ~2,801 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,334 |
 | Stuck | 5.00% | ~2,334 |
 | Help Me Out Here | 5.00% | ~2,334 |
@@ -22,12 +22,12 @@ Rating: 4.15 (Ranked 994)
 | Outdoorsperson | 3.00% | ~1,400 |
 | Hop, Step, Jump | 3.00% | ~1,400 |
 | Endless Runner | 3.00% | ~1,400 |
-| What Must Be Done | 2.00% | ~933 |
-| Might and Main | 2.00% | ~933 |
-| Damned If You Do... | 2.00% | ~933 |
-| Explorer: Pathfinder | 2.00% | ~933 |
-| Shocker | 2.00% | ~933 |
-| From Every Angle | 2.00% | ~933 |
+| What Must Be Done | 2.00% | ~934 |
+| Might and Main | 2.00% | ~934 |
+| Damned If You Do... | 2.00% | ~934 |
+| Explorer: Pathfinder | 2.00% | ~934 |
+| Shocker | 2.00% | ~934 |
+| From Every Angle | 2.00% | ~934 |
 | The Hue of Blue | 1.00% | ~467 |
 | The Truth Will Out | 1.00% | ~467 |
 | Breaking Point | 1.00% | ~467 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 994)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,672 (Ranked 126)  
+Progressed: 46,679 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 4 (0.01%) (Ranked 371)
 | 2024-01-04 | 46,369 | 4 |
 | 2024-01-05 | 46,484 | 4 |
 | 2024-01-06 | 46,610 | 4 |
-| 2024-01-07 | 46,672 | 4 |
+| 2024-01-07 | 46,679 | 4 |
 ## Awards
 Max (Character Customization): 46  (Ranked 467)  
 Sum: 67 (Ranked 493)  

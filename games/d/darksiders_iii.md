@@ -1,21 +1,21 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 656)  
+Rating: 4.48 (Ranked 655)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~375 |
-| First of many… | 68.00% | ~327 |
+| Green with Envy | 78.00% | ~376 |
+| First of many… | 67.00% | ~323 |
 | Helping Hand | 64.00% | ~308 |
-| Increased Vigor | 58.00% | ~279 |
-| Fight Fire with Fire | 57.00% | ~274 |
+| Increased Vigor | 59.00% | ~284 |
+| Fight Fire with Fire | 56.00% | ~270 |
 | Increased Capacity | 53.00% | ~255 |
 | Just the start | 48.00% | ~231 |
-| Perfect Storm | 45.00% | ~216 |
-| All That Glitters | 45.00% | ~216 |
-| Enhance! | 41.00% | ~197 |
+| Perfect Storm | 45.00% | ~217 |
+| All That Glitters | 45.00% | ~217 |
+| Enhance! | 41.00% | ~198 |
 | One Of the Chosen | 39.00% | ~188 |
 | Throne Potato | 39.00% | ~188 |
 | Five's a Crowd | 39.00% | ~188 |
@@ -27,19 +27,19 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 33.00% | ~159 |
 | Delusions of Grandeur | 33.00% | ~159 |
 | Love Tap | 32.00% | ~154 |
-| Maximum Vigor | 31.00% | ~149 |
+| Maximum Vigor | 30.00% | ~145 |
 | For Whom the Bell Tolls | 28.00% | ~135 |
 | Freeze Frame | 27.00% | ~130 |
 | Eat Your Heart Out | 27.00% | ~130 |
 | Unyielding Strength | 25.00% | ~120 |
-| Can you restore the Balance? | 24.00% | ~115 |
-| Crowd Source | 24.00% | ~115 |
-| Big Spender | 24.00% | ~115 |
+| Can you restore the Balance? | 24.00% | ~116 |
+| Crowd Source | 24.00% | ~116 |
+| Big Spender | 24.00% | ~116 |
 | Cleanup Crew | 23.00% | ~111 |
 | Demon Meddler | 22.00% | ~106 |
 | Maximum Capacity | 21.00% | ~101 |
 | Seeing Red | 21.00% | ~101 |
-| Egomaniac | 19.00% | ~91 |
+| Egomaniac | 19.00% | ~92 |
 | Protector of Humanity | 18.00% | ~87 |
 | Everybody Wants to Rule the World | 18.00% | ~87 |
 | Community Outreach | 15.00% | ~72 |
@@ -50,7 +50,7 @@ Number of Ratings: 116  (23.09.2022)
 | Holy Keeper | 11.00% | ~53 |
 | Demon Keeper | 11.00% | ~53 |
 | Humanitarian | 9.00% | ~43 |
-| Soul Reaper | 8.00% | ~38 |
+| Soul Reaper | 8.00% | ~39 |
 | My Evil Twin | 6.00% | ~29 |
 | Made of Sterner Stuff | 6.00% | ~29 |
 | Keeper of the Bonfire | 5.00% | ~24 |
@@ -71,8 +71,8 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~5 |
 | Quite Proper | 0.80% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 481 (Ranked 355)  
-Completed: 2 (0.42%) (Ranked 234)  
+Progressed: 482 (Ranked 355)  
+Completed: 2 (0.41%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 2 (0.42%) (Ranked 234)
 | 2024-01-04 | 422 | 1 |
 | 2024-01-05 | 444 | 1 |
 | 2024-01-06 | 466 | 2 |
-| 2024-01-07 | 481 | 2 |
+| 2024-01-07 | 482 | 2 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 387)  
 Sum: 96 (Ranked 472)  

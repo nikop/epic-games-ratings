@@ -127,10 +127,10 @@
       "Count": 138
     }
   ],
-  "EOS_Progressed": 242084,
+  "EOS_Progressed": 242410,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 67132,
-  "EOS_NewCompleters": 281,
+  "EOS_NewPlayers": 66425,
+  "EOS_NewCompleters": 278,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -1297,6 +1297,11 @@
       "Time": "2024-01-07T13:08:14.579224+00:00",
       "NumProgressed": 242084,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2024-01-07T14:04:13.6872182+00:00",
+      "NumProgressed": 242410,
+      "NumCompleted": 350
     }
   ],
   "AchievementsAdded": "2023-12-28T17:03:50.5211758+00:00",
@@ -1309,7 +1314,7 @@
       "Name": "Dungeon Master",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 9683
+      "UsersEstimate": 9696
     },
     {
       "ID": "com.thegentlebros.catquest.equipment_01",
@@ -1317,7 +1322,7 @@
       "Name": "Fashionista Lion",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 16946
+      "UsersEstimate": 16969
     },
     {
       "ID": "com.thegentlebros.catquest.level_03",
@@ -1325,7 +1330,7 @@
       "Name": "Super Catventurer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 7263
+      "UsersEstimate": 7272
     },
     {
       "ID": "com.thegentlebros.catquest.mainquest_02",
@@ -1333,7 +1338,7 @@
       "Name": "Felingard Loremaster",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 55679
+      "UsersEstimate": 55754
     },
     {
       "ID": "com.thegentlebros.catquest.mew_00",
@@ -1341,7 +1346,7 @@
       "Name": "Furry Armored",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1212
     },
     {
       "ID": "com.thegentlebros.catquest.mew_01",
@@ -1349,7 +1354,7 @@
       "Name": "Level One",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 968
+      "UsersEstimate": 970
     },
     {
       "ID": "com.thegentlebros.catquest.mew_02",
@@ -1357,7 +1362,7 @@
       "Name": "Naked Cat",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "com.thegentlebros.catquest.mew_03",
@@ -1365,7 +1370,7 @@
       "Name": "Nine Lives",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1212
     },
     {
       "ID": "com.thegentlebros.catquest.mew_04",
@@ -1373,7 +1378,7 @@
       "Name": "Stronger Enemies",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "com.thegentlebros.catquest.mew_05",
@@ -1381,7 +1386,7 @@
       "Name": "The Old Master",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "com.thegentlebros.catquest.sidequest_03",
@@ -1389,7 +1394,7 @@
       "Name": "Saviour of the Cats",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 29050
+      "UsersEstimate": 29089
     },
     {
       "ID": "com.thegentlebros.catquest.skill_01",
@@ -1397,14 +1402,14 @@
       "Name": "Power of the Arcane",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 48417
+      "UsersEstimate": 48482
     }
   ],
   "AchievementSets": [
     {
       "ID": "8g22406",
       "IsBase": true,
-      "Progressed": 242084,
+      "Progressed": 242410,
       "Completed": 350
     }
   ],
@@ -1412,8 +1417,8 @@
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
   "LastChanged": "2024-01-06T16:02:51.6055602+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:08:14.5792236+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:04:13.687218+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.7855243+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:00:31.0939718+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:08:14.5792448+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:57:14.2783784+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:04:13.687231+00:00"
 }

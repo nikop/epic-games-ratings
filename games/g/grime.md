@@ -25,8 +25,9 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 0.50% | ~833 |
 | Predator | 0.50% | ~835 |
 | Assimilation | 0.40% | ~668 |
-| Host | 0.40% | ~666 |
+| Host | 0.40% | ~667 |
 | Celebration | 0.40% | ~668 |
+| Breath | 0.30% | ~501 |
 | Hunt Down | 0.30% | ~501 |
 | Artisan | 0.30% | ~501 |
 | Hush | 0.30% | ~501 |
@@ -36,7 +37,6 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 0.30% | ~501 |
 | Dream | 0.30% | ~500 |
 | Bloodhunter | 0.20% | ~334 |
-| Breath | 0.20% | ~334 |
 | Kinship | 0.20% | ~334 |
 | Passage | 0.20% | ~334 |
 | Listen | 0.20% | ~333 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~167 |
 | Intensify | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,040 (Ranked 84)  
+Progressed: 167,045 (Ranked 84)  
 Completed: 448 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 448 (0.27%) (Ranked 258)
 | 2024-01-04 | 166,498 | 443 |
 | 2024-01-05 | 166,702 | 445 |
 | 2024-01-06 | 166,913 | 446 |
-| 2024-01-07 | 167,040 | 448 |
+| 2024-01-07 | 167,045 | 448 |
 ## Awards
 Max (Unique Visuals): 62  (Ranked 429)  
 Sum: 444 (Ranked 343)  

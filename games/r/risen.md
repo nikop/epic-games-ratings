@@ -38,8 +38,8 @@ Rating: 4.56 (Ranked 507)
 | Showdown | 10.00% | ~17 |
 | Safecracker | 10.00% | ~17 |
 | Freedom fighter | 9.00% | ~16 |
+| Titan Lord | 9.00% | ~16 |
 | Master thief | 9.00% | ~16 |
-| Titan Lord | 8.00% | ~14 |
 | Expert | 7.00% | ~12 |
 | King of the handymen | 7.00% | ~12 |
 | Terror of the hens | 6.00% | ~10 |

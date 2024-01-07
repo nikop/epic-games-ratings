@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2506,
-  "EOS_Completed": 173,
-  "EOS_NewPlayers": 411,
-  "EOS_NewCompleters": 45,
-  "EOS_Completed_Percentage": 6.9,
+  "EOS_Progressed": 2507,
+  "EOS_Completed": 174,
+  "EOS_NewPlayers": 410,
+  "EOS_NewCompleters": 46,
+  "EOS_Completed_Percentage": 6.94,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6647,6 +6647,11 @@
       "Time": "2024-01-07T13:10:26.1338734+00:00",
       "NumProgressed": 2506,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2024-01-07T14:05:43.7540897+00:00",
+      "NumProgressed": 2507,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 25,
@@ -6666,7 +6671,7 @@
       "Name": "In this together",
       "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "META_ALL_LINK",
@@ -6674,7 +6679,7 @@
       "Name": "Peace walker",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6706,7 +6711,7 @@
       "Name": "Open door",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6794,7 +6799,7 @@
       "Name": "Champollion",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -6818,7 +6823,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "PROGRESS_N2",
@@ -6834,7 +6839,7 @@
       "Name": "A new dawn",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "PROGRESS_N4",
@@ -6857,16 +6862,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2506,
-      "Completed": 173
+      "Progressed": 2507,
+      "Completed": 174
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:10:26.1338729+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:05:43.7540893+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:01:54.6428227+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:10:26.13392+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:58:08.8789882+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:05:43.7541334+00:00"
 }

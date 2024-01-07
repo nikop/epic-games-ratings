@@ -7,14 +7,14 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 19.00% | ~727 |
-| Look Over There! | 14.00% | ~535 |
-| Not So Fast... | 14.00% | ~535 |
-| Watch Where You Step... | 14.00% | ~535 |
-| An Ill Omen | 14.00% | ~535 |
-| Purging Spree | 10.00% | ~382 |
+| Look Over There! | 14.00% | ~536 |
+| Not So Fast... | 14.00% | ~536 |
+| Watch Where You Step... | 14.00% | ~536 |
+| An Ill Omen | 14.00% | ~536 |
+| Purging Spree | 10.00% | ~383 |
 | Blood for the Blood God! | 8.00% | ~306 |
 | Bloodless | 7.00% | ~268 |
-| Friendly Fire | 6.00% | ~229 |
+| Friendly Fire | 6.00% | ~230 |
 | Surgical Excision | 5.00% | ~191 |
 | A Foul Creche | 5.00% | ~191 |
 | Honoured Battle-Brother | 4.00% | ~153 |
@@ -24,13 +24,13 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 3.00% | ~115 |
 | Just a Scratch | 3.00% | ~115 |
 | Hive Exterminator | 3.00% | ~115 |
-| Daemonkeeper | 2.00% | ~76 |
-| Corruption Cleanser | 2.00% | ~76 |
-| Mind Like a Fortress | 2.00% | ~76 |
-| Efficient Killer | 2.00% | ~76 |
-| Only in Death | 2.00% | ~76 |
-| A Gift Spurned | 2.00% | ~76 |
-| Execution Force | 2.00% | ~76 |
+| Daemonkeeper | 2.00% | ~77 |
+| Corruption Cleanser | 2.00% | ~77 |
+| Mind Like a Fortress | 2.00% | ~77 |
+| Efficient Killer | 2.00% | ~77 |
+| Only in Death | 2.00% | ~77 |
+| A Gift Spurned | 2.00% | ~77 |
+| Execution Force | 2.00% | ~77 |
 | Fleetmaster | 1.00% | ~38 |
 | For the Machine God | 1.00% | ~38 |
 | Exterminator | 1.00% | ~38 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,824 (Ranked 217)  
+Progressed: 3,826 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,765 | 0 |
 | 2024-01-05 | 3,783 | 0 |
 | 2024-01-06 | 3,811 | 0 |
-| 2024-01-07 | 3,824 | 0 |
+| 2024-01-07 | 3,826 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 283)  
 Sum: 496 (Ranked 334)  

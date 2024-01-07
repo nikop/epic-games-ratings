@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9815,
+  "EOS_Progressed": 9816,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10769,6 +10769,11 @@
       "Time": "2024-01-07T13:13:16.975239+00:00",
       "NumProgressed": 9815,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T14:09:20.6946065+00:00",
+      "NumProgressed": 9816,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10924,7 +10929,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -10948,7 +10953,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11139,7 +11144,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9815,
+      "Progressed": 9816,
       "Completed": 10
     }
   ],
@@ -11147,8 +11152,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:13:16.9752386+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:09:20.6946061+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:02:07.7198194+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:13:16.9753145+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:58:18.2497756+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:09:20.6946905+00:00"
 }

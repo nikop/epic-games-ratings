@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 801,
+  "EOS_Progressed": 802,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.75,
+  "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1710,6 +1710,11 @@
       "Time": "2024-01-07T13:13:41.5405972+00:00",
       "NumProgressed": 801,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-07T14:09:37.6278748+00:00",
+      "NumProgressed": 802,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1721,7 +1726,7 @@
       "Name": "Beat It",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "blast_from_the_past",
@@ -1729,7 +1734,7 @@
       "Name": "Blast From The Past",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "deadly_secret",
@@ -1793,7 +1798,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ending_8",
@@ -1809,7 +1814,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "free_champagne",
@@ -1817,7 +1822,7 @@
       "Name": "Free Champagne",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "kamikaze",
@@ -1857,15 +1862,15 @@
       "Name": "Storage Hunter",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 457
+      "UsersEstimate": 449
     },
     {
       "ID": "tough_decision",
@@ -1873,14 +1878,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 801,
+      "Progressed": 802,
       "Completed": 22
     }
   ],
@@ -1888,8 +1893,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:13:41.5405968+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:09:37.6278746+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:38.6088522+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:06:22.9239687+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:13:41.5406172+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:02:57.8180988+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:09:37.6278936+00:00"
 }

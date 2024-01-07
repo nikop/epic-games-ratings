@@ -1,25 +1,25 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.28 (Ranked 891)  
+Rating: 4.28 (Ranked 892)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,580 |
-| Powergamer | 27.00% | ~69,436 |
-| Write that down | 25.00% | ~64,293 |
-| Barely scratched the surface | 25.00% | ~64,293 |
-| Guns, lots of guns | 13.00% | ~33,432 |
+| I will finish what you started | 29.00% | ~74,582 |
+| Powergamer | 27.00% | ~69,438 |
+| Write that down | 25.00% | ~64,294 |
+| Barely scratched the surface | 25.00% | ~64,294 |
+| Guns, lots of guns | 13.00% | ~33,433 |
 | Collector | 12.00% | ~30,861 |
-| Elementary! | 9.00% | ~23,145 |
+| Elementary! | 9.00% | ~23,146 |
 | Griever | 8.00% | ~20,574 |
 | Pumpkin Jack | 8.00% | ~20,574 |
 | Wake up! | 8.00% | ~20,574 |
 | It's honest work | 7.00% | ~18,002 |
-| Me smart | 6.00% | ~15,430 |
-| Trash compactor | 6.00% | ~15,430 |
-| Valedictorian | 6.00% | ~15,430 |
+| Me smart | 6.00% | ~15,431 |
+| Trash compactor | 6.00% | ~15,431 |
+| Valedictorian | 6.00% | ~15,431 |
 | Good listener | 5.00% | ~12,859 |
 | BOY! | 4.00% | ~10,287 |
 | Ka-ching! | 4.00% | ~10,287 |
@@ -27,14 +27,14 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,715 |
 | I like to sniff around | 3.00% | ~7,715 |
 | Mind reader | 3.00% | ~7,715 |
-| Catnip | 2.00% | ~5,143 |
-| Gentleman's classic | 2.00% | ~5,143 |
-| Is that a rift? | 2.00% | ~5,143 |
-| It's alive! | 2.00% | ~5,143 |
-| Enjoy the beach | 2.00% | ~5,143 |
-| Rinse and repeat | 2.00% | ~5,143 |
-| Mama, I'm a criminal | 2.00% | ~5,143 |
-| Never gonna give you up | 2.00% | ~5,143 |
+| Catnip | 2.00% | ~5,144 |
+| Gentleman's classic | 2.00% | ~5,144 |
+| Is that a rift? | 2.00% | ~5,144 |
+| It's alive! | 2.00% | ~5,144 |
+| Enjoy the beach | 2.00% | ~5,144 |
+| Rinse and repeat | 2.00% | ~5,144 |
+| Mama, I'm a criminal | 2.00% | ~5,144 |
+| Never gonna give you up | 2.00% | ~5,144 |
 | A muscle to rely on | 1.00% | ~2,572 |
 | A true blacksmith | 1.00% | ~2,572 |
 | I am in great pain, please help me | 1.00% | ~2,572 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~514 |
 | Memory 5 | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,172 (Ranked 68)  
+Progressed: 257,178 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 8 (0.00%) (Ranked 393)
 | 2024-01-04 | 256,850 | 8 |
 | 2024-01-05 | 256,975 | 8 |
 | 2024-01-06 | 257,113 | 8 |
-| 2024-01-07 | 257,172 | 8 |
+| 2024-01-07 | 257,178 | 8 |
 ## Awards
 Max (Character Customization): 98  (Ranked 383)  
 Sum: 98 (Ranked 470)  

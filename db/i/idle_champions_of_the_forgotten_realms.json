@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1030,
+  "Ranking_Rating": 1031,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
@@ -9391,9 +9391,9 @@
       "Count": 3631
     }
   ],
-  "EOS_Progressed": 252334,
+  "EOS_Progressed": 252365,
   "EOS_Completed": 2599,
-  "EOS_NewPlayers": 4004,
+  "EOS_NewPlayers": 4000,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39076,6 +39076,11 @@
       "Time": "2024-01-07T13:14:27.0399105+00:00",
       "NumProgressed": 252334,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-07T14:10:11.2080903+00:00",
+      "NumProgressed": 252365,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 546,
@@ -39087,7 +39092,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10093
+      "UsersEstimate": 10095
     },
     {
       "ID": "objective_completed_10",
@@ -39455,7 +39460,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "objective_completed_110",
@@ -39951,7 +39956,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "objective_completed_1203",
@@ -40951,7 +40956,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "objective_completed_40",
@@ -42231,7 +42236,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "objective_completed_70",
@@ -43359,7 +43364,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "objective_completed_1352",
@@ -43367,7 +43372,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "objective_completed_1557",
@@ -43383,7 +43388,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "objective_completed_1562",
@@ -43399,7 +43404,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "objective_completed_598",
@@ -43415,7 +43420,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "objective_completed_678",
@@ -43423,7 +43428,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "objective_completed_683",
@@ -43439,7 +43444,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "objective_completed_865",
@@ -43447,28 +43452,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218608,
+      "Progressed": 218639,
       "Completed": 4143
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252334,
+      "Progressed": 252365,
       "Completed": 2599
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-07T12:00:01.0036284+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:14:27.0399102+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:10:11.2080897+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:05:53.6853024+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:14:27.0424266+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:00:18.5005084+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:10:11.2105584+00:00"
 }

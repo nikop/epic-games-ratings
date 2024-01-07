@@ -3201,9 +3201,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3266,8 +3266,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-06T15:59:59.9482178+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:12:58.9478841+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:09:08.5297928+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:06:06.6338783+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:12:58.9479102+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:00:27.6155676+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:09:08.5298276+00:00"
 }

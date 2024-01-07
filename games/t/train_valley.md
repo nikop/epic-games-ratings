@@ -1,7 +1,7 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.49 (Ranked 635)  
+Rating: 4.49 (Ranked 634)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,8 +9,8 @@ Number of Ratings: 28  (23.09.2022)
 | Getting started | 76.00% | ~488 |
 | Close call! | 71.00% | ~456 |
 | Builder | 51.00% | ~327 |
+| Pangs of conscience | 44.00% | ~282 |
 | Living it large! | 44.00% | ~282 |
-| Pangs of conscience | 43.00% | ~276 |
 | Collector | 42.00% | ~270 |
 | Need to think | 41.00% | ~263 |
 | Completely nuts! | 40.00% | ~257 |
@@ -23,8 +23,8 @@ Number of Ratings: 28  (23.09.2022)
 | Ouroboros | 24.00% | ~154 |
 | Non Stop! | 24.00% | ~154 |
 | Foreman | 20.00% | ~128 |
+| America | 19.00% | ~122 |
 | Russia | 19.00% | ~122 |
-| America | 18.00% | ~116 |
 | Missed it! | 18.00% | ~116 |
 | Sabotage | 15.00% | ~96 |
 | Achtung! | 12.00% | ~77 |

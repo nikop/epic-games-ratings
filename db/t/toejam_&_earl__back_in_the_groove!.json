@@ -2,7 +2,7 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 119,
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58685,
+  "EOS_Progressed": 58687,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15551,6 +15551,11 @@
       "Time": "2024-01-07T13:09:15.1196978+00:00",
       "NumProgressed": 58685,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T14:04:55.6130474+00:00",
+      "NumProgressed": 58687,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15650,7 +15655,7 @@
       "Name": "Food Taster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5868
+      "UsersEstimate": 5869
     },
     {
       "ID": "FoolMeTwice",
@@ -15953,7 +15958,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58685,
+      "Progressed": 58687,
       "Completed": 6
     }
   ],
@@ -15961,8 +15966,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:09:15.1196974+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:04:55.6130472+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.3766793+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:01:09.5824625+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:09:15.1198363+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:57:40.688027+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:04:55.6131704+00:00"
 }

@@ -1,15 +1,15 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 1,034)  
+Rating: 4.05 (Ranked 1,035)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,981 |
-| World Map | 78.00% | ~3,339 |
-| Temple of Eternals | 56.00% | ~2,397 |
-| Prestigious | 52.00% | ~2,226 |
-| Fellowship Power | 42.00% | ~1,798 |
+| Victor | 93.00% | ~3,982 |
+| World Map | 78.00% | ~3,340 |
+| Temple of Eternals | 56.00% | ~2,398 |
+| Prestigious | 52.00% | ~2,227 |
+| Fellowship Power | 41.00% | ~1,756 |
 | Full Party | 28.00% | ~1,199 |
 | Guild Power | 23.00% | ~985 |
 | Prestigious x10 | 20.00% | ~856 |
@@ -29,15 +29,15 @@ Rating: 4.05 (Ranked 1,034)
 | Milestone collector | 10.00% | ~428 |
 | Doing My Part | 9.00% | ~385 |
 | Scientist | 9.00% | ~385 |
-| Challenger | 8.00% | ~342 |
-| Daily Quest Completionist | 8.00% | ~342 |
-| Frostfire Liberator | 8.00% | ~342 |
-| Hunter | 8.00% | ~342 |
-| Mastery | 8.00% | ~342 |
-| Moving Up The Ladder | 8.00% | ~342 |
-| Relic Of The Past | 8.00% | ~342 |
-| Scroll Master | 8.00% | ~342 |
-| The power of Awakening | 8.00% | ~342 |
+| Challenger | 8.00% | ~343 |
+| Daily Quest Completionist | 8.00% | ~343 |
+| Frostfire Liberator | 8.00% | ~343 |
+| Hunter | 8.00% | ~343 |
+| Mastery | 8.00% | ~343 |
+| Moving Up The Ladder | 8.00% | ~343 |
+| Relic Of The Past | 8.00% | ~343 |
+| Scroll Master | 8.00% | ~343 |
+| The power of Awakening | 8.00% | ~343 |
 | Four Leaf Clover | 7.00% | ~300 |
 | Master Enchanter | 7.00% | ~300 |
 | The father of Dragons | 7.00% | ~300 |
@@ -52,12 +52,12 @@ Rating: 4.05 (Ranked 1,034)
 | Engineer Mastery | 5.00% | ~214 |
 | How Do You Turn This On? | 5.00% | ~214 |
 | Missions Dedication | 5.00% | ~214 |
+| Sailor | 5.00% | ~214 |
 | Active Member | 4.00% | ~171 |
 | Ancient Knowledge | 4.00% | ~171 |
 | Background Story | 4.00% | ~171 |
 | Legendary | 4.00% | ~171 |
 | Lock And Load | 4.00% | ~171 |
-| Sailor | 4.00% | ~171 |
 | The Alchemist | 4.00% | ~171 |
 | Arena Challenger | 3.00% | ~128 |
 | Ebony Jungle Liberator | 3.00% | ~128 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,034)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,281 (Ranked 209)  
+Progressed: 4,282 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-04 | 4,183 | 2 |
 | 2024-01-05 | 4,228 | 2 |
 | 2024-01-06 | 4,266 | 2 |
-| 2024-01-07 | 4,281 | 2 |
+| 2024-01-07 | 4,282 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 155 (Ranked 439)  

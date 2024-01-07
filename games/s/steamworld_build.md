@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 87.00% | ~219 |
-| Digging a Hole | 77.00% | ~194 |
-| It's Yours, My Friend | 74.00% | ~186 |
-| Conducted Trade | 68.00% | ~171 |
+| Digging a Hole | 78.00% | ~197 |
+| It's Yours, My Friend | 75.00% | ~189 |
+| Conducted Trade | 69.00% | ~174 |
 | Going Places | 65.00% | ~164 |
 | Aristocratic | 63.00% | ~159 |
 | Tutti Frutti | 57.00% | ~144 |

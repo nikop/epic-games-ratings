@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 84.00% | ~67 |
-| Do a barrel roll! | 64.00% | ~51 |
-| Huh? What was that? | 53.00% | ~42 |
-| Whatever it is, fix it! | 36.00% | ~29 |
-| The opposite of good news | 29.00% | ~23 |
-| My Emperor... I've failed you! | 23.00% | ~18 |
+| All systems go | 84.00% | ~68 |
+| Do a barrel roll! | 64.00% | ~52 |
+| Huh? What was that? | 53.00% | ~43 |
+| Whatever it is, fix it! | 37.00% | ~30 |
+| The opposite of good news | 30.00% | ~24 |
+| My Emperor... I've failed you! | 22.00% | ~18 |
 | Priceless company | 16.00% | ~13 |
 | I'm ready, anytime | 4.00% | ~3 |
 | Enemy shield analyzed | 4.00% | ~3 |
-| Piece of cake | 3.00% | ~2 |
-| Actually it's called aileron roll | 3.00% | ~2 |
-| I have a bad feeling about this | 3.00% | ~2 |
-| No need to say goodbye | 3.00% | ~2 |
+| Piece of cake | 2.00% | ~2 |
+| Actually it's called aileron roll | 2.00% | ~2 |
+| I have a bad feeling about this | 2.00% | ~2 |
+| No need to say goodbye | 2.00% | ~2 |
 | Better hurry up | 1.00% | ~1 |
 | I call her the BF-Worm | 1.00% | ~1 |
 | Axel? | 1.00% | ~1 |
 | You won't escape that easy!! | 1.00% | ~1 |
 | Any other day at work | 1.00% | ~1 |
 | I've had enough! | 1.00% | ~1 |
+| Like it's nothing | 1.00% | ~1 |
 | I. Am. Bored | 1.00% | ~1 |
 | See you on the other side | 0.00% | ~0 |
-| Like it's nothing | 0.00% | ~0 |
 | We are the FUR Squadron! | 0.00% | ~0 |
 | Well, I'm doing it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 511)  
+Progressed: 81 (Ranked 510)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,3 +90,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-28 | 78 | 0 |
 | 2024-01-01 | 79 | 0 |
 | 2024-01-05 | 80 | 0 |
+| 2024-01-07 | 81 | 0 |

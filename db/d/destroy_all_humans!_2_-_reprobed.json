@@ -5,7 +5,7 @@
   "Ranking_Rating": 549,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 528,
-  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 111,
@@ -294,9 +294,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 352,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1644,6 +1644,11 @@
       "Time": "2024-01-07T13:13:06.5636851+00:00",
       "NumProgressed": 350,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T14:09:13.80801+00:00",
+      "NumProgressed": 352,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1654,9 +1659,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1688,7 +1693,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1728,7 +1733,7 @@
       "Name": "Cult Following",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1736,7 +1741,7 @@
       "Name": "Transmitting From Sol-3",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1768,7 +1773,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1784,7 +1789,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1792,7 +1797,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 290
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1822,9 +1827,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1872,7 +1877,7 @@
       "Name": "Deincarnated",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_KILL_WARSHIP",
@@ -1912,7 +1917,7 @@
       "Name": "Upgreatest",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1992,22 +1997,22 @@
       "Name": "Shop Til They Drop",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 352,
       "Completed": 2
     }
   ],
@@ -2015,8 +2020,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:13:06.5636847+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:09:13.8080096+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:04:56.9831613+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:13:06.5637188+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:00:08.3959684+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:09:13.8080544+00:00"
 }

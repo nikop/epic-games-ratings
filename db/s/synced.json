@@ -2,13 +2,13 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 1008,
+  "Ranking_Rating": 1009,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1695,9 +1695,9 @@
       "Count": 62
     }
   ],
-  "EOS_Progressed": 84648,
+  "EOS_Progressed": 84675,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 4363,
+  "EOS_NewPlayers": 4366,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -15780,6 +15780,11 @@
       "Time": "2024-01-07T13:08:29.6793869+00:00",
       "NumProgressed": 84648,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-07T14:04:24.309084+00:00",
+      "NumProgressed": 84675,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -15792,7 +15797,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 38092
+      "UsersEstimate": 38104
     },
     {
       "ID": "10",
@@ -15800,7 +15805,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "11",
@@ -15808,7 +15813,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "12",
@@ -15816,7 +15821,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "13",
@@ -15832,7 +15837,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 5925
+      "UsersEstimate": 5927
     },
     {
       "ID": "15",
@@ -15856,7 +15861,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16930
+      "UsersEstimate": 16935
     },
     {
       "ID": "3",
@@ -15864,7 +15869,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 11851
+      "UsersEstimate": 11855
     },
     {
       "ID": "4",
@@ -15872,7 +15877,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7618
+      "UsersEstimate": 7621
     },
     {
       "ID": "5",
@@ -15880,7 +15885,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 5925
+      "UsersEstimate": 5927
     },
     {
       "ID": "6",
@@ -15888,7 +15893,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5079
+      "UsersEstimate": 5080
     },
     {
       "ID": "7",
@@ -15896,7 +15901,7 @@
       "Name": "More Power to You",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 17776
+      "UsersEstimate": 17782
     },
     {
       "ID": "8",
@@ -15919,7 +15924,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 84648,
+      "Progressed": 84675,
       "Completed": 63
     }
   ],
@@ -15927,8 +15932,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-07T08:59:42.4266879+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:08:29.6793847+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:04:24.3090837+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.8643288+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:04:37.9758629+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:08:29.6794826+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:59:54.9876974+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:04:24.309164+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -1746,9 +1746,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 228
     },
     {
       "ID": "AC_BOSS_01",
@@ -1818,9 +1818,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 152
     },
     {
       "ID": "AC_DEATH_2",
@@ -1898,9 +1898,9 @@
       "ID": "AC_FLASHBACK_01",
       "SetID": "16i2akc",
       "Name": "Creation",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -1978,9 +1978,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 173
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2017,8 +2017,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:11:36.4268782+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:06:31.8347616+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:01:58.3558756+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:11:36.4269137+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:58:11.3139824+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:06:31.8347945+00:00"
 }

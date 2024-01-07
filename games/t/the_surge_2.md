@@ -1,23 +1,23 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 912)  
+Rating: 4.26 (Ranked 913)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,980 |
+| Rigged And Ready | 79.00% | ~1,981 |
 | Don't I Know You...? | 75.00% | ~1,880 |
 | Jailbreak | 64.00% | ~1,604 |
-| HEADSHOT! | 37.00% | ~927 |
-| Suited and Booted | 37.00% | ~927 |
+| HEADSHOT! | 37.00% | ~928 |
+| Suited and Booted | 37.00% | ~928 |
 | Sleeping With The Fishes | 35.00% | ~877 |
 | High Performance | 30.00% | ~752 |
 | Overheated | 29.00% | ~727 |
 | Powered Up | 28.00% | ~702 |
-| Studied The Blade | 24.00% | ~601 |
-| Home Invasion | 22.00% | ~551 |
-| Luminary | 22.00% | ~551 |
-| It's a Trap | 22.00% | ~551 |
+| Studied The Blade | 24.00% | ~602 |
+| Home Invasion | 22.00% | ~552 |
+| Luminary | 22.00% | ~552 |
+| It's a Trap | 22.00% | ~552 |
 | True Survivor | 21.00% | ~526 |
 | Offensive Defense | 20.00% | ~501 |
 | Shocking | 20.00% | ~501 |
@@ -38,9 +38,9 @@ Rating: 4.26 (Ranked 912)
 | Stimulating The Local Economy | 10.00% | ~251 |
 | Triplets | 10.00% | ~251 |
 | Denying Prophecy | 9.00% | ~226 |
-| A Little Banged Up | 8.00% | ~200 |
-| Following In Their Footsteps | 8.00% | ~200 |
-| Defense in Depth | 8.00% | ~200 |
+| A Little Banged Up | 8.00% | ~201 |
+| Following In Their Footsteps | 8.00% | ~201 |
+| Defense in Depth | 8.00% | ~201 |
 | Reverse Engineering | 7.00% | ~175 |
 | Remote Surgery | 6.00% | ~150 |
 | Turbo Booster | 6.00% | ~150 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 912)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,506 (Ranked 235)  
+Progressed: 2,507 (Ranked 235)  
 Completed: 13 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 13 (0.52%) (Ranked 216)
 | 2024-01-04 | 2,469 | 13 |
 | 2024-01-05 | 2,483 | 13 |
 | 2024-01-06 | 2,499 | 13 |
-| 2024-01-07 | 2,506 | 13 |
+| 2024-01-07 | 2,507 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1048,9 +1048,9 @@
       "ID": "id_26",
       "SetID": "bk9jib6",
       "Name": "Titan Lord",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "id_3",
@@ -1345,8 +1345,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:14:15.5199991+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:10:01.6616422+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:00:36.8606446+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:14:15.5200408+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:57:18.4461431+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:10:01.6616939+00:00"
 }

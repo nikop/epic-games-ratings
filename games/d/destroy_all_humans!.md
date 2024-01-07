@@ -17,7 +17,7 @@ Number of Ratings: 85  (23.09.2022)
 | Lobster Blisque | 49.00% | ~186 |
 | Earthly Pleasures | 48.00% | ~182 |
 | Fly Me to the Moon Base | 47.00% | ~179 |
-| Ducks in a Row, Fish in a Barrel | 44.00% | ~167 |
+| Ducks in a Row, Fish in a Barrel | 45.00% | ~171 |
 | Forbidden Donut | 36.00% | ~137 |
 | Bodied Sattva | 36.00% | ~137 |
 | Freshly Squeezed | 34.00% | ~129 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 900,
+  "EOS_Progressed": 901,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -3230,6 +3230,11 @@
       "Time": "2024-01-07T13:13:49.7080144+00:00",
       "NumProgressed": 900,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T14:09:43.368649+00:00",
+      "NumProgressed": 901,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3266,7 +3271,7 @@
       "Name": "From Way Downtown",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_13",
@@ -3298,7 +3303,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "achievement_17",
@@ -3362,7 +3367,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_8",
@@ -3385,13 +3390,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 900,
+      "Progressed": 901,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:13:49.708014+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:09:43.3686486+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:05:02.8046694+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:13:49.7080461+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:00:12.0606309+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:09:43.3687031+00:00"
 }

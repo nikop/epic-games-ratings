@@ -5,31 +5,31 @@ Rating: 4.55 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 107.00% | ~19,149 |
-| Before the Downfall | 102.00% | ~18,254 |
-| Money like Water | 100.00% | ~17,896 |
-| Minimalist | 98.00% | ~17,538 |
+| Trevithick's Legacy | 107.00% | ~19,148 |
+| Before the Downfall | 102.00% | ~18,253 |
+| Money like Water | 100.00% | ~17,895 |
+| Minimalist | 98.00% | ~17,537 |
 | Builder | 90.00% | ~16,106 |
-| Eraser | 76.00% | ~13,601 |
-| Pocket of Trains | 71.00% | ~12,706 |
+| Eraser | 76.00% | ~13,600 |
+| Pocket of Trains | 71.00% | ~12,705 |
 | Inspector | 64.00% | ~11,453 |
-| Going the Distance | 59.00% | ~10,559 |
+| Going the Distance | 59.00% | ~10,558 |
 | Oil Baron | 46.00% | ~8,232 |
 | Loads-a-Money | 46.00% | ~8,232 |
 | Helper of the People | 43.00% | ~7,695 |
-| Simplification | 37.00% | ~6,622 |
-| Box of Trains | 36.00% | ~6,443 |
-| Let There be Light | 36.00% | ~6,443 |
-| Hot Water | 34.00% | ~6,085 |
-| Indecisive | 32.00% | ~5,727 |
-| The scenic route | 30.00% | ~5,369 |
+| Simplification | 37.00% | ~6,621 |
+| Box of Trains | 36.00% | ~6,442 |
+| Let There be Light | 36.00% | ~6,442 |
+| Hot Water | 34.00% | ~6,084 |
+| Indecisive | 32.00% | ~5,726 |
+| The scenic route | 30.00% | ~5,368 |
 | Industrialist | 28.00% | ~5,011 |
 | Perfectionist | 26.00% | ~4,653 |
 | 8K is Enough for Everyone | 25.00% | ~4,474 |
 | Trains over Pipes | 25.00% | ~4,474 |
 | Man of Steel | 18.00% | ~3,221 |
 | Room Full of Trains | 14.00% | ~2,505 |
-| Investor | 11.00% | ~1,969 |
+| Investor | 11.00% | ~1,968 |
 | Multiverse | 8.00% | ~1,432 |
 | The poor groundwater levels | 8.00% | ~1,432 |
 | Metropolis | 8.00% | ~1,432 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 527)
 | Overdeer | 0.60% | ~107 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,896 (Ranked 161)  
+Progressed: 17,895 (Ranked 161)  
 Completed: 26 (0.15%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |

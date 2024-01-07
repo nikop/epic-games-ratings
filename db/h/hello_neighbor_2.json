@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 723,
+  "Ranking_Rating": 722,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 215,
@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3933,
+  "EOS_Progressed": 3935,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.66,
   "EosHistory": [
@@ -6977,6 +6977,11 @@
       "Time": "2024-01-07T13:12:17.6258452+00:00",
       "NumProgressed": 3933,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-07T14:08:40.1553282+00:00",
+      "NumProgressed": 3935,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7028,7 +7033,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -7036,7 +7041,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7052,7 +7057,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -7068,7 +7073,7 @@
       "Name": "Reunion",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -7092,14 +7097,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3107
+      "UsersEstimate": 3109
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3933,
+      "Progressed": 3935,
       "Completed": 144
     }
   ],
@@ -7107,8 +7112,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:12:17.6258446+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:08:40.1553278+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:02:47.5687622+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:12:17.6258899+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:58:43.857039+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:08:40.1553727+00:00"
 }

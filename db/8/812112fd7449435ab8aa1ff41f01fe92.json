@@ -4,7 +4,7 @@
   "ProductSlug": "jump-challenge-228ff0",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 420,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -287,9 +287,9 @@
       "ID": "DEATH_LAVA",
       "SetID": "5629o35",
       "Name": "The floor is lava. Literally.",
-      "Percentage": 93,
+      "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "DEATH_LAVA_100",
@@ -311,9 +311,9 @@
       "ID": "FIRST_DEATH",
       "SetID": "5629o35",
       "Name": "Welcome to the jumping challenge!",
-      "Percentage": 95,
+      "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "OWN_SKINS",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:11:45.8187284+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:06:38.7998948+00:00",
   "LastUpdate_AppInfo": "2024-01-01T18:57:10.6877245+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:04:10.022876+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:11:45.8187462+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:59:37.5374062+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:06:38.7999114+00:00"
 }

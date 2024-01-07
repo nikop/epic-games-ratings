@@ -1,33 +1,33 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.51 (Ranked 592)  
+Rating: 4.51 (Ranked 590)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,505 |
-| Jeef Skeejj | 44.00% | ~208,337 |
-| Careful planning | 39.00% | ~184,662 |
-| Second Coming | 34.00% | ~160,988 |
-| Jeef Skagg | 30.00% | ~142,048 |
-| Mother | 25.00% | ~118,373 |
-| In space, no one can hear you scream | 24.00% | ~113,638 |
-| Chapter I: Echoes | 22.00% | ~104,168 |
-| Excelsior Rule | 22.00% | ~104,168 |
+| The Shutdown | 66.00% | ~312,507 |
+| Jeef Skeejj | 44.00% | ~208,338 |
+| Careful planning | 39.00% | ~184,663 |
+| Second Coming | 34.00% | ~160,989 |
+| Jeef Skagg | 30.00% | ~142,049 |
+| Mother | 25.00% | ~118,374 |
+| In space, no one can hear you scream | 24.00% | ~113,639 |
+| Chapter I: Echoes | 22.00% | ~104,169 |
+| Excelsior Rule | 22.00% | ~104,169 |
 | Things persisted in not being what they seemed | 20.00% | ~94,699 |
 | Knightmare Frames | 15.00% | ~71,024 |
 | May His passing cleanse the world | 15.00% | ~71,024 |
 | Chapter II: Fallible Flesh | 15.00% | ~71,024 |
 | Pope Zenon | 15.00% | ~71,024 |
-| Plan for the worst | 12.00% | ~56,819 |
-| Tetsuo | 11.00% | ~52,084 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,349 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,879 |
-| Through the mirror | 8.00% | ~37,879 |
-| General Vivar | 8.00% | ~37,879 |
-| Back to Ganyma | 8.00% | ~37,879 |
-| Kaos Rule | 8.00% | ~37,879 |
+| Plan for the worst | 12.00% | ~56,820 |
+| Tetsuo | 11.00% | ~52,085 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,350 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,880 |
+| Through the mirror | 8.00% | ~37,880 |
+| General Vivar | 8.00% | ~37,880 |
+| Back to Ganyma | 8.00% | ~37,880 |
+| Kaos Rule | 8.00% | ~37,880 |
 | Admiral Okonkwo | 7.00% | ~33,145 |
 | The Survivalists | 7.00% | ~33,145 |
 | The Tech Specialist | 7.00% | ~33,145 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,493 (Ranked 45)  
+Progressed: 473,496 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 21 (0.00%) (Ranked 393)
 | 2024-01-04 | 473,369 | 21 |
 | 2024-01-05 | 473,412 | 21 |
 | 2024-01-06 | 473,472 | 21 |
-| 2024-01-07 | 473,493 | 21 |
+| 2024-01-07 | 473,496 | 21 |
 ## Awards
 Max (Character Customization): 229  (Ranked 285)  
 Sum: 253 (Ranked 397)  

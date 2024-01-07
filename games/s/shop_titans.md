@@ -1,15 +1,15 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 4.00 (Ranked 1,044)  
+Rating: 4.00 (Ranked 1,045)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~15,010 |
-| Basic in Bulk | 10.00% | ~15,010 |
-| Titan's First Steps | 10.00% | ~15,010 |
-| Tinkle of Coins | 9.00% | ~13,509 |
+| Sponsored by Argon | 11.00% | ~16,512 |
+| Basic in Bulk | 10.00% | ~15,011 |
+| Titan's First Steps | 10.00% | ~15,011 |
+| Tinkle of Coins | 9.00% | ~13,510 |
 | Disintermediation | 7.00% | ~10,507 |
 | It's Free Real Estate | 7.00% | ~10,507 |
 | Capitalism Ho! | 7.00% | ~10,507 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.70% | ~1,051 |
 | JACKPOT!!! | 0.70% | ~1,051 |
 | Ultimate Collector | 0.60% | ~901 |
-| Oligarch Monarch | 0.50% | ~750 |
-| Merchant Extraordinaire | 0.50% | ~750 |
+| Oligarch Monarch | 0.50% | ~751 |
+| Merchant Extraordinaire | 0.50% | ~751 |
 | To Hell and Back | 0.40% | ~600 |
 | Cash Only Please | 0.40% | ~600 |
 | Capitalist Camaraderie | 0.20% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,097 (Ranked 86)  
+Progressed: 150,106 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -381,14 +381,14 @@ Completed: 345 (0.23%) (Ranked 269)
 | 2024-01-04 | 149,471 | 342 |
 | 2024-01-05 | 149,755 | 342 |
 | 2024-01-06 | 149,985 | 345 |
-| 2024-01-07 | 150,097 | 345 |
+| 2024-01-07 | 150,106 | 345 |
 ## Awards
-Max (Great for Beginners): 4,945  (Ranked 78)  
-Sum: 27,949 (Ranked 52)  
+Max (Great for Beginners): 4,946  (Ranked 78)  
+Sum: 27,950 (Ranked 52)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,945 |
+| This game is Great for Beginners | 4,946 |
 | This game is Relaxing | 4,075 |
 | This game has Quickly Understood Controls | 4,072 |
 | This game has Diverse Characters | 4,027 |
@@ -740,4 +740,4 @@ Diff (max vs sum): 26
 | 2024-01-04 | 3.99 | - | 4,940 | 27,924 |
 | 2024-01-05 | 3.99 | - | 4,945 | 27,942 |
 | 2024-01-06 | 4.00 | - | 4,945 | 27,944 |
-| 2024-01-07 | 4.00 | - | 4,945 | 27,949 |
+| 2024-01-07 | 4.00 | - | 4,946 | 27,950 |

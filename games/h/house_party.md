@@ -1,17 +1,17 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.32 (Ranked 855)  
+Rating: 4.32 (Ranked 856)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 6.00% | ~432 |
-| Smooth Operator: Madison | 5.00% | ~360 |
+| A Friend in Need... | 6.00% | ~433 |
+| Smooth Operator: Madison | 5.00% | ~361 |
 | The Brahdyssey | 3.00% | ~216 |
 | Caught in the Act | 3.00% | ~216 |
 | Katherine | 3.00% | ~216 |
-| Life Found a Way | 3.00% | ~127 |
+| Life Found a Way | 3.00% | ~128 |
 | Relentless | 3.00% | ~216 |
 | If at First You Don't Succeed... | 3.00% | ~216 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~144 |
@@ -50,8 +50,8 @@ Number of Ratings: 177  (23.09.2022)
 | Do You Smell Blood? | 0.30% | ~22 |
 | Derezzed | 0.30% | ~22 |
 | Beyond the Call of Dude-y | 0.20% | ~14 |
-| Congrats, A Celebrity Hates You | 0.20% | ~8 |
-| Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~8 |
+| Congrats, A Celebrity Hates You | 0.20% | ~9 |
+| Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~9 |
 | Duck n' Weave | 0.20% | ~14 |
 | Good Riddance! | 0.20% | ~14 |
 | I Know Grump-Fu | 0.20% | ~14 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,207 (Ranked 194)  
+Progressed: 7,212 (Ranked 194)  
 Completed: 3 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 3 (0.04%) (Ranked 348)
 | 2024-01-04 | 7,099 | 3 |
 | 2024-01-05 | 7,141 | 3 |
 | 2024-01-06 | 7,186 | 3 |
-| 2024-01-07 | 7,207 | 3 |
+| 2024-01-07 | 7,212 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

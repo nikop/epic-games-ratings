@@ -2,12 +2,12 @@
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
-  "Ranking_Rating": 879,
+  "Ranking_Rating": 880,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1317,
+  "EOS_Progressed": 1318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2814,6 +2814,11 @@
       "Time": "2024-01-07T13:07:41.8791529+00:00",
       "NumProgressed": 1317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T14:03:50.7448955+00:00",
+      "NumProgressed": 1318,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -3049,7 +3054,7 @@
       "Name": "We made it",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -3184,7 +3189,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1317,
+      "Progressed": 1318,
       "Completed": 0
     }
   ],
@@ -3192,8 +3197,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:07:41.8791525+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:03:50.7448954+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.342608+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:06:45.1268586+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:07:41.8791861+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:03:12.935265+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:03:50.7449285+00:00"
 }

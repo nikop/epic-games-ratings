@@ -2,13 +2,13 @@
   "ID": "0ecc6e3c452d42af84e78012db31bad9",
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
-  "Ranking_Rating": 1066,
+  "Ranking_Rating": 1067,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 205,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -35,7 +35,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4896,
+  "EOS_Progressed": 4897,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 2,
@@ -12925,6 +12925,11 @@
       "Time": "2024-01-07T12:08:11.7575775+00:00",
       "NumProgressed": 4896,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-07T14:06:38.2050126+00:00",
+      "NumProgressed": 4897,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -12936,7 +12941,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -12968,7 +12973,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3770
+      "UsersEstimate": 3771
     },
     {
       "ID": "ach_architecture_completed",
@@ -13008,7 +13013,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "ach_food_completed",
@@ -13032,7 +13037,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3722
     },
     {
       "ID": "ach_magic_wand",
@@ -13048,7 +13053,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "ach_tornado",
@@ -13063,7 +13068,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4896,
+      "Progressed": 4897,
       "Completed": 44
     }
   ],
@@ -13071,8 +13076,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:11:45.1842861+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:06:38.2050121+00:00",
   "LastUpdate_AppInfo": "2024-01-05T23:57:03.8408422+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:00:41.3089664+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:11:45.1843797+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:57:21.0271177+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:06:38.205088+00:00"
 }

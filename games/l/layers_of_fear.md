@@ -35,9 +35,9 @@
 | Fisherman | 6.00% | ~17 |
 | Something to think about | 4.00% | ~12 |
 | I remember It Like Was Yesterday | 4.00% | ~12 |
+| Immortalized in my heart | 4.00% | ~12 |
 | We Are Not Alone | 3.00% | ~9 |
 | Dark correspondence | 3.00% | ~9 |
-| Immortalized in my heart | 3.00% | ~9 |
 | The Perfect Storm | 3.00% | ~9 |
 | Se7en Seas | 3.00% | ~9 |
 | Body of Work | 2.00% | ~6 |
@@ -50,14 +50,14 @@
 | Sword of the Serpent | 1.00% | ~3 |
 | Rocket Science | 0.70% | ~2 |
 | You Can’t Handle the Truth | 0.30% | ~1 |
+| Letting go | 0.30% | ~1 |
 | The Tree and the Apple | 0.30% | ~1 |
 | The whole story | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
-| Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291 (Ranked 399)  
+Progressed: 291 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

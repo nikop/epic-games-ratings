@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1044,
+  "Ranking_Rating": 1045,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 86,
@@ -7997,11 +7997,17 @@
       "Rating": 4,
       "NumberOfAwards": 27949,
       "NumberOfAwardsMax": 4945
+    },
+    {
+      "Time": "2024-01-07T14:03:22.1546068+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 27950,
+      "NumberOfAwardsMax": 4946
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27949,
-  "NumberOfAwardsMax": 4945,
+  "NumberOfAwards": 27950,
+  "NumberOfAwardsMax": 4946,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8020,7 +8026,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4945
+      "Count": 4946
     },
     {
       "Text": "This game has Easy Combat",
@@ -8053,7 +8059,7 @@
       "Count": 3815
     }
   ],
-  "EOS_Progressed": 150097,
+  "EOS_Progressed": 150106,
   "EOS_Completed": 345,
   "EOS_NewPlayers": 1467,
   "EOS_NewCompleters": 5,
@@ -35718,6 +35724,11 @@
       "Time": "2024-01-07T13:12:12.5120318+00:00",
       "NumProgressed": 150097,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-07T14:08:36.8162869+00:00",
+      "NumProgressed": 150106,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -35895,9 +35906,9 @@
       "ID": "chest01",
       "SetID": "anfd17p",
       "Name": "Sponsored by Argon",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15010
+      "UsersEstimate": 16512
     },
     {
       "ID": "chest02",
@@ -35961,7 +35972,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15010
+      "UsersEstimate": 15011
     },
     {
       "ID": "commonres02",
@@ -36025,7 +36036,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "damage01",
@@ -36201,7 +36212,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13509
+      "UsersEstimate": 13510
     },
     {
       "ID": "gold02",
@@ -36337,7 +36348,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "lilu_a",
@@ -36545,7 +36556,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15010
+      "UsersEstimate": 15011
     },
     {
       "ID": "twinenchant01",
@@ -36624,15 +36635,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150097,
+      "Progressed": 150106,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-07T13:06:59.3192655+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:12:12.5120314+00:00",
+  "LastChanged": "2024-01-07T14:03:22.1546067+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:08:36.8162864+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:06:59.319266+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:12:12.5122712+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:03:22.1546072+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:08:36.8165425+00:00"
 }

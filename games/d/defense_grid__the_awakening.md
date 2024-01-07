@@ -1,52 +1,52 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 692)  
+Rating: 4.45 (Ranked 691)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~399,823 |
-| Happy Returns | 78.00% | ~385,015 |
-| Hey! That's mine! | 78.00% | ~385,015 |
-| Field Promotion | 74.00% | ~365,271 |
-| Leadhead | 71.00% | ~350,462 |
-| Eradicator | 67.00% | ~330,718 |
-| Surplus | 66.00% | ~325,782 |
-| I Spy | 64.00% | ~315,910 |
-| Burn Baby Burn | 59.00% | ~291,229 |
-| Yellow Beats Green | 56.00% | ~276,421 |
-| Salvage Rights | 53.00% | ~261,613 |
-| What IS that? | 51.00% | ~251,741 |
-| Close Call | 50.00% | ~246,804 |
-| Pew Pew | 50.00% | ~246,804 |
-| Penny Pincher | 49.00% | ~241,868 |
-| Arsenal | 46.00% | ~227,060 |
-| Boot Camp | 45.00% | ~222,124 |
-| Flawless Victory | 42.00% | ~207,316 |
-| Confident | 41.00% | ~202,380 |
-| Exterminator | 36.00% | ~177,699 |
-| Sharpshooter | 34.00% | ~167,827 |
-| Not So Fast | 33.00% | ~162,891 |
-| Great Ball of Fire | 32.00% | ~157,955 |
-| No Sale | 31.00% | ~153,019 |
-| Kaboom! | 30.00% | ~148,083 |
+| First Blood | 81.00% | ~399,826 |
+| Happy Returns | 78.00% | ~385,017 |
+| Hey! That's mine! | 78.00% | ~385,017 |
+| Field Promotion | 74.00% | ~365,273 |
+| Leadhead | 71.00% | ~350,465 |
+| Eradicator | 67.00% | ~330,720 |
+| Surplus | 66.00% | ~325,784 |
+| I Spy | 64.00% | ~315,912 |
+| Burn Baby Burn | 59.00% | ~291,231 |
+| Yellow Beats Green | 56.00% | ~276,423 |
+| Salvage Rights | 53.00% | ~261,614 |
+| What IS that? | 51.00% | ~251,742 |
+| Close Call | 50.00% | ~246,806 |
+| Pew Pew | 50.00% | ~246,806 |
+| Penny Pincher | 49.00% | ~241,870 |
+| Arsenal | 46.00% | ~227,062 |
+| Boot Camp | 45.00% | ~222,125 |
+| Flawless Victory | 42.00% | ~207,317 |
+| Confident | 41.00% | ~202,381 |
+| Exterminator | 36.00% | ~177,700 |
+| Sharpshooter | 34.00% | ~167,828 |
+| Not So Fast | 33.00% | ~162,892 |
+| Great Ball of Fire | 32.00% | ~157,956 |
+| No Sale | 31.00% | ~153,020 |
+| Kaboom! | 30.00% | ~148,084 |
 | Liquidator | 29.00% | ~143,147 |
-| High Voltage | 24.00% | ~118,466 |
+| High Voltage | 24.00% | ~118,467 |
 | Filthy Rich | 20.00% | ~98,722 |
 | Pyrrhic Victory | 18.00% | ~88,850 |
 | The Not-So-Friendly Skies | 18.00% | ~88,850 |
 | Power Builder | 17.00% | ~83,914 |
-| Death From Above | 16.00% | ~78,977 |
-| Retry | 16.00% | ~78,977 |
+| Death From Above | 16.00% | ~78,978 |
+| Retry | 16.00% | ~78,978 |
 | Head Trauma | 12.00% | ~59,233 |
 | Full Defense | 10.00% | ~49,361 |
 | Overseer | 9.00% | ~44,425 |
 | Annihilator | 8.00% | ~39,489 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~39,489 |
 | Indecisive | 6.00% | ~29,617 |
-| Base Defender | 5.00% | ~24,680 |
-| Relay Race | 5.00% | ~24,680 |
+| Base Defender | 5.00% | ~24,681 |
+| Relay Race | 5.00% | ~24,681 |
 | Tower Expert | 4.00% | ~19,744 |
 | Diversity | 3.00% | ~14,808 |
 | Full Potential | 3.00% | ~14,808 |
@@ -59,7 +59,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Gun Crazy | 1.00% | ~4,936 |
 | Well Invested | 1.00% | ~4,936 |
 | Xenocide | 1.00% | ~4,936 |
-| Planet Defender | 0.90% | ~4,442 |
+| Planet Defender | 0.90% | ~4,443 |
 | Master Siege Breaker | 0.80% | ~3,949 |
 | Few and Proud | 0.80% | ~3,949 |
 | Shell-shocked | 0.70% | ~3,455 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~494 |
 | You Monster | 0.10% | ~494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493,609 (Ranked 43)  
+Progressed: 493,612 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 5 (0.00%) (Ranked 393)
 | 2024-01-04 | 493,364 | 5 |
 | 2024-01-05 | 493,449 | 5 |
 | 2024-01-06 | 493,546 | 5 |
-| 2024-01-07 | 493,609 | 5 |
+| 2024-01-07 | 493,612 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 276)  
 Sum: 1,743 (Ranked 226)  

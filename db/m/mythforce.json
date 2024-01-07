@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6168,
+  "EOS_Progressed": 6170,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12764,6 +12764,11 @@
       "Time": "2024-01-07T11:06:03.6714378+00:00",
       "NumProgressed": 6168,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T14:05:03.7009125+00:00",
+      "NumProgressed": 6170,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12776,7 +12781,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -12800,7 +12805,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -12824,7 +12829,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12896,7 +12901,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -12936,7 +12941,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -12959,15 +12964,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6168,
+      "Progressed": 6170,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:09:26.8415858+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:05:03.7009123+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:06:13.3767285+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:09:26.8416382+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:02:51.7955595+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:05:03.7009716+00:00"
 }

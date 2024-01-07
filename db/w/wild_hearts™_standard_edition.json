@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1215,
+  "EOS_Progressed": 1216,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
@@ -3948,6 +3948,11 @@
       "Time": "2024-01-07T13:13:28.854085+00:00",
       "NumProgressed": 1215,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-07T14:09:28.9074513+00:00",
+      "NumProgressed": 1216,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3960,7 +3965,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "achievement_10",
@@ -3968,7 +3973,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_11",
@@ -4016,7 +4021,7 @@
       "Name": "Distance Devourer",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "achievement_17",
@@ -4030,9 +4035,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 596
     },
     {
       "ID": "achievement_19",
@@ -4046,9 +4051,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 584
     },
     {
       "ID": "achievement_20",
@@ -4056,7 +4061,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "achievement_21",
@@ -4072,7 +4077,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "achievement_23",
@@ -4110,9 +4115,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 316
     },
     {
       "ID": "achievement_28",
@@ -4120,7 +4125,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_29",
@@ -4152,7 +4157,7 @@
       "Name": "Snare Specialist",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_32",
@@ -4168,7 +4173,7 @@
       "Name": "Human Believer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "achievement_34",
@@ -4280,7 +4285,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "achievement_47",
@@ -4312,7 +4317,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "achievement_7",
@@ -4343,13 +4348,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1215,
+      "Progressed": 1216,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:13:28.8540847+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:09:28.9074509+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:02:58.2118723+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:13:28.8541402+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:58:50.7224859+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:09:28.9075208+00:00"
 }

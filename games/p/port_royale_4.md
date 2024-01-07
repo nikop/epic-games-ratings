@@ -1,14 +1,14 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 1,040)  
+Rating: 4.03 (Ranked 1,041)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabin boy | 79.00% | ~942 |
-| My little farm | 63.00% | ~751 |
-| Every beginning is difficult | 62.00% | ~739 |
+| My little farm | 63.00% | ~752 |
+| Every beginning is difficult | 62.00% | ~740 |
 | Gofer | 56.00% | ~668 |
 | 3, 2, 1, mine | 54.00% | ~644 |
 | O Captain! My Captain! | 54.00% | ~644 |
@@ -18,13 +18,13 @@ Number of Ratings: 53  (23.09.2022)
 | I'm out of here for a while | 41.00% | ~489 |
 | In a mint condition | 38.00% | ~453 |
 | Licence to Kill | 36.00% | ~429 |
-| Pirates! | 34.00% | ~405 |
+| Pirates! | 34.00% | ~406 |
 | Collectionitis | 29.00% | ~346 |
 | Megalomania | 28.00% | ~334 |
 | Christening | 27.00% | ~322 |
 | Groundskeeper | 25.00% | ~298 |
 | Wholesale | 22.00% | ~262 |
-| Walk the plank | 21.00% | ~250 |
+| Walk the plank | 21.00% | ~251 |
 | Pearly gates | 18.00% | ~215 |
 | My precious! | 18.00% | ~215 |
 | Conquistador | 14.00% | ~167 |
@@ -34,8 +34,8 @@ Number of Ratings: 53  (23.09.2022)
 | All mine! | 9.00% | ~107 |
 | Paths of Glory | 8.00% | ~95 |
 | Panel of experts | 8.00% | ~95 |
-| Maker | 7.00% | ~83 |
-| Conglomerate | 7.00% | ~83 |
+| Maker | 7.00% | ~84 |
+| Conglomerate | 7.00% | ~84 |
 | The Grande Bouffe | 6.00% | ~72 |
 | Buccaneer | 5.00% | ~60 |
 | Flying Dutchman | 5.00% | ~60 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~10 |
 | Davy Jones' locker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,192 (Ranked 283)  
+Progressed: 1,193 (Ranked 283)  
 Completed: 1 (0.08%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,6 +286,7 @@ Completed: 1 (0.08%) (Ranked 320)
 | 2024-01-04 | 1,178 | 1 |
 | 2024-01-05 | 1,184 | 1 |
 | 2024-01-06 | 1,192 | 1 |
+| 2024-01-07 | 1,193 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

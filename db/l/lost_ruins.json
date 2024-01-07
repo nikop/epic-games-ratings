@@ -2,7 +2,7 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 157,
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 675,
+  "EOS_Progressed": 676,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -1864,6 +1864,11 @@
       "Time": "2024-01-07T13:14:16.7221728+00:00",
       "NumProgressed": 675,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T14:10:02.650221+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1889,9 +1894,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 122
     },
     {
       "ID": "Assassin",
@@ -1907,7 +1912,7 @@
       "Name": "Boss Killer",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "BugHunter",
@@ -1995,7 +2000,7 @@
       "Name": "Inquisitor",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Librarian",
@@ -2163,7 +2168,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Troubleshooter",
@@ -2194,7 +2199,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 675,
+      "Progressed": 676,
       "Completed": 1
     }
   ],
@@ -2202,8 +2207,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:14:16.7221724+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:10:02.6502207+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:04:06.0338718+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:14:16.7222143+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:59:34.5342956+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:10:02.6502647+00:00"
 }

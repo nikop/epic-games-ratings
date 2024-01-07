@@ -32,16 +32,16 @@
 | Haemochromatosis | 42.00% | ~64 |
 | Make America Grate Again | 40.00% | ~61 |
 | You can't stop me, bro! | 38.00% | ~58 |
+| Pasta Bolognese | 38.00% | ~58 |
 | You are no match for me, Billy! | 37.00% | ~56 |
-| Pasta Bolognese | 37.00% | ~56 |
 | Karaoke king | 35.00% | ~53 |
 | Meatballs, coming up! | 34.00% | ~52 |
 | Catch the bus with me! | 34.00% | ~52 |
 | I'm going to get a concussion | 33.00% | ~50 |
 | Another one bites the iron | 32.00% | ~49 |
 | Ripe Meat Off The Bone! | 28.00% | ~43 |
+| Kleptomaniac | 28.00% | ~43 |
 | Hovering around | 27.00% | ~41 |
-| Kleptomaniac | 27.00% | ~41 |
 | You're not so Big anymore, Boi! | 26.00% | ~40 |
 | A Megapint...? | 26.00% | ~40 |
 | Your daily dose of Vitamin C. | 26.00% | ~40 |

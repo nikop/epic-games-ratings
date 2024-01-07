@@ -2220,9 +2220,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16185,
+  "EOS_Progressed": 16189,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19150,6 +19150,11 @@
       "Time": "2024-01-07T13:14:25.9750445+00:00",
       "NumProgressed": 16185,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T14:10:09.9026632+00:00",
+      "NumProgressed": 16189,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19497,7 +19502,7 @@
       "Name": "Ambitious",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -19545,7 +19550,7 @@
       "Name": "Brilliant",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -19585,7 +19590,7 @@
       "Name": "Enlightened",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -19609,7 +19614,7 @@
       "Name": "Glorious",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -19639,9 +19644,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
       "SetID": "9201eeb",
       "Name": "Intercessor",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -19825,7 +19830,7 @@
       "Name": "Warrior",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -19855,9 +19860,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -19873,7 +19878,7 @@
       "Name": "Strong Cities",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -19927,9 +19932,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -20599,9 +20604,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -20681,7 +20686,7 @@
       "Name": "Learn to Play 1",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -20969,7 +20974,7 @@
       "Name": "Babylonian Paganism",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -20993,7 +20998,7 @@
       "Name": "Greek Paganism",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -21079,9 +21084,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -21167,9 +21172,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -21191,9 +21196,9 @@
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
       "SetID": "9201eeb",
       "Name": "Trade Caravan",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -21311,9 +21316,9 @@
       "ID": "ACHIEVEMENT_VICTORY_NO_UNDO",
       "SetID": "9201eeb",
       "Name": "No Undo",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -22024,21 +22029,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16185,
+      "Progressed": 16189,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16185,
+      "Progressed": 16189,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-07T13:14:25.9750441+00:00",
+  "LastChanged_Achievements": "2024-01-07T14:10:09.9026628+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:04:15.2119567+00:00",
-  "LastUpdate_Achievements": "2024-01-07T13:14:25.9761228+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:59:40.7346058+00:00",
+  "LastUpdate_Achievements": "2024-01-07T14:10:09.9037025+00:00"
 }

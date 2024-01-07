@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~897 |
-| Lost and Found | 8.00% | ~552 |
-| Autodidact | 7.00% | ~9,242 |
+| Malpractice Assurance | 13.00% | ~898 |
+| Lost and Found | 8.00% | ~553 |
+| Autodidact | 7.00% | ~9,243 |
 | This Belongs in a Museum | 6.00% | ~7,922 |
 | Creep and Sleep | 6.00% | ~7,922 |
 | Overdue Notice | 6.00% | ~7,922 |
@@ -23,14 +23,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,602 |
 | FNG | 5.00% | ~6,602 |
 | Bloody Graduation | 5.00% | ~345 |
-| It Rings a Bell | 4.00% | ~5,281 |
-| Not Today! | 4.00% | ~5,281 |
-| It Happens | 4.00% | ~5,281 |
-| Merry Time | 4.00% | ~5,281 |
-| Harvest Festival | 4.00% | ~5,281 |
-| Whale | 4.00% | ~5,281 |
-| A Place to Lay Your Head | 4.00% | ~5,281 |
-| Nope | 4.00% | ~5,281 |
+| It Rings a Bell | 4.00% | ~5,282 |
+| Not Today! | 4.00% | ~5,282 |
+| It Happens | 4.00% | ~5,282 |
+| Merry Time | 4.00% | ~5,282 |
+| Harvest Festival | 4.00% | ~5,282 |
+| Whale | 4.00% | ~5,282 |
+| A Place to Lay Your Head | 4.00% | ~5,282 |
+| Nope | 4.00% | ~5,282 |
 | Friends 'Til the End | 4.00% | ~276 |
 | Resurrection | 3.00% | ~3,961 |
 | Unleash Hell | 3.00% | ~3,961 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,033 (Ranked 91)  
+Progressed: 132,039 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,20 +338,20 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 132,033 | 3 |
+| 2024-01-07 | 132,039 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
-Sum: 21,500 (Ranked 58)  
+Sum: 21,505 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,972 |
 | This game has Diverse Characters | 1,831 |
 | This game has Challenging Combat | 1,672 |
-| This game is Highly Recommended | 1,597 |
+| This game is Highly Recommended | 1,599 |
 | This game has Amazing Characters | 1,525 |
 | This game is Extremely Fun | 1,518 |
-| This game has Unique Visuals | 1,458 |
+| This game has Unique Visuals | 1,461 |
 | This game has Amazing Storytelling | 1,438 |
 | This game has Quickly Understood Controls | 1,406 |
 | This game has a Creative Community | 1,083 |
@@ -704,4 +704,4 @@ Diff (max vs sum): -8
 | 2024-01-04 | 4.68 | - | 7,951 | 21,421 |
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
-| 2024-01-07 | 4.68 | - | 7,972 | 21,500 |
+| 2024-01-07 | 4.68 | - | 7,972 | 21,505 |
