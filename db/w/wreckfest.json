@@ -355,7 +355,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 876,
+  "EOS_Progressed": 877,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
@@ -2235,6 +2235,11 @@
       "Time": "2024-01-07T06:09:07.8509587+00:00",
       "NumProgressed": 876,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T08:09:36.782208+00:00",
+      "NumProgressed": 877,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2247,7 +2252,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "CareerAllChallenges",
@@ -2255,7 +2260,7 @@
       "Name": "Highballer",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "CareerChamp1",
@@ -2263,7 +2268,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "CareerChamp2",
@@ -2325,9 +2330,9 @@
       "ID": "CreditsEarnedA",
       "SetID": "5hd282c",
       "Name": "Cash For Crashes",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 61
+      "UsersEstimate": 53
     },
     {
       "ID": "GetWreckedA",
@@ -2359,7 +2364,7 @@
       "Name": "Dirty Roller",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "PlayerRankB",
@@ -2391,7 +2396,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "WreckOpponentsBus",
@@ -2406,7 +2411,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 876,
+      "Progressed": 877,
       "Completed": 0
     }
   ],
@@ -2414,8 +2419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:08:49.7106509+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:09:36.7822073+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:58:45.5906322+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:08:49.7106831+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:59:50.7489518+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:09:36.7822291+00:00"
 }

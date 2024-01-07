@@ -3,7 +3,7 @@
   "Name": "Verdun",
   "ProductSlug": "verdun",
   "Ranking_Rating": 564,
-  "Ranking_Popularity": 370,
+  "Ranking_Popularity": 371,
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 371,
@@ -1949,9 +1949,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 68813,
+  "EOS_Progressed": 68814,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30844,6 +30844,11 @@
       "Time": "2024-01-07T07:05:09.4840397+00:00",
       "NumProgressed": 68813,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T08:07:02.2292752+00:00",
+      "NumProgressed": 68814,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -30855,7 +30860,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 37847
+      "UsersEstimate": 37848
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -31087,7 +31092,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17891
+      "UsersEstimate": 17892
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -31143,7 +31148,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43352
+      "UsersEstimate": 43353
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -31223,7 +31228,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 53674
+      "UsersEstimate": 53675
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -31326,15 +31331,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 68813,
+      "Progressed": 68814,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-06T13:59:11.9215466+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:05:09.4840394+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:07:02.2292745+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.5305019+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:59:35.7785764+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:05:09.4841967+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:01:06.9280063+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:07:02.2294294+00:00"
 }

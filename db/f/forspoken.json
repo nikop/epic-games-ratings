@@ -619,9 +619,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46637,
+  "EOS_Progressed": 46644,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 806,
+  "EOS_NewPlayers": 809,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17954,6 +17954,11 @@
       "Time": "2024-01-07T06:04:42.973182+00:00",
       "NumProgressed": 46637,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T08:05:25.5878225+00:00",
+      "NumProgressed": 46644,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18013,7 +18018,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5596
+      "UsersEstimate": 5597
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18029,7 +18034,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -18101,7 +18106,7 @@
       "Name": "Awakening",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "CRAFT_ALL",
@@ -18117,7 +18122,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4197
+      "UsersEstimate": 4198
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18125,7 +18130,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2799
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -18181,7 +18186,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2799
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -18229,7 +18234,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "MAGIC_TANTA",
@@ -18293,7 +18298,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -18301,7 +18306,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5130
+      "UsersEstimate": 5131
     },
     {
       "ID": "SPRING_ALL",
@@ -18388,22 +18393,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46637,
+      "Progressed": 46644,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11474,
-      "Completed": 11474
+      "Progressed": 11481,
+      "Completed": 11481
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-07T05:02:53.6852275+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:04:02.4068036+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:05:25.5878222+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:02:48.359243+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:04:02.4068998+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:03:34.9722922+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:05:25.587926+00:00"
 }

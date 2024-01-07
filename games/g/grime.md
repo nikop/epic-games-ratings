@@ -18,7 +18,7 @@ Number of Ratings: 46  (23.09.2022)
 | Sharpened Vessel | 0.80% | ~1,336 |
 | Jawcrab | 0.70% | ~1,169 |
 | Feast | 0.70% | ~1,169 |
-| Scion | 0.60% | ~999 |
+| Scion | 0.60% | ~1,000 |
 | Jawstag | 0.60% | ~1,002 |
 | Watcher | 0.60% | ~1,002 |
 | Shapely | 0.50% | ~835 |
@@ -39,6 +39,7 @@ Number of Ratings: 46  (23.09.2022)
 | Breath | 0.20% | ~334 |
 | Kinship | 0.20% | ~334 |
 | Passage | 0.20% | ~334 |
+| Listen | 0.20% | ~333 |
 | Proportions | 0.20% | ~334 |
 | Spiral Heart | 0.10% | ~161 |
 | Skinmaker | 0.10% | ~167 |
@@ -47,14 +48,13 @@ Number of Ratings: 46  (23.09.2022)
 | Weakness | 0.10% | ~167 |
 | Generous | 0.10% | ~167 |
 | Kin | 0.10% | ~167 |
-| Listen | 0.10% | ~167 |
 | The Nightmare | 0.10% | ~167 |
 | Touch of Otherwhere | 0.10% | ~167 |
 | Enrich | 0.10% | ~167 |
 | Intensify | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166,996 (Ranked 84)  
-Completed: 446 (0.27%) (Ranked 258)  
+Progressed: 167,003 (Ranked 84)  
+Completed: 447 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -292,7 +292,7 @@ Completed: 446 (0.27%) (Ranked 258)
 | 2024-01-04 | 166,498 | 443 |
 | 2024-01-05 | 166,702 | 445 |
 | 2024-01-06 | 166,913 | 446 |
-| 2024-01-07 | 166,996 | 446 |
+| 2024-01-07 | 167,003 | 447 |
 ## Awards
 Max (Unique Visuals): 62  (Ranked 427)  
 Sum: 444 (Ranked 343)  

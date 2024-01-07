@@ -3403,9 +3403,9 @@
       "Count": 197
     }
   ],
-  "EOS_Progressed": 739297,
+  "EOS_Progressed": 739302,
   "EOS_Completed": 780,
-  "EOS_NewPlayers": 1047,
+  "EOS_NewPlayers": 1050,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -32983,6 +32983,11 @@
       "Time": "2024-01-07T07:10:05.5230018+00:00",
       "NumProgressed": 739297,
       "NumCompleted": 780
+    },
+    {
+      "Time": "2024-01-07T08:11:22.1811979+00:00",
+      "NumProgressed": 739302,
+      "NumCompleted": 780
     }
   ],
   "TotalAchievements": 98,
@@ -33026,7 +33031,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 221789
+      "UsersEstimate": 221791
     },
     {
       "ID": "BallShooter",
@@ -33034,7 +33039,7 @@
       "Name": "DLC: Green Bird",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "BasementRobbery",
@@ -33042,7 +33047,7 @@
       "Name": "DLC: Basement Robbery",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Beam",
@@ -33082,7 +33087,7 @@
       "Name": "Buckle",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 133073
+      "UsersEstimate": 133074
     },
     {
       "ID": "Burglar1",
@@ -33090,7 +33095,7 @@
       "Name": "DLC: Rooftop Chase",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Burglar2",
@@ -33098,7 +33103,7 @@
       "Name": "DLC: Home Invasion",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Burglar3",
@@ -33106,7 +33111,7 @@
       "Name": "DLC: The palace job",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Burglar4",
@@ -33138,7 +33143,7 @@
       "Name": "DLC: Crashed again",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Crash3",
@@ -33146,7 +33151,7 @@
       "Name": "DLC: Crashed again (again)",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Crash4",
@@ -33154,7 +33159,7 @@
       "Name": "DLC: Crashed for the final time!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Crash5",
@@ -33194,7 +33199,7 @@
       "Name": "DLC: Discovering the Globe",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "DoubleHealth",
@@ -33202,7 +33207,7 @@
       "Name": "Double Health",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 140466
+      "UsersEstimate": 140467
     },
     {
       "ID": "Doublejump",
@@ -33210,7 +33215,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 354863
+      "UsersEstimate": 354865
     },
     {
       "ID": "FireFlies",
@@ -33226,7 +33231,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 288326
+      "UsersEstimate": 288328
     },
     {
       "ID": "FliesBeam",
@@ -33242,7 +33247,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 391827
+      "UsersEstimate": 391830
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -33250,7 +33255,7 @@
       "Name": "Force Cube Catapult",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 184824
+      "UsersEstimate": 184826
     },
     {
       "ID": "Freed_from_Prison",
@@ -33258,7 +33263,7 @@
       "Name": "Freed from prison",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 162645
+      "UsersEstimate": 162646
     },
     {
       "ID": "GiantWorkshop",
@@ -33314,7 +33319,7 @@
       "Name": "Green Keycard",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 133073
+      "UsersEstimate": 133074
     },
     {
       "ID": "GreenMoonDoor",
@@ -33354,7 +33359,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 406613
+      "UsersEstimate": 406616
     },
     {
       "ID": "Healthregen",
@@ -33362,7 +33367,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 347470
+      "UsersEstimate": 347472
     },
     {
       "ID": "HelpedAStar",
@@ -33378,7 +33383,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 310505
+      "UsersEstimate": 310507
     },
     {
       "ID": "Holy_Sword",
@@ -33386,7 +33391,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 170038
+      "UsersEstimate": 170039
     },
     {
       "ID": "Horticultural",
@@ -33434,7 +33439,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 273540
+      "UsersEstimate": 273542
     },
     {
       "ID": "MacGuffin",
@@ -33442,7 +33447,7 @@
       "Name": "MacGuffin",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 280933
+      "UsersEstimate": 280935
     },
     {
       "ID": "Magic",
@@ -33474,7 +33479,7 @@
       "Name": "DLC: Monster Maker",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Nine",
@@ -33498,7 +33503,7 @@
       "Name": "DLC: Obvious Area",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Out_of_bed",
@@ -33506,7 +33511,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 731904
+      "UsersEstimate": 731909
     },
     {
       "ID": "PanicLights",
@@ -33530,7 +33535,7 @@
       "Name": "DLC: Race the First",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Race2",
@@ -33538,7 +33543,7 @@
       "Name": "DLC: No-ball Winner",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Race3",
@@ -33546,7 +33551,7 @@
       "Name": "DLC: Race the Gauntlet",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Race4",
@@ -33578,7 +33583,7 @@
       "Name": "That\u0027s how electronics work obviously",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 199610
+      "UsersEstimate": 199612
     },
     {
       "ID": "RedstonePickaxe",
@@ -33610,7 +33615,7 @@
       "Name": "DLC: Finding Sideburg",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Smash_Down",
@@ -33618,7 +33623,7 @@
       "Name": "Stomp",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 155252
+      "UsersEstimate": 155253
     },
     {
       "ID": "Speedx2",
@@ -33626,7 +33631,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 487936
+      "UsersEstimate": 487939
     },
     {
       "ID": "Strong",
@@ -33658,7 +33663,7 @@
       "Name": "Telefrag",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 170038
+      "UsersEstimate": 170039
     },
     {
       "ID": "The_Blues",
@@ -33666,7 +33671,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 628402
+      "UsersEstimate": 628407
     },
     {
       "ID": "ThroughPipe",
@@ -33706,7 +33711,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 317898
+      "UsersEstimate": 317900
     },
     {
       "ID": "True_Holy_Spirit",
@@ -33714,7 +33719,7 @@
       "Name": "True holy spirit",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 207003
+      "UsersEstimate": 207005
     },
     {
       "ID": "Waldoh",
@@ -33738,7 +33743,7 @@
       "Name": "DLC: Welcome to Orangeburg",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "WrinkleInSpacetime",
@@ -33746,7 +33751,7 @@
       "Name": "DLC: A Wrinkle in Spacetime",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "YellowShot",
@@ -33777,15 +33782,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 739297,
+      "Progressed": 739302,
       "Completed": 780
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-07T04:00:35.4261404+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:10:05.5230016+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:11:22.1811975+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:15.8548171+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:58:10.4335999+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:10:05.5231942+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:58:57.0062496+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:11:22.1813917+00:00"
 }

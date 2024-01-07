@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4048,
+  "EOS_Progressed": 4049,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8095,6 +8095,11 @@
       "Time": "2024-01-07T07:04:08.5725953+00:00",
       "NumProgressed": 4048,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T08:05:34.266965+00:00",
+      "NumProgressed": 4049,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8106,7 +8111,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ACH_BASE_10",
@@ -8561,13 +8566,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2232,
+      "Progressed": 2233,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4048,
+      "Progressed": 4049,
       "Completed": 0
     }
   ],
@@ -8575,8 +8580,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-04T06:58:36.3655707+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:04:08.5725951+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:05:34.2669644+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:59:46.2779466+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:04:08.5726597+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:01:22.7160743+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:05:34.2670958+00:00"
 }

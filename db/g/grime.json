@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1837,10 +1837,10 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166996,
-  "EOS_Completed": 446,
-  "EOS_NewPlayers": 1352,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 167003,
+  "EOS_Completed": 447,
+  "EOS_NewPlayers": 1351,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -22152,6 +22152,11 @@
       "Time": "2024-01-07T07:08:18.1636314+00:00",
       "NumProgressed": 166996,
       "NumCompleted": 446
+    },
+    {
+      "Time": "2024-01-07T08:08:51.8483105+00:00",
+      "NumProgressed": 167003,
+      "NumCompleted": 447
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22268,7 +22273,7 @@
       "Name": "Scion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -22482,9 +22487,9 @@
       "ID": "QUEST_LISTENER",
       "SetID": "72k7oh",
       "Name": "Listen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 333
     },
     {
       "ID": "QUEST_YON",
@@ -22531,21 +22536,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166579,
+      "Progressed": 166586,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166996,
-      "Completed": 446
+      "Progressed": 167003,
+      "Completed": 447
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-06T15:57:18.5501396+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:08:18.1636312+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:08:51.8483098+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:57:36.8786826+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:08:18.1637705+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:58:06.657655+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:08:51.8484548+00:00"
 }

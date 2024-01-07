@@ -4,7 +4,7 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7088,
+  "EOS_Progressed": 7089,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 2,
@@ -7479,6 +7479,11 @@
       "Time": "2024-01-07T07:05:34.045901+00:00",
       "NumProgressed": 7088,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-07T08:07:37.4403173+00:00",
+      "NumProgressed": 7089,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -7539,7 +7544,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -7547,7 +7552,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5670
+      "UsersEstimate": 5671
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -7618,14 +7623,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 7088,
+      "Progressed": 7089,
       "Completed": 63
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:05:34.0459006+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:07:37.4403168+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:18.8161236+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:57:15.185615+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:05:34.0459544+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:57:33.0615345+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:07:37.4403513+00:00"
 }

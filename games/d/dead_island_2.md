@@ -5,41 +5,41 @@ Rating: 4.54 (Ranked 549)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 9.00% | ~71,375 |
-| Hotel California | 8.00% | ~63,445 |
-| Break A Leg | 7.00% | ~55,514 |
-| Coup de Grâce | 7.00% | ~55,514 |
-| Git Gutte! | 6.00% | ~47,583 |
-| Hazardous Materials | 6.00% | ~47,583 |
-| Personal Assistant Personally Assisted | 6.00% | ~47,583 |
-| Dr. Reed, I Presume? | 5.00% | ~39,653 |
-| Bookworm | 5.00% | ~39,653 |
-| Friends Like These | 5.00% | ~39,653 |
-| Apex Predator | 5.00% | ~39,653 |
-| Anger Management | 4.00% | ~31,722 |
-| I Got a Zombie Army and You Can't Harm Me | 4.00% | ~31,722 |
-| But Doctor, I am Butcho | 4.00% | ~31,722 |
-| Slayer Squad | 4.00% | ~31,722 |
-| Can't Handle the Truth | 4.00% | ~31,722 |
-| Stacking the Deck | 4.00% | ~31,722 |
-| This is My Weapon | 4.00% | ~31,722 |
-| Whatever It Takes | 4.00% | ~4,744 |
-| Pork Chopped | 4.00% | ~4,744 |
-| Making Your Mark | 3.00% | ~23,792 |
-| Perks of the Job | 3.00% | ~23,792 |
-| Like Riding a Bike | 3.00% | ~23,792 |
-| Zombologist | 3.00% | ~23,792 |
-| Ooh, Shiny! | 3.00% | ~23,792 |
-| A Patton Emerges | 3.00% | ~23,792 |
-| I Am the Resurrection | 3.00% | ~23,792 |
-| Our True Nature | 3.00% | ~23,792 |
-| One of Us | 3.00% | ~3,558 |
-| Jumbo Keyring | 2.00% | ~15,861 |
-| Humanity Distilled | 2.00% | ~15,861 |
-| Down with the Sickness | 2.00% | ~15,861 |
-| Max Headroom | 2.00% | ~15,861 |
-| Go, Bobcats! | 2.00% | ~15,861 |
-| Rising Star | 2.00% | ~15,861 |
+| Welcome To Hell-A | 9.00% | ~71,381 |
+| Hotel California | 8.00% | ~63,450 |
+| Break A Leg | 7.00% | ~55,518 |
+| Coup de Grâce | 7.00% | ~55,518 |
+| Git Gutte! | 6.00% | ~47,587 |
+| Hazardous Materials | 6.00% | ~47,587 |
+| Personal Assistant Personally Assisted | 6.00% | ~47,587 |
+| Dr. Reed, I Presume? | 5.00% | ~39,656 |
+| Bookworm | 5.00% | ~39,656 |
+| Friends Like These | 5.00% | ~39,656 |
+| Apex Predator | 5.00% | ~39,656 |
+| Anger Management | 4.00% | ~31,725 |
+| I Got a Zombie Army and You Can't Harm Me | 4.00% | ~31,725 |
+| But Doctor, I am Butcho | 4.00% | ~31,725 |
+| Slayer Squad | 4.00% | ~31,725 |
+| Can't Handle the Truth | 4.00% | ~31,725 |
+| Stacking the Deck | 4.00% | ~31,725 |
+| This is My Weapon | 4.00% | ~31,725 |
+| Whatever It Takes | 4.00% | ~4,747 |
+| Pork Chopped | 4.00% | ~4,747 |
+| Making Your Mark | 3.00% | ~23,794 |
+| Perks of the Job | 3.00% | ~23,794 |
+| Like Riding a Bike | 3.00% | ~23,794 |
+| Zombologist | 3.00% | ~23,794 |
+| Ooh, Shiny! | 3.00% | ~23,794 |
+| A Patton Emerges | 3.00% | ~23,794 |
+| I Am the Resurrection | 3.00% | ~23,794 |
+| Our True Nature | 3.00% | ~23,794 |
+| One of Us | 3.00% | ~3,560 |
+| Jumbo Keyring | 2.00% | ~15,862 |
+| Humanity Distilled | 2.00% | ~15,862 |
+| Down with the Sickness | 2.00% | ~15,862 |
+| Max Headroom | 2.00% | ~15,862 |
+| Go, Bobcats! | 2.00% | ~15,862 |
+| Rising Star | 2.00% | ~15,862 |
 | Make it So | 1.00% | ~7,931 |
 | On Safari | 1.00% | ~7,931 |
 | Smorgasbord | 1.00% | ~7,931 |
@@ -48,8 +48,8 @@ Rating: 4.54 (Ranked 549)
 | Variety is the Spice of Death | 1.00% | ~7,931 |
 | LA Influential | 0.90% | ~7,138 |
 | Gore Horse | 0.90% | ~7,138 |
-| Sole Survivor | 0.70% | ~5,551 |
-| Sharpest Tool in the Box | 0.70% | ~5,551 |
+| Sole Survivor | 0.70% | ~5,552 |
+| Sharpest Tool in the Box | 0.70% | ~5,552 |
 | Top That, Tisha! | 0.50% | ~593 |
 | Survival Skills | 0.40% | ~3,172 |
 | Donk! | 0.30% | ~2,379 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 549)
 | Bucket List | 0.10% | ~793 |
 | Wilhelm | 0.10% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 793,057 (Ranked 21)  
+Progressed: 793,121 (Ranked 21)  
 Completed: 2,555 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 2,555 (0.32%) (Ranked 248)
 | 2024-01-04 | 787,600 | 2,542 |
 | 2024-01-05 | 789,787 | 2,549 |
 | 2024-01-06 | 792,324 | 2,554 |
-| 2024-01-07 | 793,057 | 2,555 |
+| 2024-01-07 | 793,121 | 2,555 |
 ## Awards
 Max (Great Boss Battles): 9,852  (Ranked 41)  
 Sum: 15,016 (Ranked 74)  

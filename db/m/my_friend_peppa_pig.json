@@ -4,7 +4,7 @@
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
@@ -292,8 +292,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:09:34.9077304+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:10:40.262262+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.8966651+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:57:25.9700933+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:09:34.9077371+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:57:49.3443377+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:10:40.2622699+00:00"
 }

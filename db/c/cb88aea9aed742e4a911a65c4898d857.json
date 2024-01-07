@@ -3,8 +3,8 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 259,
-  "Ranking_Popularity": 371,
-  "Ranking_PopularitySum": 466,
+  "Ranking_Popularity": 364,
+  "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 91,
@@ -273,23 +273,29 @@
       "Rating": 4.68,
       "NumberOfAwards": 104,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2024-01-07T07:57:26.3541055+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 110,
+      "NumberOfAwardsMax": 110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 104,
-  "NumberOfAwardsMax": 104,
+  "NumberOfAwards": 110,
+  "NumberOfAwardsMax": 110,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 104
+      "Count": 110
     }
   ],
-  "EOS_Progressed": 10513,
+  "EOS_Progressed": 10516,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1477,
+  "EOS_NewPlayers": 1474,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3957,6 +3963,11 @@
       "Time": "2024-01-07T07:09:54.449941+00:00",
       "NumProgressed": 10513,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T08:11:07.6084407+00:00",
+      "NumProgressed": 10516,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3977,7 +3988,7 @@
       "Name": "Stolen Star",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4097,7 +4108,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4321,7 +4332,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "47_AFlame",
@@ -4488,16 +4499,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10513,
+      "Progressed": 10516,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-06T07:02:56.4873883+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:09:54.4499408+00:00",
+  "LastChanged": "2024-01-07T07:57:26.3541054+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:11:07.6084404+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:57:10.316062+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:09:54.4499926+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:57:26.3541058+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:11:07.6085009+00:00"
 }

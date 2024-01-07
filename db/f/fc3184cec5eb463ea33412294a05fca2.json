@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 351,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.29,
+  "EOS_Completed_Percentage": 8.26,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1549,6 +1549,11 @@
       "Time": "2024-01-06T15:06:11.7608433+00:00",
       "NumProgressed": 350,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-07T08:08:47.3483604+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 16,
@@ -1560,7 +1565,7 @@
       "Name": "Three is company",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1576,7 +1581,7 @@
       "Name": "Cruise ship",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1592,7 +1597,7 @@
       "Name": "That\u0027s all, ducks!",
       "Percentage": 19,
       "XP": 160,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -1600,7 +1605,7 @@
       "Name": "High-rise",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1670,9 +1675,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 60,
-      "UsersEstimate": 130
+      "UsersEstimate": 126
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1687,14 +1692,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:08:15.039868+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:08:47.34836+00:00",
   "LastUpdate_AppInfo": "2024-01-07T05:57:03.4341753+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:59:43.7194386+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:08:15.039887+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:01:19.2076468+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:08:47.3483741+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~478 |
+| Adept | 46.00% | ~479 |
 | Double Kill | 40.00% | ~416 |
 | Critical Hit | 23.00% | ~239 |
 | Veteran | 22.00% | ~229 |
@@ -21,14 +21,14 @@ Number of Ratings: 292  (23.09.2022)
 | Don't Touch My Stuff | 6.00% | ~62 |
 | The Song of Stoutheart | 5.00% | ~52 |
 | Trojan Horse | 5.00% | ~52 |
-| Ultra Kill | 3.00% | ~31 |
 | Expert Essence Employment | 3.00% | ~31 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~31 |
 | This Spot's Taken | 2.00% | ~21 |
 | Deepstrike | 2.00% | ~21 |
 | Infernal Influence | 2.00% | ~21 |
 | From the Ashes | 2.00% | ~21 |
+| Ultra Kill | 2.00% | ~21 |
 | Pyrrhic Victory | 2.00% | ~21 |
+| Venisti, Vidisti, Perdidisti | 2.00% | ~21 |
 | Versatile Wielder | 1.00% | ~10 |
 | In The Thick of It | 1.00% | ~10 |
 | Together For Her | 1.00% | ~10 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,039 (Ranked 289)  
+Progressed: 1,041 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 978 | 0 |
 | 2024-01-05 | 1,000 | 0 |
 | 2024-01-06 | 1,034 | 0 |
-| 2024-01-07 | 1,039 | 0 |
+| 2024-01-07 | 1,041 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 527)  
 Sum: 251 (Ranked 398)  

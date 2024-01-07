@@ -214,6 +214,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Bronze Crown | 0.10% | ~16 |
 | Philip's Golden Crown | 0.10% | ~16 |
 | Philip's Silver Crown | 0.10% | ~16 |
+| The Eastern Empire | 0.10% | ~16 |
 | Mausoleum in Halicarnassus | 0.10% | ~16 |
 | Hardcore | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
@@ -324,7 +325,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Youth Prevails | 0.00% | ~0 |
 | Toppling the Giants | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
-| The Eastern Empire | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |

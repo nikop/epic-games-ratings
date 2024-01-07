@@ -9,19 +9,19 @@
 | Welcome to the Club | 10.00% | ~15 |
 | A new World ahead | 9.00% | ~14 |
 | Don't Cry Wolf | 8.00% | ~12 |
+| Craftsmen | 5.00% | ~8 |
 | Apprentice | 5.00% | ~8 |
-| Craftsmen | 4.00% | ~6 |
 | Defeat Tezuth | 3.00% | ~5 |
 | Freezing Cold | 3.00% | ~5 |
 | Locked and Loaded | 3.00% | ~5 |
+| The A-Team | 3.00% | ~5 |
 | Expert | 3.00% | ~5 |
 | Searing Heat | 2.00% | ~3 |
 | Witch | 2.00% | ~3 |
-| The A-Team | 2.00% | ~3 |
+| Can't touch this | 2.00% | ~3 |
 | The Golden Flash | 2.00% | ~3 |
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
 | Defeat Ingla | 1.00% | ~2 |
-| Can't touch this | 1.00% | ~2 |
 | But what of the Acreans? | 1.00% | ~2 |
 | A Deceiving Gift | 1.00% | ~2 |
 | The Power of the Mountains | 1.00% | ~2 |

@@ -4,7 +4,7 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "Collect_50000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Collector",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Complete_Bestiary_100",
@@ -338,9 +338,9 @@
       "ID": "Complete_Bestiary_50",
       "SetID": "4f0g260",
       "Name": "Beast Hunter",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Complete_Bestiary_80",
@@ -370,9 +370,9 @@
       "ID": "Defeat_Gemini",
       "SetID": "4f0g260",
       "Name": "Twin slayer!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Defeat_Medusa",
@@ -442,9 +442,9 @@
       "ID": "Unlock_Bram",
       "SetID": "4f0g260",
       "Name": "Mercenary!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Unlock_Zeek",
@@ -467,8 +467,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:05:14.5613414+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:07:09.3820976+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:20.5218599+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:58:18.7654531+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:05:14.5613583+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:59:09.1072368+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:07:09.3821173+00:00"
 }

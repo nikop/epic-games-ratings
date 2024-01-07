@@ -26,8 +26,8 @@ Number of Ratings: 116  (23.09.2022)
 | Unshakable Fortitude | 34.00% | ~161 |
 | Delusions of Grandeur | 33.00% | ~156 |
 | I Wanna Rock | 32.00% | ~152 |
+| Maximum Vigor | 31.00% | ~147 |
 | Love Tap | 31.00% | ~147 |
-| Maximum Vigor | 30.00% | ~142 |
 | For Whom the Bell Tolls | 28.00% | ~133 |
 | Freeze Frame | 27.00% | ~128 |
 | Eat Your Heart Out | 27.00% | ~128 |

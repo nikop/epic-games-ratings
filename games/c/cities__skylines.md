@@ -6,50 +6,50 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~890,956 |
-| Green Energy | 59.00% | ~740,372 |
-| Foggy Weather | 58.00% | ~727,823 |
-| Singing In The- | 58.00% | ~727,823 |
-| Unpopular Mayor | 40.00% | ~501,947 |
-| Power at Your Fingertips | 33.00% | ~414,106 |
-| City Planner | 22.00% | ~276,071 |
-| Rolling in Dough | 20.00% | ~250,974 |
-| Does My Bum Look Big In This? | 17.00% | ~213,328 |
-| Climbing the Social Ladder | 16.00% | ~200,779 |
-| Safe City | 13.00% | ~163,133 |
-| Quay-King | 11.00% | ~138,035 |
-| With Canals You Can! | 10.00% | ~125,487 |
-| Lawmaker | 9.00% | ~112,938 |
-| Nomen Est Omen | 7.00% | ~87,841 |
-| Well Informed | 6.00% | ~75,292 |
-| Fire Watch | 5.00% | ~62,743 |
-| Greenest City | 4.00% | ~50,195 |
-| Heavenly City | 3.00% | ~37,646 |
-| Reporting! | 3.00% | ~37,646 |
-| SIMulated City | 3.00% | ~37,646 |
-| The Safest Town | 3.00% | ~37,646 |
-| Professional Dumper | 2.00% | ~25,097 |
+| Pioneer | 71.00% | ~890,995 |
+| Green Energy | 59.00% | ~740,405 |
+| Foggy Weather | 58.00% | ~727,855 |
+| Singing In The- | 58.00% | ~727,855 |
+| Unpopular Mayor | 40.00% | ~501,969 |
+| Power at Your Fingertips | 33.00% | ~414,125 |
+| City Planner | 22.00% | ~276,083 |
+| Rolling in Dough | 20.00% | ~250,985 |
+| Does My Bum Look Big In This? | 17.00% | ~213,337 |
+| Climbing the Social Ladder | 16.00% | ~200,788 |
+| Safe City | 13.00% | ~163,140 |
+| Quay-King | 11.00% | ~138,042 |
+| With Canals You Can! | 10.00% | ~125,492 |
+| Lawmaker | 9.00% | ~112,943 |
+| Nomen Est Omen | 7.00% | ~87,845 |
+| Well Informed | 6.00% | ~75,295 |
+| Fire Watch | 5.00% | ~62,746 |
+| Greenest City | 4.00% | ~50,197 |
+| Heavenly City | 3.00% | ~37,648 |
+| Reporting! | 3.00% | ~37,648 |
+| SIMulated City | 3.00% | ~37,648 |
+| The Safest Town | 3.00% | ~37,648 |
+| Professional Dumper | 2.00% | ~25,098 |
 | City in Motion | 1.00% | ~12,549 |
 | Earthloving City | 1.00% | ~12,549 |
 | Metropolis | 1.00% | ~12,549 |
 | Higher Education | 0.80% | ~10,039 |
 | Beam Me Up | 0.70% | ~8,784 |
-| Terraformer | 0.60% | ~7,529 |
-| Decorator | 0.50% | ~6,274 |
-| Full Capacity | 0.50% | ~6,274 |
-| It's heading right for us! | 0.50% | ~6,274 |
-| Shake It Up! | 0.50% | ~6,274 |
-| The Waters of Our Lives | 0.50% | ~6,274 |
-| Twist and shout | 0.50% | ~6,274 |
-| Airfield Expertise | 0.40% | ~5,019 |
-| Drop the Base | 0.40% | ~5,019 |
-| Get Your Snowshoes Ready! | 0.40% | ~5,019 |
-| Happy Town | 0.40% | ~5,019 |
-| I Want It All | 0.40% | ~5,019 |
-| Just Tolling | 0.40% | ~5,019 |
-| Postman | 0.40% | ~5,019 |
-| Speed up! | 0.40% | ~5,019 |
-| Thunder and Lightning | 0.40% | ~5,019 |
+| Terraformer | 0.60% | ~7,530 |
+| Decorator | 0.50% | ~6,275 |
+| Full Capacity | 0.50% | ~6,275 |
+| It's heading right for us! | 0.50% | ~6,275 |
+| Shake It Up! | 0.50% | ~6,275 |
+| The Waters of Our Lives | 0.50% | ~6,275 |
+| Twist and shout | 0.50% | ~6,275 |
+| Airfield Expertise | 0.40% | ~5,020 |
+| Drop the Base | 0.40% | ~5,020 |
+| Get Your Snowshoes Ready! | 0.40% | ~5,020 |
+| Happy Town | 0.40% | ~5,020 |
+| I Want It All | 0.40% | ~5,020 |
+| Just Tolling | 0.40% | ~5,020 |
+| Postman | 0.40% | ~5,020 |
+| Speed up! | 0.40% | ~5,020 |
+| Thunder and Lightning | 0.40% | ~5,020 |
 | A Huge Hadron | 0.30% | ~3,765 |
 | Airlifter | 0.30% | ~3,765 |
 | Airport Architect | 0.30% | ~3,765 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,255 |
 | Z00 | 0.10% | ~1,255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,254,868 (Ranked 12)  
+Progressed: 1,254,923 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 11 (0.00%) (Ranked 393)
 | 2024-01-04 | 1,251,420 | 11 |
 | 2024-01-05 | 1,252,800 | 11 |
 | 2024-01-06 | 1,254,483 | 11 |
-| 2024-01-07 | 1,254,868 | 11 |
+| 2024-01-07 | 1,254,923 | 11 |
 ## Awards
 Max (Great for Beginners): 6,662  (Ranked 60)  
 Sum: 48,971 (Ranked 32)  

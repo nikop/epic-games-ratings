@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -735,9 +735,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6999,
+  "EOS_Progressed": 7004,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10635,6 +10635,11 @@
       "Time": "2024-01-07T07:04:25.6349715+00:00",
       "NumProgressed": 6999,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T08:05:58.8250098+00:00",
+      "NumProgressed": 7004,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10758,7 +10763,7 @@
       "Name": "Realm Estate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "23",
@@ -10766,7 +10771,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "24",
@@ -10774,15 +10779,15 @@
       "Name": "Secret Technique",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 911
     },
     {
       "ID": "26",
@@ -11125,13 +11130,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6999,
+      "Progressed": 7004,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6999,
+      "Progressed": 7004,
       "Completed": 7
     }
   ],
@@ -11139,8 +11144,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:04:25.6349713+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:05:58.8250092+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:02:42.1305208+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:04:25.6350423+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:03:24.6428038+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:05:58.8251138+00:00"
 }

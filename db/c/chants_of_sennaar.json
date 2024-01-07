@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2502,
+  "EOS_Progressed": 2503,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 43,
@@ -6622,6 +6622,11 @@
       "Time": "2024-01-07T07:05:23.2836908+00:00",
       "NumProgressed": 2502,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2024-01-07T08:07:22.1443386+00:00",
+      "NumProgressed": 2503,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 25,
@@ -6641,7 +6646,7 @@
       "Name": "In this together",
       "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "META_ALL_LINK",
@@ -6681,7 +6686,7 @@
       "Name": "Open door",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6689,7 +6694,7 @@
       "Name": "Free at last",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "META_RESULT_1-4",
@@ -6697,7 +6702,7 @@
       "Name": "Feels like springtime",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6729,7 +6734,7 @@
       "Name": "Alchemists Express",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6777,7 +6782,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6793,7 +6798,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "PROGRESS_N2",
@@ -6832,7 +6837,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2502,
+      "Progressed": 2503,
       "Completed": 170
     }
   ],
@@ -6840,8 +6845,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:05:23.2836906+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:07:22.1443382+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:58:02.4950726+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:05:23.2837413+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:58:44.6542193+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:07:22.144389+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -47,11 +47,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 816,
+  "EOS_Progressed": 817,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-09-08T14:06:31.5856386+00:00",
@@ -3027,6 +3027,11 @@
       "Time": "2024-01-07T07:09:05.6857363+00:00",
       "NumProgressed": 816,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T08:09:59.501621+00:00",
+      "NumProgressed": 817,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3039,7 +3044,7 @@
       "Name": "New arm",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3053,9 +3058,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -3093,9 +3098,9 @@
       "ID": "ACHIEVEMENT_17_PromiseSia",
       "SetID": "9bke6f1",
       "Name": "Sia\u0027s Promise",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -3119,7 +3124,7 @@
       "Name": "Shelter Escape",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3167,7 +3172,7 @@
       "Name": "LOVEassistant",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_2_FirstBond",
@@ -3175,15 +3180,15 @@
       "Name": "The First Bond",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3238,7 +3243,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 816,
+      "Progressed": 817,
       "Completed": 2
     }
   ],
@@ -3246,8 +3251,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-06T15:59:59.9482178+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:09:05.6857362+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:09:59.5016206+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-07T07:00:26.7184929+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:09:05.6857735+00:00"
+  "LastUpdate_Ratings": "2024-01-07T08:02:23.1250638+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:09:59.5016597+00:00"
 }

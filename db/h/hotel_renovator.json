@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -275,9 +275,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1415,
+  "EOS_Progressed": 1416,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
@@ -3485,6 +3485,11 @@
       "Time": "2024-01-07T05:08:46.5908551+00:00",
       "NumProgressed": 1415,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-07T08:09:30.5441781+00:00",
+      "NumProgressed": 1416,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3496,7 +3501,7 @@
       "Name": "Humble beginnings",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -3544,7 +3549,7 @@
       "Name": "Love is in the air",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -3552,7 +3557,7 @@
       "Name": "Broken heart",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -3574,17 +3579,17 @@
       "ID": "ACH_GOLDEN_EGGS_ALL",
       "SetID": "7k95e4n",
       "Name": "Aesop\u0027s fable",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
       "SetID": "7k95e4n",
       "Name": "Memento",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 849
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3592,7 +3597,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -3600,7 +3605,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3632,7 +3637,7 @@
       "Name": "Let there be light",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -3648,7 +3653,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "ACH_STAR_2",
@@ -3696,7 +3701,7 @@
       "Name": "Excellent service",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -3711,7 +3716,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1415,
+      "Progressed": 1416,
       "Completed": 18
     }
   ],
@@ -3719,8 +3724,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-04T23:57:57.0756237+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:08:45.405961+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:09:30.5441777+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:29.8455072+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:58:40.125472+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:08:45.4059977+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:59:42.1831252+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:09:30.5442124+00:00"
 }

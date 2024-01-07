@@ -5,25 +5,25 @@ Rating: 4.13 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 62.00% | ~1,211 |
-| Trinity | 30.00% | ~586 |
-| The Collector | 24.00% | ~469 |
-| Find Allies | 23.00% | ~449 |
-| A Taste of Wrath | 23.00% | ~449 |
-| I Found It | 23.00% | ~449 |
-| Shatter Them All | 22.00% | ~430 |
-| Geared Up | 22.00% | ~430 |
-| Adventurer | 21.00% | ~410 |
-| Fashion Victim | 21.00% | ~410 |
-| Scholar | 21.00% | ~410 |
-| Tributes of Caladrias | 19.00% | ~371 |
-| Stone Collection | 19.00% | ~371 |
+| Break Out | 62.00% | ~1,214 |
+| Trinity | 30.00% | ~587 |
+| The Collector | 24.00% | ~470 |
+| Find Allies | 23.00% | ~450 |
+| A Taste of Wrath | 23.00% | ~450 |
+| I Found It | 23.00% | ~450 |
+| Shatter Them All | 22.00% | ~431 |
+| Geared Up | 22.00% | ~431 |
+| Adventurer | 21.00% | ~411 |
+| Fashion Victim | 21.00% | ~411 |
+| Scholar | 21.00% | ~411 |
+| Tributes of Caladrias | 19.00% | ~372 |
+| Stone Collection | 19.00% | ~372 |
 | Powerful Allies | 18.00% | ~352 |
-| Big Bazar | 13.00% | ~254 |
-| Essence Blow | 12.00% | ~234 |
-| Alchemist | 12.00% | ~234 |
-| The Mentor | 10.00% | ~195 |
-| Calm before the Storm | 8.00% | ~156 |
+| Big Bazar | 13.00% | ~255 |
+| Essence Blow | 12.00% | ~235 |
+| Alchemist | 12.00% | ~235 |
+| The Mentor | 10.00% | ~196 |
+| Calm before the Storm | 8.00% | ~157 |
 | To Battle | 7.00% | ~137 |
 | Godslayer | 7.00% | ~137 |
 | Airborne | 7.00% | ~137 |
@@ -42,7 +42,7 @@ Rating: 4.13 (Ranked 1,008)
 | All That Gold | 0.70% | ~14 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,954 (Ranked 249)  
+Progressed: 1,958 (Ranked 249)  
 Completed: 3 (0.15%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 3 (0.15%) (Ranked 285)
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
 | 2024-01-06 | 1,936 | 3 |
-| 2024-01-07 | 1,954 | 3 |
+| 2024-01-07 | 1,958 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

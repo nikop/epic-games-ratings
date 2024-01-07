@@ -309,9 +309,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 118885,
+  "EOS_Progressed": 118941,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6394,
+  "EOS_NewPlayers": 6407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3669,6 +3669,11 @@
       "Time": "2024-01-07T07:03:23.3868288+00:00",
       "NumProgressed": 118885,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T08:04:29.6812376+00:00",
+      "NumProgressed": 118941,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -3681,7 +3686,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -3705,7 +3710,7 @@
       "Name": "Battle Hardened",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "ACH_CAUTIOUS_VETERAN",
@@ -3745,7 +3750,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11888
+      "UsersEstimate": 11894
     },
     {
       "ID": "ACH_GROWNUP",
@@ -3753,7 +3758,7 @@
       "Name": "All Grown Up!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 21399
+      "UsersEstimate": 21409
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -3777,7 +3782,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16644
+      "UsersEstimate": 16652
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -3801,7 +3806,7 @@
       "Name": "Master of Disguise",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "ACH_MAYHEM",
@@ -3809,7 +3814,7 @@
       "Name": "It\u0027s Mayhem!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "ACH_NINJA_REFLEX",
@@ -3817,7 +3822,7 @@
       "Name": "Ninja Reflex",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "ACH_ONLINE",
@@ -3825,7 +3830,7 @@
       "Name": "This is GigaBash!",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_PIPIJURAS_STORY",
@@ -3833,7 +3838,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9511
+      "UsersEstimate": 9515
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -3841,7 +3846,7 @@
       "Name": "Right back at\u0027cha",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "ACH_SEASONED_FIGHTER",
@@ -3849,7 +3854,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9511
+      "UsersEstimate": 9515
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -3865,7 +3870,7 @@
       "Name": "Sidetracked...",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_STORY_APEX",
@@ -3889,7 +3894,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -3897,7 +3902,7 @@
       "Name": "Taste Your Own Medicine",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH_THUNDATROSS_STORY",
@@ -3905,7 +3910,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5944
+      "UsersEstimate": 5947
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -3945,7 +3950,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7133
+      "UsersEstimate": 7136
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -3960,7 +3965,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 118885,
+      "Progressed": 118941,
       "Completed": 0
     }
   ],
@@ -3968,8 +3973,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-06T10:58:39.0922646+00:00",
-  "LastChanged_Achievements": "2024-01-07T07:03:23.3868286+00:00",
+  "LastChanged_Achievements": "2024-01-07T08:04:29.6812373+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:10.4556568+00:00",
-  "LastUpdate_Ratings": "2024-01-07T06:57:29.8045039+00:00",
-  "LastUpdate_Achievements": "2024-01-07T07:03:23.3868592+00:00"
+  "LastUpdate_Ratings": "2024-01-07T07:57:55.1170136+00:00",
+  "LastUpdate_Achievements": "2024-01-07T08:04:29.6812776+00:00"
 }

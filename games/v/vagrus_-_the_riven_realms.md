@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~165 |
+| A Second Chance | 57.00% | ~166 |
 | Press-ganged | 42.00% | ~122 |
-| The Package | 27.00% | ~78 |
+| The Package | 26.00% | ~76 |
 | Randomized | 18.00% | ~52 |
 | Conquered | 18.00% | ~52 |
 | Scribe | 11.00% | ~32 |
@@ -21,9 +21,9 @@
 | Harbinger | 6.00% | ~17 |
 | Tail-wind | 6.00% | ~17 |
 | Pilgrimage's End | 6.00% | ~17 |
-| Merchant | 6.00% | ~17 |
-| Deputized | 5.00% | ~14 |
-| Courier | 5.00% | ~14 |
+| Deputized | 5.00% | ~15 |
+| Courier | 5.00% | ~15 |
+| Merchant | 5.00% | ~15 |
 | Quartermaster | 4.00% | ~12 |
 | Strategist | 4.00% | ~12 |
 | Been There | 4.00% | ~12 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290 (Ranked 399)  
+Progressed: 291 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 279 | 0 |
 | 2024-01-05 | 283 | 0 |
 | 2024-01-06 | 289 | 0 |
-| 2024-01-07 | 290 | 0 |
+| 2024-01-07 | 291 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

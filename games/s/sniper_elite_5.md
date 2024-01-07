@@ -15,9 +15,9 @@ Rating: 4.46 (Ranked 674)
 | Resourceful | 28.00% | ~1,184 |
 | Target America | 28.00% | ~1,184 |
 | The Kraken Sleeps | 25.00% | ~1,057 |
+| Organ Grinder | 24.00% | ~1,014 |
 | As Quiet as a Mouse | 24.00% | ~1,014 |
 | Liberté | 23.00% | ~972 |
-| Organ Grinder | 23.00% | ~972 |
 | Sharpshooter | 23.00% | ~972 |
 | Gunslinger | 19.00% | ~803 |
 | Explosive Efficiency | 19.00% | ~803 |
