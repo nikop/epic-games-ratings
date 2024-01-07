@@ -1,12 +1,12 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,031)  
+Rating: 4.06 (Ranked 1,032)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,095 |
+| A Brief Tour of the Realms | 4.00% | ~10,096 |
 | The Cursed Farmer | 2.00% | ~5,048 |
 | Beast Intentions | 1.00% | ~2,524 |
 | The Mad Wizard | 1.00% | ~2,524 |
@@ -62,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~505 |
 | The Templar's Camp | 0.20% | ~505 |
 | Rescue in the Jungle | 0.20% | ~505 |
+| The Beginning is the End | 0.20% | ~437 |
 | The Brains of an Illithid's Desire | 0.20% | ~437 |
 | Pros and CONs | 0.10% | ~252 |
 | Upholding the Law | 0.10% | ~252 |
@@ -547,13 +548,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~219 |
 | Spelljammers in Training | 0.10% | ~219 |
 | Time Out | 0.10% | ~219 |
-| The Beginning is the End | 0.10% | ~219 |
 | Tomb of Champions | 0.10% | ~219 |
 | The End is the Beginning | 0.10% | ~219 |
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,387 (Ranked 70)  
+Progressed: 252,407 (Ranked 70)  
 Completed: 2,599 (1.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -815,7 +815,7 @@ Completed: 2,599 (1.03%) (Ranked 172)
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
-| 2024-01-07 | 252,387 | 2,599 |
+| 2024-01-07 | 252,407 | 2,599 |
 ## Awards
 Max (Great for Beginners): 5,756  (Ranked 74)  
 Sum: 33,386 (Ranked 41)  

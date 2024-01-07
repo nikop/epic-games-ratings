@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~86,537 |
-| Struck A Pose | 82.00% | ~85,495 |
-| Look At Him Go | 69.00% | ~71,941 |
-| On Rails Experience | 44.00% | ~45,875 |
-| A Daring Devil | 43.00% | ~44,833 |
-| Break the Bank | 33.00% | ~34,406 |
-| It Took Two | 30.00% | ~31,279 |
-| Bug Sized Relaxation | 14.00% | ~14,597 |
-| Plastic Prison Breakers | 13.00% | ~13,554 |
-| Terror Of The Seven Seas | 10.00% | ~10,426 |
-| Realize Your Art | 8.00% | ~8,341 |
-| Force Triangulated | 8.00% | ~8,341 |
-| Meditation Maestro | 8.00% | ~8,341 |
-| Snackosaurus | 6.00% | ~6,256 |
-| Platforming Prodigy | 6.00% | ~6,256 |
-| Lost And Found | 6.00% | ~6,256 |
-| Something Fishy | 6.00% | ~6,256 |
-| Mood Swing | 4.00% | ~4,170 |
-| Faraway Frequencies | 3.00% | ~3,128 |
-| Minigame Megalomania | 2.00% | ~2,085 |
+| Fried Friendship | 83.00% | ~86,640 |
+| Struck A Pose | 82.00% | ~85,597 |
+| Look At Him Go | 69.00% | ~72,026 |
+| On Rails Experience | 44.00% | ~45,930 |
+| A Daring Devil | 43.00% | ~44,886 |
+| Break the Bank | 33.00% | ~34,447 |
+| It Took Two | 30.00% | ~31,316 |
+| Bug Sized Relaxation | 14.00% | ~14,614 |
+| Plastic Prison Breakers | 13.00% | ~13,570 |
+| Terror Of The Seven Seas | 10.00% | ~10,439 |
+| Realize Your Art | 8.00% | ~8,351 |
+| Force Triangulated | 8.00% | ~8,351 |
+| Meditation Maestro | 8.00% | ~8,351 |
+| Snackosaurus | 6.00% | ~6,263 |
+| Platforming Prodigy | 6.00% | ~6,263 |
+| Lost And Found | 6.00% | ~6,263 |
+| Something Fishy | 6.00% | ~6,263 |
+| Mood Swing | 4.00% | ~4,175 |
+| Faraway Frequencies | 3.00% | ~3,132 |
+| Minigame Megalomania | 2.00% | ~2,088 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104,262 (Ranked 99)  
+Progressed: 104,386 (Ranked 99)  
 Completed: 234 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,4 +139,4 @@ Completed: 234 (0.22%) (Ranked 270)
 | 2024-01-04 | 97,781 | 214 |
 | 2024-01-05 | 99,713 | 217 |
 | 2024-01-06 | 102,380 | 227 |
-| 2024-01-07 | 104,262 | 234 |
+| 2024-01-07 | 104,386 | 234 |

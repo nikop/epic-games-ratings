@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 990,
+  "EOS_Progressed": 991,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 2,
@@ -2755,6 +2755,11 @@
       "Time": "2024-01-07T15:09:29.6499591+00:00",
       "NumProgressed": 990,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-07T16:09:45.5584797+00:00",
+      "NumProgressed": 991,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -2766,7 +2771,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2838,7 +2843,7 @@
       "Name": "Even Tempered",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2854,7 +2859,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "GOOD_KARMA",
@@ -2868,9 +2873,9 @@
       "ID": "INTERROGATION",
       "SetID": "8eejhlh",
       "Name": "Interrogation",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 149
     },
     {
       "ID": "OFFICE_CLERK",
@@ -2878,7 +2883,7 @@
       "Name": "Office Clerk",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -2894,7 +2899,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "SABOTAGE",
@@ -2918,14 +2923,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 990,
+      "Progressed": 991,
       "Completed": 13
     }
   ],
@@ -2933,8 +2938,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:09:29.6499588+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:09:45.5584794+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:59:46.6075081+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:09:29.6499805+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:59:37.6698553+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:09:45.558508+00:00"
 }

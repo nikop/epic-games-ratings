@@ -1,20 +1,20 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.27 (Ranked 900)  
+Rating: 4.27 (Ranked 901)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 69.00% | ~618 |
-| Highballer | 54.00% | ~484 |
-| Regional Juniors Champion | 32.00% | ~287 |
-| Dirty Roller | 32.00% | ~287 |
-| Wheeler Dealer | 25.00% | ~224 |
-| Look Mom, I Can Fly | 23.00% | ~206 |
-| National Amateurs Champion | 17.00% | ~152 |
-| Hating Them Tin Cans | 15.00% | ~134 |
-| Junk Collector | 14.00% | ~125 |
-| Trashing Around | 14.00% | ~125 |
+| Storm Warning | 69.00% | ~621 |
+| Highballer | 54.00% | ~486 |
+| Dirty Roller | 32.00% | ~288 |
+| Regional Juniors Champion | 31.00% | ~279 |
+| Wheeler Dealer | 25.00% | ~225 |
+| Look Mom, I Can Fly | 23.00% | ~207 |
+| National Amateurs Champion | 17.00% | ~153 |
+| Hating Them Tin Cans | 15.00% | ~135 |
+| Junk Collector | 14.00% | ~126 |
+| Trashing Around | 14.00% | ~126 |
 | Challengers Champion | 10.00% | ~90 |
 | Cash For Crashes | 7.00% | ~63 |
 | Pro Internationals Champion | 6.00% | ~54 |
@@ -26,7 +26,7 @@ Rating: 4.27 (Ranked 900)
 | Human Lover | 0.60% | ~5 |
 | Rocketeer | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896 (Ranked 299)  
+Progressed: 900 (Ranked 299)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 781 | 0 |
 | 2024-01-05 | 809 | 0 |
 | 2024-01-06 | 868 | 0 |
-| 2024-01-07 | 896 | 0 |
+| 2024-01-07 | 900 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

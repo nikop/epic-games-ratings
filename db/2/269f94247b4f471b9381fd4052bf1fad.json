@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -348,17 +348,17 @@
       "ID": "ACH_DEEP-POCKETED",
       "SetID": "6lg1p1e",
       "Name": "Deep Pockets",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_EXOTIC-ARSENAL",
       "SetID": "6lg1p1e",
       "Name": "Exotic Arsenal",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FIRST-PAYCHECK",
@@ -492,9 +492,9 @@
       "ID": "ACH_PRIVATE-EYE",
       "SetID": "6lg1p1e",
       "Name": "Private Eye",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_PRO-EXCAVATOR",
@@ -579,8 +579,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:08:54.3225437+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:09:10.7994348+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.3132761+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:57:55.99841+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:08:54.3225673+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:57:45.5398692+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:09:10.799465+00:00"
 }

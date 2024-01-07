@@ -1,57 +1,57 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~317,055 |
-| good drivers have dead flies on the side windows | 32.00% | ~128,428 |
-| keep it tidy | 26.00% | ~104,347 |
-| brail | 26.00% | ~104,347 |
-| car wash | 23.00% | ~92,307 |
-| the artist | 23.00% | ~92,307 |
-| podium | 20.00% | ~80,267 |
-| medium attack | 17.00% | ~68,227 |
-| bicycle race | 6.00% | ~24,080 |
-| grocery-getter | 5.00% | ~20,067 |
-| autopilot | 4.00% | ~16,053 |
-| where is the stage? | 3.00% | ~12,040 |
-| night ride | 3.00% | ~12,040 |
-| snorkel | 3.00% | ~12,040 |
-| food tour: pasta | 3.00% | ~12,040 |
-| perkele | 2.00% | ~8,027 |
-| rwd only | 2.00% | ~8,027 |
-| turbo | 2.00% | ~8,027 |
-| if in doubt, flat out! | 2.00% | ~8,027 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,027 |
-| mittens | 2.00% | ~8,027 |
-| to finish first, first you must finish | 1.00% | ~4,013 |
-| espresso | 1.00% | ~4,013 |
-| in like a lamb, out like a lion | 1.00% | ~4,013 |
-| food tour: pretzel | 1.00% | ~4,013 |
-| monster | 0.90% | ~3,612 |
-| eurobeat | 0.60% | ~2,408 |
-| viking | 0.60% | ~2,408 |
-| oktoberfest | 0.50% | ~2,007 |
-| parallel universe | 0.50% | ~2,007 |
-| group b | 0.50% | ~2,007 |
-| maximum attack | 0.40% | ~1,605 |
-| samir | 0.40% | ~1,605 |
-| parking lot | 0.30% | ~1,204 |
-| master of rally | 0.30% | ~1,204 |
-| antilag | 0.30% | ~1,204 |
-| real roads, real fast | 0.30% | ~1,204 |
+| light attack | 79.00% | ~317,237 |
+| good drivers have dead flies on the side windows | 32.00% | ~128,501 |
+| keep it tidy | 26.00% | ~104,407 |
+| brail | 26.00% | ~104,407 |
+| car wash | 23.00% | ~92,360 |
+| the artist | 23.00% | ~92,360 |
+| podium | 20.00% | ~80,313 |
+| medium attack | 17.00% | ~68,266 |
+| bicycle race | 6.00% | ~24,094 |
+| grocery-getter | 5.00% | ~20,078 |
+| autopilot | 4.00% | ~16,063 |
+| where is the stage? | 3.00% | ~12,047 |
+| night ride | 3.00% | ~12,047 |
+| snorkel | 3.00% | ~12,047 |
+| food tour: pasta | 3.00% | ~12,047 |
+| perkele | 2.00% | ~8,031 |
+| rwd only | 2.00% | ~8,031 |
+| turbo | 2.00% | ~8,031 |
+| if in doubt, flat out! | 2.00% | ~8,031 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,031 |
+| mittens | 2.00% | ~8,031 |
+| to finish first, first you must finish | 1.00% | ~4,016 |
+| espresso | 1.00% | ~4,016 |
+| in like a lamb, out like a lion | 1.00% | ~4,016 |
+| food tour: pretzel | 1.00% | ~4,016 |
+| monster | 0.90% | ~3,614 |
+| eurobeat | 0.60% | ~2,409 |
+| viking | 0.60% | ~2,409 |
+| oktoberfest | 0.50% | ~2,008 |
+| parallel universe | 0.50% | ~2,008 |
+| group b | 0.50% | ~2,008 |
+| maximum attack | 0.40% | ~1,606 |
+| samir | 0.40% | ~1,606 |
+| parking lot | 0.30% | ~1,205 |
+| master of rally | 0.30% | ~1,205 |
+| antilag | 0.30% | ~1,205 |
+| real roads, real fast | 0.30% | ~1,205 |
 | comfy seats | 0.20% | ~803 |
 | simulator | 0.20% | ~803 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~401 |
-| absolute drift | 0.10% | ~401 |
-| barely keeping it together | 0.10% | ~401 |
-| you're here for a good time, not a long time | 0.10% | ~401 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~402 |
+| absolute drift | 0.10% | ~402 |
+| barely keeping it together | 0.10% | ~402 |
+| you're here for a good time, not a long time | 0.10% | ~402 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 401,336 (Ranked 49)  
-Completed: 17 (0.00%) (Ranked 392)  
+Progressed: 401,566 (Ranked 49)  
+Completed: 18 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,10 +242,10 @@ Completed: 17 (0.00%) (Ranked 392)
 | 2024-01-04 | 390,463 | 14 |
 | 2024-01-05 | 394,635 | 16 |
 | 2024-01-06 | 398,988 | 16 |
-| 2024-01-07 | 401,336 | 17 |
+| 2024-01-07 | 401,566 | 18 |
 ## Awards
 Max (Quickly Understood Controls): 32  (Ranked 516)  
-Sum: 180 (Ranked 426)  
+Sum: 181 (Ranked 426)  
 Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
@@ -254,7 +254,7 @@ Diff (max vs sum): 90
 | This game is Great for Beginners | 28 |
 | This game is Great for Quick Sessions | 28 |
 | This game is Relaxing | 25 |
-| This game is Extremely Fun | 23 |
+| This game is Extremely Fun | 24 |
 | This game has Amazing Characters | 22 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
@@ -312,4 +312,4 @@ Diff (max vs sum): 90
 | 2024-01-04 | 4.65 | - | 32 | 128 |
 | 2024-01-05 | 4.65 | - | 32 | 132 |
 | 2024-01-06 | 4.65 | - | 32 | 179 |
-| 2024-01-07 | 4.65 | - | 32 | 180 |
+| 2024-01-07 | 4.65 | - | 32 | 181 |

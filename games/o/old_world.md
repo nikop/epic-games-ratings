@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 1.00% | ~162 |
 | Good | 1.00% | ~162 |
 | Intrepid | 1.00% | ~162 |
+| Learned | 1.00% | ~162 |
 | Mason | 1.00% | ~162 |
 | Noble | 1.00% | ~162 |
 | Strong | 1.00% | ~162 |
@@ -23,11 +24,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.90% | ~146 |
 | Just | 0.90% | ~146 |
 | Keystone | 0.90% | ~146 |
-| Learned | 0.90% | ~146 |
 | Pioneer | 0.90% | ~146 |
 | Developing Cities | 0.90% | ~146 |
 | Pyramids | 0.90% | ~146 |
 | Judaism | 0.90% | ~146 |
+| Greek Paganism | 0.90% | ~146 |
 | Naming Landmarks | 0.90% | ~146 |
 | Ambitious | 0.80% | ~130 |
 | Brilliant | 0.80% | ~130 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.80% | ~130 |
 | Learn to Play 1 | 0.80% | ~130 |
 | Babylonian Paganism | 0.80% | ~130 |
-| Greek Paganism | 0.80% | ~130 |
 | Magnificent | 0.70% | ~113 |
 | Great Ziggurat | 0.70% | ~113 |
 | Ishtar Gate | 0.70% | ~113 |
@@ -48,6 +48,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.60% | ~97 |
 | Great | 0.60% | ~97 |
 | Wise | 0.60% | ~97 |
+| Legendary Cities | 0.60% | ~97 |
 | Able Difficulty | 0.60% | ~97 |
 | Furious Family | 0.60% | ~97 |
 | Acropolis | 0.60% | ~97 |
@@ -59,8 +60,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.50% | ~81 |
 | Intercessor | 0.50% | ~81 |
 | Valiant | 0.50% | ~81 |
-| Legendary Cities | 0.50% | ~81 |
 | Just Difficulty | 0.50% | ~81 |
+| Sages | 0.50% | ~81 |
 | Colossus | 0.50% | ~81 |
 | Mausoleum | 0.50% | ~81 |
 | Musaeum | 0.50% | ~81 |
@@ -72,9 +73,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.40% | ~65 |
 | Champions | 0.40% | ~65 |
 | Patrons | 0.40% | ~65 |
-| Sages | 0.40% | ~65 |
 | Statesmen | 0.40% | ~65 |
 | Learn to Play 3 | 0.40% | ~65 |
+| Greece | 0.40% | ~65 |
 | Power to the People | 0.40% | ~65 |
 | Persian Paganism | 0.40% | ~65 |
 | Building Wonders | 0.40% | ~65 |
@@ -96,7 +97,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.30% | ~49 |
 | Pantheon | 0.30% | ~49 |
 | Via Recta Souk | 0.30% | ~49 |
-| Greece | 0.30% | ~49 |
 | Assyrian Paganism | 0.30% | ~49 |
 | Economic Reform | 0.30% | ~49 |
 | Industrial Progress | 0.30% | ~49 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,190 (Ranked 168)  
+Progressed: 16,194 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
-| 2024-01-07 | 16,190 | 5 |
+| 2024-01-07 | 16,194 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 222)  

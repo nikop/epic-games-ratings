@@ -1,34 +1,34 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 1,035)  
+Rating: 4.05 (Ranked 1,036)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,983 |
-| World Map | 78.00% | ~3,341 |
-| Temple of Eternals | 56.00% | ~2,398 |
-| Prestigious | 52.00% | ~2,227 |
-| Fellowship Power | 41.00% | ~1,756 |
-| Full Party | 28.00% | ~1,199 |
-| Guild Power | 23.00% | ~985 |
+| Victor | 93.00% | ~3,987 |
+| World Map | 78.00% | ~3,344 |
+| Temple of Eternals | 56.00% | ~2,401 |
+| Prestigious | 52.00% | ~2,229 |
+| Fellowship Power | 41.00% | ~1,758 |
+| Full Party | 28.00% | ~1,200 |
+| Guild Power | 23.00% | ~986 |
 | Prestigious x10 | 20.00% | ~857 |
-| The game is on | 18.00% | ~771 |
-| Exotic Merchant | 16.00% | ~685 |
-| Dragon Clicker | 15.00% | ~642 |
-| Miner Clicker | 15.00% | ~642 |
+| The game is on | 18.00% | ~772 |
+| Exotic Merchant | 16.00% | ~686 |
+| Dragon Clicker | 15.00% | ~643 |
+| Miner Clicker | 15.00% | ~643 |
 | Dragon Master | 13.00% | ~557 |
 | Enlightenment | 13.00% | ~557 |
 | Hero inspection | 13.00% | ~557 |
 | Inspection | 13.00% | ~557 |
 | Lieutenant | 12.00% | ~514 |
-| Mysterious Rock | 11.00% | ~471 |
-| Natural Talent | 11.00% | ~471 |
-| Superior | 11.00% | ~471 |
-| The Unstoppable | 11.00% | ~471 |
-| Milestone collector | 10.00% | ~428 |
-| Doing My Part | 9.00% | ~385 |
-| Scientist | 9.00% | ~385 |
+| Mysterious Rock | 11.00% | ~472 |
+| Natural Talent | 11.00% | ~472 |
+| Superior | 11.00% | ~472 |
+| The Unstoppable | 11.00% | ~472 |
+| Milestone collector | 10.00% | ~429 |
+| Doing My Part | 9.00% | ~386 |
+| Scientist | 9.00% | ~386 |
 | Challenger | 8.00% | ~343 |
 | Daily Quest Completionist | 8.00% | ~343 |
 | Frostfire Liberator | 8.00% | ~343 |
@@ -59,9 +59,9 @@ Rating: 4.05 (Ranked 1,035)
 | Legendary | 4.00% | ~171 |
 | Lock And Load | 4.00% | ~171 |
 | The Alchemist | 4.00% | ~171 |
-| Arena Challenger | 3.00% | ~128 |
-| Ebony Jungle Liberator | 3.00% | ~128 |
-| Mythic Power | 3.00% | ~128 |
+| Arena Challenger | 3.00% | ~129 |
+| Ebony Jungle Liberator | 3.00% | ~129 |
+| Mythic Power | 3.00% | ~129 |
 | Cauldron Liberator | 2.00% | ~86 |
 | Enchanting skill x5 | 2.00% | ~86 |
 | Gear Enchanting | 2.00% | ~86 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,035)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,283 (Ranked 209)  
+Progressed: 4,287 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-04 | 4,183 | 2 |
 | 2024-01-05 | 4,228 | 2 |
 | 2024-01-06 | 4,266 | 2 |
-| 2024-01-07 | 4,283 | 2 |
+| 2024-01-07 | 4,287 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 155 (Ranked 439)  

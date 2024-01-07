@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -443,9 +443,9 @@
       "ID": "ACH_LOST_BY_40",
       "SetID": "1lnhagg",
       "Name": "If Only I Had Known",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_MANAGERS_FAN",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:08:35.8758484+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:08:52.6270729+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:09.2723811+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:59:29.2715295+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:08:35.8758684+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:59:20.7592703+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:08:52.6270983+00:00"
 }

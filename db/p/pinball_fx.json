@@ -2,13 +2,13 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 1026,
+  "Ranking_Rating": 1027,
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2153,10 +2153,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 1640,
       "NumberOfAwardsMax": 213
+    },
+    {
+      "Time": "2024-01-07T16:03:12.2699361+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 1641,
+      "NumberOfAwardsMax": 213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1640,
+  "NumberOfAwards": 1641,
   "NumberOfAwardsMax": 213,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2176,7 +2182,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 157
+      "Count": 158
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2239,9 +2245,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 292683,
+  "EOS_Progressed": 292717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3307,
+  "EOS_NewPlayers": 3319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32299,6 +32305,11 @@
       "Time": "2024-01-07T15:03:43.3961474+00:00",
       "NumProgressed": 292683,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T16:03:41.3387762+00:00",
+      "NumProgressed": 292717,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -32534,7 +32545,7 @@
       "Name": "Ball Launched",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8780
+      "UsersEstimate": 8782
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -32621,21 +32632,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 292683,
+      "Progressed": 292717,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 10842,
+      "Progressed": 10876,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2024-01-07T15:03:15.9301974+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:03:43.3961469+00:00",
+  "LastChanged": "2024-01-07T16:03:12.2699359+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:03:41.3387757+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:02.0619191+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:03:15.9301981+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:03:43.3963155+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:03:12.2699363+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:03:41.338942+00:00"
 }

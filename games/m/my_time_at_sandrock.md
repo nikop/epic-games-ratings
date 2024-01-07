@@ -1,54 +1,54 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept Assembler | 211.00% | ~1,762 |
 | Super Spelunker | 151.00% | ~1,261 |
-| Iron Chef | 144.00% | ~1,202 |
+| Iron Chef | 145.00% | ~1,211 |
+| Officially Official | 121.00% | ~1,010 |
 | The Little Wood that Could | 120.00% | ~1,002 |
-| Officially Official | 120.00% | ~1,002 |
 | On that Grindset | 114.00% | ~952 |
-| Greeno-B-Gone | 112.00% | ~935 |
+| Greeno-B-Gone | 113.00% | ~944 |
 | Better Late than Never | 102.00% | ~852 |
 | Your Especially Earned Trajectory | 94.00% | ~785 |
+| One of the Cool Kids | 92.00% | ~768 |
+| Knowledge is Power | 91.00% | ~760 |
 | Pack Mule | 91.00% | ~760 |
 | Got Served | 91.00% | ~760 |
-| One of the Cool Kids | 91.00% | ~760 |
-| Knowledge is Power | 90.00% | ~752 |
 | Mole Masher | 90.00% | ~752 |
 | Diamonds are Forever | 90.00% | ~752 |
-| Financially Secure | 88.00% | ~735 |
-| Big Game Hunter | 82.00% | ~685 |
+| Financially Secure | 89.00% | ~743 |
+| Big Game Hunter | 83.00% | ~693 |
 | Unboxing | 82.00% | ~685 |
 | What Plants Crave | 79.00% | ~660 |
 | Yakmel Whisperer | 79.00% | ~660 |
+| Panda-kin | 78.00% | ~651 |
 | No Mountain Wide Enough | 78.00% | ~651 |
-| Panda-kin | 77.00% | ~643 |
 | First Love | 77.00% | ~643 |
 | Chatterbox | 76.00% | ~635 |
 | I Do! | 76.00% | ~635 |
 | Can We Keep It? | 74.00% | ~618 |
 | Builder of the Month | 71.00% | ~593 |
+| Bridging the Gap | 68.00% | ~568 |
 | Elementary, My Dear | 68.00% | ~568 |
-| Bridging the Gap | 67.00% | ~559 |
 | Waste Not Want Not | 65.00% | ~543 |
 | Commissions, commissions...! | 64.00% | ~534 |
 | Lifeline Pipeline | 63.00% | ~526 |
-| Got the Flow Back | 61.00% | ~509 |
+| Got the Flow Back | 62.00% | ~518 |
 | Martle's Dream | 59.00% | ~493 |
 | Happier-est Place on Earth | 57.00% | ~476 |
+| Sepia Toned Memories | 56.00% | ~468 |
 | Anti-Santa | 56.00% | ~468 |
-| Sepia Toned Memories | 55.00% | ~459 |
 | Who Ya Gonna Call...? | 55.00% | ~459 |
 | You Don't Win Friends With Salad | 55.00% | ~459 |
 | Finishing Touches | 54.00% | ~451 |
 | Time Flies | 53.00% | ~443 |
 | Call Me Fishmael | 53.00% | ~443 |
-| Kind of a Big Deal | 47.00% | ~392 |
+| Kind of a Big Deal | 48.00% | ~401 |
 | Just What I Always Wanted! | 47.00% | ~392 |
 | Jewel of the Eufaula | 45.00% | ~376 |
 | My Time Mansion | 42.00% | ~351 |

@@ -1,12 +1,12 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.07 (Ranked 1,026)  
+Rating: 4.07 (Ranked 1,027)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 3.00% | ~8,780 |
+| Ball Launched | 3.00% | ~8,782 |
 | I Found it! | 1.00% | ~2,927 |
 | Ready Steady Score | 0.40% | ~1,171 |
 | First but not Last | 0.30% | ~878 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 292,683 (Ranked 63)  
+Progressed: 292,717 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,10 +308,10 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 291,140 | 0 |
 | 2024-01-05 | 291,801 | 0 |
 | 2024-01-06 | 292,393 | 0 |
-| 2024-01-07 | 292,683 | 0 |
+| 2024-01-07 | 292,717 | 0 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 292)  
-Sum: 1,640 (Ranked 233)  
+Sum: 1,641 (Ranked 233)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -321,7 +321,7 @@ Diff (max vs sum): 59
 | This game has Quickly Understood Controls | 168 |
 | This game is Highly Recommended | 160 |
 | This game is Extremely Fun | 160 |
-| This game has Competitive Players | 157 |
+| This game has Competitive Players | 158 |
 | This game has Challenging Combat | 115 |
 | This game has a Competitive Community | 107 |
 | This game has Amazing Storytelling | 103 |
@@ -542,4 +542,4 @@ Diff (max vs sum): 59
 | 2024-01-01 | 4.07 | - | 213 | 1,635 |
 | 2024-01-03 | 4.07 | - | 213 | 1,636 |
 | 2024-01-06 | 4.07 | - | 213 | 1,637 |
-| 2024-01-07 | 4.07 | - | 213 | 1,640 |
+| 2024-01-07 | 4.07 | - | 213 | 1,641 |

@@ -1,20 +1,20 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 548)  
+Rating: 4.54 (Ranked 549)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 83.00% | ~293 |
-| Mash Machine | 74.00% | ~261 |
+| Mash Machine | 75.00% | ~265 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~191 |
 | Furon Fashion | 47.00% | ~166 |
 | Shop Til They Drop | 39.00% | ~138 |
 | Bodied Sattva | 37.00% | ~131 |
 | Cult Following | 35.00% | ~124 |
 | Earthly Pleasures | 33.00% | ~116 |
-| Lie Back and Think of Albion | 27.00% | ~95 |
+| Lie Back and Think of Albion | 28.00% | ~99 |
 | Upgreatest | 27.00% | ~95 |
 | Pimp My Raid | 24.00% | ~85 |
 | Freshly Squeezed | 22.00% | ~78 |
@@ -30,7 +30,7 @@ Number of Ratings: 90  (23.09.2022)
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~25 |
 | Lobster Blisque | 6.00% | ~21 |
 | Yettisoned | 6.00% | ~21 |
-| Ultimate Smoothie | 4.00% | ~14 |
+| Ultimate Smoothie | 5.00% | ~18 |
 | Arkvoodle Doodle | 4.00% | ~14 |
 | Deincarnated | 3.00% | ~11 |
 | Arty Facts | 1.00% | ~4 |

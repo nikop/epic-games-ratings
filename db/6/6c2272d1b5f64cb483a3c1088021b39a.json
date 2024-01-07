@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1321,
+  "EOS_Progressed": 1322,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4744,6 +4744,11 @@
       "Time": "2024-01-07T10:11:25.545882+00:00",
       "NumProgressed": 1321,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T16:10:17.8053336+00:00",
+      "NumProgressed": 1322,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4851,7 +4856,7 @@
       "Name": "Collector 1",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "collector_2",
@@ -5187,7 +5192,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "soul_shards_2",
@@ -5282,14 +5287,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1321,
+      "Progressed": 1322,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:10:02.3804322+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:10:17.8053335+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.0513458+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:59:36.0525354+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:10:02.3804968+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:59:27.5733182+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:10:17.8054177+00:00"
 }

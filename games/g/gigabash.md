@@ -1,23 +1,23 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.53 (Ranked 560)  
+Rating: 4.53 (Ranked 561)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 18.00% | ~21,457 |
-| I've Had Enough! | 14.00% | ~16,689 |
-| Fists, Fury & a lot of Rage | 10.00% | ~11,921 |
-| All For One and One For All | 8.00% | ~9,536 |
-| Seasoned Fighter | 8.00% | ~9,536 |
-| Home Sweet Home? | 6.00% | ~7,152 |
-| A New Age | 5.00% | ~5,960 |
-| Oh Baby, A Triple | 3.00% | ~3,576 |
-| Symbiotic | 3.00% | ~3,576 |
-| Battle Hardened | 2.00% | ~2,384 |
-| Master of Disguise | 2.00% | ~2,384 |
-| It's Mayhem! | 2.00% | ~2,384 |
-| Right back at'cha | 2.00% | ~2,384 |
+| All Grown Up! | 18.00% | ~21,464 |
+| I've Had Enough! | 14.00% | ~16,694 |
+| Fists, Fury & a lot of Rage | 10.00% | ~11,924 |
+| All For One and One For All | 8.00% | ~9,539 |
+| Seasoned Fighter | 8.00% | ~9,539 |
+| Home Sweet Home? | 6.00% | ~7,155 |
+| A New Age | 5.00% | ~5,962 |
+| Oh Baby, A Triple | 3.00% | ~3,577 |
+| Symbiotic | 3.00% | ~3,577 |
+| Battle Hardened | 2.00% | ~2,385 |
+| Master of Disguise | 2.00% | ~2,385 |
+| It's Mayhem! | 2.00% | ~2,385 |
+| Right back at'cha | 2.00% | ~2,385 |
 | Cautious Veteran | 1.00% | ~1,192 |
 | Double Punch! | 1.00% | ~1,192 |
 | Martyrdom | 1.00% | ~1,192 |
@@ -25,7 +25,7 @@ Rating: 4.53 (Ranked 560)
 | Katamari | 0.90% | ~1,073 |
 | Zero-sum Game | 0.90% | ~1,073 |
 | Ninja Reflex | 0.80% | ~954 |
-| Taste Your Own Medicine | 0.70% | ~834 |
+| Taste Your Own Medicine | 0.70% | ~835 |
 | This is GigaBash! | 0.50% | ~596 |
 | Sidetracked... | 0.50% | ~596 |
 | Eye of the Titan | 0.40% | ~477 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 560)
 | What's Mine is Yours | 0.10% | ~119 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119,206 (Ranked 93)  
+Progressed: 119,242 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 116,792 | 0 |
 | 2024-01-05 | 117,637 | 0 |
 | 2024-01-06 | 118,583 | 0 |
-| 2024-01-07 | 119,206 | 0 |
+| 2024-01-07 | 119,242 | 0 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 459)  
 Sum: 49 (Ranked 511)  

@@ -19,22 +19,22 @@
 | Island gardian angel | 10.00% | ~3 |
 | Picture of the bay | 10.00% | ~3 |
 | Picture of the atoll | 10.00% | ~3 |
+| Picture of the reef | 10.00% | ~3 |
 | Power of the turtle | 10.00% | ~3 |
+| Animal reporter | 6.00% | ~2 |
 | Creek cleanup | 6.00% | ~2 |
 | Atoll cleanup | 6.00% | ~2 |
+| Reef cleanup | 6.00% | ~2 |
 | Heroic member | 6.00% | ~2 |
 | Legend of the association | 6.00% | ~2 |
 | Picture of the creek | 6.00% | ~2 |
-| Picture of the reef | 6.00% | ~2 |
 | Picture of the island | 6.00% | ~2 |
 | Power of the shark | 6.00% | ~2 |
-| Animal reporter | 3.00% | ~1 |
+| The fifth one! | 6.00% | ~2 |
+| Recycling Legend | 3.00% | ~1 |
 | Bay cleanup | 3.00% | ~1 |
-| Reef cleanup | 3.00% | ~1 |
 | Island protector | 3.00% | ~1 |
 | Well of science | 3.00% | ~1 |
-| The fifth one! | 3.00% | ~1 |
-| Recycling Legend | 0.00% | ~0 |
 | Island cleanup | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 590)  

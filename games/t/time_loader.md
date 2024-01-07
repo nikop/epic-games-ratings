@@ -14,21 +14,21 @@
 | Mug | 28.00% | ~39 |
 | Soldering iron | 28.00% | ~39 |
 | Robot Bros | 22.00% | ~31 |
-| Act 2 | 21.00% | ~30 |
+| Act 2 | 22.00% | ~31 |
 | Act 3 | 19.00% | ~27 |
 | Cassette | 18.00% | ~25 |
 | Harpoon | 18.00% | ~25 |
 | Here we go again | 18.00% | ~25 |
 | Flyer | 16.00% | ~23 |
+| Dr. Antivirus | 14.00% | ~20 |
 | It’s in the Vault | 13.00% | ~18 |
-| Dr. Antivirus | 13.00% | ~18 |
 | Access protocol | 13.00% | ~18 |
 | Photo | 12.00% | ~17 |
 | Ticket | 12.00% | ~17 |
 | Time Capsule | 11.00% | ~16 |
 | Contract | 9.00% | ~13 |
 | Baseball | 9.00% | ~13 |
-| VHS blogger | 8.00% | ~11 |
+| VHS blogger | 9.00% | ~13 |
 | Out of the loop | 8.00% | ~11 |
 | New Dawn | 8.00% | ~11 |
 | Secret ending | 8.00% | ~11 |

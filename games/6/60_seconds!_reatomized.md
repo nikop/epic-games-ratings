@@ -1,61 +1,61 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.50 (Ranked 611)  
+Rating: 4.50 (Ranked 612)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,780 |
-| I will survive! | 93.00% | ~5,719 |
-| All thumbs | 92.00% | ~5,657 |
-| Home, sweet home | 91.00% | ~5,596 |
-| Survivalist | 90.00% | ~5,534 |
-| One way ticket | 85.00% | ~5,227 |
-| Last man standing | 81.00% | ~4,981 |
-| Family guy | 77.00% | ~4,735 |
-| Out of the Bag | 76.00% | ~4,673 |
-| The Dark Side | 71.00% | ~4,366 |
-| Souper! | 66.00% | ~4,058 |
-| Duck and cover! | 66.00% | ~4,058 |
-| Pacifist | 60.00% | ~3,689 |
-| 2-1-6 | 59.00% | ~3,628 |
-| A gift | 55.00% | ~3,382 |
-| Girl Power | 49.00% | ~3,013 |
-| What goes around... | 45.00% | ~2,767 |
-| Be Prepared | 39.00% | ~2,398 |
-| Unbreakable | 37.00% | ~2,275 |
-| Gotta get 'em all | 35.00% | ~2,152 |
-| This is the end | 34.00% | ~2,091 |
-| Atomic drill | 32.00% | ~1,968 |
-| Disco Roach | 29.00% | ~1,783 |
+| Prepper | 94.00% | ~5,783 |
+| I will survive! | 93.00% | ~5,721 |
+| All thumbs | 92.00% | ~5,660 |
+| Home, sweet home | 91.00% | ~5,598 |
+| Survivalist | 90.00% | ~5,537 |
+| One way ticket | 85.00% | ~5,229 |
+| Last man standing | 81.00% | ~4,983 |
+| Family guy | 77.00% | ~4,737 |
+| Out of the Bag | 76.00% | ~4,676 |
+| The Dark Side | 71.00% | ~4,368 |
+| Souper! | 66.00% | ~4,060 |
+| Duck and cover! | 66.00% | ~4,060 |
+| Pacifist | 60.00% | ~3,691 |
+| 2-1-6 | 59.00% | ~3,630 |
+| A gift | 55.00% | ~3,384 |
+| Girl Power | 49.00% | ~3,014 |
+| What goes around... | 45.00% | ~2,768 |
+| Be Prepared | 39.00% | ~2,399 |
+| Unbreakable | 37.00% | ~2,276 |
+| Gotta get 'em all | 35.00% | ~2,153 |
+| This is the end | 34.00% | ~2,092 |
+| Atomic drill | 32.00% | ~1,969 |
+| Disco Roach | 29.00% | ~1,784 |
 | Dawkins Residence | 22.00% | ~1,353 |
-| Rescue time! | 19.00% | ~1,168 |
+| Rescue time! | 19.00% | ~1,169 |
 | New order | 18.00% | ~1,107 |
-| New species | 17.00% | ~1,045 |
+| New species | 17.00% | ~1,046 |
 | Enigma | 16.00% | ~984 |
-| A New Hope | 15.00% | ~922 |
-| Challenger | 13.00% | ~799 |
-| Men in Black | 13.00% | ~799 |
+| A New Hope | 15.00% | ~923 |
+| Challenger | 13.00% | ~800 |
+| Men in Black | 13.00% | ~800 |
 | No stone unturned | 12.00% | ~738 |
-| Unplugged | 9.00% | ~553 |
+| Unplugged | 9.00% | ~554 |
 | Mad Hatter | 8.00% | ~492 |
-| Holidays! | 7.00% | ~430 |
-| Yes Man | 7.00% | ~430 |
+| Holidays! | 7.00% | ~431 |
+| Yes Man | 7.00% | ~431 |
 | Lumbersexual | 6.00% | ~369 |
-| Feline Domination | 5.00% | ~307 |
-| Take that, Brundlefly! | 5.00% | ~307 |
-| Rogue One | 5.00% | ~307 |
+| Feline Domination | 5.00% | ~308 |
+| Take that, Brundlefly! | 5.00% | ~308 |
+| Rogue One | 5.00% | ~308 |
 | Danger zone | 4.00% | ~246 |
 | Friend in need | 4.00% | ~246 |
-| Soup Can into Space | 3.00% | ~184 |
+| Soup Can into Space | 3.00% | ~185 |
 | Enola Gay | 2.00% | ~123 |
 | Stay frosty | 2.00% | ~123 |
 | Panzer | 2.00% | ~123 |
 | Liberation | 2.00% | ~123 |
 | Not Alone | 2.00% | ~123 |
-| Cuckoo's nest | 1.00% | ~61 |
-| Raining Cats and Dogs | 1.00% | ~61 |
-| Konrad style! | 1.00% | ~61 |
+| Cuckoo's nest | 1.00% | ~62 |
+| Raining Cats and Dogs | 1.00% | ~62 |
+| Konrad style! | 1.00% | ~62 |
 | Cat Lady | 0.90% | ~55 |
 | Bughunter | 0.80% | ~49 |
 | Pro gamer | 0.70% | ~43 |
@@ -66,7 +66,7 @@ Rating: 4.50 (Ranked 611)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,149 (Ranked 199)  
+Progressed: 6,152 (Ranked 199)  
 Completed: 1 (0.02%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 1 (0.02%) (Ranked 360)
 | 2024-01-04 | 6,079 | 1 |
 | 2024-01-05 | 6,103 | 1 |
 | 2024-01-06 | 6,133 | 1 |
-| 2024-01-07 | 6,149 | 1 |
+| 2024-01-07 | 6,152 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 448,
+  "Ranking_Rating": 449,
   "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
@@ -1837,7 +1837,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 167058,
+  "EOS_Progressed": 167070,
   "EOS_Completed": 448,
   "EOS_NewPlayers": 1331,
   "EOS_NewCompleters": 19,
@@ -22192,6 +22192,11 @@
       "Time": "2024-01-07T15:06:35.2877922+00:00",
       "NumProgressed": 167058,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2024-01-07T16:08:33.0166235+00:00",
+      "NumProgressed": 167070,
+      "NumCompleted": 448
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22308,7 +22313,7 @@
       "Name": "Scion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -22460,7 +22465,7 @@
       "Name": "Yank",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -22468,7 +22473,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -22571,21 +22576,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166641,
+      "Progressed": 166653,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167058,
+      "Progressed": 167070,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-06T15:57:18.5501396+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:06:35.2877918+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:08:33.0166228+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:57:48.9924005+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:06:35.2879281+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:57:38.4485499+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:08:33.016726+00:00"
 }

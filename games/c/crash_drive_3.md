@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 30.00% | ~131 |
+| A Forest Walk | 29.00% | ~127 |
 | Baby's First Car | 28.00% | ~122 |
-| A Forest Walk | 28.00% | ~122 |
 | Amateur Mechanic | 27.00% | ~118 |
 | Pushover | 27.00% | ~118 |
-| C-C-C-Combo! | 25.00% | ~109 |
 | Multiply that! | 25.00% | ~109 |
+| C-C-C-Combo! | 24.00% | ~105 |
 | Fore! | 22.00% | ~96 |
 | The Collector | 22.00% | ~96 |
 | Insurance fraud | 22.00% | ~96 |
@@ -34,8 +34,8 @@
 | Feeling Dizzy? | 16.00% | ~70 |
 | Ferry Good! | 16.00% | ~70 |
 | Assert Dominance | 16.00% | ~70 |
-| Drift King! | 15.00% | ~65 |
-| Speed of light | 15.00% | ~65 |
+| Drift King! | 15.00% | ~66 |
+| Speed of light | 15.00% | ~66 |
 | Out of this League | 13.00% | ~57 |
 | Special Forces | 12.00% | ~52 |
 | Toot Toot! | 11.00% | ~48 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 436 (Ranked 360)  
+Progressed: 437 (Ranked 360)  
 Completed: 2 (0.46%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 2 (0.46%) (Ranked 228)
 | 2024-01-04 | 433 | 2 |
 | 2024-01-05 | 434 | 2 |
 | 2024-01-06 | 435 | 2 |
-| 2024-01-07 | 436 | 2 |
+| 2024-01-07 | 437 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

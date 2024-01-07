@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,367 |
-| Off to a good start | 61.00% | ~1,660 |
-| Do... or do not. There is no try | 52.00% | ~1,415 |
-| A good blaster at your side | 24.00% | ~653 |
+| New Recruit | 87.00% | ~2,370 |
+| Off to a good start | 61.00% | ~1,662 |
+| Do... or do not. There is no try | 52.00% | ~1,416 |
+| A good blaster at your side | 24.00% | ~654 |
 | I suggest a new strategy | 17.00% | ~463 |
-| Great shot, kid! | 16.00% | ~435 |
-| Scrap collector | 15.00% | ~408 |
-| All right, I'll give it a try | 15.00% | ~408 |
+| Great shot, kid! | 16.00% | ~436 |
+| Scrap collector | 15.00% | ~409 |
+| All right, I'll give it a try | 15.00% | ~409 |
 | The power of the Force | 12.00% | ~327 |
 | Collector | 12.00% | ~327 |
 | Shoot first | 12.00% | ~327 |
-| Together we can rule the galaxy | 11.00% | ~299 |
+| Together we can rule the galaxy | 11.00% | ~300 |
 | Tell Jabba that I've got his money | 8.00% | ~218 |
 | Best star-pilot in the galaxy | 8.00% | ~218 |
-| Never tell me the odds! | 7.00% | ~190 |
-| Survivor | 7.00% | ~190 |
+| Never tell me the odds! | 7.00% | ~191 |
+| Survivor | 7.00% | ~191 |
 | What's the cargo? | 6.00% | ~163 |
 | A cunning warrior | 6.00% | ~163 |
 | "Gonk? Gonk!" | 5.00% | ~136 |
@@ -48,8 +48,8 @@
 | Alternative solution | 1.00% | ~27 |
 | The circle is now complete | 1.00% | ~27 |
 | Disturbed tranquility | 1.00% | ~27 |
-| Playing the objective | 0.90% | ~24 |
-| Onwards! | 0.90% | ~24 |
+| Playing the objective | 0.90% | ~25 |
+| Onwards! | 0.90% | ~25 |
 | Walker defender | 0.80% | ~22 |
 | You have your moments | 0.70% | ~19 |
 | When surrounded by war... | 0.70% | ~19 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,721 (Ranked 232)  
+Progressed: 2,724 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.04%) (Ranked 348)
 | 2024-01-04 | 2,595 | 1 |
 | 2024-01-05 | 2,649 | 1 |
 | 2024-01-06 | 2,690 | 1 |
-| 2024-01-07 | 2,721 | 1 |
+| 2024-01-07 | 2,724 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,31 +1,31 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.69 (Ranked 235)  
+Rating: 4.69 (Ranked 236)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~580 |
+| Time Heals All Wounds | 46.00% | ~581 |
 | Rail Rat | 34.00% | ~429 |
-| The Mysterious Stranger | 33.00% | ~416 |
+| The Mysterious Stranger | 33.00% | ~417 |
 | Immaculate Aim | 29.00% | ~366 |
-| The Brass Boss | 27.00% | ~340 |
+| The Brass Boss | 27.00% | ~341 |
 | Time Flies | 26.00% | ~328 |
 | No, Thanks! | 26.00% | ~328 |
 | Honest Mistake | 26.00% | ~328 |
-| Make Up For Lost Time | 25.00% | ~315 |
-| The Harder They Fall | 25.00% | ~315 |
-| The Prince in Heels | 25.00% | ~315 |
-| Immaculate Aim | 25.00% | ~315 |
-| Fast Learner | 24.00% | ~303 |
+| Make Up For Lost Time | 25.00% | ~316 |
+| The Harder They Fall | 25.00% | ~316 |
+| The Prince in Heels | 25.00% | ~316 |
+| Fast Learner | 25.00% | ~316 |
+| Immaculate Aim | 25.00% | ~316 |
 | The Steel Shadow | 23.00% | ~290 |
 | Breaking Down Barriers | 23.00% | ~290 |
-| Right On Time | 22.00% | ~277 |
-| The Wicked Twins | 22.00% | ~277 |
-| Golem Chaser | 22.00% | ~277 |
+| Right On Time | 22.00% | ~278 |
+| The Wicked Twins | 22.00% | ~278 |
+| Golem Chaser | 22.00% | ~278 |
 | Like Clockwork | 21.00% | ~265 |
 | The Betrayer | 21.00% | ~265 |
-| Check Your Pulse | 20.00% | ~252 |
+| Check Your Pulse | 20.00% | ~253 |
 | The Loose Cannon | 19.00% | ~240 |
 | Street Style | 18.00% | ~227 |
 | The Man Who Shattered Time | 18.00% | ~227 |
@@ -36,13 +36,13 @@ Rating: 4.69 (Ranked 235)
 | Chaincrawler Explorer | 13.00% | ~164 |
 | Cartographer | 13.00% | ~164 |
 | Ask Questions Later | 13.00% | ~164 |
-| Treasure Trove | 12.00% | ~151 |
-| Syron for Hope | 12.00% | ~151 |
+| Treasure Trove | 12.00% | ~152 |
+| Syron for Hope | 12.00% | ~152 |
 | Sump Explorer | 11.00% | ~139 |
 | Factorywood Explorer | 10.00% | ~126 |
 | Fairgrounds Explorer | 10.00% | ~126 |
 | Theater Explorer | 10.00% | ~126 |
-| Cultivair Explorer | 9.00% | ~113 |
+| Cultivair Explorer | 9.00% | ~114 |
 | Corin Goes Home | 8.00% | ~101 |
 | Sartorialist | 8.00% | ~101 |
 | Entresol Explorer | 8.00% | ~101 |
@@ -59,8 +59,8 @@ Rating: 4.69 (Ranked 235)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,261 (Ranked 280)  
-Completed: 7 (0.56%) (Ranked 213)  
+Progressed: 1,263 (Ranked 280)  
+Completed: 7 (0.55%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 7 (0.56%) (Ranked 213)
 | 2024-01-04 | 1,228 | 6 |
 | 2024-01-05 | 1,241 | 6 |
 | 2024-01-06 | 1,255 | 6 |
-| 2024-01-07 | 1,261 | 7 |
+| 2024-01-07 | 1,263 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

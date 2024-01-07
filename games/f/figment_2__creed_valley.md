@@ -14,9 +14,9 @@
 | Flee like an idiot | 24.00% | ~16 |
 | Repair the Mind Validation Machine | 19.00% | ~13 |
 | Elementary, My Dear Dusty | 19.00% | ~13 |
+| Dance like an idiot | 15.00% | ~10 |
 | Come full circle | 13.00% | ~9 |
-| Dance like an idiot | 13.00% | ~9 |
-| I'm Back at the Surface now | 12.00% | ~8 |
+| I'm Back at the Surface now | 13.00% | ~9 |
 | Patient Listener | 6.00% | ~4 |
 | GOAAAAAAAAAL! | 6.00% | ~4 |
 | Whac-a-worker | 1.00% | ~1 |

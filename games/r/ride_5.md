@@ -1,23 +1,23 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.46 (Ranked 672)  
+Rating: 4.46 (Ranked 673)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 49.00% | ~1,665 |
-| First Love | 45.00% | ~1,529 |
-| Clean Race | 44.00% | ~1,495 |
-| Hear That Roar! | 42.00% | ~1,427 |
-| Bitter Rivalry | 30.00% | ~1,019 |
-| Rivals to the End | 30.00% | ~1,019 |
-| Champagne Spray | 29.00% | ~985 |
-| We're Going to Need a Bigger Garage | 26.00% | ~883 |
-| Quick Pit Stop | 22.00% | ~747 |
-| I Want One Too! | 21.00% | ~713 |
-| Restored and Ready | 20.00% | ~679 |
-| Legendary!!! | 20.00% | ~679 |
-| Go-Faster Stripes | 17.00% | ~577 |
+| Eat My Dust | 49.00% | ~1,666 |
+| First Love | 45.00% | ~1,530 |
+| Clean Race | 44.00% | ~1,496 |
+| Hear That Roar! | 42.00% | ~1,428 |
+| Bitter Rivalry | 30.00% | ~1,020 |
+| Rivals to the End | 30.00% | ~1,020 |
+| Champagne Spray | 29.00% | ~986 |
+| We're Going to Need a Bigger Garage | 26.00% | ~884 |
+| Quick Pit Stop | 22.00% | ~748 |
+| Restored and Ready | 20.00% | ~680 |
+| I Want One Too! | 20.00% | ~680 |
+| Legendary!!! | 20.00% | ~680 |
+| Go-Faster Stripes | 17.00% | ~578 |
 | I'm Here Too! | 15.00% | ~510 |
 | We've Just Begun | 14.00% | ~476 |
 | Is It the Right Size? | 9.00% | ~306 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 672)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,397 (Ranked 223)  
+Progressed: 3,401 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 3,289 | 0 |
 | 2024-01-05 | 3,324 | 0 |
 | 2024-01-06 | 3,370 | 0 |
-| 2024-01-07 | 3,397 | 0 |
+| 2024-01-07 | 3,401 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

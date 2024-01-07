@@ -1,21 +1,21 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.38 (Ranked 790)  
+Rating: 4.38 (Ranked 791)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~680 |
-| Training Simulation | 79.00% | ~577 |
-| Kuku Bird Hunter | 65.00% | ~475 |
+| Travel Streamer | 93.00% | ~681 |
+| Training Simulation | 79.00% | ~578 |
+| Kuku Bird Hunter | 65.00% | ~476 |
 | Storm Traveller | 60.00% | ~439 |
-| Wolf King Killer | 55.00% | ~402 |
-| Fashion Connoisseur | 52.00% | ~380 |
-| Arms Mechanic | 49.00% | ~358 |
+| Wolf King Killer | 55.00% | ~403 |
+| Fashion Connoisseur | 52.00% | ~381 |
+| Arms Mechanic | 49.00% | ~359 |
 | Flower Thief | 44.00% | ~322 |
 | Apostle of Flame | 39.00% | ~285 |
-| Beginner Cook | 37.00% | ~270 |
-| Beginner Artificer | 37.00% | ~270 |
+| Beginner Artificer | 38.00% | ~278 |
+| Beginner Cook | 37.00% | ~271 |
 | Seal Breaker | 32.00% | ~234 |
 | Handyman | 28.00% | ~205 |
 | Giant Lizard Killer | 26.00% | ~190 |
@@ -33,11 +33,11 @@ Rating: 4.38 (Ranked 790)
 | Mermaid Killer | 15.00% | ~110 |
 | Cave Master | 15.00% | ~110 |
 | Face Slapper | 14.00% | ~102 |
-| Boss challenge | 11.00% | ~80 |
-| Berserker Slayer | 11.00% | ~80 |
+| Boss challenge | 11.00% | ~81 |
+| Berserker Slayer | 11.00% | ~81 |
 | Giantess Slayer | 10.00% | ~73 |
 | Warden Slayer | 10.00% | ~73 |
-| Master Cook | 8.00% | ~58 |
+| Master Cook | 8.00% | ~59 |
 | Silver Moon Wolf King Challenge | 4.00% | ~29 |
 | Flying Kobold Challenge | 3.00% | ~22 |
 | Furious Scorpion Challenge | 3.00% | ~22 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 790)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731 (Ranked 316)  
+Progressed: 732 (Ranked 316)  
 Completed: 3 (0.41%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 3 (0.41%) (Ranked 234)
 | 2024-01-04 | 707 | 3 |
 | 2024-01-05 | 719 | 3 |
 | 2024-01-06 | 725 | 3 |
-| 2024-01-07 | 731 | 3 |
+| 2024-01-07 | 732 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

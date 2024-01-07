@@ -2,13 +2,13 @@
   "ID": "4756b80eb0f74d45b77922e54052cfed",
   "Name": "Mutant Year Zero: Road to Eden",
   "ProductSlug": "mutant-year-zero",
-  "Ranking_Rating": 611,
-  "Ranking_Popularity": 198,
+  "Ranking_Rating": 612,
+  "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2018-12-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1608,6 +1608,6 @@
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
   "LastChanged": "2024-01-05T13:59:23.3670807+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:28.1456156+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:00:11.7499226+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:05:02.4264073+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:00:00.9973184+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:05:00.1331954+00:00"
 }

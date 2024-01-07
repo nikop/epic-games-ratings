@@ -1,38 +1,38 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 526)  
+Rating: 4.55 (Ranked 527)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 107.00% | ~19,148 |
-| Before the Downfall | 102.00% | ~18,253 |
-| Money like Water | 100.00% | ~17,895 |
-| Minimalist | 98.00% | ~17,537 |
-| Builder | 90.00% | ~16,106 |
-| Eraser | 76.00% | ~13,600 |
-| Pocket of Trains | 71.00% | ~12,705 |
-| Inspector | 64.00% | ~11,453 |
-| Going the Distance | 59.00% | ~10,558 |
-| Oil Baron | 46.00% | ~8,232 |
-| Loads-a-Money | 46.00% | ~8,232 |
-| Helper of the People | 43.00% | ~7,695 |
-| Simplification | 37.00% | ~6,621 |
-| Box of Trains | 36.00% | ~6,442 |
-| Let There be Light | 36.00% | ~6,442 |
+| Trevithick's Legacy | 107.00% | ~19,146 |
+| Before the Downfall | 102.00% | ~18,251 |
+| Money like Water | 100.00% | ~17,893 |
+| Minimalist | 98.00% | ~17,535 |
+| Builder | 90.00% | ~16,104 |
+| Eraser | 76.00% | ~13,599 |
+| Pocket of Trains | 71.00% | ~12,704 |
+| Inspector | 65.00% | ~11,630 |
+| Going the Distance | 59.00% | ~10,557 |
+| Oil Baron | 46.00% | ~8,231 |
+| Loads-a-Money | 46.00% | ~8,231 |
+| Helper of the People | 43.00% | ~7,694 |
+| Simplification | 37.00% | ~6,620 |
+| Box of Trains | 36.00% | ~6,441 |
+| Let There be Light | 36.00% | ~6,441 |
 | Hot Water | 34.00% | ~6,084 |
 | Indecisive | 32.00% | ~5,726 |
 | The scenic route | 30.00% | ~5,368 |
-| Industrialist | 28.00% | ~5,011 |
-| Perfectionist | 26.00% | ~4,653 |
-| 8K is Enough for Everyone | 25.00% | ~4,474 |
-| Trains over Pipes | 25.00% | ~4,474 |
+| Industrialist | 28.00% | ~5,010 |
+| Perfectionist | 26.00% | ~4,652 |
+| 8K is Enough for Everyone | 25.00% | ~4,473 |
+| Trains over Pipes | 25.00% | ~4,473 |
 | Man of Steel | 18.00% | ~3,221 |
 | Room Full of Trains | 14.00% | ~2,505 |
 | Investor | 11.00% | ~1,968 |
-| Multiverse | 8.00% | ~1,432 |
-| The poor groundwater levels | 8.00% | ~1,432 |
-| Metropolis | 8.00% | ~1,432 |
+| Multiverse | 8.00% | ~1,431 |
+| The poor groundwater levels | 8.00% | ~1,431 |
+| Metropolis | 8.00% | ~1,431 |
 | High Flier | 4.00% | ~716 |
 | To infinity, and beyond! | 3.00% | ~537 |
 | Space industrialization | 2.00% | ~358 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 526)
 | Overdeer | 0.60% | ~107 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,895 (Ranked 161)  
+Progressed: 17,893 (Ranked 161)  
 Completed: 26 (0.15%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |

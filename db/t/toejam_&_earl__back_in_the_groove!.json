@@ -2,13 +2,13 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 850,
+  "Ranking_Rating": 851,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58687,
+  "EOS_Progressed": 58688,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15556,6 +15556,11 @@
       "Time": "2024-01-07T14:04:55.6130474+00:00",
       "NumProgressed": 58687,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T16:04:45.7419655+00:00",
+      "NumProgressed": 58688,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15703,7 +15708,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "HFZGoober",
@@ -15743,7 +15748,7 @@
       "Name": "Level Diver",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "LittleGirl",
@@ -15958,7 +15963,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58687,
+      "Progressed": 58688,
       "Completed": 6
     }
   ],
@@ -15966,8 +15971,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:04:47.2889364+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:04:45.7419651+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.3766793+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:57:44.4523974+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:04:47.2890242+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:57:33.7699767+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:04:45.7420686+00:00"
 }

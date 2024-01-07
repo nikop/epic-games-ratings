@@ -1,15 +1,15 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 235)  
+Rating: 4.69 (Ranked 236)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~484 |
-| Double Kill | 40.00% | ~421 |
+| Adept | 46.00% | ~485 |
+| Double Kill | 40.00% | ~422 |
 | Critical Hit | 23.00% | ~242 |
-| Veteran | 22.00% | ~231 |
+| Veteran | 23.00% | ~242 |
 | Dressed For Success | 15.00% | ~158 |
 | Humiliation | 10.00% | ~105 |
 | Veni, Vidi, Vici | 10.00% | ~105 |
@@ -20,7 +20,7 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~63 |
 | Don't Touch My Stuff | 6.00% | ~63 |
 | The Song of Stoutheart | 5.00% | ~53 |
-| Trojan Horse | 4.00% | ~42 |
+| Trojan Horse | 5.00% | ~53 |
 | Expert Essence Employment | 4.00% | ~42 |
 | This Spot's Taken | 2.00% | ~21 |
 | Deepstrike | 2.00% | ~21 |
@@ -29,11 +29,11 @@ Number of Ratings: 292  (23.09.2022)
 | Ultra Kill | 2.00% | ~21 |
 | Pyrrhic Victory | 2.00% | ~21 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~21 |
-| Versatile Wielder | 1.00% | ~11 |
 | In The Thick of It | 1.00% | ~11 |
-| Together For Her | 1.00% | ~11 |
 | Such A Fungi | 1.00% | ~11 |
 | Grand Master | 1.00% | ~11 |
+| Versatile Wielder | 0.90% | ~9 |
+| Together For Her | 0.90% | ~9 |
 | Death To Diplomacy | 0.60% | ~6 |
 | Unlimited Power! | 0.60% | ~6 |
 | Cleave | 0.60% | ~6 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052 (Ranked 289)  
+Progressed: 1,054 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,11 +119,11 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 978 | 0 |
 | 2024-01-05 | 1,000 | 0 |
 | 2024-01-06 | 1,034 | 0 |
-| 2024-01-07 | 1,052 | 0 |
+| 2024-01-07 | 1,054 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 29  (Ranked 527)  
+Max (Quickly Understood Controls): 29  (Ranked 528)  
 Sum: 251 (Ranked 398)  
-Diff (max vs sum): 129  
+Diff (max vs sum): 130  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 29 |

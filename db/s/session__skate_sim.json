@@ -2,13 +2,13 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1363,7 +1363,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 3581,
+  "EOS_Progressed": 3582,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -7668,6 +7668,11 @@
       "Time": "2024-01-07T15:03:33.9810792+00:00",
       "NumProgressed": 3581,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T16:03:32.1167817+00:00",
+      "NumProgressed": 3582,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7877,9 +7882,9 @@
       "ID": "ACH_NAHELL",
       "SetID": "72olkc5",
       "Name": "NAHELL!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -7983,7 +7988,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -8055,22 +8060,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3581,
+      "Progressed": 3582,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-07T05:01:33.5374268+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:03:33.9810786+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:03:32.1167815+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:55.5577816+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:00:23.1086662+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:03:33.9811462+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:00:11.9779775+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:03:32.1168322+00:00"
 }

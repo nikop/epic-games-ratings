@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3963,9 +3963,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33410,
+  "EOS_Progressed": 33412,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24888,6 +24888,11 @@
       "Time": "2024-01-07T15:08:49.456572+00:00",
       "NumProgressed": 33410,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-07T16:09:06.0831452+00:00",
+      "NumProgressed": 33412,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24939,7 +24944,7 @@
       "Name": "Clutch Capture",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "Collect_Spores",
@@ -24947,7 +24952,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "Collector",
@@ -25035,7 +25040,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "GB_In_Training",
@@ -25235,7 +25240,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "Terrifying",
@@ -25259,7 +25264,7 @@
       "Name": "There you are!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "Tobins_Prodigy",
@@ -25283,7 +25288,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "Welcome_Crew",
@@ -25306,7 +25311,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33410,
+      "Progressed": 33412,
       "Completed": 71
     }
   ],
@@ -25314,8 +25319,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-07T01:52:35.5069722+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:08:49.4565712+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:09:06.0831449+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:57:48.8672193+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:08:49.4567073+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:57:38.3055323+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:09:06.0832585+00:00"
 }

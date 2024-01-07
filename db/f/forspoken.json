@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 996,
+  "Ranking_Rating": 997,
   "Ranking_Popularity": 467,
-  "Ranking_PopularitySum": 493,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -619,9 +619,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46683,
+  "EOS_Progressed": 46692,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17994,6 +17994,11 @@
       "Time": "2024-01-07T15:04:15.5185008+00:00",
       "NumProgressed": 46683,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T16:04:13.9072108+00:00",
+      "NumProgressed": 46692,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18021,7 +18026,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -18037,7 +18042,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -18053,7 +18058,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5602
+      "UsersEstimate": 5603
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18061,7 +18066,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -18069,7 +18074,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -18157,7 +18162,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4201
+      "UsersEstimate": 4202
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18165,7 +18170,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -18181,7 +18186,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "JUSTCOUNTER",
@@ -18221,7 +18226,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -18261,7 +18266,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "MAGIC_IVY",
@@ -18309,7 +18314,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "PARKOUR_TIME",
@@ -18341,7 +18346,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5135
+      "UsersEstimate": 5136
     },
     {
       "ID": "SPRING_ALL",
@@ -18428,22 +18433,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46683,
+      "Progressed": 46692,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11520,
-      "Completed": 11520
+      "Progressed": 11529,
+      "Completed": 11529
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-07T05:02:53.6852275+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:04:15.5185001+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:04:13.9072105+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:02:52.9282065+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:04:15.5186113+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:02:50.2416301+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:04:13.9073093+00:00"
 }

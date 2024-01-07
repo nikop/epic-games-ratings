@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 672,
+  "Ranking_Rating": 673,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253218,
+  "EOS_Progressed": 253220,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23507,6 +23507,11 @@
       "Time": "2024-01-07T15:09:51.6417843+00:00",
       "NumProgressed": 253218,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T16:10:07.1897652+00:00",
+      "NumProgressed": 253220,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23614,7 +23619,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45579
+      "UsersEstimate": 45580
     },
     {
       "ID": "curator",
@@ -23694,7 +23699,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134206
+      "UsersEstimate": 134207
     },
     {
       "ID": "indegestible",
@@ -23734,7 +23739,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20257
+      "UsersEstimate": 20258
     },
     {
       "ID": "lockupLockdown",
@@ -23758,7 +23763,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126609
+      "UsersEstimate": 126610
     },
     {
       "ID": "notScared",
@@ -23822,7 +23827,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58240
+      "UsersEstimate": 58241
     },
     {
       "ID": "thunderstruck",
@@ -23838,7 +23843,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32918
+      "UsersEstimate": 32919
     },
     {
       "ID": "treeMedalist",
@@ -23885,7 +23890,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253218,
+      "Progressed": 253220,
       "Completed": 6
     }
   ],
@@ -23893,8 +23898,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:09:51.6417838+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:10:07.1897649+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:57:13.6402556+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:09:51.6418928+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:57:03.2394764+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:10:07.1899119+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -1111,9 +1111,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "w2",
@@ -1214,8 +1214,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:04:09.0448498+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:04:07.5824125+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:02:56.1396631+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:04:09.0448897+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:02:53.4459387+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:04:07.5824463+00:00"
 }

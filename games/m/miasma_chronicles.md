@@ -1,34 +1,34 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.39 (Ranked 779)  
+Rating: 4.39 (Ranked 780)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,557 |
-| Ranidaphobia | 77.00% | ~1,303 |
-| Aspiring Editor | 74.00% | ~1,252 |
-| Gun for Hire | 69.00% | ~1,167 |
-| I am the law! | 63.00% | ~1,066 |
+| First Blood | 92.00% | ~1,558 |
+| Ranidaphobia | 77.00% | ~1,304 |
+| Aspiring Editor | 74.00% | ~1,253 |
+| Gun for Hire | 69.00% | ~1,168 |
+| I am the law! | 63.00% | ~1,067 |
 | Lumberjack | 53.00% | ~897 |
-| Croaked | 49.00% | ~829 |
-| Limp Richard | 48.00% | ~812 |
-| Exorcist | 48.00% | ~812 |
-| From Darkness to Light | 48.00% | ~812 |
-| Editor Adept | 47.00% | ~795 |
-| Giant Killer | 46.00% | ~778 |
-| Sensei | 44.00% | ~744 |
+| Croaked | 49.00% | ~830 |
+| Limp Richard | 48.00% | ~813 |
+| Exorcist | 48.00% | ~813 |
+| From Darkness to Light | 48.00% | ~813 |
+| Editor Adept | 47.00% | ~796 |
+| Giant Killer | 46.00% | ~779 |
+| Sensei | 44.00% | ~745 |
 | Firestarter | 42.00% | ~711 |
 | The meaning of Kain | 42.00% | ~711 |
 | Technophobe | 41.00% | ~694 |
 | Recycler | 40.00% | ~677 |
 | Are you not entertained? | 36.00% | ~609 |
 | Jarhead | 36.00% | ~609 |
-| Ganglord | 35.00% | ~592 |
-| Infiltrator | 35.00% | ~592 |
-| Experienced | 33.00% | ~558 |
-| Hold The Line | 33.00% | ~558 |
-| Pushing Daisy | 33.00% | ~558 |
+| Ganglord | 35.00% | ~593 |
+| Infiltrator | 35.00% | ~593 |
+| Experienced | 33.00% | ~559 |
+| Pushing Daisy | 33.00% | ~559 |
+| Hold The Line | 32.00% | ~542 |
 | Endgame | 28.00% | ~474 |
 | Savior | 28.00% | ~474 |
 | Silent but Violent | 28.00% | ~474 |
@@ -45,8 +45,8 @@ Rating: 4.39 (Ranked 779)
 | Chain Reaction | 9.00% | ~152 |
 | Curveball | 8.00% | ~135 |
 | Wipe Out | 8.00% | ~135 |
-| Dressed To Kill | 7.00% | ~118 |
-| Master Editor | 7.00% | ~118 |
+| Dressed To Kill | 7.00% | ~119 |
+| Master Editor | 7.00% | ~119 |
 | Attenborough | 6.00% | ~102 |
 | Bookworm | 3.00% | ~51 |
 | Cruelty | 3.00% | ~51 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 779)
 | Goaaaaal! | 0.80% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,692 (Ranked 257)  
+Progressed: 1,693 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 1,681 | 0 |
 | 2024-01-05 | 1,685 | 0 |
 | 2024-01-06 | 1,691 | 0 |
-| 2024-01-07 | 1,692 | 0 |
+| 2024-01-07 | 1,693 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

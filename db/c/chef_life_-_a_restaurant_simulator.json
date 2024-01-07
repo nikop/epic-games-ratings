@@ -2,13 +2,13 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -4519,9 +4519,9 @@
       "ID": "StaffMember3",
       "SetID": "d1bm05f",
       "Name": "Dream Team",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "StaffMemberSpecialityDishes10",
@@ -4600,8 +4600,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-05T14:58:53.6267944+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:09:36.8824739+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:09:52.6125467+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2362119+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:59:59.840841+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:09:36.8825148+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:59:50.5319967+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:09:52.6126271+00:00"
 }

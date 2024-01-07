@@ -1,47 +1,47 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 573)  
+Rating: 4.52 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~7,402 |
-| Greasy Palms | 42.00% | ~6,614 |
-| South American Connection | 26.00% | ~4,094 |
-| Life of the Party | 21.00% | ~3,307 |
-| Big Heat from Little Havana | 15.00% | ~2,362 |
-| Chauffeur | 15.00% | ~2,362 |
-| Tommy Two-Wheels | 15.00% | ~2,362 |
-| Salutations My Little Friend | 11.00% | ~1,732 |
-| Iron-y | 10.00% | ~1,575 |
-| Gun for Hire | 9.00% | ~1,417 |
-| Mischief Managed | 9.00% | ~1,417 |
-| Vice City Mogul | 7.00% | ~1,102 |
+| Legal Counsel | 46.00% | ~7,249 |
+| Greasy Palms | 42.00% | ~6,618 |
+| South American Connection | 26.00% | ~4,097 |
+| Life of the Party | 21.00% | ~3,309 |
+| Big Heat from Little Havana | 15.00% | ~2,364 |
+| Chauffeur | 15.00% | ~2,364 |
+| Tommy Two-Wheels | 15.00% | ~2,364 |
+| Salutations My Little Friend | 11.00% | ~1,733 |
+| Iron-y | 10.00% | ~1,576 |
+| Gun for Hire | 9.00% | ~1,418 |
+| Mischief Managed | 9.00% | ~1,418 |
+| Vice City Mogul | 7.00% | ~1,103 |
 | Catch Me if You Can | 6.00% | ~945 |
 | Bloodstained Hands | 6.00% | ~945 |
-| Not my First Time | 5.00% | ~787 |
-| Grand Theft Auto | 5.00% | ~787 |
+| Not my First Time | 5.00% | ~788 |
+| Grand Theft Auto | 5.00% | ~788 |
 | Pie Guy | 4.00% | ~630 |
-| Running Rampant | 3.00% | ~472 |
-| Point A to Point B | 3.00% | ~472 |
-| High Quality H2O | 3.00% | ~472 |
-| Bull in a China Shop | 3.00% | ~472 |
-| Somebody Call the Wambulance? | 3.00% | ~472 |
-| Just Like the Real Thing | 3.00% | ~472 |
-| Don't Need Roads | 3.00% | ~472 |
+| Running Rampant | 3.00% | ~473 |
+| Point A to Point B | 3.00% | ~473 |
+| High Quality H2O | 3.00% | ~473 |
+| Bull in a China Shop | 3.00% | ~473 |
+| Somebody Call the Wambulance? | 3.00% | ~473 |
+| Just Like the Real Thing | 3.00% | ~473 |
+| Don't Need Roads | 3.00% | ~473 |
 | One is Better Than Two | 2.00% | ~315 |
 | Take the Cannoli | 2.00% | ~315 |
 | Chopper’d Up | 2.00% | ~315 |
 | City Sleuth | 2.00% | ~315 |
-| Born in the 80’s | 1.00% | ~157 |
-| Keepie-Uppy Okie Dokie | 1.00% | ~157 |
-| I'm Famous! | 1.00% | ~157 |
-| Daredevil | 1.00% | ~157 |
+| Born in the 80’s | 1.00% | ~158 |
+| Keepie-Uppy Okie Dokie | 1.00% | ~158 |
+| I'm Famous! | 1.00% | ~158 |
+| Daredevil | 1.00% | ~158 |
 | Done it All | 0.90% | ~142 |
-| Kingpin | 0.60% | ~94 |
+| Kingpin | 0.60% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,748 (Ranked 170)  
-Completed: 89 (0.57%) (Ranked 209)  
+Progressed: 15,758 (Ranked 170)  
+Completed: 89 (0.56%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -302,7 +302,7 @@ Completed: 89 (0.57%) (Ranked 209)
 | 2024-01-04 | 15,370 | 86 |
 | 2024-01-05 | 15,486 | 86 |
 | 2024-01-06 | 15,660 | 88 |
-| 2024-01-07 | 15,748 | 89 |
+| 2024-01-07 | 15,758 | 89 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

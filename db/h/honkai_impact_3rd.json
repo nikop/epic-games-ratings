@@ -2,13 +2,13 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
     "PcReleaseDate": null,
@@ -10301,18 +10301,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 12346,
       "NumberOfAwardsMax": 3285
+    },
+    {
+      "Time": "2024-01-07T15:58:51.8992031+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 12356,
+      "NumberOfAwardsMax": 3292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12346,
-  "NumberOfAwardsMax": 3285,
+  "NumberOfAwards": 12356,
+  "NumberOfAwardsMax": 3292,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3285
+      "Count": 3292
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -10360,7 +10366,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 767
+      "Count": 770
     },
     {
       "Text": "This game is Relaxing",
@@ -10405,8 +10411,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2024-01-07T13:03:03.8134654+00:00",
+  "LastChanged": "2024-01-07T15:58:51.8992029+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.3425827+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:58:59.1829734+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:06:10.0618319+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:58:51.8992036+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:06:07.5303732+00:00"
 }

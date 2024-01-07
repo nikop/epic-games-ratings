@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 480,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -205,9 +205,9 @@
       "ID": "ID_02",
       "SetID": "2bmd16d",
       "Name": "Animal reporter",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ID_03",
@@ -229,9 +229,9 @@
       "ID": "ID_05",
       "SetID": "2bmd16d",
       "Name": "Recycling Legend",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ID_06",
@@ -261,9 +261,9 @@
       "ID": "ID_09",
       "SetID": "2bmd16d",
       "Name": "Reef cleanup",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ID_10",
@@ -357,9 +357,9 @@
       "ID": "ID_21",
       "SetID": "2bmd16d",
       "Name": "Picture of the reef",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ID_22",
@@ -437,9 +437,9 @@
       "ID": "ID_31",
       "SetID": "2bmd16d",
       "Name": "The fifth one!",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2023-10-01T15:03:13.0719146+00:00",
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:09:37.7541021+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:09:53.441449+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.4736222+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:00:33.0045194+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:09:37.75412+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:02:32.0976213+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:09:53.4414725+00:00"
 }

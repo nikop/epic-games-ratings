@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 235)  
+Rating: 4.69 (Ranked 236)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,320 (Ranked 42)  
+Progressed: 494,373 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,18 +632,18 @@ Completed: 1 (0.00%) (Ranked 392)
 | 2024-01-04 | 492,104 | 1 |
 | 2024-01-05 | 492,930 | 1 |
 | 2024-01-06 | 493,815 | 1 |
-| 2024-01-07 | 494,320 | 1 |
+| 2024-01-07 | 494,373 | 1 |
 ## Awards
-Max (Educational): 7,742  (Ranked 54)  
-Sum: 63,861 (Ranked 24)  
+Max (Educational): 7,757  (Ranked 54)  
+Sum: 63,909 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,742 |
-| This game has Diverse Characters | 7,586 |
+| This game is Educational | 7,757 |
+| This game has Diverse Characters | 7,608 |
 | This game is Highly Recommended | 7,436 |
 | This game has Challenging Combat | 7,369 |
-| This game is Extremely Fun | 7,263 |
+| This game is Extremely Fun | 7,274 |
 | This game is Relaxing | 7,099 |
 | This game has Competitive Players | 6,944 |
 | This game has Amazing Storytelling | 6,457 |
@@ -1007,4 +1007,4 @@ Diff (max vs sum): 30
 | 2024-01-04 | 4.69 | - | 7,708 | 63,557 |
 | 2024-01-05 | 4.69 | - | 7,726 | 63,694 |
 | 2024-01-06 | 4.69 | - | 7,742 | 63,845 |
-| 2024-01-07 | 4.69 | - | 7,742 | 63,861 |
+| 2024-01-07 | 4.69 | - | 7,757 | 63,909 |

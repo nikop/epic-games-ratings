@@ -1,21 +1,21 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.51 (Ranked 1,093)  
+Rating: 3.51 (Ranked 1,095)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~18,256 |
-| Master, Commander | 21.00% | ~17,426 |
-| Hard Worker | 20.00% | ~16,596 |
-| Adios, Friendo | 19.00% | ~15,766 |
-| Mechanic | 19.00% | ~15,766 |
-| Bottom's Up | 18.00% | ~14,936 |
-| Nice Try | 16.00% | ~13,277 |
-| Right On Target | 14.00% | ~11,617 |
+| Be Seeing You | 22.00% | ~18,257 |
+| Master, Commander | 21.00% | ~17,427 |
+| Hard Worker | 20.00% | ~16,597 |
+| Adios, Friendo | 19.00% | ~15,767 |
+| Mechanic | 19.00% | ~15,767 |
+| Bottom's Up | 18.00% | ~14,937 |
+| Nice Try | 16.00% | ~13,278 |
+| Right On Target | 14.00% | ~11,618 |
 | Piano Man | 11.00% | ~9,128 |
-| Lazy Bones | 9.00% | ~7,468 |
-| Vinyl Vibes | 8.00% | ~6,638 |
+| Lazy Bones | 9.00% | ~7,469 |
+| Vinyl Vibes | 8.00% | ~6,639 |
 | Nothing Left to Say | 7.00% | ~5,809 |
 | Sniper | 7.00% | ~5,809 |
 | Cut Call | 6.00% | ~4,979 |
@@ -23,15 +23,15 @@ Rating: 3.51 (Ranked 1,093)
 | Butcher | 4.00% | ~3,319 |
 | Fair's Fair | 4.00% | ~3,319 |
 | Spicy | 4.00% | ~3,319 |
-| A Man Of Taste | 3.00% | ~2,489 |
-| Ace in the Hole | 3.00% | ~2,489 |
-| Hearty | 3.00% | ~2,489 |
-| Meaty | 3.00% | ~2,489 |
-| Taco Toto | 3.00% | ~2,489 |
+| A Man Of Taste | 3.00% | ~2,490 |
+| Ace in the Hole | 3.00% | ~2,490 |
+| Hearty | 3.00% | ~2,490 |
+| Meaty | 3.00% | ~2,490 |
+| Taco Toto | 3.00% | ~2,490 |
 | Audiophile | 2.00% | ~1,660 |
 | Tape Head | 2.00% | ~1,660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,980 (Ranked 108)  
+Progressed: 82,985 (Ranked 108)  
 Completed: 924 (1.11%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 924 (1.11%) (Ranked 165)
 | 2024-01-04 | 82,699 | 916 |
 | 2024-01-05 | 82,798 | 918 |
 | 2024-01-06 | 82,903 | 923 |
-| 2024-01-07 | 82,980 | 924 |
+| 2024-01-07 | 82,985 | 924 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

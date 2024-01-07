@@ -1,7 +1,7 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.55 (Ranked 526)  
+Rating: 4.55 (Ranked 527)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,8 +21,8 @@ Rating: 4.55 (Ranked 526)
 | Portals come in packs | 29.00% | ~151 |
 | No man left behind! | 28.00% | ~146 |
 | Photo Friend | 25.00% | ~130 |
+| Masseltov | 20.00% | ~104 |
 | Brainfreeze | 20.00% | ~104 |
-| Masseltov | 19.00% | ~99 |
 | And everything comes full circle. | 19.00% | ~99 |
 | Quickdraw | 15.00% | ~78 |
 | Thuna...? | 14.00% | ~73 |

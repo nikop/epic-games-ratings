@@ -1,15 +1,15 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,256 |
+| You're free now! | 63.00% | ~2,257 |
 | Keeping it classy | 27.00% | ~967 |
 | Welcome to the family | 21.00% | ~752 |
-| The finer things in life | 19.00% | ~680 |
+| The finer things in life | 19.00% | ~681 |
 | Backpacker | 13.00% | ~466 |
 | Go with the Flow | 13.00% | ~466 |
 | Plastic Surgeon | 10.00% | ~358 |
@@ -25,7 +25,6 @@ Number of Ratings: 111  (23.09.2022)
 | Tight lipslides | 7.00% | ~251 |
 | Fulfilled the dream | 6.00% | ~215 |
 | G'Day Mate! | 6.00% | ~215 |
-| NAHELL! | 6.00% | ~215 |
 | Purple passion | 6.00% | ~215 |
 | Squad goals | 6.00% | ~215 |
 | Sup widdit big dog! | 6.00% | ~215 |
@@ -35,6 +34,7 @@ Number of Ratings: 111  (23.09.2022)
 | Laid back | 5.00% | ~179 |
 | Lines for days | 5.00% | ~179 |
 | Manny Destroys All | 5.00% | ~179 |
+| NAHELL! | 5.00% | ~179 |
 | Renaissance man | 5.00% | ~179 |
 | Trick shot marksman | 5.00% | ~179 |
 | We get it, you're good | 5.00% | ~179 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,581 (Ranked 221)  
+Progressed: 3,582 (Ranked 221)  
 Completed: 2 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 2 (0.06%) (Ranked 330)
 | 2024-01-04 | 3,529 | 2 |
 | 2024-01-05 | 3,543 | 2 |
 | 2024-01-06 | 3,566 | 2 |
-| 2024-01-07 | 3,581 | 2 |
+| 2024-01-07 | 3,582 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 423)  
 Sum: 584 (Ranked 325)  

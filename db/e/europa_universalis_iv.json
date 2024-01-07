@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 235,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14065,11 +14065,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 63861,
       "NumberOfAwardsMax": 7742
+    },
+    {
+      "Time": "2024-01-07T15:59:10.3977508+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63909,
+      "NumberOfAwardsMax": 7757
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63861,
-  "NumberOfAwardsMax": 7742,
+  "NumberOfAwards": 63909,
+  "NumberOfAwardsMax": 7757,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -14088,19 +14094,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7586
+      "Count": 7608
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7263
+      "Count": 7274
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7742
+      "Count": 7757
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14139,9 +14145,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 494320,
+  "EOS_Progressed": 494373,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5505,
+  "EOS_NewPlayers": 5509,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44369,6 +44375,11 @@
       "Time": "2024-01-07T15:09:51.9455531+00:00",
       "NumProgressed": 494320,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T16:10:07.8405945+00:00",
+      "NumProgressed": 494373,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -47283,21 +47294,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 494320,
+      "Progressed": 494373,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 494320,
+      "Progressed": 494373,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-07T14:59:18.7084663+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:09:51.9455527+00:00",
+  "LastChanged": "2024-01-07T15:59:10.3977506+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:10:07.8405942+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:59:18.7084679+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:09:51.9466183+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:59:10.397751+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:10:07.8416953+00:00"
 }

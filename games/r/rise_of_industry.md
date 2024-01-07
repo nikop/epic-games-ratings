@@ -1,25 +1,25 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.25 (Ranked 920)  
+Rating: 4.25 (Ranked 921)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~368,025 |
-| Well educated | 37.00% | ~283,686 |
-| City Planner | 19.00% | ~145,677 |
-| Deforester | 17.00% | ~130,342 |
-| Big Hauling | 16.00% | ~122,675 |
-| Apprentice Manufacturer | 13.00% | ~99,673 |
-| Exporter | 13.00% | ~99,673 |
-| I would drive 500 tiles... | 12.00% | ~92,006 |
-| Landscaper | 12.00% | ~92,006 |
-| Railwayman | 8.00% | ~61,338 |
-| Penniless | 6.00% | ~46,003 |
-| Massive Gains | 6.00% | ~46,003 |
+| Entrepreneur | 48.00% | ~368,035 |
+| Well educated | 37.00% | ~283,693 |
+| City Planner | 19.00% | ~145,680 |
+| Deforester | 17.00% | ~130,346 |
+| Big Hauling | 16.00% | ~122,678 |
+| Apprentice Manufacturer | 13.00% | ~99,676 |
+| Exporter | 13.00% | ~99,676 |
+| I would drive 500 tiles... | 12.00% | ~92,009 |
+| Landscaper | 12.00% | ~92,009 |
+| Railwayman | 8.00% | ~61,339 |
+| Penniless | 6.00% | ~46,004 |
+| Massive Gains | 6.00% | ~46,004 |
 | Salesman | 3.00% | ~23,002 |
-| Engineer | 2.00% | ~15,334 |
-| High Flyer | 2.00% | ~15,334 |
+| Engineer | 2.00% | ~15,335 |
+| High Flyer | 2.00% | ~15,335 |
 | Captain | 0.80% | ~6,134 |
 | Billionaire | 0.70% | ~5,367 |
 | Vroom Vroom | 0.40% | ~3,067 |
@@ -33,7 +33,7 @@ Rating: 4.25 (Ranked 920)
 | Master Builder | 0.10% | ~767 |
 | Hard working | 0.10% | ~767 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 766,719 (Ranked 23)  
+Progressed: 766,739 (Ranked 23)  
 Completed: 4 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 4 (0.00%) (Ranked 392)
 | 2024-01-04 | 765,803 | 4 |
 | 2024-01-05 | 766,123 | 4 |
 | 2024-01-06 | 766,484 | 4 |
-| 2024-01-07 | 766,719 | 4 |
+| 2024-01-07 | 766,739 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

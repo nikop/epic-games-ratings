@@ -2,7 +2,7 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 655,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 354,
@@ -474,9 +474,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 485,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1799,6 +1799,11 @@
       "Time": "2024-01-07T15:08:22.4842244+00:00",
       "NumProgressed": 484,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T16:08:39.1356713+00:00",
+      "NumProgressed": 485,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1881,17 +1886,17 @@
       "ID": "Collect_HealthStone_HealUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Vigor",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 286
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -1899,7 +1904,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1947,7 +1952,7 @@
       "Name": "Cleanup Crew",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Collect_Soulmulet",
@@ -1985,9 +1990,9 @@
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 204
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2121,9 +2126,9 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 155
     },
     {
       "ID": "Kill_Enemies_666",
@@ -2217,9 +2222,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 310
     },
     {
       "ID": "Save_Humans_10",
@@ -2265,17 +2270,17 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 330
     },
     {
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 184
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2307,7 +2312,7 @@
       "Name": "Just the start",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -2322,15 +2327,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 485,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:08:22.4842237+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:08:39.135671+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:59:59.4504209+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:08:22.4842728+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:59:50.0957249+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:08:39.1357205+00:00"
 }

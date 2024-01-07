@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 526,
+  "Ranking_Rating": 527,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -553,9 +553,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4602,
+  "EOS_Progressed": 4604,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7943,6 +7943,11 @@
       "Time": "2024-01-07T15:04:17.413203+00:00",
       "NumProgressed": 4602,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T16:04:15.8690213+00:00",
+      "NumProgressed": 4604,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7954,7 +7959,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "AceDetective_9",
@@ -7978,7 +7983,7 @@
       "Name": "Apex Predator",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "BloodAndJustice_50",
@@ -7994,7 +7999,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "CrowdPleaser",
@@ -8010,7 +8015,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "Eureka_23",
@@ -8026,7 +8031,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ForAllAurai_8",
@@ -8058,7 +8063,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "HouseofCards_19",
@@ -8138,7 +8143,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8146,7 +8151,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2807
+      "UsersEstimate": 2808
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8154,7 +8159,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -8162,7 +8167,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -8218,7 +8223,7 @@
       "Name": "The Power of Family",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -8274,7 +8279,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3315
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8289,15 +8294,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4602,
+      "Progressed": 4604,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-05T19:04:06.3891748+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:04:17.4132025+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:04:15.8690211+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:02:56.6408977+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:04:17.4132599+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:02:54.0878451+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:04:15.8690706+00:00"
 }

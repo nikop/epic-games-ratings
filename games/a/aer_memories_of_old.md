@@ -1,25 +1,25 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.44 (Ranked 704)  
+Rating: 4.44 (Ranked 705)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~21,426 |
-| Mama? | 27.00% | ~7,612 |
-| People's Haven | 18.00% | ~5,075 |
-| Cartographer | 16.00% | ~4,511 |
-| Knowledge for Power | 14.00% | ~3,947 |
-| Antlers of Stone | 14.00% | ~3,947 |
-| Gaze into the abyss | 13.00% | ~3,665 |
-| Mausoleum of Ice | 13.00% | ~3,665 |
-| Wings of Stone | 12.00% | ~3,383 |
-| Equilibrium | 12.00% | ~3,383 |
-| In the belly of the beast | 11.00% | ~3,101 |
-| Condor condo | 10.00% | ~2,819 |
-| Memorial | 9.00% | ~2,537 |
-| An uninvited guest | 7.00% | ~1,973 |
+| Light at the end of the tunnel | 76.00% | ~21,430 |
+| Mama? | 27.00% | ~7,613 |
+| People's Haven | 18.00% | ~5,076 |
+| Cartographer | 16.00% | ~4,512 |
+| Knowledge for Power | 14.00% | ~3,948 |
+| Antlers of Stone | 14.00% | ~3,948 |
+| Gaze into the abyss | 13.00% | ~3,666 |
+| Mausoleum of Ice | 13.00% | ~3,666 |
+| Wings of Stone | 12.00% | ~3,384 |
+| Equilibrium | 12.00% | ~3,384 |
+| In the belly of the beast | 11.00% | ~3,102 |
+| Condor condo | 10.00% | ~2,820 |
+| Memorial | 9.00% | ~2,538 |
+| An uninvited guest | 7.00% | ~1,974 |
 | Tails of Stone | 6.00% | ~1,692 |
 | Baa from the past | 6.00% | ~1,692 |
 | Written in stone | 6.00% | ~1,692 |
@@ -27,8 +27,8 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,410 |
 | Hide and Seek | 4.00% | ~1,128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,192 (Ranked 143)  
-Completed: 518 (1.84%) (Ranked 140)  
+Progressed: 28,198 (Ranked 143)  
+Completed: 519 (1.84%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,7 +289,7 @@ Completed: 518 (1.84%) (Ranked 140)
 | 2024-01-04 | 27,953 | 511 |
 | 2024-01-05 | 28,041 | 514 |
 | 2024-01-06 | 28,137 | 515 |
-| 2024-01-07 | 28,192 | 518 |
+| 2024-01-07 | 28,198 | 519 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

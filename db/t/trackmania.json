@@ -2,13 +2,13 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -15486,10 +15486,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 34680,
       "NumberOfAwardsMax": 4303
+    },
+    {
+      "Time": "2024-01-07T15:57:31.5135687+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 34684,
+      "NumberOfAwardsMax": 4303
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34680,
+  "NumberOfAwards": 34684,
   "NumberOfAwardsMax": 4303,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -15521,7 +15527,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3605
+      "Count": 3609
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -15577,8 +15583,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-01-07T14:57:42.2148947+00:00",
+  "LastChanged": "2024-01-07T15:57:31.5135686+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.0174834+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:57:42.2148953+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:09:33.5613711+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:57:31.5135692+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:09:49.3407792+00:00"
 }

@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.96 (Ranked 1,056)  
+Rating: 3.96 (Ranked 1,057)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,15 +39,15 @@ Rating: 3.96 (Ranked 1,056)
 | Rockay Knight | 0.30% | ~280 |
 | Red Star | 0.30% | ~280 |
 | All for One | 0.30% | ~65 |
-| Now You See Me | 0.30% | ~65 |
 | Privateer | 0.20% | ~186 |
 | Talent Scout | 0.20% | ~186 |
 | Impossible Dreamer | 0.20% | ~186 |
 | One for All | 0.20% | ~43 |
+| Now You See Me | 0.20% | ~43 |
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,194 (Ranked 101)  
+Progressed: 93,203 (Ranked 101)  
 Completed: 58 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 58 (0.06%) (Ranked 330)
 | 2024-01-04 | 93,006 | 58 |
 | 2024-01-05 | 93,065 | 58 |
 | 2024-01-06 | 93,141 | 58 |
-| 2024-01-07 | 93,194 | 58 |
+| 2024-01-07 | 93,203 | 58 |
 ## Awards
 Max (Diverse Characters): 591  (Ranked 210)  
 Sum: 2,797 (Ranked 192)  

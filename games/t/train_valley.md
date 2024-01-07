@@ -1,37 +1,37 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.49 (Ranked 633)  
+Rating: 4.49 (Ranked 634)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~488 |
-| Close call! | 71.00% | ~456 |
-| Builder | 51.00% | ~327 |
-| Pangs of conscience | 44.00% | ~282 |
-| Living it large! | 44.00% | ~282 |
+| Getting started | 76.00% | ~489 |
+| Close call! | 71.00% | ~457 |
+| Builder | 51.00% | ~328 |
+| Pangs of conscience | 44.00% | ~283 |
+| Living it large! | 44.00% | ~283 |
 | Collector | 42.00% | ~270 |
-| Need to think | 41.00% | ~263 |
+| Need to think | 41.00% | ~264 |
 | Completely nuts! | 40.00% | ~257 |
 | Europe | 33.00% | ~212 |
-| Just in time! | 32.00% | ~205 |
+| Just in time! | 32.00% | ~206 |
 | Madness! | 31.00% | ~199 |
-| It's no coincidence. | 27.00% | ~173 |
+| It's no coincidence. | 27.00% | ~174 |
 | Philatelist | 26.00% | ~167 |
-| Let's roll! | 25.00% | ~160 |
+| Let's roll! | 25.00% | ~161 |
 | Ouroboros | 24.00% | ~154 |
 | Non Stop! | 24.00% | ~154 |
-| Foreman | 20.00% | ~128 |
+| Foreman | 20.00% | ~129 |
 | America | 19.00% | ~122 |
 | Russia | 19.00% | ~122 |
 | Missed it! | 18.00% | ~116 |
 | Sabotage | 15.00% | ~96 |
 | Achtung! | 12.00% | ~77 |
 | Japan | 11.00% | ~71 |
-| Tycoon | 10.00% | ~64 |
 | Woodcutter | 10.00% | ~64 |
 | Engineer | 10.00% | ~64 |
+| Tycoon | 9.00% | ~58 |
 | Germany | 7.00% | ~45 |
 | Сhancellor | 5.00% | ~32 |
 | Supercrash! | 5.00% | ~32 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~4 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 642 (Ranked 333)  
+Progressed: 643 (Ranked 333)  
 Completed: 2 (0.31%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2 (0.31%) (Ranked 251)
 | 2024-01-04 | 630 | 2 |
 | 2024-01-05 | 632 | 2 |
 | 2024-01-06 | 640 | 2 |
-| 2024-01-07 | 642 | 2 |
+| 2024-01-07 | 643 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

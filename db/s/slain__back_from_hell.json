@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 892,
+  "Ranking_Rating": 893,
   "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43712,
+  "EOS_Progressed": 43719,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -28725,6 +28725,11 @@
       "Time": "2024-01-07T15:05:43.2541548+00:00",
       "NumProgressed": 43712,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-07T16:05:40.3379955+00:00",
+      "NumProgressed": 43719,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28736,7 +28741,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6557
+      "UsersEstimate": 6558
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -28744,7 +28749,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9180
+      "UsersEstimate": 9181
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -28880,7 +28885,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -28967,7 +28972,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43712,
+      "Progressed": 43719,
       "Completed": 30
     }
   ],
@@ -28975,8 +28980,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:05:43.2541543+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:05:40.3379951+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:02:44.9321603+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:05:43.2543048+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:02:42.73023+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:05:40.3381487+00:00"
 }

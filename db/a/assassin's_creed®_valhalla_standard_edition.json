@@ -2,13 +2,13 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 429,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 25,
-  "Ranking_PopularitySum": 37,
+  "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -14173,18 +14173,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 38867,
       "NumberOfAwardsMax": 15838
+    },
+    {
+      "Time": "2024-01-07T15:56:56.3331431+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 38914,
+      "NumberOfAwardsMax": 15878
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38867,
-  "NumberOfAwardsMax": 15838,
+  "NumberOfAwards": 38914,
+  "NumberOfAwardsMax": 15878,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 15838
+      "Count": 15878
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14196,7 +14202,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1533
+      "Count": 1537
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14244,7 +14250,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 794
+      "Count": 797
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14264,8 +14270,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2024-01-07T14:57:06.8575768+00:00",
+  "LastChanged": "2024-01-07T15:56:56.3331429+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:39.4135138+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:57:06.8575774+00:00",
+  "LastUpdate_Ratings": "2024-01-07T15:56:56.3331434+00:00",
   "LastUpdate_Achievements": "2024-01-07T15:06:21.4987979+00:00"
 }

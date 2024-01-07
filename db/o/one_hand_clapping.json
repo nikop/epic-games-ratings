@@ -2,10 +2,10 @@
   "ID": "a4b5203877a04321bd1989cef6ba51dc",
   "Name": "One Hand Clapping",
   "ProductSlug": "one-hand-clapping",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
     "PcReleaseDate": "2021-06-10T11:05:23+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 900,
+  "EOS_Progressed": 903,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -739,6 +739,11 @@
       "Time": "2024-01-07T15:05:22.0646711+00:00",
       "NumProgressed": 900,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T16:05:19.6614411+00:00",
+      "NumProgressed": 903,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -750,7 +755,7 @@
       "Name": "Silent City",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "10",
@@ -973,7 +978,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 900,
+      "Progressed": 903,
       "Completed": 0
     }
   ],
@@ -981,8 +986,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:05:22.0646707+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:05:19.6614408+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.3557849+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:58:47.0141801+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:05:22.0646971+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:58:39.3011207+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:05:19.6614623+00:00"
 }

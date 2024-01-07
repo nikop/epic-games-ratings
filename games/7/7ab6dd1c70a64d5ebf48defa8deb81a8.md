@@ -1,38 +1,38 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.16 (Ranked 986)  
+Rating: 4.16 (Ranked 987)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 62.00% | ~1,227 |
-| Trinity | 30.00% | ~594 |
-| A Taste of Wrath | 24.00% | ~475 |
-| The Collector | 24.00% | ~475 |
-| Find Allies | 23.00% | ~455 |
-| I Found It | 23.00% | ~455 |
-| Shatter Them All | 22.00% | ~435 |
-| Geared Up | 22.00% | ~435 |
-| Adventurer | 21.00% | ~416 |
-| Fashion Victim | 21.00% | ~416 |
-| Scholar | 21.00% | ~416 |
-| Tributes of Caladrias | 20.00% | ~396 |
-| Powerful Allies | 19.00% | ~376 |
-| Stone Collection | 19.00% | ~376 |
-| Big Bazar | 13.00% | ~257 |
-| Essence Blow | 12.00% | ~237 |
-| Alchemist | 12.00% | ~237 |
+| Break Out | 62.00% | ~1,231 |
+| Trinity | 30.00% | ~596 |
+| A Taste of Wrath | 24.00% | ~476 |
+| The Collector | 24.00% | ~476 |
+| Find Allies | 23.00% | ~457 |
+| I Found It | 23.00% | ~457 |
+| Adventurer | 22.00% | ~437 |
+| Shatter Them All | 22.00% | ~437 |
+| Geared Up | 22.00% | ~437 |
+| Fashion Victim | 21.00% | ~417 |
+| Scholar | 21.00% | ~417 |
+| Tributes of Caladrias | 20.00% | ~397 |
+| Powerful Allies | 19.00% | ~377 |
+| Stone Collection | 19.00% | ~377 |
+| Big Bazar | 13.00% | ~258 |
+| Essence Blow | 12.00% | ~238 |
+| Alchemist | 12.00% | ~238 |
 | The Mentor | 10.00% | ~198 |
-| Calm before the Storm | 9.00% | ~178 |
-| To Battle | 8.00% | ~158 |
+| Calm before the Storm | 9.00% | ~179 |
+| To Battle | 8.00% | ~159 |
 | Godslayer | 7.00% | ~139 |
 | Airborne | 7.00% | ~139 |
 | Miner | 7.00% | ~139 |
 | Clear Sight | 4.00% | ~79 |
 | Shatterer | 4.00% | ~79 |
 | Fine Feathers Make Fine Birds | 4.00% | ~79 |
-| Slayer | 3.00% | ~59 |
-| A Queen's Tale | 3.00% | ~59 |
+| Slayer | 3.00% | ~60 |
+| A Queen's Tale | 3.00% | ~60 |
 | Flawless Victory | 2.00% | ~40 |
 | All There Is | 2.00% | ~40 |
 | False God | 2.00% | ~40 |
@@ -42,7 +42,7 @@ Rating: 4.16 (Ranked 986)
 | All That Gold | 0.80% | ~16 |
 | Feeling Fancy | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,979 (Ranked 249)  
+Progressed: 1,985 (Ranked 249)  
 Completed: 3 (0.15%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 3 (0.15%) (Ranked 285)
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
 | 2024-01-06 | 1,936 | 3 |
-| 2024-01-07 | 1,979 | 3 |
+| 2024-01-07 | 1,985 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

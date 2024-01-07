@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~250 |
-| A piece of the story | 65.00% | ~189 |
+| Something important | 86.00% | ~251 |
+| A piece of the story | 65.00% | ~190 |
 | It's covered up for a reason | 58.00% | ~169 |
-| Wanderer | 53.00% | ~154 |
+| Wanderer | 52.00% | ~152 |
 | Scraps of love | 50.00% | ~146 |
 | The artist’s impression | 48.00% | ~140 |
-| Do what you have to | 42.00% | ~122 |
-| Sign of weakness | 40.00% | ~116 |
+| Do what you have to | 42.00% | ~123 |
+| Sign of weakness | 39.00% | ~114 |
 | Refuse to look | 35.00% | ~102 |
-| Face your fears | 29.00% | ~84 |
+| Face your fears | 29.00% | ~85 |
 | Finished it | 25.00% | ~73 |
 | Whispers long forgotten | 16.00% | ~47 |
 | Sound Bite | 13.00% | ~38 |
@@ -30,9 +30,9 @@
 | Breaking free | 8.00% | ~23 |
 | Heavy Burden | 7.00% | ~20 |
 | True Reflection | 7.00% | ~20 |
-| Casting Finished | 6.00% | ~17 |
-| Instinct of self-preservation | 6.00% | ~17 |
-| Fisherman | 6.00% | ~17 |
+| Casting Finished | 6.00% | ~18 |
+| Instinct of self-preservation | 6.00% | ~18 |
+| Fisherman | 6.00% | ~18 |
 | Something to think about | 4.00% | ~12 |
 | I remember It Like Was Yesterday | 4.00% | ~12 |
 | Immortalized in my heart | 4.00% | ~12 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291 (Ranked 401)  
+Progressed: 292 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,4 +133,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 274 | 0 |
 | 2024-01-05 | 283 | 0 |
 | 2024-01-06 | 286 | 0 |
-| 2024-01-07 | 291 | 0 |
+| 2024-01-07 | 292 | 0 |

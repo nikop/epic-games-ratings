@@ -1,7 +1,7 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 261)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.68 (Ranked 260)
 | Devil's in the details | 14.00% | ~124 |
 | Uprooting | 13.00% | ~115 |
 | Forbidden techniques | 12.00% | ~106 |
-| Devoted | 9.00% | ~79 |
+| Devoted | 9.00% | ~80 |
 | Slavic squatter | 8.00% | ~71 |
 | Spirit animal | 7.00% | ~62 |
 | Gold rush | 6.00% | ~53 |
@@ -24,9 +24,9 @@ Rating: 4.68 (Ranked 260)
 | Sneak peek | 4.00% | ~35 |
 | Favorite | 4.00% | ~35 |
 | Queen | 4.00% | ~35 |
-| Goal! | 3.00% | ~26 |
-| Specialist | 3.00% | ~26 |
-| Witch's cookbook | 3.00% | ~26 |
+| Goal! | 3.00% | ~27 |
+| Specialist | 3.00% | ~27 |
+| Witch's cookbook | 3.00% | ~27 |
 | Bad apple | 2.00% | ~18 |
 | Gnowlledgeable | 2.00% | ~18 |
 | Both sides | 2.00% | ~18 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 260)
 | Mushrooming enthusiast | 0.70% | ~6 |
 | Apex predator | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883 (Ranked 301)  
+Progressed: 884 (Ranked 301)  
 Completed: 1 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 1 (0.11%) (Ranked 304)
 | 2024-01-04 | 869 | 1 |
 | 2024-01-05 | 874 | 1 |
 | 2024-01-06 | 880 | 1 |
-| 2024-01-07 | 883 | 1 |
+| 2024-01-07 | 884 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

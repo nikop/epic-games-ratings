@@ -1,7 +1,7 @@
 # Chef Life - A Restaurant Simulator
 [Store](https://store.epicgames.com/en-US/p/chef-life-a-restaurant-simulator)  
 [View Rawdata](../../db/c/chef_life_-_a_restaurant_simulator.json)  
-Rating: 4.45 (Ranked 690)  
+Rating: 4.45 (Ranked 691)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,6 +26,7 @@ Rating: 4.45 (Ranked 690)
 | Codename: Arrabbiata | 0.20% | ~2 |
 | Teamwork | 0.10% | ~1 |
 | Kitchen Model | 0.10% | ~1 |
+| Dream Team | 0.10% | ~1 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
 | Stella d’Italia | 0.00% | ~0 |
@@ -40,7 +41,6 @@ Rating: 4.45 (Ranked 690)
 | Seasoned Chef | 0.00% | ~0 |
 | The More the Merrier | 0.00% | ~0 |
 | Reinventing the Meal | 0.00% | ~0 |
-| Dream Team | 0.00% | ~0 |
 | Rising Star | 0.00% | ~0 |
 | Foodie Favorite | 0.00% | ~0 |
 | A Star is Born | 0.00% | ~0 |

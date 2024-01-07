@@ -4,8 +4,8 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -467,17 +467,17 @@
       "ID": "story_dance_off",
       "SetID": "7e96e7l",
       "Name": "Dance like an idiot",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "story_end_credits",
       "SetID": "7e96e7l",
       "Name": "I\u0027m Back at the Surface now",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "story_ethics_maze",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:09:53.7083862+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:10:09.2692574+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.0189058+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:00:33.9975341+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:09:53.7083988+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:02:33.227892+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:10:09.2692734+00:00"
 }

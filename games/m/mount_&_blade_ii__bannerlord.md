@@ -1,49 +1,49 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 164)  
+Rating: 4.74 (Ranked 165)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 42.00% | ~38,316 |
-| Landlord | 34.00% | ~31,018 |
-| Trained | 29.00% | ~26,456 |
-| Bannerlord | 24.00% | ~21,895 |
-| Lawmaker | 23.00% | ~20,982 |
-| Horde breaker | 21.00% | ~19,158 |
-| The king is pleased | 19.00% | ~17,333 |
-| King Solomon | 17.00% | ~15,509 |
-| Apple of my eye | 16.00% | ~14,596 |
-| This Is Our Land | 16.00% | ~14,596 |
-| I can do it | 15.00% | ~13,684 |
-| Against all odds | 14.00% | ~12,772 |
-| Duelist | 12.00% | ~10,947 |
-| God of the Arena | 12.00% | ~10,947 |
-| Swordbearer | 11.00% | ~10,035 |
-| Dynasty | 10.00% | ~9,123 |
-| I spit on your grave | 10.00% | ~9,123 |
-| What have the Romans ever done for us? | 10.00% | ~9,123 |
-| Butterlord | 9.00% | ~8,211 |
-| Mastery | 7.00% | ~6,386 |
-| Know your enemy | 6.00% | ~5,474 |
-| My way | 5.00% | ~4,561 |
-| Crowdfunded | 4.00% | ~3,649 |
-| Crush your enemies | 4.00% | ~3,649 |
-| Veni vidi vici | 4.00% | ~3,649 |
-| Freedom! | 3.00% | ~2,737 |
-| Long live the Empire! | 3.00% | ~2,737 |
-| Real Estate | 3.00% | ~2,737 |
-| Supreme Emperor | 1.00% | ~912 |
-| Entrepreneur | 0.90% | ~821 |
+| Lawbringer | 42.00% | ~38,343 |
+| Landlord | 34.00% | ~31,039 |
+| Trained | 29.00% | ~26,475 |
+| Bannerlord | 24.00% | ~21,910 |
+| Lawmaker | 23.00% | ~20,997 |
+| Horde breaker | 21.00% | ~19,171 |
+| The king is pleased | 19.00% | ~17,345 |
+| King Solomon | 17.00% | ~15,520 |
+| Apple of my eye | 16.00% | ~14,607 |
+| This Is Our Land | 16.00% | ~14,607 |
+| I can do it | 15.00% | ~13,694 |
+| Against all odds | 14.00% | ~12,781 |
+| Duelist | 12.00% | ~10,955 |
+| God of the Arena | 12.00% | ~10,955 |
+| Swordbearer | 11.00% | ~10,042 |
+| Dynasty | 10.00% | ~9,129 |
+| I spit on your grave | 10.00% | ~9,129 |
+| What have the Romans ever done for us? | 10.00% | ~9,129 |
+| Butterlord | 9.00% | ~8,216 |
+| Mastery | 7.00% | ~6,390 |
+| Know your enemy | 6.00% | ~5,478 |
+| My way | 5.00% | ~4,565 |
+| Crowdfunded | 4.00% | ~3,652 |
+| Crush your enemies | 4.00% | ~3,652 |
+| Veni vidi vici | 4.00% | ~3,652 |
+| Freedom! | 3.00% | ~2,739 |
+| Long live the Empire! | 3.00% | ~2,739 |
+| Real Estate | 3.00% | ~2,739 |
+| Supreme Emperor | 1.00% | ~913 |
+| Entrepreneur | 0.90% | ~822 |
 | Crackshot | 0.80% | ~730 |
 | Undercover | 0.80% | ~730 |
-| Fat Cat | 0.60% | ~547 |
+| Fat Cat | 0.60% | ~548 |
 | Catch | 0.50% | ~456 |
 | Slice 'n dice | 0.40% | ~365 |
 | Ride it like you stole it | 0.30% | ~274 |
-| Mounted Archery | 0.20% | ~182 |
-| Strike! | 0.20% | ~182 |
+| Mounted Archery | 0.20% | ~183 |
+| Strike! | 0.20% | ~183 |
 | Best served cold | 0.10% | ~91 |
 | Butcher of Calradia | 0.10% | ~91 |
 | Explorer | 0.10% | ~91 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,228 (Ranked 103)  
+Progressed: 91,292 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,17 +320,17 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 88,865 | 0 |
 | 2024-01-05 | 89,622 | 0 |
 | 2024-01-06 | 90,625 | 0 |
-| 2024-01-07 | 91,228 | 0 |
+| 2024-01-07 | 91,292 | 0 |
 ## Awards
 Max (Character Customization): 7,926  (Ranked 51)  
-Sum: 16,486 (Ranked 67)  
+Sum: 16,488 (Ranked 67)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,926 |
 | This game is Great for Beginners | 1,190 |
 | This game has Diverse Characters | 1,105 |
-| This game is Highly Recommended | 1,008 |
+| This game is Highly Recommended | 1,010 |
 | This game is Extremely Fun | 937 |
 | This game has Amazing Storytelling | 923 |
 | This game has Amazing Characters | 921 |
@@ -699,4 +699,4 @@ Diff (max vs sum): -16
 | 2024-01-04 | 4.74 | - | 7,884 | 16,416 |
 | 2024-01-05 | 4.74 | - | 7,903 | 16,440 |
 | 2024-01-06 | 4.74 | - | 7,926 | 16,482 |
-| 2024-01-07 | 4.74 | - | 7,926 | 16,486 |
+| 2024-01-07 | 4.74 | - | 7,926 | 16,488 |

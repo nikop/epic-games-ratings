@@ -1,25 +1,25 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 526)  
+Rating: 4.55 (Ranked 527)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 72.00% | ~3,313 |
-| Ready for Winter | 61.00% | ~2,807 |
-| Ready for Summer | 48.00% | ~2,209 |
-| Cordon Bleu | 40.00% | ~1,841 |
+| Venture Outward | 72.00% | ~3,315 |
+| Ready for Winter | 61.00% | ~2,808 |
+| Ready for Summer | 48.00% | ~2,210 |
+| Cordon Bleu | 40.00% | ~1,842 |
 | Tapped! | 34.00% | ~1,565 |
 | Eureka | 29.00% | ~1,335 |
-| Scourge Slayer | 23.00% | ~1,058 |
-| Science, Troglodyte! | 21.00% | ~966 |
-| Exceptional Skill | 20.00% | ~920 |
-| Home Sweet Home | 20.00% | ~920 |
-| Encyclopedic! | 18.00% | ~828 |
-| The Power of Family | 15.00% | ~690 |
-| A Fortress Toppled! | 14.00% | ~644 |
-| Apex Predator | 14.00% | ~644 |
+| Scourge Slayer | 23.00% | ~1,059 |
+| Science, Troglodyte! | 21.00% | ~967 |
+| Exceptional Skill | 20.00% | ~921 |
+| Home Sweet Home | 20.00% | ~921 |
+| Encyclopedic! | 18.00% | ~829 |
+| The Power of Family | 15.00% | ~691 |
+| A Fortress Toppled! | 14.00% | ~645 |
+| Apex Predator | 14.00% | ~645 |
 | Strange amalgams | 11.00% | ~506 |
 | The Power of Faith | 11.00% | ~506 |
 | The Power of Freedom | 9.00% | ~414 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,602 (Ranked 206)  
+Progressed: 4,604 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 5 (0.11%) (Ranked 304)
 | 2024-01-04 | 4,478 | 5 |
 | 2024-01-05 | 4,511 | 5 |
 | 2024-01-06 | 4,569 | 5 |
-| 2024-01-07 | 4,602 | 5 |
+| 2024-01-07 | 4,604 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 502)  
 Sum: 246 (Ranked 400)  

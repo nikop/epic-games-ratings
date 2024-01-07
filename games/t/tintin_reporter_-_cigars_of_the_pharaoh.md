@@ -8,7 +8,7 @@
 | A Loyal Friend | 42.00% | ~52 |
 | Abandon Ship! | 31.00% | ~38 |
 | The Tomb of Kih-Oskh | 26.00% | ~32 |
-| The Weighing of the Soul | 21.00% | ~26 |
+| The Weighing of the Soul | 22.00% | ~27 |
 | The Curse of Kih-Oskh | 16.00% | ~20 |
 | It's a Deal! | 13.00% | ~16 |
 | In the Name of the Law | 11.00% | ~14 |

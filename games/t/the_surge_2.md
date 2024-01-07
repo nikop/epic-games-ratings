@@ -1,19 +1,19 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 913)  
+Rating: 4.26 (Ranked 914)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,981 |
-| Don't I Know You...? | 75.00% | ~1,881 |
-| Jailbreak | 64.00% | ~1,605 |
+| Rigged And Ready | 79.00% | ~1,982 |
+| Don't I Know You...? | 75.00% | ~1,882 |
+| Jailbreak | 64.00% | ~1,606 |
 | HEADSHOT! | 37.00% | ~928 |
 | Suited and Booted | 37.00% | ~928 |
 | Sleeping With The Fishes | 35.00% | ~878 |
-| High Performance | 30.00% | ~752 |
-| Overheated | 29.00% | ~727 |
-| Powered Up | 28.00% | ~702 |
+| High Performance | 30.00% | ~753 |
+| Overheated | 29.00% | ~728 |
+| Powered Up | 28.00% | ~703 |
 | Studied The Blade | 24.00% | ~602 |
 | Home Invasion | 22.00% | ~552 |
 | Luminary | 22.00% | ~552 |
@@ -23,9 +23,9 @@ Rating: 4.26 (Ranked 913)
 | Shocking | 20.00% | ~502 |
 | Court Martial | 19.00% | ~477 |
 | Unforeseeable Consequences | 19.00% | ~477 |
-| Clean Cut | 18.00% | ~451 |
-| Dead Again | 17.00% | ~426 |
-| Full Arsenal | 17.00% | ~426 |
+| Clean Cut | 18.00% | ~452 |
+| Dead Again | 17.00% | ~427 |
+| Full Arsenal | 17.00% | ~427 |
 | Can't Trust Banks | 15.00% | ~376 |
 | Mommy Dearest | 13.00% | ~326 |
 | Bad Dog | 13.00% | ~326 |
@@ -42,18 +42,18 @@ Rating: 4.26 (Ranked 913)
 | Following In Their Footsteps | 8.00% | ~201 |
 | Defense in Depth | 8.00% | ~201 |
 | Reverse Engineering | 7.00% | ~176 |
-| Remote Surgery | 6.00% | ~150 |
-| Turbo Booster | 6.00% | ~150 |
-| Squid Pro Quo | 6.00% | ~150 |
+| Remote Surgery | 6.00% | ~151 |
+| Turbo Booster | 6.00% | ~151 |
+| Squid Pro Quo | 6.00% | ~151 |
 | Reborn | 5.00% | ~125 |
 | Hello Darkness My Old Friend | 5.00% | ~125 |
 | Counter-Sniper | 5.00% | ~125 |
 | Shrimp Cocktail | 5.00% | ~125 |
 | Juiced Up | 5.00% | ~125 |
 | Geronimo! | 4.00% | ~100 |
+| Homewrecker | 4.00% | ~100 |
 | Plank of Wood | 4.00% | ~100 |
 | Gotta Craft 'em All | 3.00% | ~75 |
-| Homewrecker | 3.00% | ~75 |
 | Own Medicine | 2.00% | ~50 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~50 |
 | Box Office Smash | 2.00% | ~50 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 913)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,508 (Ranked 235)  
+Progressed: 2,509 (Ranked 236)  
 Completed: 13 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 13 (0.52%) (Ranked 216)
 | 2024-01-04 | 2,469 | 13 |
 | 2024-01-05 | 2,483 | 13 |
 | 2024-01-06 | 2,499 | 13 |
-| 2024-01-07 | 2,508 | 13 |
+| 2024-01-07 | 2,509 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

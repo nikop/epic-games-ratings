@@ -2,7 +2,7 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 319,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 308,
@@ -341,9 +341,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 813,
+  "EOS_Progressed": 815,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -2166,6 +2166,11 @@
       "Time": "2024-01-07T15:05:41.7242532+00:00",
       "NumProgressed": 813,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T16:05:38.8251038+00:00",
+      "NumProgressed": 815,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2218,7 +2223,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2312,9 +2317,9 @@
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2354,7 +2359,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -2410,7 +2415,7 @@
       "Name": "Star Smasher",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2418,30 +2423,30 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
       "SetID": "biiejkc",
       "Name": "Time For Tutorial",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 813,
+      "Progressed": 815,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-06T21:00:31.8698684+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:05:41.7242528+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:05:38.8251035+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:02:41.1504705+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:05:41.7242952+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:02:39.0934371+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:05:38.8251348+00:00"
 }

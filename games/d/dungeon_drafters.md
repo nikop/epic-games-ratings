@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Might be useful… | 40.00% | ~56 |
+| Might be useful… | 39.00% | ~55 |
 | Treasure Hunting | 38.00% | ~53 |
 | Shine! | 31.00% | ~43 |
-| Friend! | 29.00% | ~40 |
+| Friend! | 29.00% | ~41 |
 | Uncut Gem | 27.00% | ~38 |
 | Clear as Water | 26.00% | ~36 |
 | Setting Off | 23.00% | ~32 |
@@ -45,7 +45,7 @@
 | Gladiator | 0.70% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139 (Ranked 462)  
+Progressed: 140 (Ranked 462)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 134 | 0 |
 | 2024-01-04 | 135 | 0 |
 | 2024-01-06 | 137 | 0 |
-| 2024-01-07 | 139 | 0 |
+| 2024-01-07 | 140 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

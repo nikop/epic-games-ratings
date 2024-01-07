@@ -2,13 +2,13 @@
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion Standard Edition",
   "ProductSlug": "watch-dogs-legion",
-  "Ranking_Rating": 814,
+  "Ranking_Rating": 815,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-10-29T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3689,10 +3689,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 1010,
       "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2024-01-07T15:56:54.1869713+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 1011,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1010,
+  "NumberOfAwards": 1011,
   "NumberOfAwardsMax": 137,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -3748,7 +3754,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game has a Creative Community",
@@ -3768,8 +3774,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2024-01-06T21:00:29.4886807+00:00",
+  "LastChanged": "2024-01-07T15:56:54.1869712+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:21.7921708+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:02:52.0283735+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:09:05.5157594+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:56:54.1869716+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:09:21.698408+00:00"
 }

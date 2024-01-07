@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 377,
+  "Ranking_Rating": 378,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -735,7 +735,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7031,
+  "EOS_Progressed": 7034,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
@@ -10670,6 +10670,11 @@
       "Time": "2024-01-07T15:04:39.0400077+00:00",
       "NumProgressed": 7031,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T16:04:37.3085319+00:00",
+      "NumProgressed": 7034,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10721,7 +10726,7 @@
       "Name": "Full Ascension",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "15",
@@ -10793,7 +10798,7 @@
       "Name": "Realm Estate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "23",
@@ -10841,7 +10846,7 @@
       "Name": "From Friends to Family",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "29",
@@ -10873,7 +10878,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "32",
@@ -11160,13 +11165,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7031,
+      "Progressed": 7034,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7031,
+      "Progressed": 7034,
       "Completed": 7
     }
   ],
@@ -11174,8 +11179,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:04:39.0400073+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:04:37.3085316+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:02:46.1512122+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:04:39.0401428+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:02:43.9588618+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:04:37.3086172+00:00"
 }

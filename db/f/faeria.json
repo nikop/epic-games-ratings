@@ -2,13 +2,13 @@
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
   "ProductSlug": "faeria",
-  "Ranking_Rating": 704,
+  "Ranking_Rating": 705,
   "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -771,10 +771,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 407,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2024-01-07T16:02:51.9629285+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 408,
+      "NumberOfAwardsMax": 115
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 407,
+  "NumberOfAwards": 408,
   "NumberOfAwardsMax": 115,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -824,7 +830,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Challenging Combat",
@@ -844,8 +850,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2024-01-05T08:03:36.1921791+00:00",
+  "LastChanged": "2024-01-07T16:02:51.9629283+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:43.1447272+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:02:54.6366851+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:09:35.5564386+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:02:51.9629287+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:09:51.2983083+00:00"
 }

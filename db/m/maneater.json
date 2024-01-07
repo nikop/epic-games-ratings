@@ -2,13 +2,13 @@
   "ID": "turtle",
   "Name": "Maneater",
   "ProductSlug": "maneater",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-22T09:00:00+00:00",
     "PcReleaseDate": "2020-05-22T09:00:00+00:00",
@@ -4134,10 +4134,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 18370,
       "NumberOfAwardsMax": 13917
+    },
+    {
+      "Time": "2024-01-07T16:02:40.0972807+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 18371,
+      "NumberOfAwardsMax": 13917
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18370,
+  "NumberOfAwards": 18371,
   "NumberOfAwardsMax": 13917,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4205,7 +4211,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 91
+      "Count": 92
     },
     {
       "Text": "This game has a Creative Community",
@@ -4237,8 +4243,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2024-01-07T12:02:39.7369157+00:00",
+  "LastChanged": "2024-01-07T16:02:40.0972806+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:35.6414869+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:02:42.1363013+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:06:19.7716734+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:02:40.0972814+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:06:17.5321273+00:00"
 }

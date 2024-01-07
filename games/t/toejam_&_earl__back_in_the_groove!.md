@@ -1,7 +1,7 @@
 # ToeJam & Earl: Back in the Groove!
 [Store](https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16)  
 [View Rawdata](../../db/t/toejam_&_earl__back_in_the_groove!.json)  
-Rating: 4.33 (Ranked 850)  
+Rating: 4.33 (Ranked 851)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,8 +20,8 @@ Rating: 4.33 (Ranked 850)
 | Fool Me Twice | 1.00% | ~587 |
 | Old School Jammin' | 1.00% | ~587 |
 | Wakey Wakey | 1.00% | ~587 |
-| Gimme My Presents Back! | 0.80% | ~469 |
-| Level Diver | 0.80% | ~469 |
+| Gimme My Presents Back! | 0.80% | ~470 |
+| Level Diver | 0.80% | ~470 |
 | Cleaning Out Santa's Sack | 0.70% | ~411 |
 | Teamwork Rules | 0.70% | ~411 |
 | Beaten By A Little Girl | 0.60% | ~352 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 850)
 | Why Do I Keep Doing That? | 0.10% | ~59 |
 | Hey, You Did It! | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,687 (Ranked 119)  
+Progressed: 58,688 (Ranked 119)  
 Completed: 6 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 6 (0.01%) (Ranked 371)
 | 2024-01-04 | 58,625 | 6 |
 | 2024-01-05 | 58,648 | 6 |
 | 2024-01-06 | 58,674 | 6 |
-| 2024-01-07 | 58,687 | 6 |
+| 2024-01-07 | 58,688 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

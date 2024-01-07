@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10620,9 +10620,9 @@
       "Count": 1083
     }
   ],
-  "EOS_Progressed": 132046,
+  "EOS_Progressed": 132047,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1078,
+  "EOS_NewPlayers": 1067,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38770,6 +38770,11 @@
       "Time": "2024-01-07T15:09:39.3227269+00:00",
       "NumProgressed": 132046,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T16:09:54.9258529+00:00",
+      "NumProgressed": 132047,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39412,21 +39417,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132046,
+      "Progressed": 132047,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6915,
+      "Progressed": 6916,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-07T13:57:33.3545397+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:09:39.3227263+00:00",
+  "LastChanged_Achievements": "2024-01-07T16:09:54.9258527+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:57:37.5957744+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:09:39.322882+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:57:26.8269881+00:00",
+  "LastUpdate_Achievements": "2024-01-07T16:09:54.9260241+00:00"
 }
