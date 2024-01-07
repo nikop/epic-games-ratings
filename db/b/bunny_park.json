@@ -3,8 +3,8 @@
   "Name": "Bunny Park",
   "ProductSlug": "bunny-park-835c4c",
   "Ranking_EOS_Progress": 390,
-  "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_NewPlayers": 483,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed_Percentage": 3.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.4240429+00:00",
@@ -225,6 +225,11 @@
       "Time": "2024-01-05T13:14:37.6810189+00:00",
       "NumProgressed": 310,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T20:09:43.8413551+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 18,
@@ -236,7 +241,7 @@
       "Name": "Lonely Bunny",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "BP-02",
@@ -244,7 +249,7 @@
       "Name": "Bunny Party",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "BP-03",
@@ -260,7 +265,7 @@
       "Name": "Debris Finder",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "BP-05",
@@ -268,7 +273,7 @@
       "Name": "Debris Gatherer",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "BP-06",
@@ -284,7 +289,7 @@
       "Name": "Beginner Decorator",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "BP-08",
@@ -300,7 +305,7 @@
       "Name": "Ace Decorator",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "BP-10",
@@ -308,7 +313,7 @@
       "Name": "Bunny Cuddles",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "BP-11",
@@ -332,7 +337,7 @@
       "Name": "Winter Wonderland",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "BP-14",
@@ -379,7 +384,7 @@
     {
       "ID": "7fc93f2",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 10
     }
   ],
@@ -387,8 +392,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:10:21.093686+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:43.8413547+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.7374524+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:59:26.8036898+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:10:21.0937035+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:59:11.1983138+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:09:43.8413837+00:00"
 }

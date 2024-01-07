@@ -2739,9 +2739,9 @@
       "ID": "ach_complete_difficulty_hard",
       "SetID": "d499apg",
       "Name": "Emperor\u2019s Mercy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 175,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_complete_difficulty_medium",
@@ -2802,8 +2802,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:09:00.3650292+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:08:22.9851041+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:59:11.1379802+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:09:00.3650565+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:58:55.622986+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:08:22.9851254+00:00"
 }

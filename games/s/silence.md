@@ -25,8 +25,8 @@
 | Pacifist | 21.00% | ~39 |
 | Mirror mirror on the wall... | 19.00% | ~35 |
 | Fastidious Clown | 18.00% | ~33 |
+| It's not easy being green! | 18.00% | ~33 |
 | Home is where the heart is | 18.00% | ~33 |
-| It's not easy being green! | 17.00% | ~31 |
 | Death is a part of life | 15.00% | ~28 |
 | Master of Thermodynamics | 13.00% | ~24 |
 | Unfullfilled dreams | 12.00% | ~22 |
@@ -34,9 +34,9 @@
 | Mumbo Jumbo | 10.00% | ~18 |
 | Useless but beautiful | 9.00% | ~17 |
 | Nothing can stop me | 9.00% | ~17 |
+| It's nothing personal | 8.00% | ~15 |
 | Lollipop | 7.00% | ~13 |
 | Where there is life, there is hope | 7.00% | ~13 |
-| It's nothing personal | 7.00% | ~13 |
 | Artistic master | 5.00% | ~9 |
 | Sadist | 5.00% | ~9 |
 | Fartjokes! | 5.00% | ~9 |

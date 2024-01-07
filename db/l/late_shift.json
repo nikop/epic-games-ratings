@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 993,
+  "EOS_Progressed": 995,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 2,
@@ -2770,6 +2770,11 @@
       "Time": "2024-01-07T19:09:59.4240346+00:00",
       "NumProgressed": 993,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-07T20:09:21.6266615+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -2781,7 +2786,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 943
+      "UsersEstimate": 945
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2829,7 +2834,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ENDING_6",
@@ -2837,7 +2842,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ENDING_7",
@@ -2851,9 +2856,9 @@
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 546
+      "UsersEstimate": 537
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2869,7 +2874,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 675
+      "UsersEstimate": 677
     },
     {
       "ID": "GOOD_KARMA",
@@ -2877,15 +2882,15 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "INTERROGATION",
       "SetID": "8eejhlh",
       "Name": "Interrogation",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 139
     },
     {
       "ID": "OFFICE_CLERK",
@@ -2893,7 +2898,7 @@
       "Name": "Office Clerk",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -2909,7 +2914,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "SABOTAGE",
@@ -2917,7 +2922,7 @@
       "Name": "Sabotage",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "SHILL_BIDDER",
@@ -2925,7 +2930,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -2933,14 +2938,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 993,
+      "Progressed": 995,
       "Completed": 13
     }
   ],
@@ -2948,8 +2953,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:09:59.4240342+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:21.6266612+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:00:18.9137196+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:09:59.4240607+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:00:02.4550618+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:09:21.6266813+00:00"
 }

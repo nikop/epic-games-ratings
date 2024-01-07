@@ -5,39 +5,39 @@ Rating: 4.19 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,658 |
-| Battlefields Have Memories | 80.00% | ~2,417 |
-| Enlisted | 74.00% | ~2,236 |
-| Maybe Engage a Little | 69.00% | ~2,084 |
-| No More Names | 52.00% | ~1,571 |
-| Initiate | 38.00% | ~1,148 |
-| Thrada-Kul | 34.00% | ~1,027 |
-| Gravity-Challenged Rocks | 27.00% | ~816 |
-| Socialite | 24.00% | ~725 |
-| Soldier | 23.00% | ~695 |
-| All the Major Food Groups | 23.00% | ~695 |
-| Beggars Would Ride | 21.00% | ~634 |
-| Control is an Illusion | 19.00% | ~574 |
-| The Means to Save It | 17.00% | ~514 |
-| Resilience to Sin | 15.00% | ~453 |
-| A Familiar Nest | 15.00% | ~453 |
-| Geas Aristeya | 14.00% | ~423 |
-| Periapt Alizarin | 14.00% | ~423 |
-| A Perfect Cycle | 13.00% | ~393 |
-| Recruit | 12.00% | ~363 |
-| Armsman | 11.00% | ~332 |
-| Lights Army | 9.00% | ~272 |
+| Unforeseen | 88.00% | ~2,667 |
+| Battlefields Have Memories | 80.00% | ~2,425 |
+| Enlisted | 74.00% | ~2,243 |
+| Maybe Engage a Little | 69.00% | ~2,091 |
+| No More Names | 52.00% | ~1,576 |
+| Initiate | 38.00% | ~1,152 |
+| Thrada-Kul | 34.00% | ~1,031 |
+| Gravity-Challenged Rocks | 27.00% | ~818 |
+| Socialite | 24.00% | ~727 |
+| Soldier | 23.00% | ~697 |
+| All the Major Food Groups | 23.00% | ~697 |
+| Beggars Would Ride | 21.00% | ~637 |
+| Control is an Illusion | 19.00% | ~576 |
+| The Means to Save It | 17.00% | ~515 |
+| Resilience to Sin | 15.00% | ~455 |
+| A Familiar Nest | 15.00% | ~455 |
+| Periapt Alizarin | 15.00% | ~455 |
+| Geas Aristeya | 14.00% | ~424 |
+| A Perfect Cycle | 13.00% | ~394 |
+| Recruit | 12.00% | ~364 |
+| Armsman | 11.00% | ~333 |
+| Lights Army | 9.00% | ~273 |
 | Periapt Cerulean | 8.00% | ~242 |
-| Good Boy | 7.00% | ~211 |
-| Best Dressed | 6.00% | ~181 |
-| Periapt Viridian | 6.00% | ~181 |
-| Shroudfane Explorer | 5.00% | ~151 |
+| Good Boy | 7.00% | ~212 |
+| Best Dressed | 6.00% | ~182 |
+| Periapt Viridian | 6.00% | ~182 |
+| Shroudfane Explorer | 5.00% | ~152 |
 | Scholar | 4.00% | ~121 |
 | Kitted Out | 4.00% | ~121 |
 | Armaments Gules | 4.00% | ~121 |
 | Armaments Azure | 3.00% | ~91 |
 | Armaments Vert | 3.00% | ~91 |
-| Veteran | 2.00% | ~60 |
+| Veteran | 2.00% | ~61 |
 | Grand Magnus | 1.00% | ~30 |
 | Master of Carmine | 1.00% | ~30 |
 | Tip of the Spear | 1.00% | ~30 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 971)
 | Out of Time | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,021 (Ranked 228)  
+Progressed: 3,031 (Ranked 228)  
 Completed: 4 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 4 (0.13%) (Ranked 298)
 | 2024-01-04 | 2,699 | 2 |
 | 2024-01-05 | 2,796 | 4 |
 | 2024-01-06 | 2,915 | 4 |
-| 2024-01-07 | 3,021 | 4 |
+| 2024-01-07 | 3,031 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

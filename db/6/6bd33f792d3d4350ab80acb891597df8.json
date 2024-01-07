@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -648,9 +648,9 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAg",
@@ -720,9 +720,9 @@
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
@@ -895,8 +895,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:06:00.8090403+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:05:46.6253587+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:03.7970515+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:57:32.7638915+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:06:00.8090625+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:15.8535898+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:05:46.6253855+00:00"
 }

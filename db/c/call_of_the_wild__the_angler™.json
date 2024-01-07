@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8119,
+  "EOS_Progressed": 8121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13491,6 +13491,11 @@
       "Time": "2024-01-07T19:08:44.059776+00:00",
       "NumProgressed": 8119,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T20:06:58.0965155+00:00",
+      "NumProgressed": 8121,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13542,7 +13547,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -13558,7 +13563,7 @@
       "Name": "Scaling up",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -13821,13 +13826,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8119,
+      "Progressed": 8121,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7491,
+      "Progressed": 7493,
       "Completed": 113
     }
   ],
@@ -13835,8 +13840,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:08:44.0597757+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:06:58.0965151+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:58:17.3616018+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:08:44.0598625+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:58:02.1701928+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:06:58.0965888+00:00"
 }

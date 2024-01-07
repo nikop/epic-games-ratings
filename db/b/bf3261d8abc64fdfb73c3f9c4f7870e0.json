@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -524,6 +524,11 @@
       "Time": "2024-01-07T14:09:21.5395284+00:00",
       "NumProgressed": 110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T20:09:07.8849872+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -590,9 +595,9 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -742,7 +747,7 @@
       "ID": "achievement_last_word",
       "SetID": "bngbnfb",
       "Name": "The last word",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -800,7 +805,7 @@
       "Name": "Not energetic",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_not_risky",
@@ -808,7 +813,7 @@
       "Name": "Not a daredevil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_rush",
@@ -935,14 +940,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:09:45.6481171+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:07.8849868+00:00",
   "LastUpdate_AppInfo": "2024-01-03T15:56:53.5899494+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:00:23.2319918+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:09:45.6481612+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:00:06.9274852+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:09:07.8850328+00:00"
 }

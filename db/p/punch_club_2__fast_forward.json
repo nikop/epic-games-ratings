@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2288,9 +2288,9 @@
       "ID": "all_promotion_4",
       "SetID": "69co12a",
       "Name": "Gang wrangler",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 171
     },
     {
       "ID": "all_promotion_5",
@@ -2584,9 +2584,9 @@
       "ID": "mysterious_voice",
       "SetID": "69co12a",
       "Name": "Mysterious voice",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 221
     },
     {
       "ID": "nero_basic",
@@ -2752,9 +2752,9 @@
       "ID": "undercover_robot",
       "SetID": "69co12a",
       "Name": "Undercover robot",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 171
     },
     {
       "ID": "unlock_way",
@@ -2799,8 +2799,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:10:16.1646189+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:39.0897095+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:10.7103832+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:59:33.4698375+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:10:16.1646809+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:59:17.9300571+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:09:39.0897923+00:00"
 }

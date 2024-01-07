@@ -6,41 +6,41 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~43,693 |
-| I read Shakespeare and stuff | 59.00% | ~36,309 |
-| Just a sprinkle | 58.00% | ~35,693 |
-| I'm stumped | 56.00% | ~34,462 |
-| Plant get enough | 56.00% | ~34,462 |
-| This is just my weekend vehicle | 54.00% | ~33,232 |
-| It's just the beginning | 54.00% | ~33,232 |
-| Hard work pays off | 49.00% | ~30,155 |
-| It's never too late to farm | 45.00% | ~27,693 |
-| All out of Land | 41.00% | ~25,231 |
-| Field Trip | 40.00% | ~24,616 |
-| I like to switch it up | 37.00% | ~22,770 |
-| Help me to help you | 35.00% | ~21,539 |
-| Ultimutt Pawesomeness | 25.00% | ~15,385 |
-| Van Gogh | 23.00% | ~14,154 |
-| You wood not believe it | 20.00% | ~12,308 |
-| Vehicle fleet | 20.00% | ~12,308 |
-| Well-Oiled Machine | 15.00% | ~9,231 |
-| Long haul | 15.00% | ~9,231 |
-| Clucky Streak | 14.00% | ~8,616 |
-| The plot thickens | 14.00% | ~8,616 |
-| Large-scale supplier | 14.00% | ~8,616 |
-| That's a wrap | 14.00% | ~8,616 |
-| Rock on | 11.00% | ~6,769 |
-| Fix me up | 11.00% | ~6,769 |
-| Highly cultivated | 10.00% | ~6,154 |
-| It's sow easy | 10.00% | ~6,154 |
-| Giddy-up! | 9.00% | ~5,539 |
-| Cowherd | 6.00% | ~3,692 |
-| Fluffyness | 6.00% | ~3,692 |
-| Road Trip | 5.00% | ~3,077 |
-| Helper A does not stop … ever | 5.00% | ~3,077 |
-| Bringing in the Honey | 5.00% | ~3,077 |
+| Own use | 71.00% | ~43,707 |
+| I read Shakespeare and stuff | 59.00% | ~36,320 |
+| Just a sprinkle | 58.00% | ~35,704 |
+| I'm stumped | 56.00% | ~34,473 |
+| Plant get enough | 56.00% | ~34,473 |
+| This is just my weekend vehicle | 54.00% | ~33,242 |
+| It's just the beginning | 54.00% | ~33,242 |
+| Hard work pays off | 49.00% | ~30,164 |
+| It's never too late to farm | 45.00% | ~27,702 |
+| All out of Land | 41.00% | ~25,239 |
+| Field Trip | 40.00% | ~24,624 |
+| I like to switch it up | 37.00% | ~22,777 |
+| Help me to help you | 35.00% | ~21,546 |
+| Ultimutt Pawesomeness | 25.00% | ~15,390 |
+| Van Gogh | 23.00% | ~14,159 |
+| You wood not believe it | 20.00% | ~12,312 |
+| Vehicle fleet | 20.00% | ~12,312 |
+| Well-Oiled Machine | 15.00% | ~9,234 |
+| Long haul | 15.00% | ~9,234 |
+| Clucky Streak | 14.00% | ~8,618 |
+| The plot thickens | 14.00% | ~8,618 |
+| Large-scale supplier | 14.00% | ~8,618 |
+| That's a wrap | 14.00% | ~8,618 |
+| Rock on | 11.00% | ~6,771 |
+| Fix me up | 11.00% | ~6,771 |
+| Highly cultivated | 10.00% | ~6,156 |
+| It's sow easy | 10.00% | ~6,156 |
+| Giddy-up! | 9.00% | ~5,540 |
+| Cowherd | 6.00% | ~3,694 |
+| Fluffyness | 6.00% | ~3,694 |
+| Road Trip | 5.00% | ~3,078 |
+| Helper A does not stop … ever | 5.00% | ~3,078 |
+| Bringing in the Honey | 5.00% | ~3,078 |
 | Three little piggies… | 4.00% | ~2,462 |
-| Game on | 3.00% | ~1,846 |
+| Game on | 3.00% | ~1,847 |
 | Pretty colourful | 0.70% | ~431 |
 | Original grain | 0.70% | ~431 |
 | Gone but not for cotton | 0.50% | ~308 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~246 |
 | Raisin the stakes | 0.30% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,540 (Ranked 118)  
+Progressed: 61,559 (Ranked 118)  
 Completed: 6 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,21 +312,21 @@ Completed: 6 (0.01%) (Ranked 372)
 | 2024-01-04 | 60,804 | 6 |
 | 2024-01-05 | 61,032 | 6 |
 | 2024-01-06 | 61,312 | 6 |
-| 2024-01-07 | 61,540 | 6 |
+| 2024-01-07 | 61,559 | 6 |
 ## Awards
-Max (Great for Beginners): 6,030  (Ranked 67)  
-Sum: 45,314 (Ranked 34)  
+Max (Great for Beginners): 6,046  (Ranked 67)  
+Sum: 45,343 (Ranked 34)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 6,030 |
+| This game is Great for Beginners | 6,046 |
 | This game has Diverse Characters | 4,888 |
 | This game is Educational | 4,541 |
-| This game is Highly Recommended | 4,519 |
+| This game is Highly Recommended | 4,527 |
 | This game is Relaxing | 4,427 |
 | This game has Quickly Understood Controls | 4,422 |
 | This game is Extremely Fun | 4,366 |
-| This game has Amazing Storytelling | 4,250 |
+| This game has Amazing Storytelling | 4,255 |
 | This game has Amazing Characters | 3,965 |
 | This game has a Creative Community | 3,906 |
 | This game has Obsessive Gameplay | 2,386 |
@@ -689,4 +689,4 @@ Diff (max vs sum): 33
 | 2024-01-04 | 4.68 | - | 6,008 | 45,183 |
 | 2024-01-05 | 4.68 | - | 6,016 | 45,227 |
 | 2024-01-06 | 4.68 | - | 6,030 | 45,279 |
-| 2024-01-07 | 4.68 | - | 6,030 | 45,314 |
+| 2024-01-07 | 4.68 | - | 6,046 | 45,343 |

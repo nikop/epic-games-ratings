@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 194,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -855,9 +855,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "f2",
@@ -943,9 +943,9 @@
       "ID": "j3",
       "SetID": "b1ggf28",
       "Name": "Knowledge is Infinite",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "jg1",
@@ -1103,9 +1103,9 @@
       "ID": "storya2",
       "SetID": "b1ggf28",
       "Name": "Business Mind",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "w1",
@@ -1143,9 +1143,9 @@
       "ID": "x2",
       "SetID": "b1ggf28",
       "Name": "Hard-Drinking",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "x3",
@@ -1214,8 +1214,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:04:34.5288659+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:04:19.9134946+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:03:07.8068986+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:04:34.5288992+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:02:50.5845531+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:04:19.9135361+00:00"
 }

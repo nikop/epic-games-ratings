@@ -2,9 +2,9 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 521,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2154,6 +2154,11 @@
       "Time": "2024-01-07T19:08:12.6114427+00:00",
       "NumProgressed": 520,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T20:06:27.5391515+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2166,7 +2171,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2180,9 +2185,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 322
+      "UsersEstimate": 328
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2198,7 +2203,7 @@
       "Name": "Empty Shelves",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CATCH_30_FISH",
@@ -2238,7 +2243,7 @@
       "Name": "A Party to Remember!",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LUNCH_LEECH",
@@ -2318,21 +2323,21 @@
       "Name": "Strong Signal",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 521,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:08:12.6114422+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:06:27.5391507+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:58:34.3818409+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:08:12.6114651+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:58:18.6541291+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:06:27.5391791+00:00"
 }

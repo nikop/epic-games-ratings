@@ -661,7 +661,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4234,
+  "EOS_Progressed": 4235,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -9496,6 +9496,11 @@
       "Time": "2024-01-07T17:09:24.2554928+00:00",
       "NumProgressed": 4234,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-07T20:09:17.6604687+00:00",
+      "NumProgressed": 4235,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9569,9 +9574,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1016
+      "UsersEstimate": 974
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9627,7 +9632,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -9667,7 +9672,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -9675,7 +9680,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9699,7 +9704,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -9707,7 +9712,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9763,7 +9768,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -9771,7 +9776,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -9883,7 +9888,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -9897,9 +9902,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1186
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9915,7 +9920,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -10074,13 +10079,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4185,
+      "Progressed": 4186,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4234,
+      "Progressed": 4235,
       "Completed": 11
     }
   ],
@@ -10088,8 +10093,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:09:55.5207826+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:17.6604683+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
   "LastUpdate_Ratings": "2024-01-07T19:02:47.0896772+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:09:55.5208826+00:00"
+  "LastUpdate_Achievements": "2024-01-07T20:09:17.6605756+00:00"
 }

@@ -1918,9 +1918,9 @@
       "ID": "04_tycoon",
       "SetID": "chb1m60",
       "Name": "Tycoon",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 64
     },
     {
       "ID": "05_pangs",
@@ -2214,8 +2214,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:03:51.051535+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:03:35.4040245+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.7403389+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:59:46.1703944+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:03:51.0515705+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:59:30.8279733+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:03:35.4040632+00:00"
 }

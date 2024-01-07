@@ -1091,9 +1091,9 @@
       "ID": "locDungeon2",
       "SetID": "ci65fo0",
       "Name": "Bone cave",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "locGoblins",
@@ -1171,9 +1171,9 @@
       "ID": "questCemetery",
       "SetID": "ci65fo0",
       "Name": "Cemetery secrets",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "questCemetery2",
@@ -1408,8 +1408,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:10:17.7344387+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:40.552519+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:15.9010052+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:57:17.8033889+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:10:17.7345022+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:01.3578355+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:09:40.5525981+00:00"
 }

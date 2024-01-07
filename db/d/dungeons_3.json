@@ -3601,9 +3601,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 46271,
+  "EOS_Progressed": 46272,
   "EOS_Completed": 369,
-  "EOS_NewPlayers": 807,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -32856,6 +32856,11 @@
       "Time": "2024-01-07T19:04:12.8249487+00:00",
       "NumProgressed": 46271,
       "NumCompleted": 369
+    },
+    {
+      "Time": "2024-01-07T20:03:57.4795291+00:00",
+      "NumProgressed": 46272,
+      "NumCompleted": 369
     }
   ],
   "TotalAchievements": 60,
@@ -32875,7 +32880,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 21747
+      "UsersEstimate": 21748
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -32883,7 +32888,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26837
+      "UsersEstimate": 26838
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -33027,7 +33032,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17120
+      "UsersEstimate": 17121
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -33075,7 +33080,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 20359
+      "UsersEstimate": 20360
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -33083,7 +33088,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 18508
+      "UsersEstimate": 18509
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -33099,7 +33104,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18971
+      "UsersEstimate": 18972
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -33139,7 +33144,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8791
+      "UsersEstimate": 8792
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -33147,7 +33152,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12030
+      "UsersEstimate": 12031
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -33171,7 +33176,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10642
+      "UsersEstimate": 10643
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -33243,7 +33248,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 15269
+      "UsersEstimate": 15270
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -33299,7 +33304,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8791
+      "UsersEstimate": 8792
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -33339,22 +33344,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12030
+      "UsersEstimate": 12031
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 46271,
+      "Progressed": 46272,
       "Completed": 369
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-07T01:54:39.3721815+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:04:12.8249483+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:03:57.4795285+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:50.2098276+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:00:28.003062+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:04:12.8251163+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:00:11.4963423+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:03:57.4797006+00:00"
 }

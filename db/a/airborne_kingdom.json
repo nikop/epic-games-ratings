@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7755,
+  "EOS_Progressed": 7756,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6833,6 +6833,11 @@
       "Time": "2024-01-07T19:08:22.3825648+00:00",
       "NumProgressed": 7755,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-07T20:06:37.2243479+00:00",
+      "NumProgressed": 7756,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6852,7 +6857,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -6876,7 +6881,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4110
+      "UsersEstimate": 4111
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6940,7 +6945,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2172
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -7052,22 +7057,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7755,
+      "Progressed": 7756,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:08:22.3825643+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:06:37.2243474+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:05.4838483+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:03:25.5320443+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:08:22.3826212+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:03:09.1678099+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:06:37.2243943+00:00"
 }

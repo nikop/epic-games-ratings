@@ -37,6 +37,7 @@
 | Rock and a Hard Place | 2.00% | ~79 |
 | The Midas Touch | 2.00% | ~79 |
 | Hapax Legomenon | 2.00% | ~79 |
+| Don't Pay the Ferryman | 2.00% | ~79 |
 | Veneration of Hephaestus | 2.00% | ~79 |
 | Vandili | 2.00% | ~79 |
 | No Scylla in Sight | 2.00% | ~79 |
@@ -47,7 +48,6 @@
 | The Nameless One | 1.00% | ~40 |
 | Rule of Thirds | 1.00% | ~40 |
 | Pyr Demon | 1.00% | ~40 |
-| Don't Pay the Ferryman | 1.00% | ~40 |
 | Biotechnology | 1.00% | ~40 |
 | The Archimedes Principle | 1.00% | ~40 |
 | Rites at Sea | 1.00% | ~40 |

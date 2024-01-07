@@ -2,9 +2,9 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2024-01-07T19:04:07.6505018+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T20:03:52.2334771+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -544,7 +549,7 @@
       "ID": "CarryingDoll",
       "SetID": "7m88n8p",
       "Name": "Girl Carrying A Doll",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 25,
       "UsersEstimate": 62
     },
@@ -576,7 +581,7 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 25,
       "UsersEstimate": 50
     },
@@ -602,7 +607,7 @@
       "Name": "Just Being Cautious",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KarmaEyes",
@@ -640,7 +645,7 @@
       "ID": "MortuaryMarkup",
       "SetID": "7m88n8p",
       "Name": "Mortuary Makeup Artist",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 65,
       "UsersEstimate": 29
     },
@@ -664,7 +669,7 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 25,
       "UsersEstimate": 98
     },
@@ -704,7 +709,7 @@
       "ID": "WaitingForSalvation",
       "SetID": "7m88n8p",
       "Name": "Waiting for Salvation",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 65,
       "UsersEstimate": 29
     },
@@ -721,14 +726,14 @@
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:04:07.6505014+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:03:52.2334766+00:00",
   "LastUpdate_AppInfo": "2024-01-01T14:57:04.940635+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:57:19.5609061+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:04:07.6505183+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:03.1735457+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:03:52.2334923+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 253,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1039,6 +1039,11 @@
       "Time": "2024-01-07T13:10:19.7719806+00:00",
       "NumProgressed": 252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T20:05:50.8940721+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -1081,9 +1086,9 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 172
     },
     {
       "ID": "DiggingAHole",
@@ -1107,7 +1112,7 @@
       "Name": "Going Places",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "GottaGoFast",
@@ -1115,7 +1120,7 @@
       "Name": "Gotta Go Fast",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ImALumberbot",
@@ -1139,15 +1144,15 @@
       "Name": "It\u0027s Yours, My Friend",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ManicMechanic",
       "SetID": "4bd750m",
       "Name": "Manic Mechanic",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "Mathematic",
@@ -1155,7 +1160,7 @@
       "Name": "Mathematic",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "MineSweeper",
@@ -1163,7 +1168,7 @@
       "Name": "Mine Sweeper",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "NothingButRoad",
@@ -1219,7 +1224,7 @@
       "Name": "Steam Powered",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SteamingRich",
@@ -1243,7 +1248,7 @@
       "Name": "Tutti Frutti",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "UpUpAndAway",
@@ -1274,14 +1279,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:06:05.0579547+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:05:50.8940717+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.7828616+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:03:21.5819377+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:06:05.0579788+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:03:04.6525025+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:05:50.8940998+00:00"
 }

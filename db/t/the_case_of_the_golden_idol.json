@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244,
+  "EOS_Progressed": 245,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.28,
+  "EOS_Completed_Percentage": 3.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -1021,6 +1021,11 @@
       "Time": "2024-01-07T19:04:26.8123242+00:00",
       "NumProgressed": 244,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-07T20:04:12.0765599+00:00",
+      "NumProgressed": 245,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -1046,9 +1051,9 @@
       "ID": "10",
       "SetID": "acl54ke",
       "Name": "Solved eleventh case",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "2",
@@ -1120,7 +1125,7 @@
       "Name": "Solved The Spider of Lanka 1st Case",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "12",
@@ -1167,13 +1172,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 244,
+      "Progressed": 245,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 109
     }
   ],
@@ -1181,8 +1186,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:04:26.8123238+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:04:12.0765595+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.945311+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:57:27.5445259+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:04:26.8123394+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:10.7903599+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:04:12.0765775+00:00"
 }

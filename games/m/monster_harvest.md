@@ -8,10 +8,10 @@
 | My first Planimal! | 69.00% | ~229 |
 | Red Slime Time | 65.00% | ~216 |
 | To the Rec Center! | 47.00% | ~156 |
-| Green Sheen | 44.00% | ~146 |
+| Green Sheen | 45.00% | ~149 |
 | Blue Goo | 30.00% | ~100 |
+| Furniture in the Forest! | 21.00% | ~70 |
 | Let's Get Fishy! | 21.00% | ~70 |
-| Furniture in the Forest! | 20.00% | ~66 |
 | Save the Slimes! | 12.00% | ~40 |
 | So long, Slime Co! | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)

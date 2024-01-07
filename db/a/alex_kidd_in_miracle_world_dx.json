@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -954,6 +954,11 @@
       "Time": "2024-01-07T18:05:01.0376694+00:00",
       "NumProgressed": 425,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T20:05:06.9865129+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -973,7 +978,7 @@
       "Name": "Let\u0027s Talk",
       "Percentage": 2,
       "XP": 120,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BEAT_BOSS_RUSH",
@@ -1053,7 +1058,7 @@
       "Name": "Stingy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "OX_DEFEATED",
@@ -1061,7 +1066,7 @@
       "Name": "Wild Ox",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -1083,16 +1088,16 @@
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 4
     }
   ],
@@ -1100,8 +1105,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:05:21.6920822+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:05:06.9865127+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:59:01.5685682+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:05:21.6920991+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:58:46.0627536+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:05:06.9865429+00:00"
 }

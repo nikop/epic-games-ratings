@@ -18,7 +18,7 @@ Number of Ratings: 124  (23.09.2022)
 | Irissa's Fate | 16.00% | ~34 |
 | Long-Haul Flyer | 15.00% | ~32 |
 | Family Reunion | 14.00% | ~29 |
-| Pass A38 | 13.00% | ~27 |
+| Pass A38 | 14.00% | ~29 |
 | Eternal Oblivion | 12.00% | ~25 |
 | Berserker | 11.00% | ~23 |
 | Storyteller | 10.00% | ~21 |
@@ -44,8 +44,8 @@ Number of Ratings: 124  (23.09.2022)
 | Destroyer | 2.00% | ~4 |
 | Legendary | 2.00% | ~4 |
 | Pack Rat | 1.00% | ~2 |
+| Defector | 1.00% | ~2 |
 | Outlaw | 1.00% | ~2 |
-| Defector | 0.50% | ~1 |
 | Ruthless | 0.50% | ~1 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |

@@ -2,9 +2,9 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 442,
+  "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -684,6 +684,11 @@
       "Time": "2024-01-07T16:04:22.5779518+00:00",
       "NumProgressed": 171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T20:04:36.8568709+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -702,9 +707,9 @@
       "ID": "BARON",
       "SetID": "40o4f14",
       "Name": "Baron",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "CHAIR",
@@ -726,17 +731,17 @@
       "ID": "CULT",
       "SetID": "40o4f14",
       "Name": "Dragon Cult",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "DISCIPLE",
       "SetID": "40o4f14",
       "Name": "Disciple",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "DRAGON",
@@ -782,9 +787,9 @@
       "ID": "GREEDY",
       "SetID": "40o4f14",
       "Name": "Greedy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "HERO",
@@ -824,7 +829,7 @@
       "Name": "Lover\u0027s dream",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "MERCENARY",
@@ -856,7 +861,7 @@
       "Name": "Moist",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "MOUNTAINEER",
@@ -943,14 +948,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:04:51.0629759+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:04:36.8568707+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.400694+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:58:43.5849416+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:04:51.0630007+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:58:28.217297+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:04:36.8568908+00:00"
 }

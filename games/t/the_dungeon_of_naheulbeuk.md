@@ -1,44 +1,44 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 449)  
+Rating: 4.59 (Ranked 448)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,960 |
-| Alt+F4 | 10.00% | ~24,711 |
-| Where's that freaking Dwarf? | 9.00% | ~22,240 |
-| Déjà vu | 8.00% | ~19,769 |
-| Sock! SOCK! | 6.00% | ~14,827 |
-| Speedrun | 6.00% | ~14,827 |
+| Sowwy! | 36.00% | ~88,966 |
+| Alt+F4 | 10.00% | ~24,713 |
+| Where's that freaking Dwarf? | 9.00% | ~22,241 |
+| Déjà vu | 8.00% | ~19,770 |
+| Sock! SOCK! | 6.00% | ~14,828 |
+| Speedrun | 6.00% | ~14,828 |
 | A beer, two curses, three companions | 5.00% | ~12,356 |
 | GG EZ | 5.00% | ~12,356 |
 | DM intervention | 5.00% | ~12,356 |
-| Way of the Wimp | 4.00% | ~9,884 |
-| The plot thickens... At the tavern | 4.00% | ~9,884 |
-| Fireproof Wizardess | 4.00% | ~9,884 |
-| Livin' in a dwarven paradise | 3.00% | ~7,413 |
-| The demons' feast | 3.00% | ~7,413 |
-| The Great Library | 3.00% | ~7,413 |
-| Torture and Sensibility | 3.00% | ~7,413 |
-| Urik's Depths | 3.00% | ~7,413 |
-| The Woman in the High Castle | 3.00% | ~7,413 |
-| Team Building Exercise | 3.00% | ~7,413 |
-| Oh, when I'll be level 10... | 3.00% | ~7,413 |
-| Shiny and Crôm | 2.00% | ~4,942 |
-| The Dungeon Master | 2.00% | ~4,942 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,942 |
-| Res Judicata | 2.00% | ~4,942 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,942 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,942 |
-| Dwarf Fortress | 2.00% | ~4,942 |
-| Look but don't touch | 2.00% | ~4,942 |
-| The beards of change | 2.00% | ~4,942 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,942 |
-| The Ranger of Chaos | 2.00% | ~4,942 |
-| I am the night | 2.00% | ~4,942 |
-| Thieves' Guild Accreditation | 2.00% | ~4,942 |
+| Way of the Wimp | 4.00% | ~9,885 |
+| The plot thickens... At the tavern | 4.00% | ~9,885 |
+| Fireproof Wizardess | 4.00% | ~9,885 |
+| Livin' in a dwarven paradise | 3.00% | ~7,414 |
+| The demons' feast | 3.00% | ~7,414 |
+| The Great Library | 3.00% | ~7,414 |
+| Torture and Sensibility | 3.00% | ~7,414 |
+| Urik's Depths | 3.00% | ~7,414 |
+| The Woman in the High Castle | 3.00% | ~7,414 |
+| Team Building Exercise | 3.00% | ~7,414 |
+| Oh, when I'll be level 10... | 3.00% | ~7,414 |
+| Shiny and Crôm | 2.00% | ~4,943 |
+| The Dungeon Master | 2.00% | ~4,943 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,943 |
+| Res Judicata | 2.00% | ~4,943 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,943 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,943 |
+| Dwarf Fortress | 2.00% | ~4,943 |
+| Look but don't touch | 2.00% | ~4,943 |
+| The beards of change | 2.00% | ~4,943 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,943 |
+| The Ranger of Chaos | 2.00% | ~4,943 |
+| I am the night | 2.00% | ~4,943 |
+| Thieves' Guild Accreditation | 2.00% | ~4,943 |
 | %#*!$*! | 1.00% | ~2,471 |
 | Dead for good | 1.00% | ~2,471 |
 | Gargantua | 1.00% | ~2,471 |
@@ -52,10 +52,10 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 0.70% | ~1,730 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,483 |
 | It's been a hard day's night | 0.50% | ~1,236 |
-| Friendly fire | 0.40% | ~988 |
-| I'd rather... Just... Sing! | 0.40% | ~988 |
-| The number of the counting shalt be 7 | 0.40% | ~988 |
-| Inception | 0.40% | ~988 |
+| Friendly fire | 0.40% | ~989 |
+| I'd rather... Just... Sing! | 0.40% | ~989 |
+| The number of the counting shalt be 7 | 0.40% | ~989 |
+| Inception | 0.40% | ~989 |
 | 100% satisfaction guarantee | 0.30% | ~741 |
 | Cursed die | 0.20% | ~494 |
 | The Blood Countess | 0.20% | ~494 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,112 (Ranked 71)  
+Progressed: 247,127 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 8 (0.00%) (Ranked 393)
 | 2024-01-04 | 246,586 | 8 |
 | 2024-01-05 | 246,735 | 8 |
 | 2024-01-06 | 246,932 | 8 |
-| 2024-01-07 | 247,112 | 8 |
+| 2024-01-07 | 247,127 | 8 |
 ## Awards
 Max (Character Customization): 267  (Ranked 275)  
 Sum: 561 (Ranked 328)  

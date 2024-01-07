@@ -4,7 +4,7 @@
   "ProductSlug": "indoorlands-3b2356",
   "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -293,9 +293,9 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "halls",
@@ -349,9 +349,9 @@
       "ID": "researcher",
       "SetID": "d4692al",
       "Name": "Researcher",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "sandland",
@@ -444,8 +444,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:08:38.6947393+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:06:53.3945465+00:00",
   "LastUpdate_AppInfo": "2024-01-04T09:57:17.0588856+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:58:38.072518+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:08:38.6947597+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:58:22.9471845+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:06:53.3945773+00:00"
 }

@@ -15,22 +15,22 @@
 | It's Technical | 33.00% | ~165 |
 | Proper Walls | 29.00% | ~145 |
 | Delegate Maintenance | 29.00% | ~145 |
-| Destination Destiny | 28.00% | ~140 |
+| Destination Destiny | 29.00% | ~145 |
 | Happy Tenants | 23.00% | ~115 |
 | Potent Potables | 23.00% | ~115 |
+| Your Prestige is Rising | 22.00% | ~110 |
 | Smooth Service | 22.00% | ~110 |
 | Don't Feel a Loan | 21.00% | ~105 |
-| Your Prestige is Rising | 21.00% | ~105 |
 | Retail Revenue | 21.00% | ~105 |
+| People Mover | 19.00% | ~95 |
 | Artfully Done | 18.00% | ~90 |
-| People Mover | 18.00% | ~90 |
+| Emporium Empire | 18.00% | ~90 |
 | Leveled Up Shops | 18.00% | ~90 |
 | We Don't Need No Education | 18.00% | ~90 |
 | Lux Living | 17.00% | ~85 |
-| Emporium Empire | 17.00% | ~85 |
+| Tasty Profits | 17.00% | ~85 |
 | Get Electrified | 17.00% | ~85 |
 | Rehab Expert | 16.00% | ~80 |
-| Tasty Profits | 16.00% | ~80 |
 | Established Fame | 15.00% | ~75 |
 | Under One Roof | 13.00% | ~65 |
 | Starred Dining | 13.00% | ~65 |

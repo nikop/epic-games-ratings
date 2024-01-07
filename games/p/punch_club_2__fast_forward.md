@@ -38,8 +38,8 @@
 | Escaped from a big trouble | 45.00% | ~249 |
 | Now you are worthy | 41.00% | ~227 |
 | Fight is life | 40.00% | ~221 |
+| Mysterious voice | 40.00% | ~221 |
 | Guiding on the right path | 40.00% | ~221 |
-| Mysterious voice | 39.00% | ~216 |
 | No blades in the gym | 38.00% | ~210 |
 | Champion – no way back | 36.00% | ~199 |
 | Responsible approach | 36.00% | ~199 |
@@ -50,9 +50,9 @@
 | The die is cast | 33.00% | ~182 |
 | Poisoned fighter | 32.00% | ~177 |
 | Get out of my apartment! | 32.00% | ~177 |
-| Gang wrangler | 30.00% | ~166 |
+| Gang wrangler | 31.00% | ~171 |
+| Undercover robot | 31.00% | ~171 |
 | Seashell hunter | 30.00% | ~166 |
-| Undercover robot | 30.00% | ~166 |
 | Problems of cyborgs | 29.00% | ~160 |
 | Not little hacker | 29.00% | ~160 |
 | Absolute Champion! | 29.00% | ~160 |

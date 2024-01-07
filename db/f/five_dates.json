@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2099,
+  "EOS_Progressed": 2102,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3910,6 +3910,11 @@
       "Time": "2024-01-07T19:10:20.8499856+00:00",
       "NumProgressed": 2099,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-07T20:09:43.5171927+00:00",
+      "NumProgressed": 2102,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3921,7 +3926,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2060
     },
     {
       "ID": "booty_call",
@@ -3945,7 +3950,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2018
     },
     {
       "ID": "hold_my_beer",
@@ -3953,7 +3958,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1282
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3993,7 +3998,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "only_thyme_will_tell",
@@ -4033,14 +4038,14 @@
       "Name": "We Go Again",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2099,
+      "Progressed": 2102,
       "Completed": 12
     }
   ],
@@ -4048,8 +4053,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:10:20.8499848+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:43.5171924+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:58:54.7943057+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:10:20.8500484+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:58:39.017687+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:09:43.5172211+00:00"
 }

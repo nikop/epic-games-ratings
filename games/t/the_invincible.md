@@ -5,25 +5,25 @@ Rating: 4.58 (Ranked 472)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 70.00% | ~1,050 |
-| The Teleprobe | 55.00% | ~825 |
-| The City | 50.00% | ~750 |
-| The field base | 44.00% | ~660 |
-| The Alliance | 41.00% | ~615 |
-| Survivors | 39.00% | ~585 |
-| The Condor | 37.00% | ~555 |
-| The End | 37.00% | ~555 |
-| The Necroevolution | 29.00% | ~435 |
-| Krauta is alive | 28.00% | ~420 |
-| On her own | 22.00% | ~330 |
-| Peacemaker | 22.00% | ~330 |
-| Volcanologist | 22.00% | ~330 |
-| Fierce fight | 20.00% | ~300 |
-| Evacuation | 20.00% | ~300 |
-| Beyond divisions | 17.00% | ~255 |
-| Flying Objects Operator | 16.00% | ~240 |
-| I remember everything! | 13.00% | ~195 |
-| Another giant | 13.00% | ~195 |
+| The Camp | 69.00% | ~1,038 |
+| The Teleprobe | 55.00% | ~827 |
+| The City | 50.00% | ~752 |
+| The field base | 44.00% | ~662 |
+| The Alliance | 41.00% | ~617 |
+| Survivors | 39.00% | ~587 |
+| The Condor | 37.00% | ~556 |
+| The End | 36.00% | ~541 |
+| The Necroevolution | 29.00% | ~436 |
+| Krauta is alive | 28.00% | ~421 |
+| On her own | 22.00% | ~331 |
+| Peacemaker | 22.00% | ~331 |
+| Volcanologist | 22.00% | ~331 |
+| Fierce fight | 20.00% | ~301 |
+| Evacuation | 20.00% | ~301 |
+| Beyond divisions | 17.00% | ~256 |
+| Flying Objects Operator | 16.00% | ~241 |
+| I remember everything! | 13.00% | ~196 |
+| Another giant | 13.00% | ~196 |
 | Violent solution | 9.00% | ~135 |
 | I leave no man behind | 9.00% | ~135 |
 | Innate curiosity | 7.00% | ~105 |
@@ -33,9 +33,9 @@ Rating: 4.58 (Ranked 472)
 | Strong objection | 6.00% | ~90 |
 | I leave no man behind (no exceptions) | 2.00% | ~30 |
 | Convoy list | 0.90% | ~14 |
-| No more mistakes | 0.70% | ~10 |
+| No more mistakes | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,500 (Ranked 265)  
+Progressed: 1,504 (Ranked 265)  
 Completed: 1 (0.07%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.07%) (Ranked 327)
 | 2024-01-04 | 1,381 | 1 |
 | 2024-01-05 | 1,415 | 1 |
 | 2024-01-06 | 1,462 | 1 |
-| 2024-01-07 | 1,500 | 1 |
+| 2024-01-07 | 1,504 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

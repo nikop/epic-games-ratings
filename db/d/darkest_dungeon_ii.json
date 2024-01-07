@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10540,18 +10540,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21505,
       "NumberOfAwardsMax": 7972
+    },
+    {
+      "Time": "2024-01-07T19:57:35.936831+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21519,
+      "NumberOfAwardsMax": 7986
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21505,
-  "NumberOfAwardsMax": 7972,
+  "NumberOfAwards": 21519,
+  "NumberOfAwardsMax": 7986,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7972
+      "Count": 7986
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10620,9 +10626,9 @@
       "Count": 1083
     }
   ],
-  "EOS_Progressed": 132067,
+  "EOS_Progressed": 132079,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1064,
+  "EOS_NewPlayers": 1067,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38790,6 +38796,11 @@
       "Time": "2024-01-07T19:10:09.9882643+00:00",
       "NumProgressed": 132067,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T20:09:32.811943+00:00",
+      "NumProgressed": 132079,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38801,7 +38812,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6603
+      "UsersEstimate": 6604
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -38809,7 +38820,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6603
+      "UsersEstimate": 6604
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38889,7 +38900,7 @@
       "Name": "The World As It Was",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -38897,7 +38908,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -38905,7 +38916,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -38929,7 +38940,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7924
+      "UsersEstimate": 7925
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38961,7 +38972,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7924
+      "UsersEstimate": 7925
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38977,7 +38988,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "combat_kill_gaunts",
@@ -38993,7 +39004,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -39001,7 +39012,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6603
+      "UsersEstimate": 6604
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -39017,7 +39028,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6603
+      "UsersEstimate": 6604
     },
     {
       "ID": "combat_kill_librarian",
@@ -39025,7 +39036,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7924
+      "UsersEstimate": 7925
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39041,7 +39052,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6603
+      "UsersEstimate": 6604
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39087,9 +39098,9 @@
       "ID": "driving_biome_clear_cave",
       "SetID": "64l4lke",
       "Name": "Spelunker",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3962
+      "UsersEstimate": 5283
     },
     {
       "ID": "driving_biome_clear_city",
@@ -39097,7 +39108,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6603
+      "UsersEstimate": 6604
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -39121,7 +39132,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6603
+      "UsersEstimate": 6604
     },
     {
       "ID": "driving_distance_easy",
@@ -39153,7 +39164,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9245
+      "UsersEstimate": 9246
     },
     {
       "ID": "hero_story_complete_all",
@@ -39201,7 +39212,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -39209,7 +39220,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6603
+      "UsersEstimate": 6604
     },
     {
       "ID": "inn_visit_all_variants",
@@ -39217,7 +39228,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -39265,7 +39276,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "run_victory_act03",
@@ -39273,7 +39284,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "run_victory_act04",
@@ -39337,7 +39348,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "combat_kill_collector",
@@ -39345,7 +39356,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39361,7 +39372,7 @@
       "Name": "No Mercy",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -39377,7 +39388,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -39385,7 +39396,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39401,7 +39412,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39409,7 +39420,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39432,21 +39443,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132067,
+      "Progressed": 132079,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6936,
+      "Progressed": 6948,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-07T13:57:33.3545397+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:10:09.9882639+00:00",
+  "LastChanged": "2024-01-07T19:57:35.9368309+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:32.8119427+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:57:52.9626227+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:10:09.9884545+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:35.9368314+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:09:32.8121621+00:00"
 }

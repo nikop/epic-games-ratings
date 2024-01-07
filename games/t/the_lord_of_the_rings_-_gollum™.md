@@ -22,7 +22,7 @@
 | The Friend | 9.00% | ~61 |
 | Gollum/Sméagol | 9.00% | ~61 |
 | He's so Annoying | 8.00% | ~55 |
-| Master of the Old Game | 5.00% | ~34 |
+| Master of the Old Game | 6.00% | ~41 |
 | Made a Song | 5.00% | ~34 |
 | So Silly! | 4.00% | ~27 |
 | So Tasty! | 4.00% | ~27 |

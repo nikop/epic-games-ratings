@@ -432,9 +432,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -448,9 +448,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "7on801h",
       "Name": "Between Technology and the Divine",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -768,9 +768,9 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "7on801h",
       "Name": "Samizdat",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_20",
@@ -1085,8 +1085,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:04:25.7208974+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:04:11.0862795+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:22.5925378+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:59:25.9764828+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:04:25.7209689+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:59:10.302478+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:04:11.0863902+00:00"
 }

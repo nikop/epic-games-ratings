@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1668,
+  "EOS_Progressed": 1669,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4375,6 +4375,11 @@
       "Time": "2024-01-07T19:10:26.0345585+00:00",
       "NumProgressed": 1668,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T20:09:48.5738246+00:00",
+      "NumProgressed": 1669,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4386,7 +4391,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -4442,7 +4447,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "EXPERT_1",
@@ -4538,7 +4543,7 @@
       "Name": "One HIT wonder",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4634,7 +4639,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "TRAVELER_1",
@@ -4673,15 +4678,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1668,
+      "Progressed": 1669,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:10:26.0345579+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:48.5738241+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:59:18.9478374+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:10:26.0346035+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:59:03.7602176+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:09:48.5738841+00:00"
 }

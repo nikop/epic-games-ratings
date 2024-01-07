@@ -1,43 +1,43 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.74 (Ranked 165)  
+Rating: 4.74 (Ranked 164)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~269 |
-| Cartographer | 58.00% | ~240 |
+| The Adventure Begins | 65.00% | ~270 |
+| Cartographer | 58.00% | ~241 |
 | A Strange Artefact | 54.00% | ~224 |
 | Insomnia | 49.00% | ~203 |
-| Lost & Found & Lost Again | 44.00% | ~182 |
+| Lost & Found & Lost Again | 44.00% | ~183 |
 | From Whence we Came | 43.00% | ~178 |
 | Fire and Flood | 41.00% | ~170 |
-| Spooky! | 38.00% | ~157 |
-| Shennong Herbalist | 36.00% | ~149 |
+| Spooky! | 38.00% | ~158 |
 | Treasure Hunt | 36.00% | ~149 |
+| Shennong Herbalist | 35.00% | ~145 |
 | Good Mama | 33.00% | ~137 |
-| O Captain My Captain | 32.00% | ~132 |
+| O Captain My Captain | 32.00% | ~133 |
 | Plunderer | 30.00% | ~124 |
-| Taxonomist | 28.00% | ~116 |
+| Taxonomist | 27.00% | ~112 |
 | Traveller | 26.00% | ~108 |
 | Uncertain Loyalties | 25.00% | ~104 |
-| Nahua Seeker | 24.00% | ~99 |
+| Nahua Seeker | 24.00% | ~100 |
 | Roll to Save | 23.00% | ~95 |
 | Veteran Explorer | 22.00% | ~91 |
 | Red Flag Pirate | 20.00% | ~83 |
-| Iron Man | 17.00% | ~70 |
-| A Gentle Beast | 17.00% | ~70 |
+| Iron Man | 17.00% | ~71 |
+| A Gentle Beast | 17.00% | ~71 |
 | Practical Palaeontology | 16.00% | ~66 |
 | Adventurer | 15.00% | ~62 |
 | For the Club! | 15.00% | ~62 |
 | Shortening of the Way | 15.00% | ~62 |
-| Plays Well With Others | 14.00% | ~58 |
 | Dapper | 14.00% | ~58 |
 | The New Director | 13.00% | ~54 |
 | The Director is Dead | 13.00% | ~54 |
 | And Here Is Your Statue | 13.00% | ~54 |
 | Discovery | 13.00% | ~54 |
+| Plays Well With Others | 13.00% | ~54 |
 | Very Classy | 13.00% | ~54 |
 | Under the Table | 11.00% | ~46 |
 | It's Complicated | 11.00% | ~46 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414 (Ranked 364)  
+Progressed: 415 (Ranked 364)  
 Completed: 1 (0.24%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.24%) (Ranked 267)
 | 2024-01-04 | 400 | 1 |
 | 2024-01-05 | 406 | 1 |
 | 2024-01-06 | 410 | 1 |
-| 2024-01-07 | 414 | 1 |
+| 2024-01-07 | 415 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -17,7 +17,7 @@
 | Self-Sufficient | 1.00% | ~4 |
 | 3rd Grade | 1.00% | ~4 |
 | "A" Student | 0.50% | ~2 |
-| 4th Grade | 0.30% | ~1 |
+| 4th Grade | 0.50% | ~2 |
 | Librarian | 0.30% | ~1 |
 | Prodigy of all Trades | 0.30% | ~1 |
 | "A+" Student | 0.00% | ~0 |

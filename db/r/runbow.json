@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253226,
+  "EOS_Progressed": 253227,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23527,6 +23527,11 @@
       "Time": "2024-01-07T19:10:23.153397+00:00",
       "NumProgressed": 253226,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T20:09:45.8734318+00:00",
+      "NumProgressed": 253227,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23562,7 +23567,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53177
+      "UsersEstimate": 53178
     },
     {
       "ID": "blotbuster",
@@ -23594,7 +23599,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43048
+      "UsersEstimate": 43049
     },
     {
       "ID": "cantBeKeptDown",
@@ -23778,7 +23783,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126613
+      "UsersEstimate": 126614
     },
     {
       "ID": "notScared",
@@ -23858,7 +23863,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32919
+      "UsersEstimate": 32920
     },
     {
       "ID": "treeMedalist",
@@ -23905,7 +23910,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253226,
+      "Progressed": 253227,
       "Completed": 6
     }
   ],
@@ -23913,8 +23918,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:10:23.1533966+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:45.8734314+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:57:26.1489282+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:10:23.1535407+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:09.255469+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:09:45.8735963+00:00"
 }

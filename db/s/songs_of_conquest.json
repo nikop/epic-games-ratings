@@ -5,7 +5,7 @@
   "Ranking_Rating": 236,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 398,
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 157,
@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1060,
+  "EOS_Progressed": 1062,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -3695,6 +3695,11 @@
       "Time": "2024-01-07T19:09:34.2320097+00:00",
       "NumProgressed": 1060,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T20:08:56.6927884+00:00",
+      "NumProgressed": 1062,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3851,7 +3856,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3915,7 +3920,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "MultiplayerWins",
@@ -4035,7 +4040,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "WielderLevel2",
@@ -4138,15 +4143,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1060,
+      "Progressed": 1062,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:09:34.2320092+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:08:56.692788+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:00:08.9412746+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:09:34.2320641+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:59:54.1320449+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:08:56.692855+00:00"
 }

@@ -23,12 +23,12 @@
 | In the Bag! | 21.00% | ~92 |
 | Car-Tapult | 20.00% | ~87 |
 | Goodbye cruel world | 20.00% | ~87 |
+| Beach Party! | 20.00% | ~87 |
 | First Come, First Serve | 19.00% | ~83 |
 | Disoriented | 19.00% | ~83 |
 | Anger Issues | 19.00% | ~83 |
 | Take that Frosty! | 19.00% | ~83 |
 | Your Highness | 19.00% | ~83 |
-| Beach Party! | 19.00% | ~83 |
 | Event Amateur | 17.00% | ~74 |
 | Feeling Hot Hot Hot! | 16.00% | ~70 |
 | Feeling Dizzy? | 16.00% | ~70 |

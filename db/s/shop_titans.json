@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8059,9 +8059,9 @@
       "Count": 3815
     }
   ],
-  "EOS_Progressed": 150164,
+  "EOS_Progressed": 150173,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1468,
+  "EOS_NewPlayers": 1474,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35754,6 +35754,11 @@
       "Time": "2024-01-07T19:08:54.6550658+00:00",
       "NumProgressed": 150164,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-07T20:08:17.3245609+00:00",
+      "NumProgressed": 150173,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -35869,7 +35874,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7508
+      "UsersEstimate": 7509
     },
     {
       "ID": "blueprint02",
@@ -35933,7 +35938,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16518
+      "UsersEstimate": 16519
     },
     {
       "ID": "chest02",
@@ -35997,7 +36002,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15016
+      "UsersEstimate": 15017
     },
     {
       "ID": "commonres02",
@@ -36029,7 +36034,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10512
     },
     {
       "ID": "craft02",
@@ -36141,7 +36146,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10512
     },
     {
       "ID": "expansion02",
@@ -36237,7 +36242,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13515
+      "UsersEstimate": 13516
     },
     {
       "ID": "gold02",
@@ -36245,7 +36250,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7508
+      "UsersEstimate": 7509
     },
     {
       "ID": "gold03",
@@ -36317,7 +36322,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7508
+      "UsersEstimate": 7509
     },
     {
       "ID": "jackslot02",
@@ -36421,7 +36426,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7508
+      "UsersEstimate": 7509
     },
     {
       "ID": "master02",
@@ -36453,7 +36458,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "masterpiece",
@@ -36541,7 +36546,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10511
+      "UsersEstimate": 10512
     },
     {
       "ID": "sell02",
@@ -36581,7 +36586,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15016
+      "UsersEstimate": 15017
     },
     {
       "ID": "twinenchant01",
@@ -36660,15 +36665,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150164,
+      "Progressed": 150173,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-07T14:03:22.1546067+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:08:54.6550653+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:08:17.3245604+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:03:21.3770075+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:08:54.6553176+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:03:04.4850665+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:08:17.3248096+00:00"
 }

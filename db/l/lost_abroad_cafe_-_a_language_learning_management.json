@@ -4,7 +4,7 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -3219,9 +3219,9 @@
       "ID": "coffee_50",
       "SetID": "56hff7o",
       "Name": "Coffee Connoisseur",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 140
     },
     {
       "ID": "countertop",
@@ -3274,8 +3274,8 @@
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:03:34.5530783+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:03:18.800168+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.6985619+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:58:12.993786+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:03:34.5531081+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:57.812008+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:03:18.8001966+00:00"
 }

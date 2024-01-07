@@ -377,7 +377,7 @@
   ],
   "EOS_Progressed": 2298,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4230,17 +4230,17 @@
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 276
     },
     {
       "ID": "Achievement_010",
       "SetID": "6b34g18",
       "Name": "Welcome to the Neighborhood",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 207
     },
     {
       "ID": "Achievement_011",
@@ -4334,9 +4334,9 @@
       "ID": "Achievement_022",
       "SetID": "6b34g18",
       "Name": "Bell-ringer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 69
     },
     {
       "ID": "Achievement_023",
@@ -4711,8 +4711,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-07T04:01:29.1090541+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:05:17.8287932+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:05:03.0791923+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:59:26.3727221+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:05:17.8288547+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:59:10.7018499+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:05:03.0792561+00:00"
 }

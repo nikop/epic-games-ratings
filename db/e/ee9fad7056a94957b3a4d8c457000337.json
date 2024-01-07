@@ -2,12 +2,12 @@
   "ID": "ee9fad7056a94957b3a4d8c457000337",
   "Name": "20 Minutes Till Dawn",
   "ProductSlug": "20-minutes-till-dawn-be3305",
-  "Ranking_Rating": 400,
+  "Ranking_Rating": 401,
   "Ranking_Popularity": 318,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-01-02T16:00:00+00:00",
@@ -147,6 +147,6 @@
   "FirstSeenRating": "2024-01-03T11:57:34.3437098+00:00",
   "LastChanged": "2024-01-07T13:03:35.4173389+00:00",
   "LastUpdate_AppInfo": "2024-01-02T16:57:05.408242+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:59:48.7976506+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:05:44.371219+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:59:33.3766604+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:05:29.9104998+00:00"
 }

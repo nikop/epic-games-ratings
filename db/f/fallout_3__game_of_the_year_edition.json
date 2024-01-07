@@ -2,12 +2,12 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 430,
+  "Ranking_Rating": 448,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -6941,18 +6941,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 30037,
       "NumberOfAwardsMax": 14601
+    },
+    {
+      "Time": "2024-01-07T19:58:44.7837116+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 30067,
+      "NumberOfAwardsMax": 14631
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30037,
-  "NumberOfAwardsMax": 14601,
+  "NumberOfAwards": 30067,
+  "NumberOfAwardsMax": 14631,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 14601
+      "Count": 14631
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7033,8 +7039,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-07T15:58:28.5804144+00:00",
+  "LastChanged": "2024-01-07T19:58:44.7837114+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:22.976249+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:59:00.2977119+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:03:45.3773797+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:58:44.7837118+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:03:29.8849865+00:00"
 }

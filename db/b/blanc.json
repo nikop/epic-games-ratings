@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4012,
+  "EOS_Progressed": 4014,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6806,6 +6806,11 @@
       "Time": "2024-01-07T19:05:19.5935145+00:00",
       "NumProgressed": 4012,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T20:05:04.9051954+00:00",
+      "NumProgressed": 4014,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6841,7 +6846,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "MOVE_ON",
@@ -6879,9 +6884,9 @@
       "ID": "STARTING_DUO",
       "SetID": "1a29mp6",
       "Name": "Starting as a duo",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 562
+      "UsersEstimate": 602
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6920,7 +6925,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4012,
+      "Progressed": 4014,
       "Completed": 6
     }
   ],
@@ -6928,8 +6933,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:05:19.593514+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:05:04.905195+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:08.6041157+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:58:15.4356474+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:05:19.5935638+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:58:00.2221558+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:05:04.9052488+00:00"
 }

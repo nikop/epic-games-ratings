@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1281,
+  "EOS_Progressed": 1282,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -3709,6 +3709,11 @@
       "Time": "2024-01-07T17:09:46.3747747+00:00",
       "NumProgressed": 1281,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T20:09:42.9257255+00:00",
+      "NumProgressed": 1282,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3729,7 +3734,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "BoxingClever",
@@ -3769,7 +3774,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -3777,7 +3782,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "DustDancing",
@@ -3801,7 +3806,7 @@
       "Name": "Lights Out",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "MiCasaSuCasa",
@@ -3825,7 +3830,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "Relic",
@@ -3833,7 +3838,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "SkeletonCrew",
@@ -3873,21 +3878,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1281,
+      "Progressed": 1282,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:10:20.2681082+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:42.9257251+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6987681+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:57:59.9333476+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:10:20.2681391+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:43.1018873+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:09:42.9257582+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "fee7e9420cd849c3a8e7d09b2622f9b3",
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
-  "Ranking_Rating": 507,
+  "Ranking_Rating": 508,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -936,6 +936,11 @@
       "Time": "2024-01-07T18:10:03.3818482+00:00",
       "NumProgressed": 176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T20:09:52.8320737+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -956,7 +961,7 @@
       "Name": "Wise man",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "id_12",
@@ -970,9 +975,9 @@
       "ID": "id_14",
       "SetID": "bk9jib6",
       "Name": "Death of a legend",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "id_15",
@@ -988,7 +993,7 @@
       "Name": "Little hero",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "id_17",
@@ -1018,9 +1023,9 @@
       "ID": "id_2",
       "SetID": "bk9jib6",
       "Name": "Field hand",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 65
     },
     {
       "ID": "id_20",
@@ -1058,9 +1063,9 @@
       "ID": "id_26",
       "SetID": "bk9jib6",
       "Name": "Titan Lord",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "id_3",
@@ -1076,7 +1081,7 @@
       "Name": "Beginner",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "id_32",
@@ -1122,9 +1127,9 @@
       "ID": "id_4",
       "SetID": "bk9jib6",
       "Name": "Samaritan",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "id_42",
@@ -1212,7 +1217,7 @@
       "Name": "The fourth triplet",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "id_52",
@@ -1220,7 +1225,7 @@
       "Name": "Idiot",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "id_53",
@@ -1290,9 +1295,9 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 110
     },
     {
       "ID": "id_61",
@@ -1300,7 +1305,7 @@
       "Name": "Map reader",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "id_62",
@@ -1308,7 +1313,7 @@
       "Name": "Archer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "id_63",
@@ -1324,7 +1329,7 @@
       "Name": "Ladies\u0027 man",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "id_8",
@@ -1347,7 +1352,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 0
     }
   ],
@@ -1355,8 +1360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:10:30.2904371+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:09:52.8320733+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:57:36.5484125+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:10:30.2904776+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:19.8116589+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:09:52.8321325+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -341,11 +341,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 828,
+  "EOS_Progressed": 829,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.85,
+  "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -2186,6 +2186,11 @@
       "Time": "2024-01-07T19:06:14.1673033+00:00",
       "NumProgressed": 828,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T20:06:00.0423775+00:00",
+      "NumProgressed": 829,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2244,9 +2249,9 @@
       "ID": "ACH_FD_GRAVEYARD",
       "SetID": "biiejkc",
       "Name": "Ship Shape",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -2268,9 +2273,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2340,9 +2345,9 @@
       "ID": "ACH_SLEEPY_TIME",
       "SetID": "biiejkc",
       "Name": "Sleepy Time",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -2453,15 +2458,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 828,
+      "Progressed": 829,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-06T21:00:31.8698684+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:06:14.1673029+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:06:00.0423769+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:02:51.7897238+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:06:14.1673342+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:02:33.1144971+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:06:00.042408+00:00"
 }

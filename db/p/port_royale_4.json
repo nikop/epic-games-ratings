@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 283,
-  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1195,
+  "EOS_Progressed": 1196,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3441,6 +3441,11 @@
       "Time": "2024-01-07T18:05:18.3446594+00:00",
       "NumProgressed": 1195,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T20:05:25.6514918+00:00",
+      "NumProgressed": 1196,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3452,7 +3457,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH001",
@@ -3548,7 +3553,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ACH013",
@@ -3636,7 +3641,7 @@
       "Name": "Gofer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACH024",
@@ -3684,7 +3689,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACH030",
@@ -3708,7 +3713,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH033",
@@ -3724,7 +3729,7 @@
       "Name": "Panic buying",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH035",
@@ -3740,7 +3745,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH037",
@@ -3756,7 +3761,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH039",
@@ -3802,9 +3807,9 @@
       "ID": "ACH044",
       "SetID": "69nfp41",
       "Name": "Greed for gold",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH045",
@@ -3851,15 +3856,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1195,
+      "Progressed": 1196,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:05:40.2321185+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:05:25.6514914+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:24.8175956+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:00:39.7662536+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:05:40.2321828+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:00:23.401129+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:05:25.6515486+00:00"
 }

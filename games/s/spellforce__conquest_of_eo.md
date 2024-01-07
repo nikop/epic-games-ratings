@@ -24,14 +24,14 @@
 | Friend of Sevenkeeps | 22.00% | ~28 |
 | Castle Meldec | 21.00% | ~26 |
 | Slave to the rhythm | 20.00% | ~25 |
-| Sevenkeeps Seat of Kings | 18.00% | ~22 |
+| Sevenkeeps Seat of Kings | 19.00% | ~24 |
 | Friend of Alluvyan | 16.00% | ~20 |
 | Friend of Connach | 15.00% | ~19 |
 | Stormwatch Faste | 14.00% | ~18 |
 | Friend of Gillyshire | 14.00% | ~18 |
 | Friend of Orgash | 14.00% | ~18 |
+| Break Free | 14.00% | ~18 |
 | Friend of Bastion | 13.00% | ~16 |
-| Break Free | 13.00% | ~16 |
 | Philo's Tale | 12.00% | ~15 |
 | Friend of Silver Drift Hollow | 12.00% | ~15 |
 | A Master of Magic | 11.00% | ~14 |

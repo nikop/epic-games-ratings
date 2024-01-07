@@ -1,11 +1,11 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.59 (Ranked 449)  
+Rating: 4.59 (Ranked 448)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~715 |
+| Pushing a pull door | 97.00% | ~723 |
 | Fetch Quest Complete | 90.00% | ~670 |
 | I can't wait! | 82.00% | ~611 |
 | Swish | 56.00% | ~417 |

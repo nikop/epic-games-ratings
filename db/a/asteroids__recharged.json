@@ -3,9 +3,9 @@
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5254,
-  "EOS_Completed": 4,
-  "EOS_NewPlayers": 3003,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.08,
+  "EOS_Progressed": 5285,
+  "EOS_Completed": 5,
+  "EOS_NewPlayers": 3006,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.0797761+00:00",
@@ -1559,6 +1559,11 @@
       "Time": "2024-01-07T19:08:46.3799345+00:00",
       "NumProgressed": 5254,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T20:08:10.1614561+00:00",
+      "NumProgressed": 5285,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -1570,7 +1575,7 @@
       "Name": "All Dead, All Dead",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 898
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -1586,23 +1591,23 @@
       "Name": "Friends Will Be Friends",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_GOOD_COMPANY",
       "SetID": "ca3jj1k",
       "Name": "Good Company",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_KEEP_YOURSELF_ALIVE",
       "SetID": "ca3jj1k",
       "Name": "Keep Yourself Alive",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1374
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -1626,7 +1631,7 @@
       "Name": "Misfire",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 841
+      "UsersEstimate": 846
     },
     {
       "ID": "ACH_NOW_IM_HERE",
@@ -1634,7 +1639,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2431
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -1650,7 +1655,7 @@
       "Name": "Rock It",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_THE_HERO",
@@ -1658,7 +1663,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2695
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -1666,7 +1671,7 @@
       "Name": "The Hitman",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1427
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -1674,7 +1679,7 @@
       "Name": "The Invisible Man",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 841
+      "UsersEstimate": 846
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -1682,7 +1687,7 @@
       "Name": "The Miracle",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_WE_WILL_ROCK_YOU",
@@ -1690,23 +1695,23 @@
       "Name": "We Will Rock You",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 473
+      "UsersEstimate": 476
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 5254,
-      "Completed": 4
+      "Progressed": 5285,
+      "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:32:18.6445496+00:00",
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:08:46.3799341+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:08:10.1614557+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.4877584+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:57:35.255367+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:08:46.3799499+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:18.3964392+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:08:10.1614733+00:00"
 }

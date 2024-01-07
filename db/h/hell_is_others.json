@@ -1453,7 +1453,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260383,
+  "EOS_Progressed": 260386,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
@@ -26573,6 +26573,11 @@
       "Time": "2024-01-07T19:04:46.2814277+00:00",
       "NumProgressed": 260383,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T20:04:31.9202148+00:00",
+      "NumProgressed": 260386,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26632,7 +26637,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80719
+      "UsersEstimate": 80720
     },
     {
       "ID": "BackHomeNTimes",
@@ -26688,7 +26693,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26038
+      "UsersEstimate": 26039
     },
     {
       "ID": "CreditLevel2",
@@ -26696,7 +26701,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7811
+      "UsersEstimate": 7812
     },
     {
       "ID": "CreditLevel3",
@@ -26824,7 +26829,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7811
+      "UsersEstimate": 7812
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -26856,7 +26861,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7811
+      "UsersEstimate": 7812
     },
     {
       "ID": "KillOtherWithMine",
@@ -26872,7 +26877,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59888
+      "UsersEstimate": 59889
     },
     {
       "ID": "KillOthers2",
@@ -26880,7 +26885,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7811
+      "UsersEstimate": 7812
     },
     {
       "ID": "KillOthers3",
@@ -26976,7 +26981,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26038
+      "UsersEstimate": 26039
     },
     {
       "ID": "ReachNDays2",
@@ -27031,7 +27036,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260383,
+      "Progressed": 260386,
       "Completed": 3
     }
   ],
@@ -27039,8 +27044,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-04T22:00:56.7754949+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:04:46.2814274+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:04:31.9202143+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.9058213+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:57:17.6711328+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:04:46.2815496+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:01.2232417+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:04:31.9204032+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 638,
+  "EOS_Progressed": 639,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -2809,6 +2809,11 @@
       "Time": "2024-01-07T06:05:36.7371929+00:00",
       "NumProgressed": 638,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T20:05:10.2887428+00:00",
+      "NumProgressed": 639,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2828,7 +2833,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2874,9 +2879,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 179
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2892,7 +2897,7 @@
       "Name": "Unholy lands",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2916,7 +2921,7 @@
       "Name": "Holy Nails",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -2931,14 +2936,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 638,
+      "Progressed": 639,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-07T19:05:24.9747053+00:00",
+  "LastChanged_Achievements": "2024-01-07T20:05:10.2887425+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.0957409+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:59:24.2074072+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:05:24.9747284+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:59:08.5436211+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:05:10.2887657+00:00"
 }

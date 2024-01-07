@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-14T14:00:00+00:00",
@@ -16052,10 +16052,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 60806,
       "NumberOfAwardsMax": 22730
+    },
+    {
+      "Time": "2024-01-07T19:57:25.8665988+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 60830,
+      "NumberOfAwardsMax": 22730
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 60806,
+  "NumberOfAwards": 60830,
   "NumberOfAwardsMax": 22730,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16069,7 +16075,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4141
+      "Count": 4165
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -16143,8 +16149,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2024-01-07T18:57:42.6268882+00:00",
+  "LastChanged": "2024-01-07T19:57:25.8665987+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:36.9729481+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:57:42.6268888+00:00",
-  "LastUpdate_Achievements": "2024-01-07T19:08:46.7696341+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:57:25.8665992+00:00",
+  "LastUpdate_Achievements": "2024-01-07T20:08:10.5780453+00:00"
 }
