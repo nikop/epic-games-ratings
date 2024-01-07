@@ -2,13 +2,13 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 164,
   "Ranking_Popularity": 180,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-10-19T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -1601,10 +1601,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1281,
       "NumberOfAwardsMax": 849
+    },
+    {
+      "Time": "2024-01-07T10:59:28.6550975+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1282,
+      "NumberOfAwardsMax": 849
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1281,
+  "NumberOfAwards": 1282,
   "NumberOfAwardsMax": 849,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1660,7 +1666,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has a Creative Community",
@@ -1687,8 +1693,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2024-01-07T07:59:43.9998949+00:00",
+  "LastChanged": "2024-01-07T10:59:28.6550974+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.959337+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:59:28.7553854+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:06:32.8953184+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:59:28.6550978+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:06:34.5759964+00:00"
 }

@@ -9,7 +9,7 @@ Number of Ratings: 292  (23.09.2022)
 | Adept | 46.00% | ~479 |
 | Double Kill | 40.00% | ~417 |
 | Critical Hit | 23.00% | ~240 |
-| Veteran | 22.00% | ~229 |
+| Veteran | 23.00% | ~240 |
 | Dressed For Success | 15.00% | ~156 |
 | Humiliation | 10.00% | ~104 |
 | Veni, Vidi, Vici | 10.00% | ~104 |

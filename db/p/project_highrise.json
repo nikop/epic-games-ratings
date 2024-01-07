@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 498,
+  "EOS_Progressed": 499,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1620,6 +1620,11 @@
       "Time": "2024-01-07T06:08:29.7667619+00:00",
       "NumProgressed": 498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T11:08:34.7956541+00:00",
+      "NumProgressed": 499,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1663,7 +1668,7 @@
       "Name": "Floor Galore",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ach_area_1",
@@ -1719,7 +1724,7 @@
       "Name": "Campaign Launch",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ach_campaigns_1",
@@ -1767,7 +1772,7 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ach_consultant_1",
@@ -1775,7 +1780,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_consultants_a",
@@ -1839,7 +1844,7 @@
       "Name": "Proper Walls",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach_drones",
@@ -1935,7 +1940,7 @@
       "Name": "Starting Skyward",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ach_floors_1",
@@ -1967,7 +1972,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ach_grime_1",
@@ -1975,7 +1980,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach_grime_2",
@@ -2031,7 +2036,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_office_2",
@@ -2151,7 +2156,7 @@
       "Name": "Dinner Dash",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ach_restaurants_4",
@@ -2327,14 +2332,14 @@
       "Name": "Destination Destiny",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 498,
+      "Progressed": 499,
       "Completed": 0
     }
   ],
@@ -2342,8 +2347,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:09:02.2016444+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:08:34.7956538+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:02:46.1373216+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:09:02.2017373+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:02:45.239956+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:08:34.7957383+00:00"
 }

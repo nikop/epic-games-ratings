@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 818,
+  "EOS_Progressed": 819,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -3037,6 +3037,11 @@
       "Time": "2024-01-07T09:08:58.7027908+00:00",
       "NumProgressed": 818,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T11:09:36.6063997+00:00",
+      "NumProgressed": 819,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3113,7 +3118,7 @@
       "Name": "Find myself",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -3129,7 +3134,7 @@
       "Name": "Shelter Escape",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3169,7 +3174,7 @@
       "Name": "TentacleMAN",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -3185,7 +3190,7 @@
       "Name": "The First Bond",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3193,7 +3198,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3223,9 +3228,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3233,7 +3238,7 @@
       "Name": "Stone Retriever",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3248,7 +3253,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 818,
+      "Progressed": 819,
       "Completed": 2
     }
   ],
@@ -3256,8 +3261,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-06T15:59:59.9482178+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:10:04.8363584+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:09:36.6063994+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:02:45.7022551+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:10:04.8363929+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:02:44.7980276+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:09:36.6064285+00:00"
 }

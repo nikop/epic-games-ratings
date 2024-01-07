@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1392,9 +1392,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32763,
+  "EOS_Progressed": 32767,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 773,
+  "EOS_NewPlayers": 776,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29587,6 +29587,11 @@
       "Time": "2024-01-07T10:10:59.8516821+00:00",
       "NumProgressed": 32763,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-07T11:10:31.0952494+00:00",
+      "NumProgressed": 32767,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29630,7 +29635,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "1020",
@@ -29686,7 +29691,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "1027",
@@ -29702,7 +29707,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "1029",
@@ -29718,7 +29723,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6225
+      "UsersEstimate": 6226
     },
     {
       "ID": "1031",
@@ -29726,7 +29731,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4259
+      "UsersEstimate": 4260
     },
     {
       "ID": "1032",
@@ -29734,7 +29739,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13105
+      "UsersEstimate": 13107
     },
     {
       "ID": "1033",
@@ -29750,7 +29755,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "1035",
@@ -29766,22 +29771,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32763,
+      "Progressed": 32767,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-05T16:59:15.5205633+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:10:59.8516815+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:10:31.0952491+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:01:23.9560612+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:10:59.8518745+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:01:24.4165914+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:10:31.0954462+00:00"
 }

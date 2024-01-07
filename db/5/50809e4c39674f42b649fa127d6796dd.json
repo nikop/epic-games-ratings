@@ -3,8 +3,8 @@
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 372,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.78,
+  "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
     {
       "Time": "2023-10-18T09:06:38.9917479+00:00",
@@ -1482,6 +1482,11 @@
       "Time": "2024-01-07T06:08:23.1126206+00:00",
       "NumProgressed": 516,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T11:08:27.4112594+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1518,7 +1523,7 @@
       "Name": "Chaos Island Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND4",
@@ -1526,7 +1531,7 @@
       "Name": "Ouranos Island Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DEFENCE_LEVEL_REACH_NUM",
@@ -1556,9 +1561,9 @@
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 165
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1574,7 +1579,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1598,15 +1603,15 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 238
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1614,7 +1619,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1694,7 +1699,7 @@
       "Name": "Threats Identified",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD1",
@@ -1718,7 +1723,7 @@
       "Name": "Chaos Island Memories",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD4",
@@ -1782,7 +1787,7 @@
       "Name": "Ares Island Expert",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SUB_CLEAR_ISLAND3",
@@ -1813,14 +1818,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:08:54.5017334+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:08:27.4112589+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:07.7248276+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:03:33.083067+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:08:54.5017951+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:03:32.058171+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:08:27.4112965+00:00"
 }

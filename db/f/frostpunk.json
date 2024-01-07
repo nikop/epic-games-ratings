@@ -2,13 +2,13 @@
   "ID": "be886d9db65047a89b24cd4317695f18",
   "Name": "Frostpunk",
   "ProductSlug": "frostpunk",
-  "Ranking_Rating": 165,
+  "Ranking_Rating": 164,
   "Ranking_Popularity": 177,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -6993,11 +6993,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 7415,
       "NumberOfAwardsMax": 859
+    },
+    {
+      "Time": "2024-01-07T11:03:05.5923229+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7417,
+      "NumberOfAwardsMax": 860
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7415,
-  "NumberOfAwardsMax": 859,
+  "NumberOfAwards": 7417,
+  "NumberOfAwardsMax": 860,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -7010,7 +7016,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 859
+      "Count": 860
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7064,7 +7070,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 723
+      "Count": 724
     }
   ],
   "EOS_Progressed": 0,
@@ -7086,9 +7092,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-01-07T10:03:06.1857503+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:10:02.0180551+00:00",
+  "LastChanged": "2024-01-07T11:03:05.5923227+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:09:34.0203847+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.5053106+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:03:06.1857511+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:10:02.0180589+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:03:05.5923234+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:09:34.0203885+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1103,
+  "EOS_Progressed": 1104,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4294,6 +4294,11 @@
       "Time": "2024-01-07T10:11:20.9869118+00:00",
       "NumProgressed": 1103,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T11:10:52.4143911+00:00",
+      "NumProgressed": 1104,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4343,9 +4348,9 @@
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 199
     },
     {
       "ID": "Close",
@@ -4401,7 +4406,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "FullCompletion",
@@ -4433,7 +4438,7 @@
       "Name": "Lack of Time",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "LargeAirport",
@@ -4441,7 +4446,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "LargeTerritories",
@@ -4463,9 +4468,9 @@
       "ID": "LinearNetwork",
       "SetID": "1e89b4i",
       "Name": "Linear Network",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 144
     },
     {
       "ID": "LongDistance",
@@ -4489,7 +4494,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Millionaire",
@@ -4505,7 +4510,7 @@
       "Name": "New Record",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "NoTimeForModernization",
@@ -4513,7 +4518,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "NoWayBack",
@@ -4521,7 +4526,7 @@
       "Name": "No Way Back",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "NotPlanned",
@@ -4569,15 +4574,15 @@
       "Name": "Reliable Transporter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ResourceEconomy",
       "SetID": "1e89b4i",
       "Name": "Resource Economy",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 408
     },
     {
       "ID": "Restructuring",
@@ -4585,7 +4590,7 @@
       "Name": "Restructuring",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Reviewer",
@@ -4625,7 +4630,7 @@
       "Name": "Time for Management",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "TransportHub",
@@ -4640,14 +4645,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1103,
+      "Progressed": 1104,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:11:20.9869113+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:10:52.4143909+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.0647724+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:58:59.0339285+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:11:20.9869573+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:58:59.2318215+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:10:52.4144426+00:00"
 }

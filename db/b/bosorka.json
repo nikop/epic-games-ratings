@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -582,9 +582,9 @@
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
@@ -599,8 +599,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:09:00.7966748+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:08:33.3209681+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.5850357+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:58:03.6066059+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:09:00.7966954+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:58:04.4399448+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:08:33.3209805+00:00"
 }

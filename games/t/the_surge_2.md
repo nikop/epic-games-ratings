@@ -5,33 +5,33 @@ Rating: 4.26 (Ranked 911)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,977 |
-| Don't I Know You...? | 75.00% | ~1,876 |
-| Jailbreak | 64.00% | ~1,601 |
+| Rigged And Ready | 79.00% | ~1,978 |
+| Don't I Know You...? | 75.00% | ~1,878 |
+| Jailbreak | 64.00% | ~1,603 |
 | HEADSHOT! | 37.00% | ~926 |
 | Suited and Booted | 37.00% | ~926 |
 | Sleeping With The Fishes | 35.00% | ~876 |
 | Overheated | 30.00% | ~751 |
 | High Performance | 30.00% | ~751 |
 | Powered Up | 28.00% | ~701 |
-| Studied The Blade | 24.00% | ~600 |
-| Home Invasion | 22.00% | ~550 |
-| Luminary | 22.00% | ~550 |
-| It's a Trap | 22.00% | ~550 |
-| True Survivor | 21.00% | ~525 |
-| Offensive Defense | 20.00% | ~500 |
-| Shocking | 20.00% | ~500 |
-| Court Martial | 19.00% | ~475 |
-| Unforeseeable Consequences | 19.00% | ~475 |
-| Clean Cut | 18.00% | ~450 |
-| Dead Again | 17.00% | ~425 |
-| Full Arsenal | 17.00% | ~425 |
-| Can't Trust Banks | 15.00% | ~375 |
-| Mommy Dearest | 13.00% | ~325 |
-| Bad Dog | 13.00% | ~325 |
-| Where It All Began | 13.00% | ~325 |
-| Risk Tolerant | 13.00% | ~325 |
-| What A Catchy Song | 13.00% | ~325 |
+| Studied The Blade | 24.00% | ~601 |
+| Home Invasion | 22.00% | ~551 |
+| Luminary | 22.00% | ~551 |
+| It's a Trap | 22.00% | ~551 |
+| True Survivor | 21.00% | ~526 |
+| Offensive Defense | 20.00% | ~501 |
+| Shocking | 20.00% | ~501 |
+| Court Martial | 19.00% | ~476 |
+| Unforeseeable Consequences | 19.00% | ~476 |
+| Clean Cut | 18.00% | ~451 |
+| Dead Again | 17.00% | ~426 |
+| Full Arsenal | 17.00% | ~426 |
+| Can't Trust Banks | 15.00% | ~376 |
+| Mommy Dearest | 13.00% | ~326 |
+| Bad Dog | 13.00% | ~326 |
+| Where It All Began | 13.00% | ~326 |
+| Risk Tolerant | 13.00% | ~326 |
+| What A Catchy Song | 13.00% | ~326 |
 | Marked For Success | 12.00% | ~300 |
 | Sorry, Didn't See You There | 12.00% | ~300 |
 | Corrupted Beauty | 11.00% | ~275 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 911)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,502 (Ranked 236)  
+Progressed: 2,504 (Ranked 235)  
 Completed: 13 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 13 (0.52%) (Ranked 216)
 | 2024-01-04 | 2,469 | 13 |
 | 2024-01-05 | 2,483 | 13 |
 | 2024-01-06 | 2,499 | 13 |
-| 2024-01-07 | 2,502 | 13 |
+| 2024-01-07 | 2,504 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8047,9 +8047,9 @@
       "Count": 3815
     }
   ],
-  "EOS_Progressed": 150068,
+  "EOS_Progressed": 150073,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1453,
+  "EOS_NewPlayers": 1454,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35697,6 +35697,11 @@
       "Time": "2024-01-07T10:09:17.8978902+00:00",
       "NumProgressed": 150068,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-07T11:08:50.5995296+00:00",
+      "NumProgressed": 150073,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -35812,7 +35817,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7503
+      "UsersEstimate": 7504
     },
     {
       "ID": "blueprint02",
@@ -36052,7 +36057,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "energy01",
@@ -36180,7 +36185,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13506
+      "UsersEstimate": 13507
     },
     {
       "ID": "gold02",
@@ -36188,7 +36193,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7503
+      "UsersEstimate": 7504
     },
     {
       "ID": "gold03",
@@ -36260,7 +36265,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7503
+      "UsersEstimate": 7504
     },
     {
       "ID": "jackslot02",
@@ -36276,7 +36281,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "legenchant01",
@@ -36364,7 +36369,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7503
+      "UsersEstimate": 7504
     },
     {
       "ID": "master02",
@@ -36603,15 +36608,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150068,
+      "Progressed": 150073,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-07T01:58:03.9645227+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:09:17.8978895+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:08:50.5995292+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:03:38.5920107+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:09:17.8981083+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:03:37.6432854+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:08:50.599758+00:00"
 }

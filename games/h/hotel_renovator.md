@@ -5,35 +5,35 @@ Rating: 4.34 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~1,076 |
-| And so it begins | 72.00% | ~1,020 |
-| No pressure | 70.00% | ~991 |
-| Memento | 59.00% | ~835 |
-| Let there be light | 56.00% | ~793 |
-| I think you dropped this | 52.00% | ~736 |
-| Soulmate? | 51.00% | ~722 |
+| Good start | 76.00% | ~1,078 |
+| And so it begins | 72.00% | ~1,021 |
+| No pressure | 70.00% | ~993 |
+| Memento | 59.00% | ~837 |
+| Let there be light | 56.00% | ~794 |
+| I think you dropped this | 52.00% | ~737 |
+| Soulmate? | 50.00% | ~709 |
 | Excellent service | 47.00% | ~666 |
-| Roll with it | 44.00% | ~623 |
-| Humble beginnings | 42.00% | ~595 |
+| Roll with it | 44.00% | ~624 |
+| Humble beginnings | 42.00% | ~596 |
 | Love is in the air | 41.00% | ~581 |
-| Fine, I'll do it myself | 40.00% | ~566 |
-| Moving up | 40.00% | ~566 |
-| No need to call anyone | 38.00% | ~538 |
-| Big fortune | 31.00% | ~439 |
-| Still more work ahead | 28.00% | ~396 |
-| Kaboom | 26.00% | ~368 |
-| Aesop's fable | 26.00% | ~368 |
-| Hotel sleuthing | 26.00% | ~368 |
+| Fine, I'll do it myself | 40.00% | ~567 |
+| Moving up | 40.00% | ~567 |
+| No need to call anyone | 38.00% | ~539 |
+| Big fortune | 31.00% | ~440 |
+| Still more work ahead | 28.00% | ~397 |
+| Kaboom | 26.00% | ~369 |
+| Aesop's fable | 26.00% | ~369 |
+| Hotel sleuthing | 26.00% | ~369 |
 | Nearly there | 24.00% | ~340 |
 | Broken heart | 22.00% | ~312 |
-| Island boy | 21.00% | ~297 |
+| Island boy | 21.00% | ~298 |
 | You're a star | 19.00% | ~269 |
-| Unstoppable | 18.00% | ~255 |
 | Reunited | 18.00% | ~255 |
+| Unstoppable | 17.00% | ~241 |
 | King of hospitality | 11.00% | ~156 |
 | Top spot in town | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,416 (Ranked 269)  
+Progressed: 1,418 (Ranked 269)  
 Completed: 18 (1.27%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 18 (1.27%) (Ranked 157)
 | 2024-01-04 | 1,397 | 18 |
 | 2024-01-05 | 1,406 | 18 |
 | 2024-01-06 | 1,413 | 18 |
-| 2024-01-07 | 1,416 | 18 |
+| 2024-01-07 | 1,418 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

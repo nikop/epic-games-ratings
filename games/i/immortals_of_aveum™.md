@@ -5,30 +5,30 @@ Rating: 4.19 (Ranked 969)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,607 |
-| Battlefields Have Memories | 81.00% | ~2,400 |
-| Enlisted | 74.00% | ~2,193 |
-| Maybe Engage a Little | 69.00% | ~2,044 |
-| No More Names | 52.00% | ~1,541 |
-| Initiate | 38.00% | ~1,126 |
-| Thrada-Kul | 34.00% | ~1,007 |
-| Gravity-Challenged Rocks | 27.00% | ~800 |
-| Socialite | 24.00% | ~711 |
-| Soldier | 23.00% | ~681 |
-| All the Major Food Groups | 23.00% | ~681 |
-| Beggars Would Ride | 20.00% | ~593 |
-| Control is an Illusion | 19.00% | ~563 |
-| The Means to Save It | 17.00% | ~504 |
-| Resilience to Sin | 15.00% | ~444 |
-| A Familiar Nest | 15.00% | ~444 |
-| Geas Aristeya | 14.00% | ~415 |
-| Periapt Alizarin | 14.00% | ~415 |
-| A Perfect Cycle | 13.00% | ~385 |
+| Unforeseen | 88.00% | ~2,614 |
+| Battlefields Have Memories | 81.00% | ~2,406 |
+| Enlisted | 74.00% | ~2,198 |
+| Maybe Engage a Little | 69.00% | ~2,049 |
+| No More Names | 52.00% | ~1,544 |
+| Initiate | 38.00% | ~1,129 |
+| Thrada-Kul | 34.00% | ~1,010 |
+| Gravity-Challenged Rocks | 27.00% | ~802 |
+| Socialite | 24.00% | ~713 |
+| Soldier | 23.00% | ~683 |
+| All the Major Food Groups | 22.00% | ~653 |
+| Beggars Would Ride | 20.00% | ~594 |
+| Control is an Illusion | 19.00% | ~564 |
+| The Means to Save It | 17.00% | ~505 |
+| Resilience to Sin | 15.00% | ~446 |
+| A Familiar Nest | 15.00% | ~446 |
+| Geas Aristeya | 14.00% | ~416 |
+| Periapt Alizarin | 14.00% | ~416 |
+| A Perfect Cycle | 13.00% | ~386 |
 | Recruit | 12.00% | ~356 |
-| Armsman | 11.00% | ~326 |
+| Armsman | 11.00% | ~327 |
 | Lights Army | 9.00% | ~267 |
-| Periapt Cerulean | 8.00% | ~237 |
-| Good Boy | 7.00% | ~207 |
+| Periapt Cerulean | 8.00% | ~238 |
+| Good Boy | 7.00% | ~208 |
 | Best Dressed | 6.00% | ~178 |
 | Periapt Viridian | 6.00% | ~178 |
 | Shroudfane Explorer | 5.00% | ~148 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 969)
 | Treasure Hunter | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,963 (Ranked 228)  
+Progressed: 2,970 (Ranked 228)  
 Completed: 4 (0.13%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 4 (0.13%) (Ranked 297)
 | 2024-01-04 | 2,699 | 2 |
 | 2024-01-05 | 2,796 | 4 |
 | 2024-01-06 | 2,915 | 4 |
-| 2024-01-07 | 2,963 | 4 |
+| 2024-01-07 | 2,970 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -32,7 +32,7 @@ Rating: 4.71 (Ranked 202)
 | Pure Dynamite! | 45.00% | ~333 |
 | Dungeonlord Gorgu | 45.00% | ~333 |
 | Mana Cannon | 43.00% | ~318 |
-| All’s Well That Ends Evil | 41.00% | ~303 |
+| All’s Well That Ends Evil | 42.00% | ~311 |
 | The Duel | 39.00% | ~289 |
 | If Looks Could Kill | 36.00% | ~266 |
 | Unstoppable Horde | 35.00% | ~259 |

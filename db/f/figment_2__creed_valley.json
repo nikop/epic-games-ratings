@@ -4,8 +4,8 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "fluff_no_wrong_turns_ethics_maze",
       "SetID": "7e96e7l",
       "Name": "You\u0027re a-MAZE-ing!",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "fluff_score_goal",
@@ -443,9 +443,9 @@
       "ID": "shards_all_shards_all_levels",
       "SetID": "7e96e7l",
       "Name": "Memory Completionist",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 120,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "shards_one_remembrane",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:11:14.8093892+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:10:46.323066+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.0189058+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:02:39.4763673+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:11:14.8094042+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:01:58.6247187+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:10:46.323077+00:00"
 }

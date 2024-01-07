@@ -16,22 +16,23 @@
 | Locked and Loaded | 3.00% | ~5 |
 | The A-Team | 3.00% | ~5 |
 | Expert | 3.00% | ~5 |
+| The Golden Flash | 3.00% | ~5 |
 | Searing Heat | 2.00% | ~3 |
 | Witch | 2.00% | ~3 |
 | Can't touch this | 2.00% | ~3 |
-| The Golden Flash | 2.00% | ~3 |
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
 | Defeat Ingla | 1.00% | ~2 |
+| Through Dangers Untold | 1.00% | ~2 |
 | But what of the Acreans? | 1.00% | ~2 |
 | A Deceiving Gift | 1.00% | ~2 |
 | The Power of the Mountains | 1.00% | ~2 |
 | Changing the World | 1.00% | ~2 |
 | Sponsor | 0.70% | ~1 |
 | Defeat Uskol | 0.70% | ~1 |
-| Through Dangers Untold | 0.70% | ~1 |
 | Nothing but the Truth | 0.70% | ~1 |
 | Trailblazer | 0.70% | ~1 |
 | Finally! | 0.70% | ~1 |
+| The End | 0.70% | ~1 |
 | Unveiling the Truth | 0.70% | ~1 |
 | Small Setback | 0.70% | ~1 |
 | Style over Stats | 0.00% | ~0 |
@@ -49,7 +50,6 @@
 | Wayseeker | 0.00% | ~0 |
 | Pathfinder | 0.00% | ~0 |
 | Globetrotter | 0.00% | ~0 |
-| The End | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 | Mind Over Matter | 0.00% | ~0 |
 | Coming Prepared | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152 (Ranked 451)  
+Progressed: 152 (Ranked 453)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

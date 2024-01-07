@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1076,17 +1076,17 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 173
     },
     {
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 193
     },
     {
       "ID": "DopaMiner",
@@ -1148,9 +1148,9 @@
       "ID": "Mathematic",
       "SetID": "4bd750m",
       "Name": "Mathematic",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 218
     },
     {
       "ID": "MineSweeper",
@@ -1275,8 +1275,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:06:53.5223117+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:06:55.4872312+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.7828616+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:03:38.9708453+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:06:53.5223344+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:03:38.0113888+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:06:55.4872525+00:00"
 }

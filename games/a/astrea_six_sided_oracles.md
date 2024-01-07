@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 84.00% | ~294 |
-| Purification Pioneer | 79.00% | ~276 |
-| Mechanical Buddy | 74.00% | ~259 |
+| Meissa's Savior | 84.00% | ~295 |
+| Purification Pioneer | 79.00% | ~277 |
+| Mechanical Buddy | 74.00% | ~260 |
 | Dicesmithing Time! | 65.00% | ~228 |
 | Sanctuary Guardian | 55.00% | ~193 |
-| Endless Tricks | 51.00% | ~178 |
+| Endless Tricks | 51.00% | ~179 |
 | Wild's Keeper | 48.00% | ~168 |
 | Mind Illuminator | 44.00% | ~154 |
 | Stellar Dismantler | 38.00% | ~133 |
-| Astral Adventurer | 35.00% | ~122 |
-| Noctuan Champion | 35.00% | ~122 |
-| Anomaly Destroyer | 31.00% | ~108 |
-| Star Killer | 31.00% | ~108 |
+| Astral Adventurer | 35.00% | ~123 |
+| Noctuan Champion | 35.00% | ~123 |
+| Anomaly Destroyer | 31.00% | ~109 |
+| Star Killer | 30.00% | ~105 |
 | Eridanian Champion | 25.00% | ~88 |
 | Loyal Partner | 22.00% | ~77 |
 | Lacertian Champion | 21.00% | ~74 |
-| Shard Spender | 19.00% | ~66 |
-| Apian Champion | 19.00% | ~66 |
+| Shard Spender | 19.00% | ~67 |
+| Apian Champion | 19.00% | ~67 |
 | Unbeatable | 18.00% | ~63 |
 | Sadistic Plan | 16.00% | ~56 |
 | Behenian Champion | 14.00% | ~49 |
-| Heavy Purger | 11.00% | ~38 |
-| Wave Bender | 11.00% | ~38 |
+| Heavy Purger | 11.00% | ~39 |
+| Wave Bender | 11.00% | ~39 |
 | Astral Seeker | 9.00% | ~32 |
 | Aquarian Champion | 9.00% | ~32 |
 | Stellar Haste | 8.00% | ~28 |
@@ -46,12 +46,12 @@
 | The Dark Moon | 4.00% | ~14 |
 | Behenian Hero | 4.00% | ~14 |
 | Lacertian Hero | 4.00% | ~14 |
-| Purification Avatar | 3.00% | ~10 |
-| The Ardent Prince | 3.00% | ~10 |
-| The Distorted Sage | 3.00% | ~10 |
-| The Raging Skies | 3.00% | ~10 |
-| Eridanian Hero | 3.00% | ~10 |
-| Noctuan Hero | 3.00% | ~10 |
+| Purification Avatar | 3.00% | ~11 |
+| The Ardent Prince | 3.00% | ~11 |
+| The Distorted Sage | 3.00% | ~11 |
+| The Raging Skies | 3.00% | ~11 |
+| Eridanian Hero | 3.00% | ~11 |
+| Noctuan Hero | 3.00% | ~11 |
 | Astromancer | 2.00% | ~7 |
 | Critical Twist | 2.00% | ~7 |
 | Pocket Astrarium | 2.00% | ~7 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350 (Ranked 378)  
+Progressed: 351 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,4 +176,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 324 | 0 |
 | 2024-01-05 | 340 | 0 |
 | 2024-01-06 | 347 | 0 |
-| 2024-01-07 | 350 | 0 |
+| 2024-01-07 | 351 | 0 |

@@ -7,9 +7,9 @@ Rating: 4.63 (Ranked 355)
 | ---- | ---------- | ----- |
 | Azoria Beckons | 4.00% | ~357 |
 | A Thorny Situation | 4.00% | ~357 |
-| Break-Net Speed | 3.00% | ~267 |
-| ... And Spit Back Out | 3.00% | ~267 |
-| Bramble Breaker | 3.00% | ~267 |
+| Break-Net Speed | 3.00% | ~268 |
+| ... And Spit Back Out | 3.00% | ~268 |
+| Bramble Breaker | 3.00% | ~268 |
 | Calm Sailing | 2.00% | ~178 |
 | Open the Gate! | 2.00% | ~178 |
 | Lumberjack | 2.00% | ~178 |
@@ -27,9 +27,9 @@ Rating: 4.63 (Ranked 355)
 | Azorian Anniversary | 0.80% | ~71 |
 | Skilled | 0.80% | ~71 |
 | Fae Farmer | 0.70% | ~62 |
-| Got to Catch Them All | 0.60% | ~53 |
-| Rumble in the Jumble | 0.60% | ~53 |
-| Fanatical Farmer | 0.60% | ~53 |
+| Got to Catch Them All | 0.60% | ~54 |
+| Rumble in the Jumble | 0.60% | ~54 |
+| Fanatical Farmer | 0.60% | ~54 |
 | Azorian Hat Dance | 0.60% | ~9 |
 | Scattered Scroll Scrounger | 0.50% | ~45 |
 | Chatty Neighbor | 0.40% | ~36 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 355)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,916 (Ranked 185)  
+Progressed: 8,917 (Ranked 185)  
 Completed: 1 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 1 (0.01%) (Ranked 371)
 | 2024-01-04 | 8,863 | 1 |
 | 2024-01-05 | 8,888 | 1 |
 | 2024-01-06 | 8,910 | 1 |
-| 2024-01-07 | 8,916 | 1 |
+| 2024-01-07 | 8,917 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

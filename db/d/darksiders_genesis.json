@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -447,7 +447,7 @@
   ],
   "EOS_Progressed": 488,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1956,9 +1956,9 @@
       "ID": "MintI",
       "SetID": "329ak73",
       "Name": "Mint I",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "MintII",
@@ -2068,8 +2068,8 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:11:06.8394549+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:10:38.319867+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:57:29.5991066+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:11:06.8394832+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:57:30.6894953+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:10:38.3199125+00:00"
 }

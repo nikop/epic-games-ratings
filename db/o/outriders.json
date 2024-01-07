@@ -3,12 +3,12 @@
   "Name": "OUTRIDERS",
   "ProductSlug": "outriders",
   "Ranking_Rating": 737,
-  "Ranking_Popularity": 140,
+  "Ranking_Popularity": 141,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-04-15T16:00:00+00:00",
     "PcReleaseDate": "2021-04-01T16:00:00+00:00",
@@ -3755,6 +3755,6 @@
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
   "LastChanged": "2024-01-07T10:02:31.1137168+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.8978556+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:02:31.1137173+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:04:54.9176153+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:01:50.391161+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:04:56.5821282+00:00"
 }

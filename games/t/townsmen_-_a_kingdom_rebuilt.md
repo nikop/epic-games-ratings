@@ -28,12 +28,12 @@ Number of Ratings: 37  (23.09.2022)
 | The King's new clothes I | 6.00% | ~266 |
 | Tax-man III | 6.00% | ~266 |
 | Tools of the trade I | 6.00% | ~266 |
-| Bread for the people II | 5.00% | ~221 |
-| I like to build stuff... III | 5.00% | ~221 |
-| Builder II | 5.00% | ~221 |
-| An honorable Governor II | 5.00% | ~221 |
-| A time consuming game III | 5.00% | ~221 |
-| Conflicting parties | 5.00% | ~221 |
+| Bread for the people II | 5.00% | ~222 |
+| I like to build stuff... III | 5.00% | ~222 |
+| Builder II | 5.00% | ~222 |
+| An honorable Governor II | 5.00% | ~222 |
+| A time consuming game III | 5.00% | ~222 |
+| Conflicting parties | 5.00% | ~222 |
 | Another one bites the dust | 4.00% | ~177 |
 | I like to build stuff... IV | 4.00% | ~177 |
 | Experienced decorator | 4.00% | ~177 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,429 (Ranked 207)  
+Progressed: 4,430 (Ranked 207)  
 Completed: 4 (0.09%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,6 +265,7 @@ Completed: 4 (0.09%) (Ranked 315)
 | 2024-01-04 | 4,420 | 4 |
 | 2024-01-05 | 4,423 | 4 |
 | 2024-01-06 | 4,429 | 4 |
+| 2024-01-07 | 4,430 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

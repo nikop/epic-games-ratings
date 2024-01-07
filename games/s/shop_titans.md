@@ -9,7 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 10.00% | ~15,007 |
 | Basic in Bulk | 10.00% | ~15,007 |
 | Titan's First Steps | 10.00% | ~15,007 |
-| Tinkle of Coins | 9.00% | ~13,506 |
+| Tinkle of Coins | 9.00% | ~13,507 |
 | Disintermediation | 7.00% | ~10,505 |
 | It's Free Real Estate | 7.00% | ~10,505 |
 | Capitalism Ho! | 7.00% | ~10,505 |
@@ -17,10 +17,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 6.00% | ~9,004 |
 | Budding Merchant | 6.00% | ~9,004 |
 | Own the Means of Production | 6.00% | ~9,004 |
-| Some Assembly Required | 5.00% | ~7,503 |
-| Pretty Penny | 5.00% | ~7,503 |
-| One-Armed Bandit | 5.00% | ~7,503 |
-| Through Repetition, Perfection | 5.00% | ~7,503 |
+| Some Assembly Required | 5.00% | ~7,504 |
+| Pretty Penny | 5.00% | ~7,504 |
+| One-Armed Bandit | 5.00% | ~7,504 |
+| Through Repetition, Perfection | 5.00% | ~7,504 |
 | The Daily Grind | 4.00% | ~6,003 |
 | Bounty Hunters | 4.00% | ~6,003 |
 | Demand for Supplies | 4.00% | ~6,003 |
@@ -110,8 +110,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bane of Legends | 0.80% | ~1,201 |
 | Anything not Nailed Down | 0.80% | ~1,201 |
 | Marvels from the World Over | 0.80% | ~1,201 |
-| Unleashed Potential | 0.70% | ~1,050 |
-| JACKPOT!!! | 0.70% | ~1,050 |
+| Unleashed Potential | 0.70% | ~1,051 |
+| JACKPOT!!! | 0.70% | ~1,051 |
 | Ultimate Collector | 0.60% | ~900 |
 | Oligarch Monarch | 0.50% | ~750 |
 | Merchant Extraordinaire | 0.50% | ~750 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~600 |
 | Capitalist Camaraderie | 0.20% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,068 (Ranked 86)  
+Progressed: 150,073 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -381,7 +381,7 @@ Completed: 345 (0.23%) (Ranked 269)
 | 2024-01-04 | 149,471 | 342 |
 | 2024-01-05 | 149,755 | 342 |
 | 2024-01-06 | 149,985 | 345 |
-| 2024-01-07 | 150,068 | 345 |
+| 2024-01-07 | 150,073 | 345 |
 ## Awards
 Max (Great for Beginners): 4,945  (Ranked 78)  
 Sum: 27,945 (Ranked 52)  

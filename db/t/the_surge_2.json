@@ -5,10 +5,10 @@
   "Ranking_Rating": 911,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 236,
+  "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -300,7 +300,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2502,
+  "EOS_Progressed": 2504,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -4420,6 +4420,11 @@
       "Time": "2024-01-07T09:08:08.4790073+00:00",
       "NumProgressed": 2502,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-07T11:08:24.451257+00:00",
+      "NumProgressed": 2504,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4439,7 +4444,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1603
     },
     {
       "ID": "ACHV_03",
@@ -4447,7 +4452,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHV_04",
@@ -4463,7 +4468,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACHV_06",
@@ -4471,7 +4476,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACHV_07",
@@ -4479,7 +4484,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACHV_08",
@@ -4487,7 +4492,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHV_09",
@@ -4495,7 +4500,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHV_10",
@@ -4567,7 +4572,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACHV_19",
@@ -4599,7 +4604,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHV_23",
@@ -4623,7 +4628,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHV_26",
@@ -4631,7 +4636,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "ACHV_27",
@@ -4647,7 +4652,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACHV_29",
@@ -4671,7 +4676,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHV_32",
@@ -4695,7 +4700,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHV_35",
@@ -4711,7 +4716,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACHV_37",
@@ -4719,7 +4724,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACHV_38",
@@ -4727,7 +4732,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHV_39",
@@ -4735,7 +4740,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1878
     },
     {
       "ID": "ACHV_40",
@@ -4767,7 +4772,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHV_44",
@@ -4783,7 +4788,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACHV_46",
@@ -4791,7 +4796,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACHV_47",
@@ -4886,7 +4891,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2502,
+      "Progressed": 2504,
       "Completed": 13
     }
   ],
@@ -4894,8 +4899,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:08:51.4756342+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:08:24.4512567+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:02:57.9512684+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:08:51.4757148+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:02:57.2392535+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:08:24.4513152+00:00"
 }

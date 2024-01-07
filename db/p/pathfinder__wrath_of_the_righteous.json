@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4847,9 +4847,9 @@
       "Count": 405
     }
   ],
-  "EOS_Progressed": 13105,
+  "EOS_Progressed": 13107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19147,6 +19147,11 @@
       "Time": "2024-01-07T10:11:28.0074314+00:00",
       "NumProgressed": 13105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T11:10:59.3957891+00:00",
+      "NumProgressed": 13107,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19158,7 +19163,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "02_BurningCity",
@@ -19182,7 +19187,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -20085,21 +20090,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11887,
+      "Progressed": 11889,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13105,
+      "Progressed": 13107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-06T22:00:15.768728+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:11:28.0074309+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:10:59.3957888+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:00:05.7670505+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:11:28.0076308+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:00:04.316141+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:10:59.3959649+00:00"
 }

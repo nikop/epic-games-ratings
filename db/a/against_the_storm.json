@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3815,7 +3815,7 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 20362,
+  "EOS_Progressed": 20367,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 0,
@@ -18775,6 +18775,11 @@
       "Time": "2024-01-07T10:08:47.0507222+00:00",
       "NumProgressed": 20362,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-07T11:08:20.0628085+00:00",
+      "NumProgressed": 20367,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18875,7 +18880,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "WinHard",
@@ -19003,7 +19008,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "WinNearRuins",
@@ -19043,7 +19048,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "WinOnCoral",
@@ -19067,7 +19072,7 @@
       "Name": "The Marshlands",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "WinOnMoorlands",
@@ -19219,7 +19224,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "WinNearPresence",
@@ -19258,15 +19263,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20362,
+      "Progressed": 20367,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-07T01:55:16.6666445+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:08:47.0507216+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:08:20.062808+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:02:39.374615+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:08:47.0508382+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:01:58.6300049+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:08:20.0629362+00:00"
 }

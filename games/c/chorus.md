@@ -7,8 +7,8 @@ Number of Ratings: 58  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Another Life | 84.00% | ~1,172 |
+| Space Traveler | 77.00% | ~1,074 |
 | Voices from the Past | 76.00% | ~1,060 |
-| Space Traveler | 76.00% | ~1,060 |
 | Demigod | 74.00% | ~1,032 |
 | The Great Destroyer | 72.00% | ~1,004 |
 | Shields Down | 70.00% | ~976 |

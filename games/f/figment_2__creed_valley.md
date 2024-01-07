@@ -20,8 +20,8 @@
 | Patient Listener | 6.00% | ~4 |
 | GOAAAAAAAAAL! | 6.00% | ~4 |
 | Whac-a-worker | 1.00% | ~1 |
-| You're a-MAZE-ing! | 0.00% | ~0 |
-| Memory Completionist | 0.00% | ~0 |
+| You're a-MAZE-ing! | 1.00% | ~1 |
+| Memory Completionist | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 67 (Ranked 528)  
 Completed: 0 (0.00%) (Ranked 393)  

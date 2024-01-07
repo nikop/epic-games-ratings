@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -375,9 +375,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2294,
+  "EOS_Progressed": 2295,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4150,6 +4150,11 @@
       "Time": "2024-01-07T10:05:52.3499418+00:00",
       "NumProgressed": 2294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T11:05:54.1426698+00:00",
+      "NumProgressed": 2295,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4239,9 +4244,9 @@
       "ID": "Achievement_012",
       "SetID": "6b34g18",
       "Name": "Neighborhood Watch",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_013",
@@ -4353,7 +4358,7 @@
       "Name": "Fly Fisher",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Achievement_027",
@@ -4377,7 +4382,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Achievement_030",
@@ -4393,7 +4398,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Achievement_032",
@@ -4639,9 +4644,9 @@
       "ID": "Achievement_065",
       "SetID": "6b34g18",
       "Name": "Curious Finch",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_066",
@@ -4688,7 +4693,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2294,
+      "Progressed": 2295,
       "Completed": 0
     }
   ],
@@ -4696,8 +4701,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-07T04:01:29.1090541+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:05:52.3499415+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:05:54.1426693+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:59:40.580814+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:05:52.3500174+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:59:39.8518917+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:05:54.1427634+00:00"
 }

@@ -6,35 +6,35 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~772 |
-| It’s Heating up! | 69.00% | ~729 |
-| Let’s patch things up | 65.00% | ~687 |
-| I can fix it! | 62.00% | ~655 |
-| Post No Bills | 54.00% | ~571 |
-| Truly Shocking! | 48.00% | ~507 |
-| Critical Thinker | 35.00% | ~370 |
+| Breathe In… Breathe Out… | 73.00% | ~773 |
+| It’s Heating up! | 69.00% | ~731 |
+| Let’s patch things up | 65.00% | ~688 |
+| I can fix it! | 62.00% | ~657 |
+| Post No Bills | 54.00% | ~572 |
+| Truly Shocking! | 47.00% | ~498 |
+| Critical Thinker | 35.00% | ~371 |
 | Act I Complete | 29.00% | ~307 |
 | Always Finding Your Mark | 29.00% | ~307 |
 | The Weight of the World | 29.00% | ~307 |
-| A drop in the Ocean | 28.00% | ~296 |
+| A drop in the Ocean | 28.00% | ~297 |
 | No Niños | 26.00% | ~275 |
 | I ain’t afraid of no Ghost | 24.00% | ~254 |
 | Act II Complete | 21.00% | ~222 |
 | Bing Bang BOOM | 19.00% | ~201 |
-| A successful procedure! | 18.00% | ~190 |
-| Breaking the Ice | 18.00% | ~190 |
+| A successful procedure! | 18.00% | ~191 |
+| Breaking the Ice | 18.00% | ~191 |
 | Solidarity Forever | 12.00% | ~127 |
 | A Tucked Tale | 10.00% | ~106 |
 | The best thing money can buy | 9.00% | ~95 |
-| Act III Complete | 6.00% | ~63 |
-| See you Space Cowboy | 6.00% | ~63 |
+| Act III Complete | 6.00% | ~64 |
+| See you Space Cowboy | 6.00% | ~64 |
 | Fire and Brimstone | 5.00% | ~53 |
 | Ghost in the Ship | 2.00% | ~21 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057 (Ranked 288)  
+Progressed: 1,059 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 1,048 | 0 |
 | 2024-01-05 | 1,053 | 0 |
 | 2024-01-06 | 1,056 | 0 |
-| 2024-01-07 | 1,057 | 0 |
+| 2024-01-07 | 1,059 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

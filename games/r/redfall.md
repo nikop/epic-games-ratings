@@ -13,9 +13,9 @@ Rating: 3.67 (Ranked 1,090)
 | Blood Will Have Blood | 11.00% | ~252 |
 | Ne Plus Ultra | 11.00% | ~252 |
 | Peek-a-boo | 11.00% | ~252 |
-| Fly Fisher | 10.00% | ~229 |
-| Sucks To Be You | 10.00% | ~229 |
-| Throw The First Stone | 9.00% | ~206 |
+| Fly Fisher | 10.00% | ~230 |
+| Sucks To Be You | 10.00% | ~230 |
+| Throw The First Stone | 9.00% | ~207 |
 | Enter of Your Own Free Will | 8.00% | ~184 |
 | Welcome to the Neighborhood | 8.00% | ~184 |
 | Heart Attack | 8.00% | ~184 |
@@ -40,12 +40,12 @@ Rating: 3.67 (Ranked 1,090)
 | Right This Way | 2.00% | ~46 |
 | Nice Try | 2.00% | ~46 |
 | Harvest’s End | 2.00% | ~46 |
+| Curious Finch | 2.00% | ~46 |
 | Blacklight Down | 1.00% | ~23 |
-| Curious Finch | 1.00% | ~23 |
 | Bloody Initiate | 0.90% | ~21 |
+| Neighborhood Watch | 0.80% | ~18 |
 | Blood Brother | 0.80% | ~18 |
 | Empty Nest Syndrome | 0.80% | ~18 |
-| Neighborhood Watch | 0.70% | ~16 |
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
 | Good Samaritan | 0.70% | ~16 |
@@ -72,7 +72,7 @@ Rating: 3.67 (Ranked 1,090)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,294 (Ranked 242)  
+Progressed: 2,295 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 2,253 | 0 |
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,286 | 0 |
-| 2024-01-07 | 2,294 | 0 |
+| 2024-01-07 | 2,295 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 553)  
 Sum: 24 (Ranked 559)  

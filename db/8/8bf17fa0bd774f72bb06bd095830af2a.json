@@ -4,8 +4,8 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 528,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -268,9 +268,9 @@
       "ID": "SteamAchievement_KillForestMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Grassholt",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SteamAchievement_KillFrostMonsters",
@@ -508,9 +508,9 @@
       "ID": "SteamAchievment_CompleteStoryQuest01",
       "SetID": "b8gj0ip",
       "Name": "Hunger Buster",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SteamAchievment_CompleteThirtyChallenges",
@@ -547,8 +547,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:06:08.1028503+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:06:09.7000774+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0644796+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:01:29.5199931+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:06:08.1028782+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:01:29.5283944+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:06:09.7001081+00:00"
 }

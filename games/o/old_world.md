@@ -51,6 +51,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.60% | ~97 |
 | Acropolis | 0.60% | ~97 |
 | Apadana | 0.60% | ~97 |
+| Necropolis | 0.60% | ~97 |
 | Learn to Play 2 | 0.60% | ~97 |
 | Carthaginian Paganism | 0.60% | ~97 |
 | Beloved | 0.50% | ~81 |
@@ -61,7 +62,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.50% | ~81 |
 | Mausoleum | 0.50% | ~81 |
 | Musaeum | 0.50% | ~81 |
-| Necropolis | 0.50% | ~81 |
 | Manichaeism | 0.50% | ~81 |
 | Egyptian Paganism | 0.50% | ~81 |
 | Hanging Gardens in Babylon | 0.40% | ~65 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,179 (Ranked 168)  
+Progressed: 16,180 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
-| 2024-01-07 | 16,179 | 5 |
+| 2024-01-07 | 16,180 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 222)  

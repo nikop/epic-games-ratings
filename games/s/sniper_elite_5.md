@@ -5,28 +5,28 @@ Rating: 4.46 (Ranked 674)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,987 |
-| Confirming Suspicions | 42.00% | ~1,776 |
-| The Kraken Wakes | 38.00% | ~1,607 |
+| Meeting Resistance | 47.00% | ~1,988 |
+| Confirming Suspicions | 42.00% | ~1,777 |
+| The Kraken Wakes | 37.00% | ~1,565 |
 | It's Starting to Crack | 35.00% | ~1,480 |
-| Change the Channel | 32.00% | ~1,353 |
+| Change the Channel | 32.00% | ~1,354 |
 | Lord of War | 31.00% | ~1,311 |
-| Taking it back | 30.00% | ~1,268 |
+| Taking it back | 30.00% | ~1,269 |
 | Resourceful | 28.00% | ~1,184 |
-| Target America | 28.00% | ~1,184 |
-| The Kraken Sleeps | 25.00% | ~1,057 |
-| Organ Grinder | 24.00% | ~1,015 |
+| Target America | 27.00% | ~1,142 |
+| The Kraken Sleeps | 25.00% | ~1,058 |
 | As Quiet as a Mouse | 24.00% | ~1,015 |
-| Liberté | 23.00% | ~972 |
-| Sharpshooter | 23.00% | ~972 |
-| Gunslinger | 19.00% | ~803 |
-| Explosive Efficiency | 19.00% | ~803 |
+| Liberté | 23.00% | ~973 |
+| Organ Grinder | 23.00% | ~973 |
+| Sharpshooter | 23.00% | ~973 |
+| Gunslinger | 19.00% | ~804 |
+| Explosive Efficiency | 19.00% | ~804 |
 | Climbing the Ladder | 17.00% | ~719 |
 | Just a Flesh Wound | 17.00% | ~719 |
 | Der Geist | 17.00% | ~719 |
-| Close Quarters | 16.00% | ~676 |
-| Snake in the Grass | 16.00% | ~676 |
-| Brains of the Operation | 16.00% | ~676 |
+| Close Quarters | 16.00% | ~677 |
+| Snake in the Grass | 16.00% | ~677 |
+| Brains of the Operation | 16.00% | ~677 |
 | No Stone Unturned | 15.00% | ~634 |
 | Skirmisher | 15.00% | ~634 |
 | Die Nussknacker Sweet! | 15.00% | ~634 |
@@ -40,11 +40,11 @@ Rating: 4.46 (Ranked 674)
 | Herr Today, Gone Tomorrow | 7.00% | ~293 |
 | The Long Game | 6.00% | ~254 |
 | Operation Foxley | 6.00% | ~251 |
-| Strategist | 5.00% | ~211 |
-| Tinkerer | 5.00% | ~211 |
-| It'll Buff Right Out | 5.00% | ~211 |
-| Road Rage | 5.00% | ~211 |
-| Don't hold your breath | 5.00% | ~211 |
+| Strategist | 5.00% | ~212 |
+| Tinkerer | 5.00% | ~212 |
+| It'll Buff Right Out | 5.00% | ~212 |
+| Road Rage | 5.00% | ~212 |
+| Don't hold your breath | 5.00% | ~212 |
 | Last Resort | 5.00% | ~209 |
 | Siegebreaker | 5.00% | ~209 |
 | Ghost of Falaise | 5.00% | ~209 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 674)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,228 (Ranked 210)  
+Progressed: 4,230 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 11 (0.26%) (Ranked 262)
 | 2024-01-04 | 4,208 | 11 |
 | 2024-01-05 | 4,211 | 11 |
 | 2024-01-06 | 4,225 | 11 |
-| 2024-01-07 | 4,228 | 11 |
+| 2024-01-07 | 4,230 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 527)  
 Sum: 29 (Ranked 543)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -893,7 +893,7 @@
   ],
   "EOS_Progressed": 2383,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6775,9 +6775,9 @@
       "ID": "achCompleteFirstMission",
       "SetID": "dgl390n",
       "Name": "Cadet",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1263
     },
     {
       "ID": "achCreateLine",
@@ -7111,8 +7111,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-04T20:03:31.9320151+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:09:58.5571506+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:09:30.5631972+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.8048245+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:03:14.9164003+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:09:58.5572157+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:03:14.2866132+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:09:30.5632647+00:00"
 }

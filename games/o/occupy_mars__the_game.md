@@ -5,7 +5,7 @@ Rating: 4.02 (Ranked 1,042)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~759 |
+| I don't feel so good | 41.00% | ~760 |
 | Electrician | 33.00% | ~611 |
 | Fear my botany powers, Mars | 32.00% | ~593 |
 | Zero Waste | 30.00% | ~556 |
@@ -16,11 +16,11 @@ Rating: 4.02 (Ranked 1,042)
 | Miner | 26.00% | ~482 |
 | Houston we have a problem | 23.00% | ~426 |
 | Detective | 19.00% | ~352 |
-| The Collector | 18.00% | ~333 |
+| The Collector | 18.00% | ~334 |
 | Get your hands dirty | 11.00% | ~204 |
 | Space Forest | 10.00% | ~185 |
 | All Wheel Trouble | 8.00% | ~148 |
-| DeDust | 5.00% | ~93 |
+| DeDust | 6.00% | ~111 |
 | ITS crash site | 5.00% | ~93 |
 | “Aliens” | 4.00% | ~74 |
 | Plumber | 4.00% | ~74 |
@@ -54,7 +54,7 @@ Rating: 4.02 (Ranked 1,042)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,852 (Ranked 254)  
+Progressed: 1,853 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 1,840 | 0 |
 | 2024-01-05 | 1,846 | 0 |
 | 2024-01-06 | 1,849 | 0 |
-| 2024-01-07 | 1,852 | 0 |
+| 2024-01-07 | 1,853 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

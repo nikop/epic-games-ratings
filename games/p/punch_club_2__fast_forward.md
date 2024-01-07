@@ -14,7 +14,7 @@
 | Fitness professional | 72.00% | ~397 |
 | Old movies enjoyer | 72.00% | ~397 |
 | Employee of the week | 71.00% | ~391 |
-| Your own amateur gym | 66.00% | ~364 |
+| Your own amateur gym | 67.00% | ~369 |
 | First defeat | 65.00% | ~358 |
 | Run K, run! | 65.00% | ~358 |
 | Hello, world! | 64.00% | ~353 |

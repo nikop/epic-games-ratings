@@ -6,41 +6,41 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~891,084 |
-| Green Energy | 59.00% | ~740,478 |
-| Foggy Weather | 58.00% | ~727,928 |
-| Singing In The- | 58.00% | ~727,928 |
-| Unpopular Mayor | 40.00% | ~502,019 |
-| Power at Your Fingertips | 33.00% | ~414,166 |
-| City Planner | 22.00% | ~276,111 |
-| Rolling in Dough | 20.00% | ~251,010 |
-| Does My Bum Look Big In This? | 17.00% | ~213,358 |
-| Climbing the Social Ladder | 16.00% | ~200,808 |
-| Safe City | 13.00% | ~163,156 |
-| Quay-King | 11.00% | ~138,055 |
-| With Canals You Can! | 10.00% | ~125,505 |
-| Lawmaker | 9.00% | ~112,954 |
-| Nomen Est Omen | 7.00% | ~87,853 |
-| Well Informed | 6.00% | ~75,303 |
-| Fire Watch | 5.00% | ~62,752 |
-| Greenest City | 4.00% | ~50,202 |
-| Heavenly City | 3.00% | ~37,651 |
-| Reporting! | 3.00% | ~37,651 |
-| SIMulated City | 3.00% | ~37,651 |
-| The Safest Town | 3.00% | ~37,651 |
-| Professional Dumper | 2.00% | ~25,101 |
-| City in Motion | 1.00% | ~12,550 |
-| Earthloving City | 1.00% | ~12,550 |
-| Metropolis | 1.00% | ~12,550 |
-| Higher Education | 0.80% | ~10,040 |
-| Beam Me Up | 0.70% | ~8,785 |
-| Terraformer | 0.60% | ~7,530 |
-| Decorator | 0.50% | ~6,275 |
-| Full Capacity | 0.50% | ~6,275 |
-| It's heading right for us! | 0.50% | ~6,275 |
-| Shake It Up! | 0.50% | ~6,275 |
-| The Waters of Our Lives | 0.50% | ~6,275 |
-| Twist and shout | 0.50% | ~6,275 |
+| Pioneer | 71.00% | ~891,127 |
+| Green Energy | 59.00% | ~740,514 |
+| Foggy Weather | 58.00% | ~727,963 |
+| Singing In The- | 58.00% | ~727,963 |
+| Unpopular Mayor | 40.00% | ~502,044 |
+| Power at Your Fingertips | 33.00% | ~414,186 |
+| City Planner | 22.00% | ~276,124 |
+| Rolling in Dough | 20.00% | ~251,022 |
+| Does My Bum Look Big In This? | 17.00% | ~213,369 |
+| Climbing the Social Ladder | 16.00% | ~200,817 |
+| Safe City | 13.00% | ~163,164 |
+| Quay-King | 11.00% | ~138,062 |
+| With Canals You Can! | 10.00% | ~125,511 |
+| Lawmaker | 9.00% | ~112,960 |
+| Nomen Est Omen | 7.00% | ~87,858 |
+| Well Informed | 6.00% | ~75,307 |
+| Fire Watch | 5.00% | ~62,755 |
+| Greenest City | 4.00% | ~50,204 |
+| Heavenly City | 3.00% | ~37,653 |
+| Reporting! | 3.00% | ~37,653 |
+| SIMulated City | 3.00% | ~37,653 |
+| The Safest Town | 3.00% | ~37,653 |
+| Professional Dumper | 2.00% | ~25,102 |
+| City in Motion | 1.00% | ~12,551 |
+| Earthloving City | 1.00% | ~12,551 |
+| Metropolis | 1.00% | ~12,551 |
+| Higher Education | 0.80% | ~10,041 |
+| Beam Me Up | 0.70% | ~8,786 |
+| Terraformer | 0.60% | ~7,531 |
+| Decorator | 0.50% | ~6,276 |
+| Full Capacity | 0.50% | ~6,276 |
+| It's heading right for us! | 0.50% | ~6,276 |
+| Shake It Up! | 0.50% | ~6,276 |
+| The Waters of Our Lives | 0.50% | ~6,276 |
+| Twist and shout | 0.50% | ~6,276 |
 | Airfield Expertise | 0.40% | ~5,020 |
 | Drop the Base | 0.40% | ~5,020 |
 | Get Your Snowshoes Ready! | 0.40% | ~5,020 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,255 |
 | Z00 | 0.10% | ~1,255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,255,048 (Ranked 12)  
+Progressed: 1,255,109 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,10 +388,10 @@ Completed: 11 (0.00%) (Ranked 393)
 | 2024-01-04 | 1,251,420 | 11 |
 | 2024-01-05 | 1,252,800 | 11 |
 | 2024-01-06 | 1,254,483 | 11 |
-| 2024-01-07 | 1,255,048 | 11 |
+| 2024-01-07 | 1,255,109 | 11 |
 ## Awards
 Max (Great for Beginners): 6,662  (Ranked 60)  
-Sum: 48,971 (Ranked 32)  
+Sum: 48,976 (Ranked 32)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -402,7 +402,7 @@ Diff (max vs sum): 28
 | This game is Extremely Fun | 5,601 |
 | This game is Highly Recommended | 5,444 |
 | This game has Amazing Storytelling | 4,515 |
-| This game has a Creative Community | 4,302 |
+| This game has a Creative Community | 4,307 |
 | This game has Amazing Characters | 3,826 |
 | This game has Obsessive Gameplay | 2,497 |
 ## Ratings History
@@ -754,4 +754,4 @@ Diff (max vs sum): 28
 | 2024-01-04 | 4.66 | - | 6,636 | 48,826 |
 | 2024-01-05 | 4.66 | - | 6,636 | 48,890 |
 | 2024-01-06 | 4.66 | - | 6,649 | 48,953 |
-| 2024-01-07 | 4.66 | - | 6,662 | 48,971 |
+| 2024-01-07 | 4.66 | - | 6,662 | 48,976 |

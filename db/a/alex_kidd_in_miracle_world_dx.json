@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -993,9 +993,9 @@
       "ID": "EGLE_FREED",
       "SetID": "7im05fi",
       "Name": "Prisoner",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 93
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -1057,9 +1057,9 @@
       "ID": "PARPLIN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Third Commander",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "PET_DOG",
@@ -1090,8 +1090,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:05:58.0626782+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:05:59.7344464+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:59:07.598861+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:05:58.0626911+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:59:07.4751669+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:05:59.7344602+00:00"
 }

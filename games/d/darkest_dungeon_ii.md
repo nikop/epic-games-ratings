@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~894 |
-| Lost and Found | 8.00% | ~550 |
+| Malpractice Assurance | 13.00% | ~895 |
+| Lost and Found | 8.00% | ~551 |
 | Autodidact | 7.00% | ~9,241 |
 | This Belongs in a Museum | 6.00% | ~7,921 |
 | Creep and Sleep | 6.00% | ~7,921 |
 | Overdue Notice | 6.00% | ~7,921 |
 | This guy... again? | 6.00% | ~413 |
 | Ploughshares to Swords | 6.00% | ~413 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,600 |
-| Serenity Now! | 5.00% | ~6,600 |
-| Meat and Greet | 5.00% | ~6,600 |
-| Catch and Decease | 5.00% | ~6,600 |
-| Escape from the Black Hole | 5.00% | ~6,600 |
-| Rush Hour | 5.00% | ~6,600 |
-| To Grandmother's House | 5.00% | ~6,600 |
-| FNG | 5.00% | ~6,600 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,601 |
+| Serenity Now! | 5.00% | ~6,601 |
+| Meat and Greet | 5.00% | ~6,601 |
+| Catch and Decease | 5.00% | ~6,601 |
+| Escape from the Black Hole | 5.00% | ~6,601 |
+| Rush Hour | 5.00% | ~6,601 |
+| To Grandmother's House | 5.00% | ~6,601 |
+| FNG | 5.00% | ~6,601 |
 | Bloody Graduation | 5.00% | ~344 |
-| It Rings a Bell | 4.00% | ~5,280 |
-| Not Today! | 4.00% | ~5,280 |
-| It Happens | 4.00% | ~5,280 |
-| Merry Time | 4.00% | ~5,280 |
-| Harvest Festival | 4.00% | ~5,280 |
-| Whale | 4.00% | ~5,280 |
-| A Place to Lay Your Head | 4.00% | ~5,280 |
-| Nope | 4.00% | ~5,280 |
+| It Rings a Bell | 4.00% | ~5,281 |
+| Not Today! | 4.00% | ~5,281 |
+| It Happens | 4.00% | ~5,281 |
+| Merry Time | 4.00% | ~5,281 |
+| Harvest Festival | 4.00% | ~5,281 |
+| Whale | 4.00% | ~5,281 |
+| A Place to Lay Your Head | 4.00% | ~5,281 |
+| Nope | 4.00% | ~5,281 |
 | Friends 'Til the End | 4.00% | ~275 |
 | Resurrection | 3.00% | ~3,960 |
 | Unleash Hell | 3.00% | ~3,960 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,009 (Ranked 91)  
+Progressed: 132,015 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,10 +338,10 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 132,009 | 3 |
+| 2024-01-07 | 132,015 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
-Sum: 21,493 (Ranked 58)  
+Sum: 21,500 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -349,8 +349,8 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,831 |
 | This game has Challenging Combat | 1,672 |
 | This game is Highly Recommended | 1,597 |
-| This game has Amazing Characters | 1,520 |
-| This game is Extremely Fun | 1,516 |
+| This game has Amazing Characters | 1,525 |
+| This game is Extremely Fun | 1,518 |
 | This game has Unique Visuals | 1,458 |
 | This game has Amazing Storytelling | 1,438 |
 | This game has Quickly Understood Controls | 1,406 |
@@ -704,4 +704,4 @@ Diff (max vs sum): -8
 | 2024-01-04 | 4.68 | - | 7,951 | 21,421 |
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
-| 2024-01-07 | 4.68 | - | 7,972 | 21,493 |
+| 2024-01-07 | 4.68 | - | 7,972 | 21,500 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -7906,9 +7906,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1776
     },
     {
       "ID": "A23",
@@ -7954,9 +7954,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1829
     },
     {
       "ID": "A29",
@@ -8179,8 +8179,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:06:07.4996155+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:06:09.1952967+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.5860867+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:58:00.6247297+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:06:07.4996937+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:58:01.6671328+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:06:09.1953954+00:00"
 }

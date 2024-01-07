@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
     "PcReleaseDate": "2019-11-12T15:00:00+00:00",
@@ -237,9 +237,9 @@
       "ID": "ClearA01",
       "SetID": "94lmepd",
       "Name": "The Beginning of the End",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ClearC01",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2024-01-07T10:04:20.995789+00:00",
+  "LastChanged_Achievements": "2024-01-07T11:04:22.1460536+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.4390346+00:00",
-  "LastUpdate_Ratings": "2024-01-07T09:58:50.5971772+00:00",
-  "LastUpdate_Achievements": "2024-01-07T10:04:20.995817+00:00"
+  "LastUpdate_Ratings": "2024-01-07T10:58:51.139825+00:00",
+  "LastUpdate_Achievements": "2024-01-07T11:04:22.1460787+00:00"
 }
