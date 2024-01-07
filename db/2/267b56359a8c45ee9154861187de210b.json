@@ -721,17 +721,17 @@
       "ID": "beat_c1_diamond",
       "SetID": "3448go",
       "Name": "Wax On, Wax Off",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "beat_c1_silver",
@@ -1304,8 +1304,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:08:15.1541828+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:06:14.8123194+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:04:43.5338689+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:08:15.1542702+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:02:14.6347244+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:06:14.8123939+00:00"
 }

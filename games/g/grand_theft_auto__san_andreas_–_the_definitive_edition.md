@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,180 |
-| Pay 'n' Spray | 50.00% | ~9,370 |
-| All Dressed Up for San Fierro | 25.00% | ~4,685 |
-| The American Dream | 18.00% | ~3,373 |
-| School's Out | 18.00% | ~3,373 |
+| Getting Started | 81.00% | ~15,183 |
+| Pay 'n' Spray | 50.00% | ~9,372 |
+| All Dressed Up for San Fierro | 25.00% | ~4,686 |
+| The American Dream | 18.00% | ~3,374 |
+| School's Out | 18.00% | ~3,374 |
 | Smooth Moves | 16.00% | ~2,999 |
 | What happens in Las Venturas... | 14.00% | ~2,624 |
 | Today Was a Good Day | 14.00% | ~2,624 |
 | Horror of the Santa Maria | 10.00% | ~1,874 |
 | Liberty City State of Mind | 9.00% | ~1,687 |
-| Original Gangster | 8.00% | ~1,499 |
+| Original Gangster | 8.00% | ~1,500 |
 | With Extra Dip | 7.00% | ~1,312 |
 | The End of the Line | 7.00% | ~1,312 |
-| Saviour | 6.00% | ~1,124 |
+| Saviour | 6.00% | ~1,125 |
 | Rescue a Kitten Too? | 5.00% | ~937 |
 | They Can’t Stop All of Us | 4.00% | ~750 |
 | What are the Odds | 4.00% | ~750 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 526)
 | ...Here we go again | 0.50% | ~94 |
 | I Ain't No Buster | 0.40% | ~75 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,741 (Ranked 157)  
+Progressed: 18,745 (Ranked 157)  
 Completed: 75 (0.40%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,10 +303,10 @@ Completed: 75 (0.40%) (Ranked 236)
 | 2024-01-04 | 18,344 | 72 |
 | 2024-01-05 | 18,512 | 72 |
 | 2024-01-06 | 18,702 | 75 |
-| 2024-01-07 | 18,741 | 75 |
+| 2024-01-07 | 18,745 | 75 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 443)  
-Sum: 356 (Ranked 368)  
+Sum: 359 (Ranked 368)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -314,7 +314,7 @@ Diff (max vs sum): 75
 | This game has Amazing Characters | 54 |
 | This game is Relaxing | 51 |
 | This game is Great for Beginners | 50 |
-| This game has Amazing Storytelling | 46 |
+| This game has Amazing Storytelling | 49 |
 | This game is Highly Recommended | 45 |
 | This game has Diverse Characters | 38 |
 | This game is Extremely Fun | 36 |
@@ -546,4 +546,4 @@ Diff (max vs sum): 75
 | 2024-01-04 | 4.55 | 52 | 341 |
 | 2024-01-05 | 4.55 | 54 | 351 |
 | 2024-01-06 | 4.55 | 54 | 355 |
-| 2024-01-07 | 4.55 | 54 | 356 |
+| 2024-01-07 | 4.55 | 54 | 359 |

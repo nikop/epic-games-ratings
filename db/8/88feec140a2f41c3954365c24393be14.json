@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112481,
+  "EOS_Progressed": 112482,
   "EOS_Completed": 5488,
-  "EOS_NewPlayers": 1790,
+  "EOS_NewPlayers": 1789,
   "EOS_NewCompleters": 158,
   "EOS_Completed_Percentage": 4.88,
   "EosHistory": [
@@ -13447,6 +13447,11 @@
       "Time": "2024-01-07T04:06:42.3664959+00:00",
       "NumProgressed": 112481,
       "NumCompleted": 5488
+    },
+    {
+      "Time": "2024-01-07T05:04:37.8078986+00:00",
+      "NumProgressed": 112482,
+      "NumCompleted": 5488
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -13459,7 +13464,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 70863
+      "UsersEstimate": 70864
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -13491,7 +13496,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 57,
       "XP": 75,
-      "UsersEstimate": 64114
+      "UsersEstimate": 64115
     },
     {
       "ID": "ShipDip",
@@ -13523,7 +13528,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 68613
+      "UsersEstimate": 68614
     },
     {
       "ID": "WeCanDoBetter",
@@ -13531,7 +13536,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 87735
+      "UsersEstimate": 87736
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -13539,7 +13544,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 88860
+      "UsersEstimate": 88861
     },
     {
       "ID": "WelcomeAboard",
@@ -13547,14 +13552,14 @@
       "Name": "Welcome Aboard!",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 88860
+      "UsersEstimate": 88861
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 112481,
+      "Progressed": 112482,
       "Completed": 5488
     }
   ],
@@ -13562,8 +13567,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2024-01-04T23:57:45.1160065+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:06:42.3664955+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:04:37.807898+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:20.130578+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:01:05.9950422+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:06:42.3665829+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:59:06.304336+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:04:37.8079749+00:00"
 }

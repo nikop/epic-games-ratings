@@ -24,6 +24,7 @@
 | By Yourself 6x6 | 1.00% | ~1 |
 | By Yourself 9x9 | 1.00% | ~1 |
 | By Yourself 13x13 | 1.00% | ~1 |
+| Play for 10 hours | 1.00% | ~1 |
 | Addicted for 3 Days | 0.00% | ~0 |
 | Addicted for 7 Days | 0.00% | ~0 |
 | Addicted for 10 Days | 0.00% | ~0 |
@@ -45,7 +46,6 @@
 | By Yourself 10x10 | 0.00% | ~0 |
 | By Yourself 11x11 | 0.00% | ~0 |
 | By Yourself 12x12 | 0.00% | ~0 |
-| Play for 10 hours | 0.00% | ~0 |
 | Play for 24 hours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 84 (Ranked 504)  

@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Star Power | 84.00% | ~749 |
-| From Way Downtown | 55.00% | ~491 |
-| Makin' the Cut | 54.00% | ~482 |
-| Clean Sheet | 51.00% | ~455 |
-| Winner's Circle | 45.00% | ~401 |
-| Holey Moley | 43.00% | ~384 |
-| Bomb's Away | 39.00% | ~348 |
-| Perfect Round | 35.00% | ~312 |
-| Competitor's Spirit | 34.00% | ~303 |
-| The Strongest Field in Golf | 24.00% | ~214 |
-| Ace in the Hole | 22.00% | ~196 |
-| From Many, One | 21.00% | ~187 |
-| A Passion for Excellence | 19.00% | ~169 |
+| Star Power | 84.00% | ~752 |
+| From Way Downtown | 55.00% | ~492 |
+| Makin' the Cut | 54.00% | ~483 |
+| Clean Sheet | 51.00% | ~456 |
+| Winner's Circle | 45.00% | ~403 |
+| Holey Moley | 43.00% | ~385 |
+| Bomb's Away | 39.00% | ~349 |
+| Perfect Round | 35.00% | ~313 |
+| Competitor's Spirit | 34.00% | ~304 |
+| The Strongest Field in Golf | 24.00% | ~215 |
+| Ace in the Hole | 22.00% | ~197 |
+| From Many, One | 21.00% | ~188 |
+| A Passion for Excellence | 19.00% | ~170 |
 | A Tradition Unlike Any Other | 18.00% | ~161 |
 | Golf's Original Championship | 18.00% | ~161 |
 | The Ultimate Prize | 13.00% | ~116 |
 | Golfer Versus Golfer | 11.00% | ~98 |
 | Victory Lap | 6.00% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892 (Ranked 297)  
+Progressed: 895 (Ranked 297)  
 Completed: 10 (1.12%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,4 +136,4 @@ Completed: 10 (1.12%) (Ranked 163)
 | 2024-01-04 | 856 | 10 |
 | 2024-01-05 | 872 | 10 |
 | 2024-01-06 | 890 | 10 |
-| 2024-01-07 | 892 | 10 |
+| 2024-01-07 | 895 | 10 |

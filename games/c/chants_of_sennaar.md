@@ -25,7 +25,7 @@ Rating: 4.84 (Ranked 47)
 | Open door | 21.00% | ~524 |
 | Feels like springtime | 21.00% | ~524 |
 | Alchemists Express | 20.00% | ~499 |
-| Free at last | 18.00% | ~449 |
+| Free at last | 19.00% | ~474 |
 | A Link to the Past | 16.00% | ~399 |
 | A great audience | 14.00% | ~349 |
 | For its own good | 14.00% | ~349 |

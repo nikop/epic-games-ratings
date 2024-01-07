@@ -6,27 +6,27 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 83.00% | ~285 |
-| Mash Machine | 75.00% | ~257 |
-| Ducks in a Row, Fish in a Barrel | 54.00% | ~185 |
-| Furon Fashion | 47.00% | ~161 |
-| Shop Til They Drop | 40.00% | ~137 |
-| Bodied Sattva | 38.00% | ~130 |
+| Rock of the Bay | 83.00% | ~286 |
+| Mash Machine | 75.00% | ~258 |
+| Ducks in a Row, Fish in a Barrel | 54.00% | ~186 |
+| Furon Fashion | 47.00% | ~162 |
+| Shop Til They Drop | 40.00% | ~138 |
+| Bodied Sattva | 38.00% | ~131 |
 | Cult Following | 35.00% | ~120 |
 | Earthly Pleasures | 34.00% | ~117 |
 | Lie Back and Think of Albion | 28.00% | ~96 |
 | Upgreatest | 27.00% | ~93 |
-| Pimp My Raid | 24.00% | ~82 |
-| Freshly Squeezed | 22.00% | ~75 |
+| Pimp My Raid | 24.00% | ~83 |
+| Freshly Squeezed | 22.00% | ~76 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~69 |
 | Die Nasty | 18.00% | ~62 |
 | Perfect Probulator | 17.00% | ~58 |
-| Transmitting From Sol-3 | 15.00% | ~51 |
+| Transmitting From Sol-3 | 15.00% | ~52 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~45 |
 | Fly Me to the Moon Base | 10.00% | ~34 |
 | Kaijuiced | 10.00% | ~34 |
 | Dusted | 9.00% | ~31 |
-| Scuttled | 8.00% | ~27 |
+| Scuttled | 8.00% | ~28 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~24 |
 | Lobster Blisque | 6.00% | ~21 |
 | Yettisoned | 6.00% | ~21 |
@@ -37,12 +37,12 @@ Number of Ratings: 90  (23.09.2022)
 | Against All Odds | 1.00% | ~3 |
 | Forbidden Donut | 1.00% | ~3 |
 | The Optional Mandate | 1.00% | ~3 |
+| If You Know What I Mean | 1.00% | ~3 |
 | PK Slam Dunk | 0.90% | ~3 |
 | Gotta Catch All the Pop Art | 0.90% | ~3 |
 | This Is Earth Radio | 0.90% | ~3 |
 | Hidden Human Hive Harvest | 0.90% | ~3 |
 | Higher Than the Futen Zoku | 0.90% | ~3 |
-| If You Know What I Mean | 0.90% | ~3 |
 | Toilet Break | 0.60% | ~2 |
 | Albion Bridge Is for Falling Down | 0.60% | ~2 |
 | Ouch of Body Experience | 0.60% | ~2 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.60% | ~2 |
 | Trans-Siberian Express | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343 (Ranked 381)  
+Progressed: 344 (Ranked 381)  
 Completed: 2 (0.58%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,11 +93,11 @@ Completed: 2 (0.58%) (Ranked 206)
 | 2024-01-04 | 311 | 1 |
 | 2024-01-05 | 324 | 2 |
 | 2024-01-06 | 341 | 2 |
-| 2024-01-07 | 343 | 2 |
+| 2024-01-07 | 344 | 2 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 496)  
+Max (Great Boss Battles): 36  (Ranked 497)  
 Sum: 36 (Ranked 528)  
-Diff (max vs sum): -32  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

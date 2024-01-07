@@ -3,7 +3,7 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 39,
-  "Ranking_Popularity": 287,
+  "Ranking_Popularity": 288,
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 298,
@@ -1510,10 +1510,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 1721,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2024-01-07T05:00:47.8747454+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1722,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1721,
+  "NumberOfAwards": 1722,
   "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1533,7 +1539,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 207
+      "Count": 208
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1578,9 +1584,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27869,
+  "EOS_Progressed": 27873,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -13298,6 +13304,11 @@
       "Time": "2024-01-07T04:12:43.3199928+00:00",
       "NumProgressed": 27869,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-07T05:10:22.6573223+00:00",
+      "NumProgressed": 27873,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13373,15 +13384,15 @@
       "Name": "Captain and Crew",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "BossCastleAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Glory",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 279
     },
     {
       "ID": "BossCastleDefeated",
@@ -13620,21 +13631,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27869,
+      "Progressed": 27873,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6799,
+      "Progressed": 6803,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2024-01-05T17:59:53.3686411+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:12:43.3199923+00:00",
+  "LastChanged": "2024-01-07T05:00:47.8747453+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:10:22.657322+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:02:42.2431108+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:12:43.3200947+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:00:47.8747457+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:10:22.6574013+00:00"
 }

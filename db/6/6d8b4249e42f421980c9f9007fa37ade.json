@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 504,
+  "Ranking_EOS_NewPlayers": 505,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -593,9 +593,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -961,9 +961,9 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "Epic_WinTimes_500",
@@ -984,8 +984,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:10:37.3311236+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:08:12.4579696+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:25.8631749+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:00:21.2435595+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:10:37.3311756+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:58:17.7459368+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:08:12.4580094+00:00"
 }

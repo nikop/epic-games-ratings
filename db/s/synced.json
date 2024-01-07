@@ -1615,10 +1615,16 @@
       "Rating": 4.13,
       "NumberOfAwards": 562,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2024-01-07T05:01:02.7901349+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 564,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 562,
+  "NumberOfAwards": 564,
   "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1656,7 +1662,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 52
+      "Count": 54
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1683,9 +1689,9 @@
       "Count": 62
     }
   ],
-  "EOS_Progressed": 84464,
+  "EOS_Progressed": 84480,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 4384,
+  "EOS_NewPlayers": 4376,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -15723,6 +15729,11 @@
       "Time": "2024-01-07T04:06:43.9852778+00:00",
       "NumProgressed": 84464,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-07T05:04:39.3666965+00:00",
+      "NumProgressed": 84480,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -15735,7 +15746,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 38009
+      "UsersEstimate": 38016
     },
     {
       "ID": "10",
@@ -15775,7 +15786,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 5912
+      "UsersEstimate": 5914
     },
     {
       "ID": "15",
@@ -15799,7 +15810,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16893
+      "UsersEstimate": 16896
     },
     {
       "ID": "3",
@@ -15807,7 +15818,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 11825
+      "UsersEstimate": 11827
     },
     {
       "ID": "4",
@@ -15815,7 +15826,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7602
+      "UsersEstimate": 7603
     },
     {
       "ID": "5",
@@ -15823,7 +15834,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 5912
+      "UsersEstimate": 5914
     },
     {
       "ID": "6",
@@ -15831,7 +15842,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5068
+      "UsersEstimate": 5069
     },
     {
       "ID": "7",
@@ -15839,7 +15850,7 @@
       "Name": "More Power to You",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 17737
+      "UsersEstimate": 17741
     },
     {
       "ID": "8",
@@ -15862,16 +15873,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 84464,
+      "Progressed": 84480,
       "Completed": 63
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-01-06T22:59:31.4877191+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:06:43.9852772+00:00",
+  "LastChanged": "2024-01-07T05:01:02.7901348+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:04:39.3666962+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.8643288+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:02:56.5149103+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:06:43.9853546+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:01:02.7901355+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:04:39.3667728+00:00"
 }

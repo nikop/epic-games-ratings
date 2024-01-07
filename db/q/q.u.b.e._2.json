@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -593,9 +593,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46707,
+  "EOS_Progressed": 46708,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 889,
+  "EOS_NewPlayers": 887,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -13318,6 +13318,11 @@
       "Time": "2024-01-07T04:11:59.0386617+00:00",
       "NumProgressed": 46707,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-07T05:09:36.9909704+00:00",
+      "NumProgressed": 46708,
+      "NumCompleted": 234
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -13346,7 +13351,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 9341
+      "UsersEstimate": 9342
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -13546,7 +13551,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 35030
+      "UsersEstimate": 35031
     },
     {
       "ID": "ACH_STATUE",
@@ -13561,15 +13566,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 46707,
+      "Progressed": 46708,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-06T09:57:22.6861486+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:11:59.0386612+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:09:36.9909702+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:23.089643+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:00:01.3701563+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:11:59.0387849+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:57:56.7824587+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:09:36.9910387+00:00"
 }

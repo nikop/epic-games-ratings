@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 986,
+  "Ranking_Rating": 994,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 126,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.16,
+  "Rating": 4.15,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -593,6 +593,12 @@
       "Rating": 4.16,
       "NumberOfAwards": 67,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2024-01-07T05:02:53.6852277+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 67,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
@@ -613,7 +619,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46627,
+  "EOS_Progressed": 46633,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 0,
@@ -17938,6 +17944,11 @@
       "Time": "2024-01-07T04:06:44.3286386+00:00",
       "NumProgressed": 46627,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T05:04:39.8724122+00:00",
+      "NumProgressed": 46633,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17981,7 +17992,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2331
+      "UsersEstimate": 2332
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -17997,7 +18008,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5595
+      "UsersEstimate": 5596
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18005,7 +18016,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2331
+      "UsersEstimate": 2332
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -18101,7 +18112,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4196
+      "UsersEstimate": 4197
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18205,7 +18216,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2331
+      "UsersEstimate": 2332
     },
     {
       "ID": "MAGIC_IVY",
@@ -18285,7 +18296,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5129
+      "UsersEstimate": 5130
     },
     {
       "ID": "SPRING_ALL",
@@ -18372,22 +18383,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46627,
+      "Progressed": 46633,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11464,
-      "Completed": 11464
+      "Progressed": 11470,
+      "Completed": 11470
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-01-06T20:03:02.9785134+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:06:44.3286381+00:00",
+  "LastChanged": "2024-01-07T05:02:53.6852275+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:04:39.8724118+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:05:01.5172112+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:06:44.3287672+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:02:53.6852281+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:04:39.8725047+00:00"
 }

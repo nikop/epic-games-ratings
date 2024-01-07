@@ -31,14 +31,14 @@ Rating: 3.96 (Ranked 1,055)
 | Olympus Ascended | 0.60% | ~559 |
 | Ding Dong | 0.60% | ~559 |
 | Savvy Seeker | 0.50% | ~466 |
-| All that Glitters | 0.50% | ~107 |
+| All that Glitters | 0.50% | ~108 |
 | Rockay Raider | 0.40% | ~373 |
 | Groundhog Days | 0.40% | ~373 |
 | Cracked the Jack | 0.40% | ~373 |
 | Classy Joint | 0.40% | ~373 |
 | Rockay Knight | 0.30% | ~279 |
 | Red Star | 0.30% | ~279 |
-| All for One | 0.30% | ~64 |
+| All for One | 0.30% | ~65 |
 | Privateer | 0.20% | ~186 |
 | Talent Scout | 0.20% | ~186 |
 | Impossible Dreamer | 0.20% | ~186 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,055)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,151 (Ranked 101)  
+Progressed: 93,156 (Ranked 101)  
 Completed: 58 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 58 (0.06%) (Ranked 330)
 | 2024-01-04 | 93,006 | 58 |
 | 2024-01-05 | 93,065 | 58 |
 | 2024-01-06 | 93,141 | 58 |
-| 2024-01-07 | 93,151 | 58 |
+| 2024-01-07 | 93,156 | 58 |
 ## Awards
 Max (Diverse Characters): 591  (Ranked 210)  
 Sum: 2,796 (Ranked 192)  

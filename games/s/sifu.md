@@ -1,36 +1,36 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 67)  
+Rating: 4.82 (Ranked 68)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,802 |
-| Life is your teacher | 5.00% | ~37,802 |
-| The Assault | 4.00% | ~30,241 |
-| Lightning Hands | 4.00% | ~30,241 |
-| The Hateful Pole Fighter | 3.00% | ~22,681 |
-| Old Child | 3.00% | ~22,681 |
-| A Lady's Blood in the Snow | 2.00% | ~15,121 |
-| Lady Wing Chun | 2.00% | ~15,121 |
-| Kill Nil | 2.00% | ~15,121 |
-| Stuntmaster | 2.00% | ~15,121 |
-| Street Fighting | 2.00% | ~15,121 |
-| State of constant learning | 2.00% | ~15,121 |
-| Qi Gong: Breath | 2.00% | ~15,121 |
-| Qi Gong: Essence | 2.00% | ~15,121 |
-| I know Kung-Fu | 2.00% | ~15,121 |
-| Path of the Prospect | 2.00% | ~15,121 |
-| Rumble in the Hangar | 2.00% | ~15,121 |
-| Diligence as a goal | 2.00% | ~1,307 |
-| Furious Fists | 1.00% | ~7,560 |
-| Scareless | 1.00% | ~7,560 |
-| Dance of the Praying Mantis | 1.00% | ~7,560 |
-| Qi Gong: Mind | 1.00% | ~7,560 |
-| Kung-Fu Tussle | 1.00% | ~7,560 |
-| Take damage to save time | 1.00% | ~7,560 |
-| Project Arena | 1.00% | ~653 |
+| The Old Grandmaster | 5.00% | ~37,804 |
+| Life is your teacher | 5.00% | ~37,804 |
+| The Assault | 4.00% | ~30,243 |
+| Lightning Hands | 4.00% | ~30,243 |
+| The Hateful Pole Fighter | 3.00% | ~22,682 |
+| Old Child | 3.00% | ~22,682 |
+| A Lady's Blood in the Snow | 2.00% | ~15,122 |
+| Lady Wing Chun | 2.00% | ~15,122 |
+| Kill Nil | 2.00% | ~15,122 |
+| Stuntmaster | 2.00% | ~15,122 |
+| Street Fighting | 2.00% | ~15,122 |
+| State of constant learning | 2.00% | ~15,122 |
+| Qi Gong: Breath | 2.00% | ~15,122 |
+| Qi Gong: Essence | 2.00% | ~15,122 |
+| I know Kung-Fu | 2.00% | ~15,122 |
+| Path of the Prospect | 2.00% | ~15,122 |
+| Rumble in the Hangar | 2.00% | ~15,122 |
+| Diligence as a goal | 2.00% | ~1,308 |
+| Furious Fists | 1.00% | ~7,561 |
+| Scareless | 1.00% | ~7,561 |
+| Dance of the Praying Mantis | 1.00% | ~7,561 |
+| Qi Gong: Mind | 1.00% | ~7,561 |
+| Kung-Fu Tussle | 1.00% | ~7,561 |
+| Take damage to save time | 1.00% | ~7,561 |
+| Project Arena | 1.00% | ~654 |
 | Fight the way you practice | 0.80% | ~523 |
 | Muk Yan Master | 0.60% | ~4,536 |
 | Tiger on Fire | 0.60% | ~4,536 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.50% | ~3,780 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,780 |
 | Sword Stained With Blood | 0.50% | ~3,780 |
-| The best strikes are the ones we avoid | 0.40% | ~261 |
+| The best strikes are the ones we avoid | 0.40% | ~262 |
 | Drunken Fighter | 0.30% | ~2,268 |
 | Martial Artist | 0.30% | ~2,268 |
 | Knowledge Greed | 0.30% | ~2,268 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~65 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756,033 (Ranked 25)  
+Progressed: 756,076 (Ranked 25)  
 Completed: 12,976 (1.72%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 12,976 (1.72%) (Ranked 142)
 | 2024-01-04 | 753,906 | 12,974 |
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
-| 2024-01-07 | 756,033 | 12,976 |
+| 2024-01-07 | 756,076 | 12,976 |
 ## Awards
 Max (Great Boss Battles): 7,131  (Ranked 56)  
 Sum: 12,615 (Ranked 85)  

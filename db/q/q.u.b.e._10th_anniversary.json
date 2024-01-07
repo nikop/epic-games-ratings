@@ -342,9 +342,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 28688,
+  "EOS_Progressed": 28691,
   "EOS_Completed": 199,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 999,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -9662,6 +9662,11 @@
       "Time": "2024-01-07T04:12:41.7982394+00:00",
       "NumProgressed": 28688,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2024-01-07T05:10:21.0546688+00:00",
+      "NumProgressed": 28691,
+      "NumCompleted": 199
     }
   ],
   "TotalAchievements": 24,
@@ -9705,7 +9710,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 6885
+      "UsersEstimate": 6886
     },
     {
       "ID": "ACH_Finale",
@@ -9801,7 +9806,7 @@
       "Name": "Sector 1",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 9180
+      "UsersEstimate": 9181
     },
     {
       "ID": "ACH_Sector2",
@@ -9817,7 +9822,7 @@
       "Name": "Sector 3",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 6885
+      "UsersEstimate": 6886
     },
     {
       "ID": "ACH_Sector4",
@@ -9833,7 +9838,7 @@
       "Name": "Sector 5",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3729
+      "UsersEstimate": 3730
     },
     {
       "ID": "ACH_Sector6",
@@ -9864,7 +9869,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 28688,
+      "Progressed": 28691,
       "Completed": 199
     }
   ],
@@ -9872,8 +9877,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-04T21:00:04.3331744+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:12:41.7982391+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:10:21.054661+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:27.6717087+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:03:34.9795846+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:12:41.7983137+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:01:44.7772716+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:10:21.0547343+00:00"
 }

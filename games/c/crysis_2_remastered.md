@@ -1,11 +1,11 @@
 # Crysis 2 Remastered
 [Store](https://store.epicgames.com/en-US/p/crysis-2-remastered)  
 [View Rawdata](../../db/c/crysis_2_remastered.json)  
-Rating: 4.60 (Ranked 429)  
+Rating: 4.60 (Ranked 430)  
 Number of Ratings: 612  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 229  (Ranked 284)  
-Sum: 229 (Ranked 406)  
+Max (Great Boss Battles): 229  (Ranked 285)  
+Sum: 229 (Ranked 407)  
 Diff (max vs sum): -122  
 | Award | Count |
 | ----- | ----- |

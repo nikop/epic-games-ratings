@@ -1,20 +1,20 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 234)  
+Rating: 4.68 (Ranked 259)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,251 |
+| You're free now! | 62.00% | ~2,216 |
 | Keeping it classy | 27.00% | ~965 |
-| Welcome to the family | 21.00% | ~750 |
+| Welcome to the family | 21.00% | ~751 |
 | The finer things in life | 19.00% | ~679 |
-| Backpacker | 13.00% | ~464 |
-| Go with the Flow | 13.00% | ~464 |
-| Plastic Surgeon | 10.00% | ~357 |
-| The flip trick crown jewel | 10.00% | ~357 |
-| The hard way | 10.00% | ~357 |
+| Backpacker | 13.00% | ~465 |
+| Go with the Flow | 13.00% | ~465 |
+| Plastic Surgeon | 10.00% | ~358 |
+| The flip trick crown jewel | 10.00% | ~358 |
+| The hard way | 10.00% | ~358 |
 | Good vibes | 9.00% | ~322 |
 | Keep the dream alive | 9.00% | ~322 |
 | Upfront shredder | 9.00% | ~322 |
@@ -45,8 +45,8 @@ Number of Ratings: 111  (23.09.2022)
 | Tank commander | 4.00% | ~143 |
 | Many plys later... | 3.00% | ~107 |
 | Pew-Pew | 3.00% | ~107 |
-| Cross lock country | 2.00% | ~71 |
-| That was wheelie fun | 2.00% | ~71 |
+| Cross lock country | 2.00% | ~72 |
+| That was wheelie fun | 2.00% | ~72 |
 | Dipped! | 1.00% | ~36 |
 | Skatepark hero | 1.00% | ~36 |
 | Bing Bong! | 0.10% | ~4 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,573 (Ranked 221)  
+Progressed: 3,575 (Ranked 221)  
 Completed: 2 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,15 +292,15 @@ Completed: 2 (0.06%) (Ranked 330)
 | 2024-01-04 | 3,529 | 2 |
 | 2024-01-05 | 3,543 | 2 |
 | 2024-01-06 | 3,566 | 2 |
-| 2024-01-07 | 3,573 | 2 |
+| 2024-01-07 | 3,575 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 423)  
-Sum: 583 (Ranked 325)  
+Sum: 584 (Ranked 325)  
 Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 63 |
-| This game is Highly Recommended | 59 |
+| This game is Highly Recommended | 60 |
 | This game has Diverse Characters | 57 |
 | This game has Realistic Visuals | 51 |
 | This game has a Creative Community | 50 |
@@ -511,3 +511,4 @@ Diff (max vs sum): 98
 | 2024-01-03 | 4.69 | - | 62 | 580 |
 | 2024-01-04 | 4.69 | - | 63 | 581 |
 | 2024-01-06 | 4.69 | - | 63 | 583 |
+| 2024-01-07 | 4.68 | - | 63 | 584 |

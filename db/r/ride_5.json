@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3377,
+  "EOS_Progressed": 3378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8305,6 +8305,11 @@
       "Time": "2024-01-07T04:10:18.0213191+00:00",
       "NumProgressed": 3377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T05:07:51.713915+00:00",
+      "NumProgressed": 3378,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8325,7 +8330,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8349,7 +8354,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8373,7 +8378,7 @@
       "Name": "I Want One Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -8405,7 +8410,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -8621,7 +8626,7 @@
       "Name": "Champagne Spray",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -8708,7 +8713,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3377,
+      "Progressed": 3378,
       "Completed": 0
     }
   ],
@@ -8716,8 +8721,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:10:18.0213187+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:07:51.7139147+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:03:05.0474224+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:10:18.0213994+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:01:11.6609651+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:07:51.7140132+00:00"
 }

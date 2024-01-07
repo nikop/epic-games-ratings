@@ -3,7 +3,7 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 662,
-  "Ranking_Popularity": 496,
+  "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 320,
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6160,
+  "EOS_Progressed": 6161,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12729,6 +12729,11 @@
       "Time": "2024-01-07T04:07:38.4941065+00:00",
       "NumProgressed": 6160,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T05:05:36.4231913+00:00",
+      "NumProgressed": 6161,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12781,7 +12786,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -12893,7 +12898,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -12924,15 +12929,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6160,
+      "Progressed": 6161,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:07:38.4941061+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:05:36.423191+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:04:41.0542109+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:07:38.4941763+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:02:11.9747643+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:05:36.4232485+00:00"
 }

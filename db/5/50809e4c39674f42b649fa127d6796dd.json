@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 515,
+  "EOS_Progressed": 516,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1472,6 +1472,11 @@
       "Time": "2024-01-06T23:06:14.9929424+00:00",
       "NumProgressed": 515,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T05:08:05.4312755+00:00",
+      "NumProgressed": 516,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1540,7 +1545,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1588,7 +1593,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1612,7 +1617,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1636,7 +1641,7 @@
       "Name": "The Beginning",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1676,7 +1681,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1803,14 +1808,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 515,
+      "Progressed": 516,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:10:30.9624074+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:08:05.4312752+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:07.7248276+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:05:19.121834+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:10:30.9624397+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:03:12.3363382+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:08:05.4313056+00:00"
 }

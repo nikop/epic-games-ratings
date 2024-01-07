@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17681,
+  "EOS_Progressed": 17682,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -17880,6 +17880,11 @@
       "Time": "2024-01-07T01:59:13.1859156+00:00",
       "NumProgressed": 17681,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-07T05:05:01.8475293+00:00",
+      "NumProgressed": 17682,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -17995,7 +18000,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5127
+      "UsersEstimate": 5128
     },
     {
       "ID": "tpote_achievement_22",
@@ -18099,7 +18104,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "tpote_achievement_34",
@@ -18155,7 +18160,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7072
+      "UsersEstimate": 7073
     },
     {
       "ID": "tpote_achievement_40",
@@ -18218,15 +18223,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17681,
+      "Progressed": 17682,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:07:05.3738226+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:05:01.847529+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:04:59.3423244+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:07:05.373933+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:02:51.5719868+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:05:01.8476396+00:00"
 }

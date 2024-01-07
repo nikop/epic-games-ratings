@@ -31,9 +31,9 @@ Number of Ratings: 85  (23.09.2022)
 | Die Nasty | 17.00% | ~64 |
 | Ouch of Body Experience | 16.00% | ~60 |
 | If You Know What I Mean | 16.00% | ~60 |
+| Hidden Human Hive Harvest | 15.00% | ~56 |
 | Mash Machine | 15.00% | ~56 |
 | Albion Bridge Is for Falling Down | 14.00% | ~53 |
-| Hidden Human Hive Harvest | 14.00% | ~53 |
 | Dusted | 13.00% | ~49 |
 | Scuttled | 11.00% | ~41 |
 | Higher Than the Futen Zoku | 11.00% | ~41 |
@@ -74,9 +74,9 @@ Completed: 5 (1.33%) (Ranked 153)
 | 2024-01-06 | 367 | 5 |
 | 2024-01-07 | 375 | 5 |
 ## Awards
-Max (Great Boss Battles): 35  (Ranked 501)  
+Max (Great Boss Battles): 35  (Ranked 502)  
 Sum: 35 (Ranked 531)  
-Diff (max vs sum): -30  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

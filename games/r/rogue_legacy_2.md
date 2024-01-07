@@ -7,7 +7,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spells and Swords | 6.00% | ~1,672 |
-| Captain and Crew | 5.00% | ~1,393 |
+| Captain and Crew | 5.00% | ~1,394 |
 | No Harm in Looking | 4.00% | ~1,115 |
 | Harvest and Home | 3.00% | ~836 |
 | Poise and Poisons | 3.00% | ~836 |
@@ -15,8 +15,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | King and Kin | 2.00% | ~557 |
 | Progenitor and Protégé | 2.00% | ~557 |
 | Suns and Soldiers | 2.00% | ~557 |
+| For Glory | 1.00% | ~279 |
 | Prequel to the Sequel | 1.00% | ~279 |
-| For Glory | 0.90% | ~251 |
 | Truly Blessed | 0.70% | ~195 |
 | Pillow Investments | 0.70% | ~195 |
 | Looks Familiar | 0.70% | ~195 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,869 (Ranked 144)  
+Progressed: 27,873 (Ranked 144)  
 Completed: 35 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,15 +306,15 @@ Completed: 35 (0.13%) (Ranked 298)
 | 2024-01-04 | 27,682 | 35 |
 | 2024-01-05 | 27,769 | 35 |
 | 2024-01-06 | 27,858 | 35 |
-| 2024-01-07 | 27,869 | 35 |
+| 2024-01-07 | 27,873 | 35 |
 ## Awards
-Max (Extremely Fun): 227  (Ranked 287)  
-Sum: 1,721 (Ranked 228)  
-Diff (max vs sum): 59  
+Max (Extremely Fun): 227  (Ranked 288)  
+Sum: 1,722 (Ranked 228)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 227 |
-| This game has Quickly Understood Controls | 207 |
+| This game has Quickly Understood Controls | 208 |
 | This game has Diverse Characters | 202 |
 | This game has Challenging Combat | 200 |
 | This game is Highly Recommended | 198 |
@@ -463,3 +463,4 @@ Diff (max vs sum): 59
 | 2024-01-03 | 4.85 | - | 227 | 1,718 |
 | 2024-01-04 | 4.85 | - | 227 | 1,720 |
 | 2024-01-05 | 4.85 | - | 227 | 1,721 |
+| 2024-01-07 | 4.85 | - | 227 | 1,722 |

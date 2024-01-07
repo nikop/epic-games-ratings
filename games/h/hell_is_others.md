@@ -6,10 +6,10 @@ Rating: 4.40 (Ranked 767)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~80,704 |
-| Predator I | 23.00% | ~59,877 |
-| Fixer I | 10.00% | ~26,033 |
-| A week in Century City | 10.00% | ~26,033 |
-| The Wait | 7.00% | ~18,223 |
+| Predator I | 23.00% | ~59,878 |
+| Fixer I | 10.00% | ~26,034 |
+| A week in Century City | 10.00% | ~26,034 |
+| The Wait | 7.00% | ~18,224 |
 | Green thumb I | 6.00% | ~15,620 |
 | Cleaning Company | 6.00% | ~15,620 |
 | Well-oiled machine | 5.00% | ~13,017 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 767)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,334 (Ranked 67)  
+Progressed: 260,337 (Ranked 67)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 260,226 | 3 |
 | 2024-01-05 | 260,269 | 3 |
 | 2024-01-06 | 260,324 | 3 |
-| 2024-01-07 | 260,334 | 3 |
+| 2024-01-07 | 260,337 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 443)  
 Sum: 374 (Ranked 361)  

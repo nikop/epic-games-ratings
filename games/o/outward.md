@@ -6,27 +6,27 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,341 |
-| Ready for Winter | 61.00% | ~2,792 |
-| Ready for Summer | 48.00% | ~2,197 |
-| Cordon Bleu | 40.00% | ~1,831 |
-| Tapped! | 34.00% | ~1,556 |
-| Eureka | 30.00% | ~1,373 |
+| Venture Outward | 73.00% | ~3,343 |
+| Ready for Winter | 61.00% | ~2,794 |
+| Ready for Summer | 48.00% | ~2,198 |
+| Cordon Bleu | 40.00% | ~1,832 |
+| Tapped! | 34.00% | ~1,557 |
+| Eureka | 30.00% | ~1,374 |
 | Scourge Slayer | 23.00% | ~1,053 |
-| Exceptional Skill | 21.00% | ~961 |
-| Science, Troglodyte! | 21.00% | ~961 |
-| Home Sweet Home | 20.00% | ~915 |
+| Exceptional Skill | 21.00% | ~962 |
+| Science, Troglodyte! | 21.00% | ~962 |
+| Home Sweet Home | 20.00% | ~916 |
 | Encyclopedic! | 18.00% | ~824 |
-| A Fortress Toppled! | 15.00% | ~687 |
 | The Power of Family | 15.00% | ~687 |
+| A Fortress Toppled! | 14.00% | ~641 |
 | Apex Predator | 14.00% | ~641 |
-| Strange amalgams | 11.00% | ~503 |
-| The Power of Faith | 11.00% | ~503 |
+| Strange amalgams | 11.00% | ~504 |
+| The Power of Faith | 11.00% | ~504 |
 | The Power of Freedom | 9.00% | ~412 |
-| Ace Detective | 7.00% | ~320 |
-| Gift from the Ancestors | 7.00% | ~320 |
-| Let ‘em eat magma! | 7.00% | ~320 |
-| Magic is a science | 7.00% | ~320 |
+| Ace Detective | 7.00% | ~321 |
+| Gift from the Ancestors | 7.00% | ~321 |
+| Let ‘em eat magma! | 7.00% | ~321 |
+| Magic is a science | 7.00% | ~321 |
 | Hold my Mead and Watch This | 6.00% | ~275 |
 | House of Cards | 6.00% | ~275 |
 | The power of ambition | 6.00% | ~275 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,577 (Ranked 206)  
+Progressed: 4,580 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,11 +297,11 @@ Completed: 5 (0.11%) (Ranked 304)
 | 2024-01-04 | 4,478 | 5 |
 | 2024-01-05 | 4,511 | 5 |
 | 2024-01-06 | 4,569 | 5 |
-| 2024-01-07 | 4,577 | 5 |
+| 2024-01-07 | 4,580 | 5 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 501)  
+Max (Highly Recommended): 35  (Ranked 502)  
 Sum: 246 (Ranked 399)  
-Diff (max vs sum): 102  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

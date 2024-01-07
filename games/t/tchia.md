@@ -10,8 +10,8 @@ Rating: 4.69 (Ranked 234)
 | The Journey Onwards | 0.70% | ~61 |
 | Body and Soul | 0.50% | ~44 |
 | Soul-Canon | 0.50% | ~44 |
+| Ahem Ahem | 0.40% | ~35 |
 | Globe Trotter | 0.40% | ~35 |
-| Ahem Ahem | 0.30% | ~26 |
 | Audiophile | 0.30% | ~26 |
 | Shredder | 0.30% | ~26 |
 | Clay Pigeon | 0.20% | ~18 |
@@ -27,7 +27,7 @@ Rating: 4.69 (Ranked 234)
 | Snip Snip | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,765 (Ranked 187)  
+Progressed: 8,767 (Ranked 187)  
 Completed: 35 (0.40%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 35 (0.40%) (Ranked 236)
 | 2024-01-04 | 8,703 | 35 |
 | 2024-01-05 | 8,733 | 35 |
 | 2024-01-06 | 8,762 | 35 |
-| 2024-01-07 | 8,765 | 35 |
+| 2024-01-07 | 8,767 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

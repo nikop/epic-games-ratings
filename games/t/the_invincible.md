@@ -5,27 +5,27 @@ Rating: 4.61 (Ranked 399)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 69.00% | ~1,016 |
-| The Teleprobe | 54.00% | ~795 |
-| The City | 49.00% | ~721 |
-| The field base | 44.00% | ~648 |
+| The Camp | 69.00% | ~1,017 |
+| The Teleprobe | 54.00% | ~796 |
+| The City | 49.00% | ~722 |
+| The field base | 44.00% | ~649 |
 | The Alliance | 41.00% | ~604 |
-| Survivors | 39.00% | ~574 |
+| Survivors | 39.00% | ~575 |
 | The Condor | 37.00% | ~545 |
-| The End | 36.00% | ~530 |
-| Krauta is alive | 28.00% | ~412 |
-| The Necroevolution | 28.00% | ~412 |
+| The End | 36.00% | ~531 |
+| Krauta is alive | 28.00% | ~413 |
+| The Necroevolution | 28.00% | ~413 |
 | On her own | 22.00% | ~324 |
 | Peacemaker | 22.00% | ~324 |
 | Volcanologist | 22.00% | ~324 |
-| Fierce fight | 20.00% | ~294 |
-| Evacuation | 20.00% | ~294 |
-| Beyond divisions | 17.00% | ~250 |
+| Fierce fight | 20.00% | ~295 |
+| Evacuation | 20.00% | ~295 |
+| Beyond divisions | 17.00% | ~251 |
 | Flying Objects Operator | 16.00% | ~236 |
-| I remember everything! | 13.00% | ~191 |
-| Another giant | 13.00% | ~191 |
-| Violent solution | 9.00% | ~132 |
-| I leave no man behind | 9.00% | ~132 |
+| I remember everything! | 13.00% | ~192 |
+| Another giant | 13.00% | ~192 |
+| Violent solution | 9.00% | ~133 |
+| I leave no man behind | 9.00% | ~133 |
 | Innate curiosity | 7.00% | ~103 |
 | Ubiquitous holes | 6.00% | ~88 |
 | The Invincible | 6.00% | ~88 |
@@ -35,7 +35,7 @@ Rating: 4.61 (Ranked 399)
 | Convoy list | 0.90% | ~13 |
 | No more mistakes | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,472 (Ranked 267)  
+Progressed: 1,474 (Ranked 267)  
 Completed: 1 (0.07%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.07%) (Ranked 326)
 | 2024-01-04 | 1,381 | 1 |
 | 2024-01-05 | 1,415 | 1 |
 | 2024-01-06 | 1,462 | 1 |
-| 2024-01-07 | 1,472 | 1 |
+| 2024-01-07 | 1,474 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

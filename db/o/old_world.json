@@ -3,11 +3,11 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Ranking_Rating": 319,
-  "Ranking_Popularity": 284,
+  "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2220,9 +2220,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16168,
+  "EOS_Progressed": 16170,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19110,6 +19110,11 @@
       "Time": "2024-01-07T03:11:01.060012+00:00",
       "NumProgressed": 16168,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T05:10:41.2565508+00:00",
+      "NumProgressed": 16170,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19623,9 +19628,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
       "SetID": "7l38kb8",
       "Name": "Just",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -19783,9 +19788,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -20439,9 +20444,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -21984,21 +21989,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16168,
+      "Progressed": 16170,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16168,
+      "Progressed": 16170,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:13:01.2376191+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:10:41.2565504+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:02:35.0635676+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:13:01.2386391+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:00:40.6163737+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:10:41.2576126+00:00"
 }

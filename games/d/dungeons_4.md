@@ -22,7 +22,7 @@ Rating: 4.71 (Ranked 202)
 | It's Warm and Cozy at Home | 59.00% | ~437 |
 | Trap Master | 56.00% | ~414 |
 | Minions, Minions! | 56.00% | ~414 |
-| Hard Work | 54.00% | ~400 |
+| Hard Work | 55.00% | ~407 |
 | The Big Eaty | 54.00% | ~400 |
 | YOU SHALL NOT PASS! | 51.00% | ~377 |
 | “… like son” | 51.00% | ~377 |

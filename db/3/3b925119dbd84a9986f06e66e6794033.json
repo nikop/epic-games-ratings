@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 708,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -2229,6 +2229,11 @@
       "Time": "2024-01-07T04:12:36.0977009+00:00",
       "NumProgressed": 707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T05:10:15.0160484+00:00",
+      "NumProgressed": 708,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2305,7 +2310,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -2313,7 +2318,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2329,7 +2334,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "TIME_JINX",
@@ -2337,7 +2342,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "TIME_ORWELL",
@@ -2351,9 +2356,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 234
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2367,9 +2372,9 @@
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 78
     },
     {
       "ID": "TKO2_DOMINO",
@@ -2377,7 +2382,7 @@
       "Name": "Tee K.O. 2: Domino",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -2400,14 +2405,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 708,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:12:36.0977005+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:10:15.0160479+00:00",
   "LastUpdate_AppInfo": "2024-01-06T02:18:00.4383159+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:03:45.89891+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:12:36.097722+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:01:56.1447628+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:10:15.0160692+00:00"
 }

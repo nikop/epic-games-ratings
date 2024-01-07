@@ -13,11 +13,11 @@ Number of Ratings: 285  (23.09.2022)
 | That'll Leave a Mark | 25.00% | ~1,540 |
 | Mushroom Madness! | 23.00% | ~1,417 |
 | First Strike | 21.00% | ~1,294 |
-| Spending Spree | 19.00% | ~1,170 |
+| Spending Spree | 19.00% | ~1,171 |
 | Horder Better Faster Stronger | 17.00% | ~1,047 |
 | Next Time on MythForce... | 15.00% | ~924 |
 | Ten Steps from the Grave | 15.00% | ~924 |
-| Everything Must Go! | 14.00% | ~862 |
+| Everything Must Go! | 14.00% | ~863 |
 | Cold-Blooded Critters | 11.00% | ~678 |
 | Death Becomes You | 8.00% | ~493 |
 | On this Episode! | 7.00% | ~431 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.50% | ~31 |
 | Deadalus and Loving It | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,160 (Ranked 198)  
+Progressed: 6,161 (Ranked 198)  
 Completed: 5 (0.08%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,11 +206,11 @@ Completed: 5 (0.08%) (Ranked 320)
 | 2024-01-04 | 6,083 | 4 |
 | 2024-01-05 | 6,110 | 4 |
 | 2024-01-06 | 6,147 | 4 |
-| 2024-01-07 | 6,160 | 5 |
+| 2024-01-07 | 6,161 | 5 |
 ## Awards
-Max (Great for Beginners): 36  (Ranked 496)  
+Max (Great for Beginners): 36  (Ranked 497)  
 Sum: 296 (Ranked 379)  
-Diff (max vs sum): 117  
+Diff (max vs sum): 118  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

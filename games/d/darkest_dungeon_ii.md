@@ -1,36 +1,36 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 259)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~891 |
-| Lost and Found | 8.00% | ~548 |
+| Malpractice Assurance | 13.00% | ~892 |
+| Lost and Found | 8.00% | ~549 |
 | Autodidact | 7.00% | ~9,239 |
 | This Belongs in a Museum | 6.00% | ~7,919 |
 | Creep and Sleep | 6.00% | ~7,919 |
 | Overdue Notice | 6.00% | ~7,919 |
-| This guy... again? | 6.00% | ~411 |
-| Ploughshares to Swords | 6.00% | ~411 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,599 |
-| Serenity Now! | 5.00% | ~6,599 |
-| Meat and Greet | 5.00% | ~6,599 |
-| Catch and Decease | 5.00% | ~6,599 |
-| Escape from the Black Hole | 5.00% | ~6,599 |
-| Rush Hour | 5.00% | ~6,599 |
-| To Grandmother's House | 5.00% | ~6,599 |
-| FNG | 5.00% | ~6,599 |
+| This guy... again? | 6.00% | ~412 |
+| Ploughshares to Swords | 6.00% | ~412 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,600 |
+| Serenity Now! | 5.00% | ~6,600 |
+| Meat and Greet | 5.00% | ~6,600 |
+| Catch and Decease | 5.00% | ~6,600 |
+| Escape from the Black Hole | 5.00% | ~6,600 |
+| Rush Hour | 5.00% | ~6,600 |
+| To Grandmother's House | 5.00% | ~6,600 |
+| FNG | 5.00% | ~6,600 |
 | Bloody Graduation | 5.00% | ~343 |
-| It Rings a Bell | 4.00% | ~5,279 |
-| Not Today! | 4.00% | ~5,279 |
-| It Happens | 4.00% | ~5,279 |
-| Merry Time | 4.00% | ~5,279 |
-| Harvest Festival | 4.00% | ~5,279 |
-| Whale | 4.00% | ~5,279 |
-| A Place to Lay Your Head | 4.00% | ~5,279 |
-| Nope | 4.00% | ~5,279 |
+| It Rings a Bell | 4.00% | ~5,280 |
+| Not Today! | 4.00% | ~5,280 |
+| It Happens | 4.00% | ~5,280 |
+| Merry Time | 4.00% | ~5,280 |
+| Harvest Festival | 4.00% | ~5,280 |
+| Whale | 4.00% | ~5,280 |
+| A Place to Lay Your Head | 4.00% | ~5,280 |
+| Nope | 4.00% | ~5,280 |
 | Friends 'Til the End | 4.00% | ~274 |
 | Resurrection | 3.00% | ~3,960 |
 | Unleash Hell | 3.00% | ~3,960 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,986 (Ranked 91)  
+Progressed: 131,991 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,15 +338,15 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 131,986 | 3 |
+| 2024-01-07 | 131,991 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
-Sum: 21,484 (Ranked 58)  
+Sum: 21,491 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,972 |
-| This game has Diverse Characters | 1,824 |
+| This game has Diverse Characters | 1,831 |
 | This game has Challenging Combat | 1,670 |
 | This game is Highly Recommended | 1,597 |
 | This game has Amazing Characters | 1,520 |
@@ -704,4 +704,4 @@ Diff (max vs sum): -8
 | 2024-01-04 | 4.68 | - | 7,951 | 21,421 |
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
-| 2024-01-07 | 4.68 | - | 7,972 | 21,484 |
+| 2024-01-07 | 4.68 | - | 7,972 | 21,491 |

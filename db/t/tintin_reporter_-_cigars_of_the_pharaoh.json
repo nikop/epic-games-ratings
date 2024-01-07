@@ -677,9 +677,9 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "Achievement20",
@@ -845,9 +845,9 @@
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Achievement6",
@@ -892,8 +892,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:06:58.545164+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:04:54.832021+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.5995051+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:01:45.0219627+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:06:58.545196+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:59:47.6998627+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:04:54.8320488+00:00"
 }

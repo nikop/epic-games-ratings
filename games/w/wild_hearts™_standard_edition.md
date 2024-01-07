@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,201 |
+| Land of the Rising Sun | 100.00% | ~1,202 |
 | Hidden History | 71.00% | ~853 |
 | Commencing of Quests | 61.00% | ~733 |
 | Budding Conjuror | 59.00% | ~709 |
-| Man-Machine Master | 48.00% | ~576 |
-| Mountain Splitter | 47.00% | ~564 |
-| Subsistence Skills | 47.00% | ~564 |
-| Charmed by the Hunt | 47.00% | ~564 |
-| Memory Rouser | 46.00% | ~552 |
-| Fusion Conjuror | 45.00% | ~540 |
-| Kemono Hunter | 41.00% | ~492 |
-| Helpful Heart | 39.00% | ~468 |
-| Expert Conjuror | 39.00% | ~468 |
-| Flawless Crystal | 37.00% | ~444 |
-| Bonds of Enmity | 36.00% | ~432 |
-| Distance Devourer | 35.00% | ~420 |
-| Counter Specialist | 32.00% | ~384 |
-| Master of the Skies | 31.00% | ~372 |
-| Mighty Marmelizer | 27.00% | ~324 |
-| Axer of Auspice | 27.00% | ~324 |
-| Kemono at Heart | 26.00% | ~312 |
+| Man-Machine Master | 48.00% | ~577 |
+| Mountain Splitter | 48.00% | ~577 |
+| Subsistence Skills | 47.00% | ~565 |
+| Charmed by the Hunt | 47.00% | ~565 |
+| Memory Rouser | 46.00% | ~553 |
+| Fusion Conjuror | 45.00% | ~541 |
+| Kemono Hunter | 41.00% | ~493 |
+| Helpful Heart | 39.00% | ~469 |
+| Expert Conjuror | 39.00% | ~469 |
+| Flawless Crystal | 37.00% | ~445 |
+| Bonds of Enmity | 36.00% | ~433 |
+| Distance Devourer | 35.00% | ~421 |
+| Counter Specialist | 32.00% | ~385 |
+| Master of the Skies | 31.00% | ~373 |
+| Mighty Marmelizer | 27.00% | ~325 |
+| Axer of Auspice | 27.00% | ~325 |
+| Kemono at Heart | 26.00% | ~313 |
 | Fair Means or Foul | 25.00% | ~300 |
 | Single Minded | 24.00% | ~288 |
 | Snare Specialist | 23.00% | ~276 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 4.00% | ~48 |
 | Tsukumo Whisperer | 3.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,201 (Ranked 282)  
+Progressed: 1,202 (Ranked 282)  
 Completed: 8 (0.67%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,4 +167,4 @@ Completed: 8 (0.67%) (Ranked 197)
 | 2024-01-04 | 1,127 | 8 |
 | 2024-01-05 | 1,148 | 8 |
 | 2024-01-06 | 1,197 | 8 |
-| 2024-01-07 | 1,201 | 8 |
+| 2024-01-07 | 1,202 | 8 |

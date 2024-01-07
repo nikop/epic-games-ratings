@@ -3,7 +3,7 @@
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
   "Ranking_Rating": 319,
-  "Ranking_Popularity": 496,
+  "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 183,
@@ -341,9 +341,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 788,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -2111,6 +2111,11 @@
       "Time": "2024-01-07T03:06:32.070494+00:00",
       "NumProgressed": 786,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T05:06:40.5921486+00:00",
+      "NumProgressed": 788,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2139,7 +2144,7 @@
       "Name": "The Small Does Not Rule",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_COMPLETION",
@@ -2187,7 +2192,7 @@
       "Name": "Shanghaied",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -2203,7 +2208,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2211,7 +2216,7 @@
       "Name": "Kelp Forest of Fear",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_MERMALAIR",
@@ -2233,9 +2238,9 @@
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -2243,7 +2248,7 @@
       "Name": "Sweet Victory",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -2251,15 +2256,15 @@
       "Name": "SpongeBob vs SpongeBob!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2267,7 +2272,7 @@
       "Name": "Sleepy Time",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -2275,7 +2280,7 @@
       "Name": "Sock Concert",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_SOCK_OPERA",
@@ -2323,15 +2328,15 @@
       "Name": "Sock Getter",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Spatula Seeker",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2371,22 +2376,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 788,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-06T21:00:31.8698684+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:08:39.6313552+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:06:40.5921483+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:04:44.9702221+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:08:39.6313881+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:02:16.1336775+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:06:40.5921741+00:00"
 }

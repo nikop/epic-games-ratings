@@ -1290,9 +1290,9 @@
       "ID": "KR4_ACHIEVEMENT_BARNY",
       "SetID": "caeik3h",
       "Name": "BUUURP!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "KR4_ACHIEVEMENT_BILBO_DOOR",
@@ -1666,25 +1666,25 @@
       "ID": "KR4_ACHIEVEMENT_MINE_CART_CARNAGE",
       "SetID": "caeik3h",
       "Name": "Mine Cart Carnage",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOLE",
       "SetID": "caeik3h",
       "Name": "Guac-a-Mole",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
       "SetID": "caeik3h",
       "Name": "Mouserthon",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 249
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLAF",
@@ -1903,8 +1903,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:08:20.7043628+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:06:20.5551251+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:00:59.7837342+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:08:20.7044433+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:58:59.7075085+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:06:20.5552138+00:00"
 }

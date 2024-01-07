@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3333,
+  "EOS_Progressed": 3334,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -6089,6 +6089,11 @@
       "Time": "2024-01-07T04:06:16.6162675+00:00",
       "NumProgressed": 3333,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-07T05:04:12.4701383+00:00",
+      "NumProgressed": 3334,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 53,
@@ -6108,7 +6113,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -6140,7 +6145,7 @@
       "Name": "Hijack",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -6148,7 +6153,7 @@
       "Name": "Elemental master",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -6164,7 +6169,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3166
+      "UsersEstimate": 3167
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6180,7 +6185,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6276,7 +6281,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6284,7 +6289,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3000
+      "UsersEstimate": 3001
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6316,7 +6321,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6324,7 +6329,7 @@
       "Name": "Thornbarrow",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -6444,7 +6449,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -6476,7 +6481,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6508,7 +6513,7 @@
       "Name": "Ancient power",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -6523,7 +6528,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3333,
+      "Progressed": 3334,
       "Completed": 22
     }
   ],
@@ -6531,8 +6536,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-07T04:06:16.6162671+00:00",
+  "LastChanged_Achievements": "2024-01-07T05:04:12.470138+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.7763351+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:04:32.4718946+00:00",
-  "LastUpdate_Achievements": "2024-01-07T04:06:16.616343+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:02:02.1875348+00:00",
+  "LastUpdate_Achievements": "2024-01-07T05:04:12.4701954+00:00"
 }
