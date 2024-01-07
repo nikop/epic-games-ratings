@@ -6,9 +6,9 @@ Rating: 4.56 (Ranked 507)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 90.00% | ~158 |
-| Map reader | 62.00% | ~108 |
+| Map reader | 63.00% | ~110 |
 | Adventurer | 61.00% | ~107 |
-| Philanthropist | 58.00% | ~102 |
+| Philanthropist | 59.00% | ~103 |
 | The brave little tailor | 39.00% | ~68 |
 | Archer | 39.00% | ~68 |
 | Field hand | 38.00% | ~66 |
@@ -30,8 +30,8 @@ Rating: 4.56 (Ranked 507)
 | Little hero | 15.00% | ~26 |
 | The fourth triplet | 15.00% | ~26 |
 | Pandora's box | 14.00% | ~25 |
+| Ghost hunter | 14.00% | ~25 |
 | Master detective | 14.00% | ~25 |
-| Ghost hunter | 13.00% | ~23 |
 | Peacekeeper | 12.00% | ~21 |
 | Defender | 11.00% | ~19 |
 | Workaholic | 11.00% | ~19 |

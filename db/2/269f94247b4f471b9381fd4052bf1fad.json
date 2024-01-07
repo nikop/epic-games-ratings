@@ -332,9 +332,9 @@
       "ID": "ACH_COSPLAY",
       "SetID": "6lg1p1e",
       "Name": "Cosplay",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_DADDY-ISSUES",
@@ -420,9 +420,9 @@
       "ID": "ACH_LITTLE-ARSONIST",
       "SetID": "6lg1p1e",
       "Name": "Little Arsonist",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_LOREMASTER",
@@ -579,8 +579,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:09:10.7994348+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:08:53.6017797+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.3132761+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:57:45.5398692+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:09:10.799465+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:57:57.6269917+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:08:53.6018076+00:00"
 }

@@ -10,9 +10,9 @@ Rating: 4.46 (Ranked 673)
 | The Kraken Wakes | 38.00% | ~1,609 |
 | It's Starting to Crack | 35.00% | ~1,482 |
 | Change the Channel | 32.00% | ~1,355 |
-| Lord of War | 31.00% | ~1,312 |
+| Lord of War | 31.00% | ~1,313 |
 | Taking it back | 30.00% | ~1,270 |
-| Resourceful | 28.00% | ~1,185 |
+| Resourceful | 28.00% | ~1,186 |
 | Target America | 27.00% | ~1,143 |
 | The Kraken Sleeps | 25.00% | ~1,058 |
 | Organ Grinder | 24.00% | ~1,016 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 673)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,233 (Ranked 210)  
+Progressed: 4,234 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 11 (0.26%) (Ranked 262)
 | 2024-01-04 | 4,208 | 11 |
 | 2024-01-05 | 4,211 | 11 |
 | 2024-01-06 | 4,225 | 11 |
-| 2024-01-07 | 4,233 | 11 |
+| 2024-01-07 | 4,234 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 528)  
 Sum: 29 (Ranked 545)  

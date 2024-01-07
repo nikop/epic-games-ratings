@@ -553,7 +553,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4604,
+  "EOS_Progressed": 4605,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
@@ -7948,6 +7948,11 @@
       "Time": "2024-01-07T16:04:15.8690213+00:00",
       "NumProgressed": 4604,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T17:04:22.2066734+00:00",
+      "NumProgressed": 4605,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8151,7 +8156,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8175,7 +8180,7 @@
       "Name": "Strange amalgams",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "Tapped_22",
@@ -8183,7 +8188,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8215,7 +8220,7 @@
       "Name": "The Power of Faith",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -8277,9 +8282,9 @@
       "ID": "VentureOutward_21",
       "SetID": "c4hee28",
       "Name": "Venture Outward",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3315
+      "UsersEstimate": 3362
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8294,15 +8299,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4604,
+      "Progressed": 4605,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-05T19:04:06.3891748+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:04:15.8690211+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:04:22.2066729+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:02:54.0878451+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:04:15.8690706+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:03:00.5119188+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:04:22.2067321+00:00"
 }

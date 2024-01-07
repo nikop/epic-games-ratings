@@ -12,13 +12,13 @@ Rating: 4.69 (Ranked 236)
 | The Brass Boss | 27.00% | ~341 |
 | Time Flies | 26.00% | ~328 |
 | No, Thanks! | 26.00% | ~328 |
+| The Prince in Heels | 26.00% | ~328 |
 | Honest Mistake | 26.00% | ~328 |
 | Make Up For Lost Time | 25.00% | ~316 |
 | The Harder They Fall | 25.00% | ~316 |
-| The Prince in Heels | 25.00% | ~316 |
 | Fast Learner | 25.00% | ~316 |
 | Immaculate Aim | 25.00% | ~316 |
-| The Steel Shadow | 23.00% | ~290 |
+| The Steel Shadow | 24.00% | ~303 |
 | Breaking Down Barriers | 23.00% | ~290 |
 | Right On Time | 22.00% | ~278 |
 | The Wicked Twins | 22.00% | ~278 |

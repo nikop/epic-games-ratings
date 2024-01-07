@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1913,
+  "EOS_Progressed": 1914,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -3429,6 +3429,11 @@
       "Time": "2024-01-07T13:10:34.2398816+00:00",
       "NumProgressed": 1913,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T17:05:46.9080699+00:00",
+      "NumProgressed": 1914,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3464,7 +3469,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "13",
@@ -3504,7 +3509,7 @@
       "Name": "Balding bloot!",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "18",
@@ -3536,7 +3541,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "21",
@@ -3576,7 +3581,7 @@
       "Name": "Heartstrings",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "27",
@@ -3664,7 +3669,7 @@
       "Name": "Over my dead body",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "9",
@@ -3679,15 +3684,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1913,
+      "Progressed": 1914,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:05:40.5315833+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:05:46.9080696+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:57:22.2520326+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:05:40.531608+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:57:35.0103115+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:05:46.9081171+00:00"
 }

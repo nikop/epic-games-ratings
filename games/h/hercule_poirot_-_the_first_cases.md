@@ -14,8 +14,8 @@ Rating: 4.38 (Ranked 791)
 | Florette Duval | 54.00% | ~267 |
 | The Blackmail | 53.00% | ~262 |
 | Major Felix Hagen | 53.00% | ~262 |
+| Order and Method | 52.00% | ~257 |
 | Fine-toothed Comb | 52.00% | ~257 |
-| Order and Method | 51.00% | ~252 |
 | The Altercation | 48.00% | ~238 |
 | Truth from Within | 47.00% | ~233 |
 | The Major | 45.00% | ~223 |
@@ -53,7 +53,7 @@ Rating: 4.38 (Ranked 791)
 | Work-life Balance | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 495 (Ranked 351)  
-Completed: 6 (1.21%) (Ranked 160)  
+Completed: 6 (1.21%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

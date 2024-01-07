@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 693,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2546,9 +2546,9 @@
       "ID": "ACH_END_ALL_TUTORIALS",
       "SetID": "al4k4nh",
       "Name": "Virtual Electrician",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_END_ALL_WORKBENCH_MISSIONS",
@@ -2578,9 +2578,9 @@
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -2729,8 +2729,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:04:51.6393837+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:04:57.9969751+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.1835695+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:02:36.4698016+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:04:51.6394135+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:02:43.007914+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:04:57.9970134+00:00"
 }

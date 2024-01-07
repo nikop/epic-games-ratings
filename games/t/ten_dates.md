@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | That wasn't so bad | 88.00% | ~426 |
 | Let it begin | 46.00% | ~223 |
-| The athlete | 26.00% | ~126 |
+| The athlete | 27.00% | ~131 |
 | The intellectual | 24.00% | ~116 |
 | The boss | 22.00% | ~106 |
 | The activist | 20.00% | ~97 |

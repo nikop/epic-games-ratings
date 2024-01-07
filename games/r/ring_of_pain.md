@@ -7,6 +7,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Steps | 1.00% | ~2,426 |
+| Heavy Hitter | 1.00% | ~2,426 |
 | Getting A Glimpse | 1.00% | ~2,426 |
 | That Was Quick | 1.00% | ~2,426 |
 | Colorful Corpse | 1.00% | ~2,426 |
@@ -18,7 +19,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | An Offering | 1.00% | ~2,426 |
 | Matching | 1.00% | ~40 |
 | Nothing To Lose | 0.90% | ~2,183 |
-| Heavy Hitter | 0.90% | ~2,183 |
 | Goodbye, Frog Friend | 0.90% | ~2,183 |
 | Heartless | 0.90% | ~2,183 |
 | Spine Breaker | 0.90% | ~2,183 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,553 (Ranked 73)  
+Progressed: 242,557 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 304 (0.13%) (Ranked 297)
 | 2024-01-04 | 242,358 | 304 |
 | 2024-01-05 | 242,422 | 304 |
 | 2024-01-06 | 242,507 | 304 |
-| 2024-01-07 | 242,553 | 304 |
+| 2024-01-07 | 242,557 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

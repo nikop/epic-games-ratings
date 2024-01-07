@@ -3,7 +3,7 @@
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
   "Ranking_Rating": 634,
-  "Ranking_Popularity": 469,
+  "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 392,
@@ -447,7 +447,7 @@
   ],
   "EOS_Progressed": 498,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1933,9 +1933,9 @@
       "ID": "GoodDeeds",
       "SetID": "329ak73",
       "Name": "Good Deeds",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HellsForge",
@@ -2093,8 +2093,8 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:10:03.6236393+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:09:45.719195+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:57:23.1774188+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:10:03.6236684+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:57:35.9332403+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:09:45.719217+00:00"
 }

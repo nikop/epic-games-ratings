@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -7969,9 +7969,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1832
     },
     {
       "ID": "A29",
@@ -8194,8 +8194,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:04:57.6507528+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:05:04.529836+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.5860867+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:57:43.6961714+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:04:57.6508162+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:57:55.8324923+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:05:04.5299097+00:00"
 }

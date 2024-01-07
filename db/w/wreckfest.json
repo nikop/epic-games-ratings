@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 900,
+  "EOS_Progressed": 902,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2280,6 +2280,11 @@
       "Time": "2024-01-07T16:09:03.2857534+00:00",
       "NumProgressed": 900,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T17:08:45.8243279+00:00",
+      "NumProgressed": 902,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2298,9 +2303,9 @@
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 486
+      "UsersEstimate": 496
     },
     {
       "ID": "CareerChamp1",
@@ -2308,15 +2313,15 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "CareerChamp2",
       "SetID": "5hd282c",
       "Name": "National Amateurs Champion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 162
     },
     {
       "ID": "CareerChamp3",
@@ -2348,7 +2353,7 @@
       "Name": "Storm Warning",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "CollectVehiclesA",
@@ -2356,7 +2361,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "CollectVehiclesB",
@@ -2404,7 +2409,7 @@
       "Name": "Dirty Roller",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "PlayerRankB",
@@ -2451,7 +2456,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 900,
+      "Progressed": 902,
       "Completed": 0
     }
   ],
@@ -2459,8 +2464,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:09:03.2857529+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:08:45.8243276+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:58:48.7033123+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:09:03.2857685+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:58:56.7356915+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:08:45.824366+00:00"
 }

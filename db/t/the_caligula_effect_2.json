@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 253,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -193,6 +193,11 @@
       "Time": "2024-01-06T13:13:52.4935194+00:00",
       "NumProgressed": 252,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T17:09:55.5403624+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 49,
@@ -212,7 +217,7 @@
       "Name": "Welcome to Redo",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_03",
@@ -220,7 +225,7 @@
       "Name": "Daily Life Begins Anew",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_04",
@@ -242,9 +247,9 @@
       "ID": "ACH_06",
       "SetID": "2eg5kgc",
       "Name": "Be Who You Wanna Be",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_07",
@@ -268,7 +273,7 @@
       "Name": "Selfish Decisions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_10",
@@ -276,7 +281,7 @@
       "Name": "Pulling Heartstrings",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_11",
@@ -364,7 +369,7 @@
       "Name": "Extracurricular Affair",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_22",
@@ -476,7 +481,7 @@
       "Name": "Nice Doing Business",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_36",
@@ -548,7 +553,7 @@
       "Name": "Counter Champion",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_45",
@@ -556,7 +561,7 @@
       "Name": "Combo Commando",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_46",
@@ -595,15 +600,15 @@
     {
       "ID": "2eg5kgc",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:10:13.5359149+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:09:55.5403619+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:27.4625377+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:58:22.2316467+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:10:13.5359605+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:58:31.9505499+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:09:55.5404018+00:00"
 }

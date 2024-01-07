@@ -11,7 +11,7 @@
 | Scraps of love | 50.00% | ~146 |
 | The artist’s impression | 48.00% | ~140 |
 | Do what you have to | 42.00% | ~123 |
-| Sign of weakness | 39.00% | ~114 |
+| Sign of weakness | 40.00% | ~117 |
 | Refuse to look | 35.00% | ~102 |
 | Face your fears | 29.00% | ~85 |
 | Finished it | 25.00% | ~73 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 292 (Ranked 400)  
+Progressed: 292 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |

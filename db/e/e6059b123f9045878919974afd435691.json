@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1386,
+  "EOS_Progressed": 1387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3664,6 +3664,11 @@
       "Time": "2024-01-07T16:10:18.947624+00:00",
       "NumProgressed": 1386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T17:10:00.8788202+00:00",
+      "NumProgressed": 1387,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3675,7 +3680,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3699,7 +3704,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -3747,7 +3752,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3795,7 +3800,7 @@
       "Name": "Burnt Smell",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -3883,7 +3888,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -3915,7 +3920,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3955,7 +3960,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3993,9 +3998,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 499
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4202,14 +4207,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1386,
+      "Progressed": 1387,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:10:18.9476238+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:10:00.8788197+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:58:07.9777828+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:10:18.9477022+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:58:18.7211933+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:10:00.8788971+00:00"
 }

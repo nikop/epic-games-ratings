@@ -415,7 +415,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1665,
+  "EOS_Progressed": 1666,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -4360,6 +4360,11 @@
       "Time": "2024-01-07T15:09:54.030146+00:00",
       "NumProgressed": 1665,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T17:09:51.7037582+00:00",
+      "NumProgressed": 1666,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4427,7 +4432,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "EXPERT_1",
@@ -4443,7 +4448,7 @@
       "Name": "Explorer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4467,7 +4472,7 @@
       "Name": "Head Burst",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "INDY_1",
@@ -4523,7 +4528,7 @@
       "Name": "One HIT wonder",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4627,7 +4632,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "VVE",
@@ -4658,15 +4663,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1665,
+      "Progressed": 1666,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:10:09.6495717+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:09:51.7037578+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:58:45.0168379+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:10:09.6496107+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:58:53.9543488+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:09:51.7038004+00:00"
 }

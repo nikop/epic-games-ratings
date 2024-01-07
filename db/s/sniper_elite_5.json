@@ -661,9 +661,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4233,
+  "EOS_Progressed": 4234,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9491,6 +9491,11 @@
       "Time": "2024-01-07T15:09:25.6313255+00:00",
       "NumProgressed": 4233,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-07T17:09:24.2554928+00:00",
+      "NumProgressed": 4234,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9710,7 +9715,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9726,7 +9731,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -10069,13 +10074,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4184,
+      "Progressed": 4185,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4233,
+      "Progressed": 4234,
       "Completed": 11
     }
   ],
@@ -10083,8 +10088,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:09:41.9398617+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:09:24.2554923+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:02:34.4864737+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:09:41.9399676+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:02:41.0795977+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:09:24.2555984+00:00"
 }

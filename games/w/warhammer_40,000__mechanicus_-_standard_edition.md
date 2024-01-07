@@ -5,15 +5,15 @@ Rating: 4.43 (Ranked 724)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,226 |
+| No aid from the Omnissiah | 26.00% | ~60,227 |
 | This is only the beginning | 20.00% | ~46,328 |
 | Knowledge is power | 13.00% | ~30,113 |
 | Galvanic Rifle | 10.00% | ~23,164 |
 | Radium Ready | 10.00% | ~23,164 |
-| Power Ranger | 9.00% | ~20,847 |
-| Taser Goad | 9.00% | ~20,847 |
-| Half a cog | 9.00% | ~20,847 |
-| Watch them crumble | 6.00% | ~13,898 |
+| Power Ranger | 9.00% | ~20,848 |
+| Taser Goad | 9.00% | ~20,848 |
+| Half a cog | 9.00% | ~20,848 |
+| Watch them crumble | 6.00% | ~13,899 |
 | Competent Cohort | 4.00% | ~9,266 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,266 |
 | One with the Machine | 4.00% | ~9,266 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 724)
 | Perma-live | 0.10% | ~232 |
 | Purge the Heretek | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,638 (Ranked 77)  
+Progressed: 231,642 (Ranked 77)  
 Completed: 5 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,10 +302,10 @@ Completed: 5 (0.00%) (Ranked 392)
 | 2024-01-04 | 231,373 | 5 |
 | 2024-01-05 | 231,461 | 5 |
 | 2024-01-06 | 231,558 | 5 |
-| 2024-01-07 | 231,638 | 5 |
+| 2024-01-07 | 231,642 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 264)  
-Sum: 2,226 (Ranked 210)  
+Sum: 2,227 (Ranked 210)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -315,7 +315,7 @@ Diff (max vs sum): 54
 | This game has Amazing Characters | 276 |
 | This game has Diverse Characters | 269 |
 | This game has Amazing Storytelling | 252 |
-| This game is Relaxing | 245 |
+| This game is Relaxing | 246 |
 | This game has Unique Visuals | 218 |
 | This game has a Creative Community | 102 |
 | This game is Great for Beginners | 63 |
@@ -438,3 +438,4 @@ Diff (max vs sum): 54
 | 2024-01-03 | 4.43 | 291 | 2,223 |
 | 2024-01-04 | 4.43 | 292 | 2,224 |
 | 2024-01-06 | 4.43 | 292 | 2,226 |
+| 2024-01-07 | 4.43 | 292 | 2,227 |

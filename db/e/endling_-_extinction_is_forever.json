@@ -1206,9 +1206,9 @@
       "ID": "TROP006",
       "SetID": "9n0dl35",
       "Name": "Maternity",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 101
     },
     {
       "ID": "TROP007",
@@ -1342,17 +1342,17 @@
       "ID": "TROP023",
       "SetID": "9n0dl35",
       "Name": "Detox diet",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 249
     },
     {
       "ID": "TROP024",
       "SetID": "9n0dl35",
       "Name": "You Can Pet The Fox",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 178
     },
     {
       "ID": "TROP025",
@@ -1391,8 +1391,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:10:13.285026+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:09:55.3295644+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:55.943768+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:59:14.25297+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:10:13.2850506+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:59:22.0007671+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:09:55.3296091+00:00"
 }

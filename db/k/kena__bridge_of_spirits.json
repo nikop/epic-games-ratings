@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1529,9 +1529,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430248,
+  "EOS_Progressed": 430249,
   "EOS_Completed": 555,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -18954,6 +18954,11 @@
       "Time": "2024-01-07T16:03:37.3826131+00:00",
       "NumProgressed": 430248,
       "NumCompleted": 555
+    },
+    {
+      "Time": "2024-01-07T17:03:44.28584+00:00",
+      "NumProgressed": 430249,
+      "NumCompleted": 555
     }
   ],
   "TotalAchievements": 41,
@@ -19005,7 +19010,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 180704
+      "UsersEstimate": 180705
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -19013,7 +19018,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111864
+      "UsersEstimate": 111865
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -19021,7 +19026,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 129074
+      "UsersEstimate": 129075
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -19053,7 +19058,7 @@
       "Name": "Quick Draw",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 129074
+      "UsersEstimate": 129075
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -19085,7 +19090,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111864
+      "UsersEstimate": 111865
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -19133,7 +19138,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 408736
+      "UsersEstimate": 408737
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -19173,7 +19178,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111864
+      "UsersEstimate": 111865
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -19181,7 +19186,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 344198
+      "UsersEstimate": 344199
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -19213,7 +19218,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197914
+      "UsersEstimate": 197915
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -19237,7 +19242,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120469
+      "UsersEstimate": 120470
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -19253,7 +19258,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 189309
+      "UsersEstimate": 189310
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -19261,7 +19266,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 146284
+      "UsersEstimate": 146285
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -19292,15 +19297,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 430248,
+      "Progressed": 430249,
       "Completed": 555
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-07T06:59:57.8090038+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:03:37.3826129+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:03:44.2858395+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:27.9080723+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:00:00.8214955+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:03:37.3827032+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:00:09.0831605+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:03:44.2859787+00:00"
 }

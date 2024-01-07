@@ -335,7 +335,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4060,
+  "EOS_Progressed": 4061,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
@@ -8125,6 +8125,11 @@
       "Time": "2024-01-07T16:04:20.1122707+00:00",
       "NumProgressed": 4060,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T17:04:26.331892+00:00",
+      "NumProgressed": 4061,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8216,7 +8221,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_BASE_21",
@@ -8248,7 +8253,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "ACH_BASE_25",
@@ -8336,7 +8341,7 @@
       "Name": "Ready for a New World",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "ACH_BASE_35",
@@ -8440,7 +8445,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_BASE_5",
@@ -8591,13 +8596,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2244,
+      "Progressed": 2245,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4060,
+      "Progressed": 4061,
       "Completed": 0
     }
   ],
@@ -8605,8 +8610,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-04T06:58:36.3655707+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:04:20.1122701+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:04:26.3318915+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:59:48.9902119+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:04:20.1123419+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:59:57.4947692+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:04:26.3319724+00:00"
 }

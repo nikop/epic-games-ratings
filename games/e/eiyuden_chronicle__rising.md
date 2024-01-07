@@ -19,14 +19,14 @@ Number of Ratings: 48  (23.09.2022)
 | First Time Hunting | 46.00% | ~366 |
 | Rune Wall Wreckage | 45.00% | ~358 |
 | ...And Your Tax Money | 44.00% | ~350 |
-| The Lords of the Snowpeak | 37.00% | ~295 |
+| The Lords of the Snowpeak | 38.00% | ~302 |
 | The Go-To Girl | 34.00% | ~271 |
 | Scavenger's Honor | 34.00% | ~271 |
 | Natural Born Monster-Killer | 34.00% | ~271 |
+| The Great Forest...On Foot! | 34.00% | ~271 |
 | The Lava Mantor Wyrm | 33.00% | ~263 |
 | One Mean Merc | 33.00% | ~263 |
 | Money, Money, Money | 33.00% | ~263 |
-| The Great Forest...On Foot! | 33.00% | ~263 |
 | Adept, for an Acting Mayor | 32.00% | ~255 |
 | Rune Wall Master | 31.00% | ~247 |
 | The Quarry...On Foot! | 29.00% | ~231 |

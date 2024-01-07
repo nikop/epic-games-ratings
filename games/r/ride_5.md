@@ -5,22 +5,22 @@ Rating: 4.46 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 49.00% | ~1,666 |
-| First Love | 45.00% | ~1,530 |
-| Clean Race | 44.00% | ~1,496 |
-| Hear That Roar! | 42.00% | ~1,428 |
-| Bitter Rivalry | 30.00% | ~1,020 |
-| Rivals to the End | 30.00% | ~1,020 |
-| Champagne Spray | 29.00% | ~986 |
-| We're Going to Need a Bigger Garage | 26.00% | ~884 |
-| Quick Pit Stop | 22.00% | ~748 |
-| Restored and Ready | 20.00% | ~680 |
-| I Want One Too! | 20.00% | ~680 |
-| Legendary!!! | 20.00% | ~680 |
-| Go-Faster Stripes | 17.00% | ~578 |
-| I'm Here Too! | 15.00% | ~510 |
-| We've Just Begun | 14.00% | ~476 |
-| Is It the Right Size? | 9.00% | ~306 |
+| Eat My Dust | 49.00% | ~1,669 |
+| First Love | 45.00% | ~1,533 |
+| Clean Race | 44.00% | ~1,499 |
+| Hear That Roar! | 42.00% | ~1,431 |
+| Rivals to the End | 31.00% | ~1,056 |
+| Bitter Rivalry | 30.00% | ~1,022 |
+| Champagne Spray | 29.00% | ~988 |
+| We're Going to Need a Bigger Garage | 26.00% | ~886 |
+| Quick Pit Stop | 22.00% | ~749 |
+| Restored and Ready | 20.00% | ~681 |
+| I Want One Too! | 20.00% | ~681 |
+| Legendary!!! | 20.00% | ~681 |
+| Go-Faster Stripes | 17.00% | ~579 |
+| I'm Here Too! | 15.00% | ~511 |
+| We've Just Begun | 14.00% | ~477 |
+| Is It the Right Size? | 9.00% | ~307 |
 | Stamina Star | 8.00% | ~272 |
 | Evangelist | 7.00% | ~238 |
 | Make It Your Own! | 5.00% | ~170 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 673)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,401 (Ranked 223)  
+Progressed: 3,406 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 3,289 | 0 |
 | 2024-01-05 | 3,324 | 0 |
 | 2024-01-06 | 3,370 | 0 |
-| 2024-01-07 | 3,401 | 0 |
+| 2024-01-07 | 3,406 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

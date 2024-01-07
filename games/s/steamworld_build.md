@@ -12,7 +12,7 @@
 | Aristocratic | 63.00% | ~159 |
 | Tutti Frutti | 58.00% | ~146 |
 | Slotting Machine | 46.00% | ~116 |
-| Systematic | 45.00% | ~113 |
+| Systematic | 46.00% | ~116 |
 | Gotta Go Fast | 44.00% | ~111 |
 | Mine Sweeper | 41.00% | ~103 |
 | Roll Out | 38.00% | ~96 |
@@ -33,7 +33,7 @@
 | Yup. | 0.40% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252 (Ranked 413)  
+Progressed: 252 (Ranked 414)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |

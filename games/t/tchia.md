@@ -13,8 +13,8 @@ Rating: 4.70 (Ranked 218)
 | Soul-Canon | 0.50% | ~44 |
 | Ahem Ahem | 0.40% | ~35 |
 | Audiophile | 0.30% | ~26 |
+| Clay Pigeon | 0.30% | ~26 |
 | Shredder | 0.30% | ~26 |
-| Clay Pigeon | 0.20% | ~18 |
 | Historian | 0.20% | ~18 |
 | Iconoclast | 0.20% | ~18 |
 | Arrr! | 0.10% | ~9 |

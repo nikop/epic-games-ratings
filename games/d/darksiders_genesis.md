@@ -16,10 +16,10 @@ Number of Ratings: 67  (23.09.2022)
 | Master of Strife | 1.00% | ~5 |
 | Master of War | 1.00% | ~5 |
 | The Dead Court | 1.00% | ~5 |
+| Good Deeds | 0.80% | ~4 |
 | Mint II | 0.80% | ~4 |
 | Why'd It Have to Be Snakes? | 0.80% | ~4 |
 | A Bullet for All Seasons | 0.60% | ~3 |
-| Good Deeds | 0.60% | ~3 |
 | Infested | 0.60% | ~3 |
 | Mint III | 0.60% | ~3 |
 | Walking Armory | 0.60% | ~3 |
@@ -64,9 +64,9 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-06 | 471 | 0 |
 | 2024-01-07 | 498 | 0 |
 ## Awards
-Max (Great Boss Battles): 45  (Ranked 469)  
+Max (Great Boss Battles): 45  (Ranked 470)  
 Sum: 45 (Ranked 516)  
-Diff (max vs sum): -47  
+Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 45 |

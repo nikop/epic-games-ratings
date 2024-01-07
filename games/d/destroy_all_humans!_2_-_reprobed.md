@@ -10,13 +10,13 @@ Number of Ratings: 90  (23.09.2022)
 | Mash Machine | 75.00% | ~265 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~191 |
 | Furon Fashion | 47.00% | ~166 |
-| Shop Til They Drop | 39.00% | ~138 |
+| Shop Til They Drop | 40.00% | ~141 |
 | Bodied Sattva | 37.00% | ~131 |
 | Cult Following | 35.00% | ~124 |
 | Earthly Pleasures | 33.00% | ~116 |
 | Lie Back and Think of Albion | 28.00% | ~99 |
 | Upgreatest | 27.00% | ~95 |
-| Pimp My Raid | 24.00% | ~85 |
+| Pimp My Raid | 25.00% | ~88 |
 | Freshly Squeezed | 22.00% | ~78 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~74 |
 | Die Nasty | 18.00% | ~64 |

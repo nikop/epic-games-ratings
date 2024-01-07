@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 351,
-  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -895,9 +895,9 @@
       "ID": "ACH_014",
       "SetID": "72imik0",
       "Name": "Order and Method",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_015",
@@ -1232,8 +1232,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:06:18.2808881+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:06:23.1084026+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:49.2608665+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:02:58.7612924+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:06:18.2809223+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:03:04.8237879+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:06:23.108454+00:00"
 }

@@ -54,10 +54,10 @@
 | Seashell hunter | 30.00% | ~166 |
 | Undercover robot | 30.00% | ~166 |
 | Problems of cyborgs | 29.00% | ~160 |
+| Not little hacker | 29.00% | ~160 |
 | Absolute Champion! | 29.00% | ~160 |
 | Another world | 28.00% | ~155 |
 | The lonesome road | 28.00% | ~155 |
-| Not little hacker | 28.00% | ~155 |
 | Trap disarmed | 27.00% | ~149 |
 | Keep nature safe | 27.00% | ~149 |
 | Family comes first | 27.00% | ~149 |

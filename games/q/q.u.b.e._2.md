@@ -6,20 +6,20 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~35,066 |
-| Quick Understanding of Block Extrusion | 68.00% | ~31,793 |
-| Nature or Nurture | 52.00% | ~24,312 |
-| Power Glove | 50.00% | ~23,377 |
-| Forgotten Memories | 43.00% | ~20,104 |
-| Cogs in the Machine | 37.00% | ~17,299 |
-| Mission Success | 23.00% | ~10,753 |
-| There's No Place Like Home | 23.00% | ~10,753 |
-| Green Cube Killer | 20.00% | ~9,351 |
-| Path to Salvation | 18.00% | ~8,416 |
-| Infinity Loop | 17.00% | ~7,948 |
-| Descendants | 15.00% | ~7,013 |
-| The Flawed Teacher | 12.00% | ~5,610 |
-| To Infinity and Beyond | 6.00% | ~2,805 |
+| Lost in Space | 75.00% | ~35,072 |
+| Quick Understanding of Block Extrusion | 68.00% | ~31,798 |
+| Nature or Nurture | 52.00% | ~24,316 |
+| Power Glove | 50.00% | ~23,381 |
+| Forgotten Memories | 43.00% | ~20,108 |
+| Cogs in the Machine | 37.00% | ~17,302 |
+| Mission Success | 23.00% | ~10,755 |
+| There's No Place Like Home | 23.00% | ~10,755 |
+| Green Cube Killer | 20.00% | ~9,352 |
+| Path to Salvation | 18.00% | ~8,417 |
+| Infinity Loop | 17.00% | ~7,950 |
+| Descendants | 15.00% | ~7,014 |
+| The Flawed Teacher | 12.00% | ~5,611 |
+| To Infinity and Beyond | 6.00% | ~2,806 |
 | The Truthful Enemy | 5.00% | ~2,338 |
 | Laser Sharp | 3.00% | ~1,403 |
 | Bronze collector | 2.00% | ~935 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~468 |
 | Expert Collector | 1.00% | ~468 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,754 (Ranked 125)  
+Progressed: 46,762 (Ranked 125)  
 Completed: 234 (0.50%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 234 (0.50%) (Ranked 220)
 | 2024-01-04 | 46,448 | 234 |
 | 2024-01-05 | 46,563 | 234 |
 | 2024-01-06 | 46,693 | 234 |
-| 2024-01-07 | 46,754 | 234 |
+| 2024-01-07 | 46,762 | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

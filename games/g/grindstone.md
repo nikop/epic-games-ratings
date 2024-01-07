@@ -6,26 +6,26 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,128 |
-| The Journey Begins | 98.00% | ~5,128 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,082 |
-| There is No Escape | 71.00% | ~3,715 |
+| Quinceañera Time | 98.00% | ~5,129 |
+| The Journey Begins | 98.00% | ~5,129 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,083 |
+| There is No Escape | 71.00% | ~3,716 |
 | Fun, Flirty, and Thirty | 63.00% | ~3,297 |
-| Royal Flush | 62.00% | ~3,244 |
-| Timber! | 61.00% | ~3,192 |
-| Survive the Bombsequences | 59.00% | ~3,087 |
+| Royal Flush | 62.00% | ~3,245 |
+| Timber! | 61.00% | ~3,193 |
+| Survive the Bombsequences | 59.00% | ~3,088 |
 | Killed 20 Jerks | 54.00% | ~2,826 |
 | Death Defied | 54.00% | ~2,826 |
-| Fortunate Soul | 49.00% | ~2,564 |
-| Jerk-Slayer | 43.00% | ~2,250 |
-| Employee of the Month | 37.00% | ~1,936 |
-| I Believe I Can Fly | 37.00% | ~1,936 |
+| Fortunate Soul | 49.00% | ~2,565 |
+| Jerk-Slayer | 43.00% | ~2,251 |
+| Employee of the Month | 37.00% | ~1,937 |
+| I Believe I Can Fly | 37.00% | ~1,937 |
 | Bone Collector | 35.00% | ~1,832 |
 | Fe-Festival | 35.00% | ~1,832 |
 | Pardon my Slob | 33.00% | ~1,727 |
 | Top of the Food Chain | 32.00% | ~1,675 |
 | Humerus Achievement | 32.00% | ~1,675 |
-| Ghost Facers! | 28.00% | ~1,465 |
+| Ghost Facers! | 28.00% | ~1,466 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,099 |
 | Royal Flush, Again | 19.00% | ~994 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~942 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~37 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,233 (Ranked 203)  
+Progressed: 5,234 (Ranked 203)  
 Completed: 30 (0.57%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 30 (0.57%) (Ranked 209)
 | 2024-01-03 | 5,227 | 30 |
 | 2024-01-05 | 5,230 | 30 |
 | 2024-01-06 | 5,231 | 30 |
-| 2024-01-07 | 5,233 | 30 |
+| 2024-01-07 | 5,234 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

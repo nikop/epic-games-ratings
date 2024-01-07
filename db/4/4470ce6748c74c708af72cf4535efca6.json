@@ -597,9 +597,9 @@
       "ID": "4",
       "SetID": "5e3maia",
       "Name": "Epic Alliance",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "40",
@@ -685,9 +685,9 @@
       "ID": "5",
       "SetID": "5e3maia",
       "Name": "Tax official",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "50",
@@ -773,9 +773,9 @@
       "ID": "6",
       "SetID": "5e3maia",
       "Name": "Blacksmith",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "60",
@@ -900,8 +900,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:04:31.9217117+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:04:38.5385694+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:04.7034788+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:56:55.3131702+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:04:31.9217657+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:57:08.514911+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:04:38.5386328+00:00"
 }

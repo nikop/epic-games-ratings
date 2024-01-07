@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.60% | ~2,966 |
+| Until death do us apart | 0.60% | ~2,967 |
 | That's a Grand Army | 0.50% | ~2,472 |
 | That is mine! | 0.50% | ~2,472 |
 | Victorious! | 0.50% | ~2,472 |
-| Brothers in Arms | 0.40% | ~1,977 |
-| That's a Grand Navy | 0.40% | ~1,977 |
-| Seriously?! | 0.40% | ~1,977 |
+| Brothers in Arms | 0.40% | ~1,978 |
+| That's a Grand Navy | 0.40% | ~1,978 |
+| Seriously?! | 0.40% | ~1,978 |
 | Cold War | 0.30% | ~1,483 |
 | Blockader | 0.20% | ~989 |
 | Defender of the Faith | 0.20% | ~989 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,373 (Ranked 42)  
+Progressed: 494,432 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,10 +632,10 @@ Completed: 1 (0.00%) (Ranked 392)
 | 2024-01-04 | 492,104 | 1 |
 | 2024-01-05 | 492,930 | 1 |
 | 2024-01-06 | 493,815 | 1 |
-| 2024-01-07 | 494,373 | 1 |
+| 2024-01-07 | 494,432 | 1 |
 ## Awards
 Max (Educational): 7,757  (Ranked 54)  
-Sum: 63,909 (Ranked 24)  
+Sum: 63,924 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -647,7 +647,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 7,099 |
 | This game has Competitive Players | 6,944 |
 | This game has Amazing Storytelling | 6,457 |
-| This game has Amazing Characters | 5,965 |
+| This game has Amazing Characters | 5,980 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -1007,4 +1007,4 @@ Diff (max vs sum): 30
 | 2024-01-04 | 4.69 | - | 7,708 | 63,557 |
 | 2024-01-05 | 4.69 | - | 7,726 | 63,694 |
 | 2024-01-06 | 4.69 | - | 7,742 | 63,845 |
-| 2024-01-07 | 4.69 | - | 7,757 | 63,909 |
+| 2024-01-07 | 4.69 | - | 7,757 | 63,924 |

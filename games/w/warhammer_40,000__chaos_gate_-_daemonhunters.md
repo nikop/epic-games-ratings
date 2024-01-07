@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 20.00% | ~765 |
+| Executioner | 20.00% | ~766 |
 | Look Over There! | 14.00% | ~536 |
 | Not So Fast... | 14.00% | ~536 |
 | Watch Where You Step... | 14.00% | ~536 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,827 (Ranked 217)  
+Progressed: 3,829 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,11 +306,11 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 3,765 | 0 |
 | 2024-01-05 | 3,783 | 0 |
 | 2024-01-06 | 3,811 | 0 |
-| 2024-01-07 | 3,827 | 0 |
+| 2024-01-07 | 3,829 | 0 |
 ## Awards
-Max (Character Customization): 233  (Ranked 283)  
+Max (Character Customization): 233  (Ranked 284)  
 Sum: 496 (Ranked 334)  
-Diff (max vs sum): -51  
+Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 233 |

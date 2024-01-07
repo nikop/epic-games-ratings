@@ -25,6 +25,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 4.00% | ~816 |
 | Watchtower | 4.00% | ~816 |
 | Ruined Armory | 3.00% | ~612 |
+| Bandit Camp | 3.00% | ~612 |
 | Levitating Monument | 3.00% | ~612 |
 | Monastery of the Holy Flame | 3.00% | ~612 |
 | Lost Colonies | 3.00% | ~612 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 3.00% | ~612 |
 | Untamed Wilds | 3.00% | ~612 |
 | Against All Odds | 2.00% | ~408 |
-| Bandit Camp | 2.00% | ~408 |
 | Barren Lands | 2.00% | ~408 |
 | Ancient Battleground | 2.00% | ~408 |
 | Sparkdew Crystals | 2.00% | ~408 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,396 (Ranked 154)  
+Progressed: 20,400 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 34 (0.17%) (Ranked 281)
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
-| 2024-01-07 | 20,396 | 34 |
+| 2024-01-07 | 20,400 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 232)  
 Sum: 3,347 (Ranked 177)  

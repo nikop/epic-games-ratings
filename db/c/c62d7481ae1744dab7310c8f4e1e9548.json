@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.24,
+  "EOS_Completed_Percentage": 5.21,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1029,6 +1029,11 @@
       "Time": "2024-01-07T15:03:21.3906036+00:00",
       "NumProgressed": 210,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-07T17:03:26.7552965+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1041,7 +1046,7 @@
       "Name": "Woodworm",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Cikady",
@@ -1063,9 +1068,9 @@
       "ID": "Dusici",
       "SetID": "ag48e8e",
       "Name": "Young Spirits",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "Fletny",
@@ -1095,17 +1100,17 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "KrabiPyramida",
@@ -1129,7 +1134,7 @@
       "Name": "Blossoms",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "MluviciPapouch",
@@ -1217,7 +1222,7 @@
       "Name": "Sputnik",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Stonozka",
@@ -1241,7 +1246,7 @@
       "Name": "Saint Termite",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Truhlice",
@@ -1265,7 +1270,7 @@
       "Name": "Goldbug",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ZpivajiciHouba",
@@ -1280,14 +1285,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:03:19.4486242+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:03:26.7552961+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:02:52.7527368+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:03:19.4486431+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:02:59.3117712+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:03:26.7553294+00:00"
 }

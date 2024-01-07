@@ -26,10 +26,10 @@
 | Overplay the rogue | 9.00% | ~6 |
 | The champion of the arena | 9.00% | ~6 |
 | Punish the Punisher | 9.00% | ~6 |
+| The End | 9.00% | ~6 |
 | Collector | 7.00% | ~5 |
 | Stronger than Gellian steel | 7.00% | ~5 |
 | Protect the Healer! | 7.00% | ~5 |
-| The End | 7.00% | ~5 |
 | First among Frisians | 6.00% | ~4 |
 | Defeat the bear | 6.00% | ~4 |
 | Cunning plan | 6.00% | ~4 |
@@ -43,8 +43,8 @@
 | A solo player | 3.00% | ~2 |
 | Do it yourself | 3.00% | ~2 |
 | There can be only one | 3.00% | ~2 |
+| Happily ever after | 3.00% | ~2 |
 | By someone else's hands | 1.00% | ~1 |
-| Happily ever after | 1.00% | ~1 |
 | Berserk | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |

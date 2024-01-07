@@ -4,7 +4,7 @@
   "ProductSlug": "the-making-of-karateka-7d9a6c",
   "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -246,9 +246,9 @@
       "ID": "feather_cap",
       "SetID": "l4g2eh",
       "Name": "Feather in Your Cap",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "getting_point",
@@ -294,9 +294,9 @@
       "ID": "modern_hero",
       "SetID": "l4g2eh",
       "Name": "Modern Hero",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "nothing_personal",
@@ -310,9 +310,9 @@
       "ID": "one_down",
       "SetID": "l4g2eh",
       "Name": "One Down",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "original",
@@ -326,17 +326,17 @@
       "ID": "ran_trouble",
       "SetID": "l4g2eh",
       "Name": "Ran Into Trouble",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "show_respect",
       "SetID": "l4g2eh",
       "Name": "Show Some Respect!",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "sound_victory",
@@ -373,8 +373,8 @@
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2024-01-07T15:06:21.3465709+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:03:20.6871381+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:02.6507763+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:58:10.3640091+00:00",
-  "LastUpdate_Achievements": "2024-01-07T15:06:21.3465827+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:58:21.0493885+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:03:20.6878468+00:00"
 }

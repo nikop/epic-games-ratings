@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 992,
+  "EOS_Progressed": 993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4262,6 +4262,11 @@
       "Time": "2024-01-07T13:13:46.401302+00:00",
       "NumProgressed": 992,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T17:09:34.7555584+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4433,7 +4438,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Money10000",
@@ -4449,7 +4454,7 @@
       "Name": "The Big Day",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "Packing20",
@@ -4592,7 +4597,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 992,
+      "Progressed": 993,
       "Completed": 0
     }
   ],
@@ -4600,8 +4605,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-05T14:58:53.6267944+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:09:52.6125467+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:09:34.7555579+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2362119+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:59:50.5319967+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:09:52.6126271+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:59:59.0185325+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:09:34.7556099+00:00"
 }

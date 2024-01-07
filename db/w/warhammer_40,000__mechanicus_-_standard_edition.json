@@ -1012,10 +1012,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2226,
       "NumberOfAwardsMax": 292
+    },
+    {
+      "Time": "2024-01-07T16:59:20.9826173+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2227,
+      "NumberOfAwardsMax": 292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2226,
+  "NumberOfAwards": 2227,
   "NumberOfAwardsMax": 292,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1029,7 +1035,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 245
+      "Count": 246
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1080,9 +1086,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231638,
+  "EOS_Progressed": 231642,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29855,6 +29861,11 @@
       "Time": "2024-01-07T16:10:09.2528888+00:00",
       "NumProgressed": 231638,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T17:09:51.3275269+00:00",
+      "NumProgressed": 231642,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29874,7 +29885,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60226
+      "UsersEstimate": 60227
     },
     {
       "ID": "ACH_BASE_11",
@@ -29906,7 +29917,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20847
+      "UsersEstimate": 20848
     },
     {
       "ID": "ACH_BASE_16",
@@ -29922,7 +29933,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20847
+      "UsersEstimate": 20848
     },
     {
       "ID": "ACH_BASE_18",
@@ -29946,7 +29957,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13898
+      "UsersEstimate": 13899
     },
     {
       "ID": "ACH_BASE_20",
@@ -30130,23 +30141,23 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20847
+      "UsersEstimate": 20848
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231638,
+      "Progressed": 231642,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2024-01-06T19:59:50.5101793+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:10:09.2528887+00:00",
+  "LastChanged": "2024-01-07T16:59:20.9826172+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:09:51.3275265+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:54.2987721+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:59:13.2286092+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:10:09.2530099+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:59:20.9826176+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:09:51.3276694+00:00"
 }

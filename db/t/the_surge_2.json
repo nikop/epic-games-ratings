@@ -5,9 +5,9 @@
   "Ranking_Rating": 914,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 236,
+  "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2509,
+  "EOS_Progressed": 2510,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4450,6 +4450,11 @@
       "Time": "2024-01-07T16:08:30.6344271+00:00",
       "NumProgressed": 2509,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-07T17:06:34.0245303+00:00",
+      "NumProgressed": 2510,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4565,7 +4570,7 @@
       "Name": "Reborn",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_15",
@@ -4573,7 +4578,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_16",
@@ -4637,7 +4642,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "ACHV_24",
@@ -4661,7 +4666,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "ACHV_27",
@@ -4781,7 +4786,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "ACHV_42",
@@ -4805,7 +4810,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_45",
@@ -4853,7 +4858,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_51",
@@ -4869,7 +4874,7 @@
       "Name": "Juiced Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHV_53",
@@ -4916,7 +4921,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2509,
+      "Progressed": 2510,
       "Completed": 13
     }
   ],
@@ -4924,8 +4929,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:08:30.6344266+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:06:34.0245297+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:02:39.9597777+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:08:30.6344849+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:02:46.4401522+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:06:34.0245969+00:00"
 }

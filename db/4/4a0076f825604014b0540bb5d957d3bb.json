@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -679,6 +679,11 @@
       "Time": "2024-01-07T15:09:49.2435894+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T17:09:46.9059893+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -688,7 +693,7 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 40,
       "UsersEstimate": 122
     },
@@ -698,7 +703,7 @@
       "Name": "TRAINING DAY",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -706,15 +711,15 @@
       "Name": "SAILOR\u0027S GIFT",
       "Percentage": 72,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -722,7 +727,7 @@
       "Name": "SCRIPTORIUM SNEAK",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -738,7 +743,7 @@
       "Name": "NOVICE CRAFTSMAN",
       "Percentage": 91,
       "XP": 40,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "CgkInO_K3eIdEAIQCg",
@@ -762,15 +767,15 @@
       "Name": "BRIDGES OF THE PAST",
       "Percentage": 90,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -778,7 +783,7 @@
       "Name": "CHRONOSPY",
       "Percentage": 72,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -792,9 +797,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 40,
-      "UsersEstimate": 101
+      "UsersEstimate": 100
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -818,7 +823,7 @@
       "Name": "ATTENTIVE SCRIBE",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CgkInO_K3eIdEAIQFA",
@@ -826,7 +831,7 @@
       "Name": "WALKER",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CgkInO_K3eIdEAIQFQ",
@@ -834,7 +839,7 @@
       "Name": "RUNNER",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CgkInO_K3eIdEAIQFg",
@@ -864,9 +869,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -881,14 +886,14 @@
     {
       "ID": "6bj96in",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:10:04.84712+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:09:46.9059888+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:12.4832166+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:59:01.8641293+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:10:04.8471343+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:59:09.3027444+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:09:46.9060149+00:00"
 }

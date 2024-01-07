@@ -6,13 +6,13 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~485 |
+| Adept | 46.00% | ~486 |
 | Double Kill | 40.00% | ~422 |
-| Critical Hit | 23.00% | ~242 |
-| Veteran | 23.00% | ~242 |
+| Critical Hit | 23.00% | ~243 |
+| Veteran | 23.00% | ~243 |
 | Dressed For Success | 15.00% | ~158 |
-| Humiliation | 10.00% | ~105 |
-| Veni, Vidi, Vici | 10.00% | ~105 |
+| Humiliation | 10.00% | ~106 |
+| Veni, Vidi, Vici | 10.00% | ~106 |
 | Multi Kill | 9.00% | ~95 |
 | Sorcerous Spree | 8.00% | ~84 |
 | Master | 8.00% | ~84 |
@@ -32,11 +32,11 @@ Number of Ratings: 292  (23.09.2022)
 | In The Thick of It | 1.00% | ~11 |
 | Such A Fungi | 1.00% | ~11 |
 | Grand Master | 1.00% | ~11 |
-| Versatile Wielder | 0.90% | ~9 |
-| Together For Her | 0.90% | ~9 |
+| Versatile Wielder | 0.90% | ~10 |
+| Together For Her | 0.90% | ~10 |
+| Cleave | 0.70% | ~7 |
 | Death To Diplomacy | 0.60% | ~6 |
 | Unlimited Power! | 0.60% | ~6 |
-| Cleave | 0.60% | ~6 |
 | Coming Through! | 0.50% | ~5 |
 | Killing Spree | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054 (Ranked 289)  
+Progressed: 1,056 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 978 | 0 |
 | 2024-01-05 | 1,000 | 0 |
 | 2024-01-06 | 1,034 | 0 |
-| 2024-01-07 | 1,054 | 0 |
+| 2024-01-07 | 1,056 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 528)  
 Sum: 251 (Ranked 398)  

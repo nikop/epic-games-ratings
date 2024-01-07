@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,096 |
-| The Cursed Farmer | 2.00% | ~5,048 |
+| A Brief Tour of the Realms | 4.00% | ~10,097 |
+| The Cursed Farmer | 2.00% | ~5,049 |
 | Beast Intentions | 1.00% | ~2,524 |
 | The Mad Wizard | 1.00% | ~2,524 |
 | The Ring of Regeneration | 0.80% | ~2,019 |
-| Welcome to Sigil | 0.80% | ~1,749 |
+| Welcome to Sigil | 0.80% | ~1,750 |
 | Were-verpowered | 0.70% | ~1,767 |
 | Are Ya Chicken? | 0.70% | ~1,767 |
-| Seeking Allies | 0.60% | ~1,514 |
-| Mad Cow Disease | 0.60% | ~1,514 |
-| Friendly Imps | 0.60% | ~1,514 |
+| Seeking Allies | 0.60% | ~1,515 |
+| Mad Cow Disease | 0.60% | ~1,515 |
+| Friendly Imps | 0.60% | ~1,515 |
 | Fast Food | 0.60% | ~1,312 |
 | A Persistent Buzzing | 0.50% | ~1,262 |
 | Pure Energy | 0.50% | ~1,262 |
-| The Overgrown Grove | 0.50% | ~1,093 |
-| Mental Gymnastics | 0.50% | ~1,093 |
+| The Overgrown Grove | 0.50% | ~1,094 |
+| Mental Gymnastics | 0.50% | ~1,094 |
 | Maddening | 0.40% | ~1,010 |
 | Terror in the Dark | 0.40% | ~1,010 |
 | Unearthed Evil | 0.40% | ~1,010 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,407 (Ranked 70)  
+Progressed: 252,426 (Ranked 70)  
 Completed: 2,599 (1.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -815,7 +815,7 @@ Completed: 2,599 (1.03%) (Ranked 172)
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
-| 2024-01-07 | 252,407 | 2,599 |
+| 2024-01-07 | 252,426 | 2,599 |
 ## Awards
 Max (Great for Beginners): 5,756  (Ranked 74)  
 Sum: 33,386 (Ranked 41)  

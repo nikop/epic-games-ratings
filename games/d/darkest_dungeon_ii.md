@@ -6,22 +6,22 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~899 |
-| Lost and Found | 8.00% | ~553 |
-| Autodidact | 7.00% | ~9,243 |
+| Malpractice Assurance | 13.00% | ~900 |
+| Lost and Found | 8.00% | ~554 |
+| Autodidact | 7.00% | ~9,244 |
 | This Belongs in a Museum | 6.00% | ~7,923 |
 | Creep and Sleep | 6.00% | ~7,923 |
 | Overdue Notice | 6.00% | ~7,923 |
 | This guy... again? | 6.00% | ~415 |
 | Ploughshares to Swords | 6.00% | ~415 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,602 |
-| Serenity Now! | 5.00% | ~6,602 |
-| Meat and Greet | 5.00% | ~6,602 |
-| Catch and Decease | 5.00% | ~6,602 |
-| Escape from the Black Hole | 5.00% | ~6,602 |
-| Rush Hour | 5.00% | ~6,602 |
-| To Grandmother's House | 5.00% | ~6,602 |
-| FNG | 5.00% | ~6,602 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,603 |
+| Serenity Now! | 5.00% | ~6,603 |
+| Meat and Greet | 5.00% | ~6,603 |
+| Catch and Decease | 5.00% | ~6,603 |
+| Escape from the Black Hole | 5.00% | ~6,603 |
+| Rush Hour | 5.00% | ~6,603 |
+| To Grandmother's House | 5.00% | ~6,603 |
+| FNG | 5.00% | ~6,603 |
 | Bloody Graduation | 5.00% | ~346 |
 | It Rings a Bell | 4.00% | ~5,282 |
 | Not Today! | 4.00% | ~5,282 |
@@ -32,25 +32,25 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,282 |
 | Nope | 4.00% | ~5,282 |
 | Friends 'Til the End | 4.00% | ~277 |
-| Resurrection | 3.00% | ~3,961 |
-| Unleash Hell | 3.00% | ~3,961 |
-| Funny Guy | 3.00% | ~3,961 |
-| Long Live the King | 3.00% | ~3,961 |
-| Wyrdly Reconstructed | 3.00% | ~3,961 |
-| Boxcar Kid | 3.00% | ~3,961 |
-| Unfulfilled Desires | 3.00% | ~3,961 |
-| Predator | 3.00% | ~3,961 |
-| Dissector | 3.00% | ~3,961 |
-| Banishment | 3.00% | ~3,961 |
-| Deprogramming | 3.00% | ~3,961 |
-| Now Stay Dead | 3.00% | ~3,961 |
-| Reverse Banditry | 3.00% | ~3,961 |
-| Spelunker | 3.00% | ~3,961 |
-| Ramble On | 3.00% | ~3,961 |
-| A Clear Conscience | 3.00% | ~3,961 |
-| Utopia | 3.00% | ~3,961 |
-| Unshackled | 3.00% | ~3,961 |
-| Road Trip | 3.00% | ~3,961 |
+| Resurrection | 3.00% | ~3,962 |
+| Unleash Hell | 3.00% | ~3,962 |
+| Funny Guy | 3.00% | ~3,962 |
+| Long Live the King | 3.00% | ~3,962 |
+| Wyrdly Reconstructed | 3.00% | ~3,962 |
+| Boxcar Kid | 3.00% | ~3,962 |
+| Unfulfilled Desires | 3.00% | ~3,962 |
+| Predator | 3.00% | ~3,962 |
+| Dissector | 3.00% | ~3,962 |
+| Banishment | 3.00% | ~3,962 |
+| Deprogramming | 3.00% | ~3,962 |
+| Now Stay Dead | 3.00% | ~3,962 |
+| Reverse Banditry | 3.00% | ~3,962 |
+| Spelunker | 3.00% | ~3,962 |
+| Ramble On | 3.00% | ~3,962 |
+| A Clear Conscience | 3.00% | ~3,962 |
+| Utopia | 3.00% | ~3,962 |
+| Unshackled | 3.00% | ~3,962 |
+| Road Trip | 3.00% | ~3,962 |
 | This Looks Familiar | 2.00% | ~2,641 |
 | Hope Rekindled | 2.00% | ~2,641 |
 | Ichthyophobic | 2.00% | ~2,641 |
@@ -59,10 +59,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 2.00% | ~2,641 |
 | Hot Air | 2.00% | ~2,641 |
 | Eyes Up | 2.00% | ~2,641 |
-| Clearing the Ledger | 1.00% | ~1,320 |
-| Shrine of Reflection | 1.00% | ~1,320 |
-| Handled | 1.00% | ~1,320 |
-| Body of Work | 1.00% | ~1,320 |
+| Clearing the Ledger | 1.00% | ~1,321 |
+| Shrine of Reflection | 1.00% | ~1,321 |
+| Handled | 1.00% | ~1,321 |
+| Body of Work | 1.00% | ~1,321 |
 | Slap on the Wrist | 1.00% | ~69 |
 | For Old Time' Sake | 1.00% | ~69 |
 | Hat Trick | 0.90% | ~1,188 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,047 (Ranked 91)  
+Progressed: 132,051 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 132,047 | 3 |
+| 2024-01-07 | 132,051 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
 Sum: 21,505 (Ranked 58)  

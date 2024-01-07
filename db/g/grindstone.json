@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5233,
+  "EOS_Progressed": 5234,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1149,6 +1149,11 @@
       "Time": "2024-01-07T15:08:27.203241+00:00",
       "NumProgressed": 5233,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-07T17:08:26.6633073+00:00",
+      "NumProgressed": 5234,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1160,7 +1165,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -1176,7 +1181,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -1200,7 +1205,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -1216,7 +1221,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1264,7 +1269,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1288,7 +1293,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5128
+      "UsersEstimate": 5129
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1336,7 +1341,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1368,7 +1373,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4082
+      "UsersEstimate": 4083
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1400,7 +1405,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3244
+      "UsersEstimate": 3245
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1432,7 +1437,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3087
+      "UsersEstimate": 3088
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1448,7 +1453,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5128
+      "UsersEstimate": 5129
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1544,22 +1549,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3715
+      "UsersEstimate": 3716
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5233,
+      "Progressed": 5234,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:08:43.8452963+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:08:26.6633069+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:46.5070485+00:00",
-  "LastUpdate_Ratings": "2024-01-07T15:58:56.504728+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:08:43.8453297+00:00"
+  "LastUpdate_Ratings": "2024-01-07T16:59:04.1473214+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:08:26.6633672+00:00"
 }

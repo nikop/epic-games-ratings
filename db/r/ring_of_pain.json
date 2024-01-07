@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242553,
+  "EOS_Progressed": 242557,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31020,6 +31020,11 @@
       "Time": "2024-01-07T16:10:20.8985315+00:00",
       "NumProgressed": 242553,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-07T17:10:02.9955744+00:00",
+      "NumProgressed": 242557,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31109,9 +31114,9 @@
       "ID": "DEAL25DAMAGE",
       "SetID": "5l8oe0h",
       "Name": "Heavy Hitter",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2426
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -32134,13 +32139,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242553,
+      "Progressed": 242557,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4033,
+      "Progressed": 4037,
       "Completed": 421
     }
   ],
@@ -32148,8 +32153,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-07T16:10:20.8985313+00:00",
+  "LastChanged_Achievements": "2024-01-07T17:10:02.9955734+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:00:10.336518+00:00",
-  "LastUpdate_Achievements": "2024-01-07T16:10:20.8988523+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:00:19.2594101+00:00",
+  "LastUpdate_Achievements": "2024-01-07T17:10:02.9958476+00:00"
 }

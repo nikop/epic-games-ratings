@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,370 |
-| Off to a good start | 61.00% | ~1,662 |
-| Do... or do not. There is no try | 52.00% | ~1,416 |
-| A good blaster at your side | 24.00% | ~654 |
-| I suggest a new strategy | 17.00% | ~463 |
-| Great shot, kid! | 16.00% | ~436 |
+| New Recruit | 87.00% | ~2,374 |
+| Off to a good start | 61.00% | ~1,665 |
+| Do... or do not. There is no try | 52.00% | ~1,419 |
+| A good blaster at your side | 24.00% | ~655 |
+| I suggest a new strategy | 17.00% | ~464 |
+| Great shot, kid! | 16.00% | ~437 |
 | Scrap collector | 15.00% | ~409 |
 | All right, I'll give it a try | 15.00% | ~409 |
 | The power of the Force | 12.00% | ~327 |
@@ -20,8 +20,8 @@
 | Best star-pilot in the galaxy | 8.00% | ~218 |
 | Never tell me the odds! | 7.00% | ~191 |
 | Survivor | 7.00% | ~191 |
-| What's the cargo? | 6.00% | ~163 |
-| A cunning warrior | 6.00% | ~163 |
+| What's the cargo? | 6.00% | ~164 |
+| A cunning warrior | 6.00% | ~164 |
 | "Gonk? Gonk!" | 5.00% | ~136 |
 | Impressive. Most impressive. | 5.00% | ~136 |
 | Judge me by my size, do you? | 5.00% | ~136 |
@@ -31,16 +31,16 @@
 | Safety ain't the point of a joyride | 3.00% | ~82 |
 | Not bad for a little furball | 3.00% | ~82 |
 | Patience you must have | 3.00% | ~82 |
-| The Force is strong with this one | 2.00% | ~54 |
-| I've been waiting for you | 2.00% | ~54 |
-| When 900 years old you reach... | 2.00% | ~54 |
-| Determined | 2.00% | ~54 |
-| Your journey has only started | 2.00% | ~54 |
-| On the ball | 2.00% | ~54 |
-| Precision shot | 2.00% | ~54 |
-| That's no moon | 2.00% | ~54 |
-| What will you become? | 2.00% | ~54 |
-| Don't underestimate the Force | 2.00% | ~54 |
+| The Force is strong with this one | 2.00% | ~55 |
+| I've been waiting for you | 2.00% | ~55 |
+| When 900 years old you reach... | 2.00% | ~55 |
+| Determined | 2.00% | ~55 |
+| Your journey has only started | 2.00% | ~55 |
+| On the ball | 2.00% | ~55 |
+| Precision shot | 2.00% | ~55 |
+| That's no moon | 2.00% | ~55 |
+| What will you become? | 2.00% | ~55 |
+| Don't underestimate the Force | 2.00% | ~55 |
 | Hold the line! | 1.00% | ~27 |
 | Ackbar's Elite | 1.00% | ~27 |
 | This is a new day, a new beginning | 1.00% | ~27 |
@@ -54,9 +54,9 @@
 | You have your moments | 0.70% | ~19 |
 | When surrounded by war... | 0.70% | ~19 |
 | A New Hope | 0.60% | ~16 |
-| Stop that Droid | 0.60% | ~16 |
 | No such thing as luck | 0.50% | ~14 |
 | Do we take prisoners? | 0.50% | ~14 |
+| Stop that Droid | 0.50% | ~14 |
 | I’ll take that bet | 0.40% | ~11 |
 | Stay on target | 0.30% | ~8 |
 | Greed can be a very powerful ally | 0.30% | ~8 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,724 (Ranked 232)  
+Progressed: 2,729 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.04%) (Ranked 348)
 | 2024-01-04 | 2,595 | 1 |
 | 2024-01-05 | 2,649 | 1 |
 | 2024-01-06 | 2,690 | 1 |
-| 2024-01-07 | 2,724 | 1 |
+| 2024-01-07 | 2,729 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,11 +5,11 @@ Rating: 4.26 (Ranked 914)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,982 |
+| Rigged And Ready | 79.00% | ~1,983 |
 | Don't I Know You...? | 75.00% | ~1,882 |
 | Jailbreak | 64.00% | ~1,606 |
-| HEADSHOT! | 37.00% | ~928 |
-| Suited and Booted | 37.00% | ~928 |
+| HEADSHOT! | 37.00% | ~929 |
+| Suited and Booted | 37.00% | ~929 |
 | Sleeping With The Fishes | 35.00% | ~878 |
 | High Performance | 30.00% | ~753 |
 | Overheated | 29.00% | ~728 |
@@ -45,11 +45,11 @@ Rating: 4.26 (Ranked 914)
 | Remote Surgery | 6.00% | ~151 |
 | Turbo Booster | 6.00% | ~151 |
 | Squid Pro Quo | 6.00% | ~151 |
-| Reborn | 5.00% | ~125 |
-| Hello Darkness My Old Friend | 5.00% | ~125 |
-| Counter-Sniper | 5.00% | ~125 |
-| Shrimp Cocktail | 5.00% | ~125 |
-| Juiced Up | 5.00% | ~125 |
+| Reborn | 5.00% | ~126 |
+| Hello Darkness My Old Friend | 5.00% | ~126 |
+| Counter-Sniper | 5.00% | ~126 |
+| Shrimp Cocktail | 5.00% | ~126 |
+| Juiced Up | 5.00% | ~126 |
 | Geronimo! | 4.00% | ~100 |
 | Homewrecker | 4.00% | ~100 |
 | Plank of Wood | 4.00% | ~100 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 914)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,509 (Ranked 236)  
+Progressed: 2,510 (Ranked 235)  
 Completed: 13 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 13 (0.52%) (Ranked 216)
 | 2024-01-04 | 2,469 | 13 |
 | 2024-01-05 | 2,483 | 13 |
 | 2024-01-06 | 2,499 | 13 |
-| 2024-01-07 | 2,509 | 13 |
+| 2024-01-07 | 2,510 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

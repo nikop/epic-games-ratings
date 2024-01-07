@@ -6,8 +6,8 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,928 |
-| Strongman | 31.00% | ~6,829 |
+| First money | 95.00% | ~20,930 |
+| Strongman | 31.00% | ~6,830 |
 | Just Enough | 20.00% | ~4,406 |
 | Alpha Male | 20.00% | ~4,406 |
 | Pro-creative | 19.00% | ~4,186 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~132 |
 | Senior Estate Agent | 0.60% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,030 (Ranked 149)  
+Progressed: 22,032 (Ranked 150)  
 Completed: 21 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 21 (0.10%) (Ranked 308)
 | 2024-01-04 | 21,958 | 21 |
 | 2024-01-05 | 21,986 | 21 |
 | 2024-01-06 | 22,015 | 21 |
-| 2024-01-07 | 22,030 | 21 |
+| 2024-01-07 | 22,032 | 21 |
 ## Awards
 Max (Great for Beginners): 330  (Ranked 253)  
 Sum: 2,299 (Ranked 208)  
