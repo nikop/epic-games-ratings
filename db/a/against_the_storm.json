@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3747,10 +3747,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3345,
       "NumberOfAwardsMax": 449
+    },
+    {
+      "Time": "2024-01-07T15:00:34.0119952+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3347,
+      "NumberOfAwardsMax": 449
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3345,
+  "NumberOfAwards": 3347,
   "NumberOfAwardsMax": 449,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3764,7 +3770,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 446
+      "Count": 448
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3815,7 +3821,7 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 20383,
+  "EOS_Progressed": 20391,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 0,
@@ -18790,6 +18796,11 @@
       "Time": "2024-01-07T14:03:31.162626+00:00",
       "NumProgressed": 20383,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-07T15:03:20.8101572+00:00",
+      "NumProgressed": 20391,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18882,7 +18893,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "WinFirstGame",
@@ -18914,7 +18925,7 @@
       "Name": "Ruined Armory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WinNearBandit",
@@ -18962,7 +18973,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "WinNearFishmen",
@@ -18994,7 +19005,7 @@
       "Name": "Levitating Monument",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WinNearMines",
@@ -19010,7 +19021,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WinNearOutpost",
@@ -19018,7 +19029,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "WinNearRuins",
@@ -19026,7 +19037,7 @@
       "Name": "Lost Colonies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WinNearStatue",
@@ -19034,7 +19045,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WinNearTemple",
@@ -19050,7 +19061,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WinNearWatchtower",
@@ -19058,7 +19069,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "WinOnCoral",
@@ -19074,7 +19085,7 @@
       "Name": "Cursed Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WinOnMarshlands",
@@ -19114,7 +19125,7 @@
       "Name": "A Real Challenge",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WinWIthCaches",
@@ -19170,7 +19181,7 @@
       "Name": "Trade Baron",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WinWithoutDeath",
@@ -19210,7 +19221,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "WinNearGreed",
@@ -19218,7 +19229,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "WinNearLibrary",
@@ -19242,7 +19253,7 @@
       "Name": "Ominous Presence",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "WinNearStorms",
@@ -19258,7 +19269,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WinWithFoxes",
@@ -19273,15 +19284,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20383,
+      "Progressed": 20391,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-07T01:55:16.6666445+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:03:31.1626253+00:00",
+  "LastChanged": "2024-01-07T15:00:34.011995+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:03:20.8101568+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:00:25.4950563+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:03:31.1643706+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:00:34.0119955+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:03:20.8103336+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.69,
+  "EOS_Completed_Percentage": 3.68,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1184,6 +1184,11 @@
       "Time": "2024-01-07T13:14:05.0388624+00:00",
       "NumProgressed": 271,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T15:09:50.148889+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1234,9 +1239,9 @@
       "ID": "creepytaleach2",
       "SetID": "bnif31p",
       "Name": "Naivety",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "creepytaleach3",
@@ -1244,7 +1249,7 @@
       "Name": "Happy end",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "creepytaleach4",
@@ -1252,7 +1257,7 @@
       "Name": "Dominance",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "creepytaleach5",
@@ -1276,7 +1281,7 @@
       "Name": "Crazy chef",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "creepytaleach8",
@@ -1284,7 +1289,7 @@
       "Name": "Fake tune",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "creepytaleach9",
@@ -1299,14 +1304,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:53.9240474+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:09:50.1488884+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:06.3288119+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:58:17.0193449+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:53.9240786+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:58:20.5455707+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:09:50.1489032+00:00"
 }

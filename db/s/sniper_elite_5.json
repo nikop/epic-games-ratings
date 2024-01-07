@@ -4,7 +4,7 @@
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 672,
   "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 543,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 262,
@@ -661,9 +661,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4232,
+  "EOS_Progressed": 4233,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9486,6 +9486,11 @@
       "Time": "2024-01-07T14:09:30.5212654+00:00",
       "NumProgressed": 4232,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-07T15:09:25.6313255+00:00",
+      "NumProgressed": 4233,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9497,7 +9502,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -9505,7 +9510,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -9529,7 +9534,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -9537,7 +9542,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -9545,7 +9550,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -9553,15 +9558,15 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 973
+      "UsersEstimate": 1016
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9577,7 +9582,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9633,7 +9638,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9649,7 +9654,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -9665,7 +9670,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9729,7 +9734,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -9743,9 +9748,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1566
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9809,7 +9814,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9833,7 +9838,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10017,7 +10022,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -10025,7 +10030,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -10041,7 +10046,7 @@
       "Name": "Shipbreaker",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
@@ -10064,13 +10069,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4183,
+      "Progressed": 4184,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4232,
+      "Progressed": 4233,
       "Completed": 11
     }
   ],
@@ -10078,8 +10083,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:30.5212652+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:09:25.631325+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:00:26.801594+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:30.5213618+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:00:35.2373908+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:09:25.6314297+00:00"
 }

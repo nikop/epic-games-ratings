@@ -12,14 +12,14 @@ Rating: 3.92 (Ranked 1,065)
 | The Chemists' War | 5.00% | ~45 |
 | War with Friends | 2.00% | ~18 |
 | Nothing Can Stop Us! | 2.00% | ~18 |
-| That's Not What Happened | 0.90% | ~8 |
+| That's Not What Happened | 1.00% | ~9 |
 | A Student of History | 0.60% | ~5 |
 | Bombs Away! | 0.10% | ~1 |
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 892 (Ranked 300)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

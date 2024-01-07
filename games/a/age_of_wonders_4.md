@@ -5,12 +5,12 @@ Rating: 4.62 (Ranked 377)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 16.00% | ~1,124 |
+| Secret Technique | 16.00% | ~1,125 |
 | Realm Estate | 14.00% | ~984 |
-| A Wonderful Discovery | 13.00% | ~913 |
-| Walls Cannot Stop Us | 13.00% | ~913 |
+| A Wonderful Discovery | 13.00% | ~914 |
+| Walls Cannot Stop Us | 13.00% | ~914 |
 | From Friends to Family | 11.00% | ~773 |
-| Bone Peddler | 10.00% | ~702 |
+| Bone Peddler | 10.00% | ~703 |
 | Full Ascension | 8.00% | ~562 |
 | Magical Synergy | 8.00% | ~562 |
 | There Can Only Be One! | 7.00% | ~492 |
@@ -19,8 +19,8 @@ Rating: 4.62 (Ranked 377)
 | Valley of Wonders | 6.00% | ~422 |
 | In a Liege of Your Own | 6.00% | ~422 |
 | Intimidation Tactics | 6.00% | ~422 |
-| My Final Form | 5.00% | ~351 |
-| But this one is mine | 5.00% | ~351 |
+| My Final Form | 5.00% | ~352 |
+| But this one is mine | 5.00% | ~352 |
 | Return of the Wizard King | 4.00% | ~281 |
 | Enchanted Archipelago | 4.00% | ~281 |
 | Digging for Treasure | 4.00% | ~281 |
@@ -30,19 +30,19 @@ Rating: 4.62 (Ranked 377)
 | Fiery Friend | 3.00% | ~211 |
 | Tipping the Scales | 3.00% | ~211 |
 | Freed Lands of Manuhari | 3.00% | ~211 |
-| I've Got Everything I Need Right Here | 2.00% | ~140 |
-| God Emperor | 2.00% | ~140 |
-| Arch Mage | 2.00% | ~140 |
-| The Creator | 2.00% | ~140 |
-| Eternal Lord | 2.00% | ~140 |
-| Crimson Caldera | 2.00% | ~140 |
-| The Eternal Court | 2.00% | ~140 |
-| Here be Dragons | 2.00% | ~140 |
-| Blood of the Dragon | 2.00% | ~140 |
-| Mighty Hoard | 2.00% | ~140 |
-| Sehiran Oasis | 2.00% | ~140 |
-| Chaos Surge | 2.00% | ~140 |
-| Spoils of War | 2.00% | ~140 |
+| I've Got Everything I Need Right Here | 2.00% | ~141 |
+| God Emperor | 2.00% | ~141 |
+| Arch Mage | 2.00% | ~141 |
+| The Creator | 2.00% | ~141 |
+| Eternal Lord | 2.00% | ~141 |
+| Crimson Caldera | 2.00% | ~141 |
+| The Eternal Court | 2.00% | ~141 |
+| Here be Dragons | 2.00% | ~141 |
+| Blood of the Dragon | 2.00% | ~141 |
+| Mighty Hoard | 2.00% | ~141 |
+| Sehiran Oasis | 2.00% | ~141 |
+| Chaos Surge | 2.00% | ~141 |
+| Spoils of War | 2.00% | ~141 |
 | Lord of Chaos | 1.00% | ~70 |
 | The Goddess of Nature | 1.00% | ~70 |
 | Manufactured War | 1.00% | ~70 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 377)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,025 (Ranked 196)  
+Progressed: 7,031 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,11 +296,11 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
-| 2024-01-07 | 7,025 | 7 |
+| 2024-01-07 | 7,031 | 7 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 480)  
+Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 212 (Ranked 410)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |

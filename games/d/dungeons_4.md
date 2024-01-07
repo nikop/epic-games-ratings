@@ -23,11 +23,11 @@ Rating: 4.71 (Ranked 202)
 | Trap Master | 56.00% | ~414 |
 | Minions, Minions! | 56.00% | ~414 |
 | Hard Work | 55.00% | ~407 |
-| The Big Eaty | 54.00% | ~400 |
+| The Big Eaty | 55.00% | ~407 |
 | “… like son” | 52.00% | ~385 |
 | YOU SHALL NOT PASS! | 51.00% | ~377 |
 | The Cathedral of Light | 48.00% | ~355 |
-| Shame! Shame! Shame! | 47.00% | ~348 |
+| Shame! Shame! Shame! | 48.00% | ~355 |
 | Tanos' Crusade Against Thalya | 46.00% | ~340 |
 | Pure Dynamite! | 45.00% | ~333 |
 | Dungeonlord Gorgu | 45.00% | ~333 |
@@ -45,11 +45,11 @@ Rating: 4.71 (Ranked 202)
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~207 |
 | Brimstone Shaken, Not Stirred | 28.00% | ~207 |
 | Stop Tanos! | 27.00% | ~200 |
+| Sabotage! | 27.00% | ~200 |
 | Raiders of the Lost Stone | 27.00% | ~200 |
 | The Rune Sockets of Finitude (Part 1) | 27.00% | ~200 |
-| Sabotage! | 26.00% | ~192 |
+| The Rune Sockets of Finitude (Part 2) | 26.00% | ~192 |
 | Bonus Evilness | 25.00% | ~185 |
-| The Rune Sockets of Finitude (Part 2) | 25.00% | ~185 |
 | The Last Stand - This Time For Real! | 24.00% | ~178 |
 | Rubble and Ashes | 22.00% | ~163 |
 | Lavalumps on Ice! | 20.00% | ~148 |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 289,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1049,
+  "EOS_Progressed": 1052,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3670,6 +3670,11 @@
       "Time": "2024-01-07T14:09:11.6355827+00:00",
       "NumProgressed": 1049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T15:09:06.1204215+00:00",
+      "NumProgressed": 1052,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3690,7 +3695,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3706,7 +3711,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "AttackCount",
@@ -3754,7 +3759,7 @@
       "Name": "Versatile Wielder",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ChainLightningKills",
@@ -3786,7 +3791,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Deepstrike",
@@ -3826,7 +3831,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3842,7 +3847,7 @@
       "Name": "In The Thick of It",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FullHouse",
@@ -3874,7 +3879,7 @@
       "Name": "Together For Her",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LothCampaignFinaleOnHard",
@@ -3890,7 +3895,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MultiplayerWins",
@@ -3954,7 +3959,7 @@
       "Name": "Such A Fungi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SorcerousSpree",
@@ -3986,7 +3991,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "TrojanHorse",
@@ -4010,7 +4015,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "WielderLevel2",
@@ -4034,7 +4039,7 @@
       "Name": "Grand Master",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "WinBattleBeforeEnemyTurn",
@@ -4113,15 +4118,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1049,
+      "Progressed": 1052,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:11.6355823+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:09:06.1204211+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:59:33.1971921+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:11.6356587+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:59:38.7930522+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:09:06.1204679+00:00"
 }

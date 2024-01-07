@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 1009,
+  "Ranking_Rating": 986,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 249,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.13,
+  "Rating": 4.16,
   "RatingHistory": [
     {
       "Time": "2023-12-25T23:59:59.8062735+00:00",
@@ -61,13 +61,19 @@
       "Rating": 4.13,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-07T14:58:41.432003+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1978,
+  "EOS_Progressed": 1979,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
@@ -3817,6 +3823,11 @@
       "Time": "2024-01-07T14:10:01.2105284+00:00",
       "NumProgressed": 1978,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T15:09:57.523506+00:00",
+      "NumProgressed": 1979,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3828,7 +3839,7 @@
       "Name": "Break Out",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "ACH_02",
@@ -3868,7 +3879,7 @@
       "Name": "Godslayer",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_07",
@@ -3900,7 +3911,7 @@
       "Name": "Trinity",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACH_11",
@@ -3924,7 +3935,7 @@
       "Name": "Adventurer",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_14",
@@ -3932,15 +3943,15 @@
       "Name": "Airborne",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_16",
@@ -4020,7 +4031,7 @@
       "Name": "Fashion Victim",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_26",
@@ -4028,7 +4039,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_27",
@@ -4076,7 +4087,7 @@
       "Name": "Miner",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_34",
@@ -4090,9 +4101,9 @@
       "ID": "ACH_35",
       "SetID": "efe2lj",
       "Name": "Feeling Fancy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_36",
@@ -4115,16 +4126,16 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1978,
+      "Progressed": 1979,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged": "2024-01-04T23:57:43.6326187+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:10:01.2105278+00:00",
+  "LastChanged": "2024-01-07T14:58:41.4320028+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:09:57.5235051+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:58:37.5448552+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:10:01.2105742+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:58:41.4320034+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:09:57.5235403+00:00"
 }

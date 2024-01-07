@@ -2,9 +2,9 @@
   "ID": "6bd33f792d3d4350ab80acb891597df8",
   "Name": "The House of Da Vinci 3",
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
-  "Ranking_EOS_Progress": 477,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_Progress": 475,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -629,6 +629,11 @@
       "Time": "2024-01-06T18:05:15.4557995+00:00",
       "NumProgressed": 123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T15:05:28.5019716+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -638,7 +643,7 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
       "UsersEstimate": 98
     },
@@ -646,7 +651,7 @@
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
       "UsersEstimate": 86
     },
@@ -654,7 +659,7 @@
       "ID": "CgkIxYDzrbcPEAIQAw",
       "SetID": "4egpam7",
       "Name": "The Bald Lady",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
       "UsersEstimate": 86
     },
@@ -664,23 +669,23 @@
       "Name": "Devil\u0027s Bargain",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBQ",
       "SetID": "4egpam7",
       "Name": "Man of Faith",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -702,7 +707,7 @@
       "ID": "CgkIxYDzrbcPEAIQCQ",
       "SetID": "4egpam7",
       "Name": "Ancient Enigma",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 55
     },
@@ -710,7 +715,7 @@
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 30,
       "UsersEstimate": 103
     },
@@ -718,7 +723,7 @@
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 30,
       "UsersEstimate": 91
     },
@@ -726,7 +731,7 @@
       "ID": "CgkIxYDzrbcPEAIQDA",
       "SetID": "4egpam7",
       "Name": "Chimney Sweeper",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
       "UsersEstimate": 86
     },
@@ -744,7 +749,7 @@
       "Name": "Fireman",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
@@ -752,23 +757,23 @@
       "Name": "Dear Diary",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEA",
       "SetID": "4egpam7",
       "Name": "Collector of Secrets",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEQ",
       "SetID": "4egpam7",
       "Name": "Seeker of Mysteries",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 56
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEg",
@@ -872,21 +877,21 @@
       "Name": "Curious Soul",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "4egpam7",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:05:35.4799726+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:05:28.5019711+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:03.7970515+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:57:15.0898002+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:05:35.4799943+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:57:19.4600034+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:05:28.5019966+00:00"
 }

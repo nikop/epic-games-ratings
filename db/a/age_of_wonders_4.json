@@ -3,7 +3,7 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 377,
-  "Ranking_Popularity": 480,
+  "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
@@ -735,9 +735,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7025,
+  "EOS_Progressed": 7031,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10665,6 +10665,11 @@
       "Time": "2024-01-07T14:04:47.7150591+00:00",
       "NumProgressed": 7025,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T15:04:39.0400077+00:00",
+      "NumProgressed": 7031,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10700,7 +10705,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "13",
@@ -10732,7 +10737,7 @@
       "Name": "God Emperor",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "17",
@@ -10748,7 +10753,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "19",
@@ -10756,7 +10761,7 @@
       "Name": "The Creator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "2",
@@ -10780,7 +10785,7 @@
       "Name": "Eternal Lord",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "22",
@@ -10796,7 +10801,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "24",
@@ -10804,7 +10809,7 @@
       "Name": "Secret Technique",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "25",
@@ -10812,7 +10817,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "26",
@@ -10820,7 +10825,7 @@
       "Name": "Bone Peddler",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "27",
@@ -10852,7 +10857,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "30",
@@ -10876,7 +10881,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "33",
@@ -10940,7 +10945,7 @@
       "Name": "The Eternal Court",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "40",
@@ -11028,7 +11033,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "46",
@@ -11052,7 +11057,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "49",
@@ -11060,7 +11065,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "50",
@@ -11084,7 +11089,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "53",
@@ -11100,7 +11105,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "55",
@@ -11124,7 +11129,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "58",
@@ -11140,7 +11145,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "60",
@@ -11155,13 +11160,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7025,
+      "Progressed": 7031,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7025,
+      "Progressed": 7031,
       "Completed": 7
     }
   ],
@@ -11169,8 +11174,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:04:47.7150587+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:04:39.0400073+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:02:59.0661274+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:04:47.7151373+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:02:46.1512122+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:04:39.0401428+00:00"
 }

@@ -12,28 +12,28 @@ Rating: 4.29 (Ranked 880)
 | Right in the kisser! | 56.00% | ~120 |
 | The Thrower | 45.00% | ~96 |
 | Duscot Steamcity | 45.00% | ~96 |
+| The Penguin | 43.00% | ~92 |
 | The Shaman | 43.00% | ~92 |
-| The Penguin | 42.00% | ~90 |
 | The Magician | 38.00% | ~81 |
 | The Tunneler | 38.00% | ~81 |
 | Level Up!! | 35.00% | ~75 |
 | The Shield | 35.00% | ~75 |
 | Kill-streak | 28.00% | ~60 |
 | Topped up | 28.00% | ~60 |
-| The Bird | 26.00% | ~56 |
+| The Bird | 27.00% | ~58 |
+| The Idol | 25.00% | ~54 |
 | The Ninja | 25.00% | ~54 |
-| The Idol | 24.00% | ~51 |
-| Inferno Ruins | 23.00% | ~49 |
+| Inferno Ruins | 24.00% | ~51 |
 | 1 is all I need | 21.00% | ~45 |
 | I'm Rich | 21.00% | ~45 |
 | The Slime | 21.00% | ~45 |
 | Untouchable | 20.00% | ~43 |
+| The Giant | 17.00% | ~36 |
 | The Flower | 16.00% | ~34 |
-| The Giant | 16.00% | ~34 |
 | The Ooze | 16.00% | ~34 |
 | Out of the Frying Pan... | 16.00% | ~34 |
+| Ember | 16.00% | ~34 |
 | The Blacksmith | 15.00% | ~32 |
-| Ember | 15.00% | ~32 |
 | Turquoise | 14.00% | ~30 |
 | The Assistant | 13.00% | ~28 |
 | The Steampunk | 13.00% | ~28 |

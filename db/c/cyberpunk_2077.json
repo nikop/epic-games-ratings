@@ -17892,10 +17892,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 472374,
       "NumberOfAwardsMax": 133878
+    },
+    {
+      "Time": "2024-01-07T15:03:04.3828633+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 472568,
+      "NumberOfAwardsMax": 133878
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 472374,
+  "NumberOfAwards": 472568,
   "NumberOfAwardsMax": 133878,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17951,7 +17957,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 25938
+      "Count": 26132
     },
     {
       "Text": "This game has Amazing Characters",
@@ -17972,10 +17978,10 @@
       "Count": 18063
     }
   ],
-  "EOS_Progressed": 1031661,
+  "EOS_Progressed": 1031931,
   "EOS_Completed": 3041,
-  "EOS_NewPlayers": 32830,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 32776,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -47942,6 +47948,11 @@
       "Time": "2024-01-07T14:08:41.600052+00:00",
       "NumProgressed": 1031661,
       "NumCompleted": 3041
+    },
+    {
+      "Time": "2024-01-07T15:08:34.7994042+00:00",
+      "NumProgressed": 1031931,
+      "NumCompleted": 3041
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -47954,7 +47965,7 @@
       "Name": "City Lights",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "BornToBeWild",
@@ -47962,7 +47973,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10317
+      "UsersEstimate": 10319
     },
     {
       "ID": "BushidoAndChill",
@@ -47970,7 +47981,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 30950
+      "UsersEstimate": 30958
     },
     {
       "ID": "Cyberjunkie",
@@ -47978,7 +47989,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 61900
+      "UsersEstimate": 61916
     },
     {
       "ID": "Denied",
@@ -47986,7 +47997,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 82533
+      "UsersEstimate": 82554
     },
     {
       "ID": "FollowingTheRiver",
@@ -47994,7 +48005,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 20633
+      "UsersEstimate": 20639
     },
     {
       "ID": "Fortuneteller",
@@ -48002,7 +48013,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 20633
+      "UsersEstimate": 20639
     },
     {
       "ID": "Gearhead",
@@ -48010,7 +48021,7 @@
       "Name": "Autojock",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 8253
+      "UsersEstimate": 8255
     },
     {
       "ID": "GetMeThereScottie",
@@ -48026,7 +48037,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 82533
+      "UsersEstimate": 82554
     },
     {
       "ID": "Gunslinger",
@@ -48034,7 +48045,7 @@
       "Name": "Gunslinger",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "HandyMan",
@@ -48042,7 +48053,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 30950
+      "UsersEstimate": 30958
     },
     {
       "ID": "IAmMaxTac",
@@ -48050,7 +48061,7 @@
       "Name": "I Am The Law",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 20633
+      "UsersEstimate": 20639
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -48058,7 +48069,7 @@
       "Name": "Mean Streets",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3096
     },
     {
       "ID": "LittleTokyo",
@@ -48066,7 +48077,7 @@
       "Name": "Little Tokyo",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3096
     },
     {
       "ID": "MasterRunner",
@@ -48074,7 +48085,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 51583
+      "UsersEstimate": 51597
     },
     {
       "ID": "MaxPain",
@@ -48082,7 +48093,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 30950
+      "UsersEstimate": 30958
     },
     {
       "ID": "MustBeTheRats",
@@ -48090,7 +48101,7 @@
       "Name": "Must Be Rats",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7224
     },
     {
       "ID": "NeverFadeAway",
@@ -48098,7 +48109,7 @@
       "Name": "Breathtaking",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10317
+      "UsersEstimate": 10319
     },
     {
       "ID": "NoMansLand",
@@ -48106,7 +48117,7 @@
       "Name": "The Wasteland",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3096
     },
     {
       "ID": "NotTheMobile",
@@ -48114,7 +48125,7 @@
       "Name": "Daemon In The Shell",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "QueenOfTheHighway",
@@ -48122,7 +48133,7 @@
       "Name": "Life of the Road",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 41266
+      "UsersEstimate": 41277
     },
     {
       "ID": "Roleplayer",
@@ -48130,7 +48141,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 51583
+      "UsersEstimate": 51597
     },
     {
       "ID": "Specialist",
@@ -48138,7 +48149,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10317
+      "UsersEstimate": 10319
     },
     {
       "ID": "Temperance",
@@ -48146,7 +48157,7 @@
       "Name": "Temperance",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7224
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -48162,7 +48173,7 @@
       "Name": "The Devil",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3096
     },
     {
       "ID": "TheFool",
@@ -48170,7 +48181,7 @@
       "Name": "The Fool",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 103166
+      "UsersEstimate": 103193
     },
     {
       "ID": "TheHermit",
@@ -48178,7 +48189,7 @@
       "Name": "The Hermit",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 51583
+      "UsersEstimate": 51597
     },
     {
       "ID": "TheHightPriestess",
@@ -48186,7 +48197,7 @@
       "Name": "The High Priestess",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 41266
+      "UsersEstimate": 41277
     },
     {
       "ID": "TheLovers",
@@ -48194,7 +48205,7 @@
       "Name": "The Lovers",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 82533
+      "UsersEstimate": 82554
     },
     {
       "ID": "TheStar",
@@ -48202,7 +48213,7 @@
       "Name": "The Star",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10317
+      "UsersEstimate": 10319
     },
     {
       "ID": "TheSun",
@@ -48210,7 +48221,7 @@
       "Name": "The Sun",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10317
+      "UsersEstimate": 10319
     },
     {
       "ID": "TheWheelOfFortune",
@@ -48218,7 +48229,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 61900
+      "UsersEstimate": 61916
     },
     {
       "ID": "TheWorld",
@@ -48226,7 +48237,7 @@
       "Name": "The World",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 30950
+      "UsersEstimate": 30958
     },
     {
       "ID": "ThisIsPacifica",
@@ -48234,7 +48245,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3096
     },
     {
       "ID": "TradeUnion",
@@ -48242,7 +48253,7 @@
       "Name": "The Jungle",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3096
     },
     {
       "ID": "TrueSoldier",
@@ -48250,7 +48261,7 @@
       "Name": "True Soldier",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 61900
+      "UsersEstimate": 61916
     },
     {
       "ID": "TrueWarrior",
@@ -48258,7 +48269,7 @@
       "Name": "True Warrior",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 41266
+      "UsersEstimate": 41277
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -48266,7 +48277,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 20633
+      "UsersEstimate": 20639
     },
     {
       "ID": "UnderPressure",
@@ -48274,7 +48285,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 30950
+      "UsersEstimate": 30958
     },
     {
       "ID": "VForVendetta",
@@ -48282,7 +48293,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 123799
+      "UsersEstimate": 123832
     },
     {
       "ID": "YipMan",
@@ -48290,7 +48301,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3096
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -48298,7 +48309,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 41266
+      "UsersEstimate": 41277
     },
     {
       "ID": "All the President\u0027s Men",
@@ -48330,7 +48341,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1284
     },
     {
       "ID": "Easycomeeasygo",
@@ -48354,7 +48365,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 3206
+      "UsersEstimate": 3211
     },
     {
       "ID": "Kingofcups",
@@ -48394,7 +48405,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 4809
+      "UsersEstimate": 4817
     },
     {
       "ID": "UltimateSurvivor",
@@ -48410,7 +48421,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 8014
+      "UsersEstimate": 8028
     },
     {
       "ID": "HydraIsDead",
@@ -48418,7 +48429,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1284
     },
     {
       "ID": "IHateSpider",
@@ -48426,7 +48437,7 @@
       "Name": "Arachnophobia",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 8014
+      "UsersEstimate": 8028
     },
     {
       "ID": "KingOfTheCups",
@@ -48434,7 +48445,7 @@
       "Name": "King of Cups",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "KingOfThePentacles",
@@ -48442,15 +48453,15 @@
       "Name": "King of Pentacles",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1124
     },
     {
       "ID": "KingOfTheSwords",
       "SetID": "23nboa5",
       "Name": "King of Swords",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1284
     },
     {
       "ID": "KingOfTheWands",
@@ -48458,7 +48469,7 @@
       "Name": "King of Wands",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1606
     },
     {
       "ID": "TheTower",
@@ -48466,7 +48477,7 @@
       "Name": "The Tower",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1284
     },
     {
       "ID": "DirtyWork",
@@ -48474,7 +48485,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1606
     },
     {
       "ID": "EasyComeEasyGo",
@@ -48482,28 +48493,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3206
+      "UsersEstimate": 3211
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1031661,
+      "Progressed": 1031931,
       "Completed": 3041
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 160284,
+      "Progressed": 160554,
       "Completed": 10535
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-07T13:06:51.6545081+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:08:41.6000515+00:00",
+  "LastChanged": "2024-01-07T15:03:04.3828632+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:08:34.7994034+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:03.9603571+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:03:16.9860544+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:08:41.6002114+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:03:04.3828638+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:08:34.799602+00:00"
 }

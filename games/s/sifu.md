@@ -6,31 +6,31 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,826 |
-| Life is your teacher | 5.00% | ~37,826 |
-| The Assault | 4.00% | ~30,261 |
-| Lightning Hands | 4.00% | ~30,261 |
-| The Hateful Pole Fighter | 3.00% | ~22,696 |
-| Old Child | 3.00% | ~22,696 |
-| A Lady's Blood in the Snow | 2.00% | ~15,130 |
-| Lady Wing Chun | 2.00% | ~15,130 |
-| Kill Nil | 2.00% | ~15,130 |
-| Stuntmaster | 2.00% | ~15,130 |
-| Street Fighting | 2.00% | ~15,130 |
-| State of constant learning | 2.00% | ~15,130 |
-| Qi Gong: Breath | 2.00% | ~15,130 |
-| Qi Gong: Essence | 2.00% | ~15,130 |
-| I know Kung-Fu | 2.00% | ~15,130 |
-| Path of the Prospect | 2.00% | ~15,130 |
-| Rumble in the Hangar | 2.00% | ~15,130 |
-| Diligence as a goal | 2.00% | ~1,316 |
-| Furious Fists | 1.00% | ~7,565 |
-| Scareless | 1.00% | ~7,565 |
-| Dance of the Praying Mantis | 1.00% | ~7,565 |
-| Qi Gong: Mind | 1.00% | ~7,565 |
-| Kung-Fu Tussle | 1.00% | ~7,565 |
-| Take damage to save time | 1.00% | ~7,565 |
-| Project Arena | 1.00% | ~658 |
+| The Old Grandmaster | 6.00% | ~45,394 |
+| Life is your teacher | 5.00% | ~37,829 |
+| The Assault | 4.00% | ~30,263 |
+| Lightning Hands | 4.00% | ~30,263 |
+| The Hateful Pole Fighter | 3.00% | ~22,697 |
+| Old Child | 3.00% | ~22,697 |
+| A Lady's Blood in the Snow | 2.00% | ~15,131 |
+| Lady Wing Chun | 2.00% | ~15,131 |
+| Kill Nil | 2.00% | ~15,131 |
+| Stuntmaster | 2.00% | ~15,131 |
+| Street Fighting | 2.00% | ~15,131 |
+| State of constant learning | 2.00% | ~15,131 |
+| Qi Gong: Breath | 2.00% | ~15,131 |
+| Qi Gong: Essence | 2.00% | ~15,131 |
+| I know Kung-Fu | 2.00% | ~15,131 |
+| Path of the Prospect | 2.00% | ~15,131 |
+| Rumble in the Hangar | 2.00% | ~15,131 |
+| Diligence as a goal | 2.00% | ~1,317 |
+| Furious Fists | 1.00% | ~7,566 |
+| Scareless | 1.00% | ~7,566 |
+| Dance of the Praying Mantis | 1.00% | ~7,566 |
+| Qi Gong: Mind | 1.00% | ~7,566 |
+| Kung-Fu Tussle | 1.00% | ~7,566 |
+| Take damage to save time | 1.00% | ~7,566 |
+| Project Arena | 1.00% | ~659 |
 | Fight the way you practice | 0.80% | ~527 |
 | Muk Yan Master | 0.70% | ~5,296 |
 | Tiger on Fire | 0.60% | ~4,539 |
@@ -49,8 +49,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.30% | ~2,270 |
 | The Pit Protector | 0.30% | ~2,270 |
 | Come Snap With Me | 0.30% | ~2,270 |
-| Deadly Venom | 0.30% | ~197 |
-| A Touch of Acumen | 0.30% | ~197 |
+| Deadly Venom | 0.30% | ~198 |
+| A Touch of Acumen | 0.30% | ~198 |
 | Healing Memory | 0.20% | ~1,513 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,513 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,513 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~66 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756,518 (Ranked 25)  
+Progressed: 756,571 (Ranked 25)  
 Completed: 12,976 (1.72%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,20 +329,20 @@ Completed: 12,976 (1.72%) (Ranked 142)
 | 2024-01-04 | 753,906 | 12,974 |
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
-| 2024-01-07 | 756,518 | 12,976 |
+| 2024-01-07 | 756,571 | 12,976 |
 ## Awards
-Max (Great Boss Battles): 7,131  (Ranked 56)  
-Sum: 12,619 (Ranked 85)  
-Diff (max vs sum): -29  
+Max (Great Boss Battles): 7,148  (Ranked 55)  
+Sum: 12,638 (Ranked 85)  
+Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,131 |
+| This game has Great Boss Battles | 7,148 |
 | This game has Diverse Characters | 695 |
 | This game has Challenging Combat | 644 |
 | This game has Amazing Storytelling | 616 |
 | This game has Amazing Characters | 608 |
 | This game is Highly Recommended | 604 |
-| This game has Quickly Understood Controls | 595 |
+| This game has Quickly Understood Controls | 597 |
 | This game is Extremely Fun | 583 |
 | This game has Unique Visuals | 582 |
 | This game is Relaxing | 561 |
@@ -705,4 +705,4 @@ Diff (max vs sum): -29
 | 2024-01-04 | 4.82 | - | 7,102 | 12,005 |
 | 2024-01-05 | 4.82 | - | 7,120 | 12,030 |
 | 2024-01-06 | 4.82 | - | 7,131 | 12,615 |
-| 2024-01-07 | 4.82 | - | 7,131 | 12,619 |
+| 2024-01-07 | 4.82 | - | 7,148 | 12,638 |

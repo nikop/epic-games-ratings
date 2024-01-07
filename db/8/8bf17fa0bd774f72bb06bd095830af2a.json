@@ -3,8 +3,8 @@
   "Name": "The Dragoness Command Of The Flame",
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 567,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 503,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 502,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -385,17 +385,17 @@
       "ID": "SteamAchievment_CompleteOneChallenge",
       "SetID": "b8gj0ip",
       "Name": "First One",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SteamAchievment_CompleteQuest02",
       "SetID": "b8gj0ip",
       "Name": "Defender of the Forced Gates",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SteamAchievment_CompleteQuest03",
@@ -552,8 +552,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:05:07.7509455+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:04:59.8952081+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0644796+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:00:07.1105615+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:05:07.7509899+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:00:14.9496682+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:04:59.8952517+00:00"
 }

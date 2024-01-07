@@ -1016,7 +1016,7 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 29069,
+  "EOS_Progressed": 29070,
   "EOS_Completed": 1422,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 4,
@@ -8926,6 +8926,11 @@
       "Time": "2024-01-07T14:09:47.6835886+00:00",
       "NumProgressed": 29069,
       "NumCompleted": 1422
+    },
+    {
+      "Time": "2024-01-07T15:09:43.8886382+00:00",
+      "NumProgressed": 29070,
+      "NumCompleted": 1422
     }
   ],
   "TotalAchievements": 30,
@@ -8937,7 +8942,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 13081
+      "UsersEstimate": 13082
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -8953,7 +8958,7 @@
       "Name": "Film Buff",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 11046
+      "UsersEstimate": 11047
     },
     {
       "ID": "ACH_BALL_TRIP",
@@ -9001,7 +9006,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22383
+      "UsersEstimate": 22384
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -9017,7 +9022,7 @@
       "Name": "Combo Meal",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 11046
+      "UsersEstimate": 11047
     },
     {
       "ID": "ACH_DONATE",
@@ -9033,7 +9038,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 28197
+      "UsersEstimate": 28198
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -9073,7 +9078,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17732
+      "UsersEstimate": 17733
     },
     {
       "ID": "ACH_LAUNCH",
@@ -9129,7 +9134,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 27034
+      "UsersEstimate": 27035
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -9137,7 +9142,7 @@
       "Name": "Perf Dirt",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16569
+      "UsersEstimate": 16570
     },
     {
       "ID": "ACH_SUNDAE",
@@ -9169,22 +9174,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25290
+      "UsersEstimate": 25291
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 29069,
+      "Progressed": 29070,
       "Completed": 1422
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2024-01-06T21:58:39.973856+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:47.6835837+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:09:43.8886378+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:12.4963151+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:58:02.3512111+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:47.6836499+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:58:06.6159786+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:09:43.888681+00:00"
 }

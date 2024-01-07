@@ -5,42 +5,42 @@ Rating: 4.73 (Ranked 176)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~15,784 |
-| I Challenge You To Save More Money! | 80.00% | ~14,349 |
-| I Love How Tough You Are | 65.00% | ~11,658 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~10,403 |
-| What I Want Is You | 53.00% | ~9,506 |
-| To Be Or Not To Be | 50.00% | ~8,968 |
-| Are You Alright? | 47.00% | ~8,430 |
-| Love Actually | 41.00% | ~7,354 |
-| Drama King | 36.00% | ~6,457 |
-| Go Clean up In Your Own Way | 33.00% | ~5,919 |
-| You're Really Something Else | 32.00% | ~5,740 |
-| Drama CP: Reel to Real | 31.00% | ~5,560 |
-| Happy Family | 30.00% | ~5,381 |
-| FIRST LOVE | 30.00% | ~5,381 |
-| Worthless Speech | 30.00% | ~5,381 |
-| Absolutely Elegant | 28.00% | ~5,022 |
-| ONE PUNCH | 28.00% | ~5,022 |
-| Still Single | 27.00% | ~4,843 |
-| Days Of Innocence | 26.00% | ~4,663 |
-| David | 26.00% | ~4,663 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,484 |
-| All I Have Is Money | 21.00% | ~3,767 |
-| Lover In Dark Alley | 21.00% | ~3,767 |
-| A Slap In The Face! | 21.00% | ~3,767 |
-| That's So You | 21.00% | ~3,767 |
-| SALUTE | 21.00% | ~3,767 |
-| Let Me Be Your Toy Boy | 20.00% | ~3,587 |
-| Off We Sail Tonight | 15.00% | ~2,690 |
-| Love You Three Thousand | 13.00% | ~2,332 |
-| Can You Do This Or Not? | 13.00% | ~2,332 |
-| Doesn't Matter I'll Handle It | 11.00% | ~1,973 |
-| The Flash | 10.00% | ~1,794 |
-| New Yoga Pose Unlocked | 10.00% | ~1,794 |
-| My Dear Love! | 8.00% | ~1,435 |
-| Counting Sheep? | 8.00% | ~1,435 |
-| This Ain't Right In Many Ways... | 8.00% | ~1,435 |
+| Last Night...Did We... | 88.00% | ~15,795 |
+| I Challenge You To Save More Money! | 81.00% | ~14,539 |
+| I Love How Tough You Are | 65.00% | ~11,667 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~10,410 |
+| What I Want Is You | 53.00% | ~9,513 |
+| To Be Or Not To Be | 50.00% | ~8,974 |
+| Are You Alright? | 47.00% | ~8,436 |
+| Love Actually | 41.00% | ~7,359 |
+| Drama King | 36.00% | ~6,462 |
+| Go Clean up In Your Own Way | 33.00% | ~5,923 |
+| You're Really Something Else | 32.00% | ~5,744 |
+| Drama CP: Reel to Real | 31.00% | ~5,564 |
+| Happy Family | 30.00% | ~5,385 |
+| FIRST LOVE | 30.00% | ~5,385 |
+| Worthless Speech | 30.00% | ~5,385 |
+| Absolutely Elegant | 28.00% | ~5,026 |
+| Still Single | 28.00% | ~5,026 |
+| ONE PUNCH | 28.00% | ~5,026 |
+| Days Of Innocence | 26.00% | ~4,667 |
+| David | 26.00% | ~4,667 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,487 |
+| All I Have Is Money | 21.00% | ~3,769 |
+| Lover In Dark Alley | 21.00% | ~3,769 |
+| A Slap In The Face! | 21.00% | ~3,769 |
+| That's So You | 21.00% | ~3,769 |
+| SALUTE | 21.00% | ~3,769 |
+| Let Me Be Your Toy Boy | 20.00% | ~3,590 |
+| Off We Sail Tonight | 15.00% | ~2,692 |
+| Love You Three Thousand | 13.00% | ~2,333 |
+| Can You Do This Or Not? | 13.00% | ~2,333 |
+| Doesn't Matter I'll Handle It | 11.00% | ~1,974 |
+| The Flash | 10.00% | ~1,795 |
+| New Yoga Pose Unlocked | 10.00% | ~1,795 |
+| My Dear Love! | 8.00% | ~1,436 |
+| Counting Sheep? | 8.00% | ~1,436 |
+| This Ain't Right In Many Ways... | 8.00% | ~1,436 |
 | Life Is A Rollercoaster | 7.00% | ~1,256 |
 | Boys Need To Protect Themselves | 7.00% | ~1,256 |
 | Stubborn Noob | 7.00% | ~1,256 |
@@ -48,7 +48,7 @@ Rating: 4.73 (Ranked 176)
 | Tall; Grande; Venti | 2.00% | ~359 |
 | Limerence | 2.00% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,936 (Ranked 160)  
+Progressed: 17,949 (Ranked 160)  
 Completed: 304 (1.69%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,11 +140,11 @@ Completed: 304 (1.69%) (Ranked 143)
 | 2024-01-04 | 17,557 | 292 |
 | 2024-01-05 | 17,696 | 295 |
 | 2024-01-06 | 17,831 | 302 |
-| 2024-01-07 | 17,936 | 304 |
+| 2024-01-07 | 17,949 | 304 |
 ## Awards
 Max (Impact the Story): 34  (Ranked 508)  
-Sum: 34 (Ranked 534)  
-Diff (max vs sum): -26  
+Sum: 34 (Ranked 535)  
+Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 34 |

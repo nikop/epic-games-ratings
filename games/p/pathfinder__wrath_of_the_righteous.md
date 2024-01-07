@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,541 |
+| Devoured by Darkness | 27.00% | ~3,542 |
 | Burning City | 19.00% | ~2,492 |
 | A Spark | 19.00% | ~2,492 |
-| Defender's Heart | 16.00% | ~2,098 |
-| Mythic Choices | 15.00% | ~1,967 |
+| Defender's Heart | 16.00% | ~2,099 |
+| Mythic Choices | 15.00% | ~1,968 |
 | Banner over the Citadel | 14.00% | ~1,836 |
 | Queen's Gratitude | 13.00% | ~1,705 |
-| Fifth Crusade | 9.00% | ~1,180 |
+| Fifth Crusade | 9.00% | ~1,181 |
 | Embrace of the Abyss | 7.00% | ~918 |
 | Path of the Angel | 7.00% | ~918 |
 | Demonic and Divine | 7.00% | ~918 |
@@ -30,11 +30,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 4.00% | ~525 |
 | A Flame | 4.00% | ~525 |
 | Hey, I Know You! | 4.00% | ~525 |
-| Path of the Trickster | 3.00% | ~393 |
-| Path of the Lich | 3.00% | ~393 |
-| Heroic Victory | 3.00% | ~393 |
-| Capitulation Is Now Moot | 3.00% | ~393 |
-| Core of the Riddle | 3.00% | ~393 |
+| Path of the Trickster | 3.00% | ~394 |
+| Path of the Lich | 3.00% | ~394 |
+| Heroic Victory | 3.00% | ~394 |
+| Capitulation Is Now Moot | 3.00% | ~394 |
+| Core of the Riddle | 3.00% | ~394 |
 | Hanged Man's Notes | 3.00% | ~357 |
 | Sarkoris Will Be Green | 3.00% | ~357 |
 | The Lady of the Forest | 3.00% | ~357 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,115 (Ranked 176)  
-Completed: 0 (0.00%) (Ranked 393)  
+Progressed: 13,117 (Ranked 176)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -385,7 +385,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 13,029 | 0 |
 | 2024-01-05 | 13,058 | 0 |
 | 2024-01-06 | 13,092 | 0 |
-| 2024-01-07 | 13,115 | 0 |
+| 2024-01-07 | 13,117 | 0 |
 ## Awards
 Max (Character Customization): 1,778  (Ranked 129)  
 Sum: 7,202 (Ranked 126)  

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 29.00% | ~126 |
+| Brace for impact! | 30.00% | ~131 |
 | Baby's First Car | 28.00% | ~122 |
 | A Forest Walk | 28.00% | ~122 |
-| Amateur Mechanic | 27.00% | ~117 |
-| Pushover | 27.00% | ~117 |
+| Amateur Mechanic | 27.00% | ~118 |
+| Pushover | 27.00% | ~118 |
+| C-C-C-Combo! | 25.00% | ~109 |
 | Multiply that! | 25.00% | ~109 |
-| C-C-C-Combo! | 24.00% | ~104 |
 | Fore! | 22.00% | ~96 |
 | The Collector | 22.00% | ~96 |
 | Insurance fraud | 22.00% | ~96 |
 | The Wild West | 22.00% | ~96 |
 | Snow Fun! | 22.00% | ~96 |
+| Bag of Tricks | 22.00% | ~96 |
 | You're it | 22.00% | ~96 |
-| To and Fro | 21.00% | ~91 |
-| Bag of Tricks | 21.00% | ~91 |
-| I see the light! | 21.00% | ~91 |
-| In the Bag! | 21.00% | ~91 |
+| To and Fro | 21.00% | ~92 |
+| I see the light! | 21.00% | ~92 |
+| In the Bag! | 21.00% | ~92 |
 | Car-Tapult | 20.00% | ~87 |
-| First Come, First Serve | 20.00% | ~87 |
 | Goodbye cruel world | 20.00% | ~87 |
-| Beach Party! | 20.00% | ~87 |
+| First Come, First Serve | 19.00% | ~83 |
 | Disoriented | 19.00% | ~83 |
 | Anger Issues | 19.00% | ~83 |
 | Take that Frosty! | 19.00% | ~83 |
 | Your Highness | 19.00% | ~83 |
+| Beach Party! | 19.00% | ~83 |
 | Event Amateur | 17.00% | ~74 |
 | Feeling Hot Hot Hot! | 16.00% | ~70 |
 | Feeling Dizzy? | 16.00% | ~70 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435 (Ranked 360)  
+Progressed: 436 (Ranked 360)  
 Completed: 2 (0.46%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 2 (0.46%) (Ranked 228)
 | 2024-01-04 | 433 | 2 |
 | 2024-01-05 | 434 | 2 |
 | 2024-01-06 | 435 | 2 |
+| 2024-01-07 | 436 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,11 +5,11 @@ Rating: 4.38 (Ranked 790)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~673 |
+| Travel Streamer | 93.00% | ~680 |
 | Training Simulation | 79.00% | ~577 |
 | Kuku Bird Hunter | 65.00% | ~475 |
 | Storm Traveller | 60.00% | ~439 |
-| Wolf King Killer | 54.00% | ~395 |
+| Wolf King Killer | 55.00% | ~402 |
 | Fashion Connoisseur | 52.00% | ~380 |
 | Arms Mechanic | 49.00% | ~358 |
 | Flower Thief | 44.00% | ~322 |

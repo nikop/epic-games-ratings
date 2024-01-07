@@ -1,25 +1,25 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.51 (Ranked 590)  
+Rating: 4.51 (Ranked 589)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,507 |
-| Jeef Skeejj | 44.00% | ~208,338 |
-| Careful planning | 39.00% | ~184,663 |
-| Second Coming | 34.00% | ~160,989 |
-| Jeef Skagg | 30.00% | ~142,049 |
-| Mother | 25.00% | ~118,374 |
-| In space, no one can hear you scream | 24.00% | ~113,639 |
-| Chapter I: Echoes | 22.00% | ~104,169 |
-| Excelsior Rule | 22.00% | ~104,169 |
-| Things persisted in not being what they seemed | 20.00% | ~94,699 |
-| Knightmare Frames | 15.00% | ~71,024 |
-| May His passing cleanse the world | 15.00% | ~71,024 |
-| Chapter II: Fallible Flesh | 15.00% | ~71,024 |
-| Pope Zenon | 15.00% | ~71,024 |
+| The Shutdown | 66.00% | ~312,511 |
+| Jeef Skeejj | 44.00% | ~208,340 |
+| Careful planning | 39.00% | ~184,665 |
+| Second Coming | 34.00% | ~160,990 |
+| Jeef Skagg | 30.00% | ~142,050 |
+| Mother | 25.00% | ~118,375 |
+| In space, no one can hear you scream | 24.00% | ~113,640 |
+| Chapter I: Echoes | 22.00% | ~104,170 |
+| Excelsior Rule | 22.00% | ~104,170 |
+| Things persisted in not being what they seemed | 20.00% | ~94,700 |
+| Knightmare Frames | 15.00% | ~71,025 |
+| May His passing cleanse the world | 15.00% | ~71,025 |
+| Chapter II: Fallible Flesh | 15.00% | ~71,025 |
+| Pope Zenon | 15.00% | ~71,025 |
 | Plan for the worst | 12.00% | ~56,820 |
 | Tetsuo | 11.00% | ~52,085 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,350 |
@@ -56,25 +56,25 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,735 |
 | A Frozen Lady | 1.00% | ~4,735 |
 | Void Rule | 1.00% | ~4,735 |
-| Excelsior Mastery | 0.90% | ~4,261 |
+| Excelsior Mastery | 0.90% | ~4,262 |
 | Hand of the Emperor | 0.70% | ~122 |
-| The greatest admiral of all time | 0.50% | ~2,367 |
+| The greatest admiral of all time | 0.50% | ~2,368 |
 | Soldiers of Fortune | 0.40% | ~70 |
 | The Extractor | 0.20% | ~35 |
 | The Executioner | 0.20% | ~35 |
-| Liberator | 0.10% | ~473 |
-| The Art of War | 0.10% | ~473 |
-| Geno Mastery | 0.10% | ~473 |
-| Geno Supremacy | 0.10% | ~473 |
-| Jericho Mastery | 0.10% | ~473 |
-| Jericho Supremacy | 0.10% | ~473 |
-| Hammer Mastery | 0.10% | ~473 |
-| Hammer Supremacy | 0.10% | ~473 |
-| Void Mastery | 0.10% | ~473 |
-| Void Supremacy | 0.10% | ~473 |
-| Kaos Mastery | 0.10% | ~473 |
-| Kaos Supremacy | 0.10% | ~473 |
-| Excelsior Supremacy | 0.10% | ~473 |
+| Liberator | 0.10% | ~474 |
+| The Art of War | 0.10% | ~474 |
+| Geno Mastery | 0.10% | ~474 |
+| Geno Supremacy | 0.10% | ~474 |
+| Jericho Mastery | 0.10% | ~474 |
+| Jericho Supremacy | 0.10% | ~474 |
+| Hammer Mastery | 0.10% | ~474 |
+| Hammer Supremacy | 0.10% | ~474 |
+| Void Mastery | 0.10% | ~474 |
+| Void Supremacy | 0.10% | ~474 |
+| Kaos Mastery | 0.10% | ~474 |
+| Kaos Supremacy | 0.10% | ~474 |
+| Excelsior Supremacy | 0.10% | ~474 |
 | The Blade | 0.10% | ~17 |
 | The Ghost | 0.10% | ~17 |
 | Savior | 0.10% | ~17 |
@@ -86,8 +86,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,496 (Ranked 45)  
-Completed: 21 (0.00%) (Ranked 393)  
+Progressed: 473,501 (Ranked 45)  
+Completed: 21 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -348,7 +348,7 @@ Completed: 21 (0.00%) (Ranked 393)
 | 2024-01-04 | 473,369 | 21 |
 | 2024-01-05 | 473,412 | 21 |
 | 2024-01-06 | 473,472 | 21 |
-| 2024-01-07 | 473,496 | 21 |
+| 2024-01-07 | 473,501 | 21 |
 ## Awards
 Max (Character Customization): 229  (Ranked 285)  
 Sum: 253 (Ranked 397)  

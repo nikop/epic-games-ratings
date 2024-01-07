@@ -20,6 +20,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 1.00% | ~162 |
 | Oracle | 1.00% | ~162 |
 | Trade Caravan | 1.00% | ~162 |
+| Glorious | 0.90% | ~146 |
 | Just | 0.90% | ~146 |
 | Keystone | 0.90% | ~146 |
 | Learned | 0.90% | ~146 |
@@ -31,13 +32,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.80% | ~130 |
 | Brilliant | 0.80% | ~130 |
 | Enlightened | 0.80% | ~130 |
-| Glorious | 0.80% | ~130 |
+| Fountainhead | 0.80% | ~130 |
 | Warrior | 0.80% | ~130 |
 | Strong Cities | 0.80% | ~130 |
 | Learn to Play 1 | 0.80% | ~130 |
 | Babylonian Paganism | 0.80% | ~130 |
 | Greek Paganism | 0.80% | ~130 |
-| Fountainhead | 0.70% | ~113 |
 | Magnificent | 0.70% | ~113 |
 | Great Ziggurat | 0.70% | ~113 |
 | Ishtar Gate | 0.70% | ~113 |
@@ -46,6 +46,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.70% | ~113 |
 | Zoroastrianism | 0.70% | ~113 |
 | Regicide | 0.60% | ~97 |
+| Great | 0.60% | ~97 |
 | Wise | 0.60% | ~97 |
 | Able Difficulty | 0.60% | ~97 |
 | Furious Family | 0.60% | ~97 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.60% | ~97 |
 | Beloved | 0.50% | ~81 |
 | Drillmaster | 0.50% | ~81 |
-| Great | 0.50% | ~81 |
 | Intercessor | 0.50% | ~81 |
 | Valiant | 0.50% | ~81 |
 | Legendary Cities | 0.50% | ~81 |
@@ -71,6 +71,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.40% | ~65 |
 | Artisans | 0.40% | ~65 |
 | Champions | 0.40% | ~65 |
+| Patrons | 0.40% | ~65 |
 | Sages | 0.40% | ~65 |
 | Statesmen | 0.40% | ~65 |
 | Learn to Play 3 | 0.40% | ~65 |
@@ -87,7 +88,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.30% | ~49 |
 | Victorious | 0.30% | ~49 |
 | Landowners | 0.30% | ~49 |
-| Patrons | 0.30% | ~49 |
 | Riders | 0.30% | ~49 |
 | Traders | 0.30% | ~49 |
 | Hittite Iron | 0.30% | ~49 |
@@ -107,6 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.30% | ~49 |
 | Cimmerian Archer | 0.30% | ~49 |
 | Legionary | 0.30% | ~49 |
+| Phalangite | 0.30% | ~49 |
 | Double Victory | 0.30% | ~49 |
 | The Clergy | 0.30% | ~49 |
 | Ishtar Gate in Babylon | 0.20% | ~32 |
@@ -119,6 +120,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.20% | ~32 |
 | Hunters | 0.20% | ~32 |
 | Church of the Holy Sepulchre | 0.20% | ~32 |
+| Cao'an | 0.20% | ~32 |
 | Adur Burzen-Mihr | 0.20% | ~32 |
 | Learn to Play 4 | 0.20% | ~32 |
 | Babylonia | 0.20% | ~32 |
@@ -132,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.20% | ~32 |
 | Cataphract Archer | 0.20% | ~32 |
 | Kushite Cavalry | 0.20% | ~32 |
-| Phalangite | 0.20% | ~32 |
 | Siege Tower | 0.20% | ~32 |
 | Turreted Elephant | 0.20% | ~32 |
 | All Nations | 0.20% | ~32 |
@@ -218,7 +219,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.10% | ~16 |
 | Mausoleum in Halicarnassus | 0.10% | ~16 |
 | Hardcore | 0.10% | ~16 |
-| Cao'an | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
 | Learn to Play 5 | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,189 (Ranked 168)  
+Progressed: 16,190 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
-| 2024-01-07 | 16,189 | 5 |
+| 2024-01-07 | 16,190 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 222)  

@@ -3,11 +3,11 @@
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
   "ProductSlug": "rollercoaster-tycoon-3-complete-edition",
   "Ranking_Rating": 319,
-  "Ranking_Popularity": 436,
+  "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-09-24T15:00:00+00:00",
@@ -1220,11 +1220,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 462,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2024-01-07T14:57:19.7681661+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 463,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 462,
-  "NumberOfAwardsMax": 57,
+  "NumberOfAwards": 463,
+  "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1243,7 +1249,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1311,8 +1317,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2024-01-06T21:00:23.257965+00:00",
+  "LastChanged": "2024-01-07T14:57:19.768166+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:53.6626468+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:57:15.5837783+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:04:38.3778024+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:57:19.7681665+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:04:29.394412+00:00"
 }

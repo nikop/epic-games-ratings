@@ -2,12 +2,12 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5803,
+  "EOS_Progressed": 5807,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5274,6 +5274,11 @@
       "Time": "2024-01-07T12:06:03.2931959+00:00",
       "NumProgressed": 5803,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T15:06:15.9020924+00:00",
+      "NumProgressed": 5807,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5341,7 +5346,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "ach_campaign_progress10",
@@ -5397,7 +5402,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2845
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5405,7 +5410,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ach_campaign_progress7",
@@ -5437,7 +5442,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "ach_campaign_special10",
@@ -5669,7 +5674,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ach_frp_many_products2",
@@ -5892,15 +5897,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5803,
+      "Progressed": 5807,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:06:20.813276+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:06:15.902092+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.9486343+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:59:15.783809+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:06:20.8133899+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:59:21.1029257+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:06:15.902181+00:00"
 }

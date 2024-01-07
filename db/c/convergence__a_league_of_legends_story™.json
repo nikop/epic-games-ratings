@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1260,
+  "EOS_Progressed": 1261,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3748,6 +3748,11 @@
       "Time": "2024-01-07T06:10:44.2511737+00:00",
       "NumProgressed": 1260,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T15:10:02.5861646+00:00",
+      "NumProgressed": 1261,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3855,7 +3860,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "FactorywoodChests1",
@@ -3919,7 +3924,7 @@
       "Name": "Rail Rat",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "HexlockGift",
@@ -3943,7 +3948,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "LacunaCompleted",
@@ -4045,9 +4050,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 580
     },
     {
       "ID": "RewindParry",
@@ -4087,7 +4092,7 @@
       "Name": "Fast Learner",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "SpeedRun",
@@ -4133,9 +4138,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 366
     },
     {
       "ID": "WarwickDefeated",
@@ -4182,7 +4187,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1260,
+      "Progressed": 1261,
       "Completed": 7
     }
   ],
@@ -4190,8 +4195,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:10:06.0217258+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:10:02.586164+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:58:09.4871699+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:10:06.0217923+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:58:13.8549875+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:10:02.5862111+00:00"
 }

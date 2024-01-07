@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.49 (Ranked 634)  
+Rating: 4.49 (Ranked 633)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,8 +37,8 @@ Number of Ratings: 67  (23.09.2022)
 | Ready to Blow | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494 (Ranked 351)  
-Completed: 0 (0.00%) (Ranked 393)  
+Progressed: 496 (Ranked 349)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,7 +62,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 417 | 0 |
 | 2024-01-05 | 437 | 0 |
 | 2024-01-06 | 471 | 0 |
-| 2024-01-07 | 494 | 0 |
+| 2024-01-07 | 496 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 469)  
 Sum: 45 (Ranked 516)  

@@ -1,25 +1,25 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.55 (Ranked 527)  
+Rating: 4.55 (Ranked 526)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 86.00% | ~446 |
-| And again, and again, and... | 63.00% | ~327 |
+| Huzza, he's back. | 85.00% | ~442 |
+| And again, and again, and... | 63.00% | ~328 |
 | Kuvaq Minigame-Master | 61.00% | ~317 |
 | Burn, Elysium, burn! | 61.00% | ~317 |
-| FunScore | 54.00% | ~280 |
+| FunScore | 54.00% | ~281 |
 | Funtime's over | 52.00% | ~270 |
-| Chunky | 49.00% | ~254 |
-| Boat of love, boat of love | 48.00% | ~249 |
+| Chunky | 49.00% | ~255 |
+| Boat of love, boat of love | 48.00% | ~250 |
 | Shall we play a game? | 47.00% | ~244 |
-| School's out | 43.00% | ~223 |
+| School's out | 43.00% | ~224 |
 | Sole Music | 36.00% | ~187 |
 | Scaffolding Expert | 36.00% | ~187 |
 | Elysian Minigame-Master | 36.00% | ~187 |
 | Portals come in packs | 29.00% | ~151 |
-| No man left behind! | 28.00% | ~145 |
+| No man left behind! | 28.00% | ~146 |
 | Photo Friend | 25.00% | ~130 |
 | Brainfreeze | 20.00% | ~104 |
 | Masseltov | 19.00% | ~99 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 527)
 | Every man for himself! | 5.00% | ~26 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519 (Ranked 342)  
+Progressed: 520 (Ranked 342)  
 Completed: 7 (1.35%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 7 (1.35%) (Ranked 152)
 | 2024-01-04 | 513 | 7 |
 | 2024-01-05 | 514 | 7 |
 | 2024-01-06 | 518 | 7 |
-| 2024-01-07 | 519 | 7 |
+| 2024-01-07 | 520 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

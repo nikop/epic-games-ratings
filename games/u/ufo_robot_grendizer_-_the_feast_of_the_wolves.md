@@ -10,8 +10,8 @@
 | Strength in Defeat | 44.00% | ~31 |
 | Escape from Fleed | 43.00% | ~30 |
 | First Contact | 40.00% | ~28 |
-| The Exterminator | 20.00% | ~14 |
-| Earth's Savior | 17.00% | ~12 |
+| The Exterminator | 21.00% | ~15 |
+| Earth's Savior | 19.00% | ~13 |
 | Technology first! | 16.00% | ~11 |
 | The Keeper of Fleed | 11.00% | ~8 |
 | The Collector | 10.00% | ~7 |
@@ -36,7 +36,7 @@
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 70 (Ranked 523)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

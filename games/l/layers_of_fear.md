@@ -28,9 +28,9 @@
 | First steps | 9.00% | ~26 |
 | The tragedy unfolds | 9.00% | ~26 |
 | Breaking free | 8.00% | ~23 |
+| Heavy Burden | 7.00% | ~20 |
 | True Reflection | 7.00% | ~20 |
 | Casting Finished | 6.00% | ~17 |
-| Heavy Burden | 6.00% | ~17 |
 | Instinct of self-preservation | 6.00% | ~17 |
 | Fisherman | 6.00% | ~17 |
 | Something to think about | 4.00% | ~12 |
@@ -57,8 +57,8 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291 (Ranked 400)  
-Completed: 0 (0.00%) (Ranked 393)  
+Progressed: 291 (Ranked 401)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

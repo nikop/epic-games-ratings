@@ -22,8 +22,8 @@
 | Redecorating | 32.00% | ~40 |
 | Bad JuJu | 25.00% | ~31 |
 | Friend of Sevenkeeps | 22.00% | ~27 |
+| Castle Meldec | 21.00% | ~26 |
 | Slave to the rhythm | 20.00% | ~25 |
-| Castle Meldec | 20.00% | ~25 |
 | Sevenkeeps Seat of Kings | 19.00% | ~24 |
 | Friend of Alluvyan | 16.00% | ~20 |
 | Friend of Gillyshire | 15.00% | ~19 |
@@ -42,8 +42,8 @@
 | Defeat Gor | 9.00% | ~11 |
 | Defeat Uram | 9.00% | ~11 |
 | Yngrid's Tale | 9.00% | ~11 |
+| Tuscari Sea Portal | 9.00% | ~11 |
 | The Forge of Regan Gor | 8.00% | ~10 |
-| Tuscari Sea Portal | 8.00% | ~10 |
 | Friend of Uram Gor | 8.00% | ~10 |
 | A Joke | 8.00% | ~10 |
 | Crypt of the Revenant | 7.00% | ~9 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 124 (Ranked 475)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

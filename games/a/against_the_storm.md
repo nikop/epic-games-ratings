@@ -17,23 +17,23 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 6.00% | ~1,223 |
 | The Scarlet Orchard | 6.00% | ~1,223 |
 | Gathering Storm | 6.00% | ~1,223 |
-| Frosts | 5.00% | ~1,019 |
-| Land of Greed | 5.00% | ~1,019 |
-| Ominous Presence | 5.00% | ~1,019 |
-| Homesick | 4.00% | ~815 |
-| Fertile Meadows | 4.00% | ~815 |
-| Royal Outpost | 4.00% | ~815 |
-| Watchtower | 4.00% | ~815 |
-| Ruined Armory | 3.00% | ~611 |
-| Levitating Monument | 3.00% | ~611 |
-| Monastery of the Holy Flame | 3.00% | ~611 |
-| Lost Colonies | 3.00% | ~611 |
-| Statue of the Forefathers | 3.00% | ~611 |
-| Corrosive Torrent | 3.00% | ~611 |
-| Cursed Lands | 3.00% | ~611 |
-| A Real Challenge | 3.00% | ~611 |
-| Trade Baron | 3.00% | ~611 |
-| Untamed Wilds | 3.00% | ~611 |
+| Frosts | 5.00% | ~1,020 |
+| Land of Greed | 5.00% | ~1,020 |
+| Ominous Presence | 5.00% | ~1,020 |
+| Homesick | 4.00% | ~816 |
+| Fertile Meadows | 4.00% | ~816 |
+| Royal Outpost | 4.00% | ~816 |
+| Watchtower | 4.00% | ~816 |
+| Ruined Armory | 3.00% | ~612 |
+| Levitating Monument | 3.00% | ~612 |
+| Monastery of the Holy Flame | 3.00% | ~612 |
+| Lost Colonies | 3.00% | ~612 |
+| Statue of the Forefathers | 3.00% | ~612 |
+| Corrosive Torrent | 3.00% | ~612 |
+| Cursed Lands | 3.00% | ~612 |
+| A Real Challenge | 3.00% | ~612 |
+| Trade Baron | 3.00% | ~612 |
+| Untamed Wilds | 3.00% | ~612 |
 | Against All Odds | 2.00% | ~408 |
 | Bandit Camp | 2.00% | ~408 |
 | Barren Lands | 2.00% | ~408 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,383 (Ranked 154)  
+Progressed: 20,391 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,15 +328,15 @@ Completed: 34 (0.17%) (Ranked 281)
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
-| 2024-01-07 | 20,383 | 34 |
+| 2024-01-07 | 20,391 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 232)  
-Sum: 3,345 (Ranked 177)  
+Sum: 3,347 (Ranked 177)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 449 |
-| This game is Relaxing | 446 |
+| This game is Relaxing | 448 |
 | This game is Great for Beginners | 442 |
 | This game is Extremely Fun | 418 |
 | This game is Highly Recommended | 403 |
@@ -625,4 +625,4 @@ Diff (max vs sum): 55
 | 2024-01-04 | 4.82 | - | 448 | 3,331 |
 | 2024-01-05 | 4.82 | - | 448 | 3,337 |
 | 2024-01-06 | 4.82 | - | 449 | 3,344 |
-| 2024-01-07 | 4.82 | - | 449 | 3,345 |
+| 2024-01-07 | 4.82 | - | 449 | 3,347 |

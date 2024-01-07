@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 436,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -734,6 +734,11 @@
       "Time": "2024-01-06T14:09:09.9492095+00:00",
       "NumProgressed": 435,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T15:08:59.9513388+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -743,9 +748,9 @@
       "ID": "AIRTIME_6_SEC",
       "SetID": "20koof9",
       "Name": "Brace for impact!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -855,9 +860,9 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 83
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -865,7 +870,7 @@
       "Name": "To and Fro",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -897,7 +902,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -911,9 +916,9 @@
       "ID": "HIGH_COMBO_SCORE",
       "SetID": "20koof9",
       "Name": "C-C-C-Combo!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 109
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -929,7 +934,7 @@
       "Name": "Pushover",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "HIT_ALIEN",
@@ -1063,9 +1068,9 @@
       "ID": "STUNT_EVENT",
       "SetID": "20koof9",
       "Name": "Bag of Tricks",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -1105,7 +1110,7 @@
       "Name": "I see the light!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -1135,9 +1140,9 @@
       "ID": "WIN_BALL",
       "SetID": "20koof9",
       "Name": "Beach Party!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 83
     },
     {
       "ID": "WIN_KING_HILL",
@@ -1161,7 +1166,7 @@
       "Name": "In the Bag!",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -1184,7 +1189,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 436,
       "Completed": 2
     }
   ],
@@ -1192,8 +1197,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:05.7174173+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:08:59.9513383+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.7276885+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:00:24.93272+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:05.717457+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:00:33.3839456+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:08:59.9513732+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,7 +415,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1664,
+  "EOS_Progressed": 1665,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -4355,6 +4355,11 @@
       "Time": "2024-01-07T12:09:51.876276+00:00",
       "NumProgressed": 1664,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T15:09:54.030146+00:00",
+      "NumProgressed": 1665,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4422,7 +4427,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "EXPERT_1",
@@ -4638,7 +4643,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "WISHMASTER_1",
@@ -4653,15 +4658,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1664,
+      "Progressed": 1665,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:57.6477502+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:09:54.0301455+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:58:48.4766345+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:57.6477983+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:58:53.060251+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:09:54.0301802+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 21.00% | ~170 |
-| Sponge Smasher | 21.00% | ~170 |
-| Jellyfish Jam | 20.00% | ~162 |
+| Spatula Seeker | 21.00% | ~171 |
+| Sponge Smasher | 21.00% | ~171 |
+| Jellyfish Jam | 20.00% | ~163 |
 | Jellyfishing | 16.00% | ~130 |
-| Sweet Victory | 12.00% | ~97 |
-| Sock Getter | 12.00% | ~97 |
-| Time For Tutorial | 12.00% | ~97 |
+| Sweet Victory | 12.00% | ~98 |
+| Sock Getter | 12.00% | ~98 |
+| Time For Tutorial | 12.00% | ~98 |
 | Uptown and Downtown | 10.00% | ~81 |
 | Super Spatula Seeker | 10.00% | ~81 |
 | Star Smasher | 10.00% | ~81 |
@@ -28,19 +28,19 @@ Number of Ratings: 76  (23.09.2022)
 | Hello, Bikini Bottom | 6.00% | ~49 |
 | Ultra Spatula Seeker | 6.00% | ~49 |
 | Ship Shape | 5.00% | ~41 |
-| The Small Does Not Rule | 4.00% | ~32 |
-| Shanghaied | 4.00% | ~32 |
-| Kelp Forest of Fear | 4.00% | ~32 |
-| SpongeBob vs SpongeBob! | 4.00% | ~32 |
-| Sleepy Time | 4.00% | ~32 |
-| Sock Concert | 4.00% | ~32 |
+| The Small Does Not Rule | 4.00% | ~33 |
+| Shanghaied | 4.00% | ~33 |
+| Kelp Forest of Fear | 4.00% | ~33 |
+| SpongeBob vs SpongeBob! | 4.00% | ~33 |
+| Sleepy Time | 4.00% | ~33 |
+| Sock Concert | 4.00% | ~33 |
 | Mega Spatula Seeker | 3.00% | ~24 |
 | 100% SpongeBob | 1.00% | ~8 |
 | Sock Opera | 1.00% | ~8 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 811 (Ranked 308)  
-Completed: 7 (0.86%) (Ranked 186)  
+Progressed: 813 (Ranked 308)  
+Completed: 7 (0.86%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,11 +64,11 @@ Completed: 7 (0.86%) (Ranked 186)
 | 2024-01-04 | 715 | 7 |
 | 2024-01-05 | 747 | 7 |
 | 2024-01-06 | 780 | 7 |
-| 2024-01-07 | 811 | 7 |
+| 2024-01-07 | 813 | 7 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 497)  
-Sum: 36 (Ranked 528)  
-Diff (max vs sum): -31  
+Sum: 36 (Ranked 529)  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

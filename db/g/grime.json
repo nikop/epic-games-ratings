@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1837,9 +1837,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 167045,
+  "EOS_Progressed": 167058,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 1335,
+  "EOS_NewPlayers": 1331,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22187,6 +22187,11 @@
       "Time": "2024-01-07T14:08:21.7960076+00:00",
       "NumProgressed": 167045,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2024-01-07T15:06:35.2877922+00:00",
+      "NumProgressed": 167058,
+      "NumCompleted": 448
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22247,7 +22252,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -22263,7 +22268,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -22335,7 +22340,7 @@
       "Name": "Harmless",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -22349,9 +22354,9 @@
       "ID": "DEFEAT_JAWSTAG",
       "SetID": "ccc0dlh",
       "Name": "Jawstag",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1169
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -22391,7 +22396,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -22399,7 +22404,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -22415,7 +22420,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -22566,21 +22571,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166628,
+      "Progressed": 166641,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167045,
+      "Progressed": 167058,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-06T15:57:18.5501396+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:08:21.7960072+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:06:35.2877918+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:57:44.9092423+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:08:21.7961159+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:57:48.9924005+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:06:35.2879281+00:00"
 }

@@ -1,63 +1,63 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 549)  
+Rating: 4.54 (Ranked 548)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 9.00% | ~71,436 |
-| Hotel California | 8.00% | ~63,499 |
-| Break A Leg | 7.00% | ~55,561 |
-| Coup de Grâce | 7.00% | ~55,561 |
-| Git Gutte! | 6.00% | ~47,624 |
-| Hazardous Materials | 6.00% | ~47,624 |
-| Personal Assistant Personally Assisted | 6.00% | ~47,624 |
-| Dr. Reed, I Presume? | 5.00% | ~39,687 |
-| Bookworm | 5.00% | ~39,687 |
-| Friends Like These | 5.00% | ~39,687 |
-| Apex Predator | 5.00% | ~39,687 |
-| Stacking the Deck | 5.00% | ~39,687 |
-| Anger Management | 4.00% | ~31,749 |
-| I Got a Zombie Army and You Can't Harm Me | 4.00% | ~31,749 |
-| But Doctor, I am Butcho | 4.00% | ~31,749 |
-| Slayer Squad | 4.00% | ~31,749 |
-| Can't Handle the Truth | 4.00% | ~31,749 |
-| This is My Weapon | 4.00% | ~31,749 |
-| Whatever It Takes | 4.00% | ~4,771 |
-| Pork Chopped | 4.00% | ~4,771 |
-| Making Your Mark | 3.00% | ~23,812 |
-| Perks of the Job | 3.00% | ~23,812 |
-| Like Riding a Bike | 3.00% | ~23,812 |
-| Zombologist | 3.00% | ~23,812 |
-| Ooh, Shiny! | 3.00% | ~23,812 |
-| A Patton Emerges | 3.00% | ~23,812 |
-| I Am the Resurrection | 3.00% | ~23,812 |
-| Our True Nature | 3.00% | ~23,812 |
-| One of Us | 3.00% | ~3,578 |
-| Jumbo Keyring | 2.00% | ~15,875 |
-| Humanity Distilled | 2.00% | ~15,875 |
-| Down with the Sickness | 2.00% | ~15,875 |
-| Max Headroom | 2.00% | ~15,875 |
-| Go, Bobcats! | 2.00% | ~15,875 |
-| Rising Star | 2.00% | ~15,875 |
-| Make it So | 1.00% | ~7,937 |
-| On Safari | 1.00% | ~7,937 |
-| Smorgasbord | 1.00% | ~7,937 |
-| Not Even My Final Form | 1.00% | ~7,937 |
-| Internet Famous | 1.00% | ~7,937 |
-| Variety is the Spice of Death | 1.00% | ~7,937 |
-| LA Influential | 0.90% | ~7,144 |
-| Gore Horse | 0.90% | ~7,144 |
-| Sharpest Tool in the Box | 0.80% | ~6,350 |
-| Sole Survivor | 0.70% | ~5,556 |
-| Top That, Tisha! | 0.50% | ~596 |
-| Survival Skills | 0.40% | ~3,175 |
-| Donk! | 0.30% | ~2,381 |
+| Welcome To Hell-A | 9.00% | ~71,450 |
+| Hotel California | 8.00% | ~63,511 |
+| Break A Leg | 7.00% | ~55,572 |
+| Coup de Grâce | 7.00% | ~55,572 |
+| Git Gutte! | 6.00% | ~47,633 |
+| Hazardous Materials | 6.00% | ~47,633 |
+| Personal Assistant Personally Assisted | 6.00% | ~47,633 |
+| Dr. Reed, I Presume? | 5.00% | ~39,694 |
+| Bookworm | 5.00% | ~39,694 |
+| Friends Like These | 5.00% | ~39,694 |
+| Apex Predator | 5.00% | ~39,694 |
+| Stacking the Deck | 5.00% | ~39,694 |
+| Anger Management | 4.00% | ~31,755 |
+| I Got a Zombie Army and You Can't Harm Me | 4.00% | ~31,755 |
+| But Doctor, I am Butcho | 4.00% | ~31,755 |
+| Slayer Squad | 4.00% | ~31,755 |
+| Can't Handle the Truth | 4.00% | ~31,755 |
+| This is My Weapon | 4.00% | ~31,755 |
+| Whatever It Takes | 4.00% | ~4,777 |
+| Pork Chopped | 4.00% | ~4,777 |
+| Making Your Mark | 3.00% | ~23,817 |
+| Perks of the Job | 3.00% | ~23,817 |
+| Like Riding a Bike | 3.00% | ~23,817 |
+| Zombologist | 3.00% | ~23,817 |
+| Ooh, Shiny! | 3.00% | ~23,817 |
+| A Patton Emerges | 3.00% | ~23,817 |
+| I Am the Resurrection | 3.00% | ~23,817 |
+| Our True Nature | 3.00% | ~23,817 |
+| One of Us | 3.00% | ~3,583 |
+| Jumbo Keyring | 2.00% | ~15,878 |
+| Humanity Distilled | 2.00% | ~15,878 |
+| Down with the Sickness | 2.00% | ~15,878 |
+| Max Headroom | 2.00% | ~15,878 |
+| Go, Bobcats! | 2.00% | ~15,878 |
+| Rising Star | 2.00% | ~15,878 |
+| Make it So | 1.00% | ~7,939 |
+| On Safari | 1.00% | ~7,939 |
+| Smorgasbord | 1.00% | ~7,939 |
+| Not Even My Final Form | 1.00% | ~7,939 |
+| Internet Famous | 1.00% | ~7,939 |
+| Variety is the Spice of Death | 1.00% | ~7,939 |
+| LA Influential | 0.90% | ~7,145 |
+| Gore Horse | 0.90% | ~7,145 |
+| Sharpest Tool in the Box | 0.80% | ~6,351 |
+| Sole Survivor | 0.70% | ~5,557 |
+| Top That, Tisha! | 0.50% | ~597 |
+| Survival Skills | 0.40% | ~3,176 |
+| Donk! | 0.30% | ~2,382 |
 | Lawn and Order | 0.20% | ~239 |
 | Bucket List | 0.10% | ~794 |
 | Wilhelm | 0.10% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 793,733 (Ranked 21)  
+Progressed: 793,884 (Ranked 21)  
 Completed: 2,555 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 2,555 (0.32%) (Ranked 248)
 | 2024-01-04 | 787,600 | 2,542 |
 | 2024-01-05 | 789,787 | 2,549 |
 | 2024-01-06 | 792,324 | 2,554 |
-| 2024-01-07 | 793,733 | 2,555 |
+| 2024-01-07 | 793,884 | 2,555 |
 ## Awards
 Max (Great Boss Battles): 9,852  (Ranked 41)  
 Sum: 15,028 (Ranked 74)  

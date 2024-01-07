@@ -6,9 +6,9 @@
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9391,9 +9391,9 @@
       "Count": 3631
     }
   ],
-  "EOS_Progressed": 252365,
+  "EOS_Progressed": 252387,
   "EOS_Completed": 2599,
-  "EOS_NewPlayers": 4000,
+  "EOS_NewPlayers": 3990,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39081,6 +39081,11 @@
       "Time": "2024-01-07T14:10:11.2080903+00:00",
       "NumProgressed": 252365,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-07T15:10:07.7154946+00:00",
+      "NumProgressed": 252387,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 546,
@@ -39100,7 +39105,7 @@
       "Name": "Maddening",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "objective_completed_100",
@@ -40212,7 +40217,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "objective_completed_150",
@@ -40420,7 +40425,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "objective_completed_20",
@@ -40764,7 +40769,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5047
+      "UsersEstimate": 5048
     },
     {
       "ID": "objective_completed_34",
@@ -40780,7 +40785,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "objective_completed_36",
@@ -41636,7 +41641,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "objective_completed_60",
@@ -43459,21 +43464,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218639,
+      "Progressed": 218661,
       "Completed": 4143
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252365,
+      "Progressed": 252387,
       "Completed": 2599
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-07T12:00:01.0036284+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:10:11.2080897+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:10:07.715494+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:00:18.5005084+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:10:11.2105584+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:00:27.0848497+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:10:07.7178018+00:00"
 }

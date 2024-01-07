@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 612,
+  "Ranking_Rating": 611,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 136,
@@ -3963,9 +3963,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33408,
+  "EOS_Progressed": 33410,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24883,6 +24883,11 @@
       "Time": "2024-01-07T14:08:55.5186854+00:00",
       "NumProgressed": 33408,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-07T15:08:49.456572+00:00",
+      "NumProgressed": 33410,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24982,7 +24987,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "Dont_Need_These",
@@ -25182,7 +25187,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "Stunner",
@@ -25222,7 +25227,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "Teamwork",
@@ -25301,7 +25306,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33408,
+      "Progressed": 33410,
       "Completed": 71
     }
   ],
@@ -25309,8 +25314,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-07T01:52:35.5069722+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:08:55.518685+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:08:49.4565712+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:57:44.7681228+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:08:55.5188284+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:57:48.8672193+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:08:49.4567073+00:00"
 }

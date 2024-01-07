@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1290,
+  "EOS_Progressed": 1291,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.42,
   "EosHistory": [
@@ -3099,6 +3099,11 @@
       "Time": "2024-01-07T07:09:42.8777252+00:00",
       "NumProgressed": 1290,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2024-01-07T15:09:40.4111669+00:00",
+      "NumProgressed": 1291,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -3119,7 +3124,7 @@
       "Name": "Brain-teaser",
       "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH_DONUTS",
@@ -3127,7 +3132,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -3135,15 +3140,15 @@
       "Name": "An apple a day",
       "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
       "SetID": "6f5dahd",
       "Name": "Get back to work",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 185,
-      "UsersEstimate": 77
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_PENTAGRAM",
@@ -3151,7 +3156,7 @@
       "Name": "Evil plan",
       "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -3159,7 +3164,7 @@
       "Name": "Good listener",
       "Percentage": 61,
       "XP": 85,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -3183,21 +3188,21 @@
       "Name": "Exit",
       "Percentage": 56,
       "XP": 65,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1290,
+      "Progressed": 1291,
       "Completed": 57
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:44.3009112+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:09:40.4111663+00:00",
   "LastUpdate_AppInfo": "2024-01-05T20:56:59.903106+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:58:19.2379331+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:44.3009359+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:58:22.8243409+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:09:40.4111911+00:00"
 }

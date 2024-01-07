@@ -6,7 +6,7 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -14059,10 +14059,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 63845,
       "NumberOfAwardsMax": 7742
+    },
+    {
+      "Time": "2024-01-07T14:59:18.7084664+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63861,
+      "NumberOfAwardsMax": 7742
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63845,
+  "NumberOfAwards": 63861,
   "NumberOfAwardsMax": 7742,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14106,7 +14112,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6928
+      "Count": 6944
     },
     {
       "Text": "This game is Relaxing",
@@ -14133,9 +14139,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 494275,
+  "EOS_Progressed": 494320,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5511,
+  "EOS_NewPlayers": 5505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44358,6 +44364,11 @@
       "Time": "2024-01-07T14:09:55.3879774+00:00",
       "NumProgressed": 494275,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T15:09:51.9455531+00:00",
+      "NumProgressed": 494320,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45369,7 +45380,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2472
     },
     {
       "ID": "achievement_grand_coalition",
@@ -46649,7 +46660,7 @@
       "Name": "That is mine!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2472
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -47065,7 +47076,7 @@
       "Name": "Victorious!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2472
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -47272,21 +47283,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 494275,
+      "Progressed": 494320,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 494275,
+      "Progressed": 494320,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-06T18:58:50.8902852+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:55.3879772+00:00",
+  "LastChanged": "2024-01-07T14:59:18.7084663+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:09:51.9455527+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:59:13.3530219+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:55.3891105+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:59:18.7084679+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:09:51.9466183+00:00"
 }

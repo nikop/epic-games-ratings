@@ -3,11 +3,11 @@
   "Name": "OCTOPATH TRAVELER\u2122",
   "ProductSlug": "octopath-traveler",
   "Ranking_Rating": 93,
-  "Ranking_Popularity": 347,
-  "Ranking_PopularitySum": 450,
+  "Ranking_Popularity": 344,
+  "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-03-25T00:00:00+00:00",
@@ -532,18 +532,24 @@
       "Rating": 4.8,
       "NumberOfAwards": 130,
       "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2024-01-07T14:58:05.8131785+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 131,
+      "NumberOfAwardsMax": 131
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 130,
-  "NumberOfAwardsMax": 130,
+  "NumberOfAwards": 131,
+  "NumberOfAwardsMax": 131,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 130
+      "Count": 131
     }
   ],
   "EOS_Progressed": 0,
@@ -557,8 +563,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
-  "LastChanged": "2024-01-03T23:59:28.2690702+00:00",
+  "LastChanged": "2024-01-07T14:58:05.8131783+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.9883688+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:58:01.3999896+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:05:43.1771393+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:58:05.8131787+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:05:36.6912158+00:00"
 }

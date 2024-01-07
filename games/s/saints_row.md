@@ -1,66 +1,66 @@
 # Saints Row
 [Store](https://store.epicgames.com/en-US/p/saints-row)  
 [View Rawdata](../../db/s/saints_row.json)  
-Rating: 3.84 (Ranked 1,075)  
+Rating: 3.85 (Ranked 1,073)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 72.00% | ~537,803 |
-| To The Nines | 46.00% | ~343,596 |
-| Optimized | 28.00% | ~209,145 |
-| Wet Work | 26.00% | ~194,206 |
-| Performance Review | 23.00% | ~171,798 |
-| Food for Thought | 22.00% | ~164,329 |
-| The Side Job | 20.00% | ~149,390 |
-| Making a Name | 20.00% | ~149,390 |
-| Tune Up | 18.00% | ~134,451 |
-| Landlord | 16.00% | ~119,512 |
-| Wrecking Ball | 14.00% | ~104,573 |
-| Finders Keepers | 9.00% | ~67,225 |
-| A Young Empire | 9.00% | ~67,225 |
-| Work Ethic | 7.00% | ~52,286 |
-| Hijacked | 6.00% | ~44,817 |
-| Power Players | 6.00% | ~44,817 |
-| Picking Fights | 6.00% | ~44,817 |
-| Quality Time | 5.00% | ~37,347 |
-| Showdown | 5.00% | ~37,347 |
-| Et tu? | 5.00% | ~37,347 |
-| Took It to The Limit | 5.00% | ~37,347 |
-| The Spins | 4.00% | ~29,878 |
-| Kitted Out | 4.00% | ~29,878 |
-| Prankster | 4.00% | ~29,878 |
-| The Mechanic | 3.00% | ~22,408 |
-| Masters of Santo Ileso | 2.00% | ~14,939 |
-| Free Refills | 2.00% | ~14,939 |
-| Closet Space | 2.00% | ~14,939 |
-| We could go home, or… | 1.00% | ~7,469 |
-| The Professional | 1.00% | ~7,469 |
-| Challenge Accepted | 1.00% | ~7,469 |
-| Chaos Tamer | 1.00% | ~7,469 |
-| A Golden Age | 1.00% | ~7,469 |
-| Smooth Moves | 1.00% | ~7,469 |
-| Producer Credit | 1.00% | ~7,186 |
-| Untouchable | 0.90% | ~6,723 |
-| Tourist | 0.90% | ~6,723 |
-| Face Off | 0.90% | ~6,467 |
-| Shopping Spree | 0.80% | ~5,976 |
-| Always Be Hustling | 0.80% | ~5,976 |
-| Neighborly | 0.80% | ~5,976 |
-| Hazardous Heist | 0.80% | ~5,749 |
-| Bonus Round | 0.60% | ~4,482 |
-| Community Outreach | 0.40% | ~2,988 |
-| Jack of All Trades | 0.20% | ~1,494 |
-| It's a Bird! | 0.20% | ~1,494 |
-| The Collector | 0.20% | ~1,494 |
-| All Mine | 0.20% | ~1,494 |
-| Statement Pieces | 0.10% | ~747 |
-| Armor Piercing | 0.10% | ~747 |
-| A Car Named Simone | 0.10% | ~747 |
-| Heard You Like Wheels | 0.10% | ~747 |
-| Fiesta Time | 0.10% | ~747 |
+| First F#@!ing Day | 72.00% | ~538,516 |
+| To The Nines | 46.00% | ~344,052 |
+| Optimized | 28.00% | ~209,423 |
+| Wet Work | 26.00% | ~194,464 |
+| Performance Review | 23.00% | ~172,026 |
+| Food for Thought | 22.00% | ~164,547 |
+| The Side Job | 20.00% | ~149,588 |
+| Making a Name | 20.00% | ~149,588 |
+| Tune Up | 18.00% | ~134,629 |
+| Landlord | 16.00% | ~119,670 |
+| Wrecking Ball | 14.00% | ~104,711 |
+| Finders Keepers | 9.00% | ~67,315 |
+| A Young Empire | 9.00% | ~67,315 |
+| Work Ethic | 7.00% | ~52,356 |
+| Hijacked | 6.00% | ~44,876 |
+| Power Players | 6.00% | ~44,876 |
+| Picking Fights | 6.00% | ~44,876 |
+| Quality Time | 5.00% | ~37,397 |
+| Showdown | 5.00% | ~37,397 |
+| Et tu? | 5.00% | ~37,397 |
+| Took It to The Limit | 5.00% | ~37,397 |
+| The Spins | 4.00% | ~29,918 |
+| Kitted Out | 4.00% | ~29,918 |
+| Prankster | 4.00% | ~29,918 |
+| The Mechanic | 3.00% | ~22,438 |
+| Masters of Santo Ileso | 2.00% | ~14,959 |
+| Free Refills | 2.00% | ~14,959 |
+| Closet Space | 2.00% | ~14,959 |
+| We could go home, or… | 1.00% | ~7,479 |
+| The Professional | 1.00% | ~7,479 |
+| Challenge Accepted | 1.00% | ~7,479 |
+| Chaos Tamer | 1.00% | ~7,479 |
+| A Golden Age | 1.00% | ~7,479 |
+| Smooth Moves | 1.00% | ~7,479 |
+| Producer Credit | 1.00% | ~7,196 |
+| Untouchable | 0.90% | ~6,731 |
+| Tourist | 0.90% | ~6,731 |
+| Face Off | 0.90% | ~6,476 |
+| Shopping Spree | 0.80% | ~5,984 |
+| Always Be Hustling | 0.80% | ~5,984 |
+| Neighborly | 0.80% | ~5,984 |
+| Hazardous Heist | 0.80% | ~5,757 |
+| Bonus Round | 0.60% | ~4,488 |
+| Community Outreach | 0.40% | ~2,992 |
+| Jack of All Trades | 0.20% | ~1,496 |
+| It's a Bird! | 0.20% | ~1,496 |
+| The Collector | 0.20% | ~1,496 |
+| All Mine | 0.20% | ~1,496 |
+| Statement Pieces | 0.10% | ~748 |
+| Armor Piercing | 0.10% | ~748 |
+| A Car Named Simone | 0.10% | ~748 |
+| Heard You Like Wheels | 0.10% | ~748 |
+| Fiesta Time | 0.10% | ~748 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,948 (Ranked 26)  
+Progressed: 747,939 (Ranked 26)  
 Completed: 60 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 60 (0.01%) (Ranked 371)
 | 2024-01-04 | 692,546 | 57 |
 | 2024-01-05 | 714,160 | 58 |
 | 2024-01-06 | 735,971 | 59 |
-| 2024-01-07 | 746,948 | 60 |
+| 2024-01-07 | 747,939 | 60 |
 ## Awards
 Max (Extremely Fun): 1,104  (Ranked 152)  
 Sum: 8,909 (Ranked 103)  
@@ -598,4 +598,4 @@ Diff (max vs sum): 49
 | 2024-01-04 | 3.83 | - | 1,088 | 8,843 |
 | 2024-01-05 | 3.84 | - | 1,089 | 8,864 |
 | 2024-01-06 | 3.84 | - | 1,098 | 8,890 |
-| 2024-01-07 | 3.84 | - | 1,104 | 8,909 |
+| 2024-01-07 | 3.85 | - | 1,104 | 8,909 |

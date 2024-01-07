@@ -1,22 +1,22 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.20 (Ranked 962)  
+Rating: 4.20 (Ranked 961)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~9,837 |
-| Disposing of the Evidence | 38.00% | ~4,504 |
-| Without a Scratch | 34.00% | ~4,030 |
-| Wreckless Driving | 28.00% | ~3,319 |
-| A Marked Man | 26.00% | ~3,082 |
-| Street Sweeper | 19.00% | ~2,252 |
-| Liberty City Minute | 17.00% | ~2,015 |
-| Offshore Delivery | 14.00% | ~1,659 |
-| Dirty Money | 13.00% | ~1,541 |
-| By a Mile | 10.00% | ~1,185 |
-| Not So Fast | 10.00% | ~1,185 |
-| Right-hand Man | 10.00% | ~1,185 |
+| First Day on the Job | 83.00% | ~9,843 |
+| Disposing of the Evidence | 38.00% | ~4,506 |
+| Without a Scratch | 34.00% | ~4,032 |
+| Wreckless Driving | 28.00% | ~3,321 |
+| A Marked Man | 26.00% | ~3,083 |
+| Street Sweeper | 19.00% | ~2,253 |
+| Liberty City Minute | 17.00% | ~2,016 |
+| Offshore Delivery | 14.00% | ~1,660 |
+| Dirty Money | 13.00% | ~1,542 |
+| By a Mile | 10.00% | ~1,186 |
+| Not So Fast | 10.00% | ~1,186 |
+| Right-hand Man | 10.00% | ~1,186 |
 | A Gift from the King | 7.00% | ~830 |
 | Full Artillery | 4.00% | ~474 |
 | Mob Boss | 3.00% | ~356 |
@@ -35,7 +35,7 @@ Rating: 4.20 (Ranked 962)
 | Is That All You've Got? | 0.90% | ~107 |
 | King of Liberty City | 0.70% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,852 (Ranked 178)  
+Progressed: 11,859 (Ranked 178)  
 Completed: 80 (0.67%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 80 (0.67%) (Ranked 198)
 | 2024-01-04 | 11,553 | 77 |
 | 2024-01-05 | 11,665 | 77 |
 | 2024-01-06 | 11,790 | 79 |
-| 2024-01-07 | 11,852 | 80 |
+| 2024-01-07 | 11,859 | 80 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

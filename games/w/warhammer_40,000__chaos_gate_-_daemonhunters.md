@@ -1,12 +1,12 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 471)  
+Rating: 4.58 (Ranked 470)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 19.00% | ~727 |
+| Executioner | 20.00% | ~765 |
 | Look Over There! | 14.00% | ~536 |
 | Not So Fast... | 14.00% | ~536 |
 | Watch Where You Step... | 14.00% | ~536 |
@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,826 (Ranked 217)  
-Completed: 0 (0.00%) (Ranked 393)  
+Progressed: 3,827 (Ranked 217)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,7 +306,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,765 | 0 |
 | 2024-01-05 | 3,783 | 0 |
 | 2024-01-06 | 3,811 | 0 |
-| 2024-01-07 | 3,826 | 0 |
+| 2024-01-07 | 3,827 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 283)  
 Sum: 496 (Ranked 334)  

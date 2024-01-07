@@ -6,16 +6,16 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,553 |
-| Finding Your Footing | 25.00% | ~13,475 |
-| Nomad | 17.00% | ~9,163 |
-| Picking Up Speed | 15.00% | ~8,085 |
-| Welcome Maya | 14.00% | ~7,546 |
-| Scout | 11.00% | ~5,929 |
-| Sightseer | 11.00% | ~5,929 |
-| Amateur | 10.00% | ~5,390 |
-| Unlock Maya | 8.00% | ~4,312 |
-| Wanderer | 8.00% | ~4,312 |
+| Rookie | 27.00% | ~14,555 |
+| Finding Your Footing | 25.00% | ~13,477 |
+| Nomad | 17.00% | ~9,164 |
+| Picking Up Speed | 15.00% | ~8,086 |
+| Welcome Maya | 14.00% | ~7,547 |
+| Scout | 11.00% | ~5,930 |
+| Sightseer | 11.00% | ~5,930 |
+| Amateur | 10.00% | ~5,391 |
+| Unlock Maya | 8.00% | ~4,313 |
+| Wanderer | 8.00% | ~4,313 |
 | Enter Paz | 7.00% | ~3,773 |
 | Aviator | 5.00% | ~2,695 |
 | My Little Friend | 5.00% | ~2,695 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~54 |
 | Windswept | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,900 (Ranked 121)  
+Progressed: 53,907 (Ranked 121)  
 Completed: 5 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,16 +308,16 @@ Completed: 5 (0.01%) (Ranked 371)
 | 2024-01-04 | 53,507 | 5 |
 | 2024-01-05 | 53,651 | 5 |
 | 2024-01-06 | 53,813 | 5 |
-| 2024-01-07 | 53,900 | 5 |
+| 2024-01-07 | 53,907 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 454)  
-Sum: 394 (Ranked 353)  
+Sum: 395 (Ranked 353)  
 Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 51 |
 | This game is Great for Beginners | 47 |
-| This game is Highly Recommended | 44 |
+| This game is Highly Recommended | 45 |
 | This game has Beautiful Visuals | 43 |
 | This game has Quickly Understood Controls | 41 |
 | This game is Extremely Fun | 39 |
@@ -454,4 +454,4 @@ Diff (max vs sum): 101
 | 2023-12-28 | 4.70 | - | 50 | 391 |
 | 2024-01-01 | 4.70 | - | 50 | 392 |
 | 2024-01-03 | 4.70 | - | 50 | 393 |
-| 2024-01-07 | 4.70 | - | 51 | 394 |
+| 2024-01-07 | 4.70 | - | 51 | 395 |

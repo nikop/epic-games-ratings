@@ -1085,9 +1085,9 @@
       "ID": "Ach-02-dzin",
       "SetID": "2pjo9pi",
       "Name": "Dzin",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "Ach-02-hopik",
@@ -1117,9 +1117,9 @@
       "ID": "Ach-02-parazit",
       "SetID": "2pjo9pi",
       "Name": "Parazit",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "Ach-02-strasilka",
@@ -1157,9 +1157,9 @@
       "ID": "Ach-03-pidalka",
       "SetID": "2pjo9pi",
       "Name": "Pidalka",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Ach-03-skakavec",
@@ -1181,9 +1181,9 @@
       "ID": "Ach-03-zaba",
       "SetID": "2pjo9pi",
       "Name": "Zaba",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "Ach-03-zrout",
@@ -1460,8 +1460,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:07.1752936+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:09:01.4594199+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.3833834+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:59:07.2914337+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:07.1753409+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:59:10.9109283+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:09:01.4594646+00:00"
 }

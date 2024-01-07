@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 210,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.26,
+  "EOS_Completed_Percentage": 5.24,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1024,6 +1024,11 @@
       "Time": "2024-01-07T13:07:14.0960632+00:00",
       "NumProgressed": 209,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-07T15:03:21.3906036+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1084,7 +1089,7 @@
       "Name": "Jing Jang",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Kamzik",
@@ -1092,7 +1097,7 @@
       "Name": "Chamois",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Kour",
@@ -1116,7 +1121,7 @@
       "Name": "Knife",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Kvitky",
@@ -1132,7 +1137,7 @@
       "Name": "Mimicking Parrot",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Myska",
@@ -1188,7 +1193,7 @@
       "Name": "Goldfish",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Sova",
@@ -1250,9 +1255,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "Zelvak",
@@ -1275,14 +1280,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 210,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:03:31.8034859+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:03:21.3906031+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:03:08.0014729+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:03:31.8035122+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:02:55.5061512+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:03:21.390635+00:00"
 }

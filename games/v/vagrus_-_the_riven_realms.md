@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 57.00% | ~166 |
-| Press-ganged | 42.00% | ~122 |
+| Press-ganged | 42.00% | ~123 |
 | The Package | 27.00% | ~79 |
-| Randomized | 18.00% | ~52 |
-| Conquered | 18.00% | ~52 |
+| Randomized | 18.00% | ~53 |
+| Conquered | 18.00% | ~53 |
 | Scribe | 11.00% | ~32 |
 | Breached | 11.00% | ~32 |
 | Conciliator | 9.00% | ~26 |
@@ -16,11 +16,11 @@
 | Fight Another Day | 9.00% | ~26 |
 | Taskmaster | 8.00% | ~23 |
 | Acquaintance | 7.00% | ~20 |
-| Scholar | 6.00% | ~17 |
-| The More the Merrier | 6.00% | ~17 |
-| Harbinger | 6.00% | ~17 |
-| Tail-wind | 6.00% | ~17 |
-| Pilgrimage's End | 6.00% | ~17 |
+| Scholar | 6.00% | ~18 |
+| The More the Merrier | 6.00% | ~18 |
+| Harbinger | 6.00% | ~18 |
+| Tail-wind | 6.00% | ~18 |
+| Pilgrimage's End | 6.00% | ~18 |
 | Deputized | 5.00% | ~15 |
 | Courier | 5.00% | ~15 |
 | Merchant | 5.00% | ~15 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291 (Ranked 400)  
-Completed: 0 (0.00%) (Ranked 393)  
+Progressed: 292 (Ranked 400)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,7 +213,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 279 | 0 |
 | 2024-01-05 | 283 | 0 |
 | 2024-01-06 | 289 | 0 |
-| 2024-01-07 | 291 | 0 |
+| 2024-01-07 | 292 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

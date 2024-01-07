@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,363 |
-| Off to a good start | 62.00% | ~1,684 |
-| Do... or do not. There is no try | 52.00% | ~1,412 |
-| A good blaster at your side | 24.00% | ~652 |
-| I suggest a new strategy | 17.00% | ~462 |
+| New Recruit | 87.00% | ~2,367 |
+| Off to a good start | 61.00% | ~1,660 |
+| Do... or do not. There is no try | 52.00% | ~1,415 |
+| A good blaster at your side | 24.00% | ~653 |
+| I suggest a new strategy | 17.00% | ~463 |
 | Great shot, kid! | 16.00% | ~435 |
-| Scrap collector | 15.00% | ~407 |
-| All right, I'll give it a try | 15.00% | ~407 |
-| The power of the Force | 12.00% | ~326 |
-| Collector | 12.00% | ~326 |
-| Shoot first | 12.00% | ~326 |
+| Scrap collector | 15.00% | ~408 |
+| All right, I'll give it a try | 15.00% | ~408 |
+| The power of the Force | 12.00% | ~327 |
+| Collector | 12.00% | ~327 |
+| Shoot first | 12.00% | ~327 |
 | Together we can rule the galaxy | 11.00% | ~299 |
-| Tell Jabba that I've got his money | 8.00% | ~217 |
-| Best star-pilot in the galaxy | 8.00% | ~217 |
+| Tell Jabba that I've got his money | 8.00% | ~218 |
+| Best star-pilot in the galaxy | 8.00% | ~218 |
 | Never tell me the odds! | 7.00% | ~190 |
 | Survivor | 7.00% | ~190 |
 | What's the cargo? | 6.00% | ~163 |
@@ -28,10 +28,9 @@
 | Distinguished | 4.00% | ~109 |
 | A tremor in the Force | 4.00% | ~109 |
 | Support the troops | 4.00% | ~109 |
-| Safety ain't the point of a joyride | 3.00% | ~81 |
-| Not bad for a little furball | 3.00% | ~81 |
-| Patience you must have | 3.00% | ~81 |
-| Don't underestimate the Force | 3.00% | ~81 |
+| Safety ain't the point of a joyride | 3.00% | ~82 |
+| Not bad for a little furball | 3.00% | ~82 |
+| Patience you must have | 3.00% | ~82 |
 | The Force is strong with this one | 2.00% | ~54 |
 | I've been waiting for you | 2.00% | ~54 |
 | When 900 years old you reach... | 2.00% | ~54 |
@@ -41,6 +40,7 @@
 | Precision shot | 2.00% | ~54 |
 | That's no moon | 2.00% | ~54 |
 | What will you become? | 2.00% | ~54 |
+| Don't underestimate the Force | 2.00% | ~54 |
 | Hold the line! | 1.00% | ~27 |
 | Ackbar's Elite | 1.00% | ~27 |
 | This is a new day, a new beginning | 1.00% | ~27 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,716 (Ranked 232)  
+Progressed: 2,721 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.04%) (Ranked 348)
 | 2024-01-04 | 2,595 | 1 |
 | 2024-01-05 | 2,649 | 1 |
 | 2024-01-06 | 2,690 | 1 |
-| 2024-01-07 | 2,716 | 1 |
+| 2024-01-07 | 2,721 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

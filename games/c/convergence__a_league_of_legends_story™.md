@@ -5,10 +5,10 @@ Rating: 4.69 (Ranked 235)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 45.00% | ~567 |
-| Rail Rat | 34.00% | ~428 |
+| Time Heals All Wounds | 46.00% | ~580 |
+| Rail Rat | 34.00% | ~429 |
 | The Mysterious Stranger | 33.00% | ~416 |
-| Immaculate Aim | 28.00% | ~353 |
+| Immaculate Aim | 29.00% | ~366 |
 | The Brass Boss | 27.00% | ~340 |
 | Time Flies | 26.00% | ~328 |
 | No, Thanks! | 26.00% | ~328 |
@@ -17,7 +17,7 @@ Rating: 4.69 (Ranked 235)
 | The Harder They Fall | 25.00% | ~315 |
 | The Prince in Heels | 25.00% | ~315 |
 | Immaculate Aim | 25.00% | ~315 |
-| Fast Learner | 24.00% | ~302 |
+| Fast Learner | 24.00% | ~303 |
 | The Steel Shadow | 23.00% | ~290 |
 | Breaking Down Barriers | 23.00% | ~290 |
 | Right On Time | 22.00% | ~277 |
@@ -26,13 +26,13 @@ Rating: 4.69 (Ranked 235)
 | Like Clockwork | 21.00% | ~265 |
 | The Betrayer | 21.00% | ~265 |
 | Check Your Pulse | 20.00% | ~252 |
-| The Loose Cannon | 19.00% | ~239 |
+| The Loose Cannon | 19.00% | ~240 |
 | Street Style | 18.00% | ~227 |
 | The Man Who Shattered Time | 18.00% | ~227 |
 | The Family Fortune | 18.00% | ~227 |
 | Whiz Kid | 15.00% | ~189 |
 | Good Neighbor | 15.00% | ~189 |
-| Family Memories | 14.00% | ~176 |
+| Family Memories | 14.00% | ~177 |
 | Chaincrawler Explorer | 13.00% | ~164 |
 | Cartographer | 13.00% | ~164 |
 | Ask Questions Later | 13.00% | ~164 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 235)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,260 (Ranked 280)  
+Progressed: 1,261 (Ranked 280)  
 Completed: 7 (0.56%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 7 (0.56%) (Ranked 213)
 | 2024-01-04 | 1,228 | 6 |
 | 2024-01-05 | 1,241 | 6 |
 | 2024-01-06 | 1,255 | 6 |
-| 2024-01-07 | 1,260 | 7 |
+| 2024-01-07 | 1,261 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

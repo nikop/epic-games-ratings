@@ -3,8 +3,8 @@
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 413,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1160,9 +1160,9 @@
       "ID": "SG_AGAINSTALLODDS",
       "SetID": "bj5g0n4",
       "Name": "Against All Odds",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -1392,9 +1392,9 @@
       "ID": "SG_THEMUSESENCORE",
       "SetID": "bj5g0n4",
       "Name": "The Muse\u2019s Encore",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -1447,8 +1447,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:03.8361284+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:08:57.9815379+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:58:28.8496913+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:03.8361879+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:58:33.1233446+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:08:57.9815606+00:00"
 }

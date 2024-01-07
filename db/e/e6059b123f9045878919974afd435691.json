@@ -2,9 +2,9 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_Progress": 272,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1384,
+  "EOS_Progressed": 1385,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3654,6 +3654,11 @@
       "Time": "2024-01-07T14:10:06.8763972+00:00",
       "NumProgressed": 1384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T15:10:03.4742204+00:00",
+      "NumProgressed": 1385,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3865,7 +3870,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3881,7 +3886,7 @@
       "Name": "Fire Alarm",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -3927,9 +3932,9 @@
       "ID": "FREE_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Fly Free",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "KALL_ACHIEVEMENT_1",
@@ -3985,7 +3990,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4025,7 +4030,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4057,7 +4062,7 @@
       "Name": "Night Snack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4089,7 +4094,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -4192,14 +4197,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1384,
+      "Progressed": 1385,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:10:06.876397+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:10:03.4742201+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:58:11.6670202+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:10:06.8764731+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:58:15.9814785+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:10:03.474282+00:00"
 }

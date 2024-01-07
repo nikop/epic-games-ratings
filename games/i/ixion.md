@@ -1,31 +1,31 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 471)  
+Rating: 4.58 (Ranked 470)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 33.00% | ~1,337 |
-| Sputnik 2049 | 29.00% | ~1,175 |
-| Infinite Growth... | 27.00% | ~1,094 |
-| Without Breaking Some Eggs... | 26.00% | ~1,054 |
-| Ready for a New World | 19.00% | ~770 |
-| Space Society | 18.00% | ~729 |
-| A Thousand Strong | 18.00% | ~729 |
-| Permanent Redesigns | 16.00% | ~648 |
+| Wakey Wakey | 33.00% | ~1,338 |
+| Sputnik 2049 | 29.00% | ~1,176 |
+| Infinite Growth... | 27.00% | ~1,095 |
+| Without Breaking Some Eggs... | 26.00% | ~1,055 |
+| Ready for a New World | 19.00% | ~771 |
+| Space Society | 18.00% | ~730 |
+| A Thousand Strong | 18.00% | ~730 |
+| Permanent Redesigns | 16.00% | ~649 |
 | Fully Recycled | 15.00% | ~608 |
 | The Ship of Theseus | 15.00% | ~608 |
-| Guy de Borderlands | 14.00% | ~567 |
-| Ain't Nobody Got Time for That | 14.00% | ~567 |
+| Guy de Borderlands | 14.00% | ~568 |
+| Ain't Nobody Got Time for That | 14.00% | ~568 |
 | Hope Seeker | 13.00% | ~527 |
-| A Hunk of Junk | 12.00% | ~486 |
-| Exceeding Capacity | 12.00% | ~486 |
-| Breaking Protocol | 12.00% | ~486 |
+| A Hunk of Junk | 12.00% | ~487 |
+| Exceeding Capacity | 12.00% | ~487 |
+| Breaking Protocol | 12.00% | ~487 |
 | Man's Best Friend | 9.00% | ~365 |
 | Power Outage | 9.00% | ~365 |
 | Please Make it Stop! | 9.00% | ~365 |
-| Sightseeing | 8.00% | ~324 |
 | Convenient Transport | 8.00% | ~324 |
+| Sightseeing | 7.00% | ~284 |
 | Necessary Enhancement | 7.00% | ~284 |
 | From the Past | 7.00% | ~284 |
 | Access Granted | 6.00% | ~243 |
@@ -63,8 +63,8 @@ Rating: 4.58 (Ranked 471)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,052 (Ranked 211)  
-Completed: 0 (0.00%) (Ranked 393)  
+Progressed: 4,056 (Ranked 211)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,7 +315,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,963 | 0 |
 | 2024-01-05 | 4,002 | 0 |
 | 2024-01-06 | 4,042 | 0 |
-| 2024-01-07 | 4,052 | 0 |
+| 2024-01-07 | 4,056 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

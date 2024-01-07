@@ -5,43 +5,43 @@ Rating: 4.19 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~40,945 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,843 |
-| Loose Ends | 33.00% | ~27,024 |
-| To the Victor Go the Spoils | 27.00% | ~22,110 |
-| Knighthood | 26.00% | ~21,291 |
-| Get ReQ'd | 24.00% | ~19,654 |
-| Whispered Words | 24.00% | ~19,654 |
-| The Batman Family | 22.00% | ~18,016 |
-| Lock and Key | 22.00% | ~18,016 |
-| Something in the Clay | 20.00% | ~16,378 |
-| Quartzer Life Crisis | 20.00% | ~16,378 |
-| Working Hard or Harley Working? | 20.00% | ~16,378 |
-| Unstoppable Force | 20.00% | ~16,378 |
-| Bad Apples in Every Orchard | 20.00% | ~16,378 |
-| Snow Problem | 19.00% | ~15,559 |
-| The Show Mud Go On | 17.00% | ~13,921 |
-| From Inside Gotham's Walls | 17.00% | ~13,921 |
-| Protector of Gotham | 16.00% | ~13,102 |
-| In Your Element | 15.00% | ~12,284 |
-| Universal Health Scare | 15.00% | ~12,284 |
-| Rock and a Hard Place | 14.00% | ~11,465 |
-| Cooldown | 14.00% | ~11,465 |
-| Voiceless | 14.00% | ~11,465 |
-| Shock Til They Drop | 13.00% | ~10,646 |
-| Seeking Asylum | 13.00% | ~10,646 |
-| End of an Era | 12.00% | ~9,827 |
-| Not On My Watch | 12.00% | ~9,827 |
-| Bulldozed | 12.00% | ~9,827 |
-| Gotham Knight | 12.00% | ~9,827 |
-| Gotham City Confidential | 11.00% | ~9,008 |
-| Out of Their League | 9.00% | ~7,370 |
-| Drone You Out | 9.00% | ~7,370 |
-| Solid Alibi | 8.00% | ~6,551 |
-| Fusion Expert | 7.00% | ~5,732 |
-| Family Meeting | 6.00% | ~4,913 |
-| A Worthy Successor | 6.00% | ~4,913 |
-| Expert Crime Fighter | 5.00% | ~4,094 |
+| First Step Into the Knight | 50.00% | ~40,949 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,845 |
+| Loose Ends | 33.00% | ~27,026 |
+| To the Victor Go the Spoils | 27.00% | ~22,112 |
+| Knighthood | 26.00% | ~21,293 |
+| Get ReQ'd | 24.00% | ~19,656 |
+| Whispered Words | 24.00% | ~19,656 |
+| The Batman Family | 22.00% | ~18,018 |
+| Lock and Key | 22.00% | ~18,018 |
+| Something in the Clay | 20.00% | ~16,380 |
+| Quartzer Life Crisis | 20.00% | ~16,380 |
+| Working Hard or Harley Working? | 20.00% | ~16,380 |
+| Unstoppable Force | 20.00% | ~16,380 |
+| Bad Apples in Every Orchard | 20.00% | ~16,380 |
+| Snow Problem | 19.00% | ~15,561 |
+| The Show Mud Go On | 17.00% | ~13,923 |
+| From Inside Gotham's Walls | 17.00% | ~13,923 |
+| Protector of Gotham | 16.00% | ~13,104 |
+| In Your Element | 15.00% | ~12,285 |
+| Universal Health Scare | 15.00% | ~12,285 |
+| Rock and a Hard Place | 14.00% | ~11,466 |
+| Cooldown | 14.00% | ~11,466 |
+| Voiceless | 14.00% | ~11,466 |
+| Shock Til They Drop | 13.00% | ~10,647 |
+| Seeking Asylum | 13.00% | ~10,647 |
+| End of an Era | 12.00% | ~9,828 |
+| Not On My Watch | 12.00% | ~9,828 |
+| Bulldozed | 12.00% | ~9,828 |
+| Gotham Knight | 12.00% | ~9,828 |
+| Gotham City Confidential | 11.00% | ~9,009 |
+| Out of Their League | 9.00% | ~7,371 |
+| Drone You Out | 9.00% | ~7,371 |
+| Solid Alibi | 8.00% | ~6,552 |
+| Fusion Expert | 7.00% | ~5,733 |
+| Family Meeting | 6.00% | ~4,914 |
+| A Worthy Successor | 6.00% | ~4,914 |
+| Expert Crime Fighter | 5.00% | ~4,095 |
 | Dressed to Impress | 4.00% | ~3,276 |
 | A Momentum Occasion | 3.00% | ~2,457 |
 | Bat Out of Hell | 3.00% | ~2,457 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 971)
 | The Cold, the Bad and the Ugly | 0.30% | ~157 |
 | It's Nice to Be Wanted | 0.20% | ~104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,890 (Ranked 110)  
+Progressed: 81,898 (Ranked 110)  
 Completed: 132 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,11 +329,11 @@ Completed: 132 (0.16%) (Ranked 282)
 | 2024-01-04 | 81,437 | 131 |
 | 2024-01-05 | 81,609 | 131 |
 | 2024-01-06 | 81,792 | 132 |
-| 2024-01-07 | 81,890 | 132 |
+| 2024-01-07 | 81,898 | 132 |
 ## Awards
 Max (Great Boss Battles): 3,146  (Ranked 101)  
-Sum: 5,374 (Ranked 143)  
-Diff (max vs sum): -42  
+Sum: 5,374 (Ranked 142)  
+Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,146 |

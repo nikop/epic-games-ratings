@@ -5,35 +5,35 @@ Rating: 4.46 (Ranked 672)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,989 |
-| Confirming Suspicions | 42.00% | ~1,777 |
-| The Kraken Wakes | 38.00% | ~1,608 |
-| It's Starting to Crack | 35.00% | ~1,481 |
-| Change the Channel | 32.00% | ~1,354 |
+| Meeting Resistance | 47.00% | ~1,990 |
+| Confirming Suspicions | 42.00% | ~1,778 |
+| The Kraken Wakes | 37.00% | ~1,566 |
+| It's Starting to Crack | 35.00% | ~1,482 |
+| Change the Channel | 32.00% | ~1,355 |
 | Lord of War | 31.00% | ~1,312 |
 | Taking it back | 30.00% | ~1,270 |
 | Resourceful | 28.00% | ~1,185 |
 | Target America | 27.00% | ~1,143 |
 | The Kraken Sleeps | 25.00% | ~1,058 |
+| Organ Grinder | 24.00% | ~1,016 |
 | As Quiet as a Mouse | 24.00% | ~1,016 |
-| Liberté | 23.00% | ~973 |
-| Organ Grinder | 23.00% | ~973 |
-| Sharpshooter | 23.00% | ~973 |
+| Liberté | 23.00% | ~974 |
+| Sharpshooter | 23.00% | ~974 |
 | Gunslinger | 19.00% | ~804 |
 | Explosive Efficiency | 19.00% | ~804 |
-| Climbing the Ladder | 17.00% | ~719 |
-| Just a Flesh Wound | 17.00% | ~719 |
-| Der Geist | 17.00% | ~719 |
+| Climbing the Ladder | 17.00% | ~720 |
+| Just a Flesh Wound | 17.00% | ~720 |
+| Der Geist | 17.00% | ~720 |
 | Close Quarters | 16.00% | ~677 |
 | Snake in the Grass | 16.00% | ~677 |
 | Brains of the Operation | 16.00% | ~677 |
 | No Stone Unturned | 15.00% | ~635 |
 | Skirmisher | 15.00% | ~635 |
 | Die Nussknacker Sweet! | 15.00% | ~635 |
-| Opposing Force | 14.00% | ~592 |
-| Enemy at the Gates | 14.00% | ~592 |
-| Fields of Glory | 14.00% | ~592 |
-| Set Europe Ablaze | 14.00% | ~592 |
+| Opposing Force | 14.00% | ~593 |
+| Enemy at the Gates | 14.00% | ~593 |
+| Fields of Glory | 14.00% | ~593 |
+| Set Europe Ablaze | 14.00% | ~593 |
 | Precision Is Key | 10.00% | ~423 |
 | My Little Friend | 10.00% | ~423 |
 | Rigged to Blow | 9.00% | ~381 |
@@ -53,9 +53,9 @@ Rating: 4.46 (Ranked 672)
 | Burn after reading | 3.00% | ~127 |
 | Souvenir hunter | 3.00% | ~127 |
 | Shoot for the Moon | 3.00% | ~127 |
-| If You Go Down To The Woods Today | 3.00% | ~125 |
-| Fight Another Day | 3.00% | ~125 |
-| Shipbreaker | 3.00% | ~125 |
+| If You Go Down To The Woods Today | 3.00% | ~126 |
+| Fight Another Day | 3.00% | ~126 |
+| Shipbreaker | 3.00% | ~126 |
 | Out of Scope | 2.00% | ~85 |
 | Eagle Eyed | 2.00% | ~85 |
 | Up close and personal | 2.00% | ~85 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 672)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,232 (Ranked 210)  
+Progressed: 4,233 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,11 +337,11 @@ Completed: 11 (0.26%) (Ranked 262)
 | 2024-01-04 | 4,208 | 11 |
 | 2024-01-05 | 4,211 | 11 |
 | 2024-01-06 | 4,225 | 11 |
-| 2024-01-07 | 4,232 | 11 |
+| 2024-01-07 | 4,233 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 527)  
-Sum: 29 (Ranked 543)  
-Diff (max vs sum): -16  
+Sum: 29 (Ranked 544)  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 29 |

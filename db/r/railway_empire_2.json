@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 233,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2654,
+  "EOS_Progressed": 2655,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7731,6 +7731,11 @@
       "Time": "2024-01-07T14:05:07.4409852+00:00",
       "NumProgressed": 2654,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T15:04:59.5623739+00:00",
+      "NumProgressed": 2655,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7750,7 +7755,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "A02",
@@ -7822,7 +7827,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "A11",
@@ -7838,7 +7843,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "A13",
@@ -7854,7 +7859,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "A15",
@@ -7878,7 +7883,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "A18",
@@ -7894,7 +7899,7 @@
       "Name": "Tycoon",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "A20",
@@ -7902,7 +7907,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "A21",
@@ -7916,9 +7921,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1752
     },
     {
       "ID": "A23",
@@ -7934,7 +7939,7 @@
       "Name": "Access granted",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "A25",
@@ -8030,7 +8035,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "A37",
@@ -8046,7 +8051,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "A39",
@@ -8078,7 +8083,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "A43",
@@ -8094,7 +8099,7 @@
       "Name": "Breaking Ground",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "A45",
@@ -8150,7 +8155,7 @@
       "Name": "Call of Duty",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "A52",
@@ -8181,7 +8186,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2654,
+      "Progressed": 2655,
       "Completed": 0
     }
   ],
@@ -8189,8 +8194,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:05:07.440985+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:04:59.5623733+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.5860867+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:57:49.891392+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:05:07.4410463+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:57:54.1502611+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:04:59.5624554+00:00"
 }

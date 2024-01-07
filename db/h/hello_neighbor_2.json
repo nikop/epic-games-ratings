@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -509,7 +509,7 @@
   "Tags": [],
   "EOS_Progressed": 3935,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.66,
   "EosHistory": [
@@ -7015,9 +7015,9 @@
       "ID": "ACH_CLIMBER",
       "SetID": "4kfb9pd",
       "Name": "Climber",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 905
+      "UsersEstimate": 944
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -7112,8 +7112,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:08:40.1553278+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:08:33.3572999+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:58:43.857039+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:08:40.1553727+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:58:48.0514138+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:08:33.3573498+00:00"
 }

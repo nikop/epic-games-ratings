@@ -4,11 +4,12 @@
 Rating: 4.76 (Ranked 131)  
 ## Awards
 Max (Highly Recommended): 20  (Ranked 576)  
-Sum: 20 (Ranked 577)  
-Diff (max vs sum): -1  
+Sum: 40 (Ranked 521)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 20 |
+| This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -58,3 +59,4 @@ Diff (max vs sum): -1
 | 2024-01-02 | 4.77 | 0 | 0 |
 | 2024-01-04 | 4.76 | 0 | 0 |
 | 2024-01-06 | 4.76 | 20 | 20 |
+| 2024-01-07 | 4.76 | 20 | 40 |

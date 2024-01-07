@@ -5,23 +5,23 @@ Rating: 4.81 (Ranked 82)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,175 |
-| No more cages! | 90.00% | ~3,008 |
-| Everfrost | 77.00% | ~2,573 |
-| Pentakill | 76.00% | ~2,540 |
-| Dark Forest | 76.00% | ~2,540 |
+| For Demacia | 95.00% | ~3,176 |
+| No more cages! | 90.00% | ~3,009 |
+| Everfrost | 77.00% | ~2,574 |
+| Pentakill | 76.00% | ~2,541 |
+| Dark Forest | 76.00% | ~2,541 |
 | The use of petricite | 73.00% | ~2,440 |
-| You can pet the dog | 60.00% | ~2,005 |
+| You can pet the dog | 60.00% | ~2,006 |
 | Thornbarrow | 43.00% | ~1,437 |
-| Big Helmet Bro | 41.00% | ~1,370 |
-| Clarion Cove | 41.00% | ~1,370 |
-| Ternmoat Headquarters | 39.00% | ~1,303 |
+| Big Helmet Bro | 41.00% | ~1,371 |
+| Clarion Cove | 41.00% | ~1,371 |
+| Ternmoat Headquarters | 39.00% | ~1,304 |
 | Past trauma | 38.00% | ~1,270 |
 | Elemental master | 37.00% | ~1,237 |
 | Cypress Glen Headquarters | 35.00% | ~1,170 |
 | Old friend | 33.00% | ~1,103 |
 | Petricite Burst | 33.00% | ~1,103 |
-| Devineur | 32.00% | ~1,069 |
+| Devineur | 32.00% | ~1,070 |
 | Hijack | 31.00% | ~1,036 |
 | Whispers in the Woods I | 28.00% | ~936 |
 | I chose my shackles | 28.00% | ~936 |
@@ -48,8 +48,8 @@ Rating: 4.81 (Ranked 82)
 | The end of the experiments | 14.00% | ~468 |
 | The Great City of Demacia | 14.00% | ~468 |
 | Call it 'redistribution of magic | 14.00% | ~468 |
-| Embrace the darkness | 13.00% | ~434 |
-| Truth is a dark mirror | 13.00% | ~434 |
+| Embrace the darkness | 13.00% | ~435 |
+| Truth is a dark mirror | 13.00% | ~435 |
 | Do you trust me? | 12.00% | ~401 |
 | Back to sleep, then... | 12.00% | ~401 |
 | Chains master | 11.00% | ~368 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 82)
 | Silverwing nest | 2.00% | ~67 |
 | The Unshackled | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,342 (Ranked 224)  
+Progressed: 3,343 (Ranked 224)  
 Completed: 22 (0.66%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 22 (0.66%) (Ranked 199)
 | 2024-01-04 | 3,278 | 21 |
 | 2024-01-05 | 3,298 | 21 |
 | 2024-01-06 | 3,329 | 22 |
-| 2024-01-07 | 3,342 | 22 |
+| 2024-01-07 | 3,343 | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

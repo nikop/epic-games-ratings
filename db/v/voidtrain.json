@@ -2,12 +2,12 @@
   "ID": "301ec0fdbcaf46b3af9322e436ac87bd",
   "Name": "Voidtrain",
   "ProductSlug": "voidtrain",
-  "Ranking_Rating": 612,
+  "Ranking_Rating": 611,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-08-12T17:00:00+00:00",
@@ -1266,10 +1266,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 246,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-01-07T15:03:02.3555769+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 247,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 246,
+  "NumberOfAwards": 247,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1289,7 +1295,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Easy Combat",
@@ -1345,8 +1351,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2024-01-05T23:05:20.4907264+00:00",
+  "LastChanged": "2024-01-07T15:03:02.3555768+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:50.7499775+00:00",
-  "LastUpdate_Ratings": "2024-01-07T14:03:15.6572535+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:06:00.8384219+00:00"
+  "LastUpdate_Ratings": "2024-01-07T15:03:02.3555774+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:05:55.3116194+00:00"
 }

@@ -26,8 +26,8 @@
 | Gravity Bender | 7.00% | ~10 |
 | Hunter | 5.00% | ~7 |
 | Zero Gravity | 5.00% | ~7 |
+| No Place to Hide | 3.00% | ~4 |
 | A Voice in the Dark | 3.00% | ~4 |
-| No Place to Hide | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 148 (Ranked 458)  
 Completed: 3 (2.03%) (Ranked 136)  

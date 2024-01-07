@@ -1,32 +1,32 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 634)  
+Rating: 4.49 (Ranked 633)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,863 |
-| Photogenic | 82.00% | ~8,451 |
-| Surge Gauntlet Jockey | 79.00% | ~8,142 |
+| Let's Get This Party Started | 86.00% | ~8,864 |
+| Photogenic | 82.00% | ~8,452 |
+| Surge Gauntlet Jockey | 79.00% | ~8,143 |
 | Plug It In | 78.00% | ~8,039 |
 | Adventure Time | 75.00% | ~7,730 |
-| Playing With Power | 72.00% | ~7,420 |
-| Coup d'Etat | 55.00% | ~5,668 |
-| You're Fired | 54.00% | ~5,565 |
-| Get Furious | 53.00% | ~5,462 |
-| Hacks In Stacks | 52.00% | ~5,359 |
-| Gunplay And Cosplay | 51.00% | ~5,256 |
+| Playing With Power | 72.00% | ~7,421 |
+| Coup d'Etat | 55.00% | ~5,669 |
+| You're Fired | 54.00% | ~5,566 |
+| Get Furious | 53.00% | ~5,463 |
+| Hacks In Stacks | 52.00% | ~5,360 |
+| Gunplay And Cosplay | 51.00% | ~5,257 |
 | Meching Enemies | 46.00% | ~4,741 |
-| Ticket Toddler | 41.00% | ~4,225 |
-| Booty Bashing | 36.00% | ~3,710 |
-| Field Medic | 36.00% | ~3,710 |
+| Ticket Toddler | 41.00% | ~4,226 |
+| Booty Bashing | 36.00% | ~3,711 |
+| Field Medic | 36.00% | ~3,711 |
 | Here Comes a New Challenger | 35.00% | ~3,607 |
 | Rapid Response | 31.00% | ~3,195 |
 | Surge Ahead | 29.00% | ~2,989 |
 | The Full Monty | 29.00% | ~2,989 |
 | Guardian Angel | 26.00% | ~2,680 |
-| Poppin Noggins | 23.00% | ~2,370 |
+| Poppin Noggins | 23.00% | ~2,371 |
 | Clips and Crits | 18.00% | ~1,855 |
 | Grey Goo | 16.00% | ~1,649 |
 | Boss of Bosses | 14.00% | ~1,443 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~41 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,306 (Ranked 180)  
+Progressed: 10,307 (Ranked 180)  
 Completed: 2 (0.02%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 2 (0.02%) (Ranked 360)
 | 2024-01-04 | 10,264 | 2 |
 | 2024-01-05 | 10,273 | 2 |
 | 2024-01-06 | 10,295 | 2 |
-| 2024-01-07 | 10,306 | 2 |
+| 2024-01-07 | 10,307 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 420)  
 Sum: 465 (Ranked 338)  

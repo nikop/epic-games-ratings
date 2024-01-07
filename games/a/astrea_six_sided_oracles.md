@@ -16,13 +16,13 @@
 | Astral Adventurer | 35.00% | ~123 |
 | Noctuan Champion | 35.00% | ~123 |
 | Anomaly Destroyer | 31.00% | ~109 |
-| Star Killer | 30.00% | ~106 |
+| Star Killer | 31.00% | ~109 |
 | Eridanian Champion | 25.00% | ~88 |
 | Loyal Partner | 22.00% | ~77 |
 | Lacertian Champion | 21.00% | ~74 |
+| Apian Champion | 19.00% | ~67 |
 | Shard Spender | 18.00% | ~63 |
 | Unbeatable | 18.00% | ~63 |
-| Apian Champion | 18.00% | ~63 |
 | Sadistic Plan | 16.00% | ~56 |
 | Behenian Champion | 14.00% | ~49 |
 | Heavy Purger | 11.00% | ~39 |
@@ -30,10 +30,10 @@
 | Astral Seeker | 9.00% | ~32 |
 | Aquarian Champion | 9.00% | ~32 |
 | Stellar Haste | 8.00% | ~28 |
+| Favored by the Cosmos | 7.00% | ~25 |
 | Heart Gate | 7.00% | ~25 |
 | The Corruption Goddess | 7.00% | ~25 |
 | The Goddes Avatar | 7.00% | ~25 |
-| Favored by the Cosmos | 6.00% | ~21 |
 | Anomaly Control | 5.00% | ~18 |
 | Artificer | 5.00% | ~18 |
 | Can't touch this | 5.00% | ~18 |
@@ -103,8 +103,8 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352 (Ranked 377)  
-Completed: 0 (0.00%) (Ranked 393)  
+Progressed: 352 (Ranked 378)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

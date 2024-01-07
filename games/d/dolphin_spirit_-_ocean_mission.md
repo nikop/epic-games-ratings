@@ -18,18 +18,18 @@
 | Recycling expert | 10.00% | ~3 |
 | Island gardian angel | 10.00% | ~3 |
 | Picture of the bay | 10.00% | ~3 |
+| Picture of the atoll | 10.00% | ~3 |
 | Power of the turtle | 10.00% | ~3 |
 | Creek cleanup | 6.00% | ~2 |
+| Atoll cleanup | 6.00% | ~2 |
 | Heroic member | 6.00% | ~2 |
 | Legend of the association | 6.00% | ~2 |
 | Picture of the creek | 6.00% | ~2 |
-| Picture of the atoll | 6.00% | ~2 |
 | Picture of the reef | 6.00% | ~2 |
 | Picture of the island | 6.00% | ~2 |
 | Power of the shark | 6.00% | ~2 |
 | Animal reporter | 3.00% | ~1 |
 | Bay cleanup | 3.00% | ~1 |
-| Atoll cleanup | 3.00% | ~1 |
 | Reef cleanup | 3.00% | ~1 |
 | Island protector | 3.00% | ~1 |
 | Well of science | 3.00% | ~1 |
@@ -38,7 +38,7 @@
 | Island cleanup | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 590)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

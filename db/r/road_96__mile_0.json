@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 658,
+  "EOS_Progressed": 659,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2382,6 +2382,11 @@
       "Time": "2024-01-07T14:09:56.1176678+00:00",
       "NumProgressed": 658,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T15:09:52.3304853+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2409,7 +2414,7 @@
       "Name": "On the Road",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "findalltapes",
@@ -2489,7 +2494,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "scoreminrankrv1",
@@ -2512,7 +2517,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 658,
+      "Progressed": 659,
       "Completed": 3
     }
   ],
@@ -2520,8 +2525,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:56.1176676+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:09:52.3304847+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:57:40.5353996+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:56.1176835+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:57:44.2941262+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:09:52.3305019+00:00"
 }

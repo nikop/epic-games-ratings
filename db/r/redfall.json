@@ -4,9 +4,9 @@
   "ProductSlug": "redfall",
   "Ranking_Rating": 1091,
   "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 559,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -375,9 +375,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2295,
+  "EOS_Progressed": 2297,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4155,6 +4155,11 @@
       "Time": "2024-01-07T11:05:54.1426698+00:00",
       "NumProgressed": 2295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T15:04:49.0381796+00:00",
+      "NumProgressed": 2297,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4182,7 +4187,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Achievement_004",
@@ -4214,7 +4219,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Achievement_009",
@@ -4222,7 +4227,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Achievement_010",
@@ -4366,7 +4371,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Achievement_028",
@@ -4390,7 +4395,7 @@
       "Name": "ICU",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "Achievement_031",
@@ -4414,7 +4419,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "Achievement_034",
@@ -4422,7 +4427,7 @@
       "Name": "Catch and Release",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Achievement_035",
@@ -4693,7 +4698,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2295,
+      "Progressed": 2297,
       "Completed": 0
     }
   ],
@@ -4701,8 +4706,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-07T04:01:29.1090541+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:04:57.3168134+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:04:49.0381793+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:58:55.7005846+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:04:57.316913+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:58:59.5436429+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:04:49.0382534+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2562,9 +2562,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 680
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2882,9 +2882,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 402
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2931,8 +2931,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:09:22.3557279+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:09:17.2667658+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.4482016+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:59:06.9266854+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:09:22.3557765+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:59:10.5502344+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:09:17.2668006+00:00"
 }

@@ -4,9 +4,9 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 767,
   "Ranking_Popularity": 443,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -1453,7 +1453,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260370,
+  "EOS_Progressed": 260371,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
@@ -26548,6 +26548,11 @@
       "Time": "2024-01-07T14:04:29.4301028+00:00",
       "NumProgressed": 260370,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T15:04:20.1695105+00:00",
+      "NumProgressed": 260371,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26615,7 +26620,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13018
+      "UsersEstimate": 13019
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -26687,7 +26692,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13018
+      "UsersEstimate": 13019
     },
     {
       "ID": "CreedsInBank2",
@@ -27006,7 +27011,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260370,
+      "Progressed": 260371,
       "Completed": 3
     }
   ],
@@ -27014,8 +27019,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-04T22:00:56.7754949+00:00",
-  "LastChanged_Achievements": "2024-01-07T14:04:29.4301025+00:00",
+  "LastChanged_Achievements": "2024-01-07T15:04:20.1695099+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.9058213+00:00",
-  "LastUpdate_Ratings": "2024-01-07T13:06:08.7428205+00:00",
-  "LastUpdate_Achievements": "2024-01-07T14:04:29.4302686+00:00"
+  "LastUpdate_Ratings": "2024-01-07T14:57:06.2419222+00:00",
+  "LastUpdate_Achievements": "2024-01-07T15:04:20.1696529+00:00"
 }
