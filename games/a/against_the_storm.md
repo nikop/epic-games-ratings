@@ -12,16 +12,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overgrown Library | 8.00% | ~1,627 |
 | First Real Expedition | 7.00% | ~1,424 |
 | Petrified Necropolis | 7.00% | ~1,424 |
-| Overcoming Difficulty | 6.00% | ~1,220 |
-| Coral Forest | 6.00% | ~1,220 |
-| The Marshlands | 6.00% | ~1,220 |
-| The Scarlet Orchard | 6.00% | ~1,220 |
-| Gathering Storm | 6.00% | ~1,220 |
+| Overcoming Difficulty | 6.00% | ~1,221 |
+| Coral Forest | 6.00% | ~1,221 |
+| The Marshlands | 6.00% | ~1,221 |
+| The Scarlet Orchard | 6.00% | ~1,221 |
+| Gathering Storm | 6.00% | ~1,221 |
 | Frosts | 5.00% | ~1,017 |
 | Land of Greed | 5.00% | ~1,017 |
 | Ominous Presence | 5.00% | ~1,017 |
-| Royal Outpost | 4.00% | ~813 |
-| Watchtower | 4.00% | ~813 |
+| Royal Outpost | 4.00% | ~814 |
+| Watchtower | 4.00% | ~814 |
 | Homesick | 3.00% | ~610 |
 | Ruined Armory | 3.00% | ~610 |
 | Fertile Meadows | 3.00% | ~610 |
@@ -30,6 +30,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 3.00% | ~610 |
 | Statue of the Forefathers | 3.00% | ~610 |
 | Corrosive Torrent | 3.00% | ~610 |
+| Cursed Lands | 3.00% | ~610 |
 | A Real Challenge | 3.00% | ~610 |
 | Trade Baron | 3.00% | ~610 |
 | Untamed Wilds | 3.00% | ~610 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 2.00% | ~407 |
 | Haunted Forest | 2.00% | ~407 |
 | Flooded Mines | 2.00% | ~407 |
-| Cursed Lands | 2.00% | ~407 |
 | Defying the Crown | 2.00% | ~407 |
 | Into the Forest | 2.00% | ~407 |
 | Serving Ale | 1.00% | ~203 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,337 (Ranked 154)  
+Progressed: 20,343 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 34 (0.17%) (Ranked 281)
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
-| 2024-01-07 | 20,337 | 34 |
+| 2024-01-07 | 20,343 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 232)  
 Sum: 3,345 (Ranked 177)  

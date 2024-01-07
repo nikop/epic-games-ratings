@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Leap Before You Look | 68.00% | ~1,019 |
+| Leap Before You Look | 68.00% | ~1,021 |
 | Getting the Hang of It | 41.00% | ~615 |
 | Hoarder | 32.00% | ~480 |
 | Pest Control | 28.00% | ~420 |
@@ -23,7 +23,7 @@
 | Turret Syndrome | 2.00% | ~30 |
 | Endless Biographer | 1.00% | ~15 |
 | All Your Secrets Are Belong to Us | 0.80% | ~12 |
-| Grab 'Em All | 0.30% | ~4 |
+| Grab 'Em All | 0.30% | ~5 |
 | Unnaturally Curious | 0.00% | ~0 |
 | Starting an Endless Story | 0.00% | ~0 |
 | Finishing an Endless Story | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,499 (Ranked 264)  
+Progressed: 1,501 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,4 +119,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 1,472 | 0 |
 | 2024-01-05 | 1,483 | 0 |
 | 2024-01-06 | 1,498 | 0 |
-| 2024-01-07 | 1,499 | 0 |
+| 2024-01-07 | 1,501 | 0 |

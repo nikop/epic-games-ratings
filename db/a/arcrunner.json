@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 936,
+  "EOS_Progressed": 937,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2251,6 +2251,11 @@
       "Time": "2024-01-07T04:12:18.3576919+00:00",
       "NumProgressed": 936,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T06:10:07.5894973+00:00",
+      "NumProgressed": 937,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2262,7 +2267,7 @@
       "Name": "Augmented",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -2382,7 +2387,7 @@
       "Name": "Nanonic II",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -2438,7 +2443,7 @@
       "Name": "Terminated II",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -2493,13 +2498,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 936,
+      "Progressed": 937,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 3
     }
   ],
@@ -2507,8 +2512,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:09:57.064328+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:10:07.5894969+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:44.3239042+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:58:27.7578406+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:09:57.0643542+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:58:31.6443323+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:10:07.5895337+00:00"
 }

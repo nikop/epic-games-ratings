@@ -341,9 +341,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 788,
+  "EOS_Progressed": 789,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -2116,6 +2116,11 @@
       "Time": "2024-01-07T05:06:40.5921486+00:00",
       "NumProgressed": 788,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T06:06:35.0020654+00:00",
+      "NumProgressed": 789,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2336,7 +2341,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2344,7 +2349,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2383,15 +2388,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 788,
+      "Progressed": 789,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-06T21:00:31.8698684+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:06:40.5921483+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:06:35.0020648+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:02:16.1336775+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:06:40.5921741+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:02:48.6026499+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:06:35.0021103+00:00"
 }

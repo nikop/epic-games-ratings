@@ -19,20 +19,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 1.00% | ~162 |
 | Oracle | 1.00% | ~162 |
 | Just | 0.90% | ~146 |
+| Keystone | 0.90% | ~146 |
 | Learned | 0.90% | ~146 |
 | Noble | 0.90% | ~146 |
 | Pioneer | 0.90% | ~146 |
+| Pyramids | 0.90% | ~146 |
 | Judaism | 0.90% | ~146 |
 | Trade Caravan | 0.90% | ~146 |
 | Ambitious | 0.80% | ~129 |
 | Enlightened | 0.80% | ~129 |
 | Glorious | 0.80% | ~129 |
-| Keystone | 0.80% | ~129 |
 | Warrior | 0.80% | ~129 |
 | Developing Cities | 0.80% | ~129 |
 | Strong Cities | 0.80% | ~129 |
-| Pyramids | 0.80% | ~129 |
 | Learn to Play 1 | 0.80% | ~129 |
+| Babylonian Paganism | 0.80% | ~129 |
 | Greek Paganism | 0.80% | ~129 |
 | Naming Landmarks | 0.80% | ~129 |
 | Brilliant | 0.70% | ~113 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.70% | ~113 |
 | Ishtar Gate | 0.70% | ~113 |
 | Christianity | 0.70% | ~113 |
-| Babylonian Paganism | 0.70% | ~113 |
 | Roman Paganism | 0.70% | ~113 |
 | Zoroastrianism | 0.70% | ~113 |
 | Regicide | 0.60% | ~97 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,170 (Ranked 168)  
+Progressed: 16,172 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 5 (0.03%) (Ranked 353)
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
-| 2024-01-07 | 16,170 | 5 |
+| 2024-01-07 | 16,172 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 222)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1584,7 +1584,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27873,
+  "EOS_Progressed": 27878,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 0,
@@ -13309,6 +13309,11 @@
       "Time": "2024-01-07T05:10:22.6573223+00:00",
       "NumProgressed": 27873,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-07T06:10:31.5173427+00:00",
+      "NumProgressed": 27878,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13400,7 +13405,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -13416,7 +13421,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -13432,7 +13437,7 @@
       "Name": "King and Kin",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -13464,7 +13469,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -13496,7 +13501,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "BoxerBoss",
@@ -13504,7 +13509,7 @@
       "Name": "K.O.",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "EnableHouseRules",
@@ -13616,7 +13621,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "UnlockHighestUnity",
@@ -13631,21 +13636,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27873,
+      "Progressed": 27878,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6803,
+      "Progressed": 6808,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-07T05:00:47.8747453+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:10:22.657322+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:10:31.5173424+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:00:47.8747457+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:10:22.6574013+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:00:39.3397392+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:10:31.5174525+00:00"
 }

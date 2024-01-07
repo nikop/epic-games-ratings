@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -57,11 +57,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1259,
-  "EOS_Completed": 6,
-  "EOS_NewPlayers": 92,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.48,
+  "EOS_Progressed": 1260,
+  "EOS_Completed": 7,
+  "EOS_NewPlayers": 93,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -3737,6 +3737,11 @@
       "Time": "2024-01-07T04:12:56.3855148+00:00",
       "NumProgressed": 1259,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T06:10:44.2511737+00:00",
+      "NumProgressed": 1260,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3796,7 +3801,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ClovemaryGift",
@@ -3868,7 +3873,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3876,7 +3881,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3970,9 +3975,9 @@
       "ID": "NoGadgetFutureEkko3",
       "SetID": "a9e499d",
       "Name": "Raw Talent",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NoRewindCamille",
@@ -3988,7 +3993,7 @@
       "Name": "Time Flies",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ParryBoss",
@@ -4004,7 +4009,7 @@
       "Name": "No, Thanks!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4034,9 +4039,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 567
     },
     {
       "ID": "RewindParry",
@@ -4044,7 +4049,7 @@
       "Name": "Honest Mistake",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4060,7 +4065,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "SkillCompletion1",
@@ -4092,7 +4097,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "SyronGift",
@@ -4171,16 +4176,16 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1259,
-      "Completed": 6
+      "Progressed": 1260,
+      "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:10:36.2877697+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:10:44.2511732+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:58:21.7580269+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:10:36.2878389+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:58:26.3596516+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:10:44.2512587+00:00"
 }

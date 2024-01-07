@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2093,7 +2093,7 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 21430,
+  "EOS_Progressed": 21434,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 1248,
   "EOS_NewCompleters": 0,
@@ -12888,6 +12888,11 @@
       "Time": "2024-01-07T05:09:53.7588419+00:00",
       "NumProgressed": 21430,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-07T06:10:04.5768135+00:00",
+      "NumProgressed": 21434,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12923,7 +12928,7 @@
       "Name": "You Need a Gun",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "DISARM_ENEMY",
@@ -12931,7 +12936,7 @@
       "Name": "Flesh Wound",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5143
+      "UsersEstimate": 5144
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13003,7 +13008,7 @@
       "Name": "Get a Grip",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4287
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13043,7 +13048,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3215
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13067,7 +13072,7 @@
       "Name": "Reforged",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3643
+      "UsersEstimate": 3644
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13075,7 +13080,7 @@
       "Name": "Paper Jams",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4500
+      "UsersEstimate": 4501
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13099,7 +13104,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3215
     },
     {
       "ID": "STORY_HABITAT",
@@ -13115,7 +13120,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "STORY_MINETOWN",
@@ -13131,7 +13136,7 @@
       "Name": "Desperate Times",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13139,7 +13144,7 @@
       "Name": "Crash Site",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "STORY_TOWER",
@@ -13267,20 +13272,20 @@
       "Name": "Quick Pick",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21430,
+      "Progressed": 21434,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9356,
+      "Progressed": 9360,
       "Completed": 29
     }
   ],
@@ -13288,8 +13293,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-07T03:04:00.7232081+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:09:53.7588415+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:10:04.5768128+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:03:20.9659967+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:09:53.758917+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:03:29.6685679+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:10:04.5769112+00:00"
 }

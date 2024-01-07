@@ -6,24 +6,24 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~266 |
+| The Adventure Begins | 65.00% | ~267 |
 | Cartographer | 58.00% | ~238 |
-| A Strange Artefact | 54.00% | ~221 |
-| Insomnia | 50.00% | ~205 |
-| Lost & Found & Lost Again | 44.00% | ~180 |
-| From Whence we Came | 43.00% | ~176 |
-| Fire and Flood | 41.00% | ~168 |
+| A Strange Artefact | 54.00% | ~222 |
+| Insomnia | 50.00% | ~206 |
+| Lost & Found & Lost Again | 44.00% | ~181 |
+| From Whence we Came | 43.00% | ~177 |
+| Fire and Flood | 41.00% | ~169 |
 | Spooky! | 38.00% | ~156 |
 | Shennong Herbalist | 36.00% | ~148 |
 | Treasure Hunt | 36.00% | ~148 |
-| Good Mama | 33.00% | ~135 |
-| O Captain My Captain | 32.00% | ~131 |
+| Good Mama | 33.00% | ~136 |
+| O Captain My Captain | 32.00% | ~132 |
 | Plunderer | 30.00% | ~123 |
 | Taxonomist | 28.00% | ~115 |
 | Traveller | 26.00% | ~107 |
-| Uncertain Loyalties | 25.00% | ~102 |
-| Nahua Seeker | 24.00% | ~98 |
-| Roll to Save | 23.00% | ~94 |
+| Uncertain Loyalties | 25.00% | ~103 |
+| Nahua Seeker | 24.00% | ~99 |
+| Roll to Save | 23.00% | ~95 |
 | Veteran Explorer | 22.00% | ~90 |
 | Red Flag Pirate | 20.00% | ~82 |
 | Iron Man | 17.00% | ~70 |
@@ -32,7 +32,7 @@ Number of Ratings: 20  (23.09.2022)
 | Practical Palaeontology | 16.00% | ~66 |
 | Adventurer | 15.00% | ~62 |
 | For the Club! | 15.00% | ~62 |
-| Dapper | 14.00% | ~57 |
+| Dapper | 14.00% | ~58 |
 | The New Director | 13.00% | ~53 |
 | The Director is Dead | 13.00% | ~53 |
 | And Here Is Your Statue | 13.00% | ~53 |
@@ -50,9 +50,9 @@ Number of Ratings: 20  (23.09.2022)
 | Zookeeper | 7.00% | ~29 |
 | Islander Understanding | 6.00% | ~25 |
 | The Workshop | 6.00% | ~25 |
-| A Paris Sunset | 5.00% | ~20 |
-| The Director Perseveres | 5.00% | ~20 |
-| The Round Table | 5.00% | ~20 |
+| A Paris Sunset | 5.00% | ~21 |
+| The Director Perseveres | 5.00% | ~21 |
+| The Round Table | 5.00% | ~21 |
 | X Marks the Spot | 4.00% | ~16 |
 | Frugal | 4.00% | ~16 |
 | I Set Forth Again... and Again... and Again... | 4.00% | ~16 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 410 (Ranked 364)  
+Progressed: 411 (Ranked 364)  
 Completed: 1 (0.24%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 1 (0.24%) (Ranked 267)
 | 2024-01-04 | 400 | 1 |
 | 2024-01-05 | 406 | 1 |
 | 2024-01-06 | 410 | 1 |
+| 2024-01-07 | 411 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

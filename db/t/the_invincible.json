@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 267,
@@ -79,7 +79,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1474,
+  "EOS_Progressed": 1475,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 1,
@@ -3819,6 +3819,11 @@
       "Time": "2024-01-07T05:09:52.3192089+00:00",
       "NumProgressed": 1474,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T06:10:03.2485674+00:00",
+      "NumProgressed": 1475,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3895,7 +3900,7 @@
       "Name": "The Alliance",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "AchvDoom",
@@ -3951,7 +3956,7 @@
       "Name": "I leave no man behind (no exceptions)",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "AchvNecro",
@@ -4007,7 +4012,7 @@
       "Name": "The Camp",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "AchvReachCity",
@@ -4015,7 +4020,7 @@
       "Name": "The City",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "AchvReachCondor",
@@ -4023,7 +4028,7 @@
       "Name": "The Condor",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "AchvSurvivors",
@@ -4062,7 +4067,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1474,
+      "Progressed": 1475,
       "Completed": 1
     }
   ],
@@ -4070,8 +4075,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-06T12:00:48.1811852+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:09:52.3192087+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:10:03.2485671+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:01:11.5952571+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:09:52.3192392+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:01:01.7681997+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:10:03.248612+00:00"
 }

@@ -1,17 +1,17 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.61 (Ranked 399)  
+Rating: 4.61 (Ranked 400)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 69.00% | ~1,017 |
+| The Camp | 69.00% | ~1,018 |
 | The Teleprobe | 54.00% | ~796 |
-| The City | 49.00% | ~722 |
+| The City | 49.00% | ~723 |
 | The field base | 44.00% | ~649 |
-| The Alliance | 41.00% | ~604 |
+| The Alliance | 41.00% | ~605 |
 | Survivors | 39.00% | ~575 |
-| The Condor | 37.00% | ~545 |
+| The Condor | 37.00% | ~546 |
 | The End | 36.00% | ~531 |
 | Krauta is alive | 28.00% | ~413 |
 | The Necroevolution | 28.00% | ~413 |
@@ -31,11 +31,11 @@ Rating: 4.61 (Ranked 399)
 | The Invincible | 6.00% | ~88 |
 | Strong objection | 6.00% | ~88 |
 | Got lost again | 5.00% | ~74 |
-| I leave no man behind (no exceptions) | 2.00% | ~29 |
+| I leave no man behind (no exceptions) | 2.00% | ~30 |
 | Convoy list | 0.90% | ~13 |
 | No more mistakes | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,474 (Ranked 267)  
+Progressed: 1,475 (Ranked 267)  
 Completed: 1 (0.07%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.07%) (Ranked 326)
 | 2024-01-04 | 1,381 | 1 |
 | 2024-01-05 | 1,415 | 1 |
 | 2024-01-06 | 1,462 | 1 |
-| 2024-01-07 | 1,474 | 1 |
+| 2024-01-07 | 1,475 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,38 +1,38 @@
 # Chants of Sennaar
 [Store](https://store.epicgames.com/en-US/p/chants-of-sennaar)  
 [View Rawdata](../../db/c/chants_of_sennaar.json)  
-Rating: 4.84 (Ranked 47)  
+Rating: 4.85 (Ranked 39)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 59.00% | ~1,473 |
-| Welcome to the Tower | 53.00% | ~1,323 |
-| The great escape | 45.00% | ~1,123 |
-| The Preacher's fate | 43.00% | ~1,073 |
-| A new dawn | 37.00% | ~924 |
-| Scholar | 32.00% | ~799 |
-| The darkness | 31.00% | ~774 |
-| A good beginning | 30.00% | ~749 |
-| True G3M4R | 30.00% | ~749 |
-| One last step | 28.00% | ~699 |
-| I did it | 26.00% | ~649 |
-| Cable guy | 26.00% | ~649 |
-| Half the way | 26.00% | ~649 |
-| Rascal | 26.00% | ~649 |
-| Peace walker | 25.00% | ~624 |
-| Champollion | 25.00% | ~624 |
-| In this together | 24.00% | ~599 |
-| Open door | 21.00% | ~524 |
-| Feels like springtime | 21.00% | ~524 |
-| Alchemists Express | 20.00% | ~499 |
-| Free at last | 19.00% | ~474 |
-| A Link to the Past | 16.00% | ~399 |
-| A great audience | 14.00% | ~349 |
-| For its own good | 14.00% | ~349 |
+| That's the spirit | 59.00% | ~1,475 |
+| Welcome to the Tower | 53.00% | ~1,325 |
+| The great escape | 45.00% | ~1,125 |
+| The Preacher's fate | 43.00% | ~1,075 |
+| A new dawn | 37.00% | ~925 |
+| Scholar | 32.00% | ~800 |
+| The darkness | 31.00% | ~775 |
+| A good beginning | 30.00% | ~750 |
+| True G3M4R | 30.00% | ~750 |
+| One last step | 28.00% | ~700 |
+| I did it | 26.00% | ~650 |
+| Cable guy | 26.00% | ~650 |
+| Half the way | 26.00% | ~650 |
+| Rascal | 26.00% | ~650 |
+| Peace walker | 25.00% | ~625 |
+| Champollion | 25.00% | ~625 |
+| In this together | 24.00% | ~600 |
+| Open door | 21.00% | ~525 |
+| Feels like springtime | 21.00% | ~525 |
+| Alchemists Express | 20.00% | ~500 |
+| Free at last | 19.00% | ~475 |
+| A Link to the Past | 16.00% | ~400 |
+| A great audience | 14.00% | ~350 |
+| For its own good | 14.00% | ~350 |
 | Fashion victim | 9.00% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,496 (Ranked 236)  
-Completed: 169 (6.77%) (Ranked 63)  
+Progressed: 2,500 (Ranked 235)  
+Completed: 169 (6.76%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -200,7 +200,7 @@ Completed: 169 (6.77%) (Ranked 63)
 | 2024-01-04 | 2,370 | 149 |
 | 2024-01-05 | 2,427 | 158 |
 | 2024-01-06 | 2,492 | 168 |
-| 2024-01-07 | 2,496 | 169 |
+| 2024-01-07 | 2,500 | 169 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -220,3 +220,4 @@ Completed: 169 (6.77%) (Ranked 63)
 | 2024-01-04 | 4.84 | 0 | 0 |
 | 2024-01-05 | 4.83 | 0 | 0 |
 | 2024-01-06 | 4.84 | 0 | 0 |
+| 2024-01-07 | 4.85 | 0 | 0 |

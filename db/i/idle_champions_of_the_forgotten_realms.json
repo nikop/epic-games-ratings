@@ -9329,10 +9329,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33366,
       "NumberOfAwardsMax": 5756
+    },
+    {
+      "Time": "2024-01-07T06:01:26.3313587+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33383,
+      "NumberOfAwardsMax": 5756
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33366,
+  "NumberOfAwards": 33383,
   "NumberOfAwardsMax": 5756,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9346,7 +9352,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5692
+      "Count": 5699
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9364,7 +9370,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4303
+      "Count": 4310
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9376,12 +9382,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3628
+      "Count": 3631
     }
   ],
-  "EOS_Progressed": 252228,
+  "EOS_Progressed": 252240,
   "EOS_Completed": 2599,
-  "EOS_NewPlayers": 4134,
+  "EOS_NewPlayers": 4114,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39024,6 +39030,11 @@
       "Time": "2024-01-07T05:10:42.3815611+00:00",
       "NumProgressed": 252228,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-07T06:10:50.1013544+00:00",
+      "NumProgressed": 252240,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 546,
@@ -39035,7 +39046,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10089
+      "UsersEstimate": 10090
     },
     {
       "ID": "objective_completed_10",
@@ -42209,9 +42220,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 757
     },
     {
       "ID": "objective_completed_75",
@@ -43402,21 +43413,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218502,
+      "Progressed": 218514,
       "Completed": 4141
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252228,
+      "Progressed": 252240,
       "Completed": 2599
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-07T05:01:40.661978+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:10:42.3815607+00:00",
+  "LastChanged": "2024-01-07T06:01:26.3313586+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:10:50.1013541+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:01:40.6619785+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:10:42.3840079+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:01:26.3313592+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:10:50.1037737+00:00"
 }

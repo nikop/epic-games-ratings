@@ -2,13 +2,13 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 910,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,7 +273,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70274,
+  "EOS_Progressed": 70275,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
@@ -19778,6 +19778,11 @@
       "Time": "2024-01-07T05:04:47.277164+00:00",
       "NumProgressed": 70274,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-07T06:04:49.7017609+00:00",
+      "NumProgressed": 70275,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -19789,7 +19794,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "ACH_BONFIRES",
@@ -19877,7 +19882,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -19933,7 +19938,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "ACH_TOOLS",
@@ -19948,7 +19953,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 70274,
+      "Progressed": 70275,
       "Completed": 18
     }
   ],
@@ -19956,8 +19961,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:04:47.2771636+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:04:49.7017604+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:33.3205211+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:00:27.8493362+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:04:47.2772682+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:00:20.1962842+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:04:49.7018588+00:00"
 }

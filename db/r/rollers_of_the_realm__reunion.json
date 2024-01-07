@@ -4,8 +4,8 @@
   "ProductSlug": "rollers-of-the-realm-reunion",
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-06T23:57:11.6889857+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:59:46.1849203+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:08:31.5155534+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:59:42.6872095+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:08:47.4570397+00:00"
 }

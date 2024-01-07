@@ -63,8 +63,8 @@ Rating: 4.27 (Ranked 900)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,499 (Ranked 235)  
-Completed: 13 (0.52%) (Ranked 215)  
+Progressed: 2,499 (Ranked 236)  
+Completed: 13 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

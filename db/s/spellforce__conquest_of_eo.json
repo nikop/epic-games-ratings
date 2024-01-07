@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -807,9 +807,9 @@
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Harvest_First_Plant",
@@ -1208,8 +1208,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:09:52.3082199+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:10:03.1673867+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:02:23.4042204+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:09:52.3082761+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:02:55.2106607+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:10:03.1674556+00:00"
 }

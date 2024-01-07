@@ -6,8 +6,8 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 21.00% | ~165 |
-| Sponge Smasher | 21.00% | ~165 |
+| Spatula Seeker | 21.00% | ~166 |
+| Sponge Smasher | 21.00% | ~166 |
 | Jellyfish Jam | 20.00% | ~158 |
 | Jellyfishing | 16.00% | ~126 |
 | Sweet Victory | 12.00% | ~95 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~8 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 788 (Ranked 311)  
+Progressed: 789 (Ranked 311)  
 Completed: 7 (0.89%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 7 (0.89%) (Ranked 183)
 | 2024-01-04 | 715 | 7 |
 | 2024-01-05 | 747 | 7 |
 | 2024-01-06 | 780 | 7 |
-| 2024-01-07 | 788 | 7 |
+| 2024-01-07 | 789 | 7 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 497)  
 Sum: 36 (Ranked 528)  

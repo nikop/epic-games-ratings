@@ -2,10 +2,10 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 344,
-  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_Progress": 345,
+  "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -2225,9 +2225,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 97
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2249,9 +2249,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 224
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2296,8 +2296,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:07:17.9792281+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:07:09.2646104+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:58:21.9157427+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:07:17.9792524+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:58:26.3947879+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:07:09.2646309+00:00"
 }

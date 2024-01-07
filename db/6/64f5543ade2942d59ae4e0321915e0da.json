@@ -3,8 +3,8 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 362,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 415,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -1798,9 +1798,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 149
     },
     {
       "ID": "AC_DEATH_2",
@@ -1846,9 +1846,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 332
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1997,8 +1997,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:07:47.7606939+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:07:36.7302701+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:58:24.5348106+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:07:47.7607312+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:58:28.6974927+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:07:36.7303155+00:00"
 }

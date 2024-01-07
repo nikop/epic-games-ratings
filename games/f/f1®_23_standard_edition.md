@@ -5,57 +5,57 @@ Rating: 4.65 (Ranked 319)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~14,808 |
-| On the Top Step | 82.00% | ~13,344 |
-| Setting up for Success | 69.00% | ~11,228 |
-| Team Orders | 67.00% | ~10,903 |
-| Engineer | 45.00% | ~7,323 |
-| Familiar Faces | 41.00% | ~6,672 |
-| Going the Extra Mile | 35.00% | ~5,696 |
-| Sharing the Love | 33.00% | ~5,370 |
-| Hitting a Season | 26.00% | ~4,231 |
-| Making History | 25.00% | ~4,068 |
-| A Dozen Pieces | 24.00% | ~3,906 |
-| Network Success | 23.00% | ~3,743 |
-| Challenge Yourself | 23.00% | ~3,743 |
-| Writing a new Chapter | 19.00% | ~3,092 |
-| Spring Cleaning | 18.00% | ~2,929 |
-| Reduce | 14.00% | ~2,278 |
-| Ups and Downs | 14.00% | ~2,278 |
-| Crucial Combo | 13.00% | ~2,115 |
-| Reuse | 12.00% | ~1,953 |
-| Proving Them Wrong | 12.00% | ~1,953 |
-| Gathering Dust | 11.00% | ~1,790 |
-| Friendly Competition | 10.00% | ~1,627 |
-| Switcheroo | 10.00% | ~1,627 |
-| One for the Book | 10.00% | ~1,627 |
+| Getting on the Step | 91.00% | ~14,818 |
+| On the Top Step | 82.00% | ~13,352 |
+| Setting up for Success | 69.00% | ~11,235 |
+| Team Orders | 67.00% | ~10,910 |
+| Engineer | 45.00% | ~7,327 |
+| Familiar Faces | 41.00% | ~6,676 |
+| Going the Extra Mile | 35.00% | ~5,699 |
+| Sharing the Love | 32.00% | ~5,211 |
+| Hitting a Season | 26.00% | ~4,234 |
+| Making History | 25.00% | ~4,071 |
+| A Dozen Pieces | 24.00% | ~3,908 |
+| Network Success | 23.00% | ~3,745 |
+| Challenge Yourself | 23.00% | ~3,745 |
+| Writing a new Chapter | 19.00% | ~3,094 |
+| Spring Cleaning | 18.00% | ~2,931 |
+| Reduce | 14.00% | ~2,280 |
+| Ups and Downs | 14.00% | ~2,280 |
+| Crucial Combo | 13.00% | ~2,117 |
+| Reuse | 12.00% | ~1,954 |
+| Proving Them Wrong | 12.00% | ~1,954 |
+| Gathering Dust | 11.00% | ~1,791 |
+| Friendly Competition | 10.00% | ~1,628 |
+| Switcheroo | 10.00% | ~1,628 |
+| One for the Book | 10.00% | ~1,628 |
 | Eagle Eye | 9.00% | ~1,465 |
 | All in a Weekend's Work | 9.00% | ~1,465 |
 | Oil and Water | 9.00% | ~1,465 |
 | Hitting a Bullseye | 9.00% | ~1,465 |
 | Spinning Around | 9.00% | ~1,465 |
-| Lightning Round the World | 8.00% | ~1,302 |
-| Recycle | 7.00% | ~1,139 |
-| Undisputed Winner | 6.00% | ~976 |
-| Tinkerer | 6.00% | ~976 |
+| Lightning Round the World | 8.00% | ~1,303 |
+| Recycle | 7.00% | ~1,140 |
+| Undisputed Winner | 6.00% | ~977 |
+| Tinkerer | 6.00% | ~977 |
 | For all Those Back at the Factory | 4.00% | ~651 |
 | Living up to Expectations | 4.00% | ~651 |
 | Smooth Operator | 4.00% | ~651 |
 | Peak Performance | 4.00% | ~651 |
 | Loyal Bond | 3.00% | ~488 |
-| Seasoned Rookie | 2.00% | ~325 |
-| Hitting a Century | 2.00% | ~325 |
-| Wait, I know you? | 2.00% | ~325 |
+| Seasoned Rookie | 2.00% | ~326 |
+| Hitting a Century | 2.00% | ~326 |
+| Wait, I know you? | 2.00% | ~326 |
 | Filling in the Gaps | 1.00% | ~163 |
 | Media Darling | 1.00% | ~163 |
-| Saturday Night Drama | 0.90% | ~146 |
+| Saturday Night Drama | 0.90% | ~147 |
 | Under the Microscope | 0.50% | ~81 |
 | Ultimate Collector | 0.30% | ~49 |
 | Golden Touch | 0.20% | ~33 |
 | Shot in the Dark | 0.10% | ~16 |
 | Elite Racer | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,273 (Ranked 166)  
+Progressed: 16,283 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,16 +171,16 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 15,352 | 0 |
 | 2024-01-05 | 15,717 | 0 |
 | 2024-01-06 | 16,184 | 0 |
-| 2024-01-07 | 16,273 | 0 |
+| 2024-01-07 | 16,283 | 0 |
 ## Awards
 Max (Diverse Characters): 59  (Ranked 431)  
-Sum: 382 (Ranked 359)  
-Diff (max vs sum): 72  
+Sum: 383 (Ranked 358)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 59 |
 | This game has a Competitive Community | 48 |
-| This game is Highly Recommended | 42 |
+| This game is Highly Recommended | 43 |
 | This game is Great for Beginners | 36 |
 | This game has Quickly Understood Controls | 36 |
 | This game is Extremely Fun | 35 |
@@ -309,4 +309,4 @@ Diff (max vs sum): 72
 | 2024-01-04 | 4.65 | 57 | 371 |
 | 2024-01-05 | 4.66 | 59 | 374 |
 | 2024-01-06 | 4.65 | 59 | 381 |
-| 2024-01-07 | 4.65 | 59 | 382 |
+| 2024-01-07 | 4.65 | 59 | 383 |

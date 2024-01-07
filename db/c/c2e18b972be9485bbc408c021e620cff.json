@@ -2,13 +2,13 @@
   "ID": "c2e18b972be9485bbc408c021e620cff",
   "Name": "Train Sim World\u00AE 4: Standard Edition",
   "ProductSlug": "train-sim-world-4",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-26T17:00:00+00:00",
     "PcReleaseDate": "2023-09-26T17:00:00+00:00",
@@ -1213,18 +1213,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 444,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2024-01-07T06:01:37.4934115+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 446,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 444,
-  "NumberOfAwardsMax": 121,
+  "NumberOfAwards": 446,
+  "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1272,7 +1278,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1301,9 +1307,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2024-01-06T20:01:37.8791161+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:06:35.2363761+00:00",
+  "LastChanged": "2024-01-07T06:01:37.4934114+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:06:30.0984554+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:03.5399154+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:01:52.3468953+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:06:35.2363791+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:01:37.4934119+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:06:30.0984585+00:00"
 }

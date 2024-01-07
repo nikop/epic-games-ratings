@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 497,
+  "EOS_Progressed": 498,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1615,6 +1615,11 @@
       "Time": "2024-01-06T18:08:30.0972253+00:00",
       "NumProgressed": 497,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T06:08:29.7667619+00:00",
+      "NumProgressed": 498,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1642,7 +1647,7 @@
       "Name": "Lux Living",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_apartments_2",
@@ -1674,7 +1679,7 @@
       "Name": "Artfully Done",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_art_large",
@@ -1986,7 +1991,7 @@
       "Name": "Happy Tenants",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_loan",
@@ -1994,7 +1999,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_mod_1",
@@ -2050,7 +2055,7 @@
       "Name": "People Mover",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_pop_2",
@@ -2066,7 +2071,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_prestige_2",
@@ -2088,9 +2093,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 274
     },
     {
       "ID": "ach_profit_1",
@@ -2154,7 +2159,7 @@
       "Name": "Potent Potables",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_restaurants_5",
@@ -2170,7 +2175,7 @@
       "Name": "Retail Revenue",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_retail_2",
@@ -2178,7 +2183,7 @@
       "Name": "Emporium Empire",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_retail_3",
@@ -2186,7 +2191,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_retail_4",
@@ -2250,7 +2255,7 @@
       "Name": "Smooth Service",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ach_trash_1",
@@ -2266,7 +2271,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_util_cable",
@@ -2298,7 +2303,7 @@
       "Name": "Get Electrified",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_util_water",
@@ -2329,7 +2334,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 497,
+      "Progressed": 498,
       "Completed": 0
     }
   ],
@@ -2337,8 +2342,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:08:12.8534098+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:08:29.7667613+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:01:58.557474+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:08:12.8535039+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:01:43.1248792+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:08:29.7668586+00:00"
 }

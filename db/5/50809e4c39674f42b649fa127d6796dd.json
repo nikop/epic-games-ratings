@@ -3,9 +3,9 @@
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
-  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 371,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -23,10 +23,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 516,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.58,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
     {
       "Time": "2023-10-18T09:06:38.9917479+00:00",
@@ -1477,6 +1477,11 @@
       "Time": "2024-01-07T05:08:05.4312755+00:00",
       "NumProgressed": 516,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T06:08:23.1126206+00:00",
+      "NumProgressed": 516,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1759,9 +1764,9 @@
       "ID": "SUB_CLEAR_ALL",
       "SetID": "apihg0e",
       "Name": "Expert Historian",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "SUB_CLEAR_ISLAND1",
@@ -1809,13 +1814,13 @@
       "ID": "apihg0e",
       "IsBase": true,
       "Progressed": 516,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:08:05.4312752+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:08:23.1126202+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:07.7248276+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:03:12.3363382+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:08:05.4313056+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:03:21.1833244+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:08:23.1126575+00:00"
 }

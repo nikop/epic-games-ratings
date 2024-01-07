@@ -4,8 +4,8 @@
   "ProductSlug": "kenshi-c79c40",
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2018-12-06T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-02T17:57:21.5463441+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:58:14.9846214+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:07:09.2918926+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:58:20.0318923+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:07:01.4185051+00:00"
 }

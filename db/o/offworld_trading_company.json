@@ -4,11 +4,11 @@
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 876,
   "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 383,
+  "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-02-27T15:00:00+00:00",
     "PcReleaseDate": "2020-02-27T15:00:00+00:00",
@@ -775,10 +775,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 292,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-01-07T05:58:35.7501334+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 293,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 292,
+  "NumberOfAwards": 293,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -834,7 +840,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has a Creative Community",
@@ -854,8 +860,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2023-12-29T20:57:27.2968952+00:00",
+  "LastChanged": "2024-01-07T05:58:35.7501333+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:18.2695243+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:58:32.1484724+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:05:22.3451025+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:58:35.7501337+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:05:22.9539064+00:00"
 }

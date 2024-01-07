@@ -5,26 +5,26 @@ Rating: 4.54 (Ranked 549)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 18.00% | ~21,384 |
-| I've Had Enough! | 14.00% | ~16,632 |
-| Fists, Fury & a lot of Rage | 10.00% | ~11,880 |
-| All For One and One For All | 8.00% | ~9,504 |
-| Seasoned Fighter | 8.00% | ~9,504 |
-| Home Sweet Home? | 6.00% | ~7,128 |
-| A New Age | 5.00% | ~5,940 |
-| Oh Baby, A Triple | 3.00% | ~3,564 |
-| Symbiotic | 3.00% | ~3,564 |
-| Battle Hardened | 2.00% | ~2,376 |
-| Master of Disguise | 2.00% | ~2,376 |
-| It's Mayhem! | 2.00% | ~2,376 |
-| Right back at'cha | 2.00% | ~2,376 |
-| Cautious Veteran | 1.00% | ~1,188 |
-| Double Punch! | 1.00% | ~1,188 |
-| Martyrdom | 1.00% | ~1,188 |
-| Spectacular Finisher | 1.00% | ~1,188 |
-| Katamari | 0.90% | ~1,069 |
-| Zero-sum Game | 0.90% | ~1,069 |
-| Ninja Reflex | 0.80% | ~950 |
+| All Grown Up! | 18.00% | ~21,394 |
+| I've Had Enough! | 14.00% | ~16,639 |
+| Fists, Fury & a lot of Rage | 10.00% | ~11,885 |
+| All For One and One For All | 8.00% | ~9,508 |
+| Seasoned Fighter | 8.00% | ~9,508 |
+| Home Sweet Home? | 6.00% | ~7,131 |
+| A New Age | 5.00% | ~5,943 |
+| Oh Baby, A Triple | 3.00% | ~3,566 |
+| Symbiotic | 3.00% | ~3,566 |
+| Battle Hardened | 2.00% | ~2,377 |
+| Master of Disguise | 2.00% | ~2,377 |
+| It's Mayhem! | 2.00% | ~2,377 |
+| Right back at'cha | 2.00% | ~2,377 |
+| Cautious Veteran | 1.00% | ~1,189 |
+| Double Punch! | 1.00% | ~1,189 |
+| Martyrdom | 1.00% | ~1,189 |
+| Spectacular Finisher | 1.00% | ~1,189 |
+| Katamari | 0.90% | ~1,070 |
+| Zero-sum Game | 0.90% | ~1,070 |
+| Ninja Reflex | 0.80% | ~951 |
 | Taste Your Own Medicine | 0.70% | ~832 |
 | This is GigaBash! | 0.50% | ~594 |
 | Sidetracked... | 0.50% | ~594 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 549)
 | What's Mine is Yours | 0.10% | ~119 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,802 (Ranked 93)  
+Progressed: 118,853 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 116,792 | 0 |
 | 2024-01-05 | 117,637 | 0 |
 | 2024-01-06 | 118,583 | 0 |
-| 2024-01-07 | 118,802 | 0 |
+| 2024-01-07 | 118,853 | 0 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 459)  
 Sum: 49 (Ranked 511)  

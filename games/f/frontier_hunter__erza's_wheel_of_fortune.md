@@ -18,7 +18,7 @@ Rating: 4.38 (Ranked 790)
 | Beginner Artificer | 37.00% | ~269 |
 | Seal Breaker | 32.00% | ~233 |
 | Handyman | 28.00% | ~204 |
-| Giant Lizard Killer | 26.00% | ~189 |
+| Giant Lizard Killer | 27.00% | ~196 |
 | Guardian | 25.00% | ~182 |
 | Nosebleeder | 25.00% | ~182 |
 | Trader | 22.00% | ~160 |

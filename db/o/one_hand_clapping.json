@@ -4,8 +4,8 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
     "PcReleaseDate": "2021-06-10T11:05:23+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 876,
+  "EOS_Progressed": 878,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -689,6 +689,11 @@
       "Time": "2024-01-06T21:05:17.104342+00:00",
       "NumProgressed": 876,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T06:06:10.8169351+00:00",
+      "NumProgressed": 878,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -698,9 +703,9 @@
       "ID": "1",
       "SetID": "7l2nmpm",
       "Name": "Silent City",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 202
     },
     {
       "ID": "10",
@@ -866,9 +871,9 @@
       "ID": "3",
       "SetID": "7l2nmpm",
       "Name": "Maestro Mountain",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 26
     },
     {
       "ID": "4",
@@ -923,7 +928,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 876,
+      "Progressed": 878,
       "Completed": 0
     }
   ],
@@ -931,8 +936,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:06:14.2349919+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:06:10.8169348+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.3557849+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:59:12.5387851+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:06:14.235014+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:59:12.2671096+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:06:10.8169606+00:00"
 }

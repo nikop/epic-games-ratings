@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 56.00% | ~278 |
+| In the Black | 55.00% | ~274 |
 | Starting Skyward | 49.00% | ~244 |
 | Grime is Not Good | 42.00% | ~209 |
 | Floor Galore | 37.00% | ~184 |
@@ -16,19 +16,19 @@
 | Proper Walls | 29.00% | ~144 |
 | Delegate Maintenance | 29.00% | ~144 |
 | Destination Destiny | 28.00% | ~139 |
-| Happy Tenants | 23.00% | ~114 |
-| Potent Potables | 23.00% | ~114 |
-| Smooth Service | 22.00% | ~109 |
-| Don't Feel a Loan | 21.00% | ~104 |
-| Your Prestige is Rising | 21.00% | ~104 |
-| Retail Revenue | 21.00% | ~104 |
-| Artfully Done | 18.00% | ~89 |
-| People Mover | 18.00% | ~89 |
-| Leveled Up Shops | 18.00% | ~89 |
-| We Don't Need No Education | 18.00% | ~89 |
-| Lux Living | 17.00% | ~84 |
-| Emporium Empire | 17.00% | ~84 |
-| Get Electrified | 17.00% | ~84 |
+| Happy Tenants | 23.00% | ~115 |
+| Potent Potables | 23.00% | ~115 |
+| Smooth Service | 22.00% | ~110 |
+| Don't Feel a Loan | 21.00% | ~105 |
+| Your Prestige is Rising | 21.00% | ~105 |
+| Retail Revenue | 21.00% | ~105 |
+| Artfully Done | 18.00% | ~90 |
+| People Mover | 18.00% | ~90 |
+| Leveled Up Shops | 18.00% | ~90 |
+| We Don't Need No Education | 18.00% | ~90 |
+| Lux Living | 17.00% | ~85 |
+| Emporium Empire | 17.00% | ~85 |
+| Get Electrified | 17.00% | ~85 |
 | Rehab Expert | 16.00% | ~80 |
 | Tasty Profits | 16.00% | ~80 |
 | Established Fame | 15.00% | ~75 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497 (Ranked 348)  
+Progressed: 498 (Ranked 348)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 490 | 0 |
 | 2024-01-05 | 492 | 0 |
 | 2024-01-06 | 497 | 0 |
+| 2024-01-07 | 498 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

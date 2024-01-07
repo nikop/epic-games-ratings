@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18471,
+  "EOS_Progressed": 18476,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16546,6 +16546,11 @@
       "Time": "2024-01-07T05:07:12.2412672+00:00",
       "NumProgressed": 18471,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-07T06:07:04.0207384+00:00",
+      "NumProgressed": 18476,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16590,7 +16595,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3141
     },
     {
       "ID": "14",
@@ -16598,7 +16603,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "15",
@@ -16606,7 +16611,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "16",
@@ -16630,7 +16635,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "19",
@@ -16670,7 +16675,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "23",
@@ -16702,7 +16707,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "27",
@@ -16710,7 +16715,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "28",
@@ -16734,7 +16739,7 @@
       "Name": "Captain Drummer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "30",
@@ -16742,7 +16747,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "4",
@@ -16750,7 +16755,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "5",
@@ -16766,7 +16771,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "7",
@@ -16782,7 +16787,7 @@
       "Name": "Data Recoverer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "9",
@@ -16806,7 +16811,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "33",
@@ -16814,7 +16819,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "34",
@@ -16830,29 +16835,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18471,
+      "Progressed": 18476,
       "Completed": 59
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4425,
-      "Completed": 1223
+      "Progressed": 4430,
+      "Completed": 1225
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-06T19:58:03.9516258+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:07:12.2412669+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:07:04.020738+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:58:12.9029217+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:07:12.2413519+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:58:18.2180612+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:07:04.0208546+00:00"
 }

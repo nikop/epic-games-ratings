@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1659,
+  "EOS_Progressed": 1662,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4340,6 +4340,11 @@
       "Time": "2024-01-07T02:04:57.7376569+00:00",
       "NumProgressed": 1659,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T06:10:34.4776299+00:00",
+      "NumProgressed": 1662,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4407,7 +4412,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1645
     },
     {
       "ID": "EXPERT_1",
@@ -4423,7 +4428,7 @@
       "Name": "Explorer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4439,7 +4444,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4447,7 +4452,7 @@
       "Name": "Head Burst",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "INDY_1",
@@ -4471,7 +4476,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "LOVE_GURU_1",
@@ -4479,7 +4484,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -4503,7 +4508,7 @@
       "Name": "One HIT wonder",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4511,7 +4516,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "PACIFIST",
@@ -4575,7 +4580,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "SECRET_ROOM",
@@ -4607,7 +4612,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "VVE",
@@ -4623,7 +4628,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "WISHMASTER_1",
@@ -4638,15 +4643,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1659,
+      "Progressed": 1662,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:10:25.8607536+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:10:34.4776296+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:59:21.2617941+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:10:25.8608033+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:59:20.274095+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:10:34.4776689+00:00"
 }

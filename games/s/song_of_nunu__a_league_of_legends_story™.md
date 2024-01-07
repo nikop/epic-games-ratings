@@ -51,7 +51,7 @@ Rating: 4.53 (Ranked 564)
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,492 (Ranked 266)  
-Completed: 9 (0.60%) (Ranked 204)  
+Completed: 9 (0.60%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

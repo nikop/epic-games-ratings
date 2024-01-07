@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -3720,9 +3720,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 787
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -4183,8 +4183,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:10:37.6385701+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:10:45.5146336+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:58:25.0558592+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:10:37.6386343+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:58:29.16686+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:10:45.5147217+00:00"
 }

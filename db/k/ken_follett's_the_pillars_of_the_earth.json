@@ -6,8 +6,8 @@
   "Ranking_Popularity": 324,
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17682,
+  "EOS_Progressed": 17683,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 3,
@@ -17885,6 +17885,11 @@
       "Time": "2024-01-07T05:05:01.8475293+00:00",
       "NumProgressed": 17682,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-07T06:05:03.026892+00:00",
+      "NumProgressed": 17683,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -17936,7 +17941,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5658
+      "UsersEstimate": 5659
     },
     {
       "ID": "tpote_achievement_15",
@@ -17952,7 +17957,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "tpote_achievement_17",
@@ -18008,7 +18013,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3537
     },
     {
       "ID": "tpote_achievement_23",
@@ -18072,7 +18077,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5481
+      "UsersEstimate": 5482
     },
     {
       "ID": "tpote_achievement_30",
@@ -18096,7 +18101,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "tpote_achievement_33",
@@ -18223,15 +18228,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17682,
+      "Progressed": 17683,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:05:01.847529+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:05:03.0268915+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:02:51.5719868+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:05:01.8476396+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:03:02.1252949+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:05:03.0270051+00:00"
 }

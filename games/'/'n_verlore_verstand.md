@@ -8,8 +8,8 @@
 | A thing of beauty | 84.00% | ~65 |
 | Escape the Maze | 56.00% | ~43 |
 | Brace the cold | 43.00% | ~33 |
-| A Long Walk | 40.00% | ~31 |
-| Dont mind the heat | 17.00% | ~13 |
+| A Long Walk | 42.00% | ~32 |
+| Dont mind the heat | 18.00% | ~14 |
 | City of Puzzles | 10.00% | ~8 |
 | This field of danger | 10.00% | ~8 |
 | Labyrinths of the Mind | 10.00% | ~8 |

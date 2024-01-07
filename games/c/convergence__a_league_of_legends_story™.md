@@ -5,14 +5,14 @@ Rating: 4.67 (Ranked 283)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~579 |
+| Time Heals All Wounds | 45.00% | ~567 |
 | Rail Rat | 34.00% | ~428 |
-| The Mysterious Stranger | 33.00% | ~415 |
+| The Mysterious Stranger | 33.00% | ~416 |
 | Immaculate Aim | 28.00% | ~353 |
 | The Brass Boss | 27.00% | ~340 |
-| Time Flies | 26.00% | ~327 |
-| No, Thanks! | 26.00% | ~327 |
-| Honest Mistake | 26.00% | ~327 |
+| Time Flies | 26.00% | ~328 |
+| No, Thanks! | 26.00% | ~328 |
+| Honest Mistake | 26.00% | ~328 |
 | Make Up For Lost Time | 25.00% | ~315 |
 | The Harder They Fall | 25.00% | ~315 |
 | The Prince in Heels | 25.00% | ~315 |
@@ -22,9 +22,9 @@ Rating: 4.67 (Ranked 283)
 | Breaking Down Barriers | 23.00% | ~290 |
 | Right On Time | 22.00% | ~277 |
 | The Wicked Twins | 22.00% | ~277 |
-| Like Clockwork | 21.00% | ~264 |
-| The Betrayer | 21.00% | ~264 |
-| Golem Chaser | 21.00% | ~264 |
+| Like Clockwork | 21.00% | ~265 |
+| The Betrayer | 21.00% | ~265 |
+| Golem Chaser | 21.00% | ~265 |
 | Check Your Pulse | 20.00% | ~252 |
 | The Loose Cannon | 19.00% | ~239 |
 | Street Style | 18.00% | ~227 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 283)
 | Ask Questions Later | 13.00% | ~164 |
 | Treasure Trove | 12.00% | ~151 |
 | Syron for Hope | 12.00% | ~151 |
-| Sump Explorer | 11.00% | ~138 |
+| Sump Explorer | 11.00% | ~139 |
 | Factorywood Explorer | 10.00% | ~126 |
 | Fairgrounds Explorer | 10.00% | ~126 |
 | Theater Explorer | 10.00% | ~126 |
@@ -56,11 +56,11 @@ Rating: 4.67 (Ranked 283)
 | A Lesson in Precision | 1.00% | ~13 |
 | No Time to Waste | 1.00% | ~13 |
 | Wildlife Protection | 0.80% | ~10 |
+| Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
-| Raw Talent | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,259 (Ranked 280)  
-Completed: 6 (0.48%) (Ranked 221)  
+Progressed: 1,260 (Ranked 280)  
+Completed: 7 (0.56%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 6 (0.48%) (Ranked 221)
 | 2024-01-04 | 1,228 | 6 |
 | 2024-01-05 | 1,241 | 6 |
 | 2024-01-06 | 1,255 | 6 |
-| 2024-01-07 | 1,259 | 6 |
+| 2024-01-07 | 1,260 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

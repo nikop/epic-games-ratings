@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73699,
+  "EOS_Progressed": 73706,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 1831,
+  "EOS_NewPlayers": 1832,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6398,6 +6398,11 @@
       "Time": "2024-01-07T05:08:24.3003121+00:00",
       "NumProgressed": 73699,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2024-01-07T06:08:40.6796154+00:00",
+      "NumProgressed": 73706,
+      "NumCompleted": 111
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6410,7 +6415,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27269
+      "UsersEstimate": 27271
     },
     {
       "ID": "Achievement_10",
@@ -6498,7 +6503,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20636
+      "UsersEstimate": 20638
     },
     {
       "ID": "Achievement_20",
@@ -6528,9 +6533,9 @@
       "ID": "Achievement_23",
       "SetID": "2md12pi",
       "Name": "Festival Masters",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 516
+      "UsersEstimate": 590
     },
     {
       "ID": "Achievement_24",
@@ -6586,7 +6591,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8844
+      "UsersEstimate": 8845
     },
     {
       "ID": "Achievement_30",
@@ -6626,7 +6631,7 @@
       "Name": "Warden",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "Achievement_4",
@@ -6634,7 +6639,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "Achievement_5",
@@ -6681,7 +6686,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 73699,
+      "Progressed": 73706,
       "Completed": 111
     }
   ],
@@ -6689,8 +6694,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-05T18:03:34.6922579+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:08:24.3003119+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:08:40.6796149+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-07T05:03:06.0323301+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:08:24.3003549+00:00"
+  "LastUpdate_Ratings": "2024-01-07T06:03:15.4733717+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:08:40.679672+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 410,
+  "EOS_Progressed": 411,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -661,6 +661,11 @@
       "Time": "2024-01-06T17:10:20.9941815+00:00",
       "NumProgressed": 410,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T06:10:44.3296556+00:00",
+      "NumProgressed": 411,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -704,7 +709,7 @@
       "Name": "A Paris Sunset",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach-ascension-complete-year",
@@ -720,7 +725,7 @@
       "Name": "The Director Perseveres",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach-ascension-die",
@@ -808,7 +813,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ach-campaign-story2",
@@ -816,7 +821,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ach-campaign-story3",
@@ -824,7 +829,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ach-cartography-complete",
@@ -840,7 +845,7 @@
       "Name": "Roll to Save",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ach-discover-locations",
@@ -872,7 +877,7 @@
       "Name": "Fire and Flood",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ach-find-treasure",
@@ -896,7 +901,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ach-hardExpeditions",
@@ -976,7 +981,7 @@
       "Name": "The Round Table",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach-maxClubLevel-chinese",
@@ -1016,7 +1021,7 @@
       "Name": "Insomnia",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ach-pacifist-goals",
@@ -1024,7 +1029,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach-paleMask-cure",
@@ -1040,7 +1045,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach-portal-return",
@@ -1048,7 +1053,7 @@
       "Name": "From Whence we Came",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ach-promotion",
@@ -1064,7 +1069,7 @@
       "Name": "Good Mama",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach-redElk",
@@ -1144,14 +1149,14 @@
       "Name": "Dapper",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 410,
+      "Progressed": 411,
       "Completed": 1
     }
   ],
@@ -1159,8 +1164,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-07T05:10:36.4503907+00:00",
+  "LastChanged_Achievements": "2024-01-07T06:10:44.3296551+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-07T04:58:05.7910324+00:00",
-  "LastUpdate_Achievements": "2024-01-07T05:10:36.4504365+00:00"
+  "LastUpdate_Ratings": "2024-01-07T05:58:09.8442811+00:00",
+  "LastUpdate_Achievements": "2024-01-07T06:10:44.329717+00:00"
 }

@@ -18,7 +18,7 @@ Rating: 4.81 (Ranked 83)
 | Ternmoat Headquarters | 39.00% | ~1,300 |
 | Past trauma | 38.00% | ~1,267 |
 | Elemental master | 37.00% | ~1,234 |
-| Cypress Glen Headquarters | 34.00% | ~1,134 |
+| Cypress Glen Headquarters | 35.00% | ~1,167 |
 | Old friend | 33.00% | ~1,100 |
 | Petricite Burst | 33.00% | ~1,100 |
 | Devineur | 32.00% | ~1,067 |
