@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -838,9 +838,9 @@
       "ID": "explodeItem10",
       "SetID": "ci65fo0",
       "Name": "Demoman",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "explodeItem100",
@@ -1038,9 +1038,9 @@
       "ID": "killZombie10",
       "SetID": "ci65fo0",
       "Name": "Paladin",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "killZombie50",
@@ -1126,9 +1126,9 @@
       "ID": "questAntiquities",
       "SetID": "ci65fo0",
       "Name": "Antiquities expert",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "questBadNews",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:10:36.0076909+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:09:44.1352459+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:15.9010052+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:02:47.1426865+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:10:36.0077811+00:00"
+  "LastUpdate_Ratings": "2024-01-07T12:02:33.2811161+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:09:44.1353579+00:00"
 }

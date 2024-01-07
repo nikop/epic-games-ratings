@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~274 |
+| In the Black | 55.00% | ~275 |
 | Starting Skyward | 49.00% | ~245 |
 | Grime is Not Good | 42.00% | ~210 |
 | Floor Galore | 37.00% | ~185 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499 (Ranked 348)  
+Progressed: 500 (Ranked 348)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 490 | 0 |
 | 2024-01-05 | 492 | 0 |
 | 2024-01-06 | 497 | 0 |
-| 2024-01-07 | 499 | 0 |
+| 2024-01-07 | 500 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1853,
+  "EOS_Progressed": 1856,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4902,6 +4902,11 @@
       "Time": "2024-01-07T11:10:05.381254+00:00",
       "NumProgressed": 1853,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T12:09:22.224457+00:00",
+      "NumProgressed": 1856,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4993,7 +4998,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -5033,7 +5038,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -5065,15 +5070,15 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
       "SetID": "l546gc",
       "Name": "DeDust",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 93
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -5089,7 +5094,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5105,7 +5110,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5129,7 +5134,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5137,7 +5142,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -5161,7 +5166,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5169,7 +5174,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5185,7 +5190,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5249,7 +5254,7 @@
       "Name": "Space Forest",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -5273,7 +5278,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5296,7 +5301,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1853,
+      "Progressed": 1856,
       "Completed": 0
     }
   ],
@@ -5304,8 +5309,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:10:05.3812536+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:09:22.2244564+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:00:14.4267053+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:10:05.3813181+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:59:01.0002275+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:09:22.224527+00:00"
 }

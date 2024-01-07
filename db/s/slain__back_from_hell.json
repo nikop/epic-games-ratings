@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43697,
+  "EOS_Progressed": 43701,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -28705,6 +28705,11 @@
       "Time": "2024-01-07T11:07:09.8978871+00:00",
       "NumProgressed": 43697,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-07T12:05:31.4120632+00:00",
+      "NumProgressed": 43701,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28724,7 +28729,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9176
+      "UsersEstimate": 9177
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -28796,7 +28801,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -28812,7 +28817,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -28844,7 +28849,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -28947,7 +28952,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43697,
+      "Progressed": 43701,
       "Completed": 30
     }
   ],
@@ -28955,8 +28960,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:07:09.8978867+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:05:31.4120628+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:03:01.6311949+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:07:09.8980544+00:00"
+  "LastUpdate_Ratings": "2024-01-07T12:02:42.3407746+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:05:31.4122333+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.33,
+  "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1570,6 +1570,11 @@
       "Time": "2024-01-07T09:08:29.6717042+00:00",
       "NumProgressed": 377,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T12:08:33.2297827+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1582,7 +1587,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1598,7 +1603,7 @@
       "Name": "Scuttled",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_ABILITY_ECM",
@@ -1652,9 +1657,9 @@
       "ID": "ACH_ABILITY_SMASHBUTTON",
       "SetID": "cefn62b",
       "Name": "Rock of the Bay",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -1668,9 +1673,9 @@
       "ID": "ACH_ABILITY_WITHWEAPON",
       "SetID": "cefn62b",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1742,7 +1747,7 @@
       "Name": "Kaijuiced",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1774,7 +1779,7 @@
       "Name": "Higher Than the Futen Zoku",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
@@ -1798,7 +1803,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_INVADE_CAPITOL",
@@ -1822,7 +1827,7 @@
       "Name": "Upgreatest",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -1852,9 +1857,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1901,15 +1906,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:08:55.2263829+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:08:33.2297823+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:00:50.4619537+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:08:55.2264199+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:59:23.8389347+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:08:33.2298229+00:00"
 }

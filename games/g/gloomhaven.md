@@ -1,28 +1,28 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 662)  
+Rating: 4.47 (Ranked 661)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~12,439 |
-| Overkill | 33.00% | ~10,525 |
-| Vaccine Incoming | 31.00% | ~9,887 |
-| A normal day in Gloomhaven | 29.00% | ~9,250 |
-| Spread the plague | 27.00% | ~8,612 |
-| Get over here! | 24.00% | ~7,655 |
-| Just when I thought I was out... | 19.00% | ~6,060 |
-| Precious! | 16.00% | ~5,103 |
-| Mine... All Mine... | 16.00% | ~5,103 |
-| Grizzled veteran | 15.00% | ~4,784 |
-| Anatomy Lesson | 14.00% | ~4,465 |
-| Light of my life | 13.00% | ~4,146 |
-| Who's the Boss? | 12.00% | ~3,827 |
-| You activated my trap card! | 12.00% | ~3,827 |
-| Obstacle race | 12.00% | ~3,827 |
-| Augmented rat | 10.00% | ~3,190 |
-| Doom and gloom | 10.00% | ~3,190 |
+| I'm not dead yet | 39.00% | ~12,443 |
+| Overkill | 33.00% | ~10,529 |
+| Vaccine Incoming | 31.00% | ~9,891 |
+| A normal day in Gloomhaven | 29.00% | ~9,253 |
+| Spread the plague | 27.00% | ~8,615 |
+| Get over here! | 24.00% | ~7,657 |
+| Just when I thought I was out... | 19.00% | ~6,062 |
+| Precious! | 16.00% | ~5,105 |
+| Mine... All Mine... | 16.00% | ~5,105 |
+| Grizzled veteran | 15.00% | ~4,786 |
+| Anatomy Lesson | 14.00% | ~4,467 |
+| Light of my life | 13.00% | ~4,148 |
+| Who's the Boss? | 12.00% | ~3,829 |
+| You activated my trap card! | 12.00% | ~3,829 |
+| Obstacle race | 12.00% | ~3,829 |
+| Augmented rat | 10.00% | ~3,191 |
+| Doom and gloom | 10.00% | ~3,191 |
 | Dungeon Veteran | 8.00% | ~2,552 |
 | Pain is your friend | 8.00% | ~2,552 |
 | Pack leader | 7.00% | ~2,233 |
@@ -51,8 +51,8 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~319 |
 | Spoiler police! | 1.00% | ~319 |
 | New Blood | 1.00% | ~319 |
-| The Pacifist | 0.50% | ~159 |
-| Born Support | 0.50% | ~159 |
+| The Pacifist | 0.50% | ~160 |
+| Born Support | 0.50% | ~160 |
 | The evil that men do | 0.40% | ~128 |
 | MacReady Steady.. Go! | 0.40% | ~128 |
 | A tough job | 0.30% | ~96 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~32 |
 | Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,895 (Ranked 140)  
+Progressed: 31,906 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-04 | 31,129 | 1 |
 | 2024-01-05 | 31,403 | 1 |
 | 2024-01-06 | 31,749 | 1 |
-| 2024-01-07 | 31,895 | 1 |
+| 2024-01-07 | 31,906 | 1 |
 ## Awards
 Max (Character Customization): 3,616  (Ranked 94)  
 Sum: 8,465 (Ranked 106)  

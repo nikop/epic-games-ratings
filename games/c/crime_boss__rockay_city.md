@@ -10,14 +10,14 @@ Rating: 3.96 (Ranked 1,055)
 | Downed but Not Outed | 4.00% | ~3,727 |
 | Too Old for This | 3.00% | ~2,795 |
 | Fancy Pants | 3.00% | ~2,795 |
-| Underworld Initiate | 2.00% | ~1,863 |
-| Roid Ranger | 2.00% | ~1,863 |
-| Case Closed | 2.00% | ~1,863 |
-| King of the Hill | 2.00% | ~1,863 |
-| Off the Rocks | 2.00% | ~1,863 |
-| Raider’s Ruin | 2.00% | ~1,863 |
-| Dragonslayer | 2.00% | ~1,863 |
-| Rockay Rex | 2.00% | ~1,863 |
+| Underworld Initiate | 2.00% | ~1,864 |
+| Roid Ranger | 2.00% | ~1,864 |
+| Case Closed | 2.00% | ~1,864 |
+| King of the Hill | 2.00% | ~1,864 |
+| Off the Rocks | 2.00% | ~1,864 |
+| Raider’s Ruin | 2.00% | ~1,864 |
+| Dragonslayer | 2.00% | ~1,864 |
+| Rockay Rex | 2.00% | ~1,864 |
 | Hidden Sonata | 1.00% | ~932 |
 | Track Star | 1.00% | ~932 |
 | True Player | 1.00% | ~932 |
@@ -39,15 +39,15 @@ Rating: 3.96 (Ranked 1,055)
 | Rockay Knight | 0.30% | ~280 |
 | Red Star | 0.30% | ~280 |
 | All for One | 0.30% | ~65 |
+| Now You See Me | 0.30% | ~65 |
 | Privateer | 0.20% | ~186 |
 | Talent Scout | 0.20% | ~186 |
 | Impossible Dreamer | 0.20% | ~186 |
 | One for All | 0.20% | ~43 |
-| Now You See Me | 0.20% | ~43 |
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,173 (Ranked 101)  
+Progressed: 93,180 (Ranked 101)  
 Completed: 58 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 58 (0.06%) (Ranked 330)
 | 2024-01-04 | 93,006 | 58 |
 | 2024-01-05 | 93,065 | 58 |
 | 2024-01-06 | 93,141 | 58 |
-| 2024-01-07 | 93,173 | 58 |
+| 2024-01-07 | 93,180 | 58 |
 ## Awards
 Max (Diverse Characters): 591  (Ranked 210)  
 Sum: 2,796 (Ranked 192)  

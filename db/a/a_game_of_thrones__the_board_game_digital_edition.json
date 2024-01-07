@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1392,9 +1392,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32767,
+  "EOS_Progressed": 32770,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 776,
+  "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29592,6 +29592,11 @@
       "Time": "2024-01-07T11:10:31.0952494+00:00",
       "NumProgressed": 32767,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-07T12:09:40.837205+00:00",
+      "NumProgressed": 32770,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29675,7 +29680,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "1025",
@@ -29707,7 +29712,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5898
+      "UsersEstimate": 5899
     },
     {
       "ID": "1029",
@@ -29715,7 +29720,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "1030",
@@ -29739,7 +29744,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13107
+      "UsersEstimate": 13108
     },
     {
       "ID": "1033",
@@ -29778,15 +29783,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32767,
+      "Progressed": 32770,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-05T16:59:15.5205633+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:10:31.0952491+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:09:40.8372045+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:01:24.4165914+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:10:31.0954462+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:59:44.7600281+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:09:40.8373231+00:00"
 }

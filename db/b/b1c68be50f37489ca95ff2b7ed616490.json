@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -1334,9 +1334,9 @@
       "ID": "19",
       "SetID": "6bgoh8g",
       "Name": "I am speed",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "2",
@@ -1477,8 +1477,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:06:54.7710609+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:05:21.3376139+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:18.4677846+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:03:28.8613481+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:06:54.7711087+00:00"
+  "LastUpdate_Ratings": "2024-01-07T12:02:59.5452051+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:05:21.3376429+00:00"
 }

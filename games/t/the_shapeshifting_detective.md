@@ -17,7 +17,7 @@
 | You Had One Job | 13.00% | ~42 |
 | Book 'em Danny | 12.00% | ~38 |
 | Poetent | 12.00% | ~38 |
-| Oscar Winning Performance | 10.00% | ~32 |
+| Oscar Winning Performance | 11.00% | ~35 |
 | Voyeur | 10.00% | ~32 |
 | Put A Ring On It | 9.00% | ~29 |
 | Heavy Rayne | 8.00% | ~26 |
@@ -26,7 +26,7 @@
 | Bullseye | 4.00% | ~13 |
 | The Big Sleep | 4.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 387)  
+Progressed: 320 (Ranked 388)  
 Completed: 3 (0.94%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |

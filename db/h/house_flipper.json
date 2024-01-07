@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2285,7 +2285,7 @@
   ],
   "EOS_Progressed": 22025,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13002,9 +13002,9 @@
       "ID": "EstateAgent",
       "SetID": "d0jo315",
       "Name": "Estate Agent",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1322
     },
     {
       "ID": "FirstMoney",
@@ -13154,8 +13154,8 @@
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-06T21:00:11.8247659+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:07:56.8691739+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:06:04.2852868+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.4708185+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:02:39.8951498+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:07:56.8692411+00:00"
+  "LastUpdate_Ratings": "2024-01-07T12:00:07.9949542+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:06:04.2853645+00:00"
 }

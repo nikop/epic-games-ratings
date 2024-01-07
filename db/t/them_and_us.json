@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -1731,6 +1731,11 @@
       "Time": "2024-01-07T06:08:55.9441049+00:00",
       "NumProgressed": 395,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T12:08:37.7646403+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1918,7 +1923,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ETUA_Researcher",
@@ -1950,7 +1955,7 @@
       "Name": "Safe...For now?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ETUA_StayDead",
@@ -2038,7 +2043,7 @@
       "Name": "Trapped",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -2061,7 +2066,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 1
     }
   ],
@@ -2069,8 +2074,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:09:01.6289995+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:08:37.7646399+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:36.5425929+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:01:35.7637759+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:09:01.6290315+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:59:52.8079855+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:08:37.7646762+00:00"
 }

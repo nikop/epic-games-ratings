@@ -6,23 +6,23 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~28,194 |
-| Gone Home | 93.00% | ~27,031 |
-| Wonderfalls | 87.00% | ~25,287 |
-| Got to Catch a Few | 77.00% | ~22,381 |
+| Everybody Gets One | 97.00% | ~28,195 |
+| Gone Home | 93.00% | ~27,032 |
+| Wonderfalls | 87.00% | ~25,288 |
+| Got to Catch a Few | 77.00% | ~22,382 |
 | Double Trapper | 75.00% | ~21,800 |
 | I'm Stuffed | 69.00% | ~20,056 |
 | Got to Catch a Lot | 66.00% | ~19,184 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,730 |
-| In the Arms of the Gramble | 59.00% | ~17,149 |
-| Know Thy Neighbor | 59.00% | ~17,149 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,731 |
+| In the Arms of the Gramble | 59.00% | ~17,150 |
+| Know Thy Neighbor | 59.00% | ~17,150 |
 | Perf Dirt | 57.00% | ~16,568 |
-| Launch Party | 56.00% | ~16,277 |
-| Vacation's End | 53.00% | ~15,405 |
-| Bossy Bugs | 46.00% | ~13,370 |
+| Launch Party | 56.00% | ~16,278 |
+| Vacation's End | 53.00% | ~15,406 |
+| Bossy Bugs | 46.00% | ~13,371 |
 | Survivor | 45.00% | ~13,080 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,498 |
-| Sidetracked | 40.00% | ~11,626 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,499 |
+| Sidetracked | 40.00% | ~11,627 |
 | Film Buff | 38.00% | ~11,045 |
 | Combo Meal | 38.00% | ~11,045 |
 | Midnight Snak | 36.00% | ~10,464 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 9.00% | ~2,616 |
 | Dapper Capper | 7.00% | ~2,035 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,066 (Ranked 141)  
+Progressed: 29,067 (Ranked 141)  
 Completed: 1,422 (4.89%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 1,422 (4.89%) (Ranked 74)
 | 2024-01-04 | 29,033 | 1,421 |
 | 2024-01-05 | 29,043 | 1,422 |
 | 2024-01-06 | 29,061 | 1,422 |
-| 2024-01-07 | 29,066 | 1,422 |
+| 2024-01-07 | 29,067 | 1,422 |
 ## Awards
 Max (Amazing Storytelling): 45  (Ranked 469)  
 Sum: 382 (Ranked 360)  

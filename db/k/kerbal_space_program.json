@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
     "PcReleaseDate": "2015-04-27T15:00:00+00:00",
@@ -8143,10 +8143,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 7702,
       "NumberOfAwardsMax": 1301
+    },
+    {
+      "Time": "2024-01-07T11:58:05.3538291+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 7705,
+      "NumberOfAwardsMax": 1301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7702,
+  "NumberOfAwards": 7705,
   "NumberOfAwardsMax": 1301,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -8166,7 +8172,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1038
+      "Count": 1041
     },
     {
       "Text": "This game is Educational",
@@ -8211,8 +8217,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2024-01-07T06:58:14.5105576+00:00",
+  "LastChanged": "2024-01-07T11:58:05.3538288+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:26.4627392+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:58:49.6708886+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:06:15.1319273+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:58:05.3538299+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:04:53.0517995+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,818 |
-| Life is your teacher | 5.00% | ~37,818 |
-| The Assault | 4.00% | ~30,254 |
-| Lightning Hands | 4.00% | ~30,254 |
-| The Hateful Pole Fighter | 3.00% | ~22,690 |
-| Old Child | 3.00% | ~22,690 |
-| A Lady's Blood in the Snow | 2.00% | ~15,127 |
-| Lady Wing Chun | 2.00% | ~15,127 |
-| Kill Nil | 2.00% | ~15,127 |
-| Stuntmaster | 2.00% | ~15,127 |
-| Street Fighting | 2.00% | ~15,127 |
-| State of constant learning | 2.00% | ~15,127 |
-| Qi Gong: Breath | 2.00% | ~15,127 |
-| Qi Gong: Essence | 2.00% | ~15,127 |
-| I know Kung-Fu | 2.00% | ~15,127 |
-| Path of the Prospect | 2.00% | ~15,127 |
-| Rumble in the Hangar | 2.00% | ~15,127 |
-| Diligence as a goal | 2.00% | ~1,313 |
+| The Old Grandmaster | 5.00% | ~37,820 |
+| Life is your teacher | 5.00% | ~37,820 |
+| The Assault | 4.00% | ~30,256 |
+| Lightning Hands | 4.00% | ~30,256 |
+| The Hateful Pole Fighter | 3.00% | ~22,692 |
+| Old Child | 3.00% | ~22,692 |
+| A Lady's Blood in the Snow | 2.00% | ~15,128 |
+| Lady Wing Chun | 2.00% | ~15,128 |
+| Kill Nil | 2.00% | ~15,128 |
+| Stuntmaster | 2.00% | ~15,128 |
+| Street Fighting | 2.00% | ~15,128 |
+| State of constant learning | 2.00% | ~15,128 |
+| Qi Gong: Breath | 2.00% | ~15,128 |
+| Qi Gong: Essence | 2.00% | ~15,128 |
+| I know Kung-Fu | 2.00% | ~15,128 |
+| Path of the Prospect | 2.00% | ~15,128 |
+| Rumble in the Hangar | 2.00% | ~15,128 |
+| Diligence as a goal | 2.00% | ~1,314 |
 | Furious Fists | 1.00% | ~7,564 |
 | Scareless | 1.00% | ~7,564 |
 | Dance of the Praying Mantis | 1.00% | ~7,564 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,564 |
 | Take damage to save time | 1.00% | ~7,564 |
 | Project Arena | 1.00% | ~657 |
-| Fight the way you practice | 0.80% | ~525 |
+| Fight the way you practice | 0.80% | ~526 |
 | Muk Yan Master | 0.60% | ~4,538 |
 | Tiger on Fire | 0.60% | ~4,538 |
 | Source of Flying Daggers | 0.60% | ~4,538 |
@@ -50,12 +50,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.30% | ~2,269 |
 | Come Snap With Me | 0.30% | ~2,269 |
 | Deadly Venom | 0.30% | ~197 |
+| A Touch of Acumen | 0.30% | ~197 |
 | Healing Memory | 0.20% | ~1,513 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,513 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,513 |
 | Be like water my friend | 0.20% | ~1,513 |
 | Secure, Protect, Leave | 0.20% | ~131 |
-| A Touch of Acumen | 0.20% | ~131 |
 | Crouching Tiger | 0.20% | ~131 |
 | Skill and an even stronger will | 0.20% | ~131 |
 | Master of the Flying Assassins | 0.20% | ~131 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~66 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756,350 (Ranked 25)  
+Progressed: 756,398 (Ranked 25)  
 Completed: 12,976 (1.72%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,10 +329,10 @@ Completed: 12,976 (1.72%) (Ranked 142)
 | 2024-01-04 | 753,906 | 12,974 |
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
-| 2024-01-07 | 756,350 | 12,976 |
+| 2024-01-07 | 756,398 | 12,976 |
 ## Awards
 Max (Great Boss Battles): 7,131  (Ranked 56)  
-Sum: 12,618 (Ranked 85)  
+Sum: 12,619 (Ranked 85)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +340,7 @@ Diff (max vs sum): -29
 | This game has Diverse Characters | 695 |
 | This game has Challenging Combat | 644 |
 | This game has Amazing Storytelling | 616 |
-| This game has Amazing Characters | 607 |
+| This game has Amazing Characters | 608 |
 | This game is Highly Recommended | 604 |
 | This game has Quickly Understood Controls | 595 |
 | This game is Extremely Fun | 583 |
@@ -705,4 +705,4 @@ Diff (max vs sum): -29
 | 2024-01-04 | 4.82 | - | 7,102 | 12,005 |
 | 2024-01-05 | 4.82 | - | 7,120 | 12,030 |
 | 2024-01-06 | 4.82 | - | 7,131 | 12,615 |
-| 2024-01-07 | 4.82 | - | 7,131 | 12,618 |
+| 2024-01-07 | 4.82 | - | 7,131 | 12,619 |

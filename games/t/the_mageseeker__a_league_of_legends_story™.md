@@ -1,35 +1,35 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.81 (Ranked 83)  
+Rating: 4.81 (Ranked 82)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,170 |
-| No more cages! | 90.00% | ~3,003 |
-| Everfrost | 77.00% | ~2,569 |
-| Pentakill | 76.00% | ~2,536 |
-| Dark Forest | 76.00% | ~2,536 |
-| The use of petricite | 73.00% | ~2,436 |
-| You can pet the dog | 60.00% | ~2,002 |
+| For Demacia | 95.00% | ~3,171 |
+| No more cages! | 90.00% | ~3,004 |
+| Everfrost | 77.00% | ~2,570 |
+| Pentakill | 76.00% | ~2,537 |
+| Dark Forest | 76.00% | ~2,537 |
+| The use of petricite | 73.00% | ~2,437 |
+| You can pet the dog | 60.00% | ~2,003 |
 | Thornbarrow | 43.00% | ~1,435 |
-| Big Helmet Bro | 41.00% | ~1,368 |
-| Clarion Cove | 41.00% | ~1,368 |
-| Ternmoat Headquarters | 39.00% | ~1,301 |
+| Big Helmet Bro | 41.00% | ~1,369 |
+| Clarion Cove | 41.00% | ~1,369 |
+| Ternmoat Headquarters | 39.00% | ~1,302 |
 | Past trauma | 38.00% | ~1,268 |
 | Elemental master | 37.00% | ~1,235 |
 | Cypress Glen Headquarters | 35.00% | ~1,168 |
-| Old friend | 33.00% | ~1,101 |
-| Petricite Burst | 33.00% | ~1,101 |
+| Old friend | 33.00% | ~1,102 |
+| Petricite Burst | 33.00% | ~1,102 |
 | Devineur | 32.00% | ~1,068 |
-| Hijack | 31.00% | ~1,034 |
-| Whispers in the Woods I | 28.00% | ~934 |
-| I chose my shackles | 28.00% | ~934 |
-| Ancient power | 28.00% | ~934 |
+| Hijack | 31.00% | ~1,035 |
+| Whispers in the Woods I | 28.00% | ~935 |
+| I chose my shackles | 28.00% | ~935 |
+| Ancient power | 28.00% | ~935 |
 | Sacred Woods | 26.00% | ~868 |
 | Little light | 24.00% | ~801 |
+| Capelworth | 24.00% | ~801 |
 | Glyndemere | 23.00% | ~768 |
-| Capelworth | 23.00% | ~768 |
 | Full equipped | 23.00% | ~768 |
 | Iffighain Headquarters | 22.00% | ~734 |
 | No more holding back | 19.00% | ~634 |
@@ -50,8 +50,8 @@ Rating: 4.81 (Ranked 83)
 | Call it 'redistribution of magic | 14.00% | ~467 |
 | Embrace the darkness | 13.00% | ~434 |
 | Truth is a dark mirror | 13.00% | ~434 |
-| Do you trust me? | 12.00% | ~400 |
-| Back to sleep, then... | 12.00% | ~400 |
+| Do you trust me? | 12.00% | ~401 |
+| Back to sleep, then... | 12.00% | ~401 |
 | Chains master | 11.00% | ~367 |
 | The great mage rebellion starts now | 11.00% | ~367 |
 | You can pet the... horse | 11.00% | ~367 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 83)
 | Silverwing nest | 2.00% | ~67 |
 | The Unshackled | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,337 (Ranked 224)  
+Progressed: 3,338 (Ranked 224)  
 Completed: 22 (0.66%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 22 (0.66%) (Ranked 199)
 | 2024-01-04 | 3,278 | 21 |
 | 2024-01-05 | 3,298 | 21 |
 | 2024-01-06 | 3,329 | 22 |
-| 2024-01-07 | 3,337 | 22 |
+| 2024-01-07 | 3,338 | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

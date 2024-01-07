@@ -1,50 +1,50 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.67 (Ranked 283)  
+Rating: 4.67 (Ranked 284)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,763 |
-| First cargo item waiting | 68.00% | ~1,620 |
-| First cargo item on board | 67.00% | ~1,597 |
-| First bus stop | 66.00% | ~1,573 |
-| First passenger on board | 63.00% | ~1,501 |
-| First passenger waiting | 63.00% | ~1,501 |
-| First bus arrived | 62.00% | ~1,477 |
-| First train station | 59.00% | ~1,406 |
-| First steam train arrived | 56.00% | ~1,334 |
-| Cadet | 53.00% | ~1,263 |
-| First industry upgraded | 53.00% | ~1,263 |
-| Transport millionaire | 51.00% | ~1,215 |
-| Transport master | 49.00% | ~1,168 |
-| Cargo hub | 49.00% | ~1,168 |
-| Sculpturer | 46.00% | ~1,096 |
-| Settled down | 45.00% | ~1,072 |
-| First electric train arrived | 43.00% | ~1,025 |
-| Now what? | 43.00% | ~1,025 |
-| First ship arrived | 42.00% | ~1,001 |
-| Exemplary student | 41.00% | ~977 |
-| Transport shark | 38.00% | ~906 |
+| First line | 74.00% | ~1,765 |
+| First cargo item waiting | 68.00% | ~1,622 |
+| First cargo item on board | 67.00% | ~1,598 |
+| First bus stop | 66.00% | ~1,574 |
+| First passenger on board | 63.00% | ~1,503 |
+| First passenger waiting | 63.00% | ~1,503 |
+| First bus arrived | 62.00% | ~1,479 |
+| First train station | 60.00% | ~1,431 |
+| First steam train arrived | 56.00% | ~1,336 |
+| First industry upgraded | 53.00% | ~1,264 |
+| Cadet | 52.00% | ~1,240 |
+| Transport millionaire | 51.00% | ~1,216 |
+| Transport master | 49.00% | ~1,169 |
+| Cargo hub | 49.00% | ~1,169 |
+| Sculpturer | 46.00% | ~1,097 |
+| Settled down | 45.00% | ~1,073 |
+| Now what? | 43.00% | ~1,026 |
+| First electric train arrived | 42.00% | ~1,002 |
+| First ship arrived | 42.00% | ~1,002 |
+| Exemplary student | 41.00% | ~978 |
 | First aircraft arrived | 38.00% | ~906 |
 | High speed | 38.00% | ~906 |
+| Transport shark | 37.00% | ~882 |
 | Mass production | 32.00% | ~763 |
-| Aircraft entrepreneur | 30.00% | ~715 |
-| Crowd in a train | 28.00% | ~667 |
-| The future is now, old man | 28.00% | ~667 |
-| Not in my backyard | 27.00% | ~643 |
+| Aircraft entrepreneur | 30.00% | ~716 |
+| Crowd in a train | 28.00% | ~668 |
+| The future is now, old man | 28.00% | ~668 |
+| Not in my backyard | 27.00% | ~644 |
 | The king of the sea | 26.00% | ~620 |
 | City | 25.00% | ~596 |
-| Transport tycoon | 21.00% | ~500 |
-| Old timer | 21.00% | ~500 |
+| Transport tycoon | 21.00% | ~501 |
+| Old timer | 21.00% | ~501 |
 | Climate change | 20.00% | ~477 |
 | The ugly smell of success | 20.00% | ~477 |
 | Heavily loaded | 19.00% | ~453 |
 | Bob Ross | 14.00% | ~334 |
 | Campaign expert | 10.00% | ~238 |
 | Truck Fever | 10.00% | ~238 |
-| No free seats | 9.00% | ~214 |
+| No free seats | 9.00% | ~215 |
 | Back to the future | 8.00% | ~191 |
 | Transport belt | 8.00% | ~191 |
 | Penny pincher | 8.00% | ~191 |
@@ -53,7 +53,7 @@ Number of Ratings: 180  (23.09.2022)
 | Transport shark (Hard mode) | 4.00% | ~95 |
 | Antique | 4.00% | ~95 |
 | Transport corporation | 4.00% | ~95 |
-| Cannot get enough | 3.00% | ~71 |
+| Cannot get enough | 3.00% | ~72 |
 | Transport tycoon (Hard mode) | 2.00% | ~48 |
 | Charles Alton Ellis | 2.00% | ~48 |
 | Industrialist | 2.00% | ~48 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,383 (Ranked 238)  
+Progressed: 2,385 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,11 +315,11 @@ Completed: 1 (0.04%) (Ranked 348)
 | 2024-01-04 | 2,331 | 1 |
 | 2024-01-05 | 2,356 | 1 |
 | 2024-01-06 | 2,375 | 1 |
-| 2024-01-07 | 2,383 | 1 |
+| 2024-01-07 | 2,385 | 1 |
 ## Awards
-Max (Great for Beginners): 50  (Ranked 455)  
+Max (Great for Beginners): 50  (Ranked 456)  
 Sum: 332 (Ranked 373)  
-Diff (max vs sum): 82  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |

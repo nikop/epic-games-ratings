@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 472,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9813,
+  "EOS_Progressed": 9814,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10759,6 +10759,11 @@
       "Time": "2024-01-07T11:09:53.8789541+00:00",
       "NumProgressed": 9813,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T12:09:14.3016169+00:00",
+      "NumProgressed": 9814,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10858,7 +10863,7 @@
       "Name": "Donatello",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -10898,7 +10903,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -10922,7 +10927,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -11058,7 +11063,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -11098,7 +11103,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4906
+      "UsersEstimate": 4907
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11114,7 +11119,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -11129,7 +11134,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9813,
+      "Progressed": 9814,
       "Completed": 10
     }
   ],
@@ -11137,8 +11142,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:09:53.8789535+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:09:14.3016165+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:58:44.7160925+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:09:53.8790189+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:58:02.1652942+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:09:14.3017168+00:00"
 }

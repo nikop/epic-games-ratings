@@ -1,37 +1,37 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.19 (Ranked 969)  
+Rating: 4.20 (Ranked 961)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,614 |
-| Battlefields Have Memories | 81.00% | ~2,406 |
-| Enlisted | 74.00% | ~2,198 |
-| Maybe Engage a Little | 69.00% | ~2,049 |
-| No More Names | 52.00% | ~1,544 |
-| Initiate | 38.00% | ~1,129 |
-| Thrada-Kul | 34.00% | ~1,010 |
-| Gravity-Challenged Rocks | 27.00% | ~802 |
-| Socialite | 24.00% | ~713 |
-| Soldier | 23.00% | ~683 |
-| All the Major Food Groups | 22.00% | ~653 |
-| Beggars Would Ride | 20.00% | ~594 |
-| Control is an Illusion | 19.00% | ~564 |
+| Unforeseen | 88.00% | ~2,616 |
+| Battlefields Have Memories | 81.00% | ~2,408 |
+| Enlisted | 74.00% | ~2,200 |
+| Maybe Engage a Little | 69.00% | ~2,051 |
+| No More Names | 52.00% | ~1,546 |
+| Initiate | 38.00% | ~1,130 |
+| Thrada-Kul | 34.00% | ~1,011 |
+| Gravity-Challenged Rocks | 27.00% | ~803 |
+| Socialite | 24.00% | ~714 |
+| Soldier | 23.00% | ~684 |
+| All the Major Food Groups | 23.00% | ~684 |
+| Beggars Would Ride | 20.00% | ~595 |
+| Control is an Illusion | 19.00% | ~565 |
 | The Means to Save It | 17.00% | ~505 |
 | Resilience to Sin | 15.00% | ~446 |
 | A Familiar Nest | 15.00% | ~446 |
 | Geas Aristeya | 14.00% | ~416 |
 | Periapt Alizarin | 14.00% | ~416 |
 | A Perfect Cycle | 13.00% | ~386 |
-| Recruit | 12.00% | ~356 |
+| Recruit | 12.00% | ~357 |
 | Armsman | 11.00% | ~327 |
-| Lights Army | 9.00% | ~267 |
+| Lights Army | 9.00% | ~268 |
 | Periapt Cerulean | 8.00% | ~238 |
 | Good Boy | 7.00% | ~208 |
 | Best Dressed | 6.00% | ~178 |
 | Periapt Viridian | 6.00% | ~178 |
-| Shroudfane Explorer | 5.00% | ~148 |
+| Shroudfane Explorer | 5.00% | ~149 |
 | Scholar | 4.00% | ~119 |
 | Kitted Out | 4.00% | ~119 |
 | Armaments Azure | 4.00% | ~119 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 969)
 | Treasure Hunter | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,970 (Ranked 228)  
+Progressed: 2,973 (Ranked 228)  
 Completed: 4 (0.13%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 4 (0.13%) (Ranked 297)
 | 2024-01-04 | 2,699 | 2 |
 | 2024-01-05 | 2,796 | 4 |
 | 2024-01-06 | 2,915 | 4 |
-| 2024-01-07 | 2,970 | 4 |
+| 2024-01-07 | 2,973 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -204,4 +204,4 @@ Completed: 4 (0.13%) (Ranked 297)
 | 2024-01-03 | 4.21 | 0 | 0 |
 | 2024-01-04 | 4.21 | 0 | 0 |
 | 2024-01-06 | 4.20 | 0 | 0 |
-| 2024-01-07 | 4.19 | 0 | 0 |
+| 2024-01-07 | 4.20 | 0 | 0 |

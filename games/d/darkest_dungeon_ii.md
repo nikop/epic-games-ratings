@@ -1,19 +1,19 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~895 |
-| Lost and Found | 8.00% | ~551 |
-| Autodidact | 7.00% | ~9,241 |
-| This Belongs in a Museum | 6.00% | ~7,921 |
-| Creep and Sleep | 6.00% | ~7,921 |
-| Overdue Notice | 6.00% | ~7,921 |
-| This guy... again? | 6.00% | ~413 |
-| Ploughshares to Swords | 6.00% | ~413 |
+| Malpractice Assurance | 13.00% | ~896 |
+| Lost and Found | 8.00% | ~552 |
+| Autodidact | 7.00% | ~9,242 |
+| This Belongs in a Museum | 6.00% | ~7,922 |
+| Creep and Sleep | 6.00% | ~7,922 |
+| Overdue Notice | 6.00% | ~7,922 |
+| This guy... again? | 6.00% | ~414 |
+| Ploughshares to Swords | 6.00% | ~414 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,601 |
 | Serenity Now! | 5.00% | ~6,601 |
 | Meat and Greet | 5.00% | ~6,601 |
@@ -22,7 +22,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 5.00% | ~6,601 |
 | To Grandmother's House | 5.00% | ~6,601 |
 | FNG | 5.00% | ~6,601 |
-| Bloody Graduation | 5.00% | ~344 |
+| Bloody Graduation | 5.00% | ~345 |
 | It Rings a Bell | 4.00% | ~5,281 |
 | Not Today! | 4.00% | ~5,281 |
 | It Happens | 4.00% | ~5,281 |
@@ -31,26 +31,26 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,281 |
 | A Place to Lay Your Head | 4.00% | ~5,281 |
 | Nope | 4.00% | ~5,281 |
-| Friends 'Til the End | 4.00% | ~275 |
-| Resurrection | 3.00% | ~3,960 |
-| Unleash Hell | 3.00% | ~3,960 |
-| Funny Guy | 3.00% | ~3,960 |
-| Long Live the King | 3.00% | ~3,960 |
-| Wyrdly Reconstructed | 3.00% | ~3,960 |
-| Boxcar Kid | 3.00% | ~3,960 |
-| Unfulfilled Desires | 3.00% | ~3,960 |
-| Predator | 3.00% | ~3,960 |
-| Dissector | 3.00% | ~3,960 |
-| Banishment | 3.00% | ~3,960 |
-| Deprogramming | 3.00% | ~3,960 |
-| Now Stay Dead | 3.00% | ~3,960 |
-| Reverse Banditry | 3.00% | ~3,960 |
-| Spelunker | 3.00% | ~3,960 |
-| Ramble On | 3.00% | ~3,960 |
-| A Clear Conscience | 3.00% | ~3,960 |
-| Utopia | 3.00% | ~3,960 |
-| Unshackled | 3.00% | ~3,960 |
-| Road Trip | 3.00% | ~3,960 |
+| Friends 'Til the End | 4.00% | ~276 |
+| Resurrection | 3.00% | ~3,961 |
+| Unleash Hell | 3.00% | ~3,961 |
+| Funny Guy | 3.00% | ~3,961 |
+| Long Live the King | 3.00% | ~3,961 |
+| Wyrdly Reconstructed | 3.00% | ~3,961 |
+| Boxcar Kid | 3.00% | ~3,961 |
+| Unfulfilled Desires | 3.00% | ~3,961 |
+| Predator | 3.00% | ~3,961 |
+| Dissector | 3.00% | ~3,961 |
+| Banishment | 3.00% | ~3,961 |
+| Deprogramming | 3.00% | ~3,961 |
+| Now Stay Dead | 3.00% | ~3,961 |
+| Reverse Banditry | 3.00% | ~3,961 |
+| Spelunker | 3.00% | ~3,961 |
+| Ramble On | 3.00% | ~3,961 |
+| A Clear Conscience | 3.00% | ~3,961 |
+| Utopia | 3.00% | ~3,961 |
+| Unshackled | 3.00% | ~3,961 |
+| Road Trip | 3.00% | ~3,961 |
 | This Looks Familiar | 2.00% | ~2,640 |
 | Hope Rekindled | 2.00% | ~2,640 |
 | Ichthyophobic | 2.00% | ~2,640 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,015 (Ranked 91)  
+Progressed: 132,025 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 132,015 | 3 |
+| 2024-01-07 | 132,025 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
 Sum: 21,500 (Ranked 58)  

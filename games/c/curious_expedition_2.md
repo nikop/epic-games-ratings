@@ -32,12 +32,12 @@ Number of Ratings: 20  (23.09.2022)
 | Practical Palaeontology | 16.00% | ~66 |
 | Adventurer | 15.00% | ~62 |
 | For the Club! | 15.00% | ~62 |
+| Plays Well With Others | 14.00% | ~58 |
 | Dapper | 14.00% | ~58 |
 | The New Director | 13.00% | ~54 |
 | The Director is Dead | 13.00% | ~54 |
 | And Here Is Your Statue | 13.00% | ~54 |
 | Discovery | 13.00% | ~54 |
-| Plays Well With Others | 13.00% | ~54 |
 | Very Classy | 13.00% | ~54 |
 | Under the Table | 11.00% | ~45 |
 | It's Complicated | 11.00% | ~45 |

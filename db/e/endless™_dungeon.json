@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1504,
+  "EOS_Progressed": 1505,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -3285,6 +3285,11 @@
       "Time": "2024-01-07T11:05:28.8897104+00:00",
       "NumProgressed": 1504,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T12:04:21.6313519+00:00",
+      "NumProgressed": 1505,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3337,7 +3342,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -3401,7 +3406,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -3441,7 +3446,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3497,7 +3502,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -3505,7 +3510,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -3536,14 +3541,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1504,
+      "Progressed": 1505,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:05:28.8897099+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:04:21.6313516+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.4570132+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:02:46.176029+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:05:28.8897756+00:00"
+  "LastUpdate_Ratings": "2024-01-07T12:02:32.6103095+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:04:21.6313988+00:00"
 }

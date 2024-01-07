@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -2898,9 +2898,9 @@
       "ID": "Beam",
       "SetID": "5lok9mm",
       "Name": "Force Beam",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2252
     },
     {
       "ID": "BenCave",
@@ -3202,9 +3202,9 @@
       "ID": "SeeTown",
       "SetID": "5lok9mm",
       "Name": "Cage Town",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2277
     },
     {
       "ID": "Speed",
@@ -3282,8 +3282,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2024-01-07T01:53:44.9453277+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:06:33.23616+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:05:05.4009096+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:36.8093003+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:59:38.7347671+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:06:33.236224+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:58:37.306419+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:05:05.4009709+00:00"
 }

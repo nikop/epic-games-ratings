@@ -1,27 +1,27 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 674)  
+Rating: 4.46 (Ranked 673)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~134,199 |
-| My First Runbow | 50.00% | ~126,603 |
+| In The Zone | 53.00% | ~134,201 |
+| My First Runbow | 50.00% | ~126,604 |
 | It's The Fall | 26.00% | ~65,834 |
-| The Stunner | 23.00% | ~58,237 |
-| Be Aggressive | 21.00% | ~53,173 |
-| Curator | 20.00% | ~50,641 |
-| Crowning Around | 18.00% | ~45,577 |
-| Can You Dig It? | 17.00% | ~43,045 |
+| The Stunner | 23.00% | ~58,238 |
+| Be Aggressive | 21.00% | ~53,174 |
+| Curator | 20.00% | ~50,642 |
+| Crowning Around | 18.00% | ~45,578 |
+| Can You Dig It? | 17.00% | ~43,046 |
 | You Juan-A-Go? | 16.00% | ~40,513 |
 | Chan-tastic | 15.00% | ~37,981 |
 | Muddy Waters | 14.00% | ~35,449 |
 | Toasty! | 13.00% | ~32,917 |
-| Lazy Laser | 8.00% | ~20,256 |
-| Just A Phaze | 7.00% | ~17,724 |
-| Into The Drift | 7.00% | ~17,724 |
-| Ready? Fight! | 7.00% | ~17,724 |
-| Butt Butt | 6.00% | ~15,192 |
+| Lazy Laser | 8.00% | ~20,257 |
+| Just A Phaze | 7.00% | ~17,725 |
+| Into The Drift | 7.00% | ~17,725 |
+| Ready? Fight! | 7.00% | ~17,725 |
+| Butt Butt | 6.00% | ~15,193 |
 | He Who Laughs Last | 3.00% | ~7,596 |
 | Shoo, Cat! | 3.00% | ~7,596 |
 | And You're Okay | 2.00% | ~5,064 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 674)
 | Talent Scout | 0.10% | ~253 |
 | True Completionist | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,206 (Ranked 69)  
+Progressed: 253,209 (Ranked 69)  
 Completed: 6 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 6 (0.00%) (Ranked 393)
 | 2024-01-04 | 253,093 | 6 |
 | 2024-01-05 | 253,137 | 6 |
 | 2024-01-06 | 253,186 | 6 |
-| 2024-01-07 | 253,206 | 6 |
+| 2024-01-07 | 253,209 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

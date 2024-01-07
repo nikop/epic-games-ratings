@@ -1,7 +1,7 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 892  (23.09.2022)
 | Officially Official | 121.00% | ~993 |
 | On that Grindset | 115.00% | ~944 |
 | Greeno-B-Gone | 114.00% | ~936 |
-| Better Late than Never | 102.00% | ~837 |
+| Better Late than Never | 103.00% | ~846 |
 | Your Especially Earned Trajectory | 95.00% | ~780 |
 | Pack Mule | 92.00% | ~755 |
 | Got Served | 92.00% | ~755 |
@@ -31,13 +31,13 @@ Number of Ratings: 892  (23.09.2022)
 | First Love | 77.00% | ~632 |
 | I Do! | 77.00% | ~632 |
 | Chatterbox | 76.00% | ~624 |
-| Can We Keep It? | 74.00% | ~608 |
-| Builder of the Month | 71.00% | ~583 |
+| Can We Keep It? | 75.00% | ~616 |
+| Builder of the Month | 72.00% | ~591 |
 | Elementary, My Dear | 69.00% | ~566 |
 | Bridging the Gap | 68.00% | ~558 |
 | Waste Not Want Not | 66.00% | ~542 |
 | Commissions, commissions...! | 65.00% | ~534 |
-| Lifeline Pipeline | 63.00% | ~517 |
+| Lifeline Pipeline | 64.00% | ~525 |
 | Got the Flow Back | 62.00% | ~509 |
 | Martle's Dream | 59.00% | ~484 |
 | Happier-est Place on Earth | 57.00% | ~468 |

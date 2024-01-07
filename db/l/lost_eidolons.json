@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 3809,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1122,
+  "EOS_Progressed": 1123,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -10,
+  "EOS_NewPlayers": -9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2507,6 +2507,11 @@
       "Time": "2024-01-07T09:08:23.0737165+00:00",
       "NumProgressed": 1122,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T12:08:26.5901646+00:00",
+      "NumProgressed": 1123,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2550,7 +2555,7 @@
       "Name": "The First Step",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "06",
@@ -2558,7 +2563,7 @@
       "Name": "First Blood",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "07",
@@ -2582,7 +2587,7 @@
       "Name": "Awakening",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "10",
@@ -2701,7 +2706,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1122,
+      "Progressed": 1123,
       "Completed": 1
     }
   ],
@@ -2709,8 +2714,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:08:45.6764966+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:08:26.5901641+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:03:12.0305155+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:08:45.6765231+00:00"
+  "LastUpdate_Ratings": "2024-01-07T12:02:48.7563468+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:08:26.5901927+00:00"
 }

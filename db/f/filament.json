@@ -414,9 +414,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208714,
+  "EOS_Progressed": 208720,
   "EOS_Completed": 557,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28424,6 +28424,11 @@
       "Time": "2024-01-07T11:06:00.6977733+00:00",
       "NumProgressed": 208714,
       "NumCompleted": 557
+    },
+    {
+      "Time": "2024-01-07T12:04:43.2247956+00:00",
+      "NumProgressed": 208720,
+      "NumCompleted": 557
     }
   ],
   "TotalAchievements": 29,
@@ -28459,7 +28464,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196191
+      "UsersEstimate": 196197
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -28507,7 +28512,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6261
+      "UsersEstimate": 6262
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -28603,7 +28608,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6261
+      "UsersEstimate": 6262
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -28619,7 +28624,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20871
+      "UsersEstimate": 20872
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -28635,7 +28640,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16697
+      "UsersEstimate": 16698
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -28666,7 +28671,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208714,
+      "Progressed": 208720,
       "Completed": 557
     }
   ],
@@ -28674,8 +28679,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-07T03:01:28.6311382+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:06:00.6977731+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:04:43.2247952+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.3451627+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:57:01.1730958+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:06:00.6979081+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:56:54.6034791+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:04:43.2250052+00:00"
 }

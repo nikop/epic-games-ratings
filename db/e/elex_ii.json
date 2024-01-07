@@ -5,10 +5,10 @@
   "Ranking_Rating": 879,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 205,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1386,6 +1386,11 @@
       "Time": "2024-01-07T11:06:04.3845664+00:00",
       "NumProgressed": 204,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T12:04:45.8433892+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1446,7 +1451,7 @@
       "Name": "Storyteller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "20TELEPORTS",
@@ -1606,7 +1611,7 @@
       "Name": "Berserker",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CHOSEKLE",
@@ -1678,7 +1683,7 @@
       "Name": "Civilian",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "FINDCRONY",
@@ -1686,7 +1691,7 @@
       "Name": "Best Buddy",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "FINDMAP",
@@ -1700,9 +1705,9 @@
       "ID": "FINDWARDEK",
       "SetID": "a1angca",
       "Name": "Family Reunion",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "FUTUREIRISSA",
@@ -1782,7 +1787,7 @@
       "Name": "Eternal Oblivion",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LOVECAJA",
@@ -1797,15 +1802,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 205,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:06:04.3845656+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:04:45.8433888+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:59:04.3503206+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:06:04.3846241+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:58:14.9134551+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:04:45.8434427+00:00"
 }

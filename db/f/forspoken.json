@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -619,9 +619,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46657,
+  "EOS_Progressed": 46667,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 809,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17974,6 +17974,11 @@
       "Time": "2024-01-07T11:05:07.8171023+00:00",
       "NumProgressed": 46657,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T12:04:07.1405493+00:00",
+      "NumProgressed": 46667,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18033,7 +18038,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5599
+      "UsersEstimate": 5600
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18049,7 +18054,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -18137,7 +18142,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4199
+      "UsersEstimate": 4200
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18145,7 +18150,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -18177,7 +18182,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -18201,7 +18206,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -18225,7 +18230,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -18273,7 +18278,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -18297,7 +18302,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -18321,7 +18326,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5133
     },
     {
       "ID": "SPRING_ALL",
@@ -18337,7 +18342,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "STAYING_AIR",
@@ -18408,22 +18413,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46657,
+      "Progressed": 46667,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11494,
-      "Completed": 11494
+      "Progressed": 11504,
+      "Completed": 11504
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-07T05:02:53.6852275+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:05:07.8171017+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:04:07.1405491+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:03:13.5386114+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:05:07.8172352+00:00"
+  "LastUpdate_Ratings": "2024-01-07T12:02:49.7569011+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:04:07.1406421+00:00"
 }

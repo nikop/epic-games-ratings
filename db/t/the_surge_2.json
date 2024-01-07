@@ -2,13 +2,13 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 235,
+  "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2504,
+  "EOS_Progressed": 2505,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4425,6 +4425,11 @@
       "Time": "2024-01-07T11:08:24.451257+00:00",
       "NumProgressed": 2504,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-07T12:08:11.9333164+00:00",
+      "NumProgressed": 2505,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4460,7 +4465,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ACHV_05",
@@ -4508,7 +4513,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACHV_11",
@@ -4588,7 +4593,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHV_21",
@@ -4612,7 +4617,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ACHV_24",
@@ -4636,7 +4641,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "ACHV_27",
@@ -4644,7 +4649,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ACHV_28",
@@ -4708,7 +4713,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACHV_36",
@@ -4740,7 +4745,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "ACHV_40",
@@ -4756,7 +4761,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ACHV_42",
@@ -4764,7 +4769,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHV_43",
@@ -4891,7 +4896,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2504,
+      "Progressed": 2505,
       "Completed": 13
     }
   ],
@@ -4899,8 +4904,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:08:24.4512567+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:08:11.9333158+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:02:57.2392535+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:08:24.4513152+00:00"
+  "LastUpdate_Ratings": "2024-01-07T12:02:39.6013099+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:08:11.9333908+00:00"
 }

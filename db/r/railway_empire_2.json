@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -311,7 +311,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2651,
+  "EOS_Progressed": 2652,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -7721,6 +7721,11 @@
       "Time": "2024-01-07T07:04:46.0514363+00:00",
       "NumProgressed": 2651,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T12:04:49.0445132+00:00",
+      "NumProgressed": 2652,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7732,7 +7737,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "A01",
@@ -7740,7 +7745,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "A02",
@@ -7844,7 +7849,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "A15",
@@ -7890,9 +7895,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2042
     },
     {
       "ID": "A21",
@@ -7908,7 +7913,7 @@
       "Name": "Brainstorm",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "A23",
@@ -7924,7 +7929,7 @@
       "Name": "Access granted",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "A25",
@@ -7956,7 +7961,7 @@
       "Name": "We brake for nobody",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "A29",
@@ -7980,7 +7985,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "A32",
@@ -8004,7 +8009,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "A35",
@@ -8020,7 +8025,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "A37",
@@ -8060,7 +8065,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "A42",
@@ -8148,7 +8153,7 @@
       "Name": "Socializer",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "A53",
@@ -8171,7 +8176,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2651,
+      "Progressed": 2652,
       "Completed": 0
     }
   ],
@@ -8179,8 +8184,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:06:09.1952967+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:04:49.044513+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.5860867+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:58:01.6671328+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:06:09.1953954+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:57:34.5795212+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:04:49.0445792+00:00"
 }

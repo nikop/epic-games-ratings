@@ -6,40 +6,40 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~377 |
-| Mushroom Picker | 55.00% | ~346 |
-| Scrap Gatherer | 54.00% | ~340 |
-| Scrapper | 44.00% | ~277 |
-| Teleport | 43.00% | ~270 |
-| Cook | 42.00% | ~264 |
-| Scrap Master | 35.00% | ~220 |
-| Smelter | 34.00% | ~214 |
-| Digger | 30.00% | ~189 |
-| Electro-Scrap Gatherer | 30.00% | ~189 |
-| Survivor | 29.00% | ~182 |
-| Herbalist | 28.00% | ~176 |
-| Lumberjack | 28.00% | ~176 |
-| Robot Destroyer | 28.00% | ~176 |
-| Prepper | 24.00% | ~151 |
-| Electro-Scrap Master | 23.00% | ~145 |
+| My New Home | 60.00% | ~379 |
+| Mushroom Picker | 55.00% | ~348 |
+| Scrap Gatherer | 54.00% | ~341 |
+| Scrapper | 44.00% | ~278 |
+| Teleport | 43.00% | ~272 |
+| Cook | 42.00% | ~265 |
+| Scrap Master | 35.00% | ~221 |
+| Smelter | 34.00% | ~215 |
+| Digger | 30.00% | ~190 |
+| Electro-Scrap Gatherer | 30.00% | ~190 |
+| Survivor | 29.00% | ~183 |
+| Herbalist | 28.00% | ~177 |
+| Lumberjack | 28.00% | ~177 |
+| Robot Destroyer | 28.00% | ~177 |
+| Prepper | 24.00% | ~152 |
+| Electro-Scrap Master | 22.00% | ~139 |
 | Robot Hunter | 20.00% | ~126 |
-| Advanced Survivalist | 18.00% | ~113 |
+| Advanced Survivalist | 18.00% | ~114 |
 | Master Of Technology | 16.00% | ~101 |
 | Treasure Hunter | 16.00% | ~101 |
 | Mythical Smelter | 14.00% | ~88 |
-| Blacksmith | 11.00% | ~69 |
+| Blacksmith | 11.00% | ~70 |
 | Forest Lord | 10.00% | ~63 |
 | Fuel | 10.00% | ~63 |
 | Master Of Management | 9.00% | ~57 |
 | Smelting Master | 9.00% | ~57 |
 | Black Gold | 7.00% | ~44 |
-| Survival Master | 5.00% | ~31 |
+| Survival Master | 5.00% | ~32 |
 | Traveler | 3.00% | ~19 |
 | Forest Killer | 2.00% | ~13 |
 | Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 629 (Ranked 336)  
-Completed: 4 (0.64%) (Ranked 204)  
+Progressed: 632 (Ranked 335)  
+Completed: 4 (0.63%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,7 +215,7 @@ Completed: 4 (0.64%) (Ranked 204)
 | 2024-01-04 | 616 | 4 |
 | 2024-01-05 | 621 | 4 |
 | 2024-01-06 | 627 | 4 |
-| 2024-01-07 | 629 | 4 |
+| 2024-01-07 | 632 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

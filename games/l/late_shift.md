@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Cause and Effect | 95.00% | ~935 |
 | Fair Share | 68.00% | ~669 |
-| Even Tempered | 54.00% | ~531 |
+| Even Tempered | 55.00% | ~541 |
 | Star-Crossed Lovers | 47.00% | ~462 |
 | The Delivery | 44.00% | ~433 |
 | Shill Bidder | 41.00% | ~403 |
@@ -26,7 +26,7 @@
 | Expert Storyteller | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 984 (Ranked 292)  
-Completed: 13 (1.32%) (Ranked 154)  
+Completed: 13 (1.32%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

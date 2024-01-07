@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9335,10 +9335,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33383,
       "NumberOfAwardsMax": 5756
+    },
+    {
+      "Time": "2024-01-07T12:00:01.0036285+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33386,
+      "NumberOfAwardsMax": 5756
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33383,
+  "NumberOfAwards": 33386,
   "NumberOfAwardsMax": 5756,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9376,7 +9382,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4319
+      "Count": 4322
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9385,10 +9391,10 @@
       "Count": 3631
     }
   ],
-  "EOS_Progressed": 252302,
+  "EOS_Progressed": 252313,
   "EOS_Completed": 2599,
-  "EOS_NewPlayers": 4035,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 4012,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39060,6 +39066,11 @@
       "Time": "2024-01-07T11:11:02.4691008+00:00",
       "NumProgressed": 252302,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-07T12:10:05.0875918+00:00",
+      "NumProgressed": 252313,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 546,
@@ -39071,7 +39082,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10092
+      "UsersEstimate": 10093
     },
     {
       "ID": "objective_completed_10",
@@ -40751,7 +40762,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "objective_completed_35",
@@ -43375,7 +43386,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "objective_completed_1563",
@@ -43438,21 +43449,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218576,
-      "Completed": 4142
+      "Progressed": 218587,
+      "Completed": 4143
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252302,
+      "Progressed": 252313,
       "Completed": 2599
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-07T06:01:26.3313586+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:11:02.4691005+00:00",
+  "LastChanged": "2024-01-07T12:00:01.0036284+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:10:05.0875914+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:01:48.4079983+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:11:02.4716022+00:00"
+  "LastUpdate_Ratings": "2024-01-07T12:00:01.0036292+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:10:05.0900503+00:00"
 }

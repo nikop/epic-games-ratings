@@ -5,25 +5,25 @@ Rating: 4.55 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,213 |
-| Pay 'n' Spray | 50.00% | ~9,390 |
-| All Dressed Up for San Fierro | 25.00% | ~4,695 |
-| The American Dream | 18.00% | ~3,381 |
-| School's Out | 18.00% | ~3,381 |
-| Smooth Moves | 16.00% | ~3,005 |
-| Today Was a Good Day | 15.00% | ~2,817 |
-| What happens in Las Venturas... | 14.00% | ~2,629 |
-| Horror of the Santa Maria | 10.00% | ~1,878 |
-| Liberty City State of Mind | 9.00% | ~1,690 |
-| Original Gangster | 8.00% | ~1,502 |
+| Getting Started | 81.00% | ~15,219 |
+| Pay 'n' Spray | 50.00% | ~9,394 |
+| All Dressed Up for San Fierro | 25.00% | ~4,697 |
+| The American Dream | 18.00% | ~3,382 |
+| School's Out | 18.00% | ~3,382 |
+| Smooth Moves | 16.00% | ~3,006 |
+| Today Was a Good Day | 15.00% | ~2,818 |
+| What happens in Las Venturas... | 14.00% | ~2,630 |
+| Horror of the Santa Maria | 10.00% | ~1,879 |
+| Liberty City State of Mind | 9.00% | ~1,691 |
+| Original Gangster | 8.00% | ~1,503 |
 | With Extra Dip | 7.00% | ~1,315 |
 | The End of the Line | 7.00% | ~1,315 |
 | Saviour | 6.00% | ~1,127 |
 | Rescue a Kitten Too? | 5.00% | ~939 |
-| They Can’t Stop All of Us | 4.00% | ~751 |
-| What are the Odds | 4.00% | ~751 |
-| Bike or Biker | 3.00% | ~563 |
-| What the City Needs | 3.00% | ~563 |
+| They Can’t Stop All of Us | 4.00% | ~752 |
+| What are the Odds | 4.00% | ~752 |
+| Bike or Biker | 3.00% | ~564 |
+| What the City Needs | 3.00% | ~564 |
 | A Legitimate Business | 2.00% | ~376 |
 | I’ll Have Two Number 9s | 2.00% | ~376 |
 | Who Needs Directions? | 2.00% | ~376 |
@@ -37,11 +37,11 @@ Rating: 4.55 (Ranked 527)
 | Lucky Spinner | 1.00% | ~188 |
 | Not a Player | 1.00% | ~188 |
 | Chick Magnet | 1.00% | ~188 |
-| Remastered | 0.70% | ~131 |
+| Remastered | 0.70% | ~132 |
 | ...Here we go again | 0.50% | ~94 |
 | I Ain't No Buster | 0.40% | ~75 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,781 (Ranked 157)  
+Progressed: 18,789 (Ranked 157)  
 Completed: 75 (0.40%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,11 +303,11 @@ Completed: 75 (0.40%) (Ranked 236)
 | 2024-01-04 | 18,344 | 72 |
 | 2024-01-05 | 18,512 | 72 |
 | 2024-01-06 | 18,702 | 75 |
-| 2024-01-07 | 18,781 | 75 |
+| 2024-01-07 | 18,789 | 75 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 443)  
-Sum: 360 (Ranked 368)  
-Diff (max vs sum): 75  
+Sum: 363 (Ranked 367)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 557 |
@@ -316,7 +316,7 @@ Diff (max vs sum): 75
 | This game is Great for Beginners | 50 |
 | This game has Amazing Storytelling | 49 |
 | This game is Highly Recommended | 45 |
-| This game has Diverse Characters | 38 |
+| This game has Diverse Characters | 41 |
 | This game is Extremely Fun | 37 |
 | This game has Quickly Understood Controls | 36 |
 | This game has a Creative Community | 29 |
@@ -546,4 +546,4 @@ Diff (max vs sum): 75
 | 2024-01-04 | 4.55 | 52 | 341 |
 | 2024-01-05 | 4.55 | 54 | 351 |
 | 2024-01-06 | 4.55 | 54 | 355 |
-| 2024-01-07 | 4.55 | 54 | 360 |
+| 2024-01-07 | 4.55 | 54 | 363 |

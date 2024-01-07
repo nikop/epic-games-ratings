@@ -1,13 +1,13 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 260)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tooth fairy | 23.00% | ~203 |
 | Dental maturity | 19.00% | ~168 |
-| Devil's in the details | 14.00% | ~123 |
+| Devil's in the details | 14.00% | ~124 |
 | Uprooting | 13.00% | ~115 |
 | Forbidden techniques | 12.00% | ~106 |
 | Devoted | 9.00% | ~79 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 259)
 | Mushrooming enthusiast | 0.70% | ~6 |
 | Apex predator | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 882 (Ranked 301)  
+Progressed: 883 (Ranked 301)  
 Completed: 1 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 1 (0.11%) (Ranked 304)
 | 2024-01-04 | 869 | 1 |
 | 2024-01-05 | 874 | 1 |
 | 2024-01-06 | 880 | 1 |
-| 2024-01-07 | 882 | 1 |
+| 2024-01-07 | 883 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

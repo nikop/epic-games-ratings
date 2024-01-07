@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 179,
@@ -293,9 +293,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 10540,
+  "EOS_Progressed": 10545,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1475,
+  "EOS_NewPlayers": 1466,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3983,6 +3983,11 @@
       "Time": "2024-01-07T11:10:44.2342526+00:00",
       "NumProgressed": 10540,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T12:09:50.179552+00:00",
+      "NumProgressed": 10545,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3995,7 +4000,7 @@
       "Name": "Conspiracy",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "03_TheStolenStar",
@@ -4131,7 +4136,7 @@
       "Name": "Void Wolf",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -4155,7 +4160,7 @@
       "Name": "Perfect Timing",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "23_DynastyRestored",
@@ -4203,7 +4208,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4243,7 +4248,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4251,7 +4256,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4315,7 +4320,7 @@
       "Name": "Iron Judgement",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4449,9 +4454,9 @@
       "ID": "59_ThePossessedShip",
       "SetID": "37a94m8",
       "Name": "The Possessed Ship",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 105
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -4514,7 +4519,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10540,
+      "Progressed": 10545,
       "Completed": 1
     }
   ],
@@ -4522,8 +4527,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-07T07:57:26.3541054+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:10:44.2342522+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:09:50.1795516+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:57:15.2514991+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:10:44.2343112+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:57:03.6292371+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:09:50.1796248+00:00"
 }

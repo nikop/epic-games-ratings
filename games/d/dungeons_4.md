@@ -24,8 +24,8 @@ Rating: 4.71 (Ranked 202)
 | Minions, Minions! | 56.00% | ~414 |
 | Hard Work | 55.00% | ~407 |
 | The Big Eaty | 54.00% | ~400 |
+| “… like son” | 52.00% | ~385 |
 | YOU SHALL NOT PASS! | 51.00% | ~377 |
-| “… like son” | 51.00% | ~377 |
 | The Cathedral of Light | 48.00% | ~355 |
 | Shame! Shame! Shame! | 47.00% | ~348 |
 | Tanos' Crusade Against Thalya | 46.00% | ~340 |
@@ -51,7 +51,7 @@ Rating: 4.71 (Ranked 202)
 | Bonus Evilness | 25.00% | ~185 |
 | The Rune Sockets of Finitude (Part 2) | 25.00% | ~185 |
 | The Last Stand - This Time For Real! | 24.00% | ~178 |
-| Rubble and Ashes | 21.00% | ~155 |
+| Rubble and Ashes | 22.00% | ~163 |
 | Lavalumps on Ice! | 20.00% | ~148 |
 | To the Max! | 19.00% | ~141 |
 | To Infinity And Beyond! | 19.00% | ~141 |

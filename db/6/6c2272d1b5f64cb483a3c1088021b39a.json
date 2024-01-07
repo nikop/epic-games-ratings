@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4921,9 +4921,9 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 674
     },
     {
       "ID": "elemental_stones_2",
@@ -5288,8 +5288,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:10:56.9076069+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:09:59.7924409+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.0513458+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:00:33.9721864+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:10:56.9076867+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:59:12.9315347+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:09:59.7925177+00:00"
 }

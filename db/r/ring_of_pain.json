@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 472,
   "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242536,
+  "EOS_Progressed": 242544,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30995,6 +30995,11 @@
       "Time": "2024-01-07T11:11:00.9698054+00:00",
       "NumProgressed": 242536,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-07T12:10:03.0989272+00:00",
+      "NumProgressed": 242544,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31804,9 +31809,9 @@
       "ID": "TRANSFORM20TIMES",
       "SetID": "5l8oe0h",
       "Name": "Shapeshifting",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1698
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -32109,13 +32114,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242536,
+      "Progressed": 242544,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4016,
+      "Progressed": 4024,
       "Completed": 421
     }
   ],
@@ -32123,8 +32128,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:11:00.9698048+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:10:03.0989268+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:01:39.1222234+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:11:00.9700912+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:59:54.8322025+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:10:03.0992114+00:00"
 }

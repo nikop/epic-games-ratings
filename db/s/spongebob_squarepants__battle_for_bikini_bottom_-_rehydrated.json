@@ -5,10 +5,10 @@
   "Ranking_Rating": 319,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 528,
-  "Ranking_EOS_Progress": 310,
-  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -341,11 +341,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 797,
+  "EOS_Progressed": 803,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.88,
+  "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -2146,6 +2146,11 @@
       "Time": "2024-01-07T11:07:07.5558773+00:00",
       "NumProgressed": 797,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T12:05:29.922359+00:00",
+      "NumProgressed": 803,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2238,7 +2243,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2268,9 +2273,9 @@
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -2348,17 +2353,17 @@
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Mega Spatula Seeker",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2366,7 +2371,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2374,7 +2379,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2413,15 +2418,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 797,
+      "Progressed": 803,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-06T21:00:31.8698684+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:07:07.5558769+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:05:29.9223588+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:02:55.6576405+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:07:07.5559175+00:00"
+  "LastUpdate_Ratings": "2024-01-07T12:02:38.7432148+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:05:29.9223869+00:00"
 }

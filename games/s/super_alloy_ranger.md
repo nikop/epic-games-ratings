@@ -4,24 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 75.00% | ~115 |
-| Gear Up | 64.00% | ~98 |
-| A Grand Show | 64.00% | ~98 |
-| Freshen Up | 54.00% | ~83 |
+| Iceberg Theory | 75.00% | ~116 |
+| Gear Up | 64.00% | ~99 |
+| A Grand Show | 64.00% | ~99 |
+| Freshen Up | 55.00% | ~85 |
 | GG EZ | 52.00% | ~80 |
 | Hydrophobia | 36.00% | ~55 |
-| Ka-Ching! | 29.00% | ~44 |
-| Stop Right There | 27.00% | ~41 |
+| Ka-Ching! | 30.00% | ~46 |
+| Stop Right There | 27.00% | ~42 |
 | Get to the Point | 24.00% | ~37 |
-| Toe to Toe | 14.00% | ~21 |
-| Phew! | 14.00% | ~21 |
+| Mr. Want It All | 14.00% | ~22 |
+| Toe to Toe | 14.00% | ~22 |
+| Phew! | 14.00% | ~22 |
 | The Hidden Secret | 13.00% | ~20 |
-| Mr. Want It All | 13.00% | ~20 |
 | The Abyss Conqueror | 9.00% | ~14 |
 | Space Warrior: Prologue | 9.00% | ~14 |
 | The Fortress Conqueror | 8.00% | ~12 |
 | Grand Escape | 8.00% | ~12 |
-| Keep it Up, rookie! | 7.00% | ~11 |
+| Keep it Up, rookie! | 6.00% | ~9 |
+| The Sunken City Conqueror | 5.00% | ~8 |
 | The Deep Frozen Conqueror | 5.00% | ~8 |
 | The Infinite Train Conqueror | 5.00% | ~8 |
 | The Paradox Coordinate Conqueror | 5.00% | ~8 |
@@ -31,7 +32,6 @@
 | Antaeus | 5.00% | ~8 |
 | Hell of a Fight | 5.00% | ~8 |
 | Decapitation Strike | 5.00% | ~8 |
-| The Sunken City Conqueror | 4.00% | ~6 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~6 |
 | Death Bringer Conqueror | 4.00% | ~6 |
 | The Looping Space Conqueror | 3.00% | ~5 |
@@ -48,14 +48,14 @@
 | Alloy Rangers, Assemble! | 1.00% | ~2 |
 | Easy Peasy | 1.00% | ~2 |
 | Clean Sweep | 1.00% | ~2 |
-| Flawless | 0.70% | ~1 |
-| Peace Out | 0.70% | ~1 |
-| Mischief Time | 0.70% | ~1 |
-| Art is an Explosion | 0.70% | ~1 |
-| Bullets Fear Me | 0.70% | ~1 |
-| Super Alloy Ranger! | 0.70% | ~1 |
+| Flawless | 0.60% | ~1 |
+| Peace Out | 0.60% | ~1 |
+| Mischief Time | 0.60% | ~1 |
+| Art is an Explosion | 0.60% | ~1 |
+| Bullets Fear Me | 0.60% | ~1 |
+| Super Alloy Ranger! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 449)  
+Progressed: 154 (Ranked 448)  
 Completed: 1 (0.65%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.65%) (Ranked 202)
 | 2024-01-03 | 149 | 1 |
 | 2024-01-04 | 150 | 1 |
 | 2024-01-06 | 152 | 1 |
-| 2024-01-07 | 153 | 1 |
+| 2024-01-07 | 154 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

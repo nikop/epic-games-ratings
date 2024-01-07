@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -953,7 +953,7 @@
       "ID": "ALL_COLLECTIBLES",
       "SetID": "7im05fi",
       "Name": "Collector",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 120,
       "UsersEstimate": 4
     },
@@ -1041,9 +1041,9 @@
       "ID": "NO_PURCHASES",
       "SetID": "7im05fi",
       "Name": "Stingy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "OX_DEFEATED",
@@ -1090,8 +1090,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:05:59.7344464+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:04:42.6612905+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:59:07.4751669+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:05:59.7344602+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:58:16.9685654+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:04:42.6613072+00:00"
 }

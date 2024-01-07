@@ -2,13 +2,13 @@
   "ID": "64543c9227724068970bd85bc4e73e9e",
   "Name": "Farlight 84",
   "ProductSlug": "farlight-84-8e689a",
-  "Ranking_Rating": 911,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 460,
+  "Ranking_Rating": 899,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-26T06:00:00+00:00",
     "PcReleaseDate": "2023-08-22T09:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2023-11-02T19:03:18.4376934+00:00",
@@ -593,24 +593,30 @@
       "Rating": 4.26,
       "NumberOfAwards": 114,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-01-07T11:59:39.4231449+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 116,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 114,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 116,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Characters",
@@ -643,8 +649,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2024-01-06T22:59:33.7714157+00:00",
+  "LastChanged": "2024-01-07T11:59:39.4231448+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.0504099+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:01:15.8271743+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:07:04.1034591+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:59:39.4231452+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:05:27.5735318+00:00"
 }

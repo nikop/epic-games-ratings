@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -775,9 +775,9 @@
       "ID": "Defeat_Uram",
       "SetID": "7b9f97e",
       "Name": "Defeat Uram",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Defeat_Yria",
@@ -871,9 +871,9 @@
       "ID": "Landmark_CryptRevenant",
       "SetID": "7b9f97e",
       "Name": "Crypt of the Revenant",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Landmark_MistyCoastBones",
@@ -1208,8 +1208,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:10:13.3025248+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:09:28.0022484+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:03:03.3277737+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:10:13.3025965+00:00"
+  "LastUpdate_Ratings": "2024-01-07T12:02:43.4215423+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:09:28.0023166+00:00"
 }

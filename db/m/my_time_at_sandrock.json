@@ -2,13 +2,13 @@
   "ID": "e65d8864e0e84d6eb7fe228b2041c15f",
   "Name": "My Time at Sandrock",
   "ProductSlug": "my-time-at-sandrock",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2120,7 +2120,7 @@
   ],
   "EOS_Progressed": 821,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9428,9 +9428,9 @@
       "ID": "M_HOME_RANK",
       "SetID": "80dcan0",
       "Name": "Builder of the Month",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 591
     },
     {
       "ID": "M_HOME_STAR",
@@ -9444,9 +9444,9 @@
       "ID": "M_PET",
       "SetID": "80dcan0",
       "Name": "Can We Keep It?",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 616
     },
     {
       "ID": "P_BEAUTIFYSANDROCK",
@@ -9468,9 +9468,9 @@
       "ID": "P_CRANELIFT",
       "SetID": "80dcan0",
       "Name": "Better Late than Never",
-      "Percentage": 102,
+      "Percentage": 103,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 846
     },
     {
       "ID": "P_ENVIRONMENT",
@@ -9572,9 +9572,9 @@
       "ID": "P_WATERPIPELINE",
       "SetID": "80dcan0",
       "Name": "Lifeline Pipeline",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 525
     },
     {
       "ID": "P_WATERTOWER",
@@ -9796,8 +9796,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-07T10:58:02.9085275+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:09:09.0940691+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:08:42.5620354+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.0919525+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:58:02.908528+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:09:09.094141+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:57:35.3845407+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:08:42.5621077+00:00"
 }

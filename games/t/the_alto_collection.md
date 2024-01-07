@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,547 |
-| Finding Your Footing | 25.00% | ~13,470 |
-| Nomad | 17.00% | ~9,159 |
-| Picking Up Speed | 15.00% | ~8,082 |
-| Welcome Maya | 14.00% | ~7,543 |
+| Rookie | 27.00% | ~14,549 |
+| Finding Your Footing | 25.00% | ~13,471 |
+| Nomad | 17.00% | ~9,160 |
+| Picking Up Speed | 15.00% | ~8,083 |
+| Welcome Maya | 14.00% | ~7,544 |
 | Scout | 11.00% | ~5,927 |
 | Sightseer | 11.00% | ~5,927 |
 | Amateur | 10.00% | ~5,388 |
-| Unlock Maya | 8.00% | ~4,310 |
-| Wanderer | 8.00% | ~4,310 |
+| Unlock Maya | 8.00% | ~4,311 |
+| Wanderer | 8.00% | ~4,311 |
 | Enter Paz | 7.00% | ~3,772 |
 | Aviator | 5.00% | ~2,694 |
 | My Little Friend | 5.00% | ~2,694 |
 | One With The Board | 5.00% | ~2,694 |
 | Voyager | 4.00% | ~2,155 |
-| Junkie | 3.00% | ~1,616 |
-| Traveler | 3.00% | ~1,616 |
-| Unlock Paz | 3.00% | ~1,616 |
-| Human Flight | 3.00% | ~1,616 |
-| Sandboarder | 3.00% | ~1,616 |
-| Izel Has Arrived | 3.00% | ~1,616 |
+| Junkie | 3.00% | ~1,617 |
+| Traveler | 3.00% | ~1,617 |
+| Unlock Paz | 3.00% | ~1,617 |
+| Human Flight | 3.00% | ~1,617 |
+| Sandboarder | 3.00% | ~1,617 |
+| Izel Has Arrived | 3.00% | ~1,617 |
 | Explorer | 2.00% | ~1,078 |
 | Pro | 2.00% | ~1,078 |
 | Journeyer | 2.00% | ~1,078 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~54 |
 | Windswept | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,879 (Ranked 121)  
+Progressed: 53,884 (Ranked 121)  
 Completed: 5 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,14 +308,14 @@ Completed: 5 (0.01%) (Ranked 371)
 | 2024-01-04 | 53,507 | 5 |
 | 2024-01-05 | 53,651 | 5 |
 | 2024-01-06 | 53,813 | 5 |
-| 2024-01-07 | 53,879 | 5 |
+| 2024-01-07 | 53,884 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 50  (Ranked 455)  
-Sum: 393 (Ranked 356)  
-Diff (max vs sum): 99  
+Max (Great for Quick Sessions): 51  (Ranked 454)  
+Sum: 394 (Ranked 353)  
+Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 50 |
+| This game is Great for Quick Sessions | 51 |
 | This game is Great for Beginners | 47 |
 | This game is Highly Recommended | 44 |
 | This game has Beautiful Visuals | 43 |
@@ -454,3 +454,4 @@ Diff (max vs sum): 99
 | 2023-12-28 | 4.70 | - | 50 | 391 |
 | 2024-01-01 | 4.70 | - | 50 | 392 |
 | 2024-01-03 | 4.70 | - | 50 | 393 |
+| 2024-01-07 | 4.70 | - | 51 | 394 |

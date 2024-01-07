@@ -40,18 +40,18 @@
 | I'm going to get a concussion | 33.00% | ~50 |
 | Another one bites the iron | 32.00% | ~49 |
 | Ripe Meat Off The Bone! | 28.00% | ~43 |
+| Hovering around | 27.00% | ~41 |
 | Kleptomaniac | 27.00% | ~41 |
+| You're not so Big anymore, Boi! | 26.00% | ~40 |
 | A Megapint...? | 26.00% | ~40 |
 | Your daily dose of Vitamin C. | 26.00% | ~40 |
-| Hovering around | 26.00% | ~40 |
-| You're not so Big anymore, Boi! | 25.00% | ~38 |
 | I cant stand still! | 23.00% | ~35 |
-| Slimy... yet satisfying | 22.00% | ~33 |
+| Slimy... yet satisfying | 23.00% | ~35 |
 | Master Butcher | 19.00% | ~29 |
 | Just wing it! | 18.00% | ~27 |
 | Deal with it | 18.00% | ~27 |
+| Yeehaw!!! | 15.00% | ~23 |
 | You're looking mozzare-hella good! | 14.00% | ~21 |
-| Yeehaw!!! | 14.00% | ~21 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~20 |
 | Timber! | 12.00% | ~18 |
 | Free Of Chains | 12.00% | ~18 |

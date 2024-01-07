@@ -6,51 +6,51 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~316,479 |
-| good drivers have dead flies on the side windows | 32.00% | ~128,194 |
-| keep it tidy | 26.00% | ~104,158 |
-| brail | 26.00% | ~104,158 |
-| car wash | 23.00% | ~92,139 |
-| the artist | 23.00% | ~92,139 |
-| podium | 20.00% | ~80,121 |
-| medium attack | 17.00% | ~68,103 |
-| bicycle race | 6.00% | ~24,036 |
-| grocery-getter | 5.00% | ~20,030 |
-| autopilot | 4.00% | ~16,024 |
-| where is the stage? | 3.00% | ~12,018 |
-| night ride | 3.00% | ~12,018 |
-| snorkel | 3.00% | ~12,018 |
-| food tour: pasta | 3.00% | ~12,018 |
-| perkele | 2.00% | ~8,012 |
-| rwd only | 2.00% | ~8,012 |
-| turbo | 2.00% | ~8,012 |
-| if in doubt, flat out! | 2.00% | ~8,012 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,012 |
-| mittens | 2.00% | ~8,012 |
-| to finish first, first you must finish | 1.00% | ~4,006 |
-| espresso | 1.00% | ~4,006 |
-| in like a lamb, out like a lion | 1.00% | ~4,006 |
-| food tour: pretzel | 1.00% | ~4,006 |
-| monster | 0.90% | ~3,605 |
-| eurobeat | 0.60% | ~2,404 |
-| viking | 0.60% | ~2,404 |
-| oktoberfest | 0.50% | ~2,003 |
-| parallel universe | 0.50% | ~2,003 |
-| group b | 0.50% | ~2,003 |
-| maximum attack | 0.40% | ~1,602 |
-| samir | 0.40% | ~1,602 |
+| light attack | 79.00% | ~316,610 |
+| good drivers have dead flies on the side windows | 32.00% | ~128,247 |
+| keep it tidy | 26.00% | ~104,201 |
+| brail | 26.00% | ~104,201 |
+| car wash | 23.00% | ~92,178 |
+| the artist | 23.00% | ~92,178 |
+| podium | 20.00% | ~80,154 |
+| medium attack | 17.00% | ~68,131 |
+| bicycle race | 6.00% | ~24,046 |
+| grocery-getter | 5.00% | ~20,039 |
+| autopilot | 4.00% | ~16,031 |
+| where is the stage? | 3.00% | ~12,023 |
+| night ride | 3.00% | ~12,023 |
+| snorkel | 3.00% | ~12,023 |
+| food tour: pasta | 3.00% | ~12,023 |
+| perkele | 2.00% | ~8,015 |
+| rwd only | 2.00% | ~8,015 |
+| turbo | 2.00% | ~8,015 |
+| if in doubt, flat out! | 2.00% | ~8,015 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,015 |
+| mittens | 2.00% | ~8,015 |
+| to finish first, first you must finish | 1.00% | ~4,008 |
+| espresso | 1.00% | ~4,008 |
+| in like a lamb, out like a lion | 1.00% | ~4,008 |
+| food tour: pretzel | 1.00% | ~4,008 |
+| monster | 0.90% | ~3,607 |
+| eurobeat | 0.60% | ~2,405 |
+| viking | 0.60% | ~2,405 |
+| oktoberfest | 0.50% | ~2,004 |
+| parallel universe | 0.50% | ~2,004 |
+| group b | 0.50% | ~2,004 |
+| maximum attack | 0.40% | ~1,603 |
+| samir | 0.40% | ~1,603 |
 | parking lot | 0.30% | ~1,202 |
 | master of rally | 0.30% | ~1,202 |
 | antilag | 0.30% | ~1,202 |
 | real roads, real fast | 0.30% | ~1,202 |
-| comfy seats | 0.20% | ~801 |
-| simulator | 0.20% | ~801 |
+| comfy seats | 0.20% | ~802 |
+| simulator | 0.20% | ~802 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~401 |
 | absolute drift | 0.10% | ~401 |
 | barely keeping it together | 0.10% | ~401 |
 | you're here for a good time, not a long time | 0.10% | ~401 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400,606 (Ranked 49)  
+Progressed: 400,772 (Ranked 49)  
 Completed: 17 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,11 +242,11 @@ Completed: 17 (0.00%) (Ranked 393)
 | 2024-01-04 | 390,463 | 14 |
 | 2024-01-05 | 394,635 | 16 |
 | 2024-01-06 | 398,988 | 16 |
-| 2024-01-07 | 400,606 | 17 |
+| 2024-01-07 | 400,772 | 17 |
 ## Awards
-Max (Quickly Understood Controls): 32  (Ranked 515)  
+Max (Quickly Understood Controls): 32  (Ranked 516)  
 Sum: 180 (Ranked 426)  
-Diff (max vs sum): 89  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 32 |

@@ -17,9 +17,9 @@
 | Overwhelmed Beast | 9.00% | ~38 |
 | Radaxian Protector | 4.00% | ~17 |
 | Let's Talk | 2.00% | ~8 |
+| Stingy | 2.00% | ~8 |
+| Collector | 1.00% | ~4 |
 | Champion | 1.00% | ~4 |
-| Stingy | 1.00% | ~4 |
-| Collector | 0.90% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 423 (Ranked 361)  
 Completed: 4 (0.95%) (Ranked 175)  

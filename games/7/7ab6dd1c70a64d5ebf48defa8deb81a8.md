@@ -5,26 +5,26 @@ Rating: 4.13 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 62.00% | ~1,218 |
+| Break Out | 62.00% | ~1,220 |
 | Trinity | 30.00% | ~590 |
 | The Collector | 24.00% | ~472 |
-| Find Allies | 23.00% | ~452 |
-| A Taste of Wrath | 23.00% | ~452 |
-| I Found It | 23.00% | ~452 |
-| Shatter Them All | 22.00% | ~432 |
-| Geared Up | 22.00% | ~432 |
+| Find Allies | 23.00% | ~453 |
+| A Taste of Wrath | 23.00% | ~453 |
+| I Found It | 23.00% | ~453 |
+| Shatter Them All | 22.00% | ~433 |
+| Geared Up | 22.00% | ~433 |
 | Adventurer | 21.00% | ~413 |
 | Fashion Victim | 21.00% | ~413 |
 | Scholar | 21.00% | ~413 |
-| Powerful Allies | 19.00% | ~373 |
-| Tributes of Caladrias | 19.00% | ~373 |
-| Stone Collection | 19.00% | ~373 |
-| Big Bazar | 13.00% | ~255 |
+| Powerful Allies | 19.00% | ~374 |
+| Tributes of Caladrias | 19.00% | ~374 |
+| Stone Collection | 19.00% | ~374 |
+| Big Bazar | 13.00% | ~256 |
 | Essence Blow | 12.00% | ~236 |
 | Alchemist | 12.00% | ~236 |
-| The Mentor | 10.00% | ~196 |
-| Calm before the Storm | 8.00% | ~157 |
-| To Battle | 7.00% | ~138 |
+| The Mentor | 10.00% | ~197 |
+| Calm before the Storm | 9.00% | ~177 |
+| To Battle | 8.00% | ~157 |
 | Godslayer | 7.00% | ~138 |
 | Airborne | 7.00% | ~138 |
 | Miner | 7.00% | ~138 |
@@ -39,10 +39,10 @@ Rating: 4.13 (Ranked 1,008)
 | Forgemaster | 1.00% | ~20 |
 | Shardbearer | 1.00% | ~20 |
 | Summiter | 1.00% | ~20 |
-| All That Gold | 0.70% | ~14 |
+| All That Gold | 0.80% | ~16 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,965 (Ranked 249)  
+Progressed: 1,968 (Ranked 249)  
 Completed: 3 (0.15%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 3 (0.15%) (Ranked 285)
 | 2024-01-04 | 1,793 | 3 |
 | 2024-01-05 | 1,843 | 3 |
 | 2024-01-06 | 1,936 | 3 |
-| 2024-01-07 | 1,965 | 3 |
+| 2024-01-07 | 1,968 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

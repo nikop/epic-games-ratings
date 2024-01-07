@@ -1,22 +1,22 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 706)  
+Rating: 4.44 (Ranked 705)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,987 |
-| I'll Be Back | 84.00% | ~4,456 |
-| Sorry, I Dropped This | 76.00% | ~4,032 |
-| First Day on the Job | 76.00% | ~4,032 |
-| Butcher's Bill | 54.00% | ~2,865 |
-| P.A.X | 36.00% | ~1,910 |
-| Hey Listen | 36.00% | ~1,910 |
+| On My Own Two Feet | 94.00% | ~4,989 |
+| I'll Be Back | 84.00% | ~4,458 |
+| Sorry, I Dropped This | 76.00% | ~4,033 |
+| First Day on the Job | 76.00% | ~4,033 |
+| Butcher's Bill | 54.00% | ~2,866 |
+| P.A.X | 36.00% | ~1,911 |
+| Hey Listen | 36.00% | ~1,911 |
 | OPERATOR | 35.00% | ~1,857 |
 | It's Blue Light | 33.00% | ~1,751 |
-| Most Wanted | 26.00% | ~1,379 |
-| Infidel | 23.00% | ~1,220 |
+| Most Wanted | 26.00% | ~1,380 |
+| Infidel | 23.00% | ~1,221 |
 | Firebug | 20.00% | ~1,061 |
 | GOLIATH | 20.00% | ~1,061 |
 | I Choose You | 17.00% | ~902 |
@@ -30,14 +30,14 @@ Number of Ratings: 62  (23.09.2022)
 | CREO Killed the Video Star | 11.00% | ~584 |
 | Who's in Charge Here? | 11.00% | ~584 |
 | Shall Not Pass | 11.00% | ~584 |
-| Right Tool for the Job | 10.00% | ~530 |
-| Raging Drones | 9.00% | ~477 |
-| Overconfident | 9.00% | ~477 |
-| Pusher Man | 8.00% | ~424 |
-| Melting Down | 8.00% | ~424 |
-| Squad Chief Helvig | 8.00% | ~424 |
-| No More Marching | 8.00% | ~424 |
-| Is This Real Life? | 8.00% | ~424 |
+| Right Tool for the Job | 10.00% | ~531 |
+| Raging Drones | 9.00% | ~478 |
+| Overconfident | 9.00% | ~478 |
+| Pusher Man | 8.00% | ~425 |
+| Melting Down | 8.00% | ~425 |
+| Squad Chief Helvig | 8.00% | ~425 |
+| No More Marching | 8.00% | ~425 |
+| Is This Real Life? | 8.00% | ~425 |
 | Duty-Bound | 7.00% | ~371 |
 | Follow the White Rabbit | 7.00% | ~371 |
 | Liberation | 7.00% | ~371 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,305 (Ranked 202)  
+Progressed: 5,307 (Ranked 202)  
 Completed: 18 (0.34%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 18 (0.34%) (Ranked 244)
 | 2024-01-04 | 5,249 | 18 |
 | 2024-01-05 | 5,270 | 18 |
 | 2024-01-06 | 5,296 | 18 |
-| 2024-01-07 | 5,305 | 18 |
+| 2024-01-07 | 5,307 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 522)  
 Sum: 30 (Ranked 540)  

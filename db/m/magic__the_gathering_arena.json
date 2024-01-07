@@ -2,13 +2,13 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 693,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -16148,10 +16148,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 100637,
       "NumberOfAwardsMax": 12902
+    },
+    {
+      "Time": "2024-01-07T11:58:19.6527131+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 100647,
+      "NumberOfAwardsMax": 12902
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 100637,
+  "NumberOfAwards": 100647,
   "NumberOfAwardsMax": 12902,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -16171,7 +16177,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9919
+      "Count": 9925
     },
     {
       "Text": "This game is Relaxing",
@@ -16213,7 +16219,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6635
+      "Count": 6639
     },
     {
       "Text": "This game has a Competitive Community",
@@ -16233,8 +16239,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-01-07T10:59:11.5616811+00:00",
+  "LastChanged": "2024-01-07T11:58:19.6527129+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:25.6158128+00:00",
-  "LastUpdate_Ratings": "2024-01-07T10:59:11.5616817+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:08:05.9384873+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:58:19.6527136+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:06:10.25208+00:00"
 }

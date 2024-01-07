@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1042,
+  "EOS_Progressed": 1044,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3655,6 +3655,11 @@
       "Time": "2024-01-07T10:10:09.2486407+00:00",
       "NumProgressed": 1042,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T12:09:05.2576461+00:00",
+      "NumProgressed": 1044,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3691,7 +3696,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "AttackCount",
@@ -3811,7 +3816,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3947,7 +3952,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -3995,7 +4000,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "WielderLevel2",
@@ -4011,7 +4016,7 @@
       "Name": "Master",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "WielderLevel4",
@@ -4098,15 +4103,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1042,
+      "Progressed": 1044,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-07T11:09:40.8379004+00:00",
+  "LastChanged_Achievements": "2024-01-07T12:09:05.2576454+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:00:37.6352894+00:00",
-  "LastUpdate_Achievements": "2024-01-07T11:09:40.8379617+00:00"
+  "LastUpdate_Ratings": "2024-01-07T11:59:15.2989445+00:00",
+  "LastUpdate_Achievements": "2024-01-07T12:09:05.2577086+00:00"
 }
