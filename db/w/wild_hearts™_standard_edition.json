@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1223,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -3999,9 +3999,9 @@
       "ID": "achievement_11",
       "SetID": "2cpn27e",
       "Name": "Karakuri Isle",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_12",
@@ -4087,9 +4087,9 @@
       "ID": "achievement_21",
       "SetID": "2cpn27e",
       "Name": "Left Arm Leverager",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_22",
@@ -4135,9 +4135,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_28",
@@ -4199,9 +4199,9 @@
       "ID": "achievement_34",
       "SetID": "2cpn27e",
       "Name": "Kemono at Heart",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_35",
@@ -4279,9 +4279,9 @@
       "ID": "achievement_43",
       "SetID": "2cpn27e",
       "Name": "Team Hunter",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_44",
@@ -4373,8 +4373,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:09:29.5382885+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:09:54.0725334+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:59:12.3887971+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:09:29.5383353+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:59:21.3156331+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:09:54.0725898+00:00"
 }

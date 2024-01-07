@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -1290,9 +1290,9 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "id_61",
@@ -1355,8 +1355,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:10:03.3818474+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:10:30.2904371+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:57:35.4887021+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:10:03.3818925+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:57:36.5484125+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:10:30.2904776+00:00"
 }

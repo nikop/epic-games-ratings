@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 822,
+  "EOS_Progressed": 823,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -3057,6 +3057,11 @@
       "Time": "2024-01-07T18:09:08.2250121+00:00",
       "NumProgressed": 822,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T19:09:30.7752945+00:00",
+      "NumProgressed": 823,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3133,7 +3138,7 @@
       "Name": "Find myself",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -3149,7 +3154,7 @@
       "Name": "Shelter Escape",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3229,7 +3234,7 @@
       "Name": "First wall",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3237,7 +3242,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -3268,7 +3273,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 822,
+      "Progressed": 823,
       "Completed": 2
     }
   ],
@@ -3276,8 +3281,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-06T15:59:59.9482178+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:09:08.2250113+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:09:30.775294+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:00:48.5891576+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:09:08.2250625+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:02:47.9153747+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:09:30.7753557+00:00"
 }

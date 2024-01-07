@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 78.00% | ~96 |
+| My Papyrus! | 78.00% | ~97 |
 | A Loyal Friend | 42.00% | ~52 |
-| Abandon Ship! | 32.00% | ~39 |
+| Abandon Ship! | 31.00% | ~38 |
 | The Tomb of Kih-Oskh | 27.00% | ~33 |
-| The Weighing of the Soul | 22.00% | ~27 |
+| The Weighing of the Soul | 23.00% | ~29 |
 | The Curse of Kih-Oskh | 16.00% | ~20 |
 | It's a Deal! | 13.00% | ~16 |
-| In the Name of the Law | 11.00% | ~14 |
-| Au Revoir, Abudin | 11.00% | ~14 |
 | Cat Lover | 11.00% | ~14 |
 | Dynamite, Treason and Coconuts | 11.00% | ~14 |
-| Save a Friend | 11.00% | ~14 |
+| In the Name of the Law | 10.00% | ~12 |
+| Au Revoir, Abudin | 10.00% | ~12 |
+| Save a Friend | 10.00% | ~12 |
 | Mysterious Bungalow | 9.00% | ~11 |
 | The Eyes! | 8.00% | ~10 |
 | Punctual | 8.00% | ~10 |
@@ -23,9 +23,9 @@
 | Just a Palm Tree | 7.00% | ~9 |
 | Under the Hood | 7.00% | ~9 |
 | Long Live Gaipajama! | 7.00% | ~9 |
-| Eyes Shut | 7.00% | ~9 |
 | Mummy Nightmare | 7.00% | ~9 |
 | Tintin, Reporter | 6.00% | ~7 |
+| Eyes Shut | 6.00% | ~7 |
 | Barking Dog | 6.00% | ~7 |
 | Mountain Runner | 4.00% | ~5 |
 | Subtlety | 4.00% | ~5 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123 (Ranked 478)  
+Progressed: 124 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,4 +90,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 116 | 0 |
 | 2024-01-04 | 117 | 0 |
 | 2024-01-06 | 121 | 0 |
-| 2024-01-07 | 123 | 0 |
+| 2024-01-07 | 124 | 0 |

@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -844,9 +844,9 @@
       "ID": "HeroStory_Lytra",
       "SetID": "7b9f97e",
       "Name": "Lytra\u0027s Tale",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HeroStory_Philo",
@@ -1068,9 +1068,9 @@
       "ID": "Max_Reputation_MistyCoast",
       "SetID": "7b9f97e",
       "Name": "Friend of Orgash",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Max_Reputation_Sevenkeeps",
@@ -1213,8 +1213,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:09:35.0072403+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:09:59.7917673+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:02:47.6991659+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:09:35.0073042+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:02:57.0705823+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:09:59.7918383+00:00"
 }

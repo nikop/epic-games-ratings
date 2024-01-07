@@ -8,8 +8,8 @@ Rating: 4.81 (Ranked 82)
 | For Demacia | 95.00% | ~3,180 |
 | No more cages! | 90.00% | ~3,012 |
 | Everfrost | 77.00% | ~2,577 |
+| Pentakill | 76.00% | ~2,544 |
 | Dark Forest | 76.00% | ~2,544 |
-| Pentakill | 75.00% | ~2,510 |
 | The use of petricite | 73.00% | ~2,443 |
 | You can pet the dog | 60.00% | ~2,008 |
 | Thornbarrow | 43.00% | ~1,439 |
@@ -32,10 +32,10 @@ Rating: 4.81 (Ranked 82)
 | Glyndemere | 23.00% | ~770 |
 | Full equipped | 23.00% | ~770 |
 | Iffighain Headquarters | 22.00% | ~736 |
+| Whispers in the Woods II | 19.00% | ~636 |
 | No more holding back | 19.00% | ~636 |
 | Terbisia | 19.00% | ~636 |
 | Quickmoore Headquarters | 19.00% | ~636 |
-| Whispers in the Woods II | 18.00% | ~602 |
 | Whispers in the Woods III | 17.00% | ~569 |
 | My heart and sword always for Demacia | 17.00% | ~569 |
 | Friendly fire | 17.00% | ~569 |

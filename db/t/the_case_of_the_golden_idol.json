@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.29,
+  "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -1016,6 +1016,11 @@
       "Time": "2024-01-07T03:04:44.865792+00:00",
       "NumProgressed": 243,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-07T19:04:26.8123242+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -1035,7 +1040,7 @@
       "Name": "Solved second case",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "10",
@@ -1083,7 +1088,7 @@
       "Name": "Solved seventh case",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "7",
@@ -1162,13 +1167,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 190,
+      "Progressed": 191,
       "Completed": 109
     }
   ],
@@ -1176,8 +1181,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:04:10.5808159+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:04:26.8123238+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.945311+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:57:27.7211177+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:04:10.5808297+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:57:27.5445259+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:04:26.8123394+00:00"
 }

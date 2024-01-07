@@ -27,8 +27,8 @@
 | Honk honk! | 50.00% | ~76 |
 | Thats disgusting! | 50.00% | ~76 |
 | My pants squeak when I walk | 46.00% | ~70 |
+| Surprise!! | 44.00% | ~67 |
 | Self assessed tax return | 43.00% | ~65 |
-| Surprise!! | 43.00% | ~65 |
 | Haemochromatosis | 42.00% | ~64 |
 | Make America Grate Again | 40.00% | ~61 |
 | You can't stop me, bro! | 38.00% | ~58 |
@@ -48,8 +48,8 @@
 | I cant stand still! | 24.00% | ~36 |
 | Slimy... yet satisfying | 23.00% | ~35 |
 | Master Butcher | 20.00% | ~30 |
+| Deal with it | 19.00% | ~29 |
 | Just wing it! | 18.00% | ~27 |
-| Deal with it | 18.00% | ~27 |
 | Yeehaw!!! | 15.00% | ~23 |
 | You're looking mozzare-hella good! | 14.00% | ~21 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~20 |

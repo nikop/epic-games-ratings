@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 472,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9825,
+  "EOS_Progressed": 9826,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10794,6 +10794,11 @@
       "Time": "2024-01-07T18:09:20.7115392+00:00",
       "NumProgressed": 9825,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T19:09:44.7061399+00:00",
+      "NumProgressed": 9826,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10997,7 +11002,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4421
+      "UsersEstimate": 4422
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11005,7 +11010,7 @@
       "Name": "Ponte of No Return",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
@@ -11061,7 +11066,7 @@
       "Name": "So\u010Da Drag",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -11069,7 +11074,7 @@
       "Name": "Saboteur",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ISONZO_ACH_THE_DEVILS_PAINTBRUSH",
@@ -11077,7 +11082,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -11117,7 +11122,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -11133,7 +11138,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4913
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11164,7 +11169,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9825,
+      "Progressed": 9826,
       "Completed": 10
     }
   ],
@@ -11172,8 +11177,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:09:20.7115388+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:09:44.7061395+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:58:36.9804613+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:09:20.7116197+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:58:43.5165967+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:09:44.7062325+00:00"
 }

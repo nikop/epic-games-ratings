@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10620,9 +10620,9 @@
       "Count": 1083
     }
   ],
-  "EOS_Progressed": 132060,
+  "EOS_Progressed": 132067,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1063,
+  "EOS_NewPlayers": 1064,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38785,6 +38785,11 @@
       "Time": "2024-01-07T18:09:44.305199+00:00",
       "NumProgressed": 132060,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T19:10:09.9882643+00:00",
+      "NumProgressed": 132067,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38812,7 +38817,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -38948,7 +38953,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39068,7 +39073,7 @@
       "Name": "It Happens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -39100,7 +39105,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -39108,7 +39113,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -39148,7 +39153,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9244
+      "UsersEstimate": 9245
     },
     {
       "ID": "hero_story_complete_all",
@@ -39172,7 +39177,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "hospital_full_service",
@@ -39188,7 +39193,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -39244,7 +39249,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "run_victory_act01",
@@ -39332,7 +39337,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "combat_kill_collector",
@@ -39388,7 +39393,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "quest_complete_crusader",
@@ -39396,7 +39401,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39427,21 +39432,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132060,
+      "Progressed": 132067,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6929,
+      "Progressed": 6936,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-07T13:57:33.3545397+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:09:44.3051985+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:10:09.9882639+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:57:50.6564886+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:09:44.3053941+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:57:52.9626227+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:10:09.9884545+00:00"
 }

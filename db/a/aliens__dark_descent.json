@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 6099,
+  "EOS_Progressed": 6101,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9146,6 +9146,11 @@
       "Time": "2024-01-07T18:04:40.8166991+00:00",
       "NumProgressed": 6099,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T19:04:59.6849342+00:00",
+      "NumProgressed": 6101,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9245,7 +9250,7 @@
       "Name": "This Ain\u0027t No Picnic",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_KILL_ALL_ALIEN_ONSLAUGHT",
@@ -9253,7 +9258,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3966
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -9269,7 +9274,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3295
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9277,7 +9282,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3539
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -9349,7 +9354,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3173
     },
     {
       "ID": "ACH_MISSION_02",
@@ -9453,7 +9458,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 3903
+      "UsersEstimate": 3905
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -9461,7 +9466,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4696
+      "UsersEstimate": 4698
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -9516,7 +9521,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6099,
+      "Progressed": 6101,
       "Completed": 3
     }
   ],
@@ -9524,8 +9529,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-05T21:02:34.1658267+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:04:40.8166987+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:04:59.6849336+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:58:06.5096902+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:04:40.8167873+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:58:10.8612987+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:04:59.68501+00:00"
 }

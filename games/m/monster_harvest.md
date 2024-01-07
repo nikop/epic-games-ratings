@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Planimal Point | 95.00% | ~315 |
+| Welcome To Planimal Point | 96.00% | ~319 |
 | My first Planimal! | 69.00% | ~229 |
 | Red Slime Time | 65.00% | ~216 |
 | To the Rec Center! | 47.00% | ~156 |

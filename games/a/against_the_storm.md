@@ -6,20 +6,20 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 8.00% | ~1,632 |
-| Taking Action | 8.00% | ~1,632 |
-| No Deaths | 8.00% | ~1,632 |
-| Abandoned Settlement | 8.00% | ~1,632 |
-| Overgrown Library | 8.00% | ~1,632 |
-| Petrified Necropolis | 8.00% | ~1,632 |
-| The Marshlands | 7.00% | ~1,428 |
-| Overcoming Difficulty | 6.00% | ~1,224 |
-| Coral Forest | 6.00% | ~1,224 |
-| The Scarlet Orchard | 6.00% | ~1,224 |
-| Gathering Storm | 6.00% | ~1,224 |
+| First Real Expedition | 8.00% | ~1,633 |
+| Taking Action | 8.00% | ~1,633 |
+| No Deaths | 8.00% | ~1,633 |
+| Abandoned Settlement | 8.00% | ~1,633 |
+| Overgrown Library | 8.00% | ~1,633 |
+| Petrified Necropolis | 8.00% | ~1,633 |
+| The Marshlands | 7.00% | ~1,429 |
+| Overcoming Difficulty | 6.00% | ~1,225 |
+| Coral Forest | 6.00% | ~1,225 |
+| The Scarlet Orchard | 6.00% | ~1,225 |
+| Ominous Presence | 6.00% | ~1,225 |
+| Gathering Storm | 6.00% | ~1,225 |
 | Frosts | 5.00% | ~1,020 |
 | Land of Greed | 5.00% | ~1,020 |
-| Ominous Presence | 5.00% | ~1,020 |
 | Homesick | 4.00% | ~816 |
 | Fertile Meadows | 4.00% | ~816 |
 | Royal Outpost | 4.00% | ~816 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,402 (Ranked 154)  
+Progressed: 20,409 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
-| 2024-01-07 | 20,402 | 34 |
+| 2024-01-07 | 20,409 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 232)  
 Sum: 3,349 (Ranked 177)  

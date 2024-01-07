@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 94.00% | ~422 |
+| Clean Sweep | 94.00% | ~423 |
 | Scavenger | 73.00% | ~328 |
-| Line of Duty | 72.00% | ~323 |
+| Line of Duty | 72.00% | ~324 |
 | Gunner | 57.00% | ~256 |
 | DocKing | 45.00% | ~202 |
-| What-A-Shot | 43.00% | ~193 |
+| What-A-Shot | 43.00% | ~194 |
 | Batteries Included | 38.00% | ~171 |
 | Death from Above | 33.00% | ~148 |
 | Hull King | 25.00% | ~112 |
-| Extra Ammo | 19.00% | ~85 |
-| Splash Damage | 19.00% | ~85 |
+| Extra Ammo | 19.00% | ~86 |
+| Splash Damage | 19.00% | ~86 |
 | Boss Down | 18.00% | ~81 |
 | Hazardous Duty | 16.00% | ~72 |
 | Perky | 14.00% | ~63 |
@@ -29,8 +29,8 @@
 | First Victory | 4.00% | ~18 |
 | OP | 4.00% | ~18 |
 | Thirty Birds... | 4.00% | ~18 |
-| Early Bird | 3.00% | ~13 |
-| Swiss Cheese | 3.00% | ~13 |
+| Early Bird | 3.00% | ~14 |
+| Swiss Cheese | 3.00% | ~14 |
 | Mister Fix It | 2.00% | ~9 |
 | Shell Shock | 2.00% | ~9 |
 | Hornet Lock On | 2.00% | ~9 |
@@ -49,7 +49,7 @@
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449 (Ranked 358)  
+Progressed: 450 (Ranked 358)  
 Completed: 1 (0.22%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.22%) (Ranked 271)
 | 2024-01-01 | 443 | 1 |
 | 2024-01-04 | 445 | 1 |
 | 2024-01-06 | 448 | 1 |
-| 2024-01-07 | 449 | 1 |
+| 2024-01-07 | 450 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

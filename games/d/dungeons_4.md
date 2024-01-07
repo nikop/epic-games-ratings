@@ -6,7 +6,7 @@ Rating: 4.74 (Ranked 165)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~660 |
-| Thalya – Simply Immortal | 88.00% | ~653 |
+| Thalya – Simply Immortal | 89.00% | ~660 |
 | For the Horde! | 83.00% | ~616 |
 | Hammer Time, Round Two | 81.00% | ~601 |
 | The Hellwoods | 77.00% | ~571 |
@@ -26,7 +26,7 @@ Rating: 4.74 (Ranked 165)
 | The Big Eaty | 55.00% | ~408 |
 | “… like son” | 52.00% | ~386 |
 | YOU SHALL NOT PASS! | 51.00% | ~378 |
-| The Cathedral of Light | 48.00% | ~356 |
+| The Cathedral of Light | 49.00% | ~364 |
 | Shame! Shame! Shame! | 48.00% | ~356 |
 | Tanos' Crusade Against Thalya | 46.00% | ~341 |
 | Pure Dynamite! | 45.00% | ~334 |
@@ -34,11 +34,11 @@ Rating: 4.74 (Ranked 165)
 | Mana Cannon | 43.00% | ~319 |
 | All’s Well That Ends Evil | 42.00% | ~312 |
 | The Duel | 39.00% | ~289 |
+| Unstoppable Horde | 36.00% | ~267 |
 | If Looks Could Kill | 36.00% | ~267 |
-| Unstoppable Horde | 35.00% | ~260 |
 | Master of the Undead | 35.00% | ~260 |
 | The Finitude Drill | 33.00% | ~245 |
-| Ghost Pirates? Ghost Heroes! | 30.00% | ~223 |
+| Ghost Pirates? Ghost Heroes! | 31.00% | ~230 |
 | Doom Hill | 30.00% | ~223 |
 | Forbidden Knowledge | 29.00% | ~215 |
 | Hungry, Hungry Gorgu! | 28.00% | ~208 |

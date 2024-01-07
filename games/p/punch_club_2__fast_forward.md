@@ -63,10 +63,10 @@
 | The heart of the Resistance | 28.00% | ~155 |
 | Trap disarmed | 27.00% | ~149 |
 | Keep nature safe | 27.00% | ~149 |
+| The last bell ring | 27.00% | ~149 |
 | Careerist | 27.00% | ~149 |
 | Anyone can resist | 27.00% | ~149 |
 | Your own way | 27.00% | ~149 |
-| The last bell ring | 26.00% | ~144 |
 | Better cooking at home | 25.00% | ~138 |
 | The only right decision | 25.00% | ~138 |
 | Silver’s past | 24.00% | ~133 |

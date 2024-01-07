@@ -9391,9 +9391,9 @@
       "Count": 3631
     }
   ],
-  "EOS_Progressed": 252439,
+  "EOS_Progressed": 252458,
   "EOS_Completed": 2599,
-  "EOS_NewPlayers": 3919,
+  "EOS_NewPlayers": 3900,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39101,6 +39101,11 @@
       "Time": "2024-01-07T18:10:12.788606+00:00",
       "NumProgressed": 252439,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-07T19:10:39.9350424+00:00",
+      "NumProgressed": 252458,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 546,
@@ -39480,7 +39485,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "objective_completed_110",
@@ -42256,7 +42261,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "objective_completed_70",
@@ -43479,21 +43484,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218713,
+      "Progressed": 218732,
       "Completed": 4143
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252439,
+      "Progressed": 252458,
       "Completed": 2599
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-07T12:00:01.0036284+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:10:12.7886056+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:10:39.9350414+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:00:43.2596383+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:10:12.7910224+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:02:41.3869847+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:10:39.9375958+00:00"
 }

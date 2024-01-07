@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,375 |
-| Off to a good start | 61.00% | ~1,665 |
-| Do... or do not. There is no try | 52.00% | ~1,420 |
-| A good blaster at your side | 24.00% | ~655 |
-| I suggest a new strategy | 17.00% | ~464 |
-| Great shot, kid! | 16.00% | ~437 |
-| Scrap collector | 15.00% | ~410 |
-| All right, I'll give it a try | 15.00% | ~410 |
-| The power of the Force | 12.00% | ~328 |
-| Collector | 12.00% | ~328 |
-| Shoot first | 12.00% | ~328 |
-| Together we can rule the galaxy | 11.00% | ~300 |
-| Tell Jabba that I've got his money | 8.00% | ~218 |
-| Best star-pilot in the galaxy | 8.00% | ~218 |
-| Never tell me the odds! | 7.00% | ~191 |
-| Survivor | 7.00% | ~191 |
+| New Recruit | 86.00% | ~2,355 |
+| Off to a good start | 61.00% | ~1,670 |
+| Do... or do not. There is no try | 52.00% | ~1,424 |
+| A good blaster at your side | 24.00% | ~657 |
+| I suggest a new strategy | 17.00% | ~465 |
+| Great shot, kid! | 16.00% | ~438 |
+| Scrap collector | 15.00% | ~411 |
+| All right, I'll give it a try | 15.00% | ~411 |
+| The power of the Force | 12.00% | ~329 |
+| Shoot first | 12.00% | ~329 |
+| Collector | 11.00% | ~301 |
+| Together we can rule the galaxy | 11.00% | ~301 |
+| Tell Jabba that I've got his money | 8.00% | ~219 |
+| Best star-pilot in the galaxy | 8.00% | ~219 |
+| Never tell me the odds! | 7.00% | ~192 |
+| Survivor | 7.00% | ~192 |
 | What's the cargo? | 6.00% | ~164 |
 | A cunning warrior | 6.00% | ~164 |
-| "Gonk? Gonk!" | 5.00% | ~136 |
-| Impressive. Most impressive. | 5.00% | ~136 |
-| Judge me by my size, do you? | 5.00% | ~136 |
-| Distinguished | 4.00% | ~109 |
-| A tremor in the Force | 4.00% | ~109 |
-| Support the troops | 4.00% | ~109 |
+| "Gonk? Gonk!" | 5.00% | ~137 |
+| Impressive. Most impressive. | 5.00% | ~137 |
+| Judge me by my size, do you? | 5.00% | ~137 |
+| Distinguished | 4.00% | ~110 |
+| A tremor in the Force | 4.00% | ~110 |
+| Support the troops | 4.00% | ~110 |
 | Safety ain't the point of a joyride | 3.00% | ~82 |
 | Not bad for a little furball | 3.00% | ~82 |
 | Patience you must have | 3.00% | ~82 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,730 (Ranked 232)  
+Progressed: 2,738 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-04 | 2,595 | 1 |
 | 2024-01-05 | 2,649 | 1 |
 | 2024-01-06 | 2,690 | 1 |
-| 2024-01-07 | 2,730 | 1 |
+| 2024-01-07 | 2,738 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -20,7 +20,7 @@ Number of Ratings: 58  (23.09.2022)
 | Controlled Demolition | 53.00% | ~740 |
 | Payback | 51.00% | ~712 |
 | Huntress | 51.00% | ~712 |
-| Born to Drift | 49.00% | ~685 |
+| Born to Drift | 50.00% | ~698 |
 | Relentless | 47.00% | ~657 |
 | The Path Forward | 44.00% | ~615 |
 | Disruption | 42.00% | ~587 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,397 (Ranked 271)  
-Completed: 18 (1.29%) (Ranked 157)  
+Completed: 18 (1.29%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

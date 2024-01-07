@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -830,6 +830,11 @@
       "Time": "2024-01-07T14:03:55.2279965+00:00",
       "NumProgressed": 322,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T19:04:08.9917067+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -865,7 +870,7 @@
       "Name": "Chameleon",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "chicken",
@@ -881,7 +886,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "heavy_rayne",
@@ -913,7 +918,7 @@
       "Name": "Oscar Winning Performance",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "patient_listener",
@@ -921,7 +926,7 @@
       "Name": "Patient Listener",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "play_it_again_sam",
@@ -929,7 +934,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "play_me_by_the_hour",
@@ -937,7 +942,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "poetent",
@@ -969,7 +974,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "the_big_sleep",
@@ -1008,7 +1013,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 3
     }
   ],
@@ -1016,8 +1021,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:03:54.0263395+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:04:08.9917061+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:51.7616566+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:03:07.8093864+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:03:54.0263577+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:03:15.636651+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:04:08.9917265+00:00"
 }

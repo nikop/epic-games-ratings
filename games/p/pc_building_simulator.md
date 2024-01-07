@@ -6,38 +6,38 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,766,706 |
-| Easy to forget | 46.00% | ~1,658,540 |
-| Back in the black | 39.00% | ~1,406,154 |
-| That's what I'm talking about | 29.00% | ~1,045,601 |
-| The Best of Both Worlds | 25.00% | ~901,380 |
-| Get your wings | 20.00% | ~721,104 |
-| Double trouble | 16.00% | ~576,884 |
-| Smashing it | 11.00% | ~396,607 |
-| But can it run Crysis? | 9.00% | ~324,497 |
-| My favourite feature... | 9.00% | ~324,497 |
-| From humble beginnings... | 7.00% | ~252,387 |
-| Customer satisfaction | 7.00% | ~252,387 |
-| Keeping things neat | 4.00% | ~144,221 |
-| Seems you're pretty good at this | 4.00% | ~144,221 |
-| Bending over backwards | 4.00% | ~144,221 |
-| I'm broke, Uncle! | 3.00% | ~108,166 |
-| Triple threat | 3.00% | ~108,166 |
-| You rock at this! | 3.00% | ~108,166 |
-| Perfection | 3.00% | ~108,166 |
-| Your music sucks | 3.00% | ~108,166 |
-| Maybe you should try something else? | 2.00% | ~72,110 |
-| Taking care of business | 2.00% | ~72,110 |
-| Things are under control | 2.00% | ~72,110 |
-| Calling in Sick | 2.00% | ~72,110 |
-| Overvolted | 1.00% | ~36,055 |
-| If you fail the first time... | 1.00% | ~36,055 |
-| Amazonian | 1.00% | ~36,055 |
-| Show off | 1.00% | ~36,055 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,055 |
-| Building isn't cheap! | 1.00% | ~36,055 |
-| Majority Shareholder | 1.00% | ~36,055 |
-| Owner | 1.00% | ~36,055 |
+| You need to plug it in... | 49.00% | ~1,766,724 |
+| Easy to forget | 46.00% | ~1,658,557 |
+| Back in the black | 39.00% | ~1,406,168 |
+| That's what I'm talking about | 29.00% | ~1,045,612 |
+| The Best of Both Worlds | 25.00% | ~901,390 |
+| Get your wings | 20.00% | ~721,112 |
+| Double trouble | 16.00% | ~576,889 |
+| Smashing it | 11.00% | ~396,611 |
+| But can it run Crysis? | 9.00% | ~324,500 |
+| My favourite feature... | 9.00% | ~324,500 |
+| From humble beginnings... | 7.00% | ~252,389 |
+| Customer satisfaction | 7.00% | ~252,389 |
+| Keeping things neat | 4.00% | ~144,222 |
+| Seems you're pretty good at this | 4.00% | ~144,222 |
+| Bending over backwards | 4.00% | ~144,222 |
+| I'm broke, Uncle! | 3.00% | ~108,167 |
+| Triple threat | 3.00% | ~108,167 |
+| You rock at this! | 3.00% | ~108,167 |
+| Perfection | 3.00% | ~108,167 |
+| Your music sucks | 3.00% | ~108,167 |
+| Maybe you should try something else? | 2.00% | ~72,111 |
+| Taking care of business | 2.00% | ~72,111 |
+| Things are under control | 2.00% | ~72,111 |
+| Calling in Sick | 2.00% | ~72,111 |
+| Overvolted | 1.00% | ~36,056 |
+| If you fail the first time... | 1.00% | ~36,056 |
+| Amazonian | 1.00% | ~36,056 |
+| Show off | 1.00% | ~36,056 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,056 |
+| Building isn't cheap! | 1.00% | ~36,056 |
+| Majority Shareholder | 1.00% | ~36,056 |
+| Owner | 1.00% | ~36,056 |
 | Work ethic 101 | 0.70% | ~25,239 |
 | Building momentum | 0.60% | ~21,633 |
 | Lead by example | 0.60% | ~21,633 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,606 |
 | Treat yourself - GPU | 0.10% | ~3,606 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,605,522 (Ranked 5)  
+Progressed: 3,605,559 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,10 +321,10 @@ Completed: 41 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,603,683 | 41 |
 | 2024-01-05 | 3,604,324 | 41 |
 | 2024-01-06 | 3,605,017 | 41 |
-| 2024-01-07 | 3,605,522 | 41 |
+| 2024-01-07 | 3,605,559 | 41 |
 ## Awards
 Max (Great for Beginners): 1,134  (Ranked 150)  
-Sum: 8,276 (Ranked 113)  
+Sum: 8,278 (Ranked 113)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +332,7 @@ Diff (max vs sum): 37
 | This game is Educational | 1,022 |
 | This game is Extremely Fun | 1,020 |
 | This game is Relaxing | 1,006 |
-| This game has Quickly Understood Controls | 967 |
+| This game has Quickly Understood Controls | 969 |
 | This game is Highly Recommended | 932 |
 | This game has Amazing Storytelling | 841 |
 | This game has Amazing Characters | 684 |
@@ -643,4 +643,4 @@ Diff (max vs sum): 37
 | 2024-01-04 | 4.66 | - | 1,130 | 8,266 |
 | 2024-01-05 | 4.66 | - | 1,131 | 8,269 |
 | 2024-01-06 | 4.66 | - | 1,131 | 8,271 |
-| 2024-01-07 | 4.66 | - | 1,134 | 8,276 |
+| 2024-01-07 | 4.66 | - | 1,134 | 8,278 |

@@ -6,37 +6,37 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 76.00% | ~293 |
-| Kaijuiced | 70.00% | ~270 |
-| Lie Back and Think of Albion | 64.00% | ~247 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 62.00% | ~239 |
+| Shop Til They Drop | 76.00% | ~294 |
+| Kaijuiced | 70.00% | ~271 |
+| Lie Back and Think of Albion | 64.00% | ~248 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 62.00% | ~240 |
+| Yettisoned | 58.00% | ~224 |
 | I Look Up As I Walk to Takoshima | 58.00% | ~224 |
-| Yettisoned | 57.00% | ~220 |
-| Pimp My Raid | 54.00% | ~208 |
-| Perfect Probulator | 54.00% | ~208 |
-| Lobster Blisque | 49.00% | ~189 |
-| Earthly Pleasures | 48.00% | ~185 |
-| Fly Me to the Moon Base | 47.00% | ~181 |
+| Pimp My Raid | 55.00% | ~213 |
+| Perfect Probulator | 54.00% | ~209 |
+| Lobster Blisque | 50.00% | ~194 |
+| Earthly Pleasures | 48.00% | ~186 |
+| Fly Me to the Moon Base | 47.00% | ~182 |
 | Ducks in a Row, Fish in a Barrel | 45.00% | ~174 |
 | Forbidden Donut | 36.00% | ~139 |
 | Bodied Sattva | 36.00% | ~139 |
-| Freshly Squeezed | 34.00% | ~131 |
-| Upgreatest | 33.00% | ~127 |
+| Freshly Squeezed | 35.00% | ~135 |
+| Upgreatest | 34.00% | ~132 |
 | Deincarnated | 28.00% | ~108 |
 | Furon Fashion | 28.00% | ~108 |
-| Rock of the Bay | 26.00% | ~100 |
-| Trans-Siberian Express | 25.00% | ~96 |
+| Rock of the Bay | 26.00% | ~101 |
+| Trans-Siberian Express | 25.00% | ~97 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~77 |
-| Arkvoodle Doodle | 19.00% | ~73 |
+| Arkvoodle Doodle | 19.00% | ~74 |
 | Die Nasty | 17.00% | ~66 |
+| Ouch of Body Experience | 16.00% | ~62 |
 | If You Know What I Mean | 16.00% | ~62 |
-| Ouch of Body Experience | 15.00% | ~58 |
 | Hidden Human Hive Harvest | 15.00% | ~58 |
 | Mash Machine | 15.00% | ~58 |
 | Albion Bridge Is for Falling Down | 14.00% | ~54 |
 | Dusted | 13.00% | ~50 |
-| Scuttled | 11.00% | ~42 |
-| Higher Than the Futen Zoku | 11.00% | ~42 |
+| Scuttled | 11.00% | ~43 |
+| Higher Than the Futen Zoku | 11.00% | ~43 |
 | PK Slam Dunk | 9.00% | ~35 |
 | Arty Facts | 9.00% | ~35 |
 | Cult Following | 6.00% | ~23 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~8 |
 | Against All Odds | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386 (Ranked 371)  
-Completed: 5 (1.30%) (Ranked 155)  
+Progressed: 387 (Ranked 371)  
+Completed: 5 (1.29%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,7 +72,7 @@ Completed: 5 (1.30%) (Ranked 155)
 | 2024-01-04 | 325 | 5 |
 | 2024-01-05 | 345 | 5 |
 | 2024-01-06 | 367 | 5 |
-| 2024-01-07 | 386 | 5 |
+| 2024-01-07 | 387 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 502)  
 Sum: 35 (Ranked 532)  

@@ -11,9 +11,9 @@
 | Don't Cry Wolf | 8.00% | ~12 |
 | Craftsmen | 5.00% | ~8 |
 | Apprentice | 5.00% | ~8 |
+| Locked and Loaded | 4.00% | ~6 |
 | Defeat Tezuth | 3.00% | ~5 |
 | Freezing Cold | 3.00% | ~5 |
-| Locked and Loaded | 3.00% | ~5 |
 | The A-Team | 3.00% | ~5 |
 | Expert | 3.00% | ~5 |
 | The Golden Flash | 3.00% | ~5 |

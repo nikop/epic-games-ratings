@@ -5,19 +5,19 @@ Rating: 4.55 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 85.00% | ~442 |
+| Huzza, he's back. | 85.00% | ~443 |
 | And again, and again, and... | 63.00% | ~328 |
-| Kuvaq Minigame-Master | 61.00% | ~317 |
-| Burn, Elysium, burn! | 61.00% | ~317 |
+| Kuvaq Minigame-Master | 61.00% | ~318 |
+| Burn, Elysium, burn! | 61.00% | ~318 |
 | FunScore | 54.00% | ~281 |
-| Funtime's over | 52.00% | ~270 |
+| Funtime's over | 52.00% | ~271 |
 | Chunky | 49.00% | ~255 |
-| Boat of love, boat of love | 48.00% | ~250 |
-| Shall we play a game? | 47.00% | ~244 |
+| Shall we play a game? | 47.00% | ~245 |
+| Boat of love, boat of love | 47.00% | ~245 |
 | School's out | 43.00% | ~224 |
-| Sole Music | 36.00% | ~187 |
-| Scaffolding Expert | 36.00% | ~187 |
-| Elysian Minigame-Master | 36.00% | ~187 |
+| Sole Music | 36.00% | ~188 |
+| Scaffolding Expert | 36.00% | ~188 |
+| Elysian Minigame-Master | 36.00% | ~188 |
 | Portals come in packs | 29.00% | ~151 |
 | No man left behind! | 28.00% | ~146 |
 | Photo Friend | 25.00% | ~130 |
@@ -28,7 +28,7 @@ Rating: 4.55 (Ranked 527)
 | Thuna...? | 14.00% | ~73 |
 | Monstrous Harassment | 14.00% | ~73 |
 | Heading the inverter | 14.00% | ~73 |
-| Blast from the Past | 12.00% | ~62 |
+| Blast from the Past | 12.00% | ~63 |
 | Play it again, Ronny | 11.00% | ~57 |
 | Goat Team | 10.00% | ~52 |
 | Paradox! | 10.00% | ~52 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 527)
 | Every man for himself! | 5.00% | ~26 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520 (Ranked 342)  
-Completed: 7 (1.35%) (Ranked 153)  
+Progressed: 521 (Ranked 342)  
+Completed: 7 (1.34%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,7 +150,7 @@ Completed: 7 (1.35%) (Ranked 153)
 | 2024-01-04 | 513 | 7 |
 | 2024-01-05 | 514 | 7 |
 | 2024-01-06 | 518 | 7 |
-| 2024-01-07 | 520 | 7 |
+| 2024-01-07 | 521 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

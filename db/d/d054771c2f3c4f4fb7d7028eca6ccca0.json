@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3748,
+  "EOS_Progressed": 3754,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4239,6 +4239,11 @@
       "Time": "2024-01-07T18:03:29.6989147+00:00",
       "NumProgressed": 3748,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T19:03:42.2751411+00:00",
+      "NumProgressed": 3754,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4251,7 +4256,7 @@
       "Name": "Rite of Passage",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -4259,7 +4264,7 @@
       "Name": "Done for Today",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -4275,7 +4280,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1201
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -4283,7 +4288,7 @@
       "Name": "Gruesome Ball Handler",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -4291,7 +4296,7 @@
       "Name": "Monster Power",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -4315,7 +4320,7 @@
       "Name": "Terrible Journey",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -4339,7 +4344,7 @@
       "Name": "Grim Challenger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -4347,7 +4352,7 @@
       "Name": "The Nine Nightmare",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -4355,7 +4360,7 @@
       "Name": "Worthy Badge",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -4363,7 +4368,7 @@
       "Name": "High Level Mastery",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -4411,7 +4416,7 @@
       "Name": "Your Own Nightmare",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -4435,7 +4440,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1427
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4451,7 +4456,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1614
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4459,7 +4464,7 @@
       "Name": "Half Way to Darkness",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -4563,7 +4568,7 @@
       "Name": "Most notorious slasher",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_49",
@@ -4571,7 +4576,7 @@
       "Name": "I\u0027m your friend to the end",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -4587,7 +4592,7 @@
       "Name": "Trap Season",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_52",
@@ -4626,14 +4631,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3748,
+      "Progressed": 3754,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:03:29.6989143+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:03:42.2751406+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:58:43.8479102+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:03:29.6989764+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:58:50.4695462+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:03:42.2751926+00:00"
 }

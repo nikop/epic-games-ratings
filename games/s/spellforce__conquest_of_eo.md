@@ -29,7 +29,7 @@
 | Friend of Connach | 15.00% | ~19 |
 | Stormwatch Faste | 14.00% | ~18 |
 | Friend of Gillyshire | 14.00% | ~18 |
-| Friend of Orgash | 13.00% | ~16 |
+| Friend of Orgash | 14.00% | ~18 |
 | Friend of Bastion | 13.00% | ~16 |
 | Break Free | 13.00% | ~16 |
 | Philo's Tale | 12.00% | ~15 |
@@ -61,10 +61,10 @@
 | Friend of Grey Dusk Vale | 6.00% | ~8 |
 | Defeat Ianna | 5.00% | ~6 |
 | Defeat Yria | 5.00% | ~6 |
+| Lytra's Tale | 5.00% | ~6 |
 | My Friends! | 5.00% | ~6 |
 | Master Necromancer | 5.00% | ~6 |
 | Defeat Isgrimm | 4.00% | ~5 |
-| Lytra's Tale | 4.00% | ~5 |
 | Misty Coast Dragonbones | 4.00% | ~5 |
 | Breaking the circle | 4.00% | ~5 |
 | Defeat Rohen | 3.00% | ~4 |

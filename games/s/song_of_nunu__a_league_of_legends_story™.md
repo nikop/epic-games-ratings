@@ -33,9 +33,9 @@ Rating: 4.53 (Ranked 561)
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~583 |
 | Freeze The Ice Witch | 38.00% | ~568 |
 | True Legends | 38.00% | ~568 |
+| It Is Not Over | 36.00% | ~539 |
 | Bullseye | 36.00% | ~539 |
-| It Is Not Over | 35.00% | ~524 |
-| On The Rocks | 33.00% | ~494 |
+| On The Rocks | 34.00% | ~509 |
 | Snowy Poro | 32.00% | ~479 |
 | Never Gets Old | 32.00% | ~479 |
 | Vertical Power | 26.00% | ~389 |

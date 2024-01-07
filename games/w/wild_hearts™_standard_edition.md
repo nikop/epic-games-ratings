@@ -22,19 +22,19 @@
 | Distance Devourer | 35.00% | ~428 |
 | Counter Specialist | 32.00% | ~391 |
 | Master of the Skies | 31.00% | ~379 |
+| Mighty Marmelizer | 27.00% | ~330 |
+| Kemono at Heart | 27.00% | ~330 |
 | Axer of Auspice | 27.00% | ~330 |
-| Mighty Marmelizer | 26.00% | ~318 |
 | Fair Means or Foul | 26.00% | ~318 |
-| Kemono at Heart | 26.00% | ~318 |
 | Single Minded | 24.00% | ~294 |
 | Snare Specialist | 23.00% | ~281 |
 | Karakuri Trail | 22.00% | ~269 |
 | Artful Assister | 21.00% | ~257 |
-| Team Hunter | 19.00% | ~232 |
+| Team Hunter | 20.00% | ~245 |
+| Karakuri Isle | 19.00% | ~232 |
 | Reincarnation Cycle Stopper | 19.00% | ~232 |
-| Karakuri Isle | 18.00% | ~220 |
+| Left Arm Leverager | 16.00% | ~196 |
 | Human Believer | 16.00% | ~196 |
-| Left Arm Leverager | 15.00% | ~183 |
 | Style Seeker | 15.00% | ~183 |
 | Unrivaled in Arms | 15.00% | ~183 |
 | Quintessence of Form | 15.00% | ~183 |

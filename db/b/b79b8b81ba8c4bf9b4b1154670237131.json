@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16484,
+  "EOS_Progressed": 16485,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6120,6 +6120,11 @@
       "Time": "2024-01-07T18:09:31.4391223+00:00",
       "NumProgressed": 16484,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-07T19:09:56.2872528+00:00",
+      "NumProgressed": 16485,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6164,7 +6169,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12363
+      "UsersEstimate": 12364
     },
     {
       "ID": "ACH_AE_14",
@@ -6180,7 +6185,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3627
     },
     {
       "ID": "ACH_AE_16",
@@ -6210,9 +6215,9 @@
       "ID": "ACH_AE_19",
       "SetID": "ck3465",
       "Name": "Signature Style",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2473
     },
     {
       "ID": "ACH_AE_2",
@@ -6308,7 +6313,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "ACH_AE_30",
@@ -6411,7 +6416,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16484,
+      "Progressed": 16485,
       "Completed": 15
     }
   ],
@@ -6419,8 +6424,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:09:31.4391218+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:09:56.2872523+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:57:41.1897586+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:09:31.4391764+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:57:43.0351699+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:09:56.2873066+00:00"
 }

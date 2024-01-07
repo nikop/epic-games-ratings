@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 438,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -535,6 +535,11 @@
       "Time": "2024-01-07T15:03:56.3784855+00:00",
       "NumProgressed": 449,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T19:04:20.7810243+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -586,7 +591,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -626,7 +631,7 @@
       "Name": "Early Bird",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Award_ExtraAmmo",
@@ -634,7 +639,7 @@
       "Name": "Extra Ammo",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Award_FinalAscension",
@@ -722,7 +727,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -834,7 +839,7 @@
       "Name": "Splash Damage",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Award_Stunning",
@@ -850,7 +855,7 @@
       "Name": "Swiss Cheese",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Award_TheCannoneer",
@@ -890,14 +895,14 @@
       "Name": "What-A-Shot",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 1
     }
   ],
@@ -905,8 +910,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:04:04.809068+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:04:20.7810239+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:57.4392354+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:59:42.0311573+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:04:04.8090949+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:59:53.4748657+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:04:20.781053+00:00"
 }

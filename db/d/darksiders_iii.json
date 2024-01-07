@@ -5,10 +5,10 @@
   "Ranking_Rating": 656,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 472,
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 486,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1827,9 +1827,9 @@
       "ID": "Collect_AdamantineMedium_30",
       "SetID": "7a5k76n",
       "Name": "Unyielding Strength",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -1923,9 +1923,9 @@
       "ID": "Collect_Hollow_Stasis",
       "SetID": "7a5k76n",
       "Name": "Freeze Frame",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 136
     },
     {
       "ID": "Collect_Hollow_Storm",
@@ -2339,8 +2339,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:08:26.8242565+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:08:45.0648758+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:00:16.8498988+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:08:26.8243217+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:00:32.3086423+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:08:45.0649323+00:00"
 }

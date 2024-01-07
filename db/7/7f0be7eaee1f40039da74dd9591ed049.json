@@ -4,8 +4,8 @@
   "ProductSlug": "quick-race-293d39",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
     "PcReleaseDate": "2021-02-20T01:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 66,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
@@ -334,9 +334,9 @@
       "ID": "20_RACES",
       "SetID": "2g288ag",
       "Name": "Race Maestro",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "25_RACES",
@@ -428,8 +428,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:05:55.2501169+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:06:19.2128694+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:58.0575536+00:00",
-  "LastUpdate_Ratings": "2024-01-07T18:00:44.1364893+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:05:55.2501279+00:00"
+  "LastUpdate_Ratings": "2024-01-07T19:02:42.0789457+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:06:19.2128813+00:00"
 }

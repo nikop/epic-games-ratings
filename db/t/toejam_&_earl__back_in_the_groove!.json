@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58690,
+  "EOS_Progressed": 58692,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15566,6 +15566,11 @@
       "Time": "2024-01-07T17:04:52.1081707+00:00",
       "NumProgressed": 58690,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T19:05:15.7458229+00:00",
+      "NumProgressed": 58692,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15649,7 +15654,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "FlyingPresentMaster",
@@ -15721,7 +15726,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "HarshLove",
@@ -15889,7 +15894,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2934
+      "UsersEstimate": 2935
     },
     {
       "ID": "Teamwork",
@@ -15968,7 +15973,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58690,
+      "Progressed": 58692,
       "Completed": 6
     }
   ],
@@ -15976,8 +15981,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:04:55.8283117+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:05:15.7458224+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.3766793+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:57:57.5647972+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:04:55.8284384+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:58:00.7708521+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:05:15.7459366+00:00"
 }

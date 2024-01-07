@@ -11,7 +11,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~191 |
 | Furon Fashion | 47.00% | ~166 |
 | Shop Til They Drop | 40.00% | ~142 |
-| Bodied Sattva | 37.00% | ~131 |
+| Bodied Sattva | 38.00% | ~135 |
 | Cult Following | 35.00% | ~124 |
 | Earthly Pleasures | 34.00% | ~120 |
 | Lie Back and Think of Albion | 28.00% | ~99 |
@@ -23,7 +23,7 @@ Number of Ratings: 90  (23.09.2022)
 | Perfect Probulator | 17.00% | ~60 |
 | Transmitting From Sol-3 | 15.00% | ~53 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~46 |
-| Fly Me to the Moon Base | 10.00% | ~35 |
+| Fly Me to the Moon Base | 11.00% | ~39 |
 | Kaijuiced | 10.00% | ~35 |
 | Dusted | 10.00% | ~35 |
 | Scuttled | 9.00% | ~32 |

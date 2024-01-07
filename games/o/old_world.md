@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.80% | ~130 |
 | Babylonian Paganism | 0.80% | ~130 |
 | Magnificent | 0.70% | ~113 |
+| Furious Family | 0.70% | ~113 |
 | Great Ziggurat | 0.70% | ~113 |
 | Ishtar Gate | 0.70% | ~113 |
 | Lighthouse | 0.70% | ~113 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.60% | ~97 |
 | Legendary Cities | 0.60% | ~97 |
 | Able Difficulty | 0.60% | ~97 |
-| Furious Family | 0.60% | ~97 |
 | Acropolis | 0.60% | ~97 |
 | Apadana | 0.60% | ~97 |
 | Necropolis | 0.60% | ~97 |
@@ -67,6 +67,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.50% | ~81 |
 | Manichaeism | 0.50% | ~81 |
 | Egyptian Paganism | 0.50% | ~81 |
+| Building Wonders | 0.50% | ~81 |
 | Hanging Gardens in Babylon | 0.40% | ~65 |
 | Mighty | 0.40% | ~65 |
 | Good Difficulty | 0.40% | ~65 |
@@ -78,7 +79,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.40% | ~65 |
 | Power to the People | 0.40% | ~65 |
 | Persian Paganism | 0.40% | ~65 |
-| Building Wonders | 0.40% | ~65 |
 | Mythology | 0.40% | ~65 |
 | Points Victory | 0.40% | ~65 |
 | Win a Single Player Game | 0.40% | ~65 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,198 (Ranked 168)  
+Progressed: 16,200 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-04 | 16,120 | 5 |
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
-| 2024-01-07 | 16,198 | 5 |
+| 2024-01-07 | 16,200 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 222)  

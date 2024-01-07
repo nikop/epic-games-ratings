@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -67,7 +67,7 @@
   "Tags": [],
   "EOS_Progressed": 742,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.18,
   "EosHistory": [
@@ -2368,9 +2368,9 @@
       "ID": "ach_main01begin_die",
       "SetID": "4hg22ll",
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 660
     },
     {
       "ID": "ach_main01begin_storm",
@@ -2584,17 +2584,17 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 364
     },
     {
       "ID": "ach_main10fire_freehorde",
       "SetID": "4hg22ll",
       "Name": "Unstoppable Horde",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 267
     },
     {
       "ID": "ach_main10fire_naga",
@@ -2616,9 +2616,9 @@
       "ID": "ach_main11blessing_ghostheroes",
       "SetID": "4hg22ll",
       "Name": "Ghost Pirates? Ghost Heroes!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 230
     },
     {
       "ID": "ach_main11blessing_undeadonly",
@@ -2857,8 +2857,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-07T17:57:59.5607036+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:09:09.6824454+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:09:32.6129092+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:57:59.5607042+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:09:09.6825053+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:58:03.2128685+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:09:32.6129703+00:00"
 }

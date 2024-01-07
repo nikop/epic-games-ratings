@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~901 |
-| Lost and Found | 8.00% | ~554 |
-| Autodidact | 7.00% | ~9,244 |
+| Malpractice Assurance | 13.00% | ~902 |
+| Lost and Found | 8.00% | ~555 |
+| Autodidact | 7.00% | ~9,245 |
 | This Belongs in a Museum | 6.00% | ~7,924 |
 | Creep and Sleep | 6.00% | ~7,924 |
 | Overdue Notice | 6.00% | ~7,924 |
@@ -22,15 +22,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 5.00% | ~6,603 |
 | To Grandmother's House | 5.00% | ~6,603 |
 | FNG | 5.00% | ~6,603 |
-| Bloody Graduation | 5.00% | ~346 |
-| It Rings a Bell | 4.00% | ~5,282 |
-| Not Today! | 4.00% | ~5,282 |
-| It Happens | 4.00% | ~5,282 |
-| Merry Time | 4.00% | ~5,282 |
-| Harvest Festival | 4.00% | ~5,282 |
-| Whale | 4.00% | ~5,282 |
-| A Place to Lay Your Head | 4.00% | ~5,282 |
-| Nope | 4.00% | ~5,282 |
+| Bloody Graduation | 5.00% | ~347 |
+| It Rings a Bell | 4.00% | ~5,283 |
+| Not Today! | 4.00% | ~5,283 |
+| It Happens | 4.00% | ~5,283 |
+| Merry Time | 4.00% | ~5,283 |
+| Harvest Festival | 4.00% | ~5,283 |
+| Whale | 4.00% | ~5,283 |
+| A Place to Lay Your Head | 4.00% | ~5,283 |
+| Nope | 4.00% | ~5,283 |
 | Friends 'Til the End | 4.00% | ~277 |
 | Resurrection | 3.00% | ~3,962 |
 | Unleash Hell | 3.00% | ~3,962 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,060 (Ranked 91)  
+Progressed: 132,067 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 132,060 | 3 |
+| 2024-01-07 | 132,067 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
 Sum: 21,505 (Ranked 58)  

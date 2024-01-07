@@ -5,14 +5,14 @@ Rating: 4.50 (Ranked 612)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~893 |
-| To Hell In A Handcart | 61.00% | ~865 |
+| Read Between The Lines | 63.00% | ~894 |
+| To Hell In A Handcart | 61.00% | ~866 |
 | High Profile | 55.00% | ~780 |
-| Whispers In The Dark | 52.00% | ~737 |
-| Fond Memories | 51.00% | ~723 |
+| Whispers In The Dark | 52.00% | ~738 |
+| Fond Memories | 51.00% | ~724 |
 | A Method To His Madness | 48.00% | ~681 |
-| History Check | 47.00% | ~666 |
-| The New World | 45.00% | ~638 |
+| History Check | 47.00% | ~667 |
+| The New World | 45.00% | ~639 |
 | Gaze Into The Abyss | 44.00% | ~624 |
 | Open Sesame | 44.00% | ~624 |
 | Sticky Fingers | 44.00% | ~624 |
@@ -20,21 +20,21 @@ Rating: 4.50 (Ranked 612)
 | Lock, Stock, And Barrel | 43.00% | ~610 |
 | Land, Ho! | 43.00% | ~610 |
 | Back In The Saddle | 42.00% | ~596 |
-| No Man Is An Island | 41.00% | ~581 |
-| At Wits' End | 40.00% | ~567 |
-| Up In Flames | 39.00% | ~553 |
+| No Man Is An Island | 42.00% | ~596 |
+| At Wits' End | 40.00% | ~568 |
 | Fhtagn! | 39.00% | ~553 |
 | Bookworm | 38.00% | ~539 |
-| Going Once... | 36.00% | ~510 |
+| Up In Flames | 38.00% | ~539 |
+| Going Once... | 36.00% | ~511 |
 | Let Me Be Frank | 34.00% | ~482 |
 | No Stone Unturned | 32.00% | ~454 |
 | Brain Food | 31.00% | ~440 |
 | Read It And Weep | 20.00% | ~284 |
-| Curiosity Killed The Cat | 19.00% | ~269 |
+| Curiosity Killed The Cat | 19.00% | ~270 |
 | Big Breakthrough | 12.00% | ~170 |
 | Reawakened | 3.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,418 (Ranked 270)  
+Progressed: 1,419 (Ranked 270)  
 Completed: 42 (2.96%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 42 (2.96%) (Ranked 114)
 | 2024-01-04 | 1,394 | 40 |
 | 2024-01-05 | 1,400 | 41 |
 | 2024-01-06 | 1,410 | 41 |
-| 2024-01-07 | 1,418 | 42 |
+| 2024-01-07 | 1,419 | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,14 +1,14 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 471)  
+Rating: 4.58 (Ranked 472)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~5,011 |
-| Tutti Eroi! | 50.00% | ~4,912 |
-| Peak Performance | 45.00% | ~4,421 |
+| Tutti Eroi! | 50.00% | ~4,913 |
+| Peak Performance | 45.00% | ~4,422 |
 | Avanti Savoia! | 44.00% | ~4,323 |
 | Mamma Mia! | 35.00% | ~3,439 |
 | Conrad von Hotzensocks | 32.00% | ~3,144 |
@@ -28,8 +28,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dirty Dozen | 12.00% | ~1,179 |
 | Shaken, Not Stirred | 12.00% | ~1,179 |
 | Machiavelli | 11.00% | ~1,081 |
-| The Devil's Paintbrush | 10.00% | ~982 |
-| Thus With A Kiss | 10.00% | ~982 |
+| The Devil's Paintbrush | 10.00% | ~983 |
+| Thus With A Kiss | 10.00% | ~983 |
 | Dante's Inferno | 9.00% | ~884 |
 | I Have the High Ground | 9.00% | ~884 |
 | Millenial | 9.00% | ~884 |
@@ -42,9 +42,9 @@ Number of Ratings: 98  (23.09.2022)
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~393 |
 | Farewell to Arms | 3.00% | ~295 |
 | Seeing Red | 3.00% | ~295 |
-| Ponte of No Return | 2.00% | ~196 |
-| Soča Drag | 2.00% | ~196 |
-| Saboteur | 2.00% | ~196 |
+| Ponte of No Return | 2.00% | ~197 |
+| Soča Drag | 2.00% | ~197 |
+| Saboteur | 2.00% | ~197 |
 | Compagnia della Morte | 1.00% | ~98 |
 | Drop and Give Me 20 | 1.00% | ~98 |
 | Malpractice | 1.00% | ~98 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,825 (Ranked 182)  
+Progressed: 9,826 (Ranked 182)  
 Completed: 10 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 10 (0.10%) (Ranked 309)
 | 2024-01-04 | 9,768 | 10 |
 | 2024-01-05 | 9,787 | 10 |
 | 2024-01-06 | 9,806 | 10 |
-| 2024-01-07 | 9,825 | 10 |
+| 2024-01-07 | 9,826 | 10 |
 ## Awards
 Max (Diverse Characters): 43  (Ranked 477)  
 Sum: 339 (Ranked 371)  

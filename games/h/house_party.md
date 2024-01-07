@@ -6,7 +6,7 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 6.00% | ~433 |
+| A Friend in Need... | 7.00% | ~506 |
 | Smooth Operator: Madison | 5.00% | ~361 |
 | The Brahdyssey | 3.00% | ~217 |
 | Caught in the Act | 3.00% | ~217 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,223 (Ranked 194)  
+Progressed: 7,224 (Ranked 194)  
 Completed: 3 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 3 (0.04%) (Ranked 349)
 | 2024-01-04 | 7,099 | 3 |
 | 2024-01-05 | 7,141 | 3 |
 | 2024-01-06 | 7,186 | 3 |
-| 2024-01-07 | 7,223 | 3 |
+| 2024-01-07 | 7,224 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

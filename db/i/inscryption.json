@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-19T19:00:00+00:00",
     "PcReleaseDate": "2021-10-19T19:00:00+00:00",
@@ -806,10 +806,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 427,
       "NumberOfAwardsMax": 358
+    },
+    {
+      "Time": "2024-01-07T18:58:12.9285317+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 428,
+      "NumberOfAwardsMax": 358
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 427,
+  "NumberOfAwards": 428,
   "NumberOfAwardsMax": 358,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -829,7 +835,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Great for Beginners",
@@ -855,8 +861,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2024-01-05T17:00:06.4975113+00:00",
+  "LastChanged": "2024-01-07T18:58:12.9285315+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:02.3092186+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:58:08.3260155+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:06:08.8607813+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:58:12.9285321+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:06:34.2981055+00:00"
 }

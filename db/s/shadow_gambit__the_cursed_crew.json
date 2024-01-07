@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1479,
+  "EOS_Progressed": 1482,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
@@ -5090,6 +5090,11 @@
       "Time": "2024-01-07T16:04:53.4801451+00:00",
       "NumProgressed": 1479,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-07T19:05:24.5908667+00:00",
+      "NumProgressed": 1482,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5110,7 +5115,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1008
     },
     {
       "ID": "_03_FinishAct1",
@@ -5118,7 +5123,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5126,7 +5131,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "_05_FinishAct2",
@@ -5134,7 +5139,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5150,7 +5155,7 @@
       "Name": "All Good Things",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "_08_Completion_10",
@@ -5158,7 +5163,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 534
     },
     {
       "ID": "_09_Completion_20",
@@ -5180,9 +5185,9 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 222
     },
     {
       "ID": "_12_Completion_50",
@@ -5222,7 +5227,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -5230,7 +5235,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 534
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5286,7 +5291,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -5309,7 +5314,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1479,
+      "Progressed": 1482,
       "Completed": 36
     }
   ],
@@ -5317,8 +5322,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:05:03.6213008+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:05:24.5908662+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:59:10.6446056+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:05:03.6213387+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:59:19.3372816+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:05:24.5909163+00:00"
 }

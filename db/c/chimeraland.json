@@ -2,13 +2,13 @@
   "ID": "0b595db2a0604a3c91d77847a59f5895",
   "Name": "Chimeraland",
   "ProductSlug": "chimeraland",
-  "Ranking_Rating": 1068,
+  "Ranking_Rating": 1071,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-22T08:00:00+00:00",
     "PcReleaseDate": "2022-07-14T12:11:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.9,
+  "Rating": 3.89,
   "RatingHistory": [
     {
       "Time": "2023-01-08T08:57:11.5833977+00:00",
@@ -457,6 +457,12 @@
       "Rating": 3.9,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-01-07T18:59:39.5515426+00:00",
+      "Rating": 3.89,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
@@ -483,8 +489,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-22T08:56:57.9222177+00:00",
   "FirstSeenRating": "2023-01-08T08:57:11.5833974+00:00",
-  "LastChanged": "2024-01-03T04:57:00.3417336+00:00",
+  "LastChanged": "2024-01-07T18:59:39.5515424+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:47.2294212+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:59:29.5823144+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:05:38.7539342+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:59:39.5515429+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:06:01.7103222+00:00"
 }

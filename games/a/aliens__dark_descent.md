@@ -5,12 +5,12 @@ Rating: 4.55 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,696 |
-| Keep 'Em Coming | 65.00% | ~3,964 |
-| Snatched Out | 64.00% | ~3,903 |
-| Cleaning Lethe, One Nest At A Time | 58.00% | ~3,537 |
-| Call Me Snake | 54.00% | ~3,293 |
-| Something Lurks Under The Hills | 52.00% | ~3,171 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,698 |
+| Keep 'Em Coming | 65.00% | ~3,966 |
+| Snatched Out | 64.00% | ~3,905 |
+| Cleaning Lethe, One Nest At A Time | 58.00% | ~3,539 |
+| Call Me Snake | 54.00% | ~3,295 |
+| Something Lurks Under The Hills | 52.00% | ~3,173 |
 | This Was No Papercut | 50.00% | ~3,050 |
 | The Shrink Hates Me | 48.00% | ~2,928 |
 | People Person | 47.00% | ~2,867 |
@@ -49,9 +49,9 @@ Rating: 4.55 (Ranked 527)
 | Fair And Square | 2.00% | ~122 |
 | Perfect Organism | 0.70% | ~43 |
 | Chalk It Up To Experience | 0.70% | ~43 |
-| This Ain't No Picnic | 0.50% | ~30 |
+| This Ain't No Picnic | 0.50% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,099 (Ranked 200)  
+Progressed: 6,101 (Ranked 200)  
 Completed: 3 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 3 (0.05%) (Ranked 337)
 | 2024-01-04 | 5,863 | 3 |
 | 2024-01-05 | 5,942 | 3 |
 | 2024-01-06 | 6,035 | 3 |
-| 2024-01-07 | 6,099 | 3 |
+| 2024-01-07 | 6,101 | 3 |
 ## Awards
 Max (Great Boss Battles): 60  (Ranked 431)  
 Sum: 60 (Ranked 497)  

@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1507,
+  "EOS_Progressed": 1508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3300,6 +3300,11 @@
       "Time": "2024-01-07T16:04:28.6419887+00:00",
       "NumProgressed": 1507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T19:04:57.6782047+00:00",
+      "NumProgressed": 1508,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3376,7 +3381,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -3454,9 +3459,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 483
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3551,14 +3556,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1507,
+      "Progressed": 1508,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:04:38.9504609+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:04:57.6782043+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.4570132+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:02:42.7623688+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:04:38.950527+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:57:11.4933374+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:04:57.6782353+00:00"
 }

@@ -28,10 +28,10 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 33.00% | ~160 |
 | Love Tap | 32.00% | ~156 |
 | Maximum Vigor | 31.00% | ~151 |
+| Freeze Frame | 28.00% | ~136 |
 | For Whom the Bell Tolls | 28.00% | ~136 |
-| Freeze Frame | 27.00% | ~131 |
 | Eat Your Heart Out | 27.00% | ~131 |
-| Unyielding Strength | 25.00% | ~122 |
+| Unyielding Strength | 26.00% | ~126 |
 | Can you restore the Balance? | 24.00% | ~117 |
 | Crowd Source | 24.00% | ~117 |
 | Big Spender | 24.00% | ~117 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~5 |
 | Quite Proper | 0.80% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486 (Ranked 354)  
+Progressed: 486 (Ranked 355)  
 Completed: 2 (0.41%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |

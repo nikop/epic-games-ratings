@@ -9,7 +9,7 @@ Rating: 4.42 (Ranked 738)
 | A new Journey | 76.00% | ~2,018 |
 | From X to Y | 74.00% | ~1,965 |
 | Departure | 74.00% | ~1,965 |
-| Way of Iron | 71.00% | ~1,885 |
+| Way of Iron | 72.00% | ~1,912 |
 | Mystery Tour | 70.00% | ~1,858 |
 | We brake for nobody | 69.00% | ~1,832 |
 | Brainstorm | 67.00% | ~1,779 |
@@ -27,9 +27,9 @@ Rating: 4.42 (Ranked 738)
 | Bull and bear | 35.00% | ~929 |
 | Stoker | 34.00% | ~903 |
 | Full Steam ahead | 33.00% | ~876 |
+| Financial Shark | 32.00% | ~850 |
 | All mine | 31.00% | ~823 |
 | Mole | 31.00% | ~823 |
-| Financial Shark | 31.00% | ~823 |
 | General Manager | 29.00% | ~770 |
 | Country Life | 29.00% | ~770 |
 | Socializer | 28.00% | ~743 |

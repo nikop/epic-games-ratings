@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -4366,9 +4366,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 253
     },
     {
       "ID": "Achievement_027",
@@ -4711,8 +4711,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-07T04:01:29.1090541+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:04:57.4141591+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:05:17.8287932+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:59:16.4425421+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:04:57.4142304+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:59:26.3727221+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:05:17.8288547+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -4086,9 +4086,9 @@
       "ID": "EV_ACH13",
       "SetID": "6jeac23",
       "Name": "It Is Not Over",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 524
+      "UsersEstimate": 539
     },
     {
       "ID": "EV_ACH14",
@@ -4134,9 +4134,9 @@
       "ID": "EV_ACH19",
       "SetID": "6jeac23",
       "Name": "On The Rocks",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 509
     },
     {
       "ID": "EV_ACH20",
@@ -4351,8 +4351,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-06T08:58:42.2777074+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:10:06.1938291+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:10:33.3204502+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.6946611+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:59:09.6350015+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:10:06.1938934+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:59:17.8561754+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:10:33.3205086+00:00"
 }

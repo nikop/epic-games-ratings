@@ -3,12 +3,12 @@
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
   "Ranking_Rating": 634,
-  "Ranking_Popularity": 447,
-  "Ranking_PopularitySum": 503,
+  "Ranking_Popularity": 448,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,7 +415,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1667,
+  "EOS_Progressed": 1668,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -4370,6 +4370,11 @@
       "Time": "2024-01-07T18:09:59.3594998+00:00",
       "NumProgressed": 1667,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T19:10:26.0345585+00:00",
+      "NumProgressed": 1668,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4437,7 +4442,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "EXPERT_1",
@@ -4653,7 +4658,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "WISHMASTER_1",
@@ -4668,15 +4673,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1667,
+      "Progressed": 1668,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:09:59.3594994+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:10:26.0345579+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:59:10.3799108+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:09:59.3595477+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:59:18.9478374+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:10:26.0346035+00:00"
 }

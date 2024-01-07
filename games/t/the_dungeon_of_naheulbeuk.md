@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,956 |
-| Alt+F4 | 10.00% | ~24,710 |
-| Where's that freaking Dwarf? | 9.00% | ~22,239 |
-| Déjà vu | 8.00% | ~19,768 |
-| Sock! SOCK! | 6.00% | ~14,826 |
-| Speedrun | 6.00% | ~14,826 |
-| A beer, two curses, three companions | 5.00% | ~12,355 |
-| GG EZ | 5.00% | ~12,355 |
-| DM intervention | 5.00% | ~12,355 |
+| Sowwy! | 36.00% | ~88,960 |
+| Alt+F4 | 10.00% | ~24,711 |
+| Where's that freaking Dwarf? | 9.00% | ~22,240 |
+| Déjà vu | 8.00% | ~19,769 |
+| Sock! SOCK! | 6.00% | ~14,827 |
+| Speedrun | 6.00% | ~14,827 |
+| A beer, two curses, three companions | 5.00% | ~12,356 |
+| GG EZ | 5.00% | ~12,356 |
+| DM intervention | 5.00% | ~12,356 |
 | Way of the Wimp | 4.00% | ~9,884 |
 | The plot thickens... At the tavern | 4.00% | ~9,884 |
 | Fireproof Wizardess | 4.00% | ~9,884 |
@@ -51,7 +51,7 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.70% | ~1,730 |
 | Law and Order | 0.70% | ~1,730 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,483 |
-| It's been a hard day's night | 0.50% | ~1,235 |
+| It's been a hard day's night | 0.50% | ~1,236 |
 | Friendly fire | 0.40% | ~988 |
 | I'd rather... Just... Sing! | 0.40% | ~988 |
 | The number of the counting shalt be 7 | 0.40% | ~988 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,099 (Ranked 71)  
+Progressed: 247,112 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 8 (0.00%) (Ranked 393)
 | 2024-01-04 | 246,586 | 8 |
 | 2024-01-05 | 246,735 | 8 |
 | 2024-01-06 | 246,932 | 8 |
-| 2024-01-07 | 247,099 | 8 |
+| 2024-01-07 | 247,112 | 8 |
 ## Awards
 Max (Character Customization): 267  (Ranked 275)  
 Sum: 561 (Ranked 328)  

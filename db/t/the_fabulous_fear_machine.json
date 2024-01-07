@@ -4,8 +4,8 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -558,9 +558,9 @@
       "ID": "21",
       "SetID": "d37idgg",
       "Name": "Et in arcadia ego",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "22",
@@ -822,9 +822,9 @@
       "ID": "9",
       "SetID": "d37idgg",
       "Name": "Welcome to Hellville",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
@@ -837,8 +837,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-07T18:03:44.1520544+00:00",
+  "LastChanged_Achievements": "2024-01-07T19:03:58.4797285+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.4038986+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:58:13.3200609+00:00",
-  "LastUpdate_Achievements": "2024-01-07T18:03:44.1521049+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:58:18.5264698+00:00",
+  "LastUpdate_Achievements": "2024-01-07T19:03:58.4797603+00:00"
 }

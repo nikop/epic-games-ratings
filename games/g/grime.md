@@ -6,9 +6,9 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hunt | 3.00% | ~5,012 |
-| Taste | 3.00% | ~5,012 |
-| Imprint | 3.00% | ~5,012 |
+| The Hunt | 3.00% | ~5,013 |
+| Taste | 3.00% | ~5,013 |
+| Imprint | 3.00% | ~5,013 |
 | Weeper | 2.00% | ~3,342 |
 | Ravenous | 2.00% | ~3,342 |
 | Devourer | 1.00% | ~1,671 |
@@ -20,7 +20,7 @@ Number of Ratings: 46  (23.09.2022)
 | Jawcrab | 0.70% | ~1,170 |
 | Jawstag | 0.70% | ~1,170 |
 | Feast | 0.70% | ~1,170 |
-| Watcher | 0.60% | ~1,002 |
+| Watcher | 0.60% | ~1,003 |
 | Shapely | 0.50% | ~835 |
 | Glare | 0.50% | ~833 |
 | Predator | 0.50% | ~835 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~167 |
 | Intensify | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,083 (Ranked 84)  
+Progressed: 167,096 (Ranked 84)  
 Completed: 449 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 449 (0.27%) (Ranked 259)
 | 2024-01-04 | 166,498 | 443 |
 | 2024-01-05 | 166,702 | 445 |
 | 2024-01-06 | 166,913 | 446 |
-| 2024-01-07 | 167,083 | 449 |
+| 2024-01-07 | 167,096 | 449 |
 ## Awards
 Max (Unique Visuals): 62  (Ranked 429)  
 Sum: 444 (Ranked 343)  

@@ -1,33 +1,33 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 471)  
+Rating: 4.58 (Ranked 472)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 33.00% | ~1,341 |
-| Sputnik 2049 | 29.00% | ~1,178 |
-| Infinite Growth... | 27.00% | ~1,097 |
-| Without Breaking Some Eggs... | 26.00% | ~1,056 |
-| Ready for a New World | 19.00% | ~772 |
-| Space Society | 18.00% | ~731 |
-| A Thousand Strong | 18.00% | ~731 |
-| Permanent Redesigns | 16.00% | ~650 |
-| Fully Recycled | 15.00% | ~609 |
-| The Ship of Theseus | 15.00% | ~609 |
+| Wakey Wakey | 33.00% | ~1,342 |
+| Sputnik 2049 | 29.00% | ~1,179 |
+| Infinite Growth... | 27.00% | ~1,098 |
+| Without Breaking Some Eggs... | 26.00% | ~1,057 |
+| Ready for a New World | 19.00% | ~773 |
+| Space Society | 18.00% | ~732 |
+| A Thousand Strong | 18.00% | ~732 |
+| Permanent Redesigns | 16.00% | ~651 |
+| Fully Recycled | 15.00% | ~610 |
+| The Ship of Theseus | 15.00% | ~610 |
 | Guy de Borderlands | 14.00% | ~569 |
 | Ain't Nobody Got Time for That | 14.00% | ~569 |
-| Hope Seeker | 13.00% | ~528 |
+| Hope Seeker | 13.00% | ~529 |
 | A Hunk of Junk | 12.00% | ~488 |
 | Exceeding Capacity | 12.00% | ~488 |
 | Breaking Protocol | 12.00% | ~488 |
 | Man's Best Friend | 9.00% | ~366 |
 | Power Outage | 9.00% | ~366 |
 | Please Make it Stop! | 9.00% | ~366 |
-| Sightseeing | 8.00% | ~325 |
 | Convenient Transport | 8.00% | ~325 |
-| Necessary Enhancement | 7.00% | ~284 |
-| From the Past | 7.00% | ~284 |
+| Sightseeing | 7.00% | ~285 |
+| Necessary Enhancement | 7.00% | ~285 |
+| From the Past | 7.00% | ~285 |
 | Access Granted | 6.00% | ~244 |
 | All in Good Health | 6.00% | ~244 |
 | Drill-dozer | 6.00% | ~244 |
@@ -58,12 +58,12 @@ Rating: 4.58 (Ranked 471)
 | Crunch Culture | 0.40% | ~16 |
 | A Junker's Dream | 0.30% | ~12 |
 | Scenic View | 0.20% | ~8 |
-| I Give You the Stars | 0.20% | ~4 |
+| I Give You the Stars | 0.20% | ~5 |
 | Beyond Time and Space | 0.10% | ~4 |
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,063 (Ranked 211)  
+Progressed: 4,067 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,963 | 0 |
 | 2024-01-05 | 4,002 | 0 |
 | 2024-01-06 | 4,042 | 0 |
-| 2024-01-07 | 4,063 | 0 |
+| 2024-01-07 | 4,067 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
