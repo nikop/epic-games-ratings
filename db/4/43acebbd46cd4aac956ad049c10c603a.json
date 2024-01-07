@@ -2,13 +2,13 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 23,
+  "Ranking_Rating": 17,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.87,
+  "Rating": 4.88,
   "RatingHistory": [
     {
       "Time": "2023-11-08T20:00:37.8164591+00:00",
@@ -279,6 +279,12 @@
     {
       "Time": "2024-01-06T04:02:56.8031668+00:00",
       "Rating": 4.87,
+      "NumberOfAwards": 98,
+      "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2024-01-07T03:59:41.5606381+00:00",
+      "Rating": 4.88,
       "NumberOfAwards": 98,
       "NumberOfAwardsMax": 98
     }
@@ -3750,9 +3756,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 443
     },
     {
       "ID": "BreakTheLoop",
@@ -3830,9 +3836,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 130
     },
     {
       "ID": "FloodedValley",
@@ -4118,9 +4124,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 482
     },
     {
       "ID": "TouchGrass",
@@ -4190,9 +4196,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-01-06T04:02:56.8031666+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:06:27.1324211+00:00",
+  "LastChanged": "2024-01-07T03:59:41.560638+00:00",
+  "LastChanged_Achievements": "2024-01-07T04:08:33.431028+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-07T02:58:08.7308131+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:06:27.1325002+00:00"
+  "LastUpdate_Ratings": "2024-01-07T03:59:41.5606384+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:08:33.4310953+00:00"
 }

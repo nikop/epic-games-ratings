@@ -6,9 +6,9 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,749 |
-| Sweet Sorrow | 18.00% | ~7,874 |
-| Rules the Waves | 17.00% | ~7,437 |
+| Sink Beneath the Waves | 36.00% | ~15,750 |
+| Sweet Sorrow | 18.00% | ~7,875 |
+| Rules the Waves | 17.00% | ~7,438 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,562 |
 | Rival | 14.00% | ~6,125 |
 | Correspondent | 12.00% | ~5,250 |
@@ -19,11 +19,11 @@ Number of Ratings: 401  (23.09.2022)
 | The Fall of the House | 11.00% | ~4,812 |
 | Shipmate | 11.00% | ~4,812 |
 | One Year at Zee | 8.00% | ~3,500 |
-| Pupil | 7.00% | ~3,062 |
-| Salvager | 7.00% | ~3,062 |
-| The Ascent of Man | 7.00% | ~3,062 |
-| Open Your Ears | 6.00% | ~2,625 |
-| Zee Fever | 5.00% | ~2,187 |
+| Pupil | 7.00% | ~3,063 |
+| Salvager | 7.00% | ~3,063 |
+| Open Your Ears | 7.00% | ~3,063 |
+| The Ascent of Man | 7.00% | ~3,063 |
+| Zee Fever | 5.00% | ~2,188 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,750 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,750 |
 | Storm's Curse | 3.00% | ~1,312 |
@@ -31,11 +31,11 @@ Number of Ratings: 401  (23.09.2022)
 | Come Closer | 3.00% | ~1,312 |
 | Roaring Rise | 2.00% | ~875 |
 | I am the Captain of my Soul | 2.00% | ~875 |
-| A buoyant escape | 1.00% | ~437 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~437 |
-| The Bell Tolls | 1.00% | ~437 |
-| Knife, Cup and Bone | 1.00% | ~437 |
-| A current under zee | 1.00% | ~437 |
+| A buoyant escape | 1.00% | ~438 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~438 |
+| The Bell Tolls | 1.00% | ~438 |
+| Knife, Cup and Bone | 1.00% | ~438 |
+| A current under zee | 1.00% | ~438 |
 | Never Stop Sinking... | 0.90% | ~394 |
 | His bones in whispers | 0.90% | ~394 |
 | The beauty of the deep | 0.90% | ~394 |
@@ -51,9 +51,9 @@ Number of Ratings: 401  (23.09.2022)
 | What lies beneath | 0.70% | ~306 |
 | Stone's Curse | 0.70% | ~306 |
 | Five Years at Zee | 0.50% | ~219 |
-| The Lady's Parlour | 0.20% | ~87 |
-| A Past Wreathed in Shadows | 0.20% | ~87 |
-| Under pressure | 0.20% | ~87 |
+| The Lady's Parlour | 0.20% | ~88 |
+| A Past Wreathed in Shadows | 0.20% | ~88 |
+| Under pressure | 0.20% | ~88 |
 | A Drownie devotee | 0.10% | ~44 |
 | Romans 6:9 | 0.10% | ~44 |
 | Ofermod | 0.10% | ~44 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~44 |
 | Ten Years at Zee | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,747 (Ranked 130)  
+Progressed: 43,750 (Ranked 130)  
 Completed: 4 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 4 (0.01%) (Ranked 371)
 | 2024-01-04 | 43,563 | 4 |
 | 2024-01-05 | 43,646 | 4 |
 | 2024-01-06 | 43,731 | 4 |
-| 2024-01-07 | 43,747 | 4 |
+| 2024-01-07 | 43,750 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 289)  
 Sum: 315 (Ranked 375)  

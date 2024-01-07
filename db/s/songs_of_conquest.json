@@ -5,10 +5,10 @@
   "Ranking_Rating": 234,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 398,
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1035,
+  "EOS_Progressed": 1036,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3630,6 +3630,11 @@
       "Time": "2024-01-07T02:04:09.3918496+00:00",
       "NumProgressed": 1035,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T04:11:42.4063854+00:00",
+      "NumProgressed": 1036,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3946,15 +3951,15 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "TrojanHorse",
       "SetID": "71c0n9i",
       "Name": "Trojan Horse",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 52
     },
     {
       "ID": "UltraKill",
@@ -3970,15 +3975,15 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 228
     },
     {
       "ID": "WielderLevel3",
@@ -4073,15 +4078,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1035,
+      "Progressed": 1036,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:09:56.3703913+00:00",
+  "LastChanged_Achievements": "2024-01-07T04:11:42.406385+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-07T03:00:16.5805887+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:09:56.3704655+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:02:24.1042316+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:11:42.4064404+00:00"
 }

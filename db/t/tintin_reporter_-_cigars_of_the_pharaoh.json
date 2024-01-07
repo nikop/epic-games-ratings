@@ -2,10 +2,10 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -574,6 +574,11 @@
       "Time": "2024-01-07T01:59:08.0623493+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T04:06:58.5451644+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -586,7 +591,7 @@
       "Name": "My Papyrus!",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Achievement10",
@@ -594,7 +599,7 @@
       "Name": "In the Name of the Law",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement11",
@@ -602,7 +607,7 @@
       "Name": "Au Revoir, Abudin",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement12",
@@ -672,9 +677,9 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "Achievement20",
@@ -802,7 +807,7 @@
       "Name": "Cat Lover",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement35",
@@ -834,7 +839,7 @@
       "Name": "The Tomb of Kih-Oskh",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Achievement5",
@@ -842,7 +847,7 @@
       "Name": "The Weighing of the Soul",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement6",
@@ -866,7 +871,7 @@
       "Name": "Dynamite, Treason and Coconuts",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement9",
@@ -874,21 +879,21 @@
       "Name": "Save a Friend",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:05:10.6610266+00:00",
-  "LastUpdate_AppInfo": "2023-12-31T02:57:40.8073713+00:00",
-  "LastUpdate_Ratings": "2024-01-07T02:59:44.9565168+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:05:10.6610534+00:00"
+  "LastChanged_Achievements": "2024-01-07T04:06:58.545164+00:00",
+  "LastUpdate_AppInfo": "2024-01-07T03:57:46.5995051+00:00",
+  "LastUpdate_Ratings": "2024-01-07T04:01:45.0219627+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:06:58.545196+00:00"
 }

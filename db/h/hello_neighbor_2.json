@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 215,
-  "Ranking_EOS_Completed": 97,
+  "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3921,
+  "EOS_Progressed": 3922,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.67,
   "EosHistory": [
@@ -6937,6 +6937,11 @@
       "Time": "2024-01-07T03:09:21.557703+00:00",
       "NumProgressed": 3921,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-07T04:10:58.9255681+00:00",
+      "NumProgressed": 3922,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -6948,7 +6953,7 @@
       "Name": "Ancient Curse",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -6956,7 +6961,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -7036,7 +7041,7 @@
       "Name": "Shovel Night",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -7059,7 +7064,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3921,
+      "Progressed": 3922,
       "Completed": 144
     }
   ],
@@ -7067,8 +7072,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:09:21.5577027+00:00",
+  "LastChanged_Achievements": "2024-01-07T04:10:58.9255675+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-07T02:59:20.5742014+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:09:21.5577429+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:01:13.2450286+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:10:58.9256171+00:00"
 }

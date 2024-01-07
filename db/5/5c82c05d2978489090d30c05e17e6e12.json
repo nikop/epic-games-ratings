@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73679,
+  "EOS_Progressed": 73691,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 1831,
+  "EOS_NewPlayers": 1833,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6388,6 +6388,11 @@
       "Time": "2024-01-07T03:09:13.4876974+00:00",
       "NumProgressed": 73679,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2024-01-07T04:10:48.8309117+00:00",
+      "NumProgressed": 73691,
+      "NumCompleted": 111
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6400,7 +6405,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27261
+      "UsersEstimate": 27266
     },
     {
       "ID": "Achievement_10",
@@ -6432,7 +6437,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "Achievement_14",
@@ -6488,7 +6493,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20630
+      "UsersEstimate": 20633
     },
     {
       "ID": "Achievement_20",
@@ -6528,7 +6533,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "Achievement_25",
@@ -6552,7 +6557,7 @@
       "Name": "Critter King",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "Achievement_28",
@@ -6576,7 +6581,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8841
+      "UsersEstimate": 8843
     },
     {
       "ID": "Achievement_30",
@@ -6624,7 +6629,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "Achievement_5",
@@ -6640,7 +6645,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "Achievement_7",
@@ -6648,7 +6653,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "Achievement_8",
@@ -6656,7 +6661,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "Achievement_9",
@@ -6671,7 +6676,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 73679,
+      "Progressed": 73691,
       "Completed": 111
     }
   ],
@@ -6679,8 +6684,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-05T18:03:34.6922579+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:09:13.4876971+00:00",
+  "LastChanged_Achievements": "2024-01-07T04:10:48.8309111+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-07T03:03:49.4335221+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:09:13.4877672+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:05:12.6468765+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:10:48.8309726+00:00"
 }

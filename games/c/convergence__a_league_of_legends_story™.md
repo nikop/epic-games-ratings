@@ -1,25 +1,25 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.67 (Ranked 284)  
+Rating: 4.67 (Ranked 283)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 45.00% | ~566 |
+| Time Heals All Wounds | 46.00% | ~579 |
 | Rail Rat | 34.00% | ~428 |
 | The Mysterious Stranger | 33.00% | ~415 |
-| Immaculate Aim | 28.00% | ~352 |
+| Immaculate Aim | 28.00% | ~353 |
 | The Brass Boss | 27.00% | ~340 |
 | Time Flies | 26.00% | ~327 |
 | No, Thanks! | 26.00% | ~327 |
-| The Prince in Heels | 26.00% | ~327 |
 | Honest Mistake | 26.00% | ~327 |
-| Make Up For Lost Time | 25.00% | ~314 |
-| The Harder They Fall | 25.00% | ~314 |
-| Immaculate Aim | 25.00% | ~314 |
+| Make Up For Lost Time | 25.00% | ~315 |
+| The Harder They Fall | 25.00% | ~315 |
+| The Prince in Heels | 25.00% | ~315 |
+| Immaculate Aim | 25.00% | ~315 |
 | Fast Learner | 24.00% | ~302 |
-| The Steel Shadow | 23.00% | ~289 |
-| Breaking Down Barriers | 23.00% | ~289 |
+| The Steel Shadow | 23.00% | ~290 |
+| Breaking Down Barriers | 23.00% | ~290 |
 | Right On Time | 22.00% | ~277 |
 | The Wicked Twins | 22.00% | ~277 |
 | Like Clockwork | 21.00% | ~264 |
@@ -27,9 +27,9 @@ Rating: 4.67 (Ranked 284)
 | Golem Chaser | 21.00% | ~264 |
 | Check Your Pulse | 20.00% | ~252 |
 | The Loose Cannon | 19.00% | ~239 |
-| Street Style | 18.00% | ~226 |
-| The Man Who Shattered Time | 18.00% | ~226 |
-| The Family Fortune | 18.00% | ~226 |
+| Street Style | 18.00% | ~227 |
+| The Man Who Shattered Time | 18.00% | ~227 |
+| The Family Fortune | 18.00% | ~227 |
 | Whiz Kid | 15.00% | ~189 |
 | Good Neighbor | 15.00% | ~189 |
 | Family Memories | 14.00% | ~176 |
@@ -47,8 +47,8 @@ Rating: 4.67 (Ranked 284)
 | Sartorialist | 8.00% | ~101 |
 | Entresol Explorer | 8.00% | ~101 |
 | Golem Hunter | 7.00% | ~88 |
-| Clovemary for Remembering | 6.00% | ~75 |
-| Hexlock for Protection | 6.00% | ~75 |
+| Clovemary for Remembering | 6.00% | ~76 |
+| Hexlock for Protection | 6.00% | ~76 |
 | Rungs Was Right | 5.00% | ~63 |
 | Thinking Two Steps Ahead | 2.00% | ~25 |
 | Wunderkind | 2.00% | ~25 |
@@ -59,7 +59,7 @@ Rating: 4.67 (Ranked 284)
 | Going to Live Forever | 0.60% | ~8 |
 | Raw Talent | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,258 (Ranked 280)  
+Progressed: 1,259 (Ranked 280)  
 Completed: 6 (0.48%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 6 (0.48%) (Ranked 221)
 | 2024-01-04 | 1,228 | 6 |
 | 2024-01-05 | 1,241 | 6 |
 | 2024-01-06 | 1,255 | 6 |
-| 2024-01-07 | 1,258 | 6 |
+| 2024-01-07 | 1,259 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

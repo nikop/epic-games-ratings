@@ -33,8 +33,8 @@
 | Karakuri Isle | 19.00% | ~228 |
 | Team Hunter | 19.00% | ~228 |
 | Reincarnation Cycle Stopper | 19.00% | ~228 |
+| Left Arm Leverager | 16.00% | ~192 |
 | Human Believer | 16.00% | ~192 |
-| Left Arm Leverager | 15.00% | ~180 |
 | Style Seeker | 15.00% | ~180 |
 | Unrivaled in Arms | 15.00% | ~180 |
 | Quintessence of Form | 15.00% | ~180 |
@@ -48,7 +48,7 @@
 | Tender Touch | 9.00% | ~108 |
 | Superlative View | 8.00% | ~96 |
 | Relentless Kemono Hunter | 7.00% | ~84 |
-| Vanquisher of the Volatile | 6.00% | ~72 |
+| Vanquisher of the Volatile | 7.00% | ~84 |
 | Big Spender | 5.00% | ~60 |
 | Bewitched by Bathing | 4.00% | ~48 |
 | Tsukumo Whisperer | 3.00% | ~36 |

@@ -6,24 +6,24 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,799 |
-| Life is your teacher | 5.00% | ~37,799 |
-| The Assault | 4.00% | ~30,239 |
-| Lightning Hands | 4.00% | ~30,239 |
-| The Hateful Pole Fighter | 3.00% | ~22,680 |
-| Old Child | 3.00% | ~22,680 |
-| A Lady's Blood in the Snow | 2.00% | ~15,120 |
-| Lady Wing Chun | 2.00% | ~15,120 |
-| Kill Nil | 2.00% | ~15,120 |
-| Stuntmaster | 2.00% | ~15,120 |
-| Street Fighting | 2.00% | ~15,120 |
-| State of constant learning | 2.00% | ~15,120 |
-| Qi Gong: Breath | 2.00% | ~15,120 |
-| Qi Gong: Essence | 2.00% | ~15,120 |
-| I know Kung-Fu | 2.00% | ~15,120 |
-| Path of the Prospect | 2.00% | ~15,120 |
-| Rumble in the Hangar | 2.00% | ~15,120 |
-| Diligence as a goal | 2.00% | ~1,306 |
+| The Old Grandmaster | 5.00% | ~37,802 |
+| Life is your teacher | 5.00% | ~37,802 |
+| The Assault | 4.00% | ~30,241 |
+| Lightning Hands | 4.00% | ~30,241 |
+| The Hateful Pole Fighter | 3.00% | ~22,681 |
+| Old Child | 3.00% | ~22,681 |
+| A Lady's Blood in the Snow | 2.00% | ~15,121 |
+| Lady Wing Chun | 2.00% | ~15,121 |
+| Kill Nil | 2.00% | ~15,121 |
+| Stuntmaster | 2.00% | ~15,121 |
+| Street Fighting | 2.00% | ~15,121 |
+| State of constant learning | 2.00% | ~15,121 |
+| Qi Gong: Breath | 2.00% | ~15,121 |
+| Qi Gong: Essence | 2.00% | ~15,121 |
+| I know Kung-Fu | 2.00% | ~15,121 |
+| Path of the Prospect | 2.00% | ~15,121 |
+| Rumble in the Hangar | 2.00% | ~15,121 |
+| Diligence as a goal | 2.00% | ~1,307 |
 | Furious Fists | 1.00% | ~7,560 |
 | Scareless | 1.00% | ~7,560 |
 | Dance of the Praying Mantis | 1.00% | ~7,560 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,560 |
 | Take damage to save time | 1.00% | ~7,560 |
 | Project Arena | 1.00% | ~653 |
-| Fight the way you practice | 0.80% | ~522 |
+| Fight the way you practice | 0.80% | ~523 |
 | Muk Yan Master | 0.60% | ~4,536 |
 | Tiger on Fire | 0.60% | ~4,536 |
 | Source of Flying Daggers | 0.60% | ~4,536 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~65 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755,986 (Ranked 25)  
+Progressed: 756,033 (Ranked 25)  
 Completed: 12,976 (1.72%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,11 +329,11 @@ Completed: 12,976 (1.72%) (Ranked 142)
 | 2024-01-04 | 753,906 | 12,974 |
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
-| 2024-01-07 | 755,986 | 12,976 |
+| 2024-01-07 | 756,033 | 12,976 |
 ## Awards
-Max (Great Boss Battles): 7,131  (Ranked 55)  
+Max (Great Boss Battles): 7,131  (Ranked 56)  
 Sum: 12,615 (Ranked 85)  
-Diff (max vs sum): -30  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,131 |

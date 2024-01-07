@@ -1,7 +1,7 @@
 # Shadow Tactics - Aiko's Choice
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics-aikos-choice-5678c1)  
 [View Rawdata](../../db/s/shadow_tactics_-_aiko's_choice.json)  
-Rating: 4.72 (Ranked 190)  
+Rating: 4.71 (Ranked 202)  
 Number of Ratings: 68  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 87  (Ranked 396)  
@@ -113,3 +113,4 @@ Diff (max vs sum): -80
 | 2023-12-25 | 4.72 | - | 83 | 83 |
 | 2023-12-28 | 4.72 | - | 84 | 84 |
 | 2024-01-06 | 4.72 | - | 87 | 87 |
+| 2024-01-07 | 4.71 | - | 87 | 87 |

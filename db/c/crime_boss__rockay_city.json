@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 1056,
+  "Ranking_Rating": 1055,
   "Ranking_Popularity": 210,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5445,9 +5445,9 @@
       "Count": 537
     }
   ],
-  "EOS_Progressed": 93148,
+  "EOS_Progressed": 93151,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30605,6 +30605,11 @@
       "Time": "2024-01-07T03:07:19.9120163+00:00",
       "NumProgressed": 93148,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-07T04:09:38.1535271+00:00",
+      "NumProgressed": 93151,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30640,7 +30645,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ACH_0014",
@@ -30648,7 +30653,7 @@
       "Name": "Track Star",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ACH_0015",
@@ -30784,7 +30789,7 @@
       "Name": "Too Old for This",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "ACH_0300",
@@ -30848,7 +30853,7 @@
       "Name": "Fancy Pants",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "ACH_0431",
@@ -30864,7 +30869,7 @@
       "Name": "True Player",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ACH_0450",
@@ -30943,13 +30948,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93148,
+      "Progressed": 93151,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21495,
+      "Progressed": 21498,
       "Completed": 15596
     }
   ],
@@ -30957,8 +30962,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-06T21:59:56.7593035+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:07:19.9120156+00:00",
-  "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-07T02:59:36.4079194+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:07:19.9121706+00:00"
+  "LastChanged_Achievements": "2024-01-07T04:09:38.1535267+00:00",
+  "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
+  "LastUpdate_Ratings": "2024-01-07T04:01:33.6006806+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:09:38.1537074+00:00"
 }

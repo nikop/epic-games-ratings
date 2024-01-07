@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1201,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -4027,9 +4027,9 @@
       "ID": "achievement_21",
       "SetID": "2cpn27e",
       "Name": "Left Arm Leverager",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_22",
@@ -4067,9 +4067,9 @@
       "ID": "achievement_26",
       "SetID": "2cpn27e",
       "Name": "Vanquisher of the Volatile",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 72
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_27",
@@ -4313,8 +4313,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:10:15.5056905+00:00",
+  "LastChanged_Achievements": "2024-01-07T04:12:06.0897003+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-07T02:59:28.2370841+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:10:15.5057617+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:01:23.0923547+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:12:06.0897841+00:00"
 }

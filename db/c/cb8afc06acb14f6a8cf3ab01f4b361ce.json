@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -467,9 +467,9 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 342137,
+  "EOS_Progressed": 342152,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3815,
+  "EOS_NewPlayers": 3802,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12437,6 +12437,11 @@
       "Time": "2024-01-07T03:09:35.8210005+00:00",
       "NumProgressed": 342137,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T04:11:16.2601377+00:00",
+      "NumProgressed": 342152,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12449,7 +12454,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13685
+      "UsersEstimate": 13686
     },
     {
       "ID": "S02_BRDA",
@@ -12457,7 +12462,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10264
+      "UsersEstimate": 10265
     },
     {
       "ID": "S03_OTWA",
@@ -12465,7 +12470,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "S04_BRDC",
@@ -12585,7 +12590,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17107
+      "UsersEstimate": 17108
     },
     {
       "ID": "S19_CHALLENGES",
@@ -12641,7 +12646,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "S26_CRTA",
@@ -12673,7 +12678,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "S30_DIAMOND",
@@ -12768,7 +12773,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 342137,
+      "Progressed": 342152,
       "Completed": 7
     }
   ],
@@ -12776,8 +12781,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-05T18:59:44.5001428+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:09:35.8210001+00:00",
+  "LastChanged_Achievements": "2024-01-07T04:11:16.2601373+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.1079824+00:00",
-  "LastUpdate_Ratings": "2024-01-07T02:59:45.1019372+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:09:35.8210753+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:01:45.2109353+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:11:16.2602628+00:00"
 }

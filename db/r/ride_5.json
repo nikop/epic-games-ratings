@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -45,7 +45,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3376,
+  "EOS_Progressed": 3377,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
@@ -8300,6 +8300,11 @@
       "Time": "2024-01-07T03:07:27.8164826+00:00",
       "NumProgressed": 3376,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T04:10:18.0213191+00:00",
+      "NumProgressed": 3377,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8312,7 +8317,7 @@
       "Name": "First Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8520,7 +8525,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8608,7 +8613,7 @@
       "Name": "Eat My Dust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8703,7 +8708,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3376,
+      "Progressed": 3377,
       "Completed": 0
     }
   ],
@@ -8711,8 +8716,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:07:27.8164822+00:00",
+  "LastChanged_Achievements": "2024-01-07T04:10:18.0213187+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-07T03:00:48.008693+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:07:27.8165458+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:03:05.0474224+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:10:18.0213994+00:00"
 }

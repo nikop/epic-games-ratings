@@ -6,19 +6,19 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,942 |
+| Genin | 12.00% | ~26,943 |
 | A thief's beginning | 11.00% | ~24,697 |
 | Thorough | 11.00% | ~24,697 |
-| Disguised | 9.00% | ~20,206 |
-| Rescue Takuma | 9.00% | ~20,206 |
-| Rollin' | 9.00% | ~20,206 |
-| Tanuki Time | 9.00% | ~20,206 |
-| Ice Ice Yuki | 8.00% | ~17,961 |
-| Stoned Ox | 8.00% | ~17,961 |
-| Yabu | 8.00% | ~17,961 |
-| Happy Planning | 7.00% | ~15,716 |
-| Jonin | 7.00% | ~15,716 |
-| Mugen Unchained | 7.00% | ~15,716 |
+| Disguised | 9.00% | ~20,207 |
+| Rescue Takuma | 9.00% | ~20,207 |
+| Rollin' | 9.00% | ~20,207 |
+| Tanuki Time | 9.00% | ~20,207 |
+| Ice Ice Yuki | 8.00% | ~17,962 |
+| Stoned Ox | 8.00% | ~17,962 |
+| Yabu | 8.00% | ~17,962 |
+| Happy Planning | 7.00% | ~15,717 |
+| Jonin | 7.00% | ~15,717 |
+| Mugen Unchained | 7.00% | ~15,717 |
 | Chunin | 6.00% | ~13,471 |
 | Flying Rocks | 6.00% | ~13,471 |
 | Warzone | 6.00% | ~13,471 |
@@ -30,8 +30,8 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 4.00% | ~8,981 |
 | Still Rollin' | 4.00% | ~8,981 |
 | Stoned | 4.00% | ~8,981 |
-| It's raining men | 3.00% | ~6,735 |
-| The Old Way | 3.00% | ~6,735 |
+| It's raining men | 3.00% | ~6,736 |
+| The Old Way | 3.00% | ~6,736 |
 | Atheist Ox | 2.00% | ~4,490 |
 | No Gimmicks | 2.00% | ~4,490 |
 | Old Man | 2.00% | ~4,490 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,515 (Ranked 79)  
+Progressed: 224,522 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 105 (0.05%) (Ranked 336)
 | 2024-01-04 | 224,025 | 103 |
 | 2024-01-05 | 224,240 | 105 |
 | 2024-01-06 | 224,483 | 105 |
-| 2024-01-07 | 224,515 | 105 |
+| 2024-01-07 | 224,522 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 209)  
 Sum: 4,943 (Ranked 150)  

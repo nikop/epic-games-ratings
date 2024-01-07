@@ -5,15 +5,15 @@ Rating: 4.55 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 107.00% | ~19,154 |
-| Before the Downfall | 102.00% | ~18,259 |
-| Money like Water | 100.00% | ~17,901 |
-| Minimalist | 98.00% | ~17,543 |
-| Builder | 90.00% | ~16,111 |
-| Eraser | 76.00% | ~13,605 |
-| Pocket of Trains | 71.00% | ~12,710 |
-| Inspector | 64.00% | ~11,457 |
-| Going the Distance | 59.00% | ~10,562 |
+| Trevithick's Legacy | 107.00% | ~19,152 |
+| Before the Downfall | 102.00% | ~18,257 |
+| Money like Water | 100.00% | ~17,899 |
+| Minimalist | 98.00% | ~17,541 |
+| Builder | 90.00% | ~16,109 |
+| Eraser | 76.00% | ~13,603 |
+| Pocket of Trains | 71.00% | ~12,708 |
+| Inspector | 64.00% | ~11,455 |
+| Going the Distance | 59.00% | ~10,560 |
 | Oil Baron | 46.00% | ~8,234 |
 | Loads-a-Money | 46.00% | ~8,234 |
 | Helper of the People | 43.00% | ~7,697 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 526)
 | Overdeer | 0.60% | ~107 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,901 (Ranked 160)  
+Progressed: 17,899 (Ranked 160)  
 Completed: 26 (0.15%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caretaker | 85.00% | ~172 |
-| Too Cool For School | 85.00% | ~172 |
-| Feng Shui | 72.00% | ~145 |
-| Who's A Good Boy | 71.00% | ~143 |
-| Power Up | 70.00% | ~141 |
-| Thick Skin | 68.00% | ~137 |
-| Math Wizard | 66.00% | ~133 |
-| Destroy Erase Improve | 66.00% | ~133 |
-| Power Overload | 63.00% | ~127 |
-| Quite A Snack | 60.00% | ~121 |
-| Impenetrable Skin | 56.00% | ~113 |
-| Overwhelming Power | 54.00% | ~109 |
-| Chomp Chomp! | 47.00% | ~95 |
-| Supreme Power | 46.00% | ~93 |
-| The Duelist | 44.00% | ~89 |
-| Diaper Time! | 44.00% | ~89 |
+| Too Cool For School | 85.00% | ~173 |
+| Caretaker | 84.00% | ~171 |
+| Feng Shui | 71.00% | ~144 |
+| Who's A Good Boy | 70.00% | ~142 |
+| Power Up | 70.00% | ~142 |
+| Thick Skin | 68.00% | ~138 |
+| Math Wizard | 66.00% | ~134 |
+| Destroy Erase Improve | 66.00% | ~134 |
+| Power Overload | 63.00% | ~128 |
+| Quite A Snack | 60.00% | ~122 |
+| Impenetrable Skin | 56.00% | ~114 |
+| Overwhelming Power | 54.00% | ~110 |
+| Chomp Chomp! | 46.00% | ~93 |
+| Supreme Power | 45.00% | ~91 |
 | Target Practice | 44.00% | ~89 |
+| The Duelist | 43.00% | ~87 |
 | Glorious Battle | 43.00% | ~87 |
+| Diaper Time! | 43.00% | ~87 |
 | Meat Larder | 40.00% | ~81 |
 | Mutant And Proud | 39.00% | ~79 |
 | The Emperor's New Clothes | 33.00% | ~67 |
@@ -36,12 +36,12 @@
 | Mommy's Very Angry | 29.00% | ~59 |
 | Loyal Companion | 27.00% | ~55 |
 | Back To The Future | 26.00% | ~53 |
-| Immortal Skin | 25.00% | ~50 |
-| Lunch Before The Lunch | 23.00% | ~46 |
-| Fire Beacon | 23.00% | ~46 |
-| From Here To Eternity | 20.00% | ~40 |
-| Building Blocks | 20.00% | ~40 |
-| Octopostructure | 18.00% | ~36 |
+| Immortal Skin | 25.00% | ~51 |
+| Lunch Before The Lunch | 23.00% | ~47 |
+| Fire Beacon | 23.00% | ~47 |
+| From Here To Eternity | 20.00% | ~41 |
+| Building Blocks | 20.00% | ~41 |
+| Octopostructure | 18.00% | ~37 |
 | Boss Hunter | 15.00% | ~30 |
 | Hawkman | 10.00% | ~20 |
 | Annihilate | 9.00% | ~18 |
@@ -58,8 +58,8 @@
 | Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202 (Ranked 426)  
-Completed: 1 (0.50%) (Ranked 219)  
+Progressed: 203 (Ranked 426)  
+Completed: 1 (0.49%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,6 +126,7 @@ Completed: 1 (0.50%) (Ranked 219)
 | 2023-12-29 | 200 | 1 |
 | 2023-12-30 | 201 | 1 |
 | 2024-01-06 | 202 | 1 |
+| 2024-01-07 | 203 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

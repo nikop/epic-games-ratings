@@ -1,15 +1,15 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.96 (Ranked 1,056)  
+Rating: 3.96 (Ranked 1,055)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Neophyte Ninja | 4.00% | ~3,726 |
 | First One’s Free | 4.00% | ~3,726 |
 | Downed but Not Outed | 4.00% | ~3,726 |
-| Too Old for This | 3.00% | ~2,794 |
-| Fancy Pants | 3.00% | ~2,794 |
+| Too Old for This | 3.00% | ~2,795 |
+| Fancy Pants | 3.00% | ~2,795 |
 | Underworld Initiate | 2.00% | ~1,863 |
 | Roid Ranger | 2.00% | ~1,863 |
 | Case Closed | 2.00% | ~1,863 |
@@ -18,9 +18,9 @@ Rating: 3.96 (Ranked 1,056)
 | Raider’s Ruin | 2.00% | ~1,863 |
 | Dragonslayer | 2.00% | ~1,863 |
 | Rockay Rex | 2.00% | ~1,863 |
-| Hidden Sonata | 1.00% | ~931 |
-| Track Star | 1.00% | ~931 |
-| True Player | 1.00% | ~931 |
+| Hidden Sonata | 1.00% | ~932 |
+| Track Star | 1.00% | ~932 |
+| True Player | 1.00% | ~932 |
 | Headhunter | 0.90% | ~838 |
 | I Like Trains | 0.80% | ~745 |
 | Freebooter | 0.80% | ~745 |
@@ -47,8 +47,8 @@ Rating: 3.96 (Ranked 1,056)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,148 (Ranked 101)  
-Completed: 58 (0.06%) (Ranked 329)  
+Progressed: 93,151 (Ranked 101)  
+Completed: 58 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -309,7 +309,7 @@ Completed: 58 (0.06%) (Ranked 329)
 | 2024-01-04 | 93,006 | 58 |
 | 2024-01-05 | 93,065 | 58 |
 | 2024-01-06 | 93,141 | 58 |
-| 2024-01-07 | 93,148 | 58 |
+| 2024-01-07 | 93,151 | 58 |
 ## Awards
 Max (Diverse Characters): 591  (Ranked 210)  
 Sum: 2,796 (Ranked 192)  

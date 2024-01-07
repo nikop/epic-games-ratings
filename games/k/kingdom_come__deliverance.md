@@ -1,25 +1,25 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 203)  
+Rating: 4.71 (Ranked 202)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~261,226 |
-| Cavalier | 26.00% | ~212,246 |
-| Fatso | 23.00% | ~187,756 |
+| Blacksmith's Son | 32.00% | ~261,227 |
+| Cavalier | 26.00% | ~212,247 |
+| Fatso | 23.00% | ~187,757 |
 | Awakening | 21.00% | ~171,430 |
-| Ranger | 20.00% | ~163,266 |
-| Scrooge | 20.00% | ~163,266 |
+| Ranger | 20.00% | ~163,267 |
+| Scrooge | 20.00% | ~163,267 |
 | Anorectic | 16.00% | ~130,613 |
 | Firestarter | 16.00% | ~130,613 |
 | Bookworm | 15.00% | ~122,450 |
 | Insomniac | 13.00% | ~106,123 |
 | Buddy | 12.00% | ~97,960 |
 | Thief | 12.00% | ~97,960 |
-| Sinner | 11.00% | ~89,796 |
-| Traveller | 11.00% | ~89,796 |
+| Sinner | 11.00% | ~89,797 |
+| Traveller | 11.00% | ~89,797 |
 | Convict | 10.00% | ~81,633 |
 | Haggler | 9.00% | ~73,470 |
 | McLovin | 7.00% | ~57,143 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~816 |
 | Wingman | 0.10% | ~816 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 816,331 (Ranked 20)  
+Progressed: 816,334 (Ranked 20)  
 Completed: 53 (0.01%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,14 +351,14 @@ Completed: 53 (0.01%) (Ranked 371)
 | 2024-01-04 | 815,980 | 53 |
 | 2024-01-05 | 816,132 | 53 |
 | 2024-01-06 | 816,306 | 53 |
-| 2024-01-07 | 816,331 | 53 |
+| 2024-01-07 | 816,334 | 53 |
 ## Awards
-Max (Character Customization): 7,750  (Ranked 53)  
-Sum: 28,760 (Ranked 51)  
-Diff (max vs sum): 2  
+Max (Character Customization): 7,759  (Ranked 53)  
+Sum: 28,769 (Ranked 50)  
+Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,750 |
+| This game has Inclusive Character Customization | 7,759 |
 | This game has Great Boss Battles | 5,653 |
 | This game has Challenging Combat | 1,807 |
 | This game has Diverse Characters | 1,768 |
@@ -718,3 +718,4 @@ Diff (max vs sum): 2
 | 2024-01-04 | 4.71 | - | 7,743 | 28,738 |
 | 2024-01-05 | 4.71 | - | 7,750 | 28,756 |
 | 2024-01-06 | 4.71 | - | 7,750 | 28,760 |
+| 2024-01-07 | 4.71 | - | 7,759 | 28,769 |

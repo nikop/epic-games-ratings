@@ -6236,10 +6236,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 8581,
       "NumberOfAwardsMax": 3518
+    },
+    {
+      "Time": "2024-01-07T04:03:04.7500629+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 8582,
+      "NumberOfAwardsMax": 3518
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8581,
+  "NumberOfAwards": 8582,
   "NumberOfAwardsMax": 3518,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6307,7 +6313,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 258
+      "Count": 259
     },
     {
       "Text": "This game has a Creative Community",
@@ -6334,9 +6340,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 723092,
+  "EOS_Progressed": 723093,
   "EOS_Completed": 6596,
-  "EOS_NewPlayers": 1300,
+  "EOS_NewPlayers": 1299,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -35019,6 +35025,11 @@
       "Time": "2024-01-07T03:10:51.5865433+00:00",
       "NumProgressed": 723092,
       "NumCompleted": 6596
+    },
+    {
+      "Time": "2024-01-07T04:12:50.5697331+00:00",
+      "NumProgressed": 723093,
+      "NumCompleted": 6596
     }
   ],
   "TotalAchievements": 49,
@@ -35126,7 +35137,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 151849
+      "UsersEstimate": 151850
     },
     {
       "ID": "AchClearTartarus",
@@ -35134,7 +35145,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 636321
+      "UsersEstimate": 636322
     },
     {
       "ID": "AchCrushedThanatos",
@@ -35142,7 +35153,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 325391
+      "UsersEstimate": 325392
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -35182,7 +35193,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 137387
+      "UsersEstimate": 137388
     },
     {
       "ID": "AchFoundSummon",
@@ -35246,7 +35257,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 253082
+      "UsersEstimate": 253083
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -35254,7 +35265,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 448317
+      "UsersEstimate": 448318
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -35310,7 +35321,7 @@
       "Name": "Harsh Conditions",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 50616
+      "UsersEstimate": 50617
     },
     {
       "ID": "AchPickedManyBoons",
@@ -35350,7 +35361,7 @@
       "Name": "One for the Ages",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 50616
+      "UsersEstimate": 50617
     },
     {
       "ID": "AchSilverSkellyTrophy",
@@ -35390,7 +35401,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 506164
+      "UsersEstimate": 506165
     },
     {
       "ID": "AchWeaponClears",
@@ -35421,15 +35432,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 723092,
+      "Progressed": 723093,
       "Completed": 6596
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2024-01-07T01:54:51.1876402+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:10:51.586543+00:00",
-  "LastUpdate_AppInfo": "2023-12-31T02:58:04.5764624+00:00",
-  "LastUpdate_Ratings": "2024-01-07T03:00:47.8564861+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:10:51.5866767+00:00"
+  "LastChanged": "2024-01-07T04:03:04.7500627+00:00",
+  "LastChanged_Achievements": "2024-01-07T04:12:50.5697326+00:00",
+  "LastUpdate_AppInfo": "2024-01-07T03:58:26.1750669+00:00",
+  "LastUpdate_Ratings": "2024-01-07T04:03:04.7500634+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:12:50.5699896+00:00"
 }

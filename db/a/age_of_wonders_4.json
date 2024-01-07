@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -735,9 +735,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6993,
+  "EOS_Progressed": 6996,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10620,6 +10620,11 @@
       "Time": "2024-01-07T03:05:24.7250179+00:00",
       "NumProgressed": 6993,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T04:07:16.0384874+00:00",
+      "NumProgressed": 6996,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10767,7 +10772,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "26",
@@ -10775,7 +10780,7 @@
       "Name": "Bone Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "27",
@@ -10791,7 +10796,7 @@
       "Name": "From Friends to Family",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "29",
@@ -10823,7 +10828,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "32",
@@ -10997,9 +11002,9 @@
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "48",
@@ -11110,13 +11115,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6993,
+      "Progressed": 6996,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6993,
+      "Progressed": 6996,
       "Completed": 7
     }
   ],
@@ -11124,8 +11129,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:05:24.7250176+00:00",
+  "LastChanged_Achievements": "2024-01-07T04:07:16.0384871+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-07T03:03:32.6993552+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:05:24.7251154+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:04:51.8577429+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:07:16.0385761+00:00"
 }

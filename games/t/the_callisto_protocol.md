@@ -5,27 +5,27 @@ Rating: 4.21 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 24.00% | ~5,140 |
-| The Outer Way | 24.00% | ~5,140 |
-| Desperate Times | 23.00% | ~4,926 |
-| Paper Jams | 21.00% | ~4,498 |
-| Get a Grip | 20.00% | ~4,283 |
-| Chew 'Em Up | 19.00% | ~4,069 |
-| Reforged | 17.00% | ~3,641 |
-| Float Like A Butterfly | 16.00% | ~3,427 |
+| Flesh Wound | 24.00% | ~5,142 |
+| The Outer Way | 24.00% | ~5,142 |
+| Desperate Times | 23.00% | ~4,927 |
+| Paper Jams | 21.00% | ~4,499 |
+| Get a Grip | 20.00% | ~4,285 |
+| Chew 'Em Up | 19.00% | ~4,070 |
+| Reforged | 17.00% | ~3,642 |
+| Float Like A Butterfly | 16.00% | ~3,428 |
 | Workplace Hazard | 15.00% | ~3,213 |
 | If the SHU Fits... | 15.00% | ~3,213 |
-| Without A Paddle | 13.00% | ~2,784 |
-| In the Pipe, Five by Five | 11.00% | ~2,356 |
-| Crash Site | 11.00% | ~2,356 |
+| Without A Paddle | 13.00% | ~2,785 |
+| In the Pipe, Five by Five | 11.00% | ~2,357 |
+| Crash Site | 11.00% | ~2,357 |
 | Two Heads Are Better Than One | 10.00% | ~2,142 |
 | Terminated | 10.00% | ~2,142 |
 | Power Up | 10.00% | ~2,142 |
 | Giving Back | 9.00% | ~1,928 |
 | What Lies Beneath | 9.00% | ~1,928 |
 | Full Circle | 9.00% | ~1,928 |
-| You Need a Gun | 8.00% | ~1,713 |
-| I Do Belong Here | 7.00% | ~1,499 |
+| You Need a Gun | 8.00% | ~1,714 |
+| I Do Belong Here | 7.00% | ~1,500 |
 | Keep Fighting | 7.00% | ~654 |
 | The Commonality | 5.00% | ~1,071 |
 | It's Time | 5.00% | ~467 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 950)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,417 (Ranked 151)  
+Progressed: 21,423 (Ranked 151)  
 Completed: 82 (0.38%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 82 (0.38%) (Ranked 239)
 | 2024-01-04 | 20,995 | 82 |
 | 2024-01-05 | 21,186 | 82 |
 | 2024-01-06 | 21,389 | 82 |
-| 2024-01-07 | 21,417 | 82 |
+| 2024-01-07 | 21,423 | 82 |
 ## Awards
 Max (Amazing Characters): 124  (Ranked 355)  
 Sum: 600 (Ranked 324)  

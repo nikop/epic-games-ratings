@@ -8,10 +8,10 @@ Rating: 4.62 (Ranked 378)
 | Secret Technique | 15.00% | ~1,049 |
 | Realm Estate | 14.00% | ~979 |
 | A Wonderful Discovery | 13.00% | ~909 |
-| Walls Cannot Stop Us | 12.00% | ~839 |
-| From Friends to Family | 11.00% | ~769 |
-| Bone Peddler | 9.00% | ~629 |
-| Magical Synergy | 8.00% | ~559 |
+| Walls Cannot Stop Us | 12.00% | ~840 |
+| From Friends to Family | 11.00% | ~770 |
+| Bone Peddler | 9.00% | ~630 |
+| Magical Synergy | 8.00% | ~560 |
 | There Can Only Be One! | 7.00% | ~490 |
 | Full Ascension | 7.00% | ~490 |
 | Stronger Together | 7.00% | ~490 |
@@ -54,7 +54,7 @@ Rating: 4.62 (Ranked 378)
 | A Conqueror's Cohort | 1.00% | ~70 |
 | Dawn of the Dread | 1.00% | ~70 |
 | Betrayal Most Foul | 0.90% | ~63 |
-| Duality | 0.80% | ~56 |
+| Duality | 0.90% | ~63 |
 | Snap Out of It! | 0.60% | ~42 |
 | The Magic That Empowers Me! | 0.50% | ~35 |
 | Jack of All Tomes | 0.40% | ~28 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,993 (Ranked 196)  
+Progressed: 6,996 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
-| 2024-01-07 | 6,993 | 7 |
+| 2024-01-07 | 6,996 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 212 (Ranked 410)  

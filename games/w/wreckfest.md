@@ -11,7 +11,7 @@ Rating: 4.26 (Ranked 910)
 | Dirty Roller | 32.00% | ~280 |
 | Wheeler Dealer | 25.00% | ~219 |
 | Look Mom, I Can Fly | 23.00% | ~201 |
-| National Amateurs Champion | 17.00% | ~149 |
+| National Amateurs Champion | 18.00% | ~158 |
 | Hating Them Tin Cans | 15.00% | ~131 |
 | Junk Collector | 14.00% | ~123 |
 | Trashing Around | 14.00% | ~123 |

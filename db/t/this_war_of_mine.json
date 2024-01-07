@@ -2,13 +2,13 @@
   "ID": "91189432bbad4478afd611edff7f0339",
   "Name": "This War of Mine",
   "ProductSlug": "this-war-of-mine",
-  "Ranking_Rating": 164,
+  "Ranking_Rating": 165,
   "Ranking_Popularity": 392,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2014-11-14T15:00:00+00:00",
     "PcReleaseDate": "2014-11-14T15:00:00+00:00",
@@ -1865,8 +1865,8 @@
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
   "LastChanged": "2024-01-05T20:57:28.1966224+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:09:05.9997507+00:00",
+  "LastChanged_Achievements": "2024-01-07T04:10:39.2023061+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:15.6824472+00:00",
-  "LastUpdate_Ratings": "2024-01-07T02:58:44.6145748+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:09:05.9997548+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:00:26.8061543+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:10:39.2023096+00:00"
 }

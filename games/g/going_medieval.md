@@ -8,15 +8,15 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Get A Room | 76.00% | ~5,933 |
 | Having A Field Day | 76.00% | ~5,933 |
-| Reap What You Sow | 73.00% | ~5,698 |
-| The First Day | 70.00% | ~5,464 |
-| Novice Researcher | 68.00% | ~5,308 |
-| Green Thumb | 67.00% | ~5,230 |
+| Reap What You Sow | 73.00% | ~5,699 |
+| The First Day | 70.00% | ~5,465 |
+| Novice Researcher | 68.00% | ~5,309 |
+| Green Thumb | 67.00% | ~5,231 |
 | Home Cooked Meal | 62.00% | ~4,840 |
-| Onward | 58.00% | ~4,527 |
-| The First Week | 56.00% | ~4,371 |
-| Studious Researcher | 53.00% | ~4,137 |
-| Beam Me Up | 52.00% | ~4,059 |
+| Onward | 58.00% | ~4,528 |
+| The First Week | 56.00% | ~4,372 |
+| Studious Researcher | 53.00% | ~4,138 |
+| Beam Me Up | 52.00% | ~4,060 |
 | Adept Researcher | 45.00% | ~3,513 |
 | Putting Food on the Table | 44.00% | ~3,435 |
 | Retribution | 43.00% | ~3,357 |
@@ -27,18 +27,18 @@ Number of Ratings: 706  (23.09.2022)
 | Winter Is Coming | 29.00% | ~2,264 |
 | Fit For A King | 26.00% | ~2,030 |
 | Winter Is Here | 26.00% | ~2,030 |
-| Oh Deer! | 23.00% | ~1,795 |
-| Disassembled | 22.00% | ~1,717 |
-| A Party Now | 22.00% | ~1,717 |
-| All Year Round | 22.00% | ~1,717 |
+| Oh Deer! | 23.00% | ~1,796 |
+| Disassembled | 22.00% | ~1,718 |
+| A Party Now | 22.00% | ~1,718 |
+| All Year Round | 22.00% | ~1,718 |
 | Don't Cry Wolf | 14.00% | ~1,093 |
 | Nothing Wasted | 13.00% | ~1,015 |
-| Deerly Departed | 8.00% | ~624 |
+| Deerly Departed | 8.00% | ~625 |
 | Where Wolf? | 5.00% | ~390 |
 | Food Chain | 2.00% | ~156 |
 | Wabbit Season | 0.50% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,806 (Ranked 190)  
+Progressed: 7,807 (Ranked 190)  
 Completed: 14 (0.18%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 14 (0.18%) (Ranked 279)
 | 2024-01-04 | 7,751 | 14 |
 | 2024-01-05 | 7,776 | 14 |
 | 2024-01-06 | 7,803 | 14 |
-| 2024-01-07 | 7,806 | 14 |
+| 2024-01-07 | 7,807 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 341)  
 Sum: 1,058 (Ranked 270)  

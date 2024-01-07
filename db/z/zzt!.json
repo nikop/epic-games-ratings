@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3564,
+  "EOS_Progressed": 3565,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.71,
   "EosHistory": [
@@ -6414,6 +6414,11 @@
       "Time": "2024-01-06T08:08:43.0295373+00:00",
       "NumProgressed": 3564,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2024-01-07T04:11:15.2084418+00:00",
+      "NumProgressed": 3565,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 5,
@@ -6425,7 +6430,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "2",
@@ -6433,7 +6438,7 @@
       "Name": "Traveler",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "3",
@@ -6464,7 +6469,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3564,
+      "Progressed": 3565,
       "Completed": 168
     }
   ],
@@ -6472,8 +6477,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:09:34.8686097+00:00",
+  "LastChanged_Achievements": "2024-01-07T04:11:15.2084414+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:13.5109674+00:00",
-  "LastUpdate_Ratings": "2024-01-07T03:00:00.3509482+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:09:34.8686534+00:00"
+  "LastUpdate_Ratings": "2024-01-07T04:02:03.6846561+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:11:15.2084862+00:00"
 }

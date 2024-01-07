@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19276,
+  "EOS_Progressed": 19278,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14505,6 +14505,11 @@
       "Time": "2024-01-07T01:58:20.485993+00:00",
       "NumProgressed": 19276,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T04:05:52.1333111+00:00",
+      "NumProgressed": 19278,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14556,7 +14561,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "0007",
@@ -14580,7 +14585,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "0010",
@@ -14724,7 +14729,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "0028",
@@ -14732,7 +14737,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "0029",
@@ -14756,7 +14761,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "0032",
@@ -14764,7 +14769,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "0033",
@@ -14772,7 +14777,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "0034",
@@ -14788,7 +14793,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "0036",
@@ -14803,7 +14808,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19276,
+      "Progressed": 19278,
       "Completed": 4
     }
   ],
@@ -14811,8 +14816,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-07T03:04:18.3842546+00:00",
-  "LastUpdate_AppInfo": "2023-12-31T02:57:48.2583913+00:00",
-  "LastUpdate_Ratings": "2024-01-07T02:59:46.8486158+00:00",
-  "LastUpdate_Achievements": "2024-01-07T03:04:18.3843253+00:00"
+  "LastChanged_Achievements": "2024-01-07T04:05:52.1333107+00:00",
+  "LastUpdate_AppInfo": "2024-01-07T03:57:47.8848382+00:00",
+  "LastUpdate_Ratings": "2024-01-07T04:01:47.2198741+00:00",
+  "LastUpdate_Achievements": "2024-01-07T04:05:52.1334687+00:00"
 }
