@@ -41,7 +41,7 @@
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,773 | 4.61 | 400 |
 | 40 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 10,325 | 4.58 | 471 |
 | 41 | [Dead Island 2](games/d/dead_island_2.md) | 9,852 | 4.54 | 549 |
-| 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 9,407 | 4.77 | 117 |
+| 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 9,433 | 4.77 | 117 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 9,272 | 4.89 | 10 |
 | 44 | [Control](games/c/control.md) | 9,069 | 4.61 | 400 |
 | 45 | [DEATH STRANDING](games/d/death_stranding.md) | 8,922 | 4.78 | 111 |
@@ -60,9 +60,9 @@
 | 58 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 737 |
 | 59 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,677 | 4.58 | 471 |
 | 60 | [Cities: Skylines](games/c/cities__skylines.md) | 6,662 | 4.66 | 300 |
-| 61 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,494 | 4.80 | 93 |
-| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,358 | 4.82 | 68 |
-| 63 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 6,285 | 4.50 | 613 |
+| 61 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 6,508 | 4.50 | 613 |
+| 62 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,494 | 4.80 | 93 |
+| 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,358 | 4.82 | 68 |
 | 64 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,215 | 4.78 | 111 |
 | 65 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 6,159 | 3.98 | 1,050 |
 | 66 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,070 | 4.66 | 300 |
@@ -301,9 +301,9 @@
 | 299 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 201 | 4.58 | 471 |
 | 300 | [Star Stable Online](games/s/star_stable_online.md) | 200 | 4.41 | 751 |
 | 301 | [Crashlands](games/c/crashlands.md) | 198 | 4.66 | 300 |
-| 302 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 190 | 4.23 | 939 |
-| 302 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 190 | 4.63 | 356 |
-| 302 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 190 | 4.42 | 737 |
+| 302 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 191 | 4.23 | 939 |
+| 303 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 190 | 4.63 | 356 |
+| 303 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 190 | 4.42 | 737 |
 | 305 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 188 | 4.62 | 377 |
 | 305 | [The Witness](games/t/the_witness.md) | 188 | 4.70 | 217 |
 | 307 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 186 | 4.84 | 48 |
@@ -364,13 +364,13 @@
 | 362 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 113 | 4.50 | 613 |
 | 362 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 113 | 4.44 | 706 |
 | 364 | [Phantom Brigade](games/p/phantom_brigade.md) | 110 | 4.60 | 430 |
-| 365 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 109 | 4.80 | 93 |
-| 365 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 109 | 4.75 | 149 |
-| 367 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 108 | 4.34 | 837 |
-| 368 | [Just Die Already](games/j/just_die_already.md) | 107 | 4.52 | 576 |
-| 369 | [Tropico 6](games/t/tropico_6.md) | 106 | 4.66 | 300 |
-| 370 | [Verdun](games/v/verdun.md) | 105 | 4.53 | 564 |
-| 371 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 104 | 4.68 | 259 |
+| 364 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 110 | 4.68 | 259 |
+| 366 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 109 | 4.80 | 93 |
+| 366 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 109 | 4.75 | 149 |
+| 368 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 108 | 4.34 | 837 |
+| 369 | [Just Die Already](games/j/just_die_already.md) | 107 | 4.52 | 576 |
+| 370 | [Tropico 6](games/t/tropico_6.md) | 106 | 4.66 | 300 |
+| 371 | [Verdun](games/v/verdun.md) | 105 | 4.53 | 564 |
 | 372 | [Armored Warfare](games/a/armored_warfare.md) | 103 | 4.08 | 1,018 |
 | 372 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 1,065 |
 | 372 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 103 | 3.83 | 1,077 |
@@ -400,7 +400,7 @@
 | 398 | [Carcassonne](games/c/carcassonne.md) | 86 | 4.66 | 300 |
 | 399 | [Aimlabs](games/a/aimlabs.md) | 85 | 4.62 | 377 |
 | 400 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 84 | 4.60 | 430 |
-| 401 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 81 | 4.14 | 1,005 |
+| 401 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 82 | 4.14 | 1,005 |
 | 402 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 80 | 4.61 | 400 |
 | 403 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 78 | 4.19 | 969 |
 | 403 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 78 | 4.21 | 950 |
