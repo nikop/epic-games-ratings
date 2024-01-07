@@ -40,7 +40,7 @@
 | Fight is life | 40.00% | ~221 |
 | Guiding on the right path | 40.00% | ~221 |
 | Mysterious voice | 39.00% | ~216 |
-| No blades in the gym | 37.00% | ~205 |
+| No blades in the gym | 38.00% | ~210 |
 | Champion – no way back | 36.00% | ~199 |
 | Responsible approach | 36.00% | ~199 |
 | Underground dwellers | 35.00% | ~194 |
@@ -55,10 +55,10 @@
 | Undercover robot | 30.00% | ~166 |
 | Problems of cyborgs | 29.00% | ~160 |
 | Absolute Champion! | 29.00% | ~160 |
+| Another world | 28.00% | ~155 |
+| The lonesome road | 28.00% | ~155 |
 | Not little hacker | 28.00% | ~155 |
 | Trap disarmed | 27.00% | ~149 |
-| Another world | 27.00% | ~149 |
-| The lonesome road | 27.00% | ~149 |
 | Keep nature safe | 27.00% | ~149 |
 | Family comes first | 27.00% | ~149 |
 | Key memories | 27.00% | ~149 |

@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 449,
+  "Ranking_Rating": 448,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19280,
+  "EOS_Progressed": 19281,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14520,6 +14520,11 @@
       "Time": "2024-01-07T09:03:25.0179336+00:00",
       "NumProgressed": 19280,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T13:07:37.1650638+00:00",
+      "NumProgressed": 19281,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14587,7 +14592,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3471
     },
     {
       "ID": "0009",
@@ -14595,7 +14600,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4434
+      "UsersEstimate": 4435
     },
     {
       "ID": "0010",
@@ -14659,7 +14664,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3471
     },
     {
       "ID": "0018",
@@ -14723,7 +14728,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3471
     },
     {
       "ID": "0026",
@@ -14747,7 +14752,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4434
+      "UsersEstimate": 4435
     },
     {
       "ID": "0029",
@@ -14755,7 +14760,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "0030",
@@ -14763,7 +14768,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3471
     },
     {
       "ID": "0031",
@@ -14818,7 +14823,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19280,
+      "Progressed": 19281,
       "Completed": 4
     }
   ],
@@ -14826,8 +14831,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:03:29.8395758+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:07:37.1650633+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:47.8848382+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:58:50.149699+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:03:29.8396884+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:03:23.9855349+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:07:37.1651656+00:00"
 }

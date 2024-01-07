@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~896 |
+| Malpractice Assurance | 13.00% | ~897 |
 | Lost and Found | 8.00% | ~552 |
 | Autodidact | 7.00% | ~9,242 |
 | This Belongs in a Museum | 6.00% | ~7,922 |
@@ -14,14 +14,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 6.00% | ~7,922 |
 | This guy... again? | 6.00% | ~414 |
 | Ploughshares to Swords | 6.00% | ~414 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,601 |
-| Serenity Now! | 5.00% | ~6,601 |
-| Meat and Greet | 5.00% | ~6,601 |
-| Catch and Decease | 5.00% | ~6,601 |
-| Escape from the Black Hole | 5.00% | ~6,601 |
-| Rush Hour | 5.00% | ~6,601 |
-| To Grandmother's House | 5.00% | ~6,601 |
-| FNG | 5.00% | ~6,601 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,602 |
+| Serenity Now! | 5.00% | ~6,602 |
+| Meat and Greet | 5.00% | ~6,602 |
+| Catch and Decease | 5.00% | ~6,602 |
+| Escape from the Black Hole | 5.00% | ~6,602 |
+| Rush Hour | 5.00% | ~6,602 |
+| To Grandmother's House | 5.00% | ~6,602 |
+| FNG | 5.00% | ~6,602 |
 | Bloody Graduation | 5.00% | ~345 |
 | It Rings a Bell | 4.00% | ~5,281 |
 | Not Today! | 4.00% | ~5,281 |
@@ -51,14 +51,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~3,961 |
 | Unshackled | 3.00% | ~3,961 |
 | Road Trip | 3.00% | ~3,961 |
-| This Looks Familiar | 2.00% | ~2,640 |
-| Hope Rekindled | 2.00% | ~2,640 |
-| Ichthyophobic | 2.00% | ~2,640 |
-| No More Mouths to Feed | 2.00% | ~2,640 |
-| When You Want Something Done Right | 2.00% | ~2,640 |
-| Worldly Traveller | 2.00% | ~2,640 |
-| Hot Air | 2.00% | ~2,640 |
-| Eyes Up | 2.00% | ~2,640 |
+| This Looks Familiar | 2.00% | ~2,641 |
+| Hope Rekindled | 2.00% | ~2,641 |
+| Ichthyophobic | 2.00% | ~2,641 |
+| No More Mouths to Feed | 2.00% | ~2,641 |
+| When You Want Something Done Right | 2.00% | ~2,641 |
+| Worldly Traveller | 2.00% | ~2,641 |
+| Hot Air | 2.00% | ~2,641 |
+| Eyes Up | 2.00% | ~2,641 |
 | Clearing the Ledger | 1.00% | ~1,320 |
 | Shrine of Reflection | 1.00% | ~1,320 |
 | Handled | 1.00% | ~1,320 |
@@ -73,7 +73,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Life Well Lived | 0.50% | ~660 |
 | Bacon Bits | 0.50% | ~660 |
 | Eidetic | 0.50% | ~660 |
-| On This Long Road, We Found Redemption | 0.50% | ~34 |
+| On This Long Road, We Found Redemption | 0.50% | ~35 |
 | Battle Hardened | 0.40% | ~28 |
 | Tears in the Rain | 0.30% | ~396 |
 | Maître De La Lame | 0.30% | ~21 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,025 (Ranked 91)  
+Progressed: 132,033 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 132,025 | 3 |
+| 2024-01-07 | 132,033 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
 Sum: 21,500 (Ranked 58)  

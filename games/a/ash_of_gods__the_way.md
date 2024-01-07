@@ -25,9 +25,9 @@
 | For the greater good | 10.00% | ~7 |
 | Overplay the rogue | 9.00% | ~6 |
 | The champion of the arena | 9.00% | ~6 |
+| Punish the Punisher | 9.00% | ~6 |
 | Collector | 7.00% | ~5 |
 | Stronger than Gellian steel | 7.00% | ~5 |
-| Punish the Punisher | 7.00% | ~5 |
 | Protect the Healer! | 7.00% | ~5 |
 | The End | 7.00% | ~5 |
 | First among Frisians | 6.00% | ~4 |

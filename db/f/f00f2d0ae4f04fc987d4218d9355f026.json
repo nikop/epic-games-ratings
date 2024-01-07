@@ -4,7 +4,7 @@
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 53,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -542,9 +542,9 @@
       "ID": "WalkInThePark",
       "SetID": "aaidab7",
       "Name": "Walk In The Park",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
@@ -557,8 +557,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:03:24.2563643+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:07:29.3805122+00:00",
   "LastUpdate_AppInfo": "2024-01-02T06:57:01.1508619+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:00.5344749+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:03:24.2563832+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:00:31.5370656+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:07:29.3805333+00:00"
 }

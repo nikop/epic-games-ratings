@@ -2,12 +2,12 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4051,
+  "EOS_Progressed": 4052,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8110,6 +8110,11 @@
       "Time": "2024-01-07T11:05:16.2905356+00:00",
       "NumProgressed": 4051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T13:08:39.2840983+00:00",
+      "NumProgressed": 4052,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8121,7 +8126,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "ACH_BASE_10",
@@ -8576,13 +8581,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2235,
+      "Progressed": 2236,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4051,
+      "Progressed": 4052,
       "Completed": 0
     }
   ],
@@ -8590,8 +8595,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-04T06:58:36.3655707+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:04:13.0083364+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:08:39.2840979+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:59:33.87091+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:04:13.0084237+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:04:32.6417262+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:08:39.28417+00:00"
 }

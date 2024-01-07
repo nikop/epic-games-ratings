@@ -28,11 +28,11 @@ Rating: 4.57 (Ranked 496)
 | Return Power To The Depths | 1.00% | ~23 |
 | Defeat Croakhis Khan | 1.00% | ~10 |
 | Defeat the Grub Buster | 1.00% | ~10 |
-| Defeat the Stalker Queen | 1.00% | ~10 |
 | Shield Maiden Yellow Tongue | 1.00% | ~10 |
 | I Remember My First Beer | 1.00% | ~10 |
 | Return the Statues | 0.90% | ~21 |
 | Defeat Rattus Augustail | 0.90% | ~21 |
+| Defeat the Stalker Queen | 0.90% | ~9 |
 | Complete the Chefs Book | 0.70% | ~16 |
 | Defeat Avor Warden of the Northern Wastes | 0.70% | ~16 |
 | Complete Arena Faction | 0.60% | ~14 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 496)
 | King of Kings | 0.40% | ~9 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,315 (Ranked 240)  
+Progressed: 2,316 (Ranked 240)  
 Completed: 12 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 12 (0.52%) (Ranked 216)
 | 2024-01-04 | 2,308 | 12 |
 | 2024-01-05 | 2,312 | 12 |
 | 2024-01-06 | 2,313 | 12 |
-| 2024-01-07 | 2,315 | 12 |
+| 2024-01-07 | 2,316 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -45,7 +45,7 @@
 | You're not so Big anymore, Boi! | 26.00% | ~40 |
 | A Megapint...? | 26.00% | ~40 |
 | Your daily dose of Vitamin C. | 26.00% | ~40 |
-| I cant stand still! | 23.00% | ~35 |
+| I cant stand still! | 24.00% | ~36 |
 | Slimy... yet satisfying | 23.00% | ~35 |
 | Master Butcher | 19.00% | ~29 |
 | Just wing it! | 18.00% | ~27 |

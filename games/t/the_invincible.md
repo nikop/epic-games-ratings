@@ -1,27 +1,27 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.61 (Ranked 400)  
+Rating: 4.58 (Ranked 471)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 69.00% | ~1,022 |
-| The Teleprobe | 55.00% | ~815 |
-| The City | 49.00% | ~726 |
-| The field base | 44.00% | ~652 |
-| The Alliance | 41.00% | ~607 |
+| The Camp | 70.00% | ~1,038 |
+| The Teleprobe | 55.00% | ~816 |
+| The City | 49.00% | ~727 |
+| The field base | 44.00% | ~653 |
+| The Alliance | 41.00% | ~608 |
 | Survivors | 39.00% | ~578 |
-| The Condor | 37.00% | ~548 |
-| The End | 36.00% | ~533 |
+| The Condor | 37.00% | ~549 |
+| The End | 36.00% | ~534 |
 | Krauta is alive | 28.00% | ~415 |
 | The Necroevolution | 28.00% | ~415 |
 | On her own | 22.00% | ~326 |
 | Peacemaker | 22.00% | ~326 |
 | Volcanologist | 22.00% | ~326 |
-| Fierce fight | 20.00% | ~296 |
-| Evacuation | 20.00% | ~296 |
+| Fierce fight | 20.00% | ~297 |
+| Evacuation | 20.00% | ~297 |
+| Flying Objects Operator | 17.00% | ~252 |
 | Beyond divisions | 17.00% | ~252 |
-| Flying Objects Operator | 16.00% | ~237 |
 | I remember everything! | 13.00% | ~193 |
 | Another giant | 13.00% | ~193 |
 | Violent solution | 9.00% | ~133 |
@@ -35,7 +35,7 @@ Rating: 4.61 (Ranked 400)
 | Convoy list | 0.90% | ~13 |
 | No more mistakes | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,481 (Ranked 267)  
+Progressed: 1,483 (Ranked 267)  
 Completed: 1 (0.07%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.07%) (Ranked 326)
 | 2024-01-04 | 1,381 | 1 |
 | 2024-01-05 | 1,415 | 1 |
 | 2024-01-06 | 1,462 | 1 |
-| 2024-01-07 | 1,481 | 1 |
+| 2024-01-07 | 1,483 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -111,3 +111,4 @@ Completed: 1 (0.07%) (Ranked 326)
 | 2024-01-03 | 4.57 | 0 | 0 |
 | 2024-01-05 | 4.59 | 0 | 0 |
 | 2024-01-06 | 4.61 | 0 | 0 |
+| 2024-01-07 | 4.58 | 0 | 0 |

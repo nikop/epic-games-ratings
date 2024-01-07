@@ -2,7 +2,7 @@
   "ID": "6bff1c13a8884b518bd44acaf691ddba",
   "Name": "MudRunner",
   "ProductSlug": "mudrunner",
-  "Ranking_Rating": 430,
+  "Ranking_Rating": 429,
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 822,
@@ -3551,10 +3551,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1968,
       "NumberOfAwardsMax": 300
+    },
+    {
+      "Time": "2024-01-07T13:02:27.0144653+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1969,
+      "NumberOfAwardsMax": 300
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1968,
+  "NumberOfAwards": 1969,
   "NumberOfAwardsMax": 300,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3604,7 +3610,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 231
+      "Count": 232
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -3636,8 +3642,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2024-01-07T08:58:20.6660388+00:00",
+  "LastChanged": "2024-01-07T13:02:27.0144652+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:22.0473657+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:58:14.1701815+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:05:12.9439215+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:02:27.0144657+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:10:07.4190985+00:00"
 }

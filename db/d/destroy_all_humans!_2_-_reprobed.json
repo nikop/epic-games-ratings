@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,9 +294,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 350,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1639,6 +1639,11 @@
       "Time": "2024-01-07T09:09:03.8231225+00:00",
       "NumProgressed": 348,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T13:13:06.5636851+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1651,7 +1656,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1667,7 +1672,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1691,7 +1696,7 @@
       "Name": "Arty Facts",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_COLLECT_DIEGETIC_ART",
@@ -1715,7 +1720,7 @@
       "Name": "Against All Odds",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_COMPLETE_ARK01",
@@ -1739,7 +1744,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_DESTROY_HIVES",
@@ -1761,9 +1766,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1777,9 +1782,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1787,7 +1792,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1817,9 +1822,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1841,9 +1846,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1883,7 +1888,7 @@
       "Name": "Yettisoned",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1891,15 +1896,15 @@
       "Name": "The Optional Mandate",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1923,7 +1928,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_SKATE_ALBION",
@@ -1939,7 +1944,7 @@
       "Name": "Dusted",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1947,7 +1952,7 @@
       "Name": "If You Know What I Mean",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SKATE_SOLARIS",
@@ -1985,24 +1990,24 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 350,
       "Completed": 2
     }
   ],
@@ -2010,8 +2015,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:09:07.3432513+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:13:06.5636847+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:59:49.9135403+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:09:07.3433261+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:04:56.9831613+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:13:06.5637188+00:00"
 }

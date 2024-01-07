@@ -9,7 +9,7 @@
 | Practice Makes Postmasters | 37.00% | ~57 |
 | Working for the Kiweekend | 35.00% | ~54 |
 | Fun in the Bungalow Basin Sun | 33.00% | ~50 |
-| A Startling Discovery | 28.00% | ~43 |
+| A Startling Discovery | 29.00% | ~44 |
 | Pumpkins and Postage Stamps | 18.00% | ~28 |
 | Kiwinter Kiwonderland | 7.00% | ~11 |
 | Secrets of the Telepost | 4.00% | ~6 |
@@ -25,7 +25,7 @@
 | Fully Stocked | 0.00% | ~0 |
 | Working Overtime | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 450)  
+Progressed: 153 (Ranked 451)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

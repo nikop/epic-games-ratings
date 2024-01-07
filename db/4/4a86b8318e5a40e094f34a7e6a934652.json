@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 509,
+  "EOS_Progressed": 510,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2124,6 +2124,11 @@
       "Time": "2024-01-07T08:08:05.2231842+00:00",
       "NumProgressed": 509,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T13:11:09.3978135+00:00",
+      "NumProgressed": 510,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2136,7 +2141,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2150,9 +2155,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 321
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2174,9 +2179,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 245
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2200,7 +2205,7 @@
       "Name": "Farmer",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "HOUSEWARMING",
@@ -2248,7 +2253,7 @@
       "Name": "Weed Warrior",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2288,21 +2293,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 509,
+      "Progressed": 510,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:05:55.8318752+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:11:09.3978131+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:54.420551+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:05:55.8319027+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:01:55.8054818+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:11:09.397841+00:00"
 }

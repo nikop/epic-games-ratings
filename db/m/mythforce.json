@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -856,7 +856,7 @@
   ],
   "EOS_Progressed": 6168,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12830,9 +12830,9 @@
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1357
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12966,8 +12966,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:04:45.3181327+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:09:26.8415858+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-07T12:02:36.0681261+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:04:45.3182529+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:06:13.3767285+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:09:26.8416382+00:00"
 }

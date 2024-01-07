@@ -1,22 +1,22 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 449)  
+Rating: 4.59 (Ranked 448)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 30.00% | ~5,784 |
-| Mainframe Hacker | 23.00% | ~4,434 |
-| The Spy who eliminated me | 23.00% | ~4,434 |
+| Mainframe Hacker | 23.00% | ~4,435 |
+| The Spy who eliminated me | 23.00% | ~4,435 |
 | Tomorrow Never Dyes | 22.00% | ~4,242 |
-| From the Vault with Love | 18.00% | ~3,470 |
-| Never Say Loser Again | 18.00% | ~3,470 |
-| Tailor-Made | 18.00% | ~3,470 |
-| For your Eyes only | 18.00% | ~3,470 |
+| From the Vault with Love | 18.00% | ~3,471 |
+| Never Say Loser Again | 18.00% | ~3,471 |
+| Tailor-Made | 18.00% | ~3,471 |
+| For your Eyes only | 18.00% | ~3,471 |
 | Assistant Accountant | 17.00% | ~3,278 |
 | You Only Live Twice | 16.00% | ~3,085 |
 | Fully Decked Out | 16.00% | ~3,085 |
-| A view to Win | 13.00% | ~2,506 |
+| A view to Win | 13.00% | ~2,507 |
 | The Living Portrait | 12.00% | ~2,314 |
 | Smells Like Trouble | 12.00% | ~2,314 |
 | My Motto, My Creed | 11.00% | ~2,121 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 449)
 | Extraction Confusion | 0.20% | ~39 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,280 (Ranked 156)  
+Progressed: 19,281 (Ranked 156)  
 Completed: 4 (0.02%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 4 (0.02%) (Ranked 360)
 | 2024-01-04 | 19,254 | 4 |
 | 2024-01-05 | 19,263 | 4 |
 | 2024-01-06 | 19,275 | 4 |
-| 2024-01-07 | 19,280 | 4 |
+| 2024-01-07 | 19,281 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

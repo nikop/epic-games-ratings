@@ -3,8 +3,8 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 469,
+  "Ranking_Popularity": 375,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 234,
@@ -287,18 +287,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 98,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2024-01-07T13:01:07.6328602+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 102,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 98,
-  "NumberOfAwardsMax": 98,
+  "NumberOfAwards": 102,
+  "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 98
+      "Count": 102
     }
   ],
   "EOS_Progressed": 1309,
@@ -3931,9 +3937,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 275
     },
     {
       "ID": "Mnemosyne",
@@ -4211,9 +4217,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-01-07T03:59:41.560638+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:05:25.6403579+00:00",
+  "LastChanged": "2024-01-07T13:01:07.63286+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:10:25.4676187+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:23.7197207+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:05:25.6404183+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:01:07.6328608+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:10:25.4676902+00:00"
 }

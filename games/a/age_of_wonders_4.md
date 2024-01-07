@@ -5,31 +5,32 @@ Rating: 4.62 (Ranked 377)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 16.00% | ~1,122 |
-| Realm Estate | 14.00% | ~982 |
-| A Wonderful Discovery | 13.00% | ~912 |
-| Walls Cannot Stop Us | 13.00% | ~912 |
-| From Friends to Family | 11.00% | ~771 |
-| Bone Peddler | 10.00% | ~701 |
-| Full Ascension | 8.00% | ~561 |
-| Magical Synergy | 8.00% | ~561 |
-| There Can Only Be One! | 7.00% | ~491 |
-| Stronger Together | 7.00% | ~491 |
-| Seat of Power | 7.00% | ~491 |
+| Secret Technique | 16.00% | ~1,124 |
+| Realm Estate | 14.00% | ~983 |
+| A Wonderful Discovery | 13.00% | ~913 |
+| Walls Cannot Stop Us | 13.00% | ~913 |
+| From Friends to Family | 11.00% | ~772 |
+| Bone Peddler | 10.00% | ~702 |
+| Full Ascension | 8.00% | ~562 |
+| Magical Synergy | 8.00% | ~562 |
+| There Can Only Be One! | 7.00% | ~492 |
+| Stronger Together | 7.00% | ~492 |
+| Seat of Power | 7.00% | ~492 |
 | Valley of Wonders | 6.00% | ~421 |
 | In a Liege of Your Own | 6.00% | ~421 |
 | Intimidation Tactics | 6.00% | ~421 |
 | My Final Form | 5.00% | ~351 |
 | But this one is mine | 5.00% | ~351 |
-| Return of the Wizard King | 4.00% | ~280 |
-| Enchanted Archipelago | 4.00% | ~280 |
-| Digging for Treasure | 4.00% | ~280 |
-| Against the Odds | 4.00% | ~280 |
-| Impenetrable Fortress | 4.00% | ~280 |
-| Preparation Is Everything | 3.00% | ~210 |
-| Fiery Friend | 3.00% | ~210 |
-| Tipping the Scales | 3.00% | ~210 |
-| Freed Lands of Manuhari | 3.00% | ~210 |
+| Return of the Wizard King | 4.00% | ~281 |
+| Enchanted Archipelago | 4.00% | ~281 |
+| Digging for Treasure | 4.00% | ~281 |
+| Against the Odds | 4.00% | ~281 |
+| Impenetrable Fortress | 4.00% | ~281 |
+| Preparation Is Everything | 3.00% | ~211 |
+| Fiery Friend | 3.00% | ~211 |
+| Tipping the Scales | 3.00% | ~211 |
+| Freed Lands of Manuhari | 3.00% | ~211 |
+| I've Got Everything I Need Right Here | 2.00% | ~140 |
 | God Emperor | 2.00% | ~140 |
 | Arch Mage | 2.00% | ~140 |
 | The Creator | 2.00% | ~140 |
@@ -42,7 +43,6 @@ Rating: 4.62 (Ranked 377)
 | Sehiran Oasis | 2.00% | ~140 |
 | Chaos Surge | 2.00% | ~140 |
 | Spoils of War | 2.00% | ~140 |
-| I've Got Everything I Need Right Here | 1.00% | ~70 |
 | Lord of Chaos | 1.00% | ~70 |
 | The Goddess of Nature | 1.00% | ~70 |
 | Manufactured War | 1.00% | ~70 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 377)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,012 (Ranked 196)  
+Progressed: 7,022 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
-| 2024-01-07 | 7,012 | 7 |
+| 2024-01-07 | 7,022 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 212 (Ranked 410)  

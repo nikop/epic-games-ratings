@@ -4,7 +4,7 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_NewPlayers": 503,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
@@ -501,9 +501,9 @@
       "ID": "secret11",
       "SetID": "39f6ck8",
       "Name": "Math Wizard",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "secret12",
@@ -549,9 +549,9 @@
       "ID": "secret17",
       "SetID": "39f6ck8",
       "Name": "Who\u0027s A Good Boy",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "secret18",
@@ -621,9 +621,9 @@
       "ID": "secret25",
       "SetID": "39f6ck8",
       "Name": "Power Overload",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "secret26",
@@ -781,9 +781,9 @@
       "ID": "secret43",
       "SetID": "39f6ck8",
       "Name": "Quite A Snack",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "secret44",
@@ -893,9 +893,9 @@
       "ID": "secret8",
       "SetID": "39f6ck8",
       "Name": "Destroy Erase Improve",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "secret9",
@@ -918,8 +918,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:06:03.96701+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:11:21.060034+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:03.2056363+00:00",
-  "LastUpdate_Ratings": "2024-01-07T12:03:12.4630134+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:06:03.967059+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:07:09.5099712+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:11:21.0600777+00:00"
 }

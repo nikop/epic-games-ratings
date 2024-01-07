@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 449,
+  "Ranking_Rating": 448,
   "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
@@ -1837,9 +1837,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 167032,
+  "EOS_Progressed": 167040,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 1341,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22177,6 +22177,11 @@
       "Time": "2024-01-07T12:08:15.4228465+00:00",
       "NumProgressed": 167032,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2024-01-07T13:11:50.7633273+00:00",
+      "NumProgressed": 167040,
+      "NumCompleted": 448
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22235,9 +22240,9 @@
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3341
+      "UsersEstimate": 5011
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -22556,21 +22561,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166615,
+      "Progressed": 166623,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167032,
+      "Progressed": 167040,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-06T15:57:18.5501396+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:08:15.422846+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:11:50.7633269+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:29.2534891+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:08:15.4229912+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:01:16.2208563+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:11:50.7634533+00:00"
 }

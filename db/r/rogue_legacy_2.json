@@ -1584,9 +1584,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27907,
+  "EOS_Progressed": 27911,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -13344,6 +13344,11 @@
       "Time": "2024-01-07T12:09:49.7576391+00:00",
       "NumProgressed": 27907,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-07T13:14:07.1585524+00:00",
+      "NumProgressed": 27911,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13419,7 +13424,7 @@
       "Name": "Captain and Crew",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -13435,7 +13440,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -13547,7 +13552,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "EndTimerFail",
@@ -13666,21 +13671,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27907,
+      "Progressed": 27911,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6837,
+      "Progressed": 6841,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-07T05:00:47.8747453+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:09:49.7576388+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:14:07.1585518+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:59:27.8861809+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:09:49.7577058+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:04:23.061045+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:14:07.158648+00:00"
 }

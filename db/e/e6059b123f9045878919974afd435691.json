@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1382,
+  "EOS_Progressed": 1383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3644,6 +3644,11 @@
       "Time": "2024-01-07T10:11:27.1867354+00:00",
       "NumProgressed": 1382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T13:14:22.3467065+00:00",
+      "NumProgressed": 1383,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3655,7 +3660,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3663,7 +3668,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3695,7 +3700,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3703,7 +3708,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -3775,7 +3780,7 @@
       "Name": "Burnt Smell",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -3783,7 +3788,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -3903,7 +3908,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -3927,7 +3932,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -3951,7 +3956,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4007,7 +4012,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -4087,7 +4092,7 @@
       "Name": "The Last of Us",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4182,14 +4187,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1382,
+      "Progressed": 1383,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:10:01.095995+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:14:22.3467062+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:56.3272682+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:10:01.0960748+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:01:58.7565633+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:14:22.346796+00:00"
 }

@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 889,
+  "EOS_Progressed": 891,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3850,6 +3850,11 @@
       "Time": "2024-01-07T12:03:22.3041914+00:00",
       "NumProgressed": 889,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T13:07:26.620476+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3909,7 +3914,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -3925,7 +3930,7 @@
       "Name": "Earth Shattering",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -3933,7 +3938,7 @@
       "Name": "La Der des Ders",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -3941,7 +3946,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -3956,7 +3961,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 889,
+      "Progressed": 891,
       "Completed": 0
     }
   ],
@@ -3964,8 +3969,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-31T09:58:52.6483653+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:03:22.3041912+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:07:26.6204757+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:07.6580361+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:03.4757904+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:03:22.3042241+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:00:36.1500989+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:07:26.6205131+00:00"
 }

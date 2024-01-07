@@ -3,8 +3,8 @@
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 891,
-  "Ranking_Popularity": 348,
-  "Ranking_PopularitySum": 450,
+  "Ranking_Popularity": 349,
+  "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 150,
@@ -250,7 +250,7 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43701,
+  "EOS_Progressed": 43705,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
@@ -28710,6 +28710,11 @@
       "Time": "2024-01-07T12:05:31.4120632+00:00",
       "NumProgressed": 43701,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-07T13:10:33.979187+00:00",
+      "NumProgressed": 43705,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28721,7 +28726,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6555
+      "UsersEstimate": 6556
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -28729,7 +28734,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9177
+      "UsersEstimate": 9178
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -28952,7 +28957,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43701,
+      "Progressed": 43705,
       "Completed": 30
     }
   ],
@@ -28960,8 +28965,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:05:31.4120628+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:10:33.9791866+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-07T12:02:42.3407746+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:05:31.4122333+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:06:23.0579079+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:10:33.9793311+00:00"
 }

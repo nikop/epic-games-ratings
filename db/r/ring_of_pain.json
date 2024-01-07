@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3880,7 +3880,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242544,
+  "EOS_Progressed": 242548,
   "EOS_Completed": 304,
   "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 2,
@@ -31000,6 +31000,11 @@
       "Time": "2024-01-07T12:10:03.0989272+00:00",
       "NumProgressed": 242544,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-07T13:14:24.8967792+00:00",
+      "NumProgressed": 242548,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31545,9 +31550,9 @@
       "ID": "KILLSPITTER",
       "SetID": "5l8oe0h",
       "Name": "Shootout",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1940
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -32114,13 +32119,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242544,
+      "Progressed": 242548,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4024,
+      "Progressed": 4028,
       "Completed": 421
     }
   ],
@@ -32128,8 +32133,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:10:03.0989268+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:14:24.8967788+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:59:54.8322025+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:10:03.0992114+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:05:04.3826507+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:14:24.8970507+00:00"
 }

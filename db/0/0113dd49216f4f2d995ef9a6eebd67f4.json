@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1408,9 +1408,9 @@
       "ID": "SG_THEULTIMATESACRIFICE",
       "SetID": "bj5g0n4",
       "Name": "The Ultimate Sacrifice",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "SG_THISHELLISMINE",
@@ -1447,8 +1447,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:08:57.4249507+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:12:52.243757+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:58:12.8119446+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:08:57.4249826+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:02:24.5558643+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:12:52.2438194+00:00"
 }

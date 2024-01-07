@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 912)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~158,384 |
-| Dead-ball specialist | 61.00% | ~128,819 |
-| European Legend | 52.00% | ~109,813 |
-| Multitasking | 51.00% | ~107,701 |
-| Balanced Path | 49.00% | ~103,478 |
-| High Grades | 48.00% | ~101,366 |
-| A Moment of Your Time | 46.00% | ~97,142 |
-| Let the Games Begin | 46.00% | ~97,142 |
-| Aiming High | 46.00% | ~97,142 |
-| Tactical Tinkerer | 40.00% | ~84,472 |
-| Intuition and Execution | 39.00% | ~82,360 |
-| Squad Building Connoisseur | 38.00% | ~80,248 |
-| The Winning Formula | 36.00% | ~76,024 |
-| Parking the Bus | 28.00% | ~59,130 |
-| Safe House | 26.00% | ~54,907 |
-| Best of Five | 26.00% | ~54,907 |
-| Football is Everything | 24.00% | ~50,683 |
-| The Chosen One | 22.00% | ~46,459 |
-| Fresh Fit | 20.00% | ~42,236 |
-| Bring it on | 17.00% | ~35,900 |
-| Life-Like | 14.00% | ~29,565 |
-| Make the Grade | 12.00% | ~25,341 |
-| I Played Them All | 10.00% | ~21,118 |
-| Specialist | 10.00% | ~21,118 |
-| Teamwork works | 9.00% | ~19,006 |
-| First of Many | 9.00% | ~19,006 |
-| Momentous Achievement | 6.00% | ~12,671 |
-| In Cahoots | 5.00% | ~10,559 |
-| Becoming Unplayable | 5.00% | ~10,559 |
-| Shop till you drop | 5.00% | ~10,559 |
-| On the way up | 5.00% | ~10,559 |
-| Volta's best | 4.00% | ~8,447 |
-| Tune Your Club | 4.00% | ~8,447 |
-| Full-House | 4.00% | ~8,447 |
-| Sharing is Caring | 3.00% | ~6,335 |
+| Power Shot | 75.00% | ~158,396 |
+| Dead-ball specialist | 61.00% | ~128,828 |
+| European Legend | 52.00% | ~109,821 |
+| Multitasking | 51.00% | ~107,709 |
+| Balanced Path | 49.00% | ~103,485 |
+| High Grades | 48.00% | ~101,373 |
+| A Moment of Your Time | 46.00% | ~97,149 |
+| Let the Games Begin | 46.00% | ~97,149 |
+| Aiming High | 46.00% | ~97,149 |
+| Tactical Tinkerer | 40.00% | ~84,478 |
+| Intuition and Execution | 39.00% | ~82,366 |
+| Squad Building Connoisseur | 38.00% | ~80,254 |
+| The Winning Formula | 36.00% | ~76,030 |
+| Parking the Bus | 28.00% | ~59,134 |
+| Safe House | 26.00% | ~54,910 |
+| Best of Five | 26.00% | ~54,910 |
+| Football is Everything | 24.00% | ~50,687 |
+| The Chosen One | 22.00% | ~46,463 |
+| Fresh Fit | 20.00% | ~42,239 |
+| Bring it on | 17.00% | ~35,903 |
+| Life-Like | 14.00% | ~29,567 |
+| Make the Grade | 12.00% | ~25,343 |
+| I Played Them All | 10.00% | ~21,119 |
+| Specialist | 10.00% | ~21,119 |
+| Teamwork works | 9.00% | ~19,007 |
+| First of Many | 9.00% | ~19,007 |
+| Momentous Achievement | 6.00% | ~12,672 |
+| In Cahoots | 5.00% | ~10,560 |
+| Becoming Unplayable | 5.00% | ~10,560 |
+| Shop till you drop | 5.00% | ~10,560 |
+| On the way up | 5.00% | ~10,560 |
+| Volta's best | 4.00% | ~8,448 |
+| Tune Your Club | 4.00% | ~8,448 |
+| Full-House | 4.00% | ~8,448 |
+| Sharing is Caring | 3.00% | ~6,336 |
 | Full wardrobe | 0.50% | ~1,056 |
 | Girl Power | 0.40% | ~845 |
 | Training Addict | 0.10% | ~211 |
 | Dazzling Personality | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,179 (Ranked 81)  
+Progressed: 211,194 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,21 +160,21 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 210,220 | 0 |
 | 2024-01-05 | 210,611 | 0 |
 | 2024-01-06 | 211,022 | 0 |
-| 2024-01-07 | 211,179 | 0 |
+| 2024-01-07 | 211,194 | 0 |
 ## Awards
 Max (Diverse Characters): 22,147  (Ranked 21)  
-Sum: 110,025 (Ranked 17)  
+Sum: 110,045 (Ranked 17)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 22,147 |
 | This game is Highly Recommended | 15,054 |
-| This game has a Competitive Community | 14,395 |
+| This game has a Competitive Community | 14,409 |
 | This game has Amazing Characters | 12,388 |
 | This game is Extremely Fun | 11,866 |
 | This game has Competitive Players | 11,812 |
 | This game has Amazing Storytelling | 11,629 |
-| This game has Quickly Understood Controls | 10,734 |
+| This game has Quickly Understood Controls | 10,740 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -546,4 +546,4 @@ Diff (max vs sum): 4
 | 2024-01-04 | 4.26 | 22,109 | 109,880 |
 | 2024-01-05 | 4.26 | 22,128 | 109,947 |
 | 2024-01-06 | 4.26 | 22,147 | 110,023 |
-| 2024-01-07 | 4.26 | 22,147 | 110,025 |
+| 2024-01-07 | 4.26 | 22,147 | 110,045 |

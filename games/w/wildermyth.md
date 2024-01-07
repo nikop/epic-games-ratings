@@ -36,6 +36,7 @@ Number of Ratings: 45  (23.09.2022)
 | Worldwalker | 0.70% | ~11 |
 | Plague Doctor | 0.70% | ~11 |
 | All My Birds, Safely Home | 0.70% | ~11 |
+| Grillmaster | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | Tempest | 0.70% | ~11 |
 | Storied Past | 0.60% | ~10 |
@@ -47,7 +48,6 @@ Number of Ratings: 45  (23.09.2022)
 | We Emerge Changed | 0.50% | ~8 |
 | No More Nightmares | 0.50% | ~8 |
 | Fight Like a Bird | 0.50% | ~8 |
-| Grillmaster | 0.50% | ~8 |
 | I'm Not Smiling | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
 | The Power of Friendship | 0.30% | ~5 |

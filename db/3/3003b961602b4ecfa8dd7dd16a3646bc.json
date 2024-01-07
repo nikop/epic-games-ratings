@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -384,6 +384,11 @@
       "Time": "2024-01-02T15:10:52.7311229+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T13:14:11.1548131+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -393,7 +398,7 @@
       "ID": "ACH_01_TUTORIAL",
       "SetID": "9dl0ei6",
       "Name": "Tutorial",
-      "Percentage": 83,
+      "Percentage": 81,
       "XP": 15,
       "UsersEstimate": 66
     },
@@ -403,7 +408,7 @@
       "Name": "First Race",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_03_TRAININGRACE2",
@@ -457,7 +462,7 @@
       "ID": "ACH_09_HANNAH",
       "SetID": "9dl0ei6",
       "Name": "Hannah",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 54
     },
@@ -465,7 +470,7 @@
       "ID": "ACH_10_SARAH",
       "SetID": "9dl0ei6",
       "Name": "Sarah",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 26
     },
@@ -473,7 +478,7 @@
       "ID": "ACH_11_SOFIA",
       "SetID": "9dl0ei6",
       "Name": "Sofia",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -481,7 +486,7 @@
       "ID": "ACH_12_LISA",
       "SetID": "9dl0ei6",
       "Name": "Lisa",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 22
     },
@@ -497,7 +502,7 @@
       "ID": "ACH_14_HORSECLUB",
       "SetID": "9dl0ei6",
       "Name": "I\u0027m part of the action!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -505,7 +510,7 @@
       "ID": "ACH_15_CLUBHOUSE",
       "SetID": "9dl0ei6",
       "Name": "Clubhouse",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -513,7 +518,7 @@
       "ID": "ACH_16_APPLES",
       "SetID": "9dl0ei6",
       "Name": "Apple Gatherer",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 48
     },
@@ -529,7 +534,7 @@
       "ID": "ACH_18_MIA",
       "SetID": "9dl0ei6",
       "Name": "Maverick",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 48
     },
@@ -553,7 +558,7 @@
       "ID": "ACH_21_EXPLORER",
       "SetID": "9dl0ei6",
       "Name": "Explorer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 60,
       "UsersEstimate": 14
     },
@@ -561,7 +566,7 @@
       "ID": "ACH_22_QUARRY",
       "SetID": "9dl0ei6",
       "Name": "Much too many stones",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
       "UsersEstimate": 26
     },
@@ -569,7 +574,7 @@
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 20,
       "UsersEstimate": 59
     },
@@ -585,7 +590,7 @@
       "ID": "ACH_25_BEACH",
       "SetID": "9dl0ei6",
       "Name": "Surfer",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
       "UsersEstimate": 35
     },
@@ -610,14 +615,14 @@
     {
       "ID": "9dl0ei6",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:09:52.625588+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:14:11.1548127+00:00",
   "LastUpdate_AppInfo": "2024-01-01T02:57:07.1307099+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:56:54.4003312+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:09:52.6256144+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:00:21.8481923+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:14:11.1548277+00:00"
 }

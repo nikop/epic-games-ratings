@@ -4,7 +4,7 @@
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewPlayers": 503,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 12.77,
+  "EOS_Completed_Percentage": 12.63,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -484,6 +484,11 @@
       "Time": "2024-01-07T04:12:41.601814+00:00",
       "NumProgressed": 94,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-07T13:14:04.8361958+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -496,23 +501,23 @@
       "Name": "First tower built",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "04_ACHIEVEMENT_Level_30",
@@ -520,7 +525,7 @@
       "Name": "I see through deception",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
@@ -536,7 +541,7 @@
       "Name": "Complete Half of the game",
       "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
@@ -583,14 +588,14 @@
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:09:48.0500308+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:14:04.8361955+00:00",
   "LastUpdate_AppInfo": "2024-01-02T09:56:59.6596492+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:59:38.2828509+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:09:48.0500371+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:04:39.7652859+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:14:04.8362102+00:00"
 }

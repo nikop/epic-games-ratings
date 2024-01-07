@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 472)  
+Rating: 4.58 (Ranked 471)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,6 +31,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Cold Hearted | 0.80% | ~1,940 |
 | The Bestiary | 0.80% | ~1,940 |
 | What's Yours Is Mine | 0.80% | ~1,940 |
+| Shootout | 0.80% | ~1,940 |
 | Toxic | 0.80% | ~1,940 |
 | Sneaky | 0.80% | ~1,940 |
 | Dig Your Own Grave | 0.70% | ~1,698 |
@@ -38,7 +39,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Walk It Off | 0.70% | ~1,698 |
 | I Am Overburdened | 0.70% | ~1,698 |
 | Destroy Your Fears | 0.70% | ~1,698 |
-| Shootout | 0.70% | ~1,698 |
 | Stone Touch | 0.70% | ~1,698 |
 | Shadow Walker | 0.70% | ~1,698 |
 | Flesh Wound | 0.70% | ~1,698 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,544 (Ranked 72)  
+Progressed: 242,548 (Ranked 72)  
 Completed: 304 (0.13%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 304 (0.13%) (Ranked 297)
 | 2024-01-04 | 242,358 | 304 |
 | 2024-01-05 | 242,422 | 304 |
 | 2024-01-06 | 242,507 | 304 |
-| 2024-01-07 | 242,544 | 304 |
+| 2024-01-07 | 242,548 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

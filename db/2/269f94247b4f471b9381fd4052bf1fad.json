@@ -340,9 +340,9 @@
       "ID": "ACH_DADDY-ISSUES",
       "SetID": "6lg1p1e",
       "Name": "Daddy Issues",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEEP-POCKETED",
@@ -579,8 +579,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:08:53.7140954+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:12:46.8079023+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.3132761+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:36.3655563+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:08:53.7141194+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:01:27.6358841+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:12:46.8079512+00:00"
 }

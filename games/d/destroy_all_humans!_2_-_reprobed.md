@@ -6,38 +6,38 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 83.00% | ~289 |
-| Mash Machine | 75.00% | ~261 |
-| Ducks in a Row, Fish in a Barrel | 54.00% | ~188 |
+| Rock of the Bay | 83.00% | ~290 |
+| Mash Machine | 75.00% | ~262 |
+| Ducks in a Row, Fish in a Barrel | 53.00% | ~186 |
 | Furon Fashion | 47.00% | ~164 |
-| Shop Til They Drop | 40.00% | ~139 |
-| Bodied Sattva | 38.00% | ~132 |
+| Shop Til They Drop | 39.00% | ~136 |
+| Bodied Sattva | 37.00% | ~130 |
 | Cult Following | 35.00% | ~122 |
-| Earthly Pleasures | 34.00% | ~118 |
-| Lie Back and Think of Albion | 28.00% | ~97 |
+| Earthly Pleasures | 33.00% | ~116 |
+| Lie Back and Think of Albion | 27.00% | ~94 |
 | Upgreatest | 27.00% | ~94 |
-| Pimp My Raid | 24.00% | ~84 |
-| Freshly Squeezed | 22.00% | ~77 |
+| Pimp My Raid | 25.00% | ~88 |
+| Freshly Squeezed | 21.00% | ~74 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~70 |
 | Die Nasty | 18.00% | ~63 |
-| Perfect Probulator | 17.00% | ~59 |
+| Perfect Probulator | 17.00% | ~60 |
 | Transmitting From Sol-3 | 15.00% | ~52 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~42 |
 | Fly Me to the Moon Base | 10.00% | ~35 |
 | Kaijuiced | 10.00% | ~35 |
-| Dusted | 9.00% | ~31 |
+| Dusted | 9.00% | ~32 |
 | Scuttled | 8.00% | ~28 |
-| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~24 |
+| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~25 |
 | Lobster Blisque | 6.00% | ~21 |
-| Yettisoned | 5.00% | ~17 |
+| Yettisoned | 5.00% | ~18 |
 | Ultimate Smoothie | 4.00% | ~14 |
 | Arkvoodle Doodle | 4.00% | ~14 |
 | Deincarnated | 3.00% | ~10 |
-| Arty Facts | 1.00% | ~3 |
-| Against All Odds | 1.00% | ~3 |
-| Forbidden Donut | 1.00% | ~3 |
-| The Optional Mandate | 1.00% | ~3 |
-| If You Know What I Mean | 1.00% | ~3 |
+| Arty Facts | 1.00% | ~4 |
+| Against All Odds | 1.00% | ~4 |
+| Forbidden Donut | 1.00% | ~4 |
+| The Optional Mandate | 1.00% | ~4 |
+| If You Know What I Mean | 1.00% | ~4 |
 | PK Slam Dunk | 0.90% | ~3 |
 | Gotta Catch All the Pop Art | 0.90% | ~3 |
 | This Is Earth Radio | 0.90% | ~3 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.60% | ~2 |
 | Trans-Siberian Express | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348 (Ranked 379)  
+Progressed: 350 (Ranked 379)  
 Completed: 2 (0.57%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 2 (0.57%) (Ranked 210)
 | 2024-01-04 | 311 | 1 |
 | 2024-01-05 | 324 | 2 |
 | 2024-01-06 | 341 | 2 |
-| 2024-01-07 | 348 | 2 |
+| 2024-01-07 | 350 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 497)  
 Sum: 36 (Ranked 528)  

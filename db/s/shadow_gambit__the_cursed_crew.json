@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1474,
+  "EOS_Progressed": 1476,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
@@ -5075,6 +5075,11 @@
       "Time": "2024-01-07T12:04:44.930773+00:00",
       "NumProgressed": 1474,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-07T13:09:26.1814992+00:00",
+      "NumProgressed": 1476,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5087,7 +5092,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -5095,7 +5100,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1004
     },
     {
       "ID": "_03_FinishAct1",
@@ -5103,7 +5108,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5111,7 +5116,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "_05_FinishAct2",
@@ -5119,7 +5124,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5127,7 +5132,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "_07_FinishAct3",
@@ -5135,7 +5140,7 @@
       "Name": "All Good Things",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "_08_Completion_10",
@@ -5151,7 +5156,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "_10_Completion_30",
@@ -5167,7 +5172,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "_12_Completion_50",
@@ -5294,7 +5299,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1474,
+      "Progressed": 1476,
       "Completed": 36
     }
   ],
@@ -5302,8 +5307,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:04:44.9307726+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:09:26.1814988+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:58:32.2881827+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:04:44.9308483+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:02:55.3590131+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:09:26.1815451+00:00"
 }

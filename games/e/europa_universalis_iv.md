@@ -13,7 +13,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.40% | ~1,977 |
 | That's a Grand Navy | 0.40% | ~1,977 |
 | Seriously?! | 0.40% | ~1,977 |
-| Cold War | 0.30% | ~1,482 |
+| Cold War | 0.30% | ~1,483 |
 | Blockader | 0.20% | ~988 |
 | Defender of the Faith | 0.20% | ~988 |
 | For the Glory | 0.20% | ~988 |
@@ -21,6 +21,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about the money | 0.20% | ~988 |
 | Respected | 0.20% | ~988 |
 | The Princess is in this Castle | 0.20% | ~988 |
+| Total Control | 0.20% | ~988 |
 | True Catholic | 0.20% | ~988 |
 | Truly Divine Ruler | 0.20% | ~988 |
 | The 52 Garhs | 0.10% | ~494 |
@@ -296,7 +297,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.10% | ~494 |
 | Tiger of Mysore | 0.10% | ~494 |
 | Time Bandit | 0.10% | ~494 |
-| Total Control | 0.10% | ~494 |
 | Trade Hegemon | 0.10% | ~494 |
 | Traditional Player | 0.10% | ~494 |
 | Triple the Rome | 0.10% | ~494 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,157 (Ranked 42)  
+Progressed: 494,228 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-04 | 492,104 | 1 |
 | 2024-01-05 | 492,930 | 1 |
 | 2024-01-06 | 493,815 | 1 |
-| 2024-01-07 | 494,157 | 1 |
+| 2024-01-07 | 494,228 | 1 |
 ## Awards
 Max (Educational): 7,742  (Ranked 54)  
 Sum: 63,845 (Ranked 24)  

@@ -6,24 +6,24 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~480,243 |
-| Apprentice | 58.00% | ~386,862 |
-| Close Shave | 25.00% | ~166,751 |
-| Mercenary | 23.00% | ~153,411 |
-| Ninja | 23.00% | ~153,411 |
+| The Fool | 72.00% | ~480,246 |
+| Apprentice | 58.00% | ~386,865 |
+| Close Shave | 25.00% | ~166,752 |
+| Mercenary | 23.00% | ~153,412 |
+| Ninja | 23.00% | ~153,412 |
 | Northern Scourge | 17.00% | ~113,391 |
 | Thief Bane | 14.00% | ~93,381 |
-| Master of Arms | 12.00% | ~80,040 |
-| Gambler | 10.00% | ~66,700 |
-| Dice Master | 10.00% | ~66,700 |
-| Swordsman | 9.00% | ~60,030 |
-| Knight | 8.00% | ~53,360 |
-| Cure for Corruption | 8.00% | ~53,360 |
-| Focused | 8.00% | ~53,360 |
-| Flurry of Fury | 8.00% | ~53,360 |
-| Long Shot | 7.00% | ~46,690 |
-| Devil Dice | 7.00% | ~46,690 |
-| Broken Heart | 7.00% | ~46,690 |
+| Master of Arms | 12.00% | ~80,041 |
+| Gambler | 10.00% | ~66,701 |
+| Dice Master | 10.00% | ~66,701 |
+| Swordsman | 9.00% | ~60,031 |
+| Knight | 8.00% | ~53,361 |
+| Cure for Corruption | 8.00% | ~53,361 |
+| Focused | 8.00% | ~53,361 |
+| Flurry of Fury | 8.00% | ~53,361 |
+| Long Shot | 7.00% | ~46,691 |
+| Devil Dice | 7.00% | ~46,691 |
+| Broken Heart | 7.00% | ~46,691 |
 | Adventurer | 6.00% | ~40,020 |
 | Empire's Bane | 6.00% | ~40,020 |
 | Jack of all Trades | 5.00% | ~33,350 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,004 (Ranked 31)  
+Progressed: 667,008 (Ranked 31)  
 Completed: 174 (0.03%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 174 (0.03%) (Ranked 353)
 | 2024-01-04 | 666,845 | 174 |
 | 2024-01-05 | 666,910 | 174 |
 | 2024-01-06 | 666,973 | 174 |
-| 2024-01-07 | 667,004 | 174 |
+| 2024-01-07 | 667,008 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 497)  
 Sum: 194 (Ranked 419)  

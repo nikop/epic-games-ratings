@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1912,
+  "EOS_Progressed": 1913,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -3424,6 +3424,11 @@
       "Time": "2024-01-07T05:06:43.1420575+00:00",
       "NumProgressed": 1912,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T13:10:34.2398816+00:00",
+      "NumProgressed": 1913,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3435,7 +3440,7 @@
       "Name": "Lovebirds",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "10",
@@ -3547,7 +3552,7 @@
       "Name": "Can\u0027t get wetter...",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "23",
@@ -3595,7 +3600,7 @@
       "Name": "Hug therapy",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "30",
@@ -3619,7 +3624,7 @@
       "Name": "Spring cleaning",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "4",
@@ -3627,7 +3632,7 @@
       "Name": "Head in the clouds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "5",
@@ -3674,15 +3679,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1912,
+      "Progressed": 1913,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:05:31.5997425+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:10:34.239881+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:13.319021+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:05:31.5997832+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:00:51.9453442+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:10:34.239929+00:00"
 }

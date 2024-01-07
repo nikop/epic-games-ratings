@@ -245,17 +245,17 @@
       "ID": "ClearC01",
       "SetID": "94lmepd",
       "Name": "The Emperor",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ClearC01END",
       "SetID": "94lmepd",
       "Name": "The Moon",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ClearC02",
@@ -309,17 +309,17 @@
       "ID": "ClearE01",
       "SetID": "94lmepd",
       "Name": "The Fool",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ClearE01END",
       "SetID": "94lmepd",
       "Name": "The Sun",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ClearE02",
@@ -405,17 +405,17 @@
       "ID": "ClearM01",
       "SetID": "94lmepd",
       "Name": "Wheel Of Fortune",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ClearTE01",
       "SetID": "94lmepd",
       "Name": "First Tale",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ClearTE02",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:03:35.8007555+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:07:45.3889819+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.4390346+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:58:06.2857676+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:03:35.800772+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:02:14.283253+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:07:45.3890007+00:00"
 }

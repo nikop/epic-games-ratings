@@ -2312,9 +2312,9 @@
       "ID": "another_world",
       "SetID": "69co12a",
       "Name": "Another world",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 155
     },
     {
       "ID": "any_stat_15",
@@ -2352,9 +2352,9 @@
       "ID": "carla_journey",
       "SetID": "69co12a",
       "Name": "The lonesome road",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 155
     },
     {
       "ID": "courier_win",
@@ -2640,9 +2640,9 @@
       "ID": "police_promotion_1",
       "SetID": "69co12a",
       "Name": "No blades in the gym",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 210
     },
     {
       "ID": "police_promotion_2",
@@ -2799,8 +2799,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:09:42.7156823+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:13:57.3627747+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:10.7103832+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:58:44.4365021+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:09:42.7157511+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:03:14.2239876+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:13:57.3628365+00:00"
 }

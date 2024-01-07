@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -842,9 +842,9 @@
       "ID": "book_em_danny",
       "SetID": "2db2j74",
       "Name": "Book \u0027em Danny",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "bullseye",
@@ -1011,8 +1011,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:03:37.7840835+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:07:48.2480355+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:51.7616566+00:00",
-  "LastUpdate_Ratings": "2024-01-07T12:03:00.0195836+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:03:37.7840973+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:06:51.2816161+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:07:48.2480519+00:00"
 }

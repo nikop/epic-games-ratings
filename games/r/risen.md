@@ -6,9 +6,9 @@ Rating: 4.56 (Ranked 507)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 90.00% | ~157 |
-| Map reader | 61.00% | ~106 |
-| Adventurer | 60.00% | ~104 |
-| Philanthropist | 57.00% | ~99 |
+| Map reader | 62.00% | ~108 |
+| Adventurer | 61.00% | ~106 |
+| Philanthropist | 58.00% | ~101 |
 | Archer | 40.00% | ~70 |
 | The brave little tailor | 39.00% | ~68 |
 | Field hand | 38.00% | ~66 |
@@ -29,17 +29,17 @@ Rating: 4.56 (Ranked 507)
 | Hard worker | 16.00% | ~28 |
 | Fence | 16.00% | ~28 |
 | The fourth triplet | 15.00% | ~26 |
+| Pandora's box | 14.00% | ~24 |
 | Master detective | 14.00% | ~24 |
-| Pandora's box | 13.00% | ~23 |
 | Ghost hunter | 13.00% | ~23 |
 | Peacekeeper | 12.00% | ~21 |
 | Defender | 11.00% | ~19 |
 | Workaholic | 11.00% | ~19 |
+| Showdown | 10.00% | ~17 |
 | Safecracker | 10.00% | ~17 |
 | Freedom fighter | 9.00% | ~16 |
-| Showdown | 9.00% | ~16 |
 | Master thief | 9.00% | ~16 |
-| Titan Lord | 7.00% | ~12 |
+| Titan Lord | 8.00% | ~14 |
 | Expert | 7.00% | ~12 |
 | King of the handymen | 7.00% | ~12 |
 | Terror of the hens | 6.00% | ~10 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -126,7 +126,7 @@
   "Tags": [],
   "EOS_Progressed": 839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1458,9 +1458,9 @@
       "ID": "Supreme_Bartender_Ann",
       "SetID": "gl7plp",
       "Name": "Supreme Bartender Ann",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 67
     },
     {
       "ID": "Tell_me_your_story",
@@ -1595,8 +1595,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:05:46.3369123+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:10:55.6352342+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.1619736+00:00",
-  "LastUpdate_Ratings": "2024-01-07T12:02:50.8421587+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:05:46.3369404+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:06:36.5423107+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:10:55.6352673+00:00"
 }

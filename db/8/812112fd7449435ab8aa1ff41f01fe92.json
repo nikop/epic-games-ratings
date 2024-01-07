@@ -2,9 +2,9 @@
   "ID": "812112fd7449435ab8aa1ff41f01fe92",
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
-  "Ranking_EOS_Progress": 569,
+  "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -224,6 +224,11 @@
       "Time": "2024-01-07T05:08:02.9132465+00:00",
       "NumProgressed": 42,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T13:11:45.8187288+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -242,7 +247,7 @@
       "ID": "DEATH_ACID",
       "SetID": "5629o35",
       "Name": "Be wary of acid",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -258,7 +263,7 @@
       "ID": "DEATH_CACTI",
       "SetID": "5629o35",
       "Name": "Spikey boy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -266,7 +271,7 @@
       "ID": "DEATH_CANON",
       "SetID": "5629o35",
       "Name": "Hold that for a second",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -282,7 +287,7 @@
       "ID": "DEATH_LAVA",
       "SetID": "5629o35",
       "Name": "The floor is lava. Literally.",
-      "Percentage": 95,
+      "Percentage": 93,
       "XP": 50,
       "UsersEstimate": 40
     },
@@ -306,7 +311,7 @@
       "ID": "FIRST_DEATH",
       "SetID": "5629o35",
       "Name": "Welcome to the jumping challenge!",
-      "Percentage": 98,
+      "Percentage": 95,
       "XP": 50,
       "UsersEstimate": 41
     },
@@ -338,7 +343,7 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 25,
       "UsersEstimate": 25
     },
@@ -346,7 +351,7 @@
       "ID": "SCORE_300",
       "SetID": "5629o35",
       "Name": "Parkourer",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -379,14 +384,14 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:08:12.1192356+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:11:45.8187284+00:00",
   "LastUpdate_AppInfo": "2024-01-01T18:57:10.6877245+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:59:19.8067446+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:08:12.1192536+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:04:10.022876+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:11:45.8187462+00:00"
 }

@@ -7,31 +7,31 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 65.00% | ~268 |
-| Cartographer | 58.00% | ~239 |
-| A Strange Artefact | 54.00% | ~222 |
-| Insomnia | 50.00% | ~206 |
-| Lost & Found & Lost Again | 44.00% | ~181 |
-| From Whence we Came | 43.00% | ~177 |
-| Fire and Flood | 42.00% | ~173 |
+| Cartographer | 58.00% | ~240 |
+| A Strange Artefact | 54.00% | ~223 |
+| Insomnia | 49.00% | ~202 |
+| Lost & Found & Lost Again | 44.00% | ~182 |
+| From Whence we Came | 43.00% | ~178 |
+| Fire and Flood | 41.00% | ~169 |
 | Spooky! | 38.00% | ~157 |
-| Shennong Herbalist | 36.00% | ~148 |
-| Treasure Hunt | 36.00% | ~148 |
+| Shennong Herbalist | 36.00% | ~149 |
+| Treasure Hunt | 36.00% | ~149 |
 | Good Mama | 33.00% | ~136 |
 | O Captain My Captain | 32.00% | ~132 |
 | Plunderer | 30.00% | ~124 |
-| Taxonomist | 28.00% | ~115 |
+| Taxonomist | 28.00% | ~116 |
 | Traveller | 26.00% | ~107 |
 | Uncertain Loyalties | 25.00% | ~103 |
 | Nahua Seeker | 24.00% | ~99 |
 | Roll to Save | 23.00% | ~95 |
 | Veteran Explorer | 22.00% | ~91 |
-| Red Flag Pirate | 20.00% | ~82 |
+| Red Flag Pirate | 20.00% | ~83 |
 | Iron Man | 17.00% | ~70 |
 | A Gentle Beast | 17.00% | ~70 |
-| Shortening of the Way | 16.00% | ~66 |
 | Practical Palaeontology | 16.00% | ~66 |
 | Adventurer | 15.00% | ~62 |
 | For the Club! | 15.00% | ~62 |
+| Shortening of the Way | 15.00% | ~62 |
 | Plays Well With Others | 14.00% | ~58 |
 | Dapper | 14.00% | ~58 |
 | The New Director | 13.00% | ~54 |
@@ -53,9 +53,9 @@ Number of Ratings: 20  (23.09.2022)
 | A Paris Sunset | 5.00% | ~21 |
 | The Director Perseveres | 5.00% | ~21 |
 | The Round Table | 5.00% | ~21 |
-| X Marks the Spot | 4.00% | ~16 |
-| Frugal | 4.00% | ~16 |
-| I Set Forth Again... and Again... and Again... | 4.00% | ~16 |
+| X Marks the Spot | 4.00% | ~17 |
+| Frugal | 4.00% | ~17 |
+| I Set Forth Again... and Again... and Again... | 4.00% | ~17 |
 | A Familiar Figure | 3.00% | ~12 |
 | Lunatic | 3.00% | ~12 |
 | A Perfect Map | 3.00% | ~12 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412 (Ranked 364)  
+Progressed: 413 (Ranked 364)  
 Completed: 1 (0.24%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.24%) (Ranked 266)
 | 2024-01-04 | 400 | 1 |
 | 2024-01-05 | 406 | 1 |
 | 2024-01-06 | 410 | 1 |
-| 2024-01-07 | 412 | 1 |
+| 2024-01-07 | 413 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8093,
+  "EOS_Progressed": 8096,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13456,6 +13456,11 @@
       "Time": "2024-01-07T12:08:21.7156881+00:00",
       "NumProgressed": 8093,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T13:12:00.1631242+00:00",
+      "NumProgressed": 8096,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13491,7 +13496,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13507,7 +13512,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -13786,13 +13791,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8093,
+      "Progressed": 8096,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7465,
+      "Progressed": 7468,
       "Completed": 113
     }
   ],
@@ -13800,8 +13805,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:08:21.7156875+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:12:00.1631235+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:40.4177763+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:08:21.7157785+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:01:33.5643678+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:12:00.1632105+00:00"
 }

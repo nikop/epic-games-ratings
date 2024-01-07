@@ -1,7 +1,7 @@
 # SpongeBob SquarePants: The Cosmic Shake
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-the-cosmic-shake)  
 [View Rawdata](../../db/s/spongebob_squarepants__the_cosmic_shake.json)  
-Rating: 4.83 (Ranked 55)  
+Rating: 4.83 (Ranked 56)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -50,7 +50,7 @@ Rating: 4.83 (Ranked 55)
 | The Good, the Bad and the Krabby | 8.00% | ~3 |
 | Wrath-tub | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 578)  
+Progressed: 37 (Ranked 579)  
 Completed: 4 (10.81%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -9391,9 +9391,9 @@
       "Count": 3631
     }
   ],
-  "EOS_Progressed": 252313,
+  "EOS_Progressed": 252334,
   "EOS_Completed": 2599,
-  "EOS_NewPlayers": 4012,
+  "EOS_NewPlayers": 4004,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39071,6 +39071,11 @@
       "Time": "2024-01-07T12:10:05.0875918+00:00",
       "NumProgressed": 252313,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-07T13:14:27.0399105+00:00",
+      "NumProgressed": 252334,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 546,
@@ -39944,9 +39949,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1766
     },
     {
       "ID": "objective_completed_1203",
@@ -40754,7 +40759,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5046
+      "UsersEstimate": 5047
     },
     {
       "ID": "objective_completed_34",
@@ -43449,21 +43454,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218587,
+      "Progressed": 218608,
       "Completed": 4143
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252313,
+      "Progressed": 252334,
       "Completed": 2599
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-07T12:00:01.0036284+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:10:05.0875914+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:14:27.0399102+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-07T12:00:01.0036292+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:10:05.0900503+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:05:53.6853024+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:14:27.0424266+00:00"
 }

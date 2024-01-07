@@ -2,12 +2,12 @@
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
-  "Ranking_Rating": 300,
+  "Ranking_Rating": 299,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -315,9 +315,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1059,
+  "EOS_Progressed": 1060,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2440,6 +2440,11 @@
       "Time": "2024-01-07T11:10:06.8319868+00:00",
       "NumProgressed": 1059,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T13:13:29.7336283+00:00",
+      "NumProgressed": 1060,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2459,7 +2464,7 @@
       "Name": "Act II Complete",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -2529,9 +2534,9 @@
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
       "SetID": "108h92c",
       "Name": "Breathe In\u2026 Breathe Out\u2026",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 773
+      "UsersEstimate": 763
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2611,7 +2616,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2619,7 +2624,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -2666,7 +2671,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1059,
+      "Progressed": 1060,
       "Completed": 0
     }
   ],
@@ -2674,8 +2679,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-01-07T01:52:54.3373134+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:09:23.2186014+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:13:29.7336277+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:23.8683879+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:47.6122942+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:09:23.2186271+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:01:44.5276455+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:13:29.7336626+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -671,6 +671,11 @@
       "Time": "2024-01-07T07:10:04.454003+00:00",
       "NumProgressed": 412,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T13:14:21.0140901+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -818,7 +823,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ach-campaign-story2",
@@ -826,7 +831,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ach-campaign-story3",
@@ -858,7 +863,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ach-discover-locations-high",
@@ -880,9 +885,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 169
     },
     {
       "ID": "ach-find-treasure",
@@ -890,7 +895,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ach-find-treasure-high",
@@ -898,7 +903,7 @@
       "Name": "X Marks the Spot",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach-firstExpedition",
@@ -946,7 +951,7 @@
       "Name": "Taxonomist",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ach-kill-hyenas",
@@ -960,9 +965,9 @@
       "ID": "ach-kill-sandworm",
       "SetID": "17ih7ma",
       "Name": "Shortening of the Way",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "ach-learn-traits",
@@ -970,7 +975,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -1024,9 +1029,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 202
     },
     {
       "ID": "ach-pacifist-goals",
@@ -1058,7 +1063,7 @@
       "Name": "From Whence we Came",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ach-promotion",
@@ -1114,7 +1119,7 @@
       "Name": "Frugal",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach-totalFame",
@@ -1122,7 +1127,7 @@
       "Name": "I Set Forth Again... and Again... and Again...",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach-treasureFameInExpedition",
@@ -1130,7 +1135,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -1161,7 +1166,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 1
     }
   ],
@@ -1169,8 +1174,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:10:00.0429016+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:14:21.0140897+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:44.30663+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:10:00.0429533+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:01:39.3989526+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:14:21.0141643+00:00"
 }

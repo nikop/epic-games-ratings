@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44930,
+  "EOS_Progressed": 44931,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -20582,6 +20582,11 @@
       "Time": "2024-01-07T12:04:02.5766361+00:00",
       "NumProgressed": 44930,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-07T13:08:23.8633075+00:00",
+      "NumProgressed": 44931,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20593,7 +20598,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25610
+      "UsersEstimate": 25611
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -20601,7 +20606,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13928
+      "UsersEstimate": 13929
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -20673,7 +20678,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -20713,7 +20718,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35944
+      "UsersEstimate": 35945
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -20793,7 +20798,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8087
+      "UsersEstimate": 8088
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -20833,7 +20838,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28306
+      "UsersEstimate": 28307
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -20857,7 +20862,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26958
+      "UsersEstimate": 26959
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -20865,7 +20870,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30103
+      "UsersEstimate": 30104
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -20873,7 +20878,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -20897,7 +20902,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20218
+      "UsersEstimate": 20219
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -20905,7 +20910,7 @@
       "Name": "Hollow",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -20929,7 +20934,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41785
+      "UsersEstimate": 41786
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20944,7 +20949,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44930,
+      "Progressed": 44931,
       "Completed": 248
     }
   ],
@@ -20952,8 +20957,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:04:02.5766358+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:08:23.8633071+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.8040993+00:00",
-  "LastUpdate_Ratings": "2024-01-07T12:03:02.1072225+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:04:02.5767298+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:06:54.3627132+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:08:23.8634213+00:00"
 }

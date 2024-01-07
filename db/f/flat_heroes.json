@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 671,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1359,9 +1359,9 @@
       "ID": "DashAttack",
       "SetID": "d9ekhim",
       "Name": "Fireball",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 309
     },
     {
       "ID": "DashDashDash",
@@ -1704,8 +1704,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:09:56.6646794+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:14:16.5630883+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.9917741+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:58:10.0512509+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:09:56.6647376+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:02:20.3178847+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:14:16.5631227+00:00"
 }

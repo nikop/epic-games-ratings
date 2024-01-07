@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 351,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2237,9 +2237,9 @@
       "ID": "NoctuanHero",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Hero",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "NoctuanMastery",
@@ -2260,8 +2260,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:08:44.3286469+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:12:33.3030095+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:27.4116813+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:58:23.1335122+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:08:44.3287504+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:02:41.6474625+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:12:33.3031013+00:00"
 }

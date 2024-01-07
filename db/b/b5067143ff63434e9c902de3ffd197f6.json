@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18721,
+  "EOS_Progressed": 18723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11604,6 +11604,11 @@
       "Time": "2024-01-07T12:06:13.7058333+00:00",
       "NumProgressed": 18721,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T13:11:35.2026786+00:00",
+      "NumProgressed": 18723,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -11656,7 +11661,7 @@
       "Name": "MEG",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -11696,7 +11701,7 @@
       "Name": "End?",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -11712,7 +11717,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4680
+      "UsersEstimate": 4681
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -11728,7 +11733,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -11807,14 +11812,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 18721,
+      "Progressed": 18723,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:06:13.7058329+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:11:35.2026782+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:14.7039433+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:57:31.1917333+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:06:13.7059553+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:01:19.0090058+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:11:35.2027629+00:00"
 }

@@ -7,13 +7,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,093 |
-| The Cursed Farmer | 2.00% | ~5,046 |
+| The Cursed Farmer | 2.00% | ~5,047 |
 | Beast Intentions | 1.00% | ~2,523 |
 | The Mad Wizard | 1.00% | ~2,523 |
 | The Ring of Regeneration | 0.80% | ~2,019 |
 | Welcome to Sigil | 0.80% | ~1,749 |
+| Were-verpowered | 0.70% | ~1,766 |
 | Are Ya Chicken? | 0.70% | ~1,766 |
-| Were-verpowered | 0.60% | ~1,514 |
 | Seeking Allies | 0.60% | ~1,514 |
 | Mad Cow Disease | 0.60% | ~1,514 |
 | Friendly Imps | 0.60% | ~1,514 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,313 (Ranked 70)  
+Progressed: 252,334 (Ranked 70)  
 Completed: 2,599 (1.03%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -815,7 +815,7 @@ Completed: 2,599 (1.03%) (Ranked 171)
 | 2024-01-04 | 251,128 | 2,592 |
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
-| 2024-01-07 | 252,313 | 2,599 |
+| 2024-01-07 | 252,334 | 2,599 |
 ## Awards
 Max (Great for Beginners): 5,756  (Ranked 74)  
 Sum: 33,386 (Ranked 41)  

@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 900,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -3225,6 +3225,11 @@
       "Time": "2024-01-07T11:10:26.3191939+00:00",
       "NumProgressed": 899,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T13:13:49.7080144+00:00",
+      "NumProgressed": 900,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3261,7 +3266,7 @@
       "Name": "From Way Downtown",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "achievement_13",
@@ -3293,15 +3298,15 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 458
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_18",
@@ -3357,7 +3362,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "achievement_8",
@@ -3380,13 +3385,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 900,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:09:37.2064205+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:13:49.708014+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:59:53.8952235+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:09:37.2064521+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:05:02.8046694+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:13:49.7080461+00:00"
 }

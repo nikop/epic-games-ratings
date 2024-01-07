@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 296,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.37,
+  "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -741,6 +741,11 @@
       "Time": "2024-01-07T08:08:04.3918924+00:00",
       "NumProgressed": 295,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T13:11:08.6490534+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -760,7 +765,7 @@
       "Name": "Crazy Jungle.",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "03",
@@ -832,7 +837,7 @@
       "Name": "Rocky fall.",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "12",
@@ -871,7 +876,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 296,
       "Completed": 7
     }
   ],
@@ -879,8 +884,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-07T12:05:55.3516503+00:00",
+  "LastChanged_Achievements": "2024-01-07T13:11:08.6490529+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.6676617+00:00",
-  "LastUpdate_Ratings": "2024-01-07T11:59:11.3065337+00:00",
-  "LastUpdate_Achievements": "2024-01-07T12:05:55.3516652+00:00"
+  "LastUpdate_Ratings": "2024-01-07T13:03:58.0061569+00:00",
+  "LastUpdate_Achievements": "2024-01-07T13:11:08.6490671+00:00"
 }
