@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2220,9 +2220,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16201,
+  "EOS_Progressed": 16203,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19185,6 +19185,11 @@
       "Time": "2024-01-07T20:10:01.5839924+00:00",
       "NumProgressed": 16201,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T21:11:00.4212301+00:00",
+      "NumProgressed": 16203,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19618,9 +19623,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
       "SetID": "9201eeb",
       "Name": "Enlightened",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -22059,21 +22064,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16201,
+      "Progressed": 16203,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16201,
+      "Progressed": 16203,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:10:01.5839921+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:11:00.4212297+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:00:02.3249232+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:10:01.5850165+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:01:14.8696891+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:11:00.4222834+00:00"
 }

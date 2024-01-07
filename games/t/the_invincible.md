@@ -5,14 +5,14 @@ Rating: 4.58 (Ranked 472)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 69.00% | ~1,038 |
-| The Teleprobe | 55.00% | ~827 |
+| The Camp | 70.00% | ~1,054 |
+| The Teleprobe | 55.00% | ~828 |
 | The City | 50.00% | ~752 |
 | The field base | 44.00% | ~662 |
 | The Alliance | 41.00% | ~617 |
 | Survivors | 39.00% | ~587 |
-| The Condor | 37.00% | ~556 |
-| The End | 36.00% | ~541 |
+| The Condor | 37.00% | ~557 |
+| The End | 37.00% | ~557 |
 | The Necroevolution | 29.00% | ~436 |
 | Krauta is alive | 28.00% | ~421 |
 | On her own | 22.00% | ~331 |
@@ -35,8 +35,8 @@ Rating: 4.58 (Ranked 472)
 | Convoy list | 0.90% | ~14 |
 | No more mistakes | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,504 (Ranked 265)  
-Completed: 1 (0.07%) (Ranked 327)  
+Progressed: 1,505 (Ranked 265)  
+Completed: 1 (0.07%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,7 +98,7 @@ Completed: 1 (0.07%) (Ranked 327)
 | 2024-01-04 | 1,381 | 1 |
 | 2024-01-05 | 1,415 | 1 |
 | 2024-01-06 | 1,462 | 1 |
-| 2024-01-07 | 1,504 | 1 |
+| 2024-01-07 | 1,505 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

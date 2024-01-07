@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9391,9 +9391,9 @@
       "Count": 3631
     }
   ],
-  "EOS_Progressed": 252470,
+  "EOS_Progressed": 252489,
   "EOS_Completed": 2599,
-  "EOS_NewPlayers": 3893,
+  "EOS_NewPlayers": 3883,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39111,6 +39111,11 @@
       "Time": "2024-01-07T20:10:02.6899809+00:00",
       "NumProgressed": 252470,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-07T21:11:01.4202257+00:00",
+      "NumProgressed": 252489,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 546,
@@ -39122,7 +39127,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10099
+      "UsersEstimate": 10100
     },
     {
       "ID": "objective_completed_10",
@@ -40794,7 +40799,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5049
+      "UsersEstimate": 5050
     },
     {
       "ID": "objective_completed_34",
@@ -43346,7 +43351,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "objective_completed_1548",
@@ -43386,7 +43391,7 @@
       "Name": "The Brains of an Illithid\u0027s Desire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "objective_completed_1347",
@@ -43426,7 +43431,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "objective_completed_1563",
@@ -43489,21 +43494,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218744,
+      "Progressed": 218763,
       "Completed": 4143
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252470,
+      "Progressed": 252489,
       "Completed": 2599
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-07T12:00:01.0036284+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:10:02.6899805+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:11:01.4202252+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:00:44.2039712+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:10:02.6924256+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:02:42.0036378+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:11:01.4227489+00:00"
 }

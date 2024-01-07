@@ -23,7 +23,7 @@
 | Like a moth in the Wind | 23.00% | ~42 |
 | Handyman | 22.00% | ~40 |
 | Pacifist | 21.00% | ~39 |
-| Mirror mirror on the wall... | 19.00% | ~35 |
+| Mirror mirror on the wall... | 20.00% | ~37 |
 | Fastidious Clown | 18.00% | ~33 |
 | It's not easy being green! | 18.00% | ~33 |
 | Home is where the heart is | 18.00% | ~33 |

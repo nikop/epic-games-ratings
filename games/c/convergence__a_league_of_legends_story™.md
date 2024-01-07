@@ -6,20 +6,20 @@ Rating: 4.69 (Ranked 236)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 46.00% | ~581 |
-| Rail Rat | 34.00% | ~429 |
+| Rail Rat | 34.00% | ~430 |
 | The Mysterious Stranger | 33.00% | ~417 |
-| Immaculate Aim | 29.00% | ~366 |
+| Immaculate Aim | 29.00% | ~367 |
 | The Brass Boss | 28.00% | ~354 |
-| Time Flies | 26.00% | ~328 |
-| No, Thanks! | 26.00% | ~328 |
-| The Prince in Heels | 26.00% | ~328 |
-| Honest Mistake | 26.00% | ~328 |
+| Time Flies | 26.00% | ~329 |
+| No, Thanks! | 26.00% | ~329 |
+| The Prince in Heels | 26.00% | ~329 |
+| Honest Mistake | 26.00% | ~329 |
 | Make Up For Lost Time | 25.00% | ~316 |
 | The Harder They Fall | 25.00% | ~316 |
 | Fast Learner | 25.00% | ~316 |
 | Immaculate Aim | 25.00% | ~316 |
 | The Steel Shadow | 24.00% | ~303 |
-| Breaking Down Barriers | 23.00% | ~290 |
+| Breaking Down Barriers | 23.00% | ~291 |
 | Right On Time | 22.00% | ~278 |
 | The Wicked Twins | 22.00% | ~278 |
 | Golem Chaser | 22.00% | ~278 |
@@ -27,11 +27,11 @@ Rating: 4.69 (Ranked 236)
 | The Betrayer | 21.00% | ~265 |
 | Check Your Pulse | 20.00% | ~253 |
 | The Loose Cannon | 19.00% | ~240 |
-| Street Style | 18.00% | ~227 |
-| The Man Who Shattered Time | 18.00% | ~227 |
-| The Family Fortune | 18.00% | ~227 |
-| Whiz Kid | 15.00% | ~189 |
-| Good Neighbor | 15.00% | ~189 |
+| Street Style | 18.00% | ~228 |
+| The Man Who Shattered Time | 18.00% | ~228 |
+| The Family Fortune | 18.00% | ~228 |
+| Whiz Kid | 15.00% | ~190 |
+| Good Neighbor | 15.00% | ~190 |
 | Family Memories | 14.00% | ~177 |
 | Chaincrawler Explorer | 13.00% | ~164 |
 | Cartographer | 13.00% | ~164 |
@@ -53,13 +53,13 @@ Rating: 4.69 (Ranked 236)
 | Wunderkind | 3.00% | ~38 |
 | Thinking Two Steps Ahead | 2.00% | ~25 |
 | Fitting In | 2.00% | ~25 |
-| A Lesson in Precision | 1.00% | ~13 |
 | No Time to Waste | 1.00% | ~13 |
+| A Lesson in Precision | 0.90% | ~11 |
 | Wildlife Protection | 0.80% | ~10 |
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,263 (Ranked 280)  
+Progressed: 1,264 (Ranked 280)  
 Completed: 7 (0.55%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 7 (0.55%) (Ranked 214)
 | 2024-01-04 | 1,228 | 6 |
 | 2024-01-05 | 1,241 | 6 |
 | 2024-01-06 | 1,255 | 6 |
-| 2024-01-07 | 1,263 | 7 |
+| 2024-01-07 | 1,264 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

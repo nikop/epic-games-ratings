@@ -6,56 +6,56 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~903 |
-| Lost and Found | 8.00% | ~556 |
+| Malpractice Assurance | 13.00% | ~905 |
+| Lost and Found | 8.00% | ~557 |
 | Autodidact | 7.00% | ~9,246 |
-| This Belongs in a Museum | 6.00% | ~7,925 |
-| Creep and Sleep | 6.00% | ~7,925 |
-| Overdue Notice | 6.00% | ~7,925 |
-| This guy... again? | 6.00% | ~417 |
-| Ploughshares to Swords | 6.00% | ~417 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,604 |
-| Serenity Now! | 5.00% | ~6,604 |
-| Meat and Greet | 5.00% | ~6,604 |
-| Catch and Decease | 5.00% | ~6,604 |
-| Escape from the Black Hole | 5.00% | ~6,604 |
-| Rush Hour | 5.00% | ~6,604 |
-| To Grandmother's House | 5.00% | ~6,604 |
-| FNG | 5.00% | ~6,604 |
-| Bloody Graduation | 5.00% | ~347 |
-| It Rings a Bell | 4.00% | ~5,283 |
-| Not Today! | 4.00% | ~5,283 |
-| It Happens | 4.00% | ~5,283 |
-| Spelunker | 4.00% | ~5,283 |
-| Merry Time | 4.00% | ~5,283 |
-| Harvest Festival | 4.00% | ~5,283 |
-| Whale | 4.00% | ~5,283 |
-| A Place to Lay Your Head | 4.00% | ~5,283 |
-| Nope | 4.00% | ~5,283 |
+| This Belongs in a Museum | 6.00% | ~7,926 |
+| Creep and Sleep | 6.00% | ~7,926 |
+| Overdue Notice | 6.00% | ~7,926 |
+| This guy... again? | 6.00% | ~418 |
+| Ploughshares to Swords | 6.00% | ~418 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,605 |
+| Serenity Now! | 5.00% | ~6,605 |
+| Meat and Greet | 5.00% | ~6,605 |
+| Catch and Decease | 5.00% | ~6,605 |
+| Escape from the Black Hole | 5.00% | ~6,605 |
+| Rush Hour | 5.00% | ~6,605 |
+| To Grandmother's House | 5.00% | ~6,605 |
+| FNG | 5.00% | ~6,605 |
+| Bloody Graduation | 5.00% | ~348 |
+| It Rings a Bell | 4.00% | ~5,284 |
+| Not Today! | 4.00% | ~5,284 |
+| It Happens | 4.00% | ~5,284 |
+| Spelunker | 4.00% | ~5,284 |
+| Merry Time | 4.00% | ~5,284 |
+| Harvest Festival | 4.00% | ~5,284 |
+| Whale | 4.00% | ~5,284 |
+| A Place to Lay Your Head | 4.00% | ~5,284 |
+| Nope | 4.00% | ~5,284 |
 | Friends 'Til the End | 4.00% | ~278 |
-| Resurrection | 3.00% | ~3,962 |
-| Unleash Hell | 3.00% | ~3,962 |
-| Funny Guy | 3.00% | ~3,962 |
-| Long Live the King | 3.00% | ~3,962 |
-| Wyrdly Reconstructed | 3.00% | ~3,962 |
-| Boxcar Kid | 3.00% | ~3,962 |
-| Unfulfilled Desires | 3.00% | ~3,962 |
-| Predator | 3.00% | ~3,962 |
-| Dissector | 3.00% | ~3,962 |
-| Banishment | 3.00% | ~3,962 |
-| Deprogramming | 3.00% | ~3,962 |
-| Now Stay Dead | 3.00% | ~3,962 |
-| Reverse Banditry | 3.00% | ~3,962 |
-| Ramble On | 3.00% | ~3,962 |
-| A Clear Conscience | 3.00% | ~3,962 |
-| Utopia | 3.00% | ~3,962 |
-| Unshackled | 3.00% | ~3,962 |
-| Road Trip | 3.00% | ~3,962 |
+| Resurrection | 3.00% | ~3,963 |
+| Unleash Hell | 3.00% | ~3,963 |
+| Funny Guy | 3.00% | ~3,963 |
+| Long Live the King | 3.00% | ~3,963 |
+| Wyrdly Reconstructed | 3.00% | ~3,963 |
+| Boxcar Kid | 3.00% | ~3,963 |
+| Unfulfilled Desires | 3.00% | ~3,963 |
+| Predator | 3.00% | ~3,963 |
+| Dissector | 3.00% | ~3,963 |
+| Banishment | 3.00% | ~3,963 |
+| Deprogramming | 3.00% | ~3,963 |
+| Now Stay Dead | 3.00% | ~3,963 |
+| Reverse Banditry | 3.00% | ~3,963 |
+| Ramble On | 3.00% | ~3,963 |
+| A Clear Conscience | 3.00% | ~3,963 |
+| When You Want Something Done Right | 3.00% | ~3,963 |
+| Utopia | 3.00% | ~3,963 |
+| Unshackled | 3.00% | ~3,963 |
+| Road Trip | 3.00% | ~3,963 |
 | This Looks Familiar | 2.00% | ~2,642 |
 | Hope Rekindled | 2.00% | ~2,642 |
 | Ichthyophobic | 2.00% | ~2,642 |
 | No More Mouths to Feed | 2.00% | ~2,642 |
-| When You Want Something Done Right | 2.00% | ~2,642 |
 | Worldly Traveller | 2.00% | ~2,642 |
 | Hot Air | 2.00% | ~2,642 |
 | Eyes Up | 2.00% | ~2,642 |
@@ -63,8 +63,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 1.00% | ~1,321 |
 | Handled | 1.00% | ~1,321 |
 | Body of Work | 1.00% | ~1,321 |
-| Slap on the Wrist | 1.00% | ~69 |
-| For Old Time' Sake | 1.00% | ~69 |
+| Slap on the Wrist | 1.00% | ~70 |
+| For Old Time' Sake | 1.00% | ~70 |
 | Hat Trick | 0.90% | ~1,189 |
 | Triage | 0.90% | ~1,189 |
 | No Mercy | 0.90% | ~63 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,079 (Ranked 91)  
+Progressed: 132,092 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 132,079 | 3 |
+| 2024-01-07 | 132,092 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
 Sum: 21,519 (Ranked 58)  

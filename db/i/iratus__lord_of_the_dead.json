@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2479,9 +2479,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 48921,
+  "EOS_Progressed": 48922,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31049,6 +31049,11 @@
       "Time": "2024-01-07T20:06:21.2073096+00:00",
       "NumProgressed": 48921,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-07T21:07:49.8813757+00:00",
+      "NumProgressed": 48922,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -31092,7 +31097,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 27885
+      "UsersEstimate": 27886
     },
     {
       "ID": "achievements_14",
@@ -31100,7 +31105,7 @@
       "Name": "Wild Hunger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7827
+      "UsersEstimate": 7828
     },
     {
       "ID": "achievements_15",
@@ -31116,7 +31121,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 17122
+      "UsersEstimate": 17123
     },
     {
       "ID": "achievements_19",
@@ -31172,7 +31177,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 26417
+      "UsersEstimate": 26418
     },
     {
       "ID": "achievements_25",
@@ -31196,7 +31201,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 19079
+      "UsersEstimate": 19080
     },
     {
       "ID": "achievements_28",
@@ -31300,7 +31305,7 @@
       "Name": "Rage Concentrated",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7827
+      "UsersEstimate": 7828
     },
     {
       "ID": "achievements_4",
@@ -31364,7 +31369,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 41583
+      "UsersEstimate": 41584
     },
     {
       "ID": "achievements_47",
@@ -31396,7 +31401,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 24460
+      "UsersEstimate": 24461
     },
     {
       "ID": "achievements_50",
@@ -31412,7 +31417,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 19568
+      "UsersEstimate": 19569
     },
     {
       "ID": "achievements_52",
@@ -31428,7 +31433,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 27885
+      "UsersEstimate": 27886
     },
     {
       "ID": "achievements_54",
@@ -31500,7 +31505,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12719
+      "UsersEstimate": 12720
     },
     {
       "ID": "achievements_63",
@@ -31532,7 +31537,7 @@
       "Name": "Nightmare of the Humanity - II",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 10273
+      "UsersEstimate": 10274
     },
     {
       "ID": "achievements_67",
@@ -31540,7 +31545,7 @@
       "Name": "Nightmare of the Humanity - III",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "achievements_68",
@@ -31636,7 +31641,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 35712
+      "UsersEstimate": 35713
     },
     {
       "ID": "achievements_8",
@@ -31659,15 +31664,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 48921,
+      "Progressed": 48922,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2024-01-06T15:02:48.0998069+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:06:21.2073091+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:07:49.8813751+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.8003491+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:57:19.2565348+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:06:21.2074723+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:57:34.7106666+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:07:49.8815485+00:00"
 }

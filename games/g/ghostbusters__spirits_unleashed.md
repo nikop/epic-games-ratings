@@ -8,9 +8,9 @@ Rating: 4.50 (Ranked 612)
 | Stylish | 11.00% | ~3,677 |
 | Meticulously Efficient | 9.00% | ~3,008 |
 | Advancement | 8.00% | ~2,674 |
-| Discovery | 6.00% | ~2,005 |
-| Solo Capture | 6.00% | ~2,005 |
-| Swift Rift Removers | 6.00% | ~2,005 |
+| Discovery | 6.00% | ~2,006 |
+| Solo Capture | 6.00% | ~2,006 |
+| Swift Rift Removers | 6.00% | ~2,006 |
 | Clutch Capture | 5.00% | ~1,671 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,671 |
 | Fully Upgraded | 5.00% | ~1,671 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 612)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,423 (Ranked 136)  
+Progressed: 33,425 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 71 (0.21%) (Ranked 273)
 | 2024-01-04 | 33,258 | 71 |
 | 2024-01-05 | 33,310 | 71 |
 | 2024-01-06 | 33,384 | 71 |
-| 2024-01-07 | 33,423 | 71 |
+| 2024-01-07 | 33,425 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 255)  
 Sum: 2,953 (Ranked 186)  

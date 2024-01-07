@@ -4,8 +4,8 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 831,
+  "EOS_Progressed": 832,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
@@ -2689,6 +2689,11 @@
       "Time": "2024-01-07T19:09:00.3650297+00:00",
       "NumProgressed": 831,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T21:08:55.5651657+00:00",
+      "NumProgressed": 832,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2709,7 +2714,7 @@
       "Name": "Chapter II - Complete",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -2757,7 +2762,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -2796,14 +2801,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 831,
+      "Progressed": 832,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:08:22.9851041+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:08:55.5651644+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:58:55.622986+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:08:22.9851254+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:59:42.8891904+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:08:55.565191+00:00"
 }

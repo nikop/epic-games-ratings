@@ -2,10 +2,10 @@
   "ID": "877e0717992c4058acdb32363130958a",
   "Name": "Oxide Room 104",
   "ProductSlug": "oxide-room-104-4c1249",
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1434,6 +1434,11 @@
       "Time": "2024-01-07T07:04:41.3349458+00:00",
       "NumProgressed": 310,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T21:06:17.2775255+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1461,7 +1466,7 @@
       "Name": "Antidote",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_BANDAGES",
@@ -1475,9 +1480,9 @@
       "ID": "ACH_BATHROOM",
       "SetID": "511e31d",
       "Name": "What\u0027s going on here?",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1485,7 +1490,7 @@
       "Name": "On the right path",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_DOCDOCUMENTS",
@@ -1541,7 +1546,7 @@
       "Name": "Brute force",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_GOODENDING",
@@ -1557,7 +1562,7 @@
       "Name": "Let\u0027s play a game\u2026",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_KITCHEN",
@@ -1579,9 +1584,9 @@
       "ID": "ACH_MUSICRADIO",
       "SetID": "511e31d",
       "Name": "Soundtrack",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -1605,7 +1610,7 @@
       "Name": "It can\u0027t be true",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_PICKLOCK",
@@ -1635,17 +1640,17 @@
       "ID": "ACH_ROOM104",
       "SetID": "511e31d",
       "Name": "Room 104",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_ROOM203",
       "SetID": "511e31d",
       "Name": "Pick the right door",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_ROOM303",
@@ -1653,7 +1658,7 @@
       "Name": "One-way",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_SPADE",
@@ -1683,23 +1688,23 @@
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 227
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:05:09.548043+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:06:17.2775251+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:32.0336088+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:59:27.112722+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:05:09.5480794+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:00:26.4484009+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:06:17.2775724+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -831,9 +831,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3829,
+  "EOS_Progressed": 3832,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5711,6 +5711,11 @@
       "Time": "2024-01-07T17:03:48.5252864+00:00",
       "NumProgressed": 3829,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T21:04:37.0030301+00:00",
+      "NumProgressed": 3832,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5818,7 +5823,7 @@
       "Name": "Surgical Excision",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -5898,7 +5903,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -6090,7 +6095,7 @@
       "Name": "A Foul Creche",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -6265,21 +6270,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3829,
+      "Progressed": 3832,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3829,
+      "Progressed": 3832,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-07T18:03:11.2101715+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:03:51.3796494+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:04:37.0030296+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:03:02.3405282+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:03:51.3797143+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:03:30.7714768+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:04:37.0031002+00:00"
 }

@@ -14,7 +14,7 @@
 | Subsistence Skills | 47.00% | ~576 |
 | Memory Rouser | 46.00% | ~564 |
 | Fusion Conjuror | 45.00% | ~551 |
-| Kemono Hunter | 41.00% | ~502 |
+| Kemono Hunter | 42.00% | ~514 |
 | Helpful Heart | 39.00% | ~478 |
 | Expert Conjuror | 39.00% | ~478 |
 | Flawless Crystal | 37.00% | ~453 |

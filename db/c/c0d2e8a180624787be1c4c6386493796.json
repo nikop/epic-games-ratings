@@ -3,9 +3,9 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 403,
-  "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1429,9 +1429,9 @@
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
       "SetID": "caeik3h",
       "Name": "Final Destination",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
@@ -1701,9 +1701,9 @@
       "ID": "KR4_ACHIEVEMENT_MINE_CART_CARNAGE",
       "SetID": "caeik3h",
       "Name": "Mine Cart Carnage",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOLE",
@@ -1938,8 +1938,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:05:45.5249923+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:07:03.7040602+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:58:47.0567335+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:05:45.5250652+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:59:30.9805536+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:07:03.7041524+00:00"
 }

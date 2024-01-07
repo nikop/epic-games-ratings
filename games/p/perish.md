@@ -12,13 +12,13 @@
 | Persephone's Guidance | 5.00% | ~198 |
 | Lochos | 5.00% | ~198 |
 | Strength of Herakles | 5.00% | ~198 |
-| Reign in Blood | 5.00% | ~198 |
 | Immolator | 4.00% | ~158 |
 | Go For the Head | 4.00% | ~158 |
 | Spartan Sandal | 4.00% | ~158 |
 | Symbols of Heresy | 4.00% | ~158 |
 | The Sons of Minos | 4.00% | ~158 |
 | Eidola | 4.00% | ~158 |
+| Reign in Blood | 4.00% | ~158 |
 | Comedy and Tragedy | 3.00% | ~119 |
 | Pillars of Eternity | 3.00% | ~119 |
 | War Chest | 3.00% | ~119 |
@@ -56,10 +56,10 @@
 | Athenian Treasury | 0.90% | ~36 |
 | Invicta | 0.80% | ~32 |
 | Olympian | 0.60% | ~24 |
+| Elephantine | 0.50% | ~20 |
 | Hipparchia's Labour | 0.40% | ~16 |
 | Debauchery | 0.40% | ~16 |
 | Interrupt the Interloper | 0.40% | ~16 |
-| Elephantine | 0.40% | ~16 |
 | Window Shopping | 0.30% | ~12 |
 | Blessing of Spring | 0.30% | ~12 |
 | Buyer's Remorse | 0.20% | ~8 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,955 (Ranked 214)  
+Progressed: 3,958 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,931 | 0 |
 | 2024-01-05 | 3,942 | 0 |
 | 2024-01-06 | 3,947 | 0 |
-| 2024-01-07 | 3,955 | 0 |
+| 2024-01-07 | 3,958 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

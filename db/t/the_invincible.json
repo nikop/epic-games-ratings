@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1504,
+  "EOS_Progressed": 1505,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3885,6 +3885,11 @@
       "Time": "2024-01-07T20:09:21.8277167+00:00",
       "NumProgressed": 1504,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T21:10:12.00246+00:00",
+      "NumProgressed": 1505,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3897,7 +3902,7 @@
       "Name": "The Teleprobe",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "AchvAllMemories",
@@ -4071,9 +4076,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1054
     },
     {
       "ID": "AchvReachCity",
@@ -4089,7 +4094,7 @@
       "Name": "The Condor",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "AchvSurvivors",
@@ -4111,9 +4116,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 541
+      "UsersEstimate": 557
     },
     {
       "ID": "AchvUnity",
@@ -4128,7 +4133,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1504,
+      "Progressed": 1505,
       "Completed": 1
     }
   ],
@@ -4136,8 +4141,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-07T13:04:46.5535685+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:09:21.8277162+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:10:12.0024593+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:00:25.2711389+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:09:21.8277606+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:01:47.3069966+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:10:12.0025075+00:00"
 }

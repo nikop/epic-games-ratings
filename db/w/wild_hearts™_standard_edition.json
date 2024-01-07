@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1225,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -4100,9 +4100,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 514
     },
     {
       "ID": "achievement_23",
@@ -4378,8 +4378,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:09:16.1438986+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:10:04.7582205+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:59:06.24899+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:09:16.1439745+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:59:57.757845+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:10:04.7582693+00:00"
 }

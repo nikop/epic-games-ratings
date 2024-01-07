@@ -4,8 +4,8 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -604,6 +604,11 @@
       "Time": "2024-01-07T10:06:40.1963561+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T21:06:57.9597994+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -616,7 +621,7 @@
       "Name": "Welcome to Fortnight",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TOURN_PARTICIP_20",
@@ -704,7 +709,7 @@
       "Name": "Red-eye Flight",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "airtime_short",
@@ -712,7 +717,7 @@
       "Name": "Glider",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "beat_c1_bronze",
@@ -728,7 +733,7 @@
       "Name": "Wax On, Wax Off",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "beat_c1_gold",
@@ -736,13 +741,13 @@
       "Name": "Venture Time",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 62
     },
@@ -856,7 +861,7 @@
       "Name": "Power-Levelling",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "beat_c3_gold",
@@ -1040,7 +1045,7 @@
       "Name": "Ultra Unlocked",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "beat_mayhem_diamond",
@@ -1190,15 +1195,15 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 81
     },
@@ -1208,7 +1213,7 @@
       "Name": "Hat Trick Hero",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "soccer_high",
@@ -1303,14 +1308,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:05:41.0325241+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:06:57.9597988+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:02:31.8707227+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:05:41.0326132+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:02:50.1692707+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:06:57.9598808+00:00"
 }

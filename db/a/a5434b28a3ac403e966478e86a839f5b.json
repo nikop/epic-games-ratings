@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 908,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -3150,6 +3150,11 @@
       "Time": "2024-01-07T18:08:51.2021818+00:00",
       "NumProgressed": 906,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T21:09:11.1958726+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3170,7 +3175,7 @@
       "Name": "Establish Communications",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_eou2",
@@ -3186,7 +3191,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_eou4",
@@ -3194,7 +3199,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_eou5",
@@ -3202,7 +3207,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_eou6",
@@ -3218,7 +3223,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_eou8",
@@ -3258,21 +3263,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 908,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:08:35.1781538+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:09:11.1958722+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:58:15.7719946+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:08:35.1781828+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:58:49.8397681+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:09:11.1959119+00:00"
 }

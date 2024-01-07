@@ -1,29 +1,29 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.49 (Ranked 634)  
+Rating: 4.49 (Ranked 635)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~496 |
-| Close call! | 71.00% | ~457 |
-| Builder | 51.00% | ~328 |
-| Pangs of conscience | 44.00% | ~283 |
-| Living it large! | 44.00% | ~283 |
-| Collector | 42.00% | ~270 |
-| Completely nuts! | 41.00% | ~264 |
+| Getting started | 76.00% | ~490 |
+| Close call! | 71.00% | ~458 |
+| Builder | 51.00% | ~329 |
+| Pangs of conscience | 44.00% | ~284 |
+| Living it large! | 44.00% | ~284 |
+| Collector | 42.00% | ~271 |
 | Need to think | 41.00% | ~264 |
+| Completely nuts! | 40.00% | ~258 |
 | Europe | 33.00% | ~213 |
 | Just in time! | 32.00% | ~206 |
 | Madness! | 31.00% | ~200 |
 | It's no coincidence. | 27.00% | ~174 |
-| Philatelist | 26.00% | ~167 |
+| Philatelist | 26.00% | ~168 |
 | Let's roll! | 25.00% | ~161 |
-| Ouroboros | 25.00% | ~161 |
+| Ouroboros | 24.00% | ~155 |
 | Non Stop! | 24.00% | ~155 |
 | Foreman | 20.00% | ~129 |
-| Russia | 19.00% | ~122 |
+| Russia | 19.00% | ~123 |
 | America | 18.00% | ~116 |
 | Missed it! | 18.00% | ~116 |
 | Sabotage | 15.00% | ~97 |
@@ -33,9 +33,9 @@ Number of Ratings: 28  (23.09.2022)
 | Woodcutter | 10.00% | ~64 |
 | Engineer | 10.00% | ~64 |
 | Germany | 7.00% | ~45 |
-| Сhancellor | 5.00% | ~32 |
 | Supercrash! | 5.00% | ~32 |
 | Chuck Norris | 5.00% | ~32 |
+| Сhancellor | 4.00% | ~26 |
 | Peacemaker | 4.00% | ~26 |
 | Forgotten | 3.00% | ~19 |
 | Lucky vandal | 3.00% | ~19 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~4 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 644 (Ranked 333)  
+Progressed: 645 (Ranked 333)  
 Completed: 2 (0.31%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2 (0.31%) (Ranked 252)
 | 2024-01-04 | 630 | 2 |
 | 2024-01-05 | 632 | 2 |
 | 2024-01-06 | 640 | 2 |
-| 2024-01-07 | 644 | 2 |
+| 2024-01-07 | 645 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

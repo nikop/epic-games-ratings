@@ -2,10 +2,10 @@
   "ID": "2015d187216e4b33b88edee66282e4a1",
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
-  "Ranking_EOS_Progress": 520,
-  "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 76,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.67,
+  "EOS_Completed_Percentage": 6.58,
   "EosHistory": [
     {
       "Time": "2023-09-28T09:07:03.7102413+00:00",
@@ -425,6 +425,11 @@
       "Time": "2024-01-07T15:04:54.6113937+00:00",
       "NumProgressed": 75,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-07T21:06:17.0101648+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T03:06:31.4397832+00:00",
@@ -435,7 +440,7 @@
       "ID": "BeatBossChen",
       "SetID": "123m9l1",
       "Name": "Death Battle",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
       "UsersEstimate": 32
     },
@@ -443,7 +448,7 @@
       "ID": "BeatBossKawa",
       "SetID": "123m9l1",
       "Name": "Phantom Kunoichi",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
       "UsersEstimate": 33
     },
@@ -451,7 +456,7 @@
       "ID": "BeatBossNaka",
       "SetID": "123m9l1",
       "Name": "Killing Machine",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
       "UsersEstimate": 36
     },
@@ -475,7 +480,7 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 100,
       "UsersEstimate": 47
     },
@@ -491,7 +496,7 @@
       "ID": "ClarifyRumors",
       "SetID": "123m9l1",
       "Name": "Dispel Rumors",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
       "UsersEstimate": 26
     },
@@ -533,7 +538,7 @@
       "Name": "Hero Arrives",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "HardcorePlayer",
@@ -555,7 +560,7 @@
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -563,7 +568,7 @@
       "ID": "MilitaryFactoryExplorer",
       "SetID": "123m9l1",
       "Name": "Urban Explorer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 20
     },
@@ -579,7 +584,7 @@
       "ID": "RescueAKuai",
       "SetID": "123m9l1",
       "Name": "Steal Her Away",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 23
     },
@@ -587,7 +592,7 @@
       "ID": "SaveMatsumoto",
       "SetID": "123m9l1",
       "Name": "Captain Mustache",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
       "UsersEstimate": 30
     },
@@ -644,7 +649,7 @@
     {
       "ID": "123m9l1",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 5
     }
   ],
@@ -652,8 +657,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:05:09.3569178+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:06:17.010164+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.6846029+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:56:53.5914472+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:05:09.3569378+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:56:58.7419503+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:06:17.0101817+00:00"
 }

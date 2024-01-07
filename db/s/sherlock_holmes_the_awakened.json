@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 270,
-  "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_Completed": 107,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -164,10 +164,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1419,
-  "EOS_Completed": 42,
-  "EOS_NewPlayers": 53,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 2.96,
+  "EOS_Completed": 43,
+  "EOS_NewPlayers": 52,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -5013,6 +5013,11 @@
       "Time": "2024-01-07T19:04:34.0811959+00:00",
       "NumProgressed": 1419,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2024-01-07T21:05:12.4514063+00:00",
+      "NumProgressed": 1419,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 28,
@@ -5222,9 +5227,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 539
+      "UsersEstimate": 553
     },
     {
       "ID": "MQ08_3",
@@ -5248,15 +5253,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 1419,
-      "Completed": 42
+      "Completed": 43
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:04:19.4900537+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:05:12.4514058+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.4350556+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:03:01.204608+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:04:19.4901067+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:03:29.0757622+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:05:12.4514503+00:00"
 }

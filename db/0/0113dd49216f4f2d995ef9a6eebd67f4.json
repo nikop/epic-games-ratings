@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1221,9 +1221,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 183
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1452,8 +1452,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:08:47.5060924+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:09:27.3661597+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:58:40.9375667+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:08:47.5061179+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:59:22.7473187+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:09:27.366198+00:00"
 }

@@ -1713,9 +1713,9 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 262
+      "UsersEstimate": 266
     },
     {
       "ID": "ach_hint_6",
@@ -1745,9 +1745,9 @@
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 80,
-      "UsersEstimate": 286
+      "UsersEstimate": 290
     },
     {
       "ID": "ach_skip_1",
@@ -1784,8 +1784,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:09:02.3856606+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:09:46.6563074+00:00",
   "LastUpdate_AppInfo": "2024-01-05T10:56:56.7031423+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:02:37.8326521+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:09:02.3856718+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:02:58.465513+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:09:46.6563309+00:00"
 }

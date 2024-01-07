@@ -1,12 +1,12 @@
 # Warpips
 [Store](https://store.epicgames.com/en-US/p/warpips-57e2c4)  
 [View Rawdata](../../db/w/warpips.json)  
-Rating: 4.42 (Ranked 738)  
+Rating: 4.42 (Ranked 739)  
 Number of Ratings: 31  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 38  (Ranked 488)  
+Max (Great for Quick Sessions): 38  (Ranked 489)  
 Sum: 241 (Ranked 403)  
-Diff (max vs sum): 85  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 38 |

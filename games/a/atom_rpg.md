@@ -1,7 +1,7 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.49 (Ranked 634)  
+Rating: 4.49 (Ranked 635)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,8 +11,8 @@ Number of Ratings: 54  (23.09.2022)
 | Wanderer | 32.00% | ~534 |
 | One shot, one kill | 25.00% | ~417 |
 | Traveler | 22.00% | ~367 |
+| Grave Robber | 17.00% | ~284 |
 | Explorer | 16.00% | ~267 |
-| Grave Robber | 16.00% | ~267 |
 | Head Burst | 16.00% | ~267 |
 | Double agent | 15.00% | ~250 |
 | Paranoia | 15.00% | ~250 |

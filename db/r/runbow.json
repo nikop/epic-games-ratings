@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253227,
+  "EOS_Progressed": 253230,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23532,6 +23532,11 @@
       "Time": "2024-01-07T20:09:45.8734318+00:00",
       "NumProgressed": 253227,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T21:10:41.8693841+00:00",
+      "NumProgressed": 253230,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23647,7 +23652,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50645
+      "UsersEstimate": 50646
     },
     {
       "ID": "didYourTime",
@@ -23719,7 +23724,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134210
+      "UsersEstimate": 134212
     },
     {
       "ID": "indegestible",
@@ -23743,7 +23748,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65839
+      "UsersEstimate": 65840
     },
     {
       "ID": "justABit",
@@ -23783,7 +23788,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126614
+      "UsersEstimate": 126615
     },
     {
       "ID": "notScared",
@@ -23847,7 +23852,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58242
+      "UsersEstimate": 58243
     },
     {
       "ID": "thunderstruck",
@@ -23903,14 +23908,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40516
+      "UsersEstimate": 40517
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253227,
+      "Progressed": 253230,
       "Completed": 6
     }
   ],
@@ -23918,8 +23923,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:09:45.8734314+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:10:41.8693838+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:57:09.255469+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:09:45.8735963+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:57:21.3783847+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:10:41.8695237+00:00"
 }

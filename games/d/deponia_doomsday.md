@@ -5,15 +5,15 @@ Rating: 4.55 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 85.00% | ~443 |
-| And again, and again, and... | 63.00% | ~328 |
+| Huzza, he's back. | 85.00% | ~444 |
+| And again, and again, and... | 63.00% | ~329 |
 | Kuvaq Minigame-Master | 61.00% | ~318 |
 | Burn, Elysium, burn! | 61.00% | ~318 |
-| FunScore | 54.00% | ~281 |
+| FunScore | 54.00% | ~282 |
 | Funtime's over | 52.00% | ~271 |
-| Chunky | 49.00% | ~255 |
+| Chunky | 48.00% | ~251 |
+| Boat of love, boat of love | 48.00% | ~251 |
 | Shall we play a game? | 47.00% | ~245 |
-| Boat of love, boat of love | 47.00% | ~245 |
 | School's out | 43.00% | ~224 |
 | Sole Music | 36.00% | ~188 |
 | Scaffolding Expert | 36.00% | ~188 |
@@ -33,7 +33,7 @@ Rating: 4.55 (Ranked 527)
 | Goat Team | 10.00% | ~52 |
 | Paradox! | 10.00% | ~52 |
 | Weapons 101 | 8.00% | ~42 |
-| Sadist | 7.00% | ~36 |
+| Sadist | 7.00% | ~37 |
 | The customer is always right | 6.00% | ~31 |
 | Pacifist | 6.00% | ~31 |
 | Apoca...huh? | 6.00% | ~31 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 527)
 | Every man for himself! | 5.00% | ~26 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521 (Ranked 342)  
+Progressed: 522 (Ranked 342)  
 Completed: 7 (1.34%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 7 (1.34%) (Ranked 153)
 | 2024-01-04 | 513 | 7 |
 | 2024-01-05 | 514 | 7 |
 | 2024-01-06 | 518 | 7 |
-| 2024-01-07 | 521 | 7 |
+| 2024-01-07 | 522 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

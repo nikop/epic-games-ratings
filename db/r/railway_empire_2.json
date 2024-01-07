@@ -2,13 +2,13 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_Rating": 738,
+  "Ranking_Rating": 739,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2656,
+  "EOS_Progressed": 2657,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7741,6 +7741,11 @@
       "Time": "2024-01-07T20:05:14.8313012+00:00",
       "NumProgressed": 2656,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T21:06:24.1807332+00:00",
+      "NumProgressed": 2657,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7768,7 +7773,7 @@
       "Name": "Trailblazer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "A03",
@@ -7832,7 +7837,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "A11",
@@ -7848,7 +7853,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "A13",
@@ -7862,9 +7867,9 @@
       "ID": "A14",
       "SetID": "9b7p7eo",
       "Name": "A new Journey",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 1993
     },
     {
       "ID": "A15",
@@ -7872,7 +7877,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "A16",
@@ -7888,7 +7893,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "A18",
@@ -7896,7 +7901,7 @@
       "Name": "General Manager",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "A19",
@@ -7912,7 +7917,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2046
     },
     {
       "ID": "A21",
@@ -7920,7 +7925,7 @@
       "Name": "Country Life",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "A22",
@@ -7944,7 +7949,7 @@
       "Name": "Access granted",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "A25",
@@ -7974,9 +7979,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1807
     },
     {
       "ID": "A29",
@@ -7992,7 +7997,7 @@
       "Name": "All mine",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "A31",
@@ -8008,7 +8013,7 @@
       "Name": "Assimilated",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "A33",
@@ -8032,7 +8037,7 @@
       "Name": "Traffic Junction",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "A36",
@@ -8056,7 +8061,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "A39",
@@ -8072,7 +8077,7 @@
       "Name": "Mind the Gap",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "A41",
@@ -8080,7 +8085,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "A42",
@@ -8088,7 +8093,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "A43",
@@ -8096,7 +8101,7 @@
       "Name": "Mole",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "A44",
@@ -8120,7 +8125,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "A47",
@@ -8128,7 +8133,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "A48",
@@ -8191,7 +8196,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2656,
+      "Progressed": 2657,
       "Completed": 0
     }
   ],
@@ -8199,8 +8204,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:05:14.8313008+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:06:24.1807327+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.5860867+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:57:56.1782579+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:05:14.8313719+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:58:22.9480796+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:06:24.1808127+00:00"
 }

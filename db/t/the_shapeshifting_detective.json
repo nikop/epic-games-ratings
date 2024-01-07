@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -852,9 +852,9 @@
       "ID": "book_em_danny",
       "SetID": "2db2j74",
       "Name": "Book \u0027em Danny",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "bullseye",
@@ -1021,8 +1021,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:03:53.5857729+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:04:39.9049115+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:51.7616566+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:02:58.680878+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:03:53.5857871+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:03:25.3405384+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:04:39.9049356+00:00"
 }

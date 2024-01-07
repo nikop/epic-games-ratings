@@ -3,12 +3,12 @@
   "Name": "HOT WHEELS UNLEASHED\u2122",
   "ProductSlug": "hot-wheels-unleashed",
   "Ranking_Rating": 430,
-  "Ranking_Popularity": 478,
+  "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-30T16:00:00+00:00",
     "PcReleaseDate": "2021-09-30T16:00:00+00:00",
@@ -751,8 +751,8 @@
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
   "FirstSeenAchievements": "2023-10-25T15:04:44.0813586+00:00",
   "LastChanged": "2024-01-07T13:57:55.4368521+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:05:53.5046314+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:07:13.9859932+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:23.0650855+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:58:02.4417024+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:05:53.5046331+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:58:32.1299664+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:07:13.9859962+00:00"
 }

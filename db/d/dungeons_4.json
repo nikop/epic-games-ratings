@@ -2,13 +2,13 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_Rating": 164,
+  "Ranking_Rating": 163,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -65,11 +65,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 4.18,
+  "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -2350,6 +2350,11 @@
       "Time": "2024-01-07T17:09:03.8458114+00:00",
       "NumProgressed": 742,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-01-07T21:09:37.4477624+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2362,15 +2367,15 @@
       "Name": "The Last Stand",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ach_main01begin_die",
       "SetID": "4hg22ll",
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 654
     },
     {
       "ID": "ach_main01begin_storm",
@@ -2386,7 +2391,7 @@
       "Name": "Hammer Time, Round Two",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2394,7 +2399,7 @@
       "Name": "For the Horde!",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2410,7 +2415,7 @@
       "Name": "The Hellwoods",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2418,7 +2423,7 @@
       "Name": "Master of Magic",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ach_main03demon_spells",
@@ -2458,7 +2463,7 @@
       "Name": "Bad Elves Go Everywhere",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2466,7 +2471,7 @@
       "Name": "Experienced Thalya",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -2474,15 +2479,15 @@
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 490
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -2498,7 +2503,7 @@
       "Name": "YOU SHALL NOT PASS!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ach_main07storm_classified",
@@ -2506,7 +2511,7 @@
       "Name": "Hard Work",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ach_main07storm_completed",
@@ -2538,7 +2543,7 @@
       "Name": "The Big Eaty",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
@@ -2602,7 +2607,7 @@
       "Name": "Shame! Shame! Shame!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -2642,7 +2647,7 @@
       "Name": "Stop Tanos!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ach_main12race_torture",
@@ -2658,7 +2663,7 @@
       "Name": "The Duel",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ach_main13tanos_dungeonlord",
@@ -2698,7 +2703,7 @@
       "Name": "Laser Eyes Are So Useless",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_main15drill_completed",
@@ -2714,7 +2719,7 @@
       "Name": "Sabotage!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ach_main15drill_untouchable",
@@ -2738,7 +2743,7 @@
       "Name": "Lavalumps on Ice!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -2754,7 +2759,7 @@
       "Name": "Raiders of the Lost Stone",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ach_main17stone_explosions",
@@ -2778,7 +2783,7 @@
       "Name": "The Rune Sockets of Finitude (Part 1)",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ach_main18unholy_researches",
@@ -2808,9 +2813,9 @@
       "ID": "ach_main19war_heal",
       "SetID": "4hg22ll",
       "Name": "Heal Heal Blessing",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 126
     },
     {
       "ID": "ach_main19war_stonedamage",
@@ -2849,7 +2854,7 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 31
     }
   ],
@@ -2857,8 +2862,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-07T17:57:59.5607036+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:08:54.9866499+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:09:37.447762+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:57:46.7061813+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:08:54.9867191+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:58:10.626883+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:09:37.4478278+00:00"
 }

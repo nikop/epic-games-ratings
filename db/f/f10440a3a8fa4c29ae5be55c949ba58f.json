@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7599,
+  "EOS_Progressed": 7616,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2269,
+  "EOS_NewPlayers": 2271,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2089,6 +2089,11 @@
       "Time": "2024-01-07T20:09:05.2195327+00:00",
       "NumProgressed": 7599,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-07T21:09:50.4454584+00:00",
+      "NumProgressed": 7616,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -2099,9 +2104,9 @@
       "ID": "CompleteGame",
       "SetID": "ao2gjap",
       "Name": "Final Destination",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3732
     },
     {
       "ID": "Document1",
@@ -2109,7 +2114,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Document2",
@@ -2164,14 +2169,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 7599,
+      "Progressed": 7616,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:09:05.2195323+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:09:50.4454579+00:00",
   "LastUpdate_AppInfo": "2023-12-31T21:56:58.8346544+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:58:43.8896053+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:09:05.2195606+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:59:26.61343+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:09:50.4454757+00:00"
 }

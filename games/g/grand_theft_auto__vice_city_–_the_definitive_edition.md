@@ -5,17 +5,17 @@ Rating: 4.52 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,267 |
-| Greasy Palms | 42.00% | ~6,635 |
-| South American Connection | 26.00% | ~4,107 |
-| Life of the Party | 21.00% | ~3,318 |
-| Big Heat from Little Havana | 15.00% | ~2,370 |
-| Chauffeur | 15.00% | ~2,370 |
-| Tommy Two-Wheels | 15.00% | ~2,370 |
-| Salutations My Little Friend | 11.00% | ~1,738 |
-| Iron-y | 10.00% | ~1,580 |
-| Gun for Hire | 9.00% | ~1,422 |
-| Mischief Managed | 9.00% | ~1,422 |
+| Legal Counsel | 46.00% | ~7,271 |
+| Greasy Palms | 42.00% | ~6,639 |
+| South American Connection | 26.00% | ~4,110 |
+| Life of the Party | 21.00% | ~3,319 |
+| Big Heat from Little Havana | 15.00% | ~2,371 |
+| Chauffeur | 15.00% | ~2,371 |
+| Tommy Two-Wheels | 15.00% | ~2,371 |
+| Salutations My Little Friend | 11.00% | ~1,739 |
+| Iron-y | 10.00% | ~1,581 |
+| Gun for Hire | 9.00% | ~1,423 |
+| Mischief Managed | 9.00% | ~1,423 |
 | Vice City Mogul | 7.00% | ~1,106 |
 | Catch Me if You Can | 6.00% | ~948 |
 | Bloodstained Hands | 6.00% | ~948 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 574)
 | Done it All | 0.90% | ~142 |
 | Kingpin | 0.60% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,798 (Ranked 171)  
+Progressed: 15,806 (Ranked 171)  
 Completed: 91 (0.58%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 91 (0.58%) (Ranked 207)
 | 2024-01-04 | 15,370 | 86 |
 | 2024-01-05 | 15,486 | 86 |
 | 2024-01-06 | 15,660 | 88 |
-| 2024-01-07 | 15,798 | 91 |
+| 2024-01-07 | 15,806 | 91 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

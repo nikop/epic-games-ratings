@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1909,
+  "EOS_Progressed": 1910,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -3487,6 +3487,11 @@
       "Time": "2024-01-07T20:03:23.4435704+00:00",
       "NumProgressed": 1909,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-07T21:04:00.4178564+00:00",
+      "NumProgressed": 1910,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3498,7 +3503,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3506,7 +3511,7 @@
       "Name": "Great Doctor",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3554,7 +3559,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3562,7 +3567,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3610,7 +3615,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3626,7 +3631,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -3634,7 +3639,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3690,7 +3695,7 @@
       "Name": "Community Helper",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -3706,7 +3711,7 @@
       "Name": "Plantation Exterminator",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENTS_28",
@@ -3801,7 +3806,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1909,
+      "Progressed": 1910,
       "Completed": 11
     }
   ],
@@ -3809,8 +3814,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:03:23.44357+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:04:00.4178557+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.493824+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:57:25.5925342+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:03:23.4436628+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:57:43.1769026+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:04:00.4178897+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3963,9 +3963,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33423,
+  "EOS_Progressed": 33425,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24913,6 +24913,11 @@
       "Time": "2024-01-07T20:08:38.5203181+00:00",
       "NumProgressed": 33423,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-07T21:09:15.6233262+00:00",
+      "NumProgressed": 33425,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25012,7 +25017,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "Dont_Need_These",
@@ -25212,7 +25217,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "Stunner",
@@ -25252,7 +25257,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "Teamwork",
@@ -25331,7 +25336,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33423,
+      "Progressed": 33425,
       "Completed": 71
     }
   ],
@@ -25339,8 +25344,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-07T01:52:35.5069722+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:08:38.5203177+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:09:15.6233257+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:57:50.2712795+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:08:38.5204363+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:58:14.1828263+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:09:15.623483+00:00"
 }

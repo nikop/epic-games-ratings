@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 448,
+  "Ranking_Rating": 447,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19285,
+  "EOS_Progressed": 19286,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14535,6 +14535,11 @@
       "Time": "2024-01-07T18:03:46.0954115+00:00",
       "NumProgressed": 19285,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T21:04:28.9209416+00:00",
+      "NumProgressed": 19286,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14562,7 +14567,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3278
+      "UsersEstimate": 3279
     },
     {
       "ID": "0004",
@@ -14642,7 +14647,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "0014",
@@ -14698,7 +14703,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "0021",
@@ -14833,7 +14838,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19285,
+      "Progressed": 19286,
       "Completed": 4
     }
   ],
@@ -14841,8 +14846,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:03:45.0773483+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:04:28.9209411+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:47.8848382+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:59:24.9332258+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:03:45.0774499+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:00:23.7793222+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:04:28.9210364+00:00"
 }

@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.32 (Ranked 857)  
+Rating: 4.31 (Ranked 867)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 177  (23.09.2022)
 | Life Found a Way | 3.00% | ~128 |
 | Relentless | 3.00% | ~217 |
 | If at First You Don't Succeed... | 3.00% | ~217 |
-| Drunk and Disorderly: Stephanie | 2.00% | ~144 |
+| Drunk and Disorderly: Stephanie | 2.00% | ~145 |
 | Amy | 1.00% | ~72 |
 | Drunk and Disorderly: Ashley | 1.00% | ~72 |
 | IRL Let's Player | 1.00% | ~72 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,224 (Ranked 194)  
+Progressed: 7,228 (Ranked 194)  
 Completed: 3 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 3 (0.04%) (Ranked 349)
 | 2024-01-04 | 7,099 | 3 |
 | 2024-01-05 | 7,141 | 3 |
 | 2024-01-06 | 7,186 | 3 |
-| 2024-01-07 | 7,224 | 3 |
+| 2024-01-07 | 7,228 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -401,3 +401,4 @@ Completed: 3 (0.04%) (Ranked 349)
 | 2023-08-31 | 4.32 | - | 0 | 0 |
 | 2023-11-09 | 4.33 | - | 0 | 0 |
 | 2023-12-30 | 4.32 | - | 0 | 0 |
+| 2024-01-07 | 4.31 | - | 0 | 0 |

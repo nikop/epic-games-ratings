@@ -5,20 +5,20 @@ Rating: 4.46 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,990 |
-| Confirming Suspicions | 42.00% | ~1,779 |
-| The Kraken Wakes | 38.00% | ~1,609 |
-| It's Starting to Crack | 35.00% | ~1,482 |
-| Change the Channel | 32.00% | ~1,355 |
+| Meeting Resistance | 47.00% | ~1,991 |
+| Confirming Suspicions | 42.00% | ~1,780 |
+| The Kraken Wakes | 38.00% | ~1,610 |
+| It's Starting to Crack | 35.00% | ~1,483 |
+| Change the Channel | 32.00% | ~1,356 |
 | Lord of War | 31.00% | ~1,313 |
-| Taking it back | 30.00% | ~1,270 |
+| Taking it back | 30.00% | ~1,271 |
 | Resourceful | 28.00% | ~1,186 |
 | Target America | 28.00% | ~1,186 |
 | The Kraken Sleeps | 25.00% | ~1,059 |
-| As Quiet as a Mouse | 24.00% | ~1,016 |
-| Liberté | 23.00% | ~974 |
-| Organ Grinder | 23.00% | ~974 |
-| Sharpshooter | 23.00% | ~974 |
+| As Quiet as a Mouse | 24.00% | ~1,017 |
+| Liberté | 23.00% | ~975 |
+| Organ Grinder | 23.00% | ~975 |
+| Sharpshooter | 23.00% | ~975 |
 | Gunslinger | 19.00% | ~805 |
 | Explosive Efficiency | 19.00% | ~805 |
 | Climbing the Ladder | 17.00% | ~720 |
@@ -27,9 +27,9 @@ Rating: 4.46 (Ranked 673)
 | Close Quarters | 16.00% | ~678 |
 | Snake in the Grass | 16.00% | ~678 |
 | Brains of the Operation | 16.00% | ~678 |
-| No Stone Unturned | 15.00% | ~635 |
-| Skirmisher | 15.00% | ~635 |
-| Die Nussknacker Sweet! | 15.00% | ~635 |
+| No Stone Unturned | 15.00% | ~636 |
+| Skirmisher | 15.00% | ~636 |
+| Die Nussknacker Sweet! | 15.00% | ~636 |
 | Opposing Force | 14.00% | ~593 |
 | Enemy at the Gates | 14.00% | ~593 |
 | Fields of Glory | 14.00% | ~593 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 673)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,235 (Ranked 210)  
+Progressed: 4,237 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 11 (0.26%) (Ranked 263)
 | 2024-01-04 | 4,208 | 11 |
 | 2024-01-05 | 4,211 | 11 |
 | 2024-01-06 | 4,225 | 11 |
-| 2024-01-07 | 4,235 | 11 |
+| 2024-01-07 | 4,237 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 528)  
 Sum: 29 (Ranked 545)  

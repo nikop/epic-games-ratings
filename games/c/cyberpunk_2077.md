@@ -6,52 +6,52 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~123,951 |
-| The Fool | 10.00% | ~103,293 |
-| Right Back At Ya | 8.00% | ~82,634 |
-| Gun Fu | 8.00% | ~82,634 |
-| The Lovers | 8.00% | ~82,634 |
-| Full Body Conversion | 6.00% | ~61,976 |
-| The Wheel of Fortune | 6.00% | ~61,976 |
-| True Soldier | 6.00% | ~61,976 |
-| Christmas Tree Attack | 5.00% | ~51,646 |
-| Stanislavski's Method | 5.00% | ~51,646 |
-| The Hermit | 5.00% | ~51,646 |
-| All the President's Men | 5.00% | ~8,078 |
-| Arachnophobia | 5.00% | ~8,078 |
-| Life of the Road | 4.00% | ~41,317 |
-| The High Priestess | 4.00% | ~41,317 |
-| True Warrior | 4.00% | ~41,317 |
-| Legend of The Afterlife | 4.00% | ~41,317 |
-| Bushido and Chill | 3.00% | ~30,988 |
-| Master Crafter | 3.00% | ~30,988 |
-| The Quick and the Dead | 3.00% | ~30,988 |
-| The World | 3.00% | ~30,988 |
-| Judy vs Night City | 3.00% | ~30,988 |
-| Relic Ruler | 3.00% | ~4,847 |
-| To Protect and Serve | 2.00% | ~20,659 |
-| The Wandering Fool | 2.00% | ~20,659 |
-| I Am The Law | 2.00% | ~20,659 |
-| Two Heads, One Bullet | 2.00% | ~20,659 |
-| Spin Doctor | 2.00% | ~3,231 |
-| Easy Come, Easy Go | 2.00% | ~3,231 |
-| To Bad Decisions! | 1.00% | ~10,329 |
-| Breathtaking | 1.00% | ~10,329 |
-| Ten out of Ten | 1.00% | ~10,329 |
-| The Star | 1.00% | ~10,329 |
-| The Sun | 1.00% | ~10,329 |
-| King of Wands | 1.00% | ~1,616 |
-| Dirty Deeds | 1.00% | ~1,616 |
-| Autojock | 0.80% | ~8,263 |
-| The APB is Not Enough | 0.80% | ~1,292 |
-| Judgement Day | 0.80% | ~1,292 |
-| King of Swords | 0.80% | ~1,292 |
-| The Tower | 0.80% | ~1,292 |
-| Must Be Rats | 0.70% | ~7,230 |
-| Temperance | 0.70% | ~7,230 |
-| King of Pentacles | 0.70% | ~1,131 |
+| V for Vendetta | 12.00% | ~123,974 |
+| The Fool | 10.00% | ~103,312 |
+| Right Back At Ya | 9.00% | ~92,980 |
+| Gun Fu | 8.00% | ~82,649 |
+| The Lovers | 8.00% | ~82,649 |
+| Full Body Conversion | 6.00% | ~61,987 |
+| The Wheel of Fortune | 6.00% | ~61,987 |
+| True Soldier | 6.00% | ~61,987 |
+| Christmas Tree Attack | 5.00% | ~51,656 |
+| Stanislavski's Method | 5.00% | ~51,656 |
+| The Hermit | 5.00% | ~51,656 |
+| All the President's Men | 5.00% | ~8,087 |
+| Arachnophobia | 5.00% | ~8,087 |
+| Life of the Road | 4.00% | ~41,325 |
+| The High Priestess | 4.00% | ~41,325 |
+| True Warrior | 4.00% | ~41,325 |
+| Legend of The Afterlife | 4.00% | ~41,325 |
+| Bushido and Chill | 3.00% | ~30,993 |
+| Master Crafter | 3.00% | ~30,993 |
+| The Quick and the Dead | 3.00% | ~30,993 |
+| The World | 3.00% | ~30,993 |
+| Judy vs Night City | 3.00% | ~30,993 |
+| Relic Ruler | 3.00% | ~4,852 |
+| To Protect and Serve | 2.00% | ~20,662 |
+| The Wandering Fool | 2.00% | ~20,662 |
+| I Am The Law | 2.00% | ~20,662 |
+| Two Heads, One Bullet | 2.00% | ~20,662 |
+| Spin Doctor | 2.00% | ~3,235 |
+| Easy Come, Easy Go | 2.00% | ~3,235 |
+| To Bad Decisions! | 1.00% | ~10,331 |
+| Breathtaking | 1.00% | ~10,331 |
+| Ten out of Ten | 1.00% | ~10,331 |
+| The Star | 1.00% | ~10,331 |
+| The Sun | 1.00% | ~10,331 |
+| King of Wands | 1.00% | ~1,617 |
+| Dirty Deeds | 1.00% | ~1,617 |
+| Autojock | 0.80% | ~8,265 |
+| The APB is Not Enough | 0.80% | ~1,294 |
+| Judgement Day | 0.80% | ~1,294 |
+| King of Swords | 0.80% | ~1,294 |
+| The Tower | 0.80% | ~1,294 |
+| Must Be Rats | 0.70% | ~7,232 |
+| Temperance | 0.70% | ~7,232 |
+| King of Pentacles | 0.70% | ~1,132 |
 | City Lights | 0.40% | ~4,132 |
-| King of Cups | 0.40% | ~646 |
+| King of Cups | 0.40% | ~647 |
 | Gunslinger | 0.30% | ~3,099 |
 | Mean Streets | 0.30% | ~3,099 |
 | Little Tokyo | 0.30% | ~3,099 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,032,928 (Ranked 16)  
+Progressed: 1,033,115 (Ranked 16)  
 Completed: 3,043 (0.29%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,10 +336,10 @@ Completed: 3,043 (0.29%) (Ranked 258)
 | 2024-01-04 | 1,018,333 | 3,026 |
 | 2024-01-05 | 1,023,138 | 3,032 |
 | 2024-01-06 | 1,028,436 | 3,038 |
-| 2024-01-07 | 1,032,928 | 3,043 |
+| 2024-01-07 | 1,033,115 | 3,043 |
 ## Awards
 Max (Character Customization): 134,734  (Ranked 8)  
-Sum: 473,840 (Ranked 9)  
+Sum: 473,965 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +353,7 @@ Diff (max vs sum): -1
 | This game has Amazing Characters | 26,967 |
 | This game has Quickly Understood Controls | 26,132 |
 | This game is Relaxing | 26,037 |
-| This game has a Creative Community | 18,063 |
+| This game has a Creative Community | 18,188 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -710,4 +710,4 @@ Diff (max vs sum): -1
 | 2024-01-04 | 4.67 | - | 132,280 | 465,065 |
 | 2024-01-05 | 4.67 | - | 133,033 | 467,995 |
 | 2024-01-06 | 4.67 | - | 133,878 | 470,910 |
-| 2024-01-07 | 4.67 | - | 134,734 | 473,840 |
+| 2024-01-07 | 4.67 | - | 134,734 | 473,965 |

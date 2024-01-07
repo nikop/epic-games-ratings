@@ -35,7 +35,7 @@ Rating: 4.73 (Ranked 178)
 | Off We Sail Tonight | 15.00% | ~2,696 |
 | Love You Three Thousand | 13.00% | ~2,337 |
 | Can You Do This Or Not? | 13.00% | ~2,337 |
-| Doesn't Matter I'll Handle It | 11.00% | ~1,977 |
+| Doesn't Matter I'll Handle It | 12.00% | ~2,157 |
 | The Flash | 10.00% | ~1,798 |
 | New Yoga Pose Unlocked | 10.00% | ~1,798 |
 | My Dear Love! | 8.00% | ~1,438 |

@@ -17,7 +17,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 1.00% | ~2,426 |
 | Explorer | 1.00% | ~2,426 |
 | An Offering | 1.00% | ~2,426 |
-| Matching | 1.00% | ~40 |
+| Matching | 1.00% | ~41 |
 | Nothing To Lose | 0.90% | ~2,183 |
 | Goodbye, Frog Friend | 0.90% | ~2,183 |
 | Heartless | 0.90% | ~2,183 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,566 (Ranked 73)  
+Progressed: 242,571 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-04 | 242,358 | 304 |
 | 2024-01-05 | 242,422 | 304 |
 | 2024-01-06 | 242,507 | 304 |
-| 2024-01-07 | 242,566 | 304 |
+| 2024-01-07 | 242,571 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

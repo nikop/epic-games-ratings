@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -341,7 +341,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 829,
+  "EOS_Progressed": 831,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 2,
@@ -2191,6 +2191,11 @@
       "Time": "2024-01-07T20:06:00.0423775+00:00",
       "NumProgressed": 829,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T21:07:22.4735065+00:00",
+      "NumProgressed": 831,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2203,7 +2208,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -2251,7 +2256,7 @@
       "Name": "Ship Shape",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -2305,9 +2310,9 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -2323,7 +2328,7 @@
       "Name": "Sweet Victory",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -2403,7 +2408,7 @@
       "Name": "Sock Getter",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2411,7 +2416,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2419,7 +2424,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2451,22 +2456,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 829,
+      "Progressed": 831,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-06T21:00:31.8698684+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:06:00.0423769+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:07:22.4735061+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:02:33.1144971+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:06:00.042408+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:02:52.0516822+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:07:22.4735358+00:00"
 }

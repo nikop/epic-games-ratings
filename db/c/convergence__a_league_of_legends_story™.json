@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1263,
+  "EOS_Progressed": 1264,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3758,6 +3758,11 @@
       "Time": "2024-01-07T16:10:18.0259504+00:00",
       "NumProgressed": 1263,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T21:10:55.9239451+00:00",
+      "NumProgressed": 1264,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3841,7 +3846,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "CultivairChests1",
@@ -3905,7 +3910,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "GadgetCompletion1",
@@ -3921,7 +3926,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "GrindingTime1",
@@ -3929,7 +3934,7 @@
       "Name": "Rail Rat",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "HexlockGift",
@@ -3999,9 +4004,9 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 60,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
@@ -4009,7 +4014,7 @@
       "Name": "Time Flies",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ParryBoss",
@@ -4025,7 +4030,7 @@
       "Name": "No, Thanks!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4033,7 +4038,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4049,7 +4054,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "RewindDamage1",
@@ -4065,7 +4070,7 @@
       "Name": "Honest Mistake",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4145,7 +4150,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "WarwickDefeated",
@@ -4169,7 +4174,7 @@
       "Name": "Good Neighbor",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4185,14 +4190,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1263,
+      "Progressed": 1264,
       "Completed": 7
     }
   ],
@@ -4200,8 +4205,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:09:57.5471699+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:10:55.9239446+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:58:18.4086346+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:09:57.5472209+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:58:53.4492583+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:10:55.9240063+00:00"
 }

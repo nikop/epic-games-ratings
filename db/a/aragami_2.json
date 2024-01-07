@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44953,
+  "EOS_Progressed": 44954,
   "EOS_Completed": 248,
   "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
@@ -20617,6 +20617,11 @@
       "Time": "2024-01-07T20:04:21.6959299+00:00",
       "NumProgressed": 44953,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-07T21:05:15.1203602+00:00",
+      "NumProgressed": 44954,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20628,7 +20633,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25623
+      "UsersEstimate": 25624
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -20636,7 +20641,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13935
+      "UsersEstimate": 13936
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -20660,7 +20665,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6293
+      "UsersEstimate": 6294
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -20700,7 +20705,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6293
+      "UsersEstimate": 6294
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -20748,7 +20753,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35962
+      "UsersEstimate": 35963
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -20788,7 +20793,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7192
+      "UsersEstimate": 7193
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -20812,7 +20817,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7192
+      "UsersEstimate": 7193
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -20852,7 +20857,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24724
+      "UsersEstimate": 24725
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -20868,7 +20873,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28320
+      "UsersEstimate": 28321
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -20876,7 +20881,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12137
+      "UsersEstimate": 12138
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -20916,7 +20921,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6293
+      "UsersEstimate": 6294
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -20964,7 +20969,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41806
+      "UsersEstimate": 41807
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20979,7 +20984,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44953,
+      "Progressed": 44954,
       "Completed": 248
     }
   ],
@@ -20987,8 +20992,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:04:21.6959295+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:05:15.1203597+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.8040993+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:03:00.7944326+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:04:21.6960544+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:03:28.4786975+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:05:15.1204589+00:00"
 }

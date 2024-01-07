@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 916,
+  "EOS_Progressed": 919,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2300,6 +2300,11 @@
       "Time": "2024-01-07T20:08:35.2056166+00:00",
       "NumProgressed": 916,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T21:09:11.3796964+00:00",
+      "NumProgressed": 919,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2320,7 +2325,7 @@
       "Name": "Highballer",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "CareerChamp1",
@@ -2328,7 +2333,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "CareerChamp2",
@@ -2368,7 +2373,7 @@
       "Name": "Storm Warning",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 634
     },
     {
       "ID": "CollectVehiclesA",
@@ -2376,7 +2381,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "CollectVehiclesB",
@@ -2384,7 +2389,7 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "CreditsEarnedA",
@@ -2424,7 +2429,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "PlayerRankB",
@@ -2432,7 +2437,7 @@
       "Name": "Trashing Around",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "PlayerRankC",
@@ -2456,7 +2461,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "WreckOpponentsBus",
@@ -2464,14 +2469,14 @@
       "Name": "Maniac Driver",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 916,
+      "Progressed": 919,
       "Completed": 0
     }
   ],
@@ -2479,8 +2484,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:08:35.2056164+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:09:11.3796959+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:59:06.9835076+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:08:35.2056431+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:59:58.7318699+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:09:11.3797209+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 516,
-  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -445,7 +445,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 504,
+  "EOS_Progressed": 507,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
@@ -1850,6 +1850,11 @@
       "Time": "2024-01-07T20:09:42.2936376+00:00",
       "NumProgressed": 504,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T21:10:37.5352439+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2004,9 +2009,9 @@
       "ID": "MintII",
       "SetID": "329ak73",
       "Name": "Mint II",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MintIII",
@@ -2101,15 +2106,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 504,
+      "Progressed": 507,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:09:42.2936372+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:10:37.5352434+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:57:31.5839892+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:09:42.2936675+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:57:51.0852535+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:10:37.535295+00:00"
 }

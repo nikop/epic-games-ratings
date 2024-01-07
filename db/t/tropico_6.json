@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1551,9 +1551,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6993,
+  "EOS_Progressed": 6997,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16271,6 +16271,11 @@
       "Time": "2024-01-07T20:05:14.2592413+00:00",
       "NumProgressed": 6993,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T21:06:23.3848694+00:00",
+      "NumProgressed": 6997,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16298,7 +16303,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -16306,7 +16311,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -16322,7 +16327,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -16338,7 +16343,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -16354,7 +16359,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -16362,7 +16367,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -16378,7 +16383,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3007
+      "UsersEstimate": 3009
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -16386,7 +16391,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -16394,7 +16399,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -16402,7 +16407,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -16424,9 +16429,9 @@
       "ID": "ACH_EP_TROPICOLAND",
       "SetID": "1p8ab95",
       "Name": "For Science!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 699
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -16434,7 +16439,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -16442,7 +16447,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5105
+      "UsersEstimate": 5108
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16538,7 +16543,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3079
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16554,7 +16559,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16601,15 +16606,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6993,
+      "Progressed": 6997,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-07T17:59:09.5034143+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:05:14.259241+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:06:23.3848689+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-07T19:59:02.3261449+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:05:14.2593164+00:00"
+  "LastUpdate_Ratings": "2024-01-07T20:59:53.390209+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:06:23.3849917+00:00"
 }

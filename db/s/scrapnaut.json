@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 636,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2186,6 +2186,11 @@
       "Time": "2024-01-07T18:09:22.7163799+00:00",
       "NumProgressed": 634,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T21:09:55.3948731+00:00",
+      "NumProgressed": 636,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2197,7 +2202,7 @@
       "Name": "Digger",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -2213,7 +2218,7 @@
       "Name": "Black Gold",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
@@ -2221,7 +2226,7 @@
       "Name": "Electro-Scrap Master",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -2229,7 +2234,7 @@
       "Name": "Scrap Master",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -2243,9 +2248,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2253,7 +2258,7 @@
       "Name": "Master Of Technology",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -2277,15 +2282,15 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_COOK",
@@ -2293,7 +2298,7 @@
       "Name": "Cook",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -2309,7 +2314,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -2317,7 +2322,7 @@
       "Name": "Forest Lord",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_FIND_10_TREASURES",
@@ -2325,7 +2330,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -2333,7 +2338,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_KILL_100",
@@ -2349,7 +2354,7 @@
       "Name": "Scrapper",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_KILL_50",
@@ -2357,7 +2362,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -2365,7 +2370,7 @@
       "Name": "Prepper",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -2373,7 +2378,7 @@
       "Name": "Fuel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_METEORITE_SMELTER",
@@ -2444,7 +2449,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 636,
       "Completed": 4
     }
   ],
@@ -2452,8 +2457,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-07T20:09:08.9978964+00:00",
+  "LastChanged_Achievements": "2024-01-07T21:09:55.3948726+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-07T20:00:16.475811+00:00",
-  "LastUpdate_Achievements": "2024-01-07T20:09:08.9979544+00:00"
+  "LastUpdate_Ratings": "2024-01-07T21:01:34.6632468+00:00",
+  "LastUpdate_Achievements": "2024-01-07T21:09:55.3949115+00:00"
 }

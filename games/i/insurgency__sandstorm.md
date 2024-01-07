@@ -1,16 +1,16 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 401)  
+Rating: 4.61 (Ranked 402)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,069 |
-| Wallbanger | 5.00% | ~26,069 |
-| Exploitative | 4.00% | ~20,855 |
-| High Speed Low Drag | 4.00% | ~20,855 |
-| Wet Feet | 4.00% | ~20,855 |
+| Point Shooting | 5.00% | ~26,071 |
+| Wallbanger | 5.00% | ~26,071 |
+| Exploitative | 4.00% | ~20,857 |
+| High Speed Low Drag | 4.00% | ~20,857 |
+| Wet Feet | 4.00% | ~20,857 |
 | Checkpoint Victory | 3.00% | ~15,642 |
 | Lucky | 3.00% | ~15,642 |
 | Stylin' | 3.00% | ~15,642 |
@@ -23,10 +23,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~5,214 |
 | Ruthless | 1.00% | ~5,214 |
 | Semper Paratus | 1.00% | ~5,214 |
-| Carrying | 0.90% | ~4,692 |
-| Efficient | 0.90% | ~4,692 |
-| Mount & Gun | 0.90% | ~4,692 |
-| Personal | 0.90% | ~4,692 |
+| Carrying | 0.90% | ~4,693 |
+| Efficient | 0.90% | ~4,693 |
+| Mount & Gun | 0.90% | ~4,693 |
+| Personal | 0.90% | ~4,693 |
 | Grounded | 0.80% | ~4,171 |
 | Play to Win | 0.80% | ~4,171 |
 | Special Delivery | 0.70% | ~3,650 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~521 |
 | Road Hazard | 0.10% | ~521 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521,384 (Ranked 39)  
+Progressed: 521,413 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 2 (0.00%) (Ranked 393)
 | 2024-01-04 | 519,535 | 2 |
 | 2024-01-05 | 520,152 | 2 |
 | 2024-01-06 | 520,833 | 2 |
-| 2024-01-07 | 521,384 | 2 |
+| 2024-01-07 | 521,413 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 237)  
 Sum: 3,339 (Ranked 178)  

@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 448)  
+Rating: 4.59 (Ranked 447)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.59 (Ranked 448)
 | Never Say Loser Again | 18.00% | ~3,471 |
 | Tailor-Made | 18.00% | ~3,471 |
 | For your Eyes only | 18.00% | ~3,471 |
-| Assistant Accountant | 17.00% | ~3,278 |
+| Assistant Accountant | 17.00% | ~3,279 |
 | You Only Live Twice | 16.00% | ~3,086 |
 | Fully Decked Out | 16.00% | ~3,086 |
 | A view to Win | 13.00% | ~2,507 |
@@ -23,8 +23,8 @@ Rating: 4.59 (Ranked 448)
 | Private Collection | 11.00% | ~2,121 |
 | Killer Looks | 11.00% | ~2,121 |
 | Hostile Takeover | 11.00% | ~2,121 |
-| Keycards Royale | 10.00% | ~1,928 |
-| Dr. No Kill | 10.00% | ~1,928 |
+| Keycards Royale | 10.00% | ~1,929 |
+| Dr. No Kill | 10.00% | ~1,929 |
 | In It to Win It | 9.00% | ~1,736 |
 | Security Supervisor | 6.00% | ~1,157 |
 | License to Thrill | 5.00% | ~964 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 448)
 | Extraction Confusion | 0.20% | ~39 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,285 (Ranked 156)  
+Progressed: 19,286 (Ranked 156)  
 Completed: 4 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 4 (0.02%) (Ranked 361)
 | 2024-01-04 | 19,254 | 4 |
 | 2024-01-05 | 19,263 | 4 |
 | 2024-01-06 | 19,275 | 4 |
-| 2024-01-07 | 19,285 | 4 |
+| 2024-01-07 | 19,286 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
