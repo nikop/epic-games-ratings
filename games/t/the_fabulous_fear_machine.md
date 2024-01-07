@@ -14,13 +14,13 @@
 | Pulp! Terror Tales in the Night | 24.00% | ~21 |
 | Giant | 23.00% | ~20 |
 | A rival with no options | 22.00% | ~19 |
+| Pulp! Out of this World | 22.00% | ~19 |
+| Diagnosis: fear | 22.00% | ~19 |
+| Ambition is... blind | 22.00% | ~19 |
 | The artist | 21.00% | ~18 |
-| Pulp! Out of this World | 21.00% | ~18 |
-| Diagnosis: fear | 21.00% | ~18 |
-| Ambition is... blind | 21.00% | ~18 |
-| You have two wishes left | 18.00% | ~16 |
+| You have two wishes left | 20.00% | ~17 |
+| Pulp! Adventures into the Unknown | 18.00% | ~16 |
 | The seer | 17.00% | ~15 |
-| Pulp! Adventures into the Unknown | 17.00% | ~15 |
 | Et in arcadia ego | 16.00% | ~14 |
 | You had one wish left | 15.00% | ~13 |
 | You've awakened the beast | 14.00% | ~12 |
@@ -53,7 +53,7 @@
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87 (Ranked 502)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,11 +2,11 @@
   "ID": "11eb2ae2943641b498efb54501511b86",
   "Name": "State of Decay 2: Juggernaut Edition",
   "ProductSlug": "state-of-decay-2-juggernaut-edition",
-  "Ranking_Rating": 190,
+  "Ranking_Rating": 191,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -3332,10 +3332,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 2664,
       "NumberOfAwardsMax": 356
+    },
+    {
+      "Time": "2024-01-07T18:00:25.1225424+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2665,
+      "NumberOfAwardsMax": 356
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2664,
+  "NumberOfAwards": 2665,
   "NumberOfAwardsMax": 356,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3355,7 +3361,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 340
+      "Count": 341
     },
     {
       "Text": "This game is Relaxing",
@@ -3423,8 +3429,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2024-01-07T08:59:48.0725229+00:00",
+  "LastChanged": "2024-01-07T18:00:25.1225422+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.3894756+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:00:06.6679697+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:04:39.547135+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:00:25.1225427+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:04:43.2778487+00:00"
 }

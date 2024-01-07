@@ -1,12 +1,12 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 737)  
+Rating: 4.42 (Ranked 738)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 77.00% | ~2,044 |
-| A new Journey | 75.00% | ~1,991 |
+| A new Journey | 76.00% | ~2,018 |
 | From X to Y | 74.00% | ~1,965 |
 | Departure | 74.00% | ~1,965 |
 | Way of Iron | 71.00% | ~1,885 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 737)
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,655 (Ranked 233)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

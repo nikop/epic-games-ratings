@@ -28,8 +28,8 @@ Rating: 4.81 (Ranked 82)
 | Ancient power | 28.00% | ~937 |
 | Sacred Woods | 26.00% | ~870 |
 | Little light | 24.00% | ~803 |
+| Capelworth | 24.00% | ~803 |
 | Glyndemere | 23.00% | ~770 |
-| Capelworth | 23.00% | ~770 |
 | Full equipped | 23.00% | ~770 |
 | Iffighain Headquarters | 22.00% | ~736 |
 | No more holding back | 19.00% | ~636 |
@@ -60,7 +60,7 @@ Rating: 4.81 (Ranked 82)
 | The Unshackled | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,347 (Ranked 224)  
-Completed: 22 (0.66%) (Ranked 199)  
+Completed: 22 (0.66%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 78.00% | ~76 |
-| Little ideas | 74.00% | ~73 |
-| The Ship | 70.00% | ~69 |
+| Marc Allard | 78.00% | ~77 |
+| Little ideas | 75.00% | ~74 |
+| The Ship | 71.00% | ~70 |
 | Seeking the truth | 58.00% | ~57 |
 | An old friend | 55.00% | ~54 |
 | The Gala | 54.00% | ~53 |
 | A curious gathering | 52.00% | ~51 |
-| Little grey cells | 50.00% | ~49 |
-| Impossible is possible | 49.00% | ~48 |
-| Arthur Hastings | 49.00% | ~48 |
-| The Missing Magdalene | 48.00% | ~47 |
-| Everything matters | 44.00% | ~43 |
-| An expert mediator | 43.00% | ~42 |
-| DI Hardwicke | 43.00% | ~42 |
-| Order and method | 38.00% | ~37 |
-| Betty Allen | 38.00% | ~37 |
-| The Investigation Begins | 36.00% | ~35 |
-| Ms. Camilla B. Culsham | 34.00% | ~33 |
-| Irene Court-Smyth | 34.00% | ~33 |
-| An odd series of events | 33.00% | ~32 |
-| The Apartment | 33.00% | ~32 |
-| Nathaniel Dryden | 31.00% | ~30 |
-| A rude awakening | 30.00% | ~29 |
-| Bartholomew | 30.00% | ~29 |
-| Well-acquainted | 27.00% | ~26 |
-| Anastasia Babanin | 27.00% | ~26 |
-| The Scheme | 27.00% | ~26 |
-| Zakariya Demir | 26.00% | ~25 |
+| Little grey cells | 49.00% | ~49 |
+| Impossible is possible | 48.00% | ~48 |
+| Arthur Hastings | 48.00% | ~48 |
+| The Missing Magdalene | 47.00% | ~47 |
+| Everything matters | 43.00% | ~43 |
+| An expert mediator | 42.00% | ~42 |
+| DI Hardwicke | 42.00% | ~42 |
+| Order and method | 37.00% | ~37 |
+| Betty Allen | 37.00% | ~37 |
+| The Investigation Begins | 35.00% | ~35 |
+| Ms. Camilla B. Culsham | 33.00% | ~33 |
+| Irene Court-Smyth | 33.00% | ~33 |
+| An odd series of events | 32.00% | ~32 |
+| The Apartment | 32.00% | ~32 |
+| Nathaniel Dryden | 30.00% | ~30 |
+| A rude awakening | 29.00% | ~29 |
+| Bartholomew | 29.00% | ~29 |
+| Well-acquainted | 26.00% | ~26 |
+| Anastasia Babanin | 26.00% | ~26 |
+| The Scheme | 26.00% | ~26 |
+| Zakariya Demir | 25.00% | ~25 |
 | Truth from within | 24.00% | ~24 |
 | A curious phrase | 21.00% | ~21 |
 | The Suspects | 21.00% | ~21 |
@@ -51,8 +51,8 @@
 | A perilous journey | 10.00% | ~10 |
 | Perkins | 6.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 495)  
-Completed: 3 (3.06%) (Ranked 107)  
+Progressed: 99 (Ranked 495)  
+Completed: 3 (3.03%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,3 +112,4 @@ Completed: 3 (3.06%) (Ranked 107)
 | 2024-01-03 | 88 | 3 |
 | 2024-01-04 | 90 | 3 |
 | 2024-01-06 | 98 | 3 |
+| 2024-01-07 | 99 | 3 |

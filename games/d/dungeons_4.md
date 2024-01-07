@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.71 (Ranked 203)  
+Rating: 4.74 (Ranked 165)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -31,7 +31,7 @@ Rating: 4.71 (Ranked 203)
 | Tanos' Crusade Against Thalya | 46.00% | ~341 |
 | Pure Dynamite! | 45.00% | ~334 |
 | Dungeonlord Gorgu | 45.00% | ~334 |
-| Mana Cannon | 42.00% | ~312 |
+| Mana Cannon | 43.00% | ~319 |
 | All’s Well That Ends Evil | 42.00% | ~312 |
 | The Duel | 39.00% | ~289 |
 | If Looks Could Kill | 36.00% | ~267 |
@@ -59,7 +59,7 @@ Rating: 4.71 (Ranked 203)
 | My Little Torture Chamber | 18.00% | ~134 |
 | Heal Heal Blessing | 18.00% | ~134 |
 | Evilification | 18.00% | ~134 |
-| Mirror, Mirror | 16.00% | ~119 |
+| Mirror, Mirror | 17.00% | ~126 |
 | Untouchable | 16.00% | ~119 |
 | Hands Off My Stones | 14.00% | ~104 |
 | Laser Eyes Are So Useless | 13.00% | ~96 |
@@ -138,3 +138,4 @@ Completed: 31 (4.18%) (Ranked 90)
 | 2023-12-31 | 4.67 | 0 | 0 |
 | 2024-01-01 | 4.70 | 0 | 0 |
 | 2024-01-03 | 4.71 | 0 | 0 |
+| 2024-01-07 | 4.74 | 0 | 0 |

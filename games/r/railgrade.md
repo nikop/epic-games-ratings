@@ -44,7 +44,7 @@ Rating: 4.55 (Ranked 527)
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,893 (Ranked 161)  
-Completed: 26 (0.15%) (Ranked 285)  
+Completed: 26 (0.15%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -305,19 +305,19 @@ Completed: 26 (0.15%) (Ranked 285)
 | 2024-01-07 | 17,901 | 26 |
 ## Awards
 Max (Quickly Understood Controls): 94  (Ranked 391)  
-Sum: 684 (Ranked 314)  
+Sum: 686 (Ranked 314)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 94 |
 | This game is Great for Beginners | 92 |
-| This game is Relaxing | 90 |
+| This game is Relaxing | 91 |
 | This game is Highly Recommended | 89 |
 | This game is Extremely Fun | 86 |
 | This game has Amazing Storytelling | 81 |
 | This game has Unique Visuals | 61 |
 | This game has Amazing Characters | 47 |
-| This game has a Creative Community | 44 |
+| This game has a Creative Community | 45 |
 | This game has Challenging Combat | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -393,3 +393,4 @@ Diff (max vs sum): 77
 | 2023-12-10 | 4.55 | 93 | 680 |
 | 2023-12-27 | 4.55 | 93 | 681 |
 | 2024-01-05 | 4.55 | 94 | 684 |
+| 2024-01-07 | 4.55 | 94 | 686 |

@@ -3,7 +3,7 @@
   "Name": "Pinball M",
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3747,
+  "EOS_Progressed": 3748,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4234,6 +4234,11 @@
       "Time": "2024-01-07T17:03:26.5369521+00:00",
       "NumProgressed": 3747,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T18:03:29.6989147+00:00",
+      "NumProgressed": 3748,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4428,9 +4433,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "c167foo",
       "Name": "Personal Sanctuary",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1424
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4446,7 +4451,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4621,14 +4626,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3747,
+      "Progressed": 3748,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:03:26.5369517+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:03:29.6989143+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:58:30.5467141+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:03:26.5369999+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:58:43.8479102+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:03:29.6989764+00:00"
 }

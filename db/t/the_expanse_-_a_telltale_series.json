@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18535,
+  "EOS_Progressed": 18538,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16606,6 +16606,11 @@
       "Time": "2024-01-07T17:06:07.0764154+00:00",
       "NumProgressed": 18535,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-07T18:06:12.7184949+00:00",
+      "NumProgressed": 18538,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16634,7 +16639,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "12",
@@ -16642,7 +16647,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "13",
@@ -16664,9 +16669,9 @@
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1854
+      "UsersEstimate": 2039
     },
     {
       "ID": "16",
@@ -16674,7 +16679,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "17",
@@ -16706,7 +16711,7 @@
       "Name": "Data Logger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "20",
@@ -16714,7 +16719,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "21",
@@ -16722,7 +16727,7 @@
       "Name": "Drone Dodger",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "22",
@@ -16746,7 +16751,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "25",
@@ -16754,7 +16759,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "26",
@@ -16824,9 +16829,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2595
     },
     {
       "ID": "7",
@@ -16882,7 +16887,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "35",
@@ -16897,22 +16902,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18535,
+      "Progressed": 18538,
       "Completed": 60
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4489,
-      "Completed": 1234
+      "Progressed": 4492,
+      "Completed": 1235
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-06T19:58:03.9516258+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:06:07.0764149+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:06:12.7184946+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:58:10.1568631+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:06:07.0765059+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:58:21.0014513+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:06:12.7185932+00:00"
 }

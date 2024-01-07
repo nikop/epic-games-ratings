@@ -3,7 +3,7 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
-  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1886,
+  "EOS_Progressed": 1887,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4762,6 +4762,11 @@
       "Time": "2024-01-07T16:04:15.1411362+00:00",
       "NumProgressed": 1886,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T18:04:25.360447+00:00",
+      "NumProgressed": 1887,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5141,20 +5146,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1886,
+      "Progressed": 1887,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1554,
+      "Progressed": 1555,
       "Completed": 1009
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:04:21.4713498+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:04:25.3604464+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:57:20.7707735+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:04:21.4713983+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:57:31.2687276+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:04:25.3605223+00:00"
 }

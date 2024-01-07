@@ -3,8 +3,8 @@
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4830,9 +4830,9 @@
       "ID": "catacombs_raid_1",
       "SetID": "53c1p3k",
       "Name": "Catacombs Raid 1",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 53
     },
     {
       "ID": "catacombs_raid_2",
@@ -5006,9 +5006,9 @@
       "ID": "glitter_of_gold_2",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 2",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "glitter_of_gold_3",
@@ -5293,8 +5293,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:09:59.7907788+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:10:07.6999475+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.0513458+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:59:35.7302118+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:09:59.7908652+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:59:53.1322446+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:10:07.7000228+00:00"
 }

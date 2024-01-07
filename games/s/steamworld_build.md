@@ -13,7 +13,7 @@
 | Tutti Frutti | 58.00% | ~146 |
 | Slotting Machine | 46.00% | ~116 |
 | Systematic | 46.00% | ~116 |
-| Gotta Go Fast | 44.00% | ~111 |
+| Gotta Go Fast | 45.00% | ~113 |
 | Mine Sweeper | 41.00% | ~103 |
 | Roll Out | 38.00% | ~96 |
 | Dopa-Miner | 32.00% | ~81 |
@@ -34,7 +34,7 @@
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 252 (Ranked 414)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,23 +6,23 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~5,010 |
+| You Shall Not Pass | 51.00% | ~5,011 |
 | Tutti Eroi! | 50.00% | ~4,912 |
-| Peak Performance | 45.00% | ~4,420 |
-| Avanti Savoia! | 44.00% | ~4,322 |
-| Mamma Mia! | 35.00% | ~3,438 |
-| Conrad von Hotzensocks | 32.00% | ~3,143 |
-| Gabriele D'Annunzio | 32.00% | ~3,143 |
-| Silver Lining | 27.00% | ~2,652 |
+| Peak Performance | 45.00% | ~4,421 |
+| Avanti Savoia! | 44.00% | ~4,323 |
+| Mamma Mia! | 35.00% | ~3,439 |
+| Conrad von Hotzensocks | 32.00% | ~3,144 |
+| Gabriele D'Annunzio | 32.00% | ~3,144 |
+| Silver Lining | 27.00% | ~2,653 |
 | Aurelio Baruzzi | 21.00% | ~2,063 |
 | Decimation | 20.00% | ~1,965 |
-| Donatello | 19.00% | ~1,866 |
-| Insubordination | 19.00% | ~1,866 |
-| The Italian Job | 19.00% | ~1,866 |
-| Veni Vidi Vici | 19.00% | ~1,866 |
+| Donatello | 19.00% | ~1,867 |
+| Insubordination | 19.00% | ~1,867 |
+| The Italian Job | 19.00% | ~1,867 |
+| Veni Vidi Vici | 19.00% | ~1,867 |
 | Ragazzi del '99 | 17.00% | ~1,670 |
 | Luigi Cadorna | 16.00% | ~1,572 |
-| The Lion of the Isonzo | 14.00% | ~1,375 |
+| The Lion of the Isonzo | 14.00% | ~1,376 |
 | Uomo Universale | 13.00% | ~1,277 |
 | Die Bosniaken Kommen! | 12.00% | ~1,179 |
 | Dirty Dozen | 12.00% | ~1,179 |
@@ -35,8 +35,8 @@ Number of Ratings: 98  (23.09.2022)
 | Millenial | 9.00% | ~884 |
 | The Show Must Go On | 8.00% | ~786 |
 | Tosca | 8.00% | ~786 |
-| 12th Bottle of the Isonzo | 6.00% | ~589 |
-| The Enlightment | 6.00% | ~589 |
+| 12th Bottle of the Isonzo | 6.00% | ~590 |
+| The Enlightment | 6.00% | ~590 |
 | Cercatore d'Oro | 5.00% | ~491 |
 | Generalissimo | 4.00% | ~393 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~393 |
@@ -52,8 +52,8 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,823 (Ranked 182)  
-Completed: 10 (0.10%) (Ranked 308)  
+Progressed: 9,825 (Ranked 182)  
+Completed: 10 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -308,7 +308,7 @@ Completed: 10 (0.10%) (Ranked 308)
 | 2024-01-04 | 9,768 | 10 |
 | 2024-01-05 | 9,787 | 10 |
 | 2024-01-06 | 9,806 | 10 |
-| 2024-01-07 | 9,823 | 10 |
+| 2024-01-07 | 9,825 | 10 |
 ## Awards
 Max (Diverse Characters): 43  (Ranked 477)  
 Sum: 339 (Ranked 371)  

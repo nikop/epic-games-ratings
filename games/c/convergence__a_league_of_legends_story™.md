@@ -9,7 +9,7 @@ Rating: 4.69 (Ranked 236)
 | Rail Rat | 34.00% | ~429 |
 | The Mysterious Stranger | 33.00% | ~417 |
 | Immaculate Aim | 29.00% | ~366 |
-| The Brass Boss | 27.00% | ~341 |
+| The Brass Boss | 28.00% | ~354 |
 | Time Flies | 26.00% | ~328 |
 | No, Thanks! | 26.00% | ~328 |
 | The Prince in Heels | 26.00% | ~328 |
@@ -35,11 +35,11 @@ Rating: 4.69 (Ranked 236)
 | Family Memories | 14.00% | ~177 |
 | Chaincrawler Explorer | 13.00% | ~164 |
 | Cartographer | 13.00% | ~164 |
+| Syron for Hope | 13.00% | ~164 |
 | Ask Questions Later | 13.00% | ~164 |
 | Treasure Trove | 12.00% | ~152 |
-| Syron for Hope | 12.00% | ~152 |
+| Factorywood Explorer | 11.00% | ~139 |
 | Sump Explorer | 11.00% | ~139 |
-| Factorywood Explorer | 10.00% | ~126 |
 | Fairgrounds Explorer | 10.00% | ~126 |
 | Theater Explorer | 10.00% | ~126 |
 | Cultivair Explorer | 9.00% | ~114 |
@@ -60,7 +60,7 @@ Rating: 4.69 (Ranked 236)
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,263 (Ranked 280)  
-Completed: 7 (0.55%) (Ranked 213)  
+Completed: 7 (0.55%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

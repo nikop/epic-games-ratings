@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 1,036)  
+Rating: 4.06 (Ranked 1,032)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -82,7 +82,7 @@ Rating: 4.05 (Ranked 1,036)
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,289 (Ranked 209)  
-Completed: 2 (0.05%) (Ranked 336)  
+Completed: 2 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -442,3 +442,4 @@ Diff (max vs sum): 42
 | 2024-01-04 | 4.07 | 40 | 154 |
 | 2024-01-05 | 4.05 | 40 | 154 |
 | 2024-01-06 | 4.05 | 40 | 155 |
+| 2024-01-07 | 4.06 | 40 | 155 |

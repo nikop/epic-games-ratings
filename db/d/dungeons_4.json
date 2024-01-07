@@ -2,7 +2,7 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_Rating": 203,
+  "Ranking_Rating": 165,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2023-12-28T14:01:53.0382273+00:00",
@@ -51,6 +51,12 @@
     {
       "Time": "2024-01-03T15:00:48.7802367+00:00",
       "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-07T17:57:59.5607038+00:00",
+      "Rating": 4.74,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2482,9 +2488,9 @@
       "ID": "ach_main06transporter_towers",
       "SetID": "4hg22ll",
       "Name": "Mana Cannon",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 319
     },
     {
       "ID": "ach_main06transporter_transport",
@@ -2682,9 +2688,9 @@
       "ID": "ach_main14run_mirroruses",
       "SetID": "4hg22ll",
       "Name": "Mirror, Mirror",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 126
     },
     {
       "ID": "ach_main14run_roomdamage",
@@ -2850,9 +2856,9 @@
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:09:03.8458106+00:00",
+  "LastChanged": "2024-01-07T17:57:59.5607036+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:09:09.6824454+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:57:48.3320639+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:09:03.8458918+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:57:59.5607042+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:09:09.6825053+00:00"
 }

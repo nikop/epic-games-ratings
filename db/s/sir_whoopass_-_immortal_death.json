@@ -3,7 +3,7 @@
   "Name": "Sir Whoopass - Immortal Death",
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 454,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -935,9 +935,9 @@
       "ID": "DRUNK_1",
       "SetID": "9gfkh7c",
       "Name": "A Megapint...?",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "DRUNK_2",
@@ -967,9 +967,9 @@
       "ID": "ENEMIES_2",
       "SetID": "9gfkh7c",
       "Name": "Master Butcher",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ENEMIES_3",
@@ -1207,9 +1207,9 @@
       "ID": "METAL_BARS",
       "SetID": "9gfkh7c",
       "Name": "Another one bites the iron",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "METAL_BARS_SWA",
@@ -1366,8 +1366,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:10:01.5330422+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:10:09.5365141+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.6894407+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:03:09.7294712+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:10:01.5331375+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:03:10.6829832+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:10:09.5366079+00:00"
 }

@@ -2,11 +2,11 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 1052,
+  "Ranking_Rating": 1051,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40211,
+  "EOS_Progressed": 40213,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -23368,6 +23368,11 @@
       "Time": "2024-01-07T17:08:34.8690263+00:00",
       "NumProgressed": 40211,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-07T18:08:39.7855956+00:00",
+      "NumProgressed": 40213,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 14,
@@ -23451,7 +23456,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "firstBunny",
@@ -23467,7 +23472,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30560
+      "UsersEstimate": 30562
     },
     {
       "ID": "roots",
@@ -23490,15 +23495,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40211,
+      "Progressed": 40213,
       "Completed": 126
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:08:34.8690259+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:08:39.7855951+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:47.8106255+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:59:26.0351371+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:08:34.8691789+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:59:43.3826058+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:08:39.7857068+00:00"
 }

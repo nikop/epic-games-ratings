@@ -8,8 +8,8 @@ Rating: 4.38 (Ranked 791)
 | It Wasn’t a Burglary | 88.00% | ~436 |
 | Luc Piette | 74.00% | ~366 |
 | Angeline Van den Bosch | 72.00% | ~356 |
-| Elizabeth Padget | 68.00% | ~337 |
-| Little Grey Cells | 67.00% | ~332 |
+| Elizabeth Padget | 69.00% | ~342 |
+| Little Grey Cells | 68.00% | ~337 |
 | The Bracelet | 64.00% | ~317 |
 | Florette Duval | 54.00% | ~267 |
 | The Blackmail | 53.00% | ~262 |
@@ -52,8 +52,8 @@ Rating: 4.38 (Ranked 791)
 | Room with a View | 7.00% | ~35 |
 | Work-life Balance | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 495 (Ranked 351)  
-Completed: 6 (1.21%) (Ranked 159)  
+Progressed: 495 (Ranked 352)  
+Completed: 6 (1.21%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

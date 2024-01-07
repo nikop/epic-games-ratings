@@ -17,10 +17,10 @@
 | Finished it | 25.00% | ~73 |
 | Whispers long forgotten | 16.00% | ~47 |
 | Sound Bite | 13.00% | ~38 |
+| A Slice of Life | 12.00% | ~35 |
 | Debut | 12.00% | ~35 |
 | The art of movement | 12.00% | ~35 |
 | Another perspective | 11.00% | ~32 |
-| A Slice of Life | 11.00% | ~32 |
 | Lights! Camera! Action! | 11.00% | ~32 |
 | Playtime | 10.00% | ~29 |
 | Tough conversation | 10.00% | ~29 |
@@ -58,7 +58,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 292 (Ranked 401)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

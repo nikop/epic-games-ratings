@@ -3,8 +3,8 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4008,
+  "EOS_Progressed": 4011,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6796,6 +6796,11 @@
       "Time": "2024-01-07T17:04:55.3013777+00:00",
       "NumProgressed": 4008,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-07T18:04:59.1127608+00:00",
+      "NumProgressed": 4011,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6871,7 +6876,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6887,7 +6892,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "TRANSMISSION",
@@ -6903,14 +6908,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4008,
+      "Progressed": 4011,
       "Completed": 6
     }
   ],
@@ -6918,8 +6923,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:04:55.3013773+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:04:59.1127603+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:08.6041157+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:57:59.3173552+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:04:55.3014239+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:58:10.5545558+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:04:59.1128065+00:00"
 }

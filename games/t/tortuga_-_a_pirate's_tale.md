@@ -5,24 +5,24 @@ Rating: 3.81 (Ranked 1,084)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,577 |
-| No Half Measures | 87.00% | ~15,181 |
-| Personal Matter | 86.00% | ~15,006 |
-| But You Have Heard of Me | 72.00% | ~12,563 |
-| Double the Barrels, double the Fun | 54.00% | ~9,422 |
+| Eeligally Ambitious | 95.00% | ~16,578 |
+| No Half Measures | 87.00% | ~15,182 |
+| Personal Matter | 86.00% | ~15,007 |
+| But You Have Heard of Me | 72.00% | ~12,564 |
+| Double the Barrels, double the Fun | 54.00% | ~9,423 |
 | Pimp My Glide | 49.00% | ~8,550 |
 | ... And Where Do the Stories Come From? | 40.00% | ~6,980 |
-| House Party! | 35.00% | ~6,107 |
-| Make It Rain | 23.00% | ~4,013 |
+| House Party! | 35.00% | ~6,108 |
+| Make It Rain | 23.00% | ~4,014 |
 | Curse of the Seven Seas | 22.00% | ~3,839 |
 | Head First | 16.00% | ~2,792 |
 | To the World's End | 12.00% | ~2,094 |
-| Table for Six | 11.00% | ~1,919 |
+| Table for Six | 11.00% | ~1,920 |
 | Sharing Is Caring | 10.00% | ~1,745 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,396 |
 | Morally Flexible | 6.00% | ~1,047 |
 | Fishing for Compliments | 5.00% | ~872 |
-| After All, Why Shouldn't I Keep It? | 3.00% | ~523 |
+| After All, Why Shouldn't I Keep It? | 3.00% | ~524 |
 | A True Dandy | 2.00% | ~349 |
 | A New Legend Awaits | 1.00% | ~174 |
 | Pirate King | 0.90% | ~157 |
@@ -32,8 +32,8 @@ Rating: 3.81 (Ranked 1,084)
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,449 (Ranked 163)  
-Completed: 1 (0.01%) (Ranked 371)  
+Progressed: 17,450 (Ranked 163)  
+Completed: 1 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,7 +289,7 @@ Completed: 1 (0.01%) (Ranked 371)
 | 2024-01-04 | 17,425 | 1 |
 | 2024-01-05 | 17,434 | 1 |
 | 2024-01-06 | 17,445 | 1 |
-| 2024-01-07 | 17,449 | 1 |
+| 2024-01-07 | 17,450 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

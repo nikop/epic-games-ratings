@@ -6,8 +6,8 @@
   "Ranking_Popularity": 375,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -309,7 +309,7 @@
   ],
   "EOS_Progressed": 1312,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3939,9 +3939,9 @@
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 171
     },
     {
       "ID": "MistressOfRiddles",
@@ -4107,9 +4107,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 262
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4228,8 +4228,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-07T13:01:07.63286+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:05:41.0045221+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:05:46.2317847+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:57:44.9680249+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:05:41.0045891+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:57:56.1985511+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:05:46.2318403+00:00"
 }

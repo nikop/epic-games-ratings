@@ -6,23 +6,23 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 67.00% | ~513 |
-| Cowardice | 61.00% | ~467 |
+| Explorer | 68.00% | ~522 |
+| Cowardice | 61.00% | ~468 |
 | NO LIFE IS WORTH SAVING... | 44.00% | ~337 |
-| The Breaking Point | 43.00% | ~329 |
+| The Breaking Point | 43.00% | ~330 |
 | Eat Lead! | 42.00% | ~322 |
-| Here Comes the Boom | 40.00% | ~306 |
+| Here Comes the Boom | 40.00% | ~307 |
 | Prospector | 38.00% | ~291 |
-| Sniper Wolf | 37.00% | ~283 |
+| Sniper Wolf | 37.00% | ~284 |
 | The Motivation | 36.00% | ~276 |
 | Treasure Hunter | 35.00% | ~268 |
-| Heroism | 34.00% | ~260 |
-| Collectibles of Chapter I | 33.00% | ~253 |
+| Heroism | 34.00% | ~261 |
+| Collectibles of Chapter I | 32.00% | ~245 |
 | Missing in Action | 32.00% | ~245 |
-| Consequences | 31.00% | ~237 |
+| Consequences | 31.00% | ~238 |
 | Opportunities | 30.00% | ~230 |
 | King of Knives | 30.00% | ~230 |
-| The Horror | 28.00% | ~214 |
+| The Horror | 28.00% | ~215 |
 | The Difference | 25.00% | ~192 |
 | It's Just an Accident | 25.00% | ~192 |
 | Vengeance | 23.00% | ~176 |
@@ -66,8 +66,8 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 766 (Ranked 313)  
-Completed: 0 (0.00%) (Ranked 392)  
+Progressed: 767 (Ranked 313)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -270,7 +270,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 760 | 0 |
 | 2024-01-05 | 761 | 0 |
 | 2024-01-06 | 763 | 0 |
-| 2024-01-07 | 766 | 0 |
+| 2024-01-07 | 767 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

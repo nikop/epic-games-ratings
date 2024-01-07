@@ -6,7 +6,7 @@
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -619,9 +619,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46698,
+  "EOS_Progressed": 46704,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 820,
+  "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18004,6 +18004,11 @@
       "Time": "2024-01-07T17:04:20.2759363+00:00",
       "NumProgressed": 46698,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-07T18:04:24.1487579+00:00",
+      "NumProgressed": 46704,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18055,7 +18060,7 @@
       "Name": "Through the Eyes of Another: Seer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -18438,22 +18443,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46698,
+      "Progressed": 46704,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11535,
-      "Completed": 11535
+      "Progressed": 11541,
+      "Completed": 11541
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-07T05:02:53.6852275+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:04:20.2759361+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:04:24.1487574+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:02:56.8950127+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:04:20.276058+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:02:55.1988183+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:04:24.1488965+00:00"
 }

@@ -2,11 +2,11 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 300,
+  "Ranking_Rating": 319,
   "Ranking_Popularity": 370,
-  "Ranking_PopularitySum": 303,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 353,
+  "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 398,
   "RatingHistory": [
     {
@@ -1471,10 +1471,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 757,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-01-07T17:59:09.5034145+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 758,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 757,
+  "NumberOfAwards": 758,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1488,7 +1494,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 103
+      "Count": 104
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1547,7 +1553,7 @@
   ],
   "EOS_Progressed": 6988,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16591,9 +16597,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-01-07T01:53:38.5060517+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:05:04.2038465+00:00",
+  "LastChanged": "2024-01-07T17:59:09.5034143+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:05:07.6773291+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:58:53.1226724+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:05:04.2039346+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:59:09.5034147+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:05:07.6774569+00:00"
 }

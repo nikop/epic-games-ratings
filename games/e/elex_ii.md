@@ -7,7 +7,7 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 40.00% | ~84 |
-| Best Buddy | 33.00% | ~69 |
+| Best Buddy | 34.00% | ~71 |
 | Civilian | 31.00% | ~65 |
 | Role Model | 29.00% | ~61 |
 | Creator | 26.00% | ~55 |
@@ -17,7 +17,7 @@ Number of Ratings: 124  (23.09.2022)
 | Commander | 20.00% | ~42 |
 | Irissa's Fate | 16.00% | ~34 |
 | Long-Haul Flyer | 15.00% | ~32 |
-| Family Reunion | 13.00% | ~27 |
+| Family Reunion | 14.00% | ~29 |
 | Pass A38 | 13.00% | ~27 |
 | Eternal Oblivion | 12.00% | ~25 |
 | Berserker | 11.00% | ~23 |
@@ -38,9 +38,9 @@ Number of Ratings: 124  (23.09.2022)
 | Unbreakable | 4.00% | ~8 |
 | Alchemist | 3.00% | ~6 |
 | Self-Sufficient | 3.00% | ~6 |
+| Morkon | 3.00% | ~6 |
 | Idealist | 2.00% | ~4 |
 | Toy Time | 2.00% | ~4 |
-| Morkon | 2.00% | ~4 |
 | Destroyer | 2.00% | ~4 |
 | Legendary | 2.00% | ~4 |
 | Pack Rat | 1.00% | ~2 |
@@ -58,7 +58,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 210 (Ranked 426)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

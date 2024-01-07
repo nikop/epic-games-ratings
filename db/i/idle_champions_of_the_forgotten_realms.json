@@ -6,7 +6,7 @@
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
@@ -9391,9 +9391,9 @@
       "Count": 3631
     }
   ],
-  "EOS_Progressed": 252426,
+  "EOS_Progressed": 252439,
   "EOS_Completed": 2599,
-  "EOS_NewPlayers": 3947,
+  "EOS_NewPlayers": 3919,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39096,6 +39096,11 @@
       "Time": "2024-01-07T17:10:05.1307351+00:00",
       "NumProgressed": 252426,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-07T18:10:12.788606+00:00",
+      "NumProgressed": 252439,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 546,
@@ -39107,7 +39112,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10097
+      "UsersEstimate": 10098
     },
     {
       "ID": "objective_completed_10",
@@ -40787,7 +40792,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "objective_completed_35",
@@ -43474,21 +43479,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218700,
+      "Progressed": 218713,
       "Completed": 4143
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252426,
+      "Progressed": 252439,
       "Completed": 2599
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-07T12:00:01.0036284+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:10:05.1307347+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:10:12.7886056+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:00:24.8706065+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:10:05.1332232+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:00:43.2596383+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:10:12.7910224+00:00"
 }

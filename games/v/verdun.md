@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,715 |
-| Worth it | 63.00% | ~43,386 |
-| Eagle Eye | 55.00% | ~37,876 |
-| Corpseman I | 39.00% | ~26,858 |
-| Blast fishing | 37.00% | ~25,480 |
-| Not alone | 32.00% | ~22,037 |
-| Headhunter I | 26.00% | ~17,905 |
-| Developers, Developers, Developers | 24.00% | ~16,528 |
-| Manual Labour I | 24.00% | ~16,528 |
-| Basic Training | 23.00% | ~15,839 |
+| Setting an example | 78.00% | ~53,720 |
+| Worth it | 63.00% | ~43,389 |
+| Eagle Eye | 55.00% | ~37,880 |
+| Corpseman I | 39.00% | ~26,860 |
+| Blast fishing | 37.00% | ~25,483 |
+| Not alone | 32.00% | ~22,039 |
+| Headhunter I | 26.00% | ~17,907 |
+| Developers, Developers, Developers | 24.00% | ~16,529 |
+| Manual Labour I | 24.00% | ~16,529 |
+| Basic Training | 23.00% | ~15,841 |
 | Furchtlos und Treu | 13.00% | ~8,953 |
-| Gott Mit Uns | 12.00% | ~8,264 |
+| Gott Mit Uns | 12.00% | ~8,265 |
 | This We'll Defend! | 9.00% | ~6,198 |
 | Providentiea Memor | 9.00% | ~6,198 |
 | For King and Country | 9.00% | ~6,198 |
-| Battle hardened | 8.00% | ~5,509 |
-| Anker wirf! | 8.00% | ~5,509 |
+| Battle hardened | 8.00% | ~5,510 |
+| Anker wirf! | 8.00% | ~5,510 |
 | Semper Fidelis! | 7.00% | ~4,821 |
 | Honneur et Patrie | 7.00% | ~4,821 |
-| In Treue Fest | 5.00% | ~3,443 |
-| Voor De Koning | 5.00% | ~3,443 |
-| Extreme Headhunter | 5.00% | ~3,443 |
+| In Treue Fest | 5.00% | ~3,444 |
+| Voor De Koning | 5.00% | ~3,444 |
+| Extreme Headhunter | 5.00% | ~3,444 |
 | Advance Australia | 4.00% | ~2,755 |
 | We Stand on Guard | 4.00% | ~2,755 |
 | Sidi Brahim | 4.00% | ~2,755 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~69 |
 | Blood Brother | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,866 (Ranked 114)  
-Completed: 4 (0.01%) (Ranked 371)  
+Progressed: 68,872 (Ranked 114)  
+Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -328,7 +328,7 @@ Completed: 4 (0.01%) (Ranked 371)
 | 2024-01-04 | 68,566 | 4 |
 | 2024-01-05 | 68,665 | 4 |
 | 2024-01-06 | 68,782 | 4 |
-| 2024-01-07 | 68,866 | 4 |
+| 2024-01-07 | 68,872 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 371)  
 Sum: 831 (Ranked 288)  

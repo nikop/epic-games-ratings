@@ -2,11 +2,11 @@
   "ID": "calluna",
   "Name": "Control",
   "ProductSlug": "control",
-  "Ranking_Rating": 401,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -6560,10 +6560,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 13763,
       "NumberOfAwardsMax": 9075
+    },
+    {
+      "Time": "2024-01-07T18:00:09.380748+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 13766,
+      "NumberOfAwardsMax": 9075
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13763,
+  "NumberOfAwards": 13766,
   "NumberOfAwardsMax": 9075,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6595,7 +6601,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 552
+      "Count": 553
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6607,7 +6613,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 539
+      "Count": 540
     },
     {
       "Text": "This game has Unique Visuals",
@@ -6625,7 +6631,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 549
+      "Count": 550
     }
   ],
   "EOS_Progressed": 0,
@@ -6639,8 +6645,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2024-01-07T16:59:51.3547375+00:00",
+  "LastChanged": "2024-01-07T18:00:09.3807479+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:17.3681975+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:59:51.3547384+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:08:20.5123945+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:00:09.3807485+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:08:25.2338845+00:00"
 }

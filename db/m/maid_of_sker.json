@@ -3,8 +3,8 @@
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 404,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -794,9 +794,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "axe_of_kindness",
@@ -834,9 +834,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "dodgy_geezer",
@@ -1043,8 +1043,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:05:45.9220255+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:05:51.164376+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.9331168+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:57:12.9710045+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:05:45.9220767+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:57:23.241236+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:05:51.1644029+00:00"
 }

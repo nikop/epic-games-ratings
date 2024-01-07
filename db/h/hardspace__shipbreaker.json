@@ -6,8 +6,8 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -315,7 +315,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1061,
+  "EOS_Progressed": 1062,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -2450,6 +2450,11 @@
       "Time": "2024-01-07T17:09:23.3180223+00:00",
       "NumProgressed": 1061,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T18:09:29.8843655+00:00",
+      "NumProgressed": 1062,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2517,7 +2522,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -2539,9 +2544,9 @@
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
       "SetID": "108h92c",
       "Name": "Breathe In\u2026 Breathe Out\u2026",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 775
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2557,7 +2562,7 @@
       "Name": "Critical Thinker",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2597,7 +2602,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2676,7 +2681,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1061,
+      "Progressed": 1062,
       "Completed": 0
     }
   ],
@@ -2684,8 +2689,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-01-07T01:52:54.3373134+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:09:23.3180218+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:09:29.884365+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:23.8683879+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:58:08.85793+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:09:23.3180478+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:58:19.4316912+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:09:29.8843954+00:00"
 }

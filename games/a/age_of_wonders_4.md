@@ -21,11 +21,11 @@ Rating: 4.62 (Ranked 378)
 | Intimidation Tactics | 6.00% | ~422 |
 | My Final Form | 5.00% | ~352 |
 | But this one is mine | 5.00% | ~352 |
-| Return of the Wizard King | 4.00% | ~281 |
-| Enchanted Archipelago | 4.00% | ~281 |
-| Digging for Treasure | 4.00% | ~281 |
-| Against the Odds | 4.00% | ~281 |
-| Impenetrable Fortress | 4.00% | ~281 |
+| Return of the Wizard King | 4.00% | ~282 |
+| Enchanted Archipelago | 4.00% | ~282 |
+| Digging for Treasure | 4.00% | ~282 |
+| Against the Odds | 4.00% | ~282 |
+| Impenetrable Fortress | 4.00% | ~282 |
 | Preparation Is Everything | 3.00% | ~211 |
 | Fiery Friend | 3.00% | ~211 |
 | Tipping the Scales | 3.00% | ~211 |
@@ -66,8 +66,8 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,037 (Ranked 196)  
-Completed: 7 (0.10%) (Ranked 308)  
+Progressed: 7,038 (Ranked 196)  
+Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -296,7 +296,7 @@ Completed: 7 (0.10%) (Ranked 308)
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
-| 2024-01-07 | 7,037 | 7 |
+| 2024-01-07 | 7,038 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 481)  
 Sum: 212 (Ranked 410)  

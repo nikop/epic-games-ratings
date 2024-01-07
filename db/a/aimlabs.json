@@ -2,11 +2,11 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 378,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 399,
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:50.8966306+00:00",
@@ -2083,10 +2083,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 614,
       "NumberOfAwardsMax": 85
+    },
+    {
+      "Time": "2024-01-07T18:02:40.6654741+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 615,
+      "NumberOfAwardsMax": 85
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 614,
+  "NumberOfAwards": 615,
   "NumberOfAwardsMax": 85,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2136,7 +2142,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2175,8 +2181,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-01-06T22:03:25.2613914+00:00",
+  "LastChanged": "2024-01-07T18:02:40.6654739+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.2951641+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:02:43.9830595+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:04:32.2463006+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:02:40.6654744+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:04:35.8949945+00:00"
 }

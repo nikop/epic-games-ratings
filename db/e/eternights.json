@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 308,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -47,7 +47,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 822,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -3052,6 +3052,11 @@
       "Time": "2024-01-07T15:09:03.1094141+00:00",
       "NumProgressed": 821,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T18:09:08.2250121+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3064,7 +3069,7 @@
       "Name": "New arm",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3096,7 +3101,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -3200,7 +3205,7 @@
       "Name": "The First Bond",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3208,7 +3213,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3216,7 +3221,7 @@
       "Name": "Master Craftsman",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -3248,7 +3253,7 @@
       "Name": "Stone Retriever",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3263,7 +3268,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 2
     }
   ],
@@ -3271,8 +3276,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-06T15:59:59.9482178+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:09:02.3899378+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:09:08.2250113+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:02:41.8700627+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:09:02.3899681+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:00:48.5891576+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:09:08.2250625+00:00"
 }

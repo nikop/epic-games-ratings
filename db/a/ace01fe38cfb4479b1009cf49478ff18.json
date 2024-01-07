@@ -3,7 +3,7 @@
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 306,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 830,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2679,6 +2679,11 @@
       "Time": "2024-01-07T17:08:34.8031711+00:00",
       "NumProgressed": 826,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T18:08:39.7928518+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2691,7 +2696,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -2739,7 +2744,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 5,
       "XP": 95,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -2755,7 +2760,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 206
+      "UsersEstimate": 208
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2786,14 +2791,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 830,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:08:34.8031706+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:08:39.7928515+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:58:47.5292611+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:08:34.8032037+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:59:03.1189534+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:08:39.7928734+00:00"
 }

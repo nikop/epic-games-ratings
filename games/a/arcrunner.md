@@ -25,7 +25,7 @@
 | Eden Heights | 6.00% | ~56 |
 | Outer Core | 5.00% | ~47 |
 | Inner Core | 4.00% | ~37 |
-| Integration | 3.00% | ~28 |
+| Integration | 4.00% | ~37 |
 | Trickshot | 2.00% | ~19 |
 | Destruction | 1.00% | ~9 |
 | Hard Boiled | 0.50% | ~5 |
@@ -35,7 +35,7 @@
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 937 (Ranked 295)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

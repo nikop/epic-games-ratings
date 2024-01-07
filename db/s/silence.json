@@ -2,9 +2,9 @@
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
-  "Ranking_EOS_Progress": 433,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_Progress": 432,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 482,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -495,6 +495,11 @@
       "Time": "2024-01-06T07:06:18.2571032+00:00",
       "NumProgressed": 183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T18:08:21.4874088+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -594,7 +599,7 @@
       "Name": "Useless but beautiful",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "0000_achv_spotlick",
@@ -610,7 +615,7 @@
       "Name": "Nothing can stop me",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "1001_achv_shadowplay",
@@ -632,9 +637,9 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "1006_achv_chapter1",
@@ -642,7 +647,7 @@
       "Name": "Chapter I",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "1006_achv_demoliton",
@@ -650,7 +655,7 @@
       "Name": "Demolition expert",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "1006_achv_dropball",
@@ -658,7 +663,7 @@
       "Name": "Fire in the... nevermind",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -674,7 +679,7 @@
       "Name": "Pacifist",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "2001_achv_shrooms",
@@ -690,7 +695,7 @@
       "Name": "I didn\u0027t do it!",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "2002_achv_feedfish",
@@ -706,7 +711,7 @@
       "Name": "Haute cuisine",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "2004_achv_abyss",
@@ -754,7 +759,7 @@
       "Name": "Death is a part of life",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "2009_achv_dreamwheel",
@@ -762,7 +767,7 @@
       "Name": "Life is but a dream",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "2009_achv_lifewheel",
@@ -800,9 +805,9 @@
       "ID": "3004_achv_sneeze",
       "SetID": "dhn82m5",
       "Name": "Achoo!!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -873,7 +878,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 0
     }
   ],
@@ -881,8 +886,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:06:35.6606831+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:08:21.4874083+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:52.3875785+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:59:19.2811673+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:06:35.6607613+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:59:36.4688177+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:08:21.4874431+00:00"
 }

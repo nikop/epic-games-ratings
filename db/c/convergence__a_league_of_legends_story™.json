@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -3871,9 +3871,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 139
     },
     {
       "ID": "FairgroundsChests1",
@@ -4119,9 +4119,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 164
     },
     {
       "ID": "TemporalPulseKills1",
@@ -4175,9 +4175,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 354
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4200,8 +4200,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:10:00.0133497+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:10:07.7918511+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:58:15.665357+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:10:00.0134117+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:58:27.8495214+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:10:07.7919156+00:00"
 }

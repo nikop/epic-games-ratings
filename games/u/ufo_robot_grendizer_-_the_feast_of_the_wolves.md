@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Remains of Fleed | 51.00% | ~36 |
-| Life of Pi | 51.00% | ~36 |
-| The Legend | 50.00% | ~35 |
+| The Remains of Fleed | 53.00% | ~37 |
+| Life of Pi | 53.00% | ~37 |
+| The Legend | 51.00% | ~36 |
 | Strength in Defeat | 44.00% | ~31 |
 | Escape from Fleed | 43.00% | ~30 |
 | First Contact | 40.00% | ~28 |
-| The Exterminator | 21.00% | ~15 |
+| The Exterminator | 23.00% | ~16 |
 | Earth's Savior | 19.00% | ~13 |
-| Technology first! | 16.00% | ~11 |
+| Technology first! | 17.00% | ~12 |
 | The Keeper of Fleed | 11.00% | ~8 |
 | The Collector | 10.00% | ~7 |
 | The Broken Guard | 7.00% | ~5 |
@@ -35,8 +35,8 @@
 | Vengeance of the Wolf | 1.00% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70 (Ranked 524)  
-Completed: 0 (0.00%) (Ranked 392)  
+Progressed: 70 (Ranked 525)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

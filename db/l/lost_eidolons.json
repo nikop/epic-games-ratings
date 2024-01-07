@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 285,
-  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 3810,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1119,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -10,
+  "EOS_NewPlayers": -11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2527,6 +2527,11 @@
       "Time": "2024-01-07T16:08:42.6224037+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T18:08:30.3642987+00:00",
+      "NumProgressed": 1119,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2570,7 +2575,7 @@
       "Name": "The First Step",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 817
     },
     {
       "ID": "06",
@@ -2578,7 +2583,7 @@
       "Name": "First Blood",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 783
     },
     {
       "ID": "07",
@@ -2610,7 +2615,7 @@
       "Name": "Huntmaster",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 257
     },
     {
       "ID": "11",
@@ -2674,7 +2679,7 @@
       "Name": "Earning Trust",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 605
+      "UsersEstimate": 604
     },
     {
       "ID": "19",
@@ -2721,7 +2726,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1119,
       "Completed": 1
     }
   ],
@@ -2729,8 +2734,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:08:25.4012731+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:08:30.3642983+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:02:55.908913+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:08:25.4012975+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:02:54.2078023+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:08:30.3643222+00:00"
 }

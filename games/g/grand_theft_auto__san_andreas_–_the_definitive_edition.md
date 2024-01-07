@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,253 |
-| Pay 'n' Spray | 50.00% | ~9,416 |
-| All Dressed Up for San Fierro | 25.00% | ~4,708 |
-| The American Dream | 18.00% | ~3,390 |
-| School's Out | 18.00% | ~3,390 |
-| Smooth Moves | 17.00% | ~3,201 |
-| What happens in Las Venturas... | 14.00% | ~2,636 |
-| Today Was a Good Day | 14.00% | ~2,636 |
-| Horror of the Santa Maria | 10.00% | ~1,883 |
-| Liberty City State of Mind | 9.00% | ~1,695 |
-| Original Gangster | 8.00% | ~1,506 |
-| With Extra Dip | 7.00% | ~1,318 |
-| The End of the Line | 7.00% | ~1,318 |
-| Saviour | 6.00% | ~1,130 |
+| Getting Started | 81.00% | ~15,262 |
+| Pay 'n' Spray | 50.00% | ~9,421 |
+| All Dressed Up for San Fierro | 25.00% | ~4,710 |
+| The American Dream | 18.00% | ~3,392 |
+| School's Out | 18.00% | ~3,392 |
+| Smooth Moves | 17.00% | ~3,203 |
+| What happens in Las Venturas... | 14.00% | ~2,638 |
+| Today Was a Good Day | 14.00% | ~2,638 |
+| Horror of the Santa Maria | 10.00% | ~1,884 |
+| Liberty City State of Mind | 9.00% | ~1,696 |
+| Original Gangster | 8.00% | ~1,507 |
+| With Extra Dip | 7.00% | ~1,319 |
+| The End of the Line | 7.00% | ~1,319 |
+| Saviour | 6.00% | ~1,131 |
 | Rescue a Kitten Too? | 5.00% | ~942 |
-| They Can’t Stop All of Us | 4.00% | ~753 |
-| What are the Odds | 4.00% | ~753 |
+| They Can’t Stop All of Us | 4.00% | ~754 |
+| What are the Odds | 4.00% | ~754 |
 | Bike or Biker | 3.00% | ~565 |
 | What the City Needs | 3.00% | ~565 |
 | A Legitimate Business | 2.00% | ~377 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 527)
 | ...Here we go again | 0.50% | ~94 |
 | I Ain't No Buster | 0.40% | ~75 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,831 (Ranked 157)  
-Completed: 75 (0.40%) (Ranked 236)  
+Progressed: 18,842 (Ranked 157)  
+Completed: 75 (0.40%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -303,7 +303,7 @@ Completed: 75 (0.40%) (Ranked 236)
 | 2024-01-04 | 18,344 | 72 |
 | 2024-01-05 | 18,512 | 72 |
 | 2024-01-06 | 18,702 | 75 |
-| 2024-01-07 | 18,831 | 75 |
+| 2024-01-07 | 18,842 | 75 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 443)  
 Sum: 363 (Ranked 367)  

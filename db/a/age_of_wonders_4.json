@@ -6,7 +6,7 @@
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
@@ -735,9 +735,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7037,
+  "EOS_Progressed": 7038,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10680,6 +10680,11 @@
       "Time": "2024-01-07T17:04:44.1543903+00:00",
       "NumProgressed": 7037,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T18:04:47.8865146+00:00",
+      "NumProgressed": 7038,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10739,7 +10744,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "16",
@@ -10779,7 +10784,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "20",
@@ -10843,7 +10848,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "28",
@@ -10931,7 +10936,7 @@
       "Name": "Against the Odds",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "38",
@@ -10947,7 +10952,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "4",
@@ -11170,13 +11175,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7037,
+      "Progressed": 7038,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7037,
+      "Progressed": 7038,
       "Completed": 7
     }
   ],
@@ -11184,8 +11189,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:04:44.1543899+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:04:47.8865141+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:02:50.6641293+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:04:44.154476+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:02:47.7727509+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:04:47.8866168+00:00"
 }

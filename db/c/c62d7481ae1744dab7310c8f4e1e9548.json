@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 212,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.21,
+  "EOS_Completed_Percentage": 5.19,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1034,6 +1034,11 @@
       "Time": "2024-01-07T17:03:26.7552965+00:00",
       "NumProgressed": 211,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-07T18:03:29.9128682+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1086,7 +1091,7 @@
       "Name": "Mushrooms",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Jing",
@@ -1102,7 +1107,7 @@
       "Name": "Chamois",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Kour",
@@ -1126,7 +1131,7 @@
       "Name": "Knife",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Kvitky",
@@ -1180,9 +1185,9 @@
       "ID": "Poustevnik",
       "SetID": "ag48e8e",
       "Name": "Hermit Crabs",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "Prstenec",
@@ -1262,7 +1267,7 @@
       "Name": "Rockheads",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Zelvak",
@@ -1285,14 +1290,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 212,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:03:26.7552961+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:03:29.9128678+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-07T17:02:59.3117712+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:03:26.7553294+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:02:58.5687413+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:03:29.9128989+00:00"
 }

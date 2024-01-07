@@ -6,25 +6,25 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~7,078 |
-| Man of politics | 34.00% | ~6,016 |
-| Yet another secret | 33.00% | ~5,839 |
-| Friends of sorts | 32.00% | ~5,662 |
-| Let there be darkness | 31.00% | ~5,485 |
-| End of Book One | 29.00% | ~5,132 |
-| Wannabe knight | 23.00% | ~4,070 |
-| Garden of Eden | 23.00% | ~4,070 |
-| Full house | 23.00% | ~4,070 |
-| Help an old friend | 21.00% | ~3,716 |
-| Two of us | 20.00% | ~3,539 |
-| Negotiation skills | 18.00% | ~3,185 |
-| Workers' union | 18.00% | ~3,185 |
-| End of Book Two | 18.00% | ~3,185 |
-| Everything's in order | 16.00% | ~2,831 |
-| Twist of Fate | 14.00% | ~2,477 |
-| Jack was here! | 14.00% | ~2,477 |
-| Exterminator | 13.00% | ~2,300 |
-| Whodunnit | 12.00% | ~2,123 |
+| Tattletale | 40.00% | ~7,080 |
+| Man of politics | 34.00% | ~6,018 |
+| Yet another secret | 33.00% | ~5,841 |
+| Friends of sorts | 32.00% | ~5,664 |
+| Let there be darkness | 31.00% | ~5,487 |
+| End of Book One | 29.00% | ~5,133 |
+| Wannabe knight | 23.00% | ~4,071 |
+| Garden of Eden | 23.00% | ~4,071 |
+| Full house | 23.00% | ~4,071 |
+| Help an old friend | 21.00% | ~3,717 |
+| Two of us | 20.00% | ~3,540 |
+| Negotiation skills | 18.00% | ~3,186 |
+| Workers' union | 18.00% | ~3,186 |
+| End of Book Two | 18.00% | ~3,186 |
+| Everything's in order | 16.00% | ~2,832 |
+| Twist of Fate | 14.00% | ~2,478 |
+| Jack was here! | 14.00% | ~2,478 |
+| Exterminator | 13.00% | ~2,301 |
+| Whodunnit | 12.00% | ~2,124 |
 | Good midwife | 10.00% | ~1,770 |
 | Friar Tuck | 10.00% | ~1,770 |
 | First profit | 10.00% | ~1,770 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~531 |
 | Boy of mystery | 2.00% | ~354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,695 (Ranked 162)  
-Completed: 125 (0.71%) (Ranked 195)  
+Progressed: 17,699 (Ranked 162)  
+Completed: 125 (0.71%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,7 +310,7 @@ Completed: 125 (0.71%) (Ranked 195)
 | 2024-01-04 | 17,624 | 124 |
 | 2024-01-05 | 17,651 | 125 |
 | 2024-01-06 | 17,677 | 125 |
-| 2024-01-07 | 17,695 | 125 |
+| 2024-01-07 | 17,699 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 325)  
 Sum: 200 (Ranked 417)  

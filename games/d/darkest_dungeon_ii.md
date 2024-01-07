@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~900 |
+| Malpractice Assurance | 13.00% | ~901 |
 | Lost and Found | 8.00% | ~554 |
 | Autodidact | 7.00% | ~9,244 |
-| This Belongs in a Museum | 6.00% | ~7,923 |
-| Creep and Sleep | 6.00% | ~7,923 |
-| Overdue Notice | 6.00% | ~7,923 |
-| This guy... again? | 6.00% | ~415 |
-| Ploughshares to Swords | 6.00% | ~415 |
+| This Belongs in a Museum | 6.00% | ~7,924 |
+| Creep and Sleep | 6.00% | ~7,924 |
+| Overdue Notice | 6.00% | ~7,924 |
+| This guy... again? | 6.00% | ~416 |
+| Ploughshares to Swords | 6.00% | ~416 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,603 |
 | Serenity Now! | 5.00% | ~6,603 |
 | Meat and Greet | 5.00% | ~6,603 |
@@ -65,8 +65,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 1.00% | ~1,321 |
 | Slap on the Wrist | 1.00% | ~69 |
 | For Old Time' Sake | 1.00% | ~69 |
-| Hat Trick | 0.90% | ~1,188 |
-| Triage | 0.90% | ~1,188 |
+| Hat Trick | 0.90% | ~1,189 |
+| Triage | 0.90% | ~1,189 |
 | No Mercy | 0.90% | ~62 |
 | Et Tu, Riposte? | 0.80% | ~55 |
 | The World As It Was | 0.70% | ~924 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,051 (Ranked 91)  
-Completed: 3 (0.00%) (Ranked 392)  
+Progressed: 132,060 (Ranked 91)  
+Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-04 | 131,685 | 3 |
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
-| 2024-01-07 | 132,051 | 3 |
+| 2024-01-07 | 132,060 | 3 |
 ## Awards
 Max (Character Customization): 7,972  (Ranked 50)  
 Sum: 21,505 (Ranked 58)  

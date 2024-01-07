@@ -38,16 +38,16 @@
 | Meatballs, coming up! | 34.00% | ~52 |
 | Catch the bus with me! | 34.00% | ~52 |
 | I'm going to get a concussion | 33.00% | ~50 |
-| Another one bites the iron | 32.00% | ~49 |
+| Another one bites the iron | 33.00% | ~50 |
 | Ripe Meat Off The Bone! | 28.00% | ~43 |
 | Kleptomaniac | 28.00% | ~43 |
+| A Megapint...? | 27.00% | ~41 |
 | Hovering around | 27.00% | ~41 |
 | You're not so Big anymore, Boi! | 26.00% | ~40 |
-| A Megapint...? | 26.00% | ~40 |
 | Your daily dose of Vitamin C. | 26.00% | ~40 |
 | I cant stand still! | 24.00% | ~36 |
 | Slimy... yet satisfying | 23.00% | ~35 |
-| Master Butcher | 19.00% | ~29 |
+| Master Butcher | 20.00% | ~30 |
 | Just wing it! | 18.00% | ~27 |
 | Deal with it | 18.00% | ~27 |
 | Yeehaw!!! | 15.00% | ~23 |
@@ -88,7 +88,7 @@
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 152 (Ranked 454)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

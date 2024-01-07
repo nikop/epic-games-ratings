@@ -6,8 +6,8 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10620,9 +10620,9 @@
       "Count": 1083
     }
   ],
-  "EOS_Progressed": 132051,
+  "EOS_Progressed": 132060,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1064,
+  "EOS_NewPlayers": 1063,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38780,6 +38780,11 @@
       "Time": "2024-01-07T17:09:37.0795142+00:00",
       "NumProgressed": 132051,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T18:09:44.305199+00:00",
+      "NumProgressed": 132060,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38919,7 +38924,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7923
+      "UsersEstimate": 7924
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38951,7 +38956,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7923
+      "UsersEstimate": 7924
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39015,7 +39020,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7923
+      "UsersEstimate": 7924
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39071,7 +39076,7 @@
       "Name": "Hat Trick",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -39175,7 +39180,7 @@
       "Name": "Triage",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "inn_first_time",
@@ -39327,7 +39332,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "combat_kill_collector",
@@ -39335,7 +39340,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39375,7 +39380,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39422,21 +39427,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132051,
+      "Progressed": 132060,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6920,
+      "Progressed": 6929,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-07T13:57:33.3545397+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:09:37.0795137+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:09:44.3051985+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:57:39.3909163+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:09:37.0796999+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:57:50.6564886+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:09:44.3053941+00:00"
 }

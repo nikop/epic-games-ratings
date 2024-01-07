@@ -3,8 +3,8 @@
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 292,
-  "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 992,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
@@ -2926,9 +2926,9 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 456
+      "UsersEstimate": 466
     }
   ],
   "AchievementSets": [
@@ -2943,8 +2943,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:09:27.8523911+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:09:34.6720768+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:59:46.5497566+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:09:27.8524198+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:00:04.5996807+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:09:34.6720985+00:00"
 }

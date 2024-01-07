@@ -1,25 +1,25 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 655)  
+Rating: 4.48 (Ranked 656)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~379 |
 | First of many… | 68.00% | ~330 |
-| Helping Hand | 64.00% | ~311 |
+| Helping Hand | 65.00% | ~316 |
 | Increased Vigor | 59.00% | ~287 |
 | Fight Fire with Fire | 57.00% | ~277 |
-| Increased Capacity | 53.00% | ~258 |
+| Increased Capacity | 54.00% | ~262 |
 | Just the start | 49.00% | ~238 |
 | Perfect Storm | 45.00% | ~219 |
 | All That Glitters | 44.00% | ~214 |
 | Enhance! | 42.00% | ~204 |
 | One Of the Chosen | 39.00% | ~190 |
+| Throne Potato | 39.00% | ~190 |
 | Five's a Crowd | 39.00% | ~190 |
 | Devil's in the Details | 38.00% | ~185 |
-| Throne Potato | 38.00% | ~185 |
 | 25 to Life | 38.00% | ~185 |
 | Salvation | 37.00% | ~180 |
 | Unshakable Fortitude | 34.00% | ~165 |
@@ -27,7 +27,7 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 33.00% | ~160 |
 | Delusions of Grandeur | 33.00% | ~160 |
 | Love Tap | 32.00% | ~156 |
-| Maximum Vigor | 30.00% | ~146 |
+| Maximum Vigor | 31.00% | ~151 |
 | For Whom the Bell Tolls | 28.00% | ~136 |
 | Freeze Frame | 27.00% | ~131 |
 | Eat Your Heart Out | 27.00% | ~131 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.80% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 486 (Ranked 354)  
-Completed: 2 (0.41%) (Ranked 234)  
+Completed: 2 (0.41%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

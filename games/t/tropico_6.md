@@ -1,7 +1,7 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.66 (Ranked 300)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -48,7 +48,7 @@ Number of Ratings: 398  (23.09.2022)
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,988 (Ranked 197)  
-Completed: 2 (0.03%) (Ranked 353)  
+Completed: 2 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,13 +312,13 @@ Completed: 2 (0.03%) (Ranked 353)
 | 2024-01-07 | 6,988 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 370)  
-Sum: 757 (Ranked 303)  
-Diff (max vs sum): 67  
+Sum: 758 (Ranked 302)  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 106 |
 | This game is Great for Beginners | 106 |
-| This game is Relaxing | 103 |
+| This game is Relaxing | 104 |
 | This game has Quickly Understood Controls | 103 |
 | This game has Amazing Storytelling | 96 |
 | This game is Extremely Fun | 95 |
@@ -512,4 +512,4 @@ Diff (max vs sum): 67
 | 2024-01-01 | 4.66 | - | 106 | 752 |
 | 2024-01-04 | 4.66 | - | 106 | 755 |
 | 2024-01-05 | 4.66 | - | 106 | 756 |
-| 2024-01-07 | 4.66 | - | 106 | 757 |
+| 2024-01-07 | 4.66 | - | 106 | 758 |

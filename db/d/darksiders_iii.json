@@ -2,12 +2,12 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 655,
+  "Ranking_Rating": 656,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 354,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 486,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1875,9 +1875,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Capacity",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 262
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1899,9 +1899,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 151
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -2203,9 +2203,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 190
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -2227,9 +2227,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 316
     },
     {
       "ID": "Save_Humans_10",
@@ -2339,8 +2339,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:08:22.0041151+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:08:26.8242565+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:59:58.5584372+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:08:22.00417+00:00"
+  "LastUpdate_Ratings": "2024-01-07T18:00:16.8498988+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:08:26.8243217+00:00"
 }

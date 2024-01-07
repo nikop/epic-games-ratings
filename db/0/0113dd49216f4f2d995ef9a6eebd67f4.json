@@ -3,8 +3,8 @@
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1447,8 +1447,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-07T17:08:57.1979232+00:00",
+  "LastChanged_Achievements": "2024-01-07T18:09:02.9190168+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-07T16:58:34.9745736+00:00",
-  "LastUpdate_Achievements": "2024-01-07T17:08:57.1979562+00:00"
+  "LastUpdate_Ratings": "2024-01-07T17:58:48.4734964+00:00",
+  "LastUpdate_Achievements": "2024-01-07T18:09:02.919054+00:00"
 }

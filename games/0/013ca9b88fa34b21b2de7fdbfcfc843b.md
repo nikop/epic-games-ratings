@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.63 (Ranked 356)  
+Rating: 4.63 (Ranked 357)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,12 +10,12 @@ Rating: 4.63 (Ranked 356)
 | Break-Net Speed | 3.00% | ~268 |
 | ... And Spit Back Out | 3.00% | ~268 |
 | Bramble Breaker | 3.00% | ~268 |
-| Calm Sailing | 2.00% | ~178 |
-| Open the Gate! | 2.00% | ~178 |
-| Lumberjack | 2.00% | ~178 |
-| Miner 49er | 2.00% | ~178 |
-| Humble Collector | 2.00% | ~178 |
-| Mist Walker | 2.00% | ~178 |
+| Calm Sailing | 2.00% | ~179 |
+| Open the Gate! | 2.00% | ~179 |
+| Lumberjack | 2.00% | ~179 |
+| Miner 49er | 2.00% | ~179 |
+| Humble Collector | 2.00% | ~179 |
+| Mist Walker | 2.00% | ~179 |
 | Clear the Air | 1.00% | ~89 |
 | Search for the Hairy Grell | 1.00% | ~89 |
 | Beach Comber | 1.00% | ~89 |
@@ -49,8 +49,8 @@ Rating: 4.63 (Ranked 356)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,923 (Ranked 185)  
-Completed: 1 (0.01%) (Ranked 371)  
+Progressed: 8,927 (Ranked 185)  
+Completed: 1 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -184,7 +184,7 @@ Completed: 1 (0.01%) (Ranked 371)
 | 2024-01-04 | 8,863 | 1 |
 | 2024-01-05 | 8,888 | 1 |
 | 2024-01-06 | 8,910 | 1 |
-| 2024-01-07 | 8,923 | 1 |
+| 2024-01-07 | 8,927 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
