@@ -6,12 +6,12 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,076 |
+| Initiation | 29.00% | ~19,077 |
 | Student | 22.00% | ~14,472 |
 | Knower | 16.00% | ~10,525 |
 | Listener | 15.00% | ~9,867 |
-| Aspen Tree | 14.00% | ~9,209 |
-| Healer | 14.00% | ~9,209 |
+| Aspen Tree | 14.00% | ~9,210 |
+| Healer | 14.00% | ~9,210 |
 | Soldier | 12.00% | ~7,894 |
 | Cow Level | 11.00% | ~7,236 |
 | Scientist | 11.00% | ~7,236 |
@@ -23,9 +23,9 @@ Number of Ratings: 96  (23.09.2022)
 | Collector | 9.00% | ~5,920 |
 | Wolf | 9.00% | ~5,920 |
 | Black Mage | 9.00% | ~5,920 |
-| Card Player | 8.00% | ~5,262 |
-| Dead Friend | 8.00% | ~5,262 |
-| Pine Tree | 8.00% | ~5,262 |
+| Card Player | 8.00% | ~5,263 |
+| Dead Friend | 8.00% | ~5,263 |
+| Pine Tree | 8.00% | ~5,263 |
 | Worthy | 7.00% | ~4,605 |
 | Black Book | 7.00% | ~4,605 |
 | Black Sorcerer | 7.00% | ~4,605 |
@@ -57,8 +57,8 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,316 |
 | Word Master | 0.20% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,780 (Ranked 117)  
-Completed: 67 (0.10%) (Ranked 309)  
+Progressed: 65,783 (Ranked 117)  
+Completed: 68 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,7 +191,7 @@ Completed: 67 (0.10%) (Ranked 309)
 | 2024-01-04 | 65,027 | 65 |
 | 2024-01-05 | 65,259 | 65 |
 | 2024-01-06 | 65,529 | 65 |
-| 2024-01-07 | 65,780 | 67 |
+| 2024-01-07 | 65,783 | 68 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -3,9 +3,9 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 909,
+  "EOS_Progressed": 910,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -3160,6 +3160,11 @@
       "Time": "2024-01-07T22:08:51.1694142+00:00",
       "NumProgressed": 909,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-07T23:09:05.9069609+00:00",
+      "NumProgressed": 910,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3236,7 +3241,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_mg2",
@@ -3275,14 +3280,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 909,
+      "Progressed": 910,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:08:51.1694138+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:09:05.9069604+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:58:27.0516156+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:08:51.1694373+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:58:42.8121492+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:09:05.9069844+00:00"
 }

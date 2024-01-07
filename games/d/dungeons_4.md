@@ -5,7 +5,7 @@ Rating: 4.74 (Ranked 163)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~655 |
+| The Last Stand | 89.00% | ~662 |
 | Thalya – Simply Immortal | 88.00% | ~655 |
 | For the Horde! | 83.00% | ~618 |
 | Hammer Time, Round Two | 81.00% | ~603 |
@@ -35,8 +35,8 @@ Rating: 4.74 (Ranked 163)
 | All’s Well That Ends Evil | 42.00% | ~312 |
 | The Duel | 39.00% | ~290 |
 | Unstoppable Horde | 36.00% | ~268 |
+| Master of the Undead | 36.00% | ~268 |
 | If Looks Could Kill | 36.00% | ~268 |
-| Master of the Undead | 35.00% | ~260 |
 | The Finitude Drill | 33.00% | ~246 |
 | Ghost Pirates? Ghost Heroes! | 31.00% | ~231 |
 | Doom Hill | 30.00% | ~223 |

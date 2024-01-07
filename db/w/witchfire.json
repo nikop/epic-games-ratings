@@ -4,11 +4,11 @@
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 402,
   "Ranking_Popularity": 422,
-  "Ranking_PopularitySum": 367,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-20T14:00:00+00:00",
     "PcReleaseDate": "2023-09-20T14:00:00+00:00",
@@ -1235,10 +1235,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 367,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-01-07T23:00:01.4532607+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 370,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 367,
+  "NumberOfAwards": 370,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -1252,7 +1258,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 58
+      "Count": 60
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1276,7 +1282,7 @@
       "Text": "This game is Hard for Beginners",
       "Prefix": "This game is",
       "Type": "Hard for Beginners",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1315,8 +1321,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2024-01-07T21:00:18.0729227+00:00",
+  "LastChanged": "2024-01-07T23:00:01.4532603+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:11.5685477+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:59:22.6766108+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:08:59.4797664+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:00:01.453261+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:09:17.3185798+00:00"
 }

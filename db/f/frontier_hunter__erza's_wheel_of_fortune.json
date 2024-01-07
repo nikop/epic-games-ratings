@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -2902,9 +2902,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2951,8 +2951,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:09:20.7071883+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:09:46.4015444+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.4482016+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:59:24.9575096+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:09:20.707224+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:00:04.827685+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:09:46.401585+00:00"
 }

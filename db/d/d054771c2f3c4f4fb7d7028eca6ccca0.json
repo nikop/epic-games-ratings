@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3767,
+  "EOS_Progressed": 3771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4259,6 +4259,11 @@
       "Time": "2024-01-07T22:03:40.4362416+00:00",
       "NumProgressed": 3767,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T23:03:59.6512243+00:00",
+      "NumProgressed": 3771,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4279,7 +4284,7 @@
       "Name": "Done for Today",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -4295,7 +4300,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1207
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -4317,9 +4322,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "c167foo",
       "Name": "Power Overwhelming",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -4375,7 +4380,7 @@
       "Name": "Worthy Badge",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -4455,7 +4460,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1433
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4471,7 +4476,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1622
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4646,14 +4651,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3767,
+      "Progressed": 3771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:03:40.4362415+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:03:59.651224+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:58:43.6681419+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:03:40.4362829+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:59:06.6698447+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:03:59.6512768+00:00"
 }

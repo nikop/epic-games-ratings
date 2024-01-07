@@ -294,7 +294,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
@@ -1659,6 +1659,11 @@
       "Time": "2024-01-07T18:09:13.5417357+00:00",
       "NumProgressed": 354,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T23:09:34.7432062+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1685,9 +1690,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1703,7 +1708,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1741,9 +1746,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1783,7 +1788,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1807,7 +1812,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1823,7 +1828,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1847,7 +1852,7 @@
       "Name": "Kaijuiced",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1919,7 +1924,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1959,7 +1964,7 @@
       "Name": "Dusted",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -2015,14 +2020,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 2
     }
   ],
@@ -2030,8 +2035,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:09:12.3087343+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:09:34.7432057+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:00:27.2460369+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:09:12.3087721+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:02:33.4270886+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:09:34.7432417+00:00"
 }

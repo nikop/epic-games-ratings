@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4005,
+  "EOS_Progressed": 4006,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5532,6 +5532,11 @@
       "Time": "2024-01-07T21:07:50.7861916+00:00",
       "NumProgressed": 4005,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-07T23:07:33.6931924+00:00",
+      "NumProgressed": 4006,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5591,7 +5596,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "campaign10",
@@ -5631,7 +5636,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "campaign15",
@@ -5695,7 +5700,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "campaign4",
@@ -5727,7 +5732,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "campaign8",
@@ -5806,7 +5811,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4005,
+      "Progressed": 4006,
       "Completed": 11
     }
   ],
@@ -5814,8 +5819,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:06:16.3917136+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:07:33.6931918+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:04.3464482+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:59:48.4654384+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:06:16.391771+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:00:38.7395493+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:07:33.6932377+00:00"
 }

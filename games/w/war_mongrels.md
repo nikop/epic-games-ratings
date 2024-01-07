@@ -8,8 +8,8 @@ Number of Ratings: 34  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~522 |
 | Cowardice | 61.00% | ~468 |
+| The Breaking Point | 44.00% | ~337 |
 | NO LIFE IS WORTH SAVING... | 44.00% | ~337 |
-| The Breaking Point | 43.00% | ~330 |
 | Eat Lead! | 42.00% | ~322 |
 | Here Comes the Boom | 40.00% | ~307 |
 | Prospector | 38.00% | ~291 |
@@ -23,8 +23,8 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 30.00% | ~230 |
 | King of Knives | 30.00% | ~230 |
 | The Horror | 28.00% | ~215 |
+| It's Just an Accident | 26.00% | ~199 |
 | The Difference | 25.00% | ~192 |
-| It's Just an Accident | 25.00% | ~192 |
 | Vengeance | 23.00% | ~176 |
 | Collectibles of Chapter II | 22.00% | ~169 |
 | Broken Hopes | 21.00% | ~161 |

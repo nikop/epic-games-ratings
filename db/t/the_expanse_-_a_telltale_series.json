@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18572,
+  "EOS_Progressed": 18579,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16631,6 +16631,11 @@
       "Time": "2024-01-07T22:06:18.805986+00:00",
       "NumProgressed": 18572,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-07T23:07:36.9823742+00:00",
+      "NumProgressed": 18579,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16667,7 +16672,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "13",
@@ -16675,7 +16680,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "14",
@@ -16683,7 +16688,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "15",
@@ -16691,7 +16696,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "16",
@@ -16699,7 +16704,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "17",
@@ -16707,7 +16712,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "18",
@@ -16715,7 +16720,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "19",
@@ -16723,7 +16728,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "2",
@@ -16739,7 +16744,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "21",
@@ -16755,7 +16760,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "23",
@@ -16779,7 +16784,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "26",
@@ -16787,7 +16792,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "27",
@@ -16795,7 +16800,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "28",
@@ -16819,7 +16824,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "30",
@@ -16827,7 +16832,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "4",
@@ -16835,7 +16840,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "5",
@@ -16851,15 +16856,15 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 149
     },
     {
       "ID": "8",
@@ -16867,7 +16872,7 @@
       "Name": "Data Recoverer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "9",
@@ -16875,7 +16880,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "31",
@@ -16883,7 +16888,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "32",
@@ -16891,7 +16896,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "33",
@@ -16915,29 +16920,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18572,
+      "Progressed": 18579,
       "Completed": 60
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4526,
-      "Completed": 1243
+      "Progressed": 4533,
+      "Completed": 1244
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-06T19:58:03.9516258+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:06:18.8059856+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:07:36.9823738+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:58:23.7827568+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:06:18.8060883+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:58:38.295101+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:07:36.9824572+00:00"
 }

@@ -17,10 +17,10 @@
 | Flagellation | 8.00% | ~51 |
 | The choice | 6.00% | ~38 |
 | Hubris | 4.00% | ~26 |
-| Humility | 2.00% | ~13 |
+| Humility | 3.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 639 (Ranked 334)  
-Completed: 7 (1.10%) (Ranked 167)  
+Completed: 7 (1.10%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

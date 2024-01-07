@@ -16,7 +16,7 @@ Rating: 4.38 (Ranked 791)
 | Major Felix Hagen | 53.00% | ~262 |
 | Order and Method | 52.00% | ~257 |
 | Fine-toothed Comb | 52.00% | ~257 |
-| The Altercation | 48.00% | ~238 |
+| The Altercation | 49.00% | ~243 |
 | Truth from Within | 47.00% | ~233 |
 | The Major | 45.00% | ~223 |
 | Curious and Beautiful | 43.00% | ~213 |

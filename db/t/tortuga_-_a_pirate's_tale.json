@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -287,7 +287,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17453,
+  "EOS_Progressed": 17454,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -8162,6 +8162,11 @@
       "Time": "2024-01-07T22:08:34.4539148+00:00",
       "NumProgressed": 17453,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T23:08:43.5238012+00:00",
+      "NumProgressed": 17454,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -8173,7 +8178,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16580
+      "UsersEstimate": 16581
     },
     {
       "ID": "ACH001",
@@ -8269,7 +8274,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12566
+      "UsersEstimate": 12567
     },
     {
       "ID": "ACH0020",
@@ -8333,7 +8338,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 15184
+      "UsersEstimate": 15185
     },
     {
       "ID": "ACH005",
@@ -8341,7 +8346,7 @@
       "Name": "Head First",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "ACH006",
@@ -8349,7 +8354,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6981
+      "UsersEstimate": 6982
     },
     {
       "ID": "ACH007",
@@ -8380,7 +8385,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17453,
+      "Progressed": 17454,
       "Completed": 1
     }
   ],
@@ -8388,8 +8393,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2024-01-05T00:01:53.1523613+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:08:34.4539145+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:08:43.5238009+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:10.6705655+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:58:02.5651955+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:08:34.453978+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:58:07.4165368+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:08:43.5238436+00:00"
 }

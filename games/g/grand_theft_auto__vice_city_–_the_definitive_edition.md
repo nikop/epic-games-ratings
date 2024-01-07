@@ -1,22 +1,22 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 574)  
+Rating: 4.52 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,276 |
-| Greasy Palms | 42.00% | ~6,644 |
-| South American Connection | 26.00% | ~4,113 |
-| Life of the Party | 21.00% | ~3,322 |
+| Legal Counsel | 46.00% | ~7,279 |
+| Greasy Palms | 42.00% | ~6,646 |
+| South American Connection | 26.00% | ~4,114 |
+| Life of the Party | 21.00% | ~3,323 |
 | Big Heat from Little Havana | 15.00% | ~2,373 |
 | Chauffeur | 15.00% | ~2,373 |
 | Tommy Two-Wheels | 15.00% | ~2,373 |
-| Salutations My Little Friend | 11.00% | ~1,740 |
+| Salutations My Little Friend | 11.00% | ~1,741 |
 | Iron-y | 10.00% | ~1,582 |
 | Gun for Hire | 9.00% | ~1,424 |
 | Mischief Managed | 9.00% | ~1,424 |
-| Vice City Mogul | 7.00% | ~1,107 |
+| Vice City Mogul | 7.00% | ~1,108 |
 | Catch Me if You Can | 6.00% | ~949 |
 | Bloodstained Hands | 6.00% | ~949 |
 | Not my First Time | 5.00% | ~791 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 574)
 | Done it All | 0.90% | ~142 |
 | Kingpin | 0.60% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,818 (Ranked 171)  
+Progressed: 15,823 (Ranked 171)  
 Completed: 91 (0.58%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 91 (0.58%) (Ranked 207)
 | 2024-01-04 | 15,370 | 86 |
 | 2024-01-05 | 15,486 | 86 |
 | 2024-01-06 | 15,660 | 88 |
-| 2024-01-07 | 15,818 | 91 |
+| 2024-01-07 | 15,823 | 91 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -12,10 +12,10 @@
 | Electrician | 15.00% | ~11 |
 | Card Sharp | 13.00% | ~9 |
 | I Ain't Afraid of No Ghost | 11.00% | ~8 |
-| Joyrider | 7.00% | ~5 |
+| Joyrider | 8.00% | ~6 |
 | Top Detective | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 522)  
+Progressed: 71 (Ranked 523)  
 Completed: 3 (4.23%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |

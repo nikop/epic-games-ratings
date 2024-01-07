@@ -293,9 +293,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 10641,
+  "EOS_Progressed": 10644,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1459,
+  "EOS_NewPlayers": 1453,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4038,6 +4038,11 @@
       "Time": "2024-01-07T22:09:54.0418609+00:00",
       "NumProgressed": 10641,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T23:10:31.4176262+00:00",
+      "NumProgressed": 10644,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4056,9 +4061,9 @@
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1171
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4154,7 +4159,7 @@
       "Name": "Pentakill",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "16_TheRise",
@@ -4298,7 +4303,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4362,7 +4367,7 @@
       "Name": "Jungle Heat",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4370,7 +4375,7 @@
       "Name": "Iron Judgement",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4378,7 +4383,7 @@
       "Name": "No Place Like Home",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -4569,7 +4574,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10641,
+      "Progressed": 10644,
       "Completed": 1
     }
   ],
@@ -4577,8 +4582,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-07T07:57:26.3541054+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:09:54.0418607+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:10:31.4176256+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:57:39.8718275+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:09:54.0419536+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:57:35.2940915+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:10:31.4177224+00:00"
 }

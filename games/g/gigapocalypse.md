@@ -26,9 +26,9 @@
 | Mutant And Proud | 39.00% | ~79 |
 | The Emperor's New Clothes | 33.00% | ~67 |
 | You Shall Not Pass | 32.00% | ~65 |
+| Animal Lover | 32.00% | ~65 |
 | Happy Little Home | 32.00% | ~65 |
 | Final Evolution | 32.00% | ~65 |
-| Animal Lover | 31.00% | ~63 |
 | Godlike Power | 31.00% | ~63 |
 | Undying Skin | 31.00% | ~63 |
 | Fight Me! | 30.00% | ~61 |

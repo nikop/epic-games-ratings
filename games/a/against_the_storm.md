@@ -13,11 +13,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overgrown Library | 8.00% | ~1,634 |
 | Petrified Necropolis | 8.00% | ~1,634 |
 | The Marshlands | 7.00% | ~1,430 |
-| Overcoming Difficulty | 6.00% | ~1,225 |
-| Coral Forest | 6.00% | ~1,225 |
-| The Scarlet Orchard | 6.00% | ~1,225 |
-| Ominous Presence | 6.00% | ~1,225 |
-| Gathering Storm | 6.00% | ~1,225 |
+| Overcoming Difficulty | 6.00% | ~1,226 |
+| Coral Forest | 6.00% | ~1,226 |
+| The Scarlet Orchard | 6.00% | ~1,226 |
+| Ominous Presence | 6.00% | ~1,226 |
+| Gathering Storm | 6.00% | ~1,226 |
 | Frosts | 5.00% | ~1,021 |
 | Land of Greed | 5.00% | ~1,021 |
 | Homesick | 4.00% | ~817 |
@@ -35,14 +35,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 3.00% | ~613 |
 | Trade Baron | 3.00% | ~613 |
 | Untamed Wilds | 3.00% | ~613 |
-| Against All Odds | 2.00% | ~408 |
-| Barren Lands | 2.00% | ~408 |
-| Ancient Battleground | 2.00% | ~408 |
-| Sparkdew Crystals | 2.00% | ~408 |
-| Haunted Forest | 2.00% | ~408 |
-| Flooded Mines | 2.00% | ~408 |
-| Defying the Crown | 2.00% | ~408 |
-| Into the Forest | 2.00% | ~408 |
+| Against All Odds | 2.00% | ~409 |
+| Barren Lands | 2.00% | ~409 |
+| Ancient Battleground | 2.00% | ~409 |
+| Sparkdew Crystals | 2.00% | ~409 |
+| Haunted Forest | 2.00% | ~409 |
+| Flooded Mines | 2.00% | ~409 |
+| Defying the Crown | 2.00% | ~409 |
+| Into the Forest | 2.00% | ~409 |
 | Serving Ale | 1.00% | ~204 |
 | Efficient Explorer | 1.00% | ~204 |
 | Refinery | 1.00% | ~204 |
@@ -51,8 +51,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 1.00% | ~204 |
 | Forsaken Gods Temple | 1.00% | ~204 |
 | Victory Through Prosperity | 1.00% | ~204 |
+| Like a Machine | 0.80% | ~163 |
 | Feeding The People | 0.70% | ~143 |
-| Like a Machine | 0.70% | ~143 |
 | Blood Flower Farmer | 0.50% | ~102 |
 | Fox Utopia | 0.50% | ~102 |
 | Prestigious Expedition | 0.40% | ~82 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,424 (Ranked 154)  
+Progressed: 20,428 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-04 | 20,143 | 33 |
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
-| 2024-01-07 | 20,424 | 34 |
+| 2024-01-07 | 20,428 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 232)  
-Sum: 3,352 (Ranked 177)  
+Sum: 3,354 (Ranked 177)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -339,7 +339,7 @@ Diff (max vs sum): 55
 | This game is Relaxing | 448 |
 | This game is Great for Beginners | 442 |
 | This game is Extremely Fun | 418 |
-| This game is Highly Recommended | 403 |
+| This game is Highly Recommended | 405 |
 | This game has Unique Visuals | 347 |
 | This game has Amazing Storytelling | 331 |
 | This game has Amazing Characters | 295 |
@@ -625,4 +625,4 @@ Diff (max vs sum): 55
 | 2024-01-04 | 4.82 | - | 448 | 3,331 |
 | 2024-01-05 | 4.82 | - | 448 | 3,337 |
 | 2024-01-06 | 4.82 | - | 449 | 3,344 |
-| 2024-01-07 | 4.82 | - | 449 | 3,352 |
+| 2024-01-07 | 4.82 | - | 449 | 3,354 |

@@ -6,7 +6,7 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~6,906 |
+| Tattletale | 40.00% | ~7,083 |
 | Man of politics | 34.00% | ~6,021 |
 | Yet another secret | 33.00% | ~5,844 |
 | Friends of sorts | 32.00% | ~5,667 |

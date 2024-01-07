@@ -2305,9 +2305,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 18876,
+  "EOS_Progressed": 18889,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1093,
+  "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -19470,6 +19470,11 @@
       "Time": "2024-01-07T22:09:55.6257097+00:00",
       "NumProgressed": 18876,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-07T23:10:33.1677363+00:00",
+      "NumProgressed": 18889,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19481,7 +19486,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15290
+      "UsersEstimate": 15300
     },
     {
       "ID": "ACH02",
@@ -19489,7 +19494,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "ACH03",
@@ -19497,7 +19502,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "ACH04",
@@ -19529,7 +19534,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3398
+      "UsersEstimate": 3400
     },
     {
       "ID": "ACH08",
@@ -19537,7 +19542,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9438
+      "UsersEstimate": 9444
     },
     {
       "ID": "ACH09",
@@ -19545,7 +19550,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "ACH10",
@@ -19561,7 +19566,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "ACH12",
@@ -19577,7 +19582,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3398
+      "UsersEstimate": 3400
     },
     {
       "ID": "ACH14",
@@ -19585,7 +19590,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "ACH15",
@@ -19593,7 +19598,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH16",
@@ -19601,7 +19606,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3209
+      "UsersEstimate": 3211
     },
     {
       "ID": "ACH17",
@@ -19609,7 +19614,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "ACH18",
@@ -19649,7 +19654,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ACH23",
@@ -19657,7 +19662,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4722
     },
     {
       "ID": "ACH24",
@@ -19673,7 +19678,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH26",
@@ -19697,7 +19702,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "ACH29",
@@ -19705,7 +19710,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ACH30",
@@ -19760,7 +19765,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18876,
+      "Progressed": 18889,
       "Completed": 75
     }
   ],
@@ -19768,8 +19773,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-07T11:59:13.9399306+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:09:55.6257094+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:10:33.1677357+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:59:52.2766661+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:09:55.6258175+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:00:42.9175591+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:10:33.1678345+00:00"
 }

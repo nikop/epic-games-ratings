@@ -4,8 +4,8 @@
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 505,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-30T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 959,
+  "EOS_Progressed": 960,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -212,6 +212,11 @@
       "Time": "2024-01-06T19:03:36.6712264+00:00",
       "NumProgressed": 959,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-07T23:04:38.2068652+00:00",
+      "NumProgressed": 960,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 12,
@@ -223,7 +228,7 @@
       "Name": "Thrifty",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "achievement_botanical",
@@ -271,7 +276,7 @@
       "Name": "Real Estate",
       "Percentage": 63,
       "XP": 35,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_lighthouse",
@@ -287,7 +292,7 @@
       "Name": "A man of his word",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "achievement_ship_bought",
@@ -303,7 +308,7 @@
       "Name": "Energizer",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "achievement_too_big_to_fail",
@@ -318,7 +323,7 @@
     {
       "ID": "7171fo0",
       "IsBase": true,
-      "Progressed": 959,
+      "Progressed": 960,
       "Completed": 14
     }
   ],
@@ -326,8 +331,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:04:08.4278809+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:04:38.2068648+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:09.0770825+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:59:07.8257865+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:04:08.4278879+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:59:40.07049+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:04:38.2068754+00:00"
 }

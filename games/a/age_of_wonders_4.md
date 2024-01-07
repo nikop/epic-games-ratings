@@ -5,31 +5,31 @@ Rating: 4.62 (Ranked 378)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 16.00% | ~1,127 |
-| Realm Estate | 14.00% | ~986 |
-| A Wonderful Discovery | 13.00% | ~916 |
-| Walls Cannot Stop Us | 13.00% | ~916 |
-| From Friends to Family | 11.00% | ~775 |
+| Secret Technique | 16.00% | ~1,128 |
+| Realm Estate | 14.00% | ~987 |
+| A Wonderful Discovery | 13.00% | ~917 |
+| Walls Cannot Stop Us | 13.00% | ~917 |
+| From Friends to Family | 11.00% | ~776 |
 | Bone Peddler | 10.00% | ~705 |
 | Full Ascension | 8.00% | ~564 |
 | Magical Synergy | 8.00% | ~564 |
-| There Can Only Be One! | 7.00% | ~493 |
-| Stronger Together | 7.00% | ~493 |
-| Seat of Power | 7.00% | ~493 |
+| There Can Only Be One! | 7.00% | ~494 |
+| Stronger Together | 7.00% | ~494 |
+| Seat of Power | 7.00% | ~494 |
 | Valley of Wonders | 6.00% | ~423 |
 | In a Liege of Your Own | 6.00% | ~423 |
 | Intimidation Tactics | 6.00% | ~423 |
-| My Final Form | 5.00% | ~352 |
-| But this one is mine | 5.00% | ~352 |
+| My Final Form | 5.00% | ~353 |
+| But this one is mine | 5.00% | ~353 |
 | Return of the Wizard King | 4.00% | ~282 |
 | Enchanted Archipelago | 4.00% | ~282 |
 | Digging for Treasure | 4.00% | ~282 |
 | Against the Odds | 4.00% | ~282 |
 | Impenetrable Fortress | 4.00% | ~282 |
-| Preparation Is Everything | 3.00% | ~211 |
-| Fiery Friend | 3.00% | ~211 |
-| Tipping the Scales | 3.00% | ~211 |
-| Freed Lands of Manuhari | 3.00% | ~211 |
+| Preparation Is Everything | 3.00% | ~212 |
+| Fiery Friend | 3.00% | ~212 |
+| Tipping the Scales | 3.00% | ~212 |
+| Freed Lands of Manuhari | 3.00% | ~212 |
 | I've Got Everything I Need Right Here | 2.00% | ~141 |
 | God Emperor | 2.00% | ~141 |
 | Arch Mage | 2.00% | ~141 |
@@ -43,16 +43,16 @@ Rating: 4.62 (Ranked 378)
 | Sehiran Oasis | 2.00% | ~141 |
 | Chaos Surge | 2.00% | ~141 |
 | Spoils of War | 2.00% | ~141 |
-| Lord of Chaos | 1.00% | ~70 |
-| The Goddess of Nature | 1.00% | ~70 |
-| Manufactured War | 1.00% | ~70 |
-| Pruning for Progress | 1.00% | ~70 |
-| Grexolis | 1.00% | ~70 |
-| One for All, All for One | 1.00% | ~70 |
-| Prometheus Avenged | 1.00% | ~70 |
-| Seal the Deal | 1.00% | ~70 |
-| A Conqueror's Cohort | 1.00% | ~70 |
-| Dawn of the Dread | 1.00% | ~70 |
+| Lord of Chaos | 1.00% | ~71 |
+| The Goddess of Nature | 1.00% | ~71 |
+| Manufactured War | 1.00% | ~71 |
+| Pruning for Progress | 1.00% | ~71 |
+| Grexolis | 1.00% | ~71 |
+| One for All, All for One | 1.00% | ~71 |
+| Prometheus Avenged | 1.00% | ~71 |
+| Seal the Deal | 1.00% | ~71 |
+| A Conqueror's Cohort | 1.00% | ~71 |
+| Dawn of the Dread | 1.00% | ~71 |
 | Betrayal Most Foul | 0.90% | ~63 |
 | Duality | 0.90% | ~63 |
 | Snap Out of It! | 0.60% | ~42 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,046 (Ranked 196)  
+Progressed: 7,051 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-04 | 6,853 | 7 |
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
-| 2024-01-07 | 7,046 | 7 |
+| 2024-01-07 | 7,051 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 482)  
 Sum: 212 (Ranked 410)  

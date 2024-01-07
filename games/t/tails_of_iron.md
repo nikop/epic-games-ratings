@@ -11,6 +11,7 @@ Rating: 4.57 (Ranked 497)
 | Ranged Weapon | 2.00% | ~46 |
 | Two Handed Weapon | 2.00% | ~46 |
 | Defeat 25 Frogs | 2.00% | ~46 |
+| Rescue Redgi's Brothers | 2.00% | ~46 |
 | The Bright Fir | 2.00% | ~19 |
 | Collect Gold | 1.00% | ~23 |
 | Collect Iron Ore | 1.00% | ~23 |
@@ -24,7 +25,6 @@ Rating: 4.57 (Ranked 497)
 | Kitchen Ready To Cook | 1.00% | ~23 |
 | Smithy Ready to Craft | 1.00% | ~23 |
 | Throne Room Fit For A King | 1.00% | ~23 |
-| Rescue Redgi's Brothers | 1.00% | ~23 |
 | Return Power To The Depths | 1.00% | ~23 |
 | Defeat Croakhis Khan | 1.00% | ~10 |
 | Defeat the Grub Buster | 1.00% | ~10 |

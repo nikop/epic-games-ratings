@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 839,
+  "EOS_Progressed": 840,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1289,6 +1289,11 @@
       "Time": "2024-01-06T18:05:43.9565516+00:00",
       "NumProgressed": 839,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T23:07:29.8452351+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1340,7 +1345,7 @@
       "Name": "Club Star",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "Combine",
@@ -1468,7 +1473,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1508,7 +1513,7 @@
       "Name": "The Warlord",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -1516,7 +1521,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1556,7 +1561,7 @@
       "Name": "You are the One",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "manhole",
@@ -1564,7 +1569,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "posters",
@@ -1587,7 +1592,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 839,
+      "Progressed": 840,
       "Completed": 0
     }
   ],
@@ -1595,8 +1600,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:06:13.4562964+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:07:29.8452347+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.1619736+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:03:05.462811+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:06:13.4563216+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:03:09.4859563+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:07:29.8452626+00:00"
 }

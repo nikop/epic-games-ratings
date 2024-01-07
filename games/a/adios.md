@@ -5,16 +5,16 @@ Rating: 3.51 (Ranked 1,095)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~18,263 |
-| Master, Commander | 21.00% | ~17,433 |
-| Hard Worker | 20.00% | ~16,603 |
+| Be Seeing You | 22.00% | ~18,264 |
+| Master, Commander | 21.00% | ~17,434 |
+| Hard Worker | 20.00% | ~16,604 |
 | Adios, Friendo | 19.00% | ~15,773 |
 | Mechanic | 19.00% | ~15,773 |
 | Bottom's Up | 18.00% | ~14,943 |
-| Nice Try | 16.00% | ~13,282 |
-| Right On Target | 14.00% | ~11,622 |
+| Nice Try | 16.00% | ~13,283 |
+| Right On Target | 14.00% | ~11,623 |
 | Piano Man | 11.00% | ~9,132 |
-| Lazy Bones | 9.00% | ~7,471 |
+| Lazy Bones | 9.00% | ~7,472 |
 | Vinyl Vibes | 8.00% | ~6,641 |
 | Nothing Left to Say | 7.00% | ~5,811 |
 | Sniper | 7.00% | ~5,811 |
@@ -23,16 +23,16 @@ Rating: 3.51 (Ranked 1,095)
 | Butcher | 4.00% | ~3,321 |
 | Fair's Fair | 4.00% | ~3,321 |
 | Spicy | 4.00% | ~3,321 |
-| A Man Of Taste | 3.00% | ~2,490 |
-| Ace in the Hole | 3.00% | ~2,490 |
-| Hearty | 3.00% | ~2,490 |
-| Meaty | 3.00% | ~2,490 |
-| Taco Toto | 3.00% | ~2,490 |
+| A Man Of Taste | 3.00% | ~2,491 |
+| Ace in the Hole | 3.00% | ~2,491 |
+| Hearty | 3.00% | ~2,491 |
+| Meaty | 3.00% | ~2,491 |
+| Taco Toto | 3.00% | ~2,491 |
 | Audiophile | 2.00% | ~1,660 |
 | Tape Head | 2.00% | ~1,660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,015 (Ranked 108)  
-Completed: 925 (1.11%) (Ranked 166)  
+Progressed: 83,018 (Ranked 108)  
+Completed: 925 (1.11%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -293,7 +293,7 @@ Completed: 925 (1.11%) (Ranked 166)
 | 2024-01-04 | 82,699 | 916 |
 | 2024-01-05 | 82,798 | 918 |
 | 2024-01-06 | 82,903 | 923 |
-| 2024-01-07 | 83,015 | 925 |
+| 2024-01-07 | 83,018 | 925 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

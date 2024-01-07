@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1673,9 +1673,9 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 7827,
+  "EOS_Progressed": 7828,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -16383,6 +16383,11 @@
       "Time": "2024-01-07T22:04:00.8614165+00:00",
       "NumProgressed": 7827,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-07T23:04:27.8579857+00:00",
+      "NumProgressed": 7828,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -16402,7 +16407,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 4070
+      "UsersEstimate": 4071
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -16426,7 +16431,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 5244
+      "UsersEstimate": 5245
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -16522,7 +16527,7 @@
       "Name": "Feast or Famine",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 2739
+      "UsersEstimate": 2740
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -16554,7 +16559,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5479
+      "UsersEstimate": 5480
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -16594,7 +16599,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -16602,7 +16607,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5322
+      "UsersEstimate": 5323
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -16610,7 +16615,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -16634,22 +16639,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4149
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7827,
+      "Progressed": 7828,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-07T03:01:15.0330052+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:04:00.8614162+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:04:27.8579854+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5186287+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:57:17.8745016+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:04:00.8614836+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:57:04.9511275+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:04:27.8580745+00:00"
 }

@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.21 (Ranked 952)  
+Rating: 4.21 (Ranked 953)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 16.00% | ~1,300 |
 | Hey Good Hookin | 15.00% | ~1,219 |
 | Can you smell what the Rod is Hooking | 14.00% | ~1,138 |
-| Scaling up | 13.00% | ~1,056 |
+| Scaling up | 13.00% | ~1,057 |
 | I'm on a Boat! | 12.00% | ~975 |
 | Ready to Rod and Roll | 10.00% | ~813 |
 | Fish Out of Water | 7.00% | ~569 |
@@ -20,9 +20,9 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 4.00% | ~325 |
 | School's Out for Summer | 4.00% | ~325 |
 | I'm Hooked! | 3.00% | ~244 |
+| Diamond in the Rough | 2.00% | ~163 |
 | I'm the Captain Now | 1.00% | ~81 |
 | Marathon | 1.00% | ~81 |
-| Diamond in the Rough | 1.00% | ~81 |
 | More than a Tourist | 0.80% | ~65 |
 | Hook, Line and Sinker | 0.80% | ~65 |
 | Gonna Need a Bigger Boat | 0.70% | ~57 |
@@ -40,14 +40,14 @@ Number of Ratings: 281  (23.09.2022)
 | Head for Heights | 0.10% | ~8 |
 | Lost and Flounder | 0.10% | ~8 |
 | Buckaroo | 0.10% | ~8 |
-| Trollsporet Tale Teller | 0.10% | ~7 |
-| Fish upon a Star | 0.10% | ~7 |
-| Cache and Carry | 0.10% | ~7 |
+| Trollsporet Tale Teller | 0.10% | ~8 |
+| Fish upon a Star | 0.10% | ~8 |
+| Cache and Carry | 0.10% | ~8 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,126 (Ranked 189)  
+Progressed: 8,128 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 7,958 | 0 |
 | 2024-01-05 | 8,002 | 0 |
 | 2024-01-06 | 8,058 | 0 |
-| 2024-01-07 | 8,126 | 0 |
+| 2024-01-07 | 8,128 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 480)  
 Sum: 212 (Ranked 410)  

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,363 |
-| Off to a good start | 61.00% | ~1,676 |
-| Do... or do not. There is no try | 52.00% | ~1,429 |
+| New Recruit | 86.00% | ~2,365 |
+| Off to a good start | 61.00% | ~1,678 |
+| Do... or do not. There is no try | 52.00% | ~1,430 |
 | A good blaster at your side | 24.00% | ~660 |
-| I suggest a new strategy | 17.00% | ~467 |
+| I suggest a new strategy | 17.00% | ~468 |
 | Great shot, kid! | 16.00% | ~440 |
 | Scrap collector | 15.00% | ~412 |
 | All right, I'll give it a try | 15.00% | ~412 |
@@ -18,13 +18,13 @@
 | Together we can rule the galaxy | 11.00% | ~302 |
 | Tell Jabba that I've got his money | 8.00% | ~220 |
 | Best star-pilot in the galaxy | 8.00% | ~220 |
-| Never tell me the odds! | 7.00% | ~192 |
-| Survivor | 7.00% | ~192 |
+| Never tell me the odds! | 7.00% | ~193 |
+| Survivor | 7.00% | ~193 |
 | What's the cargo? | 6.00% | ~165 |
 | A cunning warrior | 6.00% | ~165 |
-| "Gonk? Gonk!" | 5.00% | ~137 |
-| Impressive. Most impressive. | 5.00% | ~137 |
-| Judge me by my size, do you? | 5.00% | ~137 |
+| "Gonk? Gonk!" | 5.00% | ~138 |
+| Impressive. Most impressive. | 5.00% | ~138 |
+| Judge me by my size, do you? | 5.00% | ~138 |
 | Distinguished | 4.00% | ~110 |
 | A tremor in the Force | 4.00% | ~110 |
 | Support the troops | 4.00% | ~110 |
@@ -41,13 +41,13 @@
 | Precision shot | 2.00% | ~55 |
 | That's no moon | 2.00% | ~55 |
 | What will you become? | 2.00% | ~55 |
-| Hold the line! | 1.00% | ~27 |
-| Ackbar's Elite | 1.00% | ~27 |
-| This is a new day, a new beginning | 1.00% | ~27 |
-| City in the Clouds | 1.00% | ~27 |
-| Alternative solution | 1.00% | ~27 |
-| The circle is now complete | 1.00% | ~27 |
-| Disturbed tranquility | 1.00% | ~27 |
+| Hold the line! | 1.00% | ~28 |
+| Ackbar's Elite | 1.00% | ~28 |
+| This is a new day, a new beginning | 1.00% | ~28 |
+| City in the Clouds | 1.00% | ~28 |
+| Alternative solution | 1.00% | ~28 |
+| The circle is now complete | 1.00% | ~28 |
+| Disturbed tranquility | 1.00% | ~28 |
 | Playing the objective | 0.90% | ~25 |
 | Onwards! | 0.90% | ~25 |
 | Walker defender | 0.80% | ~22 |
@@ -60,15 +60,15 @@
 | I’ll take that bet | 0.40% | ~11 |
 | Stay on target | 0.30% | ~8 |
 | Greed can be a very powerful ally | 0.30% | ~8 |
-| That got him! | 0.20% | ~5 |
-| in a galaxy far, far away.... | 0.20% | ~5 |
-| Don't get cocky | 0.20% | ~5 |
-| Master | 0.20% | ~5 |
+| That got him! | 0.20% | ~6 |
+| in a galaxy far, far away.... | 0.20% | ~6 |
+| Don't get cocky | 0.20% | ~6 |
+| Master | 0.20% | ~6 |
 | Stay in attack formation | 0.10% | ~3 |
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,748 (Ranked 232)  
+Progressed: 2,750 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-04 | 2,595 | 1 |
 | 2024-01-05 | 2,649 | 1 |
 | 2024-01-06 | 2,690 | 1 |
-| 2024-01-07 | 2,748 | 1 |
+| 2024-01-07 | 2,750 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

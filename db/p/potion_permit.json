@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1912,
+  "EOS_Progressed": 1913,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -3497,6 +3497,11 @@
       "Time": "2024-01-07T22:03:37.2550075+00:00",
       "NumProgressed": 1912,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-07T23:03:55.3798071+00:00",
+      "NumProgressed": 1913,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3508,7 +3513,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3564,7 +3569,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3572,7 +3577,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3604,7 +3609,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -3612,7 +3617,7 @@
       "Name": "Sous Chef",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENTS_15",
@@ -3628,7 +3633,7 @@
       "Name": "Sociable",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -3668,7 +3673,7 @@
       "Name": "Fishing Guru",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -3676,7 +3681,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3748,7 +3753,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -3772,7 +3777,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3788,7 +3793,7 @@
       "Name": "Grape Supplier",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENTS_37",
@@ -3811,7 +3816,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1912,
+      "Progressed": 1913,
       "Completed": 11
     }
   ],
@@ -3819,8 +3824,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:03:37.2550068+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:03:55.3798068+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.493824+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:57:44.6953123+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:03:37.2550379+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:57:42.4834972+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:03:55.3798497+00:00"
 }

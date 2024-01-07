@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -2043,9 +2043,9 @@
       "ID": "19_justintime",
       "SetID": "chb1m60",
       "Name": "Just in time!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 206
+      "UsersEstimate": 213
     },
     {
       "ID": "20_sabotage",
@@ -2219,8 +2219,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:03:47.7539153+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:04:09.7679724+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.7403389+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:59:32.3158297+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:03:47.7539467+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:00:14.5184445+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:04:09.7680101+00:00"
 }

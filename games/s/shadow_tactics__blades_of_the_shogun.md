@@ -6,19 +6,19 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,966 |
-| A thief's beginning | 11.00% | ~24,719 |
-| Thorough | 11.00% | ~24,719 |
+| Genin | 12.00% | ~26,967 |
+| A thief's beginning | 11.00% | ~24,720 |
+| Thorough | 11.00% | ~24,720 |
 | Disguised | 9.00% | ~20,225 |
 | Rescue Takuma | 9.00% | ~20,225 |
 | Rollin' | 9.00% | ~20,225 |
 | Tanuki Time | 9.00% | ~20,225 |
-| Ice Ice Yuki | 8.00% | ~17,977 |
-| Stoned Ox | 8.00% | ~17,977 |
-| Yabu | 8.00% | ~17,977 |
-| Happy Planning | 7.00% | ~15,730 |
-| Jonin | 7.00% | ~15,730 |
-| Mugen Unchained | 7.00% | ~15,730 |
+| Ice Ice Yuki | 8.00% | ~17,978 |
+| Stoned Ox | 8.00% | ~17,978 |
+| Yabu | 8.00% | ~17,978 |
+| Happy Planning | 7.00% | ~15,731 |
+| Jonin | 7.00% | ~15,731 |
+| Mugen Unchained | 7.00% | ~15,731 |
 | Chunin | 6.00% | ~13,483 |
 | Flying Rocks | 6.00% | ~13,483 |
 | Warzone | 6.00% | ~13,483 |
@@ -40,8 +40,8 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,247 |
 | Undeserved Honor | 1.00% | ~2,247 |
 | When Cut Across the Neck | 1.00% | ~2,247 |
-| High Five the Moon | 0.90% | ~2,022 |
-| The Cave | 0.90% | ~2,022 |
+| High Five the Moon | 0.90% | ~2,023 |
+| The Cave | 0.90% | ~2,023 |
 | Time Paradox | 0.60% | ~1,348 |
 | Merciful | 0.50% | ~1,124 |
 | Five Shadows | 0.40% | ~899 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,717 (Ranked 79)  
+Progressed: 224,723 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 105 (0.05%) (Ranked 337)
 | 2024-01-04 | 224,025 | 103 |
 | 2024-01-05 | 224,240 | 105 |
 | 2024-01-06 | 224,483 | 105 |
-| 2024-01-07 | 224,717 | 105 |
+| 2024-01-07 | 224,723 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 209)  
 Sum: 4,947 (Ranked 150)  

@@ -15,8 +15,8 @@ Rating: 4.53 (Ranked 561)
 | Krugmazing | 64.00% | ~961 |
 | Moneyball | 60.00% | ~901 |
 | The Fire Below the Mountain | 60.00% | ~901 |
+| No Bites | 55.00% | ~826 |
 | Iceborn | 55.00% | ~826 |
-| No Bites | 54.00% | ~811 |
 | Boom Things | 53.00% | ~796 |
 | Tear of Freedom | 52.00% | ~781 |
 | My Darkest Day | 49.00% | ~735 |
@@ -36,9 +36,9 @@ Rating: 4.53 (Ranked 561)
 | Bullseye | 36.00% | ~540 |
 | It Is Not Over | 35.00% | ~525 |
 | On The Rocks | 34.00% | ~510 |
-| Snowy Poro | 32.00% | ~480 |
+| Snowy Poro | 33.00% | ~495 |
 | Never Gets Old | 32.00% | ~480 |
-| Vertical Power | 26.00% | ~390 |
+| Vertical Power | 27.00% | ~405 |
 | One From The Heart | 14.00% | ~210 |
 | Yummy | 10.00% | ~150 |
 | Snowball Fightn't | 9.00% | ~135 |

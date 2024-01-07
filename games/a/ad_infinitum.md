@@ -17,8 +17,8 @@
 | The shining | 19.00% | ~36 |
 | Reflections | 18.00% | ~34 |
 | Clarity | 16.00% | ~30 |
+| Awaiting orders | 14.00% | ~26 |
 | Health | 14.00% | ~26 |
-| Awaiting orders | 13.00% | ~24 |
 | Art critic | 11.00% | ~21 |
 | Jigsaw | 10.00% | ~19 |
 | Peace | 10.00% | ~19 |

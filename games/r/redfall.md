@@ -18,7 +18,7 @@ Rating: 3.67 (Ranked 1,092)
 | Enter of Your Own Free Will | 9.00% | ~207 |
 | Welcome to the Neighborhood | 9.00% | ~207 |
 | Throw The First Stone | 9.00% | ~207 |
-| Heart Attack | 8.00% | ~184 |
+| Heart Attack | 9.00% | ~207 |
 | Grounded | 7.00% | ~161 |
 | Skin of Their Teeth | 7.00% | ~161 |
 | Bad Wiring | 6.00% | ~138 |
@@ -46,12 +46,12 @@ Rating: 3.67 (Ranked 1,092)
 | Neighborhood Watch | 0.80% | ~18 |
 | Blood Brother | 0.80% | ~18 |
 | Empty Nest Syndrome | 0.80% | ~18 |
+| Sisterhood | 0.70% | ~16 |
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
 | Good Samaritan | 0.70% | ~16 |
-| Sisterhood | 0.60% | ~14 |
-| Scream Team | 0.50% | ~11 |
-| Under a Bushel | 0.50% | ~11 |
+| Scream Team | 0.50% | ~12 |
+| Under a Bushel | 0.50% | ~12 |
 | Monster Hunters Club | 0.40% | ~9 |
 | Friendgineering | 0.40% | ~9 |
 | So Anyway I Started Blasting | 0.40% | ~9 |
@@ -72,7 +72,7 @@ Rating: 3.67 (Ranked 1,092)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,298 (Ranked 242)  
+Progressed: 2,301 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,10 +211,10 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 2,253 | 0 |
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,286 | 0 |
-| 2024-01-07 | 2,298 | 0 |
+| 2024-01-07 | 2,301 | 0 |
 ## Awards
-Max (Great Boss Battles): 24  (Ranked 553)  
-Sum: 24 (Ranked 560)  
+Max (Great Boss Battles): 24  (Ranked 554)  
+Sum: 24 (Ranked 561)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |

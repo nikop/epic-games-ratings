@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -837,9 +837,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3833,
+  "EOS_Progressed": 3834,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5727,6 +5727,11 @@
       "Time": "2024-01-07T22:04:02.0607197+00:00",
       "NumProgressed": 3833,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T23:04:29.5639785+00:00",
+      "NumProgressed": 3834,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5762,7 +5767,7 @@
       "Name": "Blood and Iron",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CampaignVictory_Day500",
@@ -5794,7 +5799,7 @@
       "Name": "Clean Slate",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CompletedAllShipUpgrades",
@@ -5802,7 +5807,7 @@
       "Name": "Patron of Deimos",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Dominus",
@@ -5866,7 +5871,7 @@
       "Name": "Unstable Immaterium",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FullBarracks",
@@ -6050,7 +6055,7 @@
       "Name": "Warp Flickers",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MissionVictory_Justicars",
@@ -6138,7 +6143,7 @@
       "Name": "Engine Kill",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ReaperDefeated_Mortus",
@@ -6170,7 +6175,7 @@
       "Name": "Death Comes For All",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SacristaCompleted",
@@ -6234,7 +6239,7 @@
       "Name": "Killing Rampage",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ExperiencedVindicare",
@@ -6242,7 +6247,7 @@
       "Name": "Deadshot",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Kills_BioMeltdown",
@@ -6281,21 +6286,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3833,
+      "Progressed": 3834,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3833,
+      "Progressed": 3834,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-07T22:03:18.1525827+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:04:02.0607191+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:04:29.563978+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:03:18.1525834+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:04:02.0608626+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:03:27.240313+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:04:29.5640681+00:00"
 }

@@ -27,8 +27,8 @@ Rating: 4.42 (Ranked 739)
 | Bull and bear | 35.00% | ~930 |
 | Stoker | 34.00% | ~903 |
 | Full Steam ahead | 33.00% | ~877 |
+| All mine | 32.00% | ~850 |
 | Financial Shark | 32.00% | ~850 |
-| All mine | 31.00% | ~824 |
 | Mole | 31.00% | ~824 |
 | General Manager | 29.00% | ~771 |
 | Country Life | 29.00% | ~771 |

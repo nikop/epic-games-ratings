@@ -6,8 +6,8 @@ Rating: 4.69 (Ranked 236)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 46.00% | ~581 |
+| The Mysterious Stranger | 34.00% | ~430 |
 | Rail Rat | 34.00% | ~430 |
-| The Mysterious Stranger | 33.00% | ~417 |
 | Immaculate Aim | 29.00% | ~367 |
 | The Brass Boss | 28.00% | ~354 |
 | Time Flies | 26.00% | ~329 |
@@ -21,9 +21,9 @@ Rating: 4.69 (Ranked 236)
 | The Steel Shadow | 24.00% | ~303 |
 | Breaking Down Barriers | 23.00% | ~291 |
 | Right On Time | 22.00% | ~278 |
+| Like Clockwork | 22.00% | ~278 |
 | The Wicked Twins | 22.00% | ~278 |
 | Golem Chaser | 22.00% | ~278 |
-| Like Clockwork | 21.00% | ~265 |
 | The Betrayer | 21.00% | ~265 |
 | Check Your Pulse | 20.00% | ~253 |
 | The Loose Cannon | 19.00% | ~240 |

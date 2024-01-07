@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -2240,9 +2240,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 68
     },
     {
       "ID": "6",
@@ -2455,8 +2455,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:05:56.3511892+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:07:06.2846243+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:00:17.7072764+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:05:56.3512187+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:01:19.7621529+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:07:06.2846512+00:00"
 }

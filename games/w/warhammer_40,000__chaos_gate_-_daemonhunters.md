@@ -39,9 +39,9 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 1.00% | ~38 |
 | Tactical Flexibility | 1.00% | ~38 |
 | Tactical Sabotage | 1.00% | ~38 |
-| Patron of Deimos | 0.90% | ~34 |
-| Engine Kill | 0.90% | ~34 |
-| Death Comes For All | 0.90% | ~34 |
+| Patron of Deimos | 0.90% | ~35 |
+| Engine Kill | 0.90% | ~35 |
+| Death Comes For All | 0.90% | ~35 |
 | Harvest No More | 0.80% | ~31 |
 | Hands-On Research | 0.70% | ~27 |
 | True Mastery | 0.70% | ~27 |
@@ -50,12 +50,12 @@ Number of Ratings: 371  (23.09.2022)
 | Reign of Confusion | 0.50% | ~19 |
 | Abomination | 0.40% | ~15 |
 | Suffer Not the Mutant | 0.40% | ~15 |
-| Blood and Iron | 0.30% | ~11 |
-| Clean Slate | 0.30% | ~11 |
-| Unstable Immaterium | 0.30% | ~11 |
-| Warp Flickers | 0.30% | ~11 |
-| Killing Rampage | 0.30% | ~11 |
-| Deadshot | 0.30% | ~11 |
+| Blood and Iron | 0.30% | ~12 |
+| Clean Slate | 0.30% | ~12 |
+| Unstable Immaterium | 0.30% | ~12 |
+| Warp Flickers | 0.30% | ~12 |
+| Killing Rampage | 0.30% | ~12 |
+| Deadshot | 0.30% | ~12 |
 | The Flesh is Weak | 0.20% | ~8 |
 | Opportunist | 0.20% | ~8 |
 | Brothers in Arms | 0.20% | ~8 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,833 (Ranked 217)  
+Progressed: 3,834 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 3,765 | 0 |
 | 2024-01-05 | 3,783 | 0 |
 | 2024-01-06 | 3,811 | 0 |
-| 2024-01-07 | 3,833 | 0 |
+| 2024-01-07 | 3,834 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 284)  
 Sum: 500 (Ranked 334)  

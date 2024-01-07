@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1940,
+  "EOS_Progressed": 1941,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4809,6 +4809,11 @@
       "Time": "2024-01-07T19:10:05.6546106+00:00",
       "NumProgressed": 1940,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T23:10:09.3614288+00:00",
+      "NumProgressed": 1941,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4900,7 +4905,7 @@
       "Name": "E1M1",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "Everyone_is_here",
@@ -4948,7 +4953,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "High_noon",
@@ -4972,7 +4977,7 @@
       "Name": "Spice It Up",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "KillAllM2",
@@ -5052,22 +5057,22 @@
       "Name": "Your Answer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1940,
+      "Progressed": 1941,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:09:37.4693304+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:10:09.3614284+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.6142009+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:03:08.8625664+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:09:37.469365+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:03:14.0084829+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:10:09.3614636+00:00"
 }

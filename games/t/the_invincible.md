@@ -7,12 +7,12 @@ Rating: 4.58 (Ranked 472)
 | ---- | ---------- | ----- |
 | The Camp | 70.00% | ~1,056 |
 | The Teleprobe | 55.00% | ~829 |
-| The City | 49.00% | ~739 |
+| The City | 50.00% | ~754 |
 | The field base | 44.00% | ~664 |
 | The Alliance | 41.00% | ~618 |
 | Survivors | 39.00% | ~588 |
 | The Condor | 37.00% | ~558 |
-| The End | 36.00% | ~543 |
+| The End | 37.00% | ~558 |
 | The Necroevolution | 29.00% | ~437 |
 | Krauta is alive | 28.00% | ~422 |
 | On her own | 22.00% | ~332 |

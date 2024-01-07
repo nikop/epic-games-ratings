@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2748,
+  "EOS_Progressed": 2750,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
@@ -7459,6 +7459,11 @@
       "Time": "2024-01-07T22:10:04.7038687+00:00",
       "NumProgressed": 2748,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T23:10:44.3771001+00:00",
+      "NumProgressed": 2750,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7479,7 +7484,7 @@
       "Name": "That got him!",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_11",
@@ -7487,7 +7492,7 @@
       "Name": "Hold the line!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_12",
@@ -7535,7 +7540,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_18",
@@ -7559,7 +7564,7 @@
       "Name": "in a galaxy far, far away....",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_20",
@@ -7599,7 +7604,7 @@
       "Name": "Don\u0027t get cocky",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_25",
@@ -7631,7 +7636,7 @@
       "Name": "Master",
       "Percentage": 0.2,
       "XP": 55,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_29",
@@ -7647,7 +7652,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_30",
@@ -7695,7 +7700,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2365
     },
     {
       "ID": "achievement_36",
@@ -7703,7 +7708,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_37",
@@ -7711,7 +7716,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1678
     },
     {
       "ID": "achievement_38",
@@ -7719,7 +7724,7 @@
       "Name": "Survivor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_39",
@@ -7727,7 +7732,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_4",
@@ -7735,7 +7740,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_40",
@@ -7743,7 +7748,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "achievement_41",
@@ -7751,7 +7756,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_42",
@@ -7783,7 +7788,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_46",
@@ -7831,7 +7836,7 @@
       "Name": "City in the Clouds",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_51",
@@ -7895,7 +7900,7 @@
       "Name": "Alternative solution",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_59",
@@ -7927,7 +7932,7 @@
       "Name": "The circle is now complete",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_62",
@@ -7943,7 +7948,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_7",
@@ -7974,13 +7979,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2748,
+      "Progressed": 2750,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2748,
+      "Progressed": 2750,
       "Completed": 1
     }
   ],
@@ -7988,8 +7993,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:10:04.7038684+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:10:44.3770997+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:58:08.5521338+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:10:04.7039688+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:58:16.4561664+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:10:44.3771705+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10626,9 +10626,9 @@
       "Count": 1083
     }
   ],
-  "EOS_Progressed": 132101,
+  "EOS_Progressed": 132108,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1077,
+  "EOS_NewPlayers": 1082,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38811,6 +38811,11 @@
       "Time": "2024-01-07T22:09:41.6620895+00:00",
       "NumProgressed": 132101,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-07T23:10:14.9770981+00:00",
+      "NumProgressed": 132108,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39174,7 +39179,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9247
+      "UsersEstimate": 9248
     },
     {
       "ID": "hero_story_complete_all",
@@ -39358,7 +39363,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "combat_kill_collector",
@@ -39366,7 +39371,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39406,7 +39411,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39414,7 +39419,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "quest_complete_crusader",
@@ -39453,21 +39458,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132101,
+      "Progressed": 132108,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6970,
+      "Progressed": 6977,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-07T19:57:35.9368309+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:09:41.6620893+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:10:14.9770977+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:57:53.3642391+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:09:41.662271+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:57:54.7107492+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:10:14.9772646+00:00"
 }

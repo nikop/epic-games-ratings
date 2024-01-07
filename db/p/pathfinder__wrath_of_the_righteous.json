@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4847,9 +4847,9 @@
       "Count": 405
     }
   ],
-  "EOS_Progressed": 13128,
+  "EOS_Progressed": 13129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19202,6 +19202,11 @@
       "Time": "2024-01-07T22:10:05.840847+00:00",
       "NumProgressed": 13128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-07T23:10:45.8276707+00:00",
+      "NumProgressed": 13129,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19221,7 +19226,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -19461,7 +19466,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -19581,7 +19586,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "49_Flame",
@@ -20140,21 +20145,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11910,
+      "Progressed": 11911,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13128,
+      "Progressed": 13129,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-06T22:00:15.768728+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:10:05.8408468+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:10:45.8276704+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:59:31.4591067+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:10:05.8410207+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:00:13.2884479+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:10:45.8278557+00:00"
 }

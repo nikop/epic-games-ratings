@@ -4,8 +4,8 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -982,9 +982,9 @@
       "ID": "Rainman_was_shocked_by_lightning_in_001",
       "SetID": "6od1ndi",
       "Name": "Bzzzzzz",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 35,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "Toad_exploded_in_003",
@@ -1015,8 +1015,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:09:36.1179583+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:10:07.5358076+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.8719978+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:03:11.3074251+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:09:36.117977+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:03:17.5783109+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:10:07.5358244+00:00"
 }

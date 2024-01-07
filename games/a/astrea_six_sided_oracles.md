@@ -5,35 +5,35 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 84.00% | ~297 |
-| Purification Pioneer | 79.00% | ~279 |
-| Mechanical Buddy | 74.00% | ~261 |
-| Dicesmithing Time! | 64.00% | ~226 |
-| Sanctuary Guardian | 55.00% | ~194 |
-| Endless Tricks | 51.00% | ~180 |
-| Wild's Keeper | 48.00% | ~169 |
-| Mind Illuminator | 44.00% | ~155 |
-| Stellar Dismantler | 38.00% | ~134 |
+| Purification Pioneer | 79.00% | ~280 |
+| Mechanical Buddy | 74.00% | ~262 |
+| Dicesmithing Time! | 64.00% | ~227 |
+| Sanctuary Guardian | 55.00% | ~195 |
+| Endless Tricks | 51.00% | ~181 |
+| Wild's Keeper | 48.00% | ~170 |
+| Mind Illuminator | 44.00% | ~156 |
+| Stellar Dismantler | 38.00% | ~135 |
 | Astral Adventurer | 35.00% | ~124 |
 | Noctuan Champion | 35.00% | ~124 |
-| Anomaly Destroyer | 31.00% | ~109 |
-| Star Killer | 31.00% | ~109 |
+| Anomaly Destroyer | 31.00% | ~110 |
+| Star Killer | 31.00% | ~110 |
 | Eridanian Champion | 25.00% | ~88 |
 | Loyal Partner | 22.00% | ~78 |
 | Lacertian Champion | 21.00% | ~74 |
 | Apian Champion | 19.00% | ~67 |
 | Shard Spender | 18.00% | ~64 |
 | Unbeatable | 18.00% | ~64 |
-| Sadistic Plan | 16.00% | ~56 |
-| Behenian Champion | 14.00% | ~49 |
+| Sadistic Plan | 16.00% | ~57 |
+| Behenian Champion | 14.00% | ~50 |
 | Heavy Purger | 11.00% | ~39 |
 | Wave Bender | 11.00% | ~39 |
 | Astral Seeker | 9.00% | ~32 |
 | Aquarian Champion | 9.00% | ~32 |
 | Stellar Haste | 8.00% | ~28 |
-| Favored by the Cosmos | 7.00% | ~25 |
 | Heart Gate | 7.00% | ~25 |
 | The Corruption Goddess | 7.00% | ~25 |
 | The Goddes Avatar | 7.00% | ~25 |
+| Favored by the Cosmos | 6.00% | ~21 |
 | Anomaly Control | 5.00% | ~18 |
 | Artificer | 5.00% | ~18 |
 | Can't touch this | 5.00% | ~18 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353 (Ranked 378)  
+Progressed: 354 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,4 +176,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-04 | 324 | 0 |
 | 2024-01-05 | 340 | 0 |
 | 2024-01-06 | 347 | 0 |
-| 2024-01-07 | 353 | 0 |
+| 2024-01-07 | 354 | 0 |

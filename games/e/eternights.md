@@ -1,27 +1,27 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.77 (Ranked 117)  
+Rating: 4.77 (Ranked 116)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 76.00% | ~628 |
-| Shelter Escape | 74.00% | ~611 |
-| The First Bond | 63.00% | ~520 |
+| New arm | 76.00% | ~629 |
+| Shelter Escape | 74.00% | ~612 |
+| The First Bond | 63.00% | ~521 |
 | Novice Scavenger | 56.00% | ~463 |
-| Master Craftsman | 44.00% | ~363 |
-| First wall | 43.00% | ~355 |
+| Master Craftsman | 44.00% | ~364 |
+| First wall | 43.00% | ~356 |
 | Piggyback Expert | 42.00% | ~347 |
-| Second wall | 32.00% | ~264 |
+| Second wall | 32.00% | ~265 |
 | Expert Scavenger | 31.00% | ~256 |
 | Their Rock | 27.00% | ~223 |
 | Yuna's Promise | 26.00% | ~215 |
-| Stone Retriever | 25.00% | ~206 |
+| Stone Retriever | 25.00% | ~207 |
 | Find myself | 24.00% | ~198 |
-| Min's Promise | 17.00% | ~140 |
-| Sia's Promise | 17.00% | ~140 |
-| Truebro | 17.00% | ~140 |
-| Romantic | 13.00% | ~107 |
+| Min's Promise | 17.00% | ~141 |
+| Sia's Promise | 17.00% | ~141 |
+| Truebro | 17.00% | ~141 |
+| Romantic | 13.00% | ~108 |
 | TentacleMAN | 8.00% | ~66 |
 | Yohan's Promise | 5.00% | ~41 |
 | Flawless | 5.00% | ~41 |
@@ -31,7 +31,7 @@ Rating: 4.77 (Ranked 117)
 | Dreamboat | 1.00% | ~8 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 826 (Ranked 308)  
+Progressed: 827 (Ranked 308)  
 Completed: 2 (0.24%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2 (0.24%) (Ranked 267)
 | 2024-01-04 | 768 | 2 |
 | 2024-01-05 | 785 | 2 |
 | 2024-01-06 | 808 | 2 |
-| 2024-01-07 | 826 | 2 |
+| 2024-01-07 | 827 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9,7 +9,7 @@ Rating: 4.38 (Ranked 791)
 | Training Simulation | 79.00% | ~581 |
 | Kuku Bird Hunter | 65.00% | ~478 |
 | Storm Traveller | 60.00% | ~441 |
-| Wolf King Killer | 54.00% | ~397 |
+| Wolf King Killer | 55.00% | ~404 |
 | Fashion Connoisseur | 52.00% | ~382 |
 | Arms Mechanic | 49.00% | ~360 |
 | Flower Thief | 44.00% | ~323 |

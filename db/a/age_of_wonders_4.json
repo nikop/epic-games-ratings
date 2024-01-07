@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -735,9 +735,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7046,
+  "EOS_Progressed": 7051,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10705,6 +10705,11 @@
       "Time": "2024-01-07T22:04:56.9837563+00:00",
       "NumProgressed": 7046,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-07T23:05:45.9985734+00:00",
+      "NumProgressed": 7051,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10732,7 +10737,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "12",
@@ -10780,7 +10785,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "18",
@@ -10812,7 +10817,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "21",
@@ -10828,7 +10833,7 @@
       "Name": "Realm Estate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "23",
@@ -10836,7 +10841,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "24",
@@ -10844,7 +10849,7 @@
       "Name": "Secret Technique",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "25",
@@ -10852,7 +10857,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "26",
@@ -10876,7 +10881,7 @@
       "Name": "From Friends to Family",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "29",
@@ -10884,7 +10889,7 @@
       "Name": "Stronger Together",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "3",
@@ -10900,7 +10905,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "31",
@@ -10916,7 +10921,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "33",
@@ -10924,7 +10929,7 @@
       "Name": "Seat of Power",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "34",
@@ -10948,7 +10953,7 @@
       "Name": "Fiery Friend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "37",
@@ -10964,7 +10969,7 @@
       "Name": "Manufactured War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "39",
@@ -11020,7 +11025,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "5",
@@ -11028,7 +11033,7 @@
       "Name": "Grexolis",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "6",
@@ -11036,7 +11041,7 @@
       "Name": "One for All, All for One",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "7",
@@ -11076,7 +11081,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "47",
@@ -11116,7 +11121,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "52",
@@ -11132,7 +11137,7 @@
       "Name": "Prometheus Avenged",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "54",
@@ -11148,7 +11153,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "56",
@@ -11156,7 +11161,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "57",
@@ -11172,7 +11177,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "59",
@@ -11180,7 +11185,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "60",
@@ -11195,13 +11200,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7046,
+      "Progressed": 7051,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7046,
+      "Progressed": 7051,
       "Completed": 7
     }
   ],
@@ -11209,8 +11214,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:04:56.9837558+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:05:45.9985731+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:02:58.4746883+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:04:56.9838475+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:02:59.0264737+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:05:45.9986525+00:00"
 }

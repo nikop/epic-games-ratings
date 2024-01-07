@@ -6,21 +6,21 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~314,775 |
-| Full garage | 61.00% | ~263,031 |
-| To the eyeballs! | 51.00% | ~219,911 |
-| Individual delivery | 47.00% | ~202,664 |
-| Non-Stop | 45.00% | ~194,040 |
-| Juggler | 36.00% | ~155,232 |
-| Forgot something | 35.00% | ~150,920 |
-| Close call! | 30.00% | ~129,360 |
-| Get out my way | 28.00% | ~120,736 |
-| Common cause | 26.00% | ~112,112 |
-| Critical care | 26.00% | ~112,112 |
-| Mega-railroad | 23.00% | ~99,176 |
-| Upgrade complete | 23.00% | ~99,176 |
-| Just in time! | 18.00% | ~77,616 |
-| Builder | 17.00% | ~73,304 |
+| Dealmaker | 73.00% | ~314,778 |
+| Full garage | 61.00% | ~263,034 |
+| To the eyeballs! | 51.00% | ~219,914 |
+| Individual delivery | 47.00% | ~202,665 |
+| Non-Stop | 45.00% | ~194,041 |
+| Juggler | 36.00% | ~155,233 |
+| Forgot something | 35.00% | ~150,921 |
+| Close call! | 30.00% | ~129,361 |
+| Get out my way | 28.00% | ~120,737 |
+| Common cause | 26.00% | ~112,113 |
+| Critical care | 26.00% | ~112,113 |
+| Mega-railroad | 23.00% | ~99,177 |
+| Upgrade complete | 23.00% | ~99,177 |
+| Just in time! | 18.00% | ~77,617 |
+| Builder | 17.00% | ~73,305 |
 | Long Haul | 17.00% | ~73,192 |
 | Steam Age | 16.00% | ~68,992 |
 | Multilevel road | 15.00% | ~64,680 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~431 |
 | World Zapper | 0.10% | ~431 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431,199 (Ranked 46)  
+Progressed: 431,203 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 24 (0.01%) (Ranked 372)
 | 2024-01-04 | 430,293 | 24 |
 | 2024-01-05 | 430,572 | 24 |
 | 2024-01-06 | 430,884 | 24 |
-| 2024-01-07 | 431,199 | 24 |
+| 2024-01-07 | 431,203 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,040  (Ranked 160)  
 Sum: 2,136 (Ranked 213)  

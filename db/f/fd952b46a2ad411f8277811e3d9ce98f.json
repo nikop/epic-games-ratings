@@ -4,8 +4,8 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 398266,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13076,8 +13076,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:04:26.873697+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:05:03.6739881+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.5944019+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:00:02.1273484+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:04:26.8737611+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:00:57.2286201+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:05:03.6740666+00:00"
 }

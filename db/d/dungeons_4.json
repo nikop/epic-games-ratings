@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2370,9 +2370,9 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 662
     },
     {
       "ID": "ach_main01begin_die",
@@ -2634,9 +2634,9 @@
       "ID": "ach_main11blessing_undeadonly",
       "SetID": "4hg22ll",
       "Name": "Master of the Undead",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 268
     },
     {
       "ID": "ach_main12race_completed",
@@ -2867,8 +2867,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-07T17:57:59.5607036+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:09:08.8742313+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:09:30.1264578+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:58:02.7949462+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:09:08.874294+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:58:07.7523627+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:09:30.126516+00:00"
 }

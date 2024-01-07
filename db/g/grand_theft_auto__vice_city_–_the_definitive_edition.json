@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 171,
@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 15818,
+  "EOS_Progressed": 15823,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 963,
+  "EOS_NewPlayers": 964,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -17376,6 +17376,11 @@
       "Time": "2024-01-07T22:09:42.2731666+00:00",
       "NumProgressed": 15818,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-07T23:10:15.8659931+00:00",
+      "NumProgressed": 15823,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 34,
@@ -17459,7 +17464,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH11",
@@ -17467,7 +17472,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "ACH12",
@@ -17491,7 +17496,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6644
+      "UsersEstimate": 6646
     },
     {
       "ID": "ACH15",
@@ -17547,7 +17552,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 7276
+      "UsersEstimate": 7279
     },
     {
       "ID": "ACH22",
@@ -17555,7 +17560,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "ACH23",
@@ -17563,7 +17568,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 4113
+      "UsersEstimate": 4114
     },
     {
       "ID": "ACH24",
@@ -17658,7 +17663,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15818,
+      "Progressed": 15823,
       "Completed": 91
     }
   ],
@@ -17666,8 +17671,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:09:42.2731664+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:10:15.8659928+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:59:59.8348143+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:09:42.2732608+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:00:53.9106943+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:10:15.8660863+00:00"
 }

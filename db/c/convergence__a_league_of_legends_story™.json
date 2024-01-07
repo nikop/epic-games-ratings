@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3820,9 +3820,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 278
     },
     {
       "ID": "ClovemaryGift",
@@ -3892,9 +3892,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 430
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4205,8 +4205,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:10:04.1822166+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:10:43.7215498+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:58:29.3552945+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:10:04.1822855+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:58:46.476855+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:10:43.7216054+00:00"
 }

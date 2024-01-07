@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -307,9 +307,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 1315,
+  "EOS_Progressed": 1316,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3747,6 +3747,11 @@
       "Time": "2024-01-07T21:07:16.7212019+00:00",
       "NumProgressed": 1315,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-07T23:07:01.9338875+00:00",
+      "NumProgressed": 1316,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3813,9 +3818,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 461
     },
     {
       "ID": "ChasingTheLight",
@@ -3823,7 +3828,7 @@
       "Name": "Chasing the Light",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Chicken",
@@ -3863,7 +3868,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "EcstaticTruth",
@@ -3925,9 +3930,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 368
     },
     {
       "ID": "JustOneLap",
@@ -3943,7 +3948,7 @@
       "Name": "Lord of the Files",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "LostMarshes",
@@ -4103,7 +4108,7 @@
       "Name": "Team Spirit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "TextAdventurer",
@@ -4149,9 +4154,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 368
     },
     {
       "ID": "TheThiefOfFire",
@@ -4199,7 +4204,7 @@
       "Name": "Wanderers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "WesternDelta",
@@ -4215,7 +4220,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "YourBiggestFan",
@@ -4230,7 +4235,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1315,
+      "Progressed": 1316,
       "Completed": 2
     }
   ],
@@ -4238,8 +4243,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-07T13:01:07.63286+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:05:52.9460331+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:07:01.9338871+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:57:59.5406666+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:05:52.9460831+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:58:02.662303+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:07:01.9339382+00:00"
 }

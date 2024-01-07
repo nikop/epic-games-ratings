@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1108,
+  "EOS_Progressed": 1109,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4319,6 +4319,11 @@
       "Time": "2024-01-07T16:10:13.9834858+00:00",
       "NumProgressed": 1108,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-07T23:10:38.7570522+00:00",
+      "NumProgressed": 1109,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4346,7 +4351,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "BigPlane",
@@ -4370,7 +4375,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Close",
@@ -4378,7 +4383,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Creator",
@@ -4482,7 +4487,7 @@
       "Name": "Legendary transporter",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "LinearNetwork",
@@ -4530,7 +4535,7 @@
       "Name": "New Record",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "NoTimeForModernization",
@@ -4554,7 +4559,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Ownway",
@@ -4578,7 +4583,7 @@
       "Name": "Race Against Time",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Reaction",
@@ -4658,21 +4663,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1108,
+      "Progressed": 1109,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-07T22:10:00.0322293+00:00",
+  "LastChanged_Achievements": "2024-01-07T23:10:38.7570518+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.0647724+00:00",
-  "LastUpdate_Ratings": "2024-01-07T21:58:47.4211787+00:00",
-  "LastUpdate_Achievements": "2024-01-07T22:10:00.0322771+00:00"
+  "LastUpdate_Ratings": "2024-01-07T22:59:11.3811145+00:00",
+  "LastUpdate_Achievements": "2024-01-07T23:10:38.7570916+00:00"
 }

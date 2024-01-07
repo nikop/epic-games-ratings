@@ -1,18 +1,18 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 952)  
+Rating: 4.21 (Ranked 953)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,130 |
-| The touch of Chaos | 5.00% | ~17,130 |
-| A powerful aura was here | 3.00% | ~10,278 |
-| Let's raise the stakes!! | 2.00% | ~6,852 |
+| May the Torchbearer light our way | 5.00% | ~17,132 |
+| The touch of Chaos | 5.00% | ~17,132 |
+| A powerful aura was here | 3.00% | ~10,279 |
+| Let's raise the stakes!! | 2.00% | ~6,853 |
 | Rumors are true | 1.00% | ~3,426 |
 | Pride is a sin, young Knight | 1.00% | ~3,426 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,426 |
-| We'll be careful | 0.90% | ~3,083 |
+| We'll be careful | 0.90% | ~3,084 |
 | Back to your senses | 0.80% | ~2,741 |
 | Bring it on! | 0.80% | ~2,741 |
 | They tricked me | 0.70% | ~2,398 |
@@ -24,7 +24,7 @@ Rating: 4.21 (Ranked 952)
 | This is the end | 0.50% | ~1,713 |
 | We can choose to fight | 0.50% | ~1,713 |
 | I took a risk | 0.50% | ~1,713 |
-| Their fate is sealed | 0.40% | ~1,370 |
+| Their fate is sealed | 0.40% | ~1,371 |
 | Not even from this world | 0.30% | ~1,028 |
 | No damsels in distress | 0.20% | ~685 |
 | Chaos be damned! | 0.20% | ~685 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 952)
 | Something... unnatural | 0.10% | ~343 |
 | We strike as one | 0.10% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342,610 (Ranked 59)  
+Progressed: 342,630 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 7 (0.00%) (Ranked 393)
 | 2024-01-04 | 340,944 | 7 |
 | 2024-01-05 | 341,422 | 7 |
 | 2024-01-06 | 342,038 | 7 |
-| 2024-01-07 | 342,610 | 7 |
+| 2024-01-07 | 342,630 | 7 |
 ## Awards
 Max (Great Boss Battles): 79  (Ranked 403)  
 Sum: 79 (Ranked 481)  

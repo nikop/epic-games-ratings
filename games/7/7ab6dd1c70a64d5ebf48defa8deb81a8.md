@@ -10,9 +10,9 @@ Rating: 4.16 (Ranked 987)
 | A Taste of Wrath | 24.00% | ~484 |
 | The Collector | 24.00% | ~484 |
 | Find Allies | 23.00% | ~463 |
+| Shatter Them All | 23.00% | ~463 |
 | I Found It | 23.00% | ~463 |
 | Adventurer | 22.00% | ~443 |
-| Shatter Them All | 22.00% | ~443 |
 | Geared Up | 22.00% | ~443 |
 | Fashion Victim | 21.00% | ~423 |
 | Scholar | 21.00% | ~423 |
