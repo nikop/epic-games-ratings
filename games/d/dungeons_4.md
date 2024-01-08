@@ -7,7 +7,7 @@ Rating: 4.75 (Ranked 147)
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~664 |
 | Thalya – Simply Immortal | 88.00% | ~656 |
-| For the Horde! | 82.00% | ~612 |
+| For the Horde! | 83.00% | ~619 |
 | Hammer Time, Round Two | 81.00% | ~604 |
 | The Hellwoods | 77.00% | ~574 |
 | The Plains of Strothalm | 73.00% | ~545 |
@@ -26,11 +26,11 @@ Rating: 4.75 (Ranked 147)
 | The Big Eaty | 55.00% | ~410 |
 | “… like son” | 52.00% | ~388 |
 | YOU SHALL NOT PASS! | 51.00% | ~380 |
-| The Cathedral of Light | 48.00% | ~358 |
+| The Cathedral of Light | 49.00% | ~366 |
 | Shame! Shame! Shame! | 48.00% | ~358 |
 | Tanos' Crusade Against Thalya | 47.00% | ~351 |
+| Dungeonlord Gorgu | 46.00% | ~343 |
 | Pure Dynamite! | 45.00% | ~336 |
-| Dungeonlord Gorgu | 45.00% | ~336 |
 | Mana Cannon | 42.00% | ~313 |
 | All’s Well That Ends Evil | 42.00% | ~313 |
 | The Duel | 40.00% | ~298 |

@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1406,
+  "EOS_Progressed": 1407,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3714,6 +3714,11 @@
       "Time": "2024-01-08T18:11:01.618919+00:00",
       "NumProgressed": 1406,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T19:10:06.8492636+00:00",
+      "NumProgressed": 1407,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3725,7 +3730,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3733,7 +3738,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3797,7 +3802,7 @@
       "Name": "Capraphobia",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3925,7 +3930,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -4005,7 +4010,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4013,7 +4018,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4083,9 +4088,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 408
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4133,7 +4138,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -4173,7 +4178,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4252,14 +4257,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1406,
+      "Progressed": 1407,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:11:01.6189188+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:10:06.8492634+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:59:51.586019+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:11:01.6189813+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:59:06.4163908+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:10:06.8493272+00:00"
 }

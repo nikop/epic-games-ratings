@@ -46,23 +46,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.80% | ~130 |
 | Roman Paganism | 0.80% | ~130 |
 | Zoroastrianism | 0.80% | ~130 |
+| Great | 0.70% | ~114 |
 | Wise | 0.70% | ~114 |
 | Furious Family | 0.70% | ~114 |
 | Apadana | 0.70% | ~114 |
 | Learn to Play 2 | 0.70% | ~114 |
 | Carthaginian Paganism | 0.70% | ~114 |
-| Regicide | 0.60% | ~97 |
-| Drillmaster | 0.60% | ~97 |
-| Great | 0.60% | ~97 |
-| Valiant | 0.60% | ~97 |
-| Legendary Cities | 0.60% | ~97 |
-| Just Difficulty | 0.60% | ~97 |
-| Acropolis | 0.60% | ~97 |
-| Mausoleum | 0.60% | ~97 |
-| Musaeum | 0.60% | ~97 |
-| Necropolis | 0.60% | ~97 |
-| Manichaeism | 0.60% | ~97 |
-| Egyptian Paganism | 0.60% | ~97 |
+| Regicide | 0.60% | ~98 |
+| Drillmaster | 0.60% | ~98 |
+| Valiant | 0.60% | ~98 |
+| Legendary Cities | 0.60% | ~98 |
+| Just Difficulty | 0.60% | ~98 |
+| Acropolis | 0.60% | ~98 |
+| Mausoleum | 0.60% | ~98 |
+| Musaeum | 0.60% | ~98 |
+| Necropolis | 0.60% | ~98 |
+| Manichaeism | 0.60% | ~98 |
+| Egyptian Paganism | 0.60% | ~98 |
 | Hanging Gardens in Babylon | 0.50% | ~81 |
 | Beloved | 0.50% | ~81 |
 | Intercessor | 0.50% | ~81 |
@@ -76,12 +76,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.50% | ~81 |
 | Win a Single Player Game | 0.50% | ~81 |
 | Mighty | 0.40% | ~65 |
+| Victorious | 0.40% | ~65 |
 | Good Difficulty | 0.40% | ~65 |
 | Landowners | 0.40% | ~65 |
 | Patrons | 0.40% | ~65 |
 | Riders | 0.40% | ~65 |
 | Statesmen | 0.40% | ~65 |
 | Traders | 0.40% | ~65 |
+| Pantheon | 0.40% | ~65 |
 | Greece | 0.40% | ~65 |
 | Power to the People | 0.40% | ~65 |
 | Persian Paganism | 0.40% | ~65 |
@@ -93,7 +95,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.30% | ~49 |
 | Ready | 0.30% | ~49 |
 | Subjugator | 0.30% | ~49 |
-| Victorious | 0.30% | ~49 |
 | Strong Difficulty | 0.30% | ~49 |
 | Clerics | 0.30% | ~49 |
 | Hunters | 0.30% | ~49 |
@@ -101,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.30% | ~49 |
 | Hagia Sophia | 0.30% | ~49 |
 | Temple of Solomon | 0.30% | ~49 |
-| Pantheon | 0.30% | ~49 |
 | Via Recta Souk | 0.30% | ~49 |
 | Learn to Play 4 | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,247 (Ranked 168)  
+Progressed: 16,250 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,247 | 5 |
+| 2024-01-08 | 16,250 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 286)  
 Sum: 1,917 (Ranked 223)  

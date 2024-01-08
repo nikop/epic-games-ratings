@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -1421,6 +1421,11 @@
       "Time": "2024-01-08T17:10:05.1983649+00:00",
       "NumProgressed": 490,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T19:09:38.4045805+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 19,
@@ -1464,7 +1469,7 @@
       "Name": "Let it begin",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "profile_ryan",
@@ -1472,15 +1477,15 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ryan_date2_all",
       "SetID": "6h5h9ho",
       "Name": "More than browsing",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "ryan_date3_all",
@@ -1560,7 +1565,7 @@
       "Name": "The athlete",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "success_ty",
@@ -1568,7 +1573,7 @@
       "Name": "The bad boy",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "vinny_number",
@@ -1583,7 +1588,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 6
     }
   ],
@@ -1591,8 +1596,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:10:23.0425875+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:09:38.4045803+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:59:13.0308843+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:10:23.0426121+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:58:40.1532669+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:09:38.4045939+00:00"
 }

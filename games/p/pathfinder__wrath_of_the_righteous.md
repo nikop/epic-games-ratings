@@ -6,35 +6,35 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,550 |
-| Burning City | 19.00% | ~2,498 |
-| A Spark | 19.00% | ~2,498 |
+| Devoured by Darkness | 27.00% | ~3,551 |
+| A Spark | 20.00% | ~2,630 |
+| Burning City | 19.00% | ~2,499 |
 | Defender's Heart | 16.00% | ~2,104 |
-| Mythic Choices | 15.00% | ~1,972 |
+| Mythic Choices | 15.00% | ~1,973 |
 | Banner over the Citadel | 14.00% | ~1,841 |
-| Queen's Gratitude | 13.00% | ~1,709 |
-| Fifth Crusade | 9.00% | ~1,183 |
-| Embrace of the Abyss | 7.00% | ~920 |
-| Path of the Angel | 7.00% | ~920 |
-| Demonic and Divine | 7.00% | ~920 |
+| Queen's Gratitude | 13.00% | ~1,710 |
+| Fifth Crusade | 9.00% | ~1,184 |
+| Embrace of the Abyss | 7.00% | ~921 |
+| Path of the Angel | 7.00% | ~921 |
+| Demonic and Divine | 7.00% | ~921 |
 | Great Upstart | 6.00% | ~789 |
 | All Paths Open | 6.00% | ~789 |
-| Path of the Azata | 5.00% | ~657 |
-| Transformation | 5.00% | ~657 |
-| The Legacy | 5.00% | ~657 |
-| Voice from Your Dreams | 5.00% | ~657 |
-| Next-Door Play | 5.00% | ~657 |
-| Get the Toad | 5.00% | ~657 |
+| Path of the Azata | 5.00% | ~658 |
+| Transformation | 5.00% | ~658 |
+| The Legacy | 5.00% | ~658 |
+| Voice from Your Dreams | 5.00% | ~658 |
+| Next-Door Play | 5.00% | ~658 |
+| Get the Toad | 5.00% | ~658 |
 | Heart of the Fallen Land | 4.00% | ~526 |
 | Divide and Rule | 4.00% | ~526 |
 | Mythic Reinforcements | 4.00% | ~526 |
 | A Flame | 4.00% | ~526 |
 | Hey, I Know You! | 4.00% | ~526 |
-| Path of the Trickster | 3.00% | ~394 |
-| Path of the Lich | 3.00% | ~394 |
-| Heroic Victory | 3.00% | ~394 |
-| Capitulation Is Now Moot | 3.00% | ~394 |
-| Core of the Riddle | 3.00% | ~394 |
+| Path of the Trickster | 3.00% | ~395 |
+| Path of the Lich | 3.00% | ~395 |
+| Heroic Victory | 3.00% | ~395 |
+| Capitulation Is Now Moot | 3.00% | ~395 |
+| Core of the Riddle | 3.00% | ~395 |
 | Hanged Man's Notes | 3.00% | ~358 |
 | Sarkoris Will Be Green | 3.00% | ~358 |
 | The Lady of the Forest | 3.00% | ~358 |
@@ -44,12 +44,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~263 |
 | Truly Important Deed | 2.00% | ~263 |
 | Stay Underground | 2.00% | ~239 |
-| The Final Threshold | 1.00% | ~131 |
-| Path of the Dragon | 1.00% | ~131 |
-| Path of the Legend | 1.00% | ~131 |
-| Strategic Victory | 1.00% | ~131 |
-| Abyssal Conspiracy | 1.00% | ~131 |
-| Truly Profane Gift | 1.00% | ~131 |
+| The Final Threshold | 1.00% | ~132 |
+| Path of the Dragon | 1.00% | ~132 |
+| Path of the Legend | 1.00% | ~132 |
+| Strategic Victory | 1.00% | ~132 |
+| Abyssal Conspiracy | 1.00% | ~132 |
+| Truly Profane Gift | 1.00% | ~132 |
 | This Wall Won't Fall | 1.00% | ~119 |
 | Not the Last Sarkorian | 1.00% | ~119 |
 | End of Eternal Guard | 0.90% | ~118 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,149 (Ranked 176)  
+Progressed: 13,151 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,10 +386,10 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 13,058 | 0 |
 | 2024-01-06 | 13,092 | 0 |
 | 2024-01-07 | 13,129 | 0 |
-| 2024-01-08 | 13,149 | 0 |
+| 2024-01-08 | 13,151 | 0 |
 ## Awards
 Max (Character Customization): 1,780  (Ranked 129)  
-Sum: 7,206 (Ranked 126)  
+Sum: 7,210 (Ranked 126)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -399,7 +399,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 657 |
 | This game has Amazing Characters | 653 |
 | This game has Amazing Storytelling | 633 |
-| This game has Challenging Combat | 600 |
+| This game has Challenging Combat | 604 |
 | This game has Quickly Understood Controls | 587 |
 | This game is Relaxing | 567 |
 | This game has a Creative Community | 406 |
@@ -719,4 +719,4 @@ Diff (max vs sum): 3
 | 2024-01-04 | 4.76 | - | 1,777 | 7,190 |
 | 2024-01-05 | 4.76 | - | 1,777 | 7,194 |
 | 2024-01-06 | 4.76 | - | 1,778 | 7,202 |
-| 2024-01-08 | 4.76 | - | 1,780 | 7,206 |
+| 2024-01-08 | 4.76 | - | 1,780 | 7,210 |

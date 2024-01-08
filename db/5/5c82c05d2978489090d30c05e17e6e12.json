@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74038,
+  "EOS_Progressed": 74044,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 1762,
+  "EOS_NewPlayers": 1755,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6583,6 +6583,11 @@
       "Time": "2024-01-08T18:08:47.3725206+00:00",
       "NumProgressed": 74038,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2024-01-08T19:07:02.7339092+00:00",
+      "NumProgressed": 74044,
+      "NumCompleted": 113
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6595,7 +6600,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27394
+      "UsersEstimate": 27396
     },
     {
       "ID": "Achievement_10",
@@ -6683,7 +6688,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20731
+      "UsersEstimate": 20732
     },
     {
       "ID": "Achievement_20",
@@ -6819,7 +6824,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6663
+      "UsersEstimate": 6664
     },
     {
       "ID": "Achievement_5",
@@ -6866,7 +6871,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74038,
+      "Progressed": 74044,
       "Completed": 113
     }
   ],
@@ -6874,8 +6879,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-05T18:03:34.6922579+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:08:47.3725203+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:07:02.7339089+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:03:29.1925045+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:08:47.3725699+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:03:23.0027562+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:07:02.7339632+00:00"
 }

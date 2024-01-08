@@ -18,9 +18,9 @@ Rating: 3.96 (Ranked 1,058)
 | Raider’s Ruin | 2.00% | ~1,865 |
 | Dragonslayer | 2.00% | ~1,865 |
 | Rockay Rex | 2.00% | ~1,865 |
-| Hidden Sonata | 1.00% | ~932 |
-| Track Star | 1.00% | ~932 |
-| True Player | 1.00% | ~932 |
+| Hidden Sonata | 1.00% | ~933 |
+| Track Star | 1.00% | ~933 |
+| True Player | 1.00% | ~933 |
 | Headhunter | 0.90% | ~839 |
 | I Like Trains | 0.80% | ~746 |
 | Freebooter | 0.80% | ~746 |
@@ -40,14 +40,14 @@ Rating: 3.96 (Ranked 1,058)
 | Red Star | 0.30% | ~280 |
 | All for One | 0.30% | ~65 |
 | Now You See Me | 0.30% | ~65 |
-| Privateer | 0.20% | ~186 |
-| Talent Scout | 0.20% | ~186 |
-| Impossible Dreamer | 0.20% | ~186 |
+| Privateer | 0.20% | ~187 |
+| Talent Scout | 0.20% | ~187 |
+| Impossible Dreamer | 0.20% | ~187 |
 | One for All | 0.20% | ~43 |
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,250 (Ranked 101)  
+Progressed: 93,253 (Ranked 101)  
 Completed: 58 (0.06%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 58 (0.06%) (Ranked 331)
 | 2024-01-05 | 93,065 | 58 |
 | 2024-01-06 | 93,141 | 58 |
 | 2024-01-07 | 93,213 | 58 |
-| 2024-01-08 | 93,250 | 58 |
+| 2024-01-08 | 93,253 | 58 |
 ## Awards
 Max (Diverse Characters): 593  (Ranked 210)  
 Sum: 2,799 (Ranked 191)  

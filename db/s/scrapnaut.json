@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 642,
+  "EOS_Progressed": 643,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2221,6 +2221,11 @@
       "Time": "2024-01-08T18:10:00.2045575+00:00",
       "NumProgressed": 642,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T19:09:22.3572753+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2278,9 +2283,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 347
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2320,7 +2325,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_COOK",
@@ -2344,7 +2349,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -2368,7 +2373,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_KILL_100",
@@ -2376,7 +2381,7 @@
       "Name": "Robot Hunter",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_KILL_20",
@@ -2392,7 +2397,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -2470,16 +2475,16 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 270
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 642,
+      "Progressed": 643,
       "Completed": 4
     }
   ],
@@ -2487,8 +2492,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:10:00.2045574+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:09:22.3572751+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:02:16.5545356+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:10:00.2045842+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:00:45.8311754+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:09:22.3573108+00:00"
 }

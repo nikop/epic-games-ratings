@@ -5,25 +5,25 @@ Rating: 4.55 (Ranked 525)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,371 |
-| Pay 'n' Spray | 50.00% | ~9,488 |
-| All Dressed Up for San Fierro | 25.00% | ~4,744 |
-| The American Dream | 19.00% | ~3,605 |
-| School's Out | 18.00% | ~3,416 |
-| Smooth Moves | 17.00% | ~3,226 |
-| What happens in Las Venturas... | 14.00% | ~2,657 |
-| Today Was a Good Day | 14.00% | ~2,657 |
-| Horror of the Santa Maria | 10.00% | ~1,898 |
-| Liberty City State of Mind | 9.00% | ~1,708 |
-| Original Gangster | 8.00% | ~1,518 |
-| With Extra Dip | 7.00% | ~1,328 |
-| The End of the Line | 7.00% | ~1,328 |
+| Getting Started | 81.00% | ~15,381 |
+| Pay 'n' Spray | 50.00% | ~9,494 |
+| All Dressed Up for San Fierro | 25.00% | ~4,747 |
+| The American Dream | 19.00% | ~3,608 |
+| School's Out | 18.00% | ~3,418 |
+| Smooth Moves | 17.00% | ~3,228 |
+| What happens in Las Venturas... | 14.00% | ~2,658 |
+| Today Was a Good Day | 14.00% | ~2,658 |
+| Horror of the Santa Maria | 10.00% | ~1,899 |
+| Liberty City State of Mind | 9.00% | ~1,709 |
+| Original Gangster | 8.00% | ~1,519 |
+| With Extra Dip | 7.00% | ~1,329 |
+| The End of the Line | 7.00% | ~1,329 |
 | Saviour | 6.00% | ~1,139 |
 | Rescue a Kitten Too? | 5.00% | ~949 |
-| They Can’t Stop All of Us | 4.00% | ~759 |
-| What are the Odds | 4.00% | ~759 |
-| Bike or Biker | 3.00% | ~569 |
-| What the City Needs | 3.00% | ~569 |
+| They Can’t Stop All of Us | 4.00% | ~760 |
+| What are the Odds | 4.00% | ~760 |
+| Bike or Biker | 3.00% | ~570 |
+| What the City Needs | 3.00% | ~570 |
 | A Legitimate Business | 2.00% | ~380 |
 | I’ll Have Two Number 9s | 2.00% | ~380 |
 | Who Needs Directions? | 2.00% | ~380 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 525)
 | ...Here we go again | 0.50% | ~95 |
 | I Ain't No Buster | 0.40% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,976 (Ranked 157)  
-Completed: 75 (0.40%) (Ranked 236)  
+Progressed: 18,989 (Ranked 157)  
+Completed: 75 (0.39%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -304,7 +304,7 @@ Completed: 75 (0.40%) (Ranked 236)
 | 2024-01-05 | 18,512 | 72 |
 | 2024-01-06 | 18,702 | 75 |
 | 2024-01-07 | 18,889 | 75 |
-| 2024-01-08 | 18,976 | 75 |
+| 2024-01-08 | 18,989 | 75 |
 ## Awards
 Max (Great Boss Battles): 633  (Ranked 201)  
 Sum: 1,000 (Ranked 275)  

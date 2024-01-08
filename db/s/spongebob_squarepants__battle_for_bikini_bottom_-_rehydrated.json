@@ -5,7 +5,7 @@
   "Ranking_Rating": 319,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 529,
-  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 76,
@@ -341,9 +341,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 868,
+  "EOS_Progressed": 869,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -2286,6 +2286,11 @@
       "Time": "2024-01-08T18:08:02.4216244+00:00",
       "NumProgressed": 868,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-08T19:06:31.6495135+00:00",
+      "NumProgressed": 869,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2330,7 +2335,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -2553,15 +2558,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 868,
+      "Progressed": 869,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-06T21:00:31.8698684+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:08:02.4216241+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:06:31.6495133+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:02:28.5656642+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:08:02.4216532+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:00:53.6153304+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:06:31.6495467+00:00"
 }

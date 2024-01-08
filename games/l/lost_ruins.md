@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 35.00% | ~239 |
-| Goblin Tales | 29.00% | ~198 |
-| Bug Hunter | 23.00% | ~157 |
-| Boss Killer | 22.00% | ~150 |
+| Inquisitor | 35.00% | ~240 |
+| Goblin Tales | 29.00% | ~199 |
+| Bug Hunter | 23.00% | ~158 |
+| Boss Killer | 22.00% | ~151 |
 | The Fallen | 20.00% | ~137 |
 | Artifact Collector | 19.00% | ~130 |
 | Trap Master | 18.00% | ~123 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684 (Ranked 327)  
+Progressed: 685 (Ranked 326)  
 Completed: 1 (0.15%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 1 (0.15%) (Ranked 286)
 | 2024-01-05 | 662 | 1 |
 | 2024-01-06 | 666 | 1 |
 | 2024-01-07 | 678 | 1 |
-| 2024-01-08 | 684 | 1 |
+| 2024-01-08 | 685 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

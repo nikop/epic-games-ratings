@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -381,7 +381,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2311,
+  "EOS_Progressed": 2314,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -4211,6 +4211,11 @@
       "Time": "2024-01-08T16:05:28.1835642+00:00",
       "NumProgressed": 2311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T19:05:41.5221626+00:00",
+      "NumProgressed": 2314,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4270,7 +4275,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Achievement_009",
@@ -4278,7 +4283,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Achievement_010",
@@ -4302,7 +4307,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement_013",
@@ -4358,7 +4363,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Achievement_020",
@@ -4414,7 +4419,7 @@
       "Name": "Fly Fisher",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Achievement_027",
@@ -4422,7 +4427,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Achievement_028",
@@ -4534,7 +4539,7 @@
       "Name": "Empty Nest Syndrome",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement_043",
@@ -4742,14 +4747,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2311,
+      "Progressed": 2314,
       "Completed": 0
     }
   ],
@@ -4757,8 +4762,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:06:51.1975859+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:05:41.5221623+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:00:55.6630206+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:06:51.1976609+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:59:49.0790393+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:05:41.5222519+00:00"
 }

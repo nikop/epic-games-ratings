@@ -1,31 +1,31 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 768)  
+Rating: 4.40 (Ranked 767)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~110,996 |
-| 74 miles East of Otaheité | 56.00% | ~77,697 |
-| Interesting... | 42.00% | ~58,273 |
-| The Everhart Expedition | 40.00% | ~55,498 |
-| The Vanishing of the Lady Shannon | 31.00% | ~43,011 |
-| Seaside Serenade | 31.00% | ~43,011 |
-| Halfway there | 30.00% | ~41,624 |
-| A brigantine, a brig and a barque | 28.00% | ~38,849 |
-| 506 East Hampden Avenue | 28.00% | ~38,849 |
-| Weekend at Walakea's | 27.00% | ~37,461 |
-| Quite a Show | 27.00% | ~37,461 |
-| Dark Water Ride | 25.00% | ~34,686 |
-| Sunken | 25.00% | ~34,686 |
-| Deep Cut | 24.00% | ~33,299 |
-| FHALGOF'N' | 23.00% | ~31,911 |
-| Marsh Cannery | 21.00% | ~29,136 |
-| Greetings from Y'ha-nthlei! | 18.00% | ~24,974 |
+| A Family Heirloom | 80.00% | ~110,999 |
+| 74 miles East of Otaheité | 56.00% | ~77,699 |
+| Interesting... | 42.00% | ~58,275 |
+| The Everhart Expedition | 40.00% | ~55,500 |
+| The Vanishing of the Lady Shannon | 31.00% | ~43,012 |
+| Seaside Serenade | 31.00% | ~43,012 |
+| Halfway there | 30.00% | ~41,625 |
+| A brigantine, a brig and a barque | 28.00% | ~38,850 |
+| 506 East Hampden Avenue | 28.00% | ~38,850 |
+| Weekend at Walakea's | 27.00% | ~37,462 |
+| Quite a Show | 27.00% | ~37,462 |
+| Dark Water Ride | 25.00% | ~34,687 |
+| Sunken | 25.00% | ~34,687 |
+| Deep Cut | 24.00% | ~33,300 |
+| FHALGOF'N' | 23.00% | ~31,912 |
+| Marsh Cannery | 21.00% | ~29,137 |
+| Greetings from Y'ha-nthlei! | 18.00% | ~24,975 |
 | The only thing I have now | 17.00% | ~23,587 |
-| Not Another Boring Slideshow! | 16.00% | ~22,199 |
-| Naacalvision | 16.00% | ~22,199 |
-| The Norahnomicon | 10.00% | ~13,874 |
+| Not Another Boring Slideshow! | 16.00% | ~22,200 |
+| Naacalvision | 16.00% | ~22,200 |
+| The Norahnomicon | 10.00% | ~13,875 |
 | I'll make a note of that... | 9.00% | ~12,487 |
 | Written in Stone | 7.00% | ~9,712 |
 | Play it again, Norah | 7.00% | ~9,712 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 768)
 | Soundcheck | 2.00% | ~2,775 |
 | Meta-reference | 1.00% | ~1,387 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,745 (Ranked 88)  
+Progressed: 138,749 (Ranked 88)  
 Completed: 1,248 (0.90%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 1,248 (0.90%) (Ranked 184)
 | 2024-01-05 | 138,164 | 1,239 |
 | 2024-01-06 | 138,379 | 1,246 |
 | 2024-01-07 | 138,613 | 1,248 |
-| 2024-01-08 | 138,745 | 1,248 |
+| 2024-01-08 | 138,749 | 1,248 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

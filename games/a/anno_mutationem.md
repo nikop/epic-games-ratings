@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 525)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~631 |
+| Tell me your story | 75.00% | ~632 |
 | Don't judge a manhole by its cover | 60.00% | ~505 |
 | I just love stuff! | 41.00% | ~345 |
 | Keep 'em coming! | 41.00% | ~345 |
@@ -19,7 +19,7 @@ Rating: 4.55 (Ranked 525)
 | Omnipotence | 20.00% | ~168 |
 | The Warlord | 19.00% | ~160 |
 | You are the One | 19.00% | ~160 |
-| Deadly Kombationem | 18.00% | ~151 |
+| Deadly Kombationem | 18.00% | ~152 |
 | The truth is out there | 16.00% | ~135 |
 | Annakin Skyscroller | 13.00% | ~109 |
 | In the smacker...I think | 10.00% | ~84 |
@@ -30,10 +30,10 @@ Rating: 4.55 (Ranked 525)
 | I'm walking here! | 7.00% | ~59 |
 | So Fresh and So clean clean | 7.00% | ~59 |
 | Supreme Bartender Ann | 7.00% | ~59 |
-| Clarity of Mind | 6.00% | ~50 |
-| I feel secure, contained & protected | 6.00% | ~50 |
-| Science, it works! | 6.00% | ~50 |
-| The Traveler | 6.00% | ~50 |
+| Clarity of Mind | 6.00% | ~51 |
+| I feel secure, contained & protected | 6.00% | ~51 |
+| Science, it works! | 6.00% | ~51 |
+| The Traveler | 6.00% | ~51 |
 | Woman on a (side) mission | 5.00% | ~42 |
 | Ann ULTRA | 3.00% | ~25 |
 | Lady Luck is a cool cat | 3.00% | ~25 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 525)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 841 (Ranked 307)  
+Progressed: 842 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 835 | 0 |
 | 2024-01-06 | 839 | 0 |
 | 2024-01-07 | 840 | 0 |
-| 2024-01-08 | 841 | 0 |
+| 2024-01-08 | 842 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

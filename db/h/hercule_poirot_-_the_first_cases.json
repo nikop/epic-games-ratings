@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -900,17 +900,17 @@
       "ID": "ACH_014",
       "SetID": "72imik0",
       "Name": "Order and Method",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_015",
       "SetID": "72imik0",
       "Name": "Truth from Within",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_016",
@@ -1004,9 +1004,9 @@
       "ID": "ACH_026",
       "SetID": "72imik0",
       "Name": "Work-life Balance",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_027",
@@ -1116,17 +1116,17 @@
       "ID": "ACH_039",
       "SetID": "72imik0",
       "Name": "Hugo Beckers",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_04",
       "SetID": "72imik0",
       "Name": "The Major",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 223
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_040",
@@ -1237,8 +1237,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:08:28.0249132+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:06:49.3679353+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:49.2608665+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:03:29.0052468+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:08:28.0249437+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:03:22.8874029+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:06:49.3679842+00:00"
 }

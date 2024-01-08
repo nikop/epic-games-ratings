@@ -2418,9 +2418,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 619
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2594,9 +2594,9 @@
       "ID": "ach_main09journey_killheroes",
       "SetID": "4hg22ll",
       "Name": "Dungeonlord Gorgu",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 343
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2610,9 +2610,9 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 366
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -2883,8 +2883,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:09:44.2512461+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:09:11.2295583+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:59:07.5685103+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:09:44.2513003+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:58:36.4574596+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:09:11.229619+00:00"
 }

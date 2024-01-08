@@ -12,8 +12,8 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 29.00% | ~63 |
 | Creator | 26.00% | ~56 |
 | Military Leader | 24.00% | ~52 |
+| Peddler | 23.00% | ~50 |
 | Festival-goer | 23.00% | ~50 |
-| Peddler | 22.00% | ~48 |
 | Commander | 20.00% | ~43 |
 | Irissa's Fate | 16.00% | ~35 |
 | Long-Haul Flyer | 15.00% | ~33 |
@@ -46,7 +46,7 @@ Number of Ratings: 124  (23.09.2022)
 | Pack Rat | 1.00% | ~2 |
 | Outlaw | 1.00% | ~2 |
 | Defector | 0.90% | ~2 |
-| Ruthless | 0.50% | ~1 |
+| Ruthless | 0.90% | ~2 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |

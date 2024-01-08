@@ -2,13 +2,13 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 429,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
     "PcReleaseDate": "2009-10-13T13:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -6971,10 +6971,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 30092,
       "NumberOfAwardsMax": 14631
+    },
+    {
+      "Time": "2024-01-08T18:59:26.6051198+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 30099,
+      "NumberOfAwardsMax": 14631
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30092,
+  "NumberOfAwards": 30099,
   "NumberOfAwardsMax": 14631,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7000,7 +7006,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1615
+      "Count": 1622
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7063,8 +7069,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-08T03:58:55.853121+00:00",
+  "LastChanged": "2024-01-08T18:59:26.6051197+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:22.976249+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:00:21.3351012+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:04:49.5795215+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:59:26.6051202+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:04:16.9090918+00:00"
 }

@@ -18,7 +18,7 @@ Number of Ratings: 76  (23.09.2022)
 | Star Smasher | 10.00% | ~87 |
 | Surf's Up! | 10.00% | ~87 |
 | Squirrel Smasher | 9.00% | ~78 |
-| Life's as extreme as you wanna make it! | 8.00% | ~69 |
+| Life's as extreme as you wanna make it! | 8.00% | ~70 |
 | Keep it Rolling | 7.00% | ~61 |
 | Shrimp Catcher | 7.00% | ~61 |
 | Toxic Terror | 7.00% | ~61 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~9 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 868 (Ranked 303)  
+Progressed: 869 (Ranked 302)  
 Completed: 8 (0.92%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 8 (0.92%) (Ranked 181)
 | 2024-01-05 | 747 | 7 |
 | 2024-01-06 | 780 | 7 |
 | 2024-01-07 | 836 | 7 |
-| 2024-01-08 | 868 | 8 |
+| 2024-01-08 | 869 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 497)  
 Sum: 36 (Ranked 529)  

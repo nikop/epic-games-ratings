@@ -1,7 +1,7 @@
 # Smalland: Survive the Wilds
 [Store](https://store.epicgames.com/en-US/p/smalland)  
 [View Rawdata](../../db/s/smalland__survive_the_wilds.json)  
-Rating: 4.59 (Ranked 446)  
+Rating: 4.59 (Ranked 447)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,13 +13,13 @@ Rating: 4.59 (Ranked 446)
 | Forming bonds | 1.00% | ~213 |
 | Vertebrate hunter | 1.00% | ~213 |
 | Smooth as silk | 0.90% | ~192 |
-| Hang time | 0.50% | ~106 |
-| Mastermind | 0.50% | ~106 |
-| Metal Age | 0.50% | ~106 |
+| Hang time | 0.50% | ~107 |
+| Mastermind | 0.50% | ~107 |
+| Metal Age | 0.50% | ~107 |
 | Something Wicked | 0.20% | ~43 |
 | The Key | 0.20% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,300 (Ranked 152)  
+Progressed: 21,302 (Ranked 152)  
 Completed: 18 (0.08%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 18 (0.08%) (Ranked 322)
 | 2024-01-05 | 21,250 | 18 |
 | 2024-01-06 | 21,268 | 18 |
 | 2024-01-07 | 21,294 | 18 |
-| 2024-01-08 | 21,300 | 18 |
+| 2024-01-08 | 21,302 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

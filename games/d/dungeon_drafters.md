@@ -21,8 +21,8 @@
 | Braving Miasma | 6.00% | ~8 |
 | No Stone Unturned | 6.00% | ~8 |
 | The Apprentice | 5.00% | ~7 |
+| The Familiar | 5.00% | ~7 |
 | Oracle Mastery | 5.00% | ~7 |
-| The Familiar | 4.00% | ~6 |
 | Ancient Nemesis | 4.00% | ~6 |
 | Traveler Mastery | 4.00% | ~6 |
 | Warden Mastery | 4.00% | ~6 |

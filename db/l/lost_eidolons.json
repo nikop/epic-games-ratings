@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 3811,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -199,7 +199,7 @@
   "Tags": [],
   "EOS_Progressed": 1121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -8,
+  "EOS_NewPlayers": -7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2764,9 +2764,9 @@
       "ID": "22",
       "SetID": "73ikgfc",
       "Name": "House Vulisica\u0027s Heirloom",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 179
     },
     {
       "ID": "23",
@@ -2789,8 +2789,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:08:47.2184481+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:07:02.6334007+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:03:15.1080741+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:08:47.2184693+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:03:14.1884418+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:07:02.6334265+00:00"
 }

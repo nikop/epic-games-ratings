@@ -3,12 +3,12 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 525,
-  "Ranking_Popularity": 502,
+  "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -857,9 +857,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242214,
+  "EOS_Progressed": 242217,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1367,
+  "EOS_NewPlayers": 1363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20502,6 +20502,11 @@
       "Time": "2024-01-08T18:10:49.0661403+00:00",
       "NumProgressed": 242214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T19:09:56.7774028+00:00",
+      "NumProgressed": 242217,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -20570,7 +20575,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50865
+      "UsersEstimate": 50866
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -20578,7 +20583,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21799
+      "UsersEstimate": 21800
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -20610,7 +20615,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7266
+      "UsersEstimate": 7267
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -20618,7 +20623,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7266
+      "UsersEstimate": 7267
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -20650,7 +20655,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -20658,7 +20663,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -20746,7 +20751,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -20754,7 +20759,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -20785,7 +20790,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 242214,
+      "Progressed": 242217,
       "Completed": 0
     }
   ],
@@ -20793,8 +20798,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-05T20:00:01.41393+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:10:49.0661401+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:09:56.7774025+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:58:37.4590078+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:10:49.0662646+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:58:16.258099+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:09:56.7775357+00:00"
 }

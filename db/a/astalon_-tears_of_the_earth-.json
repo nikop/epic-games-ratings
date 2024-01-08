@@ -2,9 +2,9 @@
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
-  "Ranking_EOS_Progress": 506,
-  "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 505,
+  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.76,
+  "EOS_Completed_Percentage": 4.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -209,6 +209,11 @@
       "Time": "2024-01-06T07:05:00.6788251+00:00",
       "NumProgressed": 84,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T19:06:18.7552316+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 30,
@@ -242,7 +247,7 @@
       "ID": "Beat_Game_BK",
       "SetID": "4f0g260",
       "Name": "True Black Knight",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -250,7 +255,7 @@
       "ID": "Beat_Game_Gargoyle",
       "SetID": "4f0g260",
       "Name": "Freedom Monster",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -258,7 +263,7 @@
       "ID": "Buy_All_Algus_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Wizard Mastery",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -306,7 +311,7 @@
       "ID": "Collect_10000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Gatherer",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -330,7 +335,7 @@
       "ID": "Complete_Bestiary_20",
       "SetID": "4f0g260",
       "Name": "Beast Quest",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 31
     },
@@ -354,7 +359,7 @@
       "ID": "Defeat_1000_Enemies",
       "SetID": "4f0g260",
       "Name": "Monster Hunt",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -402,7 +407,7 @@
       "ID": "Defeat_Volantis",
       "SetID": "4f0g260",
       "Name": "Space worm!",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -410,7 +415,7 @@
       "ID": "Find_Secret_Ending1",
       "SetID": "4f0g260",
       "Name": "Fly, you fool!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -459,7 +464,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 4
     }
   ],
@@ -467,8 +472,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:07:44.4407342+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:06:18.7552312+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:20.5218599+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:00:12.5291603+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:07:44.4407649+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:59:20.6143242+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:06:18.7552545+00:00"
 }

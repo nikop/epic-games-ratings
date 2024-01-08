@@ -2,13 +2,13 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 237,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1082,
+  "EOS_Progressed": 1084,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3765,6 +3765,11 @@
       "Time": "2024-01-08T18:09:46.0668544+00:00",
       "NumProgressed": 1082,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T19:09:12.6296231+00:00",
+      "NumProgressed": 1084,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3793,7 +3798,7 @@
       "Name": "Death To Diplomacy",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ArtifactsEquipped",
@@ -3857,7 +3862,7 @@
       "Name": "Unlimited Power!",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ChargerCount",
@@ -3921,7 +3926,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3961,7 +3966,7 @@
       "Name": "Killing Spree",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LothCampaign",
@@ -3985,7 +3990,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "MultiplayerWins",
@@ -4055,9 +4060,9 @@
       "ID": "SorcerousSpree",
       "SetID": "71c0n9i",
       "Name": "Sorcerous Spree",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 87
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4073,7 +4078,7 @@
       "Name": "Cleave",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TownCompletion",
@@ -4097,7 +4102,7 @@
       "Name": "Ultra Kill",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "WielderLevel1",
@@ -4105,7 +4110,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "WielderLevel2",
@@ -4208,15 +4213,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1082,
+      "Progressed": 1084,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:09:46.0668541+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:09:12.6296229+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:01:53.1810702+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:09:46.0668993+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:00:30.1983218+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:09:12.6296685+00:00"
 }

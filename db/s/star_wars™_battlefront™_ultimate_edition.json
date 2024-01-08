@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2769,
+  "EOS_Progressed": 2772,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
@@ -7524,6 +7524,11 @@
       "Time": "2024-01-08T18:11:01.293905+00:00",
       "NumProgressed": 2769,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T19:10:06.4485161+00:00",
+      "NumProgressed": 2772,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7600,7 +7605,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_18",
@@ -7608,7 +7613,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "achievement_19",
@@ -7670,17 +7675,17 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 333
     },
     {
       "ID": "achievement_27",
@@ -7728,7 +7733,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "achievement_32",
@@ -7760,7 +7765,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2384
     },
     {
       "ID": "achievement_36",
@@ -7768,7 +7773,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_37",
@@ -7776,7 +7781,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1691
     },
     {
       "ID": "achievement_38",
@@ -7808,7 +7813,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "achievement_41",
@@ -7816,7 +7821,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_42",
@@ -7888,7 +7893,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "achievement_50",
@@ -7910,9 +7915,9 @@
       "ID": "achievement_52",
       "SetID": "cemm4l8",
       "Name": "When surrounded by war...",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_53",
@@ -7976,7 +7981,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "achievement_60",
@@ -8039,13 +8044,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2769,
+      "Progressed": 2772,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2769,
+      "Progressed": 2772,
       "Completed": 1
     }
   ],
@@ -8053,8 +8058,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:11:01.2939048+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:10:06.4485159+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:59:16.3964836+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:11:01.2939793+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:58:42.2409205+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:10:06.4486189+00:00"
 }

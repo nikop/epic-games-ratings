@@ -3,7 +3,7 @@
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
   "Ranking_Rating": 201,
-  "Ranking_Popularity": 508,
+  "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 143,
@@ -295,9 +295,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18075,
+  "EOS_Progressed": 18076,
   "EOS_Completed": 308,
-  "EOS_NewPlayers": 919,
+  "EOS_NewPlayers": 918,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.7,
   "EosHistory": [
@@ -9255,6 +9255,11 @@
       "Time": "2024-01-08T18:10:16.3009228+00:00",
       "NumProgressed": 18075,
       "NumCompleted": 308
+    },
+    {
+      "Time": "2024-01-08T19:09:33.6440846+00:00",
+      "NumProgressed": 18076,
+      "NumCompleted": 308
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -9267,7 +9272,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 15906
+      "UsersEstimate": 15907
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -9275,7 +9280,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 14641
+      "UsersEstimate": 14642
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -9371,7 +9376,7 @@
       "Name": "Happy Family",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5422
+      "UsersEstimate": 5423
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -9419,7 +9424,7 @@
       "Name": "Still Single",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -9515,7 +9520,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 5422
+      "UsersEstimate": 5423
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -9523,7 +9528,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8495
+      "UsersEstimate": 8496
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -9539,7 +9544,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5603
+      "UsersEstimate": 5604
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -9571,7 +9576,7 @@
       "Name": "Worthless Speech",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5422
+      "UsersEstimate": 5423
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -9602,7 +9607,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18075,
+      "Progressed": 18076,
       "Completed": 308
     }
   ],
@@ -9610,8 +9615,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-08T17:57:10.239993+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:10:16.3009224+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:09:33.6440843+00:00",
   "LastUpdate_AppInfo": "2024-01-06T03:57:10.1244373+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:57:10.2399938+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:10:16.3009996+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:57:17.7968625+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:09:33.6441523+00:00"
 }

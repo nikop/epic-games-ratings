@@ -5,15 +5,15 @@ Rating: 3.68 (Ranked 1,092)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 21.00% | ~485 |
+| I Like My Stakes Rare! | 21.00% | ~486 |
 | Catch and Release | 16.00% | ~370 |
 | Home Is Where the Heart Is | 15.00% | ~347 |
 | ICU | 14.00% | ~324 |
 | Wounded Whispers | 14.00% | ~324 |
-| Blood Will Have Blood | 12.00% | ~277 |
-| Ne Plus Ultra | 12.00% | ~277 |
-| Fly Fisher | 11.00% | ~254 |
-| Peek-a-boo | 11.00% | ~254 |
+| Blood Will Have Blood | 12.00% | ~278 |
+| Ne Plus Ultra | 12.00% | ~278 |
+| Fly Fisher | 11.00% | ~255 |
+| Peek-a-boo | 11.00% | ~255 |
 | Sucks To Be You | 10.00% | ~231 |
 | Enter of Your Own Free Will | 9.00% | ~208 |
 | Welcome to the Neighborhood | 9.00% | ~208 |
@@ -24,7 +24,7 @@ Rating: 3.68 (Ranked 1,092)
 | Bad Wiring | 6.00% | ~139 |
 | Neighborhood Revitalization | 5.00% | ~116 |
 | Radio Silence | 5.00% | ~116 |
-| I Spit On Your Grave | 4.00% | ~92 |
+| I Spit On Your Grave | 4.00% | ~93 |
 | Sic Transit Umbra | 3.00% | ~69 |
 | Bell-ringer | 3.00% | ~69 |
 | Silence Is Golden | 3.00% | ~69 |
@@ -44,8 +44,8 @@ Rating: 3.68 (Ranked 1,092)
 | Blacklight Down | 1.00% | ~23 |
 | Blood Brother | 0.90% | ~21 |
 | Bloody Initiate | 0.90% | ~21 |
-| Neighborhood Watch | 0.80% | ~18 |
-| Empty Nest Syndrome | 0.80% | ~18 |
+| Neighborhood Watch | 0.80% | ~19 |
+| Empty Nest Syndrome | 0.80% | ~19 |
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
 | Scream Team | 0.60% | ~14 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,092)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,311 (Ranked 242)  
+Progressed: 2,314 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,286 | 0 |
 | 2024-01-07 | 2,301 | 0 |
-| 2024-01-08 | 2,311 | 0 |
+| 2024-01-08 | 2,314 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 554)  
 Sum: 24 (Ranked 561)  

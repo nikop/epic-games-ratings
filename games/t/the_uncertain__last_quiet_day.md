@@ -14,8 +14,8 @@ Rating: 3.75 (Ranked 1,089)
 | Curious | 42.00% | ~267 |
 | Everybody lies | 36.00% | ~229 |
 | Trick or Treat? | 23.00% | ~146 |
+| Sysadmin | 22.00% | ~140 |
 | There is another way | 22.00% | ~140 |
-| Sysadmin | 21.00% | ~134 |
 | Every little helps | 20.00% | ~127 |
 | Annoying | 19.00% | ~121 |
 | Hacker | 19.00% | ~121 |

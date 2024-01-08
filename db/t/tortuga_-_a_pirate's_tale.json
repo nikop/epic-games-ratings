@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17461,
+  "EOS_Progressed": 17462,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8197,6 +8197,11 @@
       "Time": "2024-01-08T18:08:51.2815516+00:00",
       "NumProgressed": 17461,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T19:07:05.5908697+00:00",
+      "NumProgressed": 17462,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -8208,7 +8213,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16588
+      "UsersEstimate": 16589
     },
     {
       "ID": "ACH001",
@@ -8216,7 +8221,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 15016
+      "UsersEstimate": 15017
     },
     {
       "ID": "ACH0010",
@@ -8288,7 +8293,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3841
+      "UsersEstimate": 3842
     },
     {
       "ID": "ACH0019",
@@ -8304,7 +8309,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12572
+      "UsersEstimate": 12573
     },
     {
       "ID": "ACH0020",
@@ -8328,7 +8333,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "ACH0023",
@@ -8368,7 +8373,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 15191
+      "UsersEstimate": 15192
     },
     {
       "ID": "ACH005",
@@ -8384,7 +8389,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6984
+      "UsersEstimate": 6985
     },
     {
       "ID": "ACH007",
@@ -8415,7 +8420,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17461,
+      "Progressed": 17462,
       "Completed": 1
     }
   ],
@@ -8423,8 +8428,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2024-01-05T00:01:53.1523613+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:08:51.2815514+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:07:05.5908695+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:10.6705655+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:59:07.4190594+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:08:51.2816432+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:58:36.3866292+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:07:05.5909319+00:00"
 }

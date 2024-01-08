@@ -2,13 +2,13 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 237,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
     "PcReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -17393,10 +17393,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 376550,
       "NumberOfAwardsMax": 124840
+    },
+    {
+      "Time": "2024-01-08T19:00:09.6945892+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 376615,
+      "NumberOfAwardsMax": 124840
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 376550,
+  "NumberOfAwards": 376615,
   "NumberOfAwardsMax": 124840,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17416,7 +17422,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 28524
+      "Count": 28556
     },
     {
       "Text": "This game is Extremely Fun",
@@ -17458,7 +17464,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 26543
+      "Count": 26576
     },
     {
       "Text": "This game has a Creative Community",
@@ -17478,8 +17484,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2024-01-08T13:59:48.7311102+00:00",
+  "LastChanged": "2024-01-08T19:00:09.694589+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:51.2015404+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:01:21.5978171+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:04:35.3707302+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:00:09.6945896+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:04:06.8978738+00:00"
 }

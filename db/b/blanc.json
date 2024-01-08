@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4025,
+  "EOS_Progressed": 4027,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6846,6 +6846,11 @@
       "Time": "2024-01-08T18:06:51.6449567+00:00",
       "NumProgressed": 4025,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T19:05:41.7942181+00:00",
+      "NumProgressed": 4027,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6865,7 +6870,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "FALLEN_TREE",
@@ -6873,7 +6878,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -6929,7 +6934,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "THE_END",
@@ -6960,7 +6965,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4025,
+      "Progressed": 4027,
       "Completed": 6
     }
   ],
@@ -6968,8 +6973,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:06:51.6449563+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:05:41.7942178+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:08.6041157+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:59:24.3539173+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:06:51.6450092+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:58:47.4603509+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:05:41.7942721+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25081,
+  "EOS_Progressed": 25082,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8931,6 +8931,11 @@
       "Time": "2024-01-08T11:09:29.6937036+00:00",
       "NumProgressed": 25081,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-08T19:08:45.5597251+00:00",
+      "NumProgressed": 25082,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9286,20 +9291,20 @@
       "Name": "Bathe With A Giant Nude Alien",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25081,
+      "Progressed": 25082,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2374,
+      "Progressed": 2375,
       "Completed": 1376
     }
   ],
@@ -9307,8 +9312,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:09:07.9909397+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:08:45.5597249+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.9175912+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:58:58.7067954+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:09:07.9910165+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:58:30.7153528+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:08:45.5597913+00:00"
 }

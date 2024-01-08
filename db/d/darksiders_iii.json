@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 498,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2251,9 +2251,9 @@
       "ID": "Kill_Sin_Wrath",
       "SetID": "7a5k76n",
       "Name": "Seeing Red",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "Level_Up_100",
@@ -2379,8 +2379,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:04:30.9259928+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:04:03.8699723+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:57:24.4131943+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:04:30.9260498+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:57:27.6758511+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:04:03.8700226+00:00"
 }

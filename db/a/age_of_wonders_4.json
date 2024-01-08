@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -735,9 +735,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7077,
+  "EOS_Progressed": 7079,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10780,6 +10780,11 @@
       "Time": "2024-01-08T18:06:36.8481682+00:00",
       "NumProgressed": 7077,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T19:05:31.4504802+00:00",
+      "NumProgressed": 7079,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10807,15 +10812,15 @@
       "Name": "There Can Only Be One!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "12",
       "SetID": "3aa2279",
       "Name": "I\u0027ve Got Everything I Need Right Here",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 142
     },
     {
       "ID": "13",
@@ -10919,7 +10924,7 @@
       "Name": "Secret Technique",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "25",
@@ -10951,7 +10956,7 @@
       "Name": "From Friends to Family",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "29",
@@ -10959,7 +10964,7 @@
       "Name": "Stronger Together",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "3",
@@ -10999,7 +11004,7 @@
       "Name": "Seat of Power",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "34",
@@ -11270,13 +11275,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7077,
+      "Progressed": 7079,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7077,
+      "Progressed": 7079,
       "Completed": 7
     }
   ],
@@ -11284,8 +11289,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:06:36.8481679+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:05:31.4504799+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:03:05.9874722+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:06:36.8482878+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:00:57.9692703+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:05:31.4505784+00:00"
 }

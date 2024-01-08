@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 91,
+  "Ranking_Rating": 90,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 268,
@@ -185,11 +185,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1490,
+  "EOS_Progressed": 1492,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.42,
+  "EOS_Completed_Percentage": 2.41,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -5125,6 +5125,11 @@
       "Time": "2024-01-08T18:06:58.0826504+00:00",
       "NumProgressed": 1490,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-08T19:05:46.1539599+00:00",
+      "NumProgressed": 1492,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5137,7 +5142,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -5145,7 +5150,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1015
     },
     {
       "ID": "_03_FinishAct1",
@@ -5153,7 +5158,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5169,7 +5174,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5177,7 +5182,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "_07_FinishAct3",
@@ -5185,7 +5190,7 @@
       "Name": "All Good Things",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "_08_Completion_10",
@@ -5193,7 +5198,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "_09_Completion_20",
@@ -5201,7 +5206,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "_10_Completion_30",
@@ -5233,7 +5238,7 @@
       "Name": "Corsair",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "_14_Completion_70",
@@ -5265,7 +5270,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5281,7 +5286,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5344,7 +5349,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1490,
+      "Progressed": 1492,
       "Completed": 36
     }
   ],
@@ -5352,8 +5357,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:06:58.0826502+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:05:46.1539596+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:00:47.3962668+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:06:58.0826964+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:59:42.6331827+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:05:46.1540071+00:00"
 }

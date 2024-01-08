@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6202,
+  "EOS_Progressed": 6203,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12844,6 +12844,11 @@
       "Time": "2024-01-08T15:06:38.7261997+00:00",
       "NumProgressed": 6202,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T19:05:47.0432655+00:00",
+      "NumProgressed": 6203,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12888,7 +12893,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -12912,7 +12917,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12952,7 +12957,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -12968,7 +12973,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13008,7 +13013,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13024,7 +13029,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13039,15 +13044,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6202,
+      "Progressed": 6203,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:06:59.4032146+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:05:47.0432652+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:02:27.052858+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:06:59.4032942+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:00:52.5925931+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:05:47.0433332+00:00"
 }

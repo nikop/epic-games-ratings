@@ -3882,7 +3882,7 @@
   ],
   "EOS_Progressed": 242628,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31653,9 +31653,9 @@
       "ID": "KILLPARANOIA",
       "SetID": "5l8oe0h",
       "Name": "What\u0027s Yours Is Mine",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 2184
     },
     {
       "ID": "KILLREFLECT10",
@@ -32268,8 +32268,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:11:04.0548025+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:10:08.9612249+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:57:29.5286298+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:11:04.0550767+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:57:31.1115356+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:10:08.9615106+00:00"
 }

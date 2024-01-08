@@ -28,9 +28,9 @@
 | First steps | 9.00% | ~26 |
 | The tragedy unfolds | 9.00% | ~26 |
 | Breaking free | 8.00% | ~24 |
+| Heavy Burden | 7.00% | ~21 |
 | True Reflection | 7.00% | ~21 |
 | Casting Finished | 6.00% | ~18 |
-| Heavy Burden | 6.00% | ~18 |
 | Instinct of self-preservation | 6.00% | ~18 |
 | Fisherman | 6.00% | ~18 |
 | Something to think about | 4.00% | ~12 |

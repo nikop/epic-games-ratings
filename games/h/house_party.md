@@ -37,12 +37,12 @@ Number of Ratings: 177  (23.09.2022)
 | Benedict Brahrnold | 0.60% | ~44 |
 | I'll Be Back | 0.60% | ~44 |
 | Love Conquers All | 0.50% | ~36 |
+| The Bride | 0.40% | ~29 |
 | Rule 34 | 0.40% | ~29 |
 | Rachael | 0.40% | ~29 |
 | The Muse: Derek | 0.40% | ~29 |
 | The Elder Brahs | 0.40% | ~29 |
 | Good Ol' Days | 0.40% | ~29 |
-| The Bride | 0.30% | ~22 |
 | Drunk and Disorderly: Madison | 0.30% | ~22 |
 | Do Not Burn | 0.30% | ~22 |
 | First Impressions | 0.30% | ~22 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,253 (Ranked 194)  
+Progressed: 7,254 (Ranked 194)  
 Completed: 3 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.04%) (Ranked 349)
 | 2024-01-05 | 7,141 | 3 |
 | 2024-01-06 | 7,186 | 3 |
 | 2024-01-07 | 7,231 | 3 |
-| 2024-01-08 | 7,253 | 3 |
+| 2024-01-08 | 7,254 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

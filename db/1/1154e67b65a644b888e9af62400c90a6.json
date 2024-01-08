@@ -3,12 +3,12 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 589,
-  "Ranking_Popularity": 135,
+  "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -3089,18 +3089,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 4382,
       "NumberOfAwardsMax": 1605
+    },
+    {
+      "Time": "2024-01-08T19:00:00.9660853+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 4414,
+      "NumberOfAwardsMax": 1630
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4382,
-  "NumberOfAwardsMax": 1605,
+  "NumberOfAwards": 4414,
+  "NumberOfAwardsMax": 1630,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1605
+      "Count": 1630
     },
     {
       "Text": "This game is Relaxing",
@@ -3148,7 +3154,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 280
+      "Count": 287
     },
     {
       "Text": "This game has Easy Combat",
@@ -3181,8 +3187,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-01-08T17:00:16.2283581+00:00",
+  "LastChanged": "2024-01-08T19:00:00.9660849+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.7087904+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:01:10.5079041+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:05:52.0424514+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:00:00.9660855+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:05:00.0460519+00:00"
 }

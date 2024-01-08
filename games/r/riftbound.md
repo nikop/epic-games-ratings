@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adventure Time | 96.00% | ~44 |
-| Master Of The Arts | 70.00% | ~32 |
-| Getting Good At This | 22.00% | ~10 |
-| Close Call | 20.00% | ~9 |
+| Adventure Time | 96.00% | ~45 |
+| Master Of The Arts | 70.00% | ~33 |
+| Getting Good At This | 21.00% | ~10 |
+| Close Call | 19.00% | ~9 |
 | Evolution Revolution | 9.00% | ~4 |
 | Five Of A Kind | 9.00% | ~4 |
 | I'm A Wizard | 9.00% | ~4 |
-| Hold The Line | 7.00% | ~3 |
+| Hold The Line | 6.00% | ~3 |
 | Ender Ender | 4.00% | ~2 |
 | Full House | 2.00% | ~1 |
 | Over 9000 | 2.00% | ~1 |
@@ -32,7 +32,7 @@
 | Who Turned Out The Lights | 0.00% | ~0 |
 | Who's The Boss? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 565)  
+Progressed: 47 (Ranked 560)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,3 +65,4 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2023-11-23 | 44 | 0 |
 | 2023-12-21 | 45 | 0 |
 | 2024-01-07 | 46 | 0 |
+| 2024-01-08 | 47 | 0 |

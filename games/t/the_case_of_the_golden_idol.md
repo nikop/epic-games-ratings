@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Solved first case | 22.00% | ~54 |
 | Solved second case | 22.00% | ~54 |
-| Solved third case | 18.00% | ~44 |
+| Solved third case | 19.00% | ~47 |
 | Solved The Spider of Lanka 1st Case | 17.00% | ~33 |
 | Solved fourth case | 13.00% | ~32 |
 | Solved sixth case | 9.00% | ~22 |

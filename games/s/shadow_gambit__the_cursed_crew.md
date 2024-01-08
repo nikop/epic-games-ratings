@@ -1,24 +1,24 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.80 (Ranked 91)  
+Rating: 4.80 (Ranked 90)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 68.00% | ~1,013 |
-| The Adventure Begins | 49.00% | ~730 |
-| Swabbie | 36.00% | ~536 |
-| With Great Power… | 36.00% | ~536 |
+| A New Journey | 68.00% | ~1,015 |
+| The Adventure Begins | 49.00% | ~731 |
+| Swabbie | 36.00% | ~537 |
+| With Great Power… | 36.00% | ~537 |
 | This Belongs in a Museum | 33.00% | ~492 |
-| The Gambit Has Begun | 30.00% | ~447 |
-| Somewhere Deep in the Lost Caribbean | 26.00% | ~387 |
-| Mirror Mirror on the Wall | 26.00% | ~387 |
-| Powder Monkey | 26.00% | ~387 |
+| The Gambit Has Begun | 30.00% | ~448 |
+| Somewhere Deep in the Lost Caribbean | 26.00% | ~388 |
+| Mirror Mirror on the Wall | 26.00% | ~388 |
+| Powder Monkey | 26.00% | ~388 |
 | Pirates Assemble! | 24.00% | ~358 |
 | Buccaneer | 20.00% | ~298 |
 | Fishy Fish | 20.00% | ~298 |
-| All Good Things | 18.00% | ~268 |
-| Persistent Parasite | 16.00% | ~238 |
+| All Good Things | 18.00% | ~269 |
+| Persistent Parasite | 16.00% | ~239 |
 | Seadog | 15.00% | ~224 |
 | Jaded Judge | 12.00% | ~179 |
 | Tobacco Travesty | 11.00% | ~164 |
@@ -27,13 +27,13 @@ Rating: 4.80 (Ranked 91)
 | Privateer | 9.00% | ~134 |
 | Lyrical Longing | 9.00% | ~134 |
 | Fully Decked | 7.00% | ~104 |
-| Corsair | 5.00% | ~74 |
+| Corsair | 5.00% | ~75 |
 | Freebooter | 4.00% | ~60 |
 | Marauder | 3.00% | ~45 |
 | Welcome Back Jester | 3.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,490 (Ranked 268)  
-Completed: 36 (2.42%) (Ranked 129)  
+Progressed: 1,492 (Ranked 268)  
+Completed: 36 (2.41%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,7 +183,7 @@ Completed: 36 (2.42%) (Ranked 129)
 | 2024-01-05 | 1,448 | 36 |
 | 2024-01-06 | 1,466 | 36 |
 | 2024-01-07 | 1,483 | 36 |
-| 2024-01-08 | 1,490 | 36 |
+| 2024-01-08 | 1,492 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

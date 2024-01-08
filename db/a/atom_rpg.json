@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1680,
+  "EOS_Progressed": 1681,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4415,6 +4415,11 @@
       "Time": "2024-01-08T18:10:49.3351322+00:00",
       "NumProgressed": 1680,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T19:09:56.9686838+00:00",
+      "NumProgressed": 1681,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4482,7 +4487,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "EXPERT_1",
@@ -4578,7 +4583,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4713,15 +4718,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1680,
+      "Progressed": 1681,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:10:49.335132+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:09:56.9686836+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:00:46.8148384+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:10:49.3351751+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:59:42.2772016+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:09:56.9687255+00:00"
 }

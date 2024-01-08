@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 851,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2739,6 +2739,11 @@
       "Time": "2024-01-08T18:08:59.5785234+00:00",
       "NumProgressed": 850,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T19:08:40.9672077+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2799,7 +2804,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 5,
       "XP": 95,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -2815,7 +2820,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2846,14 +2851,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 851,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:08:59.5785231+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:08:40.9672074+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:00:36.5241521+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:08:59.5785524+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:59:35.6458061+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:08:40.9672344+00:00"
 }

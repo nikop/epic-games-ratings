@@ -1,7 +1,7 @@
 # Fallout 2: A Post Nuclear Role Playing Game
 [Store](https://store.epicgames.com/en-US/p/fallout-2)  
 [View Rawdata](../../db/f/fallout_2__a_post_nuclear_role_playing_game.json)  
-Rating: 4.70 (Ranked 218)  
+Rating: 4.69 (Ranked 236)  
 ## Awards
 Max (Character Customization): 141  (Ranked 338)  
 Sum: 141 (Ranked 443)  
@@ -143,3 +143,4 @@ Diff (max vs sum): -105
 | 2023-12-31 | 4.70 | 135 | 135 |
 | 2024-01-02 | 4.70 | 139 | 139 |
 | 2024-01-03 | 4.70 | 141 | 141 |
+| 2024-01-08 | 4.69 | 141 | 141 |

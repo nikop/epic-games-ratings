@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 58.00% | ~28 |
-| Spirit of competition | 38.00% | ~19 |
+| Let the Adventure Begin! | 57.00% | ~28 |
+| Spirit of competition | 37.00% | ~18 |
 | Prized Possession | 33.00% | ~16 |
 | Creature Evolution | 31.00% | ~15 |
 | Kingdom Party Time | 27.00% | ~13 |
-| Think Positive | 23.00% | ~11 |
-| Festival Fever | 23.00% | ~11 |
-| Entering New Territory | 21.00% | ~10 |
-| Gotta Adopt Them All! | 13.00% | ~6 |
+| Think Positive | 22.00% | ~11 |
+| Festival Fever | 22.00% | ~11 |
+| Entering New Territory | 20.00% | ~10 |
+| Gotta Adopt Them All! | 12.00% | ~6 |
 | Lecturer | 10.00% | ~5 |
 | Landscaper | 8.00% | ~4 |
 | Just One More Go | 8.00% | ~4 |

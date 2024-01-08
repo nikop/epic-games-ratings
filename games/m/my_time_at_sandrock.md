@@ -27,7 +27,7 @@ Number of Ratings: 892  (23.09.2022)
 | What Plants Crave | 79.00% | ~687 |
 | Yakmel Whisperer | 78.00% | ~678 |
 | Panda-kin | 77.00% | ~669 |
-| No Mountain Wide Enough | 76.00% | ~660 |
+| No Mountain Wide Enough | 77.00% | ~669 |
 | Chatterbox | 75.00% | ~652 |
 | First Love | 75.00% | ~652 |
 | I Do! | 75.00% | ~652 |
@@ -142,8 +142,8 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-08 | 878 | 0 |
 ## Awards
 Max (Character Customization): 631  (Ranked 203)  
-Sum: 1,512 (Ranked 244)  
-Diff (max vs sum): -41  
+Sum: 1,512 (Ranked 245)  
+Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 631 |

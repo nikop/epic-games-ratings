@@ -8,11 +8,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~918 |
 | Lost and Found | 8.00% | ~565 |
-| Autodidact | 7.00% | ~9,253 |
+| Autodidact | 7.00% | ~9,254 |
 | This guy... again? | 7.00% | ~494 |
-| This Belongs in a Museum | 6.00% | ~7,931 |
-| Creep and Sleep | 6.00% | ~7,931 |
-| Overdue Notice | 6.00% | ~7,931 |
+| This Belongs in a Museum | 6.00% | ~7,932 |
+| Creep and Sleep | 6.00% | ~7,932 |
+| Overdue Notice | 6.00% | ~7,932 |
 | Ploughshares to Swords | 6.00% | ~424 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,610 |
 | Serenity Now! | 5.00% | ~6,610 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,190 (Ranked 91)  
+Progressed: 132,193 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,190 | 3 |
+| 2024-01-08 | 132,193 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
 Sum: 21,539 (Ranked 58)  

@@ -2,10 +2,10 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 475,
+  "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -629,6 +629,11 @@
       "Time": "2024-01-08T18:07:39.7211386+00:00",
       "NumProgressed": 130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T19:06:15.4556222+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -665,7 +670,7 @@
       "Name": "Challenger",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TOURN_PARTICIP_60",
@@ -737,7 +742,7 @@
       "Name": "Glider",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "beat_c1_bronze",
@@ -817,15 +822,15 @@
       "Name": "Timing, Rhythm, and Rhyme",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "beat_c2_gold",
       "SetID": "3448go",
       "Name": "In Good Company",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "beat_c2_silver",
@@ -961,7 +966,7 @@
       "Name": "Slip Sliding Away",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "beat_c4a_bronze",
@@ -1217,7 +1222,7 @@
       "Name": "Marathon",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "rolldist_short",
@@ -1225,7 +1230,7 @@
       "Name": "Rolling the Competition",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "soccer_hattrick",
@@ -1328,14 +1333,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:07:39.7211385+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:06:15.455622+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:02:27.2403286+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:07:39.7212103+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:00:52.7109459+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:06:15.4557276+00:00"
 }

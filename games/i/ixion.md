@@ -1,22 +1,22 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.59 (Ranked 446)  
+Rating: 4.59 (Ranked 447)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 33.00% | ~1,349 |
-| Sputnik 2049 | 29.00% | ~1,186 |
-| Infinite Growth... | 27.00% | ~1,104 |
-| Without Breaking Some Eggs... | 26.00% | ~1,063 |
+| Wakey Wakey | 33.00% | ~1,350 |
+| Sputnik 2049 | 29.00% | ~1,187 |
+| Infinite Growth... | 28.00% | ~1,146 |
+| Without Breaking Some Eggs... | 26.00% | ~1,064 |
 | Space Society | 19.00% | ~777 |
 | A Thousand Strong | 19.00% | ~777 |
 | Ready for a New World | 19.00% | ~777 |
-| Permanent Redesigns | 17.00% | ~695 |
-| Fully Recycled | 15.00% | ~613 |
-| Ain't Nobody Got Time for That | 15.00% | ~613 |
-| The Ship of Theseus | 15.00% | ~613 |
-| Guy de Borderlands | 14.00% | ~572 |
+| Permanent Redesigns | 17.00% | ~696 |
+| Fully Recycled | 15.00% | ~614 |
+| The Ship of Theseus | 15.00% | ~614 |
+| Guy de Borderlands | 14.00% | ~573 |
+| Ain't Nobody Got Time for That | 14.00% | ~573 |
 | Hope Seeker | 13.00% | ~532 |
 | A Hunk of Junk | 12.00% | ~491 |
 | Exceeding Capacity | 12.00% | ~491 |
@@ -28,15 +28,15 @@ Rating: 4.59 (Ranked 446)
 | Convenient Transport | 8.00% | ~327 |
 | Necessary Enhancement | 7.00% | ~286 |
 | From the Past | 7.00% | ~286 |
-| Access Granted | 6.00% | ~245 |
-| All in Good Health | 6.00% | ~245 |
-| Drill-dozer | 6.00% | ~245 |
-| Oats | 5.00% | ~204 |
-| What They Hide From Us | 5.00% | ~204 |
-| ...  in a finite world | 5.00% | ~204 |
-| In Dolos We Trust | 5.00% | ~204 |
-| BRAWL! | 5.00% | ~204 |
-| What the Ruins Teach Us | 5.00% | ~204 |
+| Access Granted | 6.00% | ~246 |
+| All in Good Health | 6.00% | ~246 |
+| Drill-dozer | 6.00% | ~246 |
+| Oats | 5.00% | ~205 |
+| What They Hide From Us | 5.00% | ~205 |
+| ...  in a finite world | 5.00% | ~205 |
+| In Dolos We Trust | 5.00% | ~205 |
+| BRAWL! | 5.00% | ~205 |
+| What the Ruins Teach Us | 5.00% | ~205 |
 | Sustainable Energy | 4.00% | ~164 |
 | Pedal to the Metal | 4.00% | ~164 |
 | Praise the Hull! | 3.00% | ~123 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 446)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,089 (Ranked 211)  
+Progressed: 4,092 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 4,002 | 0 |
 | 2024-01-06 | 4,042 | 0 |
 | 2024-01-07 | 4,075 | 0 |
-| 2024-01-08 | 4,089 | 0 |
+| 2024-01-08 | 4,092 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

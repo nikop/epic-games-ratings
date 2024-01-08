@@ -1,23 +1,23 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 446)  
+Rating: 4.59 (Ranked 447)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~89,013 |
+| Sowwy! | 36.00% | ~89,015 |
 | Alt+F4 | 10.00% | ~24,726 |
-| Where's that freaking Dwarf? | 9.00% | ~22,253 |
+| Where's that freaking Dwarf? | 9.00% | ~22,254 |
 | Déjà vu | 8.00% | ~19,781 |
 | Sock! SOCK! | 6.00% | ~14,836 |
 | Speedrun | 6.00% | ~14,836 |
 | A beer, two curses, three companions | 5.00% | ~12,363 |
 | GG EZ | 5.00% | ~12,363 |
 | DM intervention | 5.00% | ~12,363 |
-| Way of the Wimp | 4.00% | ~9,890 |
-| The plot thickens... At the tavern | 4.00% | ~9,890 |
-| Fireproof Wizardess | 4.00% | ~9,890 |
+| Way of the Wimp | 4.00% | ~9,891 |
+| The plot thickens... At the tavern | 4.00% | ~9,891 |
+| Fireproof Wizardess | 4.00% | ~9,891 |
 | Livin' in a dwarven paradise | 3.00% | ~7,418 |
 | The demons' feast | 3.00% | ~7,418 |
 | The Great Library | 3.00% | ~7,418 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,259 (Ranked 72)  
+Progressed: 247,265 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 8 (0.00%) (Ranked 394)
 | 2024-01-05 | 246,735 | 8 |
 | 2024-01-06 | 246,932 | 8 |
 | 2024-01-07 | 247,153 | 8 |
-| 2024-01-08 | 247,259 | 8 |
+| 2024-01-08 | 247,265 | 8 |
 ## Awards
 Max (Character Customization): 267  (Ranked 276)  
 Sum: 561 (Ranked 329)  

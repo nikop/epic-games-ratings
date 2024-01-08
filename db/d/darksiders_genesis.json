@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -445,7 +445,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 538,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
@@ -1930,6 +1930,11 @@
       "Time": "2024-01-08T18:10:42.4883186+00:00",
       "NumProgressed": 536,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T19:09:52.0573935+00:00",
+      "NumProgressed": 538,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2060,7 +2065,7 @@
       "ID": "MasterofStrife",
       "SetID": "329ak73",
       "Name": "Master of Strife",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -2181,15 +2186,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 538,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:10:42.4883183+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:09:52.0573933+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:58:48.9078065+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:10:42.4883528+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:58:24.0590947+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:09:52.0574153+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5457,9 +5457,9 @@
       "Count": 537
     }
   ],
-  "EOS_Progressed": 93250,
+  "EOS_Progressed": 93253,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30782,6 +30782,11 @@
       "Time": "2024-01-08T17:04:12.1752671+00:00",
       "NumProgressed": 93250,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-08T19:03:59.6652347+00:00",
+      "NumProgressed": 93253,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30817,7 +30822,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH_0014",
@@ -30825,7 +30830,7 @@
       "Name": "Track Star",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH_0015",
@@ -30897,7 +30902,7 @@
       "Name": "Privateer",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_0100",
@@ -30913,7 +30918,7 @@
       "Name": "Talent Scout",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_0102",
@@ -31041,7 +31046,7 @@
       "Name": "True Player",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH_0450",
@@ -31073,7 +31078,7 @@
       "Name": "Impossible Dreamer",
       "Percentage": 0.2,
       "XP": 55,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_0600",
@@ -31120,13 +31125,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93250,
+      "Progressed": 93253,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21597,
+      "Progressed": 21600,
       "Completed": 15597
     }
   ],
@@ -31134,8 +31139,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-08T11:59:28.8317676+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:04:25.0080145+00:00",
+  "LastChanged_Achievements": "2024-01-08T19:03:59.6652344+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:01:01.3709414+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:04:25.0081297+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:59:52.4782562+00:00",
+  "LastUpdate_Achievements": "2024-01-08T19:03:59.665384+00:00"
 }

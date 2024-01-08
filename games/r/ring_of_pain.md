@@ -22,6 +22,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nothing To Lose | 0.90% | ~2,184 |
 | Delving Deeper | 0.90% | ~2,184 |
 | Heartless | 0.90% | ~2,184 |
+| What's Yours Is Mine | 0.90% | ~2,184 |
 | Spine Breaker | 0.90% | ~2,184 |
 | C-C-Combo | 0.90% | ~2,184 |
 | Deflection | 0.90% | ~2,184 |
@@ -32,7 +33,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Cold Hearted | 0.80% | ~1,941 |
 | I Am Overburdened | 0.80% | ~1,941 |
 | The Bestiary | 0.80% | ~1,941 |
-| What's Yours Is Mine | 0.80% | ~1,941 |
 | Shootout | 0.80% | ~1,941 |
 | Toxic | 0.80% | ~1,941 |
 | Dig Your Own Grave | 0.70% | ~1,698 |

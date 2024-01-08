@@ -14,11 +14,11 @@ Rating: 4.38 (Ranked 791)
 | Florette Duval | 54.00% | ~268 |
 | The Blackmail | 53.00% | ~263 |
 | Major Felix Hagen | 53.00% | ~263 |
+| Order and Method | 52.00% | ~258 |
 | Fine-toothed Comb | 52.00% | ~258 |
-| Order and Method | 51.00% | ~253 |
 | The Altercation | 49.00% | ~243 |
-| Truth from Within | 47.00% | ~233 |
-| The Major | 45.00% | ~223 |
+| Truth from Within | 48.00% | ~238 |
+| The Major | 46.00% | ~228 |
 | Comtesse Margaux de Vos | 44.00% | ~218 |
 | Curious and Beautiful | 43.00% | ~213 |
 | Jacqueline “Jackie” Conrad | 42.00% | ~208 |
@@ -33,8 +33,8 @@ Rating: 4.38 (Ranked 791)
 | Instinct is Marvellous | 32.00% | ~159 |
 | Ernesto da Silva | 32.00% | ~159 |
 | Inge Frank | 31.00% | ~154 |
+| Hugo Beckers | 30.00% | ~149 |
 | The Search | 30.00% | ~149 |
-| Hugo Beckers | 29.00% | ~144 |
 | The Family | 28.00% | ~139 |
 | Well-travelled | 27.00% | ~134 |
 | Thinking of Everything | 26.00% | ~129 |
@@ -50,7 +50,7 @@ Rating: 4.38 (Ranked 791)
 | Probably the Greatest Detective in the World | 13.00% | ~64 |
 | Take a Break | 11.00% | ~55 |
 | Room with a View | 7.00% | ~35 |
-| Work-life Balance | 2.00% | ~10 |
+| Work-life Balance | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 496 (Ranked 353)  
 Completed: 6 (1.21%) (Ranked 161)  
