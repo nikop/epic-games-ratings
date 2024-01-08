@@ -9397,9 +9397,9 @@
       "Count": 3633
     }
   ],
-  "EOS_Progressed": 252621,
+  "EOS_Progressed": 252629,
   "EOS_Completed": 2601,
-  "EOS_NewPlayers": 3744,
+  "EOS_NewPlayers": 3730,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39182,6 +39182,11 @@
       "Time": "2024-01-08T09:10:27.7825068+00:00",
       "NumProgressed": 252621,
       "NumCompleted": 2601
+    },
+    {
+      "Time": "2024-01-08T10:10:51.2037011+00:00",
+      "NumProgressed": 252629,
+      "NumCompleted": 2601
     }
   ],
   "TotalAchievements": 546,
@@ -39201,7 +39206,7 @@
       "Name": "Maddening",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_100",
@@ -40313,7 +40318,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_150",
@@ -40521,7 +40526,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_20",
@@ -40865,7 +40870,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5052
+      "UsersEstimate": 5053
     },
     {
       "ID": "objective_completed_34",
@@ -40881,7 +40886,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_36",
@@ -41737,7 +41742,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_60",
@@ -43513,7 +43518,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "objective_completed_673",
@@ -43537,7 +43542,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "objective_completed_860",
@@ -43560,21 +43565,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218895,
+      "Progressed": 218903,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252621,
+      "Progressed": 252629,
       "Completed": 2601
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-08T05:57:00.927841+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:10:27.7825066+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:51.2037006+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:57:09.2596057+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:10:27.7849833+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:57:24.0763837+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:51.2062306+00:00"
 }

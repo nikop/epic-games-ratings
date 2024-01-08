@@ -21,16 +21,16 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 39.00% | ~192 |
 | Throne Potato | 39.00% | ~192 |
 | 25 to Life | 39.00% | ~192 |
-| Salvation | 37.00% | ~182 |
-| Unshakable Fortitude | 35.00% | ~173 |
+| Salvation | 38.00% | ~187 |
+| Unshakable Fortitude | 36.00% | ~177 |
 | Soul Harvester | 35.00% | ~173 |
 | Delusions of Grandeur | 34.00% | ~168 |
 | I Wanna Rock | 33.00% | ~163 |
 | Love Tap | 32.00% | ~158 |
 | Maximum Vigor | 31.00% | ~153 |
 | Freeze Frame | 29.00% | ~143 |
+| Eat Your Heart Out | 29.00% | ~143 |
 | For Whom the Bell Tolls | 29.00% | ~143 |
-| Eat Your Heart Out | 28.00% | ~138 |
 | Unyielding Strength | 26.00% | ~128 |
 | Crowd Source | 25.00% | ~123 |
 | Big Spender | 25.00% | ~123 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 1.00% | ~5 |
 | Beast Mode | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493 (Ranked 353)  
+Progressed: 493 (Ranked 354)  
 Completed: 2 (0.41%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |

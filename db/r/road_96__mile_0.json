@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 666,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
@@ -2412,6 +2412,11 @@
       "Time": "2024-01-08T05:10:16.040419+00:00",
       "NumProgressed": 665,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T10:10:34.2123105+00:00",
+      "NumProgressed": 666,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2421,9 +2426,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 60,
-      "UsersEstimate": 306
+      "UsersEstimate": 300
     },
     {
       "ID": "completeact2",
@@ -2493,9 +2498,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 173
+      "UsersEstimate": 180
     },
     {
       "ID": "scoreminrankrp1",
@@ -2542,7 +2547,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 666,
       "Completed": 3
     }
   ],
@@ -2550,8 +2555,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:10:12.7074945+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:34.2123101+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:58:03.8367864+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:10:12.7075192+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:58:24.3866949+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:34.2123351+00:00"
 }

@@ -970,9 +970,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 53998,
+  "EOS_Progressed": 53999,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1051,
+  "EOS_NewPlayers": 1048,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30885,6 +30885,11 @@
       "Time": "2024-01-08T09:05:05.6992117+00:00",
       "NumProgressed": 53998,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T10:05:29.9179726+00:00",
+      "NumProgressed": 53999,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -30936,7 +30941,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14579
+      "UsersEstimate": 14580
     },
     {
       "ID": "goals180",
@@ -31207,15 +31212,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 53998,
+      "Progressed": 53999,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-08T03:58:25.2323956+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:05:05.6992115+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:05:29.9179721+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.3110756+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:58:24.2658739+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:05:05.6993994+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:58:47.1281224+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:05:29.9181042+00:00"
 }

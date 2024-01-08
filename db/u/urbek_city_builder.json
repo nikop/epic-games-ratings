@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 493,
+  "EOS_Progressed": 494,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1780,6 +1780,11 @@
       "Time": "2024-01-08T08:11:21.3657752+00:00",
       "NumProgressed": 493,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T10:10:45.6039629+00:00",
+      "NumProgressed": 494,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -2143,7 +2148,7 @@
       "Name": "The woodcutter",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "MILLS",
@@ -2309,9 +2314,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "SPORTS_2",
@@ -2422,7 +2427,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 493,
+      "Progressed": 494,
       "Completed": 0
     }
   ],
@@ -2430,8 +2435,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:10:22.5409257+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:45.6039624+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:04.5634822+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:58:09.1924574+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:10:22.5410032+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:58:30.119961+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:45.6040361+00:00"
 }

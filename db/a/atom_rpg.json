@@ -4479,9 +4479,9 @@
       "ID": "GHOSTBUSTER",
       "SetID": "bf13m8j",
       "Name": "Ghostbuster",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "GRAVE_DIGGER_1",
@@ -4695,8 +4695,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:10:14.3108455+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:36.3576138+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:59:13.7240856+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:10:14.3108799+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:59:44.220047+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:36.3576583+00:00"
 }

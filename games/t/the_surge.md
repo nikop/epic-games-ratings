@@ -6,10 +6,10 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,013 |
-| I'll Be Back | 84.00% | ~4,480 |
-| Sorry, I Dropped This | 76.00% | ~4,053 |
-| First Day on the Job | 76.00% | ~4,053 |
+| On My Own Two Feet | 94.00% | ~5,014 |
+| I'll Be Back | 84.00% | ~4,481 |
+| Sorry, I Dropped This | 76.00% | ~4,054 |
+| First Day on the Job | 76.00% | ~4,054 |
 | Butcher's Bill | 54.00% | ~2,880 |
 | P.A.X | 36.00% | ~1,920 |
 | Hey Listen | 36.00% | ~1,920 |
@@ -67,14 +67,14 @@ Number of Ratings: 62  (23.09.2022)
 | End of Transmission | 2.00% | ~107 |
 | Gramophone Enthusiast | 2.00% | ~107 |
 | Bling-Bling | 1.00% | ~53 |
-| Sniffing Around | 0.80% | ~43 |
+| Sniffing Around | 0.70% | ~37 |
 | Modus Operandi | 0.70% | ~37 |
 | Suited and Booted | 0.70% | ~37 |
 | Tools of War | 0.70% | ~37 |
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,333 (Ranked 203)  
+Progressed: 5,334 (Ranked 203)  
 Completed: 18 (0.34%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 18 (0.34%) (Ranked 245)
 | 2024-01-05 | 5,270 | 18 |
 | 2024-01-06 | 5,296 | 18 |
 | 2024-01-07 | 5,326 | 18 |
-| 2024-01-08 | 5,333 | 18 |
+| 2024-01-08 | 5,334 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 522)  
 Sum: 30 (Ranked 541)  

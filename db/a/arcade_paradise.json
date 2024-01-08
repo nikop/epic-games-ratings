@@ -1090,9 +1090,9 @@
       "ID": "Ext4Trophy",
       "SetID": "32aeje8",
       "Name": "New Kid on the Block",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 52
     },
     {
       "ID": "FatTrophy",
@@ -1379,8 +1379,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-12-23T15:58:00.3414014+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:03:25.0721557+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:03:40.3740606+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.2493953+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:58:29.9122515+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:03:25.0722014+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:58:54.1022038+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:03:40.3741033+00:00"
 }

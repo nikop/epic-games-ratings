@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119475,
+  "EOS_Progressed": 119476,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 813,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24127,6 +24127,11 @@
       "Time": "2024-01-08T09:10:16.7844561+00:00",
       "NumProgressed": 119475,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-08T10:10:38.8920117+00:00",
+      "NumProgressed": 119476,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 49,
@@ -24146,7 +24151,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 91996
+      "UsersEstimate": 91997
     },
     {
       "ID": "EAwards_10",
@@ -24162,7 +24167,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32258
+      "UsersEstimate": 32259
     },
     {
       "ID": "EAwards_12",
@@ -24226,7 +24231,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "EAwards_2",
@@ -24258,7 +24263,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "EAwards_23",
@@ -24280,9 +24285,9 @@
       "ID": "EAwards_25",
       "SetID": "69kac5j",
       "Name": "y cant guacamelee crawl",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 22700
+      "UsersEstimate": 23895
     },
     {
       "ID": "EAwards_26",
@@ -24529,7 +24534,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 119475,
+      "Progressed": 119476,
       "Completed": 59
     }
   ],
@@ -24537,8 +24542,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:10:16.784456+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:38.8920109+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:07.0095771+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:57:23.7979194+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:10:16.7845877+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:57:39.9499183+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:38.8922044+00:00"
 }

@@ -1707,9 +1707,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247206,
+  "EOS_Progressed": 247210,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1312,
+  "EOS_NewPlayers": 1309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25392,6 +25392,11 @@
       "Time": "2024-01-08T09:10:22.4012895+00:00",
       "NumProgressed": 247206,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-08T10:10:45.4447619+00:00",
+      "NumProgressed": 247210,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25451,7 +25456,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19776
+      "UsersEstimate": 19777
     },
     {
       "ID": "Chapter2",
@@ -25835,7 +25840,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14832
+      "UsersEstimate": 14833
     },
     {
       "ID": "ElfEpic",
@@ -25851,7 +25856,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88994
+      "UsersEstimate": 88996
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26051,7 +26056,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14832
+      "UsersEstimate": 14833
     },
     {
       "ID": "SupportCount4",
@@ -26106,21 +26111,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247206,
+      "Progressed": 247210,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247206,
+      "Progressed": 247210,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-07T14:58:32.9313292+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:10:22.4012894+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:45.4447615+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:58:53.795755+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:10:22.4014548+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:59:21.0555219+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:45.444933+00:00"
 }

@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 2115,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3973,9 +3973,9 @@
       "ID": "digital_casanova",
       "SetID": "c4ipj3h",
       "Name": "Digital Casanova",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2030
     },
     {
       "ID": "hold_my_beer",
@@ -4078,8 +4078,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:10:10.0174535+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:31.2732433+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:58:52.1788357+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:10:10.0174787+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:59:19.2254858+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:31.2732692+00:00"
 }

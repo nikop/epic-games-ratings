@@ -4138,9 +4138,9 @@
       "ID": "EV_ACH15",
       "SetID": "6jeac23",
       "Name": "Better On Ice",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1023
     },
     {
       "ID": "EV_ACH16",
@@ -4387,8 +4387,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-08T08:59:12.5130918+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:10:21.2467818+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:44.2981639+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.6946611+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:59:12.5130927+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:10:21.2468466+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:59:43.2034048+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:44.2982267+00:00"
 }

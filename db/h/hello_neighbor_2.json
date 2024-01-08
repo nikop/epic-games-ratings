@@ -2,13 +2,13 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 725,
+  "Ranking_Rating": 726,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3946,
+  "EOS_Progressed": 3947,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.65,
   "EosHistory": [
@@ -7012,6 +7012,11 @@
       "Time": "2024-01-08T00:08:03.5140549+00:00",
       "NumProgressed": 3946,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-08T10:09:09.4526139+00:00",
+      "NumProgressed": 3947,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7063,7 +7068,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -7071,7 +7076,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7119,7 +7124,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -7127,14 +7132,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3946,
+      "Progressed": 3947,
       "Completed": 144
     }
   ],
@@ -7142,8 +7147,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:08:55.5308731+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:09:09.4526134+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:59:08.7512802+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:08:55.5309199+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:59:38.8346979+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:09:09.4526605+00:00"
 }

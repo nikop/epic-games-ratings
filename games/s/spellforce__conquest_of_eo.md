@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 89.00% | ~114 |
-| Enough rooms to swing a cat | 80.00% | ~102 |
-| First to the post | 79.00% | ~101 |
-| A kind of Magic | 72.00% | ~92 |
+| Home Sweet Home | 89.00% | ~115 |
+| Enough rooms to swing a cat | 79.00% | ~102 |
+| First to the post | 78.00% | ~101 |
+| A kind of Magic | 71.00% | ~92 |
 | Connected | 63.00% | ~81 |
 | Expansion | 59.00% | ~76 |
-| Harvest Time | 55.00% | ~70 |
-| Mine! | 55.00% | ~70 |
+| Mine! | 55.00% | ~71 |
+| Harvest Time | 54.00% | ~70 |
 | Artificer's Apprentice | 46.00% | ~59 |
-| Fly the friendly Sky | 44.00% | ~56 |
 | Get out of here! | 43.00% | ~55 |
+| Fly the friendly Sky | 43.00% | ~55 |
 | Necromancer's Apprentice | 38.00% | ~49 |
-| Alchemist's Apprentice | 37.00% | ~47 |
+| Alchemist's Apprentice | 36.00% | ~46 |
 | Friend of Lyraine | 36.00% | ~46 |
 | The Circle | 32.00% | ~41 |
 | Redecorating | 31.00% | ~40 |
@@ -24,9 +24,9 @@
 | Friend of Sevenkeeps | 22.00% | ~28 |
 | Slave to the rhythm | 20.00% | ~26 |
 | Castle Meldec | 20.00% | ~26 |
-| Sevenkeeps Seat of Kings | 19.00% | ~24 |
-| Friend of Alluvyan | 16.00% | ~20 |
-| Friend of Connach | 16.00% | ~20 |
+| Sevenkeeps Seat of Kings | 19.00% | ~25 |
+| Friend of Alluvyan | 16.00% | ~21 |
+| Friend of Connach | 16.00% | ~21 |
 | Stormwatch Faste | 14.00% | ~18 |
 | Friend of Gillyshire | 14.00% | ~18 |
 | Friend of Orgash | 13.00% | ~17 |
@@ -45,13 +45,13 @@
 | Tuscari Sea Portal | 9.00% | ~12 |
 | Mage Teacher | 9.00% | ~12 |
 | Crypt of the Revenant | 8.00% | ~10 |
+| Fireforge | 8.00% | ~10 |
 | Friend of Uram Gor | 8.00% | ~10 |
 | A Joke | 8.00% | ~10 |
-| Fireforge | 7.00% | ~9 |
+| Defeat Raith | 7.00% | ~9 |
 | A Monopoly of Might | 7.00% | ~9 |
 | Get to the Airship! | 6.00% | ~8 |
 | Defeat Hokan | 6.00% | ~8 |
-| Defeat Raith | 6.00% | ~8 |
 | Lore's Tale | 6.00% | ~8 |
 | Master Artificer | 6.00% | ~8 |
 | Heroes | 6.00% | ~8 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128 (Ranked 474)  
+Progressed: 129 (Ranked 474)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 117 | 0 |
 | 2024-01-06 | 122 | 0 |
 | 2024-01-07 | 127 | 0 |
-| 2024-01-08 | 128 | 0 |
+| 2024-01-08 | 129 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

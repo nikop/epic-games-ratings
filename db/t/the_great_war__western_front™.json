@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 900,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3880,6 +3880,11 @@
       "Time": "2024-01-08T09:03:56.8340402+00:00",
       "NumProgressed": 899,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T10:04:14.5336775+00:00",
+      "NumProgressed": 900,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3953,9 +3958,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 396
+      "UsersEstimate": 405
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -3986,7 +3991,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 900,
       "Completed": 0
     }
   ],
@@ -3994,8 +3999,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-31T09:58:52.6483653+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:03:56.83404+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:04:14.533677+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:07.6580361+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:57:42.6945384+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:03:56.8340582+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:58:00.5559948+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:04:14.5337071+00:00"
 }

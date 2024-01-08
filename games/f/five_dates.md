@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | All Set Up | 98.00% | ~2,073 |
-| Digital Casanova | 95.00% | ~2,009 |
+| Digital Casanova | 96.00% | ~2,030 |
 | Hold my Beer | 61.00% | ~1,290 |
 | Nueva Beginnings | 28.00% | ~592 |
 | We Go Again | 25.00% | ~529 |

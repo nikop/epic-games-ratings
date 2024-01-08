@@ -2,10 +2,10 @@
   "ID": "7f0be7eaee1f40039da74dd9591ed049",
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
-  "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Progress": 528,
+  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
     "PcReleaseDate": "2021-02-20T01:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 67,
+  "EOS_Progressed": 68,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.99,
+  "EOS_Completed_Percentage": 2.94,
   "EosHistory": [
     {
       "Time": "2023-12-23T19:03:08.1103933+00:00",
@@ -297,6 +297,11 @@
       "Time": "2024-01-08T05:06:10.9724495+00:00",
       "NumProgressed": 67,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T10:08:20.2095941+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-23T19:03:08.11154+00:00",
@@ -333,7 +338,7 @@
       "Name": "Rookie Racer",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "20_RACES",
@@ -355,7 +360,7 @@
       "ID": "2PLAYERS",
       "SetID": "2g288ag",
       "Name": "Dynamic Duo",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 90,
       "UsersEstimate": 20
     },
@@ -365,7 +370,7 @@
       "Name": "Twice on the Track, Twice to win",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "2_RACES",
@@ -373,7 +378,7 @@
       "Name": "Double Trouble",
       "Percentage": 84,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "30_RACES",
@@ -389,7 +394,7 @@
       "Name": "Triple Threat",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "5_MAPS",
@@ -403,7 +408,7 @@
       "ID": "5_RACES",
       "SetID": "2g288ag",
       "Name": "Quintessential Quest",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 25,
       "UsersEstimate": 38
     },
@@ -411,7 +416,7 @@
       "ID": "NO_CRASH",
       "SetID": "2g288ag",
       "Name": "Zen Racer on Map Number 1",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
       "UsersEstimate": 32
     },
@@ -428,13 +433,13 @@
     {
       "ID": "2g288ag",
       "IsBase": true,
-      "Progressed": 67,
+      "Progressed": 68,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:06:10.2170662+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:08:20.2095934+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:58.0575536+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:57:09.8339782+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:06:10.2170802+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:57:24.6720056+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:08:20.2096119+00:00"
 }

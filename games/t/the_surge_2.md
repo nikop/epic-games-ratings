@@ -7,12 +7,12 @@ Rating: 4.26 (Ranked 915)
 | ---- | ---------- | ----- |
 | Rigged And Ready | 78.00% | ~1,970 |
 | Don't I Know You...? | 75.00% | ~1,894 |
-| Jailbreak | 64.00% | ~1,616 |
-| HEADSHOT! | 37.00% | ~934 |
-| Suited and Booted | 37.00% | ~934 |
+| Jailbreak | 64.00% | ~1,617 |
+| HEADSHOT! | 37.00% | ~935 |
+| Suited and Booted | 37.00% | ~935 |
 | Sleeping With The Fishes | 34.00% | ~859 |
 | High Performance | 30.00% | ~758 |
-| Overheated | 29.00% | ~732 |
+| Overheated | 29.00% | ~733 |
 | Powered Up | 27.00% | ~682 |
 | Studied The Blade | 24.00% | ~606 |
 | Home Invasion | 22.00% | ~556 |
@@ -22,8 +22,8 @@ Rating: 4.26 (Ranked 915)
 | Offensive Defense | 20.00% | ~505 |
 | Shocking | 20.00% | ~505 |
 | Unforeseeable Consequences | 19.00% | ~480 |
-| Court Martial | 18.00% | ~454 |
-| Clean Cut | 18.00% | ~454 |
+| Court Martial | 18.00% | ~455 |
+| Clean Cut | 18.00% | ~455 |
 | Dead Again | 17.00% | ~429 |
 | Full Arsenal | 17.00% | ~429 |
 | Can't Trust Banks | 15.00% | ~379 |
@@ -35,8 +35,8 @@ Rating: 4.26 (Ranked 915)
 | Sorry, Didn't See You There | 12.00% | ~303 |
 | Corrupted Beauty | 11.00% | ~278 |
 | Marked For Success | 11.00% | ~278 |
-| Stimulating The Local Economy | 10.00% | ~252 |
-| Triplets | 10.00% | ~252 |
+| Stimulating The Local Economy | 10.00% | ~253 |
+| Triplets | 10.00% | ~253 |
 | Denying Prophecy | 9.00% | ~227 |
 | A Little Banged Up | 8.00% | ~202 |
 | Following In Their Footsteps | 8.00% | ~202 |
@@ -54,16 +54,16 @@ Rating: 4.26 (Ranked 915)
 | Plank of Wood | 4.00% | ~101 |
 | Gotta Craft 'em All | 3.00% | ~76 |
 | Homewrecker | 3.00% | ~76 |
-| Own Medicine | 2.00% | ~50 |
-| It Lives! It Sniffs! It Conquers! | 2.00% | ~50 |
-| Box Office Smash | 2.00% | ~50 |
-| Going Postal | 2.00% | ~50 |
-| Loot, Pillage & Craft | 2.00% | ~50 |
+| Own Medicine | 2.00% | ~51 |
+| It Lives! It Sniffs! It Conquers! | 2.00% | ~51 |
+| Box Office Smash | 2.00% | ~51 |
+| Going Postal | 2.00% | ~51 |
+| Loot, Pillage & Craft | 2.00% | ~51 |
 | Swiss Army Drone | 1.00% | ~25 |
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,525 (Ranked 236)  
+Progressed: 2,526 (Ranked 236)  
 Completed: 13 (0.51%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 13 (0.51%) (Ranked 219)
 | 2024-01-05 | 2,483 | 13 |
 | 2024-01-06 | 2,499 | 13 |
 | 2024-01-07 | 2,519 | 13 |
-| 2024-01-08 | 2,525 | 13 |
+| 2024-01-08 | 2,526 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

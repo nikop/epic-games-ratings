@@ -4172,9 +4172,9 @@
       "ID": "achievement_26",
       "SetID": "2cpn27e",
       "Name": "Vanquisher of the Volatile",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 74
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_27",
@@ -4418,8 +4418,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:09:45.8532852+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:04.623149+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:59:16.5153045+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:09:45.8533443+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:59:47.1528738+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:04.6232041+00:00"
 }

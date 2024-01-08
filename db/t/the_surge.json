@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5333,
+  "EOS_Progressed": 5334,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
@@ -4960,6 +4960,11 @@
       "Time": "2024-01-08T08:08:29.499196+00:00",
       "NumProgressed": 5333,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-08T10:03:38.068086+00:00",
+      "NumProgressed": 5334,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5019,7 +5024,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5027,7 +5032,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5013
+      "UsersEstimate": 5014
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5035,7 +5040,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5187,7 +5192,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5329,9 +5334,9 @@
       "ID": "ID_ACHIEV_47",
       "SetID": "98bke8c",
       "Name": "Sniffing Around",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 37
     },
     {
       "ID": "ID_ACHIEV_48",
@@ -5506,15 +5511,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5333,
+      "Progressed": 5334,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:08:29.4991955+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:03:38.0680849+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:57:27.1925767+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:08:29.4992953+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:57:43.3425694+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:03:38.0681915+00:00"
 }

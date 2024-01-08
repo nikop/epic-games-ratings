@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2105,9 +2105,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 21661,
+  "EOS_Progressed": 21665,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1266,
+  "EOS_NewPlayers": 1267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13040,6 +13040,11 @@
       "Time": "2024-01-08T09:09:52.0382755+00:00",
       "NumProgressed": 21661,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-08T10:10:11.2862483+00:00",
+      "NumProgressed": 21665,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13067,7 +13072,7 @@
       "Name": "Giving Back",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -13083,7 +13088,7 @@
       "Name": "Flesh Wound",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5415
+      "UsersEstimate": 5416
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13115,7 +13120,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -13155,7 +13160,7 @@
       "Name": "Get a Grip",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13195,7 +13200,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13211,7 +13216,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3682
+      "UsersEstimate": 3683
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -13219,7 +13224,7 @@
       "Name": "Reforged",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3899
+      "UsersEstimate": 3900
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13227,7 +13232,7 @@
       "Name": "Paper Jams",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13243,7 +13248,7 @@
       "Name": "The Outer Way",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5415
+      "UsersEstimate": 5416
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13251,7 +13256,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "STORY_HABITAT",
@@ -13275,7 +13280,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -13283,7 +13288,7 @@
       "Name": "Desperate Times",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5200
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13299,7 +13304,7 @@
       "Name": "Full Circle",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "STORY_TUNNELS",
@@ -13411,7 +13416,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -13426,13 +13431,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21661,
+      "Progressed": 21665,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9587,
+      "Progressed": 9591,
       "Completed": 29
     }
   ],
@@ -13440,8 +13445,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-07T22:03:22.0078905+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:09:52.0382752+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:11.2862479+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:03:16.7886573+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:09:52.0383812+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:03:29.4052206+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:11.2863445+00:00"
 }

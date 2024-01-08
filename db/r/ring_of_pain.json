@@ -3880,7 +3880,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242602,
+  "EOS_Progressed": 242604,
   "EOS_Completed": 304,
   "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 2,
@@ -31095,6 +31095,11 @@
       "Time": "2024-01-08T09:10:25.9533861+00:00",
       "NumProgressed": 242602,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-08T10:10:49.2993431+00:00",
+      "NumProgressed": 242604,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -32186,7 +32191,7 @@
       "Name": "Expensive Look",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -32194,7 +32199,7 @@
       "Name": "What Doesn\u0027t Kill You",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "WEARSAMESETINSLOTS",
@@ -32209,13 +32214,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242602,
+      "Progressed": 242604,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4082,
+      "Progressed": 4084,
       "Completed": 422
     }
   ],
@@ -32223,8 +32228,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:10:25.9533859+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:49.2993428+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:57:02.0164487+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:10:25.9536592+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:57:15.7548143+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:49.2996224+00:00"
 }

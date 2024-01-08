@@ -34,8 +34,8 @@
 | Feeling Dizzy? | 16.00% | ~70 |
 | Ferry Good! | 16.00% | ~70 |
 | Assert Dominance | 16.00% | ~70 |
+| Speed of light | 16.00% | ~70 |
 | Drift King! | 15.00% | ~66 |
-| Speed of light | 15.00% | ~66 |
 | Out of this League | 13.00% | ~57 |
 | Special Forces | 12.00% | ~52 |
 | Toot Toot! | 11.00% | ~48 |

@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2757,
+  "EOS_Progressed": 2759,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
@@ -7494,6 +7494,11 @@
       "Time": "2024-01-08T08:11:22.6882762+00:00",
       "NumProgressed": 2757,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T10:10:46.6851472+00:00",
+      "NumProgressed": 2759,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7538,7 +7543,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_14",
@@ -7730,7 +7735,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2373
     },
     {
       "ID": "achievement_36",
@@ -7746,7 +7751,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "achievement_38",
@@ -7778,7 +7783,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "achievement_41",
@@ -7986,7 +7991,7 @@
       "Name": "A cunning warrior",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_8",
@@ -8009,13 +8014,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2757,
+      "Progressed": 2759,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2757,
+      "Progressed": 2759,
       "Completed": 1
     }
   ],
@@ -8023,8 +8028,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:10:23.4957563+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:10:46.6851469+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:58:12.0231779+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:10:23.4958585+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:58:33.5436344+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:10:46.6852435+00:00"
 }

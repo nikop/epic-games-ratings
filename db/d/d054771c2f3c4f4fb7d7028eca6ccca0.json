@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3789,
+  "EOS_Progressed": 3790,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4309,6 +4309,11 @@
       "Time": "2024-01-08T09:03:47.8597118+00:00",
       "NumProgressed": 3789,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T10:04:04.8549303+00:00",
+      "NumProgressed": 3790,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4329,7 +4334,7 @@
       "Name": "Done for Today",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -4345,7 +4350,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -4521,7 +4526,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4696,14 +4701,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3789,
+      "Progressed": 3790,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-08T09:03:47.8597115+00:00",
+  "LastChanged_Achievements": "2024-01-08T10:04:04.8549298+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:58:49.2871212+00:00",
-  "LastUpdate_Achievements": "2024-01-08T09:03:47.8597671+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:59:15.6040241+00:00",
+  "LastUpdate_Achievements": "2024-01-08T10:04:04.8549795+00:00"
 }

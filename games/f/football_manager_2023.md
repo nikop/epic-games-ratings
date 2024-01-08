@@ -5,38 +5,38 @@ Rating: 4.76 (Ranked 131)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~255,638 |
-| The Player Whisperer | 68.00% | ~251,933 |
-| One of Us, One of Us! | 62.00% | ~229,704 |
-| Clean Sheet | 55.00% | ~203,770 |
-| First Victory | 55.00% | ~203,770 |
-| #DoneDeal | 54.00% | ~200,065 |
-| Off the Books | 52.00% | ~192,655 |
-| Super-Sub | 52.00% | ~192,655 |
-| Hat-trick | 47.00% | ~174,130 |
+| Motivational Speaker | 69.00% | ~255,639 |
+| The Player Whisperer | 68.00% | ~251,935 |
+| One of Us, One of Us! | 62.00% | ~229,705 |
+| Clean Sheet | 55.00% | ~203,771 |
+| First Victory | 55.00% | ~203,771 |
+| #DoneDeal | 54.00% | ~200,066 |
+| Off the Books | 52.00% | ~192,656 |
+| Super-Sub | 52.00% | ~192,656 |
+| Hat-trick | 47.00% | ~174,131 |
 | Planned Signing | 44.00% | ~163,016 |
-| "I Would Love It If We Beat Them" | 43.00% | ~159,311 |
-| Scoring Streak | 41.00% | ~151,901 |
-| Wheeler Dealer | 41.00% | ~151,901 |
-| Thumping | 40.00% | ~148,196 |
-| People Pleaser | 39.00% | ~144,491 |
-| Unbeatable! | 38.00% | ~140,786 |
-| One Of Our Own | 37.00% | ~137,081 |
+| "I Would Love It If We Beat Them" | 43.00% | ~159,312 |
+| Scoring Streak | 41.00% | ~151,902 |
+| Wheeler Dealer | 41.00% | ~151,902 |
+| Thumping | 40.00% | ~148,197 |
+| People Pleaser | 39.00% | ~144,492 |
+| Unbeatable! | 38.00% | ~140,787 |
+| One Of Our Own | 37.00% | ~137,082 |
 | They're a Natural | 32.00% | ~118,557 |
 | Record Signing | 32.00% | ~118,557 |
-| Team Performance | 31.00% | ~114,852 |
-| Star Player | 30.00% | ~111,147 |
-| The Only Stat That Matters | 30.00% | ~111,147 |
-| Parked The Bus | 28.00% | ~103,737 |
-| Full Faith | 28.00% | ~103,737 |
-| Goal Rush | 28.00% | ~103,737 |
-| The People's Champion | 28.00% | ~103,737 |
-| Squad Goals | 27.00% | ~100,032 |
-| Beating Expectations | 26.00% | ~96,327 |
-| Unstoppable Force | 26.00% | ~96,327 |
-| Record Sale | 26.00% | ~96,327 |
-| You're on Fire | 25.00% | ~92,622 |
-| Tremendous Trio | 25.00% | ~92,622 |
+| Team Performance | 31.00% | ~114,853 |
+| Star Player | 30.00% | ~111,148 |
+| The Only Stat That Matters | 30.00% | ~111,148 |
+| Parked The Bus | 28.00% | ~103,738 |
+| Full Faith | 28.00% | ~103,738 |
+| Goal Rush | 28.00% | ~103,738 |
+| The People's Champion | 28.00% | ~103,738 |
+| Squad Goals | 27.00% | ~100,033 |
+| Beating Expectations | 26.00% | ~96,328 |
+| Unstoppable Force | 26.00% | ~96,328 |
+| Record Sale | 26.00% | ~96,328 |
+| You're on Fire | 25.00% | ~92,623 |
+| Tremendous Trio | 25.00% | ~92,623 |
 | On a Roll | 24.00% | ~88,918 |
 | Flavour Of The Month | 24.00% | ~88,918 |
 | The Special One | 24.00% | ~88,918 |
@@ -47,9 +47,9 @@ Rating: 4.76 (Ranked 131)
 | Cup Glory! | 21.00% | ~77,803 |
 | Splashing the Cash | 20.00% | ~74,098 |
 | Immovable Object | 20.00% | ~74,098 |
-| Irresistible Force | 18.00% | ~66,688 |
-| Do The Double | 17.00% | ~62,983 |
-| Cash to Burn | 16.00% | ~59,278 |
+| Irresistible Force | 18.00% | ~66,689 |
+| Do The Double | 17.00% | ~62,984 |
+| Cash to Burn | 16.00% | ~59,279 |
 | Window Shopping | 15.00% | ~55,574 |
 | Top Form | 14.00% | ~51,869 |
 | A Game of Two Halves | 13.00% | ~48,164 |
@@ -65,10 +65,10 @@ Rating: 4.76 (Ranked 131)
 | Best in the Business | 7.00% | ~25,934 |
 | National Service | 7.00% | ~25,934 |
 | Domination | 7.00% | ~25,934 |
-| Total Support | 6.00% | ~22,229 |
-| Second Hand Signing | 6.00% | ~22,229 |
-| You Can Buy Happiness | 6.00% | ~22,229 |
-| World Renowned | 5.00% | ~18,524 |
+| Total Support | 6.00% | ~22,230 |
+| Second Hand Signing | 6.00% | ~22,230 |
+| You Can Buy Happiness | 6.00% | ~22,230 |
+| World Renowned | 5.00% | ~18,525 |
 | Legend | 4.00% | ~14,820 |
 | Bragging Rights | 4.00% | ~14,820 |
 | World Beaters | 4.00% | ~14,820 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 131)
 | 200 Club | 0.10% | ~370 |
 | Draft Value | 0.10% | ~370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 370,490 (Ranked 55)  
+Progressed: 370,492 (Ranked 55)  
 Completed: 30 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 30 (0.01%) (Ranked 372)
 | 2024-01-05 | 370,043 | 29 |
 | 2024-01-06 | 370,272 | 29 |
 | 2024-01-07 | 370,459 | 29 |
-| 2024-01-08 | 370,490 | 30 |
+| 2024-01-08 | 370,492 | 30 |
 ## Awards
 Max (Diverse Characters): 1,353  (Ranked 142)  
 Sum: 9,285 (Ranked 101)  

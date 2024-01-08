@@ -32,7 +32,7 @@ Number of Ratings: 54  (23.09.2022)
 | Neanderthal | 1.00% | ~17 |
 | Cosmic Horror | 1.00% | ~17 |
 | It was worth a shot | 0.80% | ~13 |
-| Ghostbuster | 0.50% | ~8 |
+| Ghostbuster | 0.60% | ~10 |
 | Cheeki Breeki | 0.40% | ~7 |
 | It's a classic! | 0.40% | ~7 |
 | Comrade Yogi | 0.40% | ~7 |

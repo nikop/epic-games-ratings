@@ -5,22 +5,22 @@ Rating: 4.46 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 49.00% | ~1,685 |
-| First Love | 45.00% | ~1,547 |
-| Clean Race | 44.00% | ~1,513 |
-| Hear That Roar! | 42.00% | ~1,444 |
-| Rivals to the End | 31.00% | ~1,066 |
-| Bitter Rivalry | 30.00% | ~1,031 |
-| Champagne Spray | 29.00% | ~997 |
-| We're Going to Need a Bigger Garage | 26.00% | ~894 |
-| Quick Pit Stop | 22.00% | ~756 |
+| Eat My Dust | 49.00% | ~1,686 |
+| First Love | 45.00% | ~1,548 |
+| Clean Race | 44.00% | ~1,514 |
+| Hear That Roar! | 42.00% | ~1,445 |
+| Rivals to the End | 31.00% | ~1,067 |
+| Bitter Rivalry | 30.00% | ~1,032 |
+| Champagne Spray | 29.00% | ~998 |
+| We're Going to Need a Bigger Garage | 26.00% | ~895 |
+| Quick Pit Stop | 22.00% | ~757 |
 | Restored and Ready | 20.00% | ~688 |
 | I Want One Too! | 20.00% | ~688 |
 | Legendary!!! | 20.00% | ~688 |
-| Go-Faster Stripes | 17.00% | ~584 |
-| I'm Here Too! | 14.00% | ~481 |
-| We've Just Begun | 14.00% | ~481 |
-| Is It the Right Size? | 9.00% | ~309 |
+| Go-Faster Stripes | 17.00% | ~585 |
+| I'm Here Too! | 14.00% | ~482 |
+| We've Just Begun | 14.00% | ~482 |
+| Is It the Right Size? | 9.00% | ~310 |
 | Stamina Star | 8.00% | ~275 |
 | Evangelist | 7.00% | ~241 |
 | Make It Your Own! | 5.00% | ~172 |
@@ -46,16 +46,16 @@ Rating: 4.46 (Ranked 673)
 | Breathtaking Views | 0.20% | ~7 |
 | Beyond the Limiter | 0.20% | ~7 |
 | All My Own Toys | 0.20% | ~7 |
+| Dream Chaser | 0.10% | ~3 |
 | Endless | 0.10% | ~3 |
 | Full Power | 0.10% | ~3 |
 | At the Top | 0.10% | ~3 |
 | There's a Great View up Here | 0.10% | ~3 |
 | Absolute Champion | 0.10% | ~3 |
-| Dream Chaser | 0.00% | ~0 |
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,438 (Ranked 223)  
+Progressed: 3,441 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 3,324 | 0 |
 | 2024-01-06 | 3,370 | 0 |
 | 2024-01-07 | 3,427 | 0 |
-| 2024-01-08 | 3,438 | 0 |
+| 2024-01-08 | 3,441 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
