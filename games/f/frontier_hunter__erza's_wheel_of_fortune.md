@@ -5,9 +5,9 @@ Rating: 4.38 (Ranked 791)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~684 |
-| Training Simulation | 79.00% | ~581 |
-| Kuku Bird Hunter | 65.00% | ~478 |
+| Travel Streamer | 93.00% | ~685 |
+| Training Simulation | 79.00% | ~582 |
+| Kuku Bird Hunter | 65.00% | ~479 |
 | Storm Traveller | 60.00% | ~442 |
 | Wolf King Killer | 55.00% | ~405 |
 | Fashion Connoisseur | 52.00% | ~383 |
@@ -15,24 +15,24 @@ Rating: 4.38 (Ranked 791)
 | Flower Thief | 44.00% | ~324 |
 | Apostle of Flame | 39.00% | ~287 |
 | Beginner Artificer | 38.00% | ~280 |
-| Beginner Cook | 37.00% | ~272 |
+| Beginner Cook | 37.00% | ~273 |
 | Seal Breaker | 32.00% | ~236 |
 | Handyman | 28.00% | ~206 |
-| Giant Lizard Killer | 26.00% | ~191 |
+| Giant Lizard Killer | 26.00% | ~192 |
 | Guardian | 25.00% | ~184 |
 | Nosebleeder | 25.00% | ~184 |
 | Trader | 22.00% | ~162 |
 | Weapon Boost | 21.00% | ~155 |
 | Flying Kobold Killer | 19.00% | ~140 |
-| Youth Magnet | 18.00% | ~132 |
+| Youth Magnet | 18.00% | ~133 |
 | Furious Scorpion Killer | 17.00% | ~125 |
 | Lethal Blade Mantis Killer | 17.00% | ~125 |
 | Squeaky Clean | 17.00% | ~125 |
 | Master Artificer | 17.00% | ~125 |
-| Kind Adventurer | 15.00% | ~110 |
-| Mermaid Killer | 15.00% | ~110 |
-| Cave Master | 15.00% | ~110 |
-| Face Slapper | 15.00% | ~110 |
+| Kind Adventurer | 15.00% | ~111 |
+| Mermaid Killer | 15.00% | ~111 |
+| Cave Master | 15.00% | ~111 |
+| Face Slapper | 15.00% | ~111 |
 | Boss challenge | 11.00% | ~81 |
 | Berserker Slayer | 11.00% | ~81 |
 | Giantess Slayer | 10.00% | ~74 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 791)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736 (Ranked 316)  
+Progressed: 737 (Ranked 316)  
 Completed: 3 (0.41%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 3 (0.41%) (Ranked 235)
 | 2024-01-05 | 719 | 3 |
 | 2024-01-06 | 725 | 3 |
 | 2024-01-07 | 735 | 3 |
-| 2024-01-08 | 736 | 3 |
+| 2024-01-08 | 737 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

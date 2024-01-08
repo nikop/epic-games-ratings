@@ -432,9 +432,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1085,8 +1085,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:28:48.5384723+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:05:08.1568523+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:22.5925378+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:23:20.336473+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:28:48.5385536+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:59:51.331503+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:05:08.1569165+00:00"
 }

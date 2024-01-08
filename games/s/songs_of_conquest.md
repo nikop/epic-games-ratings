@@ -19,7 +19,7 @@ Number of Ratings: 292  (23.09.2022)
 | Landlord Extraordinaire | 7.00% | ~75 |
 | Whoops! | 6.00% | ~64 |
 | Don't Touch My Stuff | 6.00% | ~64 |
-| The Song of Stoutheart | 5.00% | ~53 |
+| The Song of Stoutheart | 5.00% | ~54 |
 | Trojan Horse | 4.00% | ~43 |
 | Expert Essence Employment | 3.00% | ~32 |
 | This Spot's Taken | 2.00% | ~21 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,069 (Ranked 288)  
+Progressed: 1,070 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-05 | 1,000 | 0 |
 | 2024-01-06 | 1,034 | 0 |
 | 2024-01-07 | 1,067 | 0 |
-| 2024-01-08 | 1,069 | 0 |
+| 2024-01-08 | 1,070 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 528)  
 Sum: 251 (Ranked 398)  

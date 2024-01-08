@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2535,
+  "EOS_Progressed": 2536,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 6.94,
   "EosHistory": [
@@ -6707,6 +6707,11 @@
       "Time": "2024-01-08T01:55:42.2488484+00:00",
       "NumProgressed": 2535,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2024-01-08T03:06:51.363192+00:00",
+      "NumProgressed": 2536,
+      "NumCompleted": 176
     }
   ],
   "TotalAchievements": 25,
@@ -6742,7 +6747,7 @@
       "Name": "Cable guy",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "META_FIRST_LINK",
@@ -6750,7 +6755,7 @@
       "Name": "A good beginning",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "META_HALF_LINK",
@@ -6758,7 +6763,7 @@
       "Name": "Half the way",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "META_RESULT_1-2",
@@ -6782,7 +6787,7 @@
       "Name": "Feels like springtime",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6814,7 +6819,7 @@
       "Name": "Alchemists Express",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6862,7 +6867,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6876,9 +6881,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1369
     },
     {
       "ID": "PROGRESS_N2",
@@ -6917,7 +6922,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2535,
+      "Progressed": 2536,
       "Completed": 176
     }
   ],
@@ -6925,8 +6930,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:30:23.6011097+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:06:51.3631915+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:22:33.688543+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:30:23.6011587+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:58:59.3852176+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:06:51.3632388+00:00"
 }

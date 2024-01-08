@@ -14,10 +14,10 @@
 | Final Showdown | 35.00% | ~27 |
 | The End of an Outlaw | 35.00% | ~27 |
 | Dispel Rumors | 34.00% | ~26 |
+| Steal Her Away | 31.00% | ~24 |
 | Demon Slayer | 30.00% | ~23 |
-| Steal Her Away | 30.00% | ~23 |
+| Sewer Rat | 29.00% | ~22 |
 | Fight Fire With Fire | 29.00% | ~22 |
-| Sewer Rat | 27.00% | ~21 |
 | Urban Explorer | 26.00% | ~20 |
 | Big Eater | 25.00% | ~19 |
 | Not Today | 25.00% | ~19 |
@@ -26,8 +26,8 @@
 | Tomb Raider | 23.00% | ~18 |
 | The Real O.G. | 21.00% | ~16 |
 | The Hero of the People | 16.00% | ~12 |
+| Talk to the Fist | 13.00% | ~10 |
 | Collector | 12.00% | ~9 |
-| Talk to the Fist | 12.00% | ~9 |
 | Taoist | 9.00% | ~7 |
 | The Legend | 6.00% | ~5 |
 ## Popularity (Based on EOS Achievements)

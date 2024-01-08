@@ -1010,9 +1010,9 @@
       "ID": "ach25",
       "SetID": "baneh2j",
       "Name": "Gourmet",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach26",
@@ -1129,8 +1129,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:28:33.4462779+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:04:51.7016091+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:04.956852+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:27:19.092908+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:28:33.4462981+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:03:31.3870127+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:04:51.7016277+00:00"
 }

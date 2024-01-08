@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2036,
+  "EOS_Progressed": 2037,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.63,
   "EosHistory": [
@@ -4714,6 +4714,11 @@
       "Time": "2024-01-08T02:34:20.6506323+00:00",
       "NumProgressed": 2036,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2024-01-08T03:10:30.3659958+00:00",
+      "NumProgressed": 2037,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 16,
@@ -4773,7 +4778,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -4781,7 +4786,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4789,7 +4794,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4805,7 +4810,7 @@
       "Name": "Music for Cows",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -4852,7 +4857,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2036,
+      "Progressed": 2037,
       "Completed": 74
     }
   ],
@@ -4860,8 +4865,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:34:20.650632+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:10:30.3659954+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:30.8878388+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:23:12.2115748+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:34:20.6506631+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:59:41.5493796+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:10:30.3660312+00:00"
 }

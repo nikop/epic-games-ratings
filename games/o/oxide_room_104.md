@@ -14,7 +14,7 @@
 | Soundtrack | 61.00% | ~190 |
 | First aid | 58.00% | ~181 |
 | Antidote | 51.00% | ~159 |
-| Pick the right door | 23.00% | ~72 |
+| Pick the right door | 24.00% | ~75 |
 | The third floor | 17.00% | ~53 |
 | On the right path | 15.00% | ~47 |
 | One-way | 15.00% | ~47 |

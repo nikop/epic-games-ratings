@@ -1028,7 +1028,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 29077,
+  "EOS_Progressed": 29078,
   "EOS_Completed": 1422,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 4,
@@ -8968,6 +8968,11 @@
       "Time": "2024-01-08T01:59:06.8723091+00:00",
       "NumProgressed": 29077,
       "NumCompleted": 1422
+    },
+    {
+      "Time": "2024-01-08T03:10:27.3175483+00:00",
+      "NumProgressed": 29078,
+      "NumCompleted": 1422
     }
   ],
   "TotalAchievements": 30,
@@ -8995,7 +9000,7 @@
       "Name": "Film Buff",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 11049
+      "UsersEstimate": 11050
     },
     {
       "ID": "ACH_BALL_TRIP",
@@ -9011,7 +9016,7 @@
       "Name": "Bossy Bugs",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 13375
+      "UsersEstimate": 13376
     },
     {
       "ID": "ACH_BROKEN_TOOTH",
@@ -9027,7 +9032,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 9595
+      "UsersEstimate": 9596
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -9043,7 +9048,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22389
+      "UsersEstimate": 22390
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -9059,7 +9064,7 @@
       "Name": "Combo Meal",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 11049
+      "UsersEstimate": 11050
     },
     {
       "ID": "ACH_DONATE",
@@ -9067,7 +9072,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 17155
+      "UsersEstimate": 17156
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -9075,7 +9080,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 28205
+      "UsersEstimate": 28206
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -9083,7 +9088,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 20063
+      "UsersEstimate": 20064
     },
     {
       "ID": "ACH_GOLEM",
@@ -9115,7 +9120,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17737
+      "UsersEstimate": 17738
     },
     {
       "ID": "ACH_LAUNCH",
@@ -9123,7 +9128,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 16283
+      "UsersEstimate": 16284
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -9139,7 +9144,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12503
+      "UsersEstimate": 12504
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -9147,7 +9152,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 17155
+      "UsersEstimate": 17156
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -9171,7 +9176,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 27042
+      "UsersEstimate": 27043
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -9211,22 +9216,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25297
+      "UsersEstimate": 25298
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 29077,
+      "Progressed": 29078,
       "Completed": 1422
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2024-01-07T20:58:42.3965907+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:34:17.8440974+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:10:27.3175475+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:12.4963151+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:22:26.2753254+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:34:17.8441525+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:58:51.9473448+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:10:27.3176198+00:00"
 }

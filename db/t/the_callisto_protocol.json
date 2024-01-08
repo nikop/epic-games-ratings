@@ -2105,9 +2105,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 21631,
+  "EOS_Progressed": 21634,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1270,
+  "EOS_NewPlayers": 1269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13005,6 +13005,11 @@
       "Time": "2024-01-08T02:34:05.1544875+00:00",
       "NumProgressed": 21631,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-08T03:10:13.1494954+00:00",
+      "NumProgressed": 21634,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13040,7 +13045,7 @@
       "Name": "You Need a Gun",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "DISARM_ENEMY",
@@ -13118,9 +13123,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4543
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13136,7 +13141,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -13176,7 +13181,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3677
+      "UsersEstimate": 3678
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -13232,7 +13237,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "STORY_MINETOWN",
@@ -13248,7 +13253,7 @@
       "Name": "Desperate Times",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4975
+      "UsersEstimate": 4976
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13256,7 +13261,7 @@
       "Name": "Crash Site",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "STORY_TOWER",
@@ -13391,13 +13396,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21631,
+      "Progressed": 21634,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9557,
+      "Progressed": 9560,
       "Completed": 29
     }
   ],
@@ -13405,8 +13410,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-07T22:03:22.0078905+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:34:05.1544873+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:10:13.1494948+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:27:44.8519532+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:34:05.1545714+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:03:57.7723492+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:10:13.14959+00:00"
 }

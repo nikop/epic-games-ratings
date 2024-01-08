@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewPlayers": 484,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -866,9 +866,9 @@
       "ID": "7",
       "SetID": "5e3maia",
       "Name": "Shamanslayer",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "70",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:29:21.005238+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:05:43.628371+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:04.7034788+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:21:22.8862719+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:29:21.0052892+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:57:43.9890184+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:05:43.6284402+00:00"
 }

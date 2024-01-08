@@ -6,29 +6,29 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~12,526 |
-| Overkill | 33.00% | ~10,599 |
-| Vaccine Incoming | 31.00% | ~9,957 |
-| A normal day in Gloomhaven | 29.00% | ~9,315 |
-| Spread the plague | 27.00% | ~8,672 |
-| Get over here! | 24.00% | ~7,709 |
-| Just when I thought I was out... | 19.00% | ~6,103 |
-| Precious! | 16.00% | ~5,139 |
-| Mine... All Mine... | 16.00% | ~5,139 |
-| Grizzled veteran | 15.00% | ~4,818 |
-| Anatomy Lesson | 14.00% | ~4,497 |
-| Light of my life | 13.00% | ~4,175 |
-| Who's the Boss? | 12.00% | ~3,854 |
-| You activated my trap card! | 12.00% | ~3,854 |
-| Obstacle race | 12.00% | ~3,854 |
-| Augmented rat | 10.00% | ~3,212 |
-| Doom and gloom | 10.00% | ~3,212 |
+| I'm not dead yet | 38.00% | ~12,208 |
+| Overkill | 33.00% | ~10,602 |
+| Vaccine Incoming | 31.00% | ~9,959 |
+| A normal day in Gloomhaven | 29.00% | ~9,317 |
+| Spread the plague | 27.00% | ~8,674 |
+| Get over here! | 24.00% | ~7,710 |
+| Just when I thought I was out... | 19.00% | ~6,104 |
+| Precious! | 16.00% | ~5,140 |
+| Mine... All Mine... | 16.00% | ~5,140 |
+| Grizzled veteran | 15.00% | ~4,819 |
+| Anatomy Lesson | 14.00% | ~4,498 |
+| Light of my life | 13.00% | ~4,177 |
+| Who's the Boss? | 12.00% | ~3,855 |
+| You activated my trap card! | 12.00% | ~3,855 |
+| Obstacle race | 12.00% | ~3,855 |
+| Augmented rat | 10.00% | ~3,213 |
+| Doom and gloom | 10.00% | ~3,213 |
 | Dungeon Veteran | 8.00% | ~2,570 |
 | Pain is your friend | 8.00% | ~2,570 |
-| Pack leader | 7.00% | ~2,248 |
-| Black death | 7.00% | ~2,248 |
-| Play it again, Sam | 7.00% | ~2,248 |
-| Quad damage | 6.00% | ~1,927 |
+| Pack leader | 7.00% | ~2,249 |
+| Black death | 7.00% | ~2,249 |
+| Play it again, Sam | 7.00% | ~2,249 |
+| Quad damage | 6.00% | ~1,928 |
 | Power Up! | 5.00% | ~1,606 |
 | Merchant of doom | 5.00% | ~1,606 |
 | Caught off guard | 5.00% | ~1,606 |
@@ -39,13 +39,13 @@ Number of Ratings: 68  (23.09.2022)
 | Down the hatch | 3.00% | ~964 |
 | An eye for an eye | 3.00% | ~964 |
 | The Cephalophore | 3.00% | ~964 |
-| From Gloom, only greed and death emerges | 2.00% | ~642 |
-| The Rat King | 2.00% | ~642 |
-| How to train your Drake | 2.00% | ~642 |
-| Master Assassin | 2.00% | ~642 |
-| The Sniper | 2.00% | ~642 |
-| Grin and bear it | 2.00% | ~642 |
-| An axe to grind | 2.00% | ~642 |
+| From Gloom, only greed and death emerges | 2.00% | ~643 |
+| The Rat King | 2.00% | ~643 |
+| How to train your Drake | 2.00% | ~643 |
+| Master Assassin | 2.00% | ~643 |
+| The Sniper | 2.00% | ~643 |
+| Grin and bear it | 2.00% | ~643 |
+| An axe to grind | 2.00% | ~643 |
 | Betray this | 1.00% | ~321 |
 | Add a bit of colour | 1.00% | ~321 |
 | Captain hooked | 1.00% | ~321 |
@@ -54,7 +54,7 @@ Number of Ratings: 68  (23.09.2022)
 | The Pacifist | 0.50% | ~161 |
 | The evil that men do | 0.50% | ~161 |
 | Born Support | 0.50% | ~161 |
-| MacReady Steady.. Go! | 0.40% | ~128 |
+| MacReady Steady.. Go! | 0.40% | ~129 |
 | A tough job | 0.30% | ~96 |
 | The Jaws of victory! | 0.30% | ~96 |
 | Pull out the big guns | 0.30% | ~96 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~32 |
 | Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,119 (Ranked 140)  
+Progressed: 32,127 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,10 +185,10 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-05 | 31,403 | 1 |
 | 2024-01-06 | 31,749 | 1 |
 | 2024-01-07 | 32,091 | 1 |
-| 2024-01-08 | 32,119 | 1 |
+| 2024-01-08 | 32,127 | 1 |
 ## Awards
 Max (Character Customization): 3,616  (Ranked 94)  
-Sum: 8,465 (Ranked 107)  
+Sum: 8,466 (Ranked 107)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -196,7 +196,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 612 |
 | This game has Challenging Combat | 557 |
 | This game is Highly Recommended | 553 |
-| This game is Extremely Fun | 550 |
+| This game is Extremely Fun | 551 |
 | This game is Relaxing | 494 |
 | This game has Amazing Characters | 494 |
 | This game has Quickly Understood Controls | 493 |
@@ -466,3 +466,4 @@ Diff (max vs sum): -13
 | 2024-01-04 | 4.47 | - | 3,615 | 8,462 |
 | 2024-01-05 | 4.47 | - | 3,615 | 8,463 |
 | 2024-01-06 | 4.47 | - | 3,616 | 8,465 |
+| 2024-01-08 | 4.47 | - | 3,616 | 8,466 |

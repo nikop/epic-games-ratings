@@ -6,11 +6,11 @@ Rating: 3.75 (Ranked 1,089)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 60.00% | ~380 |
-| Buckle up | 58.00% | ~367 |
-| Quick charge | 58.00% | ~367 |
-| Hands up! | 52.00% | ~329 |
-| Now you know | 52.00% | ~329 |
-| Short circuit | 52.00% | ~329 |
+| Buckle up | 58.00% | ~368 |
+| Quick charge | 58.00% | ~368 |
+| Hands up! | 52.00% | ~330 |
+| Now you know | 52.00% | ~330 |
+| Short circuit | 52.00% | ~330 |
 | Curious | 42.00% | ~266 |
 | Everybody lies | 36.00% | ~228 |
 | Trick or Treat? | 23.00% | ~146 |
@@ -38,7 +38,7 @@ Rating: 3.75 (Ranked 1,089)
 | Accurate | 5.00% | ~32 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 633 (Ranked 336)  
+Progressed: 634 (Ranked 336)  
 Completed: 19 (3.00%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 19 (3.00%) (Ranked 110)
 | 2024-01-03 | 627 | 19 |
 | 2024-01-05 | 629 | 19 |
 | 2024-01-06 | 632 | 19 |
-| 2024-01-08 | 633 | 19 |
+| 2024-01-08 | 634 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

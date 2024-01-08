@@ -7,24 +7,24 @@ Rating: 4.21 (Ranked 953)
 | ---- | ---------- | ----- |
 | Flesh Wound | 25.00% | ~5,408 |
 | The Outer Way | 25.00% | ~5,408 |
-| Desperate Times | 23.00% | ~4,975 |
+| Desperate Times | 23.00% | ~4,976 |
+| Get a Grip | 21.00% | ~4,543 |
 | Paper Jams | 21.00% | ~4,543 |
-| Get a Grip | 20.00% | ~4,326 |
 | Chew 'Em Up | 19.00% | ~4,110 |
 | Reforged | 18.00% | ~3,894 |
-| Float Like A Butterfly | 17.00% | ~3,677 |
+| Float Like A Butterfly | 17.00% | ~3,678 |
 | Workplace Hazard | 15.00% | ~3,245 |
 | If the SHU Fits... | 15.00% | ~3,245 |
 | Without A Paddle | 13.00% | ~2,812 |
-| Two Heads Are Better Than One | 11.00% | ~2,379 |
-| In the Pipe, Five by Five | 11.00% | ~2,379 |
-| Crash Site | 11.00% | ~2,379 |
+| Two Heads Are Better Than One | 11.00% | ~2,380 |
+| In the Pipe, Five by Five | 11.00% | ~2,380 |
+| Crash Site | 11.00% | ~2,380 |
 | Terminated | 10.00% | ~2,163 |
 | Power Up | 10.00% | ~2,163 |
 | Giving Back | 9.00% | ~1,947 |
 | What Lies Beneath | 9.00% | ~1,947 |
 | Full Circle | 9.00% | ~1,947 |
-| You Need a Gun | 8.00% | ~1,730 |
+| You Need a Gun | 8.00% | ~1,731 |
 | I Do Belong Here | 7.00% | ~1,514 |
 | Keep Fighting | 7.00% | ~669 |
 | In Striking Distance | 5.00% | ~1,082 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 953)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,631 (Ranked 151)  
+Progressed: 21,634 (Ranked 151)  
 Completed: 82 (0.38%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 82 (0.38%) (Ranked 241)
 | 2024-01-05 | 21,186 | 82 |
 | 2024-01-06 | 21,389 | 82 |
 | 2024-01-07 | 21,615 | 82 |
-| 2024-01-08 | 21,631 | 82 |
+| 2024-01-08 | 21,634 | 82 |
 ## Awards
 Max (Amazing Characters): 126  (Ranked 353)  
 Sum: 603 (Ranked 324)  

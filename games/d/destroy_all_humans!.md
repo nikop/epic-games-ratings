@@ -12,7 +12,7 @@ Number of Ratings: 85  (23.09.2022)
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~248 |
 | I Look Up As I Walk to Takoshima | 59.00% | ~232 |
 | Yettisoned | 58.00% | ~228 |
-| Pimp My Raid | 55.00% | ~216 |
+| Pimp My Raid | 56.00% | ~220 |
 | Perfect Probulator | 55.00% | ~216 |
 | Lobster Blisque | 50.00% | ~196 |
 | Earthly Pleasures | 49.00% | ~193 |
@@ -21,7 +21,7 @@ Number of Ratings: 85  (23.09.2022)
 | Forbidden Donut | 36.00% | ~141 |
 | Bodied Sattva | 36.00% | ~141 |
 | Freshly Squeezed | 35.00% | ~138 |
-| Upgreatest | 34.00% | ~134 |
+| Upgreatest | 35.00% | ~138 |
 | Deincarnated | 29.00% | ~114 |
 | Furon Fashion | 29.00% | ~114 |
 | Rock of the Bay | 27.00% | ~106 |

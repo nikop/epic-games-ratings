@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 736,
+  "EOS_Progressed": 737,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -2578,6 +2578,11 @@
       "Time": "2024-01-08T01:58:32.8012495+00:00",
       "NumProgressed": 736,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T03:09:58.5455518+00:00",
+      "NumProgressed": 737,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2589,7 +2594,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2597,7 +2602,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2629,7 +2634,7 @@
       "Name": "Youth Magnet",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2661,7 +2666,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2669,7 +2674,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -2677,7 +2682,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2685,7 +2690,7 @@
       "Name": "Cave Master",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -2693,7 +2698,7 @@
       "Name": "Face Slapper",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -2701,7 +2706,7 @@
       "Name": "Beginner Cook",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2757,7 +2762,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2948,7 +2953,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 736,
+      "Progressed": 737,
       "Completed": 3
     }
   ],
@@ -2956,8 +2961,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:33:51.5433031+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:09:58.5455513+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.4482016+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:23:31.7425558+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:33:51.5433361+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:00:05.2969528+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:09:58.5456029+00:00"
 }

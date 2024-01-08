@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1746,6 +1746,11 @@
       "Time": "2024-01-07T18:08:42.1910019+00:00",
       "NumProgressed": 399,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T03:09:15.5576084+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1773,7 +1778,7 @@
       "Name": "Alone with Them",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1853,7 +1858,7 @@
       "Name": "Forced to Kill",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -2076,7 +2081,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 1
     }
   ],
@@ -2084,8 +2089,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:33:12.0732558+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:09:15.557608+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:36.5425929+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:24:34.113248+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:33:12.073289+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:03:15.4809026+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:09:15.5576565+00:00"
 }

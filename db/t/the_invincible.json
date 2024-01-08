@@ -5,10 +5,10 @@
   "Ranking_Rating": 471,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1511,
+  "EOS_Progressed": 1512,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3905,6 +3905,11 @@
       "Time": "2024-01-08T02:34:03.7014607+00:00",
       "NumProgressed": 1511,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T03:10:11.9032416+00:00",
+      "NumProgressed": 1512,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3917,7 +3922,7 @@
       "Name": "The Teleprobe",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "AchvAllMemories",
@@ -3925,7 +3930,7 @@
       "Name": "I remember everything!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "AchvAssertive",
@@ -3933,7 +3938,7 @@
       "Name": "On her own",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "AchvBattleScore",
@@ -3941,7 +3946,7 @@
       "Name": "Fierce fight",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "AchvBombStop",
@@ -3949,7 +3954,7 @@
       "Name": "Peacemaker",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "AchvBombing",
@@ -4005,7 +4010,7 @@
       "Name": "Another giant",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "AchvKrautaAlive",
@@ -4021,7 +4026,7 @@
       "Name": "Volcanologist",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -4099,9 +4104,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 741
     },
     {
       "ID": "AchvReachCondor",
@@ -4117,7 +4122,7 @@
       "Name": "Survivors",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4148,7 +4153,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1511,
+      "Progressed": 1512,
       "Completed": 1
     }
   ],
@@ -4156,8 +4161,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-07T13:04:46.5535685+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:34:03.7014604+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:10:11.9032413+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:24:26.2312837+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:34:03.7014939+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:01:05.7608409+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:10:11.9032809+00:00"
 }

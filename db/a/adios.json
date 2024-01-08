@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83030,
+  "EOS_Progressed": 83031,
   "EOS_Completed": 925,
-  "EOS_NewPlayers": 745,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29441,6 +29441,11 @@
       "Time": "2024-01-08T02:30:39.1260373+00:00",
       "NumProgressed": 83030,
       "NumCompleted": 925
+    },
+    {
+      "Time": "2024-01-08T03:07:08.5314+00:00",
+      "NumProgressed": 83031,
+      "NumCompleted": 925
     }
   ],
   "TotalAchievements": 25,
@@ -29492,7 +29497,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14945
+      "UsersEstimate": 14946
     },
     {
       "ID": "Butcher",
@@ -29556,7 +29561,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17436
+      "UsersEstimate": 17437
     },
     {
       "ID": "Meaty",
@@ -29651,7 +29656,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83030,
+      "Progressed": 83031,
       "Completed": 925
     }
   ],
@@ -29659,8 +29664,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:30:39.1260371+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:07:08.5313995+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:22:09.792831+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:30:39.1261927+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:58:33.3607978+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:07:08.5315468+00:00"
 }

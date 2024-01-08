@@ -10632,9 +10632,9 @@
       "Count": 1083
     }
   ],
-  "EOS_Progressed": 132123,
+  "EOS_Progressed": 132127,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1081,
+  "EOS_NewPlayers": 1079,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38837,6 +38837,11 @@
       "Time": "2024-01-08T02:34:13.5385287+00:00",
       "NumProgressed": 132123,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T03:10:22.5639038+00:00",
+      "NumProgressed": 132127,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38870,9 +38875,9 @@
       "ID": "altar_of_hope_memory_equip_five_same_hero",
       "SetID": "64l4lke",
       "Name": "A Life Well Lived",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 793
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -38944,7 +38949,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -38952,7 +38957,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -38976,7 +38981,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7927
+      "UsersEstimate": 7928
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39008,7 +39013,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7927
+      "UsersEstimate": 7928
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39024,7 +39029,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "combat_kill_gaunts",
@@ -39040,7 +39045,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -39072,7 +39077,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7927
+      "UsersEstimate": 7928
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39264,7 +39269,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -39312,7 +39317,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "run_victory_act03",
@@ -39320,7 +39325,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "run_victory_act04",
@@ -39328,7 +39333,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "run_victory_act05",
@@ -39448,7 +39453,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39479,21 +39484,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132123,
+      "Progressed": 132127,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6992,
+      "Progressed": 6996,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-08T01:46:44.0970081+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:34:13.5385284+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:10:22.5639035+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:21:56.14678+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:34:13.5387235+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:58:18.4608215+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:10:22.5640677+00:00"
 }

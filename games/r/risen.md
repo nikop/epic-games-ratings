@@ -15,7 +15,7 @@ Rating: 4.56 (Ranked 507)
 | Well-to-do | 31.00% | ~55 |
 | Samaritan | 29.00% | ~52 |
 | Ladies' man | 29.00% | ~52 |
-| The merciful one | 27.00% | ~48 |
+| The merciful one | 28.00% | ~50 |
 | Idiot | 23.00% | ~41 |
 | Ferocious wild boars | 22.00% | ~39 |
 | Beast slayer | 20.00% | ~36 |

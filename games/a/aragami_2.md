@@ -6,23 +6,23 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,815 |
+| Awakening | 93.00% | ~41,816 |
 | First Steps | 80.00% | ~35,970 |
 | Control the Shadows | 67.00% | ~30,125 |
-| Tools of the Trade | 63.00% | ~28,326 |
-| Apprentice | 60.00% | ~26,977 |
-| Secret Seeker | 57.00% | ~25,628 |
-| Forge of Assassins | 55.00% | ~24,729 |
-| Revenant | 52.00% | ~23,380 |
+| Tools of the Trade | 63.00% | ~28,327 |
+| Apprentice | 60.00% | ~26,978 |
+| Secret Seeker | 57.00% | ~25,629 |
+| Forge of Assassins | 55.00% | ~24,730 |
+| Revenant | 52.00% | ~23,381 |
 | I don’t Care! | 45.00% | ~20,233 |
 | Bird of Prey | 37.00% | ~16,636 |
 | Engraved with Power | 32.00% | ~14,388 |
-| Lady | 31.00% | ~13,938 |
+| Lady | 31.00% | ~13,939 |
 | Fashionable Assassin | 27.00% | ~12,140 |
 | Apex Predator | 24.00% | ~10,791 |
 | Soul Reaver | 23.00% | ~10,341 |
 | Embers | 22.00% | ~9,892 |
-| Wall Lizard | 20.00% | ~8,992 |
+| Wall Lizard | 20.00% | ~8,993 |
 | Clinging to Life | 18.00% | ~8,093 |
 | Burning | 17.00% | ~7,644 |
 | Look Behind You | 16.00% | ~7,194 |
@@ -30,7 +30,7 @@ Number of Ratings: 88  (23.09.2022)
 | Family | 14.00% | ~6,295 |
 | War Engines | 14.00% | ~6,295 |
 | Signature Move | 14.00% | ~6,295 |
-| Ruse | 12.00% | ~5,395 |
+| Ruse | 12.00% | ~5,396 |
 | Master Ninja | 11.00% | ~4,946 |
 | Hatching | 10.00% | ~4,496 |
 | Bonds | 9.00% | ~4,047 |
@@ -42,16 +42,16 @@ Number of Ratings: 88  (23.09.2022)
 | The Lookout | 5.00% | ~2,248 |
 | The Spirit of Vengeance | 5.00% | ~2,248 |
 | Hollow | 5.00% | ~2,248 |
-| Left Behind | 4.00% | ~1,798 |
-| Secrets of the Earth | 4.00% | ~1,798 |
-| Heart of Fire | 4.00% | ~1,798 |
+| Left Behind | 4.00% | ~1,799 |
+| Secrets of the Earth | 4.00% | ~1,799 |
+| Heart of Fire | 4.00% | ~1,799 |
 | The Lion’s Den | 3.00% | ~1,349 |
 | Forest Spirits | 3.00% | ~1,349 |
 | Hot Potato | 2.00% | ~899 |
 | Anger Management | 2.00% | ~899 |
 | Legacy | 2.00% | ~899 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,962 (Ranked 128)  
+Progressed: 44,963 (Ranked 128)  
 Completed: 248 (0.55%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 248 (0.55%) (Ranked 214)
 | 2024-01-05 | 44,867 | 248 |
 | 2024-01-06 | 44,907 | 248 |
 | 2024-01-07 | 44,957 | 248 |
-| 2024-01-08 | 44,962 | 248 |
+| 2024-01-08 | 44,963 | 248 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

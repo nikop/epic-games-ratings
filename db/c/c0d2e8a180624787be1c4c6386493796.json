@@ -1341,9 +1341,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
       "SetID": "caeik3h",
       "Name": "My Watch Begins",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -1765,9 +1765,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -1813,9 +1813,9 @@
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -1938,8 +1938,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:30:14.9832653+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:06:41.815083+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:22:59.4524804+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:30:14.983335+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:59:27.3713785+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:06:41.8151714+00:00"
 }

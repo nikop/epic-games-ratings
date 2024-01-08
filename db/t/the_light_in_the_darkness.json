@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2860,
+  "EOS_Progressed": 2861,
   "EOS_Completed": 263,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.2,
+  "EOS_Completed_Percentage": 9.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8271,6 +8271,11 @@
       "Time": "2024-01-08T00:08:32.8138678+00:00",
       "NumProgressed": 2860,
       "NumCompleted": 263
+    },
+    {
+      "Time": "2024-01-08T03:09:42.5555123+00:00",
+      "NumProgressed": 2861,
+      "NumCompleted": 263
     }
   ],
   "TotalAchievements": 12,
@@ -8306,7 +8311,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Jacques a Dit",
@@ -8330,7 +8335,7 @@
       "Name": "Jude",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "Le Juif et la France",
@@ -8338,7 +8343,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "Little Helper",
@@ -8346,7 +8351,7 @@
       "Name": "Little Helper",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -8377,7 +8382,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2860,
+      "Progressed": 2861,
       "Completed": 263
     }
   ],
@@ -8385,8 +8390,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:33:36.8824019+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:09:42.555511+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.1144562+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:21:38.6132109+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:33:36.8824777+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:58:00.6857507+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:09:42.555582+00:00"
 }

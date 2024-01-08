@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535166,
+  "EOS_Progressed": 535168,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -28438,6 +28438,11 @@
       "Time": "2024-01-08T02:32:57.4495217+00:00",
       "NumProgressed": 535166,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2024-01-08T03:08:59.4592207+00:00",
+      "NumProgressed": 535168,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 57,
@@ -28449,7 +28454,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 123088
+      "UsersEstimate": 123089
     },
     {
       "ID": "10",
@@ -28457,7 +28462,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 240825
+      "UsersEstimate": 240826
     },
     {
       "ID": "11",
@@ -28465,7 +28470,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 374616
+      "UsersEstimate": 374618
     },
     {
       "ID": "12",
@@ -28529,7 +28534,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 331803
+      "UsersEstimate": 331804
     },
     {
       "ID": "2",
@@ -28673,7 +28678,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267583
+      "UsersEstimate": 267584
     },
     {
       "ID": "36",
@@ -28705,7 +28710,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 181956
+      "UsersEstimate": 181957
     },
     {
       "ID": "4",
@@ -28745,7 +28750,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 90978
+      "UsersEstimate": 90979
     },
     {
       "ID": "44",
@@ -28777,7 +28782,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 331803
+      "UsersEstimate": 331804
     },
     {
       "ID": "48",
@@ -28785,7 +28790,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 107033
+      "UsersEstimate": 107034
     },
     {
       "ID": "49",
@@ -28793,7 +28798,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 181956
+      "UsersEstimate": 181957
     },
     {
       "ID": "5",
@@ -28809,7 +28814,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74923
+      "UsersEstimate": 74924
     },
     {
       "ID": "51",
@@ -28825,7 +28830,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 246176
+      "UsersEstimate": 246177
     },
     {
       "ID": "53",
@@ -28833,7 +28838,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 123088
+      "UsersEstimate": 123089
     },
     {
       "ID": "54",
@@ -28897,22 +28902,22 @@
       "Name": "Boss of All Bosses",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     }
   ],
   "AchievementSets": [
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535166,
+      "Progressed": 535168,
       "Completed": 519
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:32:57.4495215+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:08:59.4592203+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:34.7747339+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:24:12.9323211+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:32:57.4496524+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:00:50.8281071+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:08:59.459405+00:00"
 }

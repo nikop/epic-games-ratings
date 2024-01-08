@@ -2,13 +2,13 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 724,
+  "Ranking_Rating": 725,
   "Ranking_Popularity": 549,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -348,9 +348,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 28794,
+  "EOS_Progressed": 28797,
   "EOS_Completed": 200,
-  "EOS_NewPlayers": 981,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -9778,6 +9778,11 @@
       "Time": "2024-01-08T02:34:23.3986943+00:00",
       "NumProgressed": 28794,
       "NumCompleted": 200
+    },
+    {
+      "Time": "2024-01-08T03:10:33.467235+00:00",
+      "NumProgressed": 28797,
+      "NumCompleted": 200
     }
   ],
   "TotalAchievements": 24,
@@ -9917,7 +9922,7 @@
       "Name": "Sector 1",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 9214
+      "UsersEstimate": 9215
     },
     {
       "ID": "ACH_Sector2",
@@ -9925,7 +9930,7 @@
       "Name": "Sector 2",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 8062
+      "UsersEstimate": 8063
     },
     {
       "ID": "ACH_Sector3",
@@ -9949,7 +9954,7 @@
       "Name": "Sector 5",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3743
+      "UsersEstimate": 3744
     },
     {
       "ID": "ACH_Sector6",
@@ -9957,7 +9962,7 @@
       "Name": "Sector 6",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "ACH_Sector7",
@@ -9980,7 +9985,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 28794,
+      "Progressed": 28797,
       "Completed": 200
     }
   ],
@@ -9988,8 +9993,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-07T21:02:45.1474426+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:34:23.3986941+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:10:33.4672347+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:27.6717087+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:21:12.7404825+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:34:23.3987439+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:57:31.627857+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:10:33.4672949+00:00"
 }

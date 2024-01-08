@@ -414,9 +414,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208770,
+  "EOS_Progressed": 208771,
   "EOS_Completed": 557,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28499,6 +28499,11 @@
       "Time": "2024-01-08T02:29:39.7804349+00:00",
       "NumProgressed": 208770,
       "NumCompleted": 557
+    },
+    {
+      "Time": "2024-01-08T03:06:04.2514128+00:00",
+      "NumProgressed": 208771,
+      "NumCompleted": 557
     }
   ],
   "TotalAchievements": 29,
@@ -28534,7 +28539,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196244
+      "UsersEstimate": 196245
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -28590,7 +28595,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10438
+      "UsersEstimate": 10439
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -28670,7 +28675,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10438
+      "UsersEstimate": 10439
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -28741,7 +28746,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208770,
+      "Progressed": 208771,
       "Completed": 557
     }
   ],
@@ -28749,8 +28754,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-07T03:01:28.6311382+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:29:39.7804347+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:06:04.2514125+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.3451627+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:21:30.3204911+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:29:39.7805494+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:57:52.4302717+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:06:04.251572+00:00"
 }

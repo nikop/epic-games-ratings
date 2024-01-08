@@ -375,9 +375,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2305,
+  "EOS_Progressed": 2306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4180,6 +4180,11 @@
       "Time": "2024-01-08T01:54:40.7194754+00:00",
       "NumProgressed": 2305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T03:06:00.1543555+00:00",
+      "NumProgressed": 2306,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4215,7 +4220,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Achievement_006",
@@ -4255,7 +4260,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Achievement_011",
@@ -4407,7 +4412,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Achievement_030",
@@ -4423,7 +4428,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Achievement_032",
@@ -4493,9 +4498,9 @@
       "ID": "Achievement_040",
       "SetID": "6b34g18",
       "Name": "Heart Attack",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 184
     },
     {
       "ID": "Achievement_041",
@@ -4718,7 +4723,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2305,
+      "Progressed": 2306,
       "Completed": 0
     }
   ],
@@ -4726,8 +4731,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-07T04:01:29.1090541+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:29:36.037315+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:06:00.1543552+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:23:20.7033214+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:29:36.0373781+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:59:51.8460814+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:06:00.1544276+00:00"
 }

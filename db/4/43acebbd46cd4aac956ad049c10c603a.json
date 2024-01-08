@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -3871,9 +3871,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 211
     },
     {
       "ID": "EcstaticTruth",
@@ -3935,9 +3935,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 369
     },
     {
       "ID": "JustOneLap",
@@ -4248,8 +4248,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-07T13:01:07.63286+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:30:23.8573407+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:06:51.647966+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:22:02.1882894+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:30:23.8573969+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:58:24.5874417+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:06:51.6480286+00:00"
 }

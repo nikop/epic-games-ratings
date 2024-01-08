@@ -5102,9 +5102,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1368
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -5150,9 +5150,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1302
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -5327,8 +5327,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:28:34.1275972+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:04:52.4521413+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:21:28.4100194+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:28:34.1277001+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:57:50.3718998+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:04:52.4522244+00:00"
 }

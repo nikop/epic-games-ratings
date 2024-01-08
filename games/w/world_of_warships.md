@@ -6,23 +6,23 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 76.00% | ~66,596 |
-| Initial Capital | 62.00% | ~54,328 |
-| Junior Supply Officer | 40.00% | ~35,050 |
-| Moneybags | 39.00% | ~34,174 |
-| Naval Warfare. Arson | 29.00% | ~25,412 |
-| Naval Warfare. Ramming | 29.00% | ~25,412 |
-| Naval Warfare. Tactics | 27.00% | ~23,659 |
-| Amateur | 26.00% | ~22,783 |
-| Naval Constructor | 26.00% | ~22,783 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~16,649 |
-| Naval Warfare. Lucky Shot | 17.00% | ~14,896 |
-| Naval Warfare. Flooding | 16.00% | ~14,020 |
-| Battle Hero | 13.00% | ~11,391 |
-| Business Magnate | 13.00% | ~11,391 |
-| Smooth Supply | 11.00% | ~9,639 |
-| Warrior | 10.00% | ~8,763 |
-| Supply Officer | 10.00% | ~8,763 |
+| Junior Naval Designer | 76.00% | ~66,604 |
+| Initial Capital | 62.00% | ~54,335 |
+| Junior Supply Officer | 40.00% | ~35,055 |
+| Moneybags | 39.00% | ~34,178 |
+| Naval Warfare. Arson | 29.00% | ~25,415 |
+| Naval Warfare. Ramming | 29.00% | ~25,415 |
+| Naval Warfare. Tactics | 27.00% | ~23,662 |
+| Amateur | 26.00% | ~22,786 |
+| Naval Constructor | 26.00% | ~22,786 |
+| Naval Warfare. Weaponry Basics | 19.00% | ~16,651 |
+| Naval Warfare. Lucky Shot | 17.00% | ~14,898 |
+| Naval Warfare. Flooding | 16.00% | ~14,022 |
+| Battle Hero | 13.00% | ~11,393 |
+| Business Magnate | 13.00% | ~11,393 |
+| Smooth Supply | 11.00% | ~9,640 |
+| Warrior | 10.00% | ~8,764 |
+| Supply Officer | 10.00% | ~8,764 |
 | Veteran | 6.00% | ~5,258 |
 | Legend of the Seas | 3.00% | ~2,629 |
 | Chief Naval Architect | 3.00% | ~2,629 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~88 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,626 (Ranked 106)  
+Progressed: 87,637 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-05 | 85,054 | 0 |
 | 2024-01-06 | 86,369 | 0 |
 | 2024-01-07 | 87,528 | 0 |
-| 2024-01-08 | 87,626 | 0 |
+| 2024-01-08 | 87,637 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,690  (Ranked 131)  
 Sum: 14,162 (Ranked 79)  

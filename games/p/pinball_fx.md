@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 292,985 (Ranked 63)  
+Progressed: 292,995 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-05 | 291,801 | 0 |
 | 2024-01-06 | 292,393 | 0 |
 | 2024-01-07 | 292,915 | 0 |
-| 2024-01-08 | 292,985 | 0 |
+| 2024-01-08 | 292,995 | 0 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 292)  
 Sum: 1,644 (Ranked 233)  

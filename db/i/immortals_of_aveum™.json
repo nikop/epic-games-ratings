@@ -433,9 +433,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3071,
+  "EOS_Progressed": 3073,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4803,6 +4803,11 @@
       "Time": "2024-01-08T02:34:23.7750336+00:00",
       "NumProgressed": 3071,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T03:10:33.8837117+00:00",
+      "NumProgressed": 3073,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4815,7 +4820,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2702
+      "UsersEstimate": 2704
     },
     {
       "ID": "achievement_10",
@@ -4823,7 +4828,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "achievement_11",
@@ -4837,9 +4842,9 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 492
     },
     {
       "ID": "achievement_13",
@@ -4879,7 +4884,7 @@
       "Name": "Lights Army",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "achievement_18",
@@ -4895,7 +4900,7 @@
       "Name": "Socialite",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "achievement_2",
@@ -4903,7 +4908,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 2457
+      "UsersEstimate": 2458
     },
     {
       "ID": "achievement_20",
@@ -4959,7 +4964,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "achievement_36",
@@ -4991,7 +4996,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "achievement_41",
@@ -5029,9 +5034,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 430
+      "UsersEstimate": 461
     },
     {
       "ID": "achievement_46",
@@ -5047,7 +5052,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "achievement_49",
@@ -5055,7 +5060,7 @@
       "Name": "Soldier",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "achievement_5",
@@ -5063,7 +5068,7 @@
       "Name": "Initiate",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "achievement_50",
@@ -5079,7 +5084,7 @@
       "Name": "Master of Ultramarine",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_55",
@@ -5111,7 +5116,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "achievement_60",
@@ -5151,7 +5156,7 @@
       "Name": "Backtracker",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_67",
@@ -5175,7 +5180,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "achievement_9",
@@ -5190,7 +5195,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3071,
+      "Progressed": 3073,
       "Completed": 4
     }
   ],
@@ -5198,8 +5203,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-07T18:57:10.211335+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:34:23.7750335+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:10:33.8837115+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:21:16.9372507+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:34:23.7750737+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:57:36.3448084+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:10:33.8837617+00:00"
 }

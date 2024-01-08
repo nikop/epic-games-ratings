@@ -553,9 +553,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4629,
+  "EOS_Progressed": 4631,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7993,6 +7993,11 @@
       "Time": "2024-01-08T01:53:59.0599638+00:00",
       "NumProgressed": 4629,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T03:05:25.7369138+00:00",
+      "NumProgressed": 4631,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8036,7 +8041,7 @@
       "Name": "Blood and justice",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "CordonBleu_28",
@@ -8060,7 +8065,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "Eureka_23",
@@ -8068,7 +8073,7 @@
       "Name": "Eureka",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8188,7 +8193,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8196,7 +8201,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8204,7 +8209,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -8228,7 +8233,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8268,7 +8273,7 @@
       "Name": "The Power of Family",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -8324,7 +8329,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3379
+      "UsersEstimate": 3381
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8339,15 +8344,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4629,
+      "Progressed": 4631,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-05T19:04:06.3891748+00:00",
-  "LastChanged_Achievements": "2024-01-08T02:29:04.5378621+00:00",
+  "LastChanged_Achievements": "2024-01-08T03:05:25.7369133+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:27:28.6491608+00:00",
-  "LastUpdate_Achievements": "2024-01-08T02:29:04.5379132+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:03:42.1212223+00:00",
+  "LastUpdate_Achievements": "2024-01-08T03:05:25.7369722+00:00"
 }

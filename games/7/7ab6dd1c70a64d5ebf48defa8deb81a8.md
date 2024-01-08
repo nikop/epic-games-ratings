@@ -20,8 +20,8 @@ Rating: 4.16 (Ranked 987)
 | Stone Collection | 20.00% | ~406 |
 | Powerful Allies | 19.00% | ~386 |
 | Big Bazar | 13.00% | ~264 |
+| Alchemist | 13.00% | ~264 |
 | Essence Blow | 12.00% | ~244 |
-| Alchemist | 12.00% | ~244 |
 | The Mentor | 10.00% | ~203 |
 | Calm before the Storm | 9.00% | ~183 |
 | To Battle | 7.00% | ~142 |

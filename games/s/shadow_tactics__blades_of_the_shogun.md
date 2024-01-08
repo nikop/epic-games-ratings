@@ -13,9 +13,9 @@ Number of Ratings: 495  (23.09.2022)
 | Rescue Takuma | 9.00% | ~20,227 |
 | Rollin' | 9.00% | ~20,227 |
 | Tanuki Time | 9.00% | ~20,227 |
-| Ice Ice Yuki | 8.00% | ~17,979 |
-| Stoned Ox | 8.00% | ~17,979 |
-| Yabu | 8.00% | ~17,979 |
+| Ice Ice Yuki | 8.00% | ~17,980 |
+| Stoned Ox | 8.00% | ~17,980 |
+| Yabu | 8.00% | ~17,980 |
 | Happy Planning | 7.00% | ~15,732 |
 | Jonin | 7.00% | ~15,732 |
 | Mugen Unchained | 7.00% | ~15,732 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,742 (Ranked 79)  
+Progressed: 224,744 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,10 +314,10 @@ Completed: 105 (0.05%) (Ranked 337)
 | 2024-01-05 | 224,240 | 105 |
 | 2024-01-06 | 224,483 | 105 |
 | 2024-01-07 | 224,723 | 105 |
-| 2024-01-08 | 224,742 | 105 |
+| 2024-01-08 | 224,744 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 209)  
-Sum: 4,947 (Ranked 150)  
+Sum: 4,948 (Ranked 150)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -326,7 +326,7 @@ Diff (max vs sum): 59
 | This game is Extremely Fun | 542 |
 | This game has Amazing Storytelling | 524 |
 | This game has Amazing Characters | 508 |
-| This game is Highly Recommended | 502 |
+| This game is Highly Recommended | 503 |
 | This game has Challenging Combat | 502 |
 | This game is Relaxing | 501 |
 | This game has Quickly Understood Controls | 467 |
@@ -586,3 +586,4 @@ Diff (max vs sum): 59
 | 2024-01-03 | 4.66 | - | 592 | 4,941 |
 | 2024-01-05 | 4.66 | - | 592 | 4,943 |
 | 2024-01-07 | 4.66 | - | 592 | 4,947 |
+| 2024-01-08 | 4.66 | - | 592 | 4,948 |
