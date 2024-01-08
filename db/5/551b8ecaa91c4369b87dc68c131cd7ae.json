@@ -4,7 +4,7 @@
   "ProductSlug": "project-apidom-8d4585",
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-01T13:56:54.0447738+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:01:08.6882169+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:04:33.0579482+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:59:54.0649632+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:03:43.9969879+00:00"
 }

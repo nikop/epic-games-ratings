@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18752,
+  "EOS_Progressed": 18755,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1023,
+  "EOS_NewPlayers": 1016,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11649,6 +11649,11 @@
       "Time": "2024-01-07T23:08:21.3876816+00:00",
       "NumProgressed": 18752,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T00:06:23.0992116+00:00",
+      "NumProgressed": 18755,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -11757,7 +11762,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4688
+      "UsersEstimate": 4689
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -11765,7 +11770,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -11852,14 +11857,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 18752,
+      "Progressed": 18755,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:08:21.3876812+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:06:23.0992112+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:14.7039433+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:58:13.443621+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:08:21.3877551+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:57:48.3924772+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:06:23.0992863+00:00"
 }

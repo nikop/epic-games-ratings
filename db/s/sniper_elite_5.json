@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -661,9 +661,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4237,
+  "EOS_Progressed": 4238,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9506,6 +9506,11 @@
       "Time": "2024-01-07T21:10:06.6208474+00:00",
       "NumProgressed": 4237,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-08T00:08:55.711294+00:00",
+      "NumProgressed": 4238,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9597,7 +9602,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9725,7 +9730,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9741,7 +9746,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9763,9 +9768,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1568
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9827,9 +9832,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1441
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9845,7 +9850,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -9909,7 +9914,7 @@
       "Name": "Target America",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9925,7 +9930,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -10084,13 +10089,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4188,
+      "Progressed": 4189,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4237,
+      "Progressed": 4238,
       "Completed": 11
     }
   ],
@@ -10098,8 +10103,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:09:57.3475044+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:08:55.7112938+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:57:00.2180728+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:09:57.3476063+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:56:55.3593766+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:08:55.711396+00:00"
 }

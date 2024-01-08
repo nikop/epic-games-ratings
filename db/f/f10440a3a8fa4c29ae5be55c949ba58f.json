@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7638,
+  "EOS_Progressed": 7646,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2258,
+  "EOS_NewPlayers": 2257,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2104,6 +2104,11 @@
       "Time": "2024-01-07T23:09:42.1339416+00:00",
       "NumProgressed": 7638,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-08T00:08:44.2409021+00:00",
+      "NumProgressed": 7646,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -2116,7 +2121,7 @@
       "Name": "Final Destination",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 3819
+      "UsersEstimate": 3823
     },
     {
       "ID": "Document1",
@@ -2124,7 +2129,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "Document2",
@@ -2156,7 +2161,7 @@
       "Name": "Master of Secrets",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Perservant",
@@ -2179,14 +2184,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 7638,
+      "Progressed": 7646,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:09:42.1339412+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:08:44.2409017+00:00",
   "LastUpdate_AppInfo": "2024-01-07T21:57:13.0406277+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:59:16.4432514+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:09:42.1339587+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:58:34.4120173+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:08:44.2409185+00:00"
 }

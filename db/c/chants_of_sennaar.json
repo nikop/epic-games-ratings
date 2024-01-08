@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2529,
+  "EOS_Progressed": 2530,
   "EOS_Completed": 176,
   "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 47,
@@ -6697,6 +6697,11 @@
       "Time": "2024-01-07T23:07:01.8090614+00:00",
       "NumProgressed": 2529,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2024-01-08T00:05:38.1627455+00:00",
+      "NumProgressed": 2530,
+      "NumCompleted": 176
     }
   ],
   "TotalAchievements": 25,
@@ -6756,7 +6761,7 @@
       "Name": "Open door",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6828,7 +6833,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6850,9 +6855,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1518
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6868,7 +6873,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "PROGRESS_N2",
@@ -6907,7 +6912,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2529,
+      "Progressed": 2530,
       "Completed": 176
     }
   ],
@@ -6915,8 +6920,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:07:01.809061+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:05:38.1627453+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:58:45.5953564+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:07:01.8091037+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:58:11.8397601+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:05:38.1627879+00:00"
 }

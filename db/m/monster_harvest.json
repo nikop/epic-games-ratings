@@ -3,8 +3,8 @@
   "Name": "Monster Harvest",
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.01,
+  "EOS_Completed_Percentage": 3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -595,6 +595,11 @@
       "Time": "2024-01-06T12:10:24.3910762+00:00",
       "NumProgressed": 332,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-08T00:09:08.5006094+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 10,
@@ -620,9 +625,9 @@
       "ID": "GREEN_SLIME_SHEEN",
       "SetID": "ca3djk0",
       "Name": "Green Sheen",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 147
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -638,7 +643,7 @@
       "Name": "My first Planimal!",
       "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "RED_SLIME_TIME",
@@ -670,7 +675,7 @@
       "Name": "To the Rec Center!",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "WELCOME_TO_PLANIMAL_POINT",
@@ -678,14 +683,14 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 96,
       "XP": 100,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 10
     }
   ],
@@ -693,8 +698,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:10:14.0975293+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:09:08.5006091+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.6944729+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:00:54.0853632+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:10:14.0975403+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:59:43.4889685+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:09:08.5006236+00:00"
 }

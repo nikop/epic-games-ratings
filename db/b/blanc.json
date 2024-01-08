@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4015,
+  "EOS_Progressed": 4017,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6816,6 +6816,11 @@
       "Time": "2024-01-07T23:06:00.5027353+00:00",
       "NumProgressed": 4015,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T00:04:49.0041488+00:00",
+      "NumProgressed": 4017,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6875,7 +6880,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "SNOW_RUINS",
@@ -6891,7 +6896,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6923,14 +6928,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4015,
+      "Progressed": 4017,
       "Completed": 6
     }
   ],
@@ -6938,8 +6943,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:06:00.502735+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:04:49.0041484+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:08.6041157+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:58:23.8105076+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:06:00.502775+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:57:56.0715226+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:04:49.0041882+00:00"
 }

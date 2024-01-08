@@ -2,12 +2,12 @@
   "ID": "69d28f650ce14cb8af5ca19212a4b4b8",
   "Name": "Dark Light",
   "ProductSlug": "dark-light",
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 877,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-30T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.3,
   "RatingHistory": [
     {
       "Time": "2022-11-17T06:58:12.9972326+00:00",
@@ -87,6 +87,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-07T23:58:26.8409679+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -105,8 +111,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:51.3406723+00:00",
   "FirstSeenRating": "2022-11-17T06:58:12.9972323+00:00",
-  "LastChanged": "2023-12-22T21:58:49.2933779+00:00",
+  "LastChanged": "2024-01-07T23:58:26.8409677+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.7559432+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:59:06.1316992+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:07:48.1963553+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:58:26.8409683+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:06:13.3167986+00:00"
 }

@@ -4511,9 +4511,9 @@
       "ID": "Kill25Bugs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Grubs",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 46
     },
     {
       "ID": "Kill25Frogs",
@@ -4654,8 +4654,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:04:33.5628652+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:03:44.6446852+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:03.3487718+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:58:33.1846088+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:04:33.5629051+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:58:03.1484147+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:03:44.6447213+00:00"
 }

@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8779,
+  "EOS_Progressed": 8781,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -11092,6 +11092,11 @@
       "Time": "2024-01-07T22:04:14.1363966+00:00",
       "NumProgressed": 8779,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-08T00:03:53.9344859+00:00",
+      "NumProgressed": 8781,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 21,
@@ -11245,9 +11250,9 @@
       "ID": "SOUL_CANON",
       "SetID": "3cck1g6",
       "Name": "Soul-Canon",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 53
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -11270,7 +11275,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8779,
+      "Progressed": 8781,
       "Completed": 35
     }
   ],
@@ -11278,8 +11283,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-07T07:02:31.8255744+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:04:46.0734074+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:03:53.9344854+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:39.7579112+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:57:13.0304372+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:04:46.0734737+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:57:04.5587635+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:03:53.9345491+00:00"
 }

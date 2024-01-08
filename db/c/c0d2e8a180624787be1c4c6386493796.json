@@ -1549,9 +1549,9 @@
       "ID": "KR4_ACHIEVEMENT_HODOR",
       "SetID": "caeik3h",
       "Name": "Hold The Door",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "KR4_ACHIEVEMENT_HORN",
@@ -1893,9 +1893,9 @@
       "ID": "KR4_ACHIEVEMENT_TROLL",
       "SetID": "caeik3h",
       "Name": "Oh My God!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
@@ -1938,8 +1938,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:06:49.7577604+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:05:27.048484+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:59:20.4858289+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:06:49.7578413+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:58:37.2889847+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:05:27.0485701+00:00"
 }

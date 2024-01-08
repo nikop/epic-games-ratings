@@ -5,43 +5,43 @@ Rating: 4.65 (Ranked 319)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~15,155 |
-| On the Top Step | 82.00% | ~13,656 |
-| Setting up for Success | 69.00% | ~11,491 |
-| Team Orders | 67.00% | ~11,158 |
-| Engineer | 45.00% | ~7,494 |
-| Familiar Faces | 41.00% | ~6,828 |
-| Going the Extra Mile | 35.00% | ~5,829 |
-| Sharing the Love | 32.00% | ~5,329 |
-| Hitting a Season | 26.00% | ~4,330 |
-| A Dozen Pieces | 24.00% | ~3,997 |
-| Making History | 24.00% | ~3,997 |
-| Network Success | 23.00% | ~3,830 |
-| Challenge Yourself | 23.00% | ~3,830 |
-| Writing a new Chapter | 19.00% | ~3,164 |
-| Spring Cleaning | 18.00% | ~2,998 |
-| Reduce | 14.00% | ~2,332 |
-| Ups and Downs | 14.00% | ~2,332 |
-| Crucial Combo | 13.00% | ~2,165 |
-| Reuse | 12.00% | ~1,998 |
-| Proving Them Wrong | 12.00% | ~1,998 |
-| Gathering Dust | 11.00% | ~1,832 |
-| Friendly Competition | 10.00% | ~1,665 |
-| Switcheroo | 10.00% | ~1,665 |
-| One for the Book | 10.00% | ~1,665 |
-| Eagle Eye | 9.00% | ~1,499 |
-| All in a Weekend's Work | 9.00% | ~1,499 |
-| Oil and Water | 9.00% | ~1,499 |
-| Hitting a Bullseye | 9.00% | ~1,499 |
-| Spinning Around | 9.00% | ~1,499 |
-| Lightning Round the World | 8.00% | ~1,332 |
-| Recycle | 7.00% | ~1,166 |
-| Undisputed Winner | 6.00% | ~999 |
-| Tinkerer | 6.00% | ~999 |
-| For all Those Back at the Factory | 4.00% | ~666 |
-| Living up to Expectations | 4.00% | ~666 |
-| Smooth Operator | 4.00% | ~666 |
-| Peak Performance | 4.00% | ~666 |
+| Getting on the Step | 91.00% | ~15,172 |
+| On the Top Step | 82.00% | ~13,671 |
+| Setting up for Success | 69.00% | ~11,504 |
+| Team Orders | 67.00% | ~11,170 |
+| Engineer | 45.00% | ~7,502 |
+| Familiar Faces | 41.00% | ~6,836 |
+| Going the Extra Mile | 35.00% | ~5,835 |
+| Sharing the Love | 32.00% | ~5,335 |
+| Hitting a Season | 26.00% | ~4,335 |
+| A Dozen Pieces | 24.00% | ~4,001 |
+| Making History | 24.00% | ~4,001 |
+| Network Success | 23.00% | ~3,835 |
+| Challenge Yourself | 23.00% | ~3,835 |
+| Writing a new Chapter | 19.00% | ~3,168 |
+| Spring Cleaning | 18.00% | ~3,001 |
+| Reduce | 14.00% | ~2,334 |
+| Ups and Downs | 14.00% | ~2,334 |
+| Crucial Combo | 13.00% | ~2,167 |
+| Reuse | 12.00% | ~2,001 |
+| Proving Them Wrong | 12.00% | ~2,001 |
+| Gathering Dust | 11.00% | ~1,834 |
+| Friendly Competition | 10.00% | ~1,667 |
+| Switcheroo | 10.00% | ~1,667 |
+| One for the Book | 10.00% | ~1,667 |
+| Eagle Eye | 9.00% | ~1,500 |
+| All in a Weekend's Work | 9.00% | ~1,500 |
+| Oil and Water | 9.00% | ~1,500 |
+| Hitting a Bullseye | 9.00% | ~1,500 |
+| Spinning Around | 9.00% | ~1,500 |
+| Lightning Round the World | 8.00% | ~1,334 |
+| Recycle | 7.00% | ~1,167 |
+| Undisputed Winner | 6.00% | ~1,000 |
+| Tinkerer | 6.00% | ~1,000 |
+| For all Those Back at the Factory | 4.00% | ~667 |
+| Living up to Expectations | 4.00% | ~667 |
+| Smooth Operator | 4.00% | ~667 |
+| Peak Performance | 4.00% | ~667 |
 | Loyal Bond | 3.00% | ~500 |
 | Seasoned Rookie | 2.00% | ~333 |
 | Hitting a Century | 2.00% | ~333 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 319)
 | Shot in the Dark | 0.10% | ~17 |
 | Elite Racer | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,654 (Ranked 165)  
+Progressed: 16,672 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-05 | 15,717 | 0 |
 | 2024-01-06 | 16,184 | 0 |
 | 2024-01-07 | 16,654 | 0 |
+| 2024-01-08 | 16,672 | 0 |
 ## Awards
 Max (Diverse Characters): 63  (Ranked 424)  
 Sum: 395 (Ranked 353)  

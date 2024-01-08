@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2017-07-21T09:00:00+00:00",
@@ -8414,18 +8414,24 @@
       "Rating": 4.28,
       "NumberOfAwards": 19792707,
       "NumberOfAwardsMax": 2813209
+    },
+    {
+      "Time": "2024-01-07T23:59:44.1285444+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 19819279,
+      "NumberOfAwardsMax": 2823265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19792707,
-  "NumberOfAwardsMax": 2813209,
+  "NumberOfAwards": 19819279,
+  "NumberOfAwardsMax": 2823265,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2813209
+      "Count": 2823265
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8443,7 +8449,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2587361
+      "Count": 2596121
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8461,7 +8467,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2373998
+      "Count": 2381754
     },
     {
       "Text": "This game has a Competitive Community",
@@ -8481,8 +8487,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2024-01-07T23:00:54.9630428+00:00",
+  "LastChanged": "2024-01-07T23:59:44.1285442+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:33.693388+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:00:54.9630434+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:04:05.4563372+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:59:44.128545+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:03:23.5625483+00:00"
 }

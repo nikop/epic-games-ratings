@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -1879,6 +1879,11 @@
       "Time": "2024-01-07T19:10:31.1960387+00:00",
       "NumProgressed": 678,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T00:09:28.1967137+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2010,7 +2015,7 @@
       "Name": "Inquisitor",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Librarian",
@@ -2066,7 +2071,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "OrcMustDie",
@@ -2114,7 +2119,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SlingOfDavid",
@@ -2209,7 +2214,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 1
     }
   ],
@@ -2217,8 +2222,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:10:39.2562263+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:09:28.1967135+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:00:47.1828645+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:10:39.2562615+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:59:38.5653045+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:09:28.1967558+00:00"
 }

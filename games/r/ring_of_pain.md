@@ -24,7 +24,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spine Breaker | 0.90% | ~2,183 |
 | C-C-Combo | 0.90% | ~2,183 |
 | Deflection | 0.90% | ~2,183 |
-| Not Touching You | 0.90% | ~36 |
+| Not Touching You | 0.90% | ~37 |
 | Ambitious Intent | 0.80% | ~1,941 |
 | Delving Deeper | 0.80% | ~1,941 |
 | R.I.P | 0.80% | ~1,941 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,574 (Ranked 73)  
+Progressed: 242,577 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,6 +408,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-05 | 242,422 | 304 |
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
+| 2024-01-08 | 242,577 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

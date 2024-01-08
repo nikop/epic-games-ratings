@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2750,
+  "EOS_Progressed": 2751,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7464,6 +7464,11 @@
       "Time": "2024-01-07T23:10:44.3771001+00:00",
       "NumProgressed": 2750,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T00:09:32.5927427+00:00",
+      "NumProgressed": 2751,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7476,7 +7481,7 @@
       "Name": "A New Hope",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_10",
@@ -7572,7 +7577,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_21",
@@ -7620,7 +7625,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_27",
@@ -7668,7 +7673,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "achievement_32",
@@ -7676,7 +7681,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "achievement_33",
@@ -7684,7 +7689,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_34",
@@ -7700,7 +7705,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "achievement_36",
@@ -7748,7 +7753,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "achievement_41",
@@ -7764,7 +7769,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_43",
@@ -7796,7 +7801,7 @@
       "Name": "Patience you must have",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_47",
@@ -7876,7 +7881,7 @@
       "Name": "Stop that Droid",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_56",
@@ -7964,7 +7969,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_9",
@@ -7979,13 +7984,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2750,
+      "Progressed": 2751,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2750,
+      "Progressed": 2751,
       "Completed": 1
     }
   ],
@@ -7993,8 +7998,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:10:44.3770997+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:09:32.5927423+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:58:16.4561664+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:10:44.3771705+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:57:50.4008578+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:09:32.592822+00:00"
 }

@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1264,
+  "EOS_Progressed": 1265,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3763,6 +3763,11 @@
       "Time": "2024-01-07T21:10:55.9239451+00:00",
       "NumProgressed": 1264,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T00:09:32.0322869+00:00",
+      "NumProgressed": 1265,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3782,7 +3787,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3902,7 +3907,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -4062,7 +4067,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "RewindParry",
@@ -4078,7 +4083,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ScrambotProgress1",
@@ -4197,7 +4202,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1264,
+      "Progressed": 1265,
       "Completed": 7
     }
   ],
@@ -4205,8 +4210,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:10:43.7215498+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:09:32.0322866+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:58:46.476855+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:10:43.7216054+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:58:12.3923713+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:09:32.0323379+00:00"
 }

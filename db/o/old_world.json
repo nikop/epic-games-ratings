@@ -2220,9 +2220,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16206,
+  "EOS_Progressed": 16207,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19195,6 +19195,11 @@
       "Time": "2024-01-07T22:10:08.014962+00:00",
       "NumProgressed": 16206,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T00:09:35.8696301+00:00",
+      "NumProgressed": 16207,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19796,9 +19801,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
       "SetID": "9201eeb",
       "Name": "Pioneer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -20532,9 +20537,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -20732,9 +20737,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -21692,17 +21697,17 @@
       "ID": "ACHIEVEMENT_EGYPT3_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Glory to The Aten",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT3_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Akhenaten\u0027s Legacy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT3_PHARAOH_MAJOR_VICTORY",
@@ -22069,21 +22074,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16206,
+      "Progressed": 16207,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16206,
+      "Progressed": 16207,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:10:48.5221546+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:09:35.8696299+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:00:55.6386199+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:10:48.5231462+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:59:44.5535555+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:09:35.8706513+00:00"
 }

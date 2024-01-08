@@ -5,16 +5,16 @@ Rating: 4.46 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,991 |
+| Meeting Resistance | 47.00% | ~1,992 |
 | Confirming Suspicions | 42.00% | ~1,780 |
-| The Kraken Wakes | 38.00% | ~1,610 |
-| It's Starting to Crack | 35.00% | ~1,483 |
+| The Kraken Wakes | 37.00% | ~1,568 |
+| It's Starting to Crack | 34.00% | ~1,441 |
 | Change the Channel | 32.00% | ~1,356 |
-| Lord of War | 31.00% | ~1,313 |
+| Lord of War | 31.00% | ~1,314 |
 | Taking it back | 30.00% | ~1,271 |
-| Resourceful | 28.00% | ~1,186 |
-| Target America | 28.00% | ~1,186 |
-| The Kraken Sleeps | 25.00% | ~1,059 |
+| Resourceful | 28.00% | ~1,187 |
+| Target America | 28.00% | ~1,187 |
+| The Kraken Sleeps | 25.00% | ~1,060 |
 | As Quiet as a Mouse | 24.00% | ~1,017 |
 | Liberté | 23.00% | ~975 |
 | Organ Grinder | 23.00% | ~975 |
@@ -48,7 +48,7 @@ Rating: 4.46 (Ranked 673)
 | Last Resort | 5.00% | ~209 |
 | Siegebreaker | 5.00% | ~209 |
 | Ghost of Falaise | 5.00% | ~209 |
-| Locomotion Commotion | 4.00% | ~169 |
+| Locomotion Commotion | 4.00% | ~170 |
 | From Paris with Love | 3.00% | ~127 |
 | Burn after reading | 3.00% | ~127 |
 | Souvenir hunter | 3.00% | ~127 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 673)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,237 (Ranked 210)  
+Progressed: 4,238 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,6 +338,7 @@ Completed: 11 (0.26%) (Ranked 263)
 | 2024-01-05 | 4,211 | 11 |
 | 2024-01-06 | 4,225 | 11 |
 | 2024-01-07 | 4,237 | 11 |
+| 2024-01-08 | 4,238 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 528)  
 Sum: 29 (Ranked 545)  

@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 527,
+  "Ranking_Rating": 526,
   "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 157,
@@ -2305,7 +2305,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 18889,
+  "EOS_Progressed": 18893,
   "EOS_Completed": 75,
   "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 8,
@@ -19475,6 +19475,11 @@
       "Time": "2024-01-07T23:10:33.1677363+00:00",
       "NumProgressed": 18889,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-08T00:09:23.1177021+00:00",
+      "NumProgressed": 18893,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19486,7 +19491,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15300
+      "UsersEstimate": 15303
     },
     {
       "ID": "ACH02",
@@ -19494,7 +19499,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACH03",
@@ -19502,7 +19507,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACH04",
@@ -19532,9 +19537,9 @@
       "ID": "ACH07",
       "SetID": "4ck5mbe",
       "Name": "The American Dream",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3400
+      "UsersEstimate": 3590
     },
     {
       "ID": "ACH08",
@@ -19542,7 +19547,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9444
+      "UsersEstimate": 9446
     },
     {
       "ID": "ACH09",
@@ -19582,7 +19587,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3400
+      "UsersEstimate": 3401
     },
     {
       "ID": "ACH14",
@@ -19606,7 +19611,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3211
+      "UsersEstimate": 3212
     },
     {
       "ID": "ACH17",
@@ -19622,7 +19627,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "ACH19",
@@ -19630,7 +19635,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH20",
@@ -19654,7 +19659,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "ACH23",
@@ -19662,7 +19667,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4722
+      "UsersEstimate": 4723
     },
     {
       "ID": "ACH24",
@@ -19710,7 +19715,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "ACH30",
@@ -19765,7 +19770,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18889,
+      "Progressed": 18893,
       "Completed": 75
     }
   ],
@@ -19773,8 +19778,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-07T11:59:13.9399306+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:10:33.1677357+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:09:23.1177019+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:00:42.9175591+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:10:33.1678345+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:59:35.5916918+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:09:23.1178328+00:00"
 }

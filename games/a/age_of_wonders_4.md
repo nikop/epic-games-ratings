@@ -43,6 +43,7 @@ Rating: 4.62 (Ranked 378)
 | Sehiran Oasis | 2.00% | ~141 |
 | Chaos Surge | 2.00% | ~141 |
 | Spoils of War | 2.00% | ~141 |
+| Dawn of the Dread | 2.00% | ~141 |
 | Lord of Chaos | 1.00% | ~71 |
 | The Goddess of Nature | 1.00% | ~71 |
 | Manufactured War | 1.00% | ~71 |
@@ -52,7 +53,6 @@ Rating: 4.62 (Ranked 378)
 | Prometheus Avenged | 1.00% | ~71 |
 | Seal the Deal | 1.00% | ~71 |
 | A Conqueror's Cohort | 1.00% | ~71 |
-| Dawn of the Dread | 1.00% | ~71 |
 | Betrayal Most Foul | 0.90% | ~63 |
 | Duality | 0.90% | ~63 |
 | Snap Out of It! | 0.60% | ~42 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -375,9 +375,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2301,
+  "EOS_Progressed": 2303,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4170,6 +4170,11 @@
       "Time": "2024-01-07T23:05:58.726215+00:00",
       "NumProgressed": 2301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T00:04:47.693532+00:00",
+      "NumProgressed": 2303,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4283,17 +4288,17 @@
       "ID": "Achievement_015",
       "SetID": "6b34g18",
       "Name": "Blood Brother",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement_016",
       "SetID": "6b34g18",
       "Name": "Friendgineering",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement_017",
@@ -4317,7 +4322,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "Achievement_020",
@@ -4507,9 +4512,9 @@
       "ID": "Achievement_044",
       "SetID": "6b34g18",
       "Name": "Someplace to Be",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_045",
@@ -4683,9 +4688,9 @@
       "ID": "Achievement_069",
       "SetID": "6b34g18",
       "Name": "Friends \u0027Til The End",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_070",
@@ -4708,7 +4713,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2301,
+      "Progressed": 2303,
       "Completed": 0
     }
   ],
@@ -4716,8 +4721,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-07T04:01:29.1090541+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:05:58.7262146+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:04:47.6935317+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:59:49.2529191+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:05:58.7262952+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:58:57.6075938+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:04:47.6936109+00:00"
 }

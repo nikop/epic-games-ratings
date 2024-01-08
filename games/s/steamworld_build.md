@@ -14,7 +14,7 @@
 | Slotting Machine | 46.00% | ~116 |
 | Systematic | 46.00% | ~116 |
 | Gotta Go Fast | 45.00% | ~114 |
-| Mine Sweeper | 41.00% | ~104 |
+| Mine Sweeper | 42.00% | ~106 |
 | Roll Out | 38.00% | ~96 |
 | Dopa-Miner | 32.00% | ~81 |
 | Up, Up And Away! | 32.00% | ~81 |

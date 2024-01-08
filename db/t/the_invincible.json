@@ -87,7 +87,7 @@
   "Tags": [],
   "EOS_Progressed": 1508,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4073,9 +4073,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 679
     },
     {
       "ID": "AchvReachCamp",
@@ -4146,8 +4146,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-07T13:04:46.5535685+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:10:02.3060233+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:08:59.6432777+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:01:23.7773191+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:10:02.3060599+00:00"
+  "LastUpdate_Ratings": "2024-01-08T00:00:04.818071+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:08:59.6433102+00:00"
 }

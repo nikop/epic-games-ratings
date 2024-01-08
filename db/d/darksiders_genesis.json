@@ -445,7 +445,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 514,
+  "EOS_Progressed": 516,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
@@ -1865,6 +1865,11 @@
       "Time": "2024-01-07T23:10:26.2622421+00:00",
       "NumProgressed": 514,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T00:09:17.823143+00:00",
+      "NumProgressed": 516,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2011,9 +2016,9 @@
       "ID": "MintI",
       "SetID": "329ak73",
       "Name": "Mint I",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 31
     },
     {
       "ID": "MintII",
@@ -2116,15 +2121,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 514,
+      "Progressed": 516,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:10:26.2622419+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:09:17.8231427+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:57:49.7251292+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:10:26.2622607+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:57:30.5519355+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:09:17.8231721+00:00"
 }

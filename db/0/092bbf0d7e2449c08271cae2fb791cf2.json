@@ -1689,9 +1689,9 @@
       "ID": "ach1",
       "SetID": "796kfpa",
       "Name": "Good Morning",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 145,
-      "UsersEstimate": 81
+      "UsersEstimate": 86
     },
     {
       "ID": "ach2",
@@ -1737,9 +1737,9 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 145,
-      "UsersEstimate": 56
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
@@ -1752,8 +1752,8 @@
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:06:46.1797215+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:05:24.2518092+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:57:54.2850195+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:06:46.1797358+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:57:33.9387028+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:05:24.2518238+00:00"
 }

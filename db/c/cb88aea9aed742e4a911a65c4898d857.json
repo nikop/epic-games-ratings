@@ -295,7 +295,7 @@
   ],
   "EOS_Progressed": 10644,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1453,
+  "EOS_NewPlayers": 1444,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4221,9 +4221,9 @@
       "ID": "23_DynastyRestored",
       "SetID": "37a94m8",
       "Name": "The Dynasty Restored",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 532
+      "UsersEstimate": 639
     },
     {
       "ID": "24_TheHighrise",
@@ -4517,9 +4517,9 @@
       "ID": "60_NotSoBottomlessPit",
       "SetID": "37a94m8",
       "Name": "The Not-So-Bottomless Pit",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 64
     },
     {
       "ID": "61_TheScourge",
@@ -4582,8 +4582,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-07T07:57:26.3541054+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:10:31.4176256+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:09:21.9163111+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:57:35.2940915+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:10:31.4177224+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:57:19.8257209+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:09:21.9163903+00:00"
 }

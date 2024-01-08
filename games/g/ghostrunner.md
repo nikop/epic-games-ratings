@@ -6,54 +6,54 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 39.00% | ~397,554 |
-| Sword Runner | 23.00% | ~234,455 |
-| Running out of breath | 18.00% | ~183,486 |
-| Wallrunner | 17.00% | ~173,293 |
-| I call it luck | 13.00% | ~132,518 |
-| Out of order | 11.00% | ~112,131 |
-| Homerunner | 10.00% | ~101,937 |
-| Running Wild | 8.00% | ~81,550 |
-| Back to hell | 7.00% | ~71,356 |
-| Sword to a gunfight | 7.00% | ~71,356 |
-| Where are my Keys? | 7.00% | ~71,356 |
-| Perfection | 6.00% | ~61,162 |
-| Artificial selection | 5.00% | ~50,968 |
-| Finish line | 5.00% | ~50,968 |
-| Control freak | 5.00% | ~50,968 |
-| Upgrades not mandatory | 5.00% | ~50,968 |
-| Why not both | 5.00% | ~50,968 |
-| Dead in the air | 4.00% | ~40,775 |
-| Unstoppable force | 4.00% | ~40,775 |
-| Can't Run Can't Hide | 3.00% | ~30,581 |
-| Wave of mutilation | 3.00% | ~30,581 |
-| Pre-empative strike | 2.00% | ~20,387 |
-| R is for Running | 2.00% | ~20,387 |
-| Strike | 2.00% | ~20,387 |
-| Triple A | 2.00% | ~20,387 |
-| Improvise, adapt, overrun | 1.00% | ~10,194 |
-| More than human | 1.00% | ~10,194 |
-| Push it to the limit | 0.60% | ~6,116 |
-| Fine addition | 0.50% | ~5,097 |
-| About Adam | 0.30% | ~3,058 |
-| Hit me if you can | 0.20% | ~2,039 |
-| Junkrunner | 0.20% | ~2,039 |
-| One man's trash | 0.20% | ~2,039 |
-| One Of Those Days | 0.20% | ~2,039 |
-| Where He Stood | 0.20% | ~2,039 |
-| A Grade | 0.10% | ~1,019 |
-| Everyone Needs A Hobby | 0.10% | ~1,019 |
-| GR Project Complete | 0.10% | ~1,019 |
-| Just A Man | 0.10% | ~1,019 |
-| Legacy Drivers | 0.10% | ~1,019 |
-| Obedient Machine | 0.10% | ~1,019 |
-| Scrapped | 0.10% | ~1,019 |
-| Sticks And Stones | 0.10% | ~1,019 |
-| Strafing Run | 0.10% | ~1,019 |
-| Up Close And Personal | 0.10% | ~1,019 |
+| Longrunner | 39.00% | ~397,736 |
+| Sword Runner | 23.00% | ~234,562 |
+| Running out of breath | 18.00% | ~183,570 |
+| Wallrunner | 17.00% | ~173,372 |
+| I call it luck | 13.00% | ~132,579 |
+| Out of order | 11.00% | ~112,182 |
+| Homerunner | 10.00% | ~101,984 |
+| Running Wild | 8.00% | ~81,587 |
+| Back to hell | 7.00% | ~71,389 |
+| Sword to a gunfight | 7.00% | ~71,389 |
+| Where are my Keys? | 7.00% | ~71,389 |
+| Perfection | 6.00% | ~61,190 |
+| Artificial selection | 5.00% | ~50,992 |
+| Finish line | 5.00% | ~50,992 |
+| Control freak | 5.00% | ~50,992 |
+| Upgrades not mandatory | 5.00% | ~50,992 |
+| Why not both | 5.00% | ~50,992 |
+| Dead in the air | 4.00% | ~40,793 |
+| Unstoppable force | 4.00% | ~40,793 |
+| Can't Run Can't Hide | 3.00% | ~30,595 |
+| Wave of mutilation | 3.00% | ~30,595 |
+| Pre-empative strike | 2.00% | ~20,397 |
+| R is for Running | 2.00% | ~20,397 |
+| Strike | 2.00% | ~20,397 |
+| Triple A | 2.00% | ~20,397 |
+| Improvise, adapt, overrun | 1.00% | ~10,198 |
+| More than human | 1.00% | ~10,198 |
+| Push it to the limit | 0.60% | ~6,119 |
+| Fine addition | 0.50% | ~5,099 |
+| About Adam | 0.30% | ~3,060 |
+| Hit me if you can | 0.20% | ~2,040 |
+| Junkrunner | 0.20% | ~2,040 |
+| One man's trash | 0.20% | ~2,040 |
+| One Of Those Days | 0.20% | ~2,040 |
+| Where He Stood | 0.20% | ~2,040 |
+| A Grade | 0.10% | ~1,020 |
+| Everyone Needs A Hobby | 0.10% | ~1,020 |
+| GR Project Complete | 0.10% | ~1,020 |
+| Just A Man | 0.10% | ~1,020 |
+| Legacy Drivers | 0.10% | ~1,020 |
+| Obedient Machine | 0.10% | ~1,020 |
+| Scrapped | 0.10% | ~1,020 |
+| Sticks And Stones | 0.10% | ~1,020 |
+| Strafing Run | 0.10% | ~1,020 |
+| Up Close And Personal | 0.10% | ~1,020 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,019,369 (Ranked 17)  
-Completed: 175 (0.02%) (Ranked 361)  
+Progressed: 1,019,836 (Ranked 17)  
+Completed: 176 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,6 +315,7 @@ Completed: 175 (0.02%) (Ranked 361)
 | 2024-01-05 | 942,824 | 147 |
 | 2024-01-06 | 987,242 | 165 |
 | 2024-01-07 | 1,019,369 | 175 |
+| 2024-01-08 | 1,019,836 | 176 |
 ## Awards
 Max (Great Boss Battles): 1,043  (Ranked 159)  
 Sum: 1,245 (Ranked 258)  

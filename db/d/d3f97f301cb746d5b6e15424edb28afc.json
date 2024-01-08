@@ -4694,9 +4694,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1400
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -4878,9 +4878,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1351
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -4982,9 +4982,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1091
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -5327,8 +5327,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:04:34.0957936+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:03:44.9078899+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:57:19.5981059+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:04:34.0958927+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:57:08.7770408+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:03:44.9079981+00:00"
 }

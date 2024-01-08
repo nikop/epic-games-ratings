@@ -3839,7 +3839,7 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20428,
+  "EOS_Progressed": 20431,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 1,
@@ -18859,6 +18859,11 @@
       "Time": "2024-01-07T23:03:59.4853251+00:00",
       "NumProgressed": 20428,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-08T00:03:19.0905825+00:00",
+      "NumProgressed": 20431,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19279,7 +19284,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "WinNearGreed",
@@ -19287,7 +19292,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "WinNearLibrary",
@@ -19342,15 +19347,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20428,
+      "Progressed": 20431,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-07T22:57:06.3970449+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:03:59.4853247+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:03:19.0905821+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:57:06.3970453+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:03:59.4854197+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:56:59.7742132+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:03:19.0906901+00:00"
 }

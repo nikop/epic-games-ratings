@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1166,9 +1166,9 @@
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "NothingButRoad",
@@ -1285,8 +1285,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:06:56.1156751+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:05:34.1186259+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.7828616+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:03:30.1152532+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:06:56.1156946+00:00"
+  "LastUpdate_Ratings": "2024-01-08T00:02:55.967241+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:05:34.1186481+00:00"
 }

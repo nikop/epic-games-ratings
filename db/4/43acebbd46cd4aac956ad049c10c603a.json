@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -307,9 +307,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 1316,
+  "EOS_Progressed": 1317,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3752,6 +3752,11 @@
       "Time": "2024-01-07T23:07:01.9338875+00:00",
       "NumProgressed": 1316,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T00:05:38.3909018+00:00",
+      "NumProgressed": 1317,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3796,7 +3801,7 @@
       "Name": "Balance",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "BecomingSmarter",
@@ -3804,7 +3809,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "BreakTheLoop",
@@ -3860,15 +3865,15 @@
       "Name": "Discovery",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 198
     },
     {
       "ID": "EcstaticTruth",
@@ -3930,9 +3935,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 356
     },
     {
       "ID": "JustOneLap",
@@ -3946,9 +3951,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 408
     },
     {
       "ID": "LostMarshes",
@@ -3964,7 +3969,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "Mnemosyne",
@@ -4052,7 +4057,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "RenaissanceRobot",
@@ -4154,9 +4159,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 356
     },
     {
       "ID": "TheThiefOfFire",
@@ -4202,9 +4207,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 277
     },
     {
       "ID": "WesternDelta",
@@ -4235,7 +4240,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1316,
+      "Progressed": 1317,
       "Completed": 2
     }
   ],
@@ -4243,8 +4248,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-07T13:01:07.63286+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:07:01.9338871+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:05:38.3909015+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:58:02.662303+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:07:01.9339382+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:57:40.221776+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:05:38.390953+00:00"
 }

@@ -13,7 +13,7 @@ Number of Ratings: 53  (23.09.2022)
 | 3, 2, 1, mine | 55.00% | ~658 |
 | O Captain! My Captain! | 54.00% | ~646 |
 | Seafarer | 50.00% | ~598 |
-| Greed for gold | 42.00% | ~502 |
+| Greed for gold | 43.00% | ~514 |
 | Intangible | 41.00% | ~490 |
 | I'm out of here for a while | 41.00% | ~490 |
 | In a mint condition | 38.00% | ~454 |

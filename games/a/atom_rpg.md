@@ -16,9 +16,9 @@ Number of Ratings: 54  (23.09.2022)
 | Head Burst | 16.00% | ~267 |
 | Double agent | 15.00% | ~250 |
 | Paranoia | 15.00% | ~250 |
+| Savant | 10.00% | ~167 |
 | Kraina Grzybow | 9.00% | ~150 |
 | Love Guru | 9.00% | ~150 |
-| Savant | 9.00% | ~150 |
 | Bustin' nuts | 8.00% | ~134 |
 | Superhuman | 8.00% | ~134 |
 | Not-so-private Eye | 7.00% | ~117 |

@@ -5,7 +5,7 @@ Rating: 3.67 (Ranked 1,092)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 20.00% | ~460 |
+| I Like My Stakes Rare! | 20.00% | ~461 |
 | Catch and Release | 15.00% | ~345 |
 | Home Is Where the Heart Is | 14.00% | ~322 |
 | Wounded Whispers | 14.00% | ~322 |
@@ -42,37 +42,37 @@ Rating: 3.67 (Ranked 1,092)
 | Harvest’s End | 2.00% | ~46 |
 | Curious Finch | 2.00% | ~46 |
 | Blacklight Down | 1.00% | ~23 |
+| Blood Brother | 0.90% | ~21 |
 | Bloody Initiate | 0.90% | ~21 |
 | Neighborhood Watch | 0.80% | ~18 |
-| Blood Brother | 0.80% | ~18 |
 | Empty Nest Syndrome | 0.80% | ~18 |
 | Sisterhood | 0.70% | ~16 |
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
 | Good Samaritan | 0.70% | ~16 |
 | Scream Team | 0.50% | ~12 |
+| Friendgineering | 0.50% | ~12 |
 | Under a Bushel | 0.50% | ~12 |
 | Monster Hunters Club | 0.40% | ~9 |
-| Friendgineering | 0.40% | ~9 |
 | So Anyway I Started Blasting | 0.40% | ~9 |
 | Enemy of My Enemy | 0.40% | ~9 |
 | Bob’s Final Hour | 0.30% | ~7 |
 | Faith Healer | 0.20% | ~5 |
+| Someplace to Be | 0.20% | ~5 |
 | A Cry in the Dark | 0.10% | ~2 |
-| Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
 | Rum Runner | 0.10% | ~2 |
 | Eagle Eyes | 0.10% | ~2 |
+| Friends 'Til The End | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
 | Ask Not For Whom The Horns Blow | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |
 | Say Goodbye, Joe | 0.00% | ~0 |
-| Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,301 (Ranked 242)  
+Progressed: 2,303 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,6 +212,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,286 | 0 |
 | 2024-01-07 | 2,301 | 0 |
+| 2024-01-08 | 2,303 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 554)  
 Sum: 24 (Ranked 561)  

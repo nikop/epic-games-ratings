@@ -10,6 +10,7 @@ Rating: 4.57 (Ranked 497)
 | Complete Guard Faction | 2.00% | ~46 |
 | Ranged Weapon | 2.00% | ~46 |
 | Two Handed Weapon | 2.00% | ~46 |
+| Defeat 25 Grubs | 2.00% | ~46 |
 | Defeat 25 Frogs | 2.00% | ~46 |
 | Rescue Redgi's Brothers | 2.00% | ~46 |
 | The Bright Fir | 2.00% | ~19 |
@@ -19,7 +20,6 @@ Rating: 4.57 (Ranked 497)
 | End of the Mozis | 1.00% | ~23 |
 | Defeat Ratnor Rodentson | 1.00% | ~23 |
 | Fix the Travellers Wagon | 1.00% | ~23 |
-| Defeat 25 Grubs | 1.00% | ~23 |
 | Defeat 25 Mozis | 1.00% | ~23 |
 | Meet the Creatures from the Deep | 1.00% | ~23 |
 | Kitchen Ready To Cook | 1.00% | ~23 |

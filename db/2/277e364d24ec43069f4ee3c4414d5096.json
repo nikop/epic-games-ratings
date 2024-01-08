@@ -2,13 +2,13 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 430,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-06-18T22:56:59.3875767+00:00",
@@ -365,13 +365,19 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-07T23:57:01.9676008+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119446,
+  "EOS_Progressed": 119449,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 5,
@@ -24081,6 +24087,11 @@
       "Time": "2024-01-07T23:10:36.7960986+00:00",
       "NumProgressed": 119446,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-08T00:09:26.0898601+00:00",
+      "NumProgressed": 119449,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 49,
@@ -24100,7 +24111,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 91973
+      "UsersEstimate": 91976
     },
     {
       "ID": "EAwards_10",
@@ -24116,7 +24127,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32250
+      "UsersEstimate": 32251
     },
     {
       "ID": "EAwards_12",
@@ -24164,7 +24175,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44195
+      "UsersEstimate": 44196
     },
     {
       "ID": "EAwards_18",
@@ -24188,7 +24199,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58529
+      "UsersEstimate": 58530
     },
     {
       "ID": "EAwards_20",
@@ -24276,7 +24287,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23889
+      "UsersEstimate": 23890
     },
     {
       "ID": "EAwards_30",
@@ -24483,16 +24494,16 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 119446,
+      "Progressed": 119449,
       "Completed": 59
     }
   ],
   "FirstSeen": "2023-06-15T18:57:15.2360624+00:00",
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
-  "LastChanged": "2024-01-02T01:45:21.9654639+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:10:36.7960982+00:00",
+  "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:09:26.0898598+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:07.0095771+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:57:09.3606109+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:10:36.7962379+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:57:01.9676012+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:09:26.0899913+00:00"
 }

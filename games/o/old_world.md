@@ -16,6 +16,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 1.00% | ~162 |
 | Mason | 1.00% | ~162 |
 | Noble | 1.00% | ~162 |
+| Pioneer | 1.00% | ~162 |
 | Strong | 1.00% | ~162 |
 | Friendly Family | 1.00% | ~162 |
 | Hanging Gardens | 1.00% | ~162 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.90% | ~146 |
 | Just | 0.90% | ~146 |
 | Keystone | 0.90% | ~146 |
-| Pioneer | 0.90% | ~146 |
 | Developing Cities | 0.90% | ~146 |
 | Pyramids | 0.90% | ~146 |
 | Learn to Play 1 | 0.90% | ~146 |
@@ -43,18 +43,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.70% | ~113 |
 | Able Difficulty | 0.70% | ~113 |
 | Furious Family | 0.70% | ~113 |
+| Apadana | 0.70% | ~113 |
 | Great Ziggurat | 0.70% | ~113 |
 | Ishtar Gate | 0.70% | ~113 |
 | Lighthouse | 0.70% | ~113 |
+| Learn to Play 2 | 0.70% | ~113 |
 | Roman Paganism | 0.70% | ~113 |
 | Zoroastrianism | 0.70% | ~113 |
 | Regicide | 0.60% | ~97 |
 | Great | 0.60% | ~97 |
 | Legendary Cities | 0.60% | ~97 |
 | Acropolis | 0.60% | ~97 |
-| Apadana | 0.60% | ~97 |
 | Necropolis | 0.60% | ~97 |
-| Learn to Play 2 | 0.60% | ~97 |
 | Carthaginian Paganism | 0.60% | ~97 |
 | Beloved | 0.50% | ~81 |
 | Drillmaster | 0.50% | ~81 |
@@ -282,6 +282,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaonic Kmt Golden Age | 0.10% | ~16 |
 | Prosperous Pharaonic Kmt | 0.10% | ~16 |
 | Akhen-who? | 0.10% | ~16 |
+| Glory to The Aten | 0.10% | ~16 |
+| Akhenaten's Legacy | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
 | Lost the Hearts of Kmt | 0.10% | ~16 |
 | Won the Hearts of Kmt | 0.10% | ~16 |
@@ -337,8 +339,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | Worst Pharaoh Ever | 0.00% | ~0 |
 | Failed the Aten | 0.00% | ~0 |
-| Glory to The Aten | 0.00% | ~0 |
-| Akhenaten's Legacy | 0.00% | ~0 |
 | Pharaonic Glory to The Aten | 0.00% | ~0 |
 | Akhenaten's Pharaonic Legacy | 0.00% | ~0 |
 | Qadesh Defeat | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,206 (Ranked 168)  
+Progressed: 16,207 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,6 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
+| 2024-01-08 | 16,207 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 222)  

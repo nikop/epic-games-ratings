@@ -230,9 +230,9 @@
       "ID": "A_AVATAR",
       "SetID": "324h56e",
       "Name": "The Avatar",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A_CHAINBOLT",
@@ -326,9 +326,9 @@
       "ID": "A_HUNT_2 hunt (0-5)",
       "SetID": "324h56e",
       "Name": "Bigger Game Hunter",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A_ITEM_DROPS",
@@ -462,9 +462,9 @@
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
       "SetID": "324h56e",
       "Name": "Silencer",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "A_SUN",
@@ -533,8 +533,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:05:18.0128263+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:04:18.5132265+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.4901037+00:00",
-  "LastUpdate_Ratings": "2024-01-07T22:57:42.6000997+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:05:18.0128516+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:57:25.2527685+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:04:18.5132629+00:00"
 }

@@ -7,10 +7,10 @@ Number of Ratings: 37  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eureka! | 14.00% | ~621 |
-| Tax-man I | 13.00% | ~576 |
-| A new beginning | 13.00% | ~576 |
+| Tax-man I | 13.00% | ~577 |
+| A new beginning | 13.00% | ~577 |
 | Friends from the past | 11.00% | ~488 |
-| I like to build stuff... I | 10.00% | ~443 |
+| I like to build stuff... I | 10.00% | ~444 |
 | A time consuming game I | 9.00% | ~399 |
 | Builder I | 8.00% | ~355 |
 | An honorable Governor I | 8.00% | ~355 |
@@ -18,12 +18,12 @@ Number of Ratings: 37  (23.09.2022)
 | Researcher | 8.00% | ~355 |
 | Tax-man II | 8.00% | ~355 |
 | Time for some trade | 8.00% | ~355 |
-| Bread for the people I | 7.00% | ~310 |
-| I like to build stuff... II | 7.00% | ~310 |
-| Completionist I | 7.00% | ~310 |
-| Full-time job II | 7.00% | ~310 |
-| A time consuming game II | 7.00% | ~310 |
-| Knee deep in snow | 7.00% | ~310 |
+| Bread for the people I | 7.00% | ~311 |
+| I like to build stuff... II | 7.00% | ~311 |
+| Completionist I | 7.00% | ~311 |
+| Full-time job II | 7.00% | ~311 |
+| A time consuming game II | 7.00% | ~311 |
+| Knee deep in snow | 7.00% | ~311 |
 | Not a small trader anymore | 6.00% | ~266 |
 | The King's new clothes I | 6.00% | ~266 |
 | Tax-man III | 6.00% | ~266 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,434 (Ranked 207)  
+Progressed: 4,437 (Ranked 207)  
 Completed: 4 (0.09%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,6 +266,7 @@ Completed: 4 (0.09%) (Ranked 316)
 | 2024-01-05 | 4,423 | 4 |
 | 2024-01-06 | 4,429 | 4 |
 | 2024-01-07 | 4,434 | 4 |
+| 2024-01-08 | 4,437 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

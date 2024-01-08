@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -10039,9 +10039,9 @@
       "ID": "DISCOVER_WHIRLPOOL",
       "SetID": "9eia0f5",
       "Name": "... And Spit Back Out",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 357
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -10246,8 +10246,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-04T01:49:56.9201089+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:10:40.4374348+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:09:29.1757178+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:18.6366016+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:03:34.7453322+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:10:40.4374944+00:00"
+  "LastUpdate_Ratings": "2024-01-08T00:02:59.2467662+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:09:29.175784+00:00"
 }

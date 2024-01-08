@@ -858,17 +858,17 @@
       "ID": "Achievement6",
       "SetID": "9fa3l5n",
       "Name": "The Curse of Kih-Oskh",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement7",
       "SetID": "9fa3l5n",
       "Name": "It\u0027s a Deal!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement8",
@@ -897,8 +897,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:05:26.5812892+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:04:24.9118305+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.5995051+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:00:04.7291733+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:05:26.5813544+00:00"
+  "LastUpdate_Ratings": "2024-01-07T23:59:09.0696352+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:04:24.9118676+00:00"
 }

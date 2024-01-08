@@ -619,9 +619,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46730,
+  "EOS_Progressed": 46734,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 824,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18034,6 +18034,11 @@
       "Time": "2024-01-07T23:05:12.5543751+00:00",
       "NumProgressed": 46730,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T00:04:14.2380759+00:00",
+      "NumProgressed": 46734,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18077,7 +18082,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -18101,7 +18106,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -18285,7 +18290,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3738
+      "UsersEstimate": 3739
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -18301,7 +18306,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "MAGIC_IVY",
@@ -18381,7 +18386,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5140
+      "UsersEstimate": 5141
     },
     {
       "ID": "SPRING_ALL",
@@ -18468,22 +18473,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46730,
+      "Progressed": 46734,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11567,
-      "Completed": 11567
+      "Progressed": 11571,
+      "Completed": 11571
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-07T05:02:53.6852275+00:00",
-  "LastChanged_Achievements": "2024-01-07T23:05:12.5543747+00:00",
+  "LastChanged_Achievements": "2024-01-08T00:04:14.2380757+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:03:08.0768264+00:00",
-  "LastUpdate_Achievements": "2024-01-07T23:05:12.5544763+00:00"
+  "LastUpdate_Ratings": "2024-01-08T00:02:37.6443895+00:00",
+  "LastUpdate_Achievements": "2024-01-08T00:04:14.238175+00:00"
 }
