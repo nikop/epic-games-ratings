@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2165,
+  "EOS_Progressed": 2166,
   "EOS_Completed": 169,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.81,
+  "EOS_Completed_Percentage": 7.8,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -8052,6 +8052,11 @@
       "Time": "2024-01-08T08:06:33.3118517+00:00",
       "NumProgressed": 2165,
       "NumCompleted": 169
+    },
+    {
+      "Time": "2024-01-08T23:06:35.5722658+00:00",
+      "NumProgressed": 2166,
+      "NumCompleted": 169
     }
   ],
   "TotalAchievements": 5,
@@ -8063,7 +8068,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "2",
@@ -8071,7 +8076,7 @@
       "Name": "Jill the Bold",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "3",
@@ -8079,7 +8084,7 @@
       "Name": "Jill the Brave",
       "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "4",
@@ -8102,7 +8107,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 2165,
+      "Progressed": 2166,
       "Completed": 169
     }
   ],
@@ -8110,8 +8115,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:06:37.1669384+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:06:35.5722654+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:13.1495102+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:01:26.4083018+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:06:37.1669892+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:01:27.4215489+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:06:35.572305+00:00"
 }

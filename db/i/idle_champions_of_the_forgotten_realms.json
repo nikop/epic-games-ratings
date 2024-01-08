@@ -9409,9 +9409,9 @@
       "Count": 3633
     }
   ],
-  "EOS_Progressed": 252786,
+  "EOS_Progressed": 252794,
   "EOS_Completed": 2602,
-  "EOS_NewPlayers": 3495,
+  "EOS_NewPlayers": 3459,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39259,6 +39259,11 @@
       "Time": "2024-01-08T22:11:14.0000445+00:00",
       "NumProgressed": 252786,
       "NumCompleted": 2602
+    },
+    {
+      "Time": "2024-01-08T23:11:06.8782838+00:00",
+      "NumProgressed": 252794,
+      "NumCompleted": 2602
     }
   ],
   "TotalAchievements": 546,
@@ -39270,7 +39275,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10111
+      "UsersEstimate": 10112
     },
     {
       "ID": "objective_completed_10",
@@ -43558,7 +43563,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "objective_completed_1558",
@@ -43637,21 +43642,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219060,
+      "Progressed": 219068,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252786,
+      "Progressed": 252794,
       "Completed": 2602
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-08T19:57:20.6543593+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:11:14.0000442+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:11:06.8782833+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:57:43.7035005+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:11:14.0026205+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:57:39.4630508+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:11:06.880864+00:00"
 }

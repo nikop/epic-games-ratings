@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 1.00% | ~163 |
 | Pioneer | 1.00% | ~163 |
 | Strong | 1.00% | ~163 |
+| Warrior | 1.00% | ~163 |
 | Developing Cities | 1.00% | ~163 |
 | Strong Cities | 1.00% | ~163 |
 | Hanging Gardens | 1.00% | ~163 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.90% | ~146 |
 | Fountainhead | 0.90% | ~146 |
 | Magnificent | 0.90% | ~146 |
-| Warrior | 0.90% | ~146 |
 | Babylonian Paganism | 0.90% | ~146 |
 | Zoroastrianism | 0.90% | ~146 |
 | Brilliant | 0.80% | ~130 |
@@ -60,6 +60,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.60% | ~98 |
 | Legendary Cities | 0.60% | ~98 |
 | Just Difficulty | 0.60% | ~98 |
+| Artisans | 0.60% | ~98 |
 | Colossus | 0.60% | ~98 |
 | Mausoleum | 0.60% | ~98 |
 | Musaeum | 0.60% | ~98 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.50% | ~81 |
 | Intercessor | 0.50% | ~81 |
 | Good Difficulty | 0.50% | ~81 |
-| Artisans | 0.50% | ~81 |
 | Champions | 0.50% | ~81 |
 | Sages | 0.50% | ~81 |
 | Learn to Play 3 | 0.50% | ~81 |
@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.40% | ~65 |
 | Military Prestige | 0.40% | ~65 |
 | Legionary | 0.40% | ~65 |
+| Double Victory | 0.40% | ~65 |
 | Bad Heir Day | 0.30% | ~49 |
 | Capable | 0.30% | ~49 |
 | Devout | 0.30% | ~49 |
@@ -105,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.30% | ~49 |
 | Hagia Sophia | 0.30% | ~49 |
 | Temple of Solomon | 0.30% | ~49 |
+| Adur Burzen-Mihr | 0.30% | ~49 |
 | Via Recta Souk | 0.30% | ~49 |
 | Learn to Play 4 | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
@@ -120,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.30% | ~49 |
 | Phalangite | 0.30% | ~49 |
 | Ambition Victory | 0.30% | ~49 |
-| Double Victory | 0.30% | ~49 |
 | The Clergy | 0.30% | ~49 |
 | Kushite Paganism | 0.30% | ~49 |
 | Ishtar Gate in Babylon | 0.20% | ~33 |
@@ -129,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.20% | ~33 |
 | Church of the Holy Sepulchre | 0.20% | ~33 |
 | Cao'an | 0.20% | ~33 |
-| Adur Burzen-Mihr | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
 | Egypt | 0.20% | ~33 |
 | Rome | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,257 (Ranked 168)  
+Progressed: 16,258 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,257 | 5 |
+| 2024-01-08 | 16,258 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 286)  
 Sum: 1,917 (Ranked 223)  

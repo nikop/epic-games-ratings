@@ -15,11 +15,11 @@ Rating: 4.50 (Ranked 611)
 | The Return of a Rat | 40.00% | ~200 |
 | Fat of the Earth | 36.00% | ~180 |
 | Last Man Standing | 31.00% | ~155 |
-| Great Hero | 29.00% | ~145 |
 | He's Seen It All | 28.00% | ~140 |
+| Great Hero | 28.00% | ~140 |
 | Campaigning | 27.00% | ~135 |
-| Catch Jonathan_tostar | 27.00% | ~135 |
 | Rookie | 27.00% | ~135 |
+| Catch Jonathan_tostar | 26.00% | ~130 |
 | Assemble a Meganewbie | 24.00% | ~120 |
 | Frugal | 21.00% | ~105 |
 | Feed a God | 21.00% | ~105 |

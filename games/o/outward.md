@@ -6,17 +6,17 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,394 |
-| Ready for Winter | 61.00% | ~2,836 |
-| Ready for Summer | 48.00% | ~2,232 |
-| Cordon Bleu | 40.00% | ~1,860 |
-| Tapped! | 34.00% | ~1,581 |
-| Eureka | 29.00% | ~1,348 |
+| Venture Outward | 73.00% | ~3,397 |
+| Ready for Winter | 61.00% | ~2,838 |
+| Ready for Summer | 48.00% | ~2,233 |
+| Cordon Bleu | 40.00% | ~1,861 |
+| Tapped! | 34.00% | ~1,582 |
+| Eureka | 29.00% | ~1,349 |
 | Scourge Slayer | 23.00% | ~1,070 |
-| Science, Troglodyte! | 21.00% | ~976 |
-| Exceptional Skill | 20.00% | ~930 |
-| Home Sweet Home | 20.00% | ~930 |
-| Encyclopedic! | 18.00% | ~837 |
+| Science, Troglodyte! | 21.00% | ~977 |
+| Exceptional Skill | 20.00% | ~931 |
+| Home Sweet Home | 20.00% | ~931 |
+| Encyclopedic! | 18.00% | ~838 |
 | The Power of Family | 15.00% | ~698 |
 | A Fortress Toppled! | 14.00% | ~651 |
 | Apex Predator | 14.00% | ~651 |
@@ -31,7 +31,7 @@ Number of Ratings: 266  (23.09.2022)
 | Let ‘em eat magma! | 6.00% | ~279 |
 | The power of ambition | 6.00% | ~279 |
 | The stuff of legends. | 6.00% | ~279 |
-| Blood and justice | 5.00% | ~232 |
+| Blood and justice | 5.00% | ~233 |
 | Ancestor's Pride | 4.00% | ~186 |
 | For All Aurai | 4.00% | ~186 |
 | Memory of a legend | 4.00% | ~186 |
@@ -41,15 +41,15 @@ Number of Ratings: 266  (23.09.2022)
 | Perfect Defense | 2.00% | ~93 |
 | Power! To! The People! | 2.00% | ~93 |
 | Your actions define you | 2.00% | ~93 |
-| The blood is life | 1.00% | ~46 |
-| Vanquisher of nightmares | 1.00% | ~46 |
+| The blood is life | 1.00% | ~47 |
+| Vanquisher of nightmares | 1.00% | ~47 |
 | They'll Tell Stories About This | 0.90% | ~42 |
 | Through fire and flame. | 0.60% | ~28 |
 | Legacy of a master hunter | 0.40% | ~19 |
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,650 (Ranked 206)  
+Progressed: 4,653 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 5 (0.11%) (Ranked 305)
 | 2024-01-05 | 4,511 | 5 |
 | 2024-01-06 | 4,569 | 5 |
 | 2024-01-07 | 4,622 | 5 |
-| 2024-01-08 | 4,650 | 5 |
+| 2024-01-08 | 4,653 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 503)  
 Sum: 246 (Ranked 400)  

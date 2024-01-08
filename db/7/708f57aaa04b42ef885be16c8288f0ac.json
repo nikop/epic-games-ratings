@@ -401,9 +401,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 14210,
+  "EOS_Progressed": 14216,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 1504,
+  "EOS_NewPlayers": 1502,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -9661,6 +9661,11 @@
       "Time": "2024-01-08T22:10:59.1061209+00:00",
       "NumProgressed": 14210,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-08T23:10:51.8602858+00:00",
+      "NumProgressed": 14216,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -9681,7 +9686,7 @@
       "Name": "Baby Steps",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 5542
+      "UsersEstimate": 5544
     },
     {
       "ID": "BeLikeWater",
@@ -9713,7 +9718,7 @@
       "Name": "Connection Lost",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3128
     },
     {
       "ID": "Eavesdropper",
@@ -9729,7 +9734,7 @@
       "Name": "Explosive Personality",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2700
+      "UsersEstimate": 2701
     },
     {
       "ID": "FasterThanLight",
@@ -9745,7 +9750,7 @@
       "Name": "First Time?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 7673
+      "UsersEstimate": 7677
     },
     {
       "ID": "FuneralForTheDeath",
@@ -9753,7 +9758,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "GarbageMan",
@@ -9777,7 +9782,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2843
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -9817,7 +9822,7 @@
       "Name": "Nasty!",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3979
+      "UsersEstimate": 3980
     },
     {
       "ID": "NoMoreTotems",
@@ -9825,7 +9830,7 @@
       "Name": "No More Totems",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "NotLikeTheOthers",
@@ -9865,7 +9870,7 @@
       "Name": "The Old-School Way",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3410
+      "UsersEstimate": 3412
     },
     {
       "ID": "TheQuarterback",
@@ -9873,7 +9878,7 @@
       "Name": "The Quarterback",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5971
     },
     {
       "ID": "ThisIsDharma",
@@ -9889,7 +9894,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2984
+      "UsersEstimate": 2985
     },
     {
       "ID": "UnResurrected",
@@ -9897,7 +9902,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -9905,7 +9910,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2843
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -9944,7 +9949,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14210,
+      "Progressed": 14216,
       "Completed": 26
     }
   ],
@@ -9952,8 +9957,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-08T15:00:16.6144677+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:10:59.1061205+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:10:51.8602853+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:18.9626026+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:00:41.0648852+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:10:59.1061839+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:00:38.741675+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:10:51.8603563+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6208,
+  "EOS_Progressed": 6210,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12859,6 +12859,11 @@
       "Time": "2024-01-08T22:07:08.8036185+00:00",
       "NumProgressed": 6208,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T23:07:08.082935+00:00",
+      "NumProgressed": 6210,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12919,7 +12924,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12935,7 +12940,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -12951,7 +12956,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -12959,7 +12964,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12967,7 +12972,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -12991,7 +12996,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -13007,7 +13012,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13031,7 +13036,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13054,15 +13059,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6208,
+      "Progressed": 6210,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:07:08.803618+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:07:08.0829346+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:02:51.8217994+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:07:08.8036984+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:02:24.8368644+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:07:08.083021+00:00"
 }

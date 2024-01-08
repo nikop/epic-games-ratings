@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-01-14T16:00:00+00:00",
@@ -4731,10 +4731,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 9099,
       "NumberOfAwardsMax": 4846
+    },
+    {
+      "Time": "2024-01-08T23:03:07.7031253+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 9102,
+      "NumberOfAwardsMax": 4846
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9099,
+  "NumberOfAwards": 9102,
   "NumberOfAwardsMax": 4846,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4790,7 +4796,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 185
+      "Count": 188
     },
     {
       "Text": "This game has Competitive Players",
@@ -4840,8 +4846,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2024-01-08T22:03:14.4160705+00:00",
+  "LastChanged": "2024-01-08T23:03:07.7031251+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:46.1412655+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:03:14.4160715+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:06:03.5825657+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:03:07.7031258+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:06:01.3128116+00:00"
 }

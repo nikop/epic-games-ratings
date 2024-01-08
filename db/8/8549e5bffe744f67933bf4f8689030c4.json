@@ -4,7 +4,7 @@
   "ProductSlug": "godzillawars-2c30e4",
   "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
@@ -641,9 +641,9 @@
       "ID": "ObtainStar3OnStage200",
       "SetID": "59jf8f5",
       "Name": "Completed 200 Stages",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ObtainStar3OnStage50",
@@ -720,8 +720,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:05:05.4500788+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:05:01.2726218+00:00",
   "LastUpdate_AppInfo": "2024-01-02T07:56:58.0394449+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:59:03.1322902+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:05:05.4501268+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:59:00.2436821+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:05:01.2726689+00:00"
 }

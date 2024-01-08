@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 273,
+  "EOS_Progressed": 274,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.2,
+  "EOS_Completed_Percentage": 2.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -715,6 +715,11 @@
       "Time": "2024-01-08T12:05:37.2347072+00:00",
       "NumProgressed": 273,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T23:07:15.4891521+00:00",
+      "NumProgressed": 274,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -742,7 +747,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "deathlooper",
@@ -756,9 +761,9 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 85
     },
     {
       "ID": "leader_you_are_not",
@@ -774,7 +779,7 @@
       "Name": "Lootaphilia",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -804,9 +809,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 140
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -830,7 +835,7 @@
       "Name": "This won\u0027t end well...",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "tried_to_warn_you",
@@ -861,7 +866,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 273,
+      "Progressed": 274,
       "Completed": 6
     }
   ],
@@ -869,8 +874,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:07:15.9903031+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:07:15.4891516+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.9728945+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:03:34.0635007+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:07:15.9903221+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:03:27.8443198+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:07:15.489171+00:00"
 }

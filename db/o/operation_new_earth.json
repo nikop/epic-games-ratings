@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2195,
+  "EOS_Progressed": 2196,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8465,6 +8465,11 @@
       "Time": "2024-01-08T12:05:41.322692+00:00",
       "NumProgressed": 2195,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T23:07:21.4444225+00:00",
+      "NumProgressed": 2196,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8578,9 +8583,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 439
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8596,7 +8601,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -8660,7 +8665,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -8779,7 +8784,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2195,
+      "Progressed": 2196,
       "Completed": 1
     }
   ],
@@ -8787,8 +8792,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:07:21.8470235+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:07:21.4444221+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5639018+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:57:19.0546495+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:07:21.8471121+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:57:14.3657653+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:07:21.444491+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2261,10 +2261,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1003,
       "NumberOfAwardsMax": 633
+    },
+    {
+      "Time": "2024-01-08T23:01:51.5243053+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1004,
+      "NumberOfAwardsMax": 633
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1003,
+  "NumberOfAwards": 1004,
   "NumberOfAwardsMax": 633,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2302,7 +2308,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has a Creative Community",
@@ -2329,9 +2335,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19015,
+  "EOS_Progressed": 19021,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1064,
+  "EOS_NewPlayers": 1065,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -19604,6 +19610,11 @@
       "Time": "2024-01-08T22:10:57.3712512+00:00",
       "NumProgressed": 19015,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-08T23:10:50.0065609+00:00",
+      "NumProgressed": 19021,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19615,7 +19626,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15402
+      "UsersEstimate": 15407
     },
     {
       "ID": "ACH02",
@@ -19661,9 +19672,9 @@
       "ID": "ACH07",
       "SetID": "4ck5mbe",
       "Name": "The American Dream",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3613
+      "UsersEstimate": 3424
     },
     {
       "ID": "ACH08",
@@ -19671,7 +19682,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9508
+      "UsersEstimate": 9510
     },
     {
       "ID": "ACH09",
@@ -19679,7 +19690,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH10",
@@ -19695,7 +19706,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "ACH12",
@@ -19711,7 +19722,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     },
     {
       "ID": "ACH14",
@@ -19735,7 +19746,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3234
     },
     {
       "ID": "ACH17",
@@ -19743,7 +19754,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH18",
@@ -19783,7 +19794,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "ACH23",
@@ -19791,7 +19802,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "ACH24",
@@ -19831,7 +19842,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "ACH29",
@@ -19839,7 +19850,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "ACH30",
@@ -19894,16 +19905,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19015,
+      "Progressed": 19021,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-08T22:01:49.7651528+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:10:57.3712509+00:00",
+  "LastChanged": "2024-01-08T23:01:51.5243051+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:10:50.0065604+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:01:49.7651534+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:10:57.3713808+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:01:51.5243057+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:10:50.0066513+00:00"
 }

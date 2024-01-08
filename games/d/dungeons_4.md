@@ -12,7 +12,7 @@ Rating: 4.75 (Ranked 147)
 | The Hellwoods | 77.00% | ~574 |
 | The Plains of Strothalm | 73.00% | ~545 |
 | Experienced Thalya | 72.00% | ~537 |
-| Bad Elves Go Everywhere | 69.00% | ~515 |
+| Bad Elves Go Everywhere | 70.00% | ~522 |
 | Thalya's Concentrated Fury | 68.00% | ~507 |
 | Heroes’ Gorge | 66.00% | ~492 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~470 |
@@ -61,8 +61,8 @@ Rating: 4.75 (Ranked 147)
 | Heal Heal Blessing | 18.00% | ~134 |
 | Mirror, Mirror | 17.00% | ~127 |
 | Untouchable | 17.00% | ~127 |
+| Hands Off My Stones | 15.00% | ~112 |
 | Laser Eyes Are So Useless | 14.00% | ~104 |
-| Hands Off My Stones | 14.00% | ~104 |
 | Gorgu is in the Best of Health | 12.00% | ~90 |
 | No Mana, No Cry | 11.00% | ~82 |
 | I Don't Need Any Help | 10.00% | ~75 |

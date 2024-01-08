@@ -7,11 +7,11 @@
 | Fright ✔ | 59.00% | ~192 |
 | Inventory ✔ | 54.00% | ~176 |
 | Chest ✔ | 54.00% | ~176 |
-| Police officers ✔ | 29.00% | ~94 |
-| Mutation ✔ | 26.00% | ~84 |
+| Police officers ✔ | 29.00% | ~95 |
+| Mutation ✔ | 25.00% | ~82 |
 | Doberman ✔ | 15.00% | ~49 |
 | Weapon ✔ | 11.00% | ~36 |
-| Chess ✔ | 10.00% | ~32 |
+| Chess ✔ | 10.00% | ~33 |
 | Master of Unlocking ✔ | 9.00% | ~29 |
 | Survival ✔ | 8.00% | ~26 |
 | Thirst ✔ | 8.00% | ~26 |
@@ -42,20 +42,20 @@
 | Rank B+ ✔ | 3.00% | ~10 |
 | Rank A ✔ | 3.00% | ~10 |
 | Boss 3 ✔ | 3.00% | ~10 |
-| Car ✔ | 2.00% | ~6 |
-| Seeker One ✔ | 2.00% | ~6 |
-| Seeker Three ✔ | 2.00% | ~6 |
-| Crocodile Escape ✔ | 2.00% | ~6 |
-| Exterminate pests ✔ | 2.00% | ~6 |
-| Boss 2 ✔ | 2.00% | ~6 |
-| The escape ✔ | 2.00% | ~6 |
-| VIP ✔ | 2.00% | ~6 |
+| Car ✔ | 2.00% | ~7 |
+| Seeker One ✔ | 2.00% | ~7 |
+| Seeker Three ✔ | 2.00% | ~7 |
+| Crocodile Escape ✔ | 2.00% | ~7 |
+| Exterminate pests ✔ | 2.00% | ~7 |
+| Boss 2 ✔ | 2.00% | ~7 |
+| The escape ✔ | 2.00% | ~7 |
+| VIP ✔ | 2.00% | ~7 |
 | Hardcore ✔ | 0.60% | ~2 |
 | Speedrun ✔ | 0.60% | ~2 |
 | Seeker Two ✔ | 0.30% | ~1 |
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 386)  
+Progressed: 326 (Ranked 386)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-05 | 321 | 0 |
 | 2024-01-06 | 324 | 0 |
 | 2024-01-07 | 325 | 0 |
+| 2024-01-08 | 326 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

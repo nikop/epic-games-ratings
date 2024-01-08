@@ -295,9 +295,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18077,
+  "EOS_Progressed": 18078,
   "EOS_Completed": 308,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.7,
   "EosHistory": [
@@ -9265,6 +9265,11 @@
       "Time": "2024-01-08T20:09:13.9547502+00:00",
       "NumProgressed": 18077,
       "NumCompleted": 308
+    },
+    {
+      "Time": "2024-01-08T23:10:17.7133073+00:00",
+      "NumProgressed": 18078,
+      "NumCompleted": 308
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -9277,7 +9282,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 15908
+      "UsersEstimate": 15909
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -9285,7 +9290,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 14642
+      "UsersEstimate": 14643
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -9349,7 +9354,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4519
+      "UsersEstimate": 4520
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -9373,7 +9378,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 11750
+      "UsersEstimate": 11751
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -9389,7 +9394,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 3615
+      "UsersEstimate": 3616
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -9493,7 +9498,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 9038
+      "UsersEstimate": 9039
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -9533,7 +9538,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8496
+      "UsersEstimate": 8497
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -9541,7 +9546,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5965
+      "UsersEstimate": 5966
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -9612,7 +9617,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18077,
+      "Progressed": 18078,
       "Completed": 308
     }
   ],
@@ -9620,8 +9625,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-08T17:57:10.239993+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:10:15.4351939+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:10:17.7133065+00:00",
   "LastUpdate_AppInfo": "2024-01-06T03:57:10.1244373+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:57:14.1476316+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:10:15.4352912+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:57:08.6337886+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:10:17.7133714+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~500 |
+| Adept | 46.00% | ~501 |
 | Double Kill | 41.00% | ~446 |
 | Critical Hit | 23.00% | ~250 |
 | Veteran | 23.00% | ~250 |
@@ -20,7 +20,7 @@ Number of Ratings: 292  (23.09.2022)
 | The Song of Stoutheart | 6.00% | ~65 |
 | Whoops! | 6.00% | ~65 |
 | Don't Touch My Stuff | 6.00% | ~65 |
-| Trojan Horse | 4.00% | ~43 |
+| Trojan Horse | 4.00% | ~44 |
 | Ultra Kill | 3.00% | ~33 |
 | Expert Essence Employment | 3.00% | ~33 |
 | This Spot's Taken | 2.00% | ~22 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,087 (Ranked 287)  
+Progressed: 1,089 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-05 | 1,000 | 0 |
 | 2024-01-06 | 1,034 | 0 |
 | 2024-01-07 | 1,067 | 0 |
-| 2024-01-08 | 1,087 | 0 |
+| 2024-01-08 | 1,089 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 522)  
 Sum: 252 (Ranked 398)  

@@ -5,9 +5,9 @@ Rating: 3.68 (Ranked 1,092)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 21.00% | ~486 |
+| I Like My Stakes Rare! | 21.00% | ~487 |
 | Catch and Release | 16.00% | ~371 |
-| Home Is Where the Heart Is | 15.00% | ~347 |
+| Home Is Where the Heart Is | 15.00% | ~348 |
 | ICU | 14.00% | ~324 |
 | Wounded Whispers | 14.00% | ~324 |
 | Blood Will Have Blood | 12.00% | ~278 |
@@ -15,25 +15,25 @@ Rating: 3.68 (Ranked 1,092)
 | Fly Fisher | 11.00% | ~255 |
 | Peek-a-boo | 11.00% | ~255 |
 | Sucks To Be You | 10.00% | ~232 |
-| Enter of Your Own Free Will | 9.00% | ~208 |
-| Welcome to the Neighborhood | 9.00% | ~208 |
-| Throw The First Stone | 9.00% | ~208 |
-| Heart Attack | 9.00% | ~208 |
+| Enter of Your Own Free Will | 9.00% | ~209 |
+| Welcome to the Neighborhood | 9.00% | ~209 |
+| Throw The First Stone | 9.00% | ~209 |
+| Heart Attack | 9.00% | ~209 |
 | Skin of Their Teeth | 8.00% | ~185 |
 | Grounded | 7.00% | ~162 |
 | Bad Wiring | 6.00% | ~139 |
 | Neighborhood Revitalization | 5.00% | ~116 |
 | Radio Silence | 5.00% | ~116 |
 | I Spit On Your Grave | 4.00% | ~93 |
-| Sic Transit Umbra | 3.00% | ~69 |
-| Bell-ringer | 3.00% | ~69 |
-| Silence Is Golden | 3.00% | ~69 |
-| Good Morning | 3.00% | ~69 |
-| You Clean It Up | 3.00% | ~69 |
-| From the Shadows | 3.00% | ~69 |
-| Starve the Beast | 3.00% | ~69 |
-| Harvest’s End | 3.00% | ~69 |
-| Helping Hand | 3.00% | ~69 |
+| Sic Transit Umbra | 3.00% | ~70 |
+| Bell-ringer | 3.00% | ~70 |
+| Silence Is Golden | 3.00% | ~70 |
+| Good Morning | 3.00% | ~70 |
+| You Clean It Up | 3.00% | ~70 |
+| From the Shadows | 3.00% | ~70 |
+| Starve the Beast | 3.00% | ~70 |
+| Harvest’s End | 3.00% | ~70 |
+| Helping Hand | 3.00% | ~70 |
 | Revelations | 2.00% | ~46 |
 | Contingency Plans | 2.00% | ~46 |
 | Block Party | 2.00% | ~46 |
@@ -48,9 +48,9 @@ Rating: 3.68 (Ranked 1,092)
 | Empty Nest Syndrome | 0.80% | ~19 |
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
+| Good Samaritan | 0.70% | ~16 |
 | Scream Team | 0.60% | ~14 |
 | Sisterhood | 0.60% | ~14 |
-| Good Samaritan | 0.60% | ~14 |
 | Friendgineering | 0.50% | ~12 |
 | Under a Bushel | 0.50% | ~12 |
 | Monster Hunters Club | 0.40% | ~9 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,092)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,316 (Ranked 242)  
+Progressed: 2,317 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,286 | 0 |
 | 2024-01-07 | 2,301 | 0 |
-| 2024-01-08 | 2,316 | 0 |
+| 2024-01-08 | 2,317 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 554)  
 Sum: 24 (Ranked 561)  

@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2085,
+  "EOS_Progressed": 2086,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -3974,6 +3974,11 @@
       "Time": "2024-01-08T22:11:01.9075692+00:00",
       "NumProgressed": 2085,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T23:10:54.4368925+00:00",
+      "NumProgressed": 2086,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3993,7 +3998,7 @@
       "Name": "Find Allies",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_03",
@@ -4041,7 +4046,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_09",
@@ -4049,7 +4054,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_10",
@@ -4057,7 +4062,7 @@
       "Name": "Trinity",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ACH_11",
@@ -4241,7 +4246,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_35",
@@ -4272,7 +4277,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2085,
+      "Progressed": 2086,
       "Completed": 3
     }
   ],
@@ -4280,8 +4285,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-08T15:00:05.2060054+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:11:01.9075688+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:10:54.4368922+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:00:29.9438587+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:11:01.9076201+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:00:27.3012538+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:10:54.4369289+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521,
+  "EOS_Progressed": 523,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.34,
   "EosHistory": [
@@ -1734,6 +1734,11 @@
       "Time": "2024-01-08T22:07:47.7128009+00:00",
       "NumProgressed": 521,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T23:07:47.6039931+00:00",
+      "NumProgressed": 523,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1754,7 +1759,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 260
+      "UsersEstimate": 262
     },
     {
       "ID": "ach3",
@@ -1770,7 +1775,7 @@
       "Name": "Three Caps",
       "Percentage": 7,
       "XP": 140,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach5",
@@ -1801,14 +1806,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 521,
+      "Progressed": 523,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:07:47.7128006+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:07:47.6039928+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:58:52.4536056+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:07:47.7128209+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:58:49.7425365+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:07:47.6040114+00:00"
 }

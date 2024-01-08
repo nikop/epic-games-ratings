@@ -5,7 +5,7 @@
   "Ranking_Rating": 791,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 158,
@@ -43,7 +43,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 737,
+  "EOS_Progressed": 738,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -2583,6 +2583,11 @@
       "Time": "2024-01-08T03:09:58.5455518+00:00",
       "NumProgressed": 737,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T23:10:01.8357209+00:00",
+      "NumProgressed": 738,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2594,7 +2599,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2608,17 +2613,17 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -2682,7 +2687,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2696,9 +2701,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "7pimpda",
       "Name": "Face Slapper",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -2722,7 +2727,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2744,9 +2749,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 391
+      "UsersEstimate": 384
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2762,7 +2767,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2834,7 +2839,7 @@
       "Name": "Silver Moon Wolf King Challenge",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -2850,7 +2855,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2914,7 +2919,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2922,7 +2927,7 @@
       "Name": "Flower Thief",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2930,7 +2935,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2946,14 +2951,14 @@
       "Name": "Handyman",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 737,
+      "Progressed": 738,
       "Completed": 3
     }
   ],
@@ -2961,8 +2966,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:09:59.9768164+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:10:01.8357203+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.4482016+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:01:12.8673695+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:09:59.9768566+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:01:12.3821646+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:10:01.8357635+00:00"
 }

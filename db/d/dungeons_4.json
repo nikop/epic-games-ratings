@@ -2482,9 +2482,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 522
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2842,9 +2842,9 @@
       "ID": "ach_main19war_stonedamage",
       "SetID": "4hg22ll",
       "Name": "Hands Off My Stones",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_main20end_completed",
@@ -2883,8 +2883,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:09:43.913858+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:09:45.5100435+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:59:07.3966762+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:09:43.9139113+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:59:03.8508236+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:09:45.5100967+00:00"
 }

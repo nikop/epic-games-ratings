@@ -2,12 +2,12 @@
   "ID": "2a09fb19b47f46dfb11ebd382f132a8f",
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "ProductSlug": "marvels-guardians-of-the-galaxy",
-  "Ranking_Rating": 284,
+  "Ranking_Rating": 299,
   "Ranking_Popularity": 139,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 898,
   "RatingHistory": [
     {
@@ -1796,10 +1796,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 1765,
       "NumberOfAwardsMax": 1418
+    },
+    {
+      "Time": "2024-01-08T23:00:22.7098684+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1769,
+      "NumberOfAwardsMax": 1418
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1765,
+  "NumberOfAwards": 1769,
   "NumberOfAwardsMax": 1418,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1855,7 +1861,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 36
+      "Count": 40
     }
   ],
   "EOS_Progressed": 0,
@@ -1869,8 +1875,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-01-08T18:59:28.3426979+00:00",
+  "LastChanged": "2024-01-08T23:00:22.709868+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:24.222579+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:00:25.4334119+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:06:41.4378067+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:00:22.7098687+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:06:39.8004036+00:00"
 }

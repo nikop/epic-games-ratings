@@ -7,12 +7,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overgrown Library | 9.00% | ~1,846 |
-| First Real Expedition | 8.00% | ~1,640 |
-| Taking Action | 8.00% | ~1,640 |
-| No Deaths | 8.00% | ~1,640 |
-| Abandoned Settlement | 8.00% | ~1,640 |
-| Petrified Necropolis | 8.00% | ~1,640 |
-| The Marshlands | 7.00% | ~1,435 |
+| First Real Expedition | 8.00% | ~1,641 |
+| Taking Action | 8.00% | ~1,641 |
+| No Deaths | 8.00% | ~1,641 |
+| Abandoned Settlement | 8.00% | ~1,641 |
+| Petrified Necropolis | 8.00% | ~1,641 |
+| The Marshlands | 7.00% | ~1,436 |
 | Overcoming Difficulty | 6.00% | ~1,230 |
 | Coral Forest | 6.00% | ~1,230 |
 | The Scarlet Orchard | 6.00% | ~1,230 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,506 (Ranked 154)  
+Progressed: 20,508 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,10 +329,10 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
-| 2024-01-08 | 20,506 | 34 |
+| 2024-01-08 | 20,508 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
-Sum: 3,359 (Ranked 177)  
+Sum: 3,360 (Ranked 177)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): 56
 | This game has Amazing Storytelling | 333 |
 | This game has Amazing Characters | 295 |
 | This game has Obsessive Gameplay | 254 |
-| This game has a Creative Community | 219 |
+| This game has a Creative Community | 220 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -627,4 +627,4 @@ Diff (max vs sum): 56
 | 2024-01-05 | 4.82 | - | 448 | 3,337 |
 | 2024-01-06 | 4.82 | - | 449 | 3,344 |
 | 2024-01-07 | 4.82 | - | 449 | 3,354 |
-| 2024-01-08 | 4.82 | - | 452 | 3,359 |
+| 2024-01-08 | 4.82 | - | 452 | 3,360 |

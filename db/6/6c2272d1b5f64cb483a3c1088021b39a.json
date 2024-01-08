@@ -5229,9 +5229,9 @@
       "ID": "stronghold_1",
       "SetID": "53c1p3k",
       "Name": "Stronghold 1",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 53
     },
     {
       "ID": "stronghold_2",
@@ -5308,8 +5308,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:11:08.0771542+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:11:00.9743864+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.0513458+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:01:48.3824547+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:11:08.0772305+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:01:50.0836862+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:11:00.9744586+00:00"
 }

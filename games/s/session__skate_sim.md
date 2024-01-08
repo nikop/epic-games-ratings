@@ -6,23 +6,23 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,271 |
-| Keeping it classy | 27.00% | ~973 |
-| Welcome to the family | 21.00% | ~757 |
-| The finer things in life | 19.00% | ~685 |
+| You're free now! | 63.00% | ~2,273 |
+| Keeping it classy | 27.00% | ~974 |
+| Welcome to the family | 21.00% | ~758 |
+| The finer things in life | 19.00% | ~686 |
 | Backpacker | 13.00% | ~469 |
 | Go with the Flow | 13.00% | ~469 |
-| Plastic Surgeon | 10.00% | ~360 |
-| The flip trick crown jewel | 10.00% | ~360 |
-| The hard way | 10.00% | ~360 |
-| Good vibes | 9.00% | ~324 |
-| Keep the dream alive | 9.00% | ~324 |
-| Upfront shredder | 9.00% | ~324 |
-| Bottom ply killer | 7.00% | ~252 |
-| Fashionista | 7.00% | ~252 |
-| Finally he zips it | 7.00% | ~252 |
-| That pinch! | 7.00% | ~252 |
-| Tight lipslides | 7.00% | ~252 |
+| Plastic Surgeon | 10.00% | ~361 |
+| The flip trick crown jewel | 10.00% | ~361 |
+| The hard way | 10.00% | ~361 |
+| Good vibes | 9.00% | ~325 |
+| Keep the dream alive | 9.00% | ~325 |
+| Upfront shredder | 9.00% | ~325 |
+| Bottom ply killer | 7.00% | ~253 |
+| Fashionista | 7.00% | ~253 |
+| Finally he zips it | 7.00% | ~253 |
+| That pinch! | 7.00% | ~253 |
+| Tight lipslides | 7.00% | ~253 |
 | Fulfilled the dream | 6.00% | ~216 |
 | G'Day Mate! | 6.00% | ~216 |
 | Purple passion | 6.00% | ~216 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,604 (Ranked 221)  
+Progressed: 3,608 (Ranked 221)  
 Completed: 2 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 2 (0.06%) (Ranked 330)
 | 2024-01-05 | 3,543 | 2 |
 | 2024-01-06 | 3,566 | 2 |
 | 2024-01-07 | 3,587 | 2 |
-| 2024-01-08 | 3,604 | 2 |
+| 2024-01-08 | 3,608 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 425)  
 Sum: 584 (Ranked 326)  

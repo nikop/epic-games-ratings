@@ -5,16 +5,16 @@ Rating: 4.71 (Ranked 201)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~15,908 |
-| I Challenge You To Save More Money! | 81.00% | ~14,642 |
-| I Love How Tough You Are | 65.00% | ~11,750 |
+| Last Night...Did We... | 88.00% | ~15,909 |
+| I Challenge You To Save More Money! | 81.00% | ~14,643 |
+| I Love How Tough You Are | 65.00% | ~11,751 |
 | Wanna Come To My Place For Dinner? | 58.00% | ~10,485 |
 | What I Want Is You | 53.00% | ~9,581 |
-| To Be Or Not To Be | 50.00% | ~9,038 |
-| Are You Alright? | 47.00% | ~8,496 |
+| To Be Or Not To Be | 50.00% | ~9,039 |
+| Are You Alright? | 47.00% | ~8,497 |
 | Love Actually | 41.00% | ~7,412 |
 | Drama King | 36.00% | ~6,508 |
-| Go Clean up In Your Own Way | 33.00% | ~5,965 |
+| Go Clean up In Your Own Way | 33.00% | ~5,966 |
 | You're Really Something Else | 32.00% | ~5,785 |
 | Drama CP: Reel to Real | 31.00% | ~5,604 |
 | Happy Family | 30.00% | ~5,423 |
@@ -25,13 +25,13 @@ Rating: 4.71 (Ranked 201)
 | Still Single | 27.00% | ~4,881 |
 | Days Of Innocence | 26.00% | ~4,700 |
 | David | 26.00% | ~4,700 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,519 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,520 |
 | All I Have Is Money | 21.00% | ~3,796 |
 | Lover In Dark Alley | 21.00% | ~3,796 |
 | A Slap In The Face! | 21.00% | ~3,796 |
 | That's So You | 21.00% | ~3,796 |
 | SALUTE | 21.00% | ~3,796 |
-| Let Me Be Your Toy Boy | 20.00% | ~3,615 |
+| Let Me Be Your Toy Boy | 20.00% | ~3,616 |
 | Off We Sail Tonight | 15.00% | ~2,712 |
 | Love You Three Thousand | 13.00% | ~2,350 |
 | Can You Do This Or Not? | 13.00% | ~2,350 |
@@ -48,7 +48,7 @@ Rating: 4.71 (Ranked 201)
 | Tall; Grande; Venti | 2.00% | ~362 |
 | Limerence | 2.00% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,077 (Ranked 160)  
+Progressed: 18,078 (Ranked 160)  
 Completed: 308 (1.70%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 308 (1.70%) (Ranked 143)
 | 2024-01-05 | 17,696 | 295 |
 | 2024-01-06 | 17,831 | 302 |
 | 2024-01-07 | 17,976 | 305 |
-| 2024-01-08 | 18,077 | 308 |
+| 2024-01-08 | 18,078 | 308 |
 ## Awards
 Max (Impact the Story): 34  (Ranked 509)  
 Sum: 34 (Ranked 535)  

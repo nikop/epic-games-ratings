@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2779,
+  "EOS_Progressed": 2781,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7539,6 +7539,11 @@
       "Time": "2024-01-08T22:11:09.0983406+00:00",
       "NumProgressed": 2779,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T23:11:02.1463078+00:00",
+      "NumProgressed": 2781,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7623,7 +7628,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_19",
@@ -7695,7 +7700,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_27",
@@ -7775,7 +7780,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2392
     },
     {
       "ID": "achievement_36",
@@ -7791,7 +7796,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "achievement_38",
@@ -7815,7 +7820,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "achievement_40",
@@ -7823,7 +7828,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "achievement_41",
@@ -7903,7 +7908,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_50",
@@ -8054,13 +8059,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2779,
+      "Progressed": 2781,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2779,
+      "Progressed": 2781,
       "Completed": 1
     }
   ],
@@ -8068,8 +8073,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:11:09.09834+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:11:02.1463073+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:59:16.2351351+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:11:09.0984532+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:59:12.9864349+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:11:02.1463874+00:00"
 }

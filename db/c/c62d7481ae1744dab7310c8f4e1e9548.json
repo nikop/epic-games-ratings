@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5,
+  "EOS_Completed_Percentage": 4.98,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1074,6 +1074,11 @@
       "Time": "2024-01-08T22:04:59.2445274+00:00",
       "NumProgressed": 220,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-08T23:04:54.8010352+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1094,7 +1099,7 @@
       "Name": "Cicadas",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Destilat",
@@ -1118,7 +1123,7 @@
       "Name": "Four Flutes",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Houby",
@@ -1142,7 +1147,7 @@
       "Name": "Chamois",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Kour",
@@ -1166,7 +1171,7 @@
       "Name": "Knife",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Kvitky",
@@ -1262,7 +1267,7 @@
       "Name": "Sputnik",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Stonozka",
@@ -1325,14 +1330,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:04:59.2445271+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:04:54.8010348+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:03:10.6016286+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:04:59.2445987+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:03:03.6963044+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:04:54.8010621+00:00"
 }

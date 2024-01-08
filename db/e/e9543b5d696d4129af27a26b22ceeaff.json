@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 437,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -328,9 +328,9 @@
       "ID": "ACH_50_WINS",
       "SetID": "1lnhagg",
       "Name": "Winning is Quite Alright",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_AMERICAN_CAREER",
@@ -520,17 +520,17 @@
       "ID": "ACH_WINNER_STREAK",
       "SetID": "1lnhagg",
       "Name": "Keep the Streak Up!",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_WIN_BY_40",
       "SetID": "1lnhagg",
       "Name": "Overpowered",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_WIN_EUROLEAGUE",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:09:04.1167961+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:09:04.9181385+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:09.2723811+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:01:37.5724961+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:09:04.1168471+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:01:39.3335811+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:09:04.9181882+00:00"
 }

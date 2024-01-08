@@ -4,10 +4,10 @@
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
   "Ranking_Rating": 359,
   "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 395,
+  "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-03-01T00:00:00+00:00",
@@ -1076,10 +1076,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 268,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-01-08T23:00:22.1422953+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 269,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 268,
+  "NumberOfAwards": 269,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1117,7 +1123,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Relaxing",
@@ -1155,8 +1161,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2024-01-07T13:58:33.6963672+00:00",
+  "LastChanged": "2024-01-08T23:00:22.1422951+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.9042337+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:00:24.8615067+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:08:57.0456485+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:00:22.1422961+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:08:58.0141381+00:00"
 }

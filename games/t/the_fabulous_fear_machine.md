@@ -19,8 +19,8 @@
 | Ambition is... blind | 21.00% | ~19 |
 | The artist | 20.00% | ~18 |
 | You have two wishes left | 20.00% | ~18 |
+| Pulp! Adventures into the Unknown | 19.00% | ~17 |
 | Et in arcadia ego | 18.00% | ~16 |
-| Pulp! Adventures into the Unknown | 18.00% | ~16 |
 | The seer | 17.00% | ~15 |
 | You've awakened the beast | 16.00% | ~14 |
 | Hate is... addictive | 16.00% | ~14 |

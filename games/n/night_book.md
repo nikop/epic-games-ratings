@@ -12,7 +12,7 @@
 | Impress Theron | 48.00% | ~148 |
 | Personal Life | 47.00% | ~145 |
 | On Your Bike | 29.00% | ~90 |
-| Save Dad | 23.00% | ~71 |
+| Save Dad | 24.00% | ~74 |
 | A Little Extra | 16.00% | ~49 |
 | Unhelpful | 13.00% | ~40 |
 | The Marriage Is Off | 12.00% | ~37 |

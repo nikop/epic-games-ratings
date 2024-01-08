@@ -6,10 +6,10 @@ Rating: 4.18 (Ranked 979)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 62.00% | ~1,293 |
-| Trinity | 31.00% | ~646 |
-| Find Allies | 24.00% | ~500 |
-| A Taste of Wrath | 24.00% | ~500 |
-| The Collector | 24.00% | ~500 |
+| Trinity | 31.00% | ~647 |
+| Find Allies | 24.00% | ~501 |
+| A Taste of Wrath | 24.00% | ~501 |
+| The Collector | 24.00% | ~501 |
 | Shatter Them All | 23.00% | ~480 |
 | I Found It | 23.00% | ~480 |
 | Adventurer | 22.00% | ~459 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 979)
 | Essence Blow | 13.00% | ~271 |
 | Big Bazar | 13.00% | ~271 |
 | Alchemist | 13.00% | ~271 |
-| The Mentor | 10.00% | ~208 |
+| The Mentor | 10.00% | ~209 |
 | Calm before the Storm | 9.00% | ~188 |
 | To Battle | 8.00% | ~167 |
 | Godslayer | 7.00% | ~146 |
@@ -42,7 +42,7 @@ Rating: 4.18 (Ranked 979)
 | All That Gold | 0.70% | ~15 |
 | Feeling Fancy | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,085 (Ranked 247)  
+Progressed: 2,086 (Ranked 247)  
 Completed: 3 (0.14%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 3 (0.14%) (Ranked 295)
 | 2024-01-05 | 1,843 | 3 |
 | 2024-01-06 | 1,936 | 3 |
 | 2024-01-07 | 2,015 | 3 |
-| 2024-01-08 | 2,085 | 3 |
+| 2024-01-08 | 2,086 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

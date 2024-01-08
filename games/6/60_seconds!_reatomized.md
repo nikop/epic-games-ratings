@@ -5,28 +5,28 @@ Rating: 4.50 (Ranked 611)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,811 |
-| I will survive! | 93.00% | ~5,749 |
-| All thumbs | 92.00% | ~5,687 |
-| Home, sweet home | 91.00% | ~5,626 |
-| Survivalist | 90.00% | ~5,564 |
-| One way ticket | 85.00% | ~5,255 |
-| Last man standing | 81.00% | ~5,007 |
-| Family guy | 77.00% | ~4,760 |
-| Out of the Bag | 76.00% | ~4,698 |
-| The Dark Side | 71.00% | ~4,389 |
-| Souper! | 66.00% | ~4,080 |
-| Duck and cover! | 66.00% | ~4,080 |
-| Pacifist | 60.00% | ~3,709 |
-| 2-1-6 | 59.00% | ~3,647 |
-| A gift | 55.00% | ~3,400 |
-| Girl Power | 49.00% | ~3,029 |
+| Prepper | 94.00% | ~5,812 |
+| I will survive! | 93.00% | ~5,750 |
+| All thumbs | 92.00% | ~5,688 |
+| Home, sweet home | 91.00% | ~5,627 |
+| Survivalist | 90.00% | ~5,565 |
+| One way ticket | 85.00% | ~5,256 |
+| Last man standing | 81.00% | ~5,008 |
+| Family guy | 77.00% | ~4,761 |
+| Out of the Bag | 76.00% | ~4,699 |
+| The Dark Side | 71.00% | ~4,390 |
+| Souper! | 66.00% | ~4,081 |
+| Duck and cover! | 66.00% | ~4,081 |
+| Pacifist | 60.00% | ~3,710 |
+| 2-1-6 | 59.00% | ~3,648 |
+| A gift | 55.00% | ~3,401 |
+| Girl Power | 49.00% | ~3,030 |
 | What goes around... | 45.00% | ~2,782 |
 | Be Prepared | 39.00% | ~2,411 |
-| Unbreakable | 37.00% | ~2,287 |
+| Unbreakable | 37.00% | ~2,288 |
 | Gotta get 'em all | 35.00% | ~2,164 |
 | This is the end | 34.00% | ~2,102 |
-| Atomic drill | 32.00% | ~1,978 |
+| Atomic drill | 32.00% | ~1,979 |
 | Disco Roach | 29.00% | ~1,793 |
 | Dawkins Residence | 22.00% | ~1,360 |
 | Rescue time! | 19.00% | ~1,175 |
@@ -66,7 +66,7 @@ Rating: 4.50 (Ranked 611)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,182 (Ranked 199)  
+Progressed: 6,183 (Ranked 199)  
 Completed: 1 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 1 (0.02%) (Ranked 361)
 | 2024-01-05 | 6,103 | 1 |
 | 2024-01-06 | 6,133 | 1 |
 | 2024-01-07 | 6,161 | 1 |
-| 2024-01-08 | 6,182 | 1 |
+| 2024-01-08 | 6,183 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -381,7 +381,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2316,
+  "EOS_Progressed": 2317,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -4226,6 +4226,11 @@
       "Time": "2024-01-08T22:07:00.8870738+00:00",
       "NumProgressed": 2316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T23:06:59.9148831+00:00",
+      "NumProgressed": 2317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4253,7 +4258,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Achievement_004",
@@ -4261,7 +4266,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Achievement_006",
@@ -4301,7 +4306,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Achievement_011",
@@ -4373,7 +4378,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "Achievement_020",
@@ -4381,7 +4386,7 @@
       "Name": "Sic Transit Umbra",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_021",
@@ -4397,7 +4402,7 @@
       "Name": "Bell-ringer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_023",
@@ -4405,7 +4410,7 @@
       "Name": "Silence Is Golden",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_024",
@@ -4413,7 +4418,7 @@
       "Name": "Good Morning",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_025",
@@ -4445,7 +4450,7 @@
       "Name": "You Clean It Up",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_029",
@@ -4453,7 +4458,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Achievement_030",
@@ -4501,7 +4506,7 @@
       "Name": "From the Shadows",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_036",
@@ -4541,7 +4546,7 @@
       "Name": "Heart Attack",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Achievement_041",
@@ -4557,7 +4562,7 @@
       "Name": "Starve the Beast",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_044",
@@ -4629,7 +4634,7 @@
       "Name": "Harvest\u2019s End",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_055",
@@ -4701,15 +4706,15 @@
       "Name": "Helping Hand",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_064",
       "SetID": "6b34g18",
       "Name": "Good Samaritan",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_065",
@@ -4764,7 +4769,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2316,
+      "Progressed": 2317,
       "Completed": 0
     }
   ],
@@ -4772,8 +4777,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:07:00.8870734+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:06:59.9148827+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:00:56.222276+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:07:00.8871425+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:00:55.1147087+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:06:59.9149659+00:00"
 }

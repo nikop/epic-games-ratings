@@ -5,25 +5,25 @@ Rating: 4.55 (Ranked 525)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,402 |
-| Pay 'n' Spray | 50.00% | ~9,508 |
-| All Dressed Up for San Fierro | 25.00% | ~4,754 |
-| The American Dream | 19.00% | ~3,613 |
-| School's Out | 18.00% | ~3,423 |
-| Smooth Moves | 17.00% | ~3,233 |
-| What happens in Las Venturas... | 14.00% | ~2,662 |
-| Today Was a Good Day | 14.00% | ~2,662 |
+| Getting Started | 81.00% | ~15,407 |
+| Pay 'n' Spray | 50.00% | ~9,510 |
+| All Dressed Up for San Fierro | 25.00% | ~4,755 |
+| The American Dream | 18.00% | ~3,424 |
+| School's Out | 18.00% | ~3,424 |
+| Smooth Moves | 17.00% | ~3,234 |
+| What happens in Las Venturas... | 14.00% | ~2,663 |
+| Today Was a Good Day | 14.00% | ~2,663 |
 | Horror of the Santa Maria | 10.00% | ~1,902 |
-| Liberty City State of Mind | 9.00% | ~1,711 |
-| Original Gangster | 8.00% | ~1,521 |
+| Liberty City State of Mind | 9.00% | ~1,712 |
+| Original Gangster | 8.00% | ~1,522 |
 | With Extra Dip | 7.00% | ~1,331 |
 | The End of the Line | 7.00% | ~1,331 |
 | Saviour | 6.00% | ~1,141 |
 | Rescue a Kitten Too? | 5.00% | ~951 |
 | They Can’t Stop All of Us | 4.00% | ~761 |
 | What are the Odds | 4.00% | ~761 |
-| Bike or Biker | 3.00% | ~570 |
-| What the City Needs | 3.00% | ~570 |
+| Bike or Biker | 3.00% | ~571 |
+| What the City Needs | 3.00% | ~571 |
 | A Legitimate Business | 2.00% | ~380 |
 | I’ll Have Two Number 9s | 2.00% | ~380 |
 | Who Needs Directions? | 2.00% | ~380 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 525)
 | ...Here we go again | 0.50% | ~95 |
 | I Ain't No Buster | 0.40% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,015 (Ranked 157)  
+Progressed: 19,021 (Ranked 157)  
 Completed: 75 (0.39%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,10 +304,10 @@ Completed: 75 (0.39%) (Ranked 239)
 | 2024-01-05 | 18,512 | 72 |
 | 2024-01-06 | 18,702 | 75 |
 | 2024-01-07 | 18,889 | 75 |
-| 2024-01-08 | 19,015 | 75 |
+| 2024-01-08 | 19,021 | 75 |
 ## Awards
 Max (Great Boss Battles): 633  (Ranked 201)  
-Sum: 1,003 (Ranked 275)  
+Sum: 1,004 (Ranked 275)  
 Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): -74
 | This game is Great for Beginners | 50 |
 | This game is Highly Recommended | 45 |
 | This game has Diverse Characters | 42 |
-| This game is Extremely Fun | 37 |
+| This game is Extremely Fun | 38 |
 | This game has Quickly Understood Controls | 36 |
 | This game has a Creative Community | 29 |
 ## Ratings History
@@ -548,4 +548,4 @@ Diff (max vs sum): -74
 | 2024-01-05 | 4.55 | 54 | 351 |
 | 2024-01-06 | 4.55 | 54 | 355 |
 | 2024-01-07 | 4.55 | 54 | 363 |
-| 2024-01-08 | 4.55 | 633 | 1,003 |
+| 2024-01-08 | 4.55 | 633 | 1,004 |

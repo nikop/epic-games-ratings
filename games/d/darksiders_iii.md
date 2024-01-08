@@ -8,7 +8,7 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 79.00% | ~397 |
 | First of many… | 69.00% | ~347 |
-| Helping Hand | 64.00% | ~322 |
+| Helping Hand | 65.00% | ~327 |
 | Increased Vigor | 59.00% | ~297 |
 | Fight Fire with Fire | 57.00% | ~287 |
 | Increased Capacity | 54.00% | ~272 |
@@ -46,9 +46,9 @@ Number of Ratings: 116  (23.09.2022)
 | A Parting Gift | 14.00% | ~70 |
 | Unbreakable Will | 13.00% | ~65 |
 | Path of the Horseman | 13.00% | ~65 |
+| Holy Keeper | 12.00% | ~60 |
 | Demon Keeper | 12.00% | ~60 |
 | Take it to the Limit | 12.00% | ~60 |
-| Holy Keeper | 11.00% | ~55 |
 | Humanitarian | 9.00% | ~45 |
 | Soul Reaper | 8.00% | ~40 |
 | My Evil Twin | 6.00% | ~30 |

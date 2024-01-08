@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -1724,9 +1724,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1756,9 +1756,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1868,9 +1868,9 @@
       "ID": "ACH_ENTER_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1916,9 +1916,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2085,8 +2085,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-08T22:09:48.6940256+00:00",
+  "LastChanged_Achievements": "2024-01-08T23:09:50.4513774+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:57:46.9913773+00:00",
-  "LastUpdate_Achievements": "2024-01-08T22:09:48.6940595+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:57:42.8180692+00:00",
+  "LastUpdate_Achievements": "2024-01-08T23:09:50.4514179+00:00"
 }

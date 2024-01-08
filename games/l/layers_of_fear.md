@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 85.00% | ~251 |
-| A piece of the story | 65.00% | ~192 |
-| It's covered up for a reason | 58.00% | ~171 |
+| A piece of the story | 66.00% | ~195 |
+| It's covered up for a reason | 59.00% | ~174 |
 | Wanderer | 53.00% | ~156 |
 | Scraps of love | 50.00% | ~148 |
 | The artist’s impression | 48.00% | ~142 |
 | Do what you have to | 42.00% | ~124 |
 | Sign of weakness | 40.00% | ~118 |
 | Refuse to look | 35.00% | ~103 |
-| Face your fears | 29.00% | ~86 |
-| Finished it | 25.00% | ~74 |
+| Face your fears | 30.00% | ~88 |
+| Finished it | 26.00% | ~77 |
 | Whispers long forgotten | 17.00% | ~50 |
 | Sound Bite | 13.00% | ~38 |
 | A Slice of Life | 12.00% | ~35 |
