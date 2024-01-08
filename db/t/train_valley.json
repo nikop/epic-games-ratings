@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 645,
+  "EOS_Progressed": 646,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1890,6 +1890,11 @@
       "Time": "2024-01-07T21:04:16.3716672+00:00",
       "NumProgressed": 645,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T08:05:03.443843+00:00",
+      "NumProgressed": 646,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1901,7 +1906,7 @@
       "Name": "Getting started",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "02_collector",
@@ -1925,7 +1930,7 @@
       "Name": "Tycoon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "05_pangs",
@@ -1989,7 +1994,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "13_bunkrupt",
@@ -2005,7 +2010,7 @@
       "Name": "Woodcutter",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "15_bbq",
@@ -2077,7 +2082,7 @@
       "Name": "Close call!",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "24_mega",
@@ -2149,7 +2154,7 @@
       "Name": "Engineer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "33_peacemaker",
@@ -2165,7 +2170,7 @@
       "Name": "Need to think",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "35_achtung",
@@ -2173,7 +2178,7 @@
       "Name": "Achtung!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "36_supercrash",
@@ -2212,15 +2217,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 645,
+      "Progressed": 646,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:04:03.73315+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:05:03.4438426+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.7403389+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:59:38.9252463+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:04:03.7331811+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:01:15.9082685+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:05:03.4438699+00:00"
 }

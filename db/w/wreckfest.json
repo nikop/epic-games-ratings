@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -355,7 +355,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 940,
+  "EOS_Progressed": 941,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
@@ -2345,6 +2345,11 @@
       "Time": "2024-01-08T07:09:04.5481828+00:00",
       "NumProgressed": 940,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T08:09:38.7012902+00:00",
+      "NumProgressed": 941,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2365,7 +2370,7 @@
       "Name": "Highballer",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "CareerChamp1",
@@ -2373,7 +2378,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "CareerChamp2",
@@ -2469,7 +2474,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "PlayerRankB",
@@ -2516,7 +2521,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 940,
+      "Progressed": 941,
       "Completed": 0
     }
   ],
@@ -2524,8 +2529,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:09:04.5481822+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:09:38.7012897+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:59:17.2999232+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:09:04.5482117+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:00:44.2072863+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:09:38.701322+00:00"
 }

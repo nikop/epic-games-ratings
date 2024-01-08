@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -5130,9 +5130,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -5154,9 +5154,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "8jfk4dl",
       "Name": "The Speed of Silence",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5178,13 +5178,13 @@
       "ID": "8jfk4dl",
       "IsBase": false,
       "Progressed": 1563,
-      "Completed": 1009
+      "Completed": 1010
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:04:49.9157833+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:06:10.0790279+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:57:41.782179+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:04:49.9158497+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:58:12.4985113+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:06:10.0790811+00:00"
 }

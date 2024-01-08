@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16512,
+  "EOS_Progressed": 16513,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6175,6 +6175,11 @@
       "Time": "2024-01-08T06:08:59.4288048+00:00",
       "NumProgressed": 16512,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-08T08:10:34.2513899+00:00",
+      "NumProgressed": 16513,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6219,7 +6224,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12384
+      "UsersEstimate": 12385
     },
     {
       "ID": "ACH_AE_14",
@@ -6227,7 +6232,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3302
+      "UsersEstimate": 3303
     },
     {
       "ID": "ACH_AE_15",
@@ -6259,7 +6264,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_AE_19",
@@ -6419,7 +6424,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "ACH_AE_5",
@@ -6427,7 +6432,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "ACH_AE_6",
@@ -6466,7 +6471,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16512,
+      "Progressed": 16513,
       "Completed": 15
     }
   ],
@@ -6474,8 +6479,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:09:42.7247305+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:10:34.2513895+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:57:50.9209216+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:09:42.7247909+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:58:26.9975072+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:10:34.251444+00:00"
 }

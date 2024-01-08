@@ -25,7 +25,7 @@ Number of Ratings: 22  (23.09.2022)
 | One More Thing... | 14.00% | ~71 |
 | King of District 2 | 13.00% | ~66 |
 | Time Travel! | 12.00% | ~61 |
-| Marketing Manager | 10.00% | ~51 |
+| Marketing Manager | 11.00% | ~56 |
 | Circus Versus Circus | 8.00% | ~41 |
 | King of District 3 | 8.00% | ~41 |
 | Club Member | 7.00% | ~36 |

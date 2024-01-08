@@ -5,12 +5,12 @@ Rating: 4.39 (Ranked 779)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,561 |
+| First Blood | 92.00% | ~1,562 |
 | Ranidaphobia | 77.00% | ~1,307 |
-| Aspiring Editor | 74.00% | ~1,256 |
-| Gun for Hire | 69.00% | ~1,171 |
-| I am the law! | 63.00% | ~1,069 |
-| Lumberjack | 53.00% | ~899 |
+| Aspiring Editor | 74.00% | ~1,257 |
+| Gun for Hire | 69.00% | ~1,172 |
+| I am the law! | 63.00% | ~1,070 |
+| Lumberjack | 53.00% | ~900 |
 | Croaked | 49.00% | ~832 |
 | Limp Richard | 48.00% | ~815 |
 | Exorcist | 48.00% | ~815 |
@@ -33,9 +33,9 @@ Rating: 4.39 (Ranked 779)
 | Savior | 28.00% | ~475 |
 | Silent but Violent | 28.00% | ~475 |
 | There Can Be Only One! | 26.00% | ~441 |
-| Chain Killer | 22.00% | ~373 |
-| The Watchers | 22.00% | ~373 |
-| Commando | 17.00% | ~288 |
+| Chain Killer | 22.00% | ~374 |
+| The Watchers | 22.00% | ~374 |
+| Commando | 17.00% | ~289 |
 | Chaos Theory | 16.00% | ~272 |
 | Dr Jones | 16.00% | ~272 |
 | Newtonian Knockout | 16.00% | ~272 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 779)
 | Goaaaaal! | 0.80% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,697 (Ranked 258)  
+Progressed: 1,698 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,6 +228,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 1,685 | 0 |
 | 2024-01-06 | 1,691 | 0 |
 | 2024-01-07 | 1,697 | 0 |
+| 2024-01-08 | 1,698 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

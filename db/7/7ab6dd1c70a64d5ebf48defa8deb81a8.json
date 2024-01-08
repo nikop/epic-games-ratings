@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2038,
+  "EOS_Progressed": 2040,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3898,6 +3898,11 @@
       "Time": "2024-01-08T07:10:12.1448257+00:00",
       "NumProgressed": 2038,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T08:11:15.6064848+00:00",
+      "NumProgressed": 2040,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3909,7 +3914,7 @@
       "Name": "Break Out",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "ACH_02",
@@ -3925,7 +3930,7 @@
       "Name": "Powerful Allies",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_04",
@@ -3933,7 +3938,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_05",
@@ -3965,7 +3970,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_09",
@@ -3981,7 +3986,7 @@
       "Name": "Trinity",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACH_11",
@@ -4005,7 +4010,7 @@
       "Name": "Adventurer",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_14",
@@ -4085,7 +4090,7 @@
       "Name": "Geared Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_24",
@@ -4165,7 +4170,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_35",
@@ -4196,7 +4201,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2038,
+      "Progressed": 2040,
       "Completed": 3
     }
   ],
@@ -4204,8 +4209,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-07T14:58:41.4320028+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:10:12.1448253+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:11:15.6064843+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:59:03.4850035+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:10:12.1448792+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:00:21.1538189+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:11:15.6065285+00:00"
 }

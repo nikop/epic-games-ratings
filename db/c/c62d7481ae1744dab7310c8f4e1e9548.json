@@ -2,7 +2,7 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 108,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214,
+  "EOS_Progressed": 215,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.14,
+  "EOS_Completed_Percentage": 5.12,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1049,6 +1049,11 @@
       "Time": "2024-01-08T00:03:19.4528494+00:00",
       "NumProgressed": 214,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-08T08:04:52.4989176+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1099,9 +1104,9 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "Jing",
@@ -1115,9 +1120,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "Kour",
@@ -1141,15 +1146,15 @@
       "Name": "Knife",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "MluviciPapouch",
@@ -1179,9 +1184,9 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "Pejsek",
@@ -1211,9 +1216,9 @@
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "Sova",
@@ -1300,14 +1305,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 214,
+      "Progressed": 215,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:03:56.3178459+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:04:52.4989171+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:03:10.7295161+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:03:56.3178723+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:03:42.8548402+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:04:52.498944+00:00"
 }

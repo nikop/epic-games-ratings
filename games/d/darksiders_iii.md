@@ -10,7 +10,7 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 68.00% | ~335 |
 | Helping Hand | 65.00% | ~320 |
 | Increased Vigor | 59.00% | ~291 |
-| Fight Fire with Fire | 57.00% | ~281 |
+| Fight Fire with Fire | 58.00% | ~286 |
 | Increased Capacity | 54.00% | ~266 |
 | Just the start | 49.00% | ~242 |
 | Perfect Storm | 46.00% | ~227 |
@@ -43,8 +43,8 @@ Number of Ratings: 116  (23.09.2022)
 | Protector of Humanity | 18.00% | ~89 |
 | Everybody Wants to Rule the World | 18.00% | ~89 |
 | Community Outreach | 15.00% | ~74 |
+| A Parting Gift | 14.00% | ~69 |
 | Unbreakable Will | 13.00% | ~64 |
-| A Parting Gift | 13.00% | ~64 |
 | Path of the Horseman | 13.00% | ~64 |
 | Demon Keeper | 12.00% | ~59 |
 | Take it to the Limit | 12.00% | ~59 |

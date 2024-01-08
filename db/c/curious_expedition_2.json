@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -841,9 +841,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 225
     },
     {
       "ID": "ach-campaign-story2",
@@ -1194,8 +1194,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:10:16.8926201+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:11:21.6529278+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:58:25.3726057+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:10:16.892668+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:59:20.814475+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:11:21.6529855+00:00"
 }

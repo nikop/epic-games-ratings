@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 653,
+  "EOS_Progressed": 654,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2024-01-08T01:55:46.2026886+00:00",
       "NumProgressed": 653,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T08:08:06.547742+00:00",
+      "NumProgressed": 654,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1423,7 +1428,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "Hitman",
@@ -1453,9 +1458,9 @@
       "ID": "Left_Behind",
       "SetID": "ek310c",
       "Name": "A Friend in Need...",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 288
     },
     {
       "ID": "Leisurely_Strol",
@@ -1511,7 +1516,7 @@
       "Name": "A Familiar Face",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Paparazzi",
@@ -1566,7 +1571,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 653,
+      "Progressed": 654,
       "Completed": 6
     }
   ],
@@ -1574,8 +1579,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:06:10.0112248+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:08:06.5477416+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:57:00.9618312+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:03:29.1518992+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:06:10.0112541+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:04:11.5597844+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:08:06.547766+00:00"
 }

@@ -1,23 +1,23 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,264 |
-| Keeping it classy | 27.00% | ~970 |
+| You're free now! | 63.00% | ~2,265 |
+| Keeping it classy | 27.00% | ~971 |
 | Welcome to the family | 21.00% | ~755 |
 | The finer things in life | 19.00% | ~683 |
 | Backpacker | 13.00% | ~467 |
 | Go with the Flow | 13.00% | ~467 |
-| Plastic Surgeon | 10.00% | ~359 |
-| The flip trick crown jewel | 10.00% | ~359 |
-| The hard way | 10.00% | ~359 |
-| Good vibes | 9.00% | ~323 |
-| Keep the dream alive | 9.00% | ~323 |
-| Upfront shredder | 9.00% | ~323 |
+| Plastic Surgeon | 10.00% | ~360 |
+| The flip trick crown jewel | 10.00% | ~360 |
+| The hard way | 10.00% | ~360 |
+| Good vibes | 9.00% | ~324 |
+| Keep the dream alive | 9.00% | ~324 |
+| Upfront shredder | 9.00% | ~324 |
 | Bottom ply killer | 7.00% | ~252 |
 | Fashionista | 7.00% | ~252 |
 | Finally he zips it | 7.00% | ~252 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,594 (Ranked 221)  
+Progressed: 3,595 (Ranked 221)  
 Completed: 2 (0.06%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 2 (0.06%) (Ranked 331)
 | 2024-01-05 | 3,543 | 2 |
 | 2024-01-06 | 3,566 | 2 |
 | 2024-01-07 | 3,587 | 2 |
-| 2024-01-08 | 3,594 | 2 |
+| 2024-01-08 | 3,595 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 424)  
 Sum: 584 (Ranked 325)  

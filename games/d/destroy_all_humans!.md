@@ -6,13 +6,13 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 76.00% | ~300 |
+| Shop Til They Drop | 77.00% | ~304 |
 | Kaijuiced | 71.00% | ~280 |
 | Lie Back and Think of Albion | 65.00% | ~257 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~249 |
 | I Look Up As I Walk to Takoshima | 59.00% | ~233 |
 | Yettisoned | 58.00% | ~229 |
-| Pimp My Raid | 55.00% | ~217 |
+| Pimp My Raid | 56.00% | ~221 |
 | Perfect Probulator | 55.00% | ~217 |
 | Lobster Blisque | 50.00% | ~198 |
 | Earthly Pleasures | 49.00% | ~194 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -735,9 +735,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7062,
+  "EOS_Progressed": 7063,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10735,6 +10735,11 @@
       "Time": "2024-01-08T07:05:11.8731301+00:00",
       "NumProgressed": 7062,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T08:06:42.2406052+00:00",
+      "NumProgressed": 7063,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10794,7 +10799,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "16",
@@ -10834,7 +10839,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "20",
@@ -10898,7 +10903,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "28",
@@ -10986,7 +10991,7 @@
       "Name": "Against the Odds",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "38",
@@ -11002,7 +11007,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "4",
@@ -11114,7 +11119,7 @@
       "Name": "Duality",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "48",
@@ -11225,13 +11230,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7062,
+      "Progressed": 7063,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7062,
+      "Progressed": 7063,
       "Completed": 7
     }
   ],
@@ -11239,8 +11244,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:05:11.8731295+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:06:42.2406048+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:03:01.744174+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:05:11.8732362+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:03:28.9746511+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:06:42.2407319+00:00"
 }

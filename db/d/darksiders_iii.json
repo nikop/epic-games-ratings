@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 493,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1927,9 +1927,9 @@
       "ID": "Collect_Hollow_Flame",
       "SetID": "7a5k76n",
       "Name": "Fight Fire with Fire",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 286
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1983,9 +1983,9 @@
       "ID": "Collect_Soulmulet",
       "SetID": "7a5k76n",
       "Name": "A Parting Gift",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 69
     },
     {
       "ID": "Collect_Weapon_Crossblade",
@@ -2359,8 +2359,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:03:44.7453193+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:04:35.5251402+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:00:18.0577971+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:03:44.7453737+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:02:17.8850616+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:04:35.525214+00:00"
 }

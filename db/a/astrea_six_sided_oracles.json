@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 356,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1897,9 +1897,9 @@
       "ID": "Prestidigitation",
       "SetID": "1jeo1g7",
       "Name": "Prestidigitation",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "PurificationAvatar",
@@ -2280,8 +2280,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:09:02.9193896+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:09:36.3034242+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:27.4116813+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:59:05.9753241+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:09:02.9195172+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:00:25.0901926+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:09:36.3035182+00:00"
 }

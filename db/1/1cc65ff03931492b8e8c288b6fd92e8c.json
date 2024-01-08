@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-06-20T20:00:00+00:00",
     "PcReleaseDate": "2023-06-19T08:00:00+00:00",
@@ -82,9 +82,9 @@
       "ID": "NEW_ACHIEVEMENT_11",
       "SetID": "ab695d",
       "Name": "DEATH 1",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_12",
@@ -225,8 +225,8 @@
   ],
   "FirstSeen": "2023-06-22T13:57:49.6515967+00:00",
   "FirstSeenAchievements": "2023-06-14T11:02:04.2165239+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:10:06.5731697+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:11:08.230267+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.3601016+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:58:08.2874218+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:10:06.5731855+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:58:53.3897408+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:11:08.2302845+00:00"
 }

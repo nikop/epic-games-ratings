@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -252,9 +252,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1387,
+  "EOS_Progressed": 1388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2152,6 +2152,11 @@
       "Time": "2024-01-08T06:09:03.3469639+00:00",
       "NumProgressed": 1387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T08:10:39.6921783+00:00",
+      "NumProgressed": 1388,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2179,7 +2184,7 @@
       "Name": "Atomic Soda",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ATOM_QUIT",
@@ -2363,7 +2368,7 @@
       "Name": "Shadow over Trudograd",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "SICK_FREAK",
@@ -2395,7 +2400,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -2403,7 +2408,7 @@
       "Name": "Walking Fortress",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "WELCOME_TO_TRUDOGRAD",
@@ -2411,14 +2416,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1387,
+      "Progressed": 1388,
       "Completed": 0
     }
   ],
@@ -2426,8 +2431,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-12-29T02:14:41.7987751+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:09:46.6133755+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:10:39.6921778+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.1597369+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:57:19.0736649+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:09:46.6134049+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:57:38.3094026+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:10:39.6922074+00:00"
 }

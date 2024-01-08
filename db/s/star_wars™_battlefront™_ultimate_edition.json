@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2756,
+  "EOS_Progressed": 2757,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7489,6 +7489,11 @@
       "Time": "2024-01-08T07:10:17.8457194+00:00",
       "NumProgressed": 2756,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T08:11:22.6882762+00:00",
+      "NumProgressed": 2757,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7605,7 +7610,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_22",
@@ -7693,7 +7698,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "achievement_32",
@@ -7717,7 +7722,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_35",
@@ -7725,7 +7730,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2371
     },
     {
       "ID": "achievement_36",
@@ -7741,7 +7746,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "achievement_38",
@@ -7773,7 +7778,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "achievement_41",
@@ -7805,7 +7810,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "achievement_45",
@@ -8004,13 +8009,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2756,
+      "Progressed": 2757,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2756,
+      "Progressed": 2757,
       "Completed": 1
     }
   ],
@@ -8018,8 +8023,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:10:17.8457191+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:11:22.6882757+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:58:14.5514695+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:10:17.8458141+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:59:03.1845082+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:11:22.6883695+00:00"
 }

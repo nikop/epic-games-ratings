@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 482,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -520,41 +520,41 @@
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
       "SetID": "6opd2eg",
       "Name": "Master Half of the game",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 125,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "08_ACHIEVEMENT_Game_Complete",
@@ -584,9 +584,9 @@
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
       "SetID": "6opd2eg",
       "Name": "Shortcut Master",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
@@ -599,8 +599,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:10:04.9696911+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:11:05.9828339+00:00",
   "LastUpdate_AppInfo": "2024-01-02T09:56:59.6596492+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:57:09.0547793+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:10:04.969701+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:57:22.3507812+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:11:05.9828449+00:00"
 }

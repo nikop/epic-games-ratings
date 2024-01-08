@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2105,9 +2105,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 21645,
+  "EOS_Progressed": 21648,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1262,
+  "EOS_NewPlayers": 1259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13030,6 +13030,11 @@
       "Time": "2024-01-08T07:09:46.7520315+00:00",
       "NumProgressed": 21645,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-08T08:10:39.8270049+00:00",
+      "NumProgressed": 21648,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13073,7 +13078,7 @@
       "Name": "Flesh Wound",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5411
+      "UsersEstimate": 5412
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13145,7 +13150,7 @@
       "Name": "Get a Grip",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 4545
+      "UsersEstimate": 4546
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13177,7 +13182,7 @@
       "Name": "Terminated",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -13209,7 +13214,7 @@
       "Name": "Reforged",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3896
+      "UsersEstimate": 3897
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13217,7 +13222,7 @@
       "Name": "Paper Jams",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4545
+      "UsersEstimate": 4546
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13233,7 +13238,7 @@
       "Name": "The Outer Way",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5411
+      "UsersEstimate": 5412
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13271,9 +13276,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4978
+      "UsersEstimate": 5196
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13297,7 +13302,7 @@
       "Name": "Power Up",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "DISMEMBER_100",
@@ -13416,13 +13421,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21645,
+      "Progressed": 21648,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9571,
+      "Progressed": 9574,
       "Completed": 29
     }
   ],
@@ -13430,8 +13435,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-07T22:03:22.0078905+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:09:46.7520311+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:10:39.8270042+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:03:26.1840588+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:09:46.7521021+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:04:06.7596549+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:10:39.8271028+00:00"
 }

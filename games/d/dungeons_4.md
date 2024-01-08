@@ -37,7 +37,7 @@ Rating: 4.74 (Ranked 163)
 | Unstoppable Horde | 36.00% | ~268 |
 | Master of the Undead | 36.00% | ~268 |
 | If Looks Could Kill | 36.00% | ~268 |
-| The Finitude Drill | 33.00% | ~246 |
+| The Finitude Drill | 34.00% | ~253 |
 | Ghost Pirates? Ghost Heroes! | 31.00% | ~231 |
 | Doom Hill | 30.00% | ~223 |
 | Forbidden Knowledge | 29.00% | ~216 |

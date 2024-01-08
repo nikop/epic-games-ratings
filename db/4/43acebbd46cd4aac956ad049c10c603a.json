@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -307,9 +307,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 1319,
+  "EOS_Progressed": 1320,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3767,6 +3767,11 @@
       "Time": "2024-01-08T07:06:07.4539054+00:00",
       "NumProgressed": 1319,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T08:08:02.9267856+00:00",
+      "NumProgressed": 1320,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3819,7 +3824,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "BreakTheLoop",
@@ -3931,7 +3936,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "HighPlain",
@@ -3947,7 +3952,7 @@
       "Name": "Into the Machine",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "JustOneLap",
@@ -4043,7 +4048,7 @@
       "Name": "Persistent",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "PrometheusUnbound",
@@ -4051,7 +4056,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "PuzzleFiend",
@@ -4067,7 +4072,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "RenaissanceRobot",
@@ -4091,7 +4096,7 @@
       "Name": "Signatory",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "SingleRod",
@@ -4121,9 +4126,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 304
     },
     {
       "ID": "TextAdventurer",
@@ -4250,7 +4255,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1319,
+      "Progressed": 1320,
       "Completed": 2
     }
   ],
@@ -4258,8 +4263,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-07T13:01:07.63286+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:06:07.4539049+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:08:02.9267851+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:58:05.5533214+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:06:07.4539702+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:58:49.3940604+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:08:02.9268641+00:00"
 }

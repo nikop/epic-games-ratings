@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83044,
+  "EOS_Progressed": 83047,
   "EOS_Completed": 925,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29466,6 +29466,11 @@
       "Time": "2024-01-08T07:06:21.799198+00:00",
       "NumProgressed": 83044,
       "NumCompleted": 925
+    },
+    {
+      "Time": "2024-01-08T08:08:23.9276838+00:00",
+      "NumProgressed": 83047,
+      "NumCompleted": 925
     }
   ],
   "TotalAchievements": 25,
@@ -29493,7 +29498,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15778
+      "UsersEstimate": 15779
     },
     {
       "ID": "Audiophile",
@@ -29581,7 +29586,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17439
+      "UsersEstimate": 17440
     },
     {
       "ID": "Meaty",
@@ -29597,7 +29602,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15778
+      "UsersEstimate": 15779
     },
     {
       "ID": "Nice Try",
@@ -29605,7 +29610,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13287
+      "UsersEstimate": 13288
     },
     {
       "ID": "Nothing Left to Say",
@@ -29629,7 +29634,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11626
+      "UsersEstimate": 11627
     },
     {
       "ID": "Sniper",
@@ -29676,7 +29681,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83044,
+      "Progressed": 83047,
       "Completed": 925
     }
   ],
@@ -29684,8 +29689,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:06:21.7991977+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:08:23.9276832+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:58:12.8741369+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:06:21.7993597+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:59:00.5321068+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:08:23.9278285+00:00"
 }

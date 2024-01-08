@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -1867,9 +1867,9 @@
       "ID": "ACH_INVADE_ROCKWELL",
       "SetID": "cefn62b",
       "Name": "Pimp My Raid",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1883,9 +1883,9 @@
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1963,8 +1963,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:08:51.9211394+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:09:20.31567+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:00:06.4869822+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:08:51.9211825+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:02:00.4079933+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:09:20.315704+00:00"
 }

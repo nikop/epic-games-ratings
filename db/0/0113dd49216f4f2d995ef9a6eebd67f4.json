@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1154,6 +1154,11 @@
       "Time": "2024-01-08T06:08:30.8017634+00:00",
       "NumProgressed": 257,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T08:09:53.9277662+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1166,7 +1171,7 @@
       "Name": "Abdication",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -1190,7 +1195,7 @@
       "Name": "All The Help You Need",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -1238,7 +1243,7 @@
       "Name": "End Of The Road",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1372,9 +1377,9 @@
       "ID": "SG_THEANSWERISYOU",
       "SetID": "bj5g0n4",
       "Name": "The Answer Is You",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "SG_THECHOICEISYOURS",
@@ -1461,14 +1466,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:09:15.0549503+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:09:53.9277649+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:58:55.1512371+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:09:15.0549875+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:00:08.2487462+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:09:53.9278008+00:00"
 }

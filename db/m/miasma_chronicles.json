@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -265,7 +265,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1697,
+  "EOS_Progressed": 1698,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -4355,6 +4355,11 @@
       "Time": "2024-01-07T21:10:54.3083912+00:00",
       "NumProgressed": 1697,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T08:11:20.4877835+00:00",
+      "NumProgressed": 1698,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4382,7 +4387,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4414,7 +4419,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "CHAIN_REACTION",
@@ -4438,7 +4443,7 @@
       "Name": "Commando",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "CROAKED",
@@ -4550,7 +4555,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4598,7 +4603,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4614,7 +4619,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "INFILTRATOR",
@@ -4630,7 +4635,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -4758,7 +4763,7 @@
       "Name": "The Watchers",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "WIPE_OUT",
@@ -4773,7 +4778,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1697,
+      "Progressed": 1698,
       "Completed": 0
     }
   ],
@@ -4781,8 +4786,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-02T20:02:58.7354435+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:10:15.9823505+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:11:20.4877832+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:50.6715934+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:03:17.4502145+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:10:15.9824179+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:03:53.4040522+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:11:20.4878502+00:00"
 }

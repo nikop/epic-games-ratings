@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1512,
+  "EOS_Progressed": 1513,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3320,6 +3320,11 @@
       "Time": "2024-01-07T23:05:34.542715+00:00",
       "NumProgressed": 1512,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T08:06:29.8720082+00:00",
+      "NumProgressed": 1513,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3372,7 +3377,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -3388,7 +3393,7 @@
       "Name": "Pest Control",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3396,7 +3401,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -3412,7 +3417,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3436,7 +3441,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -3532,7 +3537,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -3571,14 +3576,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1512,
+      "Progressed": 1513,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:05:03.5695419+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:06:29.8720078+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.4570132+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:57:23.5269703+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:05:03.5695807+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:57:44.9617446+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:06:29.8720484+00:00"
 }

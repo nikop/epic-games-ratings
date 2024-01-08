@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1672,
+  "EOS_Progressed": 1674,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4385,6 +4385,11 @@
       "Time": "2024-01-08T07:10:08.5442539+00:00",
       "NumProgressed": 1672,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T08:11:10.8299559+00:00",
+      "NumProgressed": 1674,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4452,7 +4457,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1657
     },
     {
       "ID": "EXPERT_1",
@@ -4484,7 +4489,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4516,7 +4521,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "LOVE_GURU_1",
@@ -4524,7 +4529,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -4548,7 +4553,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4618,9 +4623,9 @@
       "ID": "SAVANT_1",
       "SetID": "bf13m8j",
       "Name": "Savant",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 151
     },
     {
       "ID": "SECRET_ROOM",
@@ -4666,9 +4671,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 519
     },
     {
       "ID": "WISHMASTER_1",
@@ -4683,15 +4688,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1672,
+      "Progressed": 1674,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:10:08.5442537+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:11:10.8299556+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:59:14.4177145+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:10:08.5443221+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:00:39.8005609+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:11:10.8300062+00:00"
 }

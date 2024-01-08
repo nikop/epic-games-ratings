@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1843,10 +1843,10 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167199,
+  "EOS_Progressed": 167203,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 1344,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 1339,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -22273,6 +22273,11 @@
       "Time": "2024-01-08T07:03:41.9530598+00:00",
       "NumProgressed": 167199,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2024-01-08T08:04:31.2987172+00:00",
+      "NumProgressed": 167203,
+      "NumCompleted": 451
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22389,7 +22394,7 @@
       "Name": "Scion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -22652,21 +22657,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166782,
+      "Progressed": 166786,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167199,
+      "Progressed": 167203,
       "Completed": 451
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-08T03:58:10.3585513+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:03:41.9530593+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:04:31.2987168+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:58:11.1076328+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:03:41.953175+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:58:57.8395929+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:04:31.2988565+00:00"
 }

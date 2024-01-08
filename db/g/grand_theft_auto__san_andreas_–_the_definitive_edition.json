@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2305,9 +2305,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 18923,
+  "EOS_Progressed": 18925,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1092,
+  "EOS_NewPlayers": 1089,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -19510,6 +19510,11 @@
       "Time": "2024-01-08T07:10:08.5020702+00:00",
       "NumProgressed": 18923,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-08T08:11:10.7995909+00:00",
+      "NumProgressed": 18925,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19521,7 +19526,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15328
+      "UsersEstimate": 15329
     },
     {
       "ID": "ACH02",
@@ -19569,7 +19574,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3596
     },
     {
       "ID": "ACH08",
@@ -19657,7 +19662,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACH19",
@@ -19689,7 +19694,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "ACH23",
@@ -19745,7 +19750,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "ACH30",
@@ -19800,7 +19805,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18923,
+      "Progressed": 18925,
       "Completed": 75
     }
   ],
@@ -19808,8 +19813,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-07T11:59:13.9399306+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:10:08.50207+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:11:10.7995904+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:59:57.0942244+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:10:08.5021792+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:01:44.8362814+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:11:10.7997566+00:00"
 }

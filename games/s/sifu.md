@@ -6,13 +6,13 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,419 |
-| Life is your teacher | 5.00% | ~37,850 |
-| The Assault | 4.00% | ~30,280 |
-| Lightning Hands | 4.00% | ~30,280 |
-| The Hateful Pole Fighter | 3.00% | ~22,710 |
-| State of constant learning | 3.00% | ~22,710 |
-| Old Child | 3.00% | ~22,710 |
+| The Old Grandmaster | 6.00% | ~45,421 |
+| Life is your teacher | 5.00% | ~37,851 |
+| The Assault | 4.00% | ~30,281 |
+| Lightning Hands | 4.00% | ~30,281 |
+| The Hateful Pole Fighter | 3.00% | ~22,711 |
+| State of constant learning | 3.00% | ~22,711 |
+| Old Child | 3.00% | ~22,711 |
 | A Lady's Blood in the Snow | 2.00% | ~15,140 |
 | Lady Wing Chun | 2.00% | ~15,140 |
 | Kill Nil | 2.00% | ~15,140 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,570 |
 | Take damage to save time | 1.00% | ~7,570 |
 | Project Arena | 1.00% | ~663 |
-| Fight the way you practice | 0.80% | ~530 |
+| Fight the way you practice | 0.80% | ~531 |
 | Muk Yan Master | 0.70% | ~5,299 |
 | Tiger on Fire | 0.60% | ~4,542 |
 | Source of Flying Daggers | 0.60% | ~4,542 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~66 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756,991 (Ranked 25)  
+Progressed: 757,020 (Ranked 25)  
 Completed: 12,979 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 12,979 (1.71%) (Ranked 142)
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
 | 2024-01-07 | 756,813 | 12,976 |
-| 2024-01-08 | 756,991 | 12,979 |
+| 2024-01-08 | 757,020 | 12,979 |
 ## Awards
 Max (Great Boss Battles): 7,148  (Ranked 56)  
 Sum: 12,639 (Ranked 85)  

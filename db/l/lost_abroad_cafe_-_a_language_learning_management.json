@@ -4,7 +4,7 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 701,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
@@ -3226,9 +3226,9 @@
       "ID": "coffee_100",
       "SetID": "56hff7o",
       "Name": "Brew Master",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 49
+      "UsersEstimate": 56
     },
     {
       "ID": "coffee_50",
@@ -3289,8 +3289,8 @@
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2024-01-08T07:03:48.9680491+00:00",
+  "LastChanged_Achievements": "2024-01-08T08:04:41.6395234+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.6985619+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:58:17.4860691+00:00",
-  "LastUpdate_Achievements": "2024-01-08T07:03:48.9680703+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:59:08.054091+00:00",
+  "LastUpdate_Achievements": "2024-01-08T08:04:41.6395485+00:00"
 }

@@ -37,11 +37,11 @@
 | Anomaly Control | 5.00% | ~18 |
 | Artificer | 5.00% | ~18 |
 | Can't touch this | 5.00% | ~18 |
+| Prestidigitation | 5.00% | ~18 |
 | Apian Hero | 5.00% | ~18 |
 | Astrarium of Holding | 4.00% | ~14 |
 | Denying Destiny | 4.00% | ~14 |
 | If I Had Failed... | 4.00% | ~14 |
-| Prestidigitation | 4.00% | ~14 |
 | The Chaos Artisan | 4.00% | ~14 |
 | The Dark Moon | 4.00% | ~14 |
 | Behenian Hero | 4.00% | ~14 |
