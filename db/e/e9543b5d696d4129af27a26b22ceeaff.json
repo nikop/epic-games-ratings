@@ -3,9 +3,9 @@
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 545,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -368,9 +368,9 @@
       "ID": "ACH_FIRST_CHAMPIONSHIP",
       "SetID": "1lnhagg",
       "Name": "First is Always Special",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_FIRST_STAR_MANAGER",
@@ -512,9 +512,9 @@
       "ID": "ACH_WELCOME",
       "SetID": "1lnhagg",
       "Name": "Welcome to IBM 23!",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_WINNER_STREAK",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:08:19.9790515+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:08:57.46888+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:09.2723811+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:00:04.2743939+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:08:19.9790701+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:01:45.597464+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:08:57.4689055+00:00"
 }

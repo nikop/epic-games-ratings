@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -4899,9 +4899,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "5k00jcd",
       "Name": "Drift champ",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5019,9 +5019,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -5208,8 +5208,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:04:58.0250042+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:06:07.0699288+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:57:50.2303488+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:04:58.0250729+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:58:30.4248273+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:06:07.0699981+00:00"
 }

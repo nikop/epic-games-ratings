@@ -3,9 +3,9 @@
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 197,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -799,6 +799,11 @@
       "Time": "2024-01-08T20:04:50.6809644+00:00",
       "NumProgressed": 196,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T21:05:57.0996259+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -891,7 +896,7 @@
       "Name": "City Center",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "fw2",
@@ -961,17 +966,17 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "jg2",
       "SetID": "b1ggf28",
       "Name": "Waterpower",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "jg3",
@@ -985,9 +990,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "jk2",
@@ -1035,7 +1040,7 @@
       "Name": "Advanced Technology",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "k2",
@@ -1123,7 +1128,7 @@
       "Name": "Against the Cold",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "w2",
@@ -1155,7 +1160,7 @@
       "Name": "Hard-Drinking",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "x3",
@@ -1218,14 +1223,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 197,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:04:50.680964+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:05:57.0996253+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:03:00.5504557+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:04:50.6810048+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:03:21.6832116+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:05:57.0996646+00:00"
 }

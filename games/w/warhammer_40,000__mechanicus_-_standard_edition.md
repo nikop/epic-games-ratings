@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 726)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,254 |
-| This is only the beginning | 20.00% | ~46,349 |
-| Knowledge is power | 13.00% | ~30,127 |
+| No aid from the Omnissiah | 26.00% | ~60,255 |
+| This is only the beginning | 20.00% | ~46,350 |
+| Knowledge is power | 13.00% | ~30,128 |
 | Galvanic Rifle | 10.00% | ~23,175 |
 | Radium Ready | 10.00% | ~23,175 |
-| Power Ranger | 9.00% | ~20,857 |
-| Taser Goad | 9.00% | ~20,857 |
-| Half a cog | 9.00% | ~20,857 |
+| Power Ranger | 9.00% | ~20,858 |
+| Taser Goad | 9.00% | ~20,858 |
+| Half a cog | 9.00% | ~20,858 |
 | Watch them crumble | 6.00% | ~13,905 |
 | Competent Cohort | 4.00% | ~9,270 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,270 |
 | One with the Machine | 4.00% | ~9,270 |
-| Legio Cybernetica | 3.00% | ~6,952 |
-| Fleshy Disposal | 3.00% | ~6,952 |
+| Legio Cybernetica | 3.00% | ~6,953 |
+| Fleshy Disposal | 3.00% | ~6,953 |
 | Battle Servitor | 2.00% | ~4,635 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,635 |
 | Impatient destruction | 2.00% | ~4,635 |
@@ -27,10 +27,10 @@ Rating: 4.43 (Ranked 726)
 | Cohortus Maximus | 0.80% | ~1,854 |
 | Mother of Xenarites | 0.40% | ~927 |
 | False God | 0.30% | ~695 |
-| Hard | 0.20% | ~463 |
-| Sensory overload | 0.20% | ~463 |
-| Transonic Blur | 0.20% | ~463 |
-| Not the Men-of-Iron | 0.20% | ~463 |
+| Hard | 0.20% | ~464 |
+| Sensory overload | 0.20% | ~464 |
+| Transonic Blur | 0.20% | ~464 |
+| Not the Men-of-Iron | 0.20% | ~464 |
 | Sterile Perfection | 0.10% | ~232 |
 | Impossible | 0.10% | ~232 |
 | Melee Machine | 0.10% | ~232 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 726)
 | Perma-live | 0.10% | ~232 |
 | Purge the Heretek | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,746 (Ranked 77)  
-Completed: 5 (0.00%) (Ranked 394)  
+Progressed: 231,751 (Ranked 77)  
+Completed: 5 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -303,7 +303,7 @@ Completed: 5 (0.00%) (Ranked 394)
 | 2024-01-05 | 231,461 | 5 |
 | 2024-01-06 | 231,558 | 5 |
 | 2024-01-07 | 231,678 | 5 |
-| 2024-01-08 | 231,746 | 5 |
+| 2024-01-08 | 231,751 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 265)  
 Sum: 2,227 (Ranked 210)  

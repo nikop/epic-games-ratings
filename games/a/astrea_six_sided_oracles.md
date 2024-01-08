@@ -10,12 +10,12 @@
 | Dicesmithing Time! | 64.00% | ~230 |
 | Sanctuary Guardian | 54.00% | ~194 |
 | Endless Tricks | 51.00% | ~184 |
-| Wild's Keeper | 48.00% | ~173 |
+| Wild's Keeper | 49.00% | ~176 |
 | Mind Illuminator | 44.00% | ~158 |
 | Stellar Dismantler | 38.00% | ~137 |
 | Astral Adventurer | 35.00% | ~126 |
 | Noctuan Champion | 35.00% | ~126 |
-| Anomaly Destroyer | 31.00% | ~112 |
+| Anomaly Destroyer | 32.00% | ~115 |
 | Star Killer | 31.00% | ~112 |
 | Eridanian Champion | 26.00% | ~94 |
 | Loyal Partner | 22.00% | ~79 |
@@ -104,7 +104,7 @@
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 360 (Ranked 376)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

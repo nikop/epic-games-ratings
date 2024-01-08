@@ -50,7 +50,7 @@ Rating: 4.75 (Ranked 147)
 | Sabotage! | 27.00% | ~201 |
 | Bonus Evilness | 26.00% | ~194 |
 | The Rune Sockets of Finitude (Part 2) | 26.00% | ~194 |
-| The Last Stand - This Time For Real! | 24.00% | ~179 |
+| The Last Stand - This Time For Real! | 25.00% | ~186 |
 | Rubble and Ashes | 22.00% | ~164 |
 | Lavalumps on Ice! | 21.00% | ~157 |
 | To Infinity And Beyond! | 20.00% | ~149 |

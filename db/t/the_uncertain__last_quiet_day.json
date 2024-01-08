@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 336,
-  "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 636,
+  "EOS_Progressed": 637,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.99,
+  "EOS_Completed_Percentage": 2.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -1109,6 +1109,11 @@
       "Time": "2024-01-08T18:10:49.9862837+00:00",
       "NumProgressed": 636,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-08T21:11:02.9684433+00:00",
+      "NumProgressed": 637,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1142,9 +1147,9 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 369
+      "UsersEstimate": 376
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1160,7 +1165,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -1216,7 +1221,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -1232,7 +1237,7 @@
       "Name": "Hipster",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -1270,9 +1275,9 @@
       "ID": "NOT_WHAT_IT_SEEMS",
       "SetID": "2iigf77",
       "Name": "Not what it seems",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 102
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -1310,9 +1315,9 @@
       "ID": "QUICK_CHARGE",
       "SetID": "2iigf77",
       "Name": "Quick charge",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 376
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1375,7 +1380,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 636,
+      "Progressed": 637,
       "Completed": 19
     }
   ],
@@ -1383,8 +1388,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:38.6051451+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:11:02.9684425+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.594595+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:06.8383895+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:38.6051661+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:58:55.0679709+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:11:02.9684673+00:00"
 }

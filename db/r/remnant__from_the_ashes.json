@@ -2,13 +2,13 @@
   "ID": "663e521f2a444199be58152fd93fa66e",
   "Name": "Remnant: From the Ashes",
   "ProductSlug": "remnant-from-the-ashes",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 398,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 574,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -8341,18 +8341,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 16912,
       "NumberOfAwardsMax": 10785
+    },
+    {
+      "Time": "2024-01-08T20:57:10.3421301+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 16928,
+      "NumberOfAwardsMax": 10799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16912,
-  "NumberOfAwardsMax": 10785,
+  "NumberOfAwards": 16928,
+  "NumberOfAwardsMax": 10799,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10785
+      "Count": 10799
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8412,7 +8418,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 756
+      "Count": 758
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8432,8 +8438,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2024-01-08T18:02:01.9931021+00:00",
+  "LastChanged": "2024-01-08T20:57:10.3421299+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.4623677+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:00:36.650885+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:04:00.7507246+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:57:10.3421305+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:04:47.347226+00:00"
 }

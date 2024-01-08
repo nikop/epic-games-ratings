@@ -3,9 +3,9 @@
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 158,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18786,
+  "EOS_Progressed": 18787,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 875,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11729,6 +11729,11 @@
       "Time": "2024-01-08T20:08:00.7927595+00:00",
       "NumProgressed": 18786,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T21:08:30.1799838+00:00",
+      "NumProgressed": 18787,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -11837,7 +11842,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4696
+      "UsersEstimate": 4697
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -11853,7 +11858,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -11932,14 +11937,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 18786,
+      "Progressed": 18787,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:08:00.7927593+00:00",
-  "LastUpdate_AppInfo": "2024-01-01T19:57:14.7039433+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:22.8893366+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:08:00.7928348+00:00"
+  "LastChanged_Achievements": "2024-01-08T21:08:30.1799828+00:00",
+  "LastUpdate_AppInfo": "2024-01-08T20:57:05.8149755+00:00",
+  "LastUpdate_Ratings": "2024-01-08T20:59:17.3826567+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:08:30.1800601+00:00"
 }

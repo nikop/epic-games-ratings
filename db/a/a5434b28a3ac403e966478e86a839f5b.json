@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 915,
+  "EOS_Progressed": 916,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -3185,6 +3185,11 @@
       "Time": "2024-01-08T19:08:51.8140872+00:00",
       "NumProgressed": 915,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-08T21:09:31.2971019+00:00",
+      "NumProgressed": 916,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3221,7 +3226,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_eou4",
@@ -3261,7 +3266,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_mg2",
@@ -3300,14 +3305,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 915,
+      "Progressed": 916,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:08:30.6907818+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:09:31.2971015+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:43.7982336+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:08:30.6908105+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:59:48.431115+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:09:31.297126+00:00"
 }

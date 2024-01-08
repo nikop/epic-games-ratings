@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent City | 25.00% | ~233 |
+| Silent City | 25.00% | ~234 |
 | Duet Desert | 5.00% | ~47 |
 | Fermata | 4.00% | ~37 |
 | Cadenza | 2.00% | ~19 |
@@ -13,8 +13,8 @@
 | Fugue Forest | 2.00% | ~19 |
 | Tempo | 1.00% | ~9 |
 | Cadence | 1.00% | ~9 |
-| Maestro Mountain Glyph | 0.80% | ~7 |
-| Silent City: Reprise | 0.80% | ~7 |
+| Maestro Mountain Glyph | 0.70% | ~7 |
+| Silent City: Reprise | 0.70% | ~7 |
 | Coda Cave | 0.60% | ~6 |
 | Solo Sea | 0.60% | ~6 |
 | Antiphony | 0.50% | ~5 |
@@ -33,8 +33,8 @@
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933 (Ranked 297)  
-Completed: 0 (0.00%) (Ranked 394)  
+Progressed: 934 (Ranked 297)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 857 | 0 |
 | 2024-01-06 | 876 | 0 |
 | 2024-01-07 | 904 | 0 |
-| 2024-01-08 | 933 | 0 |
+| 2024-01-08 | 934 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,7 +1069,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9844,
+  "EOS_Progressed": 9845,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -10849,6 +10849,11 @@
       "Time": "2024-01-08T20:09:01.390394+00:00",
       "NumProgressed": 9844,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-08T21:10:12.673312+00:00",
+      "NumProgressed": 9845,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10876,7 +10881,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4331
+      "UsersEstimate": 4332
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10948,7 +10953,7 @@
       "Name": "Donatello",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -10988,7 +10993,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -11028,7 +11033,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3445
+      "UsersEstimate": 3446
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11068,7 +11073,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -11148,7 +11153,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -11204,7 +11209,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -11212,14 +11217,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5020
+      "UsersEstimate": 5021
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9844,
+      "Progressed": 9845,
       "Completed": 10
     }
   ],
@@ -11227,8 +11232,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:01.3903937+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:10:12.6733113+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:55.7739046+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:01.3904675+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:00:05.1900263+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:10:12.6733755+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 477,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -687,9 +687,9 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "Achievement20",
@@ -775,9 +775,9 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Achievement30",
@@ -887,9 +887,9 @@
       "ID": "Achievement9",
       "SetID": "9fa3l5n",
       "Name": "Save a Friend",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
@@ -902,8 +902,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:05:07.796704+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:06:20.5804138+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.5995051+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:46.5257505+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:05:07.79673+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:01:19.2253075+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:06:20.5804447+00:00"
 }

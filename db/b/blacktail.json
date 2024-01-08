@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 891,
+  "EOS_Progressed": 892,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2841,6 +2841,11 @@
       "Time": "2024-01-08T20:09:40.2839946+00:00",
       "NumProgressed": 891,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T21:11:05.1500701+00:00",
+      "NumProgressed": 892,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2940,7 +2945,7 @@
       "Name": "Gold rush",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "GossipGirl",
@@ -2972,7 +2977,7 @@
       "Name": "Liar Liar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LittleHelper",
@@ -3107,7 +3112,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 891,
+      "Progressed": 892,
       "Completed": 1
     }
   ],
@@ -3115,8 +3120,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:40.2839945+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:11:05.1500388+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.0155754+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:35.1092214+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:40.2840271+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:59:35.9501036+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:11:05.150099+00:00"
 }

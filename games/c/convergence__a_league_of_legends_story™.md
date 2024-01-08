@@ -9,7 +9,7 @@ Rating: 4.69 (Ranked 236)
 | Rail Rat | 35.00% | ~447 |
 | The Mysterious Stranger | 34.00% | ~434 |
 | Immaculate Aim | 29.00% | ~370 |
-| The Brass Boss | 28.00% | ~357 |
+| The Brass Boss | 28.00% | ~358 |
 | Time Flies | 26.00% | ~332 |
 | No, Thanks! | 26.00% | ~332 |
 | The Prince in Heels | 26.00% | ~332 |
@@ -19,19 +19,19 @@ Rating: 4.69 (Ranked 236)
 | Fast Learner | 25.00% | ~319 |
 | Immaculate Aim | 25.00% | ~319 |
 | The Steel Shadow | 24.00% | ~306 |
-| Breaking Down Barriers | 23.00% | ~293 |
+| Breaking Down Barriers | 23.00% | ~294 |
 | Right On Time | 22.00% | ~281 |
 | Like Clockwork | 22.00% | ~281 |
 | The Wicked Twins | 22.00% | ~281 |
 | Golem Chaser | 22.00% | ~281 |
 | The Betrayer | 21.00% | ~268 |
 | Check Your Pulse | 20.00% | ~255 |
-| The Loose Cannon | 19.00% | ~242 |
+| The Loose Cannon | 19.00% | ~243 |
 | Street Style | 18.00% | ~230 |
 | The Man Who Shattered Time | 18.00% | ~230 |
 | The Family Fortune | 18.00% | ~230 |
-| Whiz Kid | 15.00% | ~191 |
-| Good Neighbor | 15.00% | ~191 |
+| Whiz Kid | 15.00% | ~192 |
+| Good Neighbor | 15.00% | ~192 |
 | Family Memories | 14.00% | ~179 |
 | Chaincrawler Explorer | 13.00% | ~166 |
 | Cartographer | 13.00% | ~166 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 236)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,276 (Ranked 280)  
+Progressed: 1,277 (Ranked 280)  
 Completed: 7 (0.55%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 7 (0.55%) (Ranked 214)
 | 2024-01-05 | 1,241 | 6 |
 | 2024-01-06 | 1,255 | 6 |
 | 2024-01-07 | 1,264 | 7 |
-| 2024-01-08 | 1,276 | 7 |
+| 2024-01-08 | 1,277 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

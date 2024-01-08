@@ -2,13 +2,13 @@
   "ID": "f4a7772a4da24870a3ea6dfb8aeac662",
   "Name": "Borderlands 2",
   "ProductSlug": "borderlands-2",
-  "Ranking_Rating": 131,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 24,
   "Ranking_PopularitySum": 35,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 574,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-28T15:00:00+00:00",
     "PcReleaseDate": "2012-09-18T15:00:00+00:00",
@@ -12291,10 +12291,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 41083,
       "NumberOfAwardsMax": 16401
+    },
+    {
+      "Time": "2024-01-08T20:59:59.2353605+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 41086,
+      "NumberOfAwardsMax": 16401
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41083,
+  "NumberOfAwards": 41086,
   "NumberOfAwardsMax": 16401,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -12326,7 +12332,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3137
+      "Count": 3140
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12382,8 +12388,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2024-01-08T17:59:55.3589443+00:00",
+  "LastChanged": "2024-01-08T20:59:59.2353603+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:17.3639154+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:52.1234294+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:05:15.7612183+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:59:59.2353609+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:06:32.0131551+00:00"
 }

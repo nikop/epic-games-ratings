@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 262,
-  "Ranking_EOS_Completed": 331,
+  "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -157,7 +157,7 @@
   "Tags": [],
   "EOS_Progressed": 1640,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4734,9 +4734,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1410
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -4750,9 +4750,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1509
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -4774,9 +4774,9 @@
       "ID": "GSS_ACH_09_THROW_01",
       "SetID": "5fn8ia4",
       "Name": "Score!",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1591
     },
     {
       "ID": "GSS_ACH_10_THROW_02",
@@ -4894,9 +4894,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1509
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -4918,9 +4918,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1361
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -5014,9 +5014,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 935
+      "UsersEstimate": 951
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -5070,9 +5070,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1427
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -5142,9 +5142,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1378
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -5190,9 +5190,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1312
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -5367,8 +5367,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:04:28.678838+00:00",
-  "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:57:42.4407961+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:04:28.6789422+00:00"
+  "LastChanged_Achievements": "2024-01-08T21:05:26.5551772+00:00",
+  "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
+  "LastUpdate_Ratings": "2024-01-08T20:58:19.3823685+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:05:26.5552724+00:00"
 }

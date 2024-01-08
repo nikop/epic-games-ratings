@@ -6,34 +6,34 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 41.00% | ~89 |
-| Best Buddy | 35.00% | ~76 |
-| Civilian | 33.00% | ~72 |
-| Role Model | 29.00% | ~63 |
-| Creator | 26.00% | ~56 |
-| Military Leader | 24.00% | ~52 |
-| Peddler | 23.00% | ~50 |
-| Festival-goer | 23.00% | ~50 |
-| Commander | 20.00% | ~43 |
+| Entrepreneur | 40.00% | ~88 |
+| Best Buddy | 35.00% | ~77 |
+| Civilian | 33.00% | ~73 |
+| Role Model | 28.00% | ~62 |
+| Creator | 26.00% | ~57 |
+| Military Leader | 23.00% | ~51 |
+| Festival-goer | 23.00% | ~51 |
+| Peddler | 22.00% | ~48 |
+| Commander | 20.00% | ~44 |
 | Irissa's Fate | 16.00% | ~35 |
 | Long-Haul Flyer | 15.00% | ~33 |
 | Pass A38 | 15.00% | ~33 |
-| Family Reunion | 14.00% | ~30 |
-| Eternal Oblivion | 12.00% | ~26 |
+| Family Reunion | 14.00% | ~31 |
 | Storyteller | 11.00% | ~24 |
-| Globetrotter | 11.00% | ~24 |
 | Berserker | 11.00% | ~24 |
+| Eternal Oblivion | 11.00% | ~24 |
+| Globetrotter | 10.00% | ~22 |
+| Alb | 10.00% | ~22 |
 | Banker | 9.00% | ~20 |
-| Alb | 9.00% | ~20 |
 | Hotshot | 7.00% | ~15 |
 | Perfectionist | 7.00% | ~15 |
 | Hunter | 7.00% | ~15 |
 | Lover | 7.00% | ~15 |
 | Treasure Hunter | 6.00% | ~13 |
 | Beam Me Up | 6.00% | ~13 |
-| Free as a Bird | 6.00% | ~13 |
-| Detective | 6.00% | ~13 |
+| Free as a Bird | 5.00% | ~11 |
 | Cleric | 5.00% | ~11 |
+| Detective | 5.00% | ~11 |
 | Weaponsmith | 4.00% | ~9 |
 | Unbreakable | 4.00% | ~9 |
 | Alchemist | 3.00% | ~7 |
@@ -57,8 +57,8 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217 (Ranked 424)  
-Completed: 0 (0.00%) (Ranked 394)  
+Progressed: 220 (Ranked 423)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 187 | 0 |
 | 2024-01-06 | 199 | 0 |
 | 2024-01-07 | 211 | 0 |
-| 2024-01-08 | 217 | 0 |
+| 2024-01-08 | 220 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

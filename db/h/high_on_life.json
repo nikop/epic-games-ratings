@@ -2,13 +2,13 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 319,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 330,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25083,
+  "EOS_Progressed": 25084,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8941,6 +8941,11 @@
       "Time": "2024-01-08T20:08:24.2268951+00:00",
       "NumProgressed": 25083,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-08T21:09:22.6756209+00:00",
+      "NumProgressed": 25084,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9024,7 +9029,7 @@
       "Name": "Lezduit!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -9096,7 +9101,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -9120,7 +9125,7 @@
       "Name": "Self-Actualization",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -9136,7 +9141,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -9176,7 +9181,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -9200,7 +9205,7 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_CHARGED_BALL_KILLS",
@@ -9303,13 +9308,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25083,
+      "Progressed": 25084,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2376,
+      "Progressed": 2377,
       "Completed": 1376
     }
   ],
@@ -9317,8 +9322,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:08:24.2268945+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:09:22.6756203+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.9175912+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:13.0875019+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:08:24.2269624+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:59:02.8880556+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:09:22.6756844+00:00"
 }

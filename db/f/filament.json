@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -414,7 +414,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208811,
+  "EOS_Progressed": 208817,
   "EOS_Completed": 557,
   "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 4,
@@ -28589,6 +28589,11 @@
       "Time": "2024-01-08T20:05:33.6227143+00:00",
       "NumProgressed": 208811,
       "NumCompleted": 557
+    },
+    {
+      "Time": "2024-01-08T21:06:56.7839609+00:00",
+      "NumProgressed": 208817,
+      "NumCompleted": 557
     }
   ],
   "TotalAchievements": 29,
@@ -28624,7 +28629,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196282
+      "UsersEstimate": 196288
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -28656,7 +28661,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -28672,7 +28677,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6265
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -28696,7 +28701,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -28768,7 +28773,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6265
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -28784,7 +28789,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20881
+      "UsersEstimate": 20882
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -28808,7 +28813,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -28831,7 +28836,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208811,
+      "Progressed": 208817,
       "Completed": 557
     }
   ],
@@ -28839,8 +28844,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-07T03:01:28.6311382+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:05:33.6227138+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:06:56.7839602+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.3451627+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:57:44.1008334+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:05:33.6228782+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:58:21.9054615+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:06:56.7841322+00:00"
 }

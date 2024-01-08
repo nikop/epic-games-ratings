@@ -2850,9 +2850,9 @@
       "ID": "ach_main20end_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand\u00A0- This Time For Real!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 186
     },
     {
       "ID": "ach_main20end_notristan",
@@ -2883,8 +2883,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:08:50.6150927+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:09:57.9844496+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:19.1089014+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:08:50.6151449+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:59:11.8130068+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:09:57.9845071+00:00"
 }

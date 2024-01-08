@@ -2,10 +2,10 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 480,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Progress": 479,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -564,6 +564,11 @@
       "Time": "2024-01-08T19:09:22.0386469+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T21:10:13.4933767+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -630,9 +635,9 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -654,9 +659,9 @@
       "ID": "achievement_death_to_javelin",
       "SetID": "bngbnfb",
       "Name": "Death to the javelin thrower",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_drunk_lucky",
@@ -816,7 +821,7 @@
       "Name": "The monk",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_most_dangerous_man",
@@ -838,17 +843,17 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_rush",
@@ -975,14 +980,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:01.9692072+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:10:13.4933759+00:00",
   "LastUpdate_AppInfo": "2024-01-03T15:56:53.5899494+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:02:33.7817649+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:01.9692406+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:02:12.1055176+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:10:13.4934139+00:00"
 }

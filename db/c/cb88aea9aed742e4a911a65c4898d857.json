@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -299,9 +299,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 10760,
+  "EOS_Progressed": 10764,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1323,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4149,6 +4149,11 @@
       "Time": "2024-01-08T20:09:37.3525244+00:00",
       "NumProgressed": 10760,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T21:11:01.4051684+00:00",
+      "NumProgressed": 10764,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4161,7 +4166,7 @@
       "Name": "Conspiracy",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "03_TheStolenStar",
@@ -4281,7 +4286,7 @@
       "Name": "Exemplar",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -4337,7 +4342,7 @@
       "Name": "Highrise",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "25_DynastyProspers",
@@ -4369,7 +4374,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4545,15 +4550,15 @@
       "Name": "Whodunit?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "51_AmendsToTheDead",
       "SetID": "37a94m8",
       "Name": "Amends to the Dead",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 22
     },
     {
       "ID": "52_TheGoldenFrog",
@@ -4680,7 +4685,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10760,
+      "Progressed": 10764,
       "Completed": 1
     }
   ],
@@ -4688,8 +4693,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-08T11:57:44.8246202+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:37.3525242+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:11:01.4051678+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:57:54.6662654+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:37.3525924+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:58:36.0028982+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:11:01.405236+00:00"
 }

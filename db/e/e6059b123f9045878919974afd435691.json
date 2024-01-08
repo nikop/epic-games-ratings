@@ -3,9 +3,9 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 271,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1407,
+  "EOS_Progressed": 1408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3719,6 +3719,11 @@
       "Time": "2024-01-08T19:10:06.8492636+00:00",
       "NumProgressed": 1407,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T21:11:14.6628939+00:00",
+      "NumProgressed": 1408,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3730,7 +3735,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3746,7 +3751,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3770,7 +3775,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3978,7 +3983,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -4002,7 +4007,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -4010,15 +4015,15 @@
       "Name": "Breaking Twigs",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 549
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4026,7 +4031,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4050,7 +4055,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4082,7 +4087,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -4146,7 +4151,7 @@
       "Name": "Reading and More Reading",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -4162,7 +4167,7 @@
       "Name": "The Last of Us",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4257,14 +4262,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1407,
+      "Progressed": 1408,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:47.7611703+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:11:14.6628932+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:49.6065607+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:47.7612364+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:59:55.1464164+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:11:14.662972+00:00"
 }

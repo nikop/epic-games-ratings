@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14119,10 +14119,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64065,
       "NumberOfAwardsMax": 7765
+    },
+    {
+      "Time": "2024-01-08T21:01:29.7066419+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64075,
+      "NumberOfAwardsMax": 7765
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64065,
+  "NumberOfAwards": 64075,
   "NumberOfAwardsMax": 7765,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14172,7 +14178,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7113
+      "Count": 7123
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14193,9 +14199,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 495163,
+  "EOS_Progressed": 495204,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5304,
+  "EOS_NewPlayers": 5307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44568,6 +44574,11 @@
       "Time": "2024-01-08T20:09:43.5908446+00:00",
       "NumProgressed": 495163,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T21:11:09.616495+00:00",
+      "NumProgressed": 495204,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45099,7 +45110,7 @@
       "Name": "Cold War",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "achievement_colonial_management",
@@ -47482,21 +47493,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 495163,
+      "Progressed": 495204,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 495163,
+      "Progressed": 495204,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-08T19:59:53.7231852+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:43.5908442+00:00",
+  "LastChanged": "2024-01-08T21:01:29.7066417+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:11:09.6164943+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:53.7231857+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:43.5920198+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:01:29.7066422+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:11:09.6176687+00:00"
 }

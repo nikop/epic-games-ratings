@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 428,
+  "EOS_Progressed": 429,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -969,6 +969,11 @@
       "Time": "2024-01-08T12:05:28.3061833+00:00",
       "NumProgressed": 428,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T21:06:55.4846848+00:00",
+      "NumProgressed": 429,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1012,7 +1017,7 @@
       "Name": "Second Commander",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "EGLE_FREED",
@@ -1052,7 +1057,7 @@
       "Name": "Adventurer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -1076,7 +1081,7 @@
       "Name": "Wild Ox",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -1107,7 +1112,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 428,
+      "Progressed": 429,
       "Completed": 4
     }
   ],
@@ -1115,8 +1120,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:05:32.6642173+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:06:55.4846841+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:11.0091372+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:05:32.664234+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:00:30.8329072+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:06:55.4847088+00:00"
 }

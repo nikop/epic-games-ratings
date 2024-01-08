@@ -5,13 +5,13 @@ Rating: 4.62 (Ranked 378)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 16.00% | ~1,133 |
-| Realm Estate | 14.00% | ~991 |
+| Secret Technique | 16.00% | ~1,134 |
+| Realm Estate | 14.00% | ~992 |
 | A Wonderful Discovery | 13.00% | ~921 |
 | Walls Cannot Stop Us | 13.00% | ~921 |
 | From Friends to Family | 11.00% | ~779 |
-| Bone Peddler | 10.00% | ~708 |
-| Magical Synergy | 9.00% | ~637 |
+| Bone Peddler | 10.00% | ~709 |
+| Magical Synergy | 9.00% | ~638 |
 | Full Ascension | 8.00% | ~567 |
 | There Can Only Be One! | 7.00% | ~496 |
 | Stronger Together | 7.00% | ~496 |
@@ -26,10 +26,10 @@ Rating: 4.62 (Ranked 378)
 | Digging for Treasure | 4.00% | ~283 |
 | Against the Odds | 4.00% | ~283 |
 | Impenetrable Fortress | 4.00% | ~283 |
-| Preparation Is Everything | 3.00% | ~212 |
-| Fiery Friend | 3.00% | ~212 |
-| Tipping the Scales | 3.00% | ~212 |
-| Freed Lands of Manuhari | 3.00% | ~212 |
+| Preparation Is Everything | 3.00% | ~213 |
+| Fiery Friend | 3.00% | ~213 |
+| Tipping the Scales | 3.00% | ~213 |
+| Freed Lands of Manuhari | 3.00% | ~213 |
 | I've Got Everything I Need Right Here | 2.00% | ~142 |
 | God Emperor | 2.00% | ~142 |
 | Arch Mage | 2.00% | ~142 |
@@ -55,7 +55,7 @@ Rating: 4.62 (Ranked 378)
 | A Conqueror's Cohort | 1.00% | ~71 |
 | Betrayal Most Foul | 0.90% | ~64 |
 | Duality | 0.80% | ~57 |
-| Snap Out of It! | 0.60% | ~42 |
+| Snap Out of It! | 0.60% | ~43 |
 | The Magic That Empowers Me! | 0.50% | ~35 |
 | Jack of All Tomes | 0.40% | ~28 |
 | A Very Special Ring | 0.40% | ~28 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,082 (Ranked 196)  
+Progressed: 7,086 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
 | 2024-01-07 | 7,051 | 7 |
-| 2024-01-08 | 7,082 | 7 |
+| 2024-01-08 | 7,086 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 482)  
 Sum: 212 (Ranked 412)  

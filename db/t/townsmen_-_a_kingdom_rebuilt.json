@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4443,
+  "EOS_Progressed": 4445,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2018,6 +2018,11 @@
       "Time": "2024-01-08T19:10:09.3376002+00:00",
       "NumProgressed": 4443,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T21:11:17.372522+00:00",
+      "NumProgressed": 4445,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2261,7 +2266,7 @@
       "Name": "Builder I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT_POPULATION2",
@@ -2301,7 +2306,7 @@
       "Name": "An honorable Governor I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE2",
@@ -2357,7 +2362,7 @@
       "Name": "Full-time job I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT_REPAIR2",
@@ -2389,7 +2394,7 @@
       "Name": "Researcher",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED3",
@@ -2685,7 +2690,7 @@
       "Name": "Tax-man II",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT_TAXES3",
@@ -2699,9 +2704,9 @@
       "ID": "ACHIEVEMENT_TAXES4",
       "SetID": "9eacipp",
       "Name": "Tax-man IV",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_TAXES5",
@@ -2797,7 +2802,7 @@
       "Name": "Time for some trade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION04",
@@ -2836,15 +2841,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4443,
+      "Progressed": 4445,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:50.2160347+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:11:17.3725215+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.50992+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:41.4580135+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:50.2161566+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:59:45.2914608+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:11:17.3726329+00:00"
 }

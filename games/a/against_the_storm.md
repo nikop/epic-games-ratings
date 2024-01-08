@@ -53,20 +53,20 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 1.00% | ~205 |
 | Feeding The People | 0.80% | ~164 |
 | Like a Machine | 0.80% | ~164 |
-| Blood Flower Farmer | 0.50% | ~102 |
-| Fox Utopia | 0.50% | ~102 |
+| Blood Flower Farmer | 0.50% | ~103 |
+| Fox Utopia | 0.50% | ~103 |
 | Prestigious Expedition | 0.40% | ~82 |
 | Human Utopia | 0.30% | ~62 |
 | Beaver Utopia | 0.20% | ~41 |
 | Harpy Utopia | 0.20% | ~41 |
 | Lizard Utopia | 0.20% | ~41 |
-| Paradise | 0.10% | ~20 |
-| Higher Needs | 0.10% | ~20 |
-| The Queen's Chosen | 0.10% | ~20 |
-| Treasure | 0.10% | ~20 |
-| Ruins | 0.10% | ~20 |
+| Paradise | 0.10% | ~21 |
+| Higher Needs | 0.10% | ~21 |
+| The Queen's Chosen | 0.10% | ~21 |
+| Treasure | 0.10% | ~21 |
+| Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,500 (Ranked 154)  
+Progressed: 20,502 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
-| 2024-01-08 | 20,500 | 34 |
+| 2024-01-08 | 20,502 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,359 (Ranked 177)  

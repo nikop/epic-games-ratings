@@ -44,7 +44,7 @@ Number of Ratings: 54  (23.09.2022)
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,682 (Ranked 261)  
-Completed: 1 (0.06%) (Ranked 331)  
+Completed: 1 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 853,
+  "EOS_Progressed": 855,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
@@ -2749,6 +2749,11 @@
       "Time": "2024-01-08T20:08:18.9905275+00:00",
       "NumProgressed": 853,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T21:08:56.1185887+00:00",
+      "NumProgressed": 855,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2823,9 +2828,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 213
+      "UsersEstimate": 205
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2856,14 +2861,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 853,
+      "Progressed": 855,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:08:18.9905272+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:08:56.1185878+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:22.0391932+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:08:18.9905473+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:00:43.2908044+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:08:56.1186158+00:00"
 }

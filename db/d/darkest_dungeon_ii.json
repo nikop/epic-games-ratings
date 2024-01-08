@@ -6,9 +6,9 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10662,9 +10662,9 @@
       "Count": 1084
     }
   ],
-  "EOS_Progressed": 132197,
+  "EOS_Progressed": 132205,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1017,
+  "EOS_NewPlayers": 1016,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38957,6 +38957,11 @@
       "Time": "2024-01-08T20:09:25.2518699+00:00",
       "NumProgressed": 132197,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T21:10:45.2515582+00:00",
+      "NumProgressed": 132205,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38982,9 +38987,9 @@
       "ID": "altar_of_hope_memory_equip_first_time",
       "SetID": "64l4lke",
       "Name": "It Rings a Bell",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5288
+      "UsersEstimate": 6610
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -39504,7 +39509,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "combat_kill_collector",
@@ -39560,7 +39565,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "quest_complete_crusader",
@@ -39568,7 +39573,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39599,21 +39604,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132197,
+      "Progressed": 132205,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7066,
+      "Progressed": 7074,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-08T16:58:39.4176472+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:25.2518696+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:10:45.2515576+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:09.1338662+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:25.2520431+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:58:58.464697+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:10:45.2517568+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -1097,9 +1097,9 @@
       "ID": "Ach-01-brambora",
       "SetID": "2pjo9pi",
       "Name": "Brambora",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 199
     },
     {
       "ID": "Ach-01-bzukavec",
@@ -1129,9 +1129,9 @@
       "ID": "Ach-01-ulita",
       "SetID": "2pjo9pi",
       "Name": "Ulita",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "Ach-02-brouk",
@@ -1185,9 +1185,9 @@
       "ID": "Ach-02-strasilka",
       "SetID": "2pjo9pi",
       "Name": "Strasilka",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "Ach-02-tykvovec",
@@ -1201,9 +1201,9 @@
       "ID": "Ach-02-zlo",
       "SetID": "2pjo9pi",
       "Name": "Zlo A",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "Ach-03-jepice",
@@ -1225,9 +1225,9 @@
       "ID": "Ach-03-skakavec",
       "SetID": "2pjo9pi",
       "Name": "Skakavec",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "Ach-03-svolavac",
@@ -1457,17 +1457,17 @@
       "ID": "Ach-level-1",
       "SetID": "2pjo9pi",
       "Name": "Level 1",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 199
     },
     {
       "ID": "Ach-level-2",
       "SetID": "2pjo9pi",
       "Name": "Level 2",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "Ach-level-3",
@@ -1520,8 +1520,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:08:46.2128278+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:09:52.23423+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.3833834+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:47.5006672+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:08:46.2128795+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:01:20.4800511+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:09:52.2342891+00:00"
 }

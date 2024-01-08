@@ -3,9 +3,9 @@
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 416,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -817,9 +817,9 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -968,8 +968,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:08:08.5675229+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:08:41.2932949+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.301189+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:54.8785401+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:08:08.5675384+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:00:03.8489718+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:08:41.2933141+00:00"
 }

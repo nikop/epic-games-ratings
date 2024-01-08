@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -79,7 +79,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2076,
+  "EOS_Progressed": 2081,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
@@ -3964,6 +3964,11 @@
       "Time": "2024-01-08T20:09:41.4487628+00:00",
       "NumProgressed": 2076,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T21:11:06.5980037+00:00",
+      "NumProgressed": 2081,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3975,7 +3980,7 @@
       "Name": "Break Out",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1290
     },
     {
       "ID": "ACH_02",
@@ -3983,7 +3988,7 @@
       "Name": "Find Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 479
     },
     {
       "ID": "ACH_03",
@@ -3991,7 +3996,7 @@
       "Name": "Powerful Allies",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_04",
@@ -4013,9 +4018,9 @@
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_07",
@@ -4031,7 +4036,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_09",
@@ -4047,7 +4052,7 @@
       "Name": "Trinity",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_11",
@@ -4071,7 +4076,7 @@
       "Name": "Adventurer",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_14",
@@ -4079,7 +4084,7 @@
       "Name": "Airborne",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_15",
@@ -4087,7 +4092,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_16",
@@ -4095,7 +4100,7 @@
       "Name": "Essence Blow",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_17",
@@ -4109,17 +4114,17 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 479
     },
     {
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 62
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_20",
@@ -4135,7 +4140,7 @@
       "Name": "Big Bazar",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_22",
@@ -4151,7 +4156,7 @@
       "Name": "Geared Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_24",
@@ -4167,7 +4172,7 @@
       "Name": "Fashion Victim",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_26",
@@ -4175,7 +4180,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_27",
@@ -4191,7 +4196,7 @@
       "Name": "I Found It",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 479
     },
     {
       "ID": "ACH_29",
@@ -4207,7 +4212,7 @@
       "Name": "Alchemist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_31",
@@ -4215,7 +4220,7 @@
       "Name": "Stone Collection",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_33",
@@ -4223,7 +4228,7 @@
       "Name": "Miner",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_34",
@@ -4231,7 +4236,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_35",
@@ -4262,7 +4267,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2076,
+      "Progressed": 2081,
       "Completed": 3
     }
   ],
@@ -4270,8 +4275,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-08T15:00:05.2060054+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:41.4487625+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:11:06.598003+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:15.4441715+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:41.4488104+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:00:36.3667609+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:11:06.5980411+00:00"
 }

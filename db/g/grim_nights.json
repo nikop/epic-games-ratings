@@ -3,9 +3,9 @@
   "Name": "Grim Nights",
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 532,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 521,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -456,9 +456,9 @@
       "ID": "ach_rich",
       "SetID": "c2c0fb6",
       "Name": "Bling bling!",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_slay1000",
@@ -489,8 +489,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:05:01.9647326+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:06:12.663425+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.7194054+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:20.433678+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:05:01.9647435+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:59:13.662378+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:06:12.6634429+00:00"
 }

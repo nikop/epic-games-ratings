@@ -19,16 +19,16 @@
 | The beast within | 31.00% | ~41 |
 | It's getting dark | 31.00% | ~41 |
 | Rooftop | 28.00% | ~37 |
+| Hard Rock | 28.00% | ~37 |
 | Homeless | 27.00% | ~35 |
 | Big badaboom! | 27.00% | ~35 |
-| Hard Rock | 27.00% | ~35 |
 | Nokron tower | 24.00% | ~31 |
 | Bookworm | 24.00% | ~31 |
 | Payback | 24.00% | ~31 |
+| Magnitude 5 | 22.00% | ~29 |
 | Full power | 21.00% | ~28 |
 | "Ah sh*t... Here we go again!" | 21.00% | ~28 |
 | Compulsive hoarder | 21.00% | ~28 |
-| Magnitude 5 | 21.00% | ~28 |
 | GG EZ | 15.00% | ~20 |
 | Comeback | 15.00% | ~20 |
 | MayDay! MayDay! | 10.00% | ~13 |
@@ -40,7 +40,7 @@
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 131 (Ranked 471)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

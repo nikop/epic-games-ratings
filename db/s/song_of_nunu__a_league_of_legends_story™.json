@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1507,
+  "EOS_Progressed": 1508,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4021,6 +4021,11 @@
       "Time": "2024-01-08T20:09:45.0855536+00:00",
       "NumProgressed": 1507,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-08T21:11:11.088048+00:00",
+      "NumProgressed": 1508,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -4041,7 +4046,7 @@
       "Name": "My Darkest Day",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "EV_ACH03",
@@ -4073,7 +4078,7 @@
       "Name": "A Tragic Reminder",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "EV_ACH07",
@@ -4081,7 +4086,7 @@
       "Name": "3000 Year Blackout",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "EV_ACH08",
@@ -4127,9 +4132,9 @@
       "ID": "EV_ACH13",
       "SetID": "6jeac23",
       "Name": "It Is Not Over",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 543
+      "UsersEstimate": 528
     },
     {
       "ID": "EV_ACH14",
@@ -4153,7 +4158,7 @@
       "Name": "Krugmazing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "EV_ACH17",
@@ -4169,15 +4174,15 @@
       "Name": "Snowy Poro",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "EV_ACH19",
       "SetID": "6jeac23",
       "Name": "On The Rocks",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 498
     },
     {
       "ID": "EV_ACH20",
@@ -4217,7 +4222,7 @@
       "Name": "Never Gets Old",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "EV_ACH25",
@@ -4225,7 +4230,7 @@
       "Name": "Rhythm Of Willump",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "EV_ACH26",
@@ -4233,7 +4238,7 @@
       "Name": "Moneyball",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "EV_ACH27",
@@ -4241,7 +4246,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "EV_ACH28",
@@ -4273,7 +4278,7 @@
       "Name": "Feels Familiar",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "EV_ACH32",
@@ -4281,7 +4286,7 @@
       "Name": "It Was Him",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "EV_ACH33",
@@ -4305,15 +4310,15 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "EV_ACH36",
       "SetID": "6jeac23",
       "Name": "The Relentless Storm",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 694
     },
     {
       "ID": "EV_ACH37",
@@ -4384,7 +4389,7 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1507,
+      "Progressed": 1508,
       "Completed": 9
     }
   ],
@@ -4392,8 +4397,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-08T08:59:12.5130918+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:45.0855534+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:11:11.0880473+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.6946611+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:27.9503269+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:45.0855963+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:00:51.6688908+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:11:11.0881036+00:00"
 }

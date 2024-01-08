@@ -44,16 +44,16 @@ Rating: 4.38 (Ranked 791)
 | Well-prepared | 21.00% | ~104 |
 | The Truth | 21.00% | ~104 |
 | I Like an Audience | 19.00% | ~94 |
+| The Denouement | 18.00% | ~89 |
 | Sunken Secrets | 18.00% | ~89 |
 | What Else Did I Miss? | 18.00% | ~89 |
-| The Denouement | 17.00% | ~84 |
 | Probably the Greatest Detective in the World | 13.00% | ~64 |
 | Take a Break | 11.00% | ~55 |
 | Room with a View | 7.00% | ~35 |
 | Work-life Balance | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 496 (Ranked 353)  
-Completed: 6 (1.21%) (Ranked 161)  
+Completed: 7 (1.41%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -156,7 +156,7 @@ Completed: 6 (1.21%) (Ranked 161)
 | 2024-01-04 | 488 | 6 |
 | 2024-01-05 | 490 | 6 |
 | 2024-01-06 | 495 | 6 |
-| 2024-01-08 | 496 | 6 |
+| 2024-01-08 | 496 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

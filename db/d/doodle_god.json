@@ -4,8 +4,8 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 461,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -537,9 +537,9 @@
       "ID": "605812",
       "SetID": "4lpaifm",
       "Name": "God of Fun",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "605822",
@@ -658,8 +658,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:08:12.7283117+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:08:46.9233306+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:08.5175992+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:00:15.4427902+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:08:12.7283375+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:02:01.9244711+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:08:46.9233444+00:00"
 }

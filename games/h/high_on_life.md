@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 320)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,12 +18,12 @@ Rating: 4.65 (Ranked 319)
 | Hardest Battle In The Game | 4.00% | ~1,003 |
 | Who's The Boss? | 4.00% | ~1,003 |
 | Don't Knife The Hand That Feeds | 4.00% | ~1,003 |
-| Lezduit! | 3.00% | ~752 |
-| Legendary Bounty Hunter | 3.00% | ~752 |
-| Self-Actualization | 3.00% | ~752 |
-| Fallout Doesn't Let You Do This | 3.00% | ~752 |
-| Spent 15 Hours At The Alien Strip Club | 3.00% | ~752 |
-| Series Wrap on Suit-O | 3.00% | ~752 |
+| Lezduit! | 3.00% | ~753 |
+| Legendary Bounty Hunter | 3.00% | ~753 |
+| Self-Actualization | 3.00% | ~753 |
+| Fallout Doesn't Let You Do This | 3.00% | ~753 |
+| Spent 15 Hours At The Alien Strip Club | 3.00% | ~753 |
+| Series Wrap on Suit-O | 3.00% | ~753 |
 | Eatin' Good in the Neighborhood | 2.00% | ~502 |
 | Eye Scream, You Scream | 2.00% | ~502 |
 | Bathe With A Giant Nude Alien | 2.00% | ~48 |
@@ -50,8 +50,8 @@ Rating: 4.65 (Ranked 319)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,083 (Ranked 145)  
-Completed: 14 (0.06%) (Ranked 331)  
+Progressed: 25,084 (Ranked 145)  
+Completed: 14 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,7 +312,7 @@ Completed: 14 (0.06%) (Ranked 331)
 | 2024-01-05 | 25,037 | 14 |
 | 2024-01-06 | 25,059 | 14 |
 | 2024-01-07 | 25,074 | 14 |
-| 2024-01-08 | 25,083 | 14 |
+| 2024-01-08 | 25,084 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

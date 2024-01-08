@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 436,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -1086,9 +1086,9 @@
       "ID": "id_3",
       "SetID": "bk9jib6",
       "Name": "Philanthropist",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "id_30",
@@ -1318,9 +1318,9 @@
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "id_62",
@@ -1358,9 +1358,9 @@
       "ID": "id_9",
       "SetID": "bk9jib6",
       "Name": "Master detective",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
@@ -1375,8 +1375,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:42.2351676+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:11:07.6090075+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:57:54.7852851+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:42.2352048+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:58:36.1881019+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:11:07.6090699+00:00"
 }

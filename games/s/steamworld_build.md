@@ -8,12 +8,12 @@
 | Digging a Hole | 77.00% | ~197 |
 | It's Yours, My Friend | 74.00% | ~189 |
 | Conducted Trade | 68.00% | ~174 |
-| Going Places | 65.00% | ~166 |
+| Going Places | 66.00% | ~169 |
 | Aristocratic | 63.00% | ~161 |
-| Tutti Frutti | 57.00% | ~146 |
+| Tutti Frutti | 58.00% | ~148 |
 | Slotting Machine | 46.00% | ~118 |
 | Systematic | 46.00% | ~118 |
-| Gotta Go Fast | 44.00% | ~113 |
+| Gotta Go Fast | 45.00% | ~115 |
 | Mine Sweeper | 41.00% | ~105 |
 | Roll Out | 38.00% | ~97 |
 | Dopa-Miner | 32.00% | ~82 |
@@ -34,7 +34,7 @@
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 256 (Ranked 414)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

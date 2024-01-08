@@ -6,10 +6,10 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,021 |
-| I'll Be Back | 84.00% | ~4,487 |
-| Sorry, I Dropped This | 76.00% | ~4,060 |
-| First Day on the Job | 76.00% | ~4,060 |
+| On My Own Two Feet | 94.00% | ~5,022 |
+| I'll Be Back | 84.00% | ~4,488 |
+| Sorry, I Dropped This | 76.00% | ~4,061 |
+| First Day on the Job | 76.00% | ~4,061 |
 | Butcher's Bill | 54.00% | ~2,885 |
 | P.A.X | 36.00% | ~1,923 |
 | Hey Listen | 36.00% | ~1,923 |
@@ -17,8 +17,8 @@ Number of Ratings: 62  (23.09.2022)
 | It's Blue Light | 33.00% | ~1,763 |
 | Most Wanted | 26.00% | ~1,389 |
 | Infidel | 23.00% | ~1,229 |
-| Firebug | 20.00% | ~1,068 |
-| GOLIATH | 20.00% | ~1,068 |
+| Firebug | 20.00% | ~1,069 |
+| GOLIATH | 20.00% | ~1,069 |
 | I Choose You | 17.00% | ~908 |
 | Nothing to Lose | 17.00% | ~908 |
 | Big Sister | 15.00% | ~801 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,342 (Ranked 203)  
+Progressed: 5,343 (Ranked 203)  
 Completed: 18 (0.34%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 18 (0.34%) (Ranked 245)
 | 2024-01-05 | 5,270 | 18 |
 | 2024-01-06 | 5,296 | 18 |
 | 2024-01-07 | 5,326 | 18 |
-| 2024-01-08 | 5,342 | 18 |
+| 2024-01-08 | 5,343 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 522)  
 Sum: 30 (Ranked 541)  

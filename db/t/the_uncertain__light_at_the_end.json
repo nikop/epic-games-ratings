@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 182,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -89,11 +89,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 655,
+  "EOS_Progressed": 656,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.92,
+  "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -1334,6 +1334,11 @@
       "Time": "2024-01-08T19:06:29.8056677+00:00",
       "NumProgressed": 655,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T21:08:01.1299293+00:00",
+      "NumProgressed": 656,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1369,7 +1374,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Doors_Closing",
@@ -1465,7 +1470,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Leisurely_Strol",
@@ -1576,7 +1581,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 655,
+      "Progressed": 656,
       "Completed": 6
     }
   ],
@@ -1584,8 +1589,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:06:19.0981219+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:08:01.1299287+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:57:00.9618312+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:03:19.7023987+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:06:19.0981509+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:03:49.3503906+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:08:01.1299588+00:00"
 }

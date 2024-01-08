@@ -6,9 +6,9 @@
   "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1707,9 +1707,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247273,
+  "EOS_Progressed": 247283,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1244,
+  "EOS_NewPlayers": 1243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25447,6 +25447,11 @@
       "Time": "2024-01-08T20:09:46.6397575+00:00",
       "NumProgressed": 247273,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-08T21:11:13.3512364+00:00",
+      "NumProgressed": 247283,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25482,7 +25487,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -25506,7 +25511,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19782
+      "UsersEstimate": 19783
     },
     {
       "ID": "Chapter2",
@@ -25562,7 +25567,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "Chapter9",
@@ -25570,7 +25575,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "CollateralVictim",
@@ -25602,7 +25607,7 @@
       "Name": "Res Judicata",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "CompanionPriestress",
@@ -25810,7 +25815,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -25842,7 +25847,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "Dwarf30Insult",
@@ -25874,7 +25879,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "DwarfInsultWin",
@@ -25890,7 +25895,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14836
+      "UsersEstimate": 14837
     },
     {
       "ID": "ElfEpic",
@@ -25898,7 +25903,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -25906,7 +25911,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 89018
+      "UsersEstimate": 89022
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25954,7 +25959,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24727
+      "UsersEstimate": 24728
     },
     {
       "ID": "FollowBraztok",
@@ -25962,7 +25967,7 @@
       "Name": "The beards of change",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "FollowNarzatok",
@@ -25978,7 +25983,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "KillDungeonLich",
@@ -25994,7 +25999,7 @@
       "Name": "We come in peace",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "MinistrelEpic",
@@ -26082,7 +26087,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "Rogue30Backstab",
@@ -26090,7 +26095,7 @@
       "Name": "I am the night",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "RogueEpic",
@@ -26098,7 +26103,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "Speedrun",
@@ -26106,7 +26111,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14836
+      "UsersEstimate": 14837
     },
     {
       "ID": "SupportCount4",
@@ -26161,21 +26166,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247273,
+      "Progressed": 247283,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247273,
+      "Progressed": 247283,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-07T14:58:32.9313292+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:46.6397573+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:11:13.3512361+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:06.7638017+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:46.6399282+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:00:24.4823442+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:11:13.3514077+00:00"
 }

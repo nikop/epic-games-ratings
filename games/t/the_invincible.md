@@ -5,38 +5,38 @@ Rating: 4.59 (Ranked 447)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 70.00% | ~1,077 |
-| The Teleprobe | 55.00% | ~846 |
-| The City | 50.00% | ~769 |
-| The field base | 44.00% | ~677 |
-| The Alliance | 41.00% | ~631 |
-| Survivors | 39.00% | ~600 |
-| The Condor | 37.00% | ~569 |
-| The End | 37.00% | ~569 |
-| The Necroevolution | 29.00% | ~446 |
-| Krauta is alive | 28.00% | ~431 |
-| On her own | 22.00% | ~338 |
-| Peacemaker | 22.00% | ~338 |
-| Volcanologist | 22.00% | ~338 |
-| Fierce fight | 21.00% | ~323 |
+| The Camp | 70.00% | ~1,079 |
+| The Teleprobe | 55.00% | ~848 |
+| The City | 49.00% | ~756 |
+| The field base | 44.00% | ~678 |
+| The Alliance | 41.00% | ~632 |
+| Survivors | 39.00% | ~601 |
+| The Condor | 37.00% | ~571 |
+| The End | 37.00% | ~571 |
+| The Necroevolution | 29.00% | ~447 |
+| Krauta is alive | 28.00% | ~432 |
+| On her own | 22.00% | ~339 |
+| Peacemaker | 22.00% | ~339 |
+| Volcanologist | 22.00% | ~339 |
+| Fierce fight | 21.00% | ~324 |
 | Evacuation | 20.00% | ~308 |
-| Flying Objects Operator | 17.00% | ~261 |
-| Beyond divisions | 17.00% | ~261 |
+| Flying Objects Operator | 17.00% | ~262 |
+| Beyond divisions | 17.00% | ~262 |
 | I remember everything! | 13.00% | ~200 |
 | Another giant | 13.00% | ~200 |
-| Violent solution | 9.00% | ~138 |
-| I leave no man behind | 9.00% | ~138 |
+| Violent solution | 9.00% | ~139 |
+| I leave no man behind | 9.00% | ~139 |
 | Innate curiosity | 7.00% | ~108 |
-| Ubiquitous holes | 6.00% | ~92 |
-| The Invincible | 6.00% | ~92 |
-| Got lost again | 6.00% | ~92 |
-| Strong objection | 6.00% | ~92 |
+| Ubiquitous holes | 6.00% | ~93 |
+| The Invincible | 6.00% | ~93 |
+| Got lost again | 6.00% | ~93 |
+| Strong objection | 6.00% | ~93 |
 | I leave no man behind (no exceptions) | 2.00% | ~31 |
 | Convoy list | 0.80% | ~12 |
-| No more mistakes | 0.70% | ~11 |
+| No more mistakes | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,538 (Ranked 264)  
-Completed: 1 (0.07%) (Ranked 328)  
+Progressed: 1,542 (Ranked 264)  
+Completed: 1 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 1 (0.07%) (Ranked 328)
 | 2024-01-05 | 1,415 | 1 |
 | 2024-01-06 | 1,462 | 1 |
 | 2024-01-07 | 1,508 | 1 |
-| 2024-01-08 | 1,538 | 1 |
+| 2024-01-08 | 1,542 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

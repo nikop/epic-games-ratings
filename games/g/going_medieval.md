@@ -27,8 +27,8 @@ Number of Ratings: 706  (23.09.2022)
 | Winter Is Coming | 29.00% | ~2,275 |
 | Fit For A King | 26.00% | ~2,039 |
 | Winter Is Here | 26.00% | ~2,039 |
+| Disassembled | 23.00% | ~1,804 |
 | Oh Deer! | 23.00% | ~1,804 |
-| Disassembled | 22.00% | ~1,726 |
 | A Party Now | 22.00% | ~1,726 |
 | All Year Round | 22.00% | ~1,726 |
 | Don't Cry Wolf | 14.00% | ~1,098 |

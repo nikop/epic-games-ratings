@@ -34,7 +34,7 @@
 | Through Hell and Back | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 364 (Ranked 375)  
-Completed: 11 (3.02%) (Ranked 108)  
+Completed: 11 (3.02%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -31,7 +31,7 @@
 | [Tier 3] Wrecking ball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30 (Ranked 596)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

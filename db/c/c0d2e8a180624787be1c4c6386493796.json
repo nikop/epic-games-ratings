@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 295,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -1443,9 +1443,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 236
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -1707,17 +1707,17 @@
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
       "SetID": "caeik3h",
       "Name": "You Didn\u0027t See Nothing",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
       "SetID": "caeik3h",
       "Name": "Presto Logs",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "KR4_ACHIEVEMENT_MERCENARIES",
@@ -1968,8 +1968,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:06:08.4035298+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:07:46.1522329+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:12.0991425+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:06:08.4036323+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:00:32.3984547+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:07:46.1523387+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,7 +63,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1276,
+  "EOS_Progressed": 1277,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
@@ -3808,6 +3808,11 @@
       "Time": "2024-01-08T17:10:34.0396351+00:00",
       "NumProgressed": 1276,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T21:11:14.3170756+00:00",
+      "NumProgressed": 1277,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3971,7 +3976,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "GrindingTime1",
@@ -4003,7 +4008,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "LacunaCompleted",
@@ -4083,7 +4088,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4219,7 +4224,7 @@
       "Name": "Good Neighbor",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4227,7 +4232,7 @@
       "Name": "The Brass Boss",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4242,7 +4247,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1276,
+      "Progressed": 1277,
       "Completed": 7
     }
   ],
@@ -4250,8 +4255,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:47.4405132+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:11:14.317075+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:46.7490511+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:47.4405625+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:59:51.9759729+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:11:14.3171394+00:00"
 }

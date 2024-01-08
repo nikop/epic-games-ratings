@@ -2,10 +2,10 @@
   "ID": "942b563ee0aa4086a55d8b746aca514d",
   "Name": "Train World",
   "ProductSlug": "train-world-07e156",
-  "Ranking_EOS_Progress": 607,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 521,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Progress": 605,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 506,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
     "PcReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -159,6 +159,11 @@
       "Time": "2024-01-07T09:05:29.9711366+00:00",
       "NumProgressed": 26,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T21:08:04.5152912+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-14T15:04:55.3907399+00:00",
@@ -233,7 +238,7 @@
       "ID": "first_line",
       "SetID": "5ia1dkp",
       "Name": "Connection Up",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -441,7 +446,7 @@
       "ID": "steam_engine",
       "SetID": "5ia1dkp",
       "Name": "Steam Power",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -570,14 +575,14 @@
     {
       "ID": "5ia1dkp",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:06:21.5515988+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:08:04.5152906+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.4555683+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:03:01.8456696+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:06:21.5516324+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:03:23.5104604+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:08:04.5153278+00:00"
 }

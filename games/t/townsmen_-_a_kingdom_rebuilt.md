@@ -12,12 +12,12 @@ Number of Ratings: 37  (23.09.2022)
 | Friends from the past | 11.00% | ~489 |
 | I like to build stuff... I | 10.00% | ~444 |
 | A time consuming game I | 9.00% | ~400 |
-| Builder I | 8.00% | ~355 |
-| An honorable Governor I | 8.00% | ~355 |
-| Full-time job I | 8.00% | ~355 |
-| Researcher | 8.00% | ~355 |
-| Tax-man II | 8.00% | ~355 |
-| Time for some trade | 8.00% | ~355 |
+| Builder I | 8.00% | ~356 |
+| An honorable Governor I | 8.00% | ~356 |
+| Full-time job I | 8.00% | ~356 |
+| Researcher | 8.00% | ~356 |
+| Tax-man II | 8.00% | ~356 |
+| Time for some trade | 8.00% | ~356 |
 | Bread for the people I | 7.00% | ~311 |
 | I like to build stuff... II | 7.00% | ~311 |
 | Completionist I | 7.00% | ~311 |
@@ -32,7 +32,6 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... III | 5.00% | ~222 |
 | Builder II | 5.00% | ~222 |
 | An honorable Governor II | 5.00% | ~222 |
-| Tax-man IV | 5.00% | ~222 |
 | A time consuming game III | 5.00% | ~222 |
 | Conflicting parties | 5.00% | ~222 |
 | Another one bites the dust | 4.00% | ~178 |
@@ -40,6 +39,7 @@ Number of Ratings: 37  (23.09.2022)
 | Experienced decorator | 4.00% | ~178 |
 | My precious... I | 4.00% | ~178 |
 | Full-time job III | 4.00% | ~178 |
+| Tax-man IV | 4.00% | ~178 |
 | Tools of the trade II | 4.00% | ~178 |
 | Bread for the people III | 3.00% | ~133 |
 | Five brews are a schnitzel | 3.00% | ~133 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,443 (Ranked 207)  
+Progressed: 4,445 (Ranked 207)  
 Completed: 4 (0.09%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 4 (0.09%) (Ranked 316)
 | 2024-01-05 | 4,423 | 4 |
 | 2024-01-06 | 4,429 | 4 |
 | 2024-01-07 | 4,434 | 4 |
-| 2024-01-08 | 4,443 | 4 |
+| 2024-01-08 | 4,445 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1305,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -3818,9 +3818,9 @@
       "ID": "Cartographer",
       "SetID": "3ai6ml8",
       "Name": "Cartographer",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 626
+      "UsersEstimate": 639
     },
     {
       "ID": "Causality",
@@ -3961,8 +3961,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:32.9258228+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:10:55.4416576+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6987681+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:16.1735891+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:32.9258593+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:59:07.4662346+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:10:55.4416913+00:00"
 }

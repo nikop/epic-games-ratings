@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,23 +37,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.90% | ~146 |
 | Strong Cities | 0.90% | ~146 |
 | Babylonian Paganism | 0.90% | ~146 |
+| Zoroastrianism | 0.90% | ~146 |
 | Brilliant | 0.80% | ~130 |
 | Magnificent | 0.80% | ~130 |
 | Able Difficulty | 0.80% | ~130 |
 | Great Ziggurat | 0.80% | ~130 |
 | Ishtar Gate | 0.80% | ~130 |
 | Lighthouse | 0.80% | ~130 |
+| Learn to Play 2 | 0.80% | ~130 |
 | Christianity | 0.80% | ~130 |
 | Roman Paganism | 0.80% | ~130 |
-| Zoroastrianism | 0.80% | ~130 |
+| Regicide | 0.70% | ~114 |
 | Great | 0.70% | ~114 |
 | Wise | 0.70% | ~114 |
 | Furious Family | 0.70% | ~114 |
 | Acropolis | 0.70% | ~114 |
 | Apadana | 0.70% | ~114 |
-| Learn to Play 2 | 0.70% | ~114 |
+| Necropolis | 0.70% | ~114 |
 | Carthaginian Paganism | 0.70% | ~114 |
-| Regicide | 0.60% | ~98 |
 | Drillmaster | 0.60% | ~98 |
 | Valiant | 0.60% | ~98 |
 | Legendary Cities | 0.60% | ~98 |
@@ -61,7 +62,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.60% | ~98 |
 | Mausoleum | 0.60% | ~98 |
 | Musaeum | 0.60% | ~98 |
-| Necropolis | 0.60% | ~98 |
 | Manichaeism | 0.60% | ~98 |
 | Egyptian Paganism | 0.60% | ~98 |
 | Hanging Gardens in Babylon | 0.50% | ~81 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.50% | ~81 |
 | Points Victory | 0.50% | ~81 |
 | Win a Single Player Game | 0.50% | ~81 |
+| Conqueror | 0.40% | ~65 |
 | Mighty | 0.40% | ~65 |
 | Ready | 0.40% | ~65 |
 | Victorious | 0.40% | ~65 |
@@ -93,7 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.40% | ~65 |
 | Bad Heir Day | 0.30% | ~49 |
 | Capable | 0.30% | ~49 |
-| Conqueror | 0.30% | ~49 |
+| Invincible | 0.30% | ~49 |
 | Lion | 0.30% | ~49 |
 | Subjugator | 0.30% | ~49 |
 | Strong Difficulty | 0.30% | ~49 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.20% | ~33 |
 | Carthage - Ox Hide | 0.20% | ~33 |
 | Devout | 0.20% | ~33 |
-| Invincible | 0.20% | ~33 |
 | Old | 0.20% | ~33 |
 | Peacemaker | 0.20% | ~33 |
 | Church of the Holy Sepulchre | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,251 (Ranked 168)  
+Progressed: 16,253 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,251 | 5 |
+| 2024-01-08 | 16,253 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 286)  
 Sum: 1,917 (Ranked 223)  

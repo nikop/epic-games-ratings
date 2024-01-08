@@ -3,9 +3,9 @@
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 376,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1517,9 +1517,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "AnomalyMaster",
@@ -2141,9 +2141,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 176
     },
     {
       "ID": "ApianChampion",
@@ -2300,8 +2300,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:08:29.6599218+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:09:29.8479332+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:27.4116813+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:20.2764311+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:08:29.6600102+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:00:40.7004715+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:09:29.8480216+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2132,
+  "EOS_Progressed": 2133,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3980,6 +3980,11 @@
       "Time": "2024-01-08T20:09:33.6555783+00:00",
       "NumProgressed": 2132,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-08T21:10:56.4488959+00:00",
+      "NumProgressed": 2133,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3991,7 +3996,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "booty_call",
@@ -4015,7 +4020,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "hold_my_beer",
@@ -4110,7 +4115,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2132,
+      "Progressed": 2133,
       "Completed": 12
     }
   ],
@@ -4118,8 +4123,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:33.6555781+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:10:56.4488954+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:05.0144617+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:33.6556071+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:00:21.766211+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:10:56.4489223+00:00"
 }

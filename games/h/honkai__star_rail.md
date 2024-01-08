@@ -3,12 +3,12 @@
 [View Rawdata](../../db/h/honkai__star_rail.json)  
 Rating: 4.73 (Ranked 178)  
 ## Awards
-Max (Character Customization): 27,982  (Ranked 18)  
-Sum: 114,209 (Ranked 16)  
+Max (Character Customization): 28,101  (Ranked 18)  
+Sum: 114,328 (Ranked 16)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 27,982 |
+| This game has Inclusive Character Customization | 28,101 |
 | This game is Great for Beginners | 11,445 |
 | This game is Great for Quick Sessions | 11,209 |
 | This game has Diverse Characters | 10,490 |
@@ -232,4 +232,4 @@ Diff (max vs sum): 2
 | 2024-01-05 | 4.73 | 27,719 | 112,615 |
 | 2024-01-06 | 4.73 | 27,840 | 113,294 |
 | 2024-01-07 | 4.73 | 27,982 | 113,919 |
-| 2024-01-08 | 4.73 | 27,982 | 114,209 |
+| 2024-01-08 | 4.73 | 28,101 | 114,328 |

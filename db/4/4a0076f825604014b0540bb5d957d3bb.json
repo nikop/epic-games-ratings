@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 463,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -788,17 +788,17 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 40,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -868,9 +868,9 @@
       "ID": "CgkInO_K3eIdEAIQFw",
       "SetID": "6bj96in",
       "Name": "INTUITIVE ENGINEER",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "CgkInO_K3eIdEAIQGA",
@@ -907,8 +907,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:09:34.0361857+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:10:56.9746583+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:12.4832166+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:59:44.5076689+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:09:34.0362029+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:01:16.7746874+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:10:56.9747023+00:00"
 }

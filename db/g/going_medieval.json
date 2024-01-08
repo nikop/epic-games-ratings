@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1675,7 +1675,7 @@
   ],
   "EOS_Progressed": 7844,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -16473,9 +16473,9 @@
       "ID": "DISMANTLE_ITEMS_5",
       "SetID": "5349c2e",
       "Name": "Disassembled",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1804
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -16713,8 +16713,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-07T03:01:15.0330052+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:04:22.8016827+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:05:18.2365297+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5186287+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:57:31.7793427+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:04:22.801781+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:58:04.2808922+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:05:18.2366298+00:00"
 }

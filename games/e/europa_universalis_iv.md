@@ -13,7 +13,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.40% | ~1,981 |
 | That's a Grand Navy | 0.40% | ~1,981 |
 | Seriously?! | 0.40% | ~1,981 |
-| Cold War | 0.30% | ~1,485 |
+| Cold War | 0.30% | ~1,486 |
 | Blockader | 0.20% | ~990 |
 | Defender of the Faith | 0.20% | ~990 |
 | For the Glory | 0.20% | ~990 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 495,163 (Ranked 42)  
-Completed: 1 (0.00%) (Ranked 394)  
+Progressed: 495,204 (Ranked 42)  
+Completed: 1 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -633,10 +633,10 @@ Completed: 1 (0.00%) (Ranked 394)
 | 2024-01-05 | 492,930 | 1 |
 | 2024-01-06 | 493,815 | 1 |
 | 2024-01-07 | 494,650 | 1 |
-| 2024-01-08 | 495,163 | 1 |
+| 2024-01-08 | 495,204 | 1 |
 ## Awards
 Max (Educational): 7,765  (Ranked 54)  
-Sum: 64,065 (Ranked 24)  
+Sum: 64,075 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -645,7 +645,7 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 7,455 |
 | This game has Challenging Combat | 7,395 |
 | This game is Extremely Fun | 7,287 |
-| This game is Relaxing | 7,113 |
+| This game is Relaxing | 7,123 |
 | This game has Competitive Players | 6,958 |
 | This game has Amazing Storytelling | 6,480 |
 | This game has Amazing Characters | 5,989 |
@@ -1009,4 +1009,4 @@ Diff (max vs sum): 30
 | 2024-01-05 | 4.69 | - | 7,726 | 63,694 |
 | 2024-01-06 | 4.69 | - | 7,742 | 63,845 |
 | 2024-01-07 | 4.69 | - | 7,757 | 63,972 |
-| 2024-01-08 | 4.69 | - | 7,765 | 64,065 |
+| 2024-01-08 | 4.69 | - | 7,765 | 64,075 |

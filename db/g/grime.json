@@ -4,7 +4,7 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 447,
   "Ranking_Popularity": 430,
-  "Ranking_PopularitySum": 344,
+  "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 99,
@@ -1849,9 +1849,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167282,
+  "EOS_Progressed": 167287,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 1299,
+  "EOS_NewPlayers": 1294,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22344,6 +22344,11 @@
       "Time": "2024-01-08T20:03:47.9993048+00:00",
       "NumProgressed": 167282,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2024-01-08T21:04:29.7316733+00:00",
+      "NumProgressed": 167287,
+      "NumCompleted": 452
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22404,7 +22409,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5019
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -22420,7 +22425,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5019
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -22572,7 +22577,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5019
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -22723,21 +22728,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166865,
+      "Progressed": 166870,
       "Completed": 1256
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167282,
+      "Progressed": 167287,
       "Completed": 452
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-08T13:58:19.8124136+00:00",
-  "LastChanged_Achievements": "2024-01-08T20:03:47.9993044+00:00",
+  "LastChanged_Achievements": "2024-01-08T21:04:29.7316729+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:58:21.5252149+00:00",
-  "LastUpdate_Achievements": "2024-01-08T20:03:47.9994125+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:59:15.2619607+00:00",
+  "LastUpdate_Achievements": "2024-01-08T21:04:29.7317824+00:00"
 }
