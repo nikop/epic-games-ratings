@@ -6,7 +6,7 @@
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.19% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
-| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 41.84% |
+| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.08% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.89% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.67% |
@@ -24,10 +24,10 @@
 | 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
 | 23 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 25 | [The Riflemen](games/t/the_riflemen.md) | 17.52% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.90% |
-| 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 16.36% |
+| 25 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 18.18% |
+| 26 | [The Riflemen](games/t/the_riflemen.md) | 17.51% |
+| 27 | [Island Cities](games/i/island_cities.md) | 17.02% |
+| 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.22% |
 | 31 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.00% |
@@ -56,11 +56,11 @@
 | 54 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.53% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.44% |
-| 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.34% |
+| 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.33% |
 | 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.04% |
 | 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.03% |
-| 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.02% |
-| 61 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.94% |
+| 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.01% |
+| 61 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.93% |
 | 62 | [Scorn](games/s/scorn.md) | 6.89% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 63 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
@@ -72,7 +72,7 @@
 | 70 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.11% |
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.78% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 73 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.09% |
+| 73 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.07% |
 | 74 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.89% |
 | 76 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.76% |
@@ -188,9 +188,9 @@
 | 185 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.90% |
 | 187 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
 | 188 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.84% |
-| 189 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.80% |
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
-| 191 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.79% |
+| 190 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.79% |
+| 190 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.79% |
 | 192 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.77% |
 | 193 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 193 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.76% |
@@ -301,9 +301,9 @@
 | 298 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.13% |
 | 298 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 298 | [Ring of Pain](games/r/ring_of_pain.md) | 0.13% |
-| 298 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.13% |
-| 303 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.12% |
-| 303 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.12% |
+| 302 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.12% |
+| 302 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.12% |
+| 302 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.12% |
 | 305 | [BLACKTAIL](games/b/blacktail.md) | 0.11% |
 | 305 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.11% |
 | 305 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
