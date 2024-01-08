@@ -1080,9 +1080,9 @@
       "ID": "4",
       "SetID": "acl54ke",
       "Name": "Solved fifth case",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "5",
@@ -1096,17 +1096,17 @@
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "7",
       "SetID": "acl54ke",
       "Name": "Solved eighth case",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "8",
@@ -1191,8 +1191,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:04:54.3445062+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:04:42.5351773+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.945311+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:05.1142247+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:04:54.3445209+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:57:46.1099178+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:04:42.5351934+00:00"
 }

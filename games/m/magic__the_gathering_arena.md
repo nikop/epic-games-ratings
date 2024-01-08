@@ -1,15 +1,15 @@
 # Magic: The Gathering Arena
 [Store](https://store.epicgames.com/en-US/p/mtg-arena)  
 [View Rawdata](../../db/m/magic__the_gathering_arena.json)  
-Rating: 4.45 (Ranked 693)  
+Rating: 4.45 (Ranked 692)  
 Number of Ratings: 14,652  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 12,911  (Ranked 33)  
-Sum: 100,697 (Ranked 19)  
+Max (Great for Quick Sessions): 12,923  (Ranked 33)  
+Sum: 100,709 (Ranked 19)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 12,911 |
+| This game is Great for Quick Sessions | 12,923 |
 | This game is Relaxing | 10,644 |
 | This game has Competitive Players | 10,617 |
 | This game has Diverse Characters | 10,080 |
@@ -374,4 +374,4 @@ Diff (max vs sum): 14
 | 2024-01-05 | 4.45 | - | 12,894 | 100,555 |
 | 2024-01-06 | 4.45 | - | 12,902 | 100,608 |
 | 2024-01-07 | 4.45 | - | 12,911 | 100,662 |
-| 2024-01-08 | 4.45 | - | 12,911 | 100,697 |
+| 2024-01-08 | 4.45 | - | 12,923 | 100,709 |

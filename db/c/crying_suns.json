@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473566,
+  "EOS_Progressed": 473567,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27919,6 +27919,11 @@
       "Time": "2024-01-08T19:10:06.9007969+00:00",
       "NumProgressed": 473566,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-08T20:09:47.7113507+00:00",
+      "NumProgressed": 473567,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28114,7 +28119,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161012
+      "UsersEstimate": 161013
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28490,7 +28495,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -28561,21 +28566,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17500,
+      "Progressed": 17501,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473566,
+      "Progressed": 473567,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:10:06.9007968+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:47.7113503+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:59:40.3137109+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:10:06.9009784+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:59:26.9756331+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:47.7115272+00:00"
 }

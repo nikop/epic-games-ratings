@@ -5,19 +5,19 @@ Rating: 4.69 (Ranked 236)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~214,655 |
-| 50 HEADSHOTS | 31.00% | ~201,646 |
-| SCIENCE AND INDUSTRY | 30.00% | ~195,141 |
-| FINISHED CHAPTER 1 | 29.00% | ~188,636 |
-| FINISHED CHAPTER 2 | 21.00% | ~136,599 |
-| 200 HEADSHOTS | 19.00% | ~123,589 |
-| FINISHED CHAPTER 3 | 18.00% | ~117,085 |
-| FINISHED CHAPTER 4 | 15.00% | ~97,570 |
-| FINISH CHAPTER 5 | 13.00% | ~84,561 |
-| FINISH CHAPTER 6 | 11.00% | ~71,552 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,552 |
-| 1000 KILLS | 10.00% | ~65,047 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,019 |
+| 100 KILLS | 33.00% | ~214,651 |
+| 50 HEADSHOTS | 31.00% | ~201,642 |
+| SCIENCE AND INDUSTRY | 30.00% | ~195,137 |
+| FINISHED CHAPTER 1 | 29.00% | ~188,633 |
+| FINISHED CHAPTER 2 | 21.00% | ~136,596 |
+| 200 HEADSHOTS | 19.00% | ~123,587 |
+| FINISHED CHAPTER 3 | 18.00% | ~117,082 |
+| FINISHED CHAPTER 4 | 15.00% | ~97,569 |
+| FINISH CHAPTER 5 | 13.00% | ~84,559 |
+| FINISH CHAPTER 6 | 11.00% | ~71,550 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,550 |
+| 1000 KILLS | 10.00% | ~65,046 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,018 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,009 |
 | FIRST BLOOD | 2.00% | ~13,009 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,505 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 236)
 | THE GAMBLER | 0.10% | ~650 |
 | WARRIOR IN A GARDEN | 0.10% | ~650 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 650,470 (Ranked 32)  
+Progressed: 650,457 (Ranked 32)  
 Completed: 59 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,8 +324,8 @@ Completed: 59 (0.01%) (Ranked 372)
 | 2024-01-08 | 650,860 | 59 |
 ## Awards
 Max (Great Boss Battles): 494  (Ranked 223)  
-Sum: 559 (Ranked 330)  
-Diff (max vs sum): -107  
+Sum: 579 (Ranked 327)  
+Diff (max vs sum): -104  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 494 |
@@ -333,6 +333,7 @@ Diff (max vs sum): -107
 | This game is Great for Beginners | 24 |
 | This game has Competitive Players | 20 |
 | This game is Highly Recommended | 20 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -492,4 +493,4 @@ Diff (max vs sum): -107
 | 2024-01-03 | 4.69 | 483 | 547 |
 | 2024-01-04 | 4.69 | 486 | 550 |
 | 2024-01-07 | 4.69 | 493 | 557 |
-| 2024-01-08 | 4.69 | 494 | 559 |
+| 2024-01-08 | 4.69 | 494 | 579 |

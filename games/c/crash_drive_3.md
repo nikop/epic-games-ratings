@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 30.00% | ~131 |
+| Baby's First Car | 29.00% | ~127 |
 | A Forest Walk | 29.00% | ~127 |
-| Baby's First Car | 28.00% | ~122 |
 | Amateur Mechanic | 27.00% | ~118 |
 | Pushover | 27.00% | ~118 |
-| Multiply that! | 25.00% | ~109 |
-| C-C-C-Combo! | 24.00% | ~105 |
+| C-C-C-Combo! | 25.00% | ~110 |
+| Multiply that! | 25.00% | ~110 |
 | Fore! | 22.00% | ~96 |
 | The Collector | 22.00% | ~96 |
 | Insurance fraud | 22.00% | ~96 |
@@ -21,9 +21,9 @@
 | To and Fro | 21.00% | ~92 |
 | I see the light! | 21.00% | ~92 |
 | In the Bag! | 21.00% | ~92 |
-| Car-Tapult | 20.00% | ~87 |
-| Goodbye cruel world | 20.00% | ~87 |
-| Beach Party! | 20.00% | ~87 |
+| Car-Tapult | 20.00% | ~88 |
+| Goodbye cruel world | 20.00% | ~88 |
+| Beach Party! | 20.00% | ~88 |
 | First Come, First Serve | 19.00% | ~83 |
 | Disoriented | 19.00% | ~83 |
 | Anger Issues | 19.00% | ~83 |
@@ -37,7 +37,7 @@
 | Speed of light | 16.00% | ~70 |
 | Drift King! | 15.00% | ~66 |
 | Out of this League | 13.00% | ~57 |
-| Special Forces | 12.00% | ~52 |
+| Special Forces | 12.00% | ~53 |
 | Toot Toot! | 11.00% | ~48 |
 | Blasting away! | 11.00% | ~48 |
 | High Roller | 10.00% | ~44 |
@@ -47,8 +47,8 @@
 | Space Crash | 6.00% | ~26 |
 | To war! | 6.00% | ~26 |
 | Hoarder | 6.00% | ~26 |
-| A Starting Collector | 4.00% | ~17 |
-| Event Master | 4.00% | ~17 |
+| A Starting Collector | 4.00% | ~18 |
+| Event Master | 4.00% | ~18 |
 | My Precious | 3.00% | ~13 |
 | Apprentice Mechanic | 3.00% | ~13 |
 | 433 Eros | 3.00% | ~13 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437 (Ranked 361)  
-Completed: 2 (0.46%) (Ranked 228)  
+Progressed: 438 (Ranked 361)  
+Completed: 2 (0.46%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -173,6 +173,7 @@ Completed: 2 (0.46%) (Ranked 228)
 | 2024-01-05 | 434 | 2 |
 | 2024-01-06 | 435 | 2 |
 | 2024-01-07 | 437 | 2 |
+| 2024-01-08 | 438 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

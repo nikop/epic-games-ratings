@@ -9,7 +9,7 @@
 | Abandon Ship! | 32.00% | ~40 |
 | The Tomb of Kih-Oskh | 28.00% | ~35 |
 | The Weighing of the Soul | 24.00% | ~30 |
-| The Curse of Kih-Oskh | 18.00% | ~22 |
+| The Curse of Kih-Oskh | 19.00% | ~24 |
 | It's a Deal! | 14.00% | ~18 |
 | Cat Lover | 12.00% | ~15 |
 | Dynamite, Treason and Coconuts | 12.00% | ~15 |
@@ -29,10 +29,10 @@
 | Eyes Shut | 6.00% | ~8 |
 | Mountain Runner | 4.00% | ~5 |
 | Subtlety | 4.00% | ~5 |
+| A Yummy Detour | 3.00% | ~4 |
 | The Corporal's Golden Boy | 2.00% | ~2 |
 | A Diagnosis | 2.00% | ~2 |
 | Jungle Runner | 2.00% | ~2 |
-| A Yummy Detour | 2.00% | ~2 |
 | The Pharaoh's New Clothes | 2.00% | ~2 |
 | Guilt | 2.00% | ~2 |
 | Threat | 2.00% | ~2 |

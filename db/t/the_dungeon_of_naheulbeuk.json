@@ -4,7 +4,7 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 447,
   "Ranking_Popularity": 276,
-  "Ranking_PopularitySum": 329,
+  "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 102,
@@ -1707,9 +1707,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247265,
+  "EOS_Progressed": 247273,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1248,
+  "EOS_NewPlayers": 1244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25442,6 +25442,11 @@
       "Time": "2024-01-08T19:10:05.6669262+00:00",
       "NumProgressed": 247265,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-08T20:09:46.6397575+00:00",
+      "NumProgressed": 247273,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25501,7 +25506,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19781
+      "UsersEstimate": 19782
     },
     {
       "ID": "Chapter2",
@@ -25509,7 +25514,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12363
+      "UsersEstimate": 12364
     },
     {
       "ID": "Chapter3",
@@ -25699,9 +25704,9 @@
       "ID": "DLC3BigBrain",
       "SetID": "50p8kh1",
       "Name": "Egghead",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 495
     },
     {
       "ID": "DLC3Chapter11",
@@ -25853,7 +25858,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22254
+      "UsersEstimate": 22255
     },
     {
       "ID": "DwarfElf15Support",
@@ -25901,7 +25906,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 89015
+      "UsersEstimate": 89018
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25917,7 +25922,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12363
+      "UsersEstimate": 12364
     },
     {
       "ID": "EndCombatOneHp",
@@ -25925,7 +25930,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12363
+      "UsersEstimate": 12364
     },
     {
       "ID": "EndGameCursed",
@@ -25949,7 +25954,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24726
+      "UsersEstimate": 24727
     },
     {
       "ID": "FollowBraztok",
@@ -26156,21 +26161,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247265,
+      "Progressed": 247273,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247265,
+      "Progressed": 247273,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-07T14:58:32.9313292+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:10:05.6669261+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:46.6397573+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:59:23.2570092+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:10:05.6670999+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:59:06.7638017+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:46.6399282+00:00"
 }

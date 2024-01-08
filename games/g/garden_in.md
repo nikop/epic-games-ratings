@@ -17,6 +17,7 @@
 | Who's a Good Plant? | 3.00% | ~6 |
 | Budding Scientist | 2.00% | ~4 |
 | Hands in the Dirt | 2.00% | ~4 |
+| Lab-Room | 2.00% | ~4 |
 | Landlord | 2.00% | ~4 |
 | Let's Go for a Walk | 2.00% | ~4 |
 | Master Gardener | 2.00% | ~4 |
@@ -29,15 +30,14 @@
 | Feet in the Water | 1.00% | ~2 |
 | Food for Insects | 1.00% | ~2 |
 | Head in the Clouds | 1.00% | ~2 |
-| Lab-Room | 1.00% | ~2 |
 | Say Cheese! | 1.00% | ~2 |
 | The Best One | 1.00% | ~2 |
 | Weeds Have Feelings Too | 1.00% | ~2 |
 | Love and Science | 0.90% | ~2 |
 | Perfectionist | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215 (Ranked 425)  
-Completed: 1 (0.47%) (Ranked 226)  
+Progressed: 216 (Ranked 425)  
+Completed: 1 (0.46%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,6 +103,7 @@ Completed: 1 (0.47%) (Ranked 226)
 | 2024-01-03 | 212 | 1 |
 | 2024-01-04 | 213 | 1 |
 | 2024-01-06 | 215 | 1 |
+| 2024-01-08 | 216 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

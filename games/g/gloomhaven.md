@@ -6,39 +6,39 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,250 |
-| Overkill | 33.00% | ~10,639 |
-| Vaccine Incoming | 31.00% | ~9,994 |
-| A normal day in Gloomhaven | 29.00% | ~9,349 |
-| Spread the plague | 27.00% | ~8,704 |
-| Get over here! | 24.00% | ~7,737 |
-| Just when I thought I was out... | 19.00% | ~6,125 |
-| Mine... All Mine... | 16.00% | ~5,158 |
-| Precious! | 15.00% | ~4,836 |
-| Grizzled veteran | 15.00% | ~4,836 |
-| Anatomy Lesson | 14.00% | ~4,513 |
-| Light of my life | 13.00% | ~4,191 |
-| Who's the Boss? | 12.00% | ~3,869 |
-| You activated my trap card! | 12.00% | ~3,869 |
-| Obstacle race | 12.00% | ~3,869 |
-| Augmented rat | 10.00% | ~3,224 |
-| Doom and gloom | 10.00% | ~3,224 |
-| Dungeon Veteran | 8.00% | ~2,579 |
-| Pain is your friend | 8.00% | ~2,579 |
-| Pack leader | 7.00% | ~2,257 |
-| Black death | 7.00% | ~2,257 |
-| Play it again, Sam | 7.00% | ~2,257 |
-| Quad damage | 6.00% | ~1,934 |
-| Power Up! | 5.00% | ~1,612 |
-| Merchant of doom | 5.00% | ~1,612 |
-| Caught off guard | 5.00% | ~1,612 |
-| Now you see me... | 5.00% | ~1,612 |
+| I'm not dead yet | 38.00% | ~12,257 |
+| Overkill | 33.00% | ~10,644 |
+| Vaccine Incoming | 31.00% | ~9,999 |
+| A normal day in Gloomhaven | 29.00% | ~9,354 |
+| Spread the plague | 27.00% | ~8,709 |
+| Get over here! | 24.00% | ~7,741 |
+| Just when I thought I was out... | 19.00% | ~6,128 |
+| Mine... All Mine... | 16.00% | ~5,161 |
+| Precious! | 15.00% | ~4,838 |
+| Grizzled veteran | 15.00% | ~4,838 |
+| Anatomy Lesson | 14.00% | ~4,516 |
+| Light of my life | 13.00% | ~4,193 |
+| Who's the Boss? | 12.00% | ~3,870 |
+| You activated my trap card! | 12.00% | ~3,870 |
+| Obstacle race | 12.00% | ~3,870 |
+| Augmented rat | 10.00% | ~3,225 |
+| Doom and gloom | 10.00% | ~3,225 |
+| Dungeon Veteran | 8.00% | ~2,580 |
+| Pain is your friend | 8.00% | ~2,580 |
+| Pack leader | 7.00% | ~2,258 |
+| Black death | 7.00% | ~2,258 |
+| Play it again, Sam | 7.00% | ~2,258 |
+| Quad damage | 6.00% | ~1,935 |
+| Power Up! | 5.00% | ~1,613 |
+| Merchant of doom | 5.00% | ~1,613 |
+| Caught off guard | 5.00% | ~1,613 |
+| Now you see me... | 5.00% | ~1,613 |
 | The Pro from Dover | 4.00% | ~1,290 |
 | Pretty lights! | 4.00% | ~1,290 |
-| I hate portals | 3.00% | ~967 |
-| Down the hatch | 3.00% | ~967 |
-| An eye for an eye | 3.00% | ~967 |
-| The Cephalophore | 3.00% | ~967 |
+| I hate portals | 3.00% | ~968 |
+| Down the hatch | 3.00% | ~968 |
+| An eye for an eye | 3.00% | ~968 |
+| The Cephalophore | 3.00% | ~968 |
 | From Gloom, only greed and death emerges | 2.00% | ~645 |
 | The Rat King | 2.00% | ~645 |
 | How to train your Drake | 2.00% | ~645 |
@@ -46,11 +46,11 @@ Number of Ratings: 68  (23.09.2022)
 | The Sniper | 2.00% | ~645 |
 | Grin and bear it | 2.00% | ~645 |
 | An axe to grind | 2.00% | ~645 |
-| Betray this | 1.00% | ~322 |
-| Add a bit of colour | 1.00% | ~322 |
-| Captain hooked | 1.00% | ~322 |
-| Spoiler police! | 1.00% | ~322 |
-| New Blood | 1.00% | ~322 |
+| Betray this | 1.00% | ~323 |
+| Add a bit of colour | 1.00% | ~323 |
+| Captain hooked | 1.00% | ~323 |
+| Spoiler police! | 1.00% | ~323 |
+| New Blood | 1.00% | ~323 |
 | The Pacifist | 0.50% | ~161 |
 | The evil that men do | 0.50% | ~161 |
 | Born Support | 0.50% | ~161 |
@@ -58,17 +58,17 @@ Number of Ratings: 68  (23.09.2022)
 | A tough job | 0.30% | ~97 |
 | The Jaws of victory! | 0.30% | ~97 |
 | Pull out the big guns | 0.30% | ~97 |
-| The Cartographer | 0.20% | ~64 |
-| Beware my power | 0.20% | ~64 |
-| Crimson Tornado | 0.20% | ~64 |
-| Murder Death Kill | 0.20% | ~64 |
+| The Cartographer | 0.20% | ~65 |
+| Beware my power | 0.20% | ~65 |
+| Crimson Tornado | 0.20% | ~65 |
+| Murder Death Kill | 0.20% | ~65 |
 | A cult following | 0.10% | ~32 |
 | Over your dead body | 0.10% | ~32 |
 | The Guildmaster | 0.10% | ~32 |
 | Lara Who? | 0.10% | ~32 |
 | Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,238 (Ranked 140)  
+Progressed: 32,254 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 1 (0.00%) (Ranked 394)
 | 2024-01-05 | 31,403 | 1 |
 | 2024-01-06 | 31,749 | 1 |
 | 2024-01-07 | 32,091 | 1 |
-| 2024-01-08 | 32,238 | 1 |
+| 2024-01-08 | 32,254 | 1 |
 ## Awards
 Max (Character Customization): 3,616  (Ranked 94)  
 Sum: 8,468 (Ranked 106)  

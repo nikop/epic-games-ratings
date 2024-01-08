@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -1025,9 +1025,9 @@
       "ID": "the_long_night",
       "SetID": "3j2phem",
       "Name": "The Long Night",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "the_longest_night",
@@ -1058,8 +1058,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:03:39.1679129+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:03:25.5498589+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.9331168+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:00.6193646+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:03:39.1679439+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:57:41.3558139+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:03:25.5498809+00:00"
 }

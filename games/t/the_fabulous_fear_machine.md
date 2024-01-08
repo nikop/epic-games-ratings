@@ -10,9 +10,9 @@
 | The battle of Great Britain | 37.00% | ~33 |
 | Pulp! Where Monsters Dwell | 30.00% | ~27 |
 | A continent with chemistry | 29.00% | ~26 |
-| The happy farmer girl | 26.00% | ~23 |
+| The happy farmer girl | 27.00% | ~24 |
 | Pulp! Terror Tales in the Night | 25.00% | ~22 |
-| Giant | 22.00% | ~20 |
+| Giant | 24.00% | ~21 |
 | A rival with no options | 21.00% | ~19 |
 | Pulp! Out of this World | 21.00% | ~19 |
 | Diagnosis: fear | 21.00% | ~19 |

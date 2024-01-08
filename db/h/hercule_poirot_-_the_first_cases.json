@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -932,9 +932,9 @@
       "ID": "ACH_018",
       "SetID": "72imik0",
       "Name": "Thinking of Everything",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_019",
@@ -1237,8 +1237,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:06:49.3679353+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:07:58.0990378+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:49.2608665+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:03:22.8874029+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:06:49.3679842+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:03:06.2934921+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:07:58.0990753+00:00"
 }

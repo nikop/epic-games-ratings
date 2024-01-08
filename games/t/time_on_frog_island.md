@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 73.00% | ~32 |
-| Sea Legs | 64.00% | ~28 |
-| What?! | 39.00% | ~17 |
-| Frogs Legs | 23.00% | ~10 |
+| Shipwrecked! | 73.00% | ~33 |
+| Sea Legs | 62.00% | ~28 |
+| What?! | 40.00% | ~18 |
+| Frogs Legs | 22.00% | ~10 |
 | Mad Scientist | 18.00% | ~8 |
-| Hoist the Sails | 16.00% | ~7 |
+| Hoist the Sails | 18.00% | ~8 |
 | Secure the Sheets | 16.00% | ~7 |
-| Socialite | 14.00% | ~6 |
-| Hands on the Helm | 14.00% | ~6 |
+| Socialite | 13.00% | ~6 |
+| Hands on the Helm | 13.00% | ~6 |
 | Couch-surfing | 11.00% | ~5 |
 | Replace the Rudder | 11.00% | ~5 |
 | Who Even Needs Keys | 9.00% | ~4 |
@@ -29,19 +29,19 @@
 | Honey, I'm Home | 7.00% | ~3 |
 | Fantastic Fungi | 7.00% | ~3 |
 | Home Sweet Home | 7.00% | ~3 |
-| One with the frogs | 5.00% | ~2 |
-| Shrub-Seeing: Lights in the sky | 5.00% | ~2 |
-| Shrub-Seeing: Ancient Extractor | 5.00% | ~2 |
-| Shrub-Seeing: Seen it all! | 5.00% | ~2 |
-| Return to sender | 5.00% | ~2 |
-| Vandal | 5.00% | ~2 |
-| Falling with Style | 5.00% | ~2 |
-| Froggy Friendship | 5.00% | ~2 |
+| One with the frogs | 4.00% | ~2 |
+| Shrub-Seeing: Lights in the sky | 4.00% | ~2 |
+| Shrub-Seeing: Ancient Extractor | 4.00% | ~2 |
+| Shrub-Seeing: Seen it all! | 4.00% | ~2 |
+| Return to sender | 4.00% | ~2 |
+| Vandal | 4.00% | ~2 |
+| Falling with Style | 4.00% | ~2 |
+| Froggy Friendship | 4.00% | ~2 |
 | Crunch Time | 2.00% | ~1 |
 | Just Here for the Food | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 569)  
-Completed: 1 (2.27%) (Ranked 132)  
+Progressed: 45 (Ranked 567)  
+Completed: 1 (2.22%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 1 (2.27%) (Ranked 132)
 | 2024-01-04 | 40 | 1 |
 | 2024-01-06 | 42 | 1 |
 | 2024-01-07 | 43 | 1 |
-| 2024-01-08 | 44 | 1 |
+| 2024-01-08 | 45 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

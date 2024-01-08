@@ -53,12 +53,12 @@ Rating: 4.75 (Ranked 147)
 | The Last Stand - This Time For Real! | 24.00% | ~179 |
 | Rubble and Ashes | 22.00% | ~164 |
 | Lavalumps on Ice! | 21.00% | ~157 |
+| To Infinity And Beyond! | 20.00% | ~149 |
 | To the Max! | 19.00% | ~142 |
-| To Infinity And Beyond! | 19.00% | ~142 |
+| Evilification | 19.00% | ~142 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~134 |
 | My Little Torture Chamber | 18.00% | ~134 |
 | Heal Heal Blessing | 18.00% | ~134 |
-| Evilification | 18.00% | ~134 |
 | Mirror, Mirror | 17.00% | ~127 |
 | Untouchable | 17.00% | ~127 |
 | Laser Eyes Are So Useless | 14.00% | ~104 |

@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~918 |
+| Malpractice Assurance | 13.00% | ~919 |
 | Lost and Found | 8.00% | ~565 |
 | Autodidact | 7.00% | ~9,254 |
-| This guy... again? | 7.00% | ~494 |
+| This guy... again? | 7.00% | ~495 |
 | This Belongs in a Museum | 6.00% | ~7,932 |
 | Creep and Sleep | 6.00% | ~7,932 |
 | Overdue Notice | 6.00% | ~7,932 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,288 |
 | A Place to Lay Your Head | 4.00% | ~5,288 |
 | Nope | 4.00% | ~5,288 |
-| Friends 'Til the End | 4.00% | ~282 |
+| Friends 'Til the End | 4.00% | ~283 |
 | Resurrection | 3.00% | ~3,966 |
 | Unleash Hell | 3.00% | ~3,966 |
 | Funny Guy | 3.00% | ~3,966 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 0.90% | ~1,190 |
 | Triage | 0.90% | ~1,190 |
 | No Mercy | 0.90% | ~64 |
-| Et Tu, Riposte? | 0.80% | ~56 |
+| Et Tu, Riposte? | 0.80% | ~57 |
 | The World As It Was | 0.70% | ~925 |
 | A Life Well Lived | 0.60% | ~793 |
 | Bacon Bits | 0.60% | ~793 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,193 (Ranked 91)  
+Progressed: 132,197 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,193 | 3 |
+| 2024-01-08 | 132,197 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
 Sum: 21,539 (Ranked 58)  

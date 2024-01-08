@@ -9,24 +9,24 @@
 | Mechanical Buddy | 74.00% | ~266 |
 | Dicesmithing Time! | 64.00% | ~230 |
 | Sanctuary Guardian | 54.00% | ~194 |
-| Endless Tricks | 51.00% | ~183 |
-| Wild's Keeper | 48.00% | ~172 |
+| Endless Tricks | 51.00% | ~184 |
+| Wild's Keeper | 48.00% | ~173 |
 | Mind Illuminator | 44.00% | ~158 |
-| Stellar Dismantler | 38.00% | ~136 |
+| Stellar Dismantler | 38.00% | ~137 |
 | Astral Adventurer | 35.00% | ~126 |
 | Noctuan Champion | 35.00% | ~126 |
-| Anomaly Destroyer | 31.00% | ~111 |
-| Star Killer | 31.00% | ~111 |
-| Eridanian Champion | 26.00% | ~93 |
+| Anomaly Destroyer | 31.00% | ~112 |
+| Star Killer | 31.00% | ~112 |
+| Eridanian Champion | 26.00% | ~94 |
 | Loyal Partner | 22.00% | ~79 |
-| Lacertian Champion | 21.00% | ~75 |
+| Lacertian Champion | 21.00% | ~76 |
 | Shard Spender | 19.00% | ~68 |
 | Apian Champion | 19.00% | ~68 |
 | Unbeatable | 18.00% | ~65 |
-| Sadistic Plan | 16.00% | ~57 |
+| Sadistic Plan | 16.00% | ~58 |
 | Behenian Champion | 14.00% | ~50 |
 | Heavy Purger | 12.00% | ~43 |
-| Wave Bender | 11.00% | ~39 |
+| Wave Bender | 11.00% | ~40 |
 | Astral Seeker | 9.00% | ~32 |
 | Aquarian Champion | 9.00% | ~32 |
 | Heart Gate | 8.00% | ~29 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 359 (Ranked 376)  
+Progressed: 360 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,4 +177,4 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 340 | 0 |
 | 2024-01-06 | 347 | 0 |
 | 2024-01-07 | 354 | 0 |
-| 2024-01-08 | 359 | 0 |
+| 2024-01-08 | 360 | 0 |

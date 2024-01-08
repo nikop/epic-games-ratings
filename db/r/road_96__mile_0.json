@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 675,
+  "EOS_Progressed": 677,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2447,6 +2447,11 @@
       "Time": "2024-01-08T19:09:55.2864209+00:00",
       "NumProgressed": 675,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T20:09:36.3636847+00:00",
+      "NumProgressed": 677,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2458,7 +2463,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 45,
       "XP": 60,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "completeact2",
@@ -2466,15 +2471,15 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 38,
       "XP": 80,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 250
+      "UsersEstimate": 244
     },
     {
       "ID": "findalltapes",
@@ -2554,7 +2559,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "scoreminrankrv1",
@@ -2568,16 +2573,16 @@
       "ID": "scoreminrankrv2",
       "SetID": "40n95i5",
       "Name": "Friendzone",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 675,
+      "Progressed": 677,
       "Completed": 3
     }
   ],
@@ -2585,8 +2590,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:09:55.2864206+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:36.3636841+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:34.4793066+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:09:55.2864595+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:58:16.9303513+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:36.3637021+00:00"
 }

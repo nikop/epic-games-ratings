@@ -6,13 +6,13 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,447 |
-| Life is your teacher | 5.00% | ~37,872 |
-| The Assault | 4.00% | ~30,298 |
-| Lightning Hands | 4.00% | ~30,298 |
-| The Hateful Pole Fighter | 3.00% | ~22,723 |
-| State of constant learning | 3.00% | ~22,723 |
-| Old Child | 3.00% | ~22,723 |
+| The Old Grandmaster | 6.00% | ~45,448 |
+| Life is your teacher | 5.00% | ~37,873 |
+| The Assault | 4.00% | ~30,299 |
+| Lightning Hands | 4.00% | ~30,299 |
+| The Hateful Pole Fighter | 3.00% | ~22,724 |
+| State of constant learning | 3.00% | ~22,724 |
+| Old Child | 3.00% | ~22,724 |
 | A Lady's Blood in the Snow | 2.00% | ~15,149 |
 | Lady Wing Chun | 2.00% | ~15,149 |
 | Kill Nil | 2.00% | ~15,149 |
@@ -24,20 +24,20 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,149 |
 | Rumble in the Hangar | 2.00% | ~15,149 |
 | Diligence as a goal | 2.00% | ~1,335 |
-| Furious Fists | 1.00% | ~7,574 |
-| Scareless | 1.00% | ~7,574 |
-| Dance of the Praying Mantis | 1.00% | ~7,574 |
-| Qi Gong: Mind | 1.00% | ~7,574 |
-| Kung-Fu Tussle | 1.00% | ~7,574 |
-| Take damage to save time | 1.00% | ~7,574 |
-| Project Arena | 1.00% | ~667 |
+| Furious Fists | 1.00% | ~7,575 |
+| Scareless | 1.00% | ~7,575 |
+| Dance of the Praying Mantis | 1.00% | ~7,575 |
+| Qi Gong: Mind | 1.00% | ~7,575 |
+| Kung-Fu Tussle | 1.00% | ~7,575 |
+| Take damage to save time | 1.00% | ~7,575 |
+| Project Arena | 1.00% | ~668 |
 | Fight the way you practice | 0.80% | ~534 |
 | Muk Yan Master | 0.70% | ~5,302 |
 | Tiger on Fire | 0.60% | ~4,545 |
 | Source of Flying Daggers | 0.60% | ~4,545 |
 | Detective Story | 0.60% | ~4,545 |
-| Bloody Sport | 0.60% | ~400 |
-| Martial Hub | 0.60% | ~400 |
+| Bloody Sport | 0.60% | ~401 |
+| Martial Hub | 0.60% | ~401 |
 | Iron Money | 0.50% | ~3,787 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,787 |
 | Prodigal Child | 0.50% | ~3,787 |
@@ -55,11 +55,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.20% | ~1,515 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,515 |
 | Be like water my friend | 0.20% | ~1,515 |
-| Secure, Protect, Leave | 0.20% | ~133 |
-| Crouching Tiger | 0.20% | ~133 |
-| Skill and an even stronger will | 0.20% | ~133 |
-| Master of the Flying Assassins | 0.20% | ~133 |
-| Beatmaker | 0.20% | ~133 |
+| Secure, Protect, Leave | 0.20% | ~134 |
+| Crouching Tiger | 0.20% | ~134 |
+| Skill and an even stronger will | 0.20% | ~134 |
+| Master of the Flying Assassins | 0.20% | ~134 |
+| Beatmaker | 0.20% | ~134 |
 | Warriors from the Mountain | 0.10% | ~757 |
 | Hidden Dragon | 0.10% | ~67 |
 | Here Cometh the Iceman | 0.10% | ~67 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~67 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 757,443 (Ranked 26)  
+Progressed: 757,464 (Ranked 26)  
 Completed: 12,979 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,10 +330,10 @@ Completed: 12,979 (1.71%) (Ranked 142)
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
 | 2024-01-07 | 756,813 | 12,976 |
-| 2024-01-08 | 757,443 | 12,979 |
+| 2024-01-08 | 757,464 | 12,979 |
 ## Awards
 Max (Great Boss Battles): 7,154  (Ranked 56)  
-Sum: 12,647 (Ranked 85)  
+Sum: 12,650 (Ranked 85)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -344,8 +344,8 @@ Diff (max vs sum): -29
 | This game has Amazing Characters | 608 |
 | This game is Highly Recommended | 605 |
 | This game has Quickly Understood Controls | 597 |
+| This game has Unique Visuals | 585 |
 | This game is Extremely Fun | 583 |
-| This game has Unique Visuals | 582 |
 | This game is Relaxing | 561 |
 | This game has a Creative Community | 436 |
 | This game has Obsessive Gameplay | 293 |
@@ -707,4 +707,4 @@ Diff (max vs sum): -29
 | 2024-01-05 | 4.82 | - | 7,120 | 12,030 |
 | 2024-01-06 | 4.82 | - | 7,131 | 12,615 |
 | 2024-01-07 | 4.82 | - | 7,148 | 12,638 |
-| 2024-01-08 | 4.82 | - | 7,154 | 12,647 |
+| 2024-01-08 | 4.82 | - | 7,154 | 12,650 |

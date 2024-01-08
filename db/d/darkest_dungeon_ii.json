@@ -10662,9 +10662,9 @@
       "Count": 1084
     }
   ],
-  "EOS_Progressed": 132193,
+  "EOS_Progressed": 132197,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1017,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38952,6 +38952,11 @@
       "Time": "2024-01-08T19:09:44.4502659+00:00",
       "NumProgressed": 132193,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T20:09:25.2518699+00:00",
+      "NumProgressed": 132197,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39499,7 +39504,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "combat_kill_collector",
@@ -39507,7 +39512,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39539,7 +39544,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -39571,7 +39576,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39594,21 +39599,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132193,
+      "Progressed": 132197,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7062,
+      "Progressed": 7066,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-08T16:58:39.4176472+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:09:44.4502657+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:25.2518696+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:27.5257511+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:09:44.4504276+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:58:09.1338662+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:25.2520431+00:00"
 }

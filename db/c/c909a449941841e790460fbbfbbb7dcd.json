@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 240,
+  "EOS_Progressed": 241,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.58,
+  "EOS_Completed_Percentage": 4.56,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -1089,6 +1089,11 @@
       "Time": "2024-01-07T11:07:40.5419988+00:00",
       "NumProgressed": 240,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-08T20:03:51.5285195+00:00",
+      "NumProgressed": 241,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -1101,7 +1106,7 @@
       "Name": "Kaboom!",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -1109,7 +1114,7 @@
       "Name": "Laser Beam",
       "Percentage": 60,
       "XP": 60,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -1117,7 +1122,7 @@
       "Name": "Slayer",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -1125,7 +1130,7 @@
       "Name": "Assassin",
       "Percentage": 58,
       "XP": 60,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -1133,7 +1138,7 @@
       "Name": "Murderer",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -1141,15 +1146,15 @@
       "Name": "Killer",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Exterminator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_0_0",
@@ -1157,7 +1162,7 @@
       "Name": "Peaceful is safe!",
       "Percentage": 65,
       "XP": 60,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -1213,7 +1218,7 @@
       "Name": "Powerful",
       "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -1229,21 +1234,21 @@
       "Name": "Strong",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 240,
+      "Progressed": 241,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:04:04.035654+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:03:51.5285192+00:00",
   "LastUpdate_AppInfo": "2024-01-02T23:57:08.4629099+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:00.6502785+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:04:04.0356699+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:57:41.4258045+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:03:51.5285335+00:00"
 }

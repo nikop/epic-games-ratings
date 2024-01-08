@@ -21,9 +21,9 @@ Rating: 4.69 (Ranked 236)
 | The Steel Shadow | 24.00% | ~306 |
 | Breaking Down Barriers | 23.00% | ~293 |
 | Right On Time | 22.00% | ~281 |
+| Like Clockwork | 22.00% | ~281 |
 | The Wicked Twins | 22.00% | ~281 |
 | Golem Chaser | 22.00% | ~281 |
-| Like Clockwork | 21.00% | ~268 |
 | The Betrayer | 21.00% | ~268 |
 | Check Your Pulse | 20.00% | ~255 |
 | The Loose Cannon | 19.00% | ~242 |

@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7758,
+  "EOS_Progressed": 7759,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -6848,6 +6848,11 @@
       "Time": "2024-01-08T18:08:24.6096769+00:00",
       "NumProgressed": 7758,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-08T20:07:55.5845809+00:00",
+      "NumProgressed": 7759,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6899,7 +6904,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -6931,7 +6936,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -6955,7 +6960,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -6979,7 +6984,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -7011,7 +7016,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4344
+      "UsersEstimate": 4345
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -7035,7 +7040,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -7059,7 +7064,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3103
+      "UsersEstimate": 3104
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -7074,15 +7079,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7758,
+      "Progressed": 7759,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:06:46.7801364+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:07:55.5845806+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:05.4838483+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:03:33.7679934+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:06:46.7801874+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:03:18.1507847+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:07:55.5846216+00:00"
 }

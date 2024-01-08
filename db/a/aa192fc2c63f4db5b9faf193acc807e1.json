@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.65,
+  "EOS_Completed_Percentage": 3.64,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1194,6 +1194,11 @@
       "Time": "2024-01-07T23:10:28.5540976+00:00",
       "NumProgressed": 274,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-08T20:09:34.5819813+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1238,15 +1243,15 @@
       "Name": "True fisherman",
       "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "creepytaleach2",
       "SetID": "bnif31p",
       "Name": "Naivety",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "creepytaleach3",
@@ -1254,7 +1259,7 @@
       "Name": "Happy end",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "creepytaleach4",
@@ -1270,7 +1275,7 @@
       "Name": "Incorrigible researcher",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "creepytaleach6",
@@ -1294,7 +1299,7 @@
       "Name": "Fake tune",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "creepytaleach9",
@@ -1309,14 +1314,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:09:53.4769961+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:34.581981+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:06.3288119+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:59:10.798155+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:09:53.477029+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:58:54.146102+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:34.5819937+00:00"
 }

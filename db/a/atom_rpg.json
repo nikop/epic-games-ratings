@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1681,
+  "EOS_Progressed": 1682,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4420,6 +4420,11 @@
       "Time": "2024-01-08T19:09:56.9686838+00:00",
       "NumProgressed": 1681,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T20:09:38.152966+00:00",
+      "NumProgressed": 1682,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4431,7 +4436,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -4487,7 +4492,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "EXPERT_1",
@@ -4679,7 +4684,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "TRAVELER_1",
@@ -4718,15 +4723,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1681,
+      "Progressed": 1682,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:09:56.9686836+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:38.1529656+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:59:42.2772016+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:09:56.9687255+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:59:28.9665578+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:38.1530034+00:00"
 }

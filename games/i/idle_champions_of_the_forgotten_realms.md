@@ -8,15 +8,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,110 |
 | The Cursed Farmer | 2.00% | ~5,055 |
-| Beast Intentions | 1.00% | ~2,527 |
-| The Mad Wizard | 1.00% | ~2,527 |
+| Beast Intentions | 1.00% | ~2,528 |
+| The Mad Wizard | 1.00% | ~2,528 |
 | The Ring of Regeneration | 0.80% | ~2,022 |
 | Are Ya Chicken? | 0.80% | ~2,022 |
 | Welcome to Sigil | 0.80% | ~1,752 |
 | Were-verpowered | 0.70% | ~1,769 |
-| Seeking Allies | 0.60% | ~1,516 |
-| Mad Cow Disease | 0.60% | ~1,516 |
-| Friendly Imps | 0.60% | ~1,516 |
+| Seeking Allies | 0.60% | ~1,517 |
+| Mad Cow Disease | 0.60% | ~1,517 |
+| Friendly Imps | 0.60% | ~1,517 |
 | Fast Food | 0.60% | ~1,314 |
 | A Persistent Buzzing | 0.50% | ~1,264 |
 | Pure Energy | 0.50% | ~1,264 |
@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.40% | ~1,011 |
 | Unearthed Evil | 0.40% | ~1,011 |
 | The Crumbling Temple | 0.40% | ~1,011 |
+| Exploring Port Nyanzaru | 0.40% | ~1,011 |
 | The Contagious Curse | 0.40% | ~1,011 |
 | Arcane Suppression | 0.40% | ~876 |
 | Welcome to the Vrocks | 0.40% | ~876 |
@@ -39,31 +40,31 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.30% | ~758 |
 | A Mysterious Summons | 0.30% | ~758 |
 | Building Trust | 0.30% | ~758 |
+| No Time To Rest | 0.30% | ~758 |
 | Useless Allies | 0.30% | ~758 |
-| Exploring Port Nyanzaru | 0.30% | ~758 |
 | Running of the Saurs | 0.30% | ~758 |
 | Escort to Waterdeep | 0.30% | ~758 |
 | Waterdeep Detours | 0.30% | ~758 |
-| The Silken Swamp | 0.20% | ~505 |
-| Supply Run | 0.20% | ~505 |
-| Homecoming | 0.20% | ~505 |
-| Street War | 0.20% | ~505 |
-| March of the Undead | 0.20% | ~505 |
-| No Time To Rest | 0.20% | ~505 |
-| Invisible Shadows | 0.20% | ~505 |
-| The Dinner Party | 0.20% | ~505 |
-| The Botched Kidnapping | 0.20% | ~505 |
-| The Death Curse | 0.20% | ~505 |
-| Premature Betrayal | 0.20% | ~505 |
-| A Tale of Two Cities | 0.20% | ~505 |
-| Flying Monkey Skulls of Doom | 0.20% | ~505 |
-| Close Escort | 0.20% | ~505 |
-| Constant Banditry | 0.20% | ~505 |
-| Easily Distracted | 0.20% | ~505 |
-| Underdeep Cartography | 0.20% | ~505 |
-| Overdue Rendezvous | 0.20% | ~505 |
-| The Templar's Camp | 0.20% | ~505 |
-| Rescue in the Jungle | 0.20% | ~505 |
+| The Silken Swamp | 0.20% | ~506 |
+| Supply Run | 0.20% | ~506 |
+| Homecoming | 0.20% | ~506 |
+| Street War | 0.20% | ~506 |
+| March of the Undead | 0.20% | ~506 |
+| Invisible Shadows | 0.20% | ~506 |
+| The Dinner Party | 0.20% | ~506 |
+| The Botched Kidnapping | 0.20% | ~506 |
+| Trollskull Manor | 0.20% | ~506 |
+| The Death Curse | 0.20% | ~506 |
+| Premature Betrayal | 0.20% | ~506 |
+| A Tale of Two Cities | 0.20% | ~506 |
+| Flying Monkey Skulls of Doom | 0.20% | ~506 |
+| Close Escort | 0.20% | ~506 |
+| Constant Banditry | 0.20% | ~506 |
+| Easily Distracted | 0.20% | ~506 |
+| Underdeep Cartography | 0.20% | ~506 |
+| Overdue Rendezvous | 0.20% | ~506 |
+| The Templar's Camp | 0.20% | ~506 |
+| Rescue in the Jungle | 0.20% | ~506 |
 | The Beginning is the End | 0.20% | ~438 |
 | The Brains of an Illithid's Desire | 0.20% | ~438 |
 | Pros and CONs | 0.10% | ~253 |
@@ -247,7 +248,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~253 |
 | Seeds of Corruption | 0.10% | ~253 |
 | The Strahd Squad | 0.10% | ~219 |
-| Trollskull Manor | 0.10% | ~253 |
 | The Gargoyle's Apprentice | 0.10% | ~253 |
 | House of Darkness | 0.10% | ~253 |
 | Home Not So Alone | 0.10% | ~219 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,742 (Ranked 70)  
-Completed: 2,601 (1.03%) (Ranked 174)  
+Progressed: 252,760 (Ranked 70)  
+Completed: 2,602 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -816,17 +816,17 @@ Completed: 2,601 (1.03%) (Ranked 174)
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
 | 2024-01-07 | 252,516 | 2,599 |
-| 2024-01-08 | 252,742 | 2,601 |
+| 2024-01-08 | 252,760 | 2,602 |
 ## Awards
 Max (Great for Beginners): 5,763  (Ranked 74)  
-Sum: 33,399 (Ranked 41)  
+Sum: 33,403 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,763 |
 | This game has Diverse Characters | 5,703 |
-| This game has Quickly Understood Controls | 4,899 |
-| This game is Relaxing | 4,769 |
+| This game has Quickly Understood Controls | 4,901 |
+| This game is Relaxing | 4,771 |
 | This game has Amazing Characters | 4,322 |
 | This game is Highly Recommended | 4,310 |
 | This game has Playful Visuals | 3,633 |
@@ -1180,4 +1180,4 @@ Diff (max vs sum): 33
 | 2024-01-05 | 4.06 | - | 5,750 | 33,345 |
 | 2024-01-06 | 4.06 | - | 5,756 | 33,362 |
 | 2024-01-07 | 4.06 | - | 5,756 | 33,386 |
-| 2024-01-08 | 4.06 | - | 5,763 | 33,399 |
+| 2024-01-08 | 4.06 | - | 5,763 | 33,403 |

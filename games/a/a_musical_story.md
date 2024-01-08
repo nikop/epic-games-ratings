@@ -29,8 +29,8 @@
 | Dreamers | 20.00% | ~23 |
 | The Fix | 19.00% | ~22 |
 | Time | 18.00% | ~21 |
+| Bad Trip | 16.00% | ~18 |
 | The Mountains, The Valleys | 16.00% | ~18 |
-| Bad Trip | 15.00% | ~17 |
 | Regrets | 15.00% | ~17 |
 | Chase the Crow | 13.00% | ~15 |
 | The Accident | 12.00% | ~14 |

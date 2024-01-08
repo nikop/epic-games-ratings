@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 746,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.16,
   "EosHistory": [
@@ -2818,9 +2818,9 @@
       "ID": "ach_main18unholy_training",
       "SetID": "4hg22ll",
       "Name": "To Infinity And Beyond!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 149
     },
     {
       "ID": "ach_main19war_completed",
@@ -2866,9 +2866,9 @@
       "ID": "ach_main20end_spawners",
       "SetID": "4hg22ll",
       "Name": "Evilification",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
@@ -2883,8 +2883,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:09:11.2295583+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:08:50.6150927+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:36.4574596+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:09:11.229619+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:58:19.1089014+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:08:50.6151449+00:00"
 }

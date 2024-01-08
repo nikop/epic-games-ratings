@@ -2,9 +2,9 @@
   "ID": "7f0be7eaee1f40039da74dd9591ed049",
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
-  "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.94,
+  "EOS_Completed_Percentage": 2.9,
   "EosHistory": [
     {
       "Time": "2023-12-23T19:03:08.1103933+00:00",
@@ -302,6 +302,11 @@
       "Time": "2024-01-08T10:08:20.2095941+00:00",
       "NumProgressed": 68,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T20:03:29.1032756+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-23T19:03:08.11154+00:00",
@@ -328,7 +333,7 @@
       "ID": "15_RACES",
       "SetID": "2g288ag",
       "Name": "Turbocharged Odyssey",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -338,7 +343,7 @@
       "Name": "Rookie Racer",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "20_RACES",
@@ -368,7 +373,7 @@
       "ID": "2_MAPS",
       "SetID": "2g288ag",
       "Name": "Twice on the Track, Twice to win",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 25,
       "UsersEstimate": 43
     },
@@ -376,7 +381,7 @@
       "ID": "2_RACES",
       "SetID": "2g288ag",
       "Name": "Double Trouble",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 50,
       "UsersEstimate": 57
     },
@@ -392,7 +397,7 @@
       "ID": "3_RACES",
       "SetID": "2g288ag",
       "Name": "Triple Threat",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
       "UsersEstimate": 49
     },
@@ -416,7 +421,7 @@
       "ID": "NO_CRASH",
       "SetID": "2g288ag",
       "Name": "Zen Racer on Map Number 1",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 100,
       "UsersEstimate": 32
     },
@@ -433,13 +438,13 @@
     {
       "ID": "2g288ag",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:03:42.7301033+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:03:29.1032751+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:58.0575536+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:57:39.3811224+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:03:42.7301166+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:57:21.3726918+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:03:29.1032985+00:00"
 }

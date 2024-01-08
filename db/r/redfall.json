@@ -381,9 +381,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2314,
+  "EOS_Progressed": 2315,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4216,6 +4216,11 @@
       "Time": "2024-01-08T19:05:41.5221626+00:00",
       "NumProgressed": 2314,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T20:05:30.912835+00:00",
+      "NumProgressed": 2315,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4459,7 +4464,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Achievement_032",
@@ -4754,7 +4759,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2314,
+      "Progressed": 2315,
       "Completed": 0
     }
   ],
@@ -4762,8 +4767,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:05:41.5221623+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:05:30.9128346+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:59:49.0790393+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:05:41.5222519+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:59:35.3057874+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:05:30.9129054+00:00"
 }

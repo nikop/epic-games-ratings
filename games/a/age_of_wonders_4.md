@@ -7,12 +7,12 @@ Rating: 4.62 (Ranked 378)
 | ---- | ---------- | ----- |
 | Secret Technique | 16.00% | ~1,133 |
 | Realm Estate | 14.00% | ~991 |
-| A Wonderful Discovery | 13.00% | ~920 |
-| Walls Cannot Stop Us | 13.00% | ~920 |
+| A Wonderful Discovery | 13.00% | ~921 |
+| Walls Cannot Stop Us | 13.00% | ~921 |
 | From Friends to Family | 11.00% | ~779 |
 | Bone Peddler | 10.00% | ~708 |
 | Magical Synergy | 9.00% | ~637 |
-| Full Ascension | 8.00% | ~566 |
+| Full Ascension | 8.00% | ~567 |
 | There Can Only Be One! | 7.00% | ~496 |
 | Stronger Together | 7.00% | ~496 |
 | Seat of Power | 7.00% | ~496 |
@@ -28,7 +28,6 @@ Rating: 4.62 (Ranked 378)
 | Impenetrable Fortress | 4.00% | ~283 |
 | Preparation Is Everything | 3.00% | ~212 |
 | Fiery Friend | 3.00% | ~212 |
-| Here be Dragons | 3.00% | ~212 |
 | Tipping the Scales | 3.00% | ~212 |
 | Freed Lands of Manuhari | 3.00% | ~212 |
 | I've Got Everything I Need Right Here | 2.00% | ~142 |
@@ -38,6 +37,7 @@ Rating: 4.62 (Ranked 378)
 | Eternal Lord | 2.00% | ~142 |
 | Crimson Caldera | 2.00% | ~142 |
 | The Eternal Court | 2.00% | ~142 |
+| Here be Dragons | 2.00% | ~142 |
 | Blood of the Dragon | 2.00% | ~142 |
 | Mighty Hoard | 2.00% | ~142 |
 | Sehiran Oasis | 2.00% | ~142 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,079 (Ranked 196)  
+Progressed: 7,082 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
 | 2024-01-07 | 7,051 | 7 |
-| 2024-01-08 | 7,079 | 7 |
+| 2024-01-08 | 7,082 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 482)  
 Sum: 212 (Ranked 412)  

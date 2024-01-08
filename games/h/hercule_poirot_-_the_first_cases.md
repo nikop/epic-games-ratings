@@ -37,7 +37,7 @@ Rating: 4.38 (Ranked 791)
 | The Search | 30.00% | ~149 |
 | The Family | 28.00% | ~139 |
 | Well-travelled | 27.00% | ~134 |
-| Thinking of Everything | 26.00% | ~129 |
+| Thinking of Everything | 27.00% | ~134 |
 | Viscount Edwin Van den Bosch | 26.00% | ~129 |
 | Exquisite Artwork | 25.00% | ~124 |
 | Archibald Sterling | 25.00% | ~124 |

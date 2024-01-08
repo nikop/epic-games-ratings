@@ -7,9 +7,9 @@
 | The Remains of Fleed | 54.00% | ~38 |
 | The Legend | 54.00% | ~38 |
 | Life of Pi | 53.00% | ~37 |
+| Escape from Fleed | 44.00% | ~31 |
 | Strength in Defeat | 44.00% | ~31 |
-| Escape from Fleed | 43.00% | ~30 |
-| First Contact | 40.00% | ~28 |
+| First Contact | 41.00% | ~29 |
 | The Exterminator | 24.00% | ~17 |
 | Technology first! | 20.00% | ~14 |
 | Earth's Savior | 20.00% | ~14 |

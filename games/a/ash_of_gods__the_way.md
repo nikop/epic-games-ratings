@@ -8,7 +8,7 @@
 | Suicide squad | 45.00% | ~33 |
 | Train hard, fight easy | 29.00% | ~21 |
 | Under cover | 29.00% | ~21 |
-| First blood | 27.00% | ~20 |
+| First blood | 29.00% | ~21 |
 | Royal blessing | 23.00% | ~17 |
 | Blood and sand | 19.00% | ~14 |
 | All for one! | 18.00% | ~13 |

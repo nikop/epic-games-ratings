@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -765,9 +765,9 @@
       "ID": "story6",
       "SetID": "c64if4d",
       "Name": "First blood",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "story7",
@@ -806,8 +806,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:09:30.1975487+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:10.467978+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.685228+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:00:26.3484479+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:09:30.1975947+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:00:10.2578756+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:10.4680082+00:00"
 }

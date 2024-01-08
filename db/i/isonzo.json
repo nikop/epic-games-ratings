@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9843,
+  "EOS_Progressed": 9844,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10844,6 +10844,11 @@
       "Time": "2024-01-08T19:09:21.5538813+00:00",
       "NumProgressed": 9843,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-08T20:09:01.390394+00:00",
+      "NumProgressed": 9844,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11047,7 +11052,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4429
+      "UsersEstimate": 4430
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11159,7 +11164,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -11175,7 +11180,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -11214,7 +11219,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9843,
+      "Progressed": 9844,
       "Completed": 10
     }
   ],
@@ -11222,8 +11227,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:09:21.5538809+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:01.3903937+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:59:12.3521617+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:09:21.5539588+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:58:55.7739046+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:01.3904675+00:00"
 }

@@ -15,9 +15,9 @@
 | Bull in a China Shop | 8.00% | ~23 |
 | Chief Butler | 8.00% | ~23 |
 | Sker Explorer | 5.00% | ~14 |
+| The Long Night | 2.00% | ~6 |
 | Ending on a High Note | 1.00% | ~3 |
 | Phonic Boom | 1.00% | ~3 |
-| The Long Night | 1.00% | ~3 |
 | Luddite | 0.70% | ~2 |
 | Maids of Sker | 0.70% | ~2 |
 | Axe of Kindness | 0.30% | ~1 |

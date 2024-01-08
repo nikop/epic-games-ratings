@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2836,6 +2836,11 @@
       "Time": "2024-01-08T11:11:14.4966323+00:00",
       "NumProgressed": 890,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T20:09:40.2839946+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2919,7 +2924,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Goal",
@@ -2943,7 +2948,7 @@
       "Name": "The word around is...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -2975,7 +2980,7 @@
       "Name": "A friend in need...",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "LostAndFound",
@@ -2991,7 +2996,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "NoMoreWards",
@@ -3047,7 +3052,7 @@
       "Name": "Baba Yaga",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ToadCharming",
@@ -3102,7 +3107,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 1
     }
   ],
@@ -3110,8 +3115,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:09:59.1378554+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:40.2839945+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.0155754+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:53.7850171+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:09:59.1378827+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:58:35.1092214+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:40.2840271+00:00"
 }

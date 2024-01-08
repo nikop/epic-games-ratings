@@ -6,34 +6,34 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~892,587 |
-| Green Energy | 59.00% | ~741,727 |
-| Foggy Weather | 58.00% | ~729,156 |
-| Singing In The- | 58.00% | ~729,156 |
-| Unpopular Mayor | 40.00% | ~502,866 |
-| Power at Your Fingertips | 33.00% | ~414,864 |
-| City Planner | 22.00% | ~276,576 |
-| Rolling in Dough | 20.00% | ~251,433 |
-| Does My Bum Look Big In This? | 17.00% | ~213,718 |
-| Climbing the Social Ladder | 16.00% | ~201,146 |
-| Safe City | 13.00% | ~163,431 |
-| Quay-King | 11.00% | ~138,288 |
-| With Canals You Can! | 10.00% | ~125,716 |
-| Lawmaker | 9.00% | ~113,145 |
-| Nomen Est Omen | 7.00% | ~88,002 |
-| Well Informed | 6.00% | ~75,430 |
-| Fire Watch | 5.00% | ~62,858 |
-| Greenest City | 4.00% | ~50,287 |
-| Heavenly City | 3.00% | ~37,715 |
-| Reporting! | 3.00% | ~37,715 |
-| SIMulated City | 3.00% | ~37,715 |
-| The Safest Town | 3.00% | ~37,715 |
-| Professional Dumper | 2.00% | ~25,143 |
+| Pioneer | 71.00% | ~892,633 |
+| Green Energy | 59.00% | ~741,765 |
+| Foggy Weather | 58.00% | ~729,193 |
+| Singing In The- | 58.00% | ~729,193 |
+| Unpopular Mayor | 40.00% | ~502,892 |
+| Power at Your Fingertips | 33.00% | ~414,886 |
+| City Planner | 22.00% | ~276,590 |
+| Rolling in Dough | 20.00% | ~251,446 |
+| Does My Bum Look Big In This? | 17.00% | ~213,729 |
+| Climbing the Social Ladder | 16.00% | ~201,157 |
+| Safe City | 13.00% | ~163,440 |
+| Quay-King | 11.00% | ~138,295 |
+| With Canals You Can! | 10.00% | ~125,723 |
+| Lawmaker | 9.00% | ~113,151 |
+| Nomen Est Omen | 7.00% | ~88,006 |
+| Well Informed | 6.00% | ~75,434 |
+| Fire Watch | 5.00% | ~62,861 |
+| Greenest City | 4.00% | ~50,289 |
+| Heavenly City | 3.00% | ~37,717 |
+| Reporting! | 3.00% | ~37,717 |
+| SIMulated City | 3.00% | ~37,717 |
+| The Safest Town | 3.00% | ~37,717 |
+| Professional Dumper | 2.00% | ~25,145 |
 | City in Motion | 1.00% | ~12,572 |
 | Earthloving City | 1.00% | ~12,572 |
 | Metropolis | 1.00% | ~12,572 |
-| Higher Education | 0.80% | ~10,057 |
-| Beam Me Up | 0.70% | ~8,800 |
+| Higher Education | 0.80% | ~10,058 |
+| Beam Me Up | 0.70% | ~8,801 |
 | Terraformer | 0.60% | ~7,543 |
 | Decorator | 0.50% | ~6,286 |
 | Full Capacity | 0.50% | ~6,286 |
@@ -50,13 +50,13 @@ Number of Ratings: 25,248  (23.09.2022)
 | Postman | 0.40% | ~5,029 |
 | Speed up! | 0.40% | ~5,029 |
 | Thunder and Lightning | 0.40% | ~5,029 |
-| A Huge Hadron | 0.30% | ~3,771 |
-| Airlifter | 0.30% | ~3,771 |
-| Airport Architect | 0.30% | ~3,771 |
-| Are They Naked In There? | 0.30% | ~3,771 |
-| Here's A Tram | 0.30% | ~3,771 |
-| Short Fuse | 0.30% | ~3,771 |
-| We need snorkels! | 0.30% | ~3,771 |
+| A Huge Hadron | 0.30% | ~3,772 |
+| Airlifter | 0.30% | ~3,772 |
+| Airport Architect | 0.30% | ~3,772 |
+| Are They Naked In There? | 0.30% | ~3,772 |
+| Here's A Tram | 0.30% | ~3,772 |
+| Short Fuse | 0.30% | ~3,772 |
+| We need snorkels! | 0.30% | ~3,772 |
 | City in Motion 2 | 0.20% | ~2,514 |
 | Eternal City | 0.20% | ~2,514 |
 | Friendly Teaching | 0.20% | ~2,514 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,257 |
 | Z00 | 0.10% | ~1,257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,257,165 (Ranked 12)  
+Progressed: 1,257,229 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,10 +389,10 @@ Completed: 11 (0.00%) (Ranked 394)
 | 2024-01-05 | 1,252,800 | 11 |
 | 2024-01-06 | 1,254,483 | 11 |
 | 2024-01-07 | 1,256,109 | 11 |
-| 2024-01-08 | 1,257,165 | 11 |
+| 2024-01-08 | 1,257,229 | 11 |
 ## Awards
 Max (Great for Beginners): 6,672  (Ranked 61)  
-Sum: 49,053 (Ranked 32)  
+Sum: 49,061 (Ranked 32)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -402,9 +402,9 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 6,012 |
 | This game is Extremely Fun | 5,605 |
 | This game is Highly Recommended | 5,449 |
-| This game has Amazing Storytelling | 4,520 |
+| This game has Amazing Storytelling | 4,525 |
 | This game has a Creative Community | 4,311 |
-| This game has Amazing Characters | 3,828 |
+| This game has Amazing Characters | 3,831 |
 | This game has Obsessive Gameplay | 2,497 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -756,4 +756,4 @@ Diff (max vs sum): 29
 | 2024-01-05 | 4.66 | - | 6,636 | 48,890 |
 | 2024-01-06 | 4.66 | - | 6,649 | 48,953 |
 | 2024-01-07 | 4.66 | - | 6,662 | 49,005 |
-| 2024-01-08 | 4.66 | - | 6,672 | 49,053 |
+| 2024-01-08 | 4.66 | - | 6,672 | 49,061 |

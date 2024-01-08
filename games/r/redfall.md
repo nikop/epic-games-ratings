@@ -14,7 +14,7 @@ Rating: 3.68 (Ranked 1,092)
 | Ne Plus Ultra | 12.00% | ~278 |
 | Fly Fisher | 11.00% | ~255 |
 | Peek-a-boo | 11.00% | ~255 |
-| Sucks To Be You | 10.00% | ~231 |
+| Sucks To Be You | 10.00% | ~232 |
 | Enter of Your Own Free Will | 9.00% | ~208 |
 | Welcome to the Neighborhood | 9.00% | ~208 |
 | Throw The First Stone | 9.00% | ~208 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,092)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,314 (Ranked 242)  
+Progressed: 2,315 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,286 | 0 |
 | 2024-01-07 | 2,301 | 0 |
-| 2024-01-08 | 2,314 | 0 |
+| 2024-01-08 | 2,315 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 554)  
 Sum: 24 (Ranked 561)  

@@ -735,7 +735,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7079,
+  "EOS_Progressed": 7082,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
@@ -10785,6 +10785,11 @@
       "Time": "2024-01-08T19:05:31.4504802+00:00",
       "NumProgressed": 7079,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T20:05:20.62179+00:00",
+      "NumProgressed": 7082,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10836,7 +10841,7 @@
       "Name": "Full Ascension",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "15",
@@ -10916,7 +10921,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "24",
@@ -10932,7 +10937,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "26",
@@ -11146,9 +11151,9 @@
       "ID": "45",
       "SetID": "7132754",
       "Name": "Here be Dragons",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 142
     },
     {
       "ID": "46",
@@ -11275,13 +11280,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7079,
+      "Progressed": 7082,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7079,
+      "Progressed": 7082,
       "Completed": 7
     }
   ],
@@ -11289,8 +11294,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:05:31.4504799+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:05:20.6217897+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:00:57.9692703+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:05:31.4505784+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:02:52.5610596+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:05:20.621888+00:00"
 }

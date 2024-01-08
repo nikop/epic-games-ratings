@@ -299,9 +299,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 10753,
+  "EOS_Progressed": 10760,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1350,
+  "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4144,6 +4144,11 @@
       "Time": "2024-01-08T19:09:56.3308188+00:00",
       "NumProgressed": 10753,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T20:09:37.3525244+00:00",
+      "NumProgressed": 10760,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4156,7 +4161,7 @@
       "Name": "Conspiracy",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "03_TheStolenStar",
@@ -4164,7 +4169,7 @@
       "Name": "Stolen Star",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4172,7 +4177,7 @@
       "Name": "Trade Empire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -4260,7 +4265,7 @@
       "Name": "Pentakill",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "16_TheRise",
@@ -4268,7 +4273,7 @@
       "Name": "The Rise",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "17_TheExemplar",
@@ -4284,7 +4289,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4316,7 +4321,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "23_DynastyRestored",
@@ -4324,7 +4329,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "24_TheHighrise",
@@ -4394,9 +4399,9 @@
       "ID": "32_AviationSaviour",
       "SetID": "37a94m8",
       "Name": "Aviation Saviour",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 108
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -4404,7 +4409,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4468,7 +4473,7 @@
       "Name": "Jungle Heat",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4484,7 +4489,7 @@
       "Name": "No Place Like Home",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -4508,7 +4513,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "47_AFlame",
@@ -4675,7 +4680,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10753,
+      "Progressed": 10760,
       "Completed": 1
     }
   ],
@@ -4683,8 +4688,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-08T11:57:44.8246202+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:09:56.3308186+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:37.3525242+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:12.3811557+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:09:56.3309035+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:57:54.6662654+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:37.3525924+00:00"
 }

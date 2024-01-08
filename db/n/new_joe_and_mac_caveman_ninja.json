@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 298,
+  "EOS_Progressed": 299,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.35,
+  "EOS_Completed_Percentage": 2.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -756,6 +756,11 @@
       "Time": "2024-01-08T01:56:19.1368598+00:00",
       "NumProgressed": 298,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T20:07:52.0049244+00:00",
+      "NumProgressed": 299,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -765,9 +770,9 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 147
     },
     {
       "ID": "02",
@@ -775,7 +780,7 @@
       "Name": "Crazy Jungle.",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "03",
@@ -886,7 +891,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 298,
+      "Progressed": 299,
       "Completed": 7
     }
   ],
@@ -894,8 +899,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:06:43.2539127+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:07:52.0049242+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.6676617+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:00:26.3260102+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:06:43.2539286+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:00:10.1847829+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:07:52.0049361+00:00"
 }

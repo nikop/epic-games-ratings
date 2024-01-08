@@ -6,15 +6,15 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,344 |
-| Photographer | 67.00% | ~9,344 |
-| Valley's Helper | 59.00% | ~8,229 |
-| Constructor | 50.00% | ~6,974 |
-| Renovator | 50.00% | ~6,974 |
-| Bestest Friend | 44.00% | ~6,137 |
-| Banker | 38.00% | ~5,300 |
-| Gardener | 30.00% | ~4,184 |
-| Generous | 25.00% | ~3,487 |
+| Goofy's Investor | 67.00% | ~9,346 |
+| Photographer | 67.00% | ~9,346 |
+| Valley's Helper | 59.00% | ~8,230 |
+| Constructor | 50.00% | ~6,975 |
+| Renovator | 50.00% | ~6,975 |
+| Bestest Friend | 44.00% | ~6,138 |
+| Banker | 38.00% | ~5,301 |
+| Gardener | 30.00% | ~4,185 |
+| Generous | 25.00% | ~3,488 |
 | Chef Cook | 19.00% | ~2,650 |
 | Miner | 11.00% | ~1,534 |
 | Duty Bound | 8.00% | ~1,116 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 6.00% | ~837 |
 | Chit Chatter | 3.00% | ~418 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,947 (Ranked 175)  
+Progressed: 13,950 (Ranked 175)  
 Completed: 344 (2.47%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,10 @@ Completed: 344 (2.47%) (Ranked 127)
 | 2024-01-05 | 13,803 | 342 |
 | 2024-01-06 | 13,857 | 343 |
 | 2024-01-07 | 13,921 | 344 |
-| 2024-01-08 | 13,947 | 344 |
+| 2024-01-08 | 13,950 | 344 |
 ## Awards
 Max (Great for Beginners): 1,178  (Ranked 149)  
-Sum: 8,373 (Ranked 108)  
+Sum: 8,375 (Ranked 108)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -247,7 +247,7 @@ Diff (max vs sum): 41
 | This game has Diverse Characters | 994 |
 | This game is Highly Recommended | 869 |
 | This game has Amazing Characters | 845 |
-| This game is Relaxing | 826 |
+| This game is Relaxing | 828 |
 | This game has Amazing Storytelling | 805 |
 | This game is Extremely Fun | 792 |
 | This game has Quickly Understood Controls | 779 |
@@ -556,4 +556,4 @@ Diff (max vs sum): 41
 | 2024-01-05 | 4.76 | - | 1,173 | 8,357 |
 | 2024-01-06 | 4.76 | - | 1,173 | 8,362 |
 | 2024-01-07 | 4.76 | - | 1,175 | 8,370 |
-| 2024-01-08 | 4.76 | - | 1,178 | 8,373 |
+| 2024-01-08 | 4.76 | - | 1,178 | 8,375 |

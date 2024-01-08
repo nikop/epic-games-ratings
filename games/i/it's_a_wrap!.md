@@ -9,8 +9,8 @@
 | Budget Killer | 6.00% | ~8 |
 | Space Invader | 6.00% | ~8 |
 | Extra Life | 4.00% | ~5 |
+| In the Can | 4.00% | ~5 |
 | One Man Army | 4.00% | ~5 |
-| In the Can | 3.00% | ~4 |
 | What's my line again? | 2.00% | ~3 |
 | Secret of the Mines | 2.00% | ~3 |
 | Who's gonna pay for that? | 2.00% | ~3 |

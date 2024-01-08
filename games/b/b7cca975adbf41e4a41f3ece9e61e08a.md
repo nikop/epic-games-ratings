@@ -5,23 +5,23 @@ Rating: 4.71 (Ranked 201)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~15,907 |
+| Last Night...Did We... | 88.00% | ~15,908 |
 | I Challenge You To Save More Money! | 81.00% | ~14,642 |
-| I Love How Tough You Are | 65.00% | ~11,749 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~10,484 |
-| What I Want Is You | 53.00% | ~9,580 |
+| I Love How Tough You Are | 65.00% | ~11,750 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~10,485 |
+| What I Want Is You | 53.00% | ~9,581 |
 | To Be Or Not To Be | 50.00% | ~9,038 |
 | Are You Alright? | 47.00% | ~8,496 |
-| Love Actually | 41.00% | ~7,411 |
-| Drama King | 36.00% | ~6,507 |
+| Love Actually | 41.00% | ~7,412 |
+| Drama King | 36.00% | ~6,508 |
 | Go Clean up In Your Own Way | 33.00% | ~5,965 |
-| You're Really Something Else | 32.00% | ~5,784 |
+| You're Really Something Else | 32.00% | ~5,785 |
 | Drama CP: Reel to Real | 31.00% | ~5,604 |
 | Happy Family | 30.00% | ~5,423 |
 | FIRST LOVE | 30.00% | ~5,423 |
 | Worthless Speech | 30.00% | ~5,423 |
-| Absolutely Elegant | 28.00% | ~5,061 |
-| ONE PUNCH | 28.00% | ~5,061 |
+| Absolutely Elegant | 28.00% | ~5,062 |
+| ONE PUNCH | 28.00% | ~5,062 |
 | Still Single | 27.00% | ~4,881 |
 | Days Of Innocence | 26.00% | ~4,700 |
 | David | 26.00% | ~4,700 |
@@ -32,7 +32,7 @@ Rating: 4.71 (Ranked 201)
 | That's So You | 21.00% | ~3,796 |
 | SALUTE | 21.00% | ~3,796 |
 | Let Me Be Your Toy Boy | 20.00% | ~3,615 |
-| Off We Sail Tonight | 15.00% | ~2,711 |
+| Off We Sail Tonight | 15.00% | ~2,712 |
 | Love You Three Thousand | 13.00% | ~2,350 |
 | Can You Do This Or Not? | 13.00% | ~2,350 |
 | Doesn't Matter I'll Handle It | 12.00% | ~2,169 |
@@ -48,7 +48,7 @@ Rating: 4.71 (Ranked 201)
 | Tall; Grande; Venti | 2.00% | ~362 |
 | Limerence | 2.00% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,076 (Ranked 160)  
+Progressed: 18,077 (Ranked 160)  
 Completed: 308 (1.70%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 308 (1.70%) (Ranked 143)
 | 2024-01-05 | 17,696 | 295 |
 | 2024-01-06 | 17,831 | 302 |
 | 2024-01-07 | 17,976 | 305 |
-| 2024-01-08 | 18,076 | 308 |
+| 2024-01-08 | 18,077 | 308 |
 ## Awards
 Max (Impact the Story): 34  (Ranked 509)  
 Sum: 34 (Ranked 535)  

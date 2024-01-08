@@ -2,7 +2,7 @@
   "ID": "9862908ffff747abb145c54ded5164d0",
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 157,
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189,
+  "EOS_Progressed": 190,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -915,6 +915,11 @@
       "Time": "2024-01-08T15:08:29.7168976+00:00",
       "NumProgressed": 189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T20:07:57.6824677+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T17:06:03.7591+00:00",
@@ -975,7 +980,7 @@
       "Name": "Awaiting orders",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_AWAKEN",
@@ -983,7 +988,7 @@
       "Name": "Awaken",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_CLARITY",
@@ -999,7 +1004,7 @@
       "Name": "Corruption",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_DESPAIR",
@@ -1063,7 +1068,7 @@
       "Name": "Morgengrauen",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
@@ -1077,9 +1082,9 @@
       "ID": "ACH_NOTALONE",
       "SetID": "88d7anj",
       "Name": "Not alone",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_PAIN",
@@ -1095,7 +1100,7 @@
       "Name": "Path of Corruption",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_PATHOFDESPAIR",
@@ -1103,7 +1108,7 @@
       "Name": "Path of Despair",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_PATHOFPAIN",
@@ -1111,7 +1116,7 @@
       "Name": "Path of Pain",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_PEACE",
@@ -1125,17 +1130,17 @@
       "ID": "ACH_RAGE",
       "SetID": "88d7anj",
       "Name": "Rage",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_REFLECTIONS",
       "SetID": "88d7anj",
       "Name": "Reflections",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_THEIRNAMES",
@@ -1149,23 +1154,23 @@
       "ID": "ACH_THESHINING",
       "SetID": "88d7anj",
       "Name": "The shining",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "88d7anj",
       "IsBase": true,
-      "Progressed": 189,
+      "Progressed": 190,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:06:48.9616966+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:07:57.6824674+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:12.9603165+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:53.1532833+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:06:48.961719+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:58:34.6166879+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:07:57.6824942+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "62c5dc16e57d4850916f5de42635625d",
   "Name": "Riftbound",
   "ProductSlug": "riftbound-db891d",
-  "Ranking_EOS_Progress": 560,
+  "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 521,
   "Ranking_EOS_NewCompleters": 157,
@@ -384,9 +384,9 @@
       "ID": "ACH_MasterOfTheArts",
       "SetID": "1od64h3",
       "Name": "Master Of The Arts",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_OneHandTied",
@@ -471,8 +471,8 @@
   ],
   "FirstSeen": "2023-05-24T05:57:01.1343555+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:09:52.4105132+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:33.4496013+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:32.6742665+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:00:19.3244663+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:09:52.4105505+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:00:02.7341527+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:33.4496224+00:00"
 }

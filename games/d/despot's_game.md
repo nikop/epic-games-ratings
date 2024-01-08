@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 611)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 88.00% | ~437 |
+| Good start! | 88.00% | ~438 |
 | Vanquisher of Robots | 79.00% | ~393 |
-| Party | 51.00% | ~253 |
+| Party | 51.00% | ~254 |
 | Impossible Cube | 45.00% | ~224 |
 | Through the Darkness | 45.00% | ~224 |
 | Knowledge is Power | 44.00% | ~219 |
@@ -20,12 +20,12 @@ Rating: 4.50 (Ranked 611)
 | Campaigning | 27.00% | ~134 |
 | Catch Jonathan_tostar | 27.00% | ~134 |
 | Rookie | 27.00% | ~134 |
-| Assemble a Meganewbie | 24.00% | ~119 |
-| Frugal | 21.00% | ~104 |
-| Feed a God | 21.00% | ~104 |
-| To the Moon and Back | 20.00% | ~99 |
-| Great Flight | 19.00% | ~94 |
-| Holy Vengeance | 17.00% | ~84 |
+| Assemble a Meganewbie | 24.00% | ~120 |
+| Frugal | 21.00% | ~105 |
+| Feed a God | 21.00% | ~105 |
+| Great Flight | 19.00% | ~95 |
+| To the Moon and Back | 19.00% | ~95 |
+| Holy Vengeance | 17.00% | ~85 |
 | Honorary Cultist | 13.00% | ~65 |
 | Strength and Sorcery | 11.00% | ~55 |
 | Brain and Brawn | 11.00% | ~55 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 611)
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497 (Ranked 352)  
+Progressed: 498 (Ranked 352)  
 Completed: 1 (0.20%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.20%) (Ranked 275)
 | 2024-01-05 | 493 | 1 |
 | 2024-01-06 | 494 | 1 |
 | 2024-01-07 | 496 | 1 |
-| 2024-01-08 | 497 | 1 |
+| 2024-01-08 | 498 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

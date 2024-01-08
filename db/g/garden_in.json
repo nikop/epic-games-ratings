@@ -3,8 +3,8 @@
   "Name": "Garden In",
   "ProductSlug": "garden-in-671c44",
   "Ranking_EOS_Progress": 425,
-  "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_NewPlayers": 461,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-26T13:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:31.2425799+00:00",
@@ -446,6 +446,11 @@
       "Time": "2024-01-06T16:08:44.2673846+00:00",
       "NumProgressed": 215,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T20:03:23.960472+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -527,9 +532,9 @@
       "ID": "ACH_LAB_ROOM",
       "SetID": "95o50of",
       "Name": "Lab-Room",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_LANDLORD",
@@ -704,7 +709,7 @@
     {
       "ID": "95o50of",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 1
     }
   ],
@@ -712,8 +717,8 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5695131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.2425806+00:00",
   "LastChanged": "2023-03-31T05:57:23.5695132+00:00",
-  "LastChanged_Achievements": "2024-01-08T18:08:57.7454018+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:03:23.9604715+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.7154457+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:37.3263848+00:00",
-  "LastUpdate_Achievements": "2024-01-08T18:08:57.7454269+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:58:19.8724679+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:03:23.9605017+00:00"
 }

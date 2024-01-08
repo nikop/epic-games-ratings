@@ -6,30 +6,30 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 43.00% | ~8,502 |
-| It's a good start | 10.00% | ~1,977 |
-| Bonjour! | 8.00% | ~1,582 |
-| Quack | 8.00% | ~1,582 |
-| The Assistant | 6.00% | ~1,186 |
-| The Blue Marl | 6.00% | ~1,186 |
+| Bye Bye | 43.00% | ~8,508 |
+| It's a good start | 10.00% | ~1,979 |
+| Bonjour! | 8.00% | ~1,583 |
+| Quack | 8.00% | ~1,583 |
+| The Assistant | 6.00% | ~1,187 |
+| The Blue Marl | 6.00% | ~1,187 |
 | Ostinata | 5.00% | ~989 |
 | Better than nothing? | 5.00% | ~989 |
 | A long journey | 4.00% | ~791 |
-| Big Money | 3.00% | ~593 |
-| Keep the doctor away | 3.00% | ~593 |
-| Surprise of Langhe | 3.00% | ~593 |
-| Famous | 3.00% | ~593 |
-| What is that? A castle? | 2.00% | ~395 |
-| A lot of space | 2.00% | ~395 |
-| A big garage | 2.00% | ~395 |
-| Millionaire | 2.00% | ~395 |
-| Exotic | 2.00% | ~395 |
-| Pastry Chef | 2.00% | ~395 |
-| Welcome to the club | 2.00% | ~395 |
-| Very Important Winemaker | 2.00% | ~395 |
+| Big Money | 3.00% | ~594 |
+| Keep the doctor away | 3.00% | ~594 |
+| Surprise of Langhe | 3.00% | ~594 |
+| Famous | 3.00% | ~594 |
+| What is that? A castle? | 2.00% | ~396 |
+| A lot of space | 2.00% | ~396 |
+| A big garage | 2.00% | ~396 |
+| Millionaire | 2.00% | ~396 |
+| Exotic | 2.00% | ~396 |
+| Pastry Chef | 2.00% | ~396 |
+| Welcome to the club | 2.00% | ~396 |
+| Very Important Winemaker | 2.00% | ~396 |
 | King of Langhe | 1.00% | ~198 |
 | Gem of Monferrato | 1.00% | ~198 |
-| Treasure of Roero | 0.70% | ~138 |
+| Treasure of Roero | 0.70% | ~139 |
 | Knight of Langhe | 0.50% | ~99 |
 | King of red wines | 0.20% | ~40 |
 | King of white wines | 0.20% | ~40 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~20 |
 | Unsuitable Terroir | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,773 (Ranked 155)  
+Progressed: 19,786 (Ranked 155)  
 Completed: 13 (0.07%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 13 (0.07%) (Ranked 328)
 | 2024-01-05 | 19,312 | 13 |
 | 2024-01-06 | 19,482 | 13 |
 | 2024-01-07 | 19,665 | 13 |
-| 2024-01-08 | 19,773 | 13 |
+| 2024-01-08 | 19,786 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 297)  
 Sum: 1,738 (Ranked 228)  

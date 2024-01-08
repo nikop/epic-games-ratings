@@ -6,22 +6,22 @@ Rating: 4.55 (Ranked 525)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~632 |
-| Don't judge a manhole by its cover | 60.00% | ~505 |
-| I just love stuff! | 41.00% | ~345 |
-| Keep 'em coming! | 41.00% | ~345 |
-| The things they print nowadays | 39.00% | ~328 |
+| Don't judge a manhole by its cover | 60.00% | ~506 |
+| I just love stuff! | 41.00% | ~346 |
+| Keep 'em coming! | 41.00% | ~346 |
+| The things they print nowadays | 39.00% | ~329 |
 | Big Spender | 38.00% | ~320 |
 | That's gotta hurt | 36.00% | ~303 |
 | I think it's broke | 26.00% | ~219 |
 | The Ann Flores Combo Experience | 26.00% | ~219 |
 | Club Star | 24.00% | ~202 |
-| Fire in the hole! | 20.00% | ~168 |
-| Omnipotence | 20.00% | ~168 |
+| Fire in the hole! | 20.00% | ~169 |
+| Omnipotence | 20.00% | ~169 |
 | The Warlord | 19.00% | ~160 |
 | You are the One | 19.00% | ~160 |
 | Deadly Kombationem | 18.00% | ~152 |
 | The truth is out there | 16.00% | ~135 |
-| Annakin Skyscroller | 13.00% | ~109 |
+| Annakin Skyscroller | 13.00% | ~110 |
 | In the smacker...I think | 10.00% | ~84 |
 | Arm Wrestlin' | 9.00% | ~76 |
 | 1+1>2 | 9.00% | ~76 |
@@ -39,10 +39,10 @@ Rating: 4.55 (Ranked 525)
 | Lady Luck is a cool cat | 3.00% | ~25 |
 | SERENITY NOW | 2.00% | ~17 |
 | I just got real good | 2.00% | ~17 |
-| Love me like I love my posters | 1.00% | ~8 |
+| Love me like I love my posters | 0.90% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 842 (Ranked 307)  
+Progressed: 843 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 835 | 0 |
 | 2024-01-06 | 839 | 0 |
 | 2024-01-07 | 840 | 0 |
-| 2024-01-08 | 842 | 0 |
+| 2024-01-08 | 843 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9353,10 +9353,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33399,
       "NumberOfAwardsMax": 5763
+    },
+    {
+      "Time": "2024-01-08T19:57:20.6543595+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33403,
+      "NumberOfAwardsMax": 5763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33399,
+  "NumberOfAwards": 33403,
   "NumberOfAwardsMax": 5763,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9376,13 +9382,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4899
+      "Count": 4901
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4769
+      "Count": 4771
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9403,10 +9409,10 @@
       "Count": 3633
     }
   ],
-  "EOS_Progressed": 252742,
-  "EOS_Completed": 2601,
-  "EOS_NewPlayers": 3544,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 252760,
+  "EOS_Completed": 2602,
+  "EOS_NewPlayers": 3527,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39238,6 +39244,11 @@
       "Time": "2024-01-08T19:10:11.0605089+00:00",
       "NumProgressed": 252742,
       "NumCompleted": 2601
+    },
+    {
+      "Time": "2024-01-08T20:09:51.8530815+00:00",
+      "NumProgressed": 252760,
+      "NumCompleted": 2602
     }
   ],
   "TotalAchievements": 546,
@@ -39553,7 +39564,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_1090",
@@ -39617,7 +39628,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "objective_completed_110",
@@ -39809,7 +39820,7 @@
       "Name": "Supply Run",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_1142",
@@ -40185,7 +40196,7 @@
       "Name": "Homecoming",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_125",
@@ -40449,7 +40460,7 @@
       "Name": "Street War",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_166",
@@ -40481,7 +40492,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_170",
@@ -40583,9 +40594,9 @@
       "ID": "objective_completed_20",
       "SetID": "cc37lbc",
       "Name": "No Time To Rest",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 758
     },
     {
       "ID": "objective_completed_208",
@@ -40609,7 +40620,7 @@
       "Name": "Invisible Shadows",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_210",
@@ -40665,7 +40676,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_231",
@@ -40697,7 +40708,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_236",
@@ -40855,9 +40866,9 @@
       "ID": "objective_completed_278",
       "SetID": "cc37lbc",
       "Name": "Trollskull Manor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_279",
@@ -40945,7 +40956,7 @@
       "Name": "The Death Curse",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_37",
@@ -41041,7 +41052,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "objective_completed_390",
@@ -41193,7 +41204,7 @@
       "Name": "Premature Betrayal",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_410",
@@ -41385,15 +41396,15 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_540",
@@ -41401,7 +41412,7 @@
       "Name": "A Tale of Two Cities",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_541",
@@ -41465,7 +41476,7 @@
       "Name": "Flying Monkey Skulls of Doom",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_550",
@@ -42393,7 +42404,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "objective_completed_70",
@@ -42401,7 +42412,7 @@
       "Name": "Close Escort",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_71",
@@ -42409,7 +42420,7 @@
       "Name": "Constant Banditry",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_72",
@@ -42441,7 +42452,7 @@
       "Name": "Easily Distracted",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_77",
@@ -42457,7 +42468,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_8",
@@ -42465,7 +42476,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "objective_completed_80",
@@ -42473,7 +42484,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_802",
@@ -43121,7 +43132,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_95",
@@ -43153,7 +43164,7 @@
       "Name": "Rescue in the Jungle",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_1355",
@@ -43616,21 +43627,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219016,
+      "Progressed": 219034,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252742,
-      "Completed": 2601
+      "Progressed": 252760,
+      "Completed": 2602
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-08T10:57:40.4859678+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:10:11.0605086+00:00",
+  "LastChanged": "2024-01-08T19:57:20.6543593+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:09:51.8530812+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:57:38.6855714+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:10:11.0629266+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:57:20.6543601+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:09:51.8555928+00:00"
 }

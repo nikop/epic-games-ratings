@@ -856,7 +856,7 @@
   ],
   "EOS_Progressed": 6203,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13019,9 +13019,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 930
+      "UsersEstimate": 992
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13051,8 +13051,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:05:47.0432652+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:05:36.4342542+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:00:52.5925931+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:05:47.0433332+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:02:46.4886962+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:05:36.4343543+00:00"
 }

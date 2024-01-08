@@ -5,19 +5,19 @@ Rating: 4.07 (Ranked 1,028)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,020 |
-| World Map | 78.00% | ~3,372 |
-| Temple of Eternals | 56.00% | ~2,421 |
-| Prestigious | 52.00% | ~2,248 |
-| Fellowship Power | 41.00% | ~1,772 |
-| Full Party | 28.00% | ~1,210 |
-| Guild Power | 23.00% | ~994 |
+| Victor | 93.00% | ~4,022 |
+| World Map | 78.00% | ~3,374 |
+| Temple of Eternals | 56.00% | ~2,422 |
+| Prestigious | 52.00% | ~2,249 |
+| Fellowship Power | 41.00% | ~1,773 |
+| Full Party | 29.00% | ~1,254 |
+| Guild Power | 23.00% | ~995 |
 | Prestigious x10 | 20.00% | ~865 |
 | The game is on | 18.00% | ~778 |
 | Exotic Merchant | 16.00% | ~692 |
-| Dragon Clicker | 15.00% | ~648 |
-| Miner Clicker | 15.00% | ~648 |
-| Inspection | 14.00% | ~605 |
+| Dragon Clicker | 15.00% | ~649 |
+| Miner Clicker | 15.00% | ~649 |
+| Inspection | 14.00% | ~606 |
 | Dragon Master | 13.00% | ~562 |
 | Enlightenment | 13.00% | ~562 |
 | Hero inspection | 13.00% | ~562 |
@@ -39,13 +39,13 @@ Rating: 4.07 (Ranked 1,028)
 | Scroll Master | 8.00% | ~346 |
 | The power of Awakening | 8.00% | ~346 |
 | Four Leaf Clover | 7.00% | ~303 |
-| Here We Go Again | 7.00% | ~303 |
 | Master Enchanter | 7.00% | ~303 |
 | The father of Dragons | 7.00% | ~303 |
 | Trader | 7.00% | ~303 |
-| Enchanting skill | 6.00% | ~259 |
-| The Expeditioner | 6.00% | ~259 |
-| Weekly Quest Completionist | 6.00% | ~259 |
+| Enchanting skill | 6.00% | ~260 |
+| Here We Go Again | 6.00% | ~260 |
+| The Expeditioner | 6.00% | ~260 |
+| Weekly Quest Completionist | 6.00% | ~260 |
 | Blueprint Upgrades | 5.00% | ~216 |
 | Crystal Mining | 5.00% | ~216 |
 | Dragon Slayer | 5.00% | ~216 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 1,028)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,323 (Ranked 209)  
+Progressed: 4,325 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 2 (0.05%) (Ranked 337)
 | 2024-01-05 | 4,228 | 2 |
 | 2024-01-06 | 4,266 | 2 |
 | 2024-01-07 | 4,299 | 2 |
-| 2024-01-08 | 4,323 | 2 |
+| 2024-01-08 | 4,325 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 482)  
 Sum: 155 (Ranked 439)  

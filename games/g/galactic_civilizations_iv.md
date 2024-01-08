@@ -51,8 +51,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Iconians | 0.50% | ~38 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |
+| Ask Not What Your Empire Can Do For You | 0.10% | ~8 |
 | Commodity Trader - Level 2 | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
+| Hyperspace! | 0.10% | ~8 |
 | Play for 1000 Hours | 0.10% | ~8 |
 | Play for 100 Hours | 0.10% | ~8 |
 | Play for 5 Hours | 0.10% | ~8 |
@@ -62,10 +64,8 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Seller, Level 2 | 0.10% | ~8 |
 | Win a Multiplayer Game | 0.10% | ~8 |
 | Solid Economy | 0.00% | ~0 |
-| Ask Not What Your Empire Can Do For You | 0.00% | ~0 |
 | Commodity Guru | 0.00% | ~0 |
 | Yor Dead Iconians | 0.00% | ~0 |
-| Hyperspace! | 0.00% | ~0 |
 | Against the Tide | 0.00% | ~0 |
 | Breeding Season | 0.00% | ~0 |
 | The Orb of Draginol | 0.00% | ~0 |

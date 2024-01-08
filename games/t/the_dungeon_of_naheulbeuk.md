@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~89,015 |
-| Alt+F4 | 10.00% | ~24,726 |
-| Where's that freaking Dwarf? | 9.00% | ~22,254 |
-| Déjà vu | 8.00% | ~19,781 |
+| Sowwy! | 36.00% | ~89,018 |
+| Alt+F4 | 10.00% | ~24,727 |
+| Where's that freaking Dwarf? | 9.00% | ~22,255 |
+| Déjà vu | 8.00% | ~19,782 |
 | Sock! SOCK! | 6.00% | ~14,836 |
 | Speedrun | 6.00% | ~14,836 |
-| A beer, two curses, three companions | 5.00% | ~12,363 |
-| GG EZ | 5.00% | ~12,363 |
-| DM intervention | 5.00% | ~12,363 |
+| A beer, two curses, three companions | 5.00% | ~12,364 |
+| GG EZ | 5.00% | ~12,364 |
+| DM intervention | 5.00% | ~12,364 |
 | Way of the Wimp | 4.00% | ~9,891 |
 | The plot thickens... At the tavern | 4.00% | ~9,891 |
 | Fireproof Wizardess | 4.00% | ~9,891 |
@@ -60,6 +60,7 @@ Number of Ratings: 118  (23.09.2022)
 | Cursed die | 0.20% | ~495 |
 | The Blood Countess | 0.20% | ~495 |
 | He’s alive! Aliiiive! | 0.20% | ~495 |
+| Egghead | 0.20% | ~495 |
 | Free customer service | 0.20% | ~495 |
 | Imposture and Trowels | 0.20% | ~495 |
 | Deep changes | 0.20% | ~495 |
@@ -79,7 +80,6 @@ Number of Ratings: 118  (23.09.2022)
 | Legendary brew | 0.10% | ~247 |
 | Elite Adventurers | 0.10% | ~247 |
 | Take your time back in time | 0.10% | ~247 |
-| Egghead | 0.10% | ~247 |
 | Sleep schedule mastery | 0.10% | ~247 |
 | Cute Dungeon | 0.10% | ~247 |
 | Mystical Dungeon | 0.10% | ~247 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,265 (Ranked 72)  
+Progressed: 247,273 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,11 +317,11 @@ Completed: 8 (0.00%) (Ranked 394)
 | 2024-01-05 | 246,735 | 8 |
 | 2024-01-06 | 246,932 | 8 |
 | 2024-01-07 | 247,153 | 8 |
-| 2024-01-08 | 247,265 | 8 |
+| 2024-01-08 | 247,273 | 8 |
 ## Awards
 Max (Character Customization): 267  (Ranked 276)  
-Sum: 561 (Ranked 329)  
-Diff (max vs sum): -53  
+Sum: 561 (Ranked 330)  
+Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 267 |

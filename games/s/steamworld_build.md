@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 86.00% | ~220 |
+| Mathematic | 87.00% | ~223 |
 | Digging a Hole | 77.00% | ~197 |
 | It's Yours, My Friend | 74.00% | ~189 |
 | Conducted Trade | 68.00% | ~174 |

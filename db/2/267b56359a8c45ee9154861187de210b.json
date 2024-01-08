@@ -764,17 +764,17 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "beat_c1a_bronze",
@@ -804,9 +804,9 @@
       "ID": "beat_c1a_silver",
       "SetID": "3448go",
       "Name": "Yonder",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c2_bronze",
@@ -1268,9 +1268,9 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "trophies_117",
@@ -1339,8 +1339,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:06:15.455622+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:06:04.7767218+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-08T19:00:52.7109459+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:06:15.4557276+00:00"
+  "LastUpdate_Ratings": "2024-01-08T20:02:46.6149678+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:06:04.7767971+00:00"
 }

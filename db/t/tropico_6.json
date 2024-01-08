@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1551,9 +1551,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7014,
+  "EOS_Progressed": 7015,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16336,6 +16336,11 @@
       "Time": "2024-01-08T19:05:50.835702+00:00",
       "NumProgressed": 7014,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T20:05:40.1352815+00:00",
+      "NumProgressed": 7015,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16371,7 +16376,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -16507,7 +16512,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5120
+      "UsersEstimate": 5121
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16603,7 +16608,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16666,15 +16671,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7014,
+      "Progressed": 7015,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-07T17:59:09.5034143+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:05:50.8357017+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:05:40.1352813+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:59:41.5158941+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:05:50.835847+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:59:28.2012274+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:05:40.1353567+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1849,9 +1849,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167277,
+  "EOS_Progressed": 167282,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 1304,
+  "EOS_NewPlayers": 1299,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22339,6 +22339,11 @@
       "Time": "2024-01-08T19:04:00.4520159+00:00",
       "NumProgressed": 167277,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2024-01-08T20:03:47.9993048+00:00",
+      "NumProgressed": 167282,
+      "NumCompleted": 452
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22461,9 +22466,9 @@
       "ID": "DEFEAT_FLOWERROCKGIANT",
       "SetID": "72k7oh",
       "Name": "Glare",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 834
+      "UsersEstimate": 1001
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -22487,7 +22492,7 @@
       "Name": "Harmless",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -22718,21 +22723,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166860,
+      "Progressed": 166865,
       "Completed": 1256
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167277,
+      "Progressed": 167282,
       "Completed": 452
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-08T13:58:19.8124136+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:04:00.4520147+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:03:47.9993044+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:38.8494309+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:04:00.4521595+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:58:21.5252149+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:03:47.9994125+00:00"
 }

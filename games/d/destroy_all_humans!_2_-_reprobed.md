@@ -7,7 +7,7 @@ Number of Ratings: 90  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 83.00% | ~304 |
-| Mash Machine | 75.00% | ~274 |
+| Mash Machine | 76.00% | ~278 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~198 |
 | Furon Fashion | 48.00% | ~176 |
 | Shop Til They Drop | 40.00% | ~146 |
@@ -16,9 +16,9 @@ Number of Ratings: 90  (23.09.2022)
 | Earthly Pleasures | 34.00% | ~124 |
 | Lie Back and Think of Albion | 29.00% | ~106 |
 | Upgreatest | 27.00% | ~99 |
-| Pimp My Raid | 25.00% | ~92 |
+| Pimp My Raid | 26.00% | ~95 |
+| Freshly Squeezed | 23.00% | ~84 |
 | I Look Up As I Walk to Takoshima | 22.00% | ~81 |
-| Freshly Squeezed | 22.00% | ~81 |
 | Die Nasty | 19.00% | ~70 |
 | Perfect Probulator | 18.00% | ~66 |
 | Transmitting From Sol-3 | 16.00% | ~59 |

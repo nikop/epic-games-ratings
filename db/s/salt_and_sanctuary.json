@@ -2,12 +2,12 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 400,
+  "Ranking_Rating": 399,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2982,9 +2982,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 543784,
+  "EOS_Progressed": 543785,
   "EOS_Completed": 1676,
-  "EOS_NewPlayers": 820,
+  "EOS_NewPlayers": 810,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -32212,6 +32212,11 @@
       "Time": "2024-01-08T19:03:57.8015766+00:00",
       "NumProgressed": 543784,
       "NumCompleted": 1676
+    },
+    {
+      "Time": "2024-01-08T20:03:45.2443193+00:00",
+      "NumProgressed": 543785,
+      "NumCompleted": 1676
     }
   ],
   "TotalAchievements": 37,
@@ -32279,7 +32284,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 451341
+      "UsersEstimate": 451342
     },
     {
       "ID": "HONED",
@@ -32518,15 +32523,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 543784,
+      "Progressed": 543785,
       "Completed": 1676
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-08T10:59:12.0666169+00:00",
-  "LastChanged_Achievements": "2024-01-08T19:03:57.8015762+00:00",
+  "LastChanged_Achievements": "2024-01-08T20:03:45.2443191+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.5863764+00:00",
-  "LastUpdate_Ratings": "2024-01-08T18:58:40.034426+00:00",
-  "LastUpdate_Achievements": "2024-01-08T19:03:57.8017583+00:00"
+  "LastUpdate_Ratings": "2024-01-08T19:58:22.5368838+00:00",
+  "LastUpdate_Achievements": "2024-01-08T20:03:45.2444651+00:00"
 }
