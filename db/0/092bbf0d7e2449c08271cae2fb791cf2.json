@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 521,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 1.35,
+  "EOS_Completed_Percentage": 1.34,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -1729,6 +1729,11 @@
       "Time": "2024-01-08T21:07:40.3199759+00:00",
       "NumProgressed": 520,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T22:07:47.7128009+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1741,7 +1746,7 @@
       "Name": "Good Morning",
       "Percentage": 17,
       "XP": 145,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach2",
@@ -1771,17 +1776,17 @@
       "ID": "ach5",
       "SetID": "796kfpa",
       "Name": "Cloudbuster",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 140,
-      "UsersEstimate": 16
+      "UsersEstimate": 10
     },
     {
       "ID": "ach6",
       "SetID": "796kfpa",
       "Name": "Creature Maker",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 140,
-      "UsersEstimate": 16
+      "UsersEstimate": 10
     },
     {
       "ID": "ach7",
@@ -1789,21 +1794,21 @@
       "Name": "Snail Racing Champion",
       "Percentage": 12,
       "XP": 145,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 521,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:07:40.3199752+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:07:47.7128006+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:58:57.8839176+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:07:40.3200015+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:58:52.4536056+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:07:47.7128209+00:00"
 }

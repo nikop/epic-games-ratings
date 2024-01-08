@@ -13,8 +13,8 @@
 | The happy farmer girl | 27.00% | ~24 |
 | Pulp! Terror Tales in the Night | 25.00% | ~22 |
 | Giant | 24.00% | ~21 |
+| Pulp! Out of this World | 22.00% | ~20 |
 | A rival with no options | 21.00% | ~19 |
-| Pulp! Out of this World | 21.00% | ~19 |
 | Diagnosis: fear | 21.00% | ~19 |
 | Ambition is... blind | 21.00% | ~19 |
 | The artist | 20.00% | ~18 |

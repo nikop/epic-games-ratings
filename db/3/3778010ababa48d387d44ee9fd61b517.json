@@ -2,9 +2,9 @@
   "ID": "3778010ababa48d387d44ee9fd61b517",
   "Name": "The Hive",
   "ProductSlug": "the-hive-f5c2c8",
-  "Ranking_EOS_Progress": 583,
+  "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -209,6 +209,11 @@
       "Time": "2024-01-08T16:04:58.4209181+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T22:06:19.2961639+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -219,7 +224,7 @@
       "ID": "A_ALL_UPGRADES",
       "SetID": "324h56e",
       "Name": "Researcher",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -227,7 +232,7 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -251,7 +256,7 @@
       "ID": "A_CHESTS",
       "SetID": "324h56e",
       "Name": "Treasure Finder",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -283,7 +288,7 @@
       "ID": "A_COMP_NORMAL",
       "SetID": "324h56e",
       "Name": "Vanguard",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -307,7 +312,7 @@
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -315,7 +320,7 @@
       "ID": "A_HIVE_RESS hiveRes (0-100)",
       "SetID": "324h56e",
       "Name": "Hivespital",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -323,7 +328,7 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -339,7 +344,7 @@
       "ID": "A_ITEM_DROPS",
       "SetID": "324h56e",
       "Name": "Scavenger",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -347,7 +352,7 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -387,7 +392,7 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -403,7 +408,7 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -419,7 +424,7 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -435,7 +440,7 @@
       "ID": "A_QUEEN",
       "SetID": "324h56e",
       "Name": "Mother of Insectoids",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -467,7 +472,7 @@
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
       "SetID": "324h56e",
       "Name": "Silencer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -475,7 +480,7 @@
       "ID": "A_SUN",
       "SetID": "324h56e",
       "Name": "The Age of Discovery",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -491,7 +496,7 @@
       "ID": "A_TURRET",
       "SetID": "324h56e",
       "Name": "All About That Base",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -532,14 +537,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:06:11.2591355+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:06:19.2961634+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.4901037+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:58:45.3144722+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:06:11.2591615+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:58:39.0968889+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:06:19.2961962+00:00"
 }

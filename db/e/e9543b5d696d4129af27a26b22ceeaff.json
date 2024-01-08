@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -408,9 +408,9 @@
       "ID": "ACH_FULL_ARENA",
       "SetID": "1lnhagg",
       "Name": "Full Arena",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_HALL_OF_FAME",
@@ -528,9 +528,9 @@
       "ID": "ACH_WIN_BY_40",
       "SetID": "1lnhagg",
       "Name": "Overpowered",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_WIN_EUROLEAGUE",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:08:57.46888+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:09:04.1167961+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:09.2723811+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:01:45.597464+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:08:57.4689055+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:01:37.5724961+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:09:04.1168471+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 359,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 366,
@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 405,
+  "EOS_Progressed": 406,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -1655,6 +1655,11 @@
       "Time": "2024-01-08T21:03:57.5580069+00:00",
       "NumProgressed": 405,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T22:03:47.2250564+00:00",
+      "NumProgressed": 406,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1667,15 +1672,15 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
       "SetID": "cefn62b",
       "Name": "Arkvoodle Doodle",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -1691,7 +1696,7 @@
       "Name": "Deincarnated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
@@ -1729,9 +1734,9 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1739,7 +1744,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -1755,7 +1760,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1771,7 +1776,7 @@
       "Name": "Furon Fashion",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -1787,7 +1792,7 @@
       "Name": "PK Slam Dunk",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
@@ -1819,15 +1824,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1835,7 +1840,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1859,7 +1864,7 @@
       "Name": "Higher Than the Futen Zoku",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
@@ -1867,7 +1872,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1875,15 +1880,15 @@
       "Name": "Arty Facts",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_INVADE_AREA42",
       "SetID": "cefn62b",
       "Name": "Re-Return of the Clone of the Invasion II-2",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_INVADE_CAPITOL",
@@ -1915,7 +1920,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1971,7 +1976,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -1986,15 +1991,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 405,
+      "Progressed": 406,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:03:57.5580065+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:03:47.2250561+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:02:10.2304336+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:03:57.5580594+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:02:02.3441162+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:03:47.2250911+00:00"
 }

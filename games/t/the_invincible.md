@@ -5,12 +5,12 @@ Rating: 4.59 (Ranked 447)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 70.00% | ~1,079 |
-| The Teleprobe | 55.00% | ~848 |
-| The City | 49.00% | ~756 |
-| The field base | 44.00% | ~678 |
-| The Alliance | 41.00% | ~632 |
-| Survivors | 39.00% | ~601 |
+| The Camp | 70.00% | ~1,080 |
+| The Teleprobe | 55.00% | ~849 |
+| The City | 50.00% | ~772 |
+| The field base | 44.00% | ~679 |
+| The Alliance | 41.00% | ~633 |
+| Survivors | 39.00% | ~602 |
 | The Condor | 37.00% | ~571 |
 | The End | 37.00% | ~571 |
 | The Necroevolution | 29.00% | ~447 |
@@ -19,11 +19,11 @@ Rating: 4.59 (Ranked 447)
 | Peacemaker | 22.00% | ~339 |
 | Volcanologist | 22.00% | ~339 |
 | Fierce fight | 21.00% | ~324 |
-| Evacuation | 20.00% | ~308 |
+| Evacuation | 20.00% | ~309 |
 | Flying Objects Operator | 17.00% | ~262 |
 | Beyond divisions | 17.00% | ~262 |
-| I remember everything! | 13.00% | ~200 |
-| Another giant | 13.00% | ~200 |
+| I remember everything! | 13.00% | ~201 |
+| Another giant | 13.00% | ~201 |
 | Violent solution | 9.00% | ~139 |
 | I leave no man behind | 9.00% | ~139 |
 | Innate curiosity | 7.00% | ~108 |
@@ -32,10 +32,10 @@ Rating: 4.59 (Ranked 447)
 | Got lost again | 6.00% | ~93 |
 | Strong objection | 6.00% | ~93 |
 | I leave no man behind (no exceptions) | 2.00% | ~31 |
-| Convoy list | 0.80% | ~12 |
-| No more mistakes | 0.60% | ~9 |
+| Convoy list | 0.90% | ~14 |
+| No more mistakes | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,542 (Ranked 264)  
+Progressed: 1,543 (Ranked 264)  
 Completed: 1 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 1 (0.06%) (Ranked 330)
 | 2024-01-05 | 1,415 | 1 |
 | 2024-01-06 | 1,462 | 1 |
 | 2024-01-07 | 1,508 | 1 |
-| 2024-01-08 | 1,542 | 1 |
+| 2024-01-08 | 1,543 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521,
+  "EOS_Progressed": 522,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2029,6 +2029,11 @@
       "Time": "2024-01-08T21:06:25.3310336+00:00",
       "NumProgressed": 521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T22:06:33.4406596+00:00",
+      "NumProgressed": 522,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -2065,7 +2070,7 @@
       "Name": "Full load",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Island",
@@ -2097,7 +2102,7 @@
       "Name": "Own route",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Serpentine_conquero",
@@ -2152,14 +2157,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 521,
+      "Progressed": 522,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:06:25.3310331+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:06:33.4406592+00:00",
   "LastUpdate_AppInfo": "2024-01-02T04:56:54.2525361+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:02:32.0067694+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:06:25.3310537+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:02:53.0878592+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:06:33.4406781+00:00"
 }

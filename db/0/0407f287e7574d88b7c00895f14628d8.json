@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -804,6 +804,11 @@
       "Time": "2024-01-08T21:05:57.0996259+00:00",
       "NumProgressed": 197,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T22:06:05.108469+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -848,7 +853,7 @@
       "Name": "Clear Road",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "dl2",
@@ -920,7 +925,7 @@
       "Name": "Skilled Workers",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "g2",
@@ -942,9 +947,9 @@
       "ID": "j1",
       "SetID": "b1ggf28",
       "Name": "Civilized Land",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "j2",
@@ -968,7 +973,7 @@
       "Name": "Infrastructure",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "jg2",
@@ -990,9 +995,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "jk2",
@@ -1016,7 +1021,7 @@
       "Name": "Builder",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "jz2",
@@ -1024,7 +1029,7 @@
       "Name": "Architect",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "jz3",
@@ -1088,7 +1093,7 @@
       "Name": "Prosperity",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "r2",
@@ -1096,7 +1101,7 @@
       "Name": "A Welcoming Settlement",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "r3",
@@ -1128,7 +1133,7 @@
       "Name": "Against the Cold",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "w2",
@@ -1223,14 +1228,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:05:57.0996253+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:06:05.1084687+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:03:21.6832116+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:05:57.0996646+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:03:11.5098023+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:06:05.1085074+00:00"
 }

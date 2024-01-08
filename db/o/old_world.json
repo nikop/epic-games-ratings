@@ -2226,9 +2226,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16253,
+  "EOS_Progressed": 16257,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19306,6 +19306,11 @@
       "Time": "2024-01-08T21:11:18.3427482+00:00",
       "NumProgressed": 16253,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T22:11:13.0727944+00:00",
+      "NumProgressed": 16257,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19731,17 +19736,17 @@
       "ID": "ACHIEVEMENT_COGNOMEN_DEVOUT",
       "SetID": "9201eeb",
       "Name": "Devout",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
       "SetID": "9201eeb",
       "Name": "Enlightened",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 163
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -19803,9 +19808,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
       "SetID": "9201eeb",
       "Name": "Intrepid",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -19859,9 +19864,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
@@ -20027,9 +20032,9 @@
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
       "SetID": "9201eeb",
       "Name": "Strong Cities",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 163
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -20067,9 +20072,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good Difficulty",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -20627,9 +20632,9 @@
       "ID": "ACHIEVEMENT_HITTITE_IRON",
       "SetID": "9201eeb",
       "Name": "Hittite Iron",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -21107,9 +21112,9 @@
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
       "SetID": "7l38kb8",
       "Name": "Manichaeism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -22180,21 +22185,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16253,
+      "Progressed": 16257,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16253,
+      "Progressed": 16257,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-08T13:05:16.5572777+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:11:18.3427477+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:11:13.0727941+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:02:08.7306446+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:11:18.3438384+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:02:00.8275097+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:11:13.0738172+00:00"
 }

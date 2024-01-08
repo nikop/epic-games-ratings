@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 403,
+  "EOS_Progressed": 405,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1766,6 +1766,11 @@
       "Time": "2024-01-08T19:08:43.8301745+00:00",
       "NumProgressed": 403,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T22:09:06.3307926+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1785,7 +1790,7 @@
       "Name": "Alone In The Dark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -1793,7 +1798,7 @@
       "Name": "Alone with Them",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1871,9 +1876,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 259
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1927,9 +1932,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 105
     },
     {
       "ID": "ETUA_OutRage",
@@ -1953,7 +1958,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ETUA_Researcher",
@@ -1985,7 +1990,7 @@
       "Name": "Safe...For now?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ETUA_StayDead",
@@ -2025,7 +2030,7 @@
       "Name": "The Cultists",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -2041,7 +2046,7 @@
       "Name": "The Forgotten Tower",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -2049,7 +2054,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -2065,7 +2070,7 @@
       "Name": "A Night To Remember",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ETUA_Trapped",
@@ -2073,7 +2078,7 @@
       "Name": "Trapped",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -2096,7 +2101,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 403,
+      "Progressed": 405,
       "Completed": 1
     }
   ],
@@ -2104,8 +2109,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:09:20.1784719+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:09:06.3307923+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:36.5425929+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:57:27.2528597+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:09:20.1785117+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:57:26.5440367+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:09:06.3308536+00:00"
 }

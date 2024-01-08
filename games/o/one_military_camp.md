@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 53.00% | ~154 |
+| First Step | 53.00% | ~155 |
 | The 4 Pillars | 50.00% | ~146 |
 | Capitalism | 19.00% | ~55 |
 | Green Energy | 13.00% | ~38 |
@@ -19,8 +19,8 @@
 | Good payer | 7.00% | ~20 |
 | Food Tycoon | 7.00% | ~20 |
 | Ammo Tycoon | 7.00% | ~20 |
-| Pathfinder | 6.00% | ~17 |
-| Fuel Tycoon | 6.00% | ~17 |
+| Pathfinder | 6.00% | ~18 |
+| Fuel Tycoon | 6.00% | ~18 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~15 |
 | Overpopulation | 5.00% | ~15 |
 | Self-sufficient | 5.00% | ~15 |
@@ -49,7 +49,7 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291 (Ranked 403)  
+Progressed: 292 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,3 +147,4 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-05 | 284 | 0 |
 | 2024-01-06 | 287 | 0 |
 | 2024-01-07 | 291 | 0 |
+| 2024-01-08 | 292 | 0 |

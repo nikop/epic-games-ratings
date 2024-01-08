@@ -6,12 +6,12 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 19.00% | ~1,551 |
-| More Fish in the Sea | 16.00% | ~1,306 |
+| Fish Just Got Reel | 19.00% | ~1,552 |
+| More Fish in the Sea | 16.00% | ~1,307 |
 | Hey Good Hookin | 15.00% | ~1,225 |
 | Can you smell what the Rod is Hooking | 14.00% | ~1,143 |
 | Scaling up | 14.00% | ~1,143 |
-| I'm on a Boat! | 13.00% | ~1,061 |
+| I'm on a Boat! | 13.00% | ~1,062 |
 | Ready to Rod and Roll | 11.00% | ~898 |
 | Fish Out of Water | 7.00% | ~572 |
 | Things that go Splash in the Night | 7.00% | ~572 |
@@ -29,9 +29,9 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.60% | ~49 |
 | Live by the Rod, Diez by the Rod! | 0.40% | ~30 |
 | Aguas Claras Conquistador | 0.40% | ~30 |
-| The Beetles | 0.30% | ~24 |
-| Lake Me up Before You Go Go | 0.30% | ~24 |
-| Taylor Made | 0.30% | ~24 |
+| The Beetles | 0.30% | ~25 |
+| Lake Me up Before You Go Go | 0.30% | ~25 |
+| Taylor Made | 0.30% | ~25 |
 | All Good Kings Must Come to an End | 0.30% | ~23 |
 | Three Square Meals | 0.30% | ~23 |
 | Big Fish Small Pond | 0.20% | ~16 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,165 (Ranked 189)  
+Progressed: 8,167 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-05 | 8,002 | 0 |
 | 2024-01-06 | 8,058 | 0 |
 | 2024-01-07 | 8,128 | 0 |
-| 2024-01-08 | 8,165 | 0 |
+| 2024-01-08 | 8,167 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 480)  
 Sum: 213 (Ranked 411)  

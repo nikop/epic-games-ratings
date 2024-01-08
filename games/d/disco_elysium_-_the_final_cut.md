@@ -1,37 +1,37 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.86 (Ranked 30)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,717 |
-| Biggest Communism Builder | 23.00% | ~31,803 |
-| The World's Most Laughable Centrist | 20.00% | ~27,655 |
-| Il Coppo Del'Arte! | 18.00% | ~24,889 |
+| Goodest Of The Good Cops | 28.00% | ~38,718 |
+| Biggest Communism Builder | 23.00% | ~31,804 |
+| The World's Most Laughable Centrist | 20.00% | ~27,656 |
+| Il Coppo Del'Arte! | 18.00% | ~24,890 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,124 |
-| Hyperstellar Law Official | 15.00% | ~20,741 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,358 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,358 |
+| Hyperstellar Law Official | 15.00% | ~20,742 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,359 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,359 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,976 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,210 |
+| Truly Rabid *Traditionalist* | 11.00% | ~15,211 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,445 |
 | Unbelievably Boring **** | 8.00% | ~11,062 |
 | Enemy Of The Physical Realm | 8.00% | ~11,062 |
-| Hardie's Heroes | 6.00% | ~8,296 |
+| Hardie's Heroes | 6.00% | ~8,297 |
 | The Lawbringer | 4.00% | ~5,531 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,531 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,148 |
 | Bother Kim After Hours | 3.00% | ~4,148 |
-| Baddest Of the Bad Cops | 2.00% | ~2,765 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,765 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,765 |
-| Wheel of Pleasure and Light | 2.00% | ~2,765 |
+| Baddest Of the Bad Cops | 2.00% | ~2,766 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,766 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,766 |
+| Wheel of Pleasure and Light | 2.00% | ~2,766 |
 | Massive Torque Dork | 1.00% | ~1,383 |
 | Avowed Inframaterialist | 1.00% | ~1,383 |
-| Venture into the HARDCORE | 0.90% | ~1,244 |
-| Real Musor | 0.90% | ~1,244 |
+| Venture into the HARDCORE | 0.90% | ~1,245 |
+| Real Musor | 0.90% | ~1,245 |
 | Baddest Brow in Town | 0.80% | ~1,106 |
 | Committee of la Responsabilité | 0.80% | ~1,106 |
 | Networthy Individual | 0.70% | ~968 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~138 |
 | What body? | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,274 (Ranked 89)  
+Progressed: 138,278 (Ranked 89)  
 Completed: 29 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,14 +310,14 @@ Completed: 29 (0.02%) (Ranked 361)
 | 2024-01-05 | 137,628 | 28 |
 | 2024-01-06 | 137,863 | 28 |
 | 2024-01-07 | 138,114 | 29 |
-| 2024-01-08 | 138,274 | 29 |
+| 2024-01-08 | 138,278 | 29 |
 ## Awards
-Max (Character Customization): 761  (Ranked 191)  
-Sum: 1,162 (Ranked 262)  
+Max (Character Customization): 763  (Ranked 191)  
+Sum: 1,164 (Ranked 262)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 761 |
+| This game has Inclusive Character Customization | 763 |
 | This game has Amazing Storytelling | 52 |
 | This game is Educational | 47 |
 | This game has Quickly Understood Controls | 46 |
@@ -510,3 +510,4 @@ Diff (max vs sum): -71
 | 2024-01-01 | 4.87 | - | 757 | 1,156 |
 | 2024-01-04 | 4.87 | - | 758 | 1,157 |
 | 2024-01-07 | 4.87 | - | 761 | 1,162 |
+| 2024-01-08 | 4.86 | - | 763 | 1,164 |

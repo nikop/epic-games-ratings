@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1849,9 +1849,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167287,
+  "EOS_Progressed": 167293,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 1294,
+  "EOS_NewPlayers": 1290,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22349,6 +22349,11 @@
       "Time": "2024-01-08T21:04:29.7316733+00:00",
       "NumProgressed": 167287,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2024-01-08T22:04:38.9527022+00:00",
+      "NumProgressed": 167293,
+      "NumCompleted": 452
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22481,7 +22486,7 @@
       "Name": "Host",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -22728,21 +22733,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166870,
+      "Progressed": 166876,
       "Completed": 1256
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167287,
+      "Progressed": 167293,
       "Completed": 452
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-08T13:58:19.8124136+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:04:29.7316729+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:04:38.9527019+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:59:15.2619607+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:04:29.7317824+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:59:11.2894433+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:04:38.9528081+00:00"
 }

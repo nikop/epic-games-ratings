@@ -6,7 +6,7 @@ Rating: 3.68 (Ranked 1,092)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 21.00% | ~486 |
-| Catch and Release | 16.00% | ~370 |
+| Catch and Release | 16.00% | ~371 |
 | Home Is Where the Heart Is | 15.00% | ~347 |
 | ICU | 14.00% | ~324 |
 | Wounded Whispers | 14.00% | ~324 |
@@ -32,6 +32,7 @@ Rating: 3.68 (Ranked 1,092)
 | You Clean It Up | 3.00% | ~69 |
 | From the Shadows | 3.00% | ~69 |
 | Starve the Beast | 3.00% | ~69 |
+| Harvest’s End | 3.00% | ~69 |
 | Helping Hand | 3.00% | ~69 |
 | Revelations | 2.00% | ~46 |
 | Contingency Plans | 2.00% | ~46 |
@@ -39,7 +40,6 @@ Rating: 3.68 (Ranked 1,092)
 | Check, Please! | 2.00% | ~46 |
 | Right This Way | 2.00% | ~46 |
 | Nice Try | 2.00% | ~46 |
-| Harvest’s End | 2.00% | ~46 |
 | Curious Finch | 2.00% | ~46 |
 | Blacklight Down | 1.00% | ~23 |
 | Blood Brother | 0.90% | ~21 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,092)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,315 (Ranked 242)  
+Progressed: 2,316 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,286 | 0 |
 | 2024-01-07 | 2,301 | 0 |
-| 2024-01-08 | 2,315 | 0 |
+| 2024-01-08 | 2,316 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 554)  
 Sum: 24 (Ranked 561)  

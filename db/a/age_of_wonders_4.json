@@ -735,9 +735,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7086,
+  "EOS_Progressed": 7089,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10795,6 +10795,11 @@
       "Time": "2024-01-08T21:06:38.855944+00:00",
       "NumProgressed": 7086,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T22:06:46.8962687+00:00",
+      "NumProgressed": 7089,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10854,7 +10859,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "16",
@@ -10894,7 +10899,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "20",
@@ -10926,7 +10931,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "24",
@@ -10942,7 +10947,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "26",
@@ -10958,15 +10963,15 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 851
     },
     {
       "ID": "29",
@@ -11046,7 +11051,7 @@
       "Name": "Against the Odds",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "38",
@@ -11062,7 +11067,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "4",
@@ -11285,13 +11290,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7086,
+      "Progressed": 7089,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7086,
+      "Progressed": 7089,
       "Completed": 7
     }
   ],
@@ -11299,8 +11304,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:06:38.8559437+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:06:46.8962684+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:02:52.5610596+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:06:38.8560376+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:57:07.3326393+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:06:46.8963641+00:00"
 }

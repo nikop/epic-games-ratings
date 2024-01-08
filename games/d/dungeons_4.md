@@ -14,7 +14,7 @@ Rating: 4.75 (Ranked 147)
 | Experienced Thalya | 72.00% | ~537 |
 | Bad Elves Go Everywhere | 69.00% | ~515 |
 | Thalya's Concentrated Fury | 68.00% | ~507 |
-| Heroes’ Gorge | 65.00% | ~485 |
+| Heroes’ Gorge | 66.00% | ~492 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~470 |
 | Master of Magic | 62.00% | ~463 |
 | The Ascent | 60.00% | ~448 |
@@ -31,7 +31,7 @@ Rating: 4.75 (Ranked 147)
 | Tanos' Crusade Against Thalya | 47.00% | ~351 |
 | Dungeonlord Gorgu | 46.00% | ~343 |
 | Pure Dynamite! | 45.00% | ~336 |
-| Mana Cannon | 42.00% | ~313 |
+| Mana Cannon | 43.00% | ~321 |
 | All’s Well That Ends Evil | 42.00% | ~313 |
 | The Duel | 40.00% | ~298 |
 | If Looks Could Kill | 37.00% | ~276 |

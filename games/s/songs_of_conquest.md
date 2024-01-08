@@ -7,7 +7,7 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~500 |
-| Double Kill | 40.00% | ~435 |
+| Double Kill | 41.00% | ~446 |
 | Critical Hit | 23.00% | ~250 |
 | Veteran | 23.00% | ~250 |
 | Dressed For Success | 16.00% | ~174 |
@@ -122,12 +122,12 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 1,067 | 0 |
 | 2024-01-08 | 1,087 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 29  (Ranked 528)  
-Sum: 251 (Ranked 398)  
-Diff (max vs sum): 130  
+Max (Quickly Understood Controls): 30  (Ranked 522)  
+Sum: 252 (Ranked 398)  
+Diff (max vs sum): 124  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 29 |
+| This game has Quickly Understood Controls | 30 |
 | This game has Diverse Characters | 28 |
 | This game has Amazing Storytelling | 27 |
 | This game is Relaxing | 27 |
@@ -204,3 +204,4 @@ Diff (max vs sum): 130
 | 2023-07-30 | 4.69 | - | 27 | 173 |
 | 2023-08-17 | 4.69 | - | 27 | 194 |
 | 2023-12-27 | 4.69 | - | 29 | 251 |
+| 2024-01-08 | 4.69 | - | 30 | 252 |

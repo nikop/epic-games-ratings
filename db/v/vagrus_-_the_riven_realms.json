@@ -2,9 +2,9 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1186,6 +1186,11 @@
       "Time": "2024-01-07T18:06:08.7165404+00:00",
       "NumProgressed": 294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T22:04:17.228451+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1253,7 +1258,7 @@
       "Name": "Conciliator",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -1339,9 +1344,9 @@
       "ID": "Vanilla_CombatStrenghtTier1",
       "SetID": "27kik8p",
       "Name": "Tactician",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -1557,7 +1562,7 @@
       "Name": "Fight Another Day",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Vanilla_Forager",
@@ -1851,9 +1856,9 @@
       "ID": "Vanilla_TasksCompleted",
       "SetID": "27kik8p",
       "Name": "Taskmaster",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "Vanilla_TaxEvasion",
@@ -1875,9 +1880,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1988,7 +1993,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 0
     }
   ],
@@ -1996,8 +2001,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:04:07.8679769+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:04:17.2284506+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.3467036+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:58:24.4208559+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:04:07.8680742+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:58:19.2614193+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:04:17.2285388+00:00"
 }

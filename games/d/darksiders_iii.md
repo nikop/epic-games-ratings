@@ -6,12 +6,12 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~392 |
-| First of many… | 69.00% | ~346 |
-| Helping Hand | 64.00% | ~321 |
-| Increased Vigor | 59.00% | ~296 |
-| Fight Fire with Fire | 57.00% | ~286 |
-| Increased Capacity | 54.00% | ~271 |
+| Green with Envy | 79.00% | ~397 |
+| First of many… | 69.00% | ~347 |
+| Helping Hand | 64.00% | ~322 |
+| Increased Vigor | 59.00% | ~297 |
+| Fight Fire with Fire | 57.00% | ~287 |
+| Increased Capacity | 54.00% | ~272 |
 | Just the start | 48.00% | ~241 |
 | Perfect Storm | 46.00% | ~231 |
 | All That Glitters | 45.00% | ~226 |
@@ -33,22 +33,22 @@ Number of Ratings: 116  (23.09.2022)
 | For Whom the Bell Tolls | 29.00% | ~146 |
 | Unyielding Strength | 26.00% | ~131 |
 | Can you restore the Balance? | 25.00% | ~126 |
-| Crowd Source | 25.00% | ~126 |
 | Big Spender | 25.00% | ~126 |
-| Cleanup Crew | 24.00% | ~120 |
-| Demon Meddler | 23.00% | ~115 |
-| Maximum Capacity | 22.00% | ~110 |
-| Seeing Red | 22.00% | ~110 |
-| Egomaniac | 20.00% | ~100 |
-| Protector of Humanity | 18.00% | ~90 |
-| Everybody Wants to Rule the World | 18.00% | ~90 |
+| Cleanup Crew | 24.00% | ~121 |
+| Crowd Source | 24.00% | ~121 |
+| Maximum Capacity | 22.00% | ~111 |
+| Demon Meddler | 22.00% | ~111 |
+| Seeing Red | 22.00% | ~111 |
+| Egomaniac | 20.00% | ~101 |
+| Protector of Humanity | 18.00% | ~91 |
+| Everybody Wants to Rule the World | 18.00% | ~91 |
 | Community Outreach | 15.00% | ~75 |
 | A Parting Gift | 14.00% | ~70 |
 | Unbreakable Will | 13.00% | ~65 |
 | Path of the Horseman | 13.00% | ~65 |
+| Demon Keeper | 12.00% | ~60 |
 | Take it to the Limit | 12.00% | ~60 |
 | Holy Keeper | 11.00% | ~55 |
-| Demon Keeper | 11.00% | ~55 |
 | Humanitarian | 9.00% | ~45 |
 | Soul Reaper | 8.00% | ~40 |
 | My Evil Twin | 6.00% | ~30 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 1.00% | ~5 |
 | Beast Mode | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 502 (Ranked 351)  
+Progressed: 503 (Ranked 351)  
 Completed: 2 (0.40%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 2 (0.40%) (Ranked 236)
 | 2024-01-05 | 444 | 1 |
 | 2024-01-06 | 466 | 2 |
 | 2024-01-07 | 492 | 2 |
-| 2024-01-08 | 502 | 2 |
+| 2024-01-08 | 503 | 2 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 388)  
 Sum: 96 (Ranked 472)  

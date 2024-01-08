@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 236)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~587 |
+| Time Heals All Wounds | 46.00% | ~588 |
 | Rail Rat | 35.00% | ~447 |
-| The Mysterious Stranger | 34.00% | ~434 |
-| Immaculate Aim | 29.00% | ~370 |
+| The Mysterious Stranger | 34.00% | ~435 |
+| Immaculate Aim | 29.00% | ~371 |
 | The Brass Boss | 28.00% | ~358 |
 | Time Flies | 26.00% | ~332 |
 | No, Thanks! | 26.00% | ~332 |
 | The Prince in Heels | 26.00% | ~332 |
 | Honest Mistake | 26.00% | ~332 |
-| Make Up For Lost Time | 25.00% | ~319 |
-| The Harder They Fall | 25.00% | ~319 |
-| Fast Learner | 25.00% | ~319 |
-| Immaculate Aim | 25.00% | ~319 |
-| The Steel Shadow | 24.00% | ~306 |
+| Make Up For Lost Time | 25.00% | ~320 |
+| The Harder They Fall | 25.00% | ~320 |
+| Fast Learner | 25.00% | ~320 |
+| Immaculate Aim | 25.00% | ~320 |
+| The Steel Shadow | 24.00% | ~307 |
 | Breaking Down Barriers | 23.00% | ~294 |
 | Right On Time | 22.00% | ~281 |
 | Like Clockwork | 22.00% | ~281 |
 | The Wicked Twins | 22.00% | ~281 |
 | Golem Chaser | 22.00% | ~281 |
 | The Betrayer | 21.00% | ~268 |
-| Check Your Pulse | 20.00% | ~255 |
+| Check Your Pulse | 20.00% | ~256 |
 | The Loose Cannon | 19.00% | ~243 |
 | Street Style | 18.00% | ~230 |
 | The Man Who Shattered Time | 18.00% | ~230 |
@@ -39,7 +39,7 @@ Rating: 4.69 (Ranked 236)
 | Ask Questions Later | 13.00% | ~166 |
 | Treasure Trove | 12.00% | ~153 |
 | Sump Explorer | 12.00% | ~153 |
-| Factorywood Explorer | 11.00% | ~140 |
+| Factorywood Explorer | 11.00% | ~141 |
 | Fairgrounds Explorer | 10.00% | ~128 |
 | Theater Explorer | 10.00% | ~128 |
 | Cultivair Explorer | 9.00% | ~115 |
@@ -54,12 +54,12 @@ Rating: 4.69 (Ranked 236)
 | Thinking Two Steps Ahead | 2.00% | ~26 |
 | Fitting In | 2.00% | ~26 |
 | No Time to Waste | 1.00% | ~13 |
-| A Lesson in Precision | 0.90% | ~11 |
+| A Lesson in Precision | 0.90% | ~12 |
 | Wildlife Protection | 0.80% | ~10 |
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,277 (Ranked 280)  
+Progressed: 1,278 (Ranked 280)  
 Completed: 7 (0.55%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 7 (0.55%) (Ranked 214)
 | 2024-01-05 | 1,241 | 6 |
 | 2024-01-06 | 1,255 | 6 |
 | 2024-01-07 | 1,264 | 7 |
-| 2024-01-08 | 1,277 | 7 |
+| 2024-01-08 | 1,278 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

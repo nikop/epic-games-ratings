@@ -8,12 +8,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~920 |
 | Lost and Found | 8.00% | ~566 |
-| Autodidact | 7.00% | ~9,254 |
+| Autodidact | 7.00% | ~9,255 |
 | This guy... again? | 7.00% | ~495 |
-| This Belongs in a Museum | 6.00% | ~7,932 |
-| Creep and Sleep | 6.00% | ~7,932 |
-| Overdue Notice | 6.00% | ~7,932 |
-| Ploughshares to Swords | 6.00% | ~424 |
+| This Belongs in a Museum | 6.00% | ~7,933 |
+| Creep and Sleep | 6.00% | ~7,933 |
+| Overdue Notice | 6.00% | ~7,933 |
+| Ploughshares to Swords | 6.00% | ~425 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,610 |
 | Serenity Now! | 5.00% | ~6,610 |
 | It Rings a Bell | 5.00% | ~6,610 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,205 (Ranked 91)  
+Progressed: 132,209 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,16 +339,16 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,205 | 3 |
+| 2024-01-08 | 132,209 | 3 |
 ## Awards
-Max (Character Customization): 7,986  (Ranked 50)  
-Sum: 21,539 (Ranked 58)  
+Max (Character Customization): 7,992  (Ranked 50)  
+Sum: 21,547 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,986 |
+| This game has Inclusive Character Customization | 7,992 |
 | This game has Diverse Characters | 1,835 |
-| This game has Challenging Combat | 1,672 |
+| This game has Challenging Combat | 1,674 |
 | This game is Highly Recommended | 1,602 |
 | This game has Amazing Characters | 1,527 |
 | This game is Extremely Fun | 1,518 |
@@ -706,4 +706,4 @@ Diff (max vs sum): -8
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
-| 2024-01-08 | 4.68 | - | 7,986 | 21,539 |
+| 2024-01-08 | 4.68 | - | 7,992 | 21,547 |

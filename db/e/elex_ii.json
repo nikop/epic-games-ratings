@@ -2,12 +2,12 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -573,7 +573,7 @@
   ],
   "EOS_Progressed": 220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1691,9 +1691,9 @@
       "ID": "CONSTRUCTION",
       "SetID": "a1angca",
       "Name": "Creator",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "DESTRUCTION",
@@ -1859,8 +1859,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:07:02.4253722+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:07:10.3127531+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:00:28.030469+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:07:02.4254221+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:00:21.2679762+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:07:10.3127933+00:00"
 }

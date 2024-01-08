@@ -2,9 +2,9 @@
   "ID": "78d62c43bcae4a649f87fdb6c0105b9a",
   "Name": "Enchanted Portals",
   "ProductSlug": "enchanted-portals-65ca68",
-  "Ranking_EOS_Progress": 535,
+  "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -339,6 +339,11 @@
       "Time": "2024-01-08T14:09:20.9030465+00:00",
       "NumProgressed": 62,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T22:09:41.5504375+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T01:48:39.6492868+00:00",
@@ -357,7 +362,7 @@
       "ID": "cave",
       "SetID": "40o2ndb",
       "Name": "To the Frog Cave!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -373,7 +378,7 @@
       "ID": "hotel",
       "SetID": "40o2ndb",
       "Name": "Very clean, would recommend!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -389,7 +394,7 @@
       "ID": "jungle",
       "SetID": "40o2ndb",
       "Name": "Jungle Fever",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -421,7 +426,7 @@
       "ID": "temple",
       "SetID": "40o2ndb",
       "Name": "It Belongs In A Museum!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -429,7 +434,7 @@
       "ID": "ufo",
       "SetID": "40o2ndb",
       "Name": "The great escape",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -437,7 +442,7 @@
       "ID": "world1",
       "SetID": "40o2ndb",
       "Name": "Hasta la vista, Meowitch!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 85,
       "UsersEstimate": 16
     },
@@ -453,7 +458,7 @@
       "ID": "world2",
       "SetID": "40o2ndb",
       "Name": "Moo!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 85,
       "UsersEstimate": 14
     },
@@ -469,7 +474,7 @@
       "ID": "world3",
       "SetID": "40o2ndb",
       "Name": "Haaaaarmit and company",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 85,
       "UsersEstimate": 11
     },
@@ -526,14 +531,14 @@
     {
       "ID": "40o2ndb",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:09:55.678521+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:09:41.5504366+00:00",
   "LastUpdate_AppInfo": "2024-01-08T02:57:24.8025937+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:03:24.6874651+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:09:55.6785355+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:03:14.5068648+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:09:41.5504539+00:00"
 }

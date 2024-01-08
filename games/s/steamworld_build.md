@@ -16,9 +16,9 @@
 | Gotta Go Fast | 45.00% | ~115 |
 | Mine Sweeper | 41.00% | ~105 |
 | Roll Out | 38.00% | ~97 |
-| Dopa-Miner | 32.00% | ~82 |
+| Dopa-Miner | 33.00% | ~84 |
 | Up, Up And Away! | 32.00% | ~82 |
-| Whoa! | 29.00% | ~74 |
+| Whoa! | 30.00% | ~77 |
 | Botropolis | 26.00% | ~67 |
 | Steaming Rich | 21.00% | ~54 |
 | Steam Powered | 20.00% | ~51 |

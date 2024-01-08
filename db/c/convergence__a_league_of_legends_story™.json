@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,7 +63,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1277,
+  "EOS_Progressed": 1278,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
@@ -3813,6 +3813,11 @@
       "Time": "2024-01-08T21:11:14.3170756+00:00",
       "NumProgressed": 1277,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T22:11:09.3651595+00:00",
+      "NumProgressed": 1278,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3832,7 +3837,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3928,7 +3933,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "FairgroundsChests1",
@@ -3944,7 +3949,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4016,7 +4021,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "MapCompletion1",
@@ -4056,7 +4061,7 @@
       "Name": "A Lesson in Precision",
       "Percentage": 0.9,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
@@ -4072,7 +4077,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ParryRepeated1",
@@ -4112,7 +4117,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "RewindParry",
@@ -4152,7 +4157,7 @@
       "Name": "Fast Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "SpeedRun",
@@ -4184,7 +4189,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "TheaterChests1",
@@ -4200,7 +4205,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "WarwickDefeated",
@@ -4208,7 +4213,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "WatcherFought",
@@ -4247,7 +4252,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1277,
+      "Progressed": 1278,
       "Completed": 7
     }
   ],
@@ -4255,8 +4260,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:11:14.317075+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:11:09.3651592+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:59:51.9759729+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:11:14.3171394+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:59:49.7319405+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:11:09.3652125+00:00"
 }

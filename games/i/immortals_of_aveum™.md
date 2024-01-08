@@ -5,13 +5,13 @@ Rating: 4.19 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,749 |
-| Battlefields Have Memories | 81.00% | ~2,530 |
-| Enlisted | 74.00% | ~2,312 |
-| Maybe Engage a Little | 69.00% | ~2,156 |
-| No More Names | 52.00% | ~1,624 |
-| Initiate | 38.00% | ~1,187 |
-| Thrada-Kul | 34.00% | ~1,062 |
+| Unforeseen | 88.00% | ~2,751 |
+| Battlefields Have Memories | 81.00% | ~2,532 |
+| Enlisted | 74.00% | ~2,313 |
+| Maybe Engage a Little | 69.00% | ~2,157 |
+| No More Names | 52.00% | ~1,626 |
+| Initiate | 38.00% | ~1,188 |
+| Thrada-Kul | 34.00% | ~1,063 |
 | Gravity-Challenged Rocks | 28.00% | ~875 |
 | Socialite | 24.00% | ~750 |
 | Soldier | 23.00% | ~719 |
@@ -22,22 +22,22 @@ Rating: 4.19 (Ranked 971)
 | Resilience to Sin | 16.00% | ~500 |
 | A Familiar Nest | 15.00% | ~469 |
 | Periapt Alizarin | 15.00% | ~469 |
-| Geas Aristeya | 14.00% | ~437 |
+| Geas Aristeya | 14.00% | ~438 |
 | A Perfect Cycle | 13.00% | ~406 |
-| Recruit | 12.00% | ~375 |
+| Recruit | 13.00% | ~406 |
 | Armsman | 11.00% | ~344 |
 | Lights Army | 9.00% | ~281 |
 | Periapt Cerulean | 8.00% | ~250 |
 | Good Boy | 7.00% | ~219 |
-| Best Dressed | 6.00% | ~187 |
-| Periapt Viridian | 6.00% | ~187 |
-| Shroudfane Explorer | 6.00% | ~187 |
+| Best Dressed | 6.00% | ~188 |
+| Periapt Viridian | 6.00% | ~188 |
+| Shroudfane Explorer | 6.00% | ~188 |
+| Kitted Out | 5.00% | ~156 |
 | Scholar | 4.00% | ~125 |
-| Kitted Out | 4.00% | ~125 |
+| Armaments Azure | 4.00% | ~125 |
 | Armaments Gules | 4.00% | ~125 |
-| Armaments Azure | 3.00% | ~94 |
 | Armaments Vert | 3.00% | ~94 |
-| Veteran | 2.00% | ~62 |
+| Veteran | 2.00% | ~63 |
 | Grand Magnus | 1.00% | ~31 |
 | Master of Carmine | 1.00% | ~31 |
 | Tip of the Spear | 1.00% | ~31 |
@@ -49,11 +49,11 @@ Rating: 4.19 (Ranked 971)
 | Petite Bourgeoisie | 0.60% | ~19 |
 | Diplomat | 0.50% | ~16 |
 | Master of Malachite | 0.50% | ~16 |
-| Treasure Hunter | 0.40% | ~12 |
+| Treasure Hunter | 0.40% | ~13 |
 | Out of Time | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,124 (Ranked 228)  
+Progressed: 3,126 (Ranked 228)  
 Completed: 4 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 4 (0.13%) (Ranked 298)
 | 2024-01-05 | 2,796 | 4 |
 | 2024-01-06 | 2,915 | 4 |
 | 2024-01-07 | 3,056 | 4 |
-| 2024-01-08 | 3,124 | 4 |
+| 2024-01-08 | 3,126 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

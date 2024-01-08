@@ -5,18 +5,18 @@ Rating: 4.50 (Ranked 611)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,681 |
+| Stylish | 11.00% | ~3,682 |
 | Meticulously Efficient | 9.00% | ~3,012 |
-| Advancement | 8.00% | ~2,677 |
+| Advancement | 8.00% | ~2,678 |
 | Discovery | 6.00% | ~2,008 |
 | Solo Capture | 6.00% | ~2,008 |
 | Swift Rift Removers | 6.00% | ~2,008 |
-| Clutch Capture | 5.00% | ~1,673 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,673 |
-| Fully Upgraded | 5.00% | ~1,673 |
-| Teamwork | 5.00% | ~1,673 |
-| There you are! | 5.00% | ~1,673 |
-| Vaporous Expansion | 5.00% | ~1,673 |
+| Clutch Capture | 5.00% | ~1,674 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,674 |
+| Fully Upgraded | 5.00% | ~1,674 |
+| Teamwork | 5.00% | ~1,674 |
+| There you are! | 5.00% | ~1,674 |
+| Vaporous Expansion | 5.00% | ~1,674 |
 | Cultured | 4.00% | ~1,339 |
 | Daily Dose | 4.00% | ~1,339 |
 | Ghostbuster In Training | 4.00% | ~1,339 |
@@ -29,13 +29,13 @@ Rating: 4.50 (Ranked 611)
 | Icing on the Cake | 3.00% | ~1,004 |
 | Legions | 3.00% | ~1,004 |
 | Pesky Jerks | 3.00% | ~1,004 |
+| Rift Destroyer | 3.00% | ~1,004 |
 | Seasoned | 3.00% | ~1,004 |
 | Side Hustle | 3.00% | ~1,004 |
 | Summoner | 3.00% | ~1,004 |
 | Collector | 2.00% | ~669 |
 | Escape Artist | 2.00% | ~669 |
 | Reckless | 2.00% | ~669 |
-| Rift Destroyer | 2.00% | ~669 |
 | Skilled | 2.00% | ~669 |
 | Stunner | 2.00% | ~669 |
 | Tobin's Prodigy | 2.00% | ~669 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 611)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,468 (Ranked 136)  
+Progressed: 33,470 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 71 (0.21%) (Ranked 273)
 | 2024-01-05 | 33,310 | 71 |
 | 2024-01-06 | 33,384 | 71 |
 | 2024-01-07 | 33,430 | 71 |
-| 2024-01-08 | 33,468 | 71 |
+| 2024-01-08 | 33,470 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 256)  
 Sum: 2,953 (Ranked 186)  

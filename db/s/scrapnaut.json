@@ -2,7 +2,7 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 334,
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2226,6 +2226,11 @@
       "Time": "2024-01-08T19:09:22.3572753+00:00",
       "NumProgressed": 643,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T22:09:59.5056942+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2261,7 +2266,7 @@
       "Name": "Electro-Scrap Master",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -2285,7 +2290,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2365,7 +2370,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -2389,7 +2394,7 @@
       "Name": "Scrapper",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_KILL_50",
@@ -2405,7 +2410,7 @@
       "Name": "Prepper",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -2445,7 +2450,7 @@
       "Name": "Smelter",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -2453,7 +2458,7 @@
       "Name": "Survivor",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -2484,7 +2489,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 4
     }
   ],
@@ -2492,8 +2497,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:10:13.7454119+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:09:59.5056939+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:02:20.8281422+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:10:13.745451+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:02:42.0569246+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:09:59.5057251+00:00"
 }

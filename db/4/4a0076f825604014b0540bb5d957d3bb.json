@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -732,9 +732,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -796,9 +796,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -812,9 +812,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -884,9 +884,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -907,8 +907,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:10:56.9746583+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:10:52.4420735+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:12.4832166+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:01:16.7746874+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:10:56.9747023+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:01:10.1051446+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:10:52.442095+00:00"
 }

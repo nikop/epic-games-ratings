@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8165,
+  "EOS_Progressed": 8167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13607,6 +13607,11 @@
       "Time": "2024-01-08T21:08:41.5593455+00:00",
       "NumProgressed": 8165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T22:08:48.5021703+00:00",
+      "NumProgressed": 8167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13618,7 +13623,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13658,7 +13663,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -13666,7 +13671,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13754,7 +13759,7 @@
       "Name": "The Beetles",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_019",
@@ -13762,7 +13767,7 @@
       "Name": "Lake Me up Before You Go Go",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -13810,7 +13815,7 @@
       "Name": "Taylor Made",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -13937,13 +13942,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8165,
+      "Progressed": 8167,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7537,
+      "Progressed": 7539,
       "Completed": 113
     }
   ],
@@ -13951,8 +13956,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:08:41.559345+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:08:48.50217+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:59:31.5429807+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:08:41.5594272+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:59:26.6376841+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:08:48.5022554+00:00"
 }

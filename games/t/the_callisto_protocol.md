@@ -5,28 +5,28 @@ Rating: 4.21 (Ranked 952)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 25.00% | ~5,433 |
-| The Outer Way | 25.00% | ~5,433 |
-| Desperate Times | 24.00% | ~5,216 |
-| Paper Jams | 22.00% | ~4,781 |
-| Get a Grip | 21.00% | ~4,564 |
-| Chew 'Em Up | 19.00% | ~4,129 |
-| Reforged | 18.00% | ~3,912 |
-| Float Like A Butterfly | 17.00% | ~3,694 |
-| If the SHU Fits... | 16.00% | ~3,477 |
-| Workplace Hazard | 15.00% | ~3,260 |
-| Without A Paddle | 13.00% | ~2,825 |
-| In the Pipe, Five by Five | 12.00% | ~2,608 |
-| Crash Site | 12.00% | ~2,608 |
+| Flesh Wound | 25.00% | ~5,435 |
+| The Outer Way | 25.00% | ~5,435 |
+| Desperate Times | 24.00% | ~5,217 |
+| Paper Jams | 22.00% | ~4,783 |
+| Get a Grip | 21.00% | ~4,565 |
+| Chew 'Em Up | 19.00% | ~4,130 |
+| Reforged | 18.00% | ~3,913 |
+| Float Like A Butterfly | 17.00% | ~3,696 |
+| If the SHU Fits... | 16.00% | ~3,478 |
+| Workplace Hazard | 15.00% | ~3,261 |
+| Without A Paddle | 13.00% | ~2,826 |
+| In the Pipe, Five by Five | 12.00% | ~2,609 |
+| Crash Site | 12.00% | ~2,609 |
 | Two Heads Are Better Than One | 11.00% | ~2,391 |
 | Power Up | 11.00% | ~2,391 |
-| Terminated | 10.00% | ~2,173 |
-| Giving Back | 9.00% | ~1,956 |
-| What Lies Beneath | 9.00% | ~1,956 |
-| Full Circle | 9.00% | ~1,956 |
+| Terminated | 10.00% | ~2,174 |
+| Giving Back | 9.00% | ~1,957 |
+| What Lies Beneath | 9.00% | ~1,957 |
+| Full Circle | 9.00% | ~1,957 |
 | You Need a Gun | 8.00% | ~1,739 |
 | I Do Belong Here | 8.00% | ~1,739 |
-| Keep Fighting | 7.00% | ~676 |
+| Keep Fighting | 7.00% | ~677 |
 | In Striking Distance | 5.00% | ~1,087 |
 | The Commonality | 5.00% | ~1,087 |
 | It's Time | 5.00% | ~483 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 952)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,732 (Ranked 151)  
+Progressed: 21,739 (Ranked 151)  
 Completed: 82 (0.38%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 82 (0.38%) (Ranked 241)
 | 2024-01-05 | 21,186 | 82 |
 | 2024-01-06 | 21,389 | 82 |
 | 2024-01-07 | 21,615 | 82 |
-| 2024-01-08 | 21,732 | 82 |
+| 2024-01-08 | 21,739 | 82 |
 ## Awards
 Max (Amazing Characters): 126  (Ranked 354)  
 Sum: 607 (Ranked 325)  

@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,450 |
-| Life is your teacher | 5.00% | ~37,875 |
-| The Assault | 4.00% | ~30,300 |
-| Lightning Hands | 4.00% | ~30,300 |
+| The Old Grandmaster | 6.00% | ~45,451 |
+| Life is your teacher | 5.00% | ~37,876 |
+| The Assault | 4.00% | ~30,301 |
+| Lightning Hands | 4.00% | ~30,301 |
 | The Hateful Pole Fighter | 3.00% | ~22,725 |
 | State of constant learning | 3.00% | ~22,725 |
 | Old Child | 3.00% | ~22,725 |
@@ -31,24 +31,24 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,575 |
 | Take damage to save time | 1.00% | ~7,575 |
 | Project Arena | 1.00% | ~668 |
-| Fight the way you practice | 0.80% | ~534 |
-| Muk Yan Master | 0.70% | ~5,302 |
+| Fight the way you practice | 0.80% | ~535 |
+| Muk Yan Master | 0.70% | ~5,303 |
 | Tiger on Fire | 0.60% | ~4,545 |
 | Source of Flying Daggers | 0.60% | ~4,545 |
 | Detective Story | 0.60% | ~4,545 |
 | Bloody Sport | 0.60% | ~401 |
 | Martial Hub | 0.60% | ~401 |
-| Iron Money | 0.50% | ~3,787 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,787 |
-| Prodigal Child | 0.50% | ~3,787 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,787 |
-| Sword Stained With Blood | 0.50% | ~3,787 |
+| Iron Money | 0.50% | ~3,788 |
+| Legendary Talismans of Wuxing | 0.50% | ~3,788 |
+| Prodigal Child | 0.50% | ~3,788 |
+| The 36th Chamber of Kung-Fu | 0.50% | ~3,788 |
+| Sword Stained With Blood | 0.50% | ~3,788 |
 | The Pit Protector | 0.40% | ~3,030 |
 | The best strikes are the ones we avoid | 0.40% | ~267 |
-| Drunken Fighter | 0.30% | ~2,272 |
-| Martial Artist | 0.30% | ~2,272 |
-| Knowledge Greed | 0.30% | ~2,272 |
-| Come Snap With Me | 0.30% | ~2,272 |
+| Drunken Fighter | 0.30% | ~2,273 |
+| Martial Artist | 0.30% | ~2,273 |
+| Knowledge Greed | 0.30% | ~2,273 |
+| Come Snap With Me | 0.30% | ~2,273 |
 | Deadly Venom | 0.30% | ~200 |
 | A Touch of Acumen | 0.30% | ~200 |
 | Healing Memory | 0.20% | ~1,515 |
@@ -60,14 +60,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Skill and an even stronger will | 0.20% | ~134 |
 | Master of the Flying Assassins | 0.20% | ~134 |
 | Beatmaker | 0.20% | ~134 |
-| Warriors from the Mountain | 0.10% | ~757 |
+| Warriors from the Mountain | 0.10% | ~758 |
 | Hidden Dragon | 0.10% | ~67 |
 | Here Cometh the Iceman | 0.10% | ~67 |
 | Fighter in the Pond | 0.10% | ~67 |
 | Bonus Stage | 0.10% | ~67 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 757,495 (Ranked 26)  
+Progressed: 757,515 (Ranked 26)  
 Completed: 12,979 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 12,979 (1.71%) (Ranked 142)
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
 | 2024-01-07 | 756,813 | 12,976 |
-| 2024-01-08 | 757,495 | 12,979 |
+| 2024-01-08 | 757,515 | 12,979 |
 ## Awards
 Max (Great Boss Battles): 7,154  (Ranked 56)  
 Sum: 12,650 (Ranked 85)  

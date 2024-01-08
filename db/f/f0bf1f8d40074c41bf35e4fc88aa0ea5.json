@@ -4,7 +4,7 @@
   "ProductSlug": "argol-kronoss-castle-84d829",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-26T23:00:00+00:00",
@@ -112,9 +112,9 @@
       "ID": "CERBERUS",
       "SetID": "d0gblle",
       "Name": "Scary dog",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEIMOS",
@@ -239,8 +239,8 @@
   ],
   "FirstSeen": "2023-12-29T14:58:56.0005709+00:00",
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:04:43.9580554+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:04:52.9544684+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.9956497+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:01:07.1234843+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:04:43.9580713+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:01:01.0305022+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:04:52.9544785+00:00"
 }

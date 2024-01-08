@@ -6,8 +6,8 @@
   "Ranking_Popularity": 370,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -315,7 +315,7 @@
   ],
   "EOS_Progressed": 1327,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3954,9 +3954,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 106
     },
     {
       "ID": "GoodCitizen",
@@ -4299,8 +4299,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-08T17:59:02.5867071+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:07:58.6703712+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:08:05.9692739+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:59:06.8042581+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:07:58.6704298+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:59:01.8150819+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:08:05.9693288+00:00"
 }

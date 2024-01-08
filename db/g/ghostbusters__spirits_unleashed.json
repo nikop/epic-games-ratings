@@ -3963,9 +3963,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33468,
+  "EOS_Progressed": 33470,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25008,6 +25008,11 @@
       "Time": "2024-01-08T21:09:36.4776097+00:00",
       "NumProgressed": 33468,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-08T22:09:22.4331157+00:00",
+      "NumProgressed": 33470,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25019,7 +25024,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "Animated",
@@ -25059,7 +25064,7 @@
       "Name": "Clutch Capture",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "Collect_Spores",
@@ -25067,7 +25072,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "Collector",
@@ -25155,7 +25160,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "GB_In_Training",
@@ -25249,9 +25254,9 @@
       "ID": "Rift_Destroyer",
       "SetID": "819popo",
       "Name": "Rift Destroyer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 669
+      "UsersEstimate": 1004
     },
     {
       "ID": "Rift_Seeker",
@@ -25323,7 +25328,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "Summoner",
@@ -25355,7 +25360,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "Terrifying",
@@ -25379,7 +25384,7 @@
       "Name": "There you are!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "Tobins_Prodigy",
@@ -25403,7 +25408,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "Welcome_Crew",
@@ -25426,7 +25431,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33468,
+      "Progressed": 33470,
       "Completed": 71
     }
   ],
@@ -25434,8 +25439,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-07T01:52:35.5069722+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:09:36.4776092+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:09:22.4331154+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:59:14.9474282+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:09:36.4777186+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:59:10.9992891+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:09:22.433236+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 685,
+  "EOS_Progressed": 686,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1914,6 +1914,11 @@
       "Time": "2024-01-08T19:10:01.7227114+00:00",
       "NumProgressed": 685,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T22:11:03.3530205+00:00",
+      "NumProgressed": 686,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2203,9 +2208,9 @@
       "ID": "TrapMaster",
       "SetID": "82505mn",
       "Name": "Trap Master",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 117
     },
     {
       "ID": "TreasureHunter",
@@ -2221,7 +2226,7 @@
       "Name": "Troubleshooter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "WeaponMaster",
@@ -2244,7 +2249,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 685,
+      "Progressed": 686,
       "Completed": 1
     }
   ],
@@ -2252,8 +2257,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:11:08.0654724+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:11:03.35302+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:02:01.7466108+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:11:08.0655146+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:01:53.8968035+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:11:03.3530687+00:00"
 }

@@ -1,14 +1,14 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 299)  
+Rating: 4.66 (Ranked 300)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,986 |
-| A thief's beginning | 11.00% | ~24,737 |
-| Thorough | 11.00% | ~24,737 |
+| Genin | 12.00% | ~26,987 |
+| A thief's beginning | 11.00% | ~24,738 |
+| Thorough | 11.00% | ~24,738 |
 | Disguised | 9.00% | ~20,240 |
 | Rescue Takuma | 9.00% | ~20,240 |
 | Rollin' | 9.00% | ~20,240 |
@@ -22,14 +22,14 @@ Number of Ratings: 495  (23.09.2022)
 | Chunin | 6.00% | ~13,493 |
 | Flying Rocks | 6.00% | ~13,493 |
 | Warzone | 6.00% | ~13,493 |
-| Happy little accidents | 5.00% | ~11,244 |
-| Okkoto | 5.00% | ~11,244 |
-| Prisoners | 5.00% | ~11,244 |
-| Too Early | 5.00% | ~11,244 |
-| Gear up | 4.00% | ~8,995 |
-| Noboru | 4.00% | ~8,995 |
-| Still Rollin' | 4.00% | ~8,995 |
-| Stoned | 4.00% | ~8,995 |
+| Happy little accidents | 5.00% | ~11,245 |
+| Okkoto | 5.00% | ~11,245 |
+| Prisoners | 5.00% | ~11,245 |
+| Too Early | 5.00% | ~11,245 |
+| Gear up | 4.00% | ~8,996 |
+| Noboru | 4.00% | ~8,996 |
+| Still Rollin' | 4.00% | ~8,996 |
+| Stoned | 4.00% | ~8,996 |
 | It's raining men | 3.00% | ~6,747 |
 | The Old Way | 3.00% | ~6,747 |
 | Atheist Ox | 2.00% | ~4,498 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,884 (Ranked 79)  
+Progressed: 224,891 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 105 (0.05%) (Ranked 337)
 | 2024-01-05 | 224,240 | 105 |
 | 2024-01-06 | 224,483 | 105 |
 | 2024-01-07 | 224,723 | 105 |
-| 2024-01-08 | 224,884 | 105 |
+| 2024-01-08 | 224,891 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 211)  
 Sum: 4,949 (Ranked 150)  

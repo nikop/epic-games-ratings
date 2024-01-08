@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10582,18 +10582,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21539,
       "NumberOfAwardsMax": 7986
+    },
+    {
+      "Time": "2024-01-08T21:58:52.9913845+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21547,
+      "NumberOfAwardsMax": 7992
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21539,
-  "NumberOfAwardsMax": 7986,
+  "NumberOfAwards": 21547,
+  "NumberOfAwardsMax": 7992,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7986
+      "Count": 7992
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10617,7 +10623,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1672
+      "Count": 1674
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10662,9 +10668,9 @@
       "Count": 1084
     }
   ],
-  "EOS_Progressed": 132205,
+  "EOS_Progressed": 132209,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1016,
+  "EOS_NewPlayers": 1011,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38962,6 +38968,11 @@
       "Time": "2024-01-08T21:10:45.2515582+00:00",
       "NumProgressed": 132205,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T22:10:40.7668132+00:00",
+      "NumProgressed": 132209,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39101,7 +39112,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7932
+      "UsersEstimate": 7933
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39133,7 +39144,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7932
+      "UsersEstimate": 7933
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39197,7 +39208,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7932
+      "UsersEstimate": 7933
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39325,7 +39336,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9254
+      "UsersEstimate": 9255
     },
     {
       "ID": "hero_story_complete_all",
@@ -39557,7 +39568,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39604,21 +39615,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132205,
+      "Progressed": 132209,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7074,
+      "Progressed": 7078,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-08T16:58:39.4176472+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:10:45.2515576+00:00",
+  "LastChanged": "2024-01-08T21:58:52.9913843+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:10:40.7668129+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:58:58.464697+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:10:45.2517568+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:58:52.991385+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:10:40.7669908+00:00"
 }

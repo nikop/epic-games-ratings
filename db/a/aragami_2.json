@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44988,
+  "EOS_Progressed": 44989,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -20702,6 +20702,11 @@
       "Time": "2024-01-08T21:05:59.9808207+00:00",
       "NumProgressed": 44988,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-08T22:06:07.8627901+00:00",
+      "NumProgressed": 44989,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20713,7 +20718,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25643
+      "UsersEstimate": 25644
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -20721,7 +20726,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13946
+      "UsersEstimate": 13947
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -20729,7 +20734,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9897
+      "UsersEstimate": 9898
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -20833,7 +20838,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35990
+      "UsersEstimate": 35991
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -20937,7 +20942,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24743
+      "UsersEstimate": 24744
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -20953,7 +20958,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28342
+      "UsersEstimate": 28343
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -20985,7 +20990,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30142
+      "UsersEstimate": 30143
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -21049,7 +21054,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41839
+      "UsersEstimate": 41840
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -21064,7 +21069,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44988,
+      "Progressed": 44989,
       "Completed": 248
     }
   ],
@@ -21072,8 +21077,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:05:59.9808202+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:06:07.8627896+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.8040993+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:03:36.4531744+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:05:59.9809322+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:03:24.8818968+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:06:07.8629457+00:00"
 }

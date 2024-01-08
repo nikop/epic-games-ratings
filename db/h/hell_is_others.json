@@ -4,7 +4,7 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 767,
   "Ranking_Popularity": 444,
-  "Ranking_PopularitySum": 364,
+  "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 171,
@@ -1459,7 +1459,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260429,
+  "EOS_Progressed": 260431,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
@@ -26684,6 +26684,11 @@
       "Time": "2024-01-08T21:06:11.7873913+00:00",
       "NumProgressed": 260429,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T22:06:19.8518818+00:00",
+      "NumProgressed": 260431,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26743,7 +26748,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80733
+      "UsersEstimate": 80734
     },
     {
       "ID": "BackHomeNTimes",
@@ -26751,7 +26756,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13021
+      "UsersEstimate": 13022
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -26823,7 +26828,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13021
+      "UsersEstimate": 13022
     },
     {
       "ID": "CreedsInBank2",
@@ -27142,7 +27147,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260429,
+      "Progressed": 260431,
       "Completed": 3
     }
   ],
@@ -27150,8 +27155,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-08T01:46:00.7585817+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:06:11.7873907+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:06:19.8518814+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.9058213+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:58:11.89775+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:06:11.7875281+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:58:06.9545043+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:06:19.8520088+00:00"
 }

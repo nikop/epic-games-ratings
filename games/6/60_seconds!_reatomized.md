@@ -5,40 +5,40 @@ Rating: 4.50 (Ranked 611)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,809 |
-| I will survive! | 93.00% | ~5,747 |
-| All thumbs | 92.00% | ~5,686 |
-| Home, sweet home | 91.00% | ~5,624 |
-| Survivalist | 90.00% | ~5,562 |
-| One way ticket | 85.00% | ~5,253 |
-| Last man standing | 81.00% | ~5,006 |
-| Family guy | 77.00% | ~4,759 |
-| Out of the Bag | 76.00% | ~4,697 |
-| The Dark Side | 71.00% | ~4,388 |
-| Souper! | 66.00% | ~4,079 |
-| Duck and cover! | 66.00% | ~4,079 |
-| Pacifist | 60.00% | ~3,708 |
-| 2-1-6 | 59.00% | ~3,646 |
-| A gift | 55.00% | ~3,399 |
-| Girl Power | 49.00% | ~3,028 |
-| What goes around... | 45.00% | ~2,781 |
-| Be Prepared | 39.00% | ~2,410 |
+| Prepper | 94.00% | ~5,811 |
+| I will survive! | 93.00% | ~5,749 |
+| All thumbs | 92.00% | ~5,687 |
+| Home, sweet home | 91.00% | ~5,626 |
+| Survivalist | 90.00% | ~5,564 |
+| One way ticket | 85.00% | ~5,255 |
+| Last man standing | 81.00% | ~5,007 |
+| Family guy | 77.00% | ~4,760 |
+| Out of the Bag | 76.00% | ~4,698 |
+| The Dark Side | 71.00% | ~4,389 |
+| Souper! | 66.00% | ~4,080 |
+| Duck and cover! | 66.00% | ~4,080 |
+| Pacifist | 60.00% | ~3,709 |
+| 2-1-6 | 59.00% | ~3,647 |
+| A gift | 55.00% | ~3,400 |
+| Girl Power | 49.00% | ~3,029 |
+| What goes around... | 45.00% | ~2,782 |
+| Be Prepared | 39.00% | ~2,411 |
 | Unbreakable | 37.00% | ~2,287 |
-| Gotta get 'em all | 35.00% | ~2,163 |
-| This is the end | 34.00% | ~2,101 |
+| Gotta get 'em all | 35.00% | ~2,164 |
+| This is the end | 34.00% | ~2,102 |
 | Atomic drill | 32.00% | ~1,978 |
-| Disco Roach | 29.00% | ~1,792 |
+| Disco Roach | 29.00% | ~1,793 |
 | Dawkins Residence | 22.00% | ~1,360 |
-| Rescue time! | 19.00% | ~1,174 |
-| New order | 18.00% | ~1,112 |
+| Rescue time! | 19.00% | ~1,175 |
+| New order | 18.00% | ~1,113 |
 | New species | 17.00% | ~1,051 |
 | Enigma | 16.00% | ~989 |
 | A New Hope | 15.00% | ~927 |
-| Challenger | 13.00% | ~803 |
-| Men in Black | 13.00% | ~803 |
+| Challenger | 13.00% | ~804 |
+| Men in Black | 13.00% | ~804 |
 | No stone unturned | 12.00% | ~742 |
 | Unplugged | 9.00% | ~556 |
-| Mad Hatter | 8.00% | ~494 |
+| Mad Hatter | 8.00% | ~495 |
 | Holidays! | 7.00% | ~433 |
 | Yes Man | 7.00% | ~433 |
 | Lumbersexual | 6.00% | ~371 |
@@ -60,13 +60,13 @@ Rating: 4.50 (Ranked 611)
 | Bughunter | 0.80% | ~49 |
 | Pro gamer | 0.70% | ~43 |
 | Naysayer | 0.60% | ~37 |
-| Manhattan Project | 0.60% | ~37 |
+| Manhattan Project | 0.50% | ~31 |
 | Fair Exchange | 0.50% | ~31 |
 | Miracle | 0.30% | ~19 |
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,180 (Ranked 199)  
+Progressed: 6,182 (Ranked 199)  
 Completed: 1 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 1 (0.02%) (Ranked 361)
 | 2024-01-05 | 6,103 | 1 |
 | 2024-01-06 | 6,133 | 1 |
 | 2024-01-07 | 6,161 | 1 |
-| 2024-01-08 | 6,180 | 1 |
+| 2024-01-08 | 6,182 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

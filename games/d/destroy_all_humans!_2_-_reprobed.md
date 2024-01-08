@@ -6,29 +6,29 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 83.00% | ~305 |
-| Mash Machine | 76.00% | ~280 |
-| Ducks in a Row, Fish in a Barrel | 54.00% | ~199 |
-| Furon Fashion | 48.00% | ~177 |
-| Shop Til They Drop | 40.00% | ~147 |
-| Bodied Sattva | 38.00% | ~140 |
-| Cult Following | 35.00% | ~129 |
-| Earthly Pleasures | 34.00% | ~125 |
+| Rock of the Bay | 83.00% | ~307 |
+| Mash Machine | 75.00% | ~278 |
+| Ducks in a Row, Fish in a Barrel | 54.00% | ~200 |
+| Furon Fashion | 47.00% | ~174 |
+| Shop Til They Drop | 40.00% | ~148 |
+| Bodied Sattva | 38.00% | ~141 |
+| Cult Following | 35.00% | ~130 |
+| Earthly Pleasures | 34.00% | ~126 |
 | Lie Back and Think of Albion | 29.00% | ~107 |
-| Upgreatest | 27.00% | ~99 |
-| Pimp My Raid | 26.00% | ~96 |
-| Freshly Squeezed | 23.00% | ~85 |
-| I Look Up As I Walk to Takoshima | 21.00% | ~77 |
+| Upgreatest | 27.00% | ~100 |
+| Pimp My Raid | 25.00% | ~92 |
+| Freshly Squeezed | 22.00% | ~81 |
+| I Look Up As I Walk to Takoshima | 21.00% | ~78 |
 | Die Nasty | 19.00% | ~70 |
-| Perfect Probulator | 18.00% | ~66 |
+| Perfect Probulator | 18.00% | ~67 |
 | Transmitting From Sol-3 | 16.00% | ~59 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~48 |
-| Fly Me to the Moon Base | 11.00% | ~40 |
-| Kaijuiced | 11.00% | ~40 |
+| Fly Me to the Moon Base | 11.00% | ~41 |
+| Kaijuiced | 11.00% | ~41 |
 | Dusted | 10.00% | ~37 |
 | Scuttled | 9.00% | ~33 |
-| Lobster Blisque | 7.00% | ~26 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~26 |
+| Lobster Blisque | 6.00% | ~22 |
 | Yettisoned | 6.00% | ~22 |
 | Ultimate Smoothie | 5.00% | ~18 |
 | Arkvoodle Doodle | 4.00% | ~15 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~2 |
 | Trans-Siberian Express | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 368 (Ranked 374)  
+Progressed: 370 (Ranked 374)  
 Completed: 2 (0.54%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 2 (0.54%) (Ranked 216)
 | 2024-01-05 | 324 | 2 |
 | 2024-01-06 | 341 | 2 |
 | 2024-01-07 | 355 | 2 |
-| 2024-01-08 | 368 | 2 |
+| 2024-01-08 | 370 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 497)  
 Sum: 36 (Ranked 529)  

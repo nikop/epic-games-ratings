@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 491,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -1539,9 +1539,9 @@
       "ID": "success_jake",
       "SetID": "6h5h9ho",
       "Name": "The nice guy",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "success_kathleen",
@@ -1596,8 +1596,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:10:36.5156159+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:10:22.1660692+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-08T20:59:17.0158649+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:10:36.5156401+00:00"
+  "LastUpdate_Ratings": "2024-01-08T21:59:13.0579779+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:10:22.1660884+00:00"
 }

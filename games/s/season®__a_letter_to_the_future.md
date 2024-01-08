@@ -12,7 +12,7 @@
 | Deep Listener | 24.00% | ~492 |
 | Music for Cows | 18.00% | ~369 |
 | Emotional Baggage Handler | 17.00% | ~348 |
-| Dream Listener | 14.00% | ~287 |
+| Dream Listener | 15.00% | ~307 |
 | Artist Assistant | 13.00% | ~266 |
 | Tour de Tieng | 13.00% | ~266 |
 | Goodbye Tieng Valley | 11.00% | ~225 |

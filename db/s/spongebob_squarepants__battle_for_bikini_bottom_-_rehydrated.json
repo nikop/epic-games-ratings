@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -341,11 +341,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 874,
+  "EOS_Progressed": 875,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.92,
+  "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -2301,6 +2301,11 @@
       "Time": "2024-01-08T21:08:03.3441284+00:00",
       "NumProgressed": 874,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-08T22:08:10.4428507+00:00",
+      "NumProgressed": 875,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2353,7 +2358,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2545,7 +2550,7 @@
       "Name": "Star Smasher",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2553,7 +2558,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -2568,15 +2573,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 874,
+      "Progressed": 875,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-06T21:00:31.8698684+00:00",
-  "LastChanged_Achievements": "2024-01-08T21:08:03.3441279+00:00",
+  "LastChanged_Achievements": "2024-01-08T22:08:10.4428504+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-08T21:02:32.5334993+00:00",
-  "LastUpdate_Achievements": "2024-01-08T21:08:03.3441652+00:00"
+  "LastUpdate_Ratings": "2024-01-08T22:02:53.4696062+00:00",
+  "LastUpdate_Achievements": "2024-01-08T22:08:10.4428851+00:00"
 }
