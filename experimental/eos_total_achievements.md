@@ -751,6 +751,7 @@
 | [The Devil's Face](../games/t/the_devil's_face.md) | 14 | 1,000 |
 | [The First Tree](../games/t/the_first_tree.md) | 14 | 1,000 |
 | [The Riflemen](../games/t/the_riflemen.md) | 14 | 1,000 |
+| [Top Web Search 23](../games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 14 | 1,000 |
 | [Tribu](../games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 14 | 1,000 |
 | [Battle Planet - Judgement Day](../games/e/e3c41cdcfdd044478dd6ed66556df982.md) | 13 | 1,000 |
 | [Blanc](../games/b/blanc.md) | 13 | 1,000 |

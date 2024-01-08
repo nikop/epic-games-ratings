@@ -3,6 +3,7 @@
 | [Mahjong Royal Towers](games/c/c1f4bc1c1b004134b8af9d05d48215c1.md) | 2024-01-08 | - |  | - | - |
 | [Filthy Us Complete Edition](games/f/f7d241661b8240f2a7a23e541f006261.md) | 2024-01-09 | - |  | - | - |
 | [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | 2024-01-10 | - |  | - | - |
+| [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 0 | - | - |
 | [CounterAttack: Uprising](games/4/474de2af8ae04a7b9991ea3fbbc56c7b.md) | 2024-01-11 | 24 (1,000 XP) | 1 | - | - |
 | [Travel Cuisine Collector's Edition](games/9/91af0290094049ab8d143af764fe8f01.md) | 2024-01-11 | - |  | - | - |
 | [Strike Solitaire 2](games/f/f41697594aa546a09dcd518284b290d1.md) | 2024-01-14 | - |  | - | - |

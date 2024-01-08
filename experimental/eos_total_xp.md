@@ -810,6 +810,7 @@
 | [Tintin Reporter - Cigars of the Pharaoh](../games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 37 | 1,000 |
 | [Toasterball](../games/b/b0c40ea3edbd41f88219ee048d3d6cce.md) | 61 | 1,000 |
 | [ToeJam & Earl: Back in the Groove!](../games/t/toejam_&_earl__back_in_the_groove!.md) | 49 | 1,000 |
+| [Top Web Search 23](../games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 14 | 1,000 |
 | [Tortuga - A Pirate's Tale](../games/t/tortuga_-_a_pirate's_tale.md) | 26 | 1,000 |
 | [Touch Type Tale](../games/t/touch_type_tale.md) | 33 | 1,000 |
 | [Tour de France 2023](../games/c/c20377f30dfa44eb929b0081c1182381.md) | 43 | 1,000 |
