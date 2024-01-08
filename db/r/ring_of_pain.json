@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242598,
+  "EOS_Progressed": 242602,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31090,6 +31090,11 @@
       "Time": "2024-01-08T08:11:25.488843+00:00",
       "NumProgressed": 242598,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-08T09:10:25.9533861+00:00",
+      "NumProgressed": 242602,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31195,9 +31200,9 @@
       "ID": "DEPTH12",
       "SetID": "5l8oe0h",
       "Name": "Delving Deeper",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 2183
     },
     {
       "ID": "DEPTH12HARD",
@@ -31587,9 +31592,9 @@
       "ID": "KILLFROG",
       "SetID": "5l8oe0h",
       "Name": "Goodbye, Frog Friend",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2426
     },
     {
       "ID": "KILLNICEDOG",
@@ -32204,13 +32209,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242598,
+      "Progressed": 242602,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4078,
+      "Progressed": 4082,
       "Completed": 422
     }
   ],
@@ -32218,8 +32223,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:11:25.4888427+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:10:25.9533859+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:57:17.9328268+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:11:25.4891359+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:57:02.0164487+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:10:25.9536592+00:00"
 }

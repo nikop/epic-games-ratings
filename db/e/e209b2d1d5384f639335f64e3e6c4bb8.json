@@ -329,9 +329,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 339937,
+  "EOS_Progressed": 339943,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2239,
+  "EOS_NewPlayers": 2235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16694,6 +16694,11 @@
       "Time": "2024-01-08T08:05:48.0717925+00:00",
       "NumProgressed": 339937,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T09:04:27.6130942+00:00",
+      "NumProgressed": 339943,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -16730,7 +16735,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 149572
+      "UsersEstimate": 149575
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -16738,7 +16743,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 108780
+      "UsersEstimate": 108782
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -16746,7 +16751,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 71387
+      "UsersEstimate": 71388
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -16762,7 +16767,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 40792
+      "UsersEstimate": 40793
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -16778,7 +16783,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 30594
+      "UsersEstimate": 30595
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -16786,7 +16791,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 30594
+      "UsersEstimate": 30595
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -16826,7 +16831,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 20396
+      "UsersEstimate": 20397
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -17082,20 +17087,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 173368
+      "UsersEstimate": 173371
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 339937,
+      "Progressed": 339943,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 339926,
+      "Progressed": 339932,
       "Completed": 1
     }
   ],
@@ -17103,8 +17108,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-04T19:02:51.3200067+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:05:48.0717921+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:04:27.613094+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:11.3845313+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:03:42.1292181+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:05:48.0719142+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:03:00.6730596+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:04:27.613177+00:00"
 }

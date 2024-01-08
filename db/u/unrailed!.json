@@ -2981,9 +2981,9 @@
       "Count": 150
     }
   ],
-  "EOS_Progressed": 679060,
+  "EOS_Progressed": 679061,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 2356,
+  "EOS_NewPlayers": 2355,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33181,6 +33181,11 @@
       "Time": "2024-01-08T08:11:18.6245294+00:00",
       "NumProgressed": 679060,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-08T09:10:20.2360202+00:00",
+      "NumProgressed": 679061,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 52,
@@ -33232,7 +33237,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 129021
+      "UsersEstimate": 129022
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -33240,7 +33245,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 95068
+      "UsersEstimate": 95069
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -33312,7 +33317,7 @@
       "Name": "Toy Train",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 95068
+      "UsersEstimate": 95069
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -33607,15 +33612,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 679060,
+      "Progressed": 679061,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-06T22:59:38.6757497+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:11:18.6245291+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:10:20.23602+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.3345847+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:02:27.5337366+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:11:18.6247626+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:00:27.5357592+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:10:20.2361652+00:00"
 }

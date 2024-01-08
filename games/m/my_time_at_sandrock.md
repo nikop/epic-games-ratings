@@ -6,57 +6,57 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 205.00% | ~1,786 |
-| Super Spelunker | 147.00% | ~1,280 |
-| Iron Chef | 140.00% | ~1,219 |
-| Officially Official | 119.00% | ~1,036 |
-| The Little Wood that Could | 117.00% | ~1,019 |
-| On that Grindset | 112.00% | ~976 |
-| Greeno-B-Gone | 109.00% | ~949 |
-| Better Late than Never | 101.00% | ~880 |
-| Your Especially Earned Trajectory | 91.00% | ~793 |
-| Knowledge is Power | 90.00% | ~784 |
-| Pack Mule | 89.00% | ~775 |
-| Got Served | 89.00% | ~775 |
-| One of the Cool Kids | 89.00% | ~775 |
-| Mole Masher | 89.00% | ~775 |
+| Adept Assembler | 205.00% | ~1,783 |
+| Super Spelunker | 147.00% | ~1,279 |
+| Iron Chef | 140.00% | ~1,218 |
+| Officially Official | 119.00% | ~1,035 |
+| The Little Wood that Could | 117.00% | ~1,018 |
+| On that Grindset | 112.00% | ~974 |
+| Greeno-B-Gone | 109.00% | ~948 |
+| Better Late than Never | 101.00% | ~879 |
+| Your Especially Earned Trajectory | 91.00% | ~792 |
+| Knowledge is Power | 90.00% | ~783 |
+| One of the Cool Kids | 90.00% | ~783 |
+| Pack Mule | 89.00% | ~774 |
+| Got Served | 89.00% | ~774 |
+| Mole Masher | 89.00% | ~774 |
 | Diamonds are Forever | 88.00% | ~766 |
-| Financially Secure | 87.00% | ~758 |
-| Big Game Hunter | 81.00% | ~706 |
-| Unboxing | 79.00% | ~688 |
+| Financially Secure | 87.00% | ~757 |
+| Big Game Hunter | 81.00% | ~705 |
+| Unboxing | 79.00% | ~687 |
 | What Plants Crave | 78.00% | ~679 |
-| Yakmel Whisperer | 77.00% | ~671 |
-| Panda-kin | 76.00% | ~662 |
-| No Mountain Wide Enough | 76.00% | ~662 |
-| First Love | 75.00% | ~653 |
-| I Do! | 75.00% | ~653 |
-| Chatterbox | 74.00% | ~645 |
+| Yakmel Whisperer | 77.00% | ~670 |
+| Panda-kin | 76.00% | ~661 |
+| No Mountain Wide Enough | 76.00% | ~661 |
+| First Love | 75.00% | ~652 |
+| I Do! | 75.00% | ~652 |
+| Chatterbox | 74.00% | ~644 |
 | Can We Keep It? | 71.00% | ~618 |
-| Builder of the Month | 69.00% | ~601 |
-| Bridging the Gap | 66.00% | ~575 |
-| Elementary, My Dear | 66.00% | ~575 |
+| Builder of the Month | 69.00% | ~600 |
+| Bridging the Gap | 66.00% | ~574 |
+| Elementary, My Dear | 66.00% | ~574 |
 | Waste Not Want Not | 64.00% | ~557 |
-| Commissions, commissions...! | 63.00% | ~549 |
+| Commissions, commissions...! | 63.00% | ~548 |
 | Lifeline Pipeline | 61.00% | ~531 |
-| Got the Flow Back | 60.00% | ~523 |
-| Martle's Dream | 56.00% | ~488 |
+| Got the Flow Back | 60.00% | ~522 |
+| Martle's Dream | 57.00% | ~496 |
 | Sepia Toned Memories | 55.00% | ~479 |
 | Happier-est Place on Earth | 55.00% | ~479 |
 | Anti-Santa | 54.00% | ~470 |
 | Who Ya Gonna Call...? | 54.00% | ~470 |
 | You Don't Win Friends With Salad | 54.00% | ~470 |
-| Time Flies | 52.00% | ~453 |
-| Finishing Touches | 52.00% | ~453 |
-| Call Me Fishmael | 52.00% | ~453 |
-| Kind of a Big Deal | 46.00% | ~401 |
-| Just What I Always Wanted! | 46.00% | ~401 |
-| Jewel of the Eufaula | 43.00% | ~375 |
+| Time Flies | 52.00% | ~452 |
+| Finishing Touches | 52.00% | ~452 |
+| Call Me Fishmael | 52.00% | ~452 |
+| Kind of a Big Deal | 47.00% | ~409 |
+| Just What I Always Wanted! | 46.00% | ~400 |
+| Jewel of the Eufaula | 43.00% | ~374 |
 | My Time Mansion | 41.00% | ~357 |
+| Santa In Training | 40.00% | ~348 |
 | Sandrunning Speedster | 40.00% | ~348 |
-| He Can Spin A Yarn... | 39.00% | ~340 |
-| Santa In Training | 39.00% | ~340 |
-| It Belongs in a Museum! | 36.00% | ~314 |
-| Do Your Part | 35.00% | ~305 |
+| He Can Spin A Yarn... | 39.00% | ~339 |
+| Do Your Part | 36.00% | ~313 |
+| It Belongs in a Museum! | 36.00% | ~313 |
 | Newton | 34.00% | ~296 |
 | Pro Gamer | 33.00% | ~287 |
 | Cardistry | 27.00% | ~235 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 8.00% | ~70 |
 | Sandrock's Hottest Club | 5.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 871 (Ranked 302)  
+Progressed: 870 (Ranked 302)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |

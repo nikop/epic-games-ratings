@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524,
+  "EOS_Progressed": 525,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2169,6 +2169,11 @@
       "Time": "2024-01-08T04:06:33.0897715+00:00",
       "NumProgressed": 524,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T09:08:27.9921619+00:00",
+      "NumProgressed": 525,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2181,7 +2186,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2197,7 +2202,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2205,7 +2210,7 @@
       "Name": "Amusement Park",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -2229,7 +2234,7 @@
       "Name": "Energy Boost",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -2237,15 +2242,15 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 236
     },
     {
       "ID": "HOUSEWARMING",
@@ -2301,7 +2306,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2315,9 +2320,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 178
     },
     {
       "ID": "TAKE_LEECH",
@@ -2340,14 +2345,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 524,
+      "Progressed": 525,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:08:40.4881122+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:08:27.9921616+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:59:39.1186542+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:08:40.4881321+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:58:34.8088503+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:08:27.9921919+00:00"
 }

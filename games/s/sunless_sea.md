@@ -23,7 +23,7 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~3,070 |
 | Open Your Ears | 7.00% | ~3,070 |
 | The Ascent of Man | 7.00% | ~3,070 |
-| Zee Fever | 5.00% | ~2,192 |
+| Zee Fever | 5.00% | ~2,193 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,754 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,754 |
 | Storm's Curse | 3.00% | ~1,316 |
@@ -31,11 +31,11 @@ Number of Ratings: 401  (23.09.2022)
 | Come Closer | 3.00% | ~1,316 |
 | Roaring Rise | 2.00% | ~877 |
 | I am the Captain of my Soul | 2.00% | ~877 |
-| A buoyant escape | 1.00% | ~438 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~438 |
-| The Bell Tolls | 1.00% | ~438 |
-| Knife, Cup and Bone | 1.00% | ~438 |
-| A current under zee | 1.00% | ~438 |
+| A buoyant escape | 1.00% | ~439 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~439 |
+| The Bell Tolls | 1.00% | ~439 |
+| Knife, Cup and Bone | 1.00% | ~439 |
+| A current under zee | 1.00% | ~439 |
 | Never Stop Sinking... | 0.90% | ~395 |
 | His bones in whispers | 0.90% | ~395 |
 | The beauty of the deep | 0.90% | ~395 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~44 |
 | Ten Years at Zee | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,850 (Ranked 130)  
+Progressed: 43,851 (Ranked 130)  
 Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 4 (0.01%) (Ranked 372)
 | 2024-01-05 | 43,646 | 4 |
 | 2024-01-06 | 43,731 | 4 |
 | 2024-01-07 | 43,827 | 4 |
-| 2024-01-08 | 43,850 | 4 |
+| 2024-01-08 | 43,851 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 290)  
 Sum: 315 (Ranked 376)  

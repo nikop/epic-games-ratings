@@ -10,6 +10,7 @@
 | Fast 6x6 | 5.00% | ~4 |
 | Complete 50 levels | 5.00% | ~4 |
 | Use 50 hints | 4.00% | ~3 |
+| Fast 10x10 | 2.00% | ~2 |
 | By Yourself 5x5 | 2.00% | ~2 |
 | By Yourself 7x7 | 2.00% | ~2 |
 | Play for 5 hours | 2.00% | ~2 |
@@ -17,7 +18,7 @@
 | Complete a Daily Pack | 1.00% | ~1 |
 | Fast 7x7 | 1.00% | ~1 |
 | Fast 8x8 | 1.00% | ~1 |
-| Fast 10x10 | 1.00% | ~1 |
+| Fast 11x11 | 1.00% | ~1 |
 | Fast 13x13 | 1.00% | ~1 |
 | Complete 100 levels | 1.00% | ~1 |
 | Complete 25 6x6 levels | 1.00% | ~1 |
@@ -25,6 +26,8 @@
 | Complete 25 9x9 levels | 1.00% | ~1 |
 | By Yourself 6x6 | 1.00% | ~1 |
 | By Yourself 9x9 | 1.00% | ~1 |
+| By Yourself 10x10 | 1.00% | ~1 |
+| By Yourself 11x11 | 1.00% | ~1 |
 | By Yourself 13x13 | 1.00% | ~1 |
 | Play for 10 hours | 1.00% | ~1 |
 | Addicted for 3 Days | 0.00% | ~0 |
@@ -32,7 +35,6 @@
 | Addicted for 10 Days | 0.00% | ~0 |
 | Complete the Pack: Earth | 0.00% | ~0 |
 | Fast 9x9 | 0.00% | ~0 |
-| Fast 11x11 | 0.00% | ~0 |
 | Fast 12x12 | 0.00% | ~0 |
 | Complete 500 levels | 0.00% | ~0 |
 | Complete 1000 levels | 0.00% | ~0 |
@@ -43,8 +45,6 @@
 | Complete 25 12x12 levels | 0.00% | ~0 |
 | Complete 25 13x13 levels | 0.00% | ~0 |
 | By Yourself 8x8 | 0.00% | ~0 |
-| By Yourself 10x10 | 0.00% | ~0 |
-| By Yourself 11x11 | 0.00% | ~0 |
 | By Yourself 12x12 | 0.00% | ~0 |
 | Play for 24 hours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 548)  
+Rating: 4.54 (Ranked 549)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,13 +14,13 @@ Number of Ratings: 90  (23.09.2022)
 | Bodied Sattva | 38.00% | ~137 |
 | Cult Following | 36.00% | ~130 |
 | Earthly Pleasures | 34.00% | ~123 |
-| Lie Back and Think of Albion | 28.00% | ~101 |
+| Lie Back and Think of Albion | 29.00% | ~105 |
 | Upgreatest | 27.00% | ~97 |
 | Pimp My Raid | 25.00% | ~90 |
 | I Look Up As I Walk to Takoshima | 22.00% | ~79 |
 | Freshly Squeezed | 22.00% | ~79 |
+| Perfect Probulator | 18.00% | ~65 |
 | Die Nasty | 18.00% | ~65 |
-| Perfect Probulator | 17.00% | ~61 |
 | Transmitting From Sol-3 | 16.00% | ~58 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~47 |
 | Fly Me to the Moon Base | 11.00% | ~40 |

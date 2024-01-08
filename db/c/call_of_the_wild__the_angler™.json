@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8138,
+  "EOS_Progressed": 8140,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13546,6 +13546,11 @@
       "Time": "2024-01-08T08:09:05.3270579+00:00",
       "NumProgressed": 8138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T09:08:45.4299798+00:00",
+      "NumProgressed": 8140,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13557,7 +13562,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13565,7 +13570,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -13613,7 +13618,7 @@
       "Name": "Scaling up",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -13876,13 +13881,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8138,
+      "Progressed": 8140,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7510,
+      "Progressed": 7512,
       "Completed": 113
     }
   ],
@@ -13890,8 +13895,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:09:05.3270576+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:08:45.4299796+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:59:14.6572315+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:09:05.3271632+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:58:19.2125965+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:08:45.4300485+00:00"
 }

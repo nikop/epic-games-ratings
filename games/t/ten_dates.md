@@ -16,7 +16,7 @@
 | The lad | 9.00% | ~44 |
 | The debonair | 9.00% | ~44 |
 | The techie | 7.00% | ~34 |
-| More than browsing | 5.00% | ~24 |
+| More than browsing | 6.00% | ~29 |
 | The bad boy | 5.00% | ~24 |
 | Picky! | 4.00% | ~20 |
 | Playing the field | 4.00% | ~20 |

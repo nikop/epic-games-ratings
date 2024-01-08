@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3437,
+  "EOS_Progressed": 3438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8425,6 +8425,11 @@
       "Time": "2024-01-08T07:08:35.7416841+00:00",
       "NumProgressed": 3437,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T09:08:39.3923784+00:00",
+      "NumProgressed": 3438,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8469,7 +8474,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8493,7 +8498,7 @@
       "Name": "I Want One Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -8525,7 +8530,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -8565,7 +8570,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -8589,7 +8594,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -8597,7 +8602,7 @@
       "Name": "Romantic Races",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -8645,7 +8650,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8733,7 +8738,7 @@
       "Name": "Eat My Dust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8789,7 +8794,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8828,7 +8833,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3437,
+      "Progressed": 3438,
       "Completed": 0
     }
   ],
@@ -8836,8 +8841,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:08:56.9531262+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:08:39.3923782+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:02:25.4437647+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:08:56.9532174+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:00:26.1142092+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:08:39.3924575+00:00"
 }

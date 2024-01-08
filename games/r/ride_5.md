@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 49.00% | ~1,684 |
+| Eat My Dust | 49.00% | ~1,685 |
 | First Love | 45.00% | ~1,547 |
-| Clean Race | 44.00% | ~1,512 |
+| Clean Race | 44.00% | ~1,513 |
 | Hear That Roar! | 42.00% | ~1,444 |
-| Rivals to the End | 31.00% | ~1,065 |
+| Rivals to the End | 31.00% | ~1,066 |
 | Bitter Rivalry | 30.00% | ~1,031 |
 | Champagne Spray | 29.00% | ~997 |
 | We're Going to Need a Bigger Garage | 26.00% | ~894 |
 | Quick Pit Stop | 22.00% | ~756 |
-| Restored and Ready | 20.00% | ~687 |
-| I Want One Too! | 20.00% | ~687 |
-| Legendary!!! | 20.00% | ~687 |
+| Restored and Ready | 20.00% | ~688 |
+| I Want One Too! | 20.00% | ~688 |
+| Legendary!!! | 20.00% | ~688 |
 | Go-Faster Stripes | 17.00% | ~584 |
 | I'm Here Too! | 14.00% | ~481 |
 | We've Just Begun | 14.00% | ~481 |
@@ -24,9 +24,9 @@ Rating: 4.46 (Ranked 673)
 | Stamina Star | 8.00% | ~275 |
 | Evangelist | 7.00% | ~241 |
 | Make It Your Own! | 5.00% | ~172 |
-| Cherry Blossom and Temples | 4.00% | ~137 |
-| The Road to Liberty | 4.00% | ~137 |
-| Romantic Races | 4.00% | ~137 |
+| Cherry Blossom and Temples | 4.00% | ~138 |
+| The Road to Liberty | 4.00% | ~138 |
+| Romantic Races | 4.00% | ~138 |
 | Spoilt for Choice | 3.00% | ~103 |
 | La Dolce Vita | 3.00% | ~103 |
 | I Make the Rules! | 3.00% | ~103 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 673)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,437 (Ranked 223)  
+Progressed: 3,438 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 3,324 | 0 |
 | 2024-01-06 | 3,370 | 0 |
 | 2024-01-07 | 3,427 | 0 |
-| 2024-01-08 | 3,437 | 0 |
+| 2024-01-08 | 3,438 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

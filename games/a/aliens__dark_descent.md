@@ -9,7 +9,7 @@ Rating: 4.55 (Ranked 525)
 | Keep 'Em Coming | 65.00% | ~3,994 |
 | Snatched Out | 64.00% | ~3,933 |
 | Cleaning Lethe, One Nest At A Time | 58.00% | ~3,564 |
-| Call Me Snake | 53.00% | ~3,257 |
+| Call Me Snake | 54.00% | ~3,318 |
 | Something Lurks Under The Hills | 52.00% | ~3,195 |
 | This Was No Papercut | 50.00% | ~3,072 |
 | The Shrink Hates Me | 48.00% | ~2,950 |
@@ -25,7 +25,7 @@ Rating: 4.55 (Ranked 525)
 | The More The Merrier | 28.00% | ~1,721 |
 | Living Nightmare | 27.00% | ~1,659 |
 | Omelette Du Fromage | 26.00% | ~1,598 |
-| The Darwin Era Was Here | 24.00% | ~1,475 |
+| The Darwin Era Was Here | 25.00% | ~1,536 |
 | Deep Into Insanity | 23.00% | ~1,413 |
 | The Passenger | 23.00% | ~1,413 |
 | Come on, You Wanna Live Forever? | 22.00% | ~1,352 |
@@ -249,12 +249,12 @@ Completed: 3 (0.05%) (Ranked 337)
 | 2024-01-07 | 6,120 | 3 |
 | 2024-01-08 | 6,145 | 3 |
 ## Awards
-Max (Great Boss Battles): 60  (Ranked 431)  
-Sum: 60 (Ranked 497)  
-Diff (max vs sum): -66  
+Max (Great Boss Battles): 62  (Ranked 429)  
+Sum: 62 (Ranked 497)  
+Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 60 |
+| This game has Great Boss Battles | 62 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -336,3 +336,4 @@ Diff (max vs sum): -66
 | 2024-01-01 | 4.54 | 58 | 58 |
 | 2024-01-04 | 4.54 | 60 | 60 |
 | 2024-01-05 | 4.55 | 60 | 60 |
+| 2024-01-08 | 4.55 | 62 | 62 |

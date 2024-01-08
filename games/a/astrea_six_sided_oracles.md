@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 84.00% | ~299 |
-| Purification Pioneer | 79.00% | ~281 |
-| Mechanical Buddy | 74.00% | ~263 |
+| Meissa's Savior | 84.00% | ~300 |
+| Purification Pioneer | 79.00% | ~282 |
+| Mechanical Buddy | 74.00% | ~264 |
 | Dicesmithing Time! | 64.00% | ~228 |
-| Sanctuary Guardian | 54.00% | ~192 |
+| Sanctuary Guardian | 55.00% | ~196 |
 | Endless Tricks | 51.00% | ~182 |
 | Wild's Keeper | 48.00% | ~171 |
 | Mind Illuminator | 44.00% | ~157 |
-| Stellar Dismantler | 38.00% | ~135 |
+| Stellar Dismantler | 38.00% | ~136 |
 | Astral Adventurer | 35.00% | ~125 |
 | Noctuan Champion | 35.00% | ~125 |
-| Anomaly Destroyer | 31.00% | ~110 |
-| Star Killer | 30.00% | ~107 |
+| Anomaly Destroyer | 31.00% | ~111 |
+| Star Killer | 31.00% | ~111 |
 | Eridanian Champion | 25.00% | ~89 |
-| Loyal Partner | 22.00% | ~78 |
+| Loyal Partner | 22.00% | ~79 |
 | Lacertian Champion | 21.00% | ~75 |
 | Apian Champion | 19.00% | ~68 |
 | Shard Spender | 18.00% | ~64 |
 | Unbeatable | 18.00% | ~64 |
-| Sadistic Plan | 15.00% | ~53 |
+| Sadistic Plan | 15.00% | ~54 |
 | Behenian Champion | 14.00% | ~50 |
 | Heavy Purger | 11.00% | ~39 |
 | Wave Bender | 11.00% | ~39 |
 | Aquarian Champion | 10.00% | ~36 |
 | Astral Seeker | 9.00% | ~32 |
-| Stellar Haste | 8.00% | ~28 |
-| Heart Gate | 7.00% | ~25 |
+| Heart Gate | 8.00% | ~29 |
+| Stellar Haste | 8.00% | ~29 |
 | The Corruption Goddess | 7.00% | ~25 |
 | The Goddes Avatar | 7.00% | ~25 |
 | Favored by the Cosmos | 6.00% | ~21 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 356 (Ranked 376)  
+Progressed: 357 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,4 +177,4 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 340 | 0 |
 | 2024-01-06 | 347 | 0 |
 | 2024-01-07 | 354 | 0 |
-| 2024-01-08 | 356 | 0 |
+| 2024-01-08 | 357 | 0 |

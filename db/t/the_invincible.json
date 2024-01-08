@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -85,7 +85,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1516,
+  "EOS_Progressed": 1517,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
@@ -3925,6 +3925,11 @@
       "Time": "2024-01-08T08:10:38.3795128+00:00",
       "NumProgressed": 1516,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T09:09:51.0098816+00:00",
+      "NumProgressed": 1517,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3961,7 +3966,7 @@
       "Name": "Fierce fight",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "AchvBombStop",
@@ -3977,7 +3982,7 @@
       "Name": "Violent solution",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "AchvConvoyList",
@@ -4033,7 +4038,7 @@
       "Name": "Krauta is alive",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "AchvLava",
@@ -4049,7 +4054,7 @@
       "Name": "I leave no man behind",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -4113,15 +4118,15 @@
       "Name": "The Camp",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 758
     },
     {
       "ID": "AchvReachCondor",
@@ -4137,7 +4142,7 @@
       "Name": "Survivors",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4168,7 +4173,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1516,
+      "Progressed": 1517,
       "Completed": 1
     }
   ],
@@ -4176,8 +4181,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-07T13:04:46.5535685+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:10:38.3795124+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:09:51.0098814+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:02:25.2597855+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:10:38.3795543+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:00:25.9965523+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:09:51.0099212+00:00"
 }

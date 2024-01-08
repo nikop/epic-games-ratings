@@ -44,10 +44,10 @@ Rating: 4.74 (Ranked 163)
 | Hungry, Hungry Gorgu! | 28.00% | ~208 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~208 |
 | Brimstone Shaken, Not Stirred | 28.00% | ~208 |
+| The Rune Sockets of Finitude (Part 1) | 28.00% | ~208 |
 | Stop Tanos! | 27.00% | ~201 |
 | Sabotage! | 27.00% | ~201 |
 | Raiders of the Lost Stone | 27.00% | ~201 |
-| The Rune Sockets of Finitude (Part 1) | 27.00% | ~201 |
 | The Rune Sockets of Finitude (Part 2) | 26.00% | ~193 |
 | Bonus Evilness | 25.00% | ~186 |
 | The Last Stand - This Time For Real! | 24.00% | ~179 |

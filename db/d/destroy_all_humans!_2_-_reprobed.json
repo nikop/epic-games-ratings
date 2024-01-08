@@ -2,13 +2,13 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -1710,9 +1710,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1822,9 +1822,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -2055,8 +2055,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:10:09.7662693+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:09:30.6458625+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:57:32.3783608+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:10:09.7663066+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:57:11.2264183+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:09:30.645893+00:00"
 }

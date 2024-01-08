@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~276 |
+| In the Black | 55.00% | ~277 |
 | Starting Skyward | 49.00% | ~246 |
 | Grime is Not Good | 42.00% | ~211 |
 | Floor Galore | 37.00% | ~186 |
@@ -16,20 +16,20 @@
 | Proper Walls | 29.00% | ~146 |
 | Delegate Maintenance | 29.00% | ~146 |
 | Destination Destiny | 28.00% | ~141 |
-| Happy Tenants | 23.00% | ~115 |
-| Potent Potables | 23.00% | ~115 |
-| Your Prestige is Rising | 22.00% | ~110 |
-| Smooth Service | 22.00% | ~110 |
-| Don't Feel a Loan | 21.00% | ~105 |
-| Retail Revenue | 21.00% | ~105 |
-| People Mover | 19.00% | ~95 |
-| Artfully Done | 18.00% | ~90 |
-| Emporium Empire | 18.00% | ~90 |
-| Leveled Up Shops | 18.00% | ~90 |
-| We Don't Need No Education | 18.00% | ~90 |
-| Lux Living | 17.00% | ~85 |
-| Tasty Profits | 17.00% | ~85 |
-| Get Electrified | 17.00% | ~85 |
+| Happy Tenants | 23.00% | ~116 |
+| Potent Potables | 23.00% | ~116 |
+| Smooth Service | 22.00% | ~111 |
+| Your Prestige is Rising | 21.00% | ~106 |
+| Retail Revenue | 21.00% | ~106 |
+| Don't Feel a Loan | 20.00% | ~101 |
+| Artfully Done | 18.00% | ~91 |
+| People Mover | 18.00% | ~91 |
+| Leveled Up Shops | 18.00% | ~91 |
+| We Don't Need No Education | 18.00% | ~91 |
+| Lux Living | 17.00% | ~86 |
+| Tasty Profits | 17.00% | ~86 |
+| Emporium Empire | 17.00% | ~86 |
+| Get Electrified | 17.00% | ~86 |
 | Rehab Expert | 16.00% | ~80 |
 | Established Fame | 15.00% | ~75 |
 | Under One Roof | 13.00% | ~65 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 502 (Ranked 350)  
+Progressed: 503 (Ranked 350)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,6 +219,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 492 | 0 |
 | 2024-01-06 | 497 | 0 |
 | 2024-01-07 | 502 | 0 |
+| 2024-01-08 | 503 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

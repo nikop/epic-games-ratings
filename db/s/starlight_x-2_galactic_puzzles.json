@@ -505,17 +505,17 @@
       "ID": "ach_fast_04",
       "SetID": "8jkn3bi",
       "Name": "Fast 10x10",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_fast_05",
       "SetID": "8jkn3bi",
       "Name": "Fast 11x11",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_fast_06",
@@ -689,17 +689,17 @@
       "ID": "ach_nohints_05",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 10x10",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_nohints_06",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 11x11",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_nohints_07",
@@ -784,8 +784,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:11:17.5129664+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:10:19.4663941+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:06.833753+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:57:40.2274589+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:11:17.5130048+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:57:16.6617057+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:10:19.4664282+00:00"
 }

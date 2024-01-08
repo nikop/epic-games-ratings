@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 112,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73971,
+  "EOS_Progressed": 73978,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 1821,
+  "EOS_NewPlayers": 1825,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6533,6 +6533,11 @@
       "Time": "2024-01-08T08:09:09.9850635+00:00",
       "NumProgressed": 73971,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2024-01-08T09:08:48.6555353+00:00",
+      "NumProgressed": 73978,
+      "NumCompleted": 112
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6545,7 +6550,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27369
+      "UsersEstimate": 27372
     },
     {
       "ID": "Achievement_10",
@@ -6585,7 +6590,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "Achievement_15",
@@ -6633,7 +6638,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20712
+      "UsersEstimate": 20714
     },
     {
       "ID": "Achievement_20",
@@ -6657,7 +6662,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "Achievement_23",
@@ -6745,7 +6750,7 @@
       "Name": "Art Director",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "Achievement_33",
@@ -6769,7 +6774,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6657
+      "UsersEstimate": 6658
     },
     {
       "ID": "Achievement_5",
@@ -6816,7 +6821,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 73971,
+      "Progressed": 73978,
       "Completed": 112
     }
   ],
@@ -6824,8 +6829,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-05T18:03:34.6922579+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:09:09.9850628+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:08:48.6555351+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:03:51.124409+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:09:09.9851313+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:03:06.1813239+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:08:48.6555913+00:00"
 }

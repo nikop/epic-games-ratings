@@ -5,19 +5,19 @@ Rating: 4.26 (Ranked 915)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~1,969 |
-| Don't I Know You...? | 75.00% | ~1,893 |
-| Jailbreak | 64.00% | ~1,615 |
+| Rigged And Ready | 78.00% | ~1,970 |
+| Don't I Know You...? | 75.00% | ~1,894 |
+| Jailbreak | 64.00% | ~1,616 |
 | HEADSHOT! | 37.00% | ~934 |
 | Suited and Booted | 37.00% | ~934 |
-| Sleeping With The Fishes | 34.00% | ~858 |
-| High Performance | 30.00% | ~757 |
+| Sleeping With The Fishes | 34.00% | ~859 |
+| High Performance | 30.00% | ~758 |
 | Overheated | 29.00% | ~732 |
-| Powered Up | 27.00% | ~681 |
+| Powered Up | 27.00% | ~682 |
 | Studied The Blade | 24.00% | ~606 |
-| Home Invasion | 22.00% | ~555 |
-| Luminary | 22.00% | ~555 |
-| It's a Trap | 22.00% | ~555 |
+| Home Invasion | 22.00% | ~556 |
+| Luminary | 22.00% | ~556 |
+| It's a Trap | 22.00% | ~556 |
 | True Survivor | 21.00% | ~530 |
 | Offensive Defense | 20.00% | ~505 |
 | Shocking | 20.00% | ~505 |
@@ -42,9 +42,9 @@ Rating: 4.26 (Ranked 915)
 | Following In Their Footsteps | 8.00% | ~202 |
 | Defense in Depth | 8.00% | ~202 |
 | Reverse Engineering | 7.00% | ~177 |
-| Remote Surgery | 6.00% | ~151 |
-| Turbo Booster | 6.00% | ~151 |
-| Squid Pro Quo | 6.00% | ~151 |
+| Remote Surgery | 6.00% | ~152 |
+| Turbo Booster | 6.00% | ~152 |
+| Squid Pro Quo | 6.00% | ~152 |
 | Reborn | 5.00% | ~126 |
 | Hello Darkness My Old Friend | 5.00% | ~126 |
 | Counter-Sniper | 5.00% | ~126 |
@@ -63,8 +63,8 @@ Rating: 4.26 (Ranked 915)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,524 (Ranked 236)  
-Completed: 13 (0.52%) (Ranked 217)  
+Progressed: 2,525 (Ranked 236)  
+Completed: 13 (0.51%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,7 +263,7 @@ Completed: 13 (0.52%) (Ranked 217)
 | 2024-01-05 | 2,483 | 13 |
 | 2024-01-06 | 2,499 | 13 |
 | 2024-01-07 | 2,519 | 13 |
-| 2024-01-08 | 2,524 | 13 |
+| 2024-01-08 | 2,525 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

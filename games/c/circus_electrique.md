@@ -36,10 +36,10 @@ Number of Ratings: 22  (23.09.2022)
 | Around the Clock | 5.00% | ~25 |
 | King of District 4 | 5.00% | ~25 |
 | City Savior | 4.00% | ~20 |
+| King of District 5 | 4.00% | ~20 |
 | Hundred Percent Third | 3.00% | ~15 |
 | Hundred Percent Fourth | 3.00% | ~15 |
 | Circus Maximus | 3.00% | ~15 |
-| King of District 5 | 3.00% | ~15 |
 | Perfect Chemistry | 3.00% | ~15 |
 | Last Man Standing | 3.00% | ~15 |
 | Accomplished Veteran | 2.00% | ~10 |

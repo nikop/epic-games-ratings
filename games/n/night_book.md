@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Will This Help? | 77.00% | ~236 |
+| Will This Help? | 77.00% | ~237 |
 | Career Woman | 67.00% | ~206 |
 | No One Is Safe | 66.00% | ~203 |
 | He's Off His Meds | 54.00% | ~166 |
 | Deal Or No Deal | 50.00% | ~154 |
-| Impress Theron | 48.00% | ~147 |
-| Personal Life | 47.00% | ~144 |
+| Impress Theron | 48.00% | ~148 |
+| Personal Life | 46.00% | ~142 |
 | On Your Bike | 29.00% | ~89 |
 | Save Dad | 23.00% | ~71 |
 | A Little Extra | 16.00% | ~49 |
@@ -18,12 +18,12 @@
 | The Marriage Is Off | 12.00% | ~37 |
 | Pearce | 12.00% | ~37 |
 | Use Your Connections | 11.00% | ~34 |
-| Horrific | 7.00% | ~21 |
+| Horrific | 7.00% | ~22 |
 | Shady Truth | 6.00% | ~18 |
 | Hopeful | 5.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 392)  
-Completed: 7 (2.28%) (Ranked 133)  
+Progressed: 308 (Ranked 392)  
+Completed: 7 (2.27%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,6 +113,7 @@ Completed: 7 (2.28%) (Ranked 133)
 | 2024-01-04 | 302 | 7 |
 | 2024-01-05 | 305 | 7 |
 | 2024-01-06 | 307 | 7 |
+| 2024-01-08 | 308 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

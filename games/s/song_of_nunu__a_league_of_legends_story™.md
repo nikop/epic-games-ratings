@@ -1,24 +1,24 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.53 (Ranked 560)  
+Rating: 4.55 (Ranked 525)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,113 |
-| I Broke It | 73.00% | ~1,098 |
+| Feels Familiar | 74.00% | ~1,114 |
+| I Broke It | 73.00% | ~1,099 |
 | Better On Ice | 67.00% | ~1,008 |
 | Notai Notes | 66.00% | ~993 |
 | Blue Dreams | 65.00% | ~978 |
 | He's Famous! | 65.00% | ~978 |
 | Cutie Poro | 65.00% | ~978 |
 | Krugmazing | 64.00% | ~963 |
-| Moneyball | 60.00% | ~902 |
-| The Fire Below the Mountain | 60.00% | ~902 |
-| No Bites | 55.00% | ~827 |
-| Iceborn | 55.00% | ~827 |
-| Boom Things | 53.00% | ~797 |
-| Tear of Freedom | 52.00% | ~782 |
+| Moneyball | 60.00% | ~903 |
+| The Fire Below the Mountain | 60.00% | ~903 |
+| No Bites | 55.00% | ~828 |
+| Iceborn | 55.00% | ~828 |
+| Boom Things | 53.00% | ~798 |
+| Tear of Freedom | 52.00% | ~783 |
 | My Darkest Day | 49.00% | ~737 |
 | The Relentless Storm | 47.00% | ~707 |
 | Rhythm Of Willump | 46.00% | ~692 |
@@ -33,11 +33,11 @@ Rating: 4.53 (Ranked 560)
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~587 |
 | Freeze The Ice Witch | 38.00% | ~572 |
 | True Legends | 38.00% | ~572 |
-| It Is Not Over | 36.00% | ~541 |
-| Bullseye | 36.00% | ~541 |
-| On The Rocks | 33.00% | ~496 |
-| Snowy Poro | 32.00% | ~481 |
-| Never Gets Old | 32.00% | ~481 |
+| Bullseye | 36.00% | ~542 |
+| It Is Not Over | 35.00% | ~527 |
+| On The Rocks | 33.00% | ~497 |
+| Snowy Poro | 32.00% | ~482 |
+| Never Gets Old | 31.00% | ~467 |
 | Vertical Power | 26.00% | ~391 |
 | One From The Heart | 14.00% | ~211 |
 | Yummy | 10.00% | ~150 |
@@ -50,7 +50,7 @@ Rating: 4.53 (Ranked 560)
 | We Are Speed | 2.00% | ~30 |
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,504 (Ranked 266)  
+Progressed: 1,505 (Ranked 266)  
 Completed: 9 (0.60%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 9 (0.60%) (Ranked 206)
 | 2024-01-05 | 1,474 | 9 |
 | 2024-01-06 | 1,490 | 9 |
 | 2024-01-07 | 1,501 | 9 |
-| 2024-01-08 | 1,504 | 9 |
+| 2024-01-08 | 1,505 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -142,3 +142,4 @@ Completed: 9 (0.60%) (Ranked 206)
 | 2023-12-20 | 4.50 | 0 | 0 |
 | 2023-12-25 | 4.52 | 0 | 0 |
 | 2024-01-06 | 4.53 | 0 | 0 |
+| 2024-01-08 | 4.55 | 0 | 0 |

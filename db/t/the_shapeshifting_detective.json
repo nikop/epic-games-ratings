@@ -921,9 +921,9 @@
       "ID": "oscar_winning_performance",
       "SetID": "2db2j74",
       "Name": "Oscar Winning Performance",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "patient_listener",
@@ -1026,8 +1026,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:05:26.412833+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:04:12.2489123+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:51.7616566+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:03:54.9172229+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:05:26.4128544+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:03:08.8451168+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:04:12.2489272+00:00"
 }

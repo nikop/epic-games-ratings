@@ -34,20 +34,20 @@
 | Zakariya Demir | 25.00% | ~25 |
 | Truth from within | 24.00% | ~24 |
 | A curious phrase | 21.00% | ~21 |
+| Evelyn Lakshmi Warbeck | 21.00% | ~21 |
 | The Suspects | 21.00% | ~21 |
-| Evelyn Lakshmi Warbeck | 20.00% | ~20 |
+| Horace Mountjoy | 19.00% | ~19 |
 | Johan Kristiansen | 19.00% | ~19 |
-| Horace Mountjoy | 18.00% | ~18 |
-| The Secrets | 18.00% | ~18 |
-| A peculiar fellow | 16.00% | ~16 |
-| Mortimer Ailsworth | 16.00% | ~16 |
-| Well-travelled | 15.00% | ~15 |
-| Florence Farquhar | 14.00% | ~14 |
-| The Investigation Starts Anew | 14.00% | ~14 |
-| A treasured heirloom | 12.00% | ~12 |
-| The Penitent Magdalene | 12.00% | ~12 |
-| A true performance | 12.00% | ~12 |
-| The Denouement | 10.00% | ~10 |
+| The Secrets | 19.00% | ~19 |
+| A peculiar fellow | 17.00% | ~17 |
+| Mortimer Ailsworth | 17.00% | ~17 |
+| Well-travelled | 16.00% | ~16 |
+| Florence Farquhar | 15.00% | ~15 |
+| The Investigation Starts Anew | 15.00% | ~15 |
+| A treasured heirloom | 13.00% | ~13 |
+| The Penitent Magdalene | 13.00% | ~13 |
+| A true performance | 13.00% | ~13 |
+| The Denouement | 11.00% | ~11 |
 | A perilous journey | 10.00% | ~10 |
 | Perkins | 6.00% | ~6 |
 ## Popularity (Based on EOS Achievements)

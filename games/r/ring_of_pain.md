@@ -12,6 +12,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | That Was Quick | 1.00% | ~2,426 |
 | Colorful Corpse | 1.00% | ~2,426 |
 | Defeat The Dark | 1.00% | ~2,426 |
+| Goodbye, Frog Friend | 1.00% | ~2,426 |
 | A Donation | 1.00% | ~2,426 |
 | A Quick Escape | 1.00% | ~2,426 |
 | Uncharted Territory | 1.00% | ~2,426 |
@@ -19,14 +20,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | An Offering | 1.00% | ~2,426 |
 | Matching | 1.00% | ~41 |
 | Nothing To Lose | 0.90% | ~2,183 |
-| Goodbye, Frog Friend | 0.90% | ~2,183 |
+| Delving Deeper | 0.90% | ~2,183 |
 | Heartless | 0.90% | ~2,183 |
 | Spine Breaker | 0.90% | ~2,183 |
 | C-C-Combo | 0.90% | ~2,183 |
 | Deflection | 0.90% | ~2,183 |
 | Not Touching You | 0.90% | ~37 |
 | Ambitious Intent | 0.80% | ~1,941 |
-| Delving Deeper | 0.80% | ~1,941 |
 | R.I.P | 0.80% | ~1,941 |
 | Cold Hearted | 0.80% | ~1,941 |
 | I Am Overburdened | 0.80% | ~1,941 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,598 (Ranked 73)  
+Progressed: 242,602 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-05 | 242,422 | 304 |
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
-| 2024-01-08 | 242,598 | 304 |
+| 2024-01-08 | 242,602 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

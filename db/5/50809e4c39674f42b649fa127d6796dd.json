@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1651,9 +1651,9 @@
       "ID": "KODAMA_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Koco Leader",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 99
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1834,8 +1834,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:08:59.9384876+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:08:41.6238172+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:07.7248276+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:03:57.3835626+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:08:59.9385247+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:03:10.47197+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:08:41.6238472+00:00"
 }

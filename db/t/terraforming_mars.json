@@ -2,7 +2,7 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 560,
+  "Ranking_Rating": 561,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 105,
@@ -3517,9 +3517,9 @@
       "Count": 262
     }
   ],
-  "EOS_Progressed": 89729,
+  "EOS_Progressed": 89732,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 1136,
+  "EOS_NewPlayers": 1132,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -32942,6 +32942,11 @@
       "Time": "2024-01-08T08:05:09.0440233+00:00",
       "NumProgressed": 89729,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2024-01-08T09:03:59.9467433+00:00",
+      "NumProgressed": 89732,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 30,
@@ -32993,7 +32998,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9870
+      "UsersEstimate": 9871
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -33009,7 +33014,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9870
+      "UsersEstimate": 9871
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -33033,7 +33038,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 33200
+      "UsersEstimate": 33201
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -33041,7 +33046,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 25124
+      "UsersEstimate": 25125
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -33049,7 +33054,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 28713
+      "UsersEstimate": 28714
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -33073,7 +33078,7 @@
       "Name": "Curiosity",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 16151
+      "UsersEstimate": 16152
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -33113,7 +33118,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10767
+      "UsersEstimate": 10768
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -33121,7 +33126,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 13459
+      "UsersEstimate": 13460
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -33129,7 +33134,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 30508
+      "UsersEstimate": 30509
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -33145,7 +33150,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 7178
+      "UsersEstimate": 7179
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -33153,7 +33158,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 9870
+      "UsersEstimate": 9871
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -33169,7 +33174,7 @@
       "Name": "Grand champion",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9870
+      "UsersEstimate": 9871
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -33177,7 +33182,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 16151
+      "UsersEstimate": 16152
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -33192,15 +33197,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 89729,
+      "Progressed": 89732,
       "Completed": 180
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-07T15:59:37.8100287+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:05:09.0440228+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:03:59.946743+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.1589708+00:00",
-  "LastUpdate_Ratings": "2024-01-08T08:01:59.6139167+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:05:09.0441679+00:00"
+  "LastUpdate_Ratings": "2024-01-08T09:00:08.3230817+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:03:59.9469013+00:00"
 }

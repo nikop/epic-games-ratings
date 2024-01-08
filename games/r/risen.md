@@ -5,27 +5,27 @@ Rating: 4.56 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~160 |
-| Map reader | 63.00% | ~112 |
-| Adventurer | 62.00% | ~110 |
-| Philanthropist | 59.00% | ~105 |
-| The brave little tailor | 39.00% | ~69 |
-| Archer | 39.00% | ~69 |
+| Beginner | 90.00% | ~161 |
+| Map reader | 63.00% | ~113 |
+| Adventurer | 61.00% | ~109 |
+| Philanthropist | 59.00% | ~106 |
+| The brave little tailor | 39.00% | ~70 |
+| Archer | 39.00% | ~70 |
 | Field hand | 37.00% | ~66 |
 | Well-to-do | 31.00% | ~55 |
 | Samaritan | 29.00% | ~52 |
-| Ladies' man | 29.00% | ~52 |
-| The merciful one | 28.00% | ~50 |
+| Ladies' man | 28.00% | ~50 |
+| The merciful one | 27.00% | ~48 |
 | Idiot | 23.00% | ~41 |
 | Ferocious wild boars | 22.00% | ~39 |
-| Beast slayer | 20.00% | ~36 |
-| Death of a legend | 19.00% | ~34 |
-| Ogre friend | 19.00% | ~34 |
+| Beast slayer | 21.00% | ~38 |
+| Death of a legend | 18.00% | ~32 |
+| Ogre friend | 18.00% | ~32 |
 | Family man | 17.00% | ~30 |
 | Archaeologist | 17.00% | ~30 |
-| Hard worker | 16.00% | ~28 |
-| Fence | 16.00% | ~28 |
-| Sidelined | 16.00% | ~28 |
+| Hard worker | 16.00% | ~29 |
+| Fence | 16.00% | ~29 |
+| Sidelined | 16.00% | ~29 |
 | Wise man | 15.00% | ~27 |
 | Little hero | 15.00% | ~27 |
 | The fourth triplet | 15.00% | ~27 |
@@ -36,12 +36,12 @@ Rating: 4.56 (Ranked 507)
 | Defender | 11.00% | ~20 |
 | Workaholic | 11.00% | ~20 |
 | Showdown | 10.00% | ~18 |
-| Safecracker | 10.00% | ~18 |
 | Freedom fighter | 9.00% | ~16 |
+| Safecracker | 9.00% | ~16 |
 | Master thief | 9.00% | ~16 |
 | Titan Lord | 8.00% | ~14 |
-| Expert | 7.00% | ~12 |
-| King of the handymen | 7.00% | ~12 |
+| Expert | 7.00% | ~13 |
+| King of the handymen | 7.00% | ~13 |
 | Terror of the hens | 6.00% | ~11 |
 | Moneybags | 6.00% | ~11 |
 | The traveler | 4.00% | ~7 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 507)
 | Master of the classes | 0.60% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178 (Ranked 437)  
+Progressed: 179 (Ranked 436)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 165 | 0 |
 | 2024-01-06 | 171 | 0 |
 | 2024-01-07 | 177 | 0 |
-| 2024-01-08 | 178 | 0 |
+| 2024-01-08 | 179 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

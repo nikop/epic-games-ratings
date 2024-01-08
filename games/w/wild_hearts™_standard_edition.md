@@ -10,8 +10,8 @@
 | Budding Conjuror | 59.00% | ~729 |
 | Man-Machine Master | 48.00% | ~593 |
 | Mountain Splitter | 48.00% | ~593 |
+| Charmed by the Hunt | 48.00% | ~593 |
 | Subsistence Skills | 47.00% | ~581 |
-| Charmed by the Hunt | 47.00% | ~581 |
 | Memory Rouser | 46.00% | ~569 |
 | Fusion Conjuror | 45.00% | ~556 |
 | Kemono Hunter | 42.00% | ~519 |
@@ -44,8 +44,8 @@
 | Jack of All Trades | 13.00% | ~161 |
 | Karakuri Fortress | 10.00% | ~124 |
 | Volatile Vocation | 10.00% | ~124 |
+| Tender Touch | 10.00% | ~124 |
 | Haven Hunter | 10.00% | ~124 |
-| Tender Touch | 9.00% | ~111 |
 | Superlative View | 8.00% | ~99 |
 | Relentless Kemono Hunter | 7.00% | ~87 |
 | Vanquisher of the Volatile | 6.00% | ~74 |

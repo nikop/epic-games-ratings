@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83047,
+  "EOS_Progressed": 83048,
   "EOS_Completed": 925,
-  "EOS_NewPlayers": 737,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29471,6 +29471,11 @@
       "Time": "2024-01-08T08:08:23.9276838+00:00",
       "NumProgressed": 83047,
       "NumCompleted": 925
+    },
+    {
+      "Time": "2024-01-08T09:06:16.7558416+00:00",
+      "NumProgressed": 83048,
+      "NumCompleted": 925
     }
   ],
   "TotalAchievements": 25,
@@ -29514,7 +29519,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18270
+      "UsersEstimate": 18271
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -29522,7 +29527,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14948
+      "UsersEstimate": 14949
     },
     {
       "ID": "Butcher",
@@ -29554,7 +29559,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16609
+      "UsersEstimate": 16610
     },
     {
       "ID": "Hearty",
@@ -29681,7 +29686,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83047,
+      "Progressed": 83048,
       "Completed": 925
     }
   ],
@@ -29689,8 +29694,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-08T08:08:23.9276832+00:00",
+  "LastChanged_Achievements": "2024-01-08T09:06:16.7558413+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-08T07:59:00.5321068+00:00",
-  "LastUpdate_Achievements": "2024-01-08T08:08:23.9278285+00:00"
+  "LastUpdate_Ratings": "2024-01-08T08:58:10.3064135+00:00",
+  "LastUpdate_Achievements": "2024-01-08T09:06:16.7559615+00:00"
 }
