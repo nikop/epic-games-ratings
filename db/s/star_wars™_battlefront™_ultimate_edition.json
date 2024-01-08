@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2755,
+  "EOS_Progressed": 2756,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
@@ -7484,6 +7484,11 @@
       "Time": "2024-01-08T06:09:35.0709838+00:00",
       "NumProgressed": 2755,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T07:10:17.8457194+00:00",
+      "NumProgressed": 2756,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7720,7 +7725,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "achievement_36",
@@ -7760,7 +7765,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "achievement_40",
@@ -7999,13 +8004,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2755,
+      "Progressed": 2756,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2755,
+      "Progressed": 2756,
       "Completed": 1
     }
   ],
@@ -8013,8 +8018,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:09:35.0709834+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:10:17.8457191+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:58:05.1113009+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:09:35.0710559+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:58:14.5514695+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:10:17.8458141+00:00"
 }

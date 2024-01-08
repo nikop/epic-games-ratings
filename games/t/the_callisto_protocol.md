@@ -5,17 +5,17 @@ Rating: 4.21 (Ranked 952)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 25.00% | ~5,410 |
-| The Outer Way | 25.00% | ~5,410 |
+| Flesh Wound | 25.00% | ~5,411 |
+| The Outer Way | 25.00% | ~5,411 |
 | Desperate Times | 23.00% | ~4,978 |
 | Get a Grip | 21.00% | ~4,545 |
 | Paper Jams | 21.00% | ~4,545 |
-| Chew 'Em Up | 19.00% | ~4,112 |
+| Chew 'Em Up | 19.00% | ~4,113 |
 | Reforged | 18.00% | ~3,896 |
-| Float Like A Butterfly | 17.00% | ~3,679 |
-| Workplace Hazard | 15.00% | ~3,246 |
-| If the SHU Fits... | 15.00% | ~3,246 |
-| Without A Paddle | 13.00% | ~2,813 |
+| Float Like A Butterfly | 17.00% | ~3,680 |
+| Workplace Hazard | 15.00% | ~3,247 |
+| If the SHU Fits... | 15.00% | ~3,247 |
+| Without A Paddle | 13.00% | ~2,814 |
 | Two Heads Are Better Than One | 11.00% | ~2,381 |
 | In the Pipe, Five by Five | 11.00% | ~2,381 |
 | Crash Site | 11.00% | ~2,381 |
@@ -24,12 +24,12 @@ Rating: 4.21 (Ranked 952)
 | Giving Back | 9.00% | ~1,948 |
 | What Lies Beneath | 9.00% | ~1,948 |
 | Full Circle | 9.00% | ~1,948 |
-| You Need a Gun | 8.00% | ~1,731 |
+| You Need a Gun | 8.00% | ~1,732 |
 | I Do Belong Here | 7.00% | ~1,515 |
 | Keep Fighting | 7.00% | ~670 |
 | In Striking Distance | 5.00% | ~1,082 |
 | The Commonality | 5.00% | ~1,082 |
-| It's Time | 5.00% | ~478 |
+| It's Time | 5.00% | ~479 |
 | One Last Job | 3.00% | ~287 |
 | Big Spender | 2.00% | ~191 |
 | This Isn't About Escape | 2.00% | ~191 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 952)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,642 (Ranked 151)  
+Progressed: 21,645 (Ranked 151)  
 Completed: 82 (0.38%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 82 (0.38%) (Ranked 241)
 | 2024-01-05 | 21,186 | 82 |
 | 2024-01-06 | 21,389 | 82 |
 | 2024-01-07 | 21,615 | 82 |
-| 2024-01-08 | 21,642 | 82 |
+| 2024-01-08 | 21,645 | 82 |
 ## Awards
 Max (Amazing Characters): 126  (Ranked 353)  
 Sum: 603 (Ranked 324)  

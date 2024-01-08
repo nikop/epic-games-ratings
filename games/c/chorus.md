@@ -7,8 +7,8 @@ Number of Ratings: 58  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Another Life | 84.00% | ~1,176 |
+| Voices from the Past | 77.00% | ~1,078 |
 | Space Traveler | 77.00% | ~1,078 |
-| Voices from the Past | 76.00% | ~1,064 |
 | Demigod | 74.00% | ~1,036 |
 | The Great Destroyer | 72.00% | ~1,008 |
 | Shields Down | 70.00% | ~980 |
@@ -20,7 +20,7 @@ Number of Ratings: 58  (23.09.2022)
 | Controlled Demolition | 53.00% | ~742 |
 | Payback | 51.00% | ~714 |
 | Huntress | 51.00% | ~714 |
-| Born to Drift | 49.00% | ~686 |
+| Born to Drift | 50.00% | ~700 |
 | Relentless | 47.00% | ~658 |
 | The Path Forward | 44.00% | ~616 |
 | Phoenix | 43.00% | ~602 |

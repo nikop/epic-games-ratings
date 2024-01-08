@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8457,
+  "EOS_Progressed": 8458,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -9541,6 +9541,11 @@
       "Time": "2024-01-08T06:06:15.5735874+00:00",
       "NumProgressed": 8457,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2024-01-08T07:06:32.2464933+00:00",
+      "NumProgressed": 8458,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9553,7 +9558,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7442
+      "UsersEstimate": 7443
     },
     {
       "ID": "achievement_01_02",
@@ -9561,7 +9566,7 @@
       "Name": "Tournament Star",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "achievement_01_03",
@@ -9569,7 +9574,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 5497
+      "UsersEstimate": 5498
     },
     {
       "ID": "achievement_01_04",
@@ -9577,7 +9582,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     },
     {
       "ID": "achievement_01_05",
@@ -9585,7 +9590,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "achievement_01_06",
@@ -9593,7 +9598,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5074
+      "UsersEstimate": 5075
     },
     {
       "ID": "achievement_01_07",
@@ -9609,7 +9614,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     },
     {
       "ID": "achievement_01_09",
@@ -9833,7 +9838,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "achievement_04_08",
@@ -9856,7 +9861,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8457,
+      "Progressed": 8458,
       "Completed": 50
     }
   ],
@@ -9864,8 +9869,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-07T20:58:37.9854496+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:06:15.5735868+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:06:32.2464927+00:00",
   "LastUpdate_AppInfo": "2024-01-05T01:43:58.6689875+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:58:16.420426+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:06:15.5736652+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:58:25.5012696+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:06:32.2465908+00:00"
 }

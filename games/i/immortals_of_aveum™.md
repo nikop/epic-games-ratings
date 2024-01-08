@@ -5,29 +5,29 @@ Rating: 4.19 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,711 |
-| Battlefields Have Memories | 81.00% | ~2,496 |
-| Enlisted | 74.00% | ~2,280 |
-| Maybe Engage a Little | 69.00% | ~2,126 |
-| No More Names | 52.00% | ~1,602 |
-| Initiate | 38.00% | ~1,171 |
-| Thrada-Kul | 34.00% | ~1,048 |
-| Gravity-Challenged Rocks | 28.00% | ~863 |
-| Socialite | 24.00% | ~739 |
-| Soldier | 23.00% | ~709 |
-| All the Major Food Groups | 23.00% | ~709 |
-| Beggars Would Ride | 21.00% | ~647 |
-| Control is an Illusion | 19.00% | ~585 |
-| The Means to Save It | 17.00% | ~524 |
-| Resilience to Sin | 16.00% | ~493 |
-| A Familiar Nest | 15.00% | ~462 |
-| Periapt Alizarin | 15.00% | ~462 |
-| Geas Aristeya | 14.00% | ~431 |
+| Unforeseen | 88.00% | ~2,716 |
+| Battlefields Have Memories | 80.00% | ~2,469 |
+| Enlisted | 74.00% | ~2,284 |
+| Maybe Engage a Little | 69.00% | ~2,129 |
+| No More Names | 52.00% | ~1,605 |
+| Initiate | 38.00% | ~1,173 |
+| Thrada-Kul | 34.00% | ~1,049 |
+| Gravity-Challenged Rocks | 28.00% | ~864 |
+| Socialite | 24.00% | ~741 |
+| Soldier | 23.00% | ~710 |
+| All the Major Food Groups | 23.00% | ~710 |
+| Beggars Would Ride | 21.00% | ~648 |
+| Control is an Illusion | 19.00% | ~586 |
+| The Means to Save It | 17.00% | ~525 |
+| Resilience to Sin | 16.00% | ~494 |
+| A Familiar Nest | 15.00% | ~463 |
+| Periapt Alizarin | 15.00% | ~463 |
+| Geas Aristeya | 14.00% | ~432 |
 | A Perfect Cycle | 13.00% | ~401 |
 | Recruit | 12.00% | ~370 |
 | Armsman | 11.00% | ~339 |
-| Lights Army | 9.00% | ~277 |
-| Periapt Cerulean | 8.00% | ~246 |
+| Lights Army | 9.00% | ~278 |
+| Periapt Cerulean | 8.00% | ~247 |
 | Good Boy | 7.00% | ~216 |
 | Best Dressed | 6.00% | ~185 |
 | Periapt Viridian | 6.00% | ~185 |
@@ -35,8 +35,8 @@ Rating: 4.19 (Ranked 971)
 | Scholar | 4.00% | ~123 |
 | Kitted Out | 4.00% | ~123 |
 | Armaments Gules | 4.00% | ~123 |
-| Armaments Azure | 3.00% | ~92 |
-| Armaments Vert | 3.00% | ~92 |
+| Armaments Azure | 3.00% | ~93 |
+| Armaments Vert | 3.00% | ~93 |
 | Veteran | 2.00% | ~62 |
 | Grand Magnus | 1.00% | ~31 |
 | Master of Carmine | 1.00% | ~31 |
@@ -45,15 +45,15 @@ Rating: 4.19 (Ranked 971)
 | Witch-Taker | 0.80% | ~25 |
 | Master of Ultramarine | 0.70% | ~22 |
 | Backtracker | 0.70% | ~22 |
-| Family Business | 0.60% | ~18 |
-| Diplomat | 0.60% | ~18 |
-| Petite Bourgeoisie | 0.60% | ~18 |
-| Master of Malachite | 0.60% | ~18 |
+| Family Business | 0.60% | ~19 |
+| Diplomat | 0.60% | ~19 |
+| Petite Bourgeoisie | 0.60% | ~19 |
+| Master of Malachite | 0.60% | ~19 |
 | Treasure Hunter | 0.40% | ~12 |
 | Out of Time | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,081 (Ranked 228)  
+Progressed: 3,086 (Ranked 228)  
 Completed: 4 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 4 (0.13%) (Ranked 298)
 | 2024-01-05 | 2,796 | 4 |
 | 2024-01-06 | 2,915 | 4 |
 | 2024-01-07 | 3,056 | 4 |
-| 2024-01-08 | 3,081 | 4 |
+| 2024-01-08 | 3,086 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

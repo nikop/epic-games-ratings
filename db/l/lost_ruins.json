@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -1894,6 +1894,11 @@
       "Time": "2024-01-08T06:09:30.7249929+00:00",
       "NumProgressed": 681,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T07:10:13.502515+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1985,7 +1990,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Hardboiled",
@@ -2025,15 +2030,15 @@
       "Name": "Inquisitor",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Librarian",
       "SetID": "82505mn",
       "Name": "Librarian",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 89
     },
     {
       "ID": "Lumberjack",
@@ -2065,7 +2070,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Necromancer",
@@ -2224,7 +2229,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 1
     }
   ],
@@ -2232,8 +2237,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:09:30.7249919+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:10:13.5025147+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:59:56.0387017+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:09:30.7250279+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:59:59.9298432+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:10:13.5025559+00:00"
 }

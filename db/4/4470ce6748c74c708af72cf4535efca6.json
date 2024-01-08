@@ -434,9 +434,9 @@
       "ID": "19",
       "SetID": "5e3maia",
       "Name": "Strong Alliance",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "2",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:04:47.3228882+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:05:06.8414857+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:04.7034788+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:57:17.9463714+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:04:47.3229662+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:57:28.702042+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:05:06.8415471+00:00"
 }

@@ -12,7 +12,7 @@ Number of Ratings: 285  (23.09.2022)
 | Debuff Dogpile | 25.00% | ~1,550 |
 | That'll Leave a Mark | 25.00% | ~1,550 |
 | Mushroom Madness! | 23.00% | ~1,426 |
-| First Strike | 21.00% | ~1,302 |
+| First Strike | 22.00% | ~1,364 |
 | Spending Spree | 19.00% | ~1,178 |
 | Horder Better Faster Stronger | 17.00% | ~1,054 |
 | Next Time on MythForce... | 15.00% | ~930 |

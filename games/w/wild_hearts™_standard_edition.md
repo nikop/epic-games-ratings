@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,233 |
-| Hidden History | 71.00% | ~875 |
-| Commencing of Quests | 61.00% | ~752 |
-| Budding Conjuror | 59.00% | ~727 |
+| Land of the Rising Sun | 100.00% | ~1,234 |
+| Hidden History | 71.00% | ~876 |
+| Commencing of Quests | 61.00% | ~753 |
+| Budding Conjuror | 59.00% | ~728 |
 | Man-Machine Master | 48.00% | ~592 |
 | Mountain Splitter | 48.00% | ~592 |
 | Charmed by the Hunt | 48.00% | ~592 |
 | Subsistence Skills | 47.00% | ~580 |
-| Memory Rouser | 46.00% | ~567 |
+| Memory Rouser | 46.00% | ~568 |
 | Fusion Conjuror | 45.00% | ~555 |
 | Kemono Hunter | 42.00% | ~518 |
 | Helpful Heart | 39.00% | ~481 |
 | Expert Conjuror | 39.00% | ~481 |
-| Flawless Crystal | 37.00% | ~456 |
-| Bonds of Enmity | 37.00% | ~456 |
+| Flawless Crystal | 37.00% | ~457 |
+| Bonds of Enmity | 37.00% | ~457 |
 | Distance Devourer | 35.00% | ~432 |
 | Counter Specialist | 32.00% | ~395 |
-| Master of the Skies | 31.00% | ~382 |
-| Mighty Marmelizer | 27.00% | ~333 |
+| Master of the Skies | 31.00% | ~383 |
 | Kemono at Heart | 27.00% | ~333 |
 | Axer of Auspice | 27.00% | ~333 |
+| Mighty Marmelizer | 26.00% | ~321 |
 | Fair Means or Foul | 26.00% | ~321 |
 | Single Minded | 24.00% | ~296 |
 | Snare Specialist | 23.00% | ~284 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 4.00% | ~49 |
 | Tsukumo Whisperer | 3.00% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,233 (Ranked 281)  
+Progressed: 1,234 (Ranked 281)  
 Completed: 8 (0.65%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,4 +168,4 @@ Completed: 8 (0.65%) (Ranked 201)
 | 2024-01-05 | 1,148 | 8 |
 | 2024-01-06 | 1,197 | 8 |
 | 2024-01-07 | 1,227 | 8 |
-| 2024-01-08 | 1,233 | 8 |
+| 2024-01-08 | 1,234 | 8 |

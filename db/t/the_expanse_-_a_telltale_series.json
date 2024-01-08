@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18609,
+  "EOS_Progressed": 18610,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16666,6 +16666,11 @@
       "Time": "2024-01-08T06:06:14.0423141+00:00",
       "NumProgressed": 18609,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-08T07:06:30.8624653+00:00",
+      "NumProgressed": 18610,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16854,7 +16859,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "30",
@@ -16957,13 +16962,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18609,
+      "Progressed": 18610,
       "Completed": 60
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4563,
+      "Progressed": 4564,
       "Completed": 1252
     }
   ],
@@ -16971,8 +16976,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-06T19:58:03.9516258+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:06:14.0423135+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:06:30.8624647+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:58:20.7923716+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:06:14.0424142+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:58:30.2789127+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:06:30.8625614+00:00"
 }

@@ -13386,9 +13386,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 61622,
+  "EOS_Progressed": 61623,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1632,
+  "EOS_NewPlayers": 1629,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38311,6 +38311,11 @@
       "Time": "2024-01-08T06:06:07.5510634+00:00",
       "NumProgressed": 61622,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T07:06:24.5140302+00:00",
+      "NumProgressed": 61623,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -38402,7 +38407,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 36357
+      "UsersEstimate": 36358
     },
     {
       "ID": "CutTree",
@@ -38410,7 +38415,7 @@
       "Name": "You wood not believe it",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 12324
+      "UsersEstimate": 12325
     },
     {
       "ID": "CutTreeFirst",
@@ -38418,7 +38423,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 34508
+      "UsersEstimate": 34509
     },
     {
       "ID": "DeliveryGrapes",
@@ -38458,7 +38463,7 @@
       "Name": "Plant get enough",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 34508
+      "UsersEstimate": 34509
     },
     {
       "ID": "Harvested",
@@ -38546,7 +38551,7 @@
       "Name": "I like to switch it up",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 22800
+      "UsersEstimate": 22801
     },
     {
       "ID": "NumPlaceables",
@@ -38570,7 +38575,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 12324
+      "UsersEstimate": 12325
     },
     {
       "ID": "NumVehiclesSmall",
@@ -38618,7 +38623,7 @@
       "Name": "Rock on",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6778
+      "UsersEstimate": 6779
     },
     {
       "ID": "TractorDriving",
@@ -38650,7 +38655,7 @@
       "Name": "Fix me up",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6778
+      "UsersEstimate": 6779
     },
     {
       "ID": "WrappedBales",
@@ -38665,15 +38670,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 61622,
+      "Progressed": 61623,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-07T23:57:08.3437787+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:06:07.5510627+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:06:24.5140299+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:56.5163722+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:57:23.7292433+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:06:07.5512481+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:57:33.5757673+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:06:24.514216+00:00"
 }

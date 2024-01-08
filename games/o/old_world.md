@@ -32,23 +32,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.90% | ~146 |
 | Pyramids | 0.90% | ~146 |
 | Learn to Play 1 | 0.90% | ~146 |
+| Babylonian Paganism | 0.90% | ~146 |
 | Greek Paganism | 0.90% | ~146 |
 | Naming Landmarks | 0.90% | ~146 |
 | Brilliant | 0.80% | ~130 |
 | Fountainhead | 0.80% | ~130 |
 | Magnificent | 0.80% | ~130 |
 | Warrior | 0.80% | ~130 |
+| Ishtar Gate | 0.80% | ~130 |
 | Christianity | 0.80% | ~130 |
-| Babylonian Paganism | 0.80% | ~130 |
 | Zoroastrianism | 0.80% | ~130 |
 | Wise | 0.70% | ~114 |
 | Able Difficulty | 0.70% | ~114 |
 | Furious Family | 0.70% | ~114 |
 | Apadana | 0.70% | ~114 |
 | Great Ziggurat | 0.70% | ~114 |
-| Ishtar Gate | 0.70% | ~114 |
 | Lighthouse | 0.70% | ~114 |
 | Learn to Play 2 | 0.70% | ~114 |
+| Carthaginian Paganism | 0.70% | ~114 |
 | Roman Paganism | 0.70% | ~114 |
 | Regicide | 0.60% | ~97 |
 | Great | 0.60% | ~97 |
@@ -58,7 +59,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.60% | ~97 |
 | Necropolis | 0.60% | ~97 |
 | Manichaeism | 0.60% | ~97 |
-| Carthaginian Paganism | 0.60% | ~97 |
+| Egyptian Paganism | 0.60% | ~97 |
 | Beloved | 0.50% | ~81 |
 | Drillmaster | 0.50% | ~81 |
 | Intercessor | 0.50% | ~81 |
@@ -67,20 +68,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.50% | ~81 |
 | Sages | 0.50% | ~81 |
 | Colossus | 0.50% | ~81 |
-| Egyptian Paganism | 0.50% | ~81 |
+| Learn to Play 3 | 0.50% | ~81 |
 | Building Wonders | 0.50% | ~81 |
+| Mythology | 0.50% | ~81 |
 | Win a Single Player Game | 0.50% | ~81 |
 | Hanging Gardens in Babylon | 0.40% | ~65 |
 | Mighty | 0.40% | ~65 |
 | Good Difficulty | 0.40% | ~65 |
 | Champions | 0.40% | ~65 |
 | Patrons | 0.40% | ~65 |
+| Riders | 0.40% | ~65 |
 | Statesmen | 0.40% | ~65 |
-| Learn to Play 3 | 0.40% | ~65 |
 | Greece | 0.40% | ~65 |
 | Power to the People | 0.40% | ~65 |
 | Persian Paganism | 0.40% | ~65 |
-| Mythology | 0.40% | ~65 |
+| Economic Reform | 0.40% | ~65 |
 | Points Victory | 0.40% | ~65 |
 | Bad Heir Day | 0.30% | ~49 |
 | Capable | 0.30% | ~49 |
@@ -88,8 +90,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.30% | ~49 |
 | Subjugator | 0.30% | ~49 |
 | Victorious | 0.30% | ~49 |
+| Hunters | 0.30% | ~49 |
 | Landowners | 0.30% | ~49 |
-| Riders | 0.30% | ~49 |
 | Traders | 0.30% | ~49 |
 | Hittite Iron | 0.30% | ~49 |
 | Circus Maximus | 0.30% | ~49 |
@@ -97,8 +99,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.30% | ~49 |
 | Pantheon | 0.30% | ~49 |
 | Via Recta Souk | 0.30% | ~49 |
+| Babylonia | 0.30% | ~49 |
 | Assyrian Paganism | 0.30% | ~49 |
-| Economic Reform | 0.30% | ~49 |
 | Industrial Progress | 0.30% | ~49 |
 | Military Prestige | 0.30% | ~49 |
 | Dualism | 0.30% | ~49 |
@@ -122,12 +124,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |
 | Clerics | 0.20% | ~32 |
-| Hunters | 0.20% | ~32 |
 | Church of the Holy Sepulchre | 0.20% | ~32 |
 | Cao'an | 0.20% | ~32 |
 | Adur Burzen-Mihr | 0.20% | ~32 |
 | Learn to Play 4 | 0.20% | ~32 |
-| Babylonia | 0.20% | ~32 |
+| Learn to Play 5 | 0.20% | ~32 |
 | Carthage | 0.20% | ~32 |
 | Egypt | 0.20% | ~32 |
 | Rome | 0.20% | ~32 |
@@ -196,6 +197,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.10% | ~16 |
 | Five Routs | 0.10% | ~16 |
 | Game of the Week | 0.10% | ~16 |
+| Defend Where? | 0.10% | ~16 |
 | Run, Pheidippides, Run! | 0.10% | ~16 |
 | Nenikekamen | 0.10% | ~16 |
 | Get the Hellas Out | 0.10% | ~16 |
@@ -222,7 +224,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hardcore | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
-| Learn to Play 5 | 0.10% | ~16 |
 | Macedonian Wars | 0.10% | ~16 |
 | Medo-Babylonian Conquest | 0.10% | ~16 |
 | Pyramids in Menefer | 0.10% | ~16 |
@@ -309,7 +310,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle in Delphi | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
-| Defend Where? | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |
 | Queen of Politics | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,216 (Ranked 168)  
+Progressed: 16,220 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,11 +628,11 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,216 | 5 |
+| 2024-01-08 | 16,220 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
-Sum: 1,915 (Ranked 222)  
-Diff (max vs sum): 63  
+Sum: 1,915 (Ranked 223)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 229 |

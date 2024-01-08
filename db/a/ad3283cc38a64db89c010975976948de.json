@@ -4,7 +4,7 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 79,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.8,
   "EosHistory": [
@@ -498,9 +498,9 @@
       "ID": "LEVEL_135_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 135 pieces",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LEVEL_135_003",
@@ -689,8 +689,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:06:03.9657466+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:06:20.8827755+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.6686255+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:58:11.782976+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:06:03.9657654+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:58:20.9638768+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:06:20.882803+00:00"
 }

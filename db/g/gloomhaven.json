@@ -2829,10 +2829,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 8467,
       "NumberOfAwardsMax": 3616
+    },
+    {
+      "Time": "2024-01-08T06:58:38.6013461+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8468,
+      "NumberOfAwardsMax": 3616
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8467,
+  "NumberOfAwards": 8468,
   "NumberOfAwardsMax": 3616,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2864,7 +2870,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 553
+      "Count": 554
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2909,9 +2915,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 32141,
+  "EOS_Progressed": 32144,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1897,
+  "EOS_NewPlayers": 1894,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16164,6 +16170,11 @@
       "Time": "2024-01-08T06:08:58.9294235+00:00",
       "NumProgressed": 32141,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T07:09:42.11974+00:00",
+      "NumProgressed": 32144,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -16184,7 +16195,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "Achievement_Trophy03",
@@ -16352,7 +16363,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4821
+      "UsersEstimate": 4822
     },
     {
       "ID": "Achievement_Trophy24",
@@ -16360,7 +16371,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 12535
+      "UsersEstimate": 12536
     },
     {
       "ID": "Achievement_Trophy25",
@@ -16376,7 +16387,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 10607
+      "UsersEstimate": 10608
     },
     {
       "ID": "Achievement_Trophy27",
@@ -16392,7 +16403,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 9964
+      "UsersEstimate": 9965
     },
     {
       "ID": "Achievement_Trophy29",
@@ -16408,7 +16419,7 @@
       "Name": "Spread the plague",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 8678
+      "UsersEstimate": 8679
     },
     {
       "ID": "Achievement_Trophy31",
@@ -16416,7 +16427,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9322
     },
     {
       "ID": "Achievement_Trophy32",
@@ -16464,7 +16475,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7714
+      "UsersEstimate": 7715
     },
     {
       "ID": "Achievement_Trophy38",
@@ -16488,7 +16499,7 @@
       "Name": "Pain is your friend",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "Achievement_Trophy41",
@@ -16512,7 +16523,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4178
+      "UsersEstimate": 4179
     },
     {
       "ID": "Achievement_Trophy44",
@@ -16520,7 +16531,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "Achievement_Trophy45",
@@ -16663,16 +16674,16 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 32141,
+      "Progressed": 32144,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
-  "LastChanged": "2024-01-08T05:58:29.0191862+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:08:58.929423+00:00",
+  "LastChanged": "2024-01-08T06:58:38.6013458+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:09:42.1197395+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:15.8559862+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:58:29.0191867+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:08:58.9295457+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:58:38.6013466+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:09:42.1198764+00:00"
 }

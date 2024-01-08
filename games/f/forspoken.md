@@ -1,24 +1,24 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 998)  
+Rating: 4.15 (Ranked 999)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,611 |
-| Unlocked Potential | 11.00% | ~5,143 |
-| Tinkerer | 9.00% | ~4,208 |
-| Knock 'Em Dead | 8.00% | ~3,740 |
+| Attachments | 12.00% | ~5,612 |
+| Unlocked Potential | 11.00% | ~5,144 |
+| Tinkerer | 9.00% | ~4,209 |
+| Knock 'Em Dead | 8.00% | ~3,741 |
 | Leapfrogger | 7.00% | ~3,273 |
 | Pilgrimage: Initiate | 7.00% | ~3,273 |
 | Hell of a Run | 7.00% | ~3,273 |
 | Call of the Fount: Baptized | 7.00% | ~3,273 |
-| No Mercy | 6.00% | ~2,805 |
-| Explorer: Seeker | 6.00% | ~2,805 |
+| No Mercy | 6.00% | ~2,806 |
+| Explorer: Seeker | 6.00% | ~2,806 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,338 |
 | Stuck | 5.00% | ~2,338 |
 | Help Me Out Here | 5.00% | ~2,338 |
-| The Interloper | 4.00% | ~1,870 |
+| The Interloper | 4.00% | ~1,871 |
 | Outdoorsperson | 3.00% | ~1,403 |
 | Hop, Step, Jump | 3.00% | ~1,403 |
 | Endless Runner | 3.00% | ~1,403 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 998)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,756 (Ranked 126)  
+Progressed: 46,763 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 4 (0.01%) (Ranked 372)
 | 2024-01-05 | 46,484 | 4 |
 | 2024-01-06 | 46,610 | 4 |
 | 2024-01-07 | 46,730 | 4 |
-| 2024-01-08 | 46,756 | 4 |
+| 2024-01-08 | 46,763 | 4 |
 ## Awards
 Max (Character Customization): 46  (Ranked 467)  
 Sum: 67 (Ranked 492)  

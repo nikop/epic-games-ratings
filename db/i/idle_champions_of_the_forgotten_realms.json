@@ -9397,9 +9397,9 @@
       "Count": 3633
     }
   ],
-  "EOS_Progressed": 252591,
+  "EOS_Progressed": 252601,
   "EOS_Completed": 2601,
-  "EOS_NewPlayers": 3775,
+  "EOS_NewPlayers": 3767,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39167,6 +39167,11 @@
       "Time": "2024-01-08T06:09:39.5032851+00:00",
       "NumProgressed": 252591,
       "NumCompleted": 2601
+    },
+    {
+      "Time": "2024-01-08T07:10:22.4533554+00:00",
+      "NumProgressed": 252601,
+      "NumCompleted": 2601
     }
   ],
   "TotalAchievements": 546,
@@ -40112,9 +40117,9 @@
       "ID": "objective_completed_124",
       "SetID": "cc37lbc",
       "Name": "Homecoming",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 505
     },
     {
       "ID": "objective_completed_125",
@@ -43450,7 +43455,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "objective_completed_1352",
@@ -43458,7 +43463,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "objective_completed_1557",
@@ -43474,7 +43479,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "objective_completed_1562",
@@ -43490,7 +43495,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "objective_completed_598",
@@ -43506,7 +43511,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "objective_completed_678",
@@ -43514,7 +43519,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "objective_completed_683",
@@ -43530,7 +43535,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "objective_completed_865",
@@ -43538,28 +43543,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218865,
+      "Progressed": 218875,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252591,
+      "Progressed": 252601,
       "Completed": 2601
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-08T05:57:00.927841+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:09:39.5032844+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:10:22.453355+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:57:00.9278416+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:09:39.505592+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:57:13.3048015+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:10:22.455856+00:00"
 }

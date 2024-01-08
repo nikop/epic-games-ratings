@@ -10644,9 +10644,9 @@
       "Count": 1084
     }
   ],
-  "EOS_Progressed": 132137,
+  "EOS_Progressed": 132141,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1064,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38869,6 +38869,11 @@
       "Time": "2024-01-08T06:09:12.2180031+00:00",
       "NumProgressed": 132137,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T07:09:55.3860155+00:00",
+      "NumProgressed": 132141,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38896,7 +38901,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -39152,7 +39157,7 @@
       "Name": "It Happens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -39168,7 +39173,7 @@
       "Name": "Spelunker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "driving_biome_clear_city",
@@ -39184,7 +39189,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -39192,7 +39197,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -39256,7 +39261,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "hospital_full_service",
@@ -39272,7 +39277,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -39328,7 +39333,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "run_victory_act01",
@@ -39424,7 +39429,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39464,7 +39469,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39480,7 +39485,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39511,21 +39516,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132137,
+      "Progressed": 132141,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7006,
+      "Progressed": 7010,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-08T04:57:57.0067761+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:09:12.2180022+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:09:55.3860152+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:57:49.9442524+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:09:12.2182442+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:57:59.6097336+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:09:55.3861869+00:00"
 }

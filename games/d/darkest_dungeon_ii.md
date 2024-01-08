@@ -7,13 +7,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~911 |
-| Lost and Found | 8.00% | ~560 |
+| Lost and Found | 8.00% | ~561 |
 | Autodidact | 7.00% | ~9,250 |
-| This guy... again? | 7.00% | ~490 |
+| This guy... again? | 7.00% | ~491 |
 | This Belongs in a Museum | 6.00% | ~7,928 |
 | Creep and Sleep | 6.00% | ~7,928 |
 | Overdue Notice | 6.00% | ~7,928 |
-| Ploughshares to Swords | 6.00% | ~420 |
+| Ploughshares to Swords | 6.00% | ~421 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,607 |
 | Serenity Now! | 5.00% | ~6,607 |
 | Not Today! | 5.00% | ~6,607 |
@@ -24,14 +24,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,607 |
 | FNG | 5.00% | ~6,607 |
 | Bloody Graduation | 5.00% | ~350 |
-| It Rings a Bell | 4.00% | ~5,285 |
-| It Happens | 4.00% | ~5,285 |
-| Spelunker | 4.00% | ~5,285 |
-| Merry Time | 4.00% | ~5,285 |
-| Harvest Festival | 4.00% | ~5,285 |
-| Whale | 4.00% | ~5,285 |
-| A Place to Lay Your Head | 4.00% | ~5,285 |
-| Nope | 4.00% | ~5,285 |
+| It Rings a Bell | 4.00% | ~5,286 |
+| It Happens | 4.00% | ~5,286 |
+| Spelunker | 4.00% | ~5,286 |
+| Merry Time | 4.00% | ~5,286 |
+| Harvest Festival | 4.00% | ~5,286 |
+| Whale | 4.00% | ~5,286 |
+| A Place to Lay Your Head | 4.00% | ~5,286 |
+| Nope | 4.00% | ~5,286 |
 | Friends 'Til the End | 4.00% | ~280 |
 | Resurrection | 3.00% | ~3,964 |
 | Unleash Hell | 3.00% | ~3,964 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,137 (Ranked 91)  
+Progressed: 132,141 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,137 | 3 |
+| 2024-01-08 | 132,141 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
 Sum: 21,528 (Ranked 58)  

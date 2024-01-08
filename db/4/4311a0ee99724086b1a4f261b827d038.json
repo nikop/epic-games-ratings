@@ -857,7 +857,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242133,
+  "EOS_Progressed": 242136,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1395,
   "EOS_NewCompleters": 0,
@@ -20442,6 +20442,11 @@
       "Time": "2024-01-08T06:09:25.5682568+00:00",
       "NumProgressed": 242133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T07:10:08.3548172+00:00",
+      "NumProgressed": 242136,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -20510,7 +20515,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50848
+      "UsersEstimate": 50849
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -20646,7 +20651,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16949
+      "UsersEstimate": 16950
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -20710,7 +20715,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60533
+      "UsersEstimate": 60534
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -20725,7 +20730,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 242133,
+      "Progressed": 242136,
       "Completed": 0
     }
   ],
@@ -20733,8 +20738,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-05T20:00:01.41393+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:09:25.5682562+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:10:08.3548168+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:57:39.8128312+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:09:25.5683857+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:57:49.1588214+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:10:08.3549509+00:00"
 }

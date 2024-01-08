@@ -6,18 +6,18 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,776 |
-| First cargo item waiting | 68.00% | ~1,632 |
-| First cargo item on board | 67.00% | ~1,608 |
-| First bus stop | 66.00% | ~1,584 |
-| First passenger on board | 63.00% | ~1,512 |
-| First passenger waiting | 63.00% | ~1,512 |
-| First bus arrived | 62.00% | ~1,488 |
-| First train station | 60.00% | ~1,440 |
-| First steam train arrived | 56.00% | ~1,344 |
-| First industry upgraded | 53.00% | ~1,272 |
-| Cadet | 52.00% | ~1,248 |
-| Transport millionaire | 51.00% | ~1,224 |
+| First line | 74.00% | ~1,777 |
+| First cargo item waiting | 68.00% | ~1,633 |
+| First cargo item on board | 67.00% | ~1,609 |
+| First bus stop | 66.00% | ~1,585 |
+| First passenger on board | 63.00% | ~1,513 |
+| First passenger waiting | 63.00% | ~1,513 |
+| First bus arrived | 62.00% | ~1,489 |
+| First train station | 60.00% | ~1,441 |
+| First steam train arrived | 56.00% | ~1,345 |
+| First industry upgraded | 53.00% | ~1,273 |
+| Cadet | 52.00% | ~1,249 |
+| Transport millionaire | 51.00% | ~1,225 |
 | Transport master | 49.00% | ~1,176 |
 | Cargo hub | 49.00% | ~1,176 |
 | Sculpturer | 46.00% | ~1,104 |
@@ -34,8 +34,8 @@ Number of Ratings: 180  (23.09.2022)
 | Crowd in a train | 28.00% | ~672 |
 | The future is now, old man | 28.00% | ~672 |
 | Not in my backyard | 27.00% | ~648 |
-| City | 26.00% | ~624 |
 | The king of the sea | 26.00% | ~624 |
+| City | 25.00% | ~600 |
 | Transport tycoon | 21.00% | ~504 |
 | Old timer | 21.00% | ~504 |
 | Climate change | 20.00% | ~480 |
@@ -45,9 +45,9 @@ Number of Ratings: 180  (23.09.2022)
 | Campaign expert | 10.00% | ~240 |
 | Truck Fever | 10.00% | ~240 |
 | No free seats | 9.00% | ~216 |
-| Back to the future | 8.00% | ~192 |
 | Transport belt | 8.00% | ~192 |
 | Penny pincher | 8.00% | ~192 |
+| Back to the future | 7.00% | ~168 |
 | Campaign shark | 5.00% | ~120 |
 | E.P.E.C. | 5.00% | ~120 |
 | Transport shark (Hard mode) | 4.00% | ~96 |
@@ -62,13 +62,13 @@ Number of Ratings: 180  (23.09.2022)
 | No country for old trains | 1.00% | ~24 |
 | Campaign tycoon | 1.00% | ~24 |
 | Trans-Siberian Railway | 1.00% | ~24 |
-| Train Fever | 0.80% | ~19 |
 | Louis Favre | 0.80% | ~19 |
+| Train Fever | 0.70% | ~17 |
 | Big spender | 0.60% | ~14 |
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,400 (Ranked 238)  
+Progressed: 2,401 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-05 | 2,356 | 1 |
 | 2024-01-06 | 2,375 | 1 |
 | 2024-01-07 | 2,398 | 1 |
-| 2024-01-08 | 2,400 | 1 |
+| 2024-01-08 | 2,401 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 456)  
 Sum: 333 (Ranked 372)  

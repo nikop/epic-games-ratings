@@ -4,10 +4,10 @@
   "ProductSlug": "old-world",
   "Ranking_Rating": 319,
   "Ranking_Popularity": 285,
-  "Ranking_PopularitySum": 222,
+  "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2220,9 +2220,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16216,
+  "EOS_Progressed": 16220,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19230,6 +19230,11 @@
       "Time": "2024-01-08T06:09:38.4090487+00:00",
       "NumProgressed": 16216,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T07:10:21.1569921+00:00",
+      "NumProgressed": 16220,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20095,9 +20100,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -20119,9 +20124,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -20207,9 +20212,9 @@
       "ID": "ACHIEVEMENT_GREECE1_LOSE",
       "SetID": "9201eeb",
       "Name": "Defend Where?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_RUN",
@@ -20647,9 +20652,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -20775,9 +20780,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -20791,9 +20796,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 5",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
@@ -20847,9 +20852,9 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -21047,25 +21052,25 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -21175,9 +21180,9 @@
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
       "SetID": "9201eeb",
       "Name": "Economic Reform",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -21231,9 +21236,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
       "SetID": "7l38kb8",
       "Name": "Mythology",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -22104,21 +22109,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16216,
+      "Progressed": 16220,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16216,
+      "Progressed": 16220,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:09:38.4090481+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:10:21.1569918+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:00:02.14953+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:09:38.4103692+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:00:05.877288+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:10:21.1580512+00:00"
 }

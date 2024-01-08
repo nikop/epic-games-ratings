@@ -2976,9 +2976,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 543735,
+  "EOS_Progressed": 543736,
   "EOS_Completed": 1675,
-  "EOS_NewPlayers": 857,
+  "EOS_NewPlayers": 852,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -32141,6 +32141,11 @@
       "Time": "2024-01-08T06:03:17.1657133+00:00",
       "NumProgressed": 543735,
       "NumCompleted": 1675
+    },
+    {
+      "Time": "2024-01-08T07:03:39.1034105+00:00",
+      "NumProgressed": 543736,
+      "NumCompleted": 1675
     }
   ],
   "TotalAchievements": 37,
@@ -32208,7 +32213,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 451300
+      "UsersEstimate": 451301
     },
     {
       "ID": "HONED",
@@ -32352,7 +32357,7 @@
       "Name": "The Mire",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 38061
+      "UsersEstimate": 38062
     },
     {
       "ID": "THE_PALACE",
@@ -32400,7 +32405,7 @@
       "Name": "The Stone Roots",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38061
+      "UsersEstimate": 38062
     },
     {
       "ID": "THE_THREE",
@@ -32408,7 +32413,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 347990
+      "UsersEstimate": 347991
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -32447,15 +32452,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 543735,
+      "Progressed": 543736,
       "Completed": 1675
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-08T02:22:09.9129333+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:03:17.1657127+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:03:39.1034101+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.5863764+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:58:02.8903979+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:03:17.1659325+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:58:12.4685584+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:03:39.1035795+00:00"
 }

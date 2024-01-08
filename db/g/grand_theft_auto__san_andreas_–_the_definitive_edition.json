@@ -2305,7 +2305,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 18919,
+  "EOS_Progressed": 18923,
   "EOS_Completed": 75,
   "EOS_NewPlayers": 1092,
   "EOS_NewCompleters": 8,
@@ -19505,6 +19505,11 @@
       "Time": "2024-01-08T06:09:25.6288153+00:00",
       "NumProgressed": 18919,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-08T07:10:08.5020702+00:00",
+      "NumProgressed": 18923,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19516,7 +19521,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15324
+      "UsersEstimate": 15328
     },
     {
       "ID": "ACH02",
@@ -19524,7 +19529,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACH03",
@@ -19532,7 +19537,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACH04",
@@ -19572,7 +19577,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9460
+      "UsersEstimate": 9462
     },
     {
       "ID": "ACH09",
@@ -19612,7 +19617,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "ACH14",
@@ -19636,7 +19641,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3216
+      "UsersEstimate": 3217
     },
     {
       "ID": "ACH17",
@@ -19692,7 +19697,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4730
+      "UsersEstimate": 4731
     },
     {
       "ID": "ACH24",
@@ -19795,7 +19800,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18919,
+      "Progressed": 18923,
       "Completed": 75
     }
   ],
@@ -19803,8 +19808,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-07T11:59:13.9399306+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:09:25.6288147+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:10:08.50207+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:59:53.1757658+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:09:25.6289314+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:59:57.0942244+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:10:08.5021792+00:00"
 }

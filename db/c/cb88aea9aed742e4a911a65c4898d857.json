@@ -293,9 +293,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 10664,
+  "EOS_Progressed": 10667,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1417,
+  "EOS_NewPlayers": 1416,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4073,6 +4073,11 @@
       "Time": "2024-01-08T06:09:24.6114083+00:00",
       "NumProgressed": 10664,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T07:10:07.4015843+00:00",
+      "NumProgressed": 10667,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4085,7 +4090,7 @@
       "Name": "Conspiracy",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "03_TheStolenStar",
@@ -4197,7 +4202,7 @@
       "Name": "The Rise",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "17_TheExemplar",
@@ -4221,7 +4226,7 @@
       "Name": "Void Wolf",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -4341,7 +4346,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4403,9 +4408,9 @@
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 640
+      "UsersEstimate": 747
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4437,7 +4442,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "47_AFlame",
@@ -4604,7 +4609,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10664,
+      "Progressed": 10667,
       "Completed": 1
     }
   ],
@@ -4612,8 +4617,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-07T07:57:26.3541054+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:09:24.611408+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:10:07.4015841+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:57:35.9331755+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:09:24.6114635+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:57:45.3955759+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:10:07.4016505+00:00"
 }

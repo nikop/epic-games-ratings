@@ -6,9 +6,9 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 96.00% | ~243 |
+| Welcome to Redo | 97.00% | ~245 |
 | Daily Life Begins Anew | 81.00% | ~205 |
-| Our World Now | 80.00% | ~202 |
+| Our World Now | 81.00% | ~205 |
 | Never Saw It Coming | 65.00% | ~164 |
 | Coup de Grace | 57.00% | ~144 |
 | Go-Home Club Activities START! | 48.00% | ~121 |

@@ -6,29 +6,29 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~12,535 |
-| Overkill | 33.00% | ~10,607 |
-| Vaccine Incoming | 31.00% | ~9,964 |
-| A normal day in Gloomhaven | 29.00% | ~9,321 |
-| Spread the plague | 27.00% | ~8,678 |
-| Get over here! | 24.00% | ~7,714 |
+| I'm not dead yet | 39.00% | ~12,536 |
+| Overkill | 33.00% | ~10,608 |
+| Vaccine Incoming | 31.00% | ~9,965 |
+| A normal day in Gloomhaven | 29.00% | ~9,322 |
+| Spread the plague | 27.00% | ~8,679 |
+| Get over here! | 24.00% | ~7,715 |
 | Just when I thought I was out... | 19.00% | ~6,107 |
 | Precious! | 16.00% | ~5,143 |
 | Mine... All Mine... | 16.00% | ~5,143 |
-| Grizzled veteran | 15.00% | ~4,821 |
+| Grizzled veteran | 15.00% | ~4,822 |
 | Anatomy Lesson | 14.00% | ~4,500 |
-| Light of my life | 13.00% | ~4,178 |
+| Light of my life | 13.00% | ~4,179 |
 | Who's the Boss? | 12.00% | ~3,857 |
 | You activated my trap card! | 12.00% | ~3,857 |
 | Obstacle race | 12.00% | ~3,857 |
 | Augmented rat | 10.00% | ~3,214 |
 | Doom and gloom | 10.00% | ~3,214 |
-| Dungeon Veteran | 8.00% | ~2,571 |
-| Pain is your friend | 8.00% | ~2,571 |
+| Dungeon Veteran | 8.00% | ~2,572 |
+| Pain is your friend | 8.00% | ~2,572 |
 | Pack leader | 7.00% | ~2,250 |
 | Black death | 7.00% | ~2,250 |
 | Play it again, Sam | 7.00% | ~2,250 |
-| Quad damage | 6.00% | ~1,928 |
+| Quad damage | 6.00% | ~1,929 |
 | Power Up! | 5.00% | ~1,607 |
 | Merchant of doom | 5.00% | ~1,607 |
 | Caught off guard | 5.00% | ~1,607 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~32 |
 | Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,141 (Ranked 140)  
+Progressed: 32,144 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,17 +185,17 @@ Completed: 1 (0.00%) (Ranked 394)
 | 2024-01-05 | 31,403 | 1 |
 | 2024-01-06 | 31,749 | 1 |
 | 2024-01-07 | 32,091 | 1 |
-| 2024-01-08 | 32,141 | 1 |
+| 2024-01-08 | 32,144 | 1 |
 ## Awards
 Max (Character Customization): 3,616  (Ranked 94)  
-Sum: 8,467 (Ranked 107)  
+Sum: 8,468 (Ranked 107)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,616 |
 | This game has Diverse Characters | 612 |
 | This game has Challenging Combat | 557 |
-| This game is Highly Recommended | 553 |
+| This game is Highly Recommended | 554 |
 | This game is Extremely Fun | 551 |
 | This game is Relaxing | 495 |
 | This game has Amazing Characters | 494 |
@@ -466,4 +466,4 @@ Diff (max vs sum): -13
 | 2024-01-04 | 4.47 | - | 3,615 | 8,462 |
 | 2024-01-05 | 4.47 | - | 3,615 | 8,463 |
 | 2024-01-06 | 4.47 | - | 3,616 | 8,465 |
-| 2024-01-08 | 4.47 | - | 3,616 | 8,467 |
+| 2024-01-08 | 4.47 | - | 3,616 | 8,468 |

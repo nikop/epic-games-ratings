@@ -2105,9 +2105,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 21642,
+  "EOS_Progressed": 21645,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1263,
+  "EOS_NewPlayers": 1262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13025,6 +13025,11 @@
       "Time": "2024-01-08T06:09:03.509836+00:00",
       "NumProgressed": 21642,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-08T07:09:46.7520315+00:00",
+      "NumProgressed": 21645,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13060,7 +13065,7 @@
       "Name": "You Need a Gun",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "DISARM_ENEMY",
@@ -13068,7 +13073,7 @@
       "Name": "Flesh Wound",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5410
+      "UsersEstimate": 5411
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13164,7 +13169,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4113
     },
     {
       "ID": "KILL_ROBOT",
@@ -13180,7 +13185,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 3246
+      "UsersEstimate": 3247
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13196,7 +13201,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3679
+      "UsersEstimate": 3680
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -13228,7 +13233,7 @@
       "Name": "The Outer Way",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5410
+      "UsersEstimate": 5411
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13236,7 +13241,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3246
+      "UsersEstimate": 3247
     },
     {
       "ID": "STORY_HABITAT",
@@ -13244,7 +13249,7 @@
       "Name": "Without A Paddle",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2813
+      "UsersEstimate": 2814
     },
     {
       "ID": "STORY_HANGAR",
@@ -13396,7 +13401,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -13411,13 +13416,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21642,
+      "Progressed": 21645,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9568,
+      "Progressed": 9571,
       "Completed": 29
     }
   ],
@@ -13425,8 +13430,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-07T22:03:22.0078905+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:09:03.509835+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:09:46.7520311+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:03:06.5908804+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:09:03.5099499+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:03:26.1840588+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:09:46.7521021+00:00"
 }

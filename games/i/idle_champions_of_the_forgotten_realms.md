@@ -27,14 +27,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.40% | ~1,010 |
 | The Crumbling Temple | 0.40% | ~1,010 |
 | The Contagious Curse | 0.40% | ~1,010 |
-| Arcane Suppression | 0.40% | ~875 |
-| Welcome to the Vrocks | 0.40% | ~875 |
-| Misaligned in Sigil | 0.40% | ~875 |
-| Chaos Theory | 0.40% | ~875 |
-| When Tentacles Attack | 0.40% | ~875 |
-| Flames of Avernus | 0.40% | ~875 |
-| Don't Lose Your Head | 0.40% | ~875 |
-| Mind Spike | 0.40% | ~875 |
+| Arcane Suppression | 0.40% | ~876 |
+| Welcome to the Vrocks | 0.40% | ~876 |
+| Misaligned in Sigil | 0.40% | ~876 |
+| Chaos Theory | 0.40% | ~876 |
+| When Tentacles Attack | 0.40% | ~876 |
+| Flames of Avernus | 0.40% | ~876 |
+| Don't Lose Your Head | 0.40% | ~876 |
+| Mind Spike | 0.40% | ~876 |
 | Beast Mode | 0.30% | ~758 |
 | Low Initiative | 0.30% | ~758 |
 | A Mysterious Summons | 0.30% | ~758 |
@@ -46,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.30% | ~758 |
 | The Silken Swamp | 0.20% | ~505 |
 | Supply Run | 0.20% | ~505 |
+| Homecoming | 0.20% | ~505 |
 | Street War | 0.20% | ~505 |
 | March of the Undead | 0.20% | ~505 |
 | No Time To Rest | 0.20% | ~505 |
@@ -176,7 +177,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clowning Around | 0.10% | ~219 |
 | Xanathaaaaaaar! | 0.10% | ~219 |
 | A Whale of a Time | 0.10% | ~219 |
-| Homecoming | 0.10% | ~253 |
 | Anti-Dexterous Explorers | 0.10% | ~253 |
 | Struggling Toward Omu | 0.10% | ~253 |
 | Wagon Train | 0.10% | ~253 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,591 (Ranked 70)  
+Progressed: 252,601 (Ranked 70)  
 Completed: 2,601 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -816,7 +816,7 @@ Completed: 2,601 (1.03%) (Ranked 174)
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
 | 2024-01-07 | 252,516 | 2,599 |
-| 2024-01-08 | 252,591 | 2,601 |
+| 2024-01-08 | 252,601 | 2,601 |
 ## Awards
 Max (Great for Beginners): 5,756  (Ranked 74)  
 Sum: 33,388 (Ranked 41)  

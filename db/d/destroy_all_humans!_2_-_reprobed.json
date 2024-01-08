@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,11 +294,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 361,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1679,6 +1679,11 @@
       "Time": "2024-01-08T06:08:41.8294375+00:00",
       "NumProgressed": 360,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T07:09:25.8981341+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1801,9 +1806,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1827,7 +1832,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1939,7 +1944,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2042,7 +2047,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 2
     }
   ],
@@ -2050,8 +2055,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:08:41.8294369+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:09:25.8981337+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:57:02.9293329+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:08:41.8294769+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:57:15.2263148+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:09:25.8981757+00:00"
 }

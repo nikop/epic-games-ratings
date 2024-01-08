@@ -5,28 +5,28 @@ Rating: 4.76 (Ranked 131)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~255,634 |
-| The Player Whisperer | 68.00% | ~251,929 |
-| One of Us, One of Us! | 62.00% | ~229,700 |
-| Clean Sheet | 55.00% | ~203,766 |
-| First Victory | 55.00% | ~203,766 |
-| #DoneDeal | 54.00% | ~200,061 |
-| Off the Books | 52.00% | ~192,652 |
-| Super-Sub | 52.00% | ~192,652 |
-| Hat-trick | 47.00% | ~174,127 |
-| Planned Signing | 44.00% | ~163,013 |
-| "I Would Love It If We Beat Them" | 43.00% | ~159,308 |
-| Scoring Streak | 41.00% | ~151,898 |
-| Wheeler Dealer | 41.00% | ~151,898 |
+| Motivational Speaker | 69.00% | ~255,635 |
+| The Player Whisperer | 68.00% | ~251,930 |
+| One of Us, One of Us! | 62.00% | ~229,701 |
+| Clean Sheet | 55.00% | ~203,767 |
+| First Victory | 55.00% | ~203,767 |
+| #DoneDeal | 54.00% | ~200,062 |
+| Off the Books | 52.00% | ~192,653 |
+| Super-Sub | 52.00% | ~192,653 |
+| Hat-trick | 47.00% | ~174,128 |
+| Planned Signing | 44.00% | ~163,014 |
+| "I Would Love It If We Beat Them" | 43.00% | ~159,309 |
+| Scoring Streak | 41.00% | ~151,899 |
+| Wheeler Dealer | 41.00% | ~151,899 |
 | Thumping | 40.00% | ~148,194 |
-| People Pleaser | 39.00% | ~144,489 |
-| Unbeatable! | 38.00% | ~140,784 |
-| One Of Our Own | 37.00% | ~137,079 |
-| They're a Natural | 32.00% | ~118,555 |
-| Record Signing | 32.00% | ~118,555 |
-| Team Performance | 31.00% | ~114,850 |
-| Star Player | 30.00% | ~111,145 |
-| The Only Stat That Matters | 30.00% | ~111,145 |
+| People Pleaser | 39.00% | ~144,490 |
+| Unbeatable! | 38.00% | ~140,785 |
+| One Of Our Own | 37.00% | ~137,080 |
+| They're a Natural | 32.00% | ~118,556 |
+| Record Signing | 32.00% | ~118,556 |
+| Team Performance | 31.00% | ~114,851 |
+| Star Player | 30.00% | ~111,146 |
+| The Only Stat That Matters | 30.00% | ~111,146 |
 | Parked The Bus | 28.00% | ~103,736 |
 | Full Faith | 28.00% | ~103,736 |
 | Goal Rush | 28.00% | ~103,736 |
@@ -35,21 +35,21 @@ Rating: 4.76 (Ranked 131)
 | Beating Expectations | 26.00% | ~96,326 |
 | Unstoppable Force | 26.00% | ~96,326 |
 | Record Sale | 26.00% | ~96,326 |
-| You're on Fire | 25.00% | ~92,621 |
-| Tremendous Trio | 25.00% | ~92,621 |
-| On a Roll | 24.00% | ~88,916 |
-| Flavour Of The Month | 24.00% | ~88,916 |
-| The Special One | 24.00% | ~88,916 |
-| Shots For Days | 24.00% | ~88,916 |
-| Drilling Down | 23.00% | ~85,211 |
-| What A Goal! | 22.00% | ~81,506 |
+| You're on Fire | 25.00% | ~92,622 |
+| Tremendous Trio | 25.00% | ~92,622 |
+| On a Roll | 24.00% | ~88,917 |
+| Flavour Of The Month | 24.00% | ~88,917 |
+| The Special One | 24.00% | ~88,917 |
+| Shots For Days | 24.00% | ~88,917 |
+| Drilling Down | 23.00% | ~85,212 |
+| What A Goal! | 22.00% | ~81,507 |
 | Goal Machine | 21.00% | ~77,802 |
 | Cup Glory! | 21.00% | ~77,802 |
 | Splashing the Cash | 20.00% | ~74,097 |
 | Immovable Object | 20.00% | ~74,097 |
 | Irresistible Force | 18.00% | ~66,687 |
-| Do The Double | 17.00% | ~62,982 |
-| Cash to Burn | 16.00% | ~59,277 |
+| Do The Double | 17.00% | ~62,983 |
+| Cash to Burn | 16.00% | ~59,278 |
 | Window Shopping | 15.00% | ~55,573 |
 | Top Form | 14.00% | ~51,868 |
 | A Game of Two Halves | 13.00% | ~48,163 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 131)
 | 200 Club | 0.10% | ~370 |
 | Draft Value | 0.10% | ~370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 370,484 (Ranked 55)  
+Progressed: 370,486 (Ranked 55)  
 Completed: 30 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,10 +369,10 @@ Completed: 30 (0.01%) (Ranked 372)
 | 2024-01-05 | 370,043 | 29 |
 | 2024-01-06 | 370,272 | 29 |
 | 2024-01-07 | 370,459 | 29 |
-| 2024-01-08 | 370,484 | 30 |
+| 2024-01-08 | 370,486 | 30 |
 ## Awards
 Max (Diverse Characters): 1,353  (Ranked 142)  
-Sum: 9,277 (Ranked 101)  
+Sum: 9,285 (Ranked 101)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -381,7 +381,7 @@ Diff (max vs sum): 41
 | This game is Highly Recommended | 1,122 |
 | This game is Educational | 1,062 |
 | This game is Relaxing | 1,047 |
-| This game has Competitive Players | 950 |
+| This game has Competitive Players | 958 |
 | This game has Quickly Understood Controls | 931 |
 | This game has Amazing Storytelling | 881 |
 | This game has Amazing Characters | 804 |
@@ -705,4 +705,4 @@ Diff (max vs sum): 41
 | 2024-01-05 | 4.76 | 1,349 | 9,236 |
 | 2024-01-06 | 4.76 | 1,349 | 9,257 |
 | 2024-01-07 | 4.76 | 1,353 | 9,273 |
-| 2024-01-08 | 4.76 | 1,353 | 9,277 |
+| 2024-01-08 | 4.76 | 1,353 | 9,285 |

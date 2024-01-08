@@ -8071,9 +8071,9 @@
       "Count": 3817
     }
   ],
-  "EOS_Progressed": 150235,
+  "EOS_Progressed": 150237,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1491,
+  "EOS_NewPlayers": 1489,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35821,6 +35821,11 @@
       "Time": "2024-01-08T06:08:04.541067+00:00",
       "NumProgressed": 150235,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-08T07:08:49.4648351+00:00",
+      "NumProgressed": 150237,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -36096,7 +36101,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10516
+      "UsersEstimate": 10517
     },
     {
       "ID": "craft02",
@@ -36208,7 +36213,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10516
+      "UsersEstimate": 10517
     },
     {
       "ID": "expansion02",
@@ -36608,7 +36613,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10516
+      "UsersEstimate": 10517
     },
     {
       "ID": "sell02",
@@ -36727,15 +36732,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150235,
+      "Progressed": 150237,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-08T04:03:16.7063067+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:08:04.5410662+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:08:49.4648348+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:03:03.7480333+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:08:04.5412674+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:03:23.8820073+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:08:49.4650714+00:00"
 }

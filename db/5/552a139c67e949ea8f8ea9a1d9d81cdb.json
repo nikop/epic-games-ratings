@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1893,
+  "EOS_Progressed": 1895,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4787,6 +4787,11 @@
       "Time": "2024-01-08T01:53:58.2163257+00:00",
       "NumProgressed": 1893,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T07:04:49.9157836+00:00",
+      "NumProgressed": 1895,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4815,7 +4820,7 @@
       "Name": "Out of control",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4869,9 +4874,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "5k00jcd",
       "Name": "Drift champ",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4943,7 +4948,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -5013,9 +5018,9 @@
       "ID": "ML_ACHIEVEMENT_28",
       "SetID": "5k00jcd",
       "Name": "Can you keep a secret?",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_29",
@@ -5055,7 +5060,7 @@
       "Name": "Spin the wheel",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5109,9 +5114,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -5125,9 +5130,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -5135,7 +5140,7 @@
       "Name": "Mission complete",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -5166,20 +5171,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1893,
+      "Progressed": 1895,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1561,
+      "Progressed": 1563,
       "Completed": 1009
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:04:30.31128+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:04:49.9157833+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:57:31.4860935+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:04:30.3113521+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:57:41.782179+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:04:49.9158497+00:00"
 }

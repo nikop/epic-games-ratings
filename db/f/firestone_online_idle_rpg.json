@@ -733,9 +733,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4305,
+  "EOS_Progressed": 4306,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12063,6 +12063,11 @@
       "Time": "2024-01-08T06:04:47.1018329+00:00",
       "NumProgressed": 4305,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T07:05:06.6231303+00:00",
+      "NumProgressed": 4306,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12168,9 +12173,9 @@
       "ID": "doingmypart",
       "SetID": "3nl4bcg",
       "Name": "Doing My Part",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 344
     },
     {
       "ID": "dragonclicker",
@@ -12282,7 +12287,7 @@
       "Name": "Full Party",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "gearenchanting",
@@ -12402,7 +12407,7 @@
       "Name": "Milestone collector",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "minerclicker",
@@ -12498,7 +12503,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "scrollmaster",
@@ -12634,7 +12639,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "warmachinesarmy",
@@ -12666,14 +12671,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4305,
+      "Progressed": 4306,
       "Completed": 2
     }
   ],
@@ -12681,8 +12686,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-07T17:59:46.9160266+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:04:47.1018323+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:05:06.6231298+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:59:45.7768705+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:04:47.1019641+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:59:49.7381132+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:05:06.6232532+00:00"
 }

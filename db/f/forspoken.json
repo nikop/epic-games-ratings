@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 999,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 126,
@@ -619,9 +619,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46756,
+  "EOS_Progressed": 46763,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18069,6 +18069,11 @@
       "Time": "2024-01-08T06:04:29.1994385+00:00",
       "NumProgressed": 46756,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T07:04:48.8349236+00:00",
+      "NumProgressed": 46763,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18128,7 +18133,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5611
+      "UsersEstimate": 5612
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18144,7 +18149,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -18232,7 +18237,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18240,7 +18245,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -18296,7 +18301,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -18320,7 +18325,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -18416,7 +18421,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5143
+      "UsersEstimate": 5144
     },
     {
       "ID": "SPRING_ALL",
@@ -18503,22 +18508,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46756,
+      "Progressed": 46763,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11593,
-      "Completed": 11593
+      "Progressed": 11600,
+      "Completed": 11600
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-07T05:02:53.6852275+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:04:29.1994379+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:04:48.8349231+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-08T06:02:48.0037473+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:04:29.1995402+00:00"
+  "LastUpdate_Ratings": "2024-01-08T07:03:08.1743776+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:04:48.8350474+00:00"
 }

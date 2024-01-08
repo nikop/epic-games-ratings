@@ -11,7 +11,7 @@
 | The Guardian | 29.00% | ~33 |
 | Chapter 4 Complete | 24.00% | ~28 |
 | Heavy Duty | 21.00% | ~24 |
-| Chapter 5 Complete | 19.00% | ~22 |
+| Chapter 5 Complete | 20.00% | ~23 |
 | Chapter 6 Complete | 18.00% | ~21 |
 | Plant Enchanter | 18.00% | ~21 |
 | The Truth | 18.00% | ~21 |

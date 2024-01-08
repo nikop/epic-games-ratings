@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -6451,9 +6451,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 265984,
+  "EOS_Progressed": 265986,
   "EOS_Completed": 943,
-  "EOS_NewPlayers": 2486,
+  "EOS_NewPlayers": 2474,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -35316,6 +35316,11 @@
       "Time": "2024-01-08T06:09:28.4942795+00:00",
       "NumProgressed": 265984,
       "NumCompleted": 943
+    },
+    {
+      "Time": "2024-01-08T07:10:11.2756955+00:00",
+      "NumProgressed": 265986,
+      "NumCompleted": 943
     }
   ],
   "TotalAchievements": 39,
@@ -35375,7 +35380,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 79795
+      "UsersEstimate": 79796
     },
     {
       "ID": "AchievementBoulderID",
@@ -35391,7 +35396,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 242045
+      "UsersEstimate": 242047
     },
     {
       "ID": "AchievementClownID",
@@ -35399,7 +35404,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 45217
+      "UsersEstimate": 45218
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -35455,7 +35460,7 @@
       "Name": "Goat Queen",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 138312
+      "UsersEstimate": 138313
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -35487,7 +35492,7 @@
       "Name": "Secret Society",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 117033
+      "UsersEstimate": 117034
     },
     {
       "ID": "AchievementIntroID",
@@ -35495,7 +35500,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 151611
+      "UsersEstimate": 151612
     },
     {
       "ID": "AchievementLootBoxID",
@@ -35527,7 +35532,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 98414
+      "UsersEstimate": 98415
     },
     {
       "ID": "AchievementRampID",
@@ -35559,7 +35564,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 194168
+      "UsersEstimate": 194170
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -35575,7 +35580,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 132992
+      "UsersEstimate": 132993
     },
     {
       "ID": "AchievementStreakingID",
@@ -35599,7 +35604,7 @@
       "Name": "Covert Consortium",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 143631
+      "UsersEstimate": 143632
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -35607,7 +35612,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 125012
+      "UsersEstimate": 125013
     },
     {
       "ID": "AchievementTrinketID",
@@ -35623,7 +35628,7 @@
       "Name": "Rogue Guild",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 170230
+      "UsersEstimate": 170231
     },
     {
       "ID": "AchievementWhaleID",
@@ -35638,7 +35643,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 265984,
+      "Progressed": 265986,
       "Completed": 943
     }
   ],
@@ -35646,8 +35651,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-08T04:57:18.7169584+00:00",
-  "LastChanged_Achievements": "2024-01-08T06:09:28.4942789+00:00",
+  "LastChanged_Achievements": "2024-01-08T07:10:11.2756952+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.5161451+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:57:12.1987785+00:00",
-  "LastUpdate_Achievements": "2024-01-08T06:09:28.4944616+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:57:23.4058752+00:00",
+  "LastUpdate_Achievements": "2024-01-08T07:10:11.2758398+00:00"
 }
