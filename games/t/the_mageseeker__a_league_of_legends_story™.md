@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.78 (Ranked 110)  
+Rating: 4.78 (Ranked 109)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,7 +12,7 @@ Rating: 4.78 (Ranked 110)
 | Dark Forest | 76.00% | ~2,551 |
 | The use of petricite | 73.00% | ~2,450 |
 | You can pet the dog | 60.00% | ~2,014 |
-| Thornbarrow | 43.00% | ~1,443 |
+| Thornbarrow | 44.00% | ~1,477 |
 | Big Helmet Bro | 41.00% | ~1,376 |
 | Clarion Cove | 41.00% | ~1,376 |
 | Ternmoat Headquarters | 39.00% | ~1,309 |

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,368 |
-| Off to a good start | 61.00% | ~1,680 |
-| Do... or do not. There is no try | 52.00% | ~1,432 |
+| New Recruit | 86.00% | ~2,369 |
+| Off to a good start | 61.00% | ~1,681 |
+| Do... or do not. There is no try | 52.00% | ~1,433 |
 | A good blaster at your side | 24.00% | ~661 |
 | I suggest a new strategy | 17.00% | ~468 |
 | Great shot, kid! | 16.00% | ~441 |
 | Scrap collector | 15.00% | ~413 |
 | All right, I'll give it a try | 14.00% | ~386 |
-| The power of the Force | 12.00% | ~330 |
-| Shoot first | 12.00% | ~330 |
+| The power of the Force | 12.00% | ~331 |
+| Shoot first | 12.00% | ~331 |
 | Collector | 11.00% | ~303 |
 | Together we can rule the galaxy | 11.00% | ~303 |
 | Tell Jabba that I've got his money | 8.00% | ~220 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,754 (Ranked 232)  
+Progressed: 2,755 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-05 | 2,649 | 1 |
 | 2024-01-06 | 2,690 | 1 |
 | 2024-01-07 | 2,750 | 1 |
-| 2024-01-08 | 2,754 | 1 |
+| 2024-01-08 | 2,755 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

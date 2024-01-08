@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 519,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -1492,6 +1492,11 @@
       "Time": "2024-01-07T20:06:52.6903645+00:00",
       "NumProgressed": 518,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T06:07:52.8934469+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1512,7 +1517,7 @@
       "Name": "Kronos Island Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND2",
@@ -1560,7 +1565,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1576,7 +1581,7 @@
       "Name": "Big Encounter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1600,7 +1605,7 @@
       "Name": "Celestial Rain",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1608,7 +1613,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1616,7 +1621,7 @@
       "Name": "Speed Demon",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1646,9 +1651,9 @@
       "ID": "KODAMA_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Koco Leader",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 93
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1672,7 +1677,7 @@
       "Name": "Futile Resistance",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1760,7 +1765,7 @@
       "Name": "Unrivaled Aptitude",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
@@ -1823,14 +1828,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 519,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:08:46.3482611+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:07:52.8934462+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:07.7248276+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:03:19.4020104+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:08:46.3483002+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:03:00.0754962+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:07:52.8934738+00:00"
 }

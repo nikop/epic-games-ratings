@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1707,9 +1707,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247194,
+  "EOS_Progressed": 247198,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1321,
+  "EOS_NewPlayers": 1320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25372,6 +25372,11 @@
       "Time": "2024-01-08T05:10:26.1878666+00:00",
       "NumProgressed": 247194,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-08T06:09:33.9617135+00:00",
+      "NumProgressed": 247198,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25783,7 +25788,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22247
+      "UsersEstimate": 22248
     },
     {
       "ID": "DwarfElf15Support",
@@ -25831,7 +25836,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88990
+      "UsersEstimate": 88991
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25879,7 +25884,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24719
+      "UsersEstimate": 24720
     },
     {
       "ID": "FollowBraztok",
@@ -26086,21 +26091,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247194,
+      "Progressed": 247198,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247194,
+      "Progressed": 247198,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-07T14:58:32.9313292+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:10:26.1878662+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:09:33.9617129+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:58:53.0387959+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:10:26.1880333+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:58:47.2720106+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:09:33.9619484+00:00"
 }

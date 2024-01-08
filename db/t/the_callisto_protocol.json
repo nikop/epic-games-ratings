@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 952,
   "Ranking_Popularity": 353,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2105,9 +2105,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 21641,
+  "EOS_Progressed": 21642,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1267,
+  "EOS_NewPlayers": 1263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13020,6 +13020,11 @@
       "Time": "2024-01-08T05:09:55.7722553+00:00",
       "NumProgressed": 21641,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-08T06:09:03.509836+00:00",
+      "NumProgressed": 21642,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13199,7 +13204,7 @@
       "Name": "Reforged",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3896
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13263,7 +13268,7 @@
       "Name": "Desperate Times",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4977
+      "UsersEstimate": 4978
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13406,13 +13411,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21641,
+      "Progressed": 21642,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9567,
+      "Progressed": 9568,
       "Completed": 29
     }
   ],
@@ -13420,8 +13425,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-07T22:03:22.0078905+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:09:55.7722548+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:09:03.509835+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:03:25.5699123+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:09:55.7723371+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:03:06.5908804+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:09:03.5099499+00:00"
 }

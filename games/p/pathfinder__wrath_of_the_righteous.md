@@ -1,16 +1,16 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 132)  
+Rating: 4.76 (Ranked 131)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,547 |
+| A Spark | 20.00% | ~2,627 |
 | Burning City | 19.00% | ~2,496 |
-| A Spark | 19.00% | ~2,496 |
 | Defender's Heart | 16.00% | ~2,102 |
-| Mythic Choices | 15.00% | ~1,970 |
+| Mythic Choices | 15.00% | ~1,971 |
 | Banner over the Citadel | 14.00% | ~1,839 |
 | Queen's Gratitude | 13.00% | ~1,708 |
 | Fifth Crusade | 9.00% | ~1,182 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,136 (Ranked 176)  
+Progressed: 13,137 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 13,058 | 0 |
 | 2024-01-06 | 13,092 | 0 |
 | 2024-01-07 | 13,129 | 0 |
-| 2024-01-08 | 13,136 | 0 |
+| 2024-01-08 | 13,137 | 0 |
 ## Awards
 Max (Character Customization): 1,778  (Ranked 129)  
 Sum: 7,203 (Ranked 126)  

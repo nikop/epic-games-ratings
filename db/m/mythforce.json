@@ -854,7 +854,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6198,
+  "EOS_Progressed": 6200,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 1,
@@ -12829,6 +12829,11 @@
       "Time": "2024-01-08T05:05:22.907357+00:00",
       "NumProgressed": 6198,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T06:05:08.7511795+00:00",
+      "NumProgressed": 6200,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12889,7 +12894,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12929,7 +12934,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12977,7 +12982,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13024,15 +13029,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6198,
+      "Progressed": 6200,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:05:22.9073565+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:05:08.7511791+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:02:55.505801+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:05:22.9074482+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:02:33.8730965+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:05:08.7512609+00:00"
 }

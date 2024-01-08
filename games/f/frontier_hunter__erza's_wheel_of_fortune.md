@@ -10,7 +10,7 @@ Rating: 4.38 (Ranked 791)
 | Kuku Bird Hunter | 65.00% | ~479 |
 | Storm Traveller | 60.00% | ~442 |
 | Wolf King Killer | 55.00% | ~405 |
-| Fashion Connoisseur | 52.00% | ~383 |
+| Fashion Connoisseur | 53.00% | ~391 |
 | Arms Mechanic | 49.00% | ~361 |
 | Flower Thief | 44.00% | ~324 |
 | Apostle of Flame | 39.00% | ~287 |
@@ -19,8 +19,8 @@ Rating: 4.38 (Ranked 791)
 | Seal Breaker | 32.00% | ~236 |
 | Handyman | 28.00% | ~206 |
 | Giant Lizard Killer | 27.00% | ~199 |
-| Guardian | 25.00% | ~184 |
-| Nosebleeder | 25.00% | ~184 |
+| Guardian | 26.00% | ~192 |
+| Nosebleeder | 26.00% | ~192 |
 | Trader | 22.00% | ~162 |
 | Weapon Boost | 21.00% | ~155 |
 | Flying Kobold Killer | 19.00% | ~140 |

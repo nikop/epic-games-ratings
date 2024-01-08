@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -73,7 +73,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2035,
+  "EOS_Progressed": 2037,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
@@ -3888,6 +3888,11 @@
       "Time": "2024-01-08T05:10:21.7262142+00:00",
       "NumProgressed": 2035,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T06:09:29.5118641+00:00",
+      "NumProgressed": 2037,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3899,7 +3904,7 @@
       "Name": "Break Out",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "ACH_02",
@@ -3907,7 +3912,7 @@
       "Name": "Find Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_03",
@@ -3931,7 +3936,7 @@
       "Name": "To Battle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_06",
@@ -3939,7 +3944,7 @@
       "Name": "Godslayer",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_07",
@@ -3955,7 +3960,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_09",
@@ -3971,7 +3976,7 @@
       "Name": "Trinity",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_11",
@@ -4003,7 +4008,7 @@
       "Name": "Airborne",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_15",
@@ -4035,7 +4040,7 @@
       "Name": "Shatter Them All",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_19",
@@ -4089,9 +4094,9 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH_26",
@@ -4099,7 +4104,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_27",
@@ -4115,7 +4120,7 @@
       "Name": "I Found It",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_29",
@@ -4147,7 +4152,7 @@
       "Name": "Miner",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_34",
@@ -4155,7 +4160,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_35",
@@ -4186,7 +4191,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2035,
+      "Progressed": 2037,
       "Completed": 3
     }
   ],
@@ -4194,8 +4199,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-07T14:58:41.4320028+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:10:21.7262137+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:09:29.5118635+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:59:05.536758+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:10:21.7262612+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:58:56.5503554+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:09:29.5119069+00:00"
 }

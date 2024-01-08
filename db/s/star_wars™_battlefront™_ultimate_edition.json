@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2754,
+  "EOS_Progressed": 2755,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7479,6 +7479,11 @@
       "Time": "2024-01-08T02:34:36.5472336+00:00",
       "NumProgressed": 2754,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T06:09:35.0709838+00:00",
+      "NumProgressed": 2755,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7563,7 +7568,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_19",
@@ -7715,7 +7720,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "achievement_36",
@@ -7731,7 +7736,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "achievement_38",
@@ -7763,7 +7768,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "achievement_41",
@@ -7843,7 +7848,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_50",
@@ -7994,13 +7999,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2754,
+      "Progressed": 2755,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2754,
+      "Progressed": 2755,
       "Completed": 1
     }
   ],
@@ -8008,8 +8013,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:10:27.8090919+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:09:35.0709834+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:58:11.379012+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:10:27.8091655+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:58:05.1113009+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:09:35.0710559+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "35d43f4f16d14dcfb5dc88e01a99c131",
   "Name": "WrestleQuest",
   "ProductSlug": "wrestlequest-324fb5",
-  "Ranking_EOS_Progress": 689,
+  "Ranking_EOS_Progress": 676,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 574,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-29T16:00:00+00:00",
     "PcReleaseDate": "2023-09-29T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2023-11-29T07:07:50.9472445+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T06:06:15.0384738+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-10T17:04:08.8462962+00:00",
@@ -62,7 +67,7 @@
       "ID": "AWiseManHasManyAdvisors",
       "SetID": "aopl79b",
       "Name": "A Wise Man Has Many Advisors",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -70,7 +75,7 @@
       "ID": "AllAboard",
       "SetID": "aopl79b",
       "Name": "All Aboard",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -126,7 +131,7 @@
       "ID": "BoxwoodsGoldenBoy",
       "SetID": "aopl79b",
       "Name": "Boxwood\u0027s Golden Boy",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -166,7 +171,7 @@
       "ID": "CainandAbel",
       "SetID": "aopl79b",
       "Name": "Cain and Abel",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -174,7 +179,7 @@
       "ID": "CaptainLouAlbano",
       "SetID": "aopl79b",
       "Name": "Captain Lou Albano",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -198,7 +203,7 @@
       "ID": "Chatterbox",
       "SetID": "aopl79b",
       "Name": "Chatterbox",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -238,7 +243,7 @@
       "ID": "DangerousMinds",
       "SetID": "aopl79b",
       "Name": "Dangerous Minds",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -246,7 +251,7 @@
       "ID": "DaveyBoySmith",
       "SetID": "aopl79b",
       "Name": "Davey Boy Smith",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -262,7 +267,7 @@
       "ID": "DownfortheThreeCount",
       "SetID": "aopl79b",
       "Name": "Down for the Three Count!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -278,7 +283,7 @@
       "ID": "DramaPrincess",
       "SetID": "aopl79b",
       "Name": "Drama Princess",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -302,7 +307,7 @@
       "ID": "FlyingFish",
       "SetID": "aopl79b",
       "Name": "Flying Fish",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -310,7 +315,7 @@
       "ID": "ForecastVictory",
       "SetID": "aopl79b",
       "Name": "Forecast? Victory.",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -334,7 +339,7 @@
       "ID": "Gossiper",
       "SetID": "aopl79b",
       "Name": "Gossiper",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -342,7 +347,7 @@
       "ID": "HighPower",
       "SetID": "aopl79b",
       "Name": "High Power",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -350,7 +355,7 @@
       "ID": "HoofPuck",
       "SetID": "aopl79b",
       "Name": "Hoof Puck",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -382,7 +387,7 @@
       "ID": "IamElectrified",
       "SetID": "aopl79b",
       "Name": "I am Electrified",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -390,7 +395,7 @@
       "ID": "IconicGearAfficianado",
       "SetID": "aopl79b",
       "Name": "Iconic Gear Aficionado",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -406,7 +411,7 @@
       "ID": "ImpeccableTiming",
       "SetID": "aopl79b",
       "Name": "Impeccable Timing",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -414,7 +419,7 @@
       "ID": "IronSights",
       "SetID": "aopl79b",
       "Name": "Iron Sights",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -446,7 +451,7 @@
       "ID": "JunkyardBrawl",
       "SetID": "aopl79b",
       "Name": "Junkyard Brawl",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -462,7 +467,7 @@
       "ID": "KokoBWare",
       "SetID": "aopl79b",
       "Name": "Koko B. Ware",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -470,7 +475,7 @@
       "ID": "LAPark",
       "SetID": "aopl79b",
       "Name": "L. A. Park",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -486,7 +491,7 @@
       "ID": "LadyV6",
       "SetID": "aopl79b",
       "Name": "Lady V6",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -494,7 +499,7 @@
       "ID": "LaserSight",
       "SetID": "aopl79b",
       "Name": "Laser Sight",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -502,7 +507,7 @@
       "ID": "LawoftheJungle",
       "SetID": "aopl79b",
       "Name": "Law of the Jungle",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -510,7 +515,7 @@
       "ID": "LittleSis",
       "SetID": "aopl79b",
       "Name": "Little Sis",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -574,7 +579,7 @@
       "ID": "Multikill",
       "SetID": "aopl79b",
       "Name": "Multikill!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -582,7 +587,7 @@
       "ID": "NailedIt",
       "SetID": "aopl79b",
       "Name": "Nailed It!",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -598,7 +603,7 @@
       "ID": "NoAgenda",
       "SetID": "aopl79b",
       "Name": "No Agenda",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -638,7 +643,7 @@
       "ID": "PMCPTSD",
       "SetID": "aopl79b",
       "Name": "PMC PTSD",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -654,7 +659,7 @@
       "ID": "Punked",
       "SetID": "aopl79b",
       "Name": "Punked",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -670,7 +675,7 @@
       "ID": "RareForm",
       "SetID": "aopl79b",
       "Name": "Rare Form",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -678,7 +683,7 @@
       "ID": "ReallyOK",
       "SetID": "aopl79b",
       "Name": "Really? OK...",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -718,7 +723,7 @@
       "ID": "SchoolsOut",
       "SetID": "aopl79b",
       "Name": "School\u0027s Out",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -726,7 +731,7 @@
       "ID": "SgtSlaughter",
       "SetID": "aopl79b",
       "Name": "Sgt. Slaughter",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -734,7 +739,7 @@
       "ID": "SharpDressedMan",
       "SetID": "aopl79b",
       "Name": "Sharp Dressed Man",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -766,7 +771,7 @@
       "ID": "SmackTalker",
       "SetID": "aopl79b",
       "Name": "Smack Talker",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -774,7 +779,7 @@
       "ID": "SniperScope",
       "SetID": "aopl79b",
       "Name": "Sniper Scope",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -782,7 +787,7 @@
       "ID": "Spike",
       "SetID": "aopl79b",
       "Name": "Spike!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -790,7 +795,7 @@
       "ID": "StillHungry",
       "SetID": "aopl79b",
       "Name": "Still Hungry?",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -798,7 +803,7 @@
       "ID": "Stylin",
       "SetID": "aopl79b",
       "Name": "Stylin\u0027 ...",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -806,7 +811,7 @@
       "ID": "SuckIt",
       "SetID": "aopl79b",
       "Name": "Suck It!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -822,7 +827,7 @@
       "ID": "SuperSleuth",
       "SetID": "aopl79b",
       "Name": "Super Sleuth",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -830,7 +835,7 @@
       "ID": "TagOnMyToe",
       "SetID": "aopl79b",
       "Name": "Tag On My Toe",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -854,7 +859,7 @@
       "ID": "Taps",
       "SetID": "aopl79b",
       "Name": "Taps",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -862,7 +867,7 @@
       "ID": "TempusSlimus",
       "SetID": "aopl79b",
       "Name": "Tempus Slimus",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -870,7 +875,7 @@
       "ID": "TheLCWChampionis",
       "SetID": "aopl79b",
       "Name": "The LCW Champion is...",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -878,7 +883,7 @@
       "ID": "TheThrillofVictory",
       "SetID": "aopl79b",
       "Name": "The Thrill of Victory",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -886,7 +891,7 @@
       "ID": "ThirdTimesaCharm",
       "SetID": "aopl79b",
       "Name": "Third Time\u0027s a Charm",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -902,7 +907,7 @@
       "ID": "TopplingTowers",
       "SetID": "aopl79b",
       "Name": "Toppling Towers",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -918,7 +923,7 @@
       "ID": "ToyCraftsman",
       "SetID": "aopl79b",
       "Name": "Toy Craftsman",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -934,7 +939,7 @@
       "ID": "ToysDontBleedonMyWatch",
       "SetID": "aopl79b",
       "Name": "Toys Don\u0027t Bleed on My Watch!",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -958,7 +963,7 @@
       "ID": "Vegedelic",
       "SetID": "aopl79b",
       "Name": "Vegedelic",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -990,7 +995,7 @@
       "ID": "Watchagonnado",
       "SetID": "aopl79b",
       "Name": "Watcha gonna do?",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -998,7 +1003,7 @@
       "ID": "Whatalunker",
       "SetID": "aopl79b",
       "Name": "What a lunker!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1031,14 +1036,14 @@
     {
       "ID": "aopl79b",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-30T06:58:30.8750394+00:00",
   "FirstSeenAchievements": "2023-09-27T20:03:04.5443053+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:08:28.5587292+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:06:15.0384732+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.249989+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:58:52.3064497+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:08:28.5588515+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:58:46.8877899+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:06:15.0386143+00:00"
 }

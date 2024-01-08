@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -619,9 +619,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46752,
+  "EOS_Progressed": 46756,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 824,
+  "EOS_NewPlayers": 823,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18064,6 +18064,11 @@
       "Time": "2024-01-08T05:04:43.968758+00:00",
       "NumProgressed": 46752,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T06:04:29.1994385+00:00",
+      "NumProgressed": 46756,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18123,7 +18128,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5610
+      "UsersEstimate": 5611
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18498,22 +18503,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46752,
+      "Progressed": 46756,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11589,
-      "Completed": 11589
+      "Progressed": 11593,
+      "Completed": 11593
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-07T05:02:53.6852275+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:04:43.9687575+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:04:29.1994379+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:03:07.5318763+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:04:43.9688766+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:02:48.0037473+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:04:29.1995402+00:00"
 }

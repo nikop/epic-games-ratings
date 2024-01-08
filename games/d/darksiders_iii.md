@@ -20,12 +20,12 @@ Number of Ratings: 116  (23.09.2022)
 | One Of the Chosen | 39.00% | ~192 |
 | Devil's in the Details | 39.00% | ~192 |
 | Throne Potato | 39.00% | ~192 |
-| 25 to Life | 38.00% | ~187 |
+| 25 to Life | 39.00% | ~192 |
 | Salvation | 37.00% | ~182 |
 | Unshakable Fortitude | 35.00% | ~173 |
 | Soul Harvester | 35.00% | ~173 |
+| Delusions of Grandeur | 34.00% | ~168 |
 | I Wanna Rock | 33.00% | ~163 |
-| Delusions of Grandeur | 33.00% | ~163 |
 | Love Tap | 32.00% | ~158 |
 | Maximum Vigor | 31.00% | ~153 |
 | For Whom the Bell Tolls | 29.00% | ~143 |

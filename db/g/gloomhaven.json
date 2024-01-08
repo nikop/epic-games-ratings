@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2823,10 +2823,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 8466,
       "NumberOfAwardsMax": 3616
+    },
+    {
+      "Time": "2024-01-08T05:58:29.0191864+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8467,
+      "NumberOfAwardsMax": 3616
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8466,
+  "NumberOfAwards": 8467,
   "NumberOfAwardsMax": 3616,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2870,7 +2876,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 494
+      "Count": 495
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2903,9 +2909,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 32138,
+  "EOS_Progressed": 32141,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1898,
+  "EOS_NewPlayers": 1897,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16153,6 +16159,11 @@
       "Time": "2024-01-08T05:09:51.1479895+00:00",
       "NumProgressed": 32138,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T06:08:58.9294235+00:00",
+      "NumProgressed": 32141,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -16333,7 +16344,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "Achievement_Trophy23",
@@ -16349,7 +16360,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 12534
+      "UsersEstimate": 12535
     },
     {
       "ID": "Achievement_Trophy25",
@@ -16365,7 +16376,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 10606
+      "UsersEstimate": 10607
     },
     {
       "ID": "Achievement_Trophy27",
@@ -16381,7 +16392,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 9963
+      "UsersEstimate": 9964
     },
     {
       "ID": "Achievement_Trophy29",
@@ -16397,7 +16408,7 @@
       "Name": "Spread the plague",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 8677
+      "UsersEstimate": 8678
     },
     {
       "ID": "Achievement_Trophy31",
@@ -16405,7 +16416,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 9320
+      "UsersEstimate": 9321
     },
     {
       "ID": "Achievement_Trophy32",
@@ -16453,7 +16464,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7713
+      "UsersEstimate": 7714
     },
     {
       "ID": "Achievement_Trophy38",
@@ -16461,7 +16472,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "Achievement_Trophy39",
@@ -16469,7 +16480,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 6106
+      "UsersEstimate": 6107
     },
     {
       "ID": "Achievement_Trophy40",
@@ -16549,7 +16560,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4499
+      "UsersEstimate": 4500
     },
     {
       "ID": "Achievement_Trophy50",
@@ -16652,16 +16663,16 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 32138,
+      "Progressed": 32141,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
-  "LastChanged": "2024-01-08T02:59:02.5151294+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:09:51.1479891+00:00",
+  "LastChanged": "2024-01-08T05:58:29.0191862+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:08:58.929423+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:15.8559862+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:58:35.0615882+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:09:51.148075+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:58:29.0191867+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:08:58.9295457+00:00"
 }

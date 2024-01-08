@@ -1,17 +1,17 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 953)  
+Rating: 4.21 (Ranked 952)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 25.00% | ~5,410 |
 | The Outer Way | 25.00% | ~5,410 |
-| Desperate Times | 23.00% | ~4,977 |
+| Desperate Times | 23.00% | ~4,978 |
 | Get a Grip | 21.00% | ~4,545 |
 | Paper Jams | 21.00% | ~4,545 |
 | Chew 'Em Up | 19.00% | ~4,112 |
-| Reforged | 18.00% | ~3,895 |
+| Reforged | 18.00% | ~3,896 |
 | Float Like A Butterfly | 17.00% | ~3,679 |
 | Workplace Hazard | 15.00% | ~3,246 |
 | If the SHU Fits... | 15.00% | ~3,246 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 953)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,641 (Ranked 151)  
+Progressed: 21,642 (Ranked 151)  
 Completed: 82 (0.38%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 82 (0.38%) (Ranked 241)
 | 2024-01-05 | 21,186 | 82 |
 | 2024-01-06 | 21,389 | 82 |
 | 2024-01-07 | 21,615 | 82 |
-| 2024-01-08 | 21,641 | 82 |
+| 2024-01-08 | 21,642 | 82 |
 ## Awards
 Max (Amazing Characters): 126  (Ranked 353)  
 Sum: 603 (Ranked 324)  

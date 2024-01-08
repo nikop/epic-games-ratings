@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -339,7 +339,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202802,
+  "EOS_Progressed": 202805,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
@@ -27989,6 +27989,11 @@
       "Time": "2024-01-08T04:06:37.28863+00:00",
       "NumProgressed": 202802,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T06:07:40.7124831+00:00",
+      "NumProgressed": 202805,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -28008,7 +28013,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 143989
+      "UsersEstimate": 143992
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -28032,7 +28037,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 36504
+      "UsersEstimate": 36505
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -28127,7 +28132,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 202802,
+      "Progressed": 202805,
       "Completed": 4
     }
   ],
@@ -28135,8 +28140,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-12-30T17:59:44.6565075+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:08:34.322357+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:07:40.7124826+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:02.6553104+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:59:53.8060183+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:08:34.3224879+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:59:48.2657189+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:07:40.7126371+00:00"
 }

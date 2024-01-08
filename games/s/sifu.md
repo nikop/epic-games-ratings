@@ -6,13 +6,13 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,416 |
-| Life is your teacher | 5.00% | ~37,847 |
-| The Assault | 4.00% | ~30,278 |
-| Lightning Hands | 4.00% | ~30,278 |
-| The Hateful Pole Fighter | 3.00% | ~22,708 |
-| State of constant learning | 3.00% | ~22,708 |
-| Old Child | 3.00% | ~22,708 |
+| The Old Grandmaster | 6.00% | ~45,418 |
+| Life is your teacher | 5.00% | ~37,848 |
+| The Assault | 4.00% | ~30,279 |
+| Lightning Hands | 4.00% | ~30,279 |
+| The Hateful Pole Fighter | 3.00% | ~22,709 |
+| State of constant learning | 3.00% | ~22,709 |
+| Old Child | 3.00% | ~22,709 |
 | A Lady's Blood in the Snow | 2.00% | ~15,139 |
 | Lady Wing Chun | 2.00% | ~15,139 |
 | Kill Nil | 2.00% | ~15,139 |
@@ -24,20 +24,20 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,139 |
 | Rumble in the Hangar | 2.00% | ~15,139 |
 | Diligence as a goal | 2.00% | ~1,325 |
-| Furious Fists | 1.00% | ~7,569 |
-| Scareless | 1.00% | ~7,569 |
-| Dance of the Praying Mantis | 1.00% | ~7,569 |
-| Qi Gong: Mind | 1.00% | ~7,569 |
-| Kung-Fu Tussle | 1.00% | ~7,569 |
-| Take damage to save time | 1.00% | ~7,569 |
-| Project Arena | 1.00% | ~662 |
+| Furious Fists | 1.00% | ~7,570 |
+| Scareless | 1.00% | ~7,570 |
+| Dance of the Praying Mantis | 1.00% | ~7,570 |
+| Qi Gong: Mind | 1.00% | ~7,570 |
+| Kung-Fu Tussle | 1.00% | ~7,570 |
+| Take damage to save time | 1.00% | ~7,570 |
+| Project Arena | 1.00% | ~663 |
 | Fight the way you practice | 0.80% | ~530 |
 | Muk Yan Master | 0.70% | ~5,299 |
 | Tiger on Fire | 0.60% | ~4,542 |
 | Source of Flying Daggers | 0.60% | ~4,542 |
 | Detective Story | 0.60% | ~4,542 |
-| Bloody Sport | 0.60% | ~397 |
-| Martial Hub | 0.60% | ~397 |
+| Bloody Sport | 0.60% | ~398 |
+| Martial Hub | 0.60% | ~398 |
 | Iron Money | 0.50% | ~3,785 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,785 |
 | Prodigal Child | 0.50% | ~3,785 |
@@ -55,11 +55,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.20% | ~1,514 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,514 |
 | Be like water my friend | 0.20% | ~1,514 |
-| Secure, Protect, Leave | 0.20% | ~132 |
-| Crouching Tiger | 0.20% | ~132 |
-| Skill and an even stronger will | 0.20% | ~132 |
-| Master of the Flying Assassins | 0.20% | ~132 |
-| Beatmaker | 0.20% | ~132 |
+| Secure, Protect, Leave | 0.20% | ~133 |
+| Crouching Tiger | 0.20% | ~133 |
+| Skill and an even stronger will | 0.20% | ~133 |
+| Master of the Flying Assassins | 0.20% | ~133 |
+| Beatmaker | 0.20% | ~133 |
 | Warriors from the Mountain | 0.10% | ~757 |
 | Hidden Dragon | 0.10% | ~66 |
 | Here Cometh the Iceman | 0.10% | ~66 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~66 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756,939 (Ranked 25)  
-Completed: 12,978 (1.71%) (Ranked 142)  
+Progressed: 756,964 (Ranked 25)  
+Completed: 12,979 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,7 +330,7 @@ Completed: 12,978 (1.71%) (Ranked 142)
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
 | 2024-01-07 | 756,813 | 12,976 |
-| 2024-01-08 | 756,939 | 12,978 |
+| 2024-01-08 | 756,964 | 12,979 |
 ## Awards
 Max (Great Boss Battles): 7,148  (Ranked 56)  
 Sum: 12,638 (Ranked 85)  

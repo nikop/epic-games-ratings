@@ -6,17 +6,17 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~12,534 |
-| Overkill | 33.00% | ~10,606 |
-| Vaccine Incoming | 31.00% | ~9,963 |
-| A normal day in Gloomhaven | 29.00% | ~9,320 |
-| Spread the plague | 27.00% | ~8,677 |
-| Get over here! | 24.00% | ~7,713 |
-| Just when I thought I was out... | 19.00% | ~6,106 |
-| Precious! | 16.00% | ~5,142 |
-| Mine... All Mine... | 16.00% | ~5,142 |
+| I'm not dead yet | 39.00% | ~12,535 |
+| Overkill | 33.00% | ~10,607 |
+| Vaccine Incoming | 31.00% | ~9,964 |
+| A normal day in Gloomhaven | 29.00% | ~9,321 |
+| Spread the plague | 27.00% | ~8,678 |
+| Get over here! | 24.00% | ~7,714 |
+| Just when I thought I was out... | 19.00% | ~6,107 |
+| Precious! | 16.00% | ~5,143 |
+| Mine... All Mine... | 16.00% | ~5,143 |
 | Grizzled veteran | 15.00% | ~4,821 |
-| Anatomy Lesson | 14.00% | ~4,499 |
+| Anatomy Lesson | 14.00% | ~4,500 |
 | Light of my life | 13.00% | ~4,178 |
 | Who's the Boss? | 12.00% | ~3,857 |
 | You activated my trap card! | 12.00% | ~3,857 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~32 |
 | Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,138 (Ranked 140)  
+Progressed: 32,141 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,10 +185,10 @@ Completed: 1 (0.00%) (Ranked 394)
 | 2024-01-05 | 31,403 | 1 |
 | 2024-01-06 | 31,749 | 1 |
 | 2024-01-07 | 32,091 | 1 |
-| 2024-01-08 | 32,138 | 1 |
+| 2024-01-08 | 32,141 | 1 |
 ## Awards
 Max (Character Customization): 3,616  (Ranked 94)  
-Sum: 8,466 (Ranked 107)  
+Sum: 8,467 (Ranked 107)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -197,7 +197,7 @@ Diff (max vs sum): -13
 | This game has Challenging Combat | 557 |
 | This game is Highly Recommended | 553 |
 | This game is Extremely Fun | 551 |
-| This game is Relaxing | 494 |
+| This game is Relaxing | 495 |
 | This game has Amazing Characters | 494 |
 | This game has Quickly Understood Controls | 493 |
 | This game has Amazing Storytelling | 492 |
@@ -466,4 +466,4 @@ Diff (max vs sum): -13
 | 2024-01-04 | 4.47 | - | 3,615 | 8,462 |
 | 2024-01-05 | 4.47 | - | 3,615 | 8,463 |
 | 2024-01-06 | 4.47 | - | 3,616 | 8,465 |
-| 2024-01-08 | 4.47 | - | 3,616 | 8,466 |
+| 2024-01-08 | 4.47 | - | 3,616 | 8,467 |

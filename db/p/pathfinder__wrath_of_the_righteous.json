@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 132,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4853,9 +4853,9 @@
       "Count": 406
     }
   ],
-  "EOS_Progressed": 13136,
+  "EOS_Progressed": 13137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19238,6 +19238,11 @@
       "Time": "2024-01-08T04:10:11.9354456+00:00",
       "NumProgressed": 13136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T06:09:36.2454676+00:00",
+      "NumProgressed": 13137,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19385,7 +19390,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "19_EqualToAroden",
@@ -19615,9 +19620,9 @@
       "ID": "48_Spark",
       "SetID": "989of5o",
       "Name": "A Spark",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2627
     },
     {
       "ID": "49_Flame",
@@ -20176,21 +20181,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11918,
+      "Progressed": 11919,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13136,
+      "Progressed": 13137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-08T03:59:35.2778283+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:10:29.02376+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:09:36.2454671+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:59:39.6746432+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:10:29.0239216+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:59:33.0461585+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:09:36.2456342+00:00"
 }

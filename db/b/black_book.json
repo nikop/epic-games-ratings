@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 65830,
+  "EOS_Progressed": 65831,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 1771,
+  "EOS_NewPlayers": 1757,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16126,6 +16126,11 @@
       "Time": "2024-01-08T05:06:14.5196088+00:00",
       "NumProgressed": 65830,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2024-01-08T06:06:01.7933659+00:00",
+      "NumProgressed": 65831,
+      "NumCompleted": 68
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16458,7 +16463,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9874
+      "UsersEstimate": 9875
     },
     {
       "ID": "TALES_2",
@@ -16537,15 +16542,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 65830,
+      "Progressed": 65831,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:06:14.5196085+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:06:01.7933654+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:33.7261793+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:02:49.7943618+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:06:14.5197099+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:02:27.7522647+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:06:01.7934775+00:00"
 }

@@ -2305,9 +2305,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 18917,
+  "EOS_Progressed": 18919,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1096,
+  "EOS_NewPlayers": 1092,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -19500,6 +19500,11 @@
       "Time": "2024-01-08T05:10:17.5420675+00:00",
       "NumProgressed": 18917,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-08T06:09:25.6288153+00:00",
+      "NumProgressed": 18919,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19511,7 +19516,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15323
+      "UsersEstimate": 15324
     },
     {
       "ID": "ACH02",
@@ -19559,7 +19564,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3594
+      "UsersEstimate": 3595
     },
     {
       "ID": "ACH08",
@@ -19567,7 +19572,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9458
+      "UsersEstimate": 9460
     },
     {
       "ID": "ACH09",
@@ -19679,7 +19684,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "ACH23",
@@ -19687,7 +19692,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4729
+      "UsersEstimate": 4730
     },
     {
       "ID": "ACH24",
@@ -19727,7 +19732,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "ACH29",
@@ -19790,7 +19795,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18917,
+      "Progressed": 18919,
       "Completed": 75
     }
   ],
@@ -19798,8 +19803,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-07T11:59:13.9399306+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:10:17.5420672+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:09:25.6288147+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:59:58.4649108+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:10:17.5421648+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:59:53.1757658+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:09:25.6289314+00:00"
 }

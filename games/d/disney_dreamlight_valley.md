@@ -1,7 +1,7 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 132)  
+Rating: 4.76 (Ranked 131)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Photographer | 67.00% | ~9,334 |
 | Valley's Helper | 59.00% | ~8,219 |
 | Constructor | 50.00% | ~6,966 |
-| Renovator | 49.00% | ~6,826 |
+| Renovator | 50.00% | ~6,966 |
 | Bestest Friend | 44.00% | ~6,130 |
 | Banker | 38.00% | ~5,294 |
 | Gardener | 30.00% | ~4,179 |

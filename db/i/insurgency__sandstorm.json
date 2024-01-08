@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4750,9 +4750,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 521632,
+  "EOS_Progressed": 521648,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5164,
+  "EOS_NewPlayers": 5154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34955,6 +34955,11 @@
       "Time": "2024-01-08T05:04:25.8982019+00:00",
       "NumProgressed": 521632,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T06:04:10.5400225+00:00",
+      "NumProgressed": 521648,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -35022,7 +35027,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20865
+      "UsersEstimate": 20866
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -35070,7 +35075,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20865
+      "UsersEstimate": 20866
     },
     {
       "ID": "ACH_JR_50",
@@ -35190,7 +35195,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3651
+      "UsersEstimate": 3652
     },
     {
       "ID": "ACH_STYLING",
@@ -35238,22 +35243,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20865
+      "UsersEstimate": 20866
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 521632,
+      "Progressed": 521648,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2024-01-08T04:57:27.3905469+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:04:25.8982015+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:04:10.5400144+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.2421506+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:57:27.3905476+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:04:25.8983823+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:57:22.1351906+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:04:10.54025+00:00"
 }

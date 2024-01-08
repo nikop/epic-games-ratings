@@ -5,41 +5,41 @@ Rating: 3.75 (Ranked 1,089)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~380 |
+| I can do a thing or two | 60.00% | ~381 |
 | Buckle up | 58.00% | ~368 |
 | Quick charge | 58.00% | ~368 |
 | Hands up! | 52.00% | ~330 |
 | Now you know | 52.00% | ~330 |
 | Short circuit | 52.00% | ~330 |
-| Curious | 42.00% | ~266 |
-| Everybody lies | 36.00% | ~228 |
+| Curious | 42.00% | ~267 |
+| Everybody lies | 36.00% | ~229 |
 | Trick or Treat? | 23.00% | ~146 |
-| There is another way | 22.00% | ~139 |
+| There is another way | 22.00% | ~140 |
 | Sysadmin | 21.00% | ~133 |
 | Every little helps | 20.00% | ~127 |
-| Annoying | 19.00% | ~120 |
-| Hacker | 19.00% | ~120 |
-| He is just a child | 19.00% | ~120 |
-| The Walking Robot Among Us | 19.00% | ~120 |
+| Annoying | 19.00% | ~121 |
+| Hacker | 19.00% | ~121 |
+| He is just a child | 19.00% | ~121 |
+| The Walking Robot Among Us | 19.00% | ~121 |
 | Goody | 17.00% | ~108 |
 | Not what it seems | 17.00% | ~108 |
 | Uncertain | 17.00% | ~108 |
-| Ace | 16.00% | ~101 |
-| Concrete painting | 16.00% | ~101 |
-| Found it! | 16.00% | ~101 |
-| Please oh pleeease! | 16.00% | ~101 |
-| That's much better! | 16.00% | ~101 |
+| Ace | 16.00% | ~102 |
+| Concrete painting | 16.00% | ~102 |
+| Found it! | 16.00% | ~102 |
+| Please oh pleeease! | 16.00% | ~102 |
+| That's much better! | 16.00% | ~102 |
 | Hipster | 15.00% | ~95 |
-| Not as clumsy or random | 13.00% | ~82 |
-| Blade Runner | 10.00% | ~63 |
+| Not as clumsy or random | 13.00% | ~83 |
+| Blade Runner | 10.00% | ~64 |
 | Perfect hearing | 9.00% | ~57 |
 | Meticulous | 7.00% | ~44 |
 | Lucky dog | 5.00% | ~32 |
 | Accurate | 5.00% | ~32 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 634 (Ranked 336)  
-Completed: 19 (3.00%) (Ranked 109)  
+Progressed: 635 (Ranked 336)  
+Completed: 19 (2.99%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -184,7 +184,7 @@ Completed: 19 (3.00%) (Ranked 109)
 | 2024-01-03 | 627 | 19 |
 | 2024-01-05 | 629 | 19 |
 | 2024-01-06 | 632 | 19 |
-| 2024-01-08 | 634 | 19 |
+| 2024-01-08 | 635 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

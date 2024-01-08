@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -381,9 +381,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2307,
+  "EOS_Progressed": 2308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4196,6 +4196,11 @@
       "Time": "2024-01-08T04:05:09.7511555+00:00",
       "NumProgressed": 2307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T06:05:02.5002942+00:00",
+      "NumProgressed": 2308,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4343,7 +4348,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Achievement_020",
@@ -4391,7 +4396,7 @@
       "Name": "Grounded",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Achievement_026",
@@ -4485,9 +4490,9 @@
       "ID": "Achievement_037",
       "SetID": "6b34g18",
       "Name": "Sisterhood",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_038",
@@ -4509,9 +4514,9 @@
       "ID": "Achievement_040",
       "SetID": "6b34g18",
       "Name": "Heart Attack",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 208
     },
     {
       "ID": "Achievement_041",
@@ -4541,9 +4546,9 @@
       "ID": "Achievement_045",
       "SetID": "6b34g18",
       "Name": "Skin of Their Teeth",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 185
     },
     {
       "ID": "Achievement_046",
@@ -4677,9 +4682,9 @@
       "ID": "Achievement_064",
       "SetID": "6b34g18",
       "Name": "Good Samaritan",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_065",
@@ -4734,7 +4739,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2307,
+      "Progressed": 2308,
       "Completed": 0
     }
   ],
@@ -4742,8 +4747,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:05:16.8577227+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:05:02.5002935+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:59:22.635719+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:05:16.8578071+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:59:15.6680079+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:05:02.5004017+00:00"
 }

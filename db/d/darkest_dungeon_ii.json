@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10644,9 +10644,9 @@
       "Count": 1084
     }
   ],
-  "EOS_Progressed": 132135,
+  "EOS_Progressed": 132137,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1077,
+  "EOS_NewPlayers": 1068,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38864,6 +38864,11 @@
       "Time": "2024-01-08T05:10:04.1873355+00:00",
       "NumProgressed": 132135,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T06:09:12.2180031+00:00",
+      "NumProgressed": 132137,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39025,9 +39030,9 @@
       "ID": "combat_kill_death",
       "SetID": "64l4lke",
       "Name": "Not Today!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5285
+      "UsersEstimate": 6607
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39227,7 +39232,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9249
+      "UsersEstimate": 9250
     },
     {
       "ID": "hero_story_complete_all",
@@ -39506,21 +39511,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132135,
+      "Progressed": 132137,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7004,
+      "Progressed": 7006,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-08T04:57:57.0067761+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:10:04.187335+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:09:12.2180022+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:57:57.0067766+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:10:04.1875075+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:57:49.9442524+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:09:12.2182442+00:00"
 }

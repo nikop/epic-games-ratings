@@ -2,13 +2,13 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 132,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -24775,9 +24775,9 @@
       "ID": "Renovator",
       "SetID": "chapdi4",
       "Name": "Renovator",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 6826
+      "UsersEstimate": 6966
     },
     {
       "ID": "Thorn_Cleaner",
@@ -24808,8 +24808,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-08T03:58:25.0751252+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:09:29.7700754+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:08:36.8791641+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.1438624+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:58:22.8309563+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:09:29.7701629+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:58:16.7911196+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:08:36.8792851+00:00"
 }

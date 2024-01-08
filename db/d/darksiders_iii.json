@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 493,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -2207,9 +2207,9 @@
       "ID": "Kill_Sin_Lust",
       "SetID": "7a5k76n",
       "Name": "Delusions of Grandeur",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 168
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -2303,9 +2303,9 @@
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 192
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2359,8 +2359,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:03:39.4743554+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:03:22.90448+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-08T05:00:25.9087874+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:03:39.4744141+00:00"
+  "LastUpdate_Ratings": "2024-01-08T06:00:15.6007637+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:03:22.9045654+00:00"
 }

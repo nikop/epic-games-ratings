@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -293,9 +293,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 10660,
+  "EOS_Progressed": 10664,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1423,
+  "EOS_NewPlayers": 1417,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4068,6 +4068,11 @@
       "Time": "2024-01-08T05:10:16.503866+00:00",
       "NumProgressed": 10660,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T06:09:24.6114083+00:00",
+      "NumProgressed": 10664,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4104,7 +4109,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4200,7 +4205,7 @@
       "Name": "Exemplar",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -4240,7 +4245,7 @@
       "Name": "Perfect Timing",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "23_DynastyRestored",
@@ -4288,7 +4293,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4398,9 +4403,9 @@
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 640
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4464,7 +4469,7 @@
       "Name": "Whodunit?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -4599,7 +4604,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10660,
+      "Progressed": 10664,
       "Completed": 1
     }
   ],
@@ -4607,8 +4612,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-07T07:57:26.3541054+00:00",
-  "LastChanged_Achievements": "2024-01-08T05:10:16.5038654+00:00",
+  "LastChanged_Achievements": "2024-01-08T06:09:24.611408+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:57:40.5204359+00:00",
-  "LastUpdate_Achievements": "2024-01-08T05:10:16.5039357+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:57:35.9331755+00:00",
+  "LastUpdate_Achievements": "2024-01-08T06:09:24.6114635+00:00"
 }
