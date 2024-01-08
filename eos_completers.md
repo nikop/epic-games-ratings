@@ -6,7 +6,7 @@
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.19% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
-| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 41.42% |
+| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 41.84% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.89% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.67% |
@@ -41,7 +41,7 @@
 | 39 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 40 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.24% |
 | 41 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
-| 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.61% |
+| 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.59% |
 | 43 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.19% |
 | 45 | [Smelter](games/s/smelter.md) | 8.51% |
@@ -57,9 +57,9 @@
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.44% |
 | 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.35% |
-| 58 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.05% |
-| 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.04% |
-| 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.03% |
+| 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.04% |
+| 59 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.03% |
+| 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.03% |
 | 61 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.97% |
 | 62 | [Scorn](games/s/scorn.md) | 6.89% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
@@ -83,7 +83,7 @@
 | 80 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.55% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.48% |
 | 83 | [JARS](games/j/jars.md) | 4.42% |
-| 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.41% |
+| 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
 | 85 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
 | 85 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.26% |
 | 87 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.23% |
@@ -92,7 +92,7 @@
 | 89 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 91 | [The Bunker](games/t/the_bunker.md) | 4.05% |
 | 92 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.85% |
-| 93 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.80% |
+| 93 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.75% |
 | 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.73% |
 | 95 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.65% |
 | 95 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.65% |
@@ -151,8 +151,8 @@
 | 149 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.47% |
 | 150 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.43% |
-| 152 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.35% |
-| 153 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.34% |
+| 152 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.34% |
+| 153 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.33% |
 | 154 | [Late Shift](games/l/late_shift.md) | 1.30% |
 | 155 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
 | 156 | [Chorus](games/c/chorus.md) | 1.28% |
