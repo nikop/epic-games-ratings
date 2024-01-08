@@ -24,7 +24,7 @@
 | 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
 | 23 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 25 | [The Riflemen](games/t/the_riflemen.md) | 17.54% |
+| 25 | [The Riflemen](games/t/the_riflemen.md) | 17.53% |
 | 26 | [Island Cities](games/i/island_cities.md) | 16.90% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 27 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 16.67% |
@@ -58,9 +58,9 @@
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.44% |
 | 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.35% |
 | 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.04% |
-| 59 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.03% |
 | 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.03% |
-| 61 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.97% |
+| 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.02% |
+| 61 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.96% |
 | 62 | [Scorn](games/s/scorn.md) | 6.89% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 63 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
@@ -133,7 +133,7 @@
 | 131 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
 | 132 | [Night Book](games/n/night_book.md) | 2.27% |
 | 132 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.27% |
-| 134 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
+| 134 | [Bloodshore](games/b/bloodshore.md) | 2.20% |
 | 135 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.13% |
 | 135 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2.13% |
 | 137 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.98% |
@@ -141,8 +141,8 @@
 | 139 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 140 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 141 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
+| 142 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.71% |
 | 142 | [Sifu](games/s/sifu.md) | 1.71% |
-| 143 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.70% |
 | 144 | [Frogun](games/f/frogun.md) | 1.68% |
 | 145 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.64% |
 | 146 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.62% |
@@ -178,9 +178,9 @@
 | 176 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
 | 177 | [Colossal Cave](games/c/colossal_cave.md) | 0.95% |
 | 177 | [Trifox](games/t/trifox.md) | 0.95% |
-| 179 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.94% |
 | 179 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.94% |
-| 181 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
+| 180 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.93% |
+| 180 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
 | 182 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.92% |
 | 183 | [Hades](games/h/hades.md) | 0.91% |
 | 183 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.91% |
@@ -234,11 +234,11 @@
 | 232 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
 | 232 | [Wildermyth](games/w/wildermyth.md) | 0.44% |
 | 234 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
-| 235 | [Darksiders III](games/d/darksiders_iii.md) | 0.41% |
 | 235 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.41% |
-| 237 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
-| 237 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.40% |
-| 237 | [Tchia](games/t/tchia.md) | 0.40% |
+| 236 | [Darksiders III](games/d/darksiders_iii.md) | 0.40% |
+| 236 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
+| 236 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.40% |
+| 236 | [Tchia](games/t/tchia.md) | 0.40% |
 | 240 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.39% |
 | 241 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
 | 242 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
