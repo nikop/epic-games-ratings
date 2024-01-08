@@ -3,9 +3,9 @@
   "Name": "Choice Clash: What Would you Rather?",
   "ProductSlug": "choice-clash-what-would-you-rather-b75cac",
   "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2024-01-05T19:00:00+00:00",
     "PcReleaseDate": "2023-11-27T09:00:00+00:00",
@@ -23,10 +23,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 55,
-  "EOS_Completed": 9,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 54,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 16.36,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 18.18,
   "EosHistory": [
     {
       "Time": "2023-12-29T00:03:26.1784855+00:00",
@@ -227,6 +227,11 @@
       "Time": "2024-01-08T14:04:21.6802932+00:00",
       "NumProgressed": 55,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-08T15:05:12.9540104+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-28T16:03:50.3768399+00:00",
@@ -261,9 +266,9 @@
       "ID": "INDECISION_BUSTER",
       "SetID": "58oggg1",
       "Name": "Indecision Buster",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "INFLUENTIAL_THINKER",
@@ -301,17 +306,17 @@
       "ID": "THE_BALANCED",
       "SetID": "58oggg1",
       "Name": "The Balanced",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "THE_DECIDER",
       "SetID": "58oggg1",
       "Name": "The Decider",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "THE_PERSUADER",
@@ -333,9 +338,9 @@
       "ID": "WORLD_CHOOSING_CHAMPION",
       "SetID": "58oggg1",
       "Name": "World Choosing Champion",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "_CURIOUS_EXPLORER",
@@ -351,12 +356,12 @@
       "ID": "58oggg1",
       "IsBase": true,
       "Progressed": 55,
-      "Completed": 9
+      "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-12-28T04:04:09.7511505+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:04:21.6802927+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:05:12.95401+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.4558901+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:59:07.7459798+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:04:21.6803045+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:59:56.1964312+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:05:12.9540293+00:00"
 }

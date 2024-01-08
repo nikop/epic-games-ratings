@@ -124,9 +124,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "4mjb15",
       "Name": "A Fool to the World",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -260,9 +260,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "4mjb15",
       "Name": "Get a Friend, Get a Sword",
-      "Percentage": 42,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -300,9 +300,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "4mjb15",
       "Name": "Barking up the Wrong Tree",
-      "Percentage": 42,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -331,8 +331,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:10:08.5582222+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:10:47.6997658+00:00",
   "LastUpdate_AppInfo": "2024-01-05T22:58:52.5128387+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:57:22.3204271+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:10:08.5582476+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:57:20.0825302+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:10:47.6997779+00:00"
 }

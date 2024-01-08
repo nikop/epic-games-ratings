@@ -2,12 +2,12 @@
   "ID": "ffa7b0821b4142d5873ecb0528715003",
   "Name": "Supraland Six Inches Under",
   "ProductSlug": "supraland-six-inches-under-dd0220",
-  "Ranking_Rating": 146,
+  "Ranking_Rating": 147,
   "Ranking_Popularity": 366,
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -438,7 +438,7 @@
   ],
   "EOS_Progressed": 2424,
   "EOS_Completed": 295,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 12.17,
   "EosHistory": [
@@ -3132,9 +3132,9 @@
       "ID": "PickaxeDiamond",
       "SetID": "5lok9mm",
       "Name": "Diamond Pickaxe",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1866
     },
     {
       "ID": "PickaxeGuy",
@@ -3292,8 +3292,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2024-01-07T01:53:44.9453277+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:05:44.1130989+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:07:08.0371511+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:36.8093003+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:59:30.7776766+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:05:44.113146+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:00:30.3559986+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:07:08.0371991+00:00"
 }

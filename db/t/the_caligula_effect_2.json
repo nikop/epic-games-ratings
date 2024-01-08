@@ -6,8 +6,8 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -540,9 +540,9 @@
       "ID": "ACH_42",
       "SetID": "2eg5kgc",
       "Name": "Coup de Grace",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_43",
@@ -612,8 +612,8 @@
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:10:11.5059352+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:10:51.6571114+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:27.4625377+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:59:01.7510021+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:10:11.5059696+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:59:48.1231202+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:10:51.6571576+00:00"
 }

@@ -31,14 +31,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~162 |
 | Ambitious | 0.90% | ~146 |
 | Enlightened | 0.90% | ~146 |
+| Fountainhead | 0.90% | ~146 |
 | Glorious | 0.90% | ~146 |
 | Warrior | 0.90% | ~146 |
 | Developing Cities | 0.90% | ~146 |
 | Strong Cities | 0.90% | ~146 |
 | Babylonian Paganism | 0.90% | ~146 |
 | Brilliant | 0.80% | ~130 |
-| Fountainhead | 0.80% | ~130 |
 | Magnificent | 0.80% | ~130 |
+| Great Ziggurat | 0.80% | ~130 |
 | Ishtar Gate | 0.80% | ~130 |
 | Lighthouse | 0.80% | ~130 |
 | Christianity | 0.80% | ~130 |
@@ -48,12 +49,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.70% | ~114 |
 | Furious Family | 0.70% | ~114 |
 | Apadana | 0.70% | ~114 |
-| Great Ziggurat | 0.70% | ~114 |
 | Learn to Play 2 | 0.70% | ~114 |
 | Carthaginian Paganism | 0.70% | ~114 |
 | Regicide | 0.60% | ~97 |
+| Drillmaster | 0.60% | ~97 |
 | Great | 0.60% | ~97 |
 | Legendary Cities | 0.60% | ~97 |
+| Just Difficulty | 0.60% | ~97 |
 | Acropolis | 0.60% | ~97 |
 | Mausoleum | 0.60% | ~97 |
 | Musaeum | 0.60% | ~97 |
@@ -62,20 +64,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.60% | ~97 |
 | Hanging Gardens in Babylon | 0.50% | ~81 |
 | Beloved | 0.50% | ~81 |
-| Drillmaster | 0.50% | ~81 |
 | Intercessor | 0.50% | ~81 |
 | Valiant | 0.50% | ~81 |
-| Just Difficulty | 0.50% | ~81 |
 | Artisans | 0.50% | ~81 |
+| Champions | 0.50% | ~81 |
 | Sages | 0.50% | ~81 |
 | Colossus | 0.50% | ~81 |
 | Learn to Play 3 | 0.50% | ~81 |
 | Building Wonders | 0.50% | ~81 |
 | Mythology | 0.50% | ~81 |
+| Points Victory | 0.50% | ~81 |
 | Win a Single Player Game | 0.50% | ~81 |
 | Mighty | 0.40% | ~65 |
 | Good Difficulty | 0.40% | ~65 |
-| Champions | 0.40% | ~65 |
 | Landowners | 0.40% | ~65 |
 | Patrons | 0.40% | ~65 |
 | Riders | 0.40% | ~65 |
@@ -86,7 +87,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.40% | ~65 |
 | Economic Reform | 0.40% | ~65 |
 | Legionary | 0.40% | ~65 |
-| Points Victory | 0.40% | ~65 |
 | Bad Heir Day | 0.30% | ~49 |
 | Capable | 0.30% | ~49 |
 | Conqueror | 0.30% | ~49 |
@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.30% | ~49 |
 | Victorious | 0.30% | ~49 |
 | Strong Difficulty | 0.30% | ~49 |
+| Clerics | 0.30% | ~49 |
 | Hunters | 0.30% | ~49 |
 | Hittite Iron | 0.30% | ~49 |
 | Circus Maximus | 0.30% | ~49 |
@@ -101,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.30% | ~49 |
 | Pantheon | 0.30% | ~49 |
 | Via Recta Souk | 0.30% | ~49 |
+| Learn to Play 4 | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
 | Carthage | 0.30% | ~49 |
 | Assyrian Paganism | 0.30% | ~49 |
@@ -125,11 +127,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.20% | ~32 |
 | Old | 0.20% | ~32 |
 | Peacemaker | 0.20% | ~32 |
-| Clerics | 0.20% | ~32 |
 | Church of the Holy Sepulchre | 0.20% | ~32 |
 | Cao'an | 0.20% | ~32 |
 | Adur Burzen-Mihr | 0.20% | ~32 |
-| Learn to Play 4 | 0.20% | ~32 |
 | Learn to Play 5 | 0.20% | ~32 |
 | Egypt | 0.20% | ~32 |
 | Rome | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,232 (Ranked 168)  
+Progressed: 16,235 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,232 | 5 |
+| 2024-01-08 | 16,235 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,917 (Ranked 223)  

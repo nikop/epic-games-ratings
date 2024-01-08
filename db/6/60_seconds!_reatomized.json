@@ -287,7 +287,7 @@
   "Tags": [],
   "EOS_Progressed": 6170,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9147,9 +9147,9 @@
       "ID": "ACH_10_WATER",
       "SetID": "5nj1ea3",
       "Name": "2-1-6",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3640
+      "UsersEstimate": 3702
     },
     {
       "ID": "ACH_ALL_BROKEN",
@@ -9628,8 +9628,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2024-01-06T20:00:56.9816861+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:08:38.2134652+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:08:42.9130186+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:25.5705631+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:57:07.9239204+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:08:38.2135497+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:56:58.851749+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:08:42.913096+00:00"
 }

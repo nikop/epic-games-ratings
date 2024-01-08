@@ -6,18 +6,18 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,532 |
-| Basic in Bulk | 10.00% | ~15,029 |
-| Titan's First Steps | 10.00% | ~15,029 |
-| Tinkle of Coins | 9.00% | ~13,526 |
-| Disintermediation | 7.00% | ~10,520 |
-| It's Free Real Estate | 7.00% | ~10,520 |
-| Capitalism Ho! | 7.00% | ~10,520 |
-| One Easy Payment | 6.00% | ~9,017 |
-| Some Assembly Required | 6.00% | ~9,017 |
-| Another Satisfied Customer | 6.00% | ~9,017 |
-| Budding Merchant | 6.00% | ~9,017 |
-| Own the Means of Production | 6.00% | ~9,017 |
+| Sponsored by Argon | 11.00% | ~16,533 |
+| Basic in Bulk | 10.00% | ~15,030 |
+| Titan's First Steps | 10.00% | ~15,030 |
+| Tinkle of Coins | 9.00% | ~13,527 |
+| Disintermediation | 7.00% | ~10,521 |
+| It's Free Real Estate | 7.00% | ~10,521 |
+| Capitalism Ho! | 7.00% | ~10,521 |
+| One Easy Payment | 6.00% | ~9,018 |
+| Some Assembly Required | 6.00% | ~9,018 |
+| Another Satisfied Customer | 6.00% | ~9,018 |
+| Budding Merchant | 6.00% | ~9,018 |
+| Own the Means of Production | 6.00% | ~9,018 |
 | Pretty Penny | 5.00% | ~7,515 |
 | One-Armed Bandit | 5.00% | ~7,515 |
 | Through Repetition, Perfection | 5.00% | ~7,515 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~601 |
 | Capitalist Camaraderie | 0.20% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,291 (Ranked 86)  
+Progressed: 150,297 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 345 (0.23%) (Ranked 270)
 | 2024-01-05 | 149,755 | 342 |
 | 2024-01-06 | 149,985 | 345 |
 | 2024-01-07 | 150,192 | 345 |
-| 2024-01-08 | 150,291 | 345 |
+| 2024-01-08 | 150,297 | 345 |
 ## Awards
 Max (Great for Beginners): 4,946  (Ranked 78)  
 Sum: 27,959 (Ranked 52)  

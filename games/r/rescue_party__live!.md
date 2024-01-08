@@ -7,7 +7,7 @@
 | ASAP | 98.00% | ~261 |
 | Medal of honor | 35.00% | ~93 |
 | Life matters | 35.00% | ~93 |
-| Safety first | 30.00% | ~80 |
+| Safety first | 31.00% | ~82 |
 | Professional team! | 23.00% | ~61 |
 | Resource manager | 14.00% | ~37 |
 | Dawn of Victory | 12.00% | ~32 |
@@ -23,7 +23,7 @@
 | The song of water and fire | 0.00% | ~0 |
 | Working carefully | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 409)  
+Progressed: 266 (Ranked 410)  
 Completed: 7 (2.63%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -10,7 +10,7 @@ Number of Ratings: 32  (23.09.2022)
 | Daily Life Begins Anew | 81.00% | ~206 |
 | Our World Now | 81.00% | ~206 |
 | Never Saw It Coming | 65.00% | ~165 |
-| Coup de Grace | 56.00% | ~142 |
+| Coup de Grace | 57.00% | ~145 |
 | Go-Home Club Activities START! | 48.00% | ~122 |
 | Philanthropist | 38.00% | ~97 |
 | Test Your Luck | 33.00% | ~84 |
@@ -57,7 +57,7 @@ Number of Ratings: 32  (23.09.2022)
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 254 (Ranked 414)  
-Completed: 2 (0.79%) (Ranked 191)  
+Completed: 2 (0.79%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

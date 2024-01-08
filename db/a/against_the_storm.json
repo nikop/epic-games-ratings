@@ -3845,9 +3845,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20476,
+  "EOS_Progressed": 20483,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18935,6 +18935,11 @@
       "Time": "2024-01-08T14:03:50.4395808+00:00",
       "NumProgressed": 20476,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-08T15:04:28.3681961+00:00",
+      "NumProgressed": 20483,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19035,7 +19040,7 @@
       "Name": "First Real Expedition",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "WinHard",
@@ -19227,7 +19232,7 @@
       "Name": "The Marshlands",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "WinOnMoorlands",
@@ -19283,7 +19288,7 @@
       "Name": "Taking Action",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "WinWithResolve",
@@ -19323,7 +19328,7 @@
       "Name": "No Deaths",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "WinWithoutOrders",
@@ -19347,7 +19352,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "WinNearFrosts",
@@ -19371,7 +19376,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "WinNearPetrified",
@@ -19379,7 +19384,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "WinNearPresence",
@@ -19418,15 +19423,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20476,
+      "Progressed": 20483,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-08T02:21:19.4867993+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:03:50.4395803+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:04:28.3681958+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:57:33.1673721+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:03:50.4396942+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:57:37.0625682+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:04:28.3682952+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Brahdyssey | 3.00% | ~217 |
 | Caught in the Act | 3.00% | ~217 |
 | Katherine | 3.00% | ~217 |
-| Life Found a Way | 3.00% | ~128 |
+| Life Found a Way | 3.00% | ~129 |
 | Relentless | 3.00% | ~217 |
 | If at First You Don't Succeed... | 3.00% | ~217 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~145 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,243 (Ranked 194)  
+Progressed: 7,247 (Ranked 194)  
 Completed: 3 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.04%) (Ranked 349)
 | 2024-01-05 | 7,141 | 3 |
 | 2024-01-06 | 7,186 | 3 |
 | 2024-01-07 | 7,231 | 3 |
-| 2024-01-08 | 7,243 | 3 |
+| 2024-01-08 | 7,247 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

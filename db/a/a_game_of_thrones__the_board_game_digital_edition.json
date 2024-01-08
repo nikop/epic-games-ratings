@@ -1392,9 +1392,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32895,
+  "EOS_Progressed": 32896,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29722,6 +29722,11 @@
       "Time": "2024-01-08T14:09:57.359397+00:00",
       "NumProgressed": 32895,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-08T15:10:32.5222434+00:00",
+      "NumProgressed": 32896,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29893,7 +29898,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3947
+      "UsersEstimate": 3948
     },
     {
       "ID": "1036",
@@ -29908,15 +29913,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32895,
+      "Progressed": 32896,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-05T16:59:15.5205633+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:09:57.3593967+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:10:32.5222429+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:00:36.377687+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:09:57.3595593+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:02:42.2852691+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:10:32.5223682+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "heavy-rain",
   "Ranking_Rating": 446,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 496,
+  "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 573,
@@ -537,6 +537,6 @@
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
   "LastChanged": "2023-11-01T19:01:12.6722407+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:38.0007221+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:57:26.9091196+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:05:54.9312233+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:57:27.28327+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:07:23.5264+00:00"
 }

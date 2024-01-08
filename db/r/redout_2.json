@@ -2,7 +2,7 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 570,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 282,
@@ -1445,9 +1445,9 @@
       "ID": "CAREERADVANCED",
       "SetID": "3dh70f3",
       "Name": "Rookie No-No More",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 157
     },
     {
       "ID": "CAREERCLASSA",
@@ -1734,8 +1734,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:04:11.2234998+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:04:58.4376781+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.4033181+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:03:04.2484906+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:04:11.223549+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:03:22.577871+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:04:58.4377224+00:00"
 }

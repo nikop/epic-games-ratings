@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1707,9 +1707,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247231,
+  "EOS_Progressed": 247236,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1287,
+  "EOS_NewPlayers": 1279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25417,6 +25417,11 @@
       "Time": "2024-01-08T14:10:16.415958+00:00",
       "NumProgressed": 247231,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-08T15:10:57.5256894+00:00",
+      "NumProgressed": 247236,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25476,7 +25481,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19778
+      "UsersEstimate": 19779
     },
     {
       "ID": "Chapter2",
@@ -25876,7 +25881,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 89003
+      "UsersEstimate": 89005
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25924,7 +25929,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24723
+      "UsersEstimate": 24724
     },
     {
       "ID": "FollowBraztok",
@@ -25962,9 +25967,9 @@
       "ID": "KillGolbargh",
       "SetID": "50chcgj",
       "Name": "We come in peace",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1978
+      "UsersEstimate": 2225
     },
     {
       "ID": "MinistrelEpic",
@@ -26131,21 +26136,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247231,
+      "Progressed": 247236,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247231,
+      "Progressed": 247236,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-07T14:58:32.9313292+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:10:16.4159576+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:10:57.5256889+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:59:05.0181961+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:10:16.4161297+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:59:52.8326583+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:10:57.5258644+00:00"
 }

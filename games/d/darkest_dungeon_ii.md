@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~915 |
-| Lost and Found | 8.00% | ~563 |
+| Malpractice Assurance | 13.00% | ~916 |
+| Lost and Found | 8.00% | ~564 |
 | Autodidact | 7.00% | ~9,252 |
 | This guy... again? | 7.00% | ~493 |
-| This Belongs in a Museum | 6.00% | ~7,930 |
-| Creep and Sleep | 6.00% | ~7,930 |
-| Overdue Notice | 6.00% | ~7,930 |
+| This Belongs in a Museum | 6.00% | ~7,931 |
+| Creep and Sleep | 6.00% | ~7,931 |
+| Overdue Notice | 6.00% | ~7,931 |
 | Ploughshares to Swords | 6.00% | ~423 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,609 |
 | Serenity Now! | 5.00% | ~6,609 |
@@ -52,14 +52,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~3,965 |
 | Unshackled | 3.00% | ~3,965 |
 | Road Trip | 3.00% | ~3,965 |
-| This Looks Familiar | 2.00% | ~2,643 |
-| Hope Rekindled | 2.00% | ~2,643 |
-| Ichthyophobic | 2.00% | ~2,643 |
-| No More Mouths to Feed | 2.00% | ~2,643 |
-| Worldly Traveller | 2.00% | ~2,643 |
-| Hot Air | 2.00% | ~2,643 |
-| Eyes Up | 2.00% | ~2,643 |
-| Handled | 2.00% | ~2,643 |
+| This Looks Familiar | 2.00% | ~2,644 |
+| Hope Rekindled | 2.00% | ~2,644 |
+| Ichthyophobic | 2.00% | ~2,644 |
+| No More Mouths to Feed | 2.00% | ~2,644 |
+| Worldly Traveller | 2.00% | ~2,644 |
+| Hot Air | 2.00% | ~2,644 |
+| Eyes Up | 2.00% | ~2,644 |
+| Handled | 2.00% | ~2,644 |
 | Clearing the Ledger | 1.00% | ~1,322 |
 | Shrine of Reflection | 1.00% | ~1,322 |
 | Body of Work | 1.00% | ~1,322 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,173 (Ranked 91)  
+Progressed: 132,176 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,10 +339,10 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,173 | 3 |
+| 2024-01-08 | 132,176 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
-Sum: 21,534 (Ranked 58)  
+Sum: 21,536 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -352,7 +352,7 @@ Diff (max vs sum): -8
 | This game is Highly Recommended | 1,599 |
 | This game has Amazing Characters | 1,527 |
 | This game is Extremely Fun | 1,518 |
-| This game has Unique Visuals | 1,461 |
+| This game has Unique Visuals | 1,463 |
 | This game has Amazing Storytelling | 1,441 |
 | This game has Quickly Understood Controls | 1,411 |
 | This game has a Creative Community | 1,084 |
@@ -706,4 +706,4 @@ Diff (max vs sum): -8
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
-| 2024-01-08 | 4.68 | - | 7,986 | 21,534 |
+| 2024-01-08 | 4.68 | - | 7,986 | 21,536 |

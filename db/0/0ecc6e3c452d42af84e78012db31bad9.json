@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4910,
+  "EOS_Progressed": 4911,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -12980,6 +12980,11 @@
       "Time": "2024-01-08T13:08:37.7139492+00:00",
       "NumProgressed": 4910,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-08T15:04:16.3964357+00:00",
+      "NumProgressed": 4911,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -12991,7 +12996,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -13039,7 +13044,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "ach_bomb",
@@ -13063,7 +13068,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3977
+      "UsersEstimate": 3978
     },
     {
       "ID": "ach_food_completed",
@@ -13118,7 +13123,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4910,
+      "Progressed": 4911,
       "Completed": 44
     }
   ],
@@ -13126,8 +13131,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:03:41.682367+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:04:16.3964347+00:00",
   "LastUpdate_AppInfo": "2024-01-05T23:57:03.8408422+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:57:57.1428447+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:03:41.6824384+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:58:13.9375826+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:04:16.3965127+00:00"
 }

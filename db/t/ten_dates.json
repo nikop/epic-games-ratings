@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 488,
+  "EOS_Progressed": 489,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -1411,6 +1411,11 @@
       "Time": "2024-01-07T23:10:07.8114799+00:00",
       "NumProgressed": 488,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T15:10:21.2106336+00:00",
+      "NumProgressed": 489,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 19,
@@ -1454,7 +1459,7 @@
       "Name": "Let it begin",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "profile_ryan",
@@ -1462,7 +1467,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ryan_date2_all",
@@ -1500,9 +1505,9 @@
       "ID": "success_brandy",
       "SetID": "6h5h9ho",
       "Name": "The boss",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 107
+      "UsersEstimate": 103
     },
     {
       "ID": "success_derek",
@@ -1573,7 +1578,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 488,
+      "Progressed": 489,
       "Completed": 6
     }
   ],
@@ -1581,8 +1586,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:09:49.4183302+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:10:21.2106332+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:58:21.0551197+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:09:49.4183548+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:58:48.9689396+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:10:21.2106533+00:00"
 }

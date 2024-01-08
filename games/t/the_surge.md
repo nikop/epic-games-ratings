@@ -6,21 +6,21 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,018 |
-| I'll Be Back | 84.00% | ~4,484 |
-| Sorry, I Dropped This | 76.00% | ~4,057 |
-| First Day on the Job | 76.00% | ~4,057 |
+| On My Own Two Feet | 94.00% | ~5,019 |
+| I'll Be Back | 84.00% | ~4,485 |
+| Sorry, I Dropped This | 76.00% | ~4,058 |
+| First Day on the Job | 76.00% | ~4,058 |
 | Butcher's Bill | 54.00% | ~2,883 |
 | P.A.X | 36.00% | ~1,922 |
 | Hey Listen | 36.00% | ~1,922 |
-| OPERATOR | 35.00% | ~1,868 |
+| OPERATOR | 35.00% | ~1,869 |
 | It's Blue Light | 33.00% | ~1,762 |
 | Most Wanted | 26.00% | ~1,388 |
 | Infidel | 23.00% | ~1,228 |
 | Firebug | 20.00% | ~1,068 |
 | GOLIATH | 20.00% | ~1,068 |
-| I Choose You | 17.00% | ~907 |
-| Nothing to Lose | 17.00% | ~907 |
+| I Choose You | 17.00% | ~908 |
+| Nothing to Lose | 17.00% | ~908 |
 | Big Sister | 15.00% | ~801 |
 | SENTINEL | 15.00% | ~801 |
 | Gear Up | 14.00% | ~747 |
@@ -31,8 +31,8 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~587 |
 | Shall Not Pass | 11.00% | ~587 |
 | Right Tool for the Job | 10.00% | ~534 |
-| Raging Drones | 9.00% | ~480 |
-| Overconfident | 9.00% | ~480 |
+| Raging Drones | 9.00% | ~481 |
+| Overconfident | 9.00% | ~481 |
 | Pusher Man | 8.00% | ~427 |
 | Melting Down | 8.00% | ~427 |
 | Squad Chief Helvig | 8.00% | ~427 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,338 (Ranked 203)  
+Progressed: 5,339 (Ranked 203)  
 Completed: 18 (0.34%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 18 (0.34%) (Ranked 245)
 | 2024-01-05 | 5,270 | 18 |
 | 2024-01-06 | 5,296 | 18 |
 | 2024-01-07 | 5,326 | 18 |
-| 2024-01-08 | 5,338 | 18 |
+| 2024-01-08 | 5,339 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 522)  
 Sum: 30 (Ranked 541)  

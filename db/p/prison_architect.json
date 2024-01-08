@@ -8139,9 +8139,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 213523,
+  "EOS_Progressed": 213544,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 2926,
+  "EOS_NewPlayers": 2922,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38359,6 +38359,11 @@
       "Time": "2024-01-08T14:09:49.0106888+00:00",
       "NumProgressed": 213523,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-08T15:10:20.6524035+00:00",
+      "NumProgressed": 213544,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -38370,7 +38375,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4270
+      "UsersEstimate": 4271
     },
     {
       "ID": "Achievement_1",
@@ -38402,7 +38407,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32028
+      "UsersEstimate": 32032
     },
     {
       "ID": "Achievement_13",
@@ -38450,7 +38455,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 53381
+      "UsersEstimate": 53386
     },
     {
       "ID": "Achievement_5",
@@ -38458,7 +38463,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 4270
+      "UsersEstimate": 4271
     },
     {
       "ID": "Achievement_6",
@@ -38482,7 +38487,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 19217
+      "UsersEstimate": 19219
     },
     {
       "ID": "Achievement_9",
@@ -38490,22 +38495,22 @@
       "Name": "Spare The Rod",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8541
+      "UsersEstimate": 8542
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 213523,
+      "Progressed": 213544,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2024-01-08T13:02:40.0815885+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:09:49.0106886+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:10:20.6524032+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.5242713+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:57:47.8607352+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:09:49.0108382+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:58:00.2827838+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:10:20.6525315+00:00"
 }

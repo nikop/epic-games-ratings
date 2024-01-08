@@ -4,7 +4,7 @@
   "ProductSlug": "deadwater-saloon-391b9d",
   "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
@@ -481,9 +481,9 @@
       "ID": "NEW_ACHIEVEMENT_2_11",
       "SetID": "631i43e",
       "Name": "Diamond Hands",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_12",
@@ -505,25 +505,25 @@
       "ID": "NEW_ACHIEVEMENT_2_14",
       "SetID": "631i43e",
       "Name": "Heavy Duty Medicine",
-      "Percentage": 6,
-      "XP": 15,
-      "UsersEstimate": 2
-    },
-    {
-      "ID": "NEW_ACHIEVEMENT_2_15",
-      "SetID": "631i43e",
-      "Name": "Words Of Wisdom, Lloyd",
       "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 3
     },
     {
+      "ID": "NEW_ACHIEVEMENT_2_15",
+      "SetID": "631i43e",
+      "Name": "Words Of Wisdom, Lloyd",
+      "Percentage": 12,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
       "ID": "NEW_ACHIEVEMENT_2_16",
       "SetID": "631i43e",
       "Name": "Gun Show",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_17",
@@ -545,9 +545,9 @@
       "ID": "NEW_ACHIEVEMENT_2_19",
       "SetID": "631i43e",
       "Name": "Don\u0027t See This",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -689,17 +689,17 @@
       "ID": "NEW_ACHIEVEMENT_2_7",
       "SetID": "631i43e",
       "Name": "Big Brain",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
       "SetID": "631i43e",
       "Name": "What\u0027s Cookin\u0027",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_9",
@@ -728,8 +728,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:09:24.1023561+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:09:45.0417243+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.9417267+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:58:25.2948861+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:09:24.1024055+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:58:56.0345495+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:09:45.0417703+00:00"
 }

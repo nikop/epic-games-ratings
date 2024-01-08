@@ -13,9 +13,9 @@ Rating: 4.56 (Ranked 507)
 | Archer | 40.00% | ~72 |
 | Field hand | 37.00% | ~66 |
 | Well-to-do | 32.00% | ~57 |
-| Samaritan | 29.00% | ~52 |
-| Ladies' man | 28.00% | ~50 |
-| The merciful one | 27.00% | ~48 |
+| Samaritan | 30.00% | ~54 |
+| Ladies' man | 29.00% | ~52 |
+| The merciful one | 28.00% | ~50 |
 | Idiot | 23.00% | ~41 |
 | Ferocious wild boars | 22.00% | ~39 |
 | Beast slayer | 21.00% | ~38 |
@@ -29,7 +29,7 @@ Rating: 4.56 (Ranked 507)
 | Fence | 16.00% | ~29 |
 | Little hero | 15.00% | ~27 |
 | The fourth triplet | 15.00% | ~27 |
-| Master detective | 14.00% | ~25 |
+| Master detective | 15.00% | ~27 |
 | Pandora's box | 13.00% | ~23 |
 | Ghost hunter | 13.00% | ~23 |
 | Peacekeeper | 12.00% | ~21 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1296,
+  "EOS_Progressed": 1297,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -3759,6 +3759,11 @@
       "Time": "2024-01-08T11:11:04.6793235+00:00",
       "NumProgressed": 1296,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T15:10:40.1878883+00:00",
+      "NumProgressed": 1297,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3771,7 +3776,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "BostonHayDay",
@@ -3793,9 +3798,9 @@
       "ID": "Cartographer",
       "SetID": "3ai6ml8",
       "Name": "Cartographer",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 623
     },
     {
       "ID": "Causality",
@@ -3811,7 +3816,7 @@
       "Name": "Congratulations, you\u0027re an engineer",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -3819,7 +3824,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -3827,7 +3832,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "DustDancing",
@@ -3875,7 +3880,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "Relic",
@@ -3883,7 +3888,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "SkeletonCrew",
@@ -3891,7 +3896,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "TerraTourGuide",
@@ -3930,14 +3935,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1296,
+      "Progressed": 1297,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:10:02.8506715+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:10:40.1878881+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6987681+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:58:14.7135938+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:10:02.8507009+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:58:39.4483507+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:10:40.1879131+00:00"
 }

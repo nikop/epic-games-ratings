@@ -4,10 +4,10 @@
   "ProductSlug": "atom-rpg-3adb54",
   "Ranking_Rating": 634,
   "Ranking_Popularity": 448,
-  "Ranking_PopularitySum": 504,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1675,
+  "EOS_Progressed": 1677,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4395,6 +4395,11 @@
       "Time": "2024-01-08T11:11:11.5579465+00:00",
       "NumProgressed": 1675,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T15:10:46.9392091+00:00",
+      "NumProgressed": 1677,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4454,7 +4459,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4462,7 +4467,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1660
     },
     {
       "ID": "EXPERT_1",
@@ -4582,7 +4587,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4662,7 +4667,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "VVE",
@@ -4670,15 +4675,15 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 520
     },
     {
       "ID": "WISHMASTER_1",
@@ -4693,15 +4698,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1675,
+      "Progressed": 1677,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:10:07.9564759+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:10:46.9392088+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:59:25.4847829+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:10:07.9565252+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:00:22.45188+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:10:46.9392483+00:00"
 }

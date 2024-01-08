@@ -6,18 +6,18 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 77.00% | ~305 |
-| Kaijuiced | 71.00% | ~281 |
-| Lie Back and Think of Albion | 66.00% | ~261 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~249 |
-| I Look Up As I Walk to Takoshima | 60.00% | ~238 |
+| Shop Til They Drop | 77.00% | ~306 |
+| Kaijuiced | 71.00% | ~282 |
+| Lie Back and Think of Albion | 65.00% | ~258 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~250 |
+| I Look Up As I Walk to Takoshima | 59.00% | ~234 |
 | Yettisoned | 58.00% | ~230 |
 | Pimp My Raid | 56.00% | ~222 |
-| Perfect Probulator | 56.00% | ~222 |
-| Lobster Blisque | 51.00% | ~202 |
-| Earthly Pleasures | 49.00% | ~194 |
-| Fly Me to the Moon Base | 48.00% | ~190 |
-| Ducks in a Row, Fish in a Barrel | 45.00% | ~178 |
+| Perfect Probulator | 55.00% | ~218 |
+| Lobster Blisque | 50.00% | ~198 |
+| Earthly Pleasures | 49.00% | ~195 |
+| Fly Me to the Moon Base | 48.00% | ~191 |
+| Ducks in a Row, Fish in a Barrel | 45.00% | ~179 |
 | Forbidden Donut | 36.00% | ~143 |
 | Freshly Squeezed | 36.00% | ~143 |
 | Bodied Sattva | 36.00% | ~143 |
@@ -28,13 +28,13 @@ Number of Ratings: 85  (23.09.2022)
 | Trans-Siberian Express | 25.00% | ~99 |
 | Arkvoodle Doodle | 20.00% | ~79 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~79 |
-| Ouch of Body Experience | 16.00% | ~63 |
-| If You Know What I Mean | 16.00% | ~63 |
-| Die Nasty | 16.00% | ~63 |
-| Mash Machine | 16.00% | ~63 |
-| Hidden Human Hive Harvest | 15.00% | ~59 |
-| Albion Bridge Is for Falling Down | 14.00% | ~55 |
-| Dusted | 13.00% | ~51 |
+| Ouch of Body Experience | 16.00% | ~64 |
+| If You Know What I Mean | 16.00% | ~64 |
+| Die Nasty | 16.00% | ~64 |
+| Mash Machine | 16.00% | ~64 |
+| Hidden Human Hive Harvest | 15.00% | ~60 |
+| Albion Bridge Is for Falling Down | 14.00% | ~56 |
+| Dusted | 13.00% | ~52 |
 | Scuttled | 11.00% | ~44 |
 | Higher Than the Futen Zoku | 11.00% | ~44 |
 | PK Slam Dunk | 9.00% | ~36 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~8 |
 | Against All Odds | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396 (Ranked 370)  
+Progressed: 397 (Ranked 369)  
 Completed: 5 (1.26%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 5 (1.26%) (Ranked 157)
 | 2024-01-05 | 345 | 5 |
 | 2024-01-06 | 367 | 5 |
 | 2024-01-07 | 392 | 5 |
-| 2024-01-08 | 396 | 5 |
+| 2024-01-08 | 397 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 502)  
 Sum: 35 (Ranked 532)  

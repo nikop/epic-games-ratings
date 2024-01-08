@@ -6,7 +6,7 @@
   "Ranking_Popularity": 288,
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
@@ -1584,11 +1584,11 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27997,
+  "EOS_Progressed": 28001,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:34.4921+00:00",
@@ -13474,6 +13474,11 @@
       "Time": "2024-01-08T14:10:05.8753492+00:00",
       "NumProgressed": 27997,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-08T15:10:44.1019852+00:00",
+      "NumProgressed": 28001,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13755,9 +13760,9 @@
       "ID": "SoulShopOverload",
       "SetID": "3ojhj46",
       "Name": "Just the Beginning",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 84
     },
     {
       "ID": "StoryTutorial",
@@ -13796,21 +13801,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27997,
+      "Progressed": 28001,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6927,
+      "Progressed": 6931,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-07T05:00:47.8747453+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:10:05.875349+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:10:44.1019849+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:00:25.7337708+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:10:05.875438+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:01:47.4860591+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:10:44.1020566+00:00"
 }

@@ -14,22 +14,23 @@
 | Tactician | 10.00% | ~29 |
 | Conciliator | 9.00% | ~26 |
 | Fight Another Day | 9.00% | ~26 |
-| Taskmaster | 8.00% | ~24 |
+| Taskmaster | 9.00% | ~26 |
 | Acquaintance | 7.00% | ~21 |
 | Scholar | 6.00% | ~18 |
 | The More the Merrier | 6.00% | ~18 |
 | Harbinger | 6.00% | ~18 |
 | Tail-wind | 6.00% | ~18 |
 | Pilgrimage's End | 6.00% | ~18 |
+| Strategist | 5.00% | ~15 |
 | Deputized | 5.00% | ~15 |
 | Courier | 5.00% | ~15 |
 | Merchant | 5.00% | ~15 |
 | Quartermaster | 4.00% | ~12 |
-| Strategist | 4.00% | ~12 |
 | Been There | 4.00% | ~12 |
 | Spiritual Journey | 4.00% | ~12 |
 | Trouble at Fort Larius | 4.00% | ~12 |
 | Potential Unlocked | 3.00% | ~9 |
+| Xevarian Gambit | 3.00% | ~9 |
 | The Voice of Hereafter | 3.00% | ~9 |
 | Despised | 3.00% | ~9 |
 | A Terrible Will | 3.00% | ~9 |
@@ -38,7 +39,6 @@
 | Bounty Hunter | 2.00% | ~6 |
 | Supercargo | 2.00% | ~6 |
 | Huntress Unbound | 2.00% | ~6 |
-| Xevarian Gambit | 2.00% | ~6 |
 | Business As Usual | 2.00% | ~6 |
 | Legacy of a Mercenary | 2.00% | ~6 |
 | Delayed | 2.00% | ~6 |

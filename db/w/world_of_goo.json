@@ -2,7 +2,7 @@
   "ID": "anemone",
   "Name": "World of Goo",
   "ProductSlug": "world-of-goo",
-  "Ranking_Rating": 191,
+  "Ranking_Rating": 192,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 822,
@@ -249,6 +249,6 @@
   "FirstSeen": "2022-07-22T20:26:07.5057967+00:00",
   "LastChanged": "2023-12-27T15:58:53.9211986+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.9785355+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:00:18.9277904+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:08:37.6775932+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:01:40.6695237+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:08:42.0306924+00:00"
 }

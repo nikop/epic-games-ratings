@@ -250,7 +250,7 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43784,
+  "EOS_Progressed": 43786,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 0,
@@ -28825,6 +28825,11 @@
       "Time": "2024-01-08T14:06:08.7448602+00:00",
       "NumProgressed": 43784,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-08T15:07:42.8087945+00:00",
+      "NumProgressed": 43786,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28852,7 +28857,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -29012,7 +29017,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -29020,7 +29025,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -29067,7 +29072,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43784,
+      "Progressed": 43786,
       "Completed": 30
     }
   ],
@@ -29075,8 +29080,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:06:08.7448595+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:07:42.8087942+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:02:45.5444434+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:06:08.7450067+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:02:53.8657934+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:07:42.8089295+00:00"
 }

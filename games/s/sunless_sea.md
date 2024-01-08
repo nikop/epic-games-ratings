@@ -1,19 +1,19 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 472)  
+Rating: 4.58 (Ranked 473)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,790 |
+| Sink Beneath the Waves | 36.00% | ~15,791 |
 | Sweet Sorrow | 18.00% | ~7,895 |
-| Rules the Waves | 17.00% | ~7,456 |
+| Rules the Waves | 17.00% | ~7,457 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,579 |
 | Rival | 14.00% | ~6,141 |
-| Correspondent | 12.00% | ~5,263 |
-| Lose Your Mind | 12.00% | ~5,263 |
-| Sound Mind? | 12.00% | ~5,263 |
+| Correspondent | 12.00% | ~5,264 |
+| Lose Your Mind | 12.00% | ~5,264 |
+| Sound Mind? | 12.00% | ~5,264 |
 | Salt's Curse | 11.00% | ~4,825 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,825 |
 | The Fall of the House | 11.00% | ~4,825 |
@@ -24,8 +24,8 @@ Number of Ratings: 401  (23.09.2022)
 | Open Your Ears | 7.00% | ~3,070 |
 | The Ascent of Man | 7.00% | ~3,070 |
 | Zee Fever | 5.00% | ~2,193 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,754 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,754 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,755 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,755 |
 | Storm's Curse | 3.00% | ~1,316 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,316 |
 | Come Closer | 3.00% | ~1,316 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~44 |
 | Ten Years at Zee | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,861 (Ranked 130)  
+Progressed: 43,863 (Ranked 130)  
 Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 4 (0.01%) (Ranked 372)
 | 2024-01-05 | 43,646 | 4 |
 | 2024-01-06 | 43,731 | 4 |
 | 2024-01-07 | 43,827 | 4 |
-| 2024-01-08 | 43,861 | 4 |
+| 2024-01-08 | 43,863 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 290)  
 Sum: 315 (Ranked 376)  

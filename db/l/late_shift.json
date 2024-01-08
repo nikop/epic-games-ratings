@@ -2,10 +2,10 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 999,
+  "EOS_Progressed": 1000,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 2,
@@ -2795,6 +2795,11 @@
       "Time": "2024-01-08T14:09:44.8256446+00:00",
       "NumProgressed": 999,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-08T15:10:14.5452296+00:00",
+      "NumProgressed": 1000,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -2806,7 +2811,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2878,7 +2883,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2894,7 +2899,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "GOOD_KARMA",
@@ -2965,7 +2970,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 999,
+      "Progressed": 1000,
       "Completed": 13
     }
   ],
@@ -2973,8 +2978,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:09:44.8256443+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:10:14.5452292+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:00:18.4263841+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:09:44.8256673+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:01:39.7755706+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:10:14.5452532+00:00"
 }

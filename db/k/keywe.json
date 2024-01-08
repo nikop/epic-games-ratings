@@ -768,9 +768,9 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "findFirstCollectible",
@@ -855,8 +855,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:05:38.4053519+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:06:59.9668316+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.6179854+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:58:18.6759983+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:05:38.4053675+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:58:45.2441579+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:06:59.966854+00:00"
 }

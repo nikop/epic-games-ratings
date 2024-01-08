@@ -1,12 +1,12 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 472)  
+Rating: 4.58 (Ranked 473)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 20.00% | ~767 |
+| Executioner | 20.00% | ~768 |
 | Watch Where You Step... | 15.00% | ~576 |
 | Look Over There! | 14.00% | ~537 |
 | Not So Fast... | 14.00% | ~537 |
@@ -14,13 +14,13 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 10.00% | ~384 |
 | Blood for the Blood God! | 8.00% | ~307 |
 | Bloodless | 7.00% | ~269 |
+| Surgical Excision | 6.00% | ~230 |
 | Friendly Fire | 6.00% | ~230 |
-| Surgical Excision | 5.00% | ~192 |
 | A Foul Creche | 5.00% | ~192 |
-| Honoured Battle-Brother | 4.00% | ~153 |
-| The Emperor Protects | 4.00% | ~153 |
-| Nemesis Master | 4.00% | ~153 |
-| Gunmaster | 4.00% | ~153 |
+| Honoured Battle-Brother | 4.00% | ~154 |
+| The Emperor Protects | 4.00% | ~154 |
+| Nemesis Master | 4.00% | ~154 |
+| Gunmaster | 4.00% | ~154 |
 | Hold Your Ground | 3.00% | ~115 |
 | Just a Scratch | 3.00% | ~115 |
 | Hive Exterminator | 3.00% | ~115 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,837 (Ranked 217)  
+Progressed: 3,838 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 3,783 | 0 |
 | 2024-01-06 | 3,811 | 0 |
 | 2024-01-07 | 3,834 | 0 |
-| 2024-01-08 | 3,837 | 0 |
+| 2024-01-08 | 3,838 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 284)  
 Sum: 500 (Ranked 334)  

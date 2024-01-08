@@ -30,7 +30,7 @@ Number of Ratings: 90  (23.09.2022)
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~25 |
 | Lobster Blisque | 6.00% | ~22 |
 | Yettisoned | 6.00% | ~22 |
-| Ultimate Smoothie | 4.00% | ~14 |
+| Ultimate Smoothie | 5.00% | ~18 |
 | Arkvoodle Doodle | 4.00% | ~14 |
 | Deincarnated | 3.00% | ~11 |
 | Arty Facts | 1.00% | ~4 |

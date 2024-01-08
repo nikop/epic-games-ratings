@@ -5,20 +5,20 @@ Rating: 4.59 (Ranked 446)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 70.00% | ~1,066 |
-| The Teleprobe | 55.00% | ~838 |
-| The City | 50.00% | ~762 |
-| The field base | 44.00% | ~670 |
-| The Alliance | 41.00% | ~624 |
-| Survivors | 39.00% | ~594 |
-| The Condor | 37.00% | ~564 |
-| The End | 37.00% | ~564 |
-| The Necroevolution | 29.00% | ~442 |
-| Krauta is alive | 28.00% | ~426 |
-| On her own | 22.00% | ~335 |
-| Peacemaker | 22.00% | ~335 |
-| Volcanologist | 22.00% | ~335 |
-| Fierce fight | 20.00% | ~305 |
+| The Camp | 70.00% | ~1,068 |
+| The Teleprobe | 55.00% | ~839 |
+| The City | 49.00% | ~748 |
+| The field base | 44.00% | ~671 |
+| The Alliance | 41.00% | ~626 |
+| Survivors | 39.00% | ~595 |
+| The Condor | 37.00% | ~565 |
+| The End | 37.00% | ~565 |
+| The Necroevolution | 29.00% | ~443 |
+| Krauta is alive | 28.00% | ~427 |
+| On her own | 22.00% | ~336 |
+| Peacemaker | 22.00% | ~336 |
+| Volcanologist | 22.00% | ~336 |
+| Fierce fight | 21.00% | ~320 |
 | Evacuation | 20.00% | ~305 |
 | Beyond divisions | 17.00% | ~259 |
 | Flying Objects Operator | 16.00% | ~244 |
@@ -27,15 +27,15 @@ Rating: 4.59 (Ranked 446)
 | Violent solution | 9.00% | ~137 |
 | I leave no man behind | 9.00% | ~137 |
 | Innate curiosity | 7.00% | ~107 |
-| Ubiquitous holes | 6.00% | ~91 |
-| The Invincible | 6.00% | ~91 |
-| Got lost again | 6.00% | ~91 |
-| Strong objection | 6.00% | ~91 |
-| I leave no man behind (no exceptions) | 2.00% | ~30 |
+| Ubiquitous holes | 6.00% | ~92 |
+| The Invincible | 6.00% | ~92 |
+| Got lost again | 6.00% | ~92 |
+| Strong objection | 6.00% | ~92 |
+| I leave no man behind (no exceptions) | 2.00% | ~31 |
 | Convoy list | 0.90% | ~14 |
 | No more mistakes | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,523 (Ranked 264)  
+Progressed: 1,526 (Ranked 264)  
 Completed: 1 (0.07%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 1 (0.07%) (Ranked 328)
 | 2024-01-05 | 1,415 | 1 |
 | 2024-01-06 | 1,462 | 1 |
 | 2024-01-07 | 1,508 | 1 |
-| 2024-01-08 | 1,523 | 1 |
+| 2024-01-08 | 1,526 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

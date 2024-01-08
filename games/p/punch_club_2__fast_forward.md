@@ -51,8 +51,8 @@
 | Poisoned fighter | 32.00% | ~178 |
 | Get out of my apartment! | 32.00% | ~178 |
 | Gang wrangler | 31.00% | ~172 |
+| Undercover robot | 31.00% | ~172 |
 | Seashell hunter | 30.00% | ~166 |
-| Undercover robot | 30.00% | ~166 |
 | Problems of cyborgs | 29.00% | ~161 |
 | Absolute Champion! | 29.00% | ~161 |
 | Another world | 28.00% | ~155 |

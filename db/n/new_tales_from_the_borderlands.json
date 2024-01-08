@@ -2,12 +2,12 @@
   "ID": "28ed8f56800c4bcc9eaa0c5264ec6917",
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
-  "Ranking_Rating": 1021,
+  "Ranking_Rating": 1020,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -2508,8 +2508,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:04:04.3536392+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:04:48.6612346+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.4966642+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:57:14.8760165+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:04:04.3536655+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:57:09.0923176+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:04:48.6612626+00:00"
 }

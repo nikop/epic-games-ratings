@@ -553,7 +553,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4636,
+  "EOS_Progressed": 4638,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
@@ -8018,6 +8018,11 @@
       "Time": "2024-01-08T13:09:43.2857884+00:00",
       "NumProgressed": 4636,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T15:05:46.5559381+00:00",
+      "NumProgressed": 4638,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8045,7 +8050,7 @@
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ApexPredator_27",
@@ -8069,7 +8074,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "CrowdPleaser",
@@ -8085,7 +8090,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "Eureka_23",
@@ -8093,7 +8098,7 @@
       "Name": "Eureka",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8101,7 +8106,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ForAllAurai_8",
@@ -8109,7 +8114,7 @@
       "Name": "For All Aurai",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "GiftfromtheAncestors_34",
@@ -8133,7 +8138,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "HouseofCards_19",
@@ -8189,7 +8194,7 @@
       "Name": "Memory of a legend",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "PerfectDefense_31",
@@ -8213,7 +8218,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8221,7 +8226,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8237,7 +8242,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -8253,7 +8258,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8293,7 +8298,7 @@
       "Name": "The Power of Family",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -8349,7 +8354,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3386
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8364,15 +8369,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4636,
+      "Progressed": 4638,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-05T19:04:06.3891748+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:04:46.0279366+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:05:46.5559374+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:02:57.1417877+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:04:46.0279882+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:03:11.2465159+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:05:46.5559945+00:00"
 }

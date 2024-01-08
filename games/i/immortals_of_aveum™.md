@@ -5,14 +5,14 @@ Rating: 4.19 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,726 |
-| Battlefields Have Memories | 81.00% | ~2,509 |
-| Enlisted | 74.00% | ~2,293 |
-| Maybe Engage a Little | 69.00% | ~2,138 |
-| No More Names | 52.00% | ~1,611 |
-| Initiate | 38.00% | ~1,177 |
-| Thrada-Kul | 34.00% | ~1,053 |
-| Gravity-Challenged Rocks | 28.00% | ~867 |
+| Unforeseen | 88.00% | ~2,728 |
+| Battlefields Have Memories | 81.00% | ~2,511 |
+| Enlisted | 74.00% | ~2,294 |
+| Maybe Engage a Little | 69.00% | ~2,139 |
+| No More Names | 52.00% | ~1,612 |
+| Initiate | 38.00% | ~1,178 |
+| Thrada-Kul | 34.00% | ~1,054 |
+| Gravity-Challenged Rocks | 28.00% | ~868 |
 | Socialite | 24.00% | ~744 |
 | Soldier | 23.00% | ~713 |
 | All the Major Food Groups | 23.00% | ~713 |
@@ -32,8 +32,8 @@ Rating: 4.19 (Ranked 971)
 | Best Dressed | 6.00% | ~186 |
 | Periapt Viridian | 6.00% | ~186 |
 | Shroudfane Explorer | 6.00% | ~186 |
+| Kitted Out | 5.00% | ~155 |
 | Scholar | 4.00% | ~124 |
-| Kitted Out | 4.00% | ~124 |
 | Armaments Gules | 4.00% | ~124 |
 | Armaments Azure | 3.00% | ~93 |
 | Armaments Vert | 3.00% | ~93 |
@@ -47,13 +47,13 @@ Rating: 4.19 (Ranked 971)
 | Backtracker | 0.70% | ~22 |
 | Family Business | 0.60% | ~19 |
 | Petite Bourgeoisie | 0.60% | ~19 |
-| Diplomat | 0.50% | ~15 |
-| Master of Malachite | 0.50% | ~15 |
+| Diplomat | 0.50% | ~16 |
+| Master of Malachite | 0.50% | ~16 |
 | Treasure Hunter | 0.40% | ~12 |
 | Out of Time | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,098 (Ranked 228)  
+Progressed: 3,100 (Ranked 228)  
 Completed: 4 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 4 (0.13%) (Ranked 298)
 | 2024-01-05 | 2,796 | 4 |
 | 2024-01-06 | 2,915 | 4 |
 | 2024-01-07 | 3,056 | 4 |
-| 2024-01-08 | 3,098 | 4 |
+| 2024-01-08 | 3,100 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

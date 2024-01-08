@@ -4,7 +4,7 @@
   "ProductSlug": "payday-3",
   "Ranking_Rating": 1054,
   "Ranking_Popularity": 544,
-  "Ranking_PopularitySum": 484,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 573,
@@ -661,10 +661,16 @@
       "Rating": 3.97,
       "NumberOfAwards": 75,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-01-08T14:59:07.5349593+00:00",
+      "Rating": 3.97,
+      "NumberOfAwards": 50,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 75,
+  "NumberOfAwards": 50,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -699,8 +705,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-01-08T11:58:27.1089256+00:00",
+  "LastChanged": "2024-01-08T14:59:07.5349592+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:07.5420882+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:58:33.5602803+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:05:29.1414712+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:59:07.5349596+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:06:46.6982353+00:00"
 }

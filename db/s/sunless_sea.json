@@ -2,12 +2,12 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43861,
+  "EOS_Progressed": 43863,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27758,6 +27758,11 @@
       "Time": "2024-01-08T14:05:05.5150239+00:00",
       "NumProgressed": 43861,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T15:06:14.114176+00:00",
+      "NumProgressed": 43863,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -27785,7 +27790,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7457
     },
     {
       "ID": "ach_antiquarian10",
@@ -27793,7 +27798,7 @@
       "Name": "Old Unhappy Far-Off Things",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "ach_combuoy",
@@ -27889,7 +27894,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15790
+      "UsersEstimate": 15791
     },
     {
       "ID": "ach_die10",
@@ -27905,7 +27910,7 @@
       "Name": "Sink Beneath the Waves. Again.",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "ach_dive",
@@ -27961,7 +27966,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "ach_legacypupil",
@@ -28129,7 +28134,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "ach_terror90",
@@ -28169,7 +28174,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "ach_year1",
@@ -28200,15 +28205,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43861,
+      "Progressed": 43863,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-08T14:05:05.5150233+00:00",
+  "LastChanged_Achievements": "2024-01-08T15:06:14.1141755+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.5653659+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:57:45.5941739+00:00",
-  "LastUpdate_Achievements": "2024-01-08T14:05:05.5151759+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:57:56.7067913+00:00",
+  "LastUpdate_Achievements": "2024-01-08T15:06:14.114307+00:00"
 }
