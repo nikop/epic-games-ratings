@@ -30,9 +30,9 @@
 | 28 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.22% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.00% |
-| 31 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 14.29% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
-| 33 | [Seven Doors](games/s/seven_doors.md) | 13.79% |
+| 32 | [Seven Doors](games/s/seven_doors.md) | 13.79% |
+| 33 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 13.73% |
 | 34 | [Remains](games/r/remains.md) | 12.70% |
 | 35 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.63% |
 | 36 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.17% |
@@ -60,7 +60,7 @@
 | 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.04% |
 | 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.03% |
 | 60 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.94% |
-| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.93% |
+| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.92% |
 | 62 | [Scorn](games/s/scorn.md) | 6.89% |
 | 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.49% |
 | 64 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
@@ -96,7 +96,7 @@
 | 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.75% |
 | 95 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.65% |
 | 95 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.65% |
-| 97 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.64% |
+| 97 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.63% |
 | 98 | [Doodle God](games/d/doodle_god.md) | 3.62% |
 | 99 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 100 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.49% |
@@ -109,10 +109,10 @@
 | 107 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.03% |
 | 107 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.03% |
 | 109 | [HordeCore](games/h/hordecore.md) | 3.02% |
-| 110 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
-| 111 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.00% |
-| 111 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.00% |
-| 111 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
+| 110 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.00% |
+| 110 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.00% |
+| 110 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
+| 110 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.00% |
 | 114 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.97% |
 | 115 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 116 | [Lamentum](games/l/lamentum.md) | 2.87% |
@@ -187,7 +187,7 @@
 | 184 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.90% |
 | 186 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
 | 187 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.85% |
-| 188 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.84% |
+| 188 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.83% |
 | 189 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.81% |
 | 190 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 191 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.79% |
