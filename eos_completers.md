@@ -77,7 +77,7 @@
 | 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.89% |
 | 76 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.76% |
 | 76 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
-| 78 | [ZZT!](games/z/zzt!.md) | 4.71% |
+| 78 | [ZZT!](games/z/zzt!.md) | 4.74% |
 | 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.58% |
 | 80 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.55% |
 | 80 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.55% |
@@ -97,7 +97,7 @@
 | 95 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.65% |
 | 95 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.65% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.62% |
-| 97 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.62% |
+| 98 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.61% |
 | 99 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 100 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.49% |
 | 101 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
@@ -118,17 +118,17 @@
 | 116 | [Lamentum](games/l/lamentum.md) | 2.87% |
 | 117 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.86% |
 | 117 | [Without Escape](games/w/without_escape.md) | 2.86% |
-| 119 | [The Complex](games/t/the_complex.md) | 2.74% |
+| 119 | [The Complex](games/t/the_complex.md) | 2.73% |
 | 120 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
 | 120 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.70% |
 | 122 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.66% |
-| 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.64% |
+| 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.63% |
 | 124 | [Mega City Force](games/m/mega_city_police.md) | 2.56% |
 | 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 125 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.50% |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.47% |
 | 128 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.44% |
-| 129 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.43% |
+| 129 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.42% |
 | 130 | [Destiny 2](games/d/destiny_2.md) | 2.38% |
 | 131 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
 | 132 | [Night Book](games/n/night_book.md) | 2.27% |
@@ -156,7 +156,7 @@
 | 154 | [Late Shift](games/l/late_shift.md) | 1.30% |
 | 155 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
 | 156 | [Chorus](games/c/chorus.md) | 1.28% |
-| 157 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.27% |
+| 157 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.26% |
 | 158 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.25% |
 | 159 | [Ten Dates](games/t/ten_dates.md) | 1.23% |
 | 160 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.21% |
@@ -178,9 +178,9 @@
 | 176 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
 | 177 | [Colossal Cave](games/c/colossal_cave.md) | 0.95% |
 | 177 | [Trifox](games/t/trifox.md) | 0.95% |
-| 179 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.94% |
-| 180 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.93% |
-| 180 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
+| 179 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.93% |
+| 179 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.93% |
+| 179 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
 | 182 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.92% |
 | 183 | [Hades](games/h/hades.md) | 0.91% |
 | 183 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.91% |
@@ -196,13 +196,13 @@
 | 193 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.76% |
 | 195 | [Infindustry](games/i/infindustry.md) | 0.75% |
 | 196 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
-| 197 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.69% |
 | 197 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.69% |
-| 199 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.68% |
-| 200 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.66% |
-| 201 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.65% |
-| 201 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.65% |
-| 201 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.65% |
+| 198 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.68% |
+| 198 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.68% |
+| 200 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.65% |
+| 200 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.65% |
+| 200 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.65% |
+| 200 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.65% |
 | 204 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.64% |
 | 205 | [Scrapnaut](games/s/scrapnaut.md) | 0.62% |
 | 206 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.60% |
