@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2115,
+  "EOS_Progressed": 2116,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
@@ -3940,6 +3940,11 @@
       "Time": "2024-01-08T09:10:10.0174537+00:00",
       "NumProgressed": 2115,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-08T11:11:05.8366839+00:00",
+      "NumProgressed": 2116,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3951,7 +3956,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     },
     {
       "ID": "booty_call",
@@ -3975,7 +3980,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "hold_my_beer",
@@ -3983,7 +3988,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -4039,7 +4044,7 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "smooth_criminal",
@@ -4070,7 +4075,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2115,
+      "Progressed": 2116,
       "Completed": 12
     }
   ],
@@ -4078,8 +4083,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:31.2732433+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:11:05.8366834+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:59:19.2254858+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:31.2732692+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:00:16.9616109+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:11:05.8367088+00:00"
 }

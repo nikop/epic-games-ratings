@@ -7,7 +7,7 @@
 | Welcome To Planimal Point | 96.00% | ~321 |
 | My first Planimal! | 69.00% | ~230 |
 | Red Slime Time | 65.00% | ~217 |
-| To the Rec Center! | 47.00% | ~157 |
+| To the Rec Center! | 48.00% | ~160 |
 | Green Sheen | 45.00% | ~150 |
 | Blue Goo | 30.00% | ~100 |
 | Furniture in the Forest! | 21.00% | ~70 |

@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1396,
+  "EOS_Progressed": 1397,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3689,6 +3689,11 @@
       "Time": "2024-01-08T06:09:35.3499153+00:00",
       "NumProgressed": 1396,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T11:11:23.6589525+00:00",
+      "NumProgressed": 1397,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3700,7 +3705,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3740,7 +3745,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3748,7 +3753,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -3828,7 +3833,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -3916,7 +3921,7 @@
       "Name": "Fire Alarm",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -3988,7 +3993,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4058,9 +4063,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 405
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4124,7 +4129,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -4140,7 +4145,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -4227,14 +4232,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1396,
+      "Progressed": 1397,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:46.9294238+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:11:23.658952+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:59:01.564664+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:46.9295273+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:59:51.9264857+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:11:23.6590111+00:00"
 }

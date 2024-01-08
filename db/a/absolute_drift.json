@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1562415,
+  "EOS_Progressed": 1562426,
   "EOS_Completed": 763,
-  "EOS_NewPlayers": 1721,
+  "EOS_NewPlayers": 1717,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30647,6 +30647,11 @@
       "Time": "2024-01-08T10:06:08.4849301+00:00",
       "NumProgressed": 1562415,
       "NumCompleted": 763
+    },
+    {
+      "Time": "2024-01-08T11:07:38.385496+00:00",
+      "NumProgressed": 1562426,
+      "NumCompleted": 763
     }
   ],
   "TotalAchievements": 20,
@@ -30658,7 +30663,7 @@
       "Name": "Bacon Donuts",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 9374
+      "UsersEstimate": 9375
     },
     {
       "ID": "ACH_BUZZ_CONTROL_TOWER",
@@ -30666,7 +30671,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 109369
+      "UsersEstimate": 109370
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -30674,7 +30679,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31248
+      "UsersEstimate": 31249
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -30682,7 +30687,7 @@
       "Name": "Double Rainbow",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 9374
+      "UsersEstimate": 9375
     },
     {
       "ID": "ACH_DRIFT_LINE_APPRENTICE",
@@ -30690,7 +30695,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46872
+      "UsersEstimate": 46873
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -30706,7 +30711,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 140617
+      "UsersEstimate": 140618
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -30730,7 +30735,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31248
+      "UsersEstimate": 31249
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -30738,7 +30743,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46872
+      "UsersEstimate": 46873
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -30746,7 +30751,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31248
+      "UsersEstimate": 31249
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -30754,7 +30759,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 156242
+      "UsersEstimate": 156243
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -30762,7 +30767,7 @@
       "Name": "Midnight Master",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31248
+      "UsersEstimate": 31249
     },
     {
       "ID": "ACH_MULTIPLIER_MASTER",
@@ -30770,7 +30775,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 140617
+      "UsersEstimate": 140618
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -30786,7 +30791,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31248
+      "UsersEstimate": 31249
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -30817,15 +30822,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1562415,
+      "Progressed": 1562426,
       "Completed": 763
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:06:08.4849297+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:07:38.3854955+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:06.7097027+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:57:56.9005865+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:06:08.4850748+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:58:25.9184453+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:07:38.3856523+00:00"
 }

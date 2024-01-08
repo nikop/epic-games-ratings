@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 68.00% | ~272 |
-| Forced to Kill | 65.00% | ~260 |
+| Alone with Them | 67.00% | ~269 |
+| Forced to Kill | 65.00% | ~261 |
 | A Night To Remember | 38.00% | ~152 |
 | Safe...For now? | 31.00% | ~124 |
 | Open Sesame | 27.00% | ~108 |
 | What have I done!? | 18.00% | ~72 |
 | Them and Us | 17.00% | ~68 |
 | OUTRAGE | 17.00% | ~68 |
-| Alone In The Dark | 14.00% | ~56 |
 | This Coffin Has Your Name On It! | 14.00% | ~56 |
+| Alone In The Dark | 13.00% | ~52 |
 | The Cultists | 13.00% | ~52 |
 | The Forgotten Tower | 13.00% | ~52 |
 | Parasite Exterminated | 12.00% | ~48 |
-| Trapped | 12.00% | ~48 |
+| Trapped | 11.00% | ~44 |
 | Modern Player | 10.00% | ~40 |
 | The Curse Is Real | 10.00% | ~40 |
 | Lover of classics | 9.00% | ~36 |
@@ -27,25 +27,25 @@
 | I Am The Gate Keeper! | 6.00% | ~24 |
 | Armed To The Teeth | 5.00% | ~20 |
 | This Mansion Is Clean | 4.00% | ~16 |
-| The bus stop | 3.00% | ~12 |
-| Back In Time | 2.00% | ~8 |
 | Retro Player | 2.00% | ~8 |
 | Spiritual essence well spent | 2.00% | ~8 |
 | Run and Gun | 2.00% | ~8 |
-| Pet The Dog | 2.00% | ~8 |
-| The 5th Element | 2.00% | ~8 |
-| Before The Eclipse | 0.80% | ~3 |
+| The bus stop | 2.00% | ~8 |
+| Back In Time | 1.00% | ~4 |
+| Pet The Dog | 1.00% | ~4 |
+| The 5th Element | 1.00% | ~4 |
+| Before The Eclipse | 0.70% | ~3 |
 | Box Of Ploutus | 0.50% | ~2 |
 | No Time To Relax | 0.50% | ~2 |
 | Survival Hero | 0.50% | ~2 |
-| Chosen One | 0.30% | ~1 |
-| Die Another Day | 0.30% | ~1 |
-| Dressed to Kill | 0.30% | ~1 |
-| Life Of The Thousand Gods | 0.30% | ~1 |
-| Nightmare Over | 0.30% | ~1 |
-| Survival Horror | 0.30% | ~1 |
+| Chosen One | 0.20% | ~1 |
+| Die Another Day | 0.20% | ~1 |
+| Dressed to Kill | 0.20% | ~1 |
+| Life Of The Thousand Gods | 0.20% | ~1 |
+| Nightmare Over | 0.20% | ~1 |
+| Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 366)  
+Progressed: 401 (Ranked 366)  
 Completed: 1 (0.25%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.25%) (Ranked 265)
 | 2024-01-05 | 387 | 1 |
 | 2024-01-06 | 392 | 1 |
 | 2024-01-07 | 399 | 1 |
-| 2024-01-08 | 400 | 1 |
+| 2024-01-08 | 401 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

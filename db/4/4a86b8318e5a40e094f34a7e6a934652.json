@@ -2240,9 +2240,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 331
+      "UsersEstimate": 336
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2351,8 +2351,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:08:38.2567829+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:08:40.8136637+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:58:59.1273646+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:08:38.2568143+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:59:49.2339791+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:08:40.8136826+00:00"
 }

@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98572,
+  "EOS_Progressed": 98574,
   "EOS_Completed": 453,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 923,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -29835,6 +29835,11 @@
       "Time": "2024-01-08T10:09:44.1998839+00:00",
       "NumProgressed": 98572,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2024-01-08T11:10:05.5681108+00:00",
+      "NumProgressed": 98574,
+      "NumCompleted": 453
     }
   ],
   "TotalAchievements": 10,
@@ -29910,7 +29915,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34500
+      "UsersEstimate": 34501
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -29925,15 +29930,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 98572,
+      "Progressed": 98574,
       "Completed": 453
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:09:44.1998835+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:10:05.5681104+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:53.9639027+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:03:23.6991094+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:09:44.2000741+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:03:58.597826+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:10:05.5682479+00:00"
 }

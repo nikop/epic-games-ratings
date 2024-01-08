@@ -4,7 +4,7 @@
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
@@ -560,17 +560,17 @@
       "ID": "08_ACHIEVEMENT_Game_Complete",
       "SetID": "6opd2eg",
       "Name": "Finish the game",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 150,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "09_ACHIEVEMENT_Complete_Master",
       "SetID": "6opd2eg",
       "Name": "Hanoi Master",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
@@ -599,8 +599,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:32.003045+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:11:06.5939363+00:00",
   "LastUpdate_AppInfo": "2024-01-02T09:56:59.6596492+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:57:19.0519698+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:32.0030611+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:57:33.9180198+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:11:06.593948+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 21.00% | ~178 |
-| Sponge Smasher | 21.00% | ~178 |
-| Jellyfish Jam | 20.00% | ~170 |
+| Spatula Seeker | 21.00% | ~179 |
+| Sponge Smasher | 21.00% | ~179 |
+| Jellyfish Jam | 20.00% | ~171 |
 | Jellyfishing | 16.00% | ~136 |
 | Sweet Victory | 12.00% | ~102 |
 | Sock Getter | 12.00% | ~102 |
@@ -17,7 +17,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Spatula Seeker | 10.00% | ~85 |
 | Star Smasher | 10.00% | ~85 |
 | Surf's Up! | 10.00% | ~85 |
-| Squirrel Smasher | 9.00% | ~76 |
+| Squirrel Smasher | 9.00% | ~77 |
 | Life's as extreme as you wanna make it! | 8.00% | ~68 |
 | Shrimp Catcher | 8.00% | ~68 |
 | Keep it Rolling | 7.00% | ~60 |
@@ -26,8 +26,8 @@ Number of Ratings: 76  (23.09.2022)
 | Are you ready now? | 6.00% | ~51 |
 | Hello, Bikini Bottom | 6.00% | ~51 |
 | Ultra Spatula Seeker | 6.00% | ~51 |
-| Robot encyclopedia | 5.00% | ~42 |
-| Ship Shape | 5.00% | ~42 |
+| Robot encyclopedia | 5.00% | ~43 |
+| Ship Shape | 5.00% | ~43 |
 | The Small Does Not Rule | 4.00% | ~34 |
 | Shanghaied | 4.00% | ~34 |
 | Kelp Forest of Fear | 4.00% | ~34 |
@@ -35,11 +35,11 @@ Number of Ratings: 76  (23.09.2022)
 | Sleepy Time | 4.00% | ~34 |
 | Sock Concert | 4.00% | ~34 |
 | Mega Spatula Seeker | 4.00% | ~34 |
-| 100% SpongeBob | 1.00% | ~8 |
-| Sock Opera | 1.00% | ~8 |
-| Super Ultra Mega Spatula Seeker | 1.00% | ~8 |
+| 100% SpongeBob | 1.00% | ~9 |
+| Sock Opera | 1.00% | ~9 |
+| Super Ultra Mega Spatula Seeker | 1.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 850 (Ranked 305)  
+Progressed: 853 (Ranked 305)  
 Completed: 8 (0.94%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 8 (0.94%) (Ranked 179)
 | 2024-01-05 | 747 | 7 |
 | 2024-01-06 | 780 | 7 |
 | 2024-01-07 | 836 | 7 |
-| 2024-01-08 | 850 | 8 |
+| 2024-01-08 | 853 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 497)  
 Sum: 36 (Ranked 529)  

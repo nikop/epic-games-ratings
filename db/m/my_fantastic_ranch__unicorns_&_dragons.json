@@ -289,9 +289,9 @@
       "ID": "10",
       "SetID": "6ljhbe4",
       "Name": "Creature Evolution",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "11",
@@ -457,9 +457,9 @@
       "ID": "7",
       "SetID": "6ljhbe4",
       "Name": "Lecturer",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "8",
@@ -490,8 +490,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:05:04.9860595+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:06:14.6060202+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:56.9630067+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:58:07.57077+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:05:04.9860762+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:58:39.9351639+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:06:14.6060409+00:00"
 }

@@ -22,8 +22,8 @@
 | Put A Ring On It | 9.00% | ~29 |
 | Heavy Rayne | 8.00% | ~26 |
 | Chicken | 7.00% | ~23 |
+| Bullseye | 5.00% | ~16 |
 | Show Me Some Skin | 5.00% | ~16 |
-| Bullseye | 4.00% | ~13 |
 | The Big Sleep | 4.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 324 (Ranked 387)  

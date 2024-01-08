@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18616,
+  "EOS_Progressed": 18618,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16686,6 +16686,11 @@
       "Time": "2024-01-08T10:08:35.4219284+00:00",
       "NumProgressed": 18616,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-08T11:08:37.3240624+00:00",
+      "NumProgressed": 18618,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16842,7 +16847,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "27",
@@ -16874,7 +16879,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "30",
@@ -16898,7 +16903,7 @@
       "Name": "Data Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "6",
@@ -16906,7 +16911,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2606
+      "UsersEstimate": 2607
     },
     {
       "ID": "7",
@@ -16977,13 +16982,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18616,
+      "Progressed": 18618,
       "Completed": 60
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4570,
+      "Progressed": 4572,
       "Completed": 1253
     }
   ],
@@ -16991,8 +16996,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-06T19:58:03.9516258+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:08:35.421928+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:08:37.324062+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:58:51.4905324+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:08:35.4220327+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:59:40.1033212+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:08:37.3241484+00:00"
 }

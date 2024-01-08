@@ -28,17 +28,17 @@ Number of Ratings: 892  (23.09.2022)
 | Yakmel Whisperer | 77.00% | ~671 |
 | Panda-kin | 76.00% | ~663 |
 | No Mountain Wide Enough | 76.00% | ~663 |
+| First Love | 75.00% | ~654 |
 | I Do! | 75.00% | ~654 |
 | Chatterbox | 74.00% | ~645 |
-| First Love | 74.00% | ~645 |
 | Can We Keep It? | 71.00% | ~619 |
-| Builder of the Month | 69.00% | ~602 |
+| Builder of the Month | 70.00% | ~610 |
 | Bridging the Gap | 66.00% | ~576 |
 | Elementary, My Dear | 66.00% | ~576 |
 | Waste Not Want Not | 64.00% | ~558 |
 | Commissions, commissions...! | 63.00% | ~549 |
 | Lifeline Pipeline | 61.00% | ~532 |
-| Got the Flow Back | 60.00% | ~523 |
+| Got the Flow Back | 61.00% | ~532 |
 | Martle's Dream | 57.00% | ~497 |
 | Sepia Toned Memories | 54.00% | ~471 |
 | Happier-est Place on Earth | 54.00% | ~471 |

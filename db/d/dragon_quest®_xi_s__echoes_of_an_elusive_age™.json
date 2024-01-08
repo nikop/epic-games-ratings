@@ -4,10 +4,10 @@
   "ProductSlug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
   "Ranking_Rating": 56,
   "Ranking_Popularity": 289,
-  "Ranking_PopularitySum": 340,
+  "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-09-24T09:00:00+00:00",
@@ -777,10 +777,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 456,
       "NumberOfAwardsMax": 226
+    },
+    {
+      "Time": "2024-01-08T10:58:48.4230405+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 484,
+      "NumberOfAwardsMax": 226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 456,
+  "NumberOfAwards": 484,
   "NumberOfAwardsMax": 226,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -831,6 +837,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 34
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -844,8 +856,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:40.4195288+00:00",
-  "LastChanged": "2024-01-08T07:58:36.8119288+00:00",
+  "LastChanged": "2024-01-08T10:58:48.4230403+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.706699+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:58:13.9206405+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:03:41.4849287+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:58:48.4230408+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:04:24.6956295+00:00"
 }

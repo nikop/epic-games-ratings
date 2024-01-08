@@ -2,9 +2,9 @@
   "ID": "4470ce6748c74c708af72cf4535efca6",
   "Name": "Warstone TD",
   "ProductSlug": "warstone-td-8fe138",
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -378,9 +378,9 @@
       "ID": "12",
       "SetID": "5e3maia",
       "Name": "Stargazer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "13",
@@ -658,9 +658,9 @@
       "ID": "46",
       "SetID": "5e3maia",
       "Name": "Historian",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "47",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:05:23.5671914+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:06:39.6599014+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:04.7034788+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:57:41.4157724+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:05:23.567261+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:58:04.489738+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:06:39.6599696+00:00"
 }

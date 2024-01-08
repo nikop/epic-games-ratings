@@ -9,7 +9,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 13.00% | ~913 |
 | Lost and Found | 8.00% | ~562 |
 | Autodidact | 7.00% | ~9,251 |
-| This guy... again? | 7.00% | ~491 |
+| This guy... again? | 7.00% | ~492 |
 | This Belongs in a Museum | 6.00% | ~7,929 |
 | Creep and Sleep | 6.00% | ~7,929 |
 | Overdue Notice | 6.00% | ~7,929 |
@@ -29,6 +29,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 4.00% | ~5,286 |
 | Merry Time | 4.00% | ~5,286 |
 | Harvest Festival | 4.00% | ~5,286 |
+| Ramble On | 4.00% | ~5,286 |
 | Whale | 4.00% | ~5,286 |
 | A Place to Lay Your Head | 4.00% | ~5,286 |
 | Nope | 4.00% | ~5,286 |
@@ -46,7 +47,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 3.00% | ~3,965 |
 | Now Stay Dead | 3.00% | ~3,965 |
 | Reverse Banditry | 3.00% | ~3,965 |
-| Ramble On | 3.00% | ~3,965 |
 | A Clear Conscience | 3.00% | ~3,965 |
 | When You Want Something Done Right | 3.00% | ~3,965 |
 | Utopia | 3.00% | ~3,965 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,152 (Ranked 91)  
+Progressed: 132,155 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,152 | 3 |
+| 2024-01-08 | 132,155 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
 Sum: 21,528 (Ranked 58)  

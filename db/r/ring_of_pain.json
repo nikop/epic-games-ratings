@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242604,
+  "EOS_Progressed": 242606,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31100,6 +31100,11 @@
       "Time": "2024-01-08T10:10:49.2993431+00:00",
       "NumProgressed": 242604,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-08T11:11:25.9921279+00:00",
+      "NumProgressed": 242606,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31877,9 +31882,9 @@
       "ID": "STEALTH10",
       "SetID": "5l8oe0h",
       "Name": "Sneaky",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 2183
     },
     {
       "ID": "STEALTH100",
@@ -32214,13 +32219,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242604,
+      "Progressed": 242606,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4084,
+      "Progressed": 4086,
       "Completed": 422
     }
   ],
@@ -32228,8 +32233,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:49.2993428+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:11:25.9921275+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:57:15.7548143+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:49.2996224+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:57:29.3392711+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:11:25.9923831+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2150,7 +2150,7 @@
   ],
   "EOS_Progressed": 872,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9563,9 +9563,9 @@
       "ID": "M_HOME_RANK",
       "SetID": "80dcan0",
       "Name": "Builder of the Month",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 602
+      "UsersEstimate": 610
     },
     {
       "ID": "M_HOME_STAR",
@@ -9715,9 +9715,9 @@
       "ID": "P_WATERTOWER",
       "SetID": "80dcan0",
       "Name": "Got the Flow Back",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 523
+      "UsersEstimate": 532
     },
     {
       "ID": "S_BRIGHTSUN",
@@ -9803,9 +9803,9 @@
       "ID": "S_LOVE",
       "SetID": "80dcan0",
       "Name": "First Love",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 654
     },
     {
       "ID": "S_MARRY",
@@ -9931,8 +9931,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-08T09:58:36.3909633+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:09:20.5953703+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:09:34.9189527+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.0919525+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:58:36.3909637+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:09:20.5954442+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:59:19.2841238+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:09:34.9190439+00:00"
 }

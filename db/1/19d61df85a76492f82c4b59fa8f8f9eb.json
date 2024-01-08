@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 510,
+  "EOS_Progressed": 511,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 9.61,
+  "EOS_Completed_Percentage": 9.59,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2394,6 +2394,11 @@
       "Time": "2024-01-08T00:08:28.7703911+00:00",
       "NumProgressed": 510,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-08T11:09:55.795142+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 6,
@@ -2413,7 +2418,7 @@
       "Name": "File-cutter",
       "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2445,21 +2450,21 @@
       "Name": "Flying Machine",
       "Percentage": 33,
       "XP": 165,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 510,
+      "Progressed": 511,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:09:36.6211618+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:09:55.7951415+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:10.7268546+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:58:52.618341+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:09:36.6211836+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:59:41.1527245+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:09:55.7951628+00:00"
 }

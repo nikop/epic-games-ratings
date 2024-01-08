@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.80% | ~130 |
 | Ishtar Gate | 0.80% | ~130 |
 | Christianity | 0.80% | ~130 |
+| Roman Paganism | 0.80% | ~130 |
 | Zoroastrianism | 0.80% | ~130 |
 | Wise | 0.70% | ~114 |
 | Able Difficulty | 0.70% | ~114 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.70% | ~114 |
 | Learn to Play 2 | 0.70% | ~114 |
 | Carthaginian Paganism | 0.70% | ~114 |
-| Roman Paganism | 0.70% | ~114 |
 | Regicide | 0.60% | ~97 |
 | Great | 0.60% | ~97 |
 | Legendary Cities | 0.60% | ~97 |
@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.30% | ~49 |
 | Double Victory | 0.30% | ~49 |
 | The Clergy | 0.30% | ~49 |
+| Kushite Paganism | 0.30% | ~49 |
 | Ishtar Gate in Babylon | 0.20% | ~32 |
 | Carthage - Ox Hide | 0.20% | ~32 |
 | Devout | 0.20% | ~32 |
@@ -143,7 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.20% | ~32 |
 | Deposed Tribe | 0.20% | ~32 |
 | Kushite Pyramids | 0.20% | ~32 |
-| Kushite Paganism | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
 | Alexander the who? | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,223 (Ranked 168)  
+Progressed: 16,225 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,223 | 5 |
+| 2024-01-08 | 16,225 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 223)  

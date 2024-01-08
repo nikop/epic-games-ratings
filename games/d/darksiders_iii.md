@@ -16,10 +16,10 @@ Number of Ratings: 116  (23.09.2022)
 | Perfect Storm | 46.00% | ~227 |
 | All That Glitters | 45.00% | ~222 |
 | Enhance! | 42.00% | ~207 |
+| Throne Potato | 40.00% | ~197 |
 | Five's a Crowd | 40.00% | ~197 |
 | One Of the Chosen | 39.00% | ~192 |
 | Devil's in the Details | 39.00% | ~192 |
-| Throne Potato | 39.00% | ~192 |
 | 25 to Life | 39.00% | ~192 |
 | Salvation | 38.00% | ~187 |
 | Unshakable Fortitude | 36.00% | ~177 |
@@ -32,10 +32,10 @@ Number of Ratings: 116  (23.09.2022)
 | Eat Your Heart Out | 29.00% | ~143 |
 | For Whom the Bell Tolls | 29.00% | ~143 |
 | Unyielding Strength | 26.00% | ~128 |
+| Can you restore the Balance? | 25.00% | ~123 |
 | Crowd Source | 25.00% | ~123 |
 | Big Spender | 25.00% | ~123 |
 | Cleanup Crew | 24.00% | ~118 |
-| Can you restore the Balance? | 24.00% | ~118 |
 | Maximum Capacity | 22.00% | ~108 |
 | Demon Meddler | 22.00% | ~108 |
 | Seeing Red | 21.00% | ~104 |

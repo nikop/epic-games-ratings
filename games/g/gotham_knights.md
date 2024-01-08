@@ -8,23 +8,23 @@ Rating: 4.19 (Ranked 971)
 | First Step Into the Knight | 50.00% | ~41,038 |
 | Har, Har, Har, Very Funny | 34.00% | ~27,906 |
 | Loose Ends | 33.00% | ~27,085 |
-| To the Victor Go the Spoils | 27.00% | ~22,160 |
+| To the Victor Go the Spoils | 27.00% | ~22,161 |
 | Knighthood | 26.00% | ~21,340 |
 | Get ReQ'd | 24.00% | ~19,698 |
 | Whispered Words | 24.00% | ~19,698 |
-| The Batman Family | 22.00% | ~18,056 |
-| Lock and Key | 22.00% | ~18,056 |
+| The Batman Family | 22.00% | ~18,057 |
+| Lock and Key | 22.00% | ~18,057 |
 | Something in the Clay | 20.00% | ~16,415 |
 | Quartzer Life Crisis | 20.00% | ~16,415 |
 | Working Hard or Harley Working? | 20.00% | ~16,415 |
 | Unstoppable Force | 20.00% | ~16,415 |
 | Bad Apples in Every Orchard | 20.00% | ~16,415 |
-| Snow Problem | 19.00% | ~15,594 |
+| Snow Problem | 19.00% | ~15,595 |
 | The Show Mud Go On | 17.00% | ~13,953 |
 | From Inside Gotham's Walls | 17.00% | ~13,953 |
 | Protector of Gotham | 16.00% | ~13,132 |
-| In Your Element | 15.00% | ~12,311 |
-| Universal Health Scare | 15.00% | ~12,311 |
+| In Your Element | 15.00% | ~12,312 |
+| Universal Health Scare | 15.00% | ~12,312 |
 | Rock and a Hard Place | 14.00% | ~11,491 |
 | Cooldown | 14.00% | ~11,491 |
 | Voiceless | 14.00% | ~11,491 |
@@ -39,8 +39,8 @@ Rating: 4.19 (Ranked 971)
 | Drone You Out | 9.00% | ~7,387 |
 | Solid Alibi | 8.00% | ~6,566 |
 | Fusion Expert | 7.00% | ~5,745 |
-| Family Meeting | 6.00% | ~4,924 |
-| A Worthy Successor | 6.00% | ~4,924 |
+| Family Meeting | 6.00% | ~4,925 |
+| A Worthy Successor | 6.00% | ~4,925 |
 | Expert Crime Fighter | 5.00% | ~4,104 |
 | Dressed to Impress | 4.00% | ~3,283 |
 | A Momentum Occasion | 3.00% | ~2,462 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 971)
 | The Cold, the Bad and the Ugly | 0.30% | ~157 |
 | It's Nice to Be Wanted | 0.20% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,075 (Ranked 110)  
+Progressed: 82,077 (Ranked 110)  
 Completed: 132 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 132 (0.16%) (Ranked 283)
 | 2024-01-05 | 81,609 | 131 |
 | 2024-01-06 | 81,792 | 132 |
 | 2024-01-07 | 81,989 | 132 |
-| 2024-01-08 | 82,075 | 132 |
+| 2024-01-08 | 82,077 | 132 |
 ## Awards
 Max (Great Boss Battles): 3,157  (Ranked 101)  
 Sum: 5,393 (Ranked 141)  

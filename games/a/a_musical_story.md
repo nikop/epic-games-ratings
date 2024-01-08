@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 97.00% | ~110 |
-| Rehearsal | 96.00% | ~108 |
-| Daily Life | 93.00% | ~105 |
-| Assembly Line Work | 90.00% | ~102 |
-| Solitude | 86.00% | ~97 |
-| Pinewood, Here we come! | 78.00% | ~88 |
-| The Van | 73.00% | ~82 |
+| ECG | 96.00% | ~109 |
+| Rehearsal | 95.00% | ~108 |
+| Daily Life | 92.00% | ~105 |
+| Assembly Line Work | 89.00% | ~101 |
+| Solitude | 85.00% | ~97 |
+| Pinewood, Here we come! | 77.00% | ~88 |
+| The Van | 72.00% | ~82 |
 | Road-Trip | 66.00% | ~75 |
-| A Musical Pause | 65.00% | ~73 |
-| Briget's | 56.00% | ~63 |
-| Sound of Noise | 50.00% | ~56 |
-| Big City Music | 48.00% | ~54 |
-| Love at First Sight | 47.00% | ~53 |
-| First Kiss | 40.00% | ~45 |
+| A Musical Pause | 65.00% | ~74 |
+| Briget's | 55.00% | ~63 |
+| Sound of Noise | 49.00% | ~56 |
+| Big City Music | 47.00% | ~54 |
+| Love at First Sight | 46.00% | ~52 |
+| First Kiss | 39.00% | ~44 |
 | Symbiosis | 37.00% | ~42 |
-| A Bigger Band | 35.00% | ~40 |
+| A Bigger Band | 34.00% | ~39 |
 | Fuel | 31.00% | ~35 |
 | Alone Together | 31.00% | ~35 |
 | Threatening Nature | 29.00% | ~33 |
 | Flat Tire | 28.00% | ~32 |
-| TV Dreams | 26.00% | ~29 |
+| TV Dreams | 25.00% | ~28 |
 | The Clash | 24.00% | ~27 |
 | Dreamers | 20.00% | ~23 |
-| The Fix | 19.00% | ~21 |
-| Time | 18.00% | ~20 |
+| The Fix | 19.00% | ~22 |
+| Time | 18.00% | ~21 |
 | The Mountains, The Valleys | 16.00% | ~18 |
 | Bad Trip | 15.00% | ~17 |
 | Regrets | 15.00% | ~17 |
 | Chase the Crow | 13.00% | ~15 |
-| Love | 12.00% | ~14 |
 | The Accident | 12.00% | ~14 |
 | The Awakening | 12.00% | ~14 |
-| Flight of the Bumblebee | 12.00% | ~14 |
-| Here we go again! | 11.00% | ~12 |
+| Love | 11.00% | ~13 |
+| Here we go again! | 11.00% | ~13 |
+| Flight of the Bumblebee | 11.00% | ~13 |
 | As the Crow Flies | 9.00% | ~10 |
 | Milk and Alcohol | 8.00% | ~9 |
 | Under the Bridge | 6.00% | ~7 |
@@ -59,7 +59,7 @@
 | Pinewood | 0.90% | ~1 |
 | Love is All | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 483)  
+Progressed: 114 (Ranked 482)  
 Completed: 1 (0.88%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 1 (0.88%) (Ranked 187)
 | 2023-12-23 | 111 | 1 |
 | 2023-12-24 | 112 | 1 |
 | 2023-12-25 | 113 | 1 |
+| 2024-01-08 | 114 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

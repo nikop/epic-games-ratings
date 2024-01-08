@@ -1955,7 +1955,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 68941,
+  "EOS_Progressed": 68942,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 0,
@@ -30980,6 +30980,11 @@
       "Time": "2024-01-08T10:06:16.4247906+00:00",
       "NumProgressed": 68941,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T11:07:48.8121096+00:00",
+      "NumProgressed": 68942,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -31303,7 +31308,7 @@
       "Name": "Basic Training",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15856
+      "UsersEstimate": 15857
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -31359,7 +31364,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 53774
+      "UsersEstimate": 53775
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -31455,22 +31460,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25508
+      "UsersEstimate": 25509
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 68941,
+      "Progressed": 68942,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-07T19:00:20.0118859+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:06:16.4247899+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:07:48.8121092+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.5305019+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:00:46.2794952+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:06:16.4249554+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:02:12.1343862+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:07:48.8122914+00:00"
 }

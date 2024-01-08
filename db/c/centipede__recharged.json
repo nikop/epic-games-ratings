@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24929,
+  "EOS_Progressed": 24930,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -22504,6 +22504,11 @@
       "Time": "2024-01-08T10:05:14.8451922+00:00",
       "NumProgressed": 24929,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-08T11:06:27.9467138+00:00",
+      "NumProgressed": 24930,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -22531,7 +22536,7 @@
       "Name": "Deadline",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2991
+      "UsersEstimate": 2992
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -22587,7 +22592,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 9722
+      "UsersEstimate": 9723
     },
     {
       "ID": "Mirrors",
@@ -22642,15 +22647,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24929,
+      "Progressed": 24930,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-06T06:00:08.5224706+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:05:14.8451918+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:06:27.9467133+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.4692455+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:00:20.3562034+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:05:14.8453031+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:57:23.6672988+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:06:27.9468398+00:00"
 }

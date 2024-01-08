@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1751,6 +1751,11 @@
       "Time": "2024-01-08T03:09:15.5576084+00:00",
       "NumProgressed": 400,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T11:09:27.1048456+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1768,17 +1773,17 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 269
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1792,15 +1797,15 @@
       "ID": "ETUA_BackInTime",
       "SetID": "65jc0ap",
       "Name": "Back In Time",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_BeforeTheEclipse",
       "SetID": "65jc0ap",
       "Name": "Before The Eclipse",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -1816,7 +1821,7 @@
       "ID": "ETUA_ChosenOne",
       "SetID": "65jc0ap",
       "Name": "Chosen One",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1832,7 +1837,7 @@
       "ID": "ETUA_DieAnotherDay",
       "SetID": "65jc0ap",
       "Name": "Die Another Day",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1840,7 +1845,7 @@
       "ID": "ETUA_DressedtoKill",
       "SetID": "65jc0ap",
       "Name": "Dressed to Kill",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1858,7 +1863,7 @@
       "Name": "Forced to Kill",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1872,7 +1877,7 @@
       "ID": "ETUA_LifeOfTheThousandGods",
       "SetID": "65jc0ap",
       "Name": "Life Of The Thousand Gods",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1896,7 +1901,7 @@
       "ID": "ETUA_NightmareOver",
       "SetID": "65jc0ap",
       "Name": "Nightmare Over",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1928,9 +1933,9 @@
       "ID": "ETUA_PTD",
       "SetID": "65jc0ap",
       "Name": "Pet The Dog",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_ParasiteExterminated",
@@ -1960,7 +1965,7 @@
       "ID": "ETUA_SUPER",
       "SetID": "65jc0ap",
       "Name": "Survival Horror",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -1992,17 +1997,17 @@
       "ID": "ETUA_The5thElement",
       "SetID": "65jc0ap",
       "Name": "The 5th Element",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_TheBusStop",
       "SetID": "65jc0ap",
       "Name": "The bus stop",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "ETUA_TheCultists",
@@ -2056,9 +2061,9 @@
       "ID": "ETUA_Trapped",
       "SetID": "65jc0ap",
       "Name": "Trapped",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -2081,7 +2086,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 1
     }
   ],
@@ -2089,8 +2094,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:09:14.4527021+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:09:27.1048452+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:36.5425929+00:00",
   "LastUpdate_Ratings": "2024-01-08T10:02:49.1615781+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:09:14.4527382+00:00"
+  "LastUpdate_Achievements": "2024-01-08T11:09:27.1048853+00:00"
 }

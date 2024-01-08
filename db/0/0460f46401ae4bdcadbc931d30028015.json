@@ -1515,9 +1515,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 9457,
+  "EOS_Progressed": 9459,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1717,
+  "EOS_NewPlayers": 1713,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10540,6 +10540,11 @@
       "Time": "2024-01-08T10:05:42.8370781+00:00",
       "NumProgressed": 9457,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T11:07:04.9263238+00:00",
+      "NumProgressed": 9459,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -10560,7 +10565,7 @@
       "Name": "Stud Finder",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "achievement_11",
@@ -10584,7 +10589,7 @@
       "Name": "MVP",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "achievement_14",
@@ -10592,7 +10597,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "achievement_15",
@@ -10648,7 +10653,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 5485
+      "UsersEstimate": 5486
     },
     {
       "ID": "achievement_21",
@@ -10664,7 +10669,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "achievement_4",
@@ -10704,7 +10709,7 @@
       "Name": "Bragging Rights",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "achievement_9",
@@ -10719,7 +10724,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 9457,
+      "Progressed": 9459,
       "Completed": 0
     }
   ],
@@ -10727,8 +10732,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-08T01:51:43.5443149+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:05:42.8370777+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:07:04.9263233+00:00",
   "LastUpdate_AppInfo": "2024-01-04T09:57:17.1124999+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:03:02.6705866+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:05:42.8371452+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:03:28.2196799+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:07:04.9263854+00:00"
 }

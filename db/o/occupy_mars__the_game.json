@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1859,
+  "EOS_Progressed": 1860,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4917,6 +4917,11 @@
       "Time": "2024-01-07T23:09:54.5554975+00:00",
       "NumProgressed": 1859,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T11:10:30.954204+00:00",
+      "NumProgressed": 1860,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5078,9 +5083,9 @@
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
       "SetID": "l546gc",
       "Name": "Detective",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 372
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -5104,7 +5109,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5120,7 +5125,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5128,7 +5133,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -5176,7 +5181,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5184,7 +5189,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5311,7 +5316,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1859,
+      "Progressed": 1860,
       "Completed": 0
     }
   ],
@@ -5319,8 +5324,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:03.7170032+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:10:30.9542036+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:00:18.2637648+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:03.7170865+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:01:35.64102+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:10:30.9542499+00:00"
 }

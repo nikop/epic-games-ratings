@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 979,
+  "EOS_Progressed": 980,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3472,6 +3472,11 @@
       "Time": "2024-01-07T21:06:34.9172071+00:00",
       "NumProgressed": 979,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T11:07:25.9950556+00:00",
+      "NumProgressed": 980,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3507,7 +3512,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "female-conqueror",
@@ -3523,7 +3528,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "hire-lieutenant",
@@ -3587,7 +3592,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "sell-variety",
@@ -3595,7 +3600,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "send-smuggling",
@@ -3619,7 +3624,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "use-submarine",
@@ -3634,15 +3639,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 979,
+      "Progressed": 980,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:05:58.9408769+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:07:25.9950551+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3719101+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:03:08.7326526+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:05:58.9409049+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:03:36.9759133+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:07:25.9951114+00:00"
 }

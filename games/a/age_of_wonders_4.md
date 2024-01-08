@@ -28,6 +28,7 @@ Rating: 4.62 (Ranked 378)
 | Impenetrable Fortress | 4.00% | ~283 |
 | Preparation Is Everything | 3.00% | ~212 |
 | Fiery Friend | 3.00% | ~212 |
+| Here be Dragons | 3.00% | ~212 |
 | Tipping the Scales | 3.00% | ~212 |
 | Freed Lands of Manuhari | 3.00% | ~212 |
 | I've Got Everything I Need Right Here | 2.00% | ~141 |
@@ -37,7 +38,6 @@ Rating: 4.62 (Ranked 378)
 | Eternal Lord | 2.00% | ~141 |
 | Crimson Caldera | 2.00% | ~141 |
 | The Eternal Court | 2.00% | ~141 |
-| Here be Dragons | 2.00% | ~141 |
 | Blood of the Dragon | 2.00% | ~141 |
 | Mighty Hoard | 2.00% | ~141 |
 | Sehiran Oasis | 2.00% | ~141 |

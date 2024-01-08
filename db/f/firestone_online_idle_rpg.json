@@ -733,9 +733,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4309,
+  "EOS_Progressed": 4310,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12078,6 +12078,11 @@
       "Time": "2024-01-08T09:04:59.6824469+00:00",
       "NumProgressed": 4309,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T11:06:39.3625722+00:00",
+      "NumProgressed": 4310,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12137,7 +12142,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "cauldronliberator",
@@ -12169,7 +12174,7 @@
       "Name": "Crystal Mining",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "dailyquestcompletionist",
@@ -12209,7 +12214,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ebonyjungleliberator",
@@ -12241,7 +12246,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "enhancedwarmachines",
@@ -12265,7 +12270,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "fellowshippower",
@@ -12345,7 +12350,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "hunter",
@@ -12433,7 +12438,7 @@
       "Name": "Missions Dedication",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "movinguptheladder",
@@ -12545,7 +12550,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2413
+      "UsersEstimate": 2414
     },
     {
       "ID": "thealchemist",
@@ -12649,7 +12654,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4007
+      "UsersEstimate": 4008
     },
     {
       "ID": "warmachinesarmy",
@@ -12681,14 +12686,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3361
+      "UsersEstimate": 3362
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4309,
+      "Progressed": 4310,
       "Completed": 2
     }
   ],
@@ -12696,8 +12701,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-07T17:59:46.9160266+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:05:23.3238055+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:06:39.3625718+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:00:25.121935+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:05:23.3239283+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:01:45.0659533+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:06:39.3626886+00:00"
 }

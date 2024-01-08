@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -1120,9 +1120,9 @@
       "ID": "Max_Reputation_UramGor",
       "SetID": "7b9f97e",
       "Name": "Friend of Uram Gor",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Max_Reputation_Westguard",
@@ -1208,9 +1208,9 @@
       "ID": "Tower_Fly",
       "SetID": "7b9f97e",
       "Name": "Fly the friendly Sky",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "Zombify_Unit_Post_Battle",
@@ -1233,8 +1233,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:10.8228851+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:10:39.9148558+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:03:01.5212117+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:10.8229693+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:03:27.4525052+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:10:39.914918+00:00"
 }

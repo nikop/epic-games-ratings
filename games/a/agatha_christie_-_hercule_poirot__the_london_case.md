@@ -36,9 +36,9 @@
 | A curious phrase | 21.00% | ~21 |
 | Evelyn Lakshmi Warbeck | 21.00% | ~21 |
 | The Suspects | 21.00% | ~21 |
-| Horace Mountjoy | 19.00% | ~19 |
+| Horace Mountjoy | 20.00% | ~20 |
+| The Secrets | 20.00% | ~20 |
 | Johan Kristiansen | 19.00% | ~19 |
-| The Secrets | 19.00% | ~19 |
 | A peculiar fellow | 17.00% | ~17 |
 | Mortimer Ailsworth | 17.00% | ~17 |
 | Well-travelled | 16.00% | ~16 |

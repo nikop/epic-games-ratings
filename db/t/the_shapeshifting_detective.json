@@ -865,9 +865,9 @@
       "ID": "bullseye",
       "SetID": "2db2j74",
       "Name": "Bullseye",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "chameleon",
@@ -1026,8 +1026,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:04:31.3746114+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:05:30.3791677+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:51.7616566+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:03:20.4097586+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:04:31.3746534+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:03:54.2066663+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:05:30.3791828+00:00"
 }

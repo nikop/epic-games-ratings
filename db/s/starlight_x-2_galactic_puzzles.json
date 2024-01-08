@@ -553,9 +553,9 @@
       "ID": "ach_levels_02",
       "SetID": "8jkn3bi",
       "Name": "Complete 100 levels",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_levels_03",
@@ -745,9 +745,9 @@
       "ID": "ach_switchoff_00",
       "SetID": "8jkn3bi",
       "Name": "Switch off the light",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_usehints_00",
@@ -784,8 +784,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:42.2458033+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:11:18.1845431+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:06.833753+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:57:32.4023101+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:42.245835+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:57:51.6695419+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:11:18.1845762+00:00"
 }

@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 15869,
+  "EOS_Progressed": 15870,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 963,
+  "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -17436,6 +17436,11 @@
       "Time": "2024-01-08T10:10:21.8081241+00:00",
       "NumProgressed": 15869,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-08T11:10:54.0829778+00:00",
+      "NumProgressed": 15870,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 34,
@@ -17471,7 +17476,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "ACH05",
@@ -17615,7 +17620,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "ACH23",
@@ -17655,7 +17660,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "ACH28",
@@ -17718,7 +17723,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15869,
+      "Progressed": 15870,
       "Completed": 91
     }
   ],
@@ -17726,8 +17731,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:21.8081237+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:10:54.0829774+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:00:43.5468175+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:21.8082219+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:02:08.1548128+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:10:54.0830537+00:00"
 }

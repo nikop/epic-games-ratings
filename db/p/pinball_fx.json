@@ -2251,9 +2251,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 293060,
+  "EOS_Progressed": 293065,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3383,
+  "EOS_NewPlayers": 3374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32406,6 +32406,11 @@
       "Time": "2024-01-08T10:04:28.4599525+00:00",
       "NumProgressed": 293060,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T11:05:26.7531433+00:00",
+      "NumProgressed": 293065,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -32535,9 +32540,9 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "83b4cpd",
       "Name": "Ready Steady Score",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1465
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -32728,21 +32733,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 293060,
+      "Progressed": 293065,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 11219,
+      "Progressed": 11224,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-08T02:27:49.0038254+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:04:28.459952+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:05:26.7531428+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:02.0619191+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:03:33.8024342+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:04:28.4601461+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:04:12.0937333+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:05:26.7533073+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 503,
+  "EOS_Progressed": 504,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1645,6 +1645,11 @@
       "Time": "2024-01-08T09:03:44.8684016+00:00",
       "NumProgressed": 503,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T11:04:51.597957+00:00",
+      "NumProgressed": 504,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1696,7 +1701,7 @@
       "Name": "Under One Roof",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_art",
@@ -1960,7 +1965,7 @@
       "Name": "Starting Skyward",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ach_floors_1",
@@ -1992,7 +1997,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ach_grime_1",
@@ -2008,7 +2013,7 @@
       "Name": "Rehab Expert",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_happy",
@@ -2104,7 +2109,7 @@
       "Name": "Established Fame",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_prestige_3",
@@ -2166,9 +2171,9 @@
       "ID": "ach_restaurants_2",
       "SetID": "b8gh1fi",
       "Name": "Tasty Profits",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_restaurants_3",
@@ -2192,7 +2197,7 @@
       "Name": "Starred Dining",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_retail_1",
@@ -2232,7 +2237,7 @@
       "Name": "Cashflow Chief",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_revs_2",
@@ -2359,7 +2364,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 503,
+      "Progressed": 504,
       "Completed": 0
     }
   ],
@@ -2367,8 +2372,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:04:01.6103648+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:04:51.5979566+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:57:34.9758583+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:04:01.610469+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:57:55.1048945+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:04:51.5980622+00:00"
 }

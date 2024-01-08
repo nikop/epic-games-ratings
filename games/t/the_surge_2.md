@@ -5,8 +5,8 @@ Rating: 4.26 (Ranked 915)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~1,970 |
-| Don't I Know You...? | 75.00% | ~1,894 |
+| Rigged And Ready | 78.00% | ~1,971 |
+| Don't I Know You...? | 75.00% | ~1,895 |
 | Jailbreak | 64.00% | ~1,617 |
 | HEADSHOT! | 37.00% | ~935 |
 | Suited and Booted | 37.00% | ~935 |
@@ -18,20 +18,20 @@ Rating: 4.26 (Ranked 915)
 | Home Invasion | 22.00% | ~556 |
 | Luminary | 22.00% | ~556 |
 | It's a Trap | 22.00% | ~556 |
-| True Survivor | 21.00% | ~530 |
+| True Survivor | 21.00% | ~531 |
 | Offensive Defense | 20.00% | ~505 |
 | Shocking | 20.00% | ~505 |
 | Unforeseeable Consequences | 19.00% | ~480 |
 | Court Martial | 18.00% | ~455 |
 | Clean Cut | 18.00% | ~455 |
-| Dead Again | 17.00% | ~429 |
-| Full Arsenal | 17.00% | ~429 |
+| Dead Again | 17.00% | ~430 |
+| Full Arsenal | 17.00% | ~430 |
 | Can't Trust Banks | 15.00% | ~379 |
-| Mommy Dearest | 13.00% | ~328 |
-| Bad Dog | 13.00% | ~328 |
-| Where It All Began | 13.00% | ~328 |
-| Risk Tolerant | 13.00% | ~328 |
-| What A Catchy Song | 13.00% | ~328 |
+| Mommy Dearest | 13.00% | ~329 |
+| Bad Dog | 13.00% | ~329 |
+| Where It All Began | 13.00% | ~329 |
+| Risk Tolerant | 13.00% | ~329 |
+| What A Catchy Song | 13.00% | ~329 |
 | Sorry, Didn't See You There | 12.00% | ~303 |
 | Corrupted Beauty | 11.00% | ~278 |
 | Marked For Success | 11.00% | ~278 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 915)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,526 (Ranked 236)  
+Progressed: 2,527 (Ranked 236)  
 Completed: 13 (0.51%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 13 (0.51%) (Ranked 219)
 | 2024-01-05 | 2,483 | 13 |
 | 2024-01-06 | 2,499 | 13 |
 | 2024-01-07 | 2,519 | 13 |
-| 2024-01-08 | 2,526 | 13 |
+| 2024-01-08 | 2,527 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238974,
+  "EOS_Progressed": 238975,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 531,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27968,6 +27968,11 @@
       "Time": "2024-01-08T10:06:04.7385781+00:00",
       "NumProgressed": 238974,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-08T11:07:33.5072899+00:00",
+      "NumProgressed": 238975,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28115,7 +28120,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78861
+      "UsersEstimate": 78862
     },
     {
       "ID": "NOBUNAGA",
@@ -28139,7 +28144,7 @@
       "Name": "ON A ROLL",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23897
+      "UsersEstimate": 23898
     },
     {
       "ID": "PHOTOFINISH",
@@ -28163,7 +28168,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4779
+      "UsersEstimate": 4780
     },
     {
       "ID": "QAREEN",
@@ -28179,7 +28184,7 @@
       "Name": "RESPWND",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4779
+      "UsersEstimate": 4780
     },
     {
       "ID": "SHINYSHINYGOLD",
@@ -28187,7 +28192,7 @@
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4779
+      "UsersEstimate": 4780
     },
     {
       "ID": "SHOWOFF",
@@ -28243,22 +28248,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97979
+      "UsersEstimate": 97980
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238974,
+      "Progressed": 238975,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:06:04.7385778+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:07:33.5072894+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.0149602+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:57:45.3510599+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:06:04.7387461+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:58:09.8911697+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:07:33.5074272+00:00"
 }

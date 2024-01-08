@@ -197,7 +197,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1119,
   "EOS_Completed": 1,
   "EOS_NewPlayers": -8,
   "EOS_NewCompleters": 0,
@@ -2562,6 +2562,11 @@
       "Time": "2024-01-08T10:09:01.5217359+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T11:09:10.2062295+00:00",
+      "NumProgressed": 1119,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2605,7 +2610,7 @@
       "Name": "The First Step",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 828
     },
     {
       "ID": "06",
@@ -2613,7 +2618,7 @@
       "Name": "First Blood",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 783
     },
     {
       "ID": "07",
@@ -2645,7 +2650,7 @@
       "Name": "Huntmaster",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 257
     },
     {
       "ID": "11",
@@ -2709,7 +2714,7 @@
       "Name": "Earning Trust",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 605
+      "UsersEstimate": 604
     },
     {
       "ID": "19",
@@ -2756,7 +2761,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1119,
       "Completed": 1
     }
   ],
@@ -2764,8 +2769,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:09:01.5217353+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:09:10.2062292+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:03:08.3939959+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:09:01.5217705+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:03:36.418475+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:09:10.2062541+00:00"
 }

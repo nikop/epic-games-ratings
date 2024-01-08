@@ -23,9 +23,9 @@ Rating: 4.56 (Ranked 507)
 | Ogre friend | 18.00% | ~32 |
 | Family man | 17.00% | ~30 |
 | Archaeologist | 17.00% | ~30 |
+| Sidelined | 17.00% | ~30 |
 | Hard worker | 16.00% | ~29 |
 | Fence | 16.00% | ~29 |
-| Sidelined | 16.00% | ~29 |
 | Wise man | 15.00% | ~27 |
 | Little hero | 15.00% | ~27 |
 | The fourth triplet | 15.00% | ~27 |

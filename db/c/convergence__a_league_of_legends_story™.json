@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,7 +63,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1270,
+  "EOS_Progressed": 1271,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
@@ -3788,6 +3788,11 @@
       "Time": "2024-01-08T09:10:23.404112+00:00",
       "NumProgressed": 1270,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T11:11:23.304728+00:00",
+      "NumProgressed": 1271,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3823,7 +3828,7 @@
       "Name": "Treasure Trove",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3831,7 +3836,7 @@
       "Name": "Right On Time",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3951,7 +3956,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "GrindingTime1",
@@ -3959,7 +3964,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "HexlockGift",
@@ -4071,7 +4076,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "PidgeDefeated",
@@ -4087,7 +4092,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "RewindParry",
@@ -4111,7 +4116,7 @@
       "Name": "Golem Chaser",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "SkillCompletion1",
@@ -4175,7 +4180,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "WarwickDefeated",
@@ -4199,7 +4204,7 @@
       "Name": "Good Neighbor",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4222,7 +4227,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1270,
+      "Progressed": 1271,
       "Completed": 7
     }
   ],
@@ -4230,8 +4235,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:46.5875574+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:11:23.3047275+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:58:58.4905514+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:46.5876151+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:59:48.6938311+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:11:23.3047721+00:00"
 }

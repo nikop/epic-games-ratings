@@ -2,12 +2,12 @@
   "ID": "dc61166eea95474e912953b163791d42",
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
-  "Ranking_Rating": 610,
+  "Ranking_Rating": 611,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -1071,10 +1071,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 4192,
       "NumberOfAwardsMax": 3568
+    },
+    {
+      "Time": "2024-01-08T10:58:55.1342602+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 4203,
+      "NumberOfAwardsMax": 3568
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4192,
+  "NumberOfAwards": 4203,
   "NumberOfAwardsMax": 3568,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1088,7 +1094,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 64
+      "Count": 70
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1136,7 +1142,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 39
+      "Count": 44
     }
   ],
   "EOS_Progressed": 0,
@@ -1159,9 +1165,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-01-08T05:57:51.8303676+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:08:33.7487559+00:00",
+  "LastChanged": "2024-01-08T10:58:55.13426+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:08:35.2716268+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:40.3845685+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:58:18.802251+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:08:33.7487759+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:58:55.1342606+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:08:35.2716294+00:00"
 }

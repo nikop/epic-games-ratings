@@ -5,10 +5,10 @@ Rating: 4.69 (Ranked 236)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~584 |
-| Rail Rat | 35.00% | ~444 |
+| Time Heals All Wounds | 46.00% | ~585 |
+| Rail Rat | 35.00% | ~445 |
 | The Mysterious Stranger | 34.00% | ~432 |
-| Immaculate Aim | 29.00% | ~368 |
+| Immaculate Aim | 29.00% | ~369 |
 | The Brass Boss | 28.00% | ~356 |
 | Time Flies | 26.00% | ~330 |
 | No, Thanks! | 26.00% | ~330 |
@@ -20,9 +20,9 @@ Rating: 4.69 (Ranked 236)
 | Immaculate Aim | 25.00% | ~318 |
 | The Steel Shadow | 24.00% | ~305 |
 | Breaking Down Barriers | 23.00% | ~292 |
-| Right On Time | 22.00% | ~279 |
-| The Wicked Twins | 22.00% | ~279 |
-| Golem Chaser | 22.00% | ~279 |
+| Right On Time | 22.00% | ~280 |
+| The Wicked Twins | 22.00% | ~280 |
+| Golem Chaser | 22.00% | ~280 |
 | Like Clockwork | 21.00% | ~267 |
 | The Betrayer | 21.00% | ~267 |
 | Check Your Pulse | 20.00% | ~254 |
@@ -30,14 +30,14 @@ Rating: 4.69 (Ranked 236)
 | Street Style | 18.00% | ~229 |
 | The Man Who Shattered Time | 18.00% | ~229 |
 | The Family Fortune | 18.00% | ~229 |
-| Whiz Kid | 15.00% | ~190 |
-| Good Neighbor | 15.00% | ~190 |
+| Whiz Kid | 15.00% | ~191 |
+| Good Neighbor | 15.00% | ~191 |
 | Family Memories | 14.00% | ~178 |
 | Chaincrawler Explorer | 13.00% | ~165 |
 | Cartographer | 13.00% | ~165 |
 | Syron for Hope | 13.00% | ~165 |
 | Ask Questions Later | 13.00% | ~165 |
-| Treasure Trove | 12.00% | ~152 |
+| Treasure Trove | 12.00% | ~153 |
 | Factorywood Explorer | 11.00% | ~140 |
 | Sump Explorer | 11.00% | ~140 |
 | Fairgrounds Explorer | 10.00% | ~127 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 236)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,270 (Ranked 280)  
+Progressed: 1,271 (Ranked 280)  
 Completed: 7 (0.55%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 7 (0.55%) (Ranked 213)
 | 2024-01-05 | 1,241 | 6 |
 | 2024-01-06 | 1,255 | 6 |
 | 2024-01-07 | 1,264 | 7 |
-| 2024-01-08 | 1,270 | 7 |
+| 2024-01-08 | 1,271 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

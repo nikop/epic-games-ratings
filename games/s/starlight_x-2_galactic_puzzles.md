@@ -9,18 +9,18 @@
 | Use 20 hints | 6.00% | ~5 |
 | Fast 6x6 | 5.00% | ~4 |
 | Complete 50 levels | 5.00% | ~4 |
+| Switch off the light | 4.00% | ~3 |
 | Use 50 hints | 4.00% | ~3 |
 | Fast 10x10 | 2.00% | ~2 |
+| Complete 100 levels | 2.00% | ~2 |
 | By Yourself 5x5 | 2.00% | ~2 |
 | By Yourself 7x7 | 2.00% | ~2 |
 | Play for 5 hours | 2.00% | ~2 |
-| Switch off the light | 2.00% | ~2 |
 | Complete a Daily Pack | 1.00% | ~1 |
 | Fast 7x7 | 1.00% | ~1 |
 | Fast 8x8 | 1.00% | ~1 |
 | Fast 11x11 | 1.00% | ~1 |
 | Fast 13x13 | 1.00% | ~1 |
-| Complete 100 levels | 1.00% | ~1 |
 | Complete 25 6x6 levels | 1.00% | ~1 |
 | Complete 25 7x7 levels | 1.00% | ~1 |
 | Complete 25 9x9 levels | 1.00% | ~1 |

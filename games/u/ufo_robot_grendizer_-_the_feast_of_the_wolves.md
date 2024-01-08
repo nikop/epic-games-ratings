@@ -14,7 +14,7 @@
 | Technology first! | 20.00% | ~14 |
 | Earth's Savior | 20.00% | ~14 |
 | The Keeper of Fleed | 11.00% | ~8 |
-| The Collector | 10.00% | ~7 |
+| The Collector | 11.00% | ~8 |
 | The Broken Guard | 7.00% | ~5 |
 | The Vega Turtle | 7.00% | ~5 |
 | A Good Paint Job | 6.00% | ~4 |

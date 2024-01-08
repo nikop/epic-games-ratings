@@ -415,7 +415,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1674,
+  "EOS_Progressed": 1675,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -4390,6 +4390,11 @@
       "Time": "2024-01-08T08:11:10.8299559+00:00",
       "NumProgressed": 1674,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T11:11:11.5579465+00:00",
+      "NumProgressed": 1675,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4409,7 +4414,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -4457,7 +4462,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "EXPERT_1",
@@ -4553,7 +4558,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4561,7 +4566,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "PACIFIST",
@@ -4671,9 +4676,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 536
     },
     {
       "ID": "WISHMASTER_1",
@@ -4688,15 +4693,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1674,
+      "Progressed": 1675,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:36.3576138+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:11:11.5579461+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:59:44.220047+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:36.3576583+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:00:50.7407883+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:11:11.5579883+00:00"
 }

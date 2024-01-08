@@ -697,9 +697,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11940,
+  "EOS_Progressed": 11942,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 686,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -15142,6 +15142,11 @@
       "Time": "2024-01-08T10:05:36.710963+00:00",
       "NumProgressed": 11940,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-08T11:06:56.9483301+00:00",
+      "NumProgressed": 11942,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 29,
@@ -15153,7 +15158,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9910
+      "UsersEstimate": 9912
     },
     {
       "ID": "ACH02",
@@ -15177,7 +15182,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4537
+      "UsersEstimate": 4538
     },
     {
       "ID": "ACH05",
@@ -15225,7 +15230,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "ACH11",
@@ -15273,7 +15278,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "ACH17",
@@ -15384,7 +15389,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 11940,
+      "Progressed": 11942,
       "Completed": 81
     }
   ],
@@ -15392,8 +15397,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-06T20:00:26.7119256+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:05:36.7109626+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:06:56.9483294+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:00:44.2939329+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:05:36.7110473+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:02:09.0483892+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:06:56.9484047+00:00"
 }

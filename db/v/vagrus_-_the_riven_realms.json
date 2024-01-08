@@ -1339,9 +1339,9 @@
       "ID": "Vanilla_CombatStrenghtTier1",
       "SetID": "27kik8p",
       "Name": "Tactician",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -1996,8 +1996,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:08:31.7617834+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:08:32.7586585+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.3467036+00:00",
-  "LastUpdate_Ratings": "2024-01-08T09:57:51.5438071+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:08:31.761888+00:00"
+  "LastUpdate_Ratings": "2024-01-08T10:58:18.6648374+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:08:32.7587534+00:00"
 }

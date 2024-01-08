@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 88.00% | ~63 |
-| Suicide squad | 43.00% | ~31 |
+| First success | 86.00% | ~63 |
+| Suicide squad | 42.00% | ~31 |
 | Train hard, fight easy | 26.00% | ~19 |
 | Under cover | 26.00% | ~19 |
 | First blood | 26.00% | ~19 |
@@ -20,8 +20,8 @@
 | Vene, vidi, vici | 14.00% | ~10 |
 | Rage | 14.00% | ~10 |
 | She-Wolf | 14.00% | ~10 |
-| Berkanan Borgia | 13.00% | ~9 |
-| Trial by cold | 13.00% | ~9 |
+| Berkanan Borgia | 12.00% | ~9 |
+| Trial by cold | 12.00% | ~9 |
 | For the greater good | 10.00% | ~7 |
 | Overplay the rogue | 8.00% | ~6 |
 | The champion of the arena | 8.00% | ~6 |
@@ -30,10 +30,10 @@
 | Collector | 7.00% | ~5 |
 | Stronger than Gellian steel | 7.00% | ~5 |
 | Protect the Healer! | 7.00% | ~5 |
-| First among Frisians | 6.00% | ~4 |
-| Defeat the bear | 6.00% | ~4 |
-| Cunning plan | 6.00% | ~4 |
-| Nothing is settled | 6.00% | ~4 |
+| First among Frisians | 5.00% | ~4 |
+| Defeat the bear | 5.00% | ~4 |
+| Cunning plan | 5.00% | ~4 |
+| Nothing is settled | 5.00% | ~4 |
 | Supplier | 4.00% | ~3 |
 | The best apprentice | 4.00% | ~3 |
 | By own strength | 4.00% | ~3 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 522)  
+Progressed: 73 (Ranked 522)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 63 | 0 |
 | 2024-01-06 | 68 | 0 |
 | 2024-01-07 | 72 | 0 |
+| 2024-01-08 | 73 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

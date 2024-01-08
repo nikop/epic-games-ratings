@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39253,
+  "EOS_Progressed": 39258,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2879,
+  "EOS_NewPlayers": 2872,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13109,6 +13109,11 @@
       "Time": "2024-01-08T10:10:41.8929273+00:00",
       "NumProgressed": 39253,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T11:11:17.6993261+00:00",
+      "NumProgressed": 39258,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -13121,7 +13126,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5888
+      "UsersEstimate": 5889
     },
     {
       "ID": "achievement_10",
@@ -13169,7 +13174,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 7458
+      "UsersEstimate": 7459
     },
     {
       "ID": "achievement_16",
@@ -13345,7 +13350,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 37290
+      "UsersEstimate": 37295
     },
     {
       "ID": "achievement_36",
@@ -13361,7 +13366,7 @@
       "Name": "Asset Secured",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4710
+      "UsersEstimate": 4711
     },
     {
       "ID": "achievement_38",
@@ -13377,7 +13382,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9028
+      "UsersEstimate": 9029
     },
     {
       "ID": "achievement_4",
@@ -13465,7 +13470,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "achievement_7",
@@ -13481,7 +13486,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9028
+      "UsersEstimate": 9029
     },
     {
       "ID": "achievement_9",
@@ -13496,7 +13501,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 39253,
+      "Progressed": 39258,
       "Completed": 3
     }
   ],
@@ -13504,8 +13509,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:41.8929268+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:11:17.6993257+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.6174818+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:03:28.7170263+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:41.8930208+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:04:04.7408316+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:11:17.6994395+00:00"
 }

@@ -7,15 +7,15 @@
 | Let the Adventure Begin! | 58.00% | ~28 |
 | Spirit of competition | 38.00% | ~18 |
 | Prized Possession | 33.00% | ~16 |
-| Creature Evolution | 29.00% | ~14 |
+| Creature Evolution | 31.00% | ~15 |
 | Kingdom Party Time | 25.00% | ~12 |
 | Think Positive | 23.00% | ~11 |
 | Festival Fever | 21.00% | ~10 |
 | Entering New Territory | 19.00% | ~9 |
 | Gotta Adopt Them All! | 13.00% | ~6 |
+| Lecturer | 10.00% | ~5 |
 | Landscaper | 8.00% | ~4 |
 | Just One More Go | 8.00% | ~4 |
-| Lecturer | 8.00% | ~4 |
 | Dream Big | 6.00% | ~3 |
 | Diamonds in the Rough | 4.00% | ~2 |
 | Neverending Story | 4.00% | ~2 |

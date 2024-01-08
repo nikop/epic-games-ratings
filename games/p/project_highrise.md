@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 55.00% | ~277 |
-| Starting Skyward | 49.00% | ~246 |
-| Grime is Not Good | 42.00% | ~211 |
+| Starting Skyward | 49.00% | ~247 |
+| Grime is Not Good | 42.00% | ~212 |
 | Floor Galore | 37.00% | ~186 |
 | Campaign Launch | 36.00% | ~181 |
 | Dinner Dash | 36.00% | ~181 |
@@ -27,14 +27,14 @@
 | Leveled Up Shops | 18.00% | ~91 |
 | We Don't Need No Education | 18.00% | ~91 |
 | Lux Living | 17.00% | ~86 |
-| Tasty Profits | 17.00% | ~86 |
 | Emporium Empire | 17.00% | ~86 |
 | Get Electrified | 17.00% | ~86 |
-| Rehab Expert | 16.00% | ~80 |
-| Established Fame | 15.00% | ~75 |
-| Under One Roof | 13.00% | ~65 |
-| Starred Dining | 13.00% | ~65 |
-| Cashflow Chief | 13.00% | ~65 |
+| Rehab Expert | 16.00% | ~81 |
+| Tasty Profits | 16.00% | ~81 |
+| Established Fame | 15.00% | ~76 |
+| Under One Roof | 13.00% | ~66 |
+| Starred Dining | 13.00% | ~66 |
+| Cashflow Chief | 13.00% | ~66 |
 | Smooth Operator | 11.00% | ~55 |
 | Boutique Benefits | 11.00% | ~55 |
 | Thrilled Tenants | 11.00% | ~55 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 503 (Ranked 350)  
+Progressed: 504 (Ranked 350)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 492 | 0 |
 | 2024-01-06 | 497 | 0 |
 | 2024-01-07 | 502 | 0 |
-| 2024-01-08 | 503 | 0 |
+| 2024-01-08 | 504 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

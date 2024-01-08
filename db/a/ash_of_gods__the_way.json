@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -391,6 +391,11 @@
       "Time": "2024-01-07T23:09:57.4771321+00:00",
       "NumProgressed": 72,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T11:10:33.4478734+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 49,
@@ -448,7 +453,7 @@
       "ID": "collect7",
       "SetID": "c64if4d",
       "Name": "Berkanan Borgia",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -496,7 +501,7 @@
       "ID": "fights5",
       "SetID": "c64if4d",
       "Name": "First among Frisians",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -520,7 +525,7 @@
       "ID": "fights8",
       "SetID": "c64if4d",
       "Name": "Defeat the bear",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -616,7 +621,7 @@
       "ID": "special9",
       "SetID": "c64if4d",
       "Name": "Cunning plan",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -624,7 +629,7 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 88,
+      "Percentage": 86,
       "XP": 20,
       "UsersEstimate": 63
     },
@@ -656,7 +661,7 @@
       "ID": "story13",
       "SetID": "c64if4d",
       "Name": "Trial by cold",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -704,7 +709,7 @@
       "ID": "story19",
       "SetID": "c64if4d",
       "Name": "Nothing is settled",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -712,7 +717,7 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 31
     },
@@ -793,7 +798,7 @@
     {
       "ID": "c64if4d",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 0
     }
   ],
@@ -801,8 +806,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:05.8165199+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:10:33.4478729+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.685228+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:00:32.3036583+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:05.8165951+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:01:52.9651906+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:10:33.4479039+00:00"
 }

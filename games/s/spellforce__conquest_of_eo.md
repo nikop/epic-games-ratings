@@ -13,8 +13,8 @@
 | Mine! | 55.00% | ~71 |
 | Harvest Time | 54.00% | ~70 |
 | Artificer's Apprentice | 46.00% | ~59 |
+| Fly the friendly Sky | 44.00% | ~57 |
 | Get out of here! | 43.00% | ~55 |
-| Fly the friendly Sky | 43.00% | ~55 |
 | Necromancer's Apprentice | 38.00% | ~49 |
 | Alchemist's Apprentice | 36.00% | ~46 |
 | Friend of Lyraine | 36.00% | ~46 |
@@ -44,9 +44,9 @@
 | The Forge of Regan Gor | 9.00% | ~12 |
 | Tuscari Sea Portal | 9.00% | ~12 |
 | Mage Teacher | 9.00% | ~12 |
+| Friend of Uram Gor | 9.00% | ~12 |
 | Crypt of the Revenant | 8.00% | ~10 |
 | Fireforge | 8.00% | ~10 |
-| Friend of Uram Gor | 8.00% | ~10 |
 | A Joke | 8.00% | ~10 |
 | Defeat Raith | 7.00% | ~9 |
 | A Monopoly of Might | 7.00% | ~9 |

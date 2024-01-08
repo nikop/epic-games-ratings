@@ -5,14 +5,14 @@ Rating: 4.35 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 74.00% | ~829 |
-| First Blood | 70.00% | ~784 |
+| The First Step | 74.00% | ~828 |
+| First Blood | 70.00% | ~783 |
 | Ready to Learn | 67.00% | ~750 |
 | Monster Hunter | 57.00% | ~638 |
-| Earning Trust | 54.00% | ~605 |
+| Earning Trust | 54.00% | ~604 |
 | Monster Slayer | 31.00% | ~347 |
 | Awakening | 24.00% | ~269 |
-| Huntmaster | 23.00% | ~258 |
+| Huntmaster | 23.00% | ~257 |
 | Complete the sidequest 'Malice and Greed' | 19.00% | ~213 |
 | Digging Deep | 15.00% | ~168 |
 | House Vulisica's Heirloom | 15.00% | ~168 |
@@ -29,7 +29,7 @@ Rating: 4.35 (Ranked 825)
 | First Bloom | 1.00% | ~11 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,120 (Ranked 285)  
+Progressed: 1,119 (Ranked 285)  
 Completed: 1 (0.09%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |

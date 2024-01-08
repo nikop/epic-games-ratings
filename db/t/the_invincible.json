@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1519,
+  "EOS_Progressed": 1520,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3935,6 +3935,11 @@
       "Time": "2024-01-08T10:10:10.2754537+00:00",
       "NumProgressed": 1519,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T11:10:39.1940308+00:00",
+      "NumProgressed": 1520,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3947,7 +3952,7 @@
       "Name": "The Teleprobe",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "AchvAllMemories",
@@ -3955,7 +3960,7 @@
       "Name": "I remember everything!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "AchvAssertive",
@@ -4035,7 +4040,7 @@
       "Name": "Another giant",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "AchvKrautaAlive",
@@ -4043,7 +4048,7 @@
       "Name": "Krauta is alive",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "AchvLava",
@@ -4115,7 +4120,7 @@
       "Name": "The field base",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "AchvReachCamp",
@@ -4123,15 +4128,15 @@
       "Name": "The Camp",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 760
+      "UsersEstimate": 745
     },
     {
       "ID": "AchvReachCondor",
@@ -4147,7 +4152,7 @@
       "Name": "Survivors",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4178,7 +4183,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1519,
+      "Progressed": 1520,
       "Completed": 1
     }
   ],
@@ -4186,8 +4191,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-07T13:04:46.5535685+00:00",
-  "LastChanged_Achievements": "2024-01-08T10:10:10.2754533+00:00",
+  "LastChanged_Achievements": "2024-01-08T11:10:39.1940304+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:02:46.0333981+00:00",
-  "LastUpdate_Achievements": "2024-01-08T10:10:10.2754867+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:02:35.2647084+00:00",
+  "LastUpdate_Achievements": "2024-01-08T11:10:39.1940604+00:00"
 }

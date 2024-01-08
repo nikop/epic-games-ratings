@@ -14,7 +14,7 @@ Rating: 4.74 (Ranked 163)
 | Experienced Thalya | 72.00% | ~536 |
 | Bad Elves Go Everywhere | 69.00% | ~513 |
 | Thalya's Concentrated Fury | 68.00% | ~506 |
-| Heroes’ Gorge | 65.00% | ~484 |
+| Heroes’ Gorge | 66.00% | ~491 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~469 |
 | Master of Magic | 62.00% | ~461 |
 | The Ascent | 60.00% | ~446 |
