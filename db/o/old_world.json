@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2140,10 +2140,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1915,
       "NumberOfAwardsMax": 229
+    },
+    {
+      "Time": "2024-01-08T13:05:16.5572779+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1917,
+      "NumberOfAwardsMax": 229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1915,
+  "NumberOfAwards": 1917,
   "NumberOfAwardsMax": 229,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2169,7 +2175,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 217
+      "Count": 219
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2220,9 +2226,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16227,
+  "EOS_Progressed": 16229,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19255,6 +19261,11 @@
       "Time": "2024-01-08T12:10:15.4209884+00:00",
       "NumProgressed": 16227,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T13:15:13.9976604+00:00",
+      "NumProgressed": 16229,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19344,9 +19355,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -19928,9 +19939,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -20128,9 +20139,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
       "SetID": "7l38kb8",
       "Name": "Landowners",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -20168,9 +20179,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
       "SetID": "7l38kb8",
       "Name": "Traders",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -20728,9 +20739,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -20880,9 +20891,9 @@
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -21096,9 +21107,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -21184,9 +21195,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -22129,21 +22140,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16227,
+      "Progressed": 16229,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16227,
+      "Progressed": 16229,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:10:15.4209881+00:00",
+  "LastChanged": "2024-01-08T13:05:16.5572777+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:15:13.99766+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-08T12:00:13.3635625+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:10:15.4220765+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:05:16.5572782+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:15:13.9986923+00:00"
 }

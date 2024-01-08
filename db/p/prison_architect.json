@@ -2,13 +2,13 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 401,
-  "Ranking_Popularity": 203,
+  "Ranking_Rating": 400,
+  "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -8059,11 +8059,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 4833,
       "NumberOfAwardsMax": 630
+    },
+    {
+      "Time": "2024-01-08T13:02:40.0815887+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4835,
+      "NumberOfAwardsMax": 632
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4833,
-  "NumberOfAwardsMax": 630,
+  "NumberOfAwards": 4835,
+  "NumberOfAwardsMax": 632,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8076,7 +8082,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 630
+      "Count": 632
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8133,7 +8139,7 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 213489,
+  "EOS_Progressed": 213509,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 2935,
   "EOS_NewCompleters": 1,
@@ -38343,6 +38349,11 @@
       "Time": "2024-01-08T12:09:43.0976208+00:00",
       "NumProgressed": 213489,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-08T13:14:41.7686926+00:00",
+      "NumProgressed": 213509,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -38362,7 +38373,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "Achievement_10",
@@ -38386,7 +38397,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32023
+      "UsersEstimate": 32026
     },
     {
       "ID": "Achievement_13",
@@ -38394,7 +38405,7 @@
       "Name": "It\u0027s Not What You Know...",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Achievement_14",
@@ -38402,7 +38413,7 @@
       "Name": "... It\u0027s What You Can Prove",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Achievement_15",
@@ -38434,7 +38445,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 53372
+      "UsersEstimate": 53377
     },
     {
       "ID": "Achievement_5",
@@ -38450,7 +38461,7 @@
       "Name": "Confined",
       "Percentage": 0.3,
       "XP": 120,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "Achievement_7",
@@ -38466,7 +38477,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 19214
+      "UsersEstimate": 19216
     },
     {
       "ID": "Achievement_9",
@@ -38481,15 +38492,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 213489,
+      "Progressed": 213509,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2024-01-08T10:58:21.3723861+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:09:43.0976203+00:00",
+  "LastChanged": "2024-01-08T13:02:40.0815885+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:14:41.7686923+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.5242713+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:57:38.7832628+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:09:43.0977721+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:02:40.0815893+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:14:41.7688352+00:00"
 }

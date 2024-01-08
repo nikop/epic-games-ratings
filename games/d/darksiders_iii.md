@@ -21,7 +21,7 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 39.00% | ~193 |
 | Throne Potato | 39.00% | ~193 |
 | 25 to Life | 39.00% | ~193 |
-| Salvation | 37.00% | ~183 |
+| Salvation | 38.00% | ~188 |
 | Unshakable Fortitude | 36.00% | ~178 |
 | Soul Harvester | 35.00% | ~173 |
 | Delusions of Grandeur | 34.00% | ~168 |

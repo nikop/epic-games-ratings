@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 84.00% | ~301 |
-| Purification Pioneer | 79.00% | ~283 |
-| Mechanical Buddy | 74.00% | ~265 |
-| Dicesmithing Time! | 64.00% | ~229 |
-| Sanctuary Guardian | 54.00% | ~193 |
+| Meissa's Savior | 84.00% | ~302 |
+| Purification Pioneer | 79.00% | ~284 |
+| Mechanical Buddy | 74.00% | ~266 |
+| Dicesmithing Time! | 64.00% | ~230 |
+| Sanctuary Guardian | 54.00% | ~194 |
 | Endless Tricks | 51.00% | ~183 |
 | Wild's Keeper | 48.00% | ~172 |
 | Mind Illuminator | 44.00% | ~158 |
 | Stellar Dismantler | 38.00% | ~136 |
-| Astral Adventurer | 35.00% | ~125 |
-| Noctuan Champion | 35.00% | ~125 |
-| Anomaly Destroyer | 32.00% | ~115 |
+| Astral Adventurer | 35.00% | ~126 |
+| Noctuan Champion | 35.00% | ~126 |
+| Anomaly Destroyer | 31.00% | ~111 |
 | Star Killer | 31.00% | ~111 |
 | Eridanian Champion | 26.00% | ~93 |
 | Loyal Partner | 22.00% | ~79 |
 | Lacertian Champion | 21.00% | ~75 |
 | Apian Champion | 19.00% | ~68 |
-| Shard Spender | 18.00% | ~64 |
-| Unbeatable | 18.00% | ~64 |
-| Sadistic Plan | 15.00% | ~54 |
+| Shard Spender | 18.00% | ~65 |
+| Unbeatable | 18.00% | ~65 |
+| Sadistic Plan | 16.00% | ~57 |
 | Behenian Champion | 14.00% | ~50 |
 | Heavy Purger | 11.00% | ~39 |
 | Wave Bender | 11.00% | ~39 |
@@ -33,7 +33,7 @@
 | Stellar Haste | 8.00% | ~29 |
 | The Corruption Goddess | 7.00% | ~25 |
 | The Goddes Avatar | 7.00% | ~25 |
-| Favored by the Cosmos | 6.00% | ~21 |
+| Favored by the Cosmos | 6.00% | ~22 |
 | Anomaly Control | 5.00% | ~18 |
 | Artificer | 5.00% | ~18 |
 | Can't touch this | 5.00% | ~18 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358 (Ranked 376)  
+Progressed: 359 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,4 +177,4 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 340 | 0 |
 | 2024-01-06 | 347 | 0 |
 | 2024-01-07 | 354 | 0 |
-| 2024-01-08 | 358 | 0 |
+| 2024-01-08 | 359 | 0 |

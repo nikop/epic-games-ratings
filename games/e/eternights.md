@@ -5,15 +5,15 @@ Rating: 4.77 (Ranked 115)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 76.00% | ~633 |
-| Shelter Escape | 74.00% | ~616 |
+| New arm | 76.00% | ~634 |
+| Shelter Escape | 74.00% | ~617 |
 | The First Bond | 63.00% | ~525 |
-| Novice Scavenger | 56.00% | ~466 |
+| Novice Scavenger | 56.00% | ~467 |
 | Master Craftsman | 44.00% | ~367 |
-| First wall | 43.00% | ~358 |
+| First wall | 43.00% | ~359 |
 | Piggyback Expert | 42.00% | ~350 |
 | Second wall | 32.00% | ~267 |
-| Expert Scavenger | 31.00% | ~258 |
+| Expert Scavenger | 31.00% | ~259 |
 | Their Rock | 27.00% | ~225 |
 | Yuna's Promise | 25.00% | ~208 |
 | Stone Retriever | 25.00% | ~208 |
@@ -31,7 +31,7 @@ Rating: 4.77 (Ranked 115)
 | Dreamboat | 1.00% | ~8 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 833 (Ranked 308)  
+Progressed: 834 (Ranked 308)  
 Completed: 2 (0.24%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 2 (0.24%) (Ranked 267)
 | 2024-01-05 | 785 | 2 |
 | 2024-01-06 | 808 | 2 |
 | 2024-01-07 | 827 | 2 |
-| 2024-01-08 | 833 | 2 |
+| 2024-01-08 | 834 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

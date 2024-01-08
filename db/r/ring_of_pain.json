@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 472,
   "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242610,
+  "EOS_Progressed": 242614,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31110,6 +31110,11 @@
       "Time": "2024-01-08T12:10:14.098308+00:00",
       "NumProgressed": 242610,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-08T13:15:12.8477151+00:00",
+      "NumProgressed": 242614,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31161,7 +31166,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -31217,7 +31222,7 @@
       "Name": "Delving Deeper",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "DEPTH12HARD",
@@ -31617,7 +31622,7 @@
       "Name": "Heartless",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "KILLPARANOIA",
@@ -31649,7 +31654,7 @@
       "Name": "Spine Breaker",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "KILLSPITTER",
@@ -31721,7 +31726,7 @@
       "Name": "C-C-Combo",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "NOEPIC",
@@ -31753,7 +31758,7 @@
       "Name": "Deflection",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -31889,7 +31894,7 @@
       "Name": "Sneaky",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "STEALTH100",
@@ -32224,13 +32229,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242610,
+      "Progressed": 242614,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4090,
+      "Progressed": 4094,
       "Completed": 422
     }
   ],
@@ -32238,8 +32243,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:10:14.0983076+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:15:12.8477149+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:57:01.1439347+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:10:14.0985794+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:02:05.8536557+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:15:12.8479909+00:00"
 }

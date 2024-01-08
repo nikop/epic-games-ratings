@@ -33,9 +33,9 @@
 | Friend of Bastion | 13.00% | ~17 |
 | Break Free | 13.00% | ~17 |
 | Philo's Tale | 12.00% | ~15 |
+| A Master of Magic | 12.00% | ~15 |
 | Friend of Silver Drift Hollow | 12.00% | ~15 |
 | Magic Academy | 12.00% | ~15 |
-| A Master of Magic | 11.00% | ~14 |
 | Silver Drift Hollow Mine | 10.00% | ~13 |
 | Friend of Windholme | 10.00% | ~13 |
 | Defeat Gor | 9.00% | ~12 |
@@ -50,12 +50,12 @@
 | A Joke | 8.00% | ~10 |
 | Defeat Raith | 7.00% | ~9 |
 | A Monopoly of Might | 7.00% | ~9 |
+| Heroes | 7.00% | ~9 |
 | Get to the Airship! | 6.00% | ~8 |
 | Defeat Hokan | 6.00% | ~8 |
 | Defeat Ianna | 6.00% | ~8 |
 | Lore's Tale | 6.00% | ~8 |
 | Master Artificer | 6.00% | ~8 |
-| Heroes | 6.00% | ~8 |
 | Balanced | 6.00% | ~8 |
 | Friend of Grey Dusk Vale | 6.00% | ~8 |
 | Defeat Undergast | 5.00% | ~6 |

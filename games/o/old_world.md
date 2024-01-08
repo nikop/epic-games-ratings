@@ -23,22 +23,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 1.00% | ~162 |
 | Hanging Gardens | 1.00% | ~162 |
 | Oracle | 1.00% | ~162 |
+| Pyramids | 1.00% | ~162 |
 | Learn to Play 1 | 1.00% | ~162 |
 | Judaism | 1.00% | ~162 |
+| Greek Paganism | 1.00% | ~162 |
+| Naming Landmarks | 1.00% | ~162 |
 | Trade Caravan | 1.00% | ~162 |
 | Ambitious | 0.90% | ~146 |
 | Enlightened | 0.90% | ~146 |
 | Glorious | 0.90% | ~146 |
+| Warrior | 0.90% | ~146 |
 | Developing Cities | 0.90% | ~146 |
 | Strong Cities | 0.90% | ~146 |
-| Pyramids | 0.90% | ~146 |
 | Babylonian Paganism | 0.90% | ~146 |
-| Greek Paganism | 0.90% | ~146 |
-| Naming Landmarks | 0.90% | ~146 |
 | Brilliant | 0.80% | ~130 |
 | Fountainhead | 0.80% | ~130 |
 | Magnificent | 0.80% | ~130 |
-| Warrior | 0.80% | ~130 |
 | Ishtar Gate | 0.80% | ~130 |
 | Christianity | 0.80% | ~130 |
 | Roman Paganism | 0.80% | ~130 |
@@ -60,6 +60,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.60% | ~97 |
 | Manichaeism | 0.60% | ~97 |
 | Egyptian Paganism | 0.60% | ~97 |
+| Hanging Gardens in Babylon | 0.50% | ~81 |
 | Beloved | 0.50% | ~81 |
 | Drillmaster | 0.50% | ~81 |
 | Intercessor | 0.50% | ~81 |
@@ -71,13 +72,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.50% | ~81 |
 | Building Wonders | 0.50% | ~81 |
 | Mythology | 0.50% | ~81 |
-| Hanging Gardens in Babylon | 0.40% | ~65 |
 | Mighty | 0.40% | ~65 |
 | Good Difficulty | 0.40% | ~65 |
 | Champions | 0.40% | ~65 |
+| Landowners | 0.40% | ~65 |
 | Patrons | 0.40% | ~65 |
 | Riders | 0.40% | ~65 |
 | Statesmen | 0.40% | ~65 |
+| Traders | 0.40% | ~65 |
 | Greece | 0.40% | ~65 |
 | Power to the People | 0.40% | ~65 |
 | Persian Paganism | 0.40% | ~65 |
@@ -93,8 +95,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.30% | ~49 |
 | Strong Difficulty | 0.30% | ~49 |
 | Hunters | 0.30% | ~49 |
-| Landowners | 0.30% | ~49 |
-| Traders | 0.30% | ~49 |
 | Hittite Iron | 0.30% | ~49 |
 | Circus Maximus | 0.30% | ~49 |
 | Hagia Sophia | 0.30% | ~49 |
@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.30% | ~49 |
 | Via Recta Souk | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
+| Carthage | 0.30% | ~49 |
 | Assyrian Paganism | 0.30% | ~49 |
 | Industrial Progress | 0.30% | ~49 |
 | Military Prestige | 0.30% | ~49 |
@@ -130,7 +131,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.20% | ~32 |
 | Learn to Play 4 | 0.20% | ~32 |
 | Learn to Play 5 | 0.20% | ~32 |
-| Carthage | 0.20% | ~32 |
 | Egypt | 0.20% | ~32 |
 | Rome | 0.20% | ~32 |
 | One True Faith | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,227 (Ranked 168)  
+Progressed: 16,229 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,10 +628,10 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,227 | 5 |
+| 2024-01-08 | 16,229 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
-Sum: 1,915 (Ranked 223)  
+Sum: 1,917 (Ranked 223)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -639,7 +639,7 @@ Diff (max vs sum): 62
 | This game has Diverse Characters | 222 |
 | This game is Extremely Fun | 222 |
 | This game is Highly Recommended | 222 |
-| This game is Educational | 217 |
+| This game is Educational | 219 |
 | This game has Challenging Combat | 209 |
 | This game has Amazing Characters | 200 |
 | This game has Quickly Understood Controls | 197 |
@@ -837,3 +837,4 @@ Diff (max vs sum): 62
 | 2023-12-29 | 4.65 | - | 229 | 1,912 |
 | 2024-01-04 | 4.65 | - | 229 | 1,913 |
 | 2024-01-05 | 4.65 | - | 229 | 1,915 |
+| 2024-01-08 | 4.65 | - | 229 | 1,917 |

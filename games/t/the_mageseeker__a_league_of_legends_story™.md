@@ -5,32 +5,32 @@ Rating: 4.78 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,190 |
-| No more cages! | 90.00% | ~3,022 |
+| For Demacia | 95.00% | ~3,191 |
+| No more cages! | 90.00% | ~3,023 |
 | Everfrost | 77.00% | ~2,586 |
-| Dark Forest | 76.00% | ~2,552 |
-| Pentakill | 75.00% | ~2,518 |
-| The use of petricite | 73.00% | ~2,451 |
+| Dark Forest | 76.00% | ~2,553 |
+| Pentakill | 75.00% | ~2,519 |
+| The use of petricite | 73.00% | ~2,452 |
 | You can pet the dog | 60.00% | ~2,015 |
-| Thornbarrow | 44.00% | ~1,478 |
+| Thornbarrow | 43.00% | ~1,444 |
 | Big Helmet Bro | 41.00% | ~1,377 |
 | Clarion Cove | 41.00% | ~1,377 |
 | Ternmoat Headquarters | 39.00% | ~1,310 |
 | Past trauma | 38.00% | ~1,276 |
-| Elemental master | 37.00% | ~1,242 |
-| Cypress Glen Headquarters | 35.00% | ~1,175 |
+| Elemental master | 37.00% | ~1,243 |
+| Cypress Glen Headquarters | 35.00% | ~1,176 |
 | Old friend | 33.00% | ~1,108 |
 | Petricite Burst | 33.00% | ~1,108 |
 | Devineur | 32.00% | ~1,075 |
 | Hijack | 31.00% | ~1,041 |
-| Whispers in the Woods I | 28.00% | ~940 |
-| I chose my shackles | 28.00% | ~940 |
-| Ancient power | 28.00% | ~940 |
+| Whispers in the Woods I | 28.00% | ~941 |
+| I chose my shackles | 28.00% | ~941 |
+| Ancient power | 28.00% | ~941 |
 | Sacred Woods | 26.00% | ~873 |
 | Little light | 24.00% | ~806 |
 | Capelworth | 24.00% | ~806 |
-| Glyndemere | 23.00% | ~772 |
-| Full equipped | 23.00% | ~772 |
+| Glyndemere | 23.00% | ~773 |
+| Full equipped | 23.00% | ~773 |
 | Iffighain Headquarters | 22.00% | ~739 |
 | Whispers in the Woods II | 19.00% | ~638 |
 | No more holding back | 19.00% | ~638 |
@@ -59,8 +59,8 @@ Rating: 4.78 (Ranked 109)
 | Silverwing nest | 2.00% | ~67 |
 | The Unshackled | 1.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,358 (Ranked 224)  
-Completed: 22 (0.66%) (Ranked 200)  
+Progressed: 3,359 (Ranked 224)  
+Completed: 22 (0.65%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,7 +269,7 @@ Completed: 22 (0.66%) (Ranked 200)
 | 2024-01-05 | 3,298 | 21 |
 | 2024-01-06 | 3,329 | 22 |
 | 2024-01-07 | 3,353 | 22 |
-| 2024-01-08 | 3,358 | 22 |
+| 2024-01-08 | 3,359 | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

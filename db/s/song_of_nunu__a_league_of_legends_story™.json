@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -83,7 +83,7 @@
   "Tags": [],
   "EOS_Progressed": 1505,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4162,17 +4162,17 @@
       "ID": "EV_ACH18",
       "SetID": "6jeac23",
       "Name": "Snowy Poro",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 497
     },
     {
       "ID": "EV_ACH19",
       "SetID": "6jeac23",
       "Name": "On The Rocks",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 512
     },
     {
       "ID": "EV_ACH20",
@@ -4387,8 +4387,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-08T08:59:12.5130918+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:10:09.631985+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:15:08.2578126+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.6946611+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:59:17.7710091+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:10:09.6320283+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:04:20.3242642+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:15:08.257874+00:00"
 }

@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,257 |
-| What should I buy? | 80.00% | ~11,404 |
-| Focus! | 60.00% | ~8,553 |
-| Rescued Elder Ent | 60.00% | ~8,553 |
-| The End of the Gold Mane Knights | 47.00% | ~6,700 |
-| False Goddess, Disappear | 39.00% | ~5,559 |
-| Rules of Etiquette | 37.00% | ~5,274 |
-| Inventory Management | 31.00% | ~4,419 |
-| The Fall of the Leonia Order | 30.00% | ~4,276 |
-| Quick Movements | 29.00% | ~4,134 |
-| Go Home... | 27.00% | ~3,849 |
-| The Final Battle of the First Hero | 26.00% | ~3,706 |
-| The Hero Killer | 25.00% | ~3,564 |
-| Brain at Full Throttle | 20.00% | ~2,851 |
-| Rookies Welcome | 18.00% | ~2,566 |
-| Deadly Power | 16.00% | ~2,281 |
-| Castle Restoration Plans | 13.00% | ~1,853 |
+| The Legend Begins | 93.00% | ~13,265 |
+| What should I buy? | 80.00% | ~11,410 |
+| Focus! | 60.00% | ~8,558 |
+| Rescued Elder Ent | 60.00% | ~8,558 |
+| The End of the Gold Mane Knights | 47.00% | ~6,704 |
+| False Goddess, Disappear | 39.00% | ~5,563 |
+| Rules of Etiquette | 37.00% | ~5,277 |
+| Inventory Management | 31.00% | ~4,422 |
+| The Fall of the Leonia Order | 30.00% | ~4,279 |
+| Quick Movements | 29.00% | ~4,136 |
+| Go Home... | 27.00% | ~3,851 |
+| The Final Battle of the First Hero | 26.00% | ~3,708 |
+| The Hero Killer | 25.00% | ~3,566 |
+| Brain at Full Throttle | 20.00% | ~2,853 |
+| Rookies Welcome | 18.00% | ~2,567 |
+| Deadly Power | 16.00% | ~2,282 |
+| Castle Restoration Plans | 13.00% | ~1,854 |
 | The Dwarven Chandelier | 10.00% | ~1,426 |
-| Master of Speed | 9.00% | ~1,283 |
-| The Levitator | 8.00% | ~1,140 |
-| The God of Battle | 4.00% | ~570 |
+| Master of Speed | 9.00% | ~1,284 |
+| The Levitator | 8.00% | ~1,141 |
+| The God of Battle | 4.00% | ~571 |
 | Too Much of a Talker | 1.00% | ~143 |
 | The Skeleton King | 1.00% | ~143 |
 | Cold-Blooded | 0.60% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,255 (Ranked 173)  
+Progressed: 14,263 (Ranked 173)  
 Completed: 21 (0.15%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,15 +273,15 @@ Completed: 21 (0.15%) (Ranked 287)
 | 2024-01-05 | 13,938 | 21 |
 | 2024-01-06 | 14,083 | 21 |
 | 2024-01-07 | 14,201 | 21 |
-| 2024-01-08 | 14,255 | 21 |
+| 2024-01-08 | 14,263 | 21 |
 ## Awards
 Max (Great for Beginners): 151  (Ranked 328)  
-Sum: 1,007 (Ranked 274)  
+Sum: 1,009 (Ranked 274)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 151 |
-| This game has Diverse Characters | 145 |
+| This game has Diverse Characters | 147 |
 | This game is Highly Recommended | 122 |
 | This game is Extremely Fun | 115 |
 | This game has Quickly Understood Controls | 113 |
@@ -464,4 +464,4 @@ Diff (max vs sum): 54
 | 2024-01-05 | 4.75 | - | 149 | 996 |
 | 2024-01-06 | 4.75 | - | 151 | 1,003 |
 | 2024-01-07 | 4.75 | - | 151 | 1,005 |
-| 2024-01-08 | 4.75 | - | 151 | 1,007 |
+| 2024-01-08 | 4.75 | - | 151 | 1,009 |

@@ -47,7 +47,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 833,
+  "EOS_Progressed": 834,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -3102,6 +3102,11 @@
       "Time": "2024-01-08T12:09:13.0532941+00:00",
       "NumProgressed": 833,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T13:14:11.6477339+00:00",
+      "NumProgressed": 834,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3114,7 +3119,7 @@
       "Name": "New arm",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3138,7 +3143,7 @@
       "Name": "Expert Scavenger",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -3194,7 +3199,7 @@
       "Name": "Shelter Escape",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3258,7 +3263,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3274,7 +3279,7 @@
       "Name": "First wall",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3313,7 +3318,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 833,
+      "Progressed": 834,
       "Completed": 2
     }
   ],
@@ -3321,8 +3326,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-06T15:59:59.9482178+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:09:13.0532939+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:14:11.6477334+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-08T12:02:45.8701895+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:09:13.0533218+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:07:36.1115359+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:14:11.6477723+00:00"
 }

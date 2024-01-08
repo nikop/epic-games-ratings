@@ -4,7 +4,7 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -749,6 +749,11 @@
       "Time": "2024-01-07T12:08:23.9631416+00:00",
       "NumProgressed": 170,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T13:13:31.7976336+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -809,7 +814,7 @@
       "Name": "Together",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -825,7 +830,7 @@
       "Name": "All clean",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_DARK_PALADIN_ABSORBED",
@@ -833,7 +838,7 @@
       "Name": "Dark Paladin",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_DEMON_ABSORBED",
@@ -849,7 +854,7 @@
       "Name": "Determination",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FINAL_TRIAL",
@@ -865,7 +870,7 @@
       "Name": "Edda and Aven",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -897,7 +902,7 @@
       "Name": "Phoenix",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_PLATINUM",
@@ -929,7 +934,7 @@
       "Name": "Understandings",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_UNICORN",
@@ -952,14 +957,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:08:33.2121971+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:13:31.7976332+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.301189+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:58:46.8917851+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:08:33.212215+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:03:48.2746895+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:13:31.7976498+00:00"
 }

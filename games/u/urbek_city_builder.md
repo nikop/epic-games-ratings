@@ -16,13 +16,13 @@
 | Bucolic city | 6.00% | ~30 |
 | Soviet town | 6.00% | ~30 |
 | I love books! | 3.00% | ~15 |
+| I love parks | 3.00% | ~15 |
 | Food producer | 2.00% | ~10 |
 | King of fish | 2.00% | ~10 |
-| I love parks | 2.00% | ~10 |
 | Rebel city | 2.00% | ~10 |
 | City crisis | 1.00% | ~5 |
 | What would we do if we can't go out with friends? | 1.00% | ~5 |
-| Metropolurbek | 0.80% | ~4 |
+| Metropolurbek | 1.00% | ~5 |
 | Banking city | 0.60% | ~3 |
 | I am very happy! | 0.60% | ~3 |
 | Oh, I love parks, listening to birds! | 0.60% | ~3 |

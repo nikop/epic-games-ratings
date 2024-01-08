@@ -10,23 +10,23 @@ Rating: 4.69 (Ranked 236)
 | The Mysterious Stranger | 34.00% | ~432 |
 | Immaculate Aim | 29.00% | ~369 |
 | The Brass Boss | 28.00% | ~356 |
-| Time Flies | 26.00% | ~330 |
-| No, Thanks! | 26.00% | ~330 |
-| The Prince in Heels | 26.00% | ~330 |
-| Honest Mistake | 26.00% | ~330 |
+| Time Flies | 26.00% | ~331 |
+| No, Thanks! | 26.00% | ~331 |
+| The Prince in Heels | 26.00% | ~331 |
+| Honest Mistake | 26.00% | ~331 |
 | Make Up For Lost Time | 25.00% | ~318 |
 | The Harder They Fall | 25.00% | ~318 |
 | Fast Learner | 25.00% | ~318 |
 | Immaculate Aim | 25.00% | ~318 |
 | The Steel Shadow | 24.00% | ~305 |
-| Breaking Down Barriers | 23.00% | ~292 |
+| Breaking Down Barriers | 23.00% | ~293 |
 | Right On Time | 22.00% | ~280 |
 | The Wicked Twins | 22.00% | ~280 |
 | Golem Chaser | 22.00% | ~280 |
 | Like Clockwork | 21.00% | ~267 |
 | The Betrayer | 21.00% | ~267 |
 | Check Your Pulse | 20.00% | ~254 |
-| The Loose Cannon | 19.00% | ~241 |
+| The Loose Cannon | 19.00% | ~242 |
 | Street Style | 18.00% | ~229 |
 | The Man Who Shattered Time | 18.00% | ~229 |
 | The Family Fortune | 18.00% | ~229 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 236)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,271 (Ranked 280)  
+Progressed: 1,272 (Ranked 280)  
 Completed: 7 (0.55%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 7 (0.55%) (Ranked 213)
 | 2024-01-05 | 1,241 | 6 |
 | 2024-01-06 | 1,255 | 6 |
 | 2024-01-07 | 1,264 | 7 |
-| 2024-01-08 | 1,271 | 7 |
+| 2024-01-08 | 1,272 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

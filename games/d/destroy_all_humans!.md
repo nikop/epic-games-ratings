@@ -6,22 +6,22 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 77.00% | ~304 |
-| Kaijuiced | 71.00% | ~280 |
+| Shop Til They Drop | 77.00% | ~305 |
+| Kaijuiced | 71.00% | ~281 |
 | Lie Back and Think of Albion | 66.00% | ~261 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~249 |
-| I Look Up As I Walk to Takoshima | 59.00% | ~233 |
-| Yettisoned | 58.00% | ~229 |
-| Pimp My Raid | 56.00% | ~221 |
-| Perfect Probulator | 55.00% | ~217 |
-| Lobster Blisque | 50.00% | ~198 |
+| I Look Up As I Walk to Takoshima | 60.00% | ~238 |
+| Yettisoned | 58.00% | ~230 |
+| Pimp My Raid | 56.00% | ~222 |
+| Perfect Probulator | 56.00% | ~222 |
+| Lobster Blisque | 51.00% | ~202 |
 | Earthly Pleasures | 49.00% | ~194 |
 | Fly Me to the Moon Base | 48.00% | ~190 |
 | Ducks in a Row, Fish in a Barrel | 45.00% | ~178 |
-| Forbidden Donut | 36.00% | ~142 |
-| Freshly Squeezed | 36.00% | ~142 |
-| Bodied Sattva | 36.00% | ~142 |
-| Upgreatest | 35.00% | ~138 |
+| Forbidden Donut | 36.00% | ~143 |
+| Freshly Squeezed | 36.00% | ~143 |
+| Bodied Sattva | 36.00% | ~143 |
+| Upgreatest | 35.00% | ~139 |
 | Deincarnated | 29.00% | ~115 |
 | Furon Fashion | 29.00% | ~115 |
 | Rock of the Bay | 28.00% | ~111 |
@@ -35,8 +35,8 @@ Number of Ratings: 85  (23.09.2022)
 | Hidden Human Hive Harvest | 15.00% | ~59 |
 | Albion Bridge Is for Falling Down | 14.00% | ~55 |
 | Dusted | 13.00% | ~51 |
-| Scuttled | 11.00% | ~43 |
-| Higher Than the Futen Zoku | 11.00% | ~43 |
+| Scuttled | 11.00% | ~44 |
+| Higher Than the Futen Zoku | 11.00% | ~44 |
 | PK Slam Dunk | 9.00% | ~36 |
 | Arty Facts | 9.00% | ~36 |
 | Cult Following | 6.00% | ~24 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~8 |
 | Against All Odds | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395 (Ranked 370)  
-Completed: 5 (1.27%) (Ranked 157)  
+Progressed: 396 (Ranked 370)  
+Completed: 5 (1.26%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 5 (1.27%) (Ranked 157)
 | 2024-01-05 | 345 | 5 |
 | 2024-01-06 | 367 | 5 |
 | 2024-01-07 | 392 | 5 |
-| 2024-01-08 | 395 | 5 |
+| 2024-01-08 | 396 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 502)  
 Sum: 35 (Ranked 532)  

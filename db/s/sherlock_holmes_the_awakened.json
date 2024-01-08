@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1420,
+  "EOS_Progressed": 1421,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
@@ -5029,6 +5029,11 @@
       "Time": "2024-01-08T02:28:55.7471124+00:00",
       "NumProgressed": 1420,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-08T13:09:34.490049+00:00",
+      "NumProgressed": 1421,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 28,
@@ -5046,9 +5051,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 866
+      "UsersEstimate": 881
     },
     {
       "ID": "MQ02_1",
@@ -5056,7 +5061,7 @@
       "Name": "High Profile",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "MQ02_2",
@@ -5064,7 +5069,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "MQ02_3",
@@ -5080,7 +5085,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "MQ03_1",
@@ -5088,7 +5093,7 @@
       "Name": "Fond Memories",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "MQ03_2",
@@ -5104,7 +5109,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "MQ03_4",
@@ -5128,7 +5133,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "MQ04_2",
@@ -5184,7 +5189,7 @@
       "Name": "Brain Food",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "MQ06_2",
@@ -5208,7 +5213,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "MQ07_1",
@@ -5224,7 +5229,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "MQ08_1",
@@ -5232,7 +5237,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "MQ08_2",
@@ -5263,7 +5268,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1420,
+      "Progressed": 1421,
       "Completed": 43
     }
   ],
@@ -5271,8 +5276,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-08T11:03:57.656576+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:04:44.9816404+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:09:34.4900484+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.4350556+00:00",
-  "LastUpdate_Ratings": "2024-01-08T12:03:16.3338807+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:04:44.9817022+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:08:04.2389178+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:09:34.4900876+00:00"
 }

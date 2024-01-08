@@ -2,7 +2,7 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 401,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 259,
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 36,
@@ -2982,10 +2982,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 543751,
-  "EOS_Completed": 1675,
-  "EOS_NewPlayers": 840,
-  "EOS_NewCompleters": 11,
+  "EOS_Progressed": 543757,
+  "EOS_Completed": 1676,
+  "EOS_NewPlayers": 836,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -32177,6 +32177,11 @@
       "Time": "2024-01-08T12:03:39.6504148+00:00",
       "NumProgressed": 543751,
       "NumCompleted": 1675
+    },
+    {
+      "Time": "2024-01-08T13:08:29.1073383+00:00",
+      "NumProgressed": 543757,
+      "NumCompleted": 1676
     }
   ],
   "TotalAchievements": 37,
@@ -32188,7 +32193,7 @@
       "Name": "Branded",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 76125
+      "UsersEstimate": 76126
     },
     {
       "ID": "COASTROCK",
@@ -32204,7 +32209,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 168563
+      "UsersEstimate": 168565
     },
     {
       "ID": "DEVOTED",
@@ -32244,7 +32249,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 451313
+      "UsersEstimate": 451318
     },
     {
       "ID": "HONED",
@@ -32300,7 +32305,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217500
+      "UsersEstimate": 217503
     },
     {
       "ID": "THE_CASTLE",
@@ -32316,7 +32321,7 @@
       "Name": "The Cave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43500
+      "UsersEstimate": 43501
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -32348,7 +32353,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 81563
+      "UsersEstimate": 81564
     },
     {
       "ID": "THE_IMPOSTER",
@@ -32356,7 +32361,7 @@
       "Name": "The Imposter",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 76125
+      "UsersEstimate": 76126
     },
     {
       "ID": "THE_IRON_ONES",
@@ -32364,7 +32369,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103313
+      "UsersEstimate": 103314
     },
     {
       "ID": "THE_KEEP",
@@ -32372,7 +32377,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 76125
+      "UsersEstimate": 76126
     },
     {
       "ID": "THE_LAKE",
@@ -32444,7 +32449,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 348001
+      "UsersEstimate": 348004
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -32460,7 +32465,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 92438
+      "UsersEstimate": 92439
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -32468,7 +32473,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43500
+      "UsersEstimate": 43501
     },
     {
       "ID": "WISE_WORDS",
@@ -32483,15 +32488,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 543751,
-      "Completed": 1675
+      "Progressed": 543757,
+      "Completed": 1676
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-08T10:59:12.0666169+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:03:39.6504145+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:08:29.1073379+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.5863764+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:58:14.2490202+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:03:39.650577+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:03:14.3456247+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:08:29.1074958+00:00"
 }

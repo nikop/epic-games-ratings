@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~914 |
-| Lost and Found | 8.00% | ~562 |
-| Autodidact | 7.00% | ~9,251 |
-| This guy... again? | 7.00% | ~492 |
+| Malpractice Assurance | 13.00% | ~915 |
+| Lost and Found | 8.00% | ~563 |
+| Autodidact | 7.00% | ~9,252 |
+| This guy... again? | 7.00% | ~493 |
 | This Belongs in a Museum | 6.00% | ~7,930 |
 | Creep and Sleep | 6.00% | ~7,930 |
 | Overdue Notice | 6.00% | ~7,930 |
@@ -24,15 +24,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,608 |
 | FNG | 5.00% | ~6,608 |
 | Bloody Graduation | 5.00% | ~352 |
-| It Rings a Bell | 4.00% | ~5,286 |
-| It Happens | 4.00% | ~5,286 |
-| Spelunker | 4.00% | ~5,286 |
-| Merry Time | 4.00% | ~5,286 |
-| Harvest Festival | 4.00% | ~5,286 |
-| Ramble On | 4.00% | ~5,286 |
-| Whale | 4.00% | ~5,286 |
-| A Place to Lay Your Head | 4.00% | ~5,286 |
-| Nope | 4.00% | ~5,286 |
+| It Rings a Bell | 4.00% | ~5,287 |
+| It Happens | 4.00% | ~5,287 |
+| Spelunker | 4.00% | ~5,287 |
+| Merry Time | 4.00% | ~5,287 |
+| Harvest Festival | 4.00% | ~5,287 |
+| Ramble On | 4.00% | ~5,287 |
+| Whale | 4.00% | ~5,287 |
+| A Place to Lay Your Head | 4.00% | ~5,287 |
+| Nope | 4.00% | ~5,287 |
 | Friends 'Til the End | 4.00% | ~281 |
 | Resurrection | 3.00% | ~3,965 |
 | Unleash Hell | 3.00% | ~3,965 |
@@ -65,8 +65,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 1.00% | ~1,322 |
 | Slap on the Wrist | 1.00% | ~70 |
 | For Old Time' Sake | 1.00% | ~70 |
-| Hat Trick | 0.90% | ~1,189 |
-| Triage | 0.90% | ~1,189 |
+| Hat Trick | 0.90% | ~1,190 |
+| Triage | 0.90% | ~1,190 |
 | No Mercy | 0.90% | ~63 |
 | Et Tu, Riposte? | 0.80% | ~56 |
 | The World As It Was | 0.70% | ~925 |
@@ -75,7 +75,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eidetic | 0.50% | ~661 |
 | On This Long Road, We Found Redemption | 0.50% | ~35 |
 | Battle Hardened | 0.40% | ~28 |
-| Tears in the Rain | 0.30% | ~396 |
+| Tears in the Rain | 0.30% | ~397 |
 | Maître De La Lame | 0.30% | ~21 |
 | Circle of Life | 0.20% | ~264 |
 | Grand Slam | 0.20% | ~264 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,161 (Ranked 91)  
+Progressed: 132,168 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,18 +339,18 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,161 | 3 |
+| 2024-01-08 | 132,168 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
-Sum: 21,528 (Ranked 58)  
+Sum: 21,534 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,986 |
-| This game has Diverse Characters | 1,831 |
+| This game has Diverse Characters | 1,835 |
 | This game has Challenging Combat | 1,672 |
 | This game is Highly Recommended | 1,599 |
-| This game has Amazing Characters | 1,525 |
+| This game has Amazing Characters | 1,527 |
 | This game is Extremely Fun | 1,518 |
 | This game has Unique Visuals | 1,461 |
 | This game has Amazing Storytelling | 1,441 |
@@ -706,4 +706,4 @@ Diff (max vs sum): -8
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
-| 2024-01-08 | 4.68 | - | 7,986 | 21,528 |
+| 2024-01-08 | 4.68 | - | 7,986 | 21,534 |

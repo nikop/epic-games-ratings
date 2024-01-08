@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,11 +185,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1484,
+  "EOS_Progressed": 1485,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.43,
+  "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -5105,6 +5105,11 @@
       "Time": "2024-01-08T01:54:48.5113629+00:00",
       "NumProgressed": 1484,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-08T13:10:20.9460388+00:00",
+      "NumProgressed": 1485,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5125,7 +5130,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "_03_FinishAct1",
@@ -5133,7 +5138,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5149,7 +5154,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5173,7 +5178,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "_09_Completion_20",
@@ -5245,7 +5250,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5261,7 +5266,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5324,7 +5329,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1484,
+      "Progressed": 1485,
       "Completed": 36
     }
   ],
@@ -5332,8 +5337,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:05:31.0463957+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:10:20.9460384+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:59:19.0974825+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:05:31.0464502+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:04:21.6528879+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:10:20.9460797+00:00"
 }

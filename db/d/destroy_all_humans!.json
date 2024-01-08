@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.27,
+  "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1625,6 +1625,11 @@
       "Time": "2024-01-08T05:09:00.2555356+00:00",
       "NumProgressed": 395,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T13:13:42.6480895+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1653,7 +1658,7 @@
       "Name": "Scuttled",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ABILITY_ECM",
@@ -1677,7 +1682,7 @@
       "Name": "Yettisoned",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1693,15 +1698,15 @@
       "Name": "Forbidden Donut",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1717,7 +1722,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -1797,7 +1802,7 @@
       "Name": "Kaijuiced",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1829,15 +1834,15 @@
       "Name": "Higher Than the Futen Zoku",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1869,7 +1874,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1877,7 +1882,7 @@
       "Name": "Upgreatest",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -1885,7 +1890,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1909,7 +1914,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1931,9 +1936,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1956,15 +1961,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:08:44.0814828+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:13:42.6480891+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-08T12:00:14.0448682+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:08:44.0815168+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:05:17.3054163+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:13:42.6481181+00:00"
 }

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,373 |
-| Off to a good start | 61.00% | ~1,683 |
-| Do... or do not. There is no try | 52.00% | ~1,435 |
-| A good blaster at your side | 24.00% | ~662 |
-| I suggest a new strategy | 17.00% | ~469 |
-| Great shot, kid! | 16.00% | ~441 |
+| New Recruit | 86.00% | ~2,375 |
+| Off to a good start | 61.00% | ~1,685 |
+| Do... or do not. There is no try | 52.00% | ~1,436 |
+| A good blaster at your side | 24.00% | ~663 |
+| I suggest a new strategy | 17.00% | ~470 |
+| Great shot, kid! | 16.00% | ~442 |
 | Scrap collector | 15.00% | ~414 |
-| All right, I'll give it a try | 14.00% | ~386 |
+| All right, I'll give it a try | 14.00% | ~387 |
 | The power of the Force | 12.00% | ~331 |
 | Shoot first | 12.00% | ~331 |
-| Collector | 11.00% | ~303 |
-| Together we can rule the galaxy | 11.00% | ~303 |
+| Collector | 11.00% | ~304 |
+| Together we can rule the galaxy | 11.00% | ~304 |
 | Tell Jabba that I've got his money | 8.00% | ~221 |
 | Best star-pilot in the galaxy | 8.00% | ~221 |
 | Never tell me the odds! | 7.00% | ~193 |
@@ -31,7 +31,6 @@
 | Safety ain't the point of a joyride | 3.00% | ~83 |
 | Not bad for a little furball | 3.00% | ~83 |
 | Patience you must have | 3.00% | ~83 |
-| Don't underestimate the Force | 3.00% | ~83 |
 | The Force is strong with this one | 2.00% | ~55 |
 | I've been waiting for you | 2.00% | ~55 |
 | When 900 years old you reach... | 2.00% | ~55 |
@@ -41,6 +40,7 @@
 | Precision shot | 2.00% | ~55 |
 | That's no moon | 2.00% | ~55 |
 | What will you become? | 2.00% | ~55 |
+| Don't underestimate the Force | 2.00% | ~55 |
 | Hold the line! | 1.00% | ~28 |
 | Ackbar's Elite | 1.00% | ~28 |
 | This is a new day, a new beginning | 1.00% | ~28 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,759 (Ranked 232)  
+Progressed: 2,762 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-05 | 2,649 | 1 |
 | 2024-01-06 | 2,690 | 1 |
 | 2024-01-07 | 2,750 | 1 |
-| 2024-01-08 | 2,759 | 1 |
+| 2024-01-08 | 2,762 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

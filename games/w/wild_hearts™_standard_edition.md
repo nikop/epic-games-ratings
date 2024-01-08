@@ -8,7 +8,7 @@
 | Hidden History | 71.00% | ~878 |
 | Commencing of Quests | 61.00% | ~755 |
 | Budding Conjuror | 59.00% | ~730 |
-| Man-Machine Master | 48.00% | ~594 |
+| Man-Machine Master | 49.00% | ~606 |
 | Mountain Splitter | 48.00% | ~594 |
 | Charmed by the Hunt | 48.00% | ~594 |
 | Subsistence Skills | 47.00% | ~581 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 3.00% | ~37 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,237 (Ranked 281)  
-Completed: 8 (0.65%) (Ranked 201)  
+Completed: 8 (0.65%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

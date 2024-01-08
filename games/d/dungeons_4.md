@@ -33,7 +33,7 @@ Rating: 4.74 (Ranked 163)
 | Dungeonlord Gorgu | 45.00% | ~335 |
 | Mana Cannon | 43.00% | ~320 |
 | All’s Well That Ends Evil | 42.00% | ~312 |
-| The Duel | 39.00% | ~290 |
+| The Duel | 40.00% | ~298 |
 | Unstoppable Horde | 36.00% | ~268 |
 | Master of the Undead | 36.00% | ~268 |
 | If Looks Could Kill | 36.00% | ~268 |
@@ -48,8 +48,8 @@ Rating: 4.74 (Ranked 163)
 | Stop Tanos! | 27.00% | ~201 |
 | Sabotage! | 27.00% | ~201 |
 | Raiders of the Lost Stone | 27.00% | ~201 |
+| Bonus Evilness | 26.00% | ~193 |
 | The Rune Sockets of Finitude (Part 2) | 26.00% | ~193 |
-| Bonus Evilness | 25.00% | ~186 |
 | The Last Stand - This Time For Real! | 24.00% | ~179 |
 | Rubble and Ashes | 22.00% | ~164 |
 | Lavalumps on Ice! | 20.00% | ~149 |

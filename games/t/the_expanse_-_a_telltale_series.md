@@ -6,8 +6,8 @@ Rating: 4.53 (Ranked 561)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 18.00% | ~3,352 |
-| Captain Drummer | 15.00% | ~2,793 |
-| Celebrations are in Order | 14.00% | ~2,607 |
+| Captain Drummer | 15.00% | ~2,794 |
+| Celebrations are in Order | 14.00% | ~2,608 |
 | The Pit and the Pirates | 13.00% | ~2,421 |
 | Martian Music | 13.00% | ~2,421 |
 | Bosmang | 13.00% | ~2,421 |
@@ -25,8 +25,8 @@ Rating: 4.53 (Ranked 561)
 | Drug Gifter | 7.00% | ~1,304 |
 | Thorston Mayer | 7.00% | ~1,304 |
 | Khan's Revenge | 7.00% | ~1,304 |
-| Doctor Approved | 6.00% | ~1,117 |
-| Bottoms up! | 6.00% | ~1,117 |
+| Doctor Approved | 6.00% | ~1,118 |
+| Bottoms up! | 6.00% | ~1,118 |
 | Master Negotiator | 6.00% | ~275 |
 | Data Logger | 4.00% | ~745 |
 | Miraculous Maya | 4.00% | ~745 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 561)
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,623 (Ranked 159)  
+Progressed: 18,625 (Ranked 159)  
 Completed: 60 (0.32%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 60 (0.32%) (Ranked 249)
 | 2024-01-05 | 18,329 | 58 |
 | 2024-01-06 | 18,440 | 59 |
 | 2024-01-07 | 18,579 | 60 |
-| 2024-01-08 | 18,623 | 60 |
+| 2024-01-08 | 18,625 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

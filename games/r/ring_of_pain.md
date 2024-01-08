@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 471)  
+Rating: 4.58 (Ranked 472)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,13 +19,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 1.00% | ~2,426 |
 | An Offering | 1.00% | ~2,426 |
 | Matching | 1.00% | ~41 |
-| Nothing To Lose | 0.90% | ~2,183 |
-| Delving Deeper | 0.90% | ~2,183 |
-| Heartless | 0.90% | ~2,183 |
-| Spine Breaker | 0.90% | ~2,183 |
-| C-C-Combo | 0.90% | ~2,183 |
-| Deflection | 0.90% | ~2,183 |
-| Sneaky | 0.90% | ~2,183 |
+| Nothing To Lose | 0.90% | ~2,184 |
+| Delving Deeper | 0.90% | ~2,184 |
+| Heartless | 0.90% | ~2,184 |
+| Spine Breaker | 0.90% | ~2,184 |
+| C-C-Combo | 0.90% | ~2,184 |
+| Deflection | 0.90% | ~2,184 |
+| Sneaky | 0.90% | ~2,184 |
 | Not Touching You | 0.90% | ~37 |
 | Ambitious Intent | 0.80% | ~1,941 |
 | R.I.P | 0.80% | ~1,941 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,610 (Ranked 73)  
+Progressed: 242,614 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-05 | 242,422 | 304 |
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
-| 2024-01-08 | 242,610 | 304 |
+| 2024-01-08 | 242,614 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

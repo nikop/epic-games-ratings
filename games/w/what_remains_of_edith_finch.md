@@ -1,7 +1,7 @@
 # What Remains of Edith Finch
 [Store](https://store.epicgames.com/en-US/p/what-remains-of-edith-finch)  
 [View Rawdata](../../db/w/what_remains_of_edith_finch.json)  
-Rating: 4.73 (Ranked 178)  
+Rating: 4.74 (Ranked 163)  
 Number of Ratings: 75  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -57,3 +57,4 @@ Number of Ratings: 75  (23.09.2022)
 | 2023-04-20 | 4.73 | - | 0 | 0 |
 | 2023-06-25 | 4.74 | - | 0 | 0 |
 | 2023-11-22 | 4.73 | - | 0 | 0 |
+| 2024-01-08 | 4.74 | - | 0 | 0 |

@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
@@ -2417,6 +2417,11 @@
       "Time": "2024-01-08T10:10:34.2123105+00:00",
       "NumProgressed": 666,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T13:14:59.7545232+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2428,7 +2433,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "completeact2",
@@ -2444,7 +2449,7 @@
       "Name": "On the Road",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "findalltapes",
@@ -2474,9 +2479,9 @@
       "ID": "scoreminrankrb2",
       "SetID": "40n95i5",
       "Name": "Freedom",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 47
     },
     {
       "ID": "scoreminrankrf1",
@@ -2530,9 +2535,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 107
     },
     {
       "ID": "scoreminrankrv2",
@@ -2547,7 +2552,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 3
     }
   ],
@@ -2555,8 +2560,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:10:00.9536572+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:14:59.7545229+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:58:07.3006813+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:10:00.9536795+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:03:08.4786295+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:14:59.7545566+00:00"
 }

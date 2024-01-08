@@ -2,9 +2,9 @@
   "ID": "a4b5203877a04321bd1989cef6ba51dc",
   "Name": "One Hand Clapping",
   "ProductSlug": "one-hand-clapping",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 922,
+  "EOS_Progressed": 926,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -789,6 +789,11 @@
       "Time": "2024-01-08T12:05:57.3203391+00:00",
       "NumProgressed": 922,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T13:10:47.8488791+00:00",
+      "NumProgressed": 926,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -800,7 +805,7 @@
       "Name": "Silent City",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "10",
@@ -880,7 +885,7 @@
       "Name": "Cadenza",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "2",
@@ -904,7 +909,7 @@
       "Name": "Staccato",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "22",
@@ -968,7 +973,7 @@
       "Name": "Maestro Mountain",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "4",
@@ -976,13 +981,13 @@
       "Name": "Fugue Forest",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "5",
       "SetID": "7l2nmpm",
       "Name": "Coda Cave",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -990,7 +995,7 @@
       "ID": "6",
       "SetID": "7l2nmpm",
       "Name": "Solo Sea",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -1023,7 +1028,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 922,
+      "Progressed": 926,
       "Completed": 0
     }
   ],
@@ -1031,8 +1036,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:05:57.3203387+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:10:47.8488787+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.3557849+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:59:12.9406812+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:05:57.3203589+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:04:15.0594068+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:10:47.8489065+00:00"
 }

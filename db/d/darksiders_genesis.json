@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -445,7 +445,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 526,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
@@ -1900,6 +1900,11 @@
       "Time": "2024-01-08T12:09:57.4977116+00:00",
       "NumProgressed": 525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T13:14:56.1515959+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2024,7 +2029,7 @@
       "Name": "Mammon",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MasterofStrife",
@@ -2151,15 +2156,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 526,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:09:57.4977112+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:14:56.1515955+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:57:55.6585767+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:09:57.4977573+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:02:57.8775119+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:14:56.151625+00:00"
 }

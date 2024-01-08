@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 688,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2234,6 +2234,11 @@
       "Time": "2024-01-08T09:06:05.0987219+00:00",
       "NumProgressed": 686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T13:11:06.4194511+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2260,9 +2265,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 69
     },
     {
       "ID": "6",
@@ -2310,7 +2315,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "REMAKE_004",
@@ -2318,7 +2323,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "Remake_005",
@@ -2342,7 +2347,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Remake_008",
@@ -2358,7 +2363,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Remake_010",
@@ -2374,7 +2379,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Remake_12",
@@ -2406,7 +2411,7 @@
       "Name": "Ready for the Big Leagues",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Remake_16",
@@ -2430,7 +2435,7 @@
       "Name": "Disobedient",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Remake_19",
@@ -2438,7 +2443,7 @@
       "Name": "Pan Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Remake_20",
@@ -2462,21 +2467,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 688,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:06:15.9874645+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:11:06.4194507+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:57:02.5906413+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:06:15.9874884+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:02:07.25613+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:11:06.4194774+00:00"
 }

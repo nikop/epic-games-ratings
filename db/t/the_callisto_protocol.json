@@ -2111,9 +2111,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 21670,
+  "EOS_Progressed": 21671,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1251,
+  "EOS_NewPlayers": 1241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13061,6 +13061,11 @@
       "Time": "2024-01-08T12:09:40.0863551+00:00",
       "NumProgressed": 21670,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-08T13:14:38.815285+00:00",
+      "NumProgressed": 21671,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13216,7 +13221,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13246,9 +13251,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4768
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13288,7 +13293,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "STORY_MINETOWN",
@@ -13447,13 +13452,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21670,
+      "Progressed": 21671,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9596,
+      "Progressed": 9597,
       "Completed": 29
     }
   ],
@@ -13461,8 +13466,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-08T12:03:21.913383+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:09:40.0863547+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:14:38.8152847+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-08T12:03:21.9133836+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:09:40.0864363+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:08:09.7868639+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:14:38.8153676+00:00"
 }

@@ -427,9 +427,9 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_FIRSTMEDITATION",
@@ -491,17 +491,17 @@
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_PERFECTDODGE",
@@ -626,8 +626,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:05:14.5481718+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:10:04.3194496+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.9847922+00:00",
-  "LastUpdate_Ratings": "2024-01-08T12:00:20.5617384+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:05:14.5481949+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:05:24.0710335+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:10:04.3194702+00:00"
 }

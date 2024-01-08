@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1074,
+  "EOS_Progressed": 1076,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3740,6 +3740,11 @@
       "Time": "2024-01-08T12:09:16.9299286+00:00",
       "NumProgressed": 1074,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T13:14:15.4507744+00:00",
+      "NumProgressed": 1076,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3808,7 +3813,7 @@
       "Name": "This Spot\u0027s Taken",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BurrowUp",
@@ -3864,7 +3869,7 @@
       "Name": "Deepstrike",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "DieByTheBow",
@@ -3928,7 +3933,7 @@
       "Name": "Infernal Influence",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KillingSpree",
@@ -3992,7 +3997,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "RanaCampaign",
@@ -4000,7 +4005,7 @@
       "Name": "From the Ashes",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
@@ -4080,7 +4085,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "WielderLevel2",
@@ -4112,7 +4117,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4120,7 +4125,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -4136,7 +4141,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4144,7 +4149,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -4183,15 +4188,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1074,
+      "Progressed": 1076,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:09:16.9299282+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:14:15.4507741+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-08T12:00:05.6798422+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:09:16.9299957+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:05:08.7940346+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:14:15.4508363+00:00"
 }

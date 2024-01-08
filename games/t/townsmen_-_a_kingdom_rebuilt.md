@@ -24,10 +24,10 @@ Number of Ratings: 37  (23.09.2022)
 | Full-time job II | 7.00% | ~311 |
 | A time consuming game II | 7.00% | ~311 |
 | Knee deep in snow | 7.00% | ~311 |
-| Not a small trader anymore | 6.00% | ~266 |
-| The King's new clothes I | 6.00% | ~266 |
-| Tax-man III | 6.00% | ~266 |
-| Tools of the trade I | 6.00% | ~266 |
+| Not a small trader anymore | 6.00% | ~267 |
+| The King's new clothes I | 6.00% | ~267 |
+| Tax-man III | 6.00% | ~267 |
+| Tools of the trade I | 6.00% | ~267 |
 | Bread for the people II | 5.00% | ~222 |
 | I like to build stuff... III | 5.00% | ~222 |
 | Builder II | 5.00% | ~222 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,441 (Ranked 207)  
+Progressed: 4,442 (Ranked 207)  
 Completed: 4 (0.09%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 4 (0.09%) (Ranked 316)
 | 2024-01-05 | 4,423 | 4 |
 | 2024-01-06 | 4,429 | 4 |
 | 2024-01-07 | 4,434 | 4 |
-| 2024-01-08 | 4,441 | 4 |
+| 2024-01-08 | 4,442 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

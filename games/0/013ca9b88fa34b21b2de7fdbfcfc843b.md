@@ -5,9 +5,9 @@ Rating: 4.63 (Ranked 358)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 4.00% | ~357 |
-| A Thorny Situation | 4.00% | ~357 |
-| ... And Spit Back Out | 4.00% | ~357 |
+| Azoria Beckons | 4.00% | ~358 |
+| A Thorny Situation | 4.00% | ~358 |
+| ... And Spit Back Out | 4.00% | ~358 |
 | Break-Net Speed | 3.00% | ~268 |
 | Bramble Breaker | 3.00% | ~268 |
 | Calm Sailing | 2.00% | ~179 |
@@ -24,8 +24,8 @@ Rating: 4.63 (Ranked 358)
 | Botanical Breakthrough | 1.00% | ~89 |
 | Exit Through The Gift Shop | 1.00% | ~16 |
 | Skilled | 0.90% | ~80 |
-| Flaming Hot Completos | 0.80% | ~71 |
-| Azorian Anniversary | 0.80% | ~71 |
+| Flaming Hot Completos | 0.80% | ~72 |
+| Azorian Anniversary | 0.80% | ~72 |
 | Fae Farmer | 0.70% | ~63 |
 | Got to Catch Them All | 0.70% | ~63 |
 | Scattered Scroll Scrounger | 0.60% | ~54 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 358)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,937 (Ranked 185)  
+Progressed: 8,938 (Ranked 185)  
 Completed: 1 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 1 (0.01%) (Ranked 372)
 | 2024-01-05 | 8,888 | 1 |
 | 2024-01-06 | 8,910 | 1 |
 | 2024-01-07 | 8,929 | 1 |
-| 2024-01-08 | 8,937 | 1 |
+| 2024-01-08 | 8,938 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

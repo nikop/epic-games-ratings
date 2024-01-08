@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -663,7 +663,7 @@
   ],
   "EOS_Progressed": 4241,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9730,9 +9730,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 848
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -10113,8 +10113,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:09:35.437085+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:14:34.0530073+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:57:17.0011332+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:09:35.4371821+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:02:21.0847201+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:14:34.0530936+00:00"
 }

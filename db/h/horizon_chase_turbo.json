@@ -3,7 +3,7 @@
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
   "Ranking_Rating": 525,
-  "Ranking_Popularity": 309,
+  "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 337,
@@ -3445,9 +3445,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 1102287,
+  "EOS_Progressed": 1102315,
   "EOS_Completed": 532,
-  "EOS_NewPlayers": 4192,
+  "EOS_NewPlayers": 4181,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33695,6 +33695,11 @@
       "Time": "2024-01-08T12:08:44.7491721+00:00",
       "NumProgressed": 1102287,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2024-01-08T13:13:43.2149262+00:00",
+      "NumProgressed": 1102315,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 37,
@@ -33706,7 +33711,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 374778
+      "UsersEstimate": 374787
     },
     {
       "ID": "CompleteAustralia",
@@ -33730,7 +33735,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 77160
+      "UsersEstimate": 77162
     },
     {
       "ID": "CompleteChile",
@@ -33738,7 +33743,7 @@
       "Name": "Carm\u00E9n\u00E8re Taster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 44091
+      "UsersEstimate": 44093
     },
     {
       "ID": "CompleteChina",
@@ -33834,7 +33839,7 @@
       "Name": "Getting Famous",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "FinishEnduranceGoldEasy",
@@ -33898,7 +33903,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 121252
+      "UsersEstimate": 121255
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -33906,7 +33911,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 992058
+      "UsersEstimate": 992084
     },
     {
       "ID": "GetLotsOfScore",
@@ -33938,7 +33943,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 518075
+      "UsersEstimate": 518088
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -33946,7 +33951,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 198412
+      "UsersEstimate": 198417
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -33954,7 +33959,7 @@
       "Name": "Comeback",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 44091
+      "UsersEstimate": 44093
     },
     {
       "ID": "RunLotsOfMiles",
@@ -33970,7 +33975,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 694441
+      "UsersEstimate": 694458
     },
     {
       "ID": "WinBySmallDifference",
@@ -33978,7 +33983,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 198412
+      "UsersEstimate": 198417
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -33994,22 +33999,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 55114
+      "UsersEstimate": 55116
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1102287,
+      "Progressed": 1102315,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2024-01-06T21:03:19.5487023+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:08:44.7491718+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:13:43.2149255+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:04.091309+00:00",
-  "LastUpdate_Ratings": "2024-01-08T12:03:14.7481627+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:08:44.7493438+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:08:02.8072724+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:13:43.2150914+00:00"
 }

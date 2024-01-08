@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 494,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1996,9 +1996,9 @@
       "ID": "Collect_Weapon_Crossblade",
       "SetID": "7a5k76n",
       "Name": "Salvation",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 188
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -2364,8 +2364,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:03:45.6501233+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:08:35.1625492+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:56:57.1004539+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:03:45.6501934+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:02:01.5299266+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:08:35.1626095+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -610,9 +610,9 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -961,8 +961,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:09:26.7220498+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:14:25.2749025+00:00",
   "LastUpdate_AppInfo": "2024-01-03T15:56:53.5899494+00:00",
-  "LastUpdate_Ratings": "2024-01-08T12:00:17.0646449+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:09:26.7220881+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:05:20.3623995+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:14:25.2749437+00:00"
 }

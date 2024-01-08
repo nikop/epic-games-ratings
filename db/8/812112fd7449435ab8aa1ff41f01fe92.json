@@ -2,9 +2,9 @@
   "ID": "812112fd7449435ab8aa1ff41f01fe92",
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
-  "Ranking_EOS_Progress": 568,
+  "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -234,6 +234,11 @@
       "Time": "2024-01-08T08:08:59.425041+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T13:13:27.5601771+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -244,7 +249,7 @@
       "ID": "4PLAYERS",
       "SetID": "5629o35",
       "Name": "Party on",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -260,7 +265,7 @@
       "ID": "DEATH_ALL",
       "SetID": "5629o35",
       "Name": "Hardened",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -284,7 +289,7 @@
       "ID": "DEATH_FLOWER",
       "SetID": "5629o35",
       "Name": "Very angry flower",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -292,9 +297,9 @@
       "ID": "DEATH_LAVA",
       "SetID": "5629o35",
       "Name": "The floor is lava. Literally.",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "DEATH_LAVA_100",
@@ -308,7 +313,7 @@
       "ID": "DEATH_LIGHTNING",
       "SetID": "5629o35",
       "Name": "Storm Chaser",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -318,7 +323,7 @@
       "Name": "Welcome to the jumping challenge!",
       "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "OWN_SKINS",
@@ -348,7 +353,7 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
       "UsersEstimate": 26
     },
@@ -356,7 +361,7 @@
       "ID": "SCORE_300",
       "SetID": "5629o35",
       "Name": "Parkourer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -389,14 +394,14 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:08:29.0885096+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:13:27.5601767+00:00",
   "LastUpdate_AppInfo": "2024-01-01T18:57:10.6877245+00:00",
-  "LastUpdate_Ratings": "2024-01-08T12:00:09.893923+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:08:29.0885265+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:05:13.0315604+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:13:27.560194+00:00"
 }

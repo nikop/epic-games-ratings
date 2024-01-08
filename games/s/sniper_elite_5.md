@@ -19,8 +19,8 @@ Rating: 4.46 (Ranked 673)
 | Liberté | 23.00% | ~975 |
 | Organ Grinder | 23.00% | ~975 |
 | Sharpshooter | 23.00% | ~975 |
+| Explosive Efficiency | 20.00% | ~848 |
 | Gunslinger | 19.00% | ~806 |
-| Explosive Efficiency | 19.00% | ~806 |
 | Climbing the Ladder | 17.00% | ~721 |
 | Just a Flesh Wound | 17.00% | ~721 |
 | Der Geist | 17.00% | ~721 |

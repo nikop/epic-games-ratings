@@ -14,7 +14,7 @@ Number of Ratings: 285  (23.09.2022)
 | Mushroom Madness! | 23.00% | ~1,426 |
 | First Strike | 22.00% | ~1,364 |
 | Spending Spree | 19.00% | ~1,178 |
-| Horder Better Faster Stronger | 17.00% | ~1,054 |
+| Horder Better Faster Stronger | 18.00% | ~1,116 |
 | Next Time on MythForce... | 15.00% | ~930 |
 | Ten Steps from the Grave | 15.00% | ~930 |
 | Everything Must Go! | 14.00% | ~868 |

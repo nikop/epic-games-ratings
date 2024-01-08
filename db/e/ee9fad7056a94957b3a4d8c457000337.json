@@ -2,9 +2,9 @@
   "ID": "ee9fad7056a94957b3a4d8c457000337",
   "Name": "20 Minutes Till Dawn",
   "ProductSlug": "20-minutes-till-dawn-be3305",
-  "Ranking_Rating": 401,
-  "Ranking_Popularity": 318,
-  "Ranking_PopularitySum": 432,
+  "Ranking_Rating": 429,
+  "Ranking_Popularity": 292,
+  "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2024-01-03T11:57:34.34371+00:00",
@@ -119,18 +119,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 172,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2024-01-08T13:04:49.4993132+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 217,
+      "NumberOfAwardsMax": 217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 172,
-  "NumberOfAwardsMax": 172,
+  "NumberOfAwards": 217,
+  "NumberOfAwardsMax": 217,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 172
+      "Count": 217
     }
   ],
   "EOS_Progressed": 0,
@@ -145,8 +151,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-02T18:57:16.5662622+00:00",
   "FirstSeenRating": "2024-01-03T11:57:34.3437098+00:00",
-  "LastChanged": "2024-01-07T13:03:35.4173389+00:00",
+  "LastChanged": "2024-01-08T13:04:49.499313+00:00",
   "LastUpdate_AppInfo": "2024-01-02T16:57:05.408242+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:59:46.7154796+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:05:48.658258+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:04:49.4993137+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:10:38.9362314+00:00"
 }

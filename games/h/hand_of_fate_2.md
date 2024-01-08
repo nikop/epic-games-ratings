@@ -6,24 +6,24 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~480,285 |
-| Apprentice | 58.00% | ~386,896 |
-| Close Shave | 25.00% | ~166,766 |
-| Mercenary | 23.00% | ~153,424 |
-| Ninja | 23.00% | ~153,424 |
+| The Fool | 72.00% | ~480,288 |
+| Apprentice | 58.00% | ~386,899 |
+| Close Shave | 25.00% | ~166,767 |
+| Mercenary | 23.00% | ~153,425 |
+| Ninja | 23.00% | ~153,425 |
 | Northern Scourge | 17.00% | ~113,401 |
 | Thief Bane | 14.00% | ~93,389 |
-| Master of Arms | 12.00% | ~80,047 |
-| Gambler | 10.00% | ~66,706 |
-| Dice Master | 10.00% | ~66,706 |
+| Master of Arms | 12.00% | ~80,048 |
+| Gambler | 10.00% | ~66,707 |
+| Dice Master | 10.00% | ~66,707 |
 | Swordsman | 9.00% | ~60,036 |
 | Knight | 8.00% | ~53,365 |
 | Cure for Corruption | 8.00% | ~53,365 |
 | Focused | 8.00% | ~53,365 |
 | Flurry of Fury | 8.00% | ~53,365 |
-| Long Shot | 7.00% | ~46,694 |
-| Devil Dice | 7.00% | ~46,694 |
-| Broken Heart | 7.00% | ~46,694 |
+| Long Shot | 7.00% | ~46,695 |
+| Devil Dice | 7.00% | ~46,695 |
+| Broken Heart | 7.00% | ~46,695 |
 | Adventurer | 6.00% | ~40,024 |
 | Empire's Bane | 6.00% | ~40,024 |
 | Jack of all Trades | 5.00% | ~33,353 |
@@ -40,7 +40,7 @@ Number of Ratings: 780  (23.09.2022)
 | Champion | 1.00% | ~6,671 |
 | Final Death | 1.00% | ~6,671 |
 | Thomas' Bane | 0.90% | ~6,004 |
-| Ally | 0.80% | ~5,336 |
+| Ally | 0.80% | ~5,337 |
 | Gamester | 0.70% | ~4,669 |
 | Hero | 0.60% | ~4,002 |
 | Rebel | 0.60% | ~4,002 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,062 (Ranked 31)  
+Progressed: 667,067 (Ranked 31)  
 Completed: 174 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,16 +318,16 @@ Completed: 174 (0.03%) (Ranked 354)
 | 2024-01-05 | 666,910 | 174 |
 | 2024-01-06 | 666,973 | 174 |
 | 2024-01-07 | 667,043 | 174 |
-| 2024-01-08 | 667,062 | 174 |
+| 2024-01-08 | 667,067 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 497)  
-Sum: 195 (Ranked 418)  
-Diff (max vs sum): 79  
+Sum: 196 (Ranked 419)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |
 | This game has Amazing Storytelling | 36 |
-| This game is Highly Recommended | 32 |
+| This game is Highly Recommended | 33 |
 | This game has Amazing Characters | 31 |
 | This game is Great for Beginners | 27 |
 | This game has Quickly Understood Controls | 25 |
@@ -441,3 +441,4 @@ Diff (max vs sum): 79
 | 2023-11-24 | 4.55 | - | 36 | 193 |
 | 2024-01-05 | 4.55 | - | 36 | 194 |
 | 2024-01-07 | 4.55 | - | 36 | 195 |
+| 2024-01-08 | 4.55 | - | 36 | 196 |

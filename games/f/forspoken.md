@@ -7,14 +7,14 @@ Rating: 4.15 (Ranked 999)
 | ---- | ---------- | ----- |
 | Attachments | 12.00% | ~5,613 |
 | Unlocked Potential | 11.00% | ~5,145 |
-| Tinkerer | 9.00% | ~4,209 |
+| Tinkerer | 9.00% | ~4,210 |
 | Knock 'Em Dead | 8.00% | ~3,742 |
 | Leapfrogger | 7.00% | ~3,274 |
 | Pilgrimage: Initiate | 7.00% | ~3,274 |
 | Hell of a Run | 7.00% | ~3,274 |
 | Call of the Fount: Baptized | 7.00% | ~3,274 |
-| No Mercy | 6.00% | ~2,806 |
-| Explorer: Seeker | 6.00% | ~2,806 |
+| No Mercy | 6.00% | ~2,807 |
+| Explorer: Seeker | 6.00% | ~2,807 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,339 |
 | Stuck | 5.00% | ~2,339 |
 | Help Me Out Here | 5.00% | ~2,339 |
@@ -22,12 +22,12 @@ Rating: 4.15 (Ranked 999)
 | Outdoorsperson | 3.00% | ~1,403 |
 | Hop, Step, Jump | 3.00% | ~1,403 |
 | Endless Runner | 3.00% | ~1,403 |
-| What Must Be Done | 2.00% | ~935 |
-| Might and Main | 2.00% | ~935 |
-| Damned If You Do... | 2.00% | ~935 |
-| Explorer: Pathfinder | 2.00% | ~935 |
-| Shocker | 2.00% | ~935 |
-| From Every Angle | 2.00% | ~935 |
+| What Must Be Done | 2.00% | ~936 |
+| Might and Main | 2.00% | ~936 |
+| Damned If You Do... | 2.00% | ~936 |
+| Explorer: Pathfinder | 2.00% | ~936 |
+| Shocker | 2.00% | ~936 |
+| From Every Angle | 2.00% | ~936 |
 | The Hue of Blue | 1.00% | ~468 |
 | The Truth Will Out | 1.00% | ~468 |
 | Breaking Point | 1.00% | ~468 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 999)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,772 (Ranked 126)  
+Progressed: 46,776 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 4 (0.01%) (Ranked 372)
 | 2024-01-05 | 46,484 | 4 |
 | 2024-01-06 | 46,610 | 4 |
 | 2024-01-07 | 46,730 | 4 |
-| 2024-01-08 | 46,772 | 4 |
+| 2024-01-08 | 46,776 | 4 |
 ## Awards
 Max (Character Customization): 46  (Ranked 467)  
 Sum: 67 (Ranked 492)  

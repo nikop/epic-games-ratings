@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3845,9 +3845,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20466,
+  "EOS_Progressed": 20471,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18925,6 +18925,11 @@
       "Time": "2024-01-08T12:03:57.1841257+00:00",
       "NumProgressed": 20466,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-08T13:08:46.7313161+00:00",
+      "NumProgressed": 20471,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19025,7 +19030,7 @@
       "Name": "First Real Expedition",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "WinHard",
@@ -19273,7 +19278,7 @@
       "Name": "Taking Action",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "WinWithResolve",
@@ -19313,7 +19318,7 @@
       "Name": "No Deaths",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "WinWithoutOrders",
@@ -19337,7 +19342,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "WinNearFrosts",
@@ -19345,7 +19350,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "WinNearGreed",
@@ -19353,7 +19358,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "WinNearLibrary",
@@ -19361,7 +19366,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "WinNearPetrified",
@@ -19369,7 +19374,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "WinNearPresence",
@@ -19408,15 +19413,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20466,
+      "Progressed": 20471,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-08T02:21:19.4867993+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:03:57.1841252+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:08:46.7313158+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:57:21.3242532+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:03:57.1842275+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:02:25.3252443+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:08:46.7314169+00:00"
 }

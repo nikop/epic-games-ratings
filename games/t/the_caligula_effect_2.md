@@ -6,23 +6,23 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 97.00% | ~245 |
-| Daily Life Begins Anew | 81.00% | ~205 |
-| Our World Now | 81.00% | ~205 |
-| Never Saw It Coming | 65.00% | ~164 |
-| Coup de Grace | 57.00% | ~144 |
-| Go-Home Club Activities START! | 48.00% | ~121 |
-| Philanthropist | 38.00% | ~96 |
-| Test Your Luck | 33.00% | ~83 |
+| Welcome to Redo | 97.00% | ~246 |
+| Daily Life Begins Anew | 81.00% | ~206 |
+| Our World Now | 80.00% | ~203 |
+| Never Saw It Coming | 65.00% | ~165 |
+| Coup de Grace | 56.00% | ~142 |
+| Go-Home Club Activities START! | 48.00% | ~122 |
+| Philanthropist | 38.00% | ~97 |
+| Test Your Luck | 33.00% | ~84 |
 | Behind the Curtain | 32.00% | ~81 |
-| Master of Surprise | 29.00% | ~73 |
+| Master of Surprise | 29.00% | ~74 |
 | Be Who You Wanna Be | 26.00% | ~66 |
-| Investment Ban-χ-ing | 25.00% | ~63 |
+| Investment Ban-χ-ing | 24.00% | ~61 |
 | Counter Champion | 24.00% | ~61 |
 | Combo Commando | 24.00% | ~61 |
-| One-Track Mind | 23.00% | ~58 |
 | Friendly Neighborhood | 23.00% | ~58 |
 | Stay Winning | 23.00% | ~58 |
+| One-Track Mind | 22.00% | ~56 |
 | Nice Doing Business | 22.00% | ~56 |
 | WIRE Guru | 21.00% | ~53 |
 | The Greater Good | 19.00% | ~48 |
@@ -56,7 +56,7 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~3 |
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253 (Ranked 414)  
+Progressed: 254 (Ranked 414)  
 Completed: 2 (0.79%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 2 (0.79%) (Ranked 191)
 | 2024-01-05 | 250 | 2 |
 | 2024-01-06 | 252 | 2 |
 | 2024-01-07 | 253 | 2 |
+| 2024-01-08 | 254 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

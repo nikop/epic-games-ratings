@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 804,
+  "EOS_Progressed": 805,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.74,
+  "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1725,6 +1725,11 @@
       "Time": "2024-01-07T17:09:31.2516965+00:00",
       "NumProgressed": 804,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-08T13:14:41.2024407+00:00",
+      "NumProgressed": 805,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1744,7 +1749,7 @@
       "Name": "Blast From The Past",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "deadly_secret",
@@ -1752,7 +1757,7 @@
       "Name": "Deadly Secret",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ending_1",
@@ -1880,7 +1885,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "tough_decision",
@@ -1888,14 +1893,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 804,
+      "Progressed": 805,
       "Completed": 22
     }
   ],
@@ -1903,8 +1908,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:09:42.582762+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:14:41.2024403+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:38.6088522+00:00",
-  "LastUpdate_Ratings": "2024-01-08T12:02:52.0914134+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:09:42.5827859+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:07:42.5215941+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:14:41.2024615+00:00"
 }

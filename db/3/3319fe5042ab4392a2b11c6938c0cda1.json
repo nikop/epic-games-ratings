@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -769,9 +769,9 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "ae95dh3",
       "Name": "Happy Birthday",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -865,9 +865,9 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "ae95dh3",
       "Name": "Dust to Dust",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -992,8 +992,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:04:07.5961644+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:08:57.1347817+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:23.9346853+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:59:01.615964+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:04:07.5961898+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:04:03.6425947+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:08:57.1348138+00:00"
 }

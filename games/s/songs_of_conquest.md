@@ -6,29 +6,29 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~494 |
+| Adept | 46.00% | ~495 |
 | Double Kill | 40.00% | ~430 |
 | Critical Hit | 23.00% | ~247 |
 | Veteran | 23.00% | ~247 |
 | Dressed For Success | 15.00% | ~161 |
-| Humiliation | 10.00% | ~107 |
-| Veni, Vidi, Vici | 10.00% | ~107 |
+| Humiliation | 10.00% | ~108 |
+| Veni, Vidi, Vici | 10.00% | ~108 |
 | Multi Kill | 9.00% | ~97 |
 | Sorcerous Spree | 8.00% | ~86 |
 | Master | 8.00% | ~86 |
 | Landlord Extraordinaire | 7.00% | ~75 |
-| Whoops! | 6.00% | ~64 |
+| Whoops! | 6.00% | ~65 |
 | The Song of Stoutheart | 5.00% | ~54 |
 | Don't Touch My Stuff | 5.00% | ~54 |
 | Trojan Horse | 4.00% | ~43 |
 | Ultra Kill | 3.00% | ~32 |
 | Expert Essence Employment | 3.00% | ~32 |
-| This Spot's Taken | 2.00% | ~21 |
-| Deepstrike | 2.00% | ~21 |
-| Infernal Influence | 2.00% | ~21 |
-| From the Ashes | 2.00% | ~21 |
-| Pyrrhic Victory | 2.00% | ~21 |
-| Venisti, Vidisti, Perdidisti | 2.00% | ~21 |
+| This Spot's Taken | 2.00% | ~22 |
+| Deepstrike | 2.00% | ~22 |
+| Infernal Influence | 2.00% | ~22 |
+| From the Ashes | 2.00% | ~22 |
+| Pyrrhic Victory | 2.00% | ~22 |
+| Venisti, Vidisti, Perdidisti | 2.00% | ~22 |
 | In The Thick of It | 1.00% | ~11 |
 | Such A Fungi | 1.00% | ~11 |
 | Grand Master | 1.00% | ~11 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,074 (Ranked 288)  
+Progressed: 1,076 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 1,000 | 0 |
 | 2024-01-06 | 1,034 | 0 |
 | 2024-01-07 | 1,067 | 0 |
-| 2024-01-08 | 1,074 | 0 |
+| 2024-01-08 | 1,076 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 528)  
 Sum: 251 (Ranked 398)  

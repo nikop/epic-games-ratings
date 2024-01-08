@@ -3442,9 +3442,9 @@
       "ID": "2",
       "SetID": "d0g98p",
       "Name": "Waff!",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1121
     },
     {
       "ID": "20",
@@ -3763,8 +3763,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:05:08.0430909+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:09:57.7991949+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.0885123+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:59:10.7566293+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:05:08.0431627+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:04:12.8936291+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:09:57.7992444+00:00"
 }

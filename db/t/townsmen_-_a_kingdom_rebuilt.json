@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4441,
+  "EOS_Progressed": 4442,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2008,6 +2008,11 @@
       "Time": "2024-01-08T12:10:14.7441966+00:00",
       "NumProgressed": 4441,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T13:15:13.4229466+00:00",
+      "NumProgressed": 4442,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2027,7 +2032,7 @@
       "Name": "Not a small trader anymore",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -2131,7 +2136,7 @@
       "Name": "The King\u0027s new clothes I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES2",
@@ -2683,7 +2688,7 @@
       "Name": "Tax-man III",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_TAXES4",
@@ -2747,7 +2752,7 @@
       "Name": "Tools of the trade I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -2826,15 +2831,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4441,
+      "Progressed": 4442,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2024-01-08T12:10:14.744196+00:00",
+  "LastChanged_Achievements": "2024-01-08T13:15:13.4229461+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.50992+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:58:33.9161683+00:00",
-  "LastUpdate_Achievements": "2024-01-08T12:10:14.7442991+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:03:34.5250035+00:00",
+  "LastUpdate_Achievements": "2024-01-08T13:15:13.42307+00:00"
 }
