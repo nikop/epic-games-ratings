@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1860,
+  "EOS_Progressed": 1861,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4922,6 +4922,11 @@
       "Time": "2024-01-08T11:10:30.954204+00:00",
       "NumProgressed": 1860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T16:09:20.2667776+00:00",
+      "NumProgressed": 1861,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5053,7 +5058,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -5149,7 +5154,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5293,7 +5298,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5316,7 +5321,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1860,
+      "Progressed": 1861,
       "Completed": 0
     }
   ],
@@ -5324,8 +5329,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:10:07.1330987+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:20.2667772+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:01:07.2723122+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:10:07.1331457+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:59:54.1987535+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:20.2668281+00:00"
 }

@@ -709,7 +709,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473553,
+  "EOS_Progressed": 473555,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
@@ -27899,6 +27899,11 @@
       "Time": "2024-01-08T14:10:17.5199303+00:00",
       "NumProgressed": 473553,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-08T16:09:59.0128444+00:00",
+      "NumProgressed": 473555,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27950,7 +27955,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47355
+      "UsersEstimate": 47356
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -27998,7 +28003,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312545
+      "UsersEstimate": 312546
     },
     {
       "ID": "achievement_story_landa",
@@ -28030,7 +28035,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118388
+      "UsersEstimate": 118389
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -28094,7 +28099,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161008
+      "UsersEstimate": 161009
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28334,7 +28339,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208363
+      "UsersEstimate": 208364
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28358,7 +28363,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56826
+      "UsersEstimate": 56827
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -28541,21 +28546,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17487,
+      "Progressed": 17489,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473553,
+      "Progressed": 473555,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:10:58.8855539+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:59.0128442+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:00:19.5242788+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:10:58.8857724+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:59:20.4444942+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:59.0130216+00:00"
 }

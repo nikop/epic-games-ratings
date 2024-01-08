@@ -21,9 +21,9 @@ Rating: 4.69 (Ranked 236)
 | The Steel Shadow | 24.00% | ~306 |
 | Breaking Down Barriers | 23.00% | ~293 |
 | Right On Time | 22.00% | ~280 |
+| Like Clockwork | 22.00% | ~280 |
 | The Wicked Twins | 22.00% | ~280 |
 | Golem Chaser | 22.00% | ~280 |
-| Like Clockwork | 21.00% | ~267 |
 | The Betrayer | 21.00% | ~267 |
 | Check Your Pulse | 20.00% | ~255 |
 | The Loose Cannon | 19.00% | ~242 |
@@ -38,8 +38,8 @@ Rating: 4.69 (Ranked 236)
 | Syron for Hope | 13.00% | ~165 |
 | Ask Questions Later | 13.00% | ~165 |
 | Treasure Trove | 12.00% | ~153 |
+| Sump Explorer | 12.00% | ~153 |
 | Factorywood Explorer | 11.00% | ~140 |
-| Sump Explorer | 11.00% | ~140 |
 | Fairgrounds Explorer | 10.00% | ~127 |
 | Theater Explorer | 10.00% | ~127 |
 | Cultivair Explorer | 9.00% | ~115 |

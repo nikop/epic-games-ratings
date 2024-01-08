@@ -1551,9 +1551,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7008,
+  "EOS_Progressed": 7009,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16316,6 +16316,11 @@
       "Time": "2024-01-08T15:06:43.8548886+00:00",
       "NumProgressed": 7008,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T16:05:37.6211415+00:00",
+      "NumProgressed": 7009,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16335,7 +16340,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -16423,7 +16428,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3013
+      "UsersEstimate": 3014
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -16487,7 +16492,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5117
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16511,7 +16516,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -16519,7 +16524,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_MYWAYS",
@@ -16646,15 +16651,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7008,
+      "Progressed": 7009,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-07T17:59:09.5034143+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:06:43.854888+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:05:37.6211411+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:00:21.5166772+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:06:43.8550249+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:59:22.2040265+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:05:37.6212366+00:00"
 }

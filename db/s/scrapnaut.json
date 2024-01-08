@@ -158,7 +158,7 @@
   "Tags": [],
   "EOS_Progressed": 641,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2417,9 +2417,9 @@
       "ID": "ACH_MYTHRIL_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Mythical Smelter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -2482,8 +2482,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:09:58.724191+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:14.098641+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:02:37.49134+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:09:58.7242217+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:02:38.0390083+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:14.0986686+00:00"
 }

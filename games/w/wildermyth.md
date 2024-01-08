@@ -6,14 +6,14 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Me and My Familiar | 8.00% | ~127 |
 | The Cost of Heroism | 8.00% | ~127 |
-| Me and My Familiar | 7.00% | ~111 |
+| This Too Shall Pass | 7.00% | ~111 |
 | Passing Shadow | 6.00% | ~95 |
-| This Too Shall Pass | 6.00% | ~95 |
 | How Romantic! | 6.00% | ~95 |
 | Cutthroat Competitors | 6.00% | ~95 |
 | Daybreak | 6.00% | ~95 |
-| Gotta Ca... Must Collect All of Them | 5.00% | ~79 |
+| Gotta Ca... Must Collect All of Them | 5.00% | ~80 |
 | War Endured | 4.00% | ~64 |
 | A Mythic Menagerie | 3.00% | ~48 |
 | Completing the Look | 3.00% | ~48 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,589 (Ranked 263)  
+Progressed: 1,590 (Ranked 263)  
 Completed: 7 (0.44%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,6 +268,7 @@ Completed: 7 (0.44%) (Ranked 232)
 | 2024-01-05 | 1,586 | 7 |
 | 2024-01-06 | 1,588 | 7 |
 | 2024-01-07 | 1,589 | 7 |
+| 2024-01-08 | 1,590 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 528)  
 Sum: 29 (Ranked 545)  

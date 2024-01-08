@@ -4,7 +4,7 @@
   "ProductSlug": "lunas-fishing-garden",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewPlayers": 520,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -248,9 +248,9 @@
       "ID": "1_skies",
       "SetID": "459695l",
       "Name": "Up!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 244
     },
     {
       "ID": "2_reel",
@@ -329,8 +329,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:10:35.8304354+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:40.9253734+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:28.7840787+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:00:07.7247886+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:10:35.8304444+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:59:12.3941021+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:40.9253833+00:00"
 }

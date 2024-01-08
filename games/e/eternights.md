@@ -1,7 +1,7 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.77 (Ranked 115)  
+Rating: 4.78 (Ranked 109)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -145,3 +145,4 @@ Completed: 2 (0.24%) (Ranked 267)
 | 2023-12-27 | 4.75 | 0 | 0 |
 | 2023-12-31 | 4.76 | 0 | 0 |
 | 2024-01-06 | 4.77 | 0 | 0 |
+| 2024-01-08 | 4.78 | 0 | 0 |

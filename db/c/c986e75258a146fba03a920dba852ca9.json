@@ -6,7 +6,7 @@
   "Ranking_Popularity": 329,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 6,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -133,10 +133,10 @@
       "Count": 149
     }
   ],
-  "EOS_Progressed": 246812,
+  "EOS_Progressed": 247012,
   "EOS_Completed": 377,
-  "EOS_NewPlayers": 54956,
-  "EOS_NewCompleters": 263,
+  "EOS_NewPlayers": 54488,
+  "EOS_NewCompleters": 261,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -1433,6 +1433,11 @@
       "Time": "2024-01-08T15:05:27.573235+00:00",
       "NumProgressed": 246812,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2024-01-08T16:04:42.2131465+00:00",
+      "NumProgressed": 247012,
+      "NumCompleted": 377
     }
   ],
   "AchievementsAdded": "2023-12-28T17:03:50.5211758+00:00",
@@ -1445,7 +1450,7 @@
       "Name": "Dungeon Master",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 9872
+      "UsersEstimate": 9880
     },
     {
       "ID": "com.thegentlebros.catquest.equipment_01",
@@ -1453,7 +1458,7 @@
       "Name": "Fashionista Lion",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 19745
+      "UsersEstimate": 19761
     },
     {
       "ID": "com.thegentlebros.catquest.level_03",
@@ -1461,7 +1466,7 @@
       "Name": "Super Catventurer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 7404
+      "UsersEstimate": 7410
     },
     {
       "ID": "com.thegentlebros.catquest.mainquest_02",
@@ -1469,7 +1474,7 @@
       "Name": "Felingard Loremaster",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 59235
+      "UsersEstimate": 59283
     },
     {
       "ID": "com.thegentlebros.catquest.mew_00",
@@ -1477,7 +1482,7 @@
       "Name": "Furry Armored",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "com.thegentlebros.catquest.mew_01",
@@ -1485,7 +1490,7 @@
       "Name": "Level One",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "com.thegentlebros.catquest.mew_02",
@@ -1493,7 +1498,7 @@
       "Name": "Naked Cat",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "com.thegentlebros.catquest.mew_03",
@@ -1501,7 +1506,7 @@
       "Name": "Nine Lives",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "com.thegentlebros.catquest.mew_04",
@@ -1509,7 +1514,7 @@
       "Name": "Stronger Enemies",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "com.thegentlebros.catquest.mew_05",
@@ -1525,7 +1530,7 @@
       "Name": "Saviour of the Cats",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 29617
+      "UsersEstimate": 29641
     },
     {
       "ID": "com.thegentlebros.catquest.skill_01",
@@ -1533,14 +1538,14 @@
       "Name": "Power of the Arcane",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 49362
+      "UsersEstimate": 49402
     }
   ],
   "AchievementSets": [
     {
       "ID": "8g22406",
       "IsBase": true,
-      "Progressed": 246812,
+      "Progressed": 247012,
       "Completed": 377
     }
   ],
@@ -1548,8 +1553,8 @@
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
   "LastChanged": "2024-01-08T02:57:58.9535778+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:05:27.5732344+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:04:42.2131462+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.7855243+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:58:03.8416624+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:05:27.5732611+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:57:43.8697407+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:04:42.2131655+00:00"
 }

@@ -10,14 +10,14 @@ Number of Ratings: 85  (23.09.2022)
 | Kaijuiced | 71.00% | ~282 |
 | Lie Back and Think of Albion | 65.00% | ~258 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~250 |
-| I Look Up As I Walk to Takoshima | 59.00% | ~234 |
+| I Look Up As I Walk to Takoshima | 60.00% | ~238 |
 | Yettisoned | 58.00% | ~230 |
 | Pimp My Raid | 56.00% | ~222 |
-| Perfect Probulator | 55.00% | ~218 |
+| Perfect Probulator | 56.00% | ~222 |
 | Lobster Blisque | 50.00% | ~198 |
 | Earthly Pleasures | 49.00% | ~195 |
 | Fly Me to the Moon Base | 48.00% | ~191 |
-| Ducks in a Row, Fish in a Barrel | 45.00% | ~179 |
+| Ducks in a Row, Fish in a Barrel | 46.00% | ~183 |
 | Forbidden Donut | 36.00% | ~143 |
 | Freshly Squeezed | 36.00% | ~143 |
 | Bodied Sattva | 36.00% | ~143 |

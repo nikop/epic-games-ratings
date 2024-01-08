@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3974,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -8164,9 +8164,9 @@
       "ID": "achievement_5",
       "SetID": "b9pe172",
       "Name": "Honorarium of Corporate Service",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1749
     },
     {
       "ID": "achievement_50",
@@ -8204,9 +8204,9 @@
       "ID": "achievement_54",
       "SetID": "d252ncf",
       "Name": "Catharsis",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 874
     },
     {
       "ID": "achievement_55",
@@ -8616,8 +8616,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:11:00.7739212+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:10:00.6032605+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:00.5356746+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:03:35.4694686+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:11:00.774115+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:03:19.6534902+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:10:00.6034529+00:00"
 }

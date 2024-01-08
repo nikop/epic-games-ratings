@@ -1124,9 +1124,9 @@
       "ID": "w2",
       "SetID": "b1ggf28",
       "Name": "Efficient Heating",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "w3",
@@ -1219,8 +1219,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:05:35.6053321+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:04:48.0863759+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:03:10.2753013+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:05:35.6053772+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:03:02.8591476+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:04:48.086419+00:00"
 }

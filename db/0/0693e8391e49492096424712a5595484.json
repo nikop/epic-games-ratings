@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 737,
+  "EOS_Progressed": 738,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.33,
+  "EOS_Completed_Percentage": 7.32,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -3019,6 +3019,11 @@
       "Time": "2024-01-08T15:07:15.9227318+00:00",
       "NumProgressed": 737,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-08T16:06:00.9035596+00:00",
+      "NumProgressed": 738,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -3062,7 +3067,7 @@
       "Name": "Ouch!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "BearPoppiesBroth",
@@ -3078,7 +3083,7 @@
       "Name": "Ready for Bed",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "BearSword",
@@ -3094,7 +3099,7 @@
       "Name": "Alms",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -3102,7 +3107,7 @@
       "Name": "Tasty Alms",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "BeggarWomanHut",
@@ -3134,7 +3139,7 @@
       "Name": "Deal with the Devil",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "DevilRope",
@@ -3158,7 +3163,7 @@
       "Name": "Funny Devil",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -3190,7 +3195,7 @@
       "Name": "Do Not Disturb",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "HastrmanAmanita",
@@ -3198,7 +3203,7 @@
       "Name": "Tastes Funny",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "HastrmanHappy",
@@ -3206,7 +3211,7 @@
       "Name": "Regular Diet",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "HastrmanRum",
@@ -3230,7 +3235,7 @@
       "Name": "King\u0027s Jewel",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "PitSoul",
@@ -3294,7 +3299,7 @@
       "Name": "New Order",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "RogueChest",
@@ -3302,7 +3307,7 @@
       "Name": "Treasure Chest",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "RogueEat",
@@ -3310,7 +3315,7 @@
       "Name": "Debt Free",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "RogueKing",
@@ -3318,7 +3323,7 @@
       "Name": "Long Live The King",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "RogueNaked",
@@ -3326,7 +3331,7 @@
       "Name": "The King is Naked",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "RogueRum",
@@ -3372,9 +3377,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 287
+      "UsersEstimate": 295
     },
     {
       "ID": "WormGrilled",
@@ -3389,14 +3394,14 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 737,
+      "Progressed": 738,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:07:15.9227312+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:06:00.9035592+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:57:03.6967319+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:07:15.9227717+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:57:02.944482+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:06:00.903602+00:00"
 }

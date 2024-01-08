@@ -6,13 +6,13 @@ Rating: 4.65 (Ranked 319)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 5.00% | ~1,254 |
+| Are You Packin'? | 5.00% | ~1,254 |
 | Bring A Knife to a Gun Fight | 5.00% | ~1,254 |
 | Sweezy Like Sunday Morning | 5.00% | ~1,254 |
 | First Bounty Down | 5.00% | ~1,254 |
 | G3 Graduation | 5.00% | ~1,254 |
 | Cold-Blooded Driller | 5.00% | ~1,254 |
 | Creature Feature | 4.00% | ~1,003 |
-| Are You Packin'? | 4.00% | ~1,003 |
 | RIP Davey Glutes | 4.00% | ~1,003 |
 | We're All Very Impressed, Trust Me | 4.00% | ~1,003 |
 | Hardest Battle In The Game | 4.00% | ~1,003 |

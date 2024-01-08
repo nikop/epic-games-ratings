@@ -661,9 +661,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4241,
+  "EOS_Progressed": 4242,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9521,6 +9521,11 @@
       "Time": "2024-01-08T04:09:34.6269581+00:00",
       "NumProgressed": 4241,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-08T16:09:22.5879501+00:00",
+      "NumProgressed": 4242,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9540,7 +9545,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -9596,7 +9601,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9612,7 +9617,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9668,7 +9673,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9676,7 +9681,7 @@
       "Name": "The Long Game",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -9700,7 +9705,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9730,9 +9735,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 848
+      "UsersEstimate": 806
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9756,7 +9761,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9900,7 +9905,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9924,7 +9929,7 @@
       "Name": "Target America",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9996,7 +10001,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -10099,13 +10104,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4192,
+      "Progressed": 4193,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4241,
+      "Progressed": 4242,
       "Completed": 11
     }
   ],
@@ -10113,8 +10118,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:10:10.0980549+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:22.5879496+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:57:30.9146406+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:10:10.0981728+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:57:23.0658611+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:22.5880463+00:00"
 }

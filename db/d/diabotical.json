@@ -2,7 +2,7 @@
   "ID": "36336ee97ec543bbae85abaca618182b",
   "Name": "Diabotical",
   "ProductSlug": "diabotical",
-  "Ranking_Rating": 179,
+  "Ranking_Rating": 178,
   "Ranking_Popularity": 259,
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 822,
@@ -1785,11 +1785,17 @@
       "Rating": 4.73,
       "NumberOfAwards": 2716,
       "NumberOfAwardsMax": 297
+    },
+    {
+      "Time": "2024-01-08T15:59:15.944148+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2717,
+      "NumberOfAwardsMax": 298
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2716,
-  "NumberOfAwardsMax": 297,
+  "NumberOfAwards": 2717,
+  "NumberOfAwardsMax": 298,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1808,7 +1814,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 297
+      "Count": 298
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1876,8 +1882,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2024-01-06T13:58:10.612354+00:00",
+  "LastChanged": "2024-01-08T15:59:15.9441479+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:28.6719151+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:00:12.9823078+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:05:56.3100228+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:59:15.9441484+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:05:03.4023519+00:00"
 }

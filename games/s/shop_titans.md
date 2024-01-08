@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.70% | ~1,052 |
 | Unleashed Potential | 0.70% | ~1,052 |
 | JACKPOT!!! | 0.70% | ~1,052 |
-| Oligarch Monarch | 0.50% | ~751 |
-| Merchant Extraordinaire | 0.50% | ~751 |
+| Oligarch Monarch | 0.50% | ~752 |
+| Merchant Extraordinaire | 0.50% | ~752 |
 | To Hell and Back | 0.40% | ~601 |
 | Cash Only Please | 0.40% | ~601 |
 | Capitalist Camaraderie | 0.20% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,297 (Ranked 86)  
+Progressed: 150,303 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,10 +382,10 @@ Completed: 345 (0.23%) (Ranked 270)
 | 2024-01-05 | 149,755 | 342 |
 | 2024-01-06 | 149,985 | 345 |
 | 2024-01-07 | 150,192 | 345 |
-| 2024-01-08 | 150,297 | 345 |
+| 2024-01-08 | 150,303 | 345 |
 ## Awards
 Max (Great for Beginners): 4,946  (Ranked 78)  
-Sum: 27,959 (Ranked 52)  
+Sum: 27,960 (Ranked 52)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -395,7 +395,7 @@ Diff (max vs sum): 26
 | This game has Diverse Characters | 4,029 |
 | This game is Highly Recommended | 3,817 |
 | This game has Easy Combat | 3,771 |
-| This game has Playful Visuals | 3,246 |
+| This game has Playful Visuals | 3,247 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -742,4 +742,4 @@ Diff (max vs sum): 26
 | 2024-01-05 | 3.99 | - | 4,945 | 27,942 |
 | 2024-01-06 | 4.00 | - | 4,945 | 27,944 |
 | 2024-01-07 | 4.00 | - | 4,946 | 27,950 |
-| 2024-01-08 | 4.00 | - | 4,946 | 27,959 |
+| 2024-01-08 | 4.00 | - | 4,946 | 27,960 |

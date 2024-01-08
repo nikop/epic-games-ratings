@@ -6,11 +6,11 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Overgrown Library | 9.00% | ~1,844 |
 | First Real Expedition | 8.00% | ~1,639 |
 | Taking Action | 8.00% | ~1,639 |
 | No Deaths | 8.00% | ~1,639 |
 | Abandoned Settlement | 8.00% | ~1,639 |
-| Overgrown Library | 8.00% | ~1,639 |
 | Petrified Necropolis | 8.00% | ~1,639 |
 | The Marshlands | 7.00% | ~1,434 |
 | Overcoming Difficulty | 6.00% | ~1,229 |
@@ -25,17 +25,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 4.00% | ~819 |
 | Watchtower | 4.00% | ~819 |
 | A Real Challenge | 4.00% | ~819 |
-| Ruined Armory | 3.00% | ~614 |
-| Bandit Camp | 3.00% | ~614 |
-| Ancient Battleground | 3.00% | ~614 |
-| Levitating Monument | 3.00% | ~614 |
-| Monastery of the Holy Flame | 3.00% | ~614 |
-| Lost Colonies | 3.00% | ~614 |
-| Statue of the Forefathers | 3.00% | ~614 |
-| Corrosive Torrent | 3.00% | ~614 |
-| Cursed Lands | 3.00% | ~614 |
-| Trade Baron | 3.00% | ~614 |
-| Untamed Wilds | 3.00% | ~614 |
+| Ruined Armory | 3.00% | ~615 |
+| Bandit Camp | 3.00% | ~615 |
+| Ancient Battleground | 3.00% | ~615 |
+| Levitating Monument | 3.00% | ~615 |
+| Monastery of the Holy Flame | 3.00% | ~615 |
+| Lost Colonies | 3.00% | ~615 |
+| Statue of the Forefathers | 3.00% | ~615 |
+| Corrosive Torrent | 3.00% | ~615 |
+| Cursed Lands | 3.00% | ~615 |
+| Trade Baron | 3.00% | ~615 |
+| Untamed Wilds | 3.00% | ~615 |
 | Serving Ale | 2.00% | ~410 |
 | Against All Odds | 2.00% | ~410 |
 | Barren Lands | 2.00% | ~410 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,483 (Ranked 154)  
+Progressed: 20,486 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,14 +329,14 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
-| 2024-01-08 | 20,483 | 34 |
+| 2024-01-08 | 20,486 | 34 |
 ## Awards
-Max (Quickly Understood Controls): 449  (Ranked 232)  
-Sum: 3,356 (Ranked 177)  
+Max (Quickly Understood Controls): 452  (Ranked 232)  
+Sum: 3,359 (Ranked 177)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 449 |
+| This game has Quickly Understood Controls | 452 |
 | This game is Relaxing | 448 |
 | This game is Great for Beginners | 442 |
 | This game is Extremely Fun | 418 |
@@ -627,4 +627,4 @@ Diff (max vs sum): 55
 | 2024-01-05 | 4.82 | - | 448 | 3,337 |
 | 2024-01-06 | 4.82 | - | 449 | 3,344 |
 | 2024-01-07 | 4.82 | - | 449 | 3,354 |
-| 2024-01-08 | 4.82 | - | 449 | 3,356 |
+| 2024-01-08 | 4.82 | - | 452 | 3,359 |

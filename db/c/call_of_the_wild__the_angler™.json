@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,7 +1027,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8146,
+  "EOS_Progressed": 8149,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
@@ -13577,6 +13577,11 @@
       "Time": "2024-01-08T15:08:44.963988+00:00",
       "NumProgressed": 8146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T16:08:20.168099+00:00",
+      "NumProgressed": 8149,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13596,7 +13601,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -13636,7 +13641,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13644,7 +13649,7 @@
       "Name": "Scaling up",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -13907,13 +13912,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8146,
+      "Progressed": 8149,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7518,
+      "Progressed": 7521,
       "Completed": 113
     }
   ],
@@ -13921,8 +13926,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:08:44.9639876+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:08:20.1680988+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:59:03.4652354+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:08:44.9640616+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:58:25.5799639+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:08:20.1681746+00:00"
 }

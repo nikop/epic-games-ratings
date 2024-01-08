@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.74 (Ranked 163)  
+Rating: 4.74 (Ranked 162)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,7 +19,7 @@ Number of Ratings: 20  (23.09.2022)
 | Good Mama | 33.00% | ~138 |
 | O Captain My Captain | 32.00% | ~134 |
 | Plunderer | 30.00% | ~125 |
-| Taxonomist | 27.00% | ~113 |
+| Taxonomist | 28.00% | ~117 |
 | Traveller | 26.00% | ~109 |
 | Uncertain Loyalties | 25.00% | ~104 |
 | Roll to Save | 23.00% | ~96 |

@@ -23,17 +23,20 @@
 | City crisis | 1.00% | ~5 |
 | What would we do if we can't go out with friends? | 1.00% | ~5 |
 | Metropolurbek | 1.00% | ~5 |
+| I am very happy! | 0.80% | ~4 |
 | Banking city | 0.60% | ~3 |
-| I am very happy! | 0.60% | ~3 |
 | Oh, I love parks, listening to birds! | 0.60% | ~3 |
 | Food provider master | 0.40% | ~2 |
 | Read! Everyone should read! | 0.40% | ~2 |
 | Oh, life is too awesome! Thank you! | 0.40% | ~2 |
 | ¡Muy feliz! | 0.40% | ~2 |
+| Little Mayor | 0.40% | ~2 |
 | Anarchist Utopia | 0.20% | ~1 |
 | Anarchist paradise | 0.20% | ~1 |
 | Banking empire | 0.20% | ~1 |
 | Urban style | 0.20% | ~1 |
+| Desert builder | 0.20% | ~1 |
+| Desert urban planner | 0.20% | ~1 |
 | What is there after death? | 0.20% | ~1 |
 | Fear God, you sinners! | 0.20% | ~1 |
 | Perfect city | 0.20% | ~1 |
@@ -41,7 +44,6 @@
 | Farming Frenzy | 0.20% | ~1 |
 | Farming Frenzy Plus | 0.20% | ~1 |
 | I don't feel well, I have to drink a coffe | 0.20% | ~1 |
-| Little Mayor | 0.20% | ~1 |
 | Town planner | 0.20% | ~1 |
 | Metropolurbek Plus | 0.20% | ~1 |
 | Restorer | 0.20% | ~1 |
@@ -60,8 +62,6 @@
 | I can't breathe | 0.00% | ~0 |
 | Collapsed city | 0.00% | ~0 |
 | Full desert | 0.00% | ~0 |
-| Desert builder | 0.00% | ~0 |
-| Desert urban planner | 0.00% | ~0 |
 | Desert master | 0.00% | ~0 |
 | How scary! | 0.00% | ~0 |
 | Haunted city | 0.00% | ~0 |

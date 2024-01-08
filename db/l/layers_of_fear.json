@@ -2,7 +2,7 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 159,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1304,6 +1304,11 @@
       "Time": "2024-01-07T16:08:59.0292611+00:00",
       "NumProgressed": 292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T16:08:39.9269224+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1396,7 +1401,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "decrypt_one_myth",
@@ -1420,7 +1425,7 @@
       "Name": "Refuse to look",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "do_what_you_have_to",
@@ -1466,9 +1471,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 144
     },
     {
       "ID": "find_one_photo",
@@ -1492,7 +1497,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "finished_it",
@@ -1530,9 +1535,9 @@
       "ID": "heavy_burden",
       "SetID": "f2im8d",
       "Name": "Heavy Burden",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "in_one_take",
@@ -1650,9 +1655,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 249
     },
     {
       "ID": "spy_one_item",
@@ -1700,7 +1705,7 @@
       "Name": "True Reflection",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "view_most_of_photos",
@@ -1731,14 +1736,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:09:12.1358912+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:08:39.9269221+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:57:21.0147508+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:09:12.1359298+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:57:15.6354234+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:08:39.9269649+00:00"
 }

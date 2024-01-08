@@ -5,23 +5,23 @@ Rating: 4.06 (Ranked 1,032)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,018 |
-| World Map | 78.00% | ~3,370 |
-| Temple of Eternals | 56.00% | ~2,419 |
-| Prestigious | 52.00% | ~2,246 |
-| Fellowship Power | 41.00% | ~1,771 |
+| Victor | 93.00% | ~4,019 |
+| World Map | 78.00% | ~3,371 |
+| Temple of Eternals | 56.00% | ~2,420 |
+| Prestigious | 52.00% | ~2,247 |
+| Fellowship Power | 41.00% | ~1,772 |
 | Full Party | 28.00% | ~1,210 |
 | Guild Power | 23.00% | ~994 |
 | Prestigious x10 | 20.00% | ~864 |
 | The game is on | 18.00% | ~778 |
-| Exotic Merchant | 16.00% | ~691 |
+| Exotic Merchant | 16.00% | ~692 |
 | Dragon Clicker | 15.00% | ~648 |
 | Miner Clicker | 15.00% | ~648 |
 | Inspection | 14.00% | ~605 |
 | Dragon Master | 13.00% | ~562 |
 | Enlightenment | 13.00% | ~562 |
 | Hero inspection | 13.00% | ~562 |
-| Lieutenant | 12.00% | ~518 |
+| Lieutenant | 12.00% | ~519 |
 | Mysterious Rock | 11.00% | ~475 |
 | Natural Talent | 11.00% | ~475 |
 | Superior | 11.00% | ~475 |
@@ -38,10 +38,10 @@ Rating: 4.06 (Ranked 1,032)
 | Relic Of The Past | 8.00% | ~346 |
 | Scroll Master | 8.00% | ~346 |
 | The power of Awakening | 8.00% | ~346 |
-| Four Leaf Clover | 7.00% | ~302 |
-| Master Enchanter | 7.00% | ~302 |
-| The father of Dragons | 7.00% | ~302 |
-| Trader | 7.00% | ~302 |
+| Four Leaf Clover | 7.00% | ~303 |
+| Master Enchanter | 7.00% | ~303 |
+| The father of Dragons | 7.00% | ~303 |
+| Trader | 7.00% | ~303 |
 | Enchanting skill | 6.00% | ~259 |
 | Here We Go Again | 6.00% | ~259 |
 | The Expeditioner | 6.00% | ~259 |
@@ -51,12 +51,12 @@ Rating: 4.06 (Ranked 1,032)
 | Dragon Slayer | 5.00% | ~216 |
 | Engineer Mastery | 5.00% | ~216 |
 | How Do You Turn This On? | 5.00% | ~216 |
+| Lock And Load | 5.00% | ~216 |
 | Missions Dedication | 5.00% | ~216 |
 | Active Member | 4.00% | ~173 |
 | Ancient Knowledge | 4.00% | ~173 |
 | Background Story | 4.00% | ~173 |
 | Legendary | 4.00% | ~173 |
-| Lock And Load | 4.00% | ~173 |
 | Sailor | 4.00% | ~173 |
 | The Alchemist | 4.00% | ~173 |
 | Arena Challenger | 3.00% | ~130 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 1,032)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,320 (Ranked 209)  
+Progressed: 4,322 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 2 (0.05%) (Ranked 337)
 | 2024-01-05 | 4,228 | 2 |
 | 2024-01-06 | 4,266 | 2 |
 | 2024-01-07 | 4,299 | 2 |
-| 2024-01-08 | 4,320 | 2 |
+| 2024-01-08 | 4,322 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 482)  
 Sum: 155 (Ranked 439)  

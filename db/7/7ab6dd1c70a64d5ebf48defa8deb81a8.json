@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2058,
+  "EOS_Progressed": 2061,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3939,6 +3939,11 @@
       "Time": "2024-01-08T15:10:51.2059175+00:00",
       "NumProgressed": 2058,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T16:09:52.5893221+00:00",
+      "NumProgressed": 2061,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3950,7 +3955,7 @@
       "Name": "Break Out",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1278
     },
     {
       "ID": "ACH_02",
@@ -3958,7 +3963,7 @@
       "Name": "Find Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_03",
@@ -3966,7 +3971,7 @@
       "Name": "Powerful Allies",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH_04",
@@ -3980,9 +3985,9 @@
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_06",
@@ -4006,7 +4011,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_09",
@@ -4022,7 +4027,7 @@
       "Name": "Trinity",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ACH_11",
@@ -4150,7 +4155,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_27",
@@ -4166,7 +4171,7 @@
       "Name": "I Found It",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_29",
@@ -4206,7 +4211,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_35",
@@ -4237,7 +4242,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2058,
+      "Progressed": 2061,
       "Completed": 3
     }
   ],
@@ -4245,8 +4250,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-08T15:00:05.2060054+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:10:51.2059169+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:52.5893218+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:00:05.2060082+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:10:51.2059639+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:59:11.2211249+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:52.589364+00:00"
 }

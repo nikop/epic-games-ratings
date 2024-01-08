@@ -1,15 +1,15 @@
 # Diabotical
 [Store](https://store.epicgames.com/en-US/p/diabotical)  
 [View Rawdata](../../db/d/diabotical.json)  
-Rating: 4.73 (Ranked 179)  
+Rating: 4.73 (Ranked 178)  
 Number of Ratings: 572  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 297  (Ranked 259)  
-Sum: 2,716 (Ranked 193)  
+Max (Great for Quick Sessions): 298  (Ranked 259)  
+Sum: 2,717 (Ranked 193)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 297 |
+| This game is Great for Quick Sessions | 298 |
 | This game has Competitive Players | 273 |
 | This game has Challenging Combat | 258 |
 | This game has Quickly Understood Controls | 257 |
@@ -215,3 +215,4 @@ Diff (max vs sum): 66
 | 2024-01-02 | 4.74 | - | 296 | 2,713 |
 | 2024-01-04 | 4.73 | - | 297 | 2,714 |
 | 2024-01-06 | 4.73 | - | 297 | 2,716 |
+| 2024-01-08 | 4.73 | - | 298 | 2,717 |

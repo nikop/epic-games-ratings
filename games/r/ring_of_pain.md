@@ -84,6 +84,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sentimental Value | 0.30% | ~728 |
 | Precious | 0.30% | ~728 |
 | Raw Power | 0.30% | ~12 |
+| A Week Attempt | 0.20% | ~485 |
 | A Long Climb | 0.20% | ~485 |
 | Hydrophobe | 0.20% | ~485 |
 | Dead Revels | 0.20% | ~485 |
@@ -102,9 +103,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Looking Around | 0.20% | ~485 |
 | Champion of the Day | 0.20% | ~485 |
 | Diviner | 0.20% | ~8 |
+| Soul Kin | 0.20% | ~8 |
 | Nuclear | 0.20% | ~8 |
 | Quick Descent | 0.10% | ~243 |
-| A Week Attempt | 0.10% | ~243 |
 | Disposal | 0.10% | ~243 |
 | Hanging On | 0.10% | ~243 |
 | A Hard Carry | 0.10% | ~243 |
@@ -139,13 +140,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Scrounger Appreciation | 0.10% | ~4 |
 | Explosives Expert | 0.10% | ~4 |
 | All Natural | 0.10% | ~4 |
-| Soul Kin | 0.10% | ~4 |
 | Multiclass | 0.10% | ~4 |
 | Stalker | 0.10% | ~4 |
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,617 (Ranked 73)  
+Progressed: 242,621 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-05 | 242,422 | 304 |
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
-| 2024-01-08 | 242,617 | 304 |
+| 2024-01-08 | 242,621 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

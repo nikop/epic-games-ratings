@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1677,
+  "EOS_Progressed": 1678,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4400,6 +4400,11 @@
       "Time": "2024-01-08T15:10:46.9392091+00:00",
       "NumProgressed": 1677,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T16:09:49.1736323+00:00",
+      "NumProgressed": 1678,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4467,7 +4472,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "EXPERT_1",
@@ -4563,7 +4568,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4571,7 +4576,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "PACIFIST",
@@ -4698,15 +4703,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1677,
+      "Progressed": 1678,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:10:46.9392088+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:49.173632+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:00:22.45188+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:10:46.9392483+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:59:22.8485217+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:49.1736677+00:00"
 }

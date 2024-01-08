@@ -4,7 +4,7 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
@@ -1342,9 +1342,9 @@
       "ID": "ACH_HABITABLE",
       "SetID": "c2kf3nm",
       "Name": "Follow your Dreams",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_HANG",
@@ -1358,9 +1358,9 @@
       "ID": "ACH_HOUND",
       "SetID": "c2kf3nm",
       "Name": "DONT TURN BACK",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_KEY",
@@ -1382,9 +1382,9 @@
       "ID": "ACH_PITFALLS",
       "SetID": "c2kf3nm",
       "Name": "Pitfalls",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_PITFALLSDIE",
@@ -1429,8 +1429,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:09:12.6216711+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:08:40.2453567+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:16.2857552+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:01:26.149358+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:09:12.6216896+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:00:07.0071504+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:08:40.2453771+00:00"
 }

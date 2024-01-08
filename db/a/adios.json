@@ -2,13 +2,13 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1095,
+  "Ranking_Rating": 1094,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83060,
+  "EOS_Progressed": 83062,
   "EOS_Completed": 925,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29506,6 +29506,11 @@
       "Time": "2024-01-08T15:07:52.0111338+00:00",
       "NumProgressed": 83060,
       "NumCompleted": 925
+    },
+    {
+      "Time": "2024-01-08T16:06:26.6314907+00:00",
+      "NumProgressed": 83062,
+      "NumCompleted": 925
     }
   ],
   "TotalAchievements": 25,
@@ -29533,7 +29538,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15781
+      "UsersEstimate": 15782
     },
     {
       "ID": "Audiophile",
@@ -29549,7 +29554,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18273
+      "UsersEstimate": 18274
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -29605,7 +29610,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7475
+      "UsersEstimate": 7476
     },
     {
       "ID": "Magnetic Miracles",
@@ -29637,7 +29642,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15781
+      "UsersEstimate": 15782
     },
     {
       "ID": "Nice Try",
@@ -29669,7 +29674,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11628
+      "UsersEstimate": 11629
     },
     {
       "ID": "Sniper",
@@ -29716,7 +29721,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83060,
+      "Progressed": 83062,
       "Completed": 925
     }
   ],
@@ -29724,8 +29729,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:07:52.0111333+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:06:26.6314904+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:58:50.2712868+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:07:52.0112589+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:58:15.5548873+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:06:26.6316267+00:00"
 }

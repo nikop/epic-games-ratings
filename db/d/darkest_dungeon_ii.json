@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10656,9 +10656,9 @@
       "Count": 1084
     }
   ],
-  "EOS_Progressed": 132176,
+  "EOS_Progressed": 132182,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1043,
+  "EOS_NewPlayers": 1034,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38926,6 +38926,11 @@
       "Time": "2024-01-08T15:10:29.3380328+00:00",
       "NumProgressed": 132176,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T16:09:36.2300201+00:00",
+      "NumProgressed": 132182,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39289,7 +39294,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9252
+      "UsersEstimate": 9253
     },
     {
       "ID": "hero_story_complete_all",
@@ -39473,7 +39478,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "combat_kill_collector",
@@ -39481,7 +39486,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39505,7 +39510,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -39529,7 +39534,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "quest_complete_crusader",
@@ -39553,7 +39558,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -39568,21 +39573,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132176,
+      "Progressed": 132182,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7045,
+      "Progressed": 7051,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-08T14:58:30.1914784+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:10:29.3380323+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:36.2300198+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:58:30.1914792+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:10:29.3382044+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:58:02.2601495+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:36.230213+00:00"
 }

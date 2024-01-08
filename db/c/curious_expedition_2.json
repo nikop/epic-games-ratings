@@ -2,7 +2,7 @@
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
-  "Ranking_Rating": 163,
+  "Ranking_Rating": 162,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 364,
@@ -974,9 +974,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "ach-kill-hyenas",
@@ -1199,8 +1199,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:10:57.5794049+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:57.9525573+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:59:08.9530626+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:10:57.5794489+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:58:29.4429271+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:57.9526013+00:00"
 }

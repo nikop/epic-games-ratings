@@ -341,9 +341,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4085,
+  "EOS_Progressed": 4086,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8206,6 +8206,11 @@
       "Time": "2024-01-08T15:05:52.4587938+00:00",
       "NumProgressed": 4085,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T16:05:00.7344092+00:00",
+      "NumProgressed": 4086,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8511,9 +8516,9 @@
       "ID": "ACH_BASE_48",
       "SetID": "92iocjf",
       "Name": "Permanent Redesigns",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 695
     },
     {
       "ID": "ACH_BASE_49",
@@ -8672,13 +8677,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2269,
+      "Progressed": 2270,
       "Completed": 11
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4085,
+      "Progressed": 4086,
       "Completed": 0
     }
   ],
@@ -8686,8 +8691,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-08T15:02:36.7429513+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:05:52.4587933+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:05:00.7344088+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:02:36.7429519+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:05:52.4588842+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:02:37.4616486+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:05:00.7344839+00:00"
 }

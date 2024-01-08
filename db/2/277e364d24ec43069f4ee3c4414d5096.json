@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119493,
+  "EOS_Progressed": 119494,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 790,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24157,6 +24157,11 @@
       "Time": "2024-01-08T15:10:50.1116828+00:00",
       "NumProgressed": 119493,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-08T16:09:51.775929+00:00",
+      "NumProgressed": 119494,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 49,
@@ -24240,7 +24245,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44212
+      "UsersEstimate": 44213
     },
     {
       "ID": "EAwards_18",
@@ -24296,7 +24301,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9559
+      "UsersEstimate": 9560
     },
     {
       "ID": "EAwards_24",
@@ -24559,7 +24564,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 119493,
+      "Progressed": 119494,
       "Completed": 59
     }
   ],
@@ -24567,8 +24572,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:10:50.1116822+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:51.7759289+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:07.0095771+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:57:39.9976697+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:10:50.1118413+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:57:29.416401+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:51.776059+00:00"
 }

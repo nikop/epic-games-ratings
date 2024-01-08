@@ -625,7 +625,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46781,
+  "EOS_Progressed": 46787,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 0,
@@ -18110,6 +18110,11 @@
       "Time": "2024-01-08T15:05:43.7450961+00:00",
       "NumProgressed": 46781,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T16:04:54.0469752+00:00",
+      "NumProgressed": 46787,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18137,7 +18142,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -18257,7 +18262,7 @@
       "Name": "Awakening",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "CRAFT_ALL",
@@ -18273,7 +18278,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18297,7 +18302,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "JUSTCOUNTER",
@@ -18361,7 +18366,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3742
+      "UsersEstimate": 3743
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -18385,7 +18390,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "MAGIC_TANTA",
@@ -18425,7 +18430,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "PARKOUR_TIME",
@@ -18449,7 +18454,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -18457,7 +18462,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5146
+      "UsersEstimate": 5147
     },
     {
       "ID": "SPRING_ALL",
@@ -18544,22 +18549,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46781,
+      "Progressed": 46787,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11618,
-      "Completed": 11618
+      "Progressed": 11624,
+      "Completed": 11624
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-08T14:02:52.9019141+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:05:43.7450955+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:04:54.0469745+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:03:05.6564677+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:05:43.745253+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:02:59.2590367+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:04:54.0470833+00:00"
 }

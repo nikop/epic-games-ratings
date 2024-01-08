@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -500,7 +500,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98601,
+  "EOS_Progressed": 98605,
   "EOS_Completed": 453,
   "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 3,
@@ -29860,6 +29860,11 @@
       "Time": "2024-01-08T15:09:42.0318571+00:00",
       "NumProgressed": 98601,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2024-01-08T16:09:01.9310696+00:00",
+      "NumProgressed": 98605,
+      "NumCompleted": 453
     }
   ],
   "TotalAchievements": 10,
@@ -29935,7 +29940,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34510
+      "UsersEstimate": 34512
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -29943,22 +29948,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10846
+      "UsersEstimate": 10847
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 98601,
+      "Progressed": 98605,
       "Completed": 453
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:09:42.0318568+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:01.9310693+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:53.9639027+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:03:25.9799192+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:09:42.0319944+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:03:13.1159856+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:01.9312435+00:00"
 }

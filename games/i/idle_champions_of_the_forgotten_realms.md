@@ -18,8 +18,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.60% | ~1,516 |
 | Friendly Imps | 0.60% | ~1,516 |
 | Fast Food | 0.60% | ~1,314 |
-| A Persistent Buzzing | 0.50% | ~1,263 |
-| Pure Energy | 0.50% | ~1,263 |
+| A Persistent Buzzing | 0.50% | ~1,264 |
+| Pure Energy | 0.50% | ~1,264 |
 | The Overgrown Grove | 0.50% | ~1,095 |
 | Mental Gymnastics | 0.50% | ~1,095 |
 | Maddening | 0.40% | ~1,011 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,699 (Ranked 70)  
+Progressed: 252,710 (Ranked 70)  
 Completed: 2,601 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -816,7 +816,7 @@ Completed: 2,601 (1.03%) (Ranked 174)
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
 | 2024-01-07 | 252,516 | 2,599 |
-| 2024-01-08 | 252,699 | 2,601 |
+| 2024-01-08 | 252,710 | 2,601 |
 ## Awards
 Max (Great for Beginners): 5,763  (Ranked 74)  
 Sum: 33,399 (Ranked 41)  

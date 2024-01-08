@@ -32,8 +32,8 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 6.00% | ~13 |
 | Beam Me Up | 6.00% | ~13 |
 | Free as a Bird | 6.00% | ~13 |
+| Detective | 6.00% | ~13 |
 | Cleric | 5.00% | ~11 |
-| Detective | 5.00% | ~11 |
 | Weaponsmith | 4.00% | ~9 |
 | Unbreakable | 4.00% | ~9 |
 | Alchemist | 3.00% | ~7 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217 (Ranked 423)  
+Progressed: 217 (Ranked 424)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |

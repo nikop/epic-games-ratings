@@ -2565,9 +2565,9 @@
       "ID": "ACH_CRITICAL_THINKER",
       "SetID": "108h92c",
       "Name": "Critical Thinker",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2677,9 +2677,9 @@
       "ID": "ACH_TRUELY_SHOCKING",
       "SetID": "108h92c",
       "Name": "Truly Shocking!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 510
     }
   ],
   "AchievementSets": [
@@ -2694,8 +2694,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-01-07T01:52:54.3373134+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:10:08.0544404+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:20.8222518+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:23.8683879+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:59:13.8783331+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:10:08.0544712+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:58:33.2232886+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:20.8222711+00:00"
 }

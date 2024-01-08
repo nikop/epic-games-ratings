@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1926,
+  "EOS_Progressed": 1927,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -3469,6 +3469,11 @@
       "Time": "2024-01-08T15:03:42.9913671+00:00",
       "NumProgressed": 1926,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-08T16:03:25.1539284+00:00",
+      "NumProgressed": 1927,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3480,7 +3485,7 @@
       "Name": "Lovebirds",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "10",
@@ -3536,7 +3541,7 @@
       "Name": "My little pony",
       "Percentage": 17,
       "XP": 70,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "17",
@@ -3544,7 +3549,7 @@
       "Name": "Balding bloot!",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "18",
@@ -3552,7 +3557,7 @@
       "Name": "Like new!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "19",
@@ -3719,15 +3724,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1926,
+      "Progressed": 1927,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:03:42.991366+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:03:25.1539281+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:58:22.9689929+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:03:42.9921885+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:57:57.09283+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:03:25.1540265+00:00"
 }

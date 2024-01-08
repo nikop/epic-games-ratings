@@ -10,8 +10,8 @@
 | Recruit | 52.00% | ~2,066 |
 | Search and Rescue | 51.00% | ~2,027 |
 | Quarian Ally | 49.00% | ~1,947 |
+| Honorarium of Corporate Service | 44.00% | ~1,749 |
 | Medal of Heroism | 43.00% | ~1,709 |
-| Honorarium of Corporate Service | 43.00% | ~1,709 |
 | Turian Ally | 40.00% | ~1,590 |
 | Medal of Exploration II | 38.00% | ~1,510 |
 | Council Legion of Merit | 38.00% | ~1,510 |
@@ -47,6 +47,7 @@
 | The Assassin | 23.00% | ~914 |
 | The Quarian | 23.00% | ~914 |
 | The Justicar | 22.00% | ~874 |
+| Catharsis | 22.00% | ~874 |
 | Ghost of the Father | 22.00% | ~874 |
 | The Prodigal | 22.00% | ~874 |
 | Galactic Explorer | 22.00% | ~874 |
@@ -56,7 +57,6 @@
 | A Personal Touch | 21.00% | ~835 |
 | Archivist | 21.00% | ~835 |
 | Battlemaster | 21.00% | ~835 |
-| Catharsis | 21.00% | ~835 |
 | Fade Away | 21.00% | ~835 |
 | The Cure | 21.00% | ~835 |
 | Treason | 21.00% | ~835 |

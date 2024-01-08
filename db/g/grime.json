@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1849,10 +1849,10 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167247,
+  "EOS_Progressed": 167254,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 1326,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 1319,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -22319,6 +22319,11 @@
       "Time": "2024-01-08T15:04:08.8572177+00:00",
       "NumProgressed": 167247,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2024-01-08T16:03:44.1425002+00:00",
+      "NumProgressed": 167254,
+      "NumCompleted": 452
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22339,7 +22344,7 @@
       "Name": "Bloodhunter",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -22379,7 +22384,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -22395,7 +22400,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -22427,7 +22432,7 @@
       "Name": "Shapely",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -22515,7 +22520,7 @@
       "Name": "Watcher",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -22523,7 +22528,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -22531,7 +22536,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -22547,7 +22552,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -22563,7 +22568,7 @@
       "Name": "Kinship",
       "Percentage": 0.2,
       "XP": 120,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -22619,7 +22624,7 @@
       "Name": "Passage",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "QUEST_CHILD",
@@ -22627,7 +22632,7 @@
       "Name": "Dream",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "QUEST_CODA",
@@ -22659,7 +22664,7 @@
       "Name": "Proportions",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -22698,21 +22703,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166830,
+      "Progressed": 166837,
       "Completed": 1256
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167247,
+      "Progressed": 167254,
       "Completed": 452
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-08T13:58:19.8124136+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:04:08.8572173+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:03:44.1424995+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:58:46.9966943+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:04:08.8573345+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:58:13.7939164+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:03:44.1426174+00:00"
 }

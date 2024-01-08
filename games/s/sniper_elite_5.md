@@ -5,22 +5,22 @@ Rating: 4.46 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,993 |
-| Confirming Suspicions | 42.00% | ~1,781 |
+| Meeting Resistance | 47.00% | ~1,994 |
+| Confirming Suspicions | 42.00% | ~1,782 |
 | The Kraken Wakes | 38.00% | ~1,612 |
 | It's Starting to Crack | 34.00% | ~1,442 |
 | Change the Channel | 32.00% | ~1,357 |
 | Lord of War | 31.00% | ~1,315 |
-| Taking it back | 30.00% | ~1,272 |
-| Resourceful | 28.00% | ~1,187 |
-| Target America | 28.00% | ~1,187 |
+| Taking it back | 30.00% | ~1,273 |
+| Resourceful | 28.00% | ~1,188 |
+| Target America | 28.00% | ~1,188 |
 | The Kraken Sleeps | 25.00% | ~1,060 |
 | As Quiet as a Mouse | 24.00% | ~1,018 |
-| Liberté | 23.00% | ~975 |
-| Organ Grinder | 23.00% | ~975 |
-| Sharpshooter | 23.00% | ~975 |
-| Explosive Efficiency | 20.00% | ~848 |
+| Liberté | 23.00% | ~976 |
+| Organ Grinder | 23.00% | ~976 |
+| Sharpshooter | 23.00% | ~976 |
 | Gunslinger | 19.00% | ~806 |
+| Explosive Efficiency | 19.00% | ~806 |
 | Climbing the Ladder | 17.00% | ~721 |
 | Just a Flesh Wound | 17.00% | ~721 |
 | Der Geist | 17.00% | ~721 |
@@ -37,8 +37,8 @@ Rating: 4.46 (Ranked 673)
 | Precision Is Key | 10.00% | ~424 |
 | My Little Friend | 10.00% | ~424 |
 | Rigged to Blow | 9.00% | ~382 |
-| Herr Today, Gone Tomorrow | 7.00% | ~293 |
-| The Long Game | 6.00% | ~254 |
+| Herr Today, Gone Tomorrow | 7.00% | ~294 |
+| The Long Game | 6.00% | ~255 |
 | Operation Foxley | 6.00% | ~252 |
 | Strategist | 5.00% | ~212 |
 | Tinkerer | 5.00% | ~212 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 673)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,241 (Ranked 210)  
+Progressed: 4,242 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 11 (0.26%) (Ranked 263)
 | 2024-01-05 | 4,211 | 11 |
 | 2024-01-06 | 4,225 | 11 |
 | 2024-01-07 | 4,237 | 11 |
-| 2024-01-08 | 4,241 | 11 |
+| 2024-01-08 | 4,242 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 528)  
 Sum: 29 (Ranked 545)  

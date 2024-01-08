@@ -6,12 +6,12 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,116 |
+| Just One...More...Term... | 73.00% | ~5,117 |
 | Un-Lonely Island | 44.00% | ~3,084 |
-| The Beginning of a Servantship | 43.00% | ~3,013 |
+| The Beginning of a Servantship | 43.00% | ~3,014 |
 | Trade Is My Trait | 35.00% | ~2,453 |
 | Number 18 | 23.00% | ~1,612 |
-| We Don't Have Time For That | 18.00% | ~1,261 |
+| We Don't Have Time For That | 18.00% | ~1,262 |
 | The Legend of Langostino | 16.00% | ~1,121 |
 | The Governator | 16.00% | ~1,121 |
 | Caribbean Comrade | 15.00% | ~1,051 |
@@ -25,8 +25,8 @@ Number of Ratings: 398  (23.09.2022)
 | Firestarter | 7.00% | ~491 |
 | Make Tropico Great Again! | 7.00% | ~491 |
 | French Connection | 7.00% | ~491 |
-| Don't Panic! | 6.00% | ~420 |
-| I Owe You Nothing | 6.00% | ~420 |
+| Don't Panic! | 6.00% | ~421 |
+| I Owe You Nothing | 6.00% | ~421 |
 | Viva Tropico! | 5.00% | ~350 |
 | Computer Says "No" | 5.00% | ~350 |
 | Beware The Betman | 5.00% | ~350 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~56 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,008 (Ranked 197)  
+Progressed: 7,009 (Ranked 197)  
 Completed: 2 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2 (0.03%) (Ranked 354)
 | 2024-01-05 | 6,922 | 2 |
 | 2024-01-06 | 6,956 | 2 |
 | 2024-01-07 | 6,998 | 2 |
-| 2024-01-08 | 7,008 | 2 |
+| 2024-01-08 | 7,009 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 370)  
 Sum: 758 (Ranked 302)  

@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewPlayers": 520,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -1015,8 +1015,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:10:20.4464176+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:09:29.8909667+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.8719978+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:03:15.1966292+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:10:20.4464411+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:03:06.4542584+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:09:29.8909839+00:00"
 }

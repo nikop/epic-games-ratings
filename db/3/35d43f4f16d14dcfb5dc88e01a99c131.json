@@ -59,9 +59,9 @@
       "ID": "ALLTHEPOTS",
       "SetID": "aopl79b",
       "Name": "ALL THE POTS",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AWiseManHasManyAdvisors",
@@ -83,9 +83,9 @@
       "ID": "AllTreasureAllPleasure",
       "SetID": "aopl79b",
       "Name": "All Treasure, All Pleasure",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AndrtheGiant",
@@ -339,9 +339,9 @@
       "ID": "Gossiper",
       "SetID": "aopl79b",
       "Name": "Gossiper",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HighPower",
@@ -771,9 +771,9 @@
       "ID": "SmackTalker",
       "SetID": "aopl79b",
       "Name": "Smack Talker",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SniperScope",
@@ -899,9 +899,9 @@
       "ID": "ThreesaCrowd",
       "SetID": "aopl79b",
       "Name": "Threes a Crowd",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TopplingTowers",
@@ -947,9 +947,9 @@
       "ID": "TripleDream",
       "SetID": "aopl79b",
       "Name": "Triple Dream",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Triumph",
@@ -1042,8 +1042,8 @@
   ],
   "FirstSeen": "2023-09-30T06:58:30.8750394+00:00",
   "FirstSeenAchievements": "2023-09-27T20:03:04.5443053+00:00",
-  "LastChanged_Achievements": "2024-01-08T15:08:20.9545544+00:00",
+  "LastChanged_Achievements": "2024-01-08T16:08:02.5679553+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.249989+00:00",
-  "LastUpdate_Ratings": "2024-01-08T14:59:52.1430726+00:00",
-  "LastUpdate_Achievements": "2024-01-08T15:08:20.9546825+00:00"
+  "LastUpdate_Ratings": "2024-01-08T15:59:00.3479214+00:00",
+  "LastUpdate_Achievements": "2024-01-08T16:08:02.5680973+00:00"
 }

@@ -6,10 +6,10 @@ Rating: 3.68 (Ranked 1,092)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 21.00% | ~485 |
-| Catch and Release | 16.00% | ~369 |
-| Home Is Where the Heart Is | 15.00% | ~346 |
-| ICU | 14.00% | ~323 |
-| Wounded Whispers | 14.00% | ~323 |
+| Catch and Release | 16.00% | ~370 |
+| Home Is Where the Heart Is | 14.00% | ~324 |
+| ICU | 14.00% | ~324 |
+| Wounded Whispers | 14.00% | ~324 |
 | Blood Will Have Blood | 12.00% | ~277 |
 | Ne Plus Ultra | 12.00% | ~277 |
 | Fly Fisher | 11.00% | ~254 |
@@ -22,11 +22,12 @@ Rating: 3.68 (Ranked 1,092)
 | Skin of Their Teeth | 8.00% | ~185 |
 | Grounded | 7.00% | ~162 |
 | Bad Wiring | 6.00% | ~139 |
-| Neighborhood Revitalization | 5.00% | ~115 |
-| Radio Silence | 5.00% | ~115 |
+| Neighborhood Revitalization | 5.00% | ~116 |
+| Radio Silence | 5.00% | ~116 |
 | I Spit On Your Grave | 4.00% | ~92 |
 | Sic Transit Umbra | 3.00% | ~69 |
 | Bell-ringer | 3.00% | ~69 |
+| Silence Is Golden | 3.00% | ~69 |
 | You Clean It Up | 3.00% | ~69 |
 | From the Shadows | 3.00% | ~69 |
 | Starve the Beast | 3.00% | ~69 |
@@ -34,7 +35,6 @@ Rating: 3.68 (Ranked 1,092)
 | Revelations | 2.00% | ~46 |
 | Contingency Plans | 2.00% | ~46 |
 | Block Party | 2.00% | ~46 |
-| Silence Is Golden | 2.00% | ~46 |
 | Good Morning | 2.00% | ~46 |
 | Check, Please! | 2.00% | ~46 |
 | Right This Way | 2.00% | ~46 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,092)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,309 (Ranked 242)  
+Progressed: 2,311 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,286 | 0 |
 | 2024-01-07 | 2,301 | 0 |
-| 2024-01-08 | 2,309 | 0 |
+| 2024-01-08 | 2,311 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 554)  
 Sum: 24 (Ranked 561)  
