@@ -27,12 +27,12 @@
 | 25 | [The Riflemen](games/t/the_riflemen.md) | 17.57% |
 | 26 | [Island Cities](games/i/island_cities.md) | 16.90% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
-| 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.22% |
-| 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.00% |
-| 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
-| 32 | [Seven Doors](games/s/seven_doors.md) | 13.79% |
-| 33 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 13.73% |
+| 28 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 15.69% |
+| 29 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
+| 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.22% |
+| 31 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.00% |
+| 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
+| 33 | [Seven Doors](games/s/seven_doors.md) | 13.79% |
 | 34 | [Remains](games/r/remains.md) | 12.70% |
 | 35 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.63% |
 | 36 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.17% |
@@ -43,7 +43,7 @@
 | 41 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.61% |
 | 43 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.20% |
+| 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.19% |
 | 45 | [Smelter](games/s/smelter.md) | 8.51% |
 | 46 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 8.33% |
 | 46 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
@@ -93,7 +93,7 @@
 | 91 | [The Bunker](games/t/the_bunker.md) | 4.07% |
 | 92 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.85% |
 | 93 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.80% |
-| 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.75% |
+| 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.73% |
 | 95 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.65% |
 | 95 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.65% |
 | 97 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.63% |
@@ -168,10 +168,10 @@
 | 166 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
 | 167 | [Adios](games/a/adios.md) | 1.11% |
 | 168 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.10% |
-| 168 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.10% |
 | 168 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.10% |
 | 168 | [The Devil's Face](games/t/the_devil's_face.md) | 1.10% |
-| 172 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.09% |
+| 171 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.09% |
+| 171 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.09% |
 | 173 | [Lemon Cake](games/l/lemon_cake.md) | 1.05% |
 | 174 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 175 | [Sable](games/s/sable.md) | 1.01% |
@@ -278,9 +278,9 @@
 | 275 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
 | 275 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 278 | [Dead Space](games/d/dead_space.md) | 0.19% |
-| 278 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.19% |
 | 278 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
-| 281 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
+| 280 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
+| 280 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
 | 282 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
 | 283 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 283 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
