@@ -5,9 +5,9 @@ Rating: 4.69 (Ranked 236)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~585 |
-| Rail Rat | 35.00% | ~445 |
-| The Mysterious Stranger | 34.00% | ~432 |
+| Time Heals All Wounds | 46.00% | ~586 |
+| Rail Rat | 35.00% | ~446 |
+| The Mysterious Stranger | 34.00% | ~433 |
 | Immaculate Aim | 29.00% | ~369 |
 | The Brass Boss | 28.00% | ~356 |
 | Time Flies | 26.00% | ~331 |
@@ -18,14 +18,14 @@ Rating: 4.69 (Ranked 236)
 | The Harder They Fall | 25.00% | ~318 |
 | Fast Learner | 25.00% | ~318 |
 | Immaculate Aim | 25.00% | ~318 |
-| The Steel Shadow | 24.00% | ~305 |
+| The Steel Shadow | 24.00% | ~306 |
 | Breaking Down Barriers | 23.00% | ~293 |
 | Right On Time | 22.00% | ~280 |
 | The Wicked Twins | 22.00% | ~280 |
 | Golem Chaser | 22.00% | ~280 |
 | Like Clockwork | 21.00% | ~267 |
 | The Betrayer | 21.00% | ~267 |
-| Check Your Pulse | 20.00% | ~254 |
+| Check Your Pulse | 20.00% | ~255 |
 | The Loose Cannon | 19.00% | ~242 |
 | Street Style | 18.00% | ~229 |
 | The Man Who Shattered Time | 18.00% | ~229 |
@@ -42,7 +42,7 @@ Rating: 4.69 (Ranked 236)
 | Sump Explorer | 11.00% | ~140 |
 | Fairgrounds Explorer | 10.00% | ~127 |
 | Theater Explorer | 10.00% | ~127 |
-| Cultivair Explorer | 9.00% | ~114 |
+| Cultivair Explorer | 9.00% | ~115 |
 | Corin Goes Home | 8.00% | ~102 |
 | Sartorialist | 8.00% | ~102 |
 | Entresol Explorer | 8.00% | ~102 |
@@ -57,10 +57,10 @@ Rating: 4.69 (Ranked 236)
 | A Lesson in Precision | 0.90% | ~11 |
 | Wildlife Protection | 0.80% | ~10 |
 | Raw Talent | 0.70% | ~9 |
-| Going to Live Forever | 0.60% | ~8 |
+| Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,272 (Ranked 280)  
-Completed: 7 (0.55%) (Ranked 213)  
+Progressed: 1,273 (Ranked 280)  
+Completed: 7 (0.55%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,7 +228,7 @@ Completed: 7 (0.55%) (Ranked 213)
 | 2024-01-05 | 1,241 | 6 |
 | 2024-01-06 | 1,255 | 6 |
 | 2024-01-07 | 1,264 | 7 |
-| 2024-01-08 | 1,272 | 7 |
+| 2024-01-08 | 1,273 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,28 +6,28 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~480,288 |
-| Apprentice | 58.00% | ~386,899 |
-| Close Shave | 25.00% | ~166,767 |
-| Mercenary | 23.00% | ~153,425 |
-| Ninja | 23.00% | ~153,425 |
-| Northern Scourge | 17.00% | ~113,401 |
-| Thief Bane | 14.00% | ~93,389 |
+| The Fool | 72.00% | ~480,290 |
+| Apprentice | 58.00% | ~386,901 |
+| Close Shave | 25.00% | ~166,768 |
+| Mercenary | 23.00% | ~153,426 |
+| Ninja | 23.00% | ~153,426 |
+| Northern Scourge | 17.00% | ~113,402 |
+| Thief Bane | 14.00% | ~93,390 |
 | Master of Arms | 12.00% | ~80,048 |
 | Gambler | 10.00% | ~66,707 |
 | Dice Master | 10.00% | ~66,707 |
 | Swordsman | 9.00% | ~60,036 |
-| Knight | 8.00% | ~53,365 |
-| Cure for Corruption | 8.00% | ~53,365 |
-| Focused | 8.00% | ~53,365 |
-| Flurry of Fury | 8.00% | ~53,365 |
+| Knight | 8.00% | ~53,366 |
+| Cure for Corruption | 8.00% | ~53,366 |
+| Focused | 8.00% | ~53,366 |
+| Flurry of Fury | 8.00% | ~53,366 |
 | Long Shot | 7.00% | ~46,695 |
 | Devil Dice | 7.00% | ~46,695 |
 | Broken Heart | 7.00% | ~46,695 |
 | Adventurer | 6.00% | ~40,024 |
 | Empire's Bane | 6.00% | ~40,024 |
-| Jack of all Trades | 5.00% | ~33,353 |
-| Smithy | 5.00% | ~33,353 |
+| Jack of all Trades | 5.00% | ~33,354 |
+| Smithy | 5.00% | ~33,354 |
 | Leap of Faith | 3.00% | ~20,012 |
 | Combat Ready | 3.00% | ~20,012 |
 | Stuffed Potato | 3.00% | ~20,012 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,067 (Ranked 31)  
+Progressed: 667,070 (Ranked 31)  
 Completed: 174 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 174 (0.03%) (Ranked 354)
 | 2024-01-05 | 666,910 | 174 |
 | 2024-01-06 | 666,973 | 174 |
 | 2024-01-07 | 667,043 | 174 |
-| 2024-01-08 | 667,067 | 174 |
+| 2024-01-08 | 667,070 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 497)  
 Sum: 196 (Ranked 419)  

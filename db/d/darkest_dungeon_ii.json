@@ -10650,9 +10650,9 @@
       "Count": 1084
     }
   ],
-  "EOS_Progressed": 132168,
+  "EOS_Progressed": 132173,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1050,
+  "EOS_NewPlayers": 1048,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38910,6 +38910,11 @@
       "Time": "2024-01-08T13:14:47.8295541+00:00",
       "NumProgressed": 132168,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T14:09:55.0154309+00:00",
+      "NumProgressed": 132173,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38921,7 +38926,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -38929,7 +38934,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39073,7 +39078,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39121,7 +39126,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -39137,7 +39142,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "combat_kill_librarian",
@@ -39161,7 +39166,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39217,7 +39222,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -39241,7 +39246,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "driving_distance_easy",
@@ -39329,7 +39334,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "inn_visit_all_variants",
@@ -39505,7 +39510,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39529,7 +39534,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39552,21 +39557,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132168,
+      "Progressed": 132173,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7037,
+      "Progressed": 7042,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-08T13:03:01.4111603+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:14:47.8295538+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:09:55.0154302+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:03:01.411161+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:14:47.829765+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:58:08.5356208+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:09:55.0156085+00:00"
 }

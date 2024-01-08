@@ -6,16 +6,16 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~385 |
-| First of many… | 68.00% | ~336 |
-| Helping Hand | 65.00% | ~321 |
-| Increased Vigor | 59.00% | ~291 |
+| Green with Envy | 78.00% | ~386 |
+| First of many… | 68.00% | ~337 |
+| Helping Hand | 64.00% | ~317 |
+| Increased Vigor | 59.00% | ~292 |
 | Fight Fire with Fire | 58.00% | ~287 |
 | Increased Capacity | 54.00% | ~267 |
-| Just the start | 49.00% | ~242 |
-| Perfect Storm | 46.00% | ~227 |
-| All That Glitters | 45.00% | ~222 |
-| Enhance! | 42.00% | ~207 |
+| Just the start | 48.00% | ~238 |
+| Perfect Storm | 46.00% | ~228 |
+| All That Glitters | 45.00% | ~223 |
+| Enhance! | 42.00% | ~208 |
 | One Of the Chosen | 40.00% | ~198 |
 | Five's a Crowd | 40.00% | ~198 |
 | Devil's in the Details | 39.00% | ~193 |
@@ -28,16 +28,16 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 33.00% | ~163 |
 | Love Tap | 32.00% | ~158 |
 | Maximum Vigor | 31.00% | ~153 |
-| Freeze Frame | 29.00% | ~143 |
-| Eat Your Heart Out | 29.00% | ~143 |
-| For Whom the Bell Tolls | 29.00% | ~143 |
-| Unyielding Strength | 26.00% | ~128 |
+| Freeze Frame | 29.00% | ~144 |
+| Eat Your Heart Out | 29.00% | ~144 |
+| For Whom the Bell Tolls | 29.00% | ~144 |
+| Unyielding Strength | 26.00% | ~129 |
 | Can you restore the Balance? | 25.00% | ~124 |
 | Crowd Source | 25.00% | ~124 |
 | Big Spender | 25.00% | ~124 |
 | Cleanup Crew | 24.00% | ~119 |
+| Demon Meddler | 23.00% | ~114 |
 | Maximum Capacity | 22.00% | ~109 |
-| Demon Meddler | 22.00% | ~109 |
 | Seeing Red | 21.00% | ~104 |
 | Egomaniac | 20.00% | ~99 |
 | Protector of Humanity | 18.00% | ~89 |
@@ -49,7 +49,7 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Keeper | 12.00% | ~59 |
 | Take it to the Limit | 12.00% | ~59 |
 | Holy Keeper | 11.00% | ~54 |
-| Humanitarian | 9.00% | ~44 |
+| Humanitarian | 9.00% | ~45 |
 | Soul Reaper | 8.00% | ~40 |
 | My Evil Twin | 6.00% | ~30 |
 | Made of Sterner Stuff | 6.00% | ~30 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 1.00% | ~5 |
 | Beast Mode | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494 (Ranked 353)  
+Progressed: 495 (Ranked 353)  
 Completed: 2 (0.40%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 2 (0.40%) (Ranked 236)
 | 2024-01-05 | 444 | 1 |
 | 2024-01-06 | 466 | 2 |
 | 2024-01-07 | 492 | 2 |
-| 2024-01-08 | 494 | 2 |
+| 2024-01-08 | 495 | 2 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 387)  
 Sum: 96 (Ranked 472)  

@@ -5,8 +5,8 @@ Rating: 4.16 (Ranked 988)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 62.00% | ~1,271 |
-| Trinity | 30.00% | ~615 |
+| Break Out | 62.00% | ~1,272 |
+| Trinity | 31.00% | ~636 |
 | A Taste of Wrath | 24.00% | ~492 |
 | The Collector | 24.00% | ~492 |
 | Find Allies | 23.00% | ~472 |
@@ -15,15 +15,15 @@ Rating: 4.16 (Ranked 988)
 | Shatter Them All | 22.00% | ~451 |
 | Geared Up | 22.00% | ~451 |
 | Fashion Victim | 22.00% | ~451 |
-| Scholar | 21.00% | ~430 |
+| Scholar | 21.00% | ~431 |
 | Tributes of Caladrias | 20.00% | ~410 |
 | Stone Collection | 20.00% | ~410 |
 | Powerful Allies | 19.00% | ~390 |
-| Big Bazar | 13.00% | ~266 |
-| Alchemist | 13.00% | ~266 |
+| Big Bazar | 13.00% | ~267 |
+| Alchemist | 13.00% | ~267 |
 | Essence Blow | 12.00% | ~246 |
 | The Mentor | 10.00% | ~205 |
-| Calm before the Storm | 9.00% | ~184 |
+| Calm before the Storm | 9.00% | ~185 |
 | To Battle | 7.00% | ~144 |
 | Godslayer | 7.00% | ~144 |
 | Airborne | 7.00% | ~144 |
@@ -37,12 +37,12 @@ Rating: 4.16 (Ranked 988)
 | Flawless Victory | 2.00% | ~41 |
 | All There Is | 2.00% | ~41 |
 | False God | 2.00% | ~41 |
-| Forgemaster | 1.00% | ~20 |
-| Summiter | 1.00% | ~20 |
+| Forgemaster | 1.00% | ~21 |
+| Summiter | 1.00% | ~21 |
 | All That Gold | 0.70% | ~14 |
 | Feeling Fancy | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,050 (Ranked 248)  
+Progressed: 2,052 (Ranked 248)  
 Completed: 3 (0.15%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 3 (0.15%) (Ranked 287)
 | 2024-01-05 | 1,843 | 3 |
 | 2024-01-06 | 1,936 | 3 |
 | 2024-01-07 | 2,015 | 3 |
-| 2024-01-08 | 2,050 | 3 |
+| 2024-01-08 | 2,052 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

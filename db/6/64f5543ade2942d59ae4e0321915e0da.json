@@ -3,9 +3,9 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 438,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 99,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.46,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -1709,6 +1709,11 @@
       "Time": "2024-01-08T13:08:29.7367409+00:00",
       "NumProgressed": 438,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T14:03:34.2754772+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1919,9 +1924,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 197
+      "UsersEstimate": 201
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2057,13 +2062,13 @@
       "ID": "16i2akc",
       "IsBase": true,
       "Progressed": 438,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:08:29.7367405+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:03:34.2754765+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:03:40.9032161+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:08:29.7367721+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:58:47.847823+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:03:34.2755168+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -260,6 +260,11 @@
       "Time": "2024-01-05T17:06:09.8114465+00:00",
       "NumProgressed": 294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T14:03:48.3807852+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -293,9 +298,9 @@
       "ID": "chapter1",
       "SetID": "5bkacmp",
       "Name": "Isenburg\u0027s fall",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 142
     },
     {
       "ID": "chapter2",
@@ -319,7 +324,7 @@
       "Name": "Dark and stinky",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "darkVolepain",
@@ -405,9 +410,9 @@
       "ID": "meetYourMaker",
       "SetID": "5bkacmp",
       "Name": "Meet your maker",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "mesmerecital",
@@ -495,7 +500,7 @@
       "Name": "The Bad Place",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "theGoodPlace",
@@ -543,7 +548,7 @@
       "Name": "Pieces of eight!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "thePolitician",
@@ -559,7 +564,7 @@
       "Name": "Caged tiger",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "theUnionLeader",
@@ -598,7 +603,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 0
     }
   ],
@@ -606,8 +611,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:08:44.5125451+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:03:48.3807846+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:35.1119247+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:07:38.6232964+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:08:44.5125734+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:02:41.9062049+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:03:48.3808136+00:00"
 }

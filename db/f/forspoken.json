@@ -2,9 +2,9 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 999,
-  "Ranking_Popularity": 467,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Rating": 988,
+  "Ranking_Popularity": 463,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 127,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.16,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -599,18 +599,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 67,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2024-01-08T14:02:52.9019143+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 67,
-  "NumberOfAwardsMax": 46,
+  "NumberOfAwards": 68,
+  "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -619,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46776,
+  "EOS_Progressed": 46779,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18094,6 +18100,11 @@
       "Time": "2024-01-08T13:09:41.3697907+00:00",
       "NumProgressed": 46776,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T14:04:43.9847983+00:00",
+      "NumProgressed": 46779,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18297,7 +18308,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -18393,7 +18404,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -18417,7 +18428,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -18441,7 +18452,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5145
+      "UsersEstimate": 5146
     },
     {
       "ID": "SPRING_ALL",
@@ -18457,7 +18468,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "STAYING_AIR",
@@ -18528,22 +18539,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46776,
+      "Progressed": 46779,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11613,
-      "Completed": 11613
+      "Progressed": 11616,
+      "Completed": 11616
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-01-07T05:02:53.6852275+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:09:41.3697903+00:00",
+  "LastChanged": "2024-01-08T14:02:52.9019141+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:04:43.9847974+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:07:50.3429137+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:09:41.3698968+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:02:52.9019146+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:04:43.9849064+00:00"
 }

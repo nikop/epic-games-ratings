@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3444,
+  "EOS_Progressed": 3446,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8445,6 +8445,11 @@
       "Time": "2024-01-08T13:13:25.8424068+00:00",
       "NumProgressed": 3444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T14:08:33.7760194+00:00",
+      "NumProgressed": 3446,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8457,7 +8462,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8465,7 +8470,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8473,7 +8478,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -8529,7 +8534,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -8665,7 +8670,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8745,7 +8750,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8753,7 +8758,7 @@
       "Name": "Eat My Dust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8848,7 +8853,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3444,
+      "Progressed": 3446,
       "Completed": 0
     }
   ],
@@ -8856,8 +8861,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:13:25.8424065+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:08:33.7760189+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:01:59.22335+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:13:25.8424689+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:57:08.7945699+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:08:33.7760855+00:00"
 }

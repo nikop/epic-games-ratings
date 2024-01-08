@@ -24,8 +24,8 @@ Rating: 4.55 (Ranked 525)
 | Rhythm Of Willump | 46.00% | ~692 |
 | A Tragic Reminder | 45.00% | ~677 |
 | 3000 Year Blackout | 44.00% | ~662 |
+| So Close | 42.00% | ~632 |
 | The Finisher | 42.00% | ~632 |
-| So Close | 41.00% | ~617 |
 | You Get Used To It | 41.00% | ~617 |
 | Family | 39.00% | ~587 |
 | Biggest Snowball Ever | 39.00% | ~587 |
@@ -51,7 +51,7 @@ Rating: 4.55 (Ranked 525)
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,505 (Ranked 266)  
-Completed: 9 (0.60%) (Ranked 206)  
+Completed: 9 (0.60%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

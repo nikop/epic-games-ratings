@@ -425,9 +425,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "631i43e",
       "Name": "Why Me?",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -728,8 +728,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:14:15.8615667+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:09:24.1023561+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.9417267+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:03:18.6260443+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:14:15.8616104+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:58:25.2948861+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:09:24.1024055+00:00"
 }

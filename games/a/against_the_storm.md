@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 68)  
+Rating: 4.82 (Ranked 67)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,11 +13,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overgrown Library | 8.00% | ~1,638 |
 | Petrified Necropolis | 8.00% | ~1,638 |
 | The Marshlands | 7.00% | ~1,433 |
-| Overcoming Difficulty | 6.00% | ~1,228 |
-| Coral Forest | 6.00% | ~1,228 |
-| The Scarlet Orchard | 6.00% | ~1,228 |
-| Ominous Presence | 6.00% | ~1,228 |
-| Gathering Storm | 6.00% | ~1,228 |
+| Overcoming Difficulty | 6.00% | ~1,229 |
+| Coral Forest | 6.00% | ~1,229 |
+| The Scarlet Orchard | 6.00% | ~1,229 |
+| Ominous Presence | 6.00% | ~1,229 |
+| Gathering Storm | 6.00% | ~1,229 |
 | Frosts | 5.00% | ~1,024 |
 | Land of Greed | 5.00% | ~1,024 |
 | Homesick | 4.00% | ~819 |
@@ -36,14 +36,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 3.00% | ~614 |
 | Trade Baron | 3.00% | ~614 |
 | Untamed Wilds | 3.00% | ~614 |
-| Serving Ale | 2.00% | ~409 |
-| Against All Odds | 2.00% | ~409 |
-| Barren Lands | 2.00% | ~409 |
-| Sparkdew Crystals | 2.00% | ~409 |
-| Haunted Forest | 2.00% | ~409 |
-| Flooded Mines | 2.00% | ~409 |
-| Defying the Crown | 2.00% | ~409 |
-| Into the Forest | 2.00% | ~409 |
+| Serving Ale | 2.00% | ~410 |
+| Against All Odds | 2.00% | ~410 |
+| Barren Lands | 2.00% | ~410 |
+| Sparkdew Crystals | 2.00% | ~410 |
+| Haunted Forest | 2.00% | ~410 |
+| Flooded Mines | 2.00% | ~410 |
+| Defying the Crown | 2.00% | ~410 |
+| Into the Forest | 2.00% | ~410 |
 | Efficient Explorer | 1.00% | ~205 |
 | Refinery | 1.00% | ~205 |
 | Dangerous Lands | 1.00% | ~205 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,471 (Ranked 154)  
+Progressed: 20,476 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
-| 2024-01-08 | 20,471 | 34 |
+| 2024-01-08 | 20,476 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 232)  
 Sum: 3,356 (Ranked 177)  

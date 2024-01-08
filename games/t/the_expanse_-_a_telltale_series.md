@@ -5,22 +5,22 @@ Rating: 4.53 (Ranked 561)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,352 |
+| Oyedang, Kopengs | 18.00% | ~3,353 |
 | Captain Drummer | 15.00% | ~2,794 |
 | Celebrations are in Order | 14.00% | ~2,608 |
-| The Pit and the Pirates | 13.00% | ~2,421 |
-| Martian Music | 13.00% | ~2,421 |
-| Bosmang | 13.00% | ~2,421 |
-| Impossible Objects | 13.00% | ~2,421 |
+| The Pit and the Pirates | 13.00% | ~2,422 |
+| Martian Music | 13.00% | ~2,422 |
+| Bosmang | 13.00% | ~2,422 |
+| Impossible Objects | 13.00% | ~2,422 |
 | Drone Dodger | 12.00% | ~2,235 |
 | Stogie for Fogey | 11.00% | ~2,049 |
 | Spore Taste | 11.00% | ~2,049 |
 | Zen Master | 10.00% | ~458 |
-| Call it Even | 9.00% | ~1,676 |
+| Call it Even | 9.00% | ~1,677 |
 | Safe Cracker | 9.00% | ~412 |
 | Madame Undersecretary | 9.00% | ~412 |
 | Heal Thy Medic | 8.00% | ~1,490 |
-| Keep Arjun in Check | 8.00% | ~366 |
+| Keep Arjun in Check | 8.00% | ~367 |
 | Data Archivist | 7.00% | ~1,304 |
 | Drug Gifter | 7.00% | ~1,304 |
 | Thorston Mayer | 7.00% | ~1,304 |
@@ -31,17 +31,17 @@ Rating: 4.53 (Ranked 561)
 | Data Logger | 4.00% | ~745 |
 | Miraculous Maya | 4.00% | ~745 |
 | Data Master | 3.00% | ~559 |
-| Brother's Reaper | 2.00% | ~372 |
-| No Belter Left Behind | 2.00% | ~372 |
-| Debris Spree | 2.00% | ~372 |
-| Data Recoverer | 2.00% | ~372 |
+| Brother's Reaper | 2.00% | ~373 |
+| No Belter Left Behind | 2.00% | ~373 |
+| Debris Spree | 2.00% | ~373 |
+| Data Recoverer | 2.00% | ~373 |
 | Urshanabi Hoarder | 1.00% | ~186 |
 | Grave Robber | 0.80% | ~149 |
 | Data Miner | 0.60% | ~112 |
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,625 (Ranked 159)  
+Progressed: 18,628 (Ranked 159)  
 Completed: 60 (0.32%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 60 (0.32%) (Ranked 249)
 | 2024-01-05 | 18,329 | 58 |
 | 2024-01-06 | 18,440 | 59 |
 | 2024-01-07 | 18,579 | 60 |
-| 2024-01-08 | 18,625 | 60 |
+| 2024-01-08 | 18,628 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

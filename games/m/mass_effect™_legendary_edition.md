@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,569 |
+| Distinguished Service Medal | 90.00% | ~3,570 |
 | Spectre Inductee | 66.00% | ~2,618 |
-| Medal of Exploration I | 56.00% | ~2,221 |
-| Recruit | 52.00% | ~2,062 |
+| Medal of Exploration I | 56.00% | ~2,222 |
+| Recruit | 52.00% | ~2,063 |
 | Search and Rescue | 51.00% | ~2,023 |
-| Quarian Ally | 49.00% | ~1,943 |
-| Medal of Heroism | 43.00% | ~1,705 |
-| Honorarium of Corporate Service | 43.00% | ~1,705 |
-| Turian Ally | 40.00% | ~1,586 |
+| Quarian Ally | 49.00% | ~1,944 |
+| Medal of Heroism | 43.00% | ~1,706 |
+| Honorarium of Corporate Service | 43.00% | ~1,706 |
+| Turian Ally | 40.00% | ~1,587 |
 | Medal of Exploration II | 39.00% | ~1,547 |
 | Council Legion of Merit | 38.00% | ~1,507 |
 | Missing in Action | 36.00% | ~1,428 |
@@ -25,8 +25,8 @@
 | Very Elusive | 33.00% | ~1,309 |
 | Principled | 32.00% | ~1,269 |
 | Colonial Savior | 32.00% | ~1,269 |
-| Medal of Exploration III | 31.00% | ~1,229 |
-| Scientist | 31.00% | ~1,229 |
+| Medal of Exploration III | 31.00% | ~1,230 |
+| Scientist | 31.00% | ~1,230 |
 | Paramour I | 30.00% | ~1,190 |
 | Sentinel Ally | 30.00% | ~1,190 |
 | Krogan Ally | 30.00% | ~1,190 |
@@ -34,7 +34,7 @@
 | The Professor | 29.00% | ~1,150 |
 | Head Hunter | 29.00% | ~1,150 |
 | Scholar | 29.00% | ~1,150 |
-| The Archangel | 28.00% | ~1,110 |
+| The Archangel | 28.00% | ~1,111 |
 | Operative | 27.00% | ~1,071 |
 | The Convict | 26.00% | ~1,031 |
 | Power Full | 26.00% | ~1,031 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~40 |
 | The One and Only | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,966 (Ranked 214)  
+Progressed: 3,967 (Ranked 214)  
 Completed: 13 (0.33%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,4 +247,4 @@ Completed: 13 (0.33%) (Ranked 247)
 | 2024-01-05 | 3,761 | 13 |
 | 2024-01-06 | 3,852 | 13 |
 | 2024-01-07 | 3,940 | 13 |
-| 2024-01-08 | 3,966 | 13 |
+| 2024-01-08 | 3,967 | 13 |

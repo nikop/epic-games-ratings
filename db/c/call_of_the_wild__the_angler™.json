@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 952,
+  "Ranking_Rating": 953,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 189,
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8144,
+  "EOS_Progressed": 8145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13567,6 +13567,11 @@
       "Time": "2024-01-08T13:13:31.9724551+00:00",
       "NumProgressed": 8144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T14:08:39.7817497+00:00",
+      "NumProgressed": 8145,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13578,7 +13583,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13897,13 +13902,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8144,
+      "Progressed": 8145,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7516,
+      "Progressed": 7517,
       "Completed": 113
     }
   ],
@@ -13911,8 +13916,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:13:31.9724548+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:08:39.7817491+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:03:24.0114516+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:13:31.9725403+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:58:30.7209891+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:08:39.7818409+00:00"
 }

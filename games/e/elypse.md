@@ -22,9 +22,9 @@
 | Homeless | 27.00% | ~35 |
 | Big badaboom! | 27.00% | ~35 |
 | Hard Rock | 27.00% | ~35 |
+| Nokron tower | 24.00% | ~31 |
+| Bookworm | 24.00% | ~31 |
 | Payback | 24.00% | ~31 |
-| Nokron tower | 23.00% | ~30 |
-| Bookworm | 23.00% | ~30 |
 | Full power | 21.00% | ~28 |
 | "Ah sh*t... Here we go again!" | 21.00% | ~28 |
 | Compulsive hoarder | 21.00% | ~28 |

@@ -6,23 +6,23 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,087 |
-| Wallbanger | 5.00% | ~26,087 |
+| Point Shooting | 5.00% | ~26,088 |
+| Wallbanger | 5.00% | ~26,088 |
 | Exploitative | 4.00% | ~20,870 |
 | High Speed Low Drag | 4.00% | ~20,870 |
 | Wet Feet | 4.00% | ~20,870 |
-| Checkpoint Victory | 3.00% | ~15,652 |
-| Lucky | 3.00% | ~15,652 |
-| Stylin' | 3.00% | ~15,652 |
-| Turf War | 3.00% | ~15,652 |
+| Checkpoint Victory | 3.00% | ~15,653 |
+| Lucky | 3.00% | ~15,653 |
+| Stylin' | 3.00% | ~15,653 |
+| Turf War | 3.00% | ~15,653 |
 | Banged | 2.00% | ~10,435 |
 | First Blood | 2.00% | ~10,435 |
 | Flaccid Paralysis | 2.00% | ~10,435 |
 | Push Victory | 2.00% | ~10,435 |
 | Self-destructive | 2.00% | ~10,435 |
-| Blindfire | 1.00% | ~5,217 |
-| Ruthless | 1.00% | ~5,217 |
-| Semper Paratus | 1.00% | ~5,217 |
+| Blindfire | 1.00% | ~5,218 |
+| Ruthless | 1.00% | ~5,218 |
+| Semper Paratus | 1.00% | ~5,218 |
 | Carrying | 0.90% | ~4,696 |
 | Efficient | 0.90% | ~4,696 |
 | Mount & Gun | 0.90% | ~4,696 |
@@ -30,19 +30,19 @@ Number of Ratings: 1,316  (23.09.2022)
 | Grounded | 0.80% | ~4,174 |
 | Play to Win | 0.80% | ~4,174 |
 | Special Delivery | 0.70% | ~3,652 |
-| Firefight Victory | 0.60% | ~3,130 |
-| #1 | 0.60% | ~3,130 |
+| Firefight Victory | 0.60% | ~3,131 |
+| #1 | 0.60% | ~3,131 |
 | Cinematic | 0.50% | ~2,609 |
 | Thanks Station! | 0.40% | ~2,087 |
 | Knock Knock | 0.30% | ~1,565 |
 | There For You | 0.30% | ~1,565 |
-| Hit and Run | 0.20% | ~1,043 |
+| Hit and Run | 0.20% | ~1,044 |
 | Designated Driver | 0.10% | ~522 |
 | J.R. .50 | 0.10% | ~522 |
 | It's All in the Reflexes | 0.10% | ~522 |
 | Road Hazard | 0.10% | ~522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521,746 (Ranked 39)  
+Progressed: 521,759 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 2 (0.00%) (Ranked 394)
 | 2024-01-05 | 520,152 | 2 |
 | 2024-01-06 | 520,833 | 2 |
 | 2024-01-07 | 521,476 | 2 |
-| 2024-01-08 | 521,746 | 2 |
+| 2024-01-08 | 521,759 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 237)  
 Sum: 3,342 (Ranked 178)  

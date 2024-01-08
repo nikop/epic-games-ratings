@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1272,
+  "EOS_Progressed": 1273,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3798,6 +3798,11 @@
       "Time": "2024-01-08T13:15:10.5317496+00:00",
       "NumProgressed": 1272,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T14:10:17.2418271+00:00",
+      "NumProgressed": 1273,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3817,7 +3822,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3889,7 +3894,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "EntresolChests1",
@@ -3929,7 +3934,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3969,7 +3974,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "HexlockGift",
@@ -4023,9 +4028,9 @@
       "ID": "NoDeathRun",
       "SetID": "a9e499d",
       "Name": "Going to Live Forever",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "NoGadgetFutureEkko3",
@@ -4097,7 +4102,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "RewindParry",
@@ -4169,7 +4174,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "TheaterChests1",
@@ -4232,7 +4237,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1272,
+      "Progressed": 1273,
       "Completed": 7
     }
   ],
@@ -4240,8 +4245,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:15:10.5317492+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:10:17.241827+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:03:38.9855113+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:15:10.5318098+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:58:45.1994515+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:10:17.2418854+00:00"
 }

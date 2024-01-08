@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8460,
+  "EOS_Progressed": 8461,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -9551,6 +9551,11 @@
       "Time": "2024-01-08T13:13:14.8804558+00:00",
       "NumProgressed": 8460,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2024-01-08T14:08:23.1801455+00:00",
+      "NumProgressed": 8461,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9563,7 +9568,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7445
+      "UsersEstimate": 7446
     },
     {
       "ID": "achievement_01_02",
@@ -9579,7 +9584,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 5499
+      "UsersEstimate": 5500
     },
     {
       "ID": "achievement_01_04",
@@ -9587,7 +9592,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "achievement_01_05",
@@ -9603,7 +9608,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5076
+      "UsersEstimate": 5077
     },
     {
       "ID": "achievement_01_07",
@@ -9619,7 +9624,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "achievement_01_09",
@@ -9691,7 +9696,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4145
+      "UsersEstimate": 4146
     },
     {
       "ID": "achievement_02_08",
@@ -9795,7 +9800,7 @@
       "Name": "Long Time on the Road",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "achievement_04_02",
@@ -9803,7 +9808,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4145
+      "UsersEstimate": 4146
     },
     {
       "ID": "achievement_04_03",
@@ -9811,7 +9816,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "achievement_04_04",
@@ -9819,7 +9824,7 @@
       "Name": "Flawless Racer",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "achievement_04_05",
@@ -9851,7 +9856,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7360
+      "UsersEstimate": 7361
     },
     {
       "ID": "achievement_04_09",
@@ -9866,7 +9871,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8460,
+      "Progressed": 8461,
       "Completed": 50
     }
   ],
@@ -9874,8 +9879,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-07T20:58:37.9854496+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:13:14.8804555+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:08:23.1801449+00:00",
   "LastUpdate_AppInfo": "2024-01-05T01:43:58.6689875+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:03:28.9860107+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:13:14.8805296+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:58:34.998005+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:08:23.1802122+00:00"
 }

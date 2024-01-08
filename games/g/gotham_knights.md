@@ -5,13 +5,13 @@ Rating: 4.19 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,044 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,910 |
-| Loose Ends | 33.00% | ~27,089 |
+| First Step Into the Knight | 50.00% | ~41,045 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,911 |
+| Loose Ends | 33.00% | ~27,090 |
 | To the Victor Go the Spoils | 27.00% | ~22,164 |
 | Knighthood | 26.00% | ~21,343 |
-| Get ReQ'd | 24.00% | ~19,701 |
-| Whispered Words | 24.00% | ~19,701 |
+| Get ReQ'd | 24.00% | ~19,702 |
+| Whispered Words | 24.00% | ~19,702 |
 | The Batman Family | 22.00% | ~18,060 |
 | Lock and Key | 22.00% | ~18,060 |
 | Something in the Clay | 20.00% | ~16,418 |
@@ -23,11 +23,11 @@ Rating: 4.19 (Ranked 971)
 | The Show Mud Go On | 17.00% | ~13,955 |
 | From Inside Gotham's Walls | 17.00% | ~13,955 |
 | Protector of Gotham | 16.00% | ~13,134 |
-| In Your Element | 15.00% | ~12,313 |
-| Universal Health Scare | 15.00% | ~12,313 |
-| Rock and a Hard Place | 14.00% | ~11,492 |
-| Cooldown | 14.00% | ~11,492 |
-| Voiceless | 14.00% | ~11,492 |
+| In Your Element | 15.00% | ~12,314 |
+| Universal Health Scare | 15.00% | ~12,314 |
+| Rock and a Hard Place | 14.00% | ~11,493 |
+| Cooldown | 14.00% | ~11,493 |
+| Voiceless | 14.00% | ~11,493 |
 | Shock Til They Drop | 13.00% | ~10,672 |
 | Seeking Asylum | 13.00% | ~10,672 |
 | End of an Era | 12.00% | ~9,851 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 971)
 | The Cold, the Bad and the Ugly | 0.30% | ~157 |
 | It's Nice to Be Wanted | 0.20% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,089 (Ranked 110)  
+Progressed: 82,090 (Ranked 110)  
 Completed: 132 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 132 (0.16%) (Ranked 283)
 | 2024-01-05 | 81,609 | 131 |
 | 2024-01-06 | 81,792 | 132 |
 | 2024-01-07 | 81,989 | 132 |
-| 2024-01-08 | 82,089 | 132 |
+| 2024-01-08 | 82,090 | 132 |
 ## Awards
 Max (Great Boss Battles): 3,157  (Ranked 101)  
 Sum: 5,393 (Ranked 141)  

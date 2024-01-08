@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.80% | ~130 |
 | Magnificent | 0.80% | ~130 |
 | Ishtar Gate | 0.80% | ~130 |
+| Lighthouse | 0.80% | ~130 |
 | Christianity | 0.80% | ~130 |
 | Roman Paganism | 0.80% | ~130 |
 | Zoroastrianism | 0.80% | ~130 |
@@ -48,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.70% | ~114 |
 | Apadana | 0.70% | ~114 |
 | Great Ziggurat | 0.70% | ~114 |
-| Lighthouse | 0.70% | ~114 |
 | Learn to Play 2 | 0.70% | ~114 |
 | Carthaginian Paganism | 0.70% | ~114 |
 | Regicide | 0.60% | ~97 |
@@ -72,6 +72,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.50% | ~81 |
 | Building Wonders | 0.50% | ~81 |
 | Mythology | 0.50% | ~81 |
+| Win a Single Player Game | 0.50% | ~81 |
 | Mighty | 0.40% | ~65 |
 | Good Difficulty | 0.40% | ~65 |
 | Champions | 0.40% | ~65 |
@@ -86,7 +87,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.40% | ~65 |
 | Legionary | 0.40% | ~65 |
 | Points Victory | 0.40% | ~65 |
-| Win a Single Player Game | 0.40% | ~65 |
 | Bad Heir Day | 0.30% | ~49 |
 | Capable | 0.30% | ~49 |
 | Conqueror | 0.30% | ~49 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,229 (Ranked 168)  
+Progressed: 16,232 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,229 | 5 |
+| 2024-01-08 | 16,232 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,917 (Ranked 223)  

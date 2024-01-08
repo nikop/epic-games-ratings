@@ -18,7 +18,7 @@
 | Windmill | 39.00% | ~93 |
 | Big metal ruler | 38.00% | ~91 |
 | Doll | 36.00% | ~86 |
-| Mysterious paintings | 34.00% | ~81 |
+| Mysterious paintings | 35.00% | ~84 |
 | Cat | 33.00% | ~79 |
 | Depths of the well | 26.00% | ~62 |
 | Children | 23.00% | ~55 |
@@ -27,7 +27,7 @@
 | Back Home | 12.00% | ~29 |
 | Friend | 12.00% | ~29 |
 | Old kettle | 12.00% | ~29 |
-| Forest Howl | 9.00% | ~22 |
+| Forest Howl | 10.00% | ~24 |
 | Hope | 5.00% | ~12 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

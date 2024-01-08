@@ -1,18 +1,18 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 999)  
+Rating: 4.16 (Ranked 988)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 12.00% | ~5,613 |
-| Unlocked Potential | 11.00% | ~5,145 |
+| Unlocked Potential | 11.00% | ~5,146 |
 | Tinkerer | 9.00% | ~4,210 |
 | Knock 'Em Dead | 8.00% | ~3,742 |
-| Leapfrogger | 7.00% | ~3,274 |
-| Pilgrimage: Initiate | 7.00% | ~3,274 |
-| Hell of a Run | 7.00% | ~3,274 |
-| Call of the Fount: Baptized | 7.00% | ~3,274 |
+| Leapfrogger | 7.00% | ~3,275 |
+| Pilgrimage: Initiate | 7.00% | ~3,275 |
+| Hell of a Run | 7.00% | ~3,275 |
+| Call of the Fount: Baptized | 7.00% | ~3,275 |
 | No Mercy | 6.00% | ~2,807 |
 | Explorer: Seeker | 6.00% | ~2,807 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,339 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 999)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,776 (Ranked 126)  
+Progressed: 46,779 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,14 +322,14 @@ Completed: 4 (0.01%) (Ranked 372)
 | 2024-01-05 | 46,484 | 4 |
 | 2024-01-06 | 46,610 | 4 |
 | 2024-01-07 | 46,730 | 4 |
-| 2024-01-08 | 46,776 | 4 |
+| 2024-01-08 | 46,779 | 4 |
 ## Awards
-Max (Character Customization): 46  (Ranked 467)  
-Sum: 67 (Ranked 492)  
-Diff (max vs sum): -25  
+Max (Character Customization): 47  (Ranked 463)  
+Sum: 68 (Ranked 491)  
+Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 46 |
+| This game has Inclusive Character Customization | 47 |
 | This game has Great Boss Battles | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -433,3 +433,4 @@ Diff (max vs sum): -25
 | 2024-01-05 | 4.14 | 46 | 66 |
 | 2024-01-06 | 4.16 | 46 | 67 |
 | 2024-01-07 | 4.15 | 46 | 67 |
+| 2024-01-08 | 4.16 | 47 | 68 |

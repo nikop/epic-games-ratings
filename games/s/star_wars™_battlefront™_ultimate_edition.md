@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,375 |
+| New Recruit | 86.00% | ~2,376 |
 | Off to a good start | 61.00% | ~1,685 |
-| Do... or do not. There is no try | 52.00% | ~1,436 |
+| Do... or do not. There is no try | 52.00% | ~1,437 |
 | A good blaster at your side | 24.00% | ~663 |
 | I suggest a new strategy | 17.00% | ~470 |
 | Great shot, kid! | 16.00% | ~442 |
 | Scrap collector | 15.00% | ~414 |
 | All right, I'll give it a try | 14.00% | ~387 |
-| The power of the Force | 12.00% | ~331 |
-| Shoot first | 12.00% | ~331 |
+| The power of the Force | 12.00% | ~332 |
+| Together we can rule the galaxy | 12.00% | ~332 |
+| Shoot first | 12.00% | ~332 |
 | Collector | 11.00% | ~304 |
-| Together we can rule the galaxy | 11.00% | ~304 |
 | Tell Jabba that I've got his money | 8.00% | ~221 |
 | Best star-pilot in the galaxy | 8.00% | ~221 |
 | Never tell me the odds! | 7.00% | ~193 |
@@ -25,9 +25,9 @@
 | "Gonk? Gonk!" | 5.00% | ~138 |
 | Impressive. Most impressive. | 5.00% | ~138 |
 | Judge me by my size, do you? | 5.00% | ~138 |
-| Distinguished | 4.00% | ~110 |
-| A tremor in the Force | 4.00% | ~110 |
-| Support the troops | 4.00% | ~110 |
+| Distinguished | 4.00% | ~111 |
+| A tremor in the Force | 4.00% | ~111 |
+| Support the troops | 4.00% | ~111 |
 | Safety ain't the point of a joyride | 3.00% | ~83 |
 | Not bad for a little furball | 3.00% | ~83 |
 | Patience you must have | 3.00% | ~83 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,762 (Ranked 232)  
+Progressed: 2,763 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-05 | 2,649 | 1 |
 | 2024-01-06 | 2,690 | 1 |
 | 2024-01-07 | 2,750 | 1 |
-| 2024-01-08 | 2,762 | 1 |
+| 2024-01-08 | 2,763 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

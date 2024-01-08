@@ -436,9 +436,9 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 61,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "a30",
@@ -492,9 +492,9 @@
       "ID": "a4",
       "SetID": "cdg65ol",
       "Name": "Shipwrecked!",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "a5",
@@ -549,8 +549,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:10:16.8217806+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:05:18.9915132+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.1874363+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:07:54.3930249+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:10:16.821805+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:02:56.9004297+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:05:18.9915725+00:00"
 }

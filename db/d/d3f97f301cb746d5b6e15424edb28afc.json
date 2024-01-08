@@ -157,7 +157,7 @@
   "Tags": [],
   "EOS_Progressed": 1633,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5125,9 +5125,9 @@
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 2",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1061
     },
     {
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
@@ -5189,17 +5189,17 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 1012
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
       "SetID": "5fn8ia4",
       "Name": "Getting Famous",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 621
+      "UsersEstimate": 637
     },
     {
       "ID": "GSS_ACH_67_POPULARITY_07",
@@ -5342,8 +5342,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:09:12.8472992+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:04:16.0399593+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:02:34.4195323+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:09:12.847393+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:57:42.695024+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:04:16.040043+00:00"
 }

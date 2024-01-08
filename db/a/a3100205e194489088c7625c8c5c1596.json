@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105585,
+  "EOS_Progressed": 105588,
   "EOS_Completed": 349,
-  "EOS_NewPlayers": 1480,
+  "EOS_NewPlayers": 1474,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -13124,6 +13124,11 @@
       "Time": "2024-01-08T13:10:35.6249358+00:00",
       "NumProgressed": 105585,
       "NumCompleted": 349
+    },
+    {
+      "Time": "2024-01-08T14:05:37.1187498+00:00",
+      "NumProgressed": 105588,
+      "NumCompleted": 349
     }
   ],
   "AchievementsAdded": "2023-09-15T07:03:16.7096023+00:00",
@@ -13136,7 +13141,7 @@
       "Name": "Forest Stage Discovered",
       "Percentage": 90,
       "XP": 100,
-      "UsersEstimate": 95026
+      "UsersEstimate": 95029
     },
     {
       "ID": "JB_is_Playing",
@@ -13152,7 +13157,7 @@
       "Name": "JB\u2019s House Discovered",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 27452
+      "UsersEstimate": 27453
     },
     {
       "ID": "Kirk_is_Playing",
@@ -13160,7 +13165,7 @@
       "Name": "Kirk is Playing",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 44346
+      "UsersEstimate": 44347
     },
     {
       "ID": "Kirks_House_Discovered",
@@ -13168,7 +13173,7 @@
       "Name": "Kirk\u2019s House Discovered",
       "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 70742
+      "UsersEstimate": 70744
     },
     {
       "ID": "Lamp_Post_Illuminated",
@@ -13176,7 +13181,7 @@
       "Name": "Lamp Post Illuminated",
       "Percentage": 91,
       "XP": 100,
-      "UsersEstimate": 96082
+      "UsersEstimate": 96085
     },
     {
       "ID": "Lights_On",
@@ -13192,7 +13197,7 @@
       "Name": "Sebastian\u0027s House Discovered",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 19005
+      "UsersEstimate": 19006
     },
     {
       "ID": "The_Band_is_Back_Together",
@@ -13207,7 +13212,7 @@
     {
       "ID": "8a67465",
       "IsBase": true,
-      "Progressed": 105585,
+      "Progressed": 105588,
       "Completed": 349
     }
   ],
@@ -13215,8 +13220,8 @@
   "FirstSeenRating": "2023-09-27T18:00:22.5093748+00:00",
   "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
   "LastChanged": "2024-01-07T14:59:22.0864732+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:10:35.6249355+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:05:37.1187492+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.3823575+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:04:51.7055604+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:10:35.6250082+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:59:54.0254609+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:05:37.1188227+00:00"
 }

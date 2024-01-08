@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1077,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
@@ -3745,6 +3745,11 @@
       "Time": "2024-01-08T13:14:15.4507744+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T14:09:23.7314192+00:00",
+      "NumProgressed": 1077,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3779,9 +3784,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 172
     },
     {
       "ID": "AttackCount",
@@ -3861,7 +3866,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Deepstrike",
@@ -3901,7 +3906,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4051,9 +4056,9 @@
       "ID": "SweepKillCount",
       "SetID": "71c0n9i",
       "Name": "Cleave",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "TownCompletion",
@@ -4093,7 +4098,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "WielderLevel3",
@@ -4188,15 +4193,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1077,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:14:15.4507741+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:09:23.7314182+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:05:08.7940346+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:14:15.4508363+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:00:11.2690486+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:09:23.7314785+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewPlayers": 521,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 381,
+  "EOS_Progressed": 382,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -575,6 +575,11 @@
       "Time": "2024-01-02T12:04:40.5805429+00:00",
       "NumProgressed": 381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T14:03:40.9106047+00:00",
+      "NumProgressed": 382,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -602,7 +607,7 @@
       "Name": "Byoing",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ExamPractice",
@@ -618,7 +623,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "FifthGrade",
@@ -634,7 +639,7 @@
       "Name": "1st Grade",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "FourthGrade",
@@ -714,7 +719,7 @@
       "Name": "Study Session",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ThirdGrade",
@@ -737,7 +742,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 0
     }
   ],
@@ -745,8 +750,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:08:36.7900778+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:03:40.9106041+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:41.5109942+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:07:46.9945152+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:08:36.7900894+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:02:49.6500783+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:03:40.910617+00:00"
 }

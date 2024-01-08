@@ -3,8 +3,8 @@
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 339,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 594,
+  "EOS_Progressed": 595,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.51,
+  "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -1154,6 +1154,11 @@
       "Time": "2024-01-08T12:10:06.4204822+00:00",
       "NumProgressed": 594,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T14:10:11.4699195+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1173,7 +1178,7 @@
       "Name": "We Are a Family",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "TROP002",
@@ -1181,7 +1186,7 @@
       "Name": "Three Little Foxes",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "TROP003",
@@ -1205,7 +1210,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "TROP006",
@@ -1229,7 +1234,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "TROP009",
@@ -1237,7 +1242,7 @@
       "Name": "Surviving",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "TROP010",
@@ -1349,7 +1354,7 @@
       "Name": "Detox diet",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "TROP024",
@@ -1357,7 +1362,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "TROP025",
@@ -1388,7 +1393,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 594,
+      "Progressed": 595,
       "Completed": 3
     }
   ],
@@ -1396,8 +1401,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:15:04.9652644+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:10:11.4699191+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:55.943768+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:04:51.8273489+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:15:04.9652897+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:59:54.2408363+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:10:11.4699424+00:00"
 }

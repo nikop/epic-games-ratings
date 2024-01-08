@@ -13,16 +13,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 6.00% | ~7,930 |
 | Creep and Sleep | 6.00% | ~7,930 |
 | Overdue Notice | 6.00% | ~7,930 |
-| Ploughshares to Swords | 6.00% | ~422 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,608 |
-| Serenity Now! | 5.00% | ~6,608 |
-| Not Today! | 5.00% | ~6,608 |
-| Meat and Greet | 5.00% | ~6,608 |
-| Catch and Decease | 5.00% | ~6,608 |
-| Escape from the Black Hole | 5.00% | ~6,608 |
-| Rush Hour | 5.00% | ~6,608 |
-| To Grandmother's House | 5.00% | ~6,608 |
-| FNG | 5.00% | ~6,608 |
+| Ploughshares to Swords | 6.00% | ~423 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,609 |
+| Serenity Now! | 5.00% | ~6,609 |
+| Not Today! | 5.00% | ~6,609 |
+| Meat and Greet | 5.00% | ~6,609 |
+| Catch and Decease | 5.00% | ~6,609 |
+| Escape from the Black Hole | 5.00% | ~6,609 |
+| Rush Hour | 5.00% | ~6,609 |
+| To Grandmother's House | 5.00% | ~6,609 |
+| FNG | 5.00% | ~6,609 |
 | Bloody Graduation | 5.00% | ~352 |
 | It Rings a Bell | 4.00% | ~5,287 |
 | It Happens | 4.00% | ~5,287 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,287 |
 | A Place to Lay Your Head | 4.00% | ~5,287 |
 | Nope | 4.00% | ~5,287 |
-| Friends 'Til the End | 4.00% | ~281 |
+| Friends 'Til the End | 4.00% | ~282 |
 | Resurrection | 3.00% | ~3,965 |
 | Unleash Hell | 3.00% | ~3,965 |
 | Funny Guy | 3.00% | ~3,965 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,168 (Ranked 91)  
+Progressed: 132,173 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,168 | 3 |
+| 2024-01-08 | 132,173 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
 Sum: 21,534 (Ranked 58)  

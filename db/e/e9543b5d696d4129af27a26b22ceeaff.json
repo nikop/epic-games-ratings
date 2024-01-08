@@ -2,7 +2,7 @@
   "ID": "e9543b5d696d4129af27a26b22ceeaff",
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
-  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 159,
@@ -363,9 +363,9 @@
       "ID": "ACH_FIRST_CHAMPIONSHIP",
       "SetID": "1lnhagg",
       "Name": "First is Always Special",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_FIRST_STAR_MANAGER",
@@ -379,9 +379,9 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_FIVE_STARS_MANAGER",
@@ -403,9 +403,9 @@
       "ID": "ACH_FULL_ARENA",
       "SetID": "1lnhagg",
       "Name": "Full Arena",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_HALL_OF_FAME",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:13:45.0184074+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:08:52.3762653+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:09.2723811+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:04:58.7359418+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:13:45.0184419+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:00:00.5490742+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:08:52.3762944+00:00"
 }

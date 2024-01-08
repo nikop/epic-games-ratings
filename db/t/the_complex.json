@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 805,
+  "EOS_Progressed": 806,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
@@ -1730,6 +1730,11 @@
       "Time": "2024-01-08T13:14:41.2024407+00:00",
       "NumProgressed": 805,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-08T14:09:48.466617+00:00",
+      "NumProgressed": 806,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1741,7 +1746,7 @@
       "Name": "Beat It",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "blast_from_the_past",
@@ -1749,7 +1754,7 @@
       "Name": "Blast From The Past",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "deadly_secret",
@@ -1781,7 +1786,7 @@
       "Name": "Get Out Of This Alive",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ending_4",
@@ -1813,7 +1818,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ending_8",
@@ -1829,7 +1834,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "free_champagne",
@@ -1837,7 +1842,7 @@
       "Name": "Free Champagne",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "kamikaze",
@@ -1845,7 +1850,7 @@
       "Name": "Kamikaze",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "kindar_surprise",
@@ -1877,15 +1882,15 @@
       "Name": "Storage Hunter",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 459
+      "UsersEstimate": 451
     },
     {
       "ID": "tough_decision",
@@ -1893,14 +1898,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 805,
+      "Progressed": 806,
       "Completed": 22
     }
   ],
@@ -1908,8 +1913,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:14:41.2024403+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:09:48.4666102+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:38.6088522+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:07:42.5215941+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:14:41.2024615+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:02:45.4297189+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:09:48.4666413+00:00"
 }

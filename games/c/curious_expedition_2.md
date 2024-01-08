@@ -49,8 +49,8 @@ Number of Ratings: 20  (23.09.2022)
 | Level Up | 8.00% | ~33 |
 | Zookeeper | 7.00% | ~29 |
 | Islander Understanding | 6.00% | ~25 |
+| A Paris Sunset | 6.00% | ~25 |
 | The Workshop | 6.00% | ~25 |
-| A Paris Sunset | 5.00% | ~21 |
 | The Director Perseveres | 5.00% | ~21 |
 | The Round Table | 5.00% | ~21 |
 | X Marks the Spot | 4.00% | ~17 |

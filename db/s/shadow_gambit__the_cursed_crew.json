@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1485,
+  "EOS_Progressed": 1486,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
@@ -5110,6 +5110,11 @@
       "Time": "2024-01-08T13:10:20.9460388+00:00",
       "NumProgressed": 1485,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-08T14:05:22.8950787+00:00",
+      "NumProgressed": 1486,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5242,7 +5247,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -5290,7 +5295,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -5329,7 +5334,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1485,
+      "Progressed": 1486,
       "Completed": 36
     }
   ],
@@ -5337,8 +5342,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:10:20.9460384+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:05:22.895078+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:04:21.6528879+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:10:20.9460797+00:00"
+  "LastUpdate_Ratings": "2024-01-08T13:59:25.8595316+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:05:22.8951222+00:00"
 }

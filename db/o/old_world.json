@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2226,9 +2226,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16229,
+  "EOS_Progressed": 16232,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19266,6 +19266,11 @@
       "Time": "2024-01-08T13:15:13.9976604+00:00",
       "NumProgressed": 16229,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T14:10:20.579184+00:00",
+      "NumProgressed": 16232,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20691,9 +20696,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -21547,9 +21552,9 @@
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Win a Single Player Game",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -22140,21 +22145,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16229,
+      "Progressed": 16232,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16229,
+      "Progressed": 16232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-08T13:05:16.5572777+00:00",
-  "LastChanged_Achievements": "2024-01-08T13:15:13.99766+00:00",
+  "LastChanged_Achievements": "2024-01-08T14:10:20.5791836+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-08T13:05:16.5572782+00:00",
-  "LastUpdate_Achievements": "2024-01-08T13:15:13.9986923+00:00"
+  "LastUpdate_Ratings": "2024-01-08T14:00:18.6803595+00:00",
+  "LastUpdate_Achievements": "2024-01-08T14:10:20.5801834+00:00"
 }
