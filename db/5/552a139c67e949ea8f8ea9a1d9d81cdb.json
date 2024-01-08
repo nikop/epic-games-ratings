@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1893,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4965,9 +4965,9 @@
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 114
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -5178,8 +5178,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:05:25.0078338+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:04:38.0003124+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:57:58.673526+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:05:25.0078893+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:57:40.9217516+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:04:38.0003748+00:00"
 }

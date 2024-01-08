@@ -5,27 +5,27 @@ Rating: 4.21 (Ranked 953)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 25.00% | ~5,408 |
-| The Outer Way | 25.00% | ~5,408 |
-| Desperate Times | 23.00% | ~4,976 |
-| Get a Grip | 21.00% | ~4,543 |
-| Paper Jams | 21.00% | ~4,543 |
-| Chew 'Em Up | 19.00% | ~4,110 |
-| Reforged | 18.00% | ~3,894 |
+| Flesh Wound | 25.00% | ~5,410 |
+| The Outer Way | 25.00% | ~5,410 |
+| Desperate Times | 23.00% | ~4,977 |
+| Get a Grip | 21.00% | ~4,544 |
+| Paper Jams | 21.00% | ~4,544 |
+| Chew 'Em Up | 19.00% | ~4,111 |
+| Reforged | 18.00% | ~3,895 |
 | Float Like A Butterfly | 17.00% | ~3,678 |
-| Workplace Hazard | 15.00% | ~3,245 |
-| If the SHU Fits... | 15.00% | ~3,245 |
-| Without A Paddle | 13.00% | ~2,812 |
+| Workplace Hazard | 15.00% | ~3,246 |
+| If the SHU Fits... | 15.00% | ~3,246 |
+| Without A Paddle | 13.00% | ~2,813 |
 | Two Heads Are Better Than One | 11.00% | ~2,380 |
 | In the Pipe, Five by Five | 11.00% | ~2,380 |
 | Crash Site | 11.00% | ~2,380 |
-| Terminated | 10.00% | ~2,163 |
-| Power Up | 10.00% | ~2,163 |
+| Terminated | 10.00% | ~2,164 |
+| Power Up | 10.00% | ~2,164 |
 | Giving Back | 9.00% | ~1,947 |
 | What Lies Beneath | 9.00% | ~1,947 |
 | Full Circle | 9.00% | ~1,947 |
 | You Need a Gun | 8.00% | ~1,731 |
-| I Do Belong Here | 7.00% | ~1,514 |
+| I Do Belong Here | 7.00% | ~1,515 |
 | Keep Fighting | 7.00% | ~669 |
 | In Striking Distance | 5.00% | ~1,082 |
 | The Commonality | 5.00% | ~1,082 |
@@ -38,8 +38,8 @@ Rating: 4.21 (Ranked 953)
 | Instigator | 1.00% | ~96 |
 | Grim Reaper | 0.90% | ~195 |
 | Information Overload | 0.90% | ~86 |
-| Parole Denied | 0.80% | ~76 |
-| Quick Pick | 0.80% | ~76 |
+| Parole Denied | 0.80% | ~77 |
+| Quick Pick | 0.80% | ~77 |
 | Subject Alpha | 0.60% | ~57 |
 | The Protocol is About Life | 0.40% | ~87 |
 | Don't Let It Mellow | 0.40% | ~38 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 953)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,634 (Ranked 151)  
+Progressed: 21,638 (Ranked 151)  
 Completed: 82 (0.38%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 82 (0.38%) (Ranked 241)
 | 2024-01-05 | 21,186 | 82 |
 | 2024-01-06 | 21,389 | 82 |
 | 2024-01-07 | 21,615 | 82 |
-| 2024-01-08 | 21,634 | 82 |
+| 2024-01-08 | 21,638 | 82 |
 ## Awards
 Max (Amazing Characters): 126  (Ranked 353)  
 Sum: 603 (Ranked 324)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242583,
+  "EOS_Progressed": 242589,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31065,6 +31065,11 @@
       "Time": "2024-01-08T01:59:33.5325334+00:00",
       "NumProgressed": 242583,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-08T04:10:13.0308908+00:00",
+      "NumProgressed": 242589,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31124,7 +31129,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "DAILY7",
@@ -31332,7 +31337,7 @@
       "Name": "Just Chilling",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "FREEZE20TIMES",
@@ -31452,7 +31457,7 @@
       "Name": "Save Our Souls",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "HUGESOULSPILL",
@@ -31764,7 +31769,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "POISONSELF20",
@@ -31804,7 +31809,7 @@
       "Name": "New Perspectives",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "SNAKESTEALTH",
@@ -32179,13 +32184,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242583,
+      "Progressed": 242589,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4063,
+      "Progressed": 4069,
       "Completed": 422
     }
   ],
@@ -32193,8 +32198,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:10:50.1406757+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:10:13.0308904+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:03:17.9489896+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:10:50.1409416+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:02:43.7609096+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:10:13.0311612+00:00"
 }

@@ -1357,9 +1357,9 @@
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
       "SetID": "caeik3h",
       "Name": "The Skeleton War",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEHART",
@@ -1533,9 +1533,9 @@
       "ID": "KR4_ACHIEVEMENT_HAPPY_NEW_YEAR",
       "SetID": "caeik3h",
       "Name": "Happy New Year!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "KR4_ACHIEVEMENT_HEROIC",
@@ -1837,9 +1837,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 156
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1938,8 +1938,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:06:41.815083+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:05:47.0415982+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:59:27.3713785+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:06:41.8151714+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:57.7049808+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:05:47.0416797+00:00"
 }

@@ -21,12 +21,12 @@ Number of Ratings: 292  (23.09.2022)
 | Don't Touch My Stuff | 6.00% | ~64 |
 | The Song of Stoutheart | 5.00% | ~54 |
 | Trojan Horse | 4.00% | ~43 |
+| Ultra Kill | 3.00% | ~32 |
 | Expert Essence Employment | 3.00% | ~32 |
 | This Spot's Taken | 2.00% | ~21 |
 | Deepstrike | 2.00% | ~21 |
 | Infernal Influence | 2.00% | ~21 |
 | From the Ashes | 2.00% | ~21 |
-| Ultra Kill | 2.00% | ~21 |
 | Pyrrhic Victory | 2.00% | ~21 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~21 |
 | In The Thick of It | 1.00% | ~11 |

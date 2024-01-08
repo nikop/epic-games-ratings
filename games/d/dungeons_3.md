@@ -6,16 +6,16 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~32,407 |
+| The Shadow strikes | 70.00% | ~32,408 |
 | The Evilest Evil | 59.00% | ~27,315 |
 | Twistram is devastated | 58.00% | ~26,852 |
 | The Gehenna Stones | 50.00% | ~23,148 |
-| No one has to die today! | 47.00% | ~21,759 |
-| Death and destruction! | 46.00% | ~21,296 |
-| The Swamplanders from the swamplands | 44.00% | ~20,370 |
-| Rusty Steel | 41.00% | ~18,981 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,518 |
-| Braiiiiins! | 38.00% | ~17,592 |
+| No one has to die today! | 47.00% | ~21,760 |
+| Death and destruction! | 46.00% | ~21,297 |
+| The Swamplanders from the swamplands | 44.00% | ~20,371 |
+| Rusty Steel | 41.00% | ~18,982 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,519 |
+| Braiiiiins! | 38.00% | ~17,593 |
 | The last burger | 37.00% | ~17,130 |
 | Hands off the Dungeonheart! | 36.00% | ~16,667 |
 | A trip on sea, what fun it can be | 34.00% | ~15,741 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~8,333 |
 | Flat as a pancake | 17.00% | ~7,870 |
 | Lifeguard | 17.00% | ~7,870 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,944 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,945 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~5,556 |
 | Then let them eat cake! | 12.00% | ~5,556 |
 | The White Knight | 10.00% | ~4,630 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~926 |
 | Sacrifices! | 2.00% | ~926 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,296 (Ranked 127)  
+Progressed: 46,297 (Ranked 127)  
 Completed: 369 (0.80%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 369 (0.80%) (Ranked 190)
 | 2024-01-05 | 46,022 | 369 |
 | 2024-01-06 | 46,150 | 369 |
 | 2024-01-07 | 46,283 | 369 |
-| 2024-01-08 | 46,296 | 369 |
+| 2024-01-08 | 46,297 | 369 |
 ## Awards
 Max (Great for Beginners): 398  (Ranked 239)  
 Sum: 2,847 (Ranked 188)  

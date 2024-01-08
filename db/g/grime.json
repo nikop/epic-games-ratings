@@ -1775,10 +1775,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 444,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-08T03:58:10.3585515+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 447,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 444,
+  "NumberOfAwards": 447,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -1834,12 +1840,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 52
+      "Count": 55
     }
   ],
-  "EOS_Progressed": 167176,
+  "EOS_Progressed": 167186,
   "EOS_Completed": 450,
-  "EOS_NewPlayers": 1346,
+  "EOS_NewPlayers": 1349,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22247,6 +22253,11 @@
       "Time": "2024-01-08T03:04:08.8190435+00:00",
       "NumProgressed": 167176,
       "NumCompleted": 450
+    },
+    {
+      "Time": "2024-01-08T04:03:29.5808728+00:00",
+      "NumProgressed": 167186,
+      "NumCompleted": 450
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22307,7 +22318,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -22323,7 +22334,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -22475,7 +22486,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -22626,21 +22637,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166759,
+      "Progressed": 166769,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167176,
+      "Progressed": 167186,
       "Completed": 450
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-06T15:57:18.5501396+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:04:08.8190431+00:00",
+  "LastChanged": "2024-01-08T03:58:10.3585513+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:03:29.5808725+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:30.7612779+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:04:08.8191589+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:10.3585517+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:03:29.5809892+00:00"
 }

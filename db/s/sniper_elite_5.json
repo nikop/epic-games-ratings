@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -661,9 +661,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4240,
+  "EOS_Progressed": 4241,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9516,6 +9516,11 @@
       "Time": "2024-01-08T01:58:43.5139572+00:00",
       "NumProgressed": 4240,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-08T04:09:34.6269581+00:00",
+      "NumProgressed": 4241,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9735,7 +9740,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9775,7 +9780,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9783,7 +9788,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -9791,7 +9796,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -9903,7 +9908,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -9917,9 +9922,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1145
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9999,7 +10004,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -10094,13 +10099,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4191,
+      "Progressed": 4192,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4240,
+      "Progressed": 4241,
       "Completed": 11
     }
   ],
@@ -10108,8 +10113,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:10:07.5853455+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:09:34.6269576+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:57:34.1765904+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:10:07.5854778+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:57:19.7419679+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:09:34.627091+00:00"
 }

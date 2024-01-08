@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18595,
+  "EOS_Progressed": 18598,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16651,6 +16651,11 @@
       "Time": "2024-01-08T03:07:20.5800712+00:00",
       "NumProgressed": 18595,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-08T04:06:30.6004745+00:00",
+      "NumProgressed": 18598,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16677,9 +16682,9 @@
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2418
     },
     {
       "ID": "12",
@@ -16695,7 +16700,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3347
+      "UsersEstimate": 3348
     },
     {
       "ID": "14",
@@ -16711,7 +16716,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2046
     },
     {
       "ID": "16",
@@ -16727,7 +16732,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2046
     },
     {
       "ID": "18",
@@ -16743,7 +16748,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "2",
@@ -16767,7 +16772,7 @@
       "Name": "Drone Dodger",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2232
     },
     {
       "ID": "22",
@@ -16815,7 +16820,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "28",
@@ -16839,7 +16844,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "30",
@@ -16871,7 +16876,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "7",
@@ -16895,7 +16900,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "31",
@@ -16911,7 +16916,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "33",
@@ -16935,29 +16940,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18595,
+      "Progressed": 18598,
       "Completed": 60
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4549,
-      "Completed": 1249
+      "Progressed": 4552,
+      "Completed": 1250
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-06T19:58:03.9516258+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:07:20.5800709+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:06:30.6004741+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:53.7486162+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:07:20.5801555+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:28.9960529+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:06:30.6005783+00:00"
 }

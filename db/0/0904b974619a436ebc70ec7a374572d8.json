@@ -4,8 +4,8 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.37,
+  "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
     {
       "Time": "2023-10-23T15:08:04.2785758+00:00",
@@ -389,6 +389,11 @@
       "Time": "2024-01-07T18:09:56.502707+00:00",
       "NumProgressed": 73,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T04:09:58.9929116+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T15:08:04.2785789+00:00",
@@ -415,31 +420,31 @@
       "ID": "ach_picklock11",
       "SetID": "753ghg2",
       "Name": "Neighbor\u0027s house",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_picklock12",
       "SetID": "753ghg2",
       "Name": "Sewing factory",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 45,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_picklock13",
       "SetID": "753ghg2",
       "Name": "Butcher shop",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 40,
       "UsersEstimate": 32
     },
@@ -519,7 +524,7 @@
       "ID": "ach_picklock23",
       "SetID": "753ghg2",
       "Name": "Tuning Center",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 45,
       "UsersEstimate": 7
     },
@@ -543,9 +548,9 @@
       "ID": "ach_picklock4",
       "SetID": "753ghg2",
       "Name": "Fix it",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_picklock5",
@@ -567,9 +572,9 @@
       "ID": "ach_picklock7",
       "SetID": "753ghg2",
       "Name": "Good movie",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_picklock8",
@@ -592,14 +597,14 @@
     {
       "ID": "753ghg2",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:10:34.8850704+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:09:58.9929112+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:04.6149953+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:59:08.9460202+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:10:34.8850879+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:42.0674018+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:09:58.9929344+00:00"
 }

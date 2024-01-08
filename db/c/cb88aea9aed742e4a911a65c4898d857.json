@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -293,9 +293,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 10656,
+  "EOS_Progressed": 10659,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1438,
+  "EOS_NewPlayers": 1431,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4058,6 +4058,11 @@
       "Time": "2024-01-08T03:10:36.2810081+00:00",
       "NumProgressed": 10656,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T04:10:00.2238342+00:00",
+      "NumProgressed": 10659,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4174,7 +4179,7 @@
       "Name": "Pentakill",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "16_TheRise",
@@ -4196,9 +4201,9 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1172
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4238,7 +4243,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "24_TheHighrise",
@@ -4318,7 +4323,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4382,7 +4387,7 @@
       "Name": "Jungle Heat",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4390,7 +4395,7 @@
       "Name": "Iron Judgement",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4398,7 +4403,7 @@
       "Name": "No Place Like Home",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -4589,7 +4594,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10656,
+      "Progressed": 10659,
       "Completed": 1
     }
   ],
@@ -4597,8 +4602,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-07T07:57:26.3541054+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:10:36.2810076+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:10:00.2238335+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:02.8722486+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:10:36.2810816+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:57:44.9950524+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:10:00.2239208+00:00"
 }

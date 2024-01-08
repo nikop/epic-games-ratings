@@ -29,9 +29,9 @@ Rating: 4.26 (Ranked 915)
 | Can't Trust Banks | 15.00% | ~378 |
 | Mommy Dearest | 13.00% | ~328 |
 | Bad Dog | 13.00% | ~328 |
+| Where It All Began | 13.00% | ~328 |
 | Risk Tolerant | 13.00% | ~328 |
 | What A Catchy Song | 13.00% | ~328 |
-| Where It All Began | 12.00% | ~303 |
 | Sorry, Didn't See You There | 12.00% | ~303 |
 | Corrupted Beauty | 11.00% | ~277 |
 | Marked For Success | 11.00% | ~277 |

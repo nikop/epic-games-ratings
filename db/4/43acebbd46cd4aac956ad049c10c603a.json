@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -307,9 +307,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 1317,
+  "EOS_Progressed": 1318,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3757,6 +3757,11 @@
       "Time": "2024-01-08T00:05:38.3909018+00:00",
       "NumProgressed": 1317,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T04:06:02.234144+00:00",
+      "NumProgressed": 1318,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3777,7 +3782,7 @@
       "Name": "Ab Initio",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "AnthropicHills",
@@ -3953,7 +3958,7 @@
       "Name": "Lord of the Files",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "LostMarshes",
@@ -3993,7 +3998,7 @@
       "Name": "Museum Visitor",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "NewBeginning",
@@ -4025,7 +4030,7 @@
       "Name": "Overload",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "Persistent",
@@ -4129,7 +4134,7 @@
       "Name": "The All-Gifted",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4177,7 +4182,7 @@
       "Name": "The Word Endures",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "TouchGrass",
@@ -4185,7 +4190,7 @@
       "Name": "Touch Grass",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "TrevorsBiographer",
@@ -4233,14 +4238,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1317,
+      "Progressed": 1318,
       "Completed": 2
     }
   ],
@@ -4248,8 +4253,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-07T13:01:07.63286+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:06:51.647966+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:06:02.2341437+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:24.5874417+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:06:51.6480286+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:04.768178+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:06:02.2342143+00:00"
 }

@@ -375,9 +375,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2306,
+  "EOS_Progressed": 2307,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4185,6 +4185,11 @@
       "Time": "2024-01-08T03:06:00.1543555+00:00",
       "NumProgressed": 2306,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T04:05:09.7511555+00:00",
+      "NumProgressed": 2307,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4330,9 +4335,9 @@
       "ID": "Achievement_019",
       "SetID": "6b34g18",
       "Name": "I Like My Stakes Rare!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 484
     },
     {
       "ID": "Achievement_020",
@@ -4500,7 +4505,7 @@
       "Name": "Heart Attack",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Achievement_041",
@@ -4530,9 +4535,9 @@
       "ID": "Achievement_045",
       "SetID": "6b34g18",
       "Name": "Skin of Their Teeth",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 161
     },
     {
       "ID": "Achievement_046",
@@ -4723,7 +4728,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2306,
+      "Progressed": 2307,
       "Completed": 0
     }
   ],
@@ -4731,8 +4736,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-07T04:01:29.1090541+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:06:00.1543552+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:05:09.7511551+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:59:51.8460814+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:06:00.1544276+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:59:18.8440551+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:05:09.75122+00:00"
 }

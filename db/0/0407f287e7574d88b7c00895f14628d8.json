@@ -836,9 +836,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "dl2",
@@ -884,9 +884,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "fw2",
@@ -1219,8 +1219,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:05:16.9550832+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:04:30.6907566+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:03:41.3976298+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:05:16.9551211+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:03:03.9643394+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:04:30.6907902+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,413 |
-| Life is your teacher | 5.00% | ~37,844 |
-| The Assault | 4.00% | ~30,275 |
-| Lightning Hands | 4.00% | ~30,275 |
-| The Hateful Pole Fighter | 3.00% | ~22,706 |
-| State of constant learning | 3.00% | ~22,706 |
-| Old Child | 3.00% | ~22,706 |
+| The Old Grandmaster | 6.00% | ~45,414 |
+| Life is your teacher | 5.00% | ~37,845 |
+| The Assault | 4.00% | ~30,276 |
+| Lightning Hands | 4.00% | ~30,276 |
+| The Hateful Pole Fighter | 3.00% | ~22,707 |
+| State of constant learning | 3.00% | ~22,707 |
+| Old Child | 3.00% | ~22,707 |
 | A Lady's Blood in the Snow | 2.00% | ~15,138 |
 | Lady Wing Chun | 2.00% | ~15,138 |
 | Kill Nil | 2.00% | ~15,138 |
@@ -31,18 +31,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,569 |
 | Take damage to save time | 1.00% | ~7,569 |
 | Project Arena | 1.00% | ~662 |
-| Fight the way you practice | 0.80% | ~529 |
+| Fight the way you practice | 0.80% | ~530 |
 | Muk Yan Master | 0.70% | ~5,298 |
 | Tiger on Fire | 0.60% | ~4,541 |
 | Source of Flying Daggers | 0.60% | ~4,541 |
 | Detective Story | 0.60% | ~4,541 |
 | Bloody Sport | 0.60% | ~397 |
 | Martial Hub | 0.60% | ~397 |
-| Iron Money | 0.50% | ~3,784 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,784 |
-| Prodigal Child | 0.50% | ~3,784 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,784 |
-| Sword Stained With Blood | 0.50% | ~3,784 |
+| Iron Money | 0.50% | ~3,785 |
+| Legendary Talismans of Wuxing | 0.50% | ~3,785 |
+| Prodigal Child | 0.50% | ~3,785 |
+| The 36th Chamber of Kung-Fu | 0.50% | ~3,785 |
+| Sword Stained With Blood | 0.50% | ~3,785 |
 | The best strikes are the ones we avoid | 0.40% | ~265 |
 | Drunken Fighter | 0.30% | ~2,271 |
 | Martial Artist | 0.30% | ~2,271 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~66 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756,881 (Ranked 25)  
+Progressed: 756,903 (Ranked 25)  
 Completed: 12,977 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 12,977 (1.71%) (Ranked 142)
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
 | 2024-01-07 | 756,813 | 12,976 |
-| 2024-01-08 | 756,881 | 12,977 |
+| 2024-01-08 | 756,903 | 12,977 |
 ## Awards
 Max (Great Boss Battles): 7,148  (Ranked 55)  
 Sum: 12,638 (Ranked 85)  

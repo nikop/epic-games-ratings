@@ -5,9 +5,9 @@ Rating: 4.29 (Ranked 881)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~166,055 |
-| Copacetic Coordination | 16.00% | ~57,758 |
-| Fronting the Money | 15.00% | ~54,148 |
+| Corner Clout | 46.00% | ~166,057 |
+| Copacetic Coordination | 16.00% | ~57,759 |
+| Fronting the Money | 15.00% | ~54,149 |
 | The Dawn of Automation | 14.00% | ~50,539 |
 | Extraordinary Logistics | 14.00% | ~50,539 |
 | Dirty Money | 13.00% | ~46,929 |
@@ -20,15 +20,15 @@ Rating: 4.29 (Ranked 881)
 | Neighborhood Watch | 10.00% | ~36,099 |
 | Core Corps | 8.00% | ~28,879 |
 | Sizeable Stash | 8.00% | ~28,879 |
-| Street Fighter | 7.00% | ~25,269 |
-| Friendly Gestures | 7.00% | ~25,269 |
-| People Person | 7.00% | ~25,269 |
-| Liquor Lord | 6.00% | ~21,659 |
-| Safety in Numbers | 6.00% | ~21,659 |
-| Moving Experiences | 6.00% | ~21,659 |
-| Wise Head | 6.00% | ~21,659 |
-| Show ‘em the Sugar | 6.00% | ~21,659 |
-| Killing Them Softly | 6.00% | ~21,659 |
+| Street Fighter | 7.00% | ~25,270 |
+| Friendly Gestures | 7.00% | ~25,270 |
+| People Person | 7.00% | ~25,270 |
+| Liquor Lord | 6.00% | ~21,660 |
+| Safety in Numbers | 6.00% | ~21,660 |
+| Moving Experiences | 6.00% | ~21,660 |
+| Wise Head | 6.00% | ~21,660 |
+| Show ‘em the Sugar | 6.00% | ~21,660 |
+| Killing Them Softly | 6.00% | ~21,660 |
 | Street Knowledge | 5.00% | ~18,050 |
 | Oh Captain | 5.00% | ~18,050 |
 | Branching Out | 5.00% | ~18,050 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 881)
 | High Pillow | 0.10% | ~361 |
 | Station Master | 0.10% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 360,990 (Ranked 57)  
+Progressed: 360,993 (Ranked 57)  
 Completed: 7 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 7 (0.00%) (Ranked 393)
 | 2024-01-05 | 360,566 | 7 |
 | 2024-01-06 | 360,754 | 7 |
 | 2024-01-07 | 360,959 | 7 |
-| 2024-01-08 | 360,990 | 7 |
+| 2024-01-08 | 360,993 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 433)  
 Sum: 269 (Ranked 392)  

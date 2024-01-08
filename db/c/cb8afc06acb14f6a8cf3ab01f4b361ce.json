@@ -473,9 +473,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 342702,
+  "EOS_Progressed": 342717,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3744,
+  "EOS_NewPlayers": 3741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12563,6 +12563,11 @@
       "Time": "2024-01-08T03:09:25.5940258+00:00",
       "NumProgressed": 342702,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T04:08:57.3301822+00:00",
+      "NumProgressed": 342717,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12575,7 +12580,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17135
+      "UsersEstimate": 17136
     },
     {
       "ID": "S02_BRDA",
@@ -12583,7 +12588,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10281
+      "UsersEstimate": 10282
     },
     {
       "ID": "S03_OTWA",
@@ -12711,7 +12716,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17135
+      "UsersEstimate": 17136
     },
     {
       "ID": "S19_CHALLENGES",
@@ -12894,7 +12899,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 342702,
+      "Progressed": 342717,
       "Completed": 7
     }
   ],
@@ -12902,8 +12907,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-07T09:59:57.3535769+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:09:25.5940255+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:08:57.3301818+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.1079824+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:00:05.3630216+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:09:25.5941035+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:59:29.4620738+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:08:57.3302954+00:00"
 }

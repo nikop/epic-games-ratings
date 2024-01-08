@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1392,
+  "EOS_Progressed": 1393,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3679,6 +3679,11 @@
       "Time": "2024-01-08T01:59:31.1519735+00:00",
       "NumProgressed": 1392,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T04:10:10.913895+00:00",
+      "NumProgressed": 1393,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3690,7 +3695,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3706,7 +3711,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3730,7 +3735,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3762,7 +3767,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3938,7 +3943,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -3962,7 +3967,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -3970,7 +3975,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3986,7 +3991,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4010,7 +4015,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4042,7 +4047,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -4106,7 +4111,7 @@
       "Name": "Reading and More Reading",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -4122,7 +4127,7 @@
       "Name": "The Last of Us",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4217,14 +4222,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1392,
+      "Progressed": 1393,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:10:48.0565326+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:10:10.9138947+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:59:02.1671075+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:10:48.0566041+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:36.3811298+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:10:10.91397+00:00"
 }

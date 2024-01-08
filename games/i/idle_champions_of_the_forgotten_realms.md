@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,102 |
+| A Brief Tour of the Realms | 4.00% | ~10,103 |
 | The Cursed Farmer | 2.00% | ~5,051 |
 | Beast Intentions | 1.00% | ~2,526 |
 | The Mad Wizard | 1.00% | ~2,526 |
-| The Ring of Regeneration | 0.80% | ~2,020 |
+| The Ring of Regeneration | 0.80% | ~2,021 |
+| Are Ya Chicken? | 0.80% | ~2,021 |
 | Welcome to Sigil | 0.80% | ~1,751 |
 | Were-verpowered | 0.70% | ~1,768 |
-| Are Ya Chicken? | 0.70% | ~1,768 |
 | Seeking Allies | 0.60% | ~1,515 |
 | Mad Cow Disease | 0.60% | ~1,515 |
 | Friendly Imps | 0.60% | ~1,515 |
@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.20% | ~505 |
 | Close Escort | 0.20% | ~505 |
 | Constant Banditry | 0.20% | ~505 |
+| Easily Distracted | 0.20% | ~505 |
 | Underdeep Cartography | 0.20% | ~505 |
 | Overdue Rendezvous | 0.20% | ~505 |
 | The Templar's Camp | 0.20% | ~505 |
@@ -425,7 +426,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only Human | 0.10% | ~219 |
 | The Long Haul | 0.10% | ~253 |
 | Lost in the Deep | 0.10% | ~253 |
-| Easily Distracted | 0.10% | ~253 |
 | Rude Welcome | 0.10% | ~253 |
 | Moose Tracks | 0.10% | ~219 |
 | An Awakened Axe | 0.10% | ~219 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,562 (Ranked 70)  
-Completed: 2,599 (1.03%) (Ranked 174)  
+Progressed: 252,572 (Ranked 70)  
+Completed: 2,600 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -816,7 +816,7 @@ Completed: 2,599 (1.03%) (Ranked 174)
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
 | 2024-01-07 | 252,516 | 2,599 |
-| 2024-01-08 | 252,562 | 2,599 |
+| 2024-01-08 | 252,572 | 2,600 |
 ## Awards
 Max (Great for Beginners): 5,756  (Ranked 74)  
 Sum: 33,386 (Ranked 41)  

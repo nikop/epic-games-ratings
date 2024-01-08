@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1118,
+  "EOS_Progressed": 1117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -11,
+  "EOS_NewPlayers": -12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2547,6 +2547,11 @@
       "Time": "2024-01-08T01:57:26.1885437+00:00",
       "NumProgressed": 1118,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T04:08:37.0726612+00:00",
+      "NumProgressed": 1117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2598,7 +2603,7 @@
       "Name": "First Blood",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 783
+      "UsersEstimate": 782
     },
     {
       "ID": "07",
@@ -2612,9 +2617,9 @@
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 357
     },
     {
       "ID": "09",
@@ -2686,7 +2691,7 @@
       "Name": "Ready to Learn",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 749
+      "UsersEstimate": 748
     },
     {
       "ID": "18",
@@ -2694,7 +2699,7 @@
       "Name": "Earning Trust",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 604
+      "UsersEstimate": 603
     },
     {
       "ID": "19",
@@ -2741,7 +2746,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1118,
+      "Progressed": 1117,
       "Completed": 1
     }
   ],
@@ -2749,8 +2754,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:09:02.4960783+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:08:37.0726607+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:03:36.3455116+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:09:02.4961129+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:02:59.214624+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:08:37.0726987+00:00"
 }

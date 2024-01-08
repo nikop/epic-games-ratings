@@ -34,13 +34,13 @@ Number of Ratings: 37  (23.09.2022)
 | An honorable Governor II | 5.00% | ~222 |
 | A time consuming game III | 5.00% | ~222 |
 | Conflicting parties | 5.00% | ~222 |
-| Another one bites the dust | 4.00% | ~177 |
-| I like to build stuff... IV | 4.00% | ~177 |
-| Experienced decorator | 4.00% | ~177 |
-| My precious... I | 4.00% | ~177 |
-| Full-time job III | 4.00% | ~177 |
-| Tax-man IV | 4.00% | ~177 |
-| Tools of the trade II | 4.00% | ~177 |
+| Another one bites the dust | 4.00% | ~178 |
+| I like to build stuff... IV | 4.00% | ~178 |
+| Experienced decorator | 4.00% | ~178 |
+| My precious... I | 4.00% | ~178 |
+| Full-time job III | 4.00% | ~178 |
+| Tax-man IV | 4.00% | ~178 |
+| Tools of the trade II | 4.00% | ~178 |
 | Bread for the people III | 3.00% | ~133 |
 | Five brews are a schnitzel | 3.00% | ~133 |
 | I like to build stuff... V | 3.00% | ~133 |
@@ -76,9 +76,9 @@ Number of Ratings: 37  (23.09.2022)
 | Builder V | 0.90% | ~40 |
 | Ten-Hut! | 0.90% | ~40 |
 | The wood shortage | 0.90% | ~40 |
-| Last man standing | 0.80% | ~35 |
-| Buried | 0.80% | ~35 |
-| Penny pincher | 0.80% | ~35 |
+| Last man standing | 0.80% | ~36 |
+| Buried | 0.80% | ~36 |
+| Penny pincher | 0.80% | ~36 |
 | Craftsmen challenge | 0.70% | ~31 |
 | Impregnable | 0.70% | ~31 |
 | To serve and protect | 0.70% | ~31 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,437 (Ranked 207)  
+Progressed: 4,438 (Ranked 207)  
 Completed: 4 (0.09%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 4 (0.09%) (Ranked 316)
 | 2024-01-05 | 4,423 | 4 |
 | 2024-01-06 | 4,429 | 4 |
 | 2024-01-07 | 4,434 | 4 |
-| 2024-01-08 | 4,437 | 4 |
+| 2024-01-08 | 4,438 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

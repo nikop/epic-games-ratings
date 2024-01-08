@@ -4,7 +4,7 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_NewPlayers": 483,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -371,9 +371,9 @@
       "ID": "achievements.completemission.master.02",
       "SetID": "1kd1942",
       "Name": "Beams of Steel",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievements.completemission.master.03",
@@ -474,8 +474,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:04:53.832179+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:04:09.7989834+00:00",
   "LastUpdate_AppInfo": "2024-01-05T20:57:01.0999284+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:20.8097554+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:04:53.8321891+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:01.4039619+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:04:09.7989957+00:00"
 }

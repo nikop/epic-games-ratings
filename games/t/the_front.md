@@ -3,12 +3,12 @@
 [View Rawdata](../../db/t/the_front.json)  
 Rating: 4.05 (Ranked 1,037)  
 ## Awards
-Max (Great for Beginners): 31  (Ranked 520)  
-Sum: 53 (Ranked 503)  
-Diff (max vs sum): 17  
+Max (Great for Beginners): 32  (Ranked 517)  
+Sum: 54 (Ranked 502)  
+Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 31 |
+| This game is Great for Beginners | 32 |
 | This game is Highly Recommended | 22 |
 | This game is Relaxing | 20 |
 ## Ratings History
@@ -67,3 +67,4 @@ Diff (max vs sum): 17
 | 2024-01-05 | 4.02 | 31 | 73 |
 | 2024-01-06 | 4.05 | 31 | 73 |
 | 2024-01-07 | 4.05 | 31 | 53 |
+| 2024-01-08 | 4.05 | 32 | 54 |

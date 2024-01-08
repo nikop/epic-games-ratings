@@ -22,7 +22,7 @@ Rating: 4.63 (Ranked 357)
 | Higher Tax Bracket | 1.00% | ~89 |
 | Oui, Chef! | 1.00% | ~89 |
 | Botanical Breakthrough | 1.00% | ~89 |
-| Exit Through The Gift Shop | 1.00% | ~15 |
+| Exit Through The Gift Shop | 1.00% | ~16 |
 | Skilled | 0.90% | ~80 |
 | Flaming Hot Completos | 0.80% | ~71 |
 | Azorian Anniversary | 0.80% | ~71 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 357)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,931 (Ranked 185)  
+Progressed: 8,933 (Ranked 185)  
 Completed: 1 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 1 (0.01%) (Ranked 372)
 | 2024-01-05 | 8,888 | 1 |
 | 2024-01-06 | 8,910 | 1 |
 | 2024-01-07 | 8,929 | 1 |
-| 2024-01-08 | 8,931 | 1 |
+| 2024-01-08 | 8,933 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

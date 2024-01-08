@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9391,10 +9391,10 @@
       "Count": 3631
     }
   ],
-  "EOS_Progressed": 252562,
-  "EOS_Completed": 2599,
-  "EOS_NewPlayers": 3819,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 252572,
+  "EOS_Completed": 2600,
+  "EOS_NewPlayers": 3801,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39146,6 +39146,11 @@
       "Time": "2024-01-08T03:10:52.124642+00:00",
       "NumProgressed": 252562,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-08T04:10:15.1187854+00:00",
+      "NumProgressed": 252572,
+      "NumCompleted": 2600
     }
   ],
   "TotalAchievements": 546,
@@ -39157,7 +39162,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10102
+      "UsersEstimate": 10103
     },
     {
       "ID": "objective_completed_10",
@@ -40837,7 +40842,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "objective_completed_35",
@@ -41019,9 +41024,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1768
+      "UsersEstimate": 2021
     },
     {
       "ID": "objective_completed_40",
@@ -42347,9 +42352,9 @@
       "ID": "objective_completed_76",
       "SetID": "cc37lbc",
       "Name": "Easily Distracted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 505
     },
     {
       "ID": "objective_completed_77",
@@ -43524,21 +43529,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218836,
+      "Progressed": 218846,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252562,
-      "Completed": 2599
+      "Progressed": 252572,
+      "Completed": 2600
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-07T12:00:01.0036284+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:10:52.1246417+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:10:15.1187849+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:57:24.9970941+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:10:52.1270791+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:57:12.2402459+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:10:15.1211156+00:00"
 }

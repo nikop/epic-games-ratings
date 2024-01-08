@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1918,
+  "EOS_Progressed": 1919,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -3444,6 +3444,11 @@
       "Time": "2024-01-07T23:07:09.5738555+00:00",
       "NumProgressed": 1918,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-08T04:06:07.8363902+00:00",
+      "NumProgressed": 1919,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3463,7 +3468,7 @@
       "Name": "Perfect timing",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "11",
@@ -3487,7 +3492,7 @@
       "Name": "Unstoppable",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "14",
@@ -3694,15 +3699,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1918,
+      "Progressed": 1919,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:06:57.8888862+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:06:07.8363899+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:13.3432605+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:06:57.8889255+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:57:54.69712+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:06:07.8364337+00:00"
 }

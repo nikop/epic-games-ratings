@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~909 |
+| Malpractice Assurance | 13.00% | ~910 |
 | Lost and Found | 8.00% | ~560 |
 | Autodidact | 7.00% | ~9,249 |
 | This Belongs in a Museum | 6.00% | ~7,928 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,127 (Ranked 91)  
+Progressed: 132,128 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,10 +339,10 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,127 | 3 |
+| 2024-01-08 | 132,128 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
-Sum: 21,524 (Ranked 58)  
+Sum: 21,525 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -355,7 +355,7 @@ Diff (max vs sum): -8
 | This game has Unique Visuals | 1,461 |
 | This game has Amazing Storytelling | 1,438 |
 | This game has Quickly Understood Controls | 1,411 |
-| This game has a Creative Community | 1,083 |
+| This game has a Creative Community | 1,084 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -706,4 +706,4 @@ Diff (max vs sum): -8
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
-| 2024-01-08 | 4.68 | - | 7,986 | 21,524 |
+| 2024-01-08 | 4.68 | - | 7,986 | 21,525 |

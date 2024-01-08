@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16505,
+  "EOS_Progressed": 16508,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6160,6 +6160,11 @@
       "Time": "2024-01-08T02:34:00.6050261+00:00",
       "NumProgressed": 16505,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-08T04:09:35.4173045+00:00",
+      "NumProgressed": 16508,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6172,7 +6177,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6272
+      "UsersEstimate": 6273
     },
     {
       "ID": "ACH_AE_10",
@@ -6180,7 +6185,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "ACH_AE_11",
@@ -6204,7 +6209,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12379
+      "UsersEstimate": 12381
     },
     {
       "ID": "ACH_AE_14",
@@ -6212,7 +6217,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "ACH_AE_15",
@@ -6220,7 +6225,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3631
+      "UsersEstimate": 3632
     },
     {
       "ID": "ACH_AE_16",
@@ -6260,7 +6265,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3962
     },
     {
       "ID": "ACH_AE_20",
@@ -6268,7 +6273,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACH_AE_21",
@@ -6284,7 +6289,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3962
     },
     {
       "ID": "ACH_AE_23",
@@ -6308,7 +6313,7 @@
       "Name": "Family History",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACH_AE_26",
@@ -6372,7 +6377,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "ACH_AE_33",
@@ -6420,7 +6425,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "ACH_AE_7",
@@ -6428,7 +6433,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACH_AE_8",
@@ -6436,7 +6441,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACH_AE_9",
@@ -6444,14 +6449,14 @@
       "Name": "Paradise Lost",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16505,
+      "Progressed": 16508,
       "Completed": 15
     }
   ],
@@ -6459,8 +6464,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:10:08.4329117+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:09:35.4173039+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:09.1565004+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:10:08.4329659+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:57:51.1151808+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:09:35.4173619+00:00"
 }

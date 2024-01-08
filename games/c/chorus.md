@@ -6,27 +6,27 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~1,175 |
-| Space Traveler | 77.00% | ~1,077 |
-| Voices from the Past | 76.00% | ~1,063 |
-| Demigod | 74.00% | ~1,035 |
-| The Great Destroyer | 72.00% | ~1,007 |
-| Shields Down | 70.00% | ~979 |
-| Helping Hand | 65.00% | ~909 |
-| Safe Home | 65.00% | ~909 |
-| Paragon | 61.00% | ~853 |
-| Old Days Born Anew | 59.00% | ~825 |
-| Full Arsenal | 54.00% | ~755 |
-| Controlled Demolition | 53.00% | ~741 |
-| Payback | 51.00% | ~713 |
-| Huntress | 51.00% | ~713 |
+| Another Life | 84.00% | ~1,176 |
+| Space Traveler | 77.00% | ~1,078 |
+| Voices from the Past | 76.00% | ~1,064 |
+| Demigod | 74.00% | ~1,036 |
+| The Great Destroyer | 72.00% | ~1,008 |
+| Shields Down | 70.00% | ~980 |
+| Helping Hand | 65.00% | ~910 |
+| Safe Home | 65.00% | ~910 |
+| Paragon | 61.00% | ~854 |
+| Old Days Born Anew | 59.00% | ~826 |
+| Full Arsenal | 54.00% | ~756 |
+| Controlled Demolition | 53.00% | ~742 |
+| Payback | 51.00% | ~714 |
+| Huntress | 51.00% | ~714 |
 | Born to Drift | 49.00% | ~686 |
 | Relentless | 47.00% | ~658 |
 | The Path Forward | 44.00% | ~616 |
 | Phoenix | 43.00% | ~602 |
 | Disruption | 42.00% | ~588 |
 | Cult Slayer | 39.00% | ~546 |
-| Origin | 38.00% | ~532 |
+| Origin | 39.00% | ~546 |
 | It Was An Accident | 38.00% | ~532 |
 | Set in Motion | 37.00% | ~518 |
 | In the Eye of the Storm | 36.00% | ~504 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 10.00% | ~140 |
 | At Least You Tried | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,399 (Ranked 271)  
+Progressed: 1,400 (Ranked 271)  
 Completed: 18 (1.29%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 18 (1.29%) (Ranked 155)
 | 2024-01-05 | 1,387 | 18 |
 | 2024-01-06 | 1,391 | 18 |
 | 2024-01-07 | 1,398 | 18 |
-| 2024-01-08 | 1,399 | 18 |
+| 2024-01-08 | 1,400 | 18 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 502)  
 Sum: 35 (Ranked 532)  

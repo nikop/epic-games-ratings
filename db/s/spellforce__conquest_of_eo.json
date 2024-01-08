@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 128,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2024-01-07T23:10:02.7847583+00:00",
       "NumProgressed": 127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T04:09:38.9271423+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -662,9 +667,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "Build_First_Room",
@@ -680,7 +685,7 @@
       "Name": "Redecorating",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Capture_Own_Tower",
@@ -688,7 +693,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Cast_First_Spell",
@@ -696,7 +701,7 @@
       "Name": "A kind of Magic",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Circle_Page",
@@ -712,7 +717,7 @@
       "Name": "Artificer\u0027s Apprentice",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Craft_First_Potion",
@@ -728,7 +733,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Defeat_Gor",
@@ -736,7 +741,7 @@
       "Name": "Defeat Gor",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Defeat_Hokan",
@@ -750,9 +755,9 @@
       "ID": "Defeat_Ianna",
       "SetID": "7b9f97e",
       "Name": "Defeat Ianna",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Defeat_Isgrimm",
@@ -782,9 +787,9 @@
       "ID": "Defeat_Undergast",
       "SetID": "7b9f97e",
       "Name": "Defeat Undergast",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Defeat_Uram",
@@ -792,7 +797,7 @@
       "Name": "Defeat Uram",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Defeat_Yria",
@@ -808,7 +813,7 @@
       "Name": "Slave to the rhythm",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "First_LevelUp",
@@ -816,7 +821,7 @@
       "Name": "First to the post",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "First_Node_Meld",
@@ -824,7 +829,7 @@
       "Name": "Connected",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Harvest_First_Plant",
@@ -838,9 +843,9 @@
       "ID": "HeroStory_Elynn",
       "SetID": "7b9f97e",
       "Name": "Elynn\u0027s Tale",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "HeroStory_Lore",
@@ -872,7 +877,7 @@
       "Name": "Yngrid\u0027s Tale",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Landmark_CastleMeldec",
@@ -880,7 +885,7 @@
       "Name": "Castle Meldec",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Landmark_CryptRevenant",
@@ -904,7 +909,7 @@
       "Name": "The Forge of Regan Gor",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Landmark_SilverDriftMine",
@@ -936,7 +941,7 @@
       "Name": "Tuscari Sea Portal",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Landmark_UramGorForge",
@@ -984,7 +989,7 @@
       "Name": "Mage Teacher",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MainCampaign_CirclePage_Heroes",
@@ -1046,9 +1051,9 @@
       "ID": "Max_Reputation_Alluvyan",
       "SetID": "7b9f97e",
       "Name": "Friend of Alluvyan",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "Max_Reputation_Coldmark",
@@ -1206,16 +1211,16 @@
       "ID": "Zombify_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Bad JuJu",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 128,
       "Completed": 0
     }
   ],
@@ -1223,8 +1228,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:10:12.3374969+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:09:38.9271415+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:03:30.2639322+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:10:12.3375622+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:02:54.0673523+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:09:38.927198+00:00"
 }

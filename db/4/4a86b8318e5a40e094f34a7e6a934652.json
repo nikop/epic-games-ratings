@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523,
+  "EOS_Progressed": 524,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2164,6 +2164,11 @@
       "Time": "2024-01-08T01:56:20.0559006+00:00",
       "NumProgressed": 523,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T04:06:33.0897715+00:00",
+      "NumProgressed": 524,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2176,7 +2181,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2184,7 +2189,7 @@
       "Name": "Design Engineer",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "BRING_MARY",
@@ -2192,7 +2197,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2216,7 +2221,7 @@
       "Name": "Fisherman",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2232,15 +2237,15 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 231
     },
     {
       "ID": "HOUSEWARMING",
@@ -2248,7 +2253,7 @@
       "Name": "A Party to Remember!",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LUNCH_LEECH",
@@ -2256,7 +2261,7 @@
       "Name": "Leech Lunch",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2272,7 +2277,7 @@
       "Name": "Tough Guy",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2320,7 +2325,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2328,21 +2333,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 523,
+      "Progressed": 524,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:07:23.416081+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:06:33.0897708+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:59:00.2334192+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:07:23.4161031+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:34.6171539+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:06:33.089802+00:00"
 }

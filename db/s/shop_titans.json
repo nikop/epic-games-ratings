@@ -8009,10 +8009,16 @@
       "Rating": 4,
       "NumberOfAwards": 27957,
       "NumberOfAwardsMax": 4946
+    },
+    {
+      "Time": "2024-01-08T04:03:16.706307+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 27959,
+      "NumberOfAwardsMax": 4946
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27957,
+  "NumberOfAwards": 27959,
   "NumberOfAwardsMax": 4946,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8026,7 +8032,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4027
+      "Count": 4029
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8065,9 +8071,9 @@
       "Count": 3817
     }
   ],
-  "EOS_Progressed": 150217,
+  "EOS_Progressed": 150223,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1485,
+  "EOS_NewPlayers": 1482,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35800,6 +35806,11 @@
       "Time": "2024-01-08T03:09:07.7220379+00:00",
       "NumProgressed": 150217,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-08T04:08:41.687878+00:00",
+      "NumProgressed": 150223,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -35979,7 +35990,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16524
+      "UsersEstimate": 16525
     },
     {
       "ID": "chest02",
@@ -36075,7 +36086,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10515
+      "UsersEstimate": 10516
     },
     {
       "ID": "craft02",
@@ -36187,7 +36198,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10515
+      "UsersEstimate": 10516
     },
     {
       "ID": "expansion02",
@@ -36587,7 +36598,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10515
+      "UsersEstimate": 10516
     },
     {
       "ID": "sell02",
@@ -36706,15 +36717,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150217,
+      "Progressed": 150223,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-08T01:52:14.0317643+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:09:07.7220374+00:00",
+  "LastChanged": "2024-01-08T04:03:16.7063067+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:08:41.6878777+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:03:55.5707867+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:09:07.7222833+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:03:16.7063074+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:08:41.6881243+00:00"
 }

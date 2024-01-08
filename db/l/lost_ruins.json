@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 680,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1884,6 +1884,11 @@
       "Time": "2024-01-08T00:09:28.1967137+00:00",
       "NumProgressed": 679,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T04:10:06.5283782+00:00",
+      "NumProgressed": 680,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1927,7 +1932,7 @@
       "Name": "Boss Killer",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "BugHunter",
@@ -2079,7 +2084,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Pyromancer",
@@ -2151,7 +2156,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "TheFallen",
@@ -2214,7 +2219,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 680,
       "Completed": 1
     }
   ],
@@ -2222,8 +2227,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:10:43.1015242+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:10:06.5283776+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:00:36.6085469+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:10:43.1015714+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:59:57.5872921+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:10:06.5284471+00:00"
 }

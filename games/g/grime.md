@@ -6,9 +6,9 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hunt | 3.00% | ~5,015 |
-| Taste | 3.00% | ~5,015 |
-| Imprint | 3.00% | ~5,015 |
+| The Hunt | 3.00% | ~5,016 |
+| Taste | 3.00% | ~5,016 |
+| Imprint | 3.00% | ~5,016 |
 | Weeper | 2.00% | ~3,344 |
 | Ravenous | 2.00% | ~3,344 |
 | Silenced Whispers | 1.00% | ~1,672 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~167 |
 | Intensify | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,176 (Ranked 84)  
+Progressed: 167,186 (Ranked 84)  
 Completed: 450 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,10 +293,10 @@ Completed: 450 (0.27%) (Ranked 259)
 | 2024-01-05 | 166,702 | 445 |
 | 2024-01-06 | 166,913 | 446 |
 | 2024-01-07 | 167,144 | 449 |
-| 2024-01-08 | 167,176 | 450 |
+| 2024-01-08 | 167,186 | 450 |
 ## Awards
 Max (Unique Visuals): 62  (Ranked 429)  
-Sum: 444 (Ranked 343)  
+Sum: 447 (Ranked 343)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
@@ -306,7 +306,7 @@ Diff (max vs sum): 86
 | This game has Quickly Understood Controls | 58 |
 | This game has Amazing Storytelling | 58 |
 | This game is Extremely Fun | 56 |
-| This game has Amazing Characters | 52 |
+| This game has Amazing Characters | 55 |
 | This game has a Creative Community | 40 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -488,3 +488,4 @@ Diff (max vs sum): 86
 | 2024-01-04 | 4.59 | - | 61 | 441 |
 | 2024-01-05 | 4.60 | - | 62 | 442 |
 | 2024-01-06 | 4.59 | - | 62 | 444 |
+| 2024-01-08 | 4.59 | - | 62 | 447 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8817,9 +8817,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 756881,
+  "EOS_Progressed": 756903,
   "EOS_Completed": 12977,
-  "EOS_NewPlayers": 6380,
+  "EOS_NewPlayers": 6363,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -32807,6 +32807,11 @@
       "Time": "2024-01-08T03:09:53.4945825+00:00",
       "NumProgressed": 756881,
       "NumCompleted": 12977
+    },
+    {
+      "Time": "2024-01-08T04:09:22.1285952+00:00",
+      "NumProgressed": 756903,
+      "NumCompleted": 12977
     }
   ],
   "TotalAchievements": 60,
@@ -32818,7 +32823,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45413
+      "UsersEstimate": 45414
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32826,7 +32831,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30275
+      "UsersEstimate": 30276
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32834,7 +32839,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22706
+      "UsersEstimate": 22707
     },
     {
       "ID": "04_Vengeance_H3",
@@ -32890,7 +32895,7 @@
       "Name": "Iron Money",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3784
+      "UsersEstimate": 3785
     },
     {
       "ID": "11_Wude_H5",
@@ -32898,7 +32903,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3784
+      "UsersEstimate": 3785
     },
     {
       "ID": "12_MidAge",
@@ -32914,7 +32919,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3784
+      "UsersEstimate": 3785
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -32994,7 +32999,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37844
+      "UsersEstimate": 37845
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33002,7 +33007,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22706
+      "UsersEstimate": 22707
     },
     {
       "ID": "25_ShrineMind",
@@ -33034,7 +33039,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 3784
+      "UsersEstimate": 3785
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -33066,7 +33071,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22706
+      "UsersEstimate": 22707
     },
     {
       "ID": "33_BladeOneShot",
@@ -33074,7 +33079,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3784
+      "UsersEstimate": 3785
     },
     {
       "ID": "34_TimedTakedown",
@@ -33082,7 +33087,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30275
+      "UsersEstimate": 30276
     },
     {
       "ID": "35_WideStrike",
@@ -33282,7 +33287,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -33297,21 +33302,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 66182,
+      "Progressed": 66204,
       "Completed": 10800
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 756881,
+      "Progressed": 756903,
       "Completed": 12977
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-07T15:02:59.3709849+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:09:53.4945822+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:09:22.1285947+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:03:44.9933663+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:09:53.4947816+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:03:07.0761552+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:09:22.1288012+00:00"
 }

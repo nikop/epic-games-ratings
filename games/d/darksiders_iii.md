@@ -28,18 +28,18 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 33.00% | ~163 |
 | Love Tap | 32.00% | ~158 |
 | Maximum Vigor | 31.00% | ~153 |
+| For Whom the Bell Tolls | 29.00% | ~143 |
 | Freeze Frame | 28.00% | ~138 |
 | Eat Your Heart Out | 28.00% | ~138 |
-| For Whom the Bell Tolls | 28.00% | ~138 |
 | Unyielding Strength | 26.00% | ~128 |
+| Crowd Source | 25.00% | ~123 |
 | Big Spender | 25.00% | ~123 |
 | Cleanup Crew | 24.00% | ~118 |
 | Can you restore the Balance? | 24.00% | ~118 |
-| Crowd Source | 24.00% | ~118 |
 | Maximum Capacity | 22.00% | ~108 |
 | Demon Meddler | 22.00% | ~108 |
 | Seeing Red | 21.00% | ~104 |
-| Egomaniac | 19.00% | ~94 |
+| Egomaniac | 20.00% | ~99 |
 | Protector of Humanity | 18.00% | ~89 |
 | Everybody Wants to Rule the World | 18.00% | ~89 |
 | Community Outreach | 15.00% | ~74 |

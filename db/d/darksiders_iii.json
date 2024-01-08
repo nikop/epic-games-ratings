@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2215,9 +2215,9 @@
       "ID": "Kill_Sin_Pride",
       "SetID": "7a5k76n",
       "Name": "Egomaniac",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 99
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -2255,9 +2255,9 @@
       "ID": "Save_Humans_10",
       "SetID": "7a5k76n",
       "Name": "Crowd Source",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "Save_Humans_15",
@@ -2287,9 +2287,9 @@
       "ID": "Save_Usiel_No_Kill",
       "SetID": "7a5k76n",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 143
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -2359,8 +2359,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:04:11.6746697+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:03:32.1411178+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:00:57.0976595+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:04:11.6747297+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:00:16.0135981+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:03:32.1411764+00:00"
 }

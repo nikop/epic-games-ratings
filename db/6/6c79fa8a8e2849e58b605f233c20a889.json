@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3200,
+  "EOS_Progressed": 3201,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8744,6 +8744,11 @@
       "Time": "2024-01-07T22:09:50.6300015+00:00",
       "NumProgressed": 3200,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T04:09:56.6829102+00:00",
+      "NumProgressed": 3201,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8859,15 +8864,15 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "GUARD_MAKER",
       "SetID": "8lhbnh7",
       "Name": "Guard Maker",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "ISOLATION_MASTER",
@@ -8930,14 +8935,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3200,
+      "Progressed": 3201,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:10:32.2961309+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:09:56.6829097+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:04.3509332+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:36.4703781+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:10:32.2961874+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:14.9222233+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:09:56.6829814+00:00"
 }

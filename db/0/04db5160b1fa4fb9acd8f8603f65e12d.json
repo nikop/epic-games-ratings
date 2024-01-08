@@ -4,7 +4,7 @@
   "ProductSlug": "your-computer-might-be-at-risk-c5dea9",
   "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewPlayers": 573,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-28T12:00:00+00:00",
@@ -195,17 +195,17 @@
       "ID": "HEARTBREAKER",
       "SetID": "92c5pfn",
       "Name": "Heartbreaker",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "IN_THE_FLESH",
       "SetID": "92c5pfn",
       "Name": "In the flesh",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LA_RATA_ESCARLATA",
@@ -243,9 +243,9 @@
       "ID": "PLUMBING_COURSE",
       "SetID": "92c5pfn",
       "Name": "Plumbing course",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROFESSIONAL",
@@ -307,9 +307,9 @@
       "ID": "TLALOC",
       "SetID": "92c5pfn",
       "Name": "Tlaloc",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WAS_ANYTHING_REAL",
@@ -323,17 +323,17 @@
       "ID": "WHERE_HAVE_YOU_BEEN",
       "SetID": "92c5pfn",
       "Name": "Where have you been?",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WHICH_WILL",
       "SetID": "92c5pfn",
       "Name": "Which will",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "YOU_HAVE_BEEN_HERE",
@@ -362,8 +362,8 @@
   ],
   "FirstSeen": "2023-11-28T02:23:17.9466472+00:00",
   "FirstSeenAchievements": "2023-06-11T08:01:53.6412466+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:07:06.3276234+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:06:17.8363202+00:00",
   "LastUpdate_AppInfo": "2024-01-08T02:57:23.5695596+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:57:26.3382649+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:07:06.3276519+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:57:13.5870151+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:06:17.8363451+00:00"
 }

@@ -10552,10 +10552,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21524,
       "NumberOfAwardsMax": 7986
+    },
+    {
+      "Time": "2024-01-08T03:57:59.2016928+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21525,
+      "NumberOfAwardsMax": 7986
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21524,
+  "NumberOfAwards": 21525,
   "NumberOfAwardsMax": 7986,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10629,12 +10635,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1083
+      "Count": 1084
     }
   ],
-  "EOS_Progressed": 132127,
+  "EOS_Progressed": 132128,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1079,
+  "EOS_NewPlayers": 1073,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38842,6 +38848,11 @@
       "Time": "2024-01-08T03:10:22.5639038+00:00",
       "NumProgressed": 132127,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T04:09:48.0869408+00:00",
+      "NumProgressed": 132128,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39389,7 +39400,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "combat_kill_collector",
@@ -39484,21 +39495,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132127,
+      "Progressed": 132128,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6996,
+      "Progressed": 6997,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-08T01:46:44.0970081+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:10:22.5639035+00:00",
+  "LastChanged": "2024-01-08T03:57:59.2016926+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:09:48.0869404+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:18.4608215+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:10:22.5640677+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:57:59.2016932+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:09:48.0872184+00:00"
 }

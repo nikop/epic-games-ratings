@@ -4,7 +4,7 @@
   "ProductSlug": "remains-dcb937",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewPlayers": 526,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
@@ -386,9 +386,9 @@
       "ID": "Achievement_IAmSpeed",
       "SetID": "436h0ek",
       "Name": "I am speed!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Achievement_ItsSafeHere",
@@ -441,8 +441,8 @@
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:04:47.2834705+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:04:03.9858692+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.031146+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:00:54.5562537+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:04:47.2834772+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:00:13.3448017+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:04:03.9858765+00:00"
 }

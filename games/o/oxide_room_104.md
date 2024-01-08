@@ -15,9 +15,9 @@
 | First aid | 58.00% | ~181 |
 | Antidote | 51.00% | ~159 |
 | Pick the right door | 24.00% | ~75 |
-| The third floor | 17.00% | ~53 |
+| The third floor | 18.00% | ~56 |
+| One-way | 16.00% | ~50 |
 | On the right path | 15.00% | ~47 |
-| One-way | 15.00% | ~47 |
 | It can't be true | 14.00% | ~44 |
 | He who seeks, finds! | 12.00% | ~37 |
 | I'm close now | 11.00% | ~34 |

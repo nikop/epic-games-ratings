@@ -896,10 +896,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 395,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2024-01-08T03:58:25.2323958+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 396,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 395,
+  "NumberOfAwards": 396,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -907,7 +913,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game is Great for Beginners",
@@ -964,9 +970,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 53986,
+  "EOS_Progressed": 53988,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1062,
+  "EOS_NewPlayers": 1061,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30854,6 +30860,11 @@
       "Time": "2024-01-08T02:29:27.0331417+00:00",
       "NumProgressed": 53986,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T04:05:00.6846313+00:00",
+      "NumProgressed": 53988,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -30889,7 +30900,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5938
+      "UsersEstimate": 5939
     },
     {
       "ID": "distance500000",
@@ -30905,7 +30916,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14576
+      "UsersEstimate": 14577
     },
     {
       "ID": "goals180",
@@ -31073,7 +31084,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13496
+      "UsersEstimate": 13497
     },
     {
       "ID": "sandboarder",
@@ -31089,7 +31100,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5938
+      "UsersEstimate": 5939
     },
     {
       "ID": "ultimate",
@@ -31153,7 +31164,7 @@
       "Name": "Voyager",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "wanderer",
@@ -31176,15 +31187,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 53986,
+      "Progressed": 53988,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2024-01-07T14:58:04.430583+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:05:50.190847+00:00",
+  "LastChanged": "2024-01-08T03:58:25.2323956+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:05:00.6846306+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.3110756+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:49.4140126+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:05:50.1910351+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:25.2323961+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:05:00.6847753+00:00"
 }

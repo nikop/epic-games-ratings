@@ -2,12 +2,12 @@
   "ID": "764eb429792649e4a606413cd649de2c",
   "Name": "South Park\u2122: The Fractured But Whole\u2122 Standard Edition",
   "ProductSlug": "south-park-the-fractured-but-whole",
-  "Ranking_Rating": 48,
+  "Ranking_Rating": 39,
   "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewPlayers": 573,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2017-10-16T10:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.85,
   "NumberOfRatings": 162,
   "RatingHistory": [
     {
@@ -838,6 +838,12 @@
       "Rating": 4.84,
       "NumberOfAwards": 186,
       "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2024-01-08T03:58:23.3956445+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 186,
+      "NumberOfAwardsMax": 186
     }
   ],
   "ReviewsDisabled": false,
@@ -863,8 +869,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
-  "LastChanged": "2024-01-04T12:00:04.7158153+00:00",
+  "LastChanged": "2024-01-08T03:58:23.3956443+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:12.7558709+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:47.2221112+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:06:47.6273106+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:23.395645+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:05:57.2697316+00:00"
 }

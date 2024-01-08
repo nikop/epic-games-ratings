@@ -5451,9 +5451,9 @@
       "Count": 537
     }
   ],
-  "EOS_Progressed": 93216,
+  "EOS_Progressed": 93218,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30711,6 +30711,11 @@
       "Time": "2024-01-08T02:27:51.5312107+00:00",
       "NumProgressed": 93216,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-08T04:03:28.4031024+00:00",
+      "NumProgressed": 93218,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30890,7 +30895,7 @@
       "Name": "Too Old for This",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "ACH_0300",
@@ -30954,7 +30959,7 @@
       "Name": "Fancy Pants",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "ACH_0431",
@@ -31049,13 +31054,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93216,
+      "Progressed": 93218,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21563,
+      "Progressed": 21565,
       "Completed": 15597
     }
   ],
@@ -31063,8 +31068,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-07T13:58:58.9729583+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:04:07.5747116+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:03:28.4031021+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:59:55.949094+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:04:07.5748395+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:59:21.9367699+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:03:28.4032515+00:00"
 }

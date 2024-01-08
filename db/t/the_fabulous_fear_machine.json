@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -814,9 +814,9 @@
       "ID": "8",
       "SetID": "d37idgg",
       "Name": "You have two wishes left",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "9",
@@ -837,8 +837,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:04:40.5915747+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:03:58.0259885+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.4038986+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:58:45.2729503+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:04:40.5916024+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:21.8232034+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:03:58.0260235+00:00"
 }

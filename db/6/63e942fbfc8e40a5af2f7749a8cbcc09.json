@@ -261,17 +261,17 @@
       "ID": "ClearC02",
       "SetID": "94lmepd",
       "Name": "Strength",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ClearC02END",
       "SetID": "94lmepd",
       "Name": "Judgement",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ClearD01",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2024-01-08T03:04:48.7427213+00:00",
+  "LastChanged_Achievements": "2024-01-08T04:04:05.2300591+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.4390346+00:00",
-  "LastUpdate_Ratings": "2024-01-08T02:59:13.5175101+00:00",
-  "LastUpdate_Achievements": "2024-01-08T03:04:48.7427405+00:00"
+  "LastUpdate_Ratings": "2024-01-08T03:58:46.1288873+00:00",
+  "LastUpdate_Achievements": "2024-01-08T04:04:05.2300775+00:00"
 }
