@@ -34,7 +34,7 @@
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 33 | [Seven Doors](games/s/seven_doors.md) | 13.79% |
 | 34 | [Remains](games/r/remains.md) | 12.70% |
-| 35 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.63% |
+| 35 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.50% |
 | 36 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.17% |
 | 37 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 37 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 11.11% |
@@ -212,9 +212,9 @@
 | 208 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 208 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.57% |
 | 208 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
-| 213 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.56% |
-| 214 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 214 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
+| 213 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 213 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
+| 213 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.55% |
 | 216 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
 | 217 | [Haven](games/h/haven.md) | 0.52% |
 | 217 | [Tails of Iron](games/t/tails_of_iron.md) | 0.52% |
