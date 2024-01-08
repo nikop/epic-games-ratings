@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18772,
+  "EOS_Progressed": 18773,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 966,
+  "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11694,6 +11694,11 @@
       "Time": "2024-01-08T11:08:54.6980688+00:00",
       "NumProgressed": 18772,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T12:08:25.5493402+00:00",
+      "NumProgressed": 18773,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -11897,14 +11902,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 18772,
+      "Progressed": 18773,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:08:54.6980685+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:08:25.5493398+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:14.7039433+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:59:12.3662385+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:08:54.6981391+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:58:14.6398937+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:08:25.549434+00:00"
 }

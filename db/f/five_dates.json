@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2116,
+  "EOS_Progressed": 2117,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3945,6 +3945,11 @@
       "Time": "2024-01-08T11:11:05.8366839+00:00",
       "NumProgressed": 2116,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-08T12:09:58.2334561+00:00",
+      "NumProgressed": 2117,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3956,7 +3961,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "booty_call",
@@ -3964,7 +3969,7 @@
       "Name": "Booty Call",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "crash_and_burn",
@@ -3980,7 +3985,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "hold_my_beer",
@@ -3996,7 +4001,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "interrogation",
@@ -4020,7 +4025,7 @@
       "Name": "Not Alone",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "nueva_beginnings",
@@ -4028,7 +4033,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "only_thyme_will_tell",
@@ -4042,9 +4047,9 @@
       "ID": "planting_the_seed",
       "SetID": "c4ipj3h",
       "Name": "Planting the Seed",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 318
     },
     {
       "ID": "smooth_criminal",
@@ -4075,7 +4080,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2116,
+      "Progressed": 2117,
       "Completed": 12
     }
   ],
@@ -4083,8 +4088,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:11:05.8366834+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:09:58.2334556+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:00:16.9616109+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:11:05.8367088+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:58:56.8922558+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:09:58.233495+00:00"
 }

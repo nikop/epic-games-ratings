@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3461,6 +3461,11 @@
       "Time": "2024-01-08T10:06:01.302743+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T12:05:44.9670557+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3472,7 +3477,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH001",
@@ -3528,7 +3533,7 @@
       "Name": "My little farm",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ACH008",
@@ -3550,9 +3555,9 @@
       "ID": "ACH010",
       "SetID": "69nfp41",
       "Name": "Conglomerate",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH011",
@@ -3566,17 +3571,17 @@
       "ID": "ACH012",
       "SetID": "69nfp41",
       "Name": "3, 2, 1, mine",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH013",
       "SetID": "69nfp41",
       "Name": "In a mint condition",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH014",
@@ -3606,17 +3611,17 @@
       "ID": "ACH017",
       "SetID": "69nfp41",
       "Name": "Pearly gates",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH018",
       "SetID": "69nfp41",
       "Name": "The Grande Bouffe",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH019",
@@ -3646,9 +3651,9 @@
       "ID": "ACH022",
       "SetID": "69nfp41",
       "Name": "Fleet Admiral",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH023",
@@ -3656,7 +3661,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH024",
@@ -3694,9 +3699,9 @@
       "ID": "ACH028",
       "SetID": "69nfp41",
       "Name": "Traffic chaos",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH029",
@@ -3758,9 +3763,9 @@
       "ID": "ACH036",
       "SetID": "69nfp41",
       "Name": "Every beginning is difficult",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 744
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH037",
@@ -3776,7 +3781,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH039",
@@ -3790,9 +3795,9 @@
       "ID": "ACH040",
       "SetID": "69nfp41",
       "Name": "Master \u0026 Commander",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH041",
@@ -3871,15 +3876,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:07:28.8099971+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:05:44.9670554+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:24.8175956+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:02:32.8132125+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:07:28.8100545+00:00"
+  "LastUpdate_Ratings": "2024-01-08T12:00:28.238863+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:05:44.9671046+00:00"
 }

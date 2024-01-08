@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 525)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,338 |
-| Pay 'n' Spray | 50.00% | ~9,468 |
-| All Dressed Up for San Fierro | 25.00% | ~4,734 |
-| The American Dream | 19.00% | ~3,598 |
-| School's Out | 18.00% | ~3,408 |
-| Smooth Moves | 17.00% | ~3,219 |
-| What happens in Las Venturas... | 14.00% | ~2,651 |
-| Today Was a Good Day | 14.00% | ~2,651 |
+| Getting Started | 81.00% | ~15,342 |
+| Pay 'n' Spray | 50.00% | ~9,470 |
+| All Dressed Up for San Fierro | 25.00% | ~4,735 |
+| The American Dream | 19.00% | ~3,599 |
+| School's Out | 18.00% | ~3,409 |
+| Smooth Moves | 17.00% | ~3,220 |
+| What happens in Las Venturas... | 14.00% | ~2,652 |
+| Today Was a Good Day | 14.00% | ~2,652 |
 | Horror of the Santa Maria | 10.00% | ~1,894 |
-| Liberty City State of Mind | 9.00% | ~1,704 |
+| Liberty City State of Mind | 9.00% | ~1,705 |
 | Original Gangster | 8.00% | ~1,515 |
 | With Extra Dip | 7.00% | ~1,326 |
 | The End of the Line | 7.00% | ~1,326 |
 | Saviour | 6.00% | ~1,136 |
 | Rescue a Kitten Too? | 5.00% | ~947 |
-| They Can’t Stop All of Us | 4.00% | ~757 |
-| What are the Odds | 4.00% | ~757 |
+| They Can’t Stop All of Us | 4.00% | ~758 |
+| What are the Odds | 4.00% | ~758 |
 | Bike or Biker | 3.00% | ~568 |
 | What the City Needs | 3.00% | ~568 |
 | A Legitimate Business | 2.00% | ~379 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 525)
 | ...Here we go again | 0.50% | ~95 |
 | I Ain't No Buster | 0.40% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,936 (Ranked 157)  
-Completed: 75 (0.40%) (Ranked 237)  
+Progressed: 18,941 (Ranked 157)  
+Completed: 75 (0.40%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -304,7 +304,7 @@ Completed: 75 (0.40%) (Ranked 237)
 | 2024-01-05 | 18,512 | 72 |
 | 2024-01-06 | 18,702 | 75 |
 | 2024-01-07 | 18,889 | 75 |
-| 2024-01-08 | 18,936 | 75 |
+| 2024-01-08 | 18,941 | 75 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 443)  
 Sum: 363 (Ranked 368)  

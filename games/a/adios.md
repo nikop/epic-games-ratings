@@ -31,7 +31,7 @@ Rating: 3.51 (Ranked 1,095)
 | Audiophile | 2.00% | ~1,661 |
 | Tape Head | 2.00% | ~1,661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,051 (Ranked 108)  
+Progressed: 83,052 (Ranked 108)  
 Completed: 925 (1.11%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 925 (1.11%) (Ranked 167)
 | 2024-01-05 | 82,798 | 918 |
 | 2024-01-06 | 82,903 | 923 |
 | 2024-01-07 | 83,018 | 925 |
-| 2024-01-08 | 83,051 | 925 |
+| 2024-01-08 | 83,052 | 925 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

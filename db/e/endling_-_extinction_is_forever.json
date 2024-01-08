@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 593,
+  "EOS_Progressed": 594,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1149,6 +1149,11 @@
       "Time": "2024-01-07T15:09:57.7121708+00:00",
       "NumProgressed": 593,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T12:10:06.4204822+00:00",
+      "NumProgressed": 594,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1206,9 +1211,9 @@
       "ID": "TROP006",
       "SetID": "9n0dl35",
       "Name": "Maternity",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 95
     },
     {
       "ID": "TROP007",
@@ -1222,9 +1227,9 @@
       "ID": "TROP008",
       "SetID": "9n0dl35",
       "Name": "Home Sweet Home",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 558
     },
     {
       "ID": "TROP009",
@@ -1240,7 +1245,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "TROP011",
@@ -1256,7 +1261,7 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TROP013",
@@ -1264,7 +1269,7 @@
       "Name": "Never Let Down",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "TROP014",
@@ -1328,7 +1333,7 @@
       "Name": "Tasty",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "TROP022",
@@ -1350,9 +1355,9 @@
       "ID": "TROP024",
       "SetID": "9n0dl35",
       "Name": "You Can Pet The Fox",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 172
     },
     {
       "ID": "TROP025",
@@ -1383,7 +1388,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 593,
+      "Progressed": 594,
       "Completed": 3
     }
   ],
@@ -1391,8 +1396,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:11:16.5450834+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:10:06.4204817+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:55.943768+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:01:33.6293182+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:11:16.545105+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:59:48.8050412+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:10:06.4205119+00:00"
 }

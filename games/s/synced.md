@@ -5,24 +5,24 @@ Rating: 4.13 (Ranked 1,011)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 45.00% | ~38,312 |
-| More Power to You | 22.00% | ~18,730 |
-| As Far Away As Possible | 20.00% | ~17,028 |
-| A Most Unstable Organism | 14.00% | ~11,919 |
-| No Time to Follow Protocol | 9.00% | ~7,662 |
-| Nano Connoisseur | 7.00% | ~5,960 |
-| Float Like a Butterfly... | 7.00% | ~5,960 |
-| In Two Places At Once | 6.00% | ~5,108 |
-| Pulling Your Weight | 3.00% | ~2,554 |
-| Reaping Rivals | 3.00% | ~2,554 |
-| fifteenth Time's the Charm | 1.00% | ~851 |
-| Gone Rogue | 0.90% | ~766 |
+| Your Lucky Day | 45.00% | ~38,319 |
+| More Power to You | 22.00% | ~18,734 |
+| As Far Away As Possible | 20.00% | ~17,031 |
+| A Most Unstable Organism | 14.00% | ~11,921 |
+| No Time to Follow Protocol | 9.00% | ~7,664 |
+| Nano Connoisseur | 7.00% | ~5,961 |
+| Float Like a Butterfly... | 7.00% | ~5,961 |
+| In Two Places At Once | 6.00% | ~5,109 |
+| Pulling Your Weight | 3.00% | ~2,555 |
+| Reaping Rivals | 3.00% | ~2,555 |
+| fifteenth Time's the Charm | 1.00% | ~852 |
+| Gone Rogue | 1.00% | ~852 |
 | Memory Keeper | 0.40% | ~341 |
 | Completely Customizable | 0.40% | ~341 |
 | Runs for Your Money | 0.30% | ~255 |
 | Past Master | 0.30% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,138 (Ranked 107)  
+Progressed: 85,153 (Ranked 107)  
 Completed: 64 (0.08%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,10 +156,10 @@ Completed: 64 (0.08%) (Ranked 322)
 | 2024-01-05 | 83,802 | 63 |
 | 2024-01-06 | 84,361 | 63 |
 | 2024-01-07 | 84,963 | 64 |
-| 2024-01-08 | 85,138 | 64 |
+| 2024-01-08 | 85,153 | 64 |
 ## Awards
 Max (Great for Beginners): 134  (Ranked 342)  
-Sum: 569 (Ranked 327)  
+Sum: 571 (Ranked 327)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
@@ -167,7 +167,7 @@ Diff (max vs sum): 15
 | This game has Diverse Characters | 91 |
 | This game is Highly Recommended | 65 |
 | This game is Extremely Fun | 64 |
-| This game has Amazing Characters | 62 |
+| This game has Amazing Characters | 64 |
 | This game has a Competitive Community | 54 |
 | This game has Amazing Storytelling | 54 |
 | This game has Quickly Understood Controls | 52 |
@@ -288,4 +288,4 @@ Diff (max vs sum): 15
 | 2024-01-05 | 4.14 | 133 | 558 |
 | 2024-01-06 | 4.13 | 134 | 562 |
 | 2024-01-07 | 4.13 | 134 | 568 |
-| 2024-01-08 | 4.13 | 134 | 569 |
+| 2024-01-08 | 4.13 | 134 | 571 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -735,9 +735,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7066,
+  "EOS_Progressed": 7067,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10750,6 +10750,11 @@
       "Time": "2024-01-08T10:05:29.3776699+00:00",
       "NumProgressed": 7066,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T12:05:15.7386258+00:00",
+      "NumProgressed": 7067,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10783,9 +10788,9 @@
       "ID": "12",
       "SetID": "3aa2279",
       "Name": "I\u0027ve Got Everything I Need Right Here",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 71
     },
     {
       "ID": "13",
@@ -11240,13 +11245,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7066,
+      "Progressed": 7067,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7066,
+      "Progressed": 7067,
       "Completed": 7
     }
   ],
@@ -11254,8 +11259,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:06:47.320309+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:05:15.7386255+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:03:27.4408771+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:06:47.320393+00:00"
+  "LastUpdate_Ratings": "2024-01-08T12:02:53.3657208+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:05:15.7387258+00:00"
 }

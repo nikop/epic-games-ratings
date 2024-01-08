@@ -24,7 +24,7 @@
 | Tour Guide | 24.00% | ~19 |
 | Coward | 24.00% | ~19 |
 | Tomb Raider | 24.00% | ~19 |
-| The Real O.G. | 21.00% | ~16 |
+| The Real O.G. | 22.00% | ~17 |
 | The Hero of the People | 17.00% | ~13 |
 | Talk to the Fist | 13.00% | ~10 |
 | Collector | 12.00% | ~9 |

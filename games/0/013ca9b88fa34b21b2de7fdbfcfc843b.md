@@ -27,7 +27,7 @@ Rating: 4.63 (Ranked 358)
 | Flaming Hot Completos | 0.80% | ~71 |
 | Azorian Anniversary | 0.80% | ~71 |
 | Fae Farmer | 0.70% | ~63 |
-| Got to Catch Them All | 0.60% | ~54 |
+| Got to Catch Them All | 0.70% | ~63 |
 | Scattered Scroll Scrounger | 0.60% | ~54 |
 | Rumble in the Jumble | 0.60% | ~54 |
 | Fanatical Farmer | 0.60% | ~54 |

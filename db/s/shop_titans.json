@@ -8071,9 +8071,9 @@
       "Count": 3817
     }
   ],
-  "EOS_Progressed": 150260,
+  "EOS_Progressed": 150271,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1485,
+  "EOS_NewPlayers": 1488,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35846,6 +35846,11 @@
       "Time": "2024-01-08T11:09:17.4307134+00:00",
       "NumProgressed": 150260,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-08T12:08:41.6609335+00:00",
+      "NumProgressed": 150271,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -35857,7 +35862,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     },
     {
       "ID": "advlevel02",
@@ -35993,7 +35998,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     },
     {
       "ID": "boss02",
@@ -36025,7 +36030,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16529
+      "UsersEstimate": 16530
     },
     {
       "ID": "chest02",
@@ -36089,7 +36094,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15026
+      "UsersEstimate": 15027
     },
     {
       "ID": "commonres02",
@@ -36097,7 +36102,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     },
     {
       "ID": "commonres03",
@@ -36121,7 +36126,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10518
+      "UsersEstimate": 10519
     },
     {
       "ID": "craft02",
@@ -36129,7 +36134,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     },
     {
       "ID": "craft03",
@@ -36161,7 +36166,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     },
     {
       "ID": "damage02",
@@ -36233,7 +36238,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10518
+      "UsersEstimate": 10519
     },
     {
       "ID": "expansion02",
@@ -36329,7 +36334,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13523
+      "UsersEstimate": 13524
     },
     {
       "ID": "gold02",
@@ -36337,7 +36342,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7513
+      "UsersEstimate": 7514
     },
     {
       "ID": "gold03",
@@ -36345,7 +36350,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     },
     {
       "ID": "gold04",
@@ -36409,7 +36414,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7513
+      "UsersEstimate": 7514
     },
     {
       "ID": "jackslot02",
@@ -36481,7 +36486,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     },
     {
       "ID": "loot02",
@@ -36513,7 +36518,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7513
+      "UsersEstimate": 7514
     },
     {
       "ID": "master02",
@@ -36569,7 +36574,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     },
     {
       "ID": "quest02",
@@ -36633,7 +36638,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10518
+      "UsersEstimate": 10519
     },
     {
       "ID": "sell02",
@@ -36673,7 +36678,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15026
+      "UsersEstimate": 15027
     },
     {
       "ID": "twinenchant01",
@@ -36729,7 +36734,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     },
     {
       "ID": "workers03",
@@ -36752,15 +36757,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150260,
+      "Progressed": 150271,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-08T04:03:16.7063067+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:09:17.4307129+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:08:41.660933+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:04:02.0921605+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:09:17.4309164+00:00"
+  "LastUpdate_Ratings": "2024-01-08T12:03:19.4835626+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:08:41.6612107+00:00"
 }

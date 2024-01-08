@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24668,
+  "EOS_Progressed": 24671,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -22793,6 +22793,11 @@
       "Time": "2024-01-08T11:08:07.7600812+00:00",
       "NumProgressed": 24668,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-08T12:06:12.3904565+00:00",
+      "NumProgressed": 24671,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 14,
@@ -22804,7 +22809,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 18994
+      "UsersEstimate": 18997
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -22828,7 +22833,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6168
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -22852,7 +22857,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -22860,7 +22865,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12581
+      "UsersEstimate": 12582
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -22868,7 +22873,7 @@
       "Name": "In For The Kill",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -22876,7 +22881,7 @@
       "Name": "In My Own Time",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2960
+      "UsersEstimate": 2961
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -22915,15 +22920,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24668,
+      "Progressed": 24671,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:08:07.7600808+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:06:12.3904561+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:43.5495434+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:03:39.8547857+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:08:07.7601993+00:00"
+  "LastUpdate_Ratings": "2024-01-08T12:03:02.1416481+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:06:12.3905767+00:00"
 }

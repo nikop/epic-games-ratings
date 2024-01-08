@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -517,9 +517,9 @@
       "ID": "0000_achv_failbalance",
       "SetID": "dhn82m5",
       "Name": "Artistic fool",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "0000_achv_fallspot",
@@ -637,9 +637,9 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "1006_achv_chapter1",
@@ -653,9 +653,9 @@
       "ID": "1006_achv_demoliton",
       "SetID": "dhn82m5",
       "Name": "Demolition expert",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "1006_achv_dropball",
@@ -669,9 +669,9 @@
       "ID": "1006_achv_fixbomb",
       "SetID": "dhn82m5",
       "Name": "Handyman",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "1006_achv_pacifist",
@@ -886,8 +886,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:04:35.3811432+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:03:42.2080806+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:52.3875785+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:01:29.9690786+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:04:35.3811802+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:59:46.0012347+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:03:42.2081192+00:00"
 }

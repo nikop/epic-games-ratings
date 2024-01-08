@@ -6,26 +6,26 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 71.00% | ~1,363 |
-| Lovebirds | 43.00% | ~826 |
-| Life’s short, ride long | 38.00% | ~730 |
-| Hug therapy | 37.00% | ~710 |
-| Over my dead body | 34.00% | ~653 |
+| Balding bloot! | 71.00% | ~1,365 |
+| Lovebirds | 43.00% | ~827 |
+| Life’s short, ride long | 38.00% | ~731 |
+| Hug therapy | 37.00% | ~712 |
+| Over my dead body | 34.00% | ~654 |
 | Shake the rust off their feet | 18.00% | ~346 |
-| My little pony | 17.00% | ~326 |
-| Strike! | 16.00% | ~307 |
-| A love supreme | 16.00% | ~307 |
+| My little pony | 17.00% | ~327 |
+| Strike! | 16.00% | ~308 |
+| A love supreme | 16.00% | ~308 |
 | In my shoes | 14.00% | ~269 |
 | Like new! | 13.00% | ~250 |
-| Head in the clouds | 12.00% | ~230 |
-| Don't look back | 11.00% | ~211 |
-| Heartstrings | 11.00% | ~211 |
+| Head in the clouds | 12.00% | ~231 |
+| Don't look back | 11.00% | ~212 |
+| Heartstrings | 11.00% | ~212 |
 | Back to rust | 10.00% | ~192 |
 | Flower Powered | 10.00% | ~192 |
 | Perfect timing | 8.00% | ~154 |
 | Unstoppable | 8.00% | ~154 |
-| Self-sustainability | 7.00% | ~134 |
-| Ain't no mountain high enough | 7.00% | ~134 |
+| Self-sustainability | 7.00% | ~135 |
+| Ain't no mountain high enough | 7.00% | ~135 |
 | An eye for an eye | 5.00% | ~96 |
 | Can't get wetter... | 4.00% | ~77 |
 | Spring cleaning | 4.00% | ~77 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~38 |
 | À la carte | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,920 (Ranked 251)  
+Progressed: 1,923 (Ranked 251)  
 Completed: 10 (0.52%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 10 (0.52%) (Ranked 217)
 | 2024-01-05 | 1,896 | 10 |
 | 2024-01-06 | 1,909 | 10 |
 | 2024-01-07 | 1,918 | 10 |
-| 2024-01-08 | 1,920 | 10 |
+| 2024-01-08 | 1,923 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

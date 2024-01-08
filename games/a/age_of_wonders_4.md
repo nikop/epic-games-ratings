@@ -31,7 +31,6 @@ Rating: 4.62 (Ranked 378)
 | Here be Dragons | 3.00% | ~212 |
 | Tipping the Scales | 3.00% | ~212 |
 | Freed Lands of Manuhari | 3.00% | ~212 |
-| I've Got Everything I Need Right Here | 2.00% | ~141 |
 | God Emperor | 2.00% | ~141 |
 | Arch Mage | 2.00% | ~141 |
 | The Creator | 2.00% | ~141 |
@@ -44,6 +43,7 @@ Rating: 4.62 (Ranked 378)
 | Chaos Surge | 2.00% | ~141 |
 | Spoils of War | 2.00% | ~141 |
 | Dawn of the Dread | 2.00% | ~141 |
+| I've Got Everything I Need Right Here | 1.00% | ~71 |
 | Lord of Chaos | 1.00% | ~71 |
 | The Goddess of Nature | 1.00% | ~71 |
 | Manufactured War | 1.00% | ~71 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,066 (Ranked 196)  
+Progressed: 7,067 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
 | 2024-01-07 | 7,051 | 7 |
-| 2024-01-08 | 7,066 | 7 |
+| 2024-01-08 | 7,067 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 482)  
 Sum: 212 (Ranked 410)  

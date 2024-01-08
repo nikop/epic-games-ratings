@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 78.00% | ~97 |
-| A Loyal Friend | 43.00% | ~53 |
+| My Papyrus! | 78.00% | ~98 |
+| A Loyal Friend | 42.00% | ~52 |
 | Abandon Ship! | 32.00% | ~40 |
-| The Tomb of Kih-Oskh | 27.00% | ~33 |
+| The Tomb of Kih-Oskh | 27.00% | ~34 |
 | The Weighing of the Soul | 23.00% | ~29 |
 | The Curse of Kih-Oskh | 18.00% | ~22 |
-| It's a Deal! | 14.00% | ~17 |
+| It's a Deal! | 14.00% | ~18 |
 | Cat Lover | 12.00% | ~15 |
 | Dynamite, Treason and Coconuts | 12.00% | ~15 |
 | In the Name of the Law | 10.00% | ~12 |
@@ -24,9 +24,9 @@
 | Under the Hood | 7.00% | ~9 |
 | Long Live Gaipajama! | 7.00% | ~9 |
 | Mummy Nightmare | 7.00% | ~9 |
-| Tintin, Reporter | 6.00% | ~7 |
-| Eyes Shut | 6.00% | ~7 |
-| Barking Dog | 6.00% | ~7 |
+| Tintin, Reporter | 6.00% | ~8 |
+| Eyes Shut | 6.00% | ~8 |
+| Barking Dog | 6.00% | ~8 |
 | Mountain Runner | 4.00% | ~5 |
 | Subtlety | 4.00% | ~5 |
 | The Corporal's Golden Boy | 2.00% | ~2 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 477)  
+Progressed: 125 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,3 +91,4 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-04 | 117 | 0 |
 | 2024-01-06 | 121 | 0 |
 | 2024-01-07 | 124 | 0 |
+| 2024-01-08 | 125 | 0 |

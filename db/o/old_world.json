@@ -2220,9 +2220,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16225,
+  "EOS_Progressed": 16227,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19250,6 +19250,11 @@
       "Time": "2024-01-08T11:11:27.2779784+00:00",
       "NumProgressed": 16225,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T12:10:15.4209884+00:00",
+      "NumProgressed": 16227,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19693,7 +19698,7 @@
       "Name": "Explorer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -19771,9 +19776,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
       "SetID": "9201eeb",
       "Name": "Keystone",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -19885,7 +19890,7 @@
       "Name": "Settler",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20051,9 +20056,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -21013,7 +21018,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -21331,9 +21336,9 @@
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -22124,21 +22129,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16225,
+      "Progressed": 16227,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16225,
+      "Progressed": 16227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:11:27.2779778+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:10:15.4209881+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:02:10.4283661+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:11:27.2789563+00:00"
+  "LastUpdate_Ratings": "2024-01-08T12:00:13.3635625+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:10:15.4220765+00:00"
 }

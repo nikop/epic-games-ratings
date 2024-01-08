@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4440,
+  "EOS_Progressed": 4441,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2003,6 +2003,11 @@
       "Time": "2024-01-08T09:10:26.3590267+00:00",
       "NumProgressed": 4440,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-08T12:10:14.7441966+00:00",
+      "NumProgressed": 4441,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2774,7 +2779,7 @@
       "Name": "Friends from the past",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
@@ -2821,15 +2826,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4440,
+      "Progressed": 4441,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:11:26.5125541+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:10:14.744196+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.50992+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:59:41.6687662+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:11:26.5126531+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:58:33.9161683+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:10:14.7442991+00:00"
 }

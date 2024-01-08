@@ -6,14 +6,15 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 2.00% | ~324 |
-| Settler | 2.00% | ~324 |
-| Play a Single Player Game | 2.00% | ~324 |
+| Explorer | 2.00% | ~325 |
+| Settler | 2.00% | ~325 |
+| Play a Single Player Game | 2.00% | ~325 |
 | Able | 1.00% | ~162 |
 | Architect | 1.00% | ~162 |
 | Good | 1.00% | ~162 |
 | Intrepid | 1.00% | ~162 |
 | Just | 1.00% | ~162 |
+| Keystone | 1.00% | ~162 |
 | Learned | 1.00% | ~162 |
 | Mason | 1.00% | ~162 |
 | Noble | 1.00% | ~162 |
@@ -28,7 +29,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.90% | ~146 |
 | Enlightened | 0.90% | ~146 |
 | Glorious | 0.90% | ~146 |
-| Keystone | 0.90% | ~146 |
 | Developing Cities | 0.90% | ~146 |
 | Strong Cities | 0.90% | ~146 |
 | Pyramids | 0.90% | ~146 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.40% | ~65 |
 | Persian Paganism | 0.40% | ~65 |
 | Economic Reform | 0.40% | ~65 |
+| Legionary | 0.40% | ~65 |
 | Points Victory | 0.40% | ~65 |
 | Win a Single Player Game | 0.40% | ~65 |
 | Bad Heir Day | 0.30% | ~49 |
@@ -90,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.30% | ~49 |
 | Subjugator | 0.30% | ~49 |
 | Victorious | 0.30% | ~49 |
+| Strong Difficulty | 0.30% | ~49 |
 | Hunters | 0.30% | ~49 |
 | Landowners | 0.30% | ~49 |
 | Traders | 0.30% | ~49 |
@@ -110,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.30% | ~49 |
 | Cimmerian Archer | 0.30% | ~49 |
 | Kushite Cavalry | 0.30% | ~49 |
-| Legionary | 0.30% | ~49 |
 | Phalangite | 0.30% | ~49 |
 | Ambition Victory | 0.30% | ~49 |
 | Double Victory | 0.30% | ~49 |
@@ -123,7 +124,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.20% | ~32 |
 | Old | 0.20% | ~32 |
 | Peacemaker | 0.20% | ~32 |
-| Strong Difficulty | 0.20% | ~32 |
 | Clerics | 0.20% | ~32 |
 | Church of the Holy Sepulchre | 0.20% | ~32 |
 | Cao'an | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,225 (Ranked 168)  
+Progressed: 16,227 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,225 | 5 |
+| 2024-01-08 | 16,227 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 223)  

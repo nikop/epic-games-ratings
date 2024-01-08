@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1179,
+  "EOS_Progressed": 1180,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.63,
   "EosHistory": [
@@ -3340,6 +3340,11 @@
       "Time": "2024-01-07T17:04:36.411591+00:00",
       "NumProgressed": 1179,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2024-01-08T12:05:08.0430912+00:00",
+      "NumProgressed": 1180,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 50,
@@ -3351,7 +3356,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "10",
@@ -3359,7 +3364,7 @@
       "Name": "Piece of Cake",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "11",
@@ -3375,7 +3380,7 @@
       "Name": "Spellbound",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "13",
@@ -3383,7 +3388,7 @@
       "Name": "Extinct Again!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "14",
@@ -3391,7 +3396,7 @@
       "Name": "Bird of Prey",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "15",
@@ -3423,7 +3428,7 @@
       "Name": "Surprise!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "19",
@@ -3431,15 +3436,15 @@
       "Name": "A Grand Visit",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "2",
       "SetID": "d0g98p",
       "Name": "Waff!",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1109
     },
     {
       "ID": "20",
@@ -3447,7 +3452,7 @@
       "Name": "Stardust",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "21",
@@ -3463,7 +3468,7 @@
       "Name": "Heartbreaker",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "23",
@@ -3479,7 +3484,7 @@
       "Name": "Kidnapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "25",
@@ -3511,7 +3516,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "29",
@@ -3527,7 +3532,7 @@
       "Name": "Vibing",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "30",
@@ -3535,7 +3540,7 @@
       "Name": "Gooey Delight!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "31",
@@ -3551,7 +3556,7 @@
       "Name": "The Guardian",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "33",
@@ -3559,7 +3564,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "34",
@@ -3567,7 +3572,7 @@
       "Name": "Glimmer of Hope",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "35",
@@ -3575,7 +3580,7 @@
       "Name": "Teacups for Toppy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "36",
@@ -3607,7 +3612,7 @@
       "Name": "All Skilled Up!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "4",
@@ -3615,7 +3620,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "40",
@@ -3623,7 +3628,7 @@
       "Name": "Mirror, Mirror",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "41",
@@ -3647,7 +3652,7 @@
       "Name": "An Actor!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "44",
@@ -3655,7 +3660,7 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "45",
@@ -3687,7 +3692,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "49",
@@ -3750,7 +3755,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 1179,
+      "Progressed": 1180,
       "Completed": 90
     }
   ],
@@ -3758,8 +3763,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:06:36.5283878+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:05:08.0430909+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.0885123+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:00:38.4092132+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:06:36.5284579+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:59:10.7566293+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:05:08.0431627+00:00"
 }

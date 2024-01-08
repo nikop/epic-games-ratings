@@ -27,8 +27,8 @@
 | Sevenkeeps Seat of Kings | 19.00% | ~25 |
 | Friend of Alluvyan | 16.00% | ~21 |
 | Friend of Connach | 16.00% | ~21 |
+| Friend of Gillyshire | 15.00% | ~19 |
 | Stormwatch Faste | 14.00% | ~18 |
-| Friend of Gillyshire | 14.00% | ~18 |
 | Friend of Orgash | 13.00% | ~17 |
 | Friend of Bastion | 13.00% | ~17 |
 | Break Free | 13.00% | ~17 |
@@ -52,12 +52,12 @@
 | A Monopoly of Might | 7.00% | ~9 |
 | Get to the Airship! | 6.00% | ~8 |
 | Defeat Hokan | 6.00% | ~8 |
+| Defeat Ianna | 6.00% | ~8 |
 | Lore's Tale | 6.00% | ~8 |
 | Master Artificer | 6.00% | ~8 |
 | Heroes | 6.00% | ~8 |
 | Balanced | 6.00% | ~8 |
 | Friend of Grey Dusk Vale | 6.00% | ~8 |
-| Defeat Ianna | 5.00% | ~6 |
 | Defeat Undergast | 5.00% | ~6 |
 | Defeat Yria | 5.00% | ~6 |
 | Elynn's Tale | 5.00% | ~6 |

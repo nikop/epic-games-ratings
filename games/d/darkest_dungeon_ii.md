@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~913 |
+| Malpractice Assurance | 13.00% | ~914 |
 | Lost and Found | 8.00% | ~562 |
 | Autodidact | 7.00% | ~9,251 |
 | This guy... again? | 7.00% | ~492 |
-| This Belongs in a Museum | 6.00% | ~7,929 |
-| Creep and Sleep | 6.00% | ~7,929 |
-| Overdue Notice | 6.00% | ~7,929 |
-| Ploughshares to Swords | 6.00% | ~421 |
+| This Belongs in a Museum | 6.00% | ~7,930 |
+| Creep and Sleep | 6.00% | ~7,930 |
+| Overdue Notice | 6.00% | ~7,930 |
+| Ploughshares to Swords | 6.00% | ~422 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,608 |
 | Serenity Now! | 5.00% | ~6,608 |
 | Not Today! | 5.00% | ~6,608 |
@@ -23,7 +23,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 5.00% | ~6,608 |
 | To Grandmother's House | 5.00% | ~6,608 |
 | FNG | 5.00% | ~6,608 |
-| Bloody Graduation | 5.00% | ~351 |
+| Bloody Graduation | 5.00% | ~352 |
 | It Rings a Bell | 4.00% | ~5,286 |
 | It Happens | 4.00% | ~5,286 |
 | Spelunker | 4.00% | ~5,286 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,155 (Ranked 91)  
+Progressed: 132,161 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,155 | 3 |
+| 2024-01-08 | 132,161 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
 Sum: 21,528 (Ranked 58)  

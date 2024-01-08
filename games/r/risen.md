@@ -12,7 +12,7 @@ Rating: 4.56 (Ranked 507)
 | The brave little tailor | 40.00% | ~72 |
 | Archer | 40.00% | ~72 |
 | Field hand | 37.00% | ~66 |
-| Well-to-do | 31.00% | ~55 |
+| Well-to-do | 32.00% | ~57 |
 | Samaritan | 29.00% | ~52 |
 | Ladies' man | 28.00% | ~50 |
 | The merciful one | 27.00% | ~48 |
@@ -24,9 +24,9 @@ Rating: 4.56 (Ranked 507)
 | Family man | 17.00% | ~30 |
 | Archaeologist | 17.00% | ~30 |
 | Sidelined | 17.00% | ~30 |
+| Wise man | 16.00% | ~29 |
 | Hard worker | 16.00% | ~29 |
 | Fence | 16.00% | ~29 |
-| Wise man | 15.00% | ~27 |
 | Little hero | 15.00% | ~27 |
 | The fourth triplet | 15.00% | ~27 |
 | Master detective | 14.00% | ~25 |
@@ -36,8 +36,8 @@ Rating: 4.56 (Ranked 507)
 | Defender | 11.00% | ~20 |
 | Workaholic | 11.00% | ~20 |
 | Showdown | 10.00% | ~18 |
+| Safecracker | 10.00% | ~18 |
 | Freedom fighter | 9.00% | ~16 |
-| Safecracker | 9.00% | ~16 |
 | Master thief | 9.00% | ~16 |
 | Titan Lord | 8.00% | ~14 |
 | Expert | 7.00% | ~13 |

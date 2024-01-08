@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24930,
+  "EOS_Progressed": 24931,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -22509,6 +22509,11 @@
       "Time": "2024-01-08T11:06:27.9467138+00:00",
       "NumProgressed": 24930,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-08T12:05:02.1027159+00:00",
+      "NumProgressed": 24931,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -22560,7 +22565,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "Fireworks",
@@ -22616,7 +22621,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11717
+      "UsersEstimate": 11718
     },
     {
       "ID": "Sole_Survivor",
@@ -22624,7 +22629,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8476
+      "UsersEstimate": 8477
     },
     {
       "ID": "Still_Burning",
@@ -22647,15 +22652,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24930,
+      "Progressed": 24931,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-06T06:00:08.5224706+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:06:27.9467133+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:05:02.1027155+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.4692455+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:57:23.6672988+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:06:27.9468398+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:56:56.5706998+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:05:02.1028299+00:00"
 }

@@ -39,15 +39,15 @@ Rating: 3.96 (Ranked 1,058)
 | Rockay Knight | 0.30% | ~280 |
 | Red Star | 0.30% | ~280 |
 | All for One | 0.30% | ~65 |
+| Now You See Me | 0.30% | ~65 |
 | Privateer | 0.20% | ~186 |
 | Talent Scout | 0.20% | ~186 |
 | Impossible Dreamer | 0.20% | ~186 |
 | One for All | 0.20% | ~43 |
-| Now You See Me | 0.20% | ~43 |
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,231 (Ranked 101)  
+Progressed: 93,232 (Ranked 101)  
 Completed: 58 (0.06%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,14 +310,14 @@ Completed: 58 (0.06%) (Ranked 331)
 | 2024-01-05 | 93,065 | 58 |
 | 2024-01-06 | 93,141 | 58 |
 | 2024-01-07 | 93,213 | 58 |
-| 2024-01-08 | 93,231 | 58 |
+| 2024-01-08 | 93,232 | 58 |
 ## Awards
-Max (Diverse Characters): 591  (Ranked 211)  
-Sum: 2,797 (Ranked 192)  
-Diff (max vs sum): 19  
+Max (Diverse Characters): 593  (Ranked 209)  
+Sum: 2,799 (Ranked 191)  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 591 |
+| This game has Diverse Characters | 593 |
 | This game is Highly Recommended | 569 |
 | This game has Amazing Characters | 552 |
 | This game has Quickly Understood Controls | 548 |
@@ -609,3 +609,4 @@ Diff (max vs sum): 19
 | 2024-01-05 | 3.96 | 591 | 2,791 |
 | 2024-01-06 | 3.96 | 591 | 2,796 |
 | 2024-01-07 | 3.96 | 591 | 2,797 |
+| 2024-01-08 | 3.96 | 593 | 2,799 |

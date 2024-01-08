@@ -6,13 +6,13 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~129,022 |
-| Incurious | 18.00% | ~122,232 |
-| Climate Change | 17.00% | ~115,441 |
-| Stroller | 16.00% | ~108,650 |
-| Advanced Hiker | 14.00% | ~95,069 |
-| Toy Train | 14.00% | ~95,069 |
-| Hiker | 12.00% | ~81,488 |
+| Advanced Stroller | 19.00% | ~129,023 |
+| Incurious | 18.00% | ~122,233 |
+| Climate Change | 17.00% | ~115,442 |
+| Stroller | 16.00% | ~108,651 |
+| Advanced Hiker | 14.00% | ~95,070 |
+| Toy Train | 14.00% | ~95,070 |
+| Hiker | 12.00% | ~81,489 |
 | Mojave Courier | 6.00% | ~40,744 |
 | Saved by Nausicaä | 6.00% | ~40,744 |
 | Voyager | 4.00% | ~27,163 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~679 |
 | 20 Miles under the Sea | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,064 (Ranked 30)  
+Progressed: 679,071 (Ranked 30)  
 Completed: 14 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 14 (0.00%) (Ranked 394)
 | 2024-01-05 | 678,321 | 13 |
 | 2024-01-06 | 678,671 | 14 |
 | 2024-01-07 | 679,006 | 14 |
-| 2024-01-08 | 679,064 | 14 |
+| 2024-01-08 | 679,071 | 14 |
 ## Awards
 Max (Great for Beginners): 209  (Ranked 294)  
-Sum: 1,630 (Ranked 236)  
+Sum: 1,631 (Ranked 236)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -337,7 +337,7 @@ Diff (max vs sum): 58
 | This game has Amazing Characters | 173 |
 | This game has Playful Visuals | 166 |
 | This game is Highly Recommended | 164 |
-| This game has Amazing Storytelling | 150 |
+| This game has Amazing Storytelling | 151 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
 ## Ratings History
@@ -507,3 +507,4 @@ Diff (max vs sum): 58
 | 2024-01-02 | 4.64 | - | 208 | 1,625 |
 | 2024-01-05 | 4.64 | - | 208 | 1,626 |
 | 2024-01-06 | 4.64 | - | 209 | 1,630 |
+| 2024-01-08 | 4.64 | - | 209 | 1,631 |

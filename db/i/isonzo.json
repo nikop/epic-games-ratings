@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9836,
+  "EOS_Progressed": 9838,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10824,6 +10824,11 @@
       "Time": "2024-01-08T09:09:37.6930165+00:00",
       "NumProgressed": 9836,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-08T12:09:25.9749911+00:00",
+      "NumProgressed": 9838,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10843,7 +10848,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -10851,7 +10856,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10865,9 +10870,9 @@
       "ID": "ISONZO_ACH_CERCATORE_DORO",
       "SetID": "akchbl3",
       "Name": "Cercatore d\u0027Oro",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 590
+      "UsersEstimate": 492
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -10899,7 +10904,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -10907,7 +10912,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -10915,7 +10920,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -10955,7 +10960,7 @@
       "Name": "Generalissimo",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -11019,7 +11024,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -11027,7 +11032,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4426
+      "UsersEstimate": 4427
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11075,7 +11080,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -11163,7 +11168,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11187,14 +11192,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5016
+      "UsersEstimate": 5017
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9836,
+      "Progressed": 9838,
       "Completed": 10
     }
   ],
@@ -11202,8 +11207,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:10:20.6742297+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:09:25.9749907+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:00:01.5526164+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:10:20.6743099+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:58:47.7833778+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:09:25.9750734+00:00"
 }

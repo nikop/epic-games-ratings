@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -530,9 +530,9 @@
       "ID": "FanOfYang",
       "SetID": "123m9l1",
       "Name": "The Real O.G.",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "FinishTheGame",
@@ -667,8 +667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:07:08.5692545+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:05:30.6417886+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.6846029+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:57:54.5374286+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:07:08.5692785+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:57:18.3836584+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:05:30.6418065+00:00"
 }

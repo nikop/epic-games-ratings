@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5334,
+  "EOS_Progressed": 5336,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -4965,6 +4965,11 @@
       "Time": "2024-01-08T10:03:38.068086+00:00",
       "NumProgressed": 5334,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-08T12:03:31.6714103+00:00",
+      "NumProgressed": 5336,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4976,7 +4981,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -5024,7 +5029,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4481
+      "UsersEstimate": 4482
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5032,7 +5037,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5014
+      "UsersEstimate": 5016
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5040,7 +5045,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4054
+      "UsersEstimate": 4055
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5048,7 +5053,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5144,7 +5149,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -5168,7 +5173,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -5184,7 +5189,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -5192,7 +5197,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4054
+      "UsersEstimate": 4055
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5200,7 +5205,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -5224,7 +5229,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2881
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5256,7 +5261,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5320,7 +5325,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5504,22 +5509,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5334,
+      "Progressed": 5336,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:04:20.3759703+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:03:31.6714097+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:58:07.1552362+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:04:20.3760584+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:57:28.3873208+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:03:31.6715013+00:00"
 }

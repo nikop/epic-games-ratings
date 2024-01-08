@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -45,7 +45,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3441,
+  "EOS_Progressed": 3443,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
@@ -8435,6 +8435,11 @@
       "Time": "2024-01-08T10:08:51.0748405+00:00",
       "NumProgressed": 3441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T12:08:27.2978568+00:00",
+      "NumProgressed": 3443,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8447,7 +8452,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8455,7 +8460,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8479,7 +8484,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8503,7 +8508,7 @@
       "Name": "I Want One Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -8535,7 +8540,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -8655,7 +8660,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8735,7 +8740,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8743,7 +8748,7 @@
       "Name": "Eat My Dust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8838,7 +8843,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3441,
+      "Progressed": 3443,
       "Completed": 0
     }
   ],
@@ -8846,8 +8851,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:08:57.0700501+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:08:27.2978565+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
   "LastUpdate_Ratings": "2024-01-08T11:02:35.4093777+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:08:57.0701336+00:00"
+  "LastUpdate_Achievements": "2024-01-08T12:08:27.2979236+00:00"
 }

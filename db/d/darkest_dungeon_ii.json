@@ -10644,9 +10644,9 @@
       "Count": 1084
     }
   ],
-  "EOS_Progressed": 132155,
+  "EOS_Progressed": 132161,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1055,
+  "EOS_NewPlayers": 1054,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38894,6 +38894,11 @@
       "Time": "2024-01-08T11:10:53.230538+00:00",
       "NumProgressed": 132155,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T12:09:49.1114909+00:00",
+      "NumProgressed": 132161,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39033,7 +39038,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7929
+      "UsersEstimate": 7930
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39065,7 +39070,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7929
+      "UsersEstimate": 7930
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39129,7 +39134,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7929
+      "UsersEstimate": 7930
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39441,7 +39446,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "combat_kill_collector",
@@ -39489,7 +39494,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39497,7 +39502,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "quest_complete_crusader",
@@ -39536,21 +39541,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132155,
+      "Progressed": 132161,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7024,
+      "Progressed": 7030,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-08T04:57:57.0067761+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:10:53.2305376+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:09:49.1114904+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-08T10:58:52.174749+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:10:53.2307575+00:00"
+  "LastUpdate_Ratings": "2024-01-08T11:57:59.8686326+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:09:49.1116993+00:00"
 }

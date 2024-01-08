@@ -3,7 +3,7 @@
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
   "Ranking_Rating": 299,
-  "Ranking_Popularity": 209,
+  "Ranking_Popularity": 210,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 337,
@@ -2488,9 +2488,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 224797,
+  "EOS_Progressed": 224801,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 1612,
+  "EOS_NewPlayers": 1599,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32753,6 +32753,11 @@
       "Time": "2024-01-08T11:08:26.2281861+00:00",
       "NumProgressed": 224797,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-08T12:06:25.6958691+00:00",
+      "NumProgressed": 224801,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 44,
@@ -33115,15 +33120,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 224797,
+      "Progressed": 224801,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-08T03:03:23.9751382+00:00",
-  "LastChanged_Achievements": "2024-01-08T11:08:26.2281857+00:00",
+  "LastChanged_Achievements": "2024-01-08T12:06:25.695869+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.88387+00:00",
-  "LastUpdate_Ratings": "2024-01-08T11:03:18.3796755+00:00",
-  "LastUpdate_Achievements": "2024-01-08T11:08:26.2283189+00:00"
+  "LastUpdate_Ratings": "2024-01-08T12:02:47.9745872+00:00",
+  "LastUpdate_Achievements": "2024-01-08T12:06:25.6960379+00:00"
 }
