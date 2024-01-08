@@ -2,7 +2,7 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 158,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 682,
+  "EOS_Progressed": 683,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2219,6 +2219,11 @@
       "Time": "2024-01-08T01:55:46.8938193+00:00",
       "NumProgressed": 682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T02:30:27.2511462+00:00",
+      "NumProgressed": 683,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2287,7 +2292,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "REMAKE_002",
@@ -2295,7 +2300,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "REMAKE_004",
@@ -2303,7 +2308,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "Remake_005",
@@ -2327,7 +2332,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Remake_008",
@@ -2381,9 +2386,9 @@
       "ID": "Remake_14",
       "SetID": "5pi96jj",
       "Name": "This is not how you play Slip and Die",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "Remake_15",
@@ -2454,14 +2459,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 682,
+      "Progressed": 683,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:55:46.8938186+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:30:27.251146+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:50:05.3309136+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:55:46.8938492+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:24:23.485329+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:30:27.251177+00:00"
 }

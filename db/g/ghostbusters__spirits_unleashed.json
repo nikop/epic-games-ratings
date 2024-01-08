@@ -3963,9 +3963,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33436,
+  "EOS_Progressed": 33438,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24938,6 +24938,11 @@
       "Time": "2024-01-08T01:57:57.0368701+00:00",
       "NumProgressed": 33436,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-08T02:33:24.1036055+00:00",
+      "NumProgressed": 33438,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25013,7 +25018,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "Daily_Dose",
@@ -25021,7 +25026,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "Diabolical",
@@ -25093,7 +25098,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "Ghost_Expert",
@@ -25197,7 +25202,7 @@
       "Name": "Right back at ya",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "Rivalry",
@@ -25301,7 +25306,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "There_You_Are",
@@ -25349,14 +25354,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33436,
+      "Progressed": 33438,
       "Completed": 71
     }
   ],
@@ -25364,8 +25369,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-07T01:52:35.5069722+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:57:57.0368699+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:33:24.1036052+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:46:59.4026829+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:57:57.0369853+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:22:08.3765743+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:33:24.1037064+00:00"
 }

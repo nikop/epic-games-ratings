@@ -17,11 +17,11 @@ Rating: 4.50 (Ranked 611)
 | Teamwork | 5.00% | ~1,672 |
 | There you are! | 5.00% | ~1,672 |
 | Vaporous Expansion | 5.00% | ~1,672 |
-| Cultured | 4.00% | ~1,337 |
-| Daily Dose | 4.00% | ~1,337 |
-| Ghostbuster In Training | 4.00% | ~1,337 |
-| Right back at ya | 4.00% | ~1,337 |
-| Whoopsie | 4.00% | ~1,337 |
+| Cultured | 4.00% | ~1,338 |
+| Daily Dose | 4.00% | ~1,338 |
+| Ghostbuster In Training | 4.00% | ~1,338 |
+| Right back at ya | 4.00% | ~1,338 |
+| Whoopsie | 4.00% | ~1,338 |
 | Animated | 3.00% | ~1,003 |
 | Back Off | 3.00% | ~1,003 |
 | We have the best insurance | 3.00% | ~1,003 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 611)
 | Rivalry | 1.00% | ~334 |
 | Surprise! | 1.00% | ~334 |
 | Terrifying | 1.00% | ~334 |
-| Therapeutic | 0.80% | ~267 |
+| Therapeutic | 0.80% | ~268 |
 | Rift Seeker | 0.60% | ~201 |
 | Master Collector | 0.50% | ~167 |
 | Ghost Expert | 0.30% | ~100 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 611)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,436 (Ranked 136)  
+Progressed: 33,438 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 71 (0.21%) (Ranked 273)
 | 2024-01-05 | 33,310 | 71 |
 | 2024-01-06 | 33,384 | 71 |
 | 2024-01-07 | 33,430 | 71 |
-| 2024-01-08 | 33,436 | 71 |
+| 2024-01-08 | 33,438 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 255)  
 Sum: 2,953 (Ranked 186)  

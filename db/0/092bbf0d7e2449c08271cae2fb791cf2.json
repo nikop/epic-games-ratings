@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -1679,6 +1679,11 @@
       "Time": "2024-01-07T22:05:41.251997+00:00",
       "NumProgressed": 507,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T02:30:12.1029879+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1715,7 +1720,7 @@
       "Name": "Three Caps",
       "Percentage": 7,
       "XP": 140,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach5",
@@ -1746,14 +1751,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:55:27.1875319+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:30:12.1029876+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:46:43.2935316+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:55:27.1875557+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:21:55.7127954+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:30:12.1029997+00:00"
 }

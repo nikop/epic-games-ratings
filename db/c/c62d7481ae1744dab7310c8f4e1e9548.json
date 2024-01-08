@@ -1179,9 +1179,9 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "Pejsek",
@@ -1306,8 +1306,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:52:46.3615053+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:28:07.5856586+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:51:55.800178+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:52:46.3615237+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:27:27.2691696+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:28:07.5856858+00:00"
 }

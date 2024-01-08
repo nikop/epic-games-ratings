@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473534,
+  "EOS_Progressed": 473535,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27854,6 +27854,11 @@
       "Time": "2024-01-08T01:59:30.9955704+00:00",
       "NumProgressed": 473534,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-08T02:34:36.7367813+00:00",
+      "NumProgressed": 473535,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27889,7 +27894,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104177
+      "UsersEstimate": 104178
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -27905,7 +27910,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47353
+      "UsersEstimate": 47354
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -27953,7 +27958,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312532
+      "UsersEstimate": 312533
     },
     {
       "ID": "achievement_story_landa",
@@ -28321,7 +28326,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184678
+      "UsersEstimate": 184679
     },
     {
       "ID": "achievement_win_run_hard",
@@ -28377,7 +28382,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104177
+      "UsersEstimate": 104178
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -28496,21 +28501,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17468,
+      "Progressed": 17469,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473534,
+      "Progressed": 473535,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:59:30.9955702+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:34:36.7367811+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:48:25.3994591+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:59:30.9957333+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:23:12.4743915+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:34:36.7369387+00:00"
 }

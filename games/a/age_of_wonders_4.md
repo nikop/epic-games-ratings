@@ -5,12 +5,12 @@ Rating: 4.62 (Ranked 377)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 16.00% | ~1,128 |
-| Realm Estate | 14.00% | ~987 |
+| Secret Technique | 16.00% | ~1,129 |
+| Realm Estate | 14.00% | ~988 |
 | A Wonderful Discovery | 13.00% | ~917 |
 | Walls Cannot Stop Us | 13.00% | ~917 |
 | From Friends to Family | 11.00% | ~776 |
-| Bone Peddler | 10.00% | ~705 |
+| Bone Peddler | 10.00% | ~706 |
 | Full Ascension | 8.00% | ~564 |
 | Magical Synergy | 8.00% | ~564 |
 | There Can Only Be One! | 7.00% | ~494 |
@@ -53,8 +53,8 @@ Rating: 4.62 (Ranked 377)
 | Prometheus Avenged | 1.00% | ~71 |
 | Seal the Deal | 1.00% | ~71 |
 | A Conqueror's Cohort | 1.00% | ~71 |
-| Betrayal Most Foul | 0.90% | ~63 |
-| Duality | 0.90% | ~63 |
+| Betrayal Most Foul | 0.90% | ~64 |
+| Duality | 0.90% | ~64 |
 | Snap Out of It! | 0.60% | ~42 |
 | The Magic That Empowers Me! | 0.50% | ~35 |
 | Jack of All Tomes | 0.40% | ~28 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 377)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,052 (Ranked 196)  
+Progressed: 7,056 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
 | 2024-01-07 | 7,051 | 7 |
-| 2024-01-08 | 7,052 | 7 |
+| 2024-01-08 | 7,056 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 482)  
 Sum: 212 (Ranked 410)  

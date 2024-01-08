@@ -593,9 +593,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46813,
+  "EOS_Progressed": 46814,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 876,
+  "EOS_NewPlayers": 877,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -13423,6 +13423,11 @@
       "Time": "2024-01-08T01:58:33.9086561+00:00",
       "NumProgressed": 46813,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-08T02:33:52.4552109+00:00",
+      "NumProgressed": 46814,
+      "NumCompleted": 234
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -13587,7 +13592,7 @@
       "Name": "Path to Salvation",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8426
+      "UsersEstimate": 8427
     },
     {
       "ID": "ACH_OASIS",
@@ -13627,7 +13632,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 31833
+      "UsersEstimate": 31834
     },
     {
       "ID": "ACH_S4",
@@ -13635,7 +13640,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 23406
+      "UsersEstimate": 23407
     },
     {
       "ID": "ACH_S5",
@@ -13666,15 +13671,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 46813,
+      "Progressed": 46814,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-06T09:57:22.6861486+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:58:33.9086559+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:33:52.4552107+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:23.089643+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:47:11.4226535+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:58:33.9087304+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:22:17.4275626+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:33:52.4552885+00:00"
 }

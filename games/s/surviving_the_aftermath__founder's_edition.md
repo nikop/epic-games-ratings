@@ -6,46 +6,46 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 85.00% | ~422,184 |
-| Leader | 49.00% | ~243,377 |
-| Healer | 39.00% | ~193,708 |
-| Explorer | 37.00% | ~183,774 |
-| Aspiring Inventor | 29.00% | ~144,039 |
-| Adventurer | 28.00% | ~139,072 |
-| Famous Healer | 25.00% | ~124,172 |
-| Local Leader | 22.00% | ~109,271 |
-| Famous Explorer | 21.00% | ~104,304 |
-| New Opportunities | 21.00% | ~104,304 |
-| Energized | 21.00% | ~104,304 |
-| Survivor | 20.00% | ~99,337 |
-| The Great Healer | 19.00% | ~94,371 |
-| Catastrofan | 19.00% | ~94,371 |
-| The Long Haul | 19.00% | ~94,371 |
-| Cleaner | 17.00% | ~84,437 |
-| Legendary Explorer | 16.00% | ~79,470 |
-| Finders, Keepers | 15.00% | ~74,503 |
-| Top Notch | 15.00% | ~74,503 |
-| Great Leader | 14.00% | ~69,536 |
-| Ice Lakes | 14.00% | ~69,536 |
-| Mentor | 14.00% | ~69,536 |
-| Real Survivor | 14.00% | ~69,536 |
-| Merchant | 12.00% | ~59,602 |
-| Rocket Surgeon | 12.00% | ~59,602 |
-| Around the World | 11.00% | ~54,636 |
-| Spreading Influence | 11.00% | ~54,636 |
-| War Never Changes | 10.00% | ~49,669 |
-| Sky Burial | 10.00% | ~49,669 |
-| Big Game Hunter | 9.00% | ~44,702 |
-| Bookworm | 9.00% | ~44,702 |
-| Friendly | 8.00% | ~39,735 |
-| Famous Adventurer | 8.00% | ~39,735 |
-| Prepared for Anything | 8.00% | ~39,735 |
-| Big Catastrofan | 8.00% | ~39,735 |
-| It's a Finnish Thing | 6.00% | ~29,801 |
-| Trader | 5.00% | ~24,834 |
-| Bread and Circuses | 5.00% | ~24,834 |
-| New Eden | 4.00% | ~19,867 |
-| Amped Up | 4.00% | ~19,867 |
+| First Step | 85.00% | ~422,198 |
+| Leader | 49.00% | ~243,384 |
+| Healer | 39.00% | ~193,714 |
+| Explorer | 37.00% | ~183,780 |
+| Aspiring Inventor | 29.00% | ~144,044 |
+| Adventurer | 28.00% | ~139,077 |
+| Famous Healer | 25.00% | ~124,176 |
+| Local Leader | 22.00% | ~109,275 |
+| Famous Explorer | 21.00% | ~104,308 |
+| New Opportunities | 21.00% | ~104,308 |
+| Energized | 21.00% | ~104,308 |
+| Survivor | 20.00% | ~99,341 |
+| The Great Healer | 19.00% | ~94,374 |
+| Catastrofan | 19.00% | ~94,374 |
+| The Long Haul | 19.00% | ~94,374 |
+| Cleaner | 17.00% | ~84,440 |
+| Legendary Explorer | 16.00% | ~79,472 |
+| Finders, Keepers | 15.00% | ~74,505 |
+| Top Notch | 15.00% | ~74,505 |
+| Great Leader | 14.00% | ~69,538 |
+| Ice Lakes | 14.00% | ~69,538 |
+| Mentor | 14.00% | ~69,538 |
+| Real Survivor | 14.00% | ~69,538 |
+| Merchant | 12.00% | ~59,604 |
+| Rocket Surgeon | 12.00% | ~59,604 |
+| Around the World | 11.00% | ~54,637 |
+| Spreading Influence | 11.00% | ~54,637 |
+| War Never Changes | 10.00% | ~49,670 |
+| Sky Burial | 10.00% | ~49,670 |
+| Big Game Hunter | 9.00% | ~44,703 |
+| Bookworm | 9.00% | ~44,703 |
+| Friendly | 8.00% | ~39,736 |
+| Famous Adventurer | 8.00% | ~39,736 |
+| Prepared for Anything | 8.00% | ~39,736 |
+| Big Catastrofan | 8.00% | ~39,736 |
+| It's a Finnish Thing | 6.00% | ~29,802 |
+| Trader | 5.00% | ~24,835 |
+| Bread and Circuses | 5.00% | ~24,835 |
+| New Eden | 4.00% | ~19,868 |
+| Amped Up | 4.00% | ~19,868 |
 | Really Friendly | 3.00% | ~14,901 |
 | Look, no Hands! | 3.00% | ~14,901 |
 | Ranch Hand | 2.00% | ~9,934 |
@@ -59,14 +59,14 @@ Number of Ratings: 836  (23.09.2022)
 | Slimy yet Satisfying | 0.70% | ~3,477 |
 | Diplomat | 0.60% | ~2,980 |
 | Feng Shui | 0.60% | ~2,980 |
-| Legendary Adventurer | 0.50% | ~2,483 |
+| Legendary Adventurer | 0.50% | ~2,484 |
 | The Friendliest | 0.40% | ~1,987 |
 | Fun and Games | 0.20% | ~993 |
 | Finnished | 0.20% | ~993 |
 | Choo-choo! | 0.10% | ~497 |
 | Customized calamities | 0.10% | ~497 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496,687 (Ranked 41)  
+Progressed: 496,703 (Ranked 41)  
 Completed: 60 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 60 (0.01%) (Ranked 372)
 | 2024-01-05 | 493,989 | 60 |
 | 2024-01-06 | 495,340 | 60 |
 | 2024-01-07 | 496,583 | 60 |
-| 2024-01-08 | 496,687 | 60 |
+| 2024-01-08 | 496,703 | 60 |
 ## Awards
 Max (Great for Beginners): 261  (Ranked 277)  
 Sum: 1,563 (Ranked 240)  

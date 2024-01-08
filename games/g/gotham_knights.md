@@ -5,40 +5,40 @@ Rating: 4.19 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,008 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,886 |
-| Loose Ends | 33.00% | ~27,066 |
-| To the Victor Go the Spoils | 27.00% | ~22,145 |
-| Knighthood | 26.00% | ~21,324 |
-| Get ReQ'd | 24.00% | ~19,684 |
-| Whispered Words | 24.00% | ~19,684 |
-| The Batman Family | 22.00% | ~18,044 |
-| Lock and Key | 22.00% | ~18,044 |
-| Something in the Clay | 20.00% | ~16,403 |
-| Quartzer Life Crisis | 20.00% | ~16,403 |
-| Working Hard or Harley Working? | 20.00% | ~16,403 |
-| Unstoppable Force | 20.00% | ~16,403 |
-| Bad Apples in Every Orchard | 20.00% | ~16,403 |
-| Snow Problem | 19.00% | ~15,583 |
-| The Show Mud Go On | 17.00% | ~13,943 |
-| From Inside Gotham's Walls | 17.00% | ~13,943 |
-| Protector of Gotham | 16.00% | ~13,123 |
+| First Step Into the Knight | 50.00% | ~41,012 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,888 |
+| Loose Ends | 33.00% | ~27,068 |
+| To the Victor Go the Spoils | 27.00% | ~22,146 |
+| Knighthood | 26.00% | ~21,326 |
+| Get ReQ'd | 24.00% | ~19,686 |
+| Whispered Words | 24.00% | ~19,686 |
+| The Batman Family | 22.00% | ~18,045 |
+| Lock and Key | 22.00% | ~18,045 |
+| Something in the Clay | 20.00% | ~16,405 |
+| Quartzer Life Crisis | 20.00% | ~16,405 |
+| Working Hard or Harley Working? | 20.00% | ~16,405 |
+| Unstoppable Force | 20.00% | ~16,405 |
+| Bad Apples in Every Orchard | 20.00% | ~16,405 |
+| Snow Problem | 19.00% | ~15,584 |
+| The Show Mud Go On | 17.00% | ~13,944 |
+| From Inside Gotham's Walls | 17.00% | ~13,944 |
+| Protector of Gotham | 16.00% | ~13,124 |
 | In Your Element | 15.00% | ~12,303 |
 | Universal Health Scare | 15.00% | ~12,303 |
-| Rock and a Hard Place | 14.00% | ~11,482 |
-| Cooldown | 14.00% | ~11,482 |
-| Voiceless | 14.00% | ~11,482 |
-| Shock Til They Drop | 13.00% | ~10,662 |
-| Seeking Asylum | 13.00% | ~10,662 |
-| End of an Era | 12.00% | ~9,842 |
-| Not On My Watch | 12.00% | ~9,842 |
-| Bulldozed | 12.00% | ~9,842 |
-| Gotham Knight | 12.00% | ~9,842 |
-| Gotham City Confidential | 11.00% | ~9,022 |
+| Rock and a Hard Place | 14.00% | ~11,483 |
+| Cooldown | 14.00% | ~11,483 |
+| Voiceless | 14.00% | ~11,483 |
+| Shock Til They Drop | 13.00% | ~10,663 |
+| Seeking Asylum | 13.00% | ~10,663 |
+| End of an Era | 12.00% | ~9,843 |
+| Not On My Watch | 12.00% | ~9,843 |
+| Bulldozed | 12.00% | ~9,843 |
+| Gotham Knight | 12.00% | ~9,843 |
+| Gotham City Confidential | 11.00% | ~9,023 |
 | Out of Their League | 9.00% | ~7,382 |
 | Drone You Out | 9.00% | ~7,382 |
-| Solid Alibi | 8.00% | ~6,561 |
-| Fusion Expert | 7.00% | ~5,741 |
+| Solid Alibi | 8.00% | ~6,562 |
+| Fusion Expert | 7.00% | ~5,742 |
 | Family Meeting | 6.00% | ~4,921 |
 | A Worthy Successor | 6.00% | ~4,921 |
 | Expert Crime Fighter | 5.00% | ~4,101 |
@@ -57,8 +57,8 @@ Rating: 4.19 (Ranked 971)
 | Read Owl About It | 0.70% | ~574 |
 | Don't Mecha Big Deal About It | 0.60% | ~314 |
 | Confronting Your Demon | 0.60% | ~314 |
-| Gotham's Greatest Depths | 0.50% | ~261 |
-| That's Showbiz, Clayby | 0.50% | ~261 |
+| Gotham's Greatest Depths | 0.50% | ~262 |
+| That's Showbiz, Clayby | 0.50% | ~262 |
 | Hammer and Icicle | 0.40% | ~209 |
 | Renewable Enemy Source | 0.40% | ~209 |
 | Crime Is a Terrible Thing to Waste | 0.40% | ~209 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 971)
 | The Cold, the Bad and the Ugly | 0.30% | ~157 |
 | It's Nice to Be Wanted | 0.20% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,017 (Ranked 110)  
+Progressed: 82,023 (Ranked 110)  
 Completed: 132 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,11 +330,11 @@ Completed: 132 (0.16%) (Ranked 283)
 | 2024-01-05 | 81,609 | 131 |
 | 2024-01-06 | 81,792 | 132 |
 | 2024-01-07 | 81,989 | 132 |
-| 2024-01-08 | 82,017 | 132 |
+| 2024-01-08 | 82,023 | 132 |
 ## Awards
 Max (Great Boss Battles): 3,157  (Ranked 101)  
-Sum: 5,393 (Ranked 142)  
-Diff (max vs sum): -41  
+Sum: 5,393 (Ranked 141)  
+Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,157 |

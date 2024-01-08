@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1419,
+  "EOS_Progressed": 1420,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
@@ -5018,6 +5018,11 @@
       "Time": "2024-01-07T21:05:12.4514063+00:00",
       "NumProgressed": 1419,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-08T02:28:55.7471124+00:00",
+      "NumProgressed": 1420,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 28,
@@ -5029,7 +5034,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "MQ01_2",
@@ -5045,7 +5050,7 @@
       "Name": "High Profile",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "MQ02_2",
@@ -5085,7 +5090,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "MQ03_3",
@@ -5101,7 +5106,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "MQ03_5",
@@ -5109,7 +5114,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "MQ04_1",
@@ -5125,7 +5130,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "MQ04_3",
@@ -5141,7 +5146,7 @@
       "Name": "Open Sesame",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "MQ05_2",
@@ -5157,7 +5162,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "MQ05_4",
@@ -5165,7 +5170,7 @@
       "Name": "Knives Out",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "MQ06_1",
@@ -5181,7 +5186,7 @@
       "Name": "Bookworm",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "MQ06_3",
@@ -5189,7 +5194,7 @@
       "Name": "Land, Ho!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "MQ06_4",
@@ -5229,7 +5234,7 @@
       "Name": "Up In Flames",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "MQ08_3",
@@ -5237,7 +5242,7 @@
       "Name": "Fhtagn!",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "PLTN",
@@ -5252,7 +5257,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1419,
+      "Progressed": 1420,
       "Completed": 43
     }
   ],
@@ -5260,8 +5265,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:53:47.6081909+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:28:55.7471122+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.4350556+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:52:09.8904574+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:53:47.6082293+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:27:37.3071548+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:28:55.7471412+00:00"
 }

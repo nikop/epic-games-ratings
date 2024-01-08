@@ -2154,9 +2154,9 @@
       "ID": "Kill_Enemies_666",
       "SetID": "7a5k76n",
       "Name": "Devil\u0027s in the Details",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 192
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2242,9 +2242,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 320
     },
     {
       "ID": "Save_Humans_10",
@@ -2354,8 +2354,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:52:30.3385462+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:27:55.1762227+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:49:57.7982064+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:52:30.3386023+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:24:18.4826798+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:27:55.1762758+00:00"
 }

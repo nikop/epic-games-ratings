@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70312,
+  "EOS_Progressed": 70314,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19863,6 +19863,11 @@
       "Time": "2024-01-08T01:54:02.9578424+00:00",
       "NumProgressed": 70312,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-08T02:29:07.5534357+00:00",
+      "NumProgressed": 70314,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -19978,7 +19983,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_READCLUES",
@@ -20010,7 +20015,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -20033,7 +20038,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 70312,
+      "Progressed": 70314,
       "Completed": 18
     }
   ],
@@ -20041,8 +20046,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:54:02.957842+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:29:07.5534356+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:33.3205211+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:49:28.3873547+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:54:02.9579629+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:23:56.9794797+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:29:07.5535169+00:00"
 }

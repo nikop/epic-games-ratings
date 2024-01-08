@@ -12,7 +12,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 8.00% | ~1,635 |
 | Overgrown Library | 8.00% | ~1,635 |
 | Petrified Necropolis | 8.00% | ~1,635 |
-| The Marshlands | 7.00% | ~1,430 |
+| The Marshlands | 7.00% | ~1,431 |
 | Overcoming Difficulty | 6.00% | ~1,226 |
 | Coral Forest | 6.00% | ~1,226 |
 | The Scarlet Orchard | 6.00% | ~1,226 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,435 (Ranked 154)  
+Progressed: 20,436 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,10 +329,10 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
-| 2024-01-08 | 20,435 | 34 |
+| 2024-01-08 | 20,436 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 449  (Ranked 232)  
-Sum: 3,354 (Ranked 177)  
+Sum: 3,356 (Ranked 177)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -342,7 +342,7 @@ Diff (max vs sum): 55
 | This game is Extremely Fun | 418 |
 | This game is Highly Recommended | 405 |
 | This game has Unique Visuals | 347 |
-| This game has Amazing Storytelling | 331 |
+| This game has Amazing Storytelling | 333 |
 | This game has Amazing Characters | 295 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 219 |
@@ -627,3 +627,4 @@ Diff (max vs sum): 55
 | 2024-01-05 | 4.82 | - | 448 | 3,337 |
 | 2024-01-06 | 4.82 | - | 449 | 3,344 |
 | 2024-01-07 | 4.82 | - | 449 | 3,354 |
+| 2024-01-08 | 4.82 | - | 449 | 3,356 |

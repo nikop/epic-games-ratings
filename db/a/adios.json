@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83029,
+  "EOS_Progressed": 83030,
   "EOS_Completed": 925,
-  "EOS_NewPlayers": 744,
+  "EOS_NewPlayers": 745,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29436,6 +29436,11 @@
       "Time": "2024-01-08T01:56:02.3894463+00:00",
       "NumProgressed": 83029,
       "NumCompleted": 925
+    },
+    {
+      "Time": "2024-01-08T02:30:39.1260373+00:00",
+      "NumProgressed": 83030,
+      "NumCompleted": 925
     }
   ],
   "TotalAchievements": 25,
@@ -29479,7 +29484,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18266
+      "UsersEstimate": 18267
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -29543,7 +29548,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4151
+      "UsersEstimate": 4152
     },
     {
       "ID": "Master, Commander",
@@ -29646,7 +29651,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83029,
+      "Progressed": 83030,
       "Completed": 925
     }
   ],
@@ -29654,8 +29659,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:56:02.3894461+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:30:39.1260371+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:47:01.3265886+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:56:02.38956+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:22:09.792831+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:30:39.1261927+00:00"
 }

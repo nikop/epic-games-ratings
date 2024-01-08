@@ -1837,9 +1837,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 167164,
+  "EOS_Progressed": 167169,
   "EOS_Completed": 450,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1347,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22237,6 +22237,11 @@
       "Time": "2024-01-08T01:52:26.796686+00:00",
       "NumProgressed": 167164,
       "NumCompleted": 450
+    },
+    {
+      "Time": "2024-01-08T02:27:52.6324898+00:00",
+      "NumProgressed": 167169,
+      "NumCompleted": 450
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22305,7 +22310,7 @@
       "Name": "Breath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -22329,7 +22334,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -22337,7 +22342,7 @@
       "Name": "Artisan",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -22377,7 +22382,7 @@
       "Name": "Hush",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -22385,7 +22390,7 @@
       "Name": "Harmless",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -22417,7 +22422,7 @@
       "Name": "Inevitable",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -22457,7 +22462,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -22497,7 +22502,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -22529,7 +22534,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -22569,7 +22574,7 @@
       "Name": "Listen",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "QUEST_YON",
@@ -22616,21 +22621,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166747,
+      "Progressed": 166752,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167164,
+      "Progressed": 167169,
       "Completed": 450
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-06T15:57:18.5501396+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:52:26.7966856+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:27:52.6324896+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:46:59.6249547+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:52:26.7970616+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:22:08.5526785+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:27:52.6326295+00:00"
 }

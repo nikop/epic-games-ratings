@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~87,040 |
-| Struck A Pose | 82.00% | ~85,991 |
-| Look At Him Go | 68.00% | ~71,310 |
-| On Rails Experience | 44.00% | ~46,141 |
-| A Daring Devil | 43.00% | ~45,093 |
-| Break the Bank | 33.00% | ~34,606 |
-| It Took Two | 30.00% | ~31,460 |
-| Bug Sized Relaxation | 14.00% | ~14,681 |
-| Plastic Prison Breakers | 13.00% | ~13,633 |
-| Terror Of The Seven Seas | 10.00% | ~10,487 |
-| Realize Your Art | 8.00% | ~8,389 |
-| Force Triangulated | 8.00% | ~8,389 |
-| Meditation Maestro | 8.00% | ~8,389 |
-| Snackosaurus | 6.00% | ~6,292 |
-| Platforming Prodigy | 6.00% | ~6,292 |
-| Lost And Found | 6.00% | ~6,292 |
-| Something Fishy | 6.00% | ~6,292 |
+| Fried Friendship | 83.00% | ~87,050 |
+| Struck A Pose | 82.00% | ~86,002 |
+| Look At Him Go | 68.00% | ~71,318 |
+| On Rails Experience | 44.00% | ~46,147 |
+| A Daring Devil | 43.00% | ~45,098 |
+| Break the Bank | 33.00% | ~34,610 |
+| It Took Two | 30.00% | ~31,464 |
+| Bug Sized Relaxation | 14.00% | ~14,683 |
+| Plastic Prison Breakers | 13.00% | ~13,634 |
+| Terror Of The Seven Seas | 10.00% | ~10,488 |
+| Realize Your Art | 8.00% | ~8,390 |
+| Force Triangulated | 8.00% | ~8,390 |
+| Meditation Maestro | 8.00% | ~8,390 |
+| Snackosaurus | 6.00% | ~6,293 |
+| Platforming Prodigy | 6.00% | ~6,293 |
+| Lost And Found | 6.00% | ~6,293 |
+| Something Fishy | 6.00% | ~6,293 |
 | Mood Swing | 4.00% | ~4,195 |
 | Faraway Frequencies | 3.00% | ~3,146 |
-| Minigame Megalomania | 2.00% | ~2,097 |
+| Minigame Megalomania | 2.00% | ~2,098 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104,867 (Ranked 99)  
+Progressed: 104,880 (Ranked 99)  
 Completed: 234 (0.22%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,4 +140,4 @@ Completed: 234 (0.22%) (Ranked 271)
 | 2024-01-05 | 99,713 | 217 |
 | 2024-01-06 | 102,380 | 227 |
 | 2024-01-07 | 104,807 | 234 |
-| 2024-01-08 | 104,867 | 234 |
+| 2024-01-08 | 104,880 | 234 |

@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4017,
+  "EOS_Progressed": 4018,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6821,6 +6821,11 @@
       "Time": "2024-01-08T00:04:49.0041488+00:00",
       "NumProgressed": 4017,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T02:29:37.2376514+00:00",
+      "NumProgressed": 4018,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6935,7 +6940,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4017,
+      "Progressed": 4018,
       "Completed": 6
     }
   ],
@@ -6943,8 +6948,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:54:42.3548703+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:29:37.2376503+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:08.6041157+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:47:11.7070239+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:54:42.3549125+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:22:17.6477549+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:29:37.2377009+00:00"
 }

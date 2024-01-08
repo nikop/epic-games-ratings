@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24651,
+  "EOS_Progressed": 24653,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -22753,6 +22753,11 @@
       "Time": "2024-01-08T01:55:42.935445+00:00",
       "NumProgressed": 24651,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-08T02:30:24.0589324+00:00",
+      "NumProgressed": 24653,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 14,
@@ -22764,7 +22769,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 18981
+      "UsersEstimate": 18983
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -22820,7 +22825,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12572
+      "UsersEstimate": 12573
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -22844,7 +22849,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6409
+      "UsersEstimate": 6410
     },
     {
       "ID": "ACH_THE_FALL",
@@ -22875,15 +22880,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24651,
+      "Progressed": 24653,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:55:42.9354446+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:30:24.0589321+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:43.5495434+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:51:54.7035997+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:55:42.9355522+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:27:26.4910925+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:30:24.0590538+00:00"
 }

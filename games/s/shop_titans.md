@@ -17,19 +17,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 6.00% | ~9,013 |
 | Budding Merchant | 6.00% | ~9,013 |
 | Own the Means of Production | 6.00% | ~9,013 |
-| Some Assembly Required | 5.00% | ~7,510 |
-| Pretty Penny | 5.00% | ~7,510 |
-| One-Armed Bandit | 5.00% | ~7,510 |
-| Through Repetition, Perfection | 5.00% | ~7,510 |
-| The Daily Grind | 4.00% | ~6,008 |
-| Bounty Hunters | 4.00% | ~6,008 |
-| Demand for Supplies | 4.00% | ~6,008 |
-| Flooding the Market | 4.00% | ~6,008 |
-| Where it Hurts | 4.00% | ~6,008 |
-| Gild-Gotten Goods | 4.00% | ~6,008 |
-| Dungeon Imports | 4.00% | ~6,008 |
-| Did we pack lunch? | 4.00% | ~6,008 |
-| Arcane Industries | 4.00% | ~6,008 |
+| Some Assembly Required | 5.00% | ~7,511 |
+| Pretty Penny | 5.00% | ~7,511 |
+| One-Armed Bandit | 5.00% | ~7,511 |
+| Through Repetition, Perfection | 5.00% | ~7,511 |
+| The Daily Grind | 4.00% | ~6,009 |
+| Bounty Hunters | 4.00% | ~6,009 |
+| Demand for Supplies | 4.00% | ~6,009 |
+| Flooding the Market | 4.00% | ~6,009 |
+| Where it Hurts | 4.00% | ~6,009 |
+| Gild-Gotten Goods | 4.00% | ~6,009 |
+| Dungeon Imports | 4.00% | ~6,009 |
+| Did we pack lunch? | 4.00% | ~6,009 |
+| Arcane Industries | 4.00% | ~6,009 |
 | On the Path to Greatness | 3.00% | ~4,506 |
 | Ascended | 3.00% | ~4,506 |
 | Tax not Included | 3.00% | ~4,506 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~601 |
 | Capitalist Camaraderie | 0.20% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,210 (Ranked 86)  
+Progressed: 150,213 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 345 (0.23%) (Ranked 270)
 | 2024-01-05 | 149,755 | 342 |
 | 2024-01-06 | 149,985 | 345 |
 | 2024-01-07 | 150,192 | 345 |
-| 2024-01-08 | 150,210 | 345 |
+| 2024-01-08 | 150,213 | 345 |
 ## Awards
 Max (Great for Beginners): 4,946  (Ranked 78)  
 Sum: 27,957 (Ranked 52)  

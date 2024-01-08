@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1510,
+  "EOS_Progressed": 1511,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3900,6 +3900,11 @@
       "Time": "2024-01-08T01:58:48.5240905+00:00",
       "NumProgressed": 1510,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T02:34:03.7014607+00:00",
+      "NumProgressed": 1511,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3976,7 +3981,7 @@
       "Name": "The Alliance",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "AchvDoom",
@@ -4088,7 +4093,7 @@
       "Name": "The Camp",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "AchvReachCity",
@@ -4096,7 +4101,7 @@
       "Name": "The City",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "AchvReachCondor",
@@ -4143,7 +4148,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1510,
+      "Progressed": 1511,
       "Completed": 1
     }
   ],
@@ -4151,8 +4156,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-07T13:04:46.5535685+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:58:48.5240901+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:34:03.7014604+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:50:10.1420967+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:58:48.524138+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:24:26.2312837+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:34:03.7014939+00:00"
 }

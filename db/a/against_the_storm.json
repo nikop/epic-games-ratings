@@ -3771,10 +3771,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3354,
       "NumberOfAwardsMax": 449
+    },
+    {
+      "Time": "2024-01-08T02:21:19.4867995+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3356,
+      "NumberOfAwardsMax": 449
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3354,
+  "NumberOfAwards": 3356,
   "NumberOfAwardsMax": 449,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3824,7 +3830,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 331
+      "Count": 333
     },
     {
       "Text": "This game has a Creative Community",
@@ -3839,9 +3845,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20435,
+  "EOS_Progressed": 20436,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18869,6 +18875,11 @@
       "Time": "2024-01-08T01:52:45.9014198+00:00",
       "NumProgressed": 20435,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-08T02:28:07.2410065+00:00",
+      "NumProgressed": 20436,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19161,7 +19172,7 @@
       "Name": "The Marshlands",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "WinOnMoorlands",
@@ -19352,15 +19363,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20435,
+      "Progressed": 20436,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-07T22:57:06.3970449+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:52:45.9014195+00:00",
+  "LastChanged": "2024-01-08T02:21:19.4867993+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:28:07.2410063+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:45:55.0279996+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:52:45.9015098+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:21:19.4867998+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:28:07.2410988+00:00"
 }

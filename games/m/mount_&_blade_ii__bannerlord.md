@@ -6,27 +6,27 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 42.00% | ~38,453 |
-| Landlord | 34.00% | ~31,128 |
-| Trained | 29.00% | ~26,551 |
-| Bannerlord | 24.00% | ~21,973 |
-| Lawmaker | 23.00% | ~21,057 |
-| Horde breaker | 21.00% | ~19,226 |
-| The king is pleased | 19.00% | ~17,395 |
-| King Solomon | 17.00% | ~15,564 |
-| Apple of my eye | 16.00% | ~14,649 |
-| This Is Our Land | 16.00% | ~14,649 |
-| I can do it | 15.00% | ~13,733 |
-| Against all odds | 14.00% | ~12,818 |
-| Duelist | 12.00% | ~10,986 |
-| God of the Arena | 12.00% | ~10,986 |
-| Swordbearer | 11.00% | ~10,071 |
-| Dynasty | 10.00% | ~9,155 |
-| I spit on your grave | 10.00% | ~9,155 |
-| What have the Romans ever done for us? | 10.00% | ~9,155 |
+| Lawbringer | 42.00% | ~38,456 |
+| Landlord | 34.00% | ~31,131 |
+| Trained | 29.00% | ~26,553 |
+| Bannerlord | 24.00% | ~21,975 |
+| Lawmaker | 23.00% | ~21,059 |
+| Horde breaker | 21.00% | ~19,228 |
+| The king is pleased | 19.00% | ~17,397 |
+| King Solomon | 17.00% | ~15,565 |
+| Apple of my eye | 16.00% | ~14,650 |
+| This Is Our Land | 16.00% | ~14,650 |
+| I can do it | 15.00% | ~13,734 |
+| Against all odds | 14.00% | ~12,819 |
+| Duelist | 12.00% | ~10,987 |
+| God of the Arena | 12.00% | ~10,987 |
+| Swordbearer | 11.00% | ~10,072 |
+| Dynasty | 10.00% | ~9,156 |
+| I spit on your grave | 10.00% | ~9,156 |
+| What have the Romans ever done for us? | 10.00% | ~9,156 |
 | Butterlord | 9.00% | ~8,240 |
 | Mastery | 7.00% | ~6,409 |
-| Know your enemy | 6.00% | ~5,493 |
+| Know your enemy | 6.00% | ~5,494 |
 | My way | 5.00% | ~4,578 |
 | Crowdfunded | 4.00% | ~3,662 |
 | Crush your enemies | 4.00% | ~3,662 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,554 (Ranked 103)  
+Progressed: 91,561 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-05 | 89,622 | 0 |
 | 2024-01-06 | 90,625 | 0 |
 | 2024-01-07 | 91,519 | 0 |
-| 2024-01-08 | 91,554 | 0 |
+| 2024-01-08 | 91,561 | 0 |
 ## Awards
 Max (Character Customization): 7,942  (Ranked 51)  
 Sum: 16,510 (Ranked 67)  

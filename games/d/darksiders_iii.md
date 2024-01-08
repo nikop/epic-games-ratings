@@ -8,7 +8,7 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~384 |
 | First of many… | 68.00% | ~335 |
-| Helping Hand | 64.00% | ~315 |
+| Helping Hand | 65.00% | ~320 |
 | Increased Vigor | 59.00% | ~290 |
 | Fight Fire with Fire | 57.00% | ~280 |
 | Increased Capacity | 54.00% | ~266 |
@@ -17,9 +17,9 @@ Number of Ratings: 116  (23.09.2022)
 | All That Glitters | 45.00% | ~221 |
 | Enhance! | 42.00% | ~207 |
 | One Of the Chosen | 39.00% | ~192 |
+| Devil's in the Details | 39.00% | ~192 |
 | Throne Potato | 39.00% | ~192 |
 | Five's a Crowd | 39.00% | ~192 |
-| Devil's in the Details | 38.00% | ~187 |
 | 25 to Life | 38.00% | ~187 |
 | Salvation | 37.00% | ~182 |
 | Unshakable Fortitude | 35.00% | ~172 |

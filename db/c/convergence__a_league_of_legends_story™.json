@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1267,
+  "EOS_Progressed": 1268,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3773,6 +3773,11 @@
       "Time": "2024-01-08T01:59:30.2282414+00:00",
       "NumProgressed": 1267,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T02:34:36.0198216+00:00",
+      "NumProgressed": 1268,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3880,7 +3885,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "FactorywoodChests1",
@@ -3902,9 +3907,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 431
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4024,7 +4029,7 @@
       "Name": "Time Flies",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ParryBoss",
@@ -4040,7 +4045,7 @@
       "Name": "No, Thanks!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4048,7 +4053,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4064,7 +4069,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "RewindDamage1",
@@ -4080,7 +4085,7 @@
       "Name": "Honest Mistake",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4144,7 +4149,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "TheaterChests1",
@@ -4160,7 +4165,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "WarwickDefeated",
@@ -4207,7 +4212,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1267,
+      "Progressed": 1268,
       "Completed": 7
     }
   ],
@@ -4215,8 +4220,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:59:30.2282412+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:34:36.0198213+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:47:33.8602255+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:59:30.2282933+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:22:34.2560559+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:34:36.0198936+00:00"
 }

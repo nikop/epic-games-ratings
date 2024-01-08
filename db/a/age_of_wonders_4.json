@@ -735,9 +735,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7052,
+  "EOS_Progressed": 7056,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10715,6 +10715,11 @@
       "Time": "2024-01-08T01:54:28.0596367+00:00",
       "NumProgressed": 7052,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T02:29:26.3119827+00:00",
+      "NumProgressed": 7056,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10838,7 +10843,7 @@
       "Name": "Realm Estate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "23",
@@ -10854,7 +10859,7 @@
       "Name": "Secret Technique",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "25",
@@ -10870,7 +10875,7 @@
       "Name": "Bone Peddler",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "27",
@@ -11062,7 +11067,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "9",
@@ -11094,7 +11099,7 @@
       "Name": "Duality",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "48",
@@ -11205,13 +11210,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7052,
+      "Progressed": 7056,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7052,
+      "Progressed": 7056,
       "Completed": 7
     }
   ],
@@ -11219,8 +11224,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-07T00:03:12.9790468+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:54:28.0596364+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:29:26.3119825+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:51:42.7107488+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:54:28.059746+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:27:18.3300343+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:29:26.3121227+00:00"
 }

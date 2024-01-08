@@ -8,9 +8,9 @@ Rating: 4.45 (Ranked 692)
 | The Big Day | 61.00% | ~608 |
 | You're the Expert! | 27.00% | ~269 |
 | Home Cook | 24.00% | ~239 |
-| So Clean You Can Eat Off the Floor | 15.00% | ~149 |
-| S is for Scrumptious | 15.00% | ~149 |
-| French Flair | 14.00% | ~139 |
+| So Clean You Can Eat Off the Floor | 15.00% | ~150 |
+| S is for Scrumptious | 15.00% | ~150 |
+| French Flair | 14.00% | ~140 |
 | Next Level Cuisine | 8.00% | ~80 |
 | Haute Cuisine | 7.00% | ~70 |
 | Italian Style | 6.00% | ~60 |
@@ -46,7 +46,7 @@ Rating: 4.45 (Ranked 692)
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 996 (Ranked 292)  
+Progressed: 997 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-05 | 974 | 0 |
 | 2024-01-06 | 985 | 0 |
 | 2024-01-07 | 995 | 0 |
-| 2024-01-08 | 996 | 0 |
+| 2024-01-08 | 997 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -51,6 +51,7 @@
 | A Monopoly of Might | 7.00% | ~9 |
 | Get to the Airship! | 6.00% | ~8 |
 | Defeat Hokan | 6.00% | ~8 |
+| Defeat Ianna | 6.00% | ~8 |
 | Defeat Raith | 6.00% | ~8 |
 | Defeat Undergast | 6.00% | ~8 |
 | Elynn's Tale | 6.00% | ~8 |
@@ -59,7 +60,6 @@
 | Heroes | 6.00% | ~8 |
 | Balanced | 6.00% | ~8 |
 | Friend of Grey Dusk Vale | 6.00% | ~8 |
-| Defeat Ianna | 5.00% | ~6 |
 | Defeat Yria | 5.00% | ~6 |
 | Lytra's Tale | 5.00% | ~6 |
 | My Friends! | 5.00% | ~6 |

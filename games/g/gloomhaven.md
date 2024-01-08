@@ -8,23 +8,23 @@ Number of Ratings: 68  (23.09.2022)
 | ---- | ---------- | ----- |
 | I'm not dead yet | 39.00% | ~12,526 |
 | Overkill | 33.00% | ~10,599 |
-| Vaccine Incoming | 31.00% | ~9,956 |
-| A normal day in Gloomhaven | 29.00% | ~9,314 |
+| Vaccine Incoming | 31.00% | ~9,957 |
+| A normal day in Gloomhaven | 29.00% | ~9,315 |
 | Spread the plague | 27.00% | ~8,672 |
-| Get over here! | 24.00% | ~7,708 |
-| Just when I thought I was out... | 19.00% | ~6,102 |
+| Get over here! | 24.00% | ~7,709 |
+| Just when I thought I was out... | 19.00% | ~6,103 |
 | Precious! | 16.00% | ~5,139 |
 | Mine... All Mine... | 16.00% | ~5,139 |
 | Grizzled veteran | 15.00% | ~4,818 |
-| Anatomy Lesson | 14.00% | ~4,496 |
+| Anatomy Lesson | 14.00% | ~4,497 |
 | Light of my life | 13.00% | ~4,175 |
 | Who's the Boss? | 12.00% | ~3,854 |
 | You activated my trap card! | 12.00% | ~3,854 |
 | Obstacle race | 12.00% | ~3,854 |
 | Augmented rat | 10.00% | ~3,212 |
 | Doom and gloom | 10.00% | ~3,212 |
-| Dungeon Veteran | 8.00% | ~2,569 |
-| Pain is your friend | 8.00% | ~2,569 |
+| Dungeon Veteran | 8.00% | ~2,570 |
+| Pain is your friend | 8.00% | ~2,570 |
 | Pack leader | 7.00% | ~2,248 |
 | Black death | 7.00% | ~2,248 |
 | Play it again, Sam | 7.00% | ~2,248 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~32 |
 | Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,117 (Ranked 140)  
+Progressed: 32,119 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-05 | 31,403 | 1 |
 | 2024-01-06 | 31,749 | 1 |
 | 2024-01-07 | 32,091 | 1 |
-| 2024-01-08 | 32,117 | 1 |
+| 2024-01-08 | 32,119 | 1 |
 ## Awards
 Max (Character Customization): 3,616  (Ranked 94)  
 Sum: 8,465 (Ranked 107)  

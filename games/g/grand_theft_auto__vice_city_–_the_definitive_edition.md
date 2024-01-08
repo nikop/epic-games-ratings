@@ -6,7 +6,7 @@ Rating: 4.52 (Ranked 572)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 46.00% | ~7,287 |
-| Greasy Palms | 42.00% | ~6,653 |
+| Greasy Palms | 42.00% | ~6,654 |
 | South American Connection | 26.00% | ~4,119 |
 | Life of the Party | 21.00% | ~3,327 |
 | Big Heat from Little Havana | 15.00% | ~2,376 |
@@ -17,8 +17,8 @@ Rating: 4.52 (Ranked 572)
 | Gun for Hire | 9.00% | ~1,426 |
 | Mischief Managed | 9.00% | ~1,426 |
 | Vice City Mogul | 7.00% | ~1,109 |
-| Catch Me if You Can | 6.00% | ~950 |
-| Bloodstained Hands | 6.00% | ~950 |
+| Catch Me if You Can | 6.00% | ~951 |
+| Bloodstained Hands | 6.00% | ~951 |
 | Not my First Time | 5.00% | ~792 |
 | Grand Theft Auto | 5.00% | ~792 |
 | Pie Guy | 4.00% | ~634 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 572)
 | Done it All | 0.90% | ~143 |
 | Kingpin | 0.60% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,841 (Ranked 171)  
+Progressed: 15,842 (Ranked 171)  
 Completed: 91 (0.57%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 91 (0.57%) (Ranked 208)
 | 2024-01-05 | 15,486 | 86 |
 | 2024-01-06 | 15,660 | 88 |
 | 2024-01-07 | 15,823 | 91 |
-| 2024-01-08 | 15,841 | 91 |
+| 2024-01-08 | 15,842 | 91 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

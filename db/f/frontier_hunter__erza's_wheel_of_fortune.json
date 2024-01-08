@@ -2907,9 +2907,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 405
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2956,8 +2956,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:58:32.8012492+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:33:51.5433031+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.4482016+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:48:52.3282179+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:58:32.8012906+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:23:31.7425558+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:33:51.5433361+00:00"
 }

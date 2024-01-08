@@ -5,7 +5,7 @@
   "Ranking_Rating": 692,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 158,
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 996,
+  "EOS_Progressed": 997,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4277,6 +4277,11 @@
       "Time": "2024-01-08T01:58:57.4050922+00:00",
       "NumProgressed": 996,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T02:34:10.7519678+00:00",
+      "NumProgressed": 997,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4336,7 +4341,7 @@
       "Name": "French Flair",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -4344,7 +4349,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Clothes10",
@@ -4512,7 +4517,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ServiceMaxClient",
@@ -4607,7 +4612,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 996,
+      "Progressed": 997,
       "Completed": 0
     }
   ],
@@ -4615,8 +4620,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-05T14:58:53.6267944+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:58:57.4050918+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:34:10.7519675+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2362119+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:49:58.8042092+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:58:57.4051566+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:24:18.8443724+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:34:10.7520132+00:00"
 }

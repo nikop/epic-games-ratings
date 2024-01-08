@@ -302,9 +302,9 @@
       "ID": "COMBO_DRONE",
       "SetID": "1fek4an",
       "Name": "Skynet",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "COMBO_HP",
@@ -430,9 +430,9 @@
       "ID": "HEROSTAR_J",
       "SetID": "1fek4an",
       "Name": "Graduate(Joes)",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HEROSTAR_K",
@@ -813,8 +813,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-08T01:54:00.8728029+00:00",
+  "LastChanged_Achievements": "2024-01-08T02:29:06.0242103+00:00",
   "LastUpdate_AppInfo": "2024-01-03T13:01:17.6980494+00:00",
-  "LastUpdate_Ratings": "2024-01-08T01:47:05.3701925+00:00",
-  "LastUpdate_Achievements": "2024-01-08T01:54:00.872855+00:00"
+  "LastUpdate_Ratings": "2024-01-08T02:22:13.1424801+00:00",
+  "LastUpdate_Achievements": "2024-01-08T02:29:06.024264+00:00"
 }

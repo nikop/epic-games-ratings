@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.80% | ~130 |
 | Christianity | 0.80% | ~130 |
 | Babylonian Paganism | 0.80% | ~130 |
+| Zoroastrianism | 0.80% | ~130 |
 | Magnificent | 0.70% | ~113 |
 | Wise | 0.70% | ~113 |
 | Able Difficulty | 0.70% | ~113 |
@@ -49,12 +50,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.70% | ~113 |
 | Learn to Play 2 | 0.70% | ~113 |
 | Roman Paganism | 0.70% | ~113 |
-| Zoroastrianism | 0.70% | ~113 |
 | Regicide | 0.60% | ~97 |
 | Great | 0.60% | ~97 |
 | Legendary Cities | 0.60% | ~97 |
 | Acropolis | 0.60% | ~97 |
+| Mausoleum | 0.60% | ~97 |
 | Necropolis | 0.60% | ~97 |
+| Manichaeism | 0.60% | ~97 |
 | Carthaginian Paganism | 0.60% | ~97 |
 | Beloved | 0.50% | ~81 |
 | Drillmaster | 0.50% | ~81 |
@@ -64,9 +66,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.50% | ~81 |
 | Sages | 0.50% | ~81 |
 | Colossus | 0.50% | ~81 |
-| Mausoleum | 0.50% | ~81 |
 | Musaeum | 0.50% | ~81 |
-| Manichaeism | 0.50% | ~81 |
 | Egyptian Paganism | 0.50% | ~81 |
 | Building Wonders | 0.50% | ~81 |
 | Hanging Gardens in Babylon | 0.40% | ~65 |
@@ -104,6 +104,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.30% | ~49 |
 | Enlightenment | 0.30% | ~49 |
 | Legalism | 0.30% | ~49 |
+| Redemption | 0.30% | ~49 |
 | Revelation | 0.30% | ~49 |
 | Cimmerian Archer | 0.30% | ~49 |
 | Kushite Cavalry | 0.30% | ~49 |
@@ -133,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.20% | ~32 |
 | Hittite Paganism | 0.20% | ~32 |
 | Gnosticism | 0.20% | ~32 |
-| Redemption | 0.20% | ~32 |
 | Veneration | 0.20% | ~32 |
 | Cataphract Archer | 0.20% | ~32 |
 | Siege Tower | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,209 (Ranked 168)  
+Progressed: 16,211 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,209 | 5 |
+| 2024-01-08 | 16,211 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 222)  
