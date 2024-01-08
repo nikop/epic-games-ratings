@@ -1,7 +1,7 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.45 (Ranked 694)  
+Rating: 4.45 (Ranked 693)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Extra Life | 7.00% | ~407 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~407 |
 | Data Churn Type I | 7.00% | ~407 |
-| Millionaire | 6.00% | ~348 |
+| Millionaire | 6.00% | ~349 |
 | Data Churn Type II | 5.00% | ~290 |
 | Speedy | 5.00% | ~290 |
 | Extra Life: Wish Granted | 4.00% | ~232 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,808 (Ranked 201)  
+Progressed: 5,809 (Ranked 201)  
 Completed: 1 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,6 +340,7 @@ Completed: 1 (0.02%) (Ranked 361)
 | 2024-01-05 | 5,793 | 1 |
 | 2024-01-06 | 5,800 | 1 |
 | 2024-01-07 | 5,808 | 1 |
+| 2024-01-08 | 5,809 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

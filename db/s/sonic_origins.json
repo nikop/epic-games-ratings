@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -3165,9 +3165,9 @@
       "ID": "ID_07_SONICCD_TIME_WARP",
       "SetID": "7o8nc5m",
       "Name": "Time Traveler",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 445
     },
     {
       "ID": "ID_08_SONICCD_WIN_METAL_SONIC",
@@ -3261,9 +3261,9 @@
       "ID": "ID_19_TAILS_FLYING",
       "SetID": "7o8nc5m",
       "Name": "Miles \u0022Tails\u0022 Prower",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 377
     },
     {
       "ID": "ID_20_CHALLENGE_BOSSRUSH",
@@ -3405,8 +3405,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:09:52.1966233+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:10:27.3838093+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.816003+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:00:06.3649312+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:09:52.1966574+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:00:43.681997+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:10:27.3838704+00:00"
 }

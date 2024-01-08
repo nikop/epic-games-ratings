@@ -28,6 +28,7 @@ Rating: 3.68 (Ranked 1,092)
 | Sic Transit Umbra | 3.00% | ~69 |
 | Bell-ringer | 3.00% | ~69 |
 | Silence Is Golden | 3.00% | ~69 |
+| Good Morning | 3.00% | ~69 |
 | You Clean It Up | 3.00% | ~69 |
 | From the Shadows | 3.00% | ~69 |
 | Starve the Beast | 3.00% | ~69 |
@@ -35,7 +36,6 @@ Rating: 3.68 (Ranked 1,092)
 | Revelations | 2.00% | ~46 |
 | Contingency Plans | 2.00% | ~46 |
 | Block Party | 2.00% | ~46 |
-| Good Morning | 2.00% | ~46 |
 | Check, Please! | 2.00% | ~46 |
 | Right This Way | 2.00% | ~46 |
 | Nice Try | 2.00% | ~46 |

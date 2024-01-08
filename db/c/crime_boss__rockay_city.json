@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5457,9 +5457,9 @@
       "Count": 537
     }
   ],
-  "EOS_Progressed": 93245,
+  "EOS_Progressed": 93250,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30777,6 +30777,11 @@
       "Time": "2024-01-08T16:03:43.2178077+00:00",
       "NumProgressed": 93245,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-08T17:04:12.1752671+00:00",
+      "NumProgressed": 93250,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30828,7 +30833,7 @@
       "Name": "Legend Looter",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_0016",
@@ -30836,7 +30841,7 @@
       "Name": "Imports and Exports",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_0021",
@@ -30860,7 +30865,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_0040",
@@ -30876,7 +30881,7 @@
       "Name": "Foo Finder",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_0060",
@@ -30924,7 +30929,7 @@
       "Name": "Moneybags",
       "Percentage": 0.6,
       "XP": 55,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_0200",
@@ -30956,7 +30961,7 @@
       "Name": "Too Old for This",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2797
+      "UsersEstimate": 2798
     },
     {
       "ID": "ACH_0300",
@@ -30964,7 +30969,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 0.6,
       "XP": 55,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_0310",
@@ -30980,7 +30985,7 @@
       "Name": "Ding Dong",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_0340",
@@ -31020,7 +31025,7 @@
       "Name": "Fancy Pants",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2797
+      "UsersEstimate": 2798
     },
     {
       "ID": "ACH_0431",
@@ -31115,13 +31120,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93245,
+      "Progressed": 93250,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21592,
+      "Progressed": 21597,
       "Completed": 15597
     }
   ],
@@ -31129,8 +31134,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-08T11:59:28.8317676+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:03:43.2178074+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:04:12.1752665+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:59:33.0210703+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:03:43.2179314+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:00:10.2008129+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:04:12.1754339+00:00"
 }

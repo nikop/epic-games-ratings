@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -654,6 +654,11 @@
       "Time": "2024-01-08T10:10:10.8228859+00:00",
       "NumProgressed": 129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T17:10:01.4057751+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -672,17 +677,17 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 101
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -698,7 +703,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Cast_First_Spell",
@@ -714,15 +719,15 @@
       "Name": "The Circle",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Craft_First_Glyph",
       "SetID": "7b9f97e",
       "Name": "Artificer\u0027s Apprentice",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "Craft_First_Potion",
@@ -730,7 +735,7 @@
       "Name": "Alchemist\u0027s Apprentice",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Craft_First_Undead",
@@ -744,9 +749,9 @@
       "ID": "Defeat_Gor",
       "SetID": "7b9f97e",
       "Name": "Defeat Gor",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Defeat_Hokan",
@@ -800,9 +805,9 @@
       "ID": "Defeat_Uram",
       "SetID": "7b9f97e",
       "Name": "Defeat Uram",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Defeat_Yria",
@@ -832,7 +837,7 @@
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
       "UsersEstimate": 81
     },
@@ -874,15 +879,15 @@
       "Name": "Philo\u0027s Tale",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "HeroStory_Yngrid",
       "SetID": "7b9f97e",
       "Name": "Yngrid\u0027s Tale",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Landmark_CastleMeldec",
@@ -912,9 +917,9 @@
       "ID": "Landmark_ReganGorForge",
       "SetID": "7b9f97e",
       "Name": "The Forge of Regan Gor",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Landmark_SilverDriftMine",
@@ -936,17 +941,17 @@
       "ID": "Landmark_Throne",
       "SetID": "7b9f97e",
       "Name": "Sevenkeeps Seat of Kings",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "Landmark_TuscariPortal",
       "SetID": "7b9f97e",
       "Name": "Tuscari Sea Portal",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Landmark_UramGorForge",
@@ -1010,7 +1015,7 @@
       "Name": "A Master of Magic",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MainCampaign_CirclePage_Reputation",
@@ -1074,13 +1079,13 @@
       "Name": "Friend of Gillyshire",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Max_Reputation_Goldenfields",
       "SetID": "7b9f97e",
       "Name": "Friend of Lyraine",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 46
     },
@@ -1098,7 +1103,7 @@
       "Name": "Friend of Sevenkeeps",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Max_Reputation_SilverDriftHollow",
@@ -1106,7 +1111,7 @@
       "Name": "Friend of Silver Drift Hollow",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Max_Reputation_Southwatch",
@@ -1120,9 +1125,9 @@
       "ID": "Max_Reputation_UramGor",
       "SetID": "7b9f97e",
       "Name": "Friend of Uram Gor",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Max_Reputation_Westguard",
@@ -1146,7 +1151,7 @@
       "Name": "Magic Academy",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Mine_First_Ore",
@@ -1154,7 +1159,7 @@
       "Name": "Mine!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Recipes_All_Alchemy",
@@ -1192,7 +1197,7 @@
       "ID": "Remove_Raider_From_Tower",
       "SetID": "7b9f97e",
       "Name": "Get out of here!",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
       "UsersEstimate": 55
     },
@@ -1225,7 +1230,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 0
     }
   ],
@@ -1233,8 +1238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:09:26.6089253+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:10:01.4057747+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:02:52.3937776+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:09:26.6089918+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:03:19.6797641+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:10:01.4058331+00:00"
 }

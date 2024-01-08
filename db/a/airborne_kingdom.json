@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7756,
+  "EOS_Progressed": 7757,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6838,6 +6838,11 @@
       "Time": "2024-01-07T20:06:37.2243479+00:00",
       "NumProgressed": 7756,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-08T17:08:35.7424175+00:00",
+      "NumProgressed": 7757,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6897,7 +6902,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -7001,7 +7006,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -7049,7 +7054,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3102
+      "UsersEstimate": 3103
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -7064,15 +7069,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7756,
+      "Progressed": 7757,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:08:07.12243+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:08:35.7424171+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:05.4838483+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:03:19.3020249+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:08:07.1224734+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:03:46.9687546+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:08:35.7424662+00:00"
 }

@@ -29,8 +29,8 @@ Rating: 4.55 (Ranked 525)
 | Monstrous Harassment | 14.00% | ~73 |
 | Heading the inverter | 14.00% | ~73 |
 | Blast from the Past | 12.00% | ~63 |
+| Play it again, Ronny | 11.00% | ~58 |
 | Goat Team | 10.00% | ~52 |
-| Play it again, Ronny | 10.00% | ~52 |
 | Paradox! | 10.00% | ~52 |
 | Weapons 101 | 8.00% | ~42 |
 | Sadist | 7.00% | ~37 |

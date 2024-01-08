@@ -4,8 +4,8 @@
   "ProductSlug": "survivor-castaway-island-16f672",
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
     "PcReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
@@ -304,6 +304,11 @@
       "Time": "2024-01-08T03:09:37.0480679+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T17:09:28.6124531+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T10:09:15.6934484+00:00",
@@ -322,7 +327,7 @@
       "ID": "_01",
       "SetID": "670ak8f",
       "Name": "Let there be light",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
       "UsersEstimate": 30
     },
@@ -346,7 +351,7 @@
       "ID": "_04",
       "SetID": "670ak8f",
       "Name": "Multitasking",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -362,7 +367,7 @@
       "ID": "_06",
       "SetID": "670ak8f",
       "Name": "Gossiper",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
       "UsersEstimate": 31
     },
@@ -370,7 +375,7 @@
       "ID": "_07",
       "SetID": "670ak8f",
       "Name": "Mastermind",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -378,7 +383,7 @@
       "ID": "_08",
       "SetID": "670ak8f",
       "Name": "Real Adventurer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -403,14 +408,14 @@
     {
       "ID": "670ak8f",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:08:54.2893515+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:09:28.6124523+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:23.0323215+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:59:45.92468+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:08:54.2893628+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:00:22.4686507+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:09:28.6124664+00:00"
 }

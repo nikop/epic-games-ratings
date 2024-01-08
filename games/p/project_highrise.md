@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~277 |
+| In the Black | 55.00% | ~278 |
 | Starting Skyward | 49.00% | ~247 |
 | Grime is Not Good | 42.00% | ~212 |
-| Floor Galore | 37.00% | ~186 |
-| Campaign Launch | 36.00% | ~181 |
-| Dinner Dash | 36.00% | ~181 |
-| Need a Consult | 34.00% | ~171 |
-| Upgrade Unlock | 33.00% | ~166 |
-| It's Technical | 33.00% | ~166 |
+| Floor Galore | 36.00% | ~182 |
+| Campaign Launch | 36.00% | ~182 |
+| Dinner Dash | 36.00% | ~182 |
+| Need a Consult | 34.00% | ~172 |
+| Upgrade Unlock | 33.00% | ~167 |
+| It's Technical | 33.00% | ~167 |
 | Proper Walls | 29.00% | ~146 |
 | Delegate Maintenance | 29.00% | ~146 |
 | Destination Destiny | 28.00% | ~141 |
@@ -35,9 +35,9 @@
 | Under One Roof | 13.00% | ~66 |
 | Starred Dining | 13.00% | ~66 |
 | Cashflow Chief | 13.00% | ~66 |
-| Smooth Operator | 11.00% | ~55 |
-| Boutique Benefits | 11.00% | ~55 |
-| Thrilled Tenants | 11.00% | ~55 |
+| Smooth Operator | 11.00% | ~56 |
+| Boutique Benefits | 11.00% | ~56 |
+| Thrilled Tenants | 11.00% | ~56 |
 | 28 Days Later | 10.00% | ~50 |
 | Terrifically Trashed | 10.00% | ~50 |
 | Aestheticly Pleased | 9.00% | ~45 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504 (Ranked 350)  
+Progressed: 505 (Ranked 350)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 492 | 0 |
 | 2024-01-06 | 497 | 0 |
 | 2024-01-07 | 502 | 0 |
-| 2024-01-08 | 504 | 0 |
+| 2024-01-08 | 505 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

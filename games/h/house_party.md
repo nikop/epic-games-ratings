@@ -7,7 +7,7 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 7.00% | ~508 |
-| Smooth Operator: Madison | 5.00% | ~362 |
+| Smooth Operator: Madison | 5.00% | ~363 |
 | The Brahdyssey | 3.00% | ~218 |
 | Caught in the Act | 3.00% | ~218 |
 | Katherine | 3.00% | ~218 |
@@ -15,13 +15,13 @@ Number of Ratings: 177  (23.09.2022)
 | Relentless | 3.00% | ~218 |
 | If at First You Don't Succeed... | 3.00% | ~218 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~145 |
-| Amy | 1.00% | ~72 |
-| Drunk and Disorderly: Ashley | 1.00% | ~72 |
-| IRL Let's Player | 1.00% | ~72 |
-| Inspector | 1.00% | ~72 |
-| Newcomer: Vickie | 1.00% | ~72 |
-| Social Butterfly | 1.00% | ~72 |
-| The Muse: Madison | 1.00% | ~72 |
+| Amy | 1.00% | ~73 |
+| Drunk and Disorderly: Ashley | 1.00% | ~73 |
+| IRL Let's Player | 1.00% | ~73 |
+| Inspector | 1.00% | ~73 |
+| Newcomer: Vickie | 1.00% | ~73 |
+| Social Butterfly | 1.00% | ~73 |
+| The Muse: Madison | 1.00% | ~73 |
 | The Crush | 0.90% | ~65 |
 | It Smells Like Roses | 0.80% | ~34 |
 | Smooth Operator: Ashley | 0.80% | ~58 |
@@ -49,18 +49,18 @@ Number of Ratings: 177  (23.09.2022)
 | The Harder They Fall...Dood | 0.30% | ~22 |
 | Do You Smell Blood? | 0.30% | ~22 |
 | Derezzed | 0.30% | ~22 |
-| Beyond the Call of Dude-y | 0.20% | ~14 |
+| Beyond the Call of Dude-y | 0.20% | ~15 |
 | Congrats, A Celebrity Hates You | 0.20% | ~9 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~9 |
-| Duck n' Weave | 0.20% | ~14 |
-| Good Riddance! | 0.20% | ~14 |
-| I Know Grump-Fu | 0.20% | ~14 |
-| Ronin | 0.20% | ~14 |
-| A Striking Resemblance | 0.20% | ~14 |
-| Howz It Goin Dood | 0.20% | ~14 |
-| The Crush(es) | 0.20% | ~14 |
-| La Coochadora | 0.20% | ~14 |
-| Snapped | 0.20% | ~14 |
+| Duck n' Weave | 0.20% | ~15 |
+| Good Riddance! | 0.20% | ~15 |
+| I Know Grump-Fu | 0.20% | ~15 |
+| Ronin | 0.20% | ~15 |
+| A Striking Resemblance | 0.20% | ~15 |
+| Howz It Goin Dood | 0.20% | ~15 |
+| The Crush(es) | 0.20% | ~15 |
+| La Coochadora | 0.20% | ~15 |
+| Snapped | 0.20% | ~15 |
 | Against All Odds | 0.10% | ~7 |
 | Casabrova | 0.10% | ~7 |
 | D-Club Certified | 0.10% | ~7 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,250 (Ranked 194)  
+Progressed: 7,251 (Ranked 194)  
 Completed: 3 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.04%) (Ranked 349)
 | 2024-01-05 | 7,141 | 3 |
 | 2024-01-06 | 7,186 | 3 |
 | 2024-01-07 | 7,231 | 3 |
-| 2024-01-08 | 7,250 | 3 |
+| 2024-01-08 | 7,251 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

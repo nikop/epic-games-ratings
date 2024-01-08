@@ -24,7 +24,7 @@
 | Steam Powered | 20.00% | ~51 |
 | Manic Mechanic | 18.00% | ~46 |
 | Room To Spare | 15.00% | ~38 |
-| Click 'Em All | 6.00% | ~15 |
+| Click 'Em All | 7.00% | ~18 |
 | Accustomed Customer | 5.00% | ~13 |
 | Real Purdy | 4.00% | ~10 |
 | Stack Overflow | 4.00% | ~10 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -881,9 +881,9 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -968,8 +968,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:08:19.944373+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:08:48.8618405+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.301189+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:58:48.6911489+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:08:19.9444042+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:59:25.7086962+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:08:48.8618556+00:00"
 }

@@ -19,8 +19,8 @@ Rating: 4.38 (Ranked 791)
 | The Altercation | 49.00% | ~243 |
 | Truth from Within | 47.00% | ~233 |
 | The Major | 45.00% | ~223 |
+| Comtesse Margaux de Vos | 44.00% | ~218 |
 | Curious and Beautiful | 43.00% | ~213 |
-| Comtesse Margaux de Vos | 43.00% | ~213 |
 | Jacqueline “Jackie” Conrad | 42.00% | ~208 |
 | The Interrogations | 42.00% | ~208 |
 | Well-acquainted | 40.00% | ~198 |
@@ -39,8 +39,8 @@ Rating: 4.38 (Ranked 791)
 | Well-travelled | 27.00% | ~134 |
 | Thinking of Everything | 26.00% | ~129 |
 | Viscount Edwin Van den Bosch | 26.00% | ~129 |
+| Exquisite Artwork | 25.00% | ~124 |
 | Archibald Sterling | 25.00% | ~124 |
-| Exquisite Artwork | 24.00% | ~119 |
 | Well-prepared | 21.00% | ~104 |
 | The Truth | 21.00% | ~104 |
 | I Like an Audience | 19.00% | ~94 |

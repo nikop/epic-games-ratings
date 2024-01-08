@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1486,
+  "EOS_Progressed": 1487,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
@@ -5115,6 +5115,11 @@
       "Time": "2024-01-08T14:05:22.8950787+00:00",
       "NumProgressed": 1486,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-08T17:06:02.900053+00:00",
+      "NumProgressed": 1487,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5127,7 +5132,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -5135,7 +5140,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "_03_FinishAct1",
@@ -5143,7 +5148,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5151,7 +5156,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "_05_FinishAct2",
@@ -5167,7 +5172,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "_07_FinishAct3",
@@ -5175,7 +5180,7 @@
       "Name": "All Good Things",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "_08_Completion_10",
@@ -5189,9 +5194,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 387
     },
     {
       "ID": "_10_Completion_30",
@@ -5287,7 +5292,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -5319,7 +5324,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -5334,7 +5339,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1486,
+      "Progressed": 1487,
       "Completed": 36
     }
   ],
@@ -5342,8 +5347,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:05:33.0140469+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:06:02.9000525+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:59:23.2180127+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:05:33.0140993+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:00:00.4806406+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:06:02.9001297+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 179,
+  "EOS_Progressed": 181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -951,6 +951,11 @@
       "Time": "2024-01-08T09:10:18.7532533+00:00",
       "NumProgressed": 179,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T17:10:28.7128866+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -963,7 +968,7 @@
       "Name": "The merciful one",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "id_11",
@@ -979,7 +984,7 @@
       "Name": "Family man",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "id_14",
@@ -987,7 +992,7 @@
       "Name": "Death of a legend",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "id_15",
@@ -995,7 +1000,7 @@
       "Name": "Archaeologist",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "id_16",
@@ -1027,15 +1032,15 @@
       "Name": "Pandora\u0027s box",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "id_2",
       "SetID": "bk9jib6",
       "Name": "Field hand",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "id_20",
@@ -1051,7 +1056,7 @@
       "Name": "Ghost hunter",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "id_23",
@@ -1083,7 +1088,7 @@
       "Name": "Philanthropist",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "id_30",
@@ -1091,7 +1096,7 @@
       "Name": "Beginner",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "id_32",
@@ -1107,7 +1112,7 @@
       "Name": "Ferocious wild boars",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "id_34",
@@ -1137,9 +1142,9 @@
       "ID": "id_4",
       "SetID": "bk9jib6",
       "Name": "Samaritan",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "id_42",
@@ -1147,7 +1152,7 @@
       "Name": "Ogre friend",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "id_43",
@@ -1169,9 +1174,9 @@
       "ID": "id_45",
       "SetID": "bk9jib6",
       "Name": "Workaholic",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "id_46",
@@ -1211,7 +1216,7 @@
       "Name": "Peacekeeper",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "id_50",
@@ -1235,7 +1240,7 @@
       "Name": "Idiot",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "id_53",
@@ -1275,7 +1280,7 @@
       "Name": "Well-to-do",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "id_58",
@@ -1297,25 +1302,25 @@
       "ID": "id_6",
       "SetID": "bk9jib6",
       "Name": "Fence",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 110
     },
     {
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 112
     },
     {
       "ID": "id_62",
@@ -1347,22 +1352,22 @@
       "Name": "Sidelined",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "id_9",
       "SetID": "bk9jib6",
       "Name": "Master detective",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 179,
+      "Progressed": 181,
       "Completed": 0
     }
   ],
@@ -1370,8 +1375,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:09:53.402846+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:10:28.7128863+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:57:47.3905933+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:09:53.4028812+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:58:25.1230784+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:10:28.7129343+00:00"
 }

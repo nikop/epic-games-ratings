@@ -2,13 +2,13 @@
   "ID": "445e63b8ddfc4411b6e6b5e71f00b2ce",
   "Name": "I Was a Teenage Exocolonist",
   "ProductSlug": "i-was-a-teenage-exocolonist-20625e",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 218,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-25T17:00:00+00:00",
     "PcReleaseDate": "2022-08-25T17:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2022-10-26T05:33:05.8564138+00:00",
@@ -58,6 +58,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-08T16:57:45.8619085+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -76,8 +82,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-26T10:02:52.7146762+00:00",
   "FirstSeenRating": "2022-10-26T05:33:05.8564133+00:00",
-  "LastChanged": "2023-06-27T16:58:09.6576769+00:00",
+  "LastChanged": "2024-01-08T16:57:45.8619083+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.437859+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:57:06.5594891+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:04:02.447728+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:57:45.8619096+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:04:31.0132987+00:00"
 }

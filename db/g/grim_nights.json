@@ -2,10 +2,10 @@
   "ID": "9d5393fd5460430e80d2bfe9fcd55d6a",
   "Name": "Grim Nights",
   "ProductSlug": "grim-nights-fa4c5a",
-  "Ranking_EOS_Progress": 533,
+  "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -346,6 +346,11 @@
       "Time": "2024-01-02T22:05:49.7213739+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T17:05:28.0300619+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -355,7 +360,7 @@
       "ID": "ach_boss1",
       "SetID": "c2c0fb6",
       "Name": "Slay it!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 150,
       "UsersEstimate": 22
     },
@@ -379,7 +384,7 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -387,7 +392,7 @@
       "ID": "ach_bunny50",
       "SetID": "c2c0fb6",
       "Name": "You monster!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 90,
       "UsersEstimate": 6
     },
@@ -419,7 +424,7 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 32
     },
@@ -435,7 +440,7 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 70,
       "UsersEstimate": 22
     },
@@ -467,7 +472,7 @@
       "ID": "ach_slay2000",
       "SetID": "c2c0fb6",
       "Name": "Massive slaughter",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 6
     }
@@ -476,7 +481,7 @@
     {
       "ID": "c2c0fb6",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 0
     }
   ],
@@ -484,8 +489,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:04:59.6030168+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:05:28.0300614+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.7194054+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:58:12.6916124+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:04:59.6030337+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:58:49.7283215+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:05:28.0300734+00:00"
 }

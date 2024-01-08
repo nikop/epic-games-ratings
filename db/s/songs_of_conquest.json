@@ -2,13 +2,13 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 237,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1078,
+  "EOS_Progressed": 1080,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3755,6 +3755,11 @@
       "Time": "2024-01-08T15:09:44.5370213+00:00",
       "NumProgressed": 1078,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T17:09:38.5756511+00:00",
+      "NumProgressed": 1080,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3791,7 +3796,7 @@
       "Name": "Dressed For Success",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "AttackCount",
@@ -3911,7 +3916,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4029,9 +4034,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 65
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -4045,9 +4050,9 @@
       "ID": "SorcerousSpree",
       "SetID": "71c0n9i",
       "Name": "Sorcerous Spree",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 97
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4071,7 +4076,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "TrojanHorse",
@@ -4095,7 +4100,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "WielderLevel2",
@@ -4198,15 +4203,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1078,
+      "Progressed": 1080,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:09:03.8857625+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:09:38.5756506+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:00:09.4120212+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:09:03.8858295+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:00:46.6039443+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:09:38.5757046+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 237,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2283,9 +2283,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22049,
+  "EOS_Progressed": 22053,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13043,6 +13043,11 @@
       "Time": "2024-01-08T15:04:03.2584672+00:00",
       "NumProgressed": 22049,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-08T17:04:09.097063+00:00",
+      "NumProgressed": 22053,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13054,7 +13059,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "CarMechanic",
@@ -13102,7 +13107,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20947
+      "UsersEstimate": 20950
     },
     {
       "ID": "GameOver",
@@ -13118,7 +13123,7 @@
       "Name": "I\u0027m Belieber",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "JackTarinton",
@@ -13142,7 +13147,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "KnockKnock",
@@ -13150,7 +13155,7 @@
       "Name": "Knock, knock",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Millionaire",
@@ -13158,7 +13163,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "MrAndMrsJantart",
@@ -13166,7 +13171,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "Negotiator",
@@ -13182,7 +13187,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "RafaelErko",
@@ -13190,7 +13195,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "SeniorEstateAgent",
@@ -13206,7 +13211,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "Strongman",
@@ -13214,7 +13219,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6835
+      "UsersEstimate": 6836
     },
     {
       "ID": "VeronicaLiptson",
@@ -13230,22 +13235,22 @@
       "Name": "You do it wrong",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22049,
+      "Progressed": 22053,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-06T21:00:11.8247659+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:03:40.111405+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:04:09.0970621+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.4708185+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:57:28.0655602+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:03:40.1114773+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:58:05.4453188+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:04:09.0971171+00:00"
 }

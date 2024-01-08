@@ -2,13 +2,13 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_Rating": 694,
+  "Ranking_Rating": 693,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1001,
+  "EOS_Progressed": 1002,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4302,6 +4302,11 @@
       "Time": "2024-01-08T16:09:32.6090614+00:00",
       "NumProgressed": 1001,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T17:10:07.435732+00:00",
+      "NumProgressed": 1002,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4569,7 +4574,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "TrattoriaSet",
@@ -4632,7 +4637,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1001,
+      "Progressed": 1002,
       "Completed": 0
     }
   ],
@@ -4640,8 +4645,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-05T14:58:53.6267944+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:09:32.609061+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:10:07.435731+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2362119+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:02:37.5964014+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:09:32.6091044+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:03:04.574046+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:10:07.4357799+00:00"
 }

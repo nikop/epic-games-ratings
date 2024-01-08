@@ -5,18 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Master trainee | 53.00% | ~47 |
-| You have three wishes left | 47.00% | ~41 |
+| You have three wishes left | 46.00% | ~41 |
+| The battle of Great Britain | 37.00% | ~33 |
 | Jung's dream | 36.00% | ~32 |
-| The battle of Great Britain | 36.00% | ~32 |
-| Pulp! Where Monsters Dwell | 30.00% | ~26 |
+| Pulp! Where Monsters Dwell | 30.00% | ~27 |
 | A continent with chemistry | 28.00% | ~25 |
 | The happy farmer girl | 26.00% | ~23 |
 | Pulp! Terror Tales in the Night | 24.00% | ~21 |
-| Giant | 23.00% | ~20 |
-| A rival with no options | 22.00% | ~19 |
-| Pulp! Out of this World | 22.00% | ~19 |
-| Diagnosis: fear | 22.00% | ~19 |
-| Ambition is... blind | 22.00% | ~19 |
+| Giant | 22.00% | ~20 |
+| A rival with no options | 21.00% | ~19 |
+| Pulp! Out of this World | 21.00% | ~19 |
+| Diagnosis: fear | 21.00% | ~19 |
+| Ambition is... blind | 21.00% | ~19 |
 | The artist | 20.00% | ~18 |
 | You have two wishes left | 20.00% | ~18 |
 | Et in arcadia ego | 18.00% | ~16 |
@@ -26,8 +26,8 @@
 | You've awakened the beast | 15.00% | ~13 |
 | Hate is... addictive | 15.00% | ~13 |
 | You had one wish left | 15.00% | ~13 |
-| Kirlian's best disciple | 14.00% | ~12 |
-| The bully | 13.00% | ~11 |
+| Kirlian's best disciple | 13.00% | ~12 |
+| The bully | 12.00% | ~11 |
 | Blessed antennas | 11.00% | ~10 |
 | Blood Red Island | 10.00% | ~9 |
 | Bread and bocaua | 10.00% | ~9 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 503)  
+Progressed: 89 (Ranked 502)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,4 +100,4 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-04 | 83 | 0 |
 | 2024-01-05 | 84 | 0 |
 | 2024-01-07 | 87 | 0 |
-| 2024-01-08 | 88 | 0 |
+| 2024-01-08 | 89 | 0 |

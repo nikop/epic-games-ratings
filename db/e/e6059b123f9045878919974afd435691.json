@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1402,
+  "EOS_Progressed": 1404,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3704,6 +3704,11 @@
       "Time": "2024-01-08T16:09:58.8636676+00:00",
       "NumProgressed": 1402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T17:10:34.2159207+00:00",
+      "NumProgressed": 1404,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3715,7 +3720,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1011
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3723,7 +3728,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3731,7 +3736,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3755,7 +3760,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3763,7 +3768,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -3787,7 +3792,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3843,7 +3848,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -3931,7 +3936,7 @@
       "Name": "Fire Alarm",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -3955,7 +3960,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3963,7 +3968,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -3987,7 +3992,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -3995,7 +4000,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4003,7 +4008,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4067,15 +4072,15 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 421
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4139,7 +4144,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -4155,7 +4160,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -4163,7 +4168,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4242,14 +4247,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1402,
+      "Progressed": 1404,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:09:58.8636675+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:10:34.2159202+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:58:43.2818232+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:09:58.8637419+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:59:19.8974381+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:10:34.2159931+00:00"
 }

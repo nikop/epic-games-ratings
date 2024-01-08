@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83062,
+  "EOS_Progressed": 83067,
   "EOS_Completed": 925,
-  "EOS_NewPlayers": 723,
+  "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29511,6 +29511,11 @@
       "Time": "2024-01-08T16:06:26.6314907+00:00",
       "NumProgressed": 83062,
       "NumCompleted": 925
+    },
+    {
+      "Time": "2024-01-08T17:08:26.2680943+00:00",
+      "NumProgressed": 83067,
+      "NumCompleted": 925
     }
   ],
   "TotalAchievements": 25,
@@ -29538,7 +29543,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15782
+      "UsersEstimate": 15783
     },
     {
       "ID": "Audiophile",
@@ -29554,7 +29559,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18274
+      "UsersEstimate": 18275
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -29562,7 +29567,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14951
+      "UsersEstimate": 14952
     },
     {
       "ID": "Butcher",
@@ -29570,7 +29575,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "Cut Call",
@@ -29586,7 +29591,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "HardWorker",
@@ -29594,7 +29599,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16612
+      "UsersEstimate": 16613
     },
     {
       "ID": "Hearty",
@@ -29626,7 +29631,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17443
+      "UsersEstimate": 17444
     },
     {
       "ID": "Meaty",
@@ -29642,7 +29647,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15782
+      "UsersEstimate": 15783
     },
     {
       "ID": "Nice Try",
@@ -29650,7 +29655,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13290
+      "UsersEstimate": 13291
     },
     {
       "ID": "Nothing Left to Say",
@@ -29658,7 +29663,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5814
+      "UsersEstimate": 5815
     },
     {
       "ID": "Piano Man",
@@ -29682,7 +29687,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5814
+      "UsersEstimate": 5815
     },
     {
       "ID": "Spicy",
@@ -29690,7 +29695,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "Taco Toto",
@@ -29721,7 +29726,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83062,
+      "Progressed": 83067,
       "Completed": 925
     }
   ],
@@ -29729,8 +29734,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:06:26.6314904+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:08:26.2680935+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:58:15.5548873+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:06:26.6316267+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:58:53.5772663+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:08:26.2682923+00:00"
 }

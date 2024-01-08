@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,108 |
+| A Brief Tour of the Realms | 4.00% | ~10,109 |
 | The Cursed Farmer | 2.00% | ~5,054 |
 | Beast Intentions | 1.00% | ~2,527 |
 | The Mad Wizard | 1.00% | ~2,527 |
@@ -21,8 +21,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.50% | ~1,264 |
 | Pure Energy | 0.50% | ~1,264 |
 | The Overgrown Grove | 0.50% | ~1,095 |
+| Flames of Avernus | 0.50% | ~1,095 |
 | Mental Gymnastics | 0.50% | ~1,095 |
 | Maddening | 0.40% | ~1,011 |
+| Beast Mode | 0.40% | ~1,011 |
 | Terror in the Dark | 0.40% | ~1,011 |
 | Unearthed Evil | 0.40% | ~1,011 |
 | The Crumbling Temple | 0.40% | ~1,011 |
@@ -32,10 +34,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Misaligned in Sigil | 0.40% | ~876 |
 | Chaos Theory | 0.40% | ~876 |
 | When Tentacles Attack | 0.40% | ~876 |
-| Flames of Avernus | 0.40% | ~876 |
 | Don't Lose Your Head | 0.40% | ~876 |
 | Mind Spike | 0.40% | ~876 |
-| Beast Mode | 0.30% | ~758 |
 | Low Initiative | 0.30% | ~758 |
 | A Mysterious Summons | 0.30% | ~758 |
 | Building Trust | 0.30% | ~758 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,710 (Ranked 70)  
+Progressed: 252,724 (Ranked 70)  
 Completed: 2,601 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -816,7 +816,7 @@ Completed: 2,601 (1.03%) (Ranked 174)
 | 2024-01-05 | 251,702 | 2,596 |
 | 2024-01-06 | 252,125 | 2,599 |
 | 2024-01-07 | 252,516 | 2,599 |
-| 2024-01-08 | 252,710 | 2,601 |
+| 2024-01-08 | 252,724 | 2,601 |
 ## Awards
 Max (Great for Beginners): 5,763  (Ranked 74)  
 Sum: 33,399 (Ranked 41)  

@@ -23,15 +23,15 @@
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
 | Defeat Ingla | 1.00% | ~2 |
 | Through Dangers Untold | 1.00% | ~2 |
+| Nothing but the Truth | 1.00% | ~2 |
+| Trailblazer | 1.00% | ~2 |
+| Finally! | 1.00% | ~2 |
 | But what of the Acreans? | 1.00% | ~2 |
 | A Deceiving Gift | 1.00% | ~2 |
 | The Power of the Mountains | 1.00% | ~2 |
 | Changing the World | 1.00% | ~2 |
 | Sponsor | 0.60% | ~1 |
 | Defeat Uskol | 0.60% | ~1 |
-| Nothing but the Truth | 0.60% | ~1 |
-| Trailblazer | 0.60% | ~1 |
-| Finally! | 0.60% | ~1 |
 | The End | 0.60% | ~1 |
 | Unveiling the Truth | 0.60% | ~1 |
 | Small Setback | 0.60% | ~1 |

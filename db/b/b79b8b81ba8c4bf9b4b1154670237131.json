@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,7 +185,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16518,
+  "EOS_Progressed": 16519,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
@@ -6200,6 +6200,11 @@
       "Time": "2024-01-08T16:09:23.2649474+00:00",
       "NumProgressed": 16518,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-08T17:09:58.1552488+00:00",
+      "NumProgressed": 16519,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6244,7 +6249,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12388
+      "UsersEstimate": 12389
     },
     {
       "ID": "ACH_AE_14",
@@ -6300,7 +6305,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "ACH_AE_20",
@@ -6324,7 +6329,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "ACH_AE_23",
@@ -6491,7 +6496,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16518,
+      "Progressed": 16519,
       "Completed": 15
     }
   ],
@@ -6499,8 +6504,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:09:23.2649472+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:09:58.1552483+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:57:53.3443912+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:09:23.2650114+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:58:30.6931748+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:09:58.1553035+00:00"
 }

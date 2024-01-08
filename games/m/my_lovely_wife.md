@@ -6,25 +6,25 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~606 |
+| Objective Complete | 97.00% | ~607 |
 | I did it! | 94.00% | ~588 |
-| Learner | 92.00% | ~575 |
-| Economical | 92.00% | ~575 |
-| Devout | 89.00% | ~556 |
-| The Love Martyr | 87.00% | ~544 |
-| Frugal | 85.00% | ~531 |
-| Dilligent | 83.00% | ~519 |
-| I... I did it? | 80.00% | ~500 |
-| Adored | 76.00% | ~475 |
-| The Hobbyist | 66.00% | ~412 |
-| A Forked Tongue | 56.00% | ~350 |
-| The Admirer | 53.00% | ~331 |
+| Learner | 92.00% | ~576 |
+| Economical | 92.00% | ~576 |
+| Devout | 89.00% | ~557 |
+| The Love Martyr | 87.00% | ~545 |
+| Frugal | 85.00% | ~532 |
+| Dilligent | 83.00% | ~520 |
+| I... I did it? | 80.00% | ~501 |
+| Adored | 76.00% | ~476 |
+| The Hobbyist | 65.00% | ~407 |
+| A Forked Tongue | 55.00% | ~344 |
+| The Admirer | 53.00% | ~332 |
 | Between Two Fires | 51.00% | ~319 |
-| Precious | 45.00% | ~281 |
-| Devoted | 41.00% | ~256 |
+| Precious | 45.00% | ~282 |
+| Devoted | 41.00% | ~257 |
 | The Farmer | 40.00% | ~250 |
-| Ever After | 37.00% | ~231 |
-| Mandatory Sacrifice | 29.00% | ~181 |
+| Ever After | 37.00% | ~232 |
+| Mandatory Sacrifice | 29.00% | ~182 |
 | Loyal | 28.00% | ~175 |
 | The Collector | 25.00% | ~156 |
 | All Doors Open | 20.00% | ~125 |
@@ -32,7 +32,7 @@ Number of Ratings: 25  (23.09.2022)
 | Asmodeus | 9.00% | ~56 |
 | A Close | 9.00% | ~56 |
 | Luna | 8.00% | ~50 |
-| Lover | 2.00% | ~12 |
+| Lover | 2.00% | ~13 |
 | The Harvester | 1.00% | ~6 |
 | Conclusions | 1.00% | ~6 |
 | Playboy | 0.30% | ~2 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 625 (Ranked 338)  
+Progressed: 626 (Ranked 338)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-03 | 622 | 0 |
 | 2024-01-05 | 623 | 0 |
 | 2024-01-06 | 624 | 0 |
-| 2024-01-08 | 625 | 0 |
+| 2024-01-08 | 626 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

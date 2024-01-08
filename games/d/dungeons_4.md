@@ -39,15 +39,15 @@ Rating: 4.74 (Ranked 162)
 | Master of the Undead | 36.00% | ~268 |
 | The Finitude Drill | 34.00% | ~253 |
 | Ghost Pirates? Ghost Heroes! | 31.00% | ~231 |
-| Doom Hill | 30.00% | ~224 |
+| Doom Hill | 31.00% | ~231 |
 | Forbidden Knowledge | 29.00% | ~216 |
 | Brimstone Shaken, Not Stirred | 29.00% | ~216 |
 | Hungry, Hungry Gorgu! | 28.00% | ~209 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~209 |
+| Raiders of the Lost Stone | 28.00% | ~209 |
 | The Rune Sockets of Finitude (Part 1) | 28.00% | ~209 |
 | Stop Tanos! | 27.00% | ~201 |
 | Sabotage! | 27.00% | ~201 |
-| Raiders of the Lost Stone | 27.00% | ~201 |
 | Bonus Evilness | 26.00% | ~194 |
 | The Rune Sockets of Finitude (Part 2) | 26.00% | ~194 |
 | The Last Stand - This Time For Real! | 24.00% | ~179 |

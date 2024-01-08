@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1459,9 +1459,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260425,
+  "EOS_Progressed": 260426,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26669,6 +26669,11 @@
       "Time": "2024-01-08T15:05:50.1876748+00:00",
       "NumProgressed": 260425,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T17:05:27.4335432+00:00",
+      "NumProgressed": 260426,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26720,7 +26725,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "BackHomeFirstTime",
@@ -26784,7 +26789,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26042
+      "UsersEstimate": 26043
     },
     {
       "ID": "CreditLevel2",
@@ -26944,7 +26949,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -26960,7 +26965,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "KillOthers1",
@@ -26992,7 +26997,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -27000,7 +27005,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "MaxImagoLevel",
@@ -27072,7 +27077,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26042
+      "UsersEstimate": 26043
     },
     {
       "ID": "ReachNDays2",
@@ -27080,7 +27085,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "ReachNDays3",
@@ -27127,7 +27132,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260425,
+      "Progressed": 260426,
       "Completed": 3
     }
   ],
@@ -27135,8 +27140,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-08T01:46:00.7585817+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:04:58.9913209+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:05:27.4335427+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.9058213+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:57:31.3430254+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:04:58.9914914+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:58:08.6925189+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:05:27.4336741+00:00"
 }

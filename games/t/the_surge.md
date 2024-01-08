@@ -1,16 +1,16 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 704)  
+Rating: 4.44 (Ranked 703)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,019 |
-| I'll Be Back | 84.00% | ~4,485 |
+| On My Own Two Feet | 94.00% | ~5,020 |
+| I'll Be Back | 84.00% | ~4,486 |
 | Sorry, I Dropped This | 76.00% | ~4,058 |
 | First Day on the Job | 76.00% | ~4,058 |
-| Butcher's Bill | 54.00% | ~2,883 |
+| Butcher's Bill | 54.00% | ~2,884 |
 | P.A.X | 36.00% | ~1,922 |
 | Hey Listen | 36.00% | ~1,922 |
 | OPERATOR | 35.00% | ~1,869 |
@@ -23,7 +23,7 @@ Number of Ratings: 62  (23.09.2022)
 | Nothing to Lose | 17.00% | ~908 |
 | Big Sister | 15.00% | ~801 |
 | SENTINEL | 15.00% | ~801 |
-| Gear Up | 14.00% | ~747 |
+| Gear Up | 14.00% | ~748 |
 | The Black Cerberus | 12.00% | ~641 |
 | Watchman | 12.00% | ~641 |
 | Core Power | 12.00% | ~641 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,339 (Ranked 203)  
+Progressed: 5,340 (Ranked 203)  
 Completed: 18 (0.34%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 18 (0.34%) (Ranked 245)
 | 2024-01-05 | 5,270 | 18 |
 | 2024-01-06 | 5,296 | 18 |
 | 2024-01-07 | 5,326 | 18 |
-| 2024-01-08 | 5,339 | 18 |
+| 2024-01-08 | 5,340 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 522)  
 Sum: 30 (Ranked 541)  

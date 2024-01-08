@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 443,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -1719,6 +1719,11 @@
       "Time": "2024-01-08T16:03:42.0547718+00:00",
       "NumProgressed": 440,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T17:04:11.0007203+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1731,7 +1736,7 @@
       "Name": "Sound",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "AC_ALL_COLUMNS",
@@ -1801,9 +1806,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 230
     },
     {
       "ID": "AC_BOSS_01",
@@ -1811,7 +1816,7 @@
       "Name": "Misery",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC_BOSS_02",
@@ -1819,7 +1824,7 @@
       "Name": "Downfall",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "AC_BOSS_03",
@@ -1873,9 +1878,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 159
     },
     {
       "ID": "AC_DEATH_2",
@@ -1883,23 +1888,23 @@
       "Name": "Carcass",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "AC_DEATH_3",
       "SetID": "16i2akc",
       "Name": "Skeleton",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 226
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1907,7 +1912,7 @@
       "Name": "Psycopath",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -1923,15 +1928,15 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 354
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 199
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1939,7 +1944,7 @@
       "Name": "Voyage",
       "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -1987,7 +1992,7 @@
       "Name": "Winner",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -2035,7 +2040,7 @@
       "Name": "Loss",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2066,14 +2071,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 443,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:03:42.0547714+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:04:11.0007198+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:58:43.0745845+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:03:42.0548028+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:59:19.7326231+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:04:11.0007496+00:00"
 }

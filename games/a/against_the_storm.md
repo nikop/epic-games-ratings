@@ -12,19 +12,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 8.00% | ~1,639 |
 | Abandoned Settlement | 8.00% | ~1,639 |
 | Petrified Necropolis | 8.00% | ~1,639 |
-| The Marshlands | 7.00% | ~1,434 |
-| Overcoming Difficulty | 6.00% | ~1,229 |
-| Coral Forest | 6.00% | ~1,229 |
-| The Scarlet Orchard | 6.00% | ~1,229 |
-| Ominous Presence | 6.00% | ~1,229 |
-| Gathering Storm | 6.00% | ~1,229 |
-| Frosts | 5.00% | ~1,024 |
-| Land of Greed | 5.00% | ~1,024 |
-| Homesick | 4.00% | ~819 |
-| Fertile Meadows | 4.00% | ~819 |
-| Royal Outpost | 4.00% | ~819 |
-| Watchtower | 4.00% | ~819 |
-| A Real Challenge | 4.00% | ~819 |
+| The Marshlands | 7.00% | ~1,435 |
+| Overcoming Difficulty | 6.00% | ~1,230 |
+| Coral Forest | 6.00% | ~1,230 |
+| The Scarlet Orchard | 6.00% | ~1,230 |
+| Ominous Presence | 6.00% | ~1,230 |
+| Gathering Storm | 6.00% | ~1,230 |
+| Frosts | 5.00% | ~1,025 |
+| Land of Greed | 5.00% | ~1,025 |
+| Homesick | 4.00% | ~820 |
+| Fertile Meadows | 4.00% | ~820 |
+| Royal Outpost | 4.00% | ~820 |
+| Watchtower | 4.00% | ~820 |
+| A Real Challenge | 4.00% | ~820 |
 | Ruined Armory | 3.00% | ~615 |
 | Bandit Camp | 3.00% | ~615 |
 | Ancient Battleground | 3.00% | ~615 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,486 (Ranked 154)  
+Progressed: 20,493 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-05 | 20,228 | 33 |
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
-| 2024-01-08 | 20,486 | 34 |
+| 2024-01-08 | 20,493 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 232)  
 Sum: 3,359 (Ranked 177)  

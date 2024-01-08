@@ -5,10 +5,10 @@
   "Ranking_Rating": 17,
   "Ranking_Popularity": 375,
   "Ranking_PopularitySum": 467,
-  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -307,7 +307,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 1323,
+  "EOS_Progressed": 1324,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -3782,6 +3782,11 @@
       "Time": "2024-01-08T16:06:15.6718841+00:00",
       "NumProgressed": 1323,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T17:06:45.4920782+00:00",
+      "NumProgressed": 1324,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3898,7 +3903,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "EcstaticTruth",
@@ -4050,7 +4055,7 @@
       "Name": "Overload",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "Persistent",
@@ -4074,7 +4079,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4138,7 +4143,7 @@
       "Name": "Team Spirit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "TextAdventurer",
@@ -4248,9 +4253,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 212
     },
     {
       "ID": "YourBiggestFan",
@@ -4265,7 +4270,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1323,
+      "Progressed": 1324,
       "Completed": 2
     }
   ],
@@ -4273,8 +4278,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-07T13:01:07.63286+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:06:15.6718837+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:06:45.4920776+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:58:08.0624922+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:06:15.6719581+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:58:45.1934765+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:06:45.4921389+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 913,
+  "EOS_Progressed": 914,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.1,
+  "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -3175,6 +3175,11 @@
       "Time": "2024-01-08T04:08:56.7835541+00:00",
       "NumProgressed": 913,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-08T17:09:17.420764+00:00",
+      "NumProgressed": 914,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3235,7 +3240,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_eou7",
@@ -3290,14 +3295,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 913,
+      "Progressed": 914,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:08:43.1282805+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:09:17.4207634+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:58:38.2598927+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:08:43.1283128+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:59:15.6011786+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:09:17.4207902+00:00"
 }

@@ -4,7 +4,7 @@
 Rating: 4.61 (Ranked 400)  
 ## Awards
 Max (Great for Beginners): 85  (Ranked 399)  
-Sum: 615 (Ranked 320)  
+Sum: 616 (Ranked 320)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): 79
 | This game has Amazing Storytelling | 48 |
 | This game has a Competitive Community | 45 |
 | This game has Amazing Characters | 36 |
-| This game has Playful Visuals | 28 |
+| This game has Playful Visuals | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -193,3 +193,4 @@ Diff (max vs sum): 79
 | 2024-01-05 | 4.61 | 81 | 604 |
 | 2024-01-06 | 4.62 | 85 | 614 |
 | 2024-01-07 | 4.61 | 85 | 615 |
+| 2024-01-08 | 4.61 | 85 | 616 |

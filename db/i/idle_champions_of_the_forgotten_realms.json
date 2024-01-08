@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9403,9 +9403,9 @@
       "Count": 3633
     }
   ],
-  "EOS_Progressed": 252710,
+  "EOS_Progressed": 252724,
   "EOS_Completed": 2601,
-  "EOS_NewPlayers": 3618,
+  "EOS_NewPlayers": 3585,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39223,6 +39223,11 @@
       "Time": "2024-01-08T16:10:03.169034+00:00",
       "NumProgressed": 252710,
       "NumCompleted": 2601
+    },
+    {
+      "Time": "2024-01-08T17:10:38.4636196+00:00",
+      "NumProgressed": 252724,
+      "NumCompleted": 2601
     }
   ],
   "TotalAchievements": 546,
@@ -39234,7 +39239,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10108
+      "UsersEstimate": 10109
     },
     {
       "ID": "objective_completed_10",
@@ -40336,9 +40341,9 @@
       "ID": "objective_completed_14",
       "SetID": "cc37lbc",
       "Name": "Beast Mode",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 1011
     },
     {
       "ID": "objective_completed_149",
@@ -43568,9 +43573,9 @@
       "ID": "objective_completed_678",
       "SetID": "415jc5c",
       "Name": "Flames of Avernus",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 1095
     },
     {
       "ID": "objective_completed_683",
@@ -43601,21 +43606,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218984,
+      "Progressed": 218998,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252710,
+      "Progressed": 252724,
       "Completed": 2601
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-08T10:57:40.4859678+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:10:03.1690337+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:10:38.4636191+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:57:13.9467619+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:10:03.1714159+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:57:52.6787971+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:10:38.4660229+00:00"
 }

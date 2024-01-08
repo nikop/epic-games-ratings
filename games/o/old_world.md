@@ -8,9 +8,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 2.00% | ~325 |
 | Settler | 2.00% | ~325 |
+| Friendly Family | 2.00% | ~325 |
 | Play a Single Player Game | 2.00% | ~325 |
 | Able | 1.00% | ~162 |
 | Architect | 1.00% | ~162 |
+| Glorious | 1.00% | ~162 |
 | Good | 1.00% | ~162 |
 | Intrepid | 1.00% | ~162 |
 | Just | 1.00% | ~162 |
@@ -20,7 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 1.00% | ~162 |
 | Pioneer | 1.00% | ~162 |
 | Strong | 1.00% | ~162 |
-| Friendly Family | 1.00% | ~162 |
+| Developing Cities | 1.00% | ~162 |
 | Hanging Gardens | 1.00% | ~162 |
 | Oracle | 1.00% | ~162 |
 | Pyramids | 1.00% | ~162 |
@@ -31,13 +33,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~162 |
 | Ambitious | 0.90% | ~146 |
 | Enlightened | 0.90% | ~146 |
-| Glorious | 0.90% | ~146 |
+| Fountainhead | 0.90% | ~146 |
 | Warrior | 0.90% | ~146 |
-| Developing Cities | 0.90% | ~146 |
 | Strong Cities | 0.90% | ~146 |
 | Babylonian Paganism | 0.90% | ~146 |
 | Brilliant | 0.80% | ~130 |
-| Fountainhead | 0.80% | ~130 |
 | Magnificent | 0.80% | ~130 |
 | Great Ziggurat | 0.80% | ~130 |
 | Ishtar Gate | 0.80% | ~130 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,236 (Ranked 168)  
+Progressed: 16,242 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,236 | 5 |
+| 2024-01-08 | 16,242 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,917 (Ranked 223)  

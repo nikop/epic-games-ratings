@@ -2,13 +2,13 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 694,
+  "Ranking_Rating": 693,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5808,
+  "EOS_Progressed": 5809,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5284,6 +5284,11 @@
       "Time": "2024-01-07T19:08:21.2921263+00:00",
       "NumProgressed": 5808,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T17:04:08.5720845+00:00",
+      "NumProgressed": 5809,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5647,7 +5652,7 @@
       "Name": "Millionaire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ach_frp_many_modules",
@@ -5902,15 +5907,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5808,
+      "Progressed": 5809,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:03:39.5747915+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:04:08.572084+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.9486343+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:59:51.4048617+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:03:39.5748753+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:00:27.8182504+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:04:08.5721575+00:00"
 }

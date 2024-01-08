@@ -17,11 +17,11 @@ Rating: 3.28 (Ranked 1,098)
 | On Target | 10.00% | ~220 |
 | Keeping Busy | 9.00% | ~198 |
 | Infantry Reporting | 9.00% | ~198 |
+| Exterminator | 8.00% | ~176 |
 | Fighting for Survival | 8.00% | ~176 |
 | Silver Competitor | 8.00% | ~176 |
 | Captain | 8.00% | ~176 |
 | Factory Expansion | 8.00% | ~176 |
-| Exterminator | 7.00% | ~154 |
 | Know The Enemy | 6.00% | ~132 |
 | Silver Achiever | 6.00% | ~132 |
 | Moving On Up | 6.00% | ~132 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2743,9 +2743,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -2767,9 +2767,9 @@
       "ID": "ach_main17stone_completed",
       "SetID": "4hg22ll",
       "Name": "Raiders of the Lost Stone",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 209
     },
     {
       "ID": "ach_main17stone_explosions",
@@ -2872,8 +2872,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-07T17:57:59.5607036+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:09:02.3636435+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:09:37.2726258+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:58:11.2360774+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:09:02.3636924+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:58:48.3598481+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:09:37.2726841+00:00"
 }

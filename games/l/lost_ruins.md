@@ -27,8 +27,8 @@
 | Explorer | 5.00% | ~34 |
 | Trio | 5.00% | ~34 |
 | Pyromancer | 4.00% | ~27 |
-| Arrive Home | 3.00% | ~20 |
-| Spell Master | 3.00% | ~20 |
+| Arrive Home | 3.00% | ~21 |
+| Spell Master | 3.00% | ~21 |
 | Holy Knight | 2.00% | ~14 |
 | Hoarder | 2.00% | ~14 |
 | Marksman | 2.00% | ~14 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683 (Ranked 327)  
+Progressed: 684 (Ranked 327)  
 Completed: 1 (0.15%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 1 (0.15%) (Ranked 286)
 | 2024-01-05 | 662 | 1 |
 | 2024-01-06 | 666 | 1 |
 | 2024-01-07 | 678 | 1 |
-| 2024-01-08 | 683 | 1 |
+| 2024-01-08 | 684 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

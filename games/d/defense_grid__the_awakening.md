@@ -1,37 +1,37 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 694)  
+Rating: 4.45 (Ranked 693)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~399,897 |
-| Happy Returns | 78.00% | ~385,086 |
-| Hey! That's mine! | 78.00% | ~385,086 |
-| Field Promotion | 74.00% | ~365,338 |
-| Leadhead | 71.00% | ~350,527 |
-| Eradicator | 67.00% | ~330,779 |
-| Surplus | 66.00% | ~325,842 |
-| I Spy | 64.00% | ~315,968 |
-| Burn Baby Burn | 59.00% | ~291,283 |
-| Yellow Beats Green | 56.00% | ~276,472 |
-| Salvage Rights | 53.00% | ~261,661 |
-| What IS that? | 51.00% | ~251,787 |
-| Close Call | 50.00% | ~246,850 |
-| Pew Pew | 50.00% | ~246,850 |
-| Penny Pincher | 49.00% | ~241,913 |
-| Arsenal | 46.00% | ~227,102 |
-| Boot Camp | 46.00% | ~227,102 |
-| Flawless Victory | 42.00% | ~207,354 |
-| Confident | 41.00% | ~202,417 |
-| Exterminator | 36.00% | ~177,732 |
-| Sharpshooter | 34.00% | ~167,858 |
-| Not So Fast | 33.00% | ~162,921 |
-| Great Ball of Fire | 32.00% | ~157,984 |
-| No Sale | 31.00% | ~153,047 |
-| Kaboom! | 30.00% | ~148,110 |
-| Liquidator | 29.00% | ~143,173 |
+| First Blood | 81.00% | ~399,899 |
+| Happy Returns | 78.00% | ~385,088 |
+| Hey! That's mine! | 78.00% | ~385,088 |
+| Field Promotion | 74.00% | ~365,339 |
+| Leadhead | 71.00% | ~350,528 |
+| Eradicator | 67.00% | ~330,780 |
+| Surplus | 66.00% | ~325,843 |
+| I Spy | 64.00% | ~315,969 |
+| Burn Baby Burn | 59.00% | ~291,284 |
+| Yellow Beats Green | 56.00% | ~276,473 |
+| Salvage Rights | 53.00% | ~261,662 |
+| What IS that? | 51.00% | ~251,788 |
+| Close Call | 50.00% | ~246,851 |
+| Pew Pew | 50.00% | ~246,851 |
+| Penny Pincher | 49.00% | ~241,914 |
+| Arsenal | 46.00% | ~227,103 |
+| Boot Camp | 46.00% | ~227,103 |
+| Flawless Victory | 42.00% | ~207,355 |
+| Confident | 41.00% | ~202,418 |
+| Exterminator | 36.00% | ~177,733 |
+| Sharpshooter | 34.00% | ~167,859 |
+| Not So Fast | 33.00% | ~162,922 |
+| Great Ball of Fire | 32.00% | ~157,985 |
+| No Sale | 31.00% | ~153,048 |
+| Kaboom! | 30.00% | ~148,111 |
+| Liquidator | 29.00% | ~143,174 |
 | High Voltage | 24.00% | ~118,488 |
 | Filthy Rich | 20.00% | ~98,740 |
 | Pyrrhic Victory | 18.00% | ~88,866 |
@@ -63,8 +63,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Master Siege Breaker | 0.80% | ~3,950 |
 | Few and Proud | 0.80% | ~3,950 |
 | Shell-shocked | 0.70% | ~3,456 |
-| Alien Tears | 0.50% | ~2,468 |
-| Full House | 0.50% | ~2,468 |
+| Alien Tears | 0.50% | ~2,469 |
+| Full House | 0.50% | ~2,469 |
 | Kickstarter | 0.30% | ~1,481 |
 | Out of Bullets | 0.30% | ~1,481 |
 | The Container | 0.30% | ~1,481 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~494 |
 | You Monster | 0.10% | ~494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493,700 (Ranked 43)  
+Progressed: 493,702 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 5 (0.00%) (Ranked 394)
 | 2024-01-05 | 493,449 | 5 |
 | 2024-01-06 | 493,546 | 5 |
 | 2024-01-07 | 493,651 | 5 |
-| 2024-01-08 | 493,700 | 5 |
+| 2024-01-08 | 493,702 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 276)  
 Sum: 1,744 (Ranked 226)  

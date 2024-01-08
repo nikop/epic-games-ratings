@@ -15,7 +15,7 @@
 | Fish Appreciation | 22.00% | ~153 |
 | We're Gonna Need a Bigger Screen | 22.00% | ~153 |
 | A Work of Art | 22.00% | ~153 |
-| Cleanup Duty | 17.00% | ~118 |
+| Cleanup Duty | 18.00% | ~125 |
 | Hide and Seek | 15.00% | ~104 |
 | Be Like the Lotus | 12.00% | ~84 |
 ## Popularity (Based on EOS Achievements)

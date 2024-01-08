@@ -2,10 +2,10 @@
   "ID": "599554e2ea49491bb9ca088a43fec83a",
   "Name": "The Fabulous Fear Machine",
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 89,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -449,6 +449,11 @@
       "Time": "2024-01-08T15:04:49.6158821+00:00",
       "NumProgressed": 88,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T17:04:43.167898+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-15T20:07:40.8374596+00:00",
@@ -539,7 +544,7 @@
       "ID": "19",
       "SetID": "d37idgg",
       "Name": "Giant",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -547,7 +552,7 @@
       "ID": "2",
       "SetID": "d37idgg",
       "Name": "You have three wishes left",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 41
     },
@@ -555,7 +560,7 @@
       "ID": "20",
       "SetID": "d37idgg",
       "Name": "A rival with no options",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -587,7 +592,7 @@
       "ID": "24",
       "SetID": "d37idgg",
       "Name": "The bully",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -635,9 +640,9 @@
       "ID": "3",
       "SetID": "d37idgg",
       "Name": "The battle of Great Britain",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "30",
@@ -685,13 +690,13 @@
       "Name": "Pulp! Where Monsters Dwell",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "36",
       "SetID": "d37idgg",
       "Name": "Pulp! Out of this World",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -731,7 +736,7 @@
       "ID": "40",
       "SetID": "d37idgg",
       "Name": "Kirlian\u0027s best disciple",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -803,7 +808,7 @@
       "ID": "6",
       "SetID": "d37idgg",
       "Name": "Diagnosis: fear",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -811,7 +816,7 @@
       "ID": "7",
       "SetID": "d37idgg",
       "Name": "Ambition is... blind",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -836,14 +841,14 @@
     {
       "ID": "d37idgg",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 89,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:04:14.58297+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:04:43.1678973+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.4038986+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:58:26.4966031+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:04:14.5830064+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:59:03.716381+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:04:43.1679257+00:00"
 }

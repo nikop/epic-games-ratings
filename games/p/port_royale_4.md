@@ -1,7 +1,7 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 1,042)  
+Rating: 4.03 (Ranked 1,041)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,8 +25,8 @@ Number of Ratings: 53  (23.09.2022)
 | Groundskeeper | 25.00% | ~300 |
 | Wholesale | 22.00% | ~264 |
 | Walk the plank | 21.00% | ~252 |
+| Pearly gates | 18.00% | ~216 |
 | My precious! | 18.00% | ~216 |
-| Pearly gates | 17.00% | ~204 |
 | Conquistador | 14.00% | ~168 |
 | Panic buying | 11.00% | ~132 |
 | Your vessel, my vessel | 10.00% | ~120 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 489,
+  "EOS_Progressed": 490,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.23,
+  "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -1416,6 +1416,11 @@
       "Time": "2024-01-08T15:10:21.2106336+00:00",
       "NumProgressed": 489,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T17:10:05.1983649+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 19,
@@ -1467,7 +1472,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ryan_date2_all",
@@ -1539,7 +1544,7 @@
       "Name": "The intellectual",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "success_lucas",
@@ -1578,7 +1583,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 489,
+      "Progressed": 490,
       "Completed": 6
     }
   ],
@@ -1586,8 +1591,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:09:30.4488287+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:10:05.1983642+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:58:15.0178585+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:09:30.4488636+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:58:53.0035984+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:10:05.1984089+00:00"
 }

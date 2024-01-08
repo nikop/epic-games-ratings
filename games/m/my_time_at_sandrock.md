@@ -6,59 +6,59 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 204.00% | ~1,789 |
-| Super Spelunker | 147.00% | ~1,289 |
-| Iron Chef | 140.00% | ~1,228 |
-| Officially Official | 119.00% | ~1,044 |
-| The Little Wood that Could | 117.00% | ~1,026 |
-| On that Grindset | 112.00% | ~982 |
-| Greeno-B-Gone | 108.00% | ~947 |
-| Better Late than Never | 100.00% | ~877 |
-| Your Especially Earned Trajectory | 91.00% | ~798 |
-| Got Served | 90.00% | ~789 |
+| Adept Assembler | 204.00% | ~1,791 |
+| Super Spelunker | 147.00% | ~1,291 |
+| Iron Chef | 140.00% | ~1,229 |
+| Officially Official | 119.00% | ~1,045 |
+| The Little Wood that Could | 117.00% | ~1,027 |
+| On that Grindset | 112.00% | ~983 |
+| Greeno-B-Gone | 108.00% | ~948 |
+| Better Late than Never | 100.00% | ~878 |
+| Your Especially Earned Trajectory | 90.00% | ~790 |
+| Got Served | 90.00% | ~790 |
 | Knowledge is Power | 89.00% | ~781 |
 | Pack Mule | 89.00% | ~781 |
 | One of the Cool Kids | 89.00% | ~781 |
-| Mole Masher | 88.00% | ~772 |
-| Diamonds are Forever | 88.00% | ~772 |
-| Financially Secure | 87.00% | ~763 |
-| Big Game Hunter | 82.00% | ~719 |
+| Mole Masher | 88.00% | ~773 |
+| Diamonds are Forever | 88.00% | ~773 |
+| Financially Secure | 87.00% | ~764 |
+| Big Game Hunter | 82.00% | ~720 |
 | Unboxing | 80.00% | ~702 |
-| What Plants Crave | 78.00% | ~684 |
-| Yakmel Whisperer | 77.00% | ~675 |
+| What Plants Crave | 78.00% | ~685 |
+| Yakmel Whisperer | 77.00% | ~676 |
 | Panda-kin | 76.00% | ~667 |
 | No Mountain Wide Enough | 76.00% | ~667 |
-| Chatterbox | 74.00% | ~649 |
-| First Love | 74.00% | ~649 |
-| I Do! | 74.00% | ~649 |
+| Chatterbox | 74.00% | ~650 |
+| First Love | 74.00% | ~650 |
+| I Do! | 74.00% | ~650 |
 | Can We Keep It? | 71.00% | ~623 |
-| Builder of the Month | 70.00% | ~614 |
+| Builder of the Month | 70.00% | ~615 |
 | Bridging the Gap | 66.00% | ~579 |
 | Elementary, My Dear | 66.00% | ~579 |
-| Waste Not Want Not | 64.00% | ~561 |
+| Waste Not Want Not | 64.00% | ~562 |
 | Commissions, commissions...! | 63.00% | ~553 |
-| Lifeline Pipeline | 61.00% | ~535 |
-| Got the Flow Back | 60.00% | ~526 |
-| Martle's Dream | 57.00% | ~500 |
-| Sepia Toned Memories | 55.00% | ~482 |
-| Happier-est Place on Earth | 55.00% | ~482 |
+| Lifeline Pipeline | 61.00% | ~536 |
+| Got the Flow Back | 60.00% | ~527 |
+| Martle's Dream | 56.00% | ~492 |
+| Sepia Toned Memories | 55.00% | ~483 |
+| Happier-est Place on Earth | 55.00% | ~483 |
 | Anti-Santa | 54.00% | ~474 |
 | Who Ya Gonna Call...? | 54.00% | ~474 |
-| You Don't Win Friends With Salad | 53.00% | ~465 |
-| Time Flies | 52.00% | ~456 |
-| Finishing Touches | 52.00% | ~456 |
-| Call Me Fishmael | 52.00% | ~456 |
-| Kind of a Big Deal | 47.00% | ~412 |
-| Just What I Always Wanted! | 46.00% | ~403 |
-| Jewel of the Eufaula | 43.00% | ~377 |
+| You Don't Win Friends With Salad | 54.00% | ~474 |
+| Time Flies | 52.00% | ~457 |
+| Finishing Touches | 52.00% | ~457 |
+| Call Me Fishmael | 51.00% | ~448 |
+| Kind of a Big Deal | 47.00% | ~413 |
+| Just What I Always Wanted! | 46.00% | ~404 |
+| Jewel of the Eufaula | 43.00% | ~378 |
 | My Time Mansion | 41.00% | ~360 |
 | He Can Spin A Yarn... | 39.00% | ~342 |
 | Santa In Training | 39.00% | ~342 |
 | Sandrunning Speedster | 39.00% | ~342 |
 | It Belongs in a Museum! | 36.00% | ~316 |
 | Do Your Part | 35.00% | ~307 |
-| Newton | 34.00% | ~298 |
-| Pro Gamer | 33.00% | ~289 |
+| Pro Gamer | 33.00% | ~290 |
+| Newton | 33.00% | ~290 |
 | Cardistry | 27.00% | ~237 |
 | Winner and Still Champeen | 26.00% | ~228 |
 | Strong Arms | 18.00% | ~158 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 8.00% | ~70 |
 | Sandrock's Hottest Club | 5.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 877 (Ranked 302)  
+Progressed: 878 (Ranked 302)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 833 | 0 |
 | 2024-01-06 | 855 | 0 |
 | 2024-01-07 | 856 | 0 |
-| 2024-01-08 | 877 | 0 |
+| 2024-01-08 | 878 | 0 |
 ## Awards
 Max (Character Customization): 631  (Ranked 202)  
 Sum: 1,512 (Ranked 244)  

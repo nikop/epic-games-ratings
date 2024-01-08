@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4020,
+  "EOS_Progressed": 4024,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6836,6 +6836,11 @@
       "Time": "2024-01-08T16:05:28.5226232+00:00",
       "NumProgressed": 4020,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-08T17:05:58.3993978+00:00",
+      "NumProgressed": 4024,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6871,7 +6876,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "MOVE_ON",
@@ -6879,7 +6884,7 @@
       "Name": "The will to move on",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "REUNION",
@@ -6887,7 +6892,7 @@
       "Name": "Reunion",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "SLIDERS",
@@ -6911,7 +6916,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6943,14 +6948,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4020,
+      "Progressed": 4024,
       "Completed": 6
     }
   ],
@@ -6958,8 +6963,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-08T16:05:28.5226231+00:00",
+  "LastChanged_Achievements": "2024-01-08T17:05:58.3993974+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:08.6041157+00:00",
-  "LastUpdate_Ratings": "2024-01-08T15:58:23.2452951+00:00",
-  "LastUpdate_Achievements": "2024-01-08T16:05:28.5226582+00:00"
+  "LastUpdate_Ratings": "2024-01-08T16:59:00.5310822+00:00",
+  "LastUpdate_Achievements": "2024-01-08T17:05:58.3994428+00:00"
 }

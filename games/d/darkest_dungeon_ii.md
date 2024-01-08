@@ -34,24 +34,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,287 |
 | Nope | 4.00% | ~5,287 |
 | Friends 'Til the End | 4.00% | ~282 |
-| Resurrection | 3.00% | ~3,965 |
-| Unleash Hell | 3.00% | ~3,965 |
-| Funny Guy | 3.00% | ~3,965 |
-| Long Live the King | 3.00% | ~3,965 |
-| Wyrdly Reconstructed | 3.00% | ~3,965 |
-| Boxcar Kid | 3.00% | ~3,965 |
-| Unfulfilled Desires | 3.00% | ~3,965 |
-| Predator | 3.00% | ~3,965 |
-| Dissector | 3.00% | ~3,965 |
-| Banishment | 3.00% | ~3,965 |
-| Deprogramming | 3.00% | ~3,965 |
-| Now Stay Dead | 3.00% | ~3,965 |
-| Reverse Banditry | 3.00% | ~3,965 |
-| A Clear Conscience | 3.00% | ~3,965 |
-| When You Want Something Done Right | 3.00% | ~3,965 |
-| Utopia | 3.00% | ~3,965 |
-| Unshackled | 3.00% | ~3,965 |
-| Road Trip | 3.00% | ~3,965 |
+| Resurrection | 3.00% | ~3,966 |
+| Unleash Hell | 3.00% | ~3,966 |
+| Funny Guy | 3.00% | ~3,966 |
+| Long Live the King | 3.00% | ~3,966 |
+| Wyrdly Reconstructed | 3.00% | ~3,966 |
+| Boxcar Kid | 3.00% | ~3,966 |
+| Unfulfilled Desires | 3.00% | ~3,966 |
+| Predator | 3.00% | ~3,966 |
+| Dissector | 3.00% | ~3,966 |
+| Banishment | 3.00% | ~3,966 |
+| Deprogramming | 3.00% | ~3,966 |
+| Now Stay Dead | 3.00% | ~3,966 |
+| Reverse Banditry | 3.00% | ~3,966 |
+| A Clear Conscience | 3.00% | ~3,966 |
+| When You Want Something Done Right | 3.00% | ~3,966 |
+| Utopia | 3.00% | ~3,966 |
+| Unshackled | 3.00% | ~3,966 |
+| Road Trip | 3.00% | ~3,966 |
 | This Looks Familiar | 2.00% | ~2,644 |
 | Hope Rekindled | 2.00% | ~2,644 |
 | Ichthyophobic | 2.00% | ~2,644 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,182 (Ranked 91)  
+Progressed: 132,185 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,17 +339,17 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,182 | 3 |
+| 2024-01-08 | 132,185 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
-Sum: 21,536 (Ranked 58)  
+Sum: 21,539 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,986 |
 | This game has Diverse Characters | 1,835 |
 | This game has Challenging Combat | 1,672 |
-| This game is Highly Recommended | 1,599 |
+| This game is Highly Recommended | 1,602 |
 | This game has Amazing Characters | 1,527 |
 | This game is Extremely Fun | 1,518 |
 | This game has Unique Visuals | 1,463 |
@@ -706,4 +706,4 @@ Diff (max vs sum): -8
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
-| 2024-01-08 | 4.68 | - | 7,986 | 21,536 |
+| 2024-01-08 | 4.68 | - | 7,986 | 21,539 |

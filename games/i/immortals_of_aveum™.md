@@ -5,30 +5,30 @@ Rating: 4.19 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,730 |
-| Battlefields Have Memories | 81.00% | ~2,513 |
-| Enlisted | 74.00% | ~2,295 |
-| Maybe Engage a Little | 69.00% | ~2,140 |
-| No More Names | 52.00% | ~1,613 |
-| Initiate | 38.00% | ~1,179 |
-| Thrada-Kul | 34.00% | ~1,055 |
-| Gravity-Challenged Rocks | 28.00% | ~869 |
-| Socialite | 24.00% | ~744 |
-| Soldier | 23.00% | ~713 |
-| All the Major Food Groups | 23.00% | ~713 |
-| Beggars Would Ride | 21.00% | ~651 |
-| Control is an Illusion | 19.00% | ~589 |
-| The Means to Save It | 17.00% | ~527 |
-| Resilience to Sin | 16.00% | ~496 |
-| A Familiar Nest | 15.00% | ~465 |
-| Periapt Alizarin | 15.00% | ~465 |
-| Geas Aristeya | 14.00% | ~434 |
-| A Perfect Cycle | 13.00% | ~403 |
-| Recruit | 12.00% | ~372 |
-| Armsman | 11.00% | ~341 |
-| Lights Army | 9.00% | ~279 |
-| Periapt Cerulean | 8.00% | ~248 |
-| Good Boy | 7.00% | ~217 |
+| Unforeseen | 88.00% | ~2,735 |
+| Battlefields Have Memories | 81.00% | ~2,517 |
+| Enlisted | 74.00% | ~2,300 |
+| Maybe Engage a Little | 69.00% | ~2,145 |
+| No More Names | 52.00% | ~1,616 |
+| Initiate | 38.00% | ~1,181 |
+| Thrada-Kul | 34.00% | ~1,057 |
+| Gravity-Challenged Rocks | 28.00% | ~870 |
+| Socialite | 24.00% | ~746 |
+| Soldier | 23.00% | ~715 |
+| All the Major Food Groups | 23.00% | ~715 |
+| Beggars Would Ride | 21.00% | ~653 |
+| Control is an Illusion | 19.00% | ~591 |
+| The Means to Save It | 17.00% | ~528 |
+| Resilience to Sin | 16.00% | ~497 |
+| A Familiar Nest | 15.00% | ~466 |
+| Periapt Alizarin | 15.00% | ~466 |
+| Geas Aristeya | 14.00% | ~435 |
+| A Perfect Cycle | 13.00% | ~404 |
+| Recruit | 12.00% | ~373 |
+| Armsman | 11.00% | ~342 |
+| Lights Army | 9.00% | ~280 |
+| Periapt Cerulean | 8.00% | ~249 |
+| Good Boy | 7.00% | ~218 |
 | Best Dressed | 6.00% | ~186 |
 | Periapt Viridian | 6.00% | ~186 |
 | Shroudfane Explorer | 6.00% | ~186 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 971)
 | Out of Time | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,102 (Ranked 228)  
+Progressed: 3,108 (Ranked 228)  
 Completed: 4 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 4 (0.13%) (Ranked 298)
 | 2024-01-05 | 2,796 | 4 |
 | 2024-01-06 | 2,915 | 4 |
 | 2024-01-07 | 3,056 | 4 |
-| 2024-01-08 | 3,102 | 4 |
+| 2024-01-08 | 3,108 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
