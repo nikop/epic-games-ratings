@@ -3,9 +3,9 @@
   "Name": "Your Computer Might Be At Risk",
   "ProductSlug": "your-computer-might-be-at-risk-c5dea9",
   "Ranking_EOS_Progress": 697,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-06-28T12:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -131,9 +131,9 @@
       "ID": "BZZZ",
       "SetID": "92c5pfn",
       "Name": "Bzzz",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CLEANING_OUT_MY_CLOSET",
@@ -235,9 +235,9 @@
       "ID": "PERFECT",
       "SetID": "92c5pfn",
       "Name": "Perfect",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PLUMBING_COURSE",
@@ -283,9 +283,9 @@
       "ID": "SUDOKU_KING",
       "SetID": "92c5pfn",
       "Name": "Sudoku king",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THATS_ALL",
@@ -362,8 +362,8 @@
   ],
   "FirstSeen": "2023-11-28T02:23:17.9466472+00:00",
   "FirstSeenAchievements": "2023-06-11T08:01:53.6412466+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:06:17.8363202+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:06:15.5568156+00:00",
   "LastUpdate_AppInfo": "2024-01-08T02:57:23.5695596+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:57:13.5870151+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:06:17.8363451+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:57:09.2145031+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:06:15.5568337+00:00"
 }

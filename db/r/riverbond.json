@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -503,7 +503,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535170,
+  "EOS_Progressed": 535172,
   "EOS_Completed": 519,
   "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 6,
@@ -28448,6 +28448,11 @@
       "Time": "2024-01-08T04:08:34.3966278+00:00",
       "NumProgressed": 535170,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2024-01-08T05:08:50.2388184+00:00",
+      "NumProgressed": 535172,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 57,
@@ -28459,7 +28464,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 123089
+      "UsersEstimate": 123090
     },
     {
       "ID": "10",
@@ -28467,7 +28472,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 240826
+      "UsersEstimate": 240827
     },
     {
       "ID": "11",
@@ -28475,7 +28480,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 374619
+      "UsersEstimate": 374620
     },
     {
       "ID": "12",
@@ -28483,7 +28488,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 117737
+      "UsersEstimate": 117738
     },
     {
       "ID": "13",
@@ -28499,7 +28504,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64220
+      "UsersEstimate": 64221
     },
     {
       "ID": "15",
@@ -28539,7 +28544,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 331805
+      "UsersEstimate": 331807
     },
     {
       "ID": "2",
@@ -28667,7 +28672,7 @@
       "Name": "Noble Intentions",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26758
+      "UsersEstimate": 26759
     },
     {
       "ID": "34",
@@ -28683,7 +28688,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267585
+      "UsersEstimate": 267586
     },
     {
       "ID": "36",
@@ -28691,7 +28696,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85627
+      "UsersEstimate": 85628
     },
     {
       "ID": "37",
@@ -28731,7 +28736,7 @@
       "Name": "Rising Star",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26758
+      "UsersEstimate": 26759
     },
     {
       "ID": "41",
@@ -28787,7 +28792,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 331805
+      "UsersEstimate": 331807
     },
     {
       "ID": "48",
@@ -28835,7 +28840,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 246178
+      "UsersEstimate": 246179
     },
     {
       "ID": "53",
@@ -28843,7 +28848,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 123089
+      "UsersEstimate": 123090
     },
     {
       "ID": "54",
@@ -28914,15 +28919,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535170,
+      "Progressed": 535172,
       "Completed": 519
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:08:34.3966272+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:08:50.238818+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:34.7747339+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:00:10.0632211+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:08:34.3967688+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:00:20.3564839+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:08:50.2389505+00:00"
 }

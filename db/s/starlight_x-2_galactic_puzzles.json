@@ -3,9 +3,9 @@
   "Name": "Starlight X-2 Galactic Puzzles",
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
   "Ranking_EOS_Progress": 506,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
     "PcReleaseDate": "2021-04-15T10:00:00+00:00",
@@ -465,9 +465,9 @@
       "ID": "ach_dailypack_00",
       "SetID": "8jkn3bi",
       "Name": "Complete a Daily Pack",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_fast_00",
@@ -609,9 +609,9 @@
       "ID": "ach_levels_size_03",
       "SetID": "8jkn3bi",
       "Name": "Complete 25 9x9 levels",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_levels_size_04",
@@ -784,8 +784,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:10:06.5337546+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:10:23.0597251+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:06.833753+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:57:19.3839497+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:10:06.533785+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:57:15.6639879+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:10:23.0597512+00:00"
 }

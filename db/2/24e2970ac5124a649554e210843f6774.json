@@ -2,10 +2,10 @@
   "ID": "24e2970ac5124a649554e210843f6774",
   "Name": "Rift Rangers",
   "ProductSlug": "rift-rangers-b3b5fa",
-  "Ranking_EOS_Progress": 615,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Progress": 614,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 526,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-06-06T13:30:00+00:00",
     "PcReleaseDate": "2022-12-08T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -124,6 +124,11 @@
       "Time": "2024-01-03T01:56:00.9874091+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T05:10:25.6788897+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -141,7 +146,7 @@
       "ID": "defeat_level_1",
       "SetID": "7k8abkg",
       "Name": "Ep1: Earth is Under Attack By Time and Space!",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -181,7 +186,7 @@
       "ID": "defeat_level_13_black",
       "SetID": "7k8abkg",
       "Name": "Special Episode Black 3: Fear my Superior Firepower!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -221,7 +226,7 @@
       "ID": "defeat_level_1_blue",
       "SetID": "7k8abkg",
       "Name": "Special Episode Blue 1: Enemy Data Acquired",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -237,7 +242,7 @@
       "ID": "defeat_level_1_yellow",
       "SetID": "7k8abkg",
       "Name": "Special Episode Yellow 1: Can\u0027t Catch Me!",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -245,7 +250,7 @@
       "ID": "defeat_level_2",
       "SetID": "7k8abkg",
       "Name": "Ep2: Yellow Discovers the Secret of the Station",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -253,7 +258,7 @@
       "ID": "defeat_level_3",
       "SetID": "7k8abkg",
       "Name": "Ep3: Rangers in Space?!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -261,7 +266,7 @@
       "ID": "defeat_level_4",
       "SetID": "7k8abkg",
       "Name": "Ep4: The Rift Engine",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -269,7 +274,7 @@
       "ID": "defeat_level_5",
       "SetID": "7k8abkg",
       "Name": "Ep5: A Reprieve!? Earth Fights Back!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -277,7 +282,7 @@
       "ID": "defeat_level_6",
       "SetID": "7k8abkg",
       "Name": "Ep6: A Mysterious Stranger. Friend or Foe?",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -285,7 +290,7 @@
       "ID": "defeat_level_6_black",
       "SetID": "7k8abkg",
       "Name": "Special Episode Black 2: My Enemies Tremble Before me!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -309,7 +314,7 @@
       "ID": "defeat_level_6_yellow",
       "SetID": "7k8abkg",
       "Name": "Special Episode Yellow 2: Race Against Time",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -317,7 +322,7 @@
       "ID": "defeat_level_7",
       "SetID": "7k8abkg",
       "Name": "Ep7: Danger! The Brain\u0027s Deadly Assault",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -325,7 +330,7 @@
       "ID": "defeat_level_8",
       "SetID": "7k8abkg",
       "Name": "Ep8: When All Hope is Lost, an Unlikely Ally Appears!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -333,7 +338,7 @@
       "ID": "defeat_level_9",
       "SetID": "7k8abkg",
       "Name": "Ep9: A Rift in the Rangers Part 1",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -341,7 +346,7 @@
       "ID": "weapon_grandmaster_accursedcoffin",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Accursed Coffin",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -365,7 +370,7 @@
       "ID": "weapon_grandmaster_megaray",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Mega Ray",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -373,7 +378,7 @@
       "ID": "weapon_grandmaster_mightymaul",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Mighty Maul",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -381,7 +386,7 @@
       "ID": "weapon_grandmaster_omegatempest",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Omega Tempest",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -389,7 +394,7 @@
       "ID": "weapon_grandmaster_piercingbow",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Piercing Bow",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -397,7 +402,7 @@
       "ID": "weapon_grandmaster_rangershot",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Ranger Shot",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -429,7 +434,7 @@
       "ID": "weapon_grandmaster_ultimatejaguarcall",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Ultimate Jaguar Call",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -437,7 +442,7 @@
       "ID": "weapon_grandmaster_ultrasaw",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Ultra Saw",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -445,7 +450,7 @@
       "ID": "weapon_grandmaster_voidbeam",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Void Beam",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -477,7 +482,7 @@
       "ID": "weapon_master_megaray",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Mega Ray",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -485,7 +490,7 @@
       "ID": "weapon_master_mightymaul",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Mighty Maul",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -501,7 +506,7 @@
       "ID": "weapon_master_piercingbow",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Piercing Bow",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -509,7 +514,7 @@
       "ID": "weapon_master_rangershot",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Ranger Shot",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -517,7 +522,7 @@
       "ID": "weapon_master_scorchingscarab",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Scorching Scarab",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -541,7 +546,7 @@
       "ID": "weapon_master_ultimatejaguarcall",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Ultimate Jaguar Call",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -566,14 +571,14 @@
     {
       "ID": "7k8abkg",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-03T08:57:11.4691999+00:00",
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:10:09.1204537+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:10:25.6788892+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.8502103+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:59:08.5938569+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:10:09.120505+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:59:13.1915705+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:10:25.6789277+00:00"
 }

@@ -25,7 +25,7 @@
 | Play It Again | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 758)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

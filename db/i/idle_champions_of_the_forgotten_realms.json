@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9391,10 +9391,10 @@
       "Count": 3631
     }
   ],
-  "EOS_Progressed": 252572,
-  "EOS_Completed": 2600,
-  "EOS_NewPlayers": 3801,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 252584,
+  "EOS_Completed": 2601,
+  "EOS_NewPlayers": 3797,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39151,6 +39151,11 @@
       "Time": "2024-01-08T04:10:15.1187854+00:00",
       "NumProgressed": 252572,
       "NumCompleted": 2600
+    },
+    {
+      "Time": "2024-01-08T05:10:32.5015799+00:00",
+      "NumProgressed": 252584,
+      "NumCompleted": 2601
     }
   ],
   "TotalAchievements": 546,
@@ -40834,7 +40839,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5051
+      "UsersEstimate": 5052
     },
     {
       "ID": "objective_completed_34",
@@ -40954,7 +40959,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "objective_completed_390",
@@ -41298,7 +41303,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "objective_completed_54",
@@ -42378,7 +42383,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "objective_completed_80",
@@ -43529,21 +43534,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 218846,
+      "Progressed": 218858,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252572,
-      "Completed": 2600
+      "Progressed": 252584,
+      "Completed": 2601
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-07T12:00:01.0036284+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:10:15.1187849+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:10:32.5015795+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:57:12.2402459+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:10:15.1211156+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:57:07.9937826+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:10:32.503853+00:00"
 }

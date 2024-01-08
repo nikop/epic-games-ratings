@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 318)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -41,15 +41,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.80% | ~130 |
 | Babylonian Paganism | 0.80% | ~130 |
 | Zoroastrianism | 0.80% | ~130 |
-| Wise | 0.70% | ~113 |
-| Able Difficulty | 0.70% | ~113 |
-| Furious Family | 0.70% | ~113 |
-| Apadana | 0.70% | ~113 |
-| Great Ziggurat | 0.70% | ~113 |
-| Ishtar Gate | 0.70% | ~113 |
-| Lighthouse | 0.70% | ~113 |
-| Learn to Play 2 | 0.70% | ~113 |
-| Roman Paganism | 0.70% | ~113 |
+| Wise | 0.70% | ~114 |
+| Able Difficulty | 0.70% | ~114 |
+| Furious Family | 0.70% | ~114 |
+| Apadana | 0.70% | ~114 |
+| Great Ziggurat | 0.70% | ~114 |
+| Ishtar Gate | 0.70% | ~114 |
+| Lighthouse | 0.70% | ~114 |
+| Learn to Play 2 | 0.70% | ~114 |
+| Roman Paganism | 0.70% | ~114 |
 | Regicide | 0.60% | ~97 |
 | Great | 0.60% | ~97 |
 | Legendary Cities | 0.60% | ~97 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,214 (Ranked 168)  
+Progressed: 16,215 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,214 | 5 |
+| 2024-01-08 | 16,215 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 222)  

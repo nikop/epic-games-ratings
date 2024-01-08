@@ -13,10 +13,10 @@
 | Setting Off | 23.00% | ~32 |
 | Card Collector | 23.00% | ~32 |
 | Riddlesolver | 21.00% | ~29 |
-| Dungeon Mastery | 18.00% | ~25 |
+| Dungeon Mastery | 19.00% | ~27 |
 | The Steed | 9.00% | ~13 |
 | A Strange Proposition | 9.00% | ~13 |
-| Card Completionist | 8.00% | ~11 |
+| Card Completionist | 9.00% | ~13 |
 | The Bodyguard | 6.00% | ~8 |
 | Braving Miasma | 6.00% | ~8 |
 | No Stone Unturned | 6.00% | ~8 |
@@ -46,7 +46,7 @@
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 140 (Ranked 463)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

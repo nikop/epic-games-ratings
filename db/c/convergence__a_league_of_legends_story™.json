@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1268,
+  "EOS_Progressed": 1269,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3778,6 +3778,11 @@
       "Time": "2024-01-08T02:34:36.0198216+00:00",
       "NumProgressed": 1268,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-08T05:10:27.7784568+00:00",
+      "NumProgressed": 1269,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3797,7 +3802,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3829,7 +3834,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ClockworkProgress1",
@@ -3853,7 +3858,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "CosmeticProgress1",
@@ -3877,7 +3882,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -3891,9 +3896,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 140
     },
     {
       "ID": "FairgroundsChests1",
@@ -4077,7 +4082,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "RewindParry",
@@ -4133,7 +4138,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "SyronGift",
@@ -4212,7 +4217,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1268,
+      "Progressed": 1269,
       "Completed": 7
     }
   ],
@@ -4220,8 +4225,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:10:10.1399672+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:10:27.7784563+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:58:34.3706426+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:10:10.1400187+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:58:32.6671237+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:10:27.7785022+00:00"
 }

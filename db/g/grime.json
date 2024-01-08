@@ -1843,7 +1843,7 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167186,
+  "EOS_Progressed": 167190,
   "EOS_Completed": 450,
   "EOS_NewPlayers": 1349,
   "EOS_NewCompleters": 19,
@@ -22258,6 +22258,11 @@
       "Time": "2024-01-08T04:03:29.5808728+00:00",
       "NumProgressed": 167186,
       "NumCompleted": 450
+    },
+    {
+      "Time": "2024-01-08T05:03:36.7769699+00:00",
+      "NumProgressed": 167190,
+      "NumCompleted": 450
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22348,9 +22353,9 @@
       "ID": "DEFEAT_AMAL2",
       "SetID": "ccc0dlh",
       "Name": "Hunt Down",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 502
+      "UsersEstimate": 669
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -22364,9 +22369,9 @@
       "ID": "DEFEAT_FIDUS",
       "SetID": "ccc0dlh",
       "Name": "Shapely",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 836
+      "UsersEstimate": 1003
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -22526,7 +22531,7 @@
       "Name": "Yank",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -22534,7 +22539,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -22637,21 +22642,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166769,
+      "Progressed": 166773,
       "Completed": 1255
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167186,
+      "Progressed": 167190,
       "Completed": 450
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-08T03:58:10.3585513+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:03:29.5808725+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:03:36.7769694+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:58:10.3585517+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:03:29.5809892+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:58:07.9773593+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:03:36.7771252+00:00"
 }

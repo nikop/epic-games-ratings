@@ -19,13 +19,13 @@
 | Ambition is... blind | 22.00% | ~19 |
 | The artist | 21.00% | ~18 |
 | You have two wishes left | 21.00% | ~18 |
+| Et in arcadia ego | 18.00% | ~16 |
 | Pulp! Adventures into the Unknown | 18.00% | ~16 |
-| Et in arcadia ego | 17.00% | ~15 |
 | The seer | 17.00% | ~15 |
+| Welcome to Hellville | 16.00% | ~14 |
 | You've awakened the beast | 15.00% | ~13 |
 | Hate is... addictive | 15.00% | ~13 |
 | You had one wish left | 15.00% | ~13 |
-| Welcome to Hellville | 15.00% | ~13 |
 | Kirlian's best disciple | 14.00% | ~12 |
 | The bully | 13.00% | ~11 |
 | Blessed antennas | 11.00% | ~10 |
@@ -53,7 +53,7 @@
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87 (Ranked 502)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

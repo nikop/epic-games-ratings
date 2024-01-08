@@ -2,10 +2,10 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 475,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Progress": 474,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 128,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2024-01-07T22:05:39.8349309+00:00",
       "NumProgressed": 127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T05:05:49.9350274+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -738,15 +743,15 @@
       "Name": "Wax On, Wax Off",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "beat_c1_silver",
@@ -944,9 +949,9 @@
       "ID": "beat_c4_silver",
       "SetID": "3448go",
       "Name": "Slip Sliding Away",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "beat_c4a_bronze",
@@ -1210,7 +1215,7 @@
       "Name": "Rolling the Competition",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "soccer_hattrick",
@@ -1248,9 +1253,9 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "trophies_117",
@@ -1313,14 +1318,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 128,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:05:43.0078236+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:05:49.935027+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:02:48.3316856+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:05:43.0079166+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:02:55.5142737+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:05:49.935114+00:00"
 }

@@ -1,17 +1,17 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.67 (Ranked 1,093)  
+Rating: 3.68 (Ranked 1,092)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 21.00% | ~484 |
 | Catch and Release | 15.00% | ~346 |
 | Home Is Where the Heart Is | 14.00% | ~323 |
+| ICU | 14.00% | ~323 |
 | Wounded Whispers | 14.00% | ~323 |
-| ICU | 13.00% | ~300 |
-| Blood Will Have Blood | 11.00% | ~254 |
-| Ne Plus Ultra | 11.00% | ~254 |
+| Blood Will Have Blood | 12.00% | ~277 |
+| Ne Plus Ultra | 12.00% | ~277 |
 | Fly Fisher | 11.00% | ~254 |
 | Peek-a-boo | 11.00% | ~254 |
 | Sucks To Be You | 10.00% | ~231 |
@@ -73,7 +73,7 @@ Rating: 3.67 (Ranked 1,093)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,307 (Ranked 242)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,3 +274,4 @@ Diff (max vs sum): -7
 | 2024-01-05 | 3.66 | 22 | 22 |
 | 2024-01-06 | 3.66 | 24 | 24 |
 | 2024-01-07 | 3.67 | 24 | 24 |
+| 2024-01-08 | 3.68 | 24 | 24 |

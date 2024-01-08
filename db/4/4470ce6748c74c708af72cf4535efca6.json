@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 483,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -386,17 +386,17 @@
       "ID": "13",
       "SetID": "5e3maia",
       "Name": "Stalker",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "14",
       "SetID": "5e3maia",
       "Name": "Trafficker",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "15",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:04:54.7669616+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:05:01.929094+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:04.7034788+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:57:27.4900572+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:04:54.7670485+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:57:23.7449514+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:05:01.9291505+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1292,
+  "EOS_Progressed": 1293,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.41,
   "EosHistory": [
@@ -3109,6 +3109,11 @@
       "Time": "2024-01-07T16:09:56.0238465+00:00",
       "NumProgressed": 1292,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2024-01-08T05:10:04.3213678+00:00",
+      "NumProgressed": 1293,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -3121,7 +3126,7 @@
       "Name": "Time traveller",
       "Percentage": 21,
       "XP": 140,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_CUBES",
@@ -3137,7 +3142,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -3169,7 +3174,7 @@
       "Name": "Good listener",
       "Percentage": 61,
       "XP": 85,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -3177,7 +3182,7 @@
       "Name": "Food lover",
       "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -3185,7 +3190,7 @@
       "Name": "Fast as lightning",
       "Percentage": 7,
       "XP": 180,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_THE_END",
@@ -3200,14 +3205,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1292,
+      "Progressed": 1293,
       "Completed": 57
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:09:48.2639076+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:10:04.3213673+00:00",
   "LastUpdate_AppInfo": "2024-01-05T20:56:59.903106+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:58:42.9767826+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:09:48.2639613+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:58:41.7522497+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:10:04.3213925+00:00"
 }

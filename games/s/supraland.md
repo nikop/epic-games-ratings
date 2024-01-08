@@ -6,29 +6,29 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~732,056 |
-| The Blues | 85.00% | ~628,533 |
-| Fast | 66.00% | ~488,038 |
-| Healthbar | 55.00% | ~406,698 |
-| Force Cube | 53.00% | ~391,909 |
-| Double Jump | 48.00% | ~354,936 |
-| Regeneration | 47.00% | ~347,542 |
-| Triple Jump | 43.00% | ~317,964 |
-| Climb the hill | 42.00% | ~310,569 |
-| Through the fire pipe | 39.00% | ~288,386 |
-| MacGuffin | 38.00% | ~280,991 |
-| Just once | 37.00% | ~273,597 |
-| Armor | 30.00% | ~221,835 |
-| True holy spirit | 28.00% | ~207,046 |
+| Out of bed | 99.00% | ~732,058 |
+| The Blues | 85.00% | ~628,535 |
+| Fast | 66.00% | ~488,039 |
+| Healthbar | 55.00% | ~406,699 |
+| Force Cube | 53.00% | ~391,910 |
+| Double Jump | 48.00% | ~354,937 |
+| Regeneration | 47.00% | ~347,543 |
+| Triple Jump | 43.00% | ~317,965 |
+| Climb the hill | 42.00% | ~310,570 |
+| Through the fire pipe | 39.00% | ~288,387 |
+| MacGuffin | 38.00% | ~280,992 |
+| Just once | 37.00% | ~273,598 |
+| Armor | 30.00% | ~221,836 |
+| True holy spirit | 28.00% | ~207,047 |
 | That's how electronics work obviously | 27.00% | ~199,652 |
 | Force Cube Catapult | 25.00% | ~184,863 |
 | Holy Sword | 23.00% | ~170,074 |
 | Telefrag | 23.00% | ~170,074 |
-| Freed from prison | 22.00% | ~162,679 |
+| Freed from prison | 22.00% | ~162,680 |
 | Stomp | 21.00% | ~155,285 |
 | Double Health | 19.00% | ~140,496 |
-| Buckle | 18.00% | ~133,101 |
-| Green Keycard | 18.00% | ~133,101 |
+| Buckle | 18.00% | ~133,102 |
+| Green Keycard | 18.00% | ~133,102 |
 | Rattle Hag | 16.00% | ~118,312 |
 | All Shells | 15.00% | ~110,918 |
 | Beam | 14.00% | ~103,523 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~739 |
 | DLC: Top of the world | 0.10% | ~739 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739,451 (Ranked 27)  
+Progressed: 739,453 (Ranked 27)  
 Completed: 780 (0.11%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 780 (0.11%) (Ranked 305)
 | 2024-01-05 | 739,100 | 780 |
 | 2024-01-06 | 739,249 | 780 |
 | 2024-01-07 | 739,435 | 780 |
-| 2024-01-08 | 739,451 | 780 |
+| 2024-01-08 | 739,453 | 780 |
 ## Awards
 Max (Challenging Puzzles): 7,774  (Ranked 52)  
 Sum: 10,148 (Ranked 93)  

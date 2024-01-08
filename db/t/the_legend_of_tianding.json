@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -485,9 +485,9 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "BigEater",
@@ -501,9 +501,9 @@
       "ID": "ClarifyRumors",
       "SetID": "123m9l1",
       "Name": "Dispel Rumors",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Collector",
@@ -662,8 +662,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:05:15.0497341+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:05:21.8843937+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.6846029+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:57:21.2413808+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:05:15.0497537+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:57:17.4757003+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:05:21.8844115+00:00"
 }

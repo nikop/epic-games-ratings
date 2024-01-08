@@ -1,25 +1,25 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.65 (Ranked 318)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 21.00% | ~177 |
-| Sponge Smasher | 21.00% | ~177 |
+| Spatula Seeker | 21.00% | ~178 |
+| Sponge Smasher | 21.00% | ~178 |
 | Jellyfish Jam | 20.00% | ~169 |
-| Jellyfishing | 16.00% | ~135 |
-| Sweet Victory | 12.00% | ~101 |
-| Sock Getter | 12.00% | ~101 |
-| Time For Tutorial | 12.00% | ~101 |
+| Jellyfishing | 16.00% | ~136 |
+| Sweet Victory | 12.00% | ~102 |
+| Sock Getter | 12.00% | ~102 |
+| Time For Tutorial | 12.00% | ~102 |
 | Super Spatula Seeker | 11.00% | ~93 |
-| Uptown and Downtown | 10.00% | ~84 |
-| Star Smasher | 10.00% | ~84 |
-| Surf's Up! | 10.00% | ~84 |
+| Uptown and Downtown | 10.00% | ~85 |
+| Star Smasher | 10.00% | ~85 |
+| Surf's Up! | 10.00% | ~85 |
 | Squirrel Smasher | 9.00% | ~76 |
-| Life's as extreme as you wanna make it! | 8.00% | ~67 |
-| Shrimp Catcher | 8.00% | ~67 |
+| Life's as extreme as you wanna make it! | 8.00% | ~68 |
+| Shrimp Catcher | 8.00% | ~68 |
 | Keep it Rolling | 7.00% | ~59 |
 | Toxic Terror | 7.00% | ~59 |
 | Hit Rock Bottom | 7.00% | ~59 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~8 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 843 (Ranked 305)  
-Completed: 8 (0.95%) (Ranked 177)  
+Progressed: 847 (Ranked 305)  
+Completed: 8 (0.94%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,7 +65,7 @@ Completed: 8 (0.95%) (Ranked 177)
 | 2024-01-05 | 747 | 7 |
 | 2024-01-06 | 780 | 7 |
 | 2024-01-07 | 836 | 7 |
-| 2024-01-08 | 843 | 8 |
+| 2024-01-08 | 847 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 497)  
 Sum: 36 (Ranked 529)  

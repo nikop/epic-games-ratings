@@ -3,9 +3,9 @@
   "Name": "Nour: Play with Your Food",
   "ProductSlug": "nour",
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-12T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -34,6 +34,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T14:00:10.3354721+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.2020424+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:57:27.2541073+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:05:47.9239736+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:57:23.5142605+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:05:54.1549209+00:00"
 }

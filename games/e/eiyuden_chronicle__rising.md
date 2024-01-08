@@ -7,19 +7,19 @@ Number of Ratings: 48  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Plenty More to Go | 85.00% | ~677 |
-| All Bark, No Bite | 73.00% | ~581 |
-| Hopeful Hunter | 63.00% | ~501 |
+| All Bark, No Bite | 73.00% | ~582 |
+| Hopeful Hunter | 63.00% | ~502 |
 | Amateur Adventurer | 61.00% | ~486 |
 | The Road to Recovery | 60.00% | ~478 |
 | Partners? | 58.00% | ~462 |
 | Magical Mineral Golem | 51.00% | ~406 |
-| On Outlander Lane | 51.00% | ~406 |
-| First Time Fishing | 48.00% | ~382 |
-| A Girl About the Town | 47.00% | ~374 |
-| First Time Hunting | 46.00% | ~366 |
-| Rune Wall Wreckage | 45.00% | ~358 |
-| ...And Your Tax Money | 44.00% | ~350 |
-| The Lords of the Snowpeak | 38.00% | ~302 |
+| On Outlander Lane | 50.00% | ~398 |
+| First Time Fishing | 48.00% | ~383 |
+| A Girl About the Town | 47.00% | ~375 |
+| First Time Hunting | 46.00% | ~367 |
+| Rune Wall Wreckage | 45.00% | ~359 |
+| ...And Your Tax Money | 44.00% | ~351 |
+| The Lords of the Snowpeak | 38.00% | ~303 |
 | The Go-To Girl | 34.00% | ~271 |
 | Scavenger's Honor | 34.00% | ~271 |
 | Natural Born Monster-Killer | 34.00% | ~271 |
@@ -40,7 +40,7 @@ Number of Ratings: 48  (23.09.2022)
 | This Treasure I've Found | 19.00% | ~151 |
 | New Nevaeh's Number One Customer | 19.00% | ~151 |
 | Arms Master | 17.00% | ~135 |
-| Rune Scholar | 15.00% | ~119 |
+| Rune Scholar | 15.00% | ~120 |
 | No Treasure Left Behind | 12.00% | ~96 |
 | Sommelier | 11.00% | ~88 |
 | Champion of the Great Forest | 11.00% | ~88 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 7.00% | ~56 |
 | Rising Champion | 6.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 796 (Ranked 311)  
-Completed: 60 (7.54%) (Ranked 54)  
+Progressed: 797 (Ranked 311)  
+Completed: 60 (7.53%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,6 +128,7 @@ Completed: 60 (7.54%) (Ranked 54)
 | 2024-01-05 | 793 | 60 |
 | 2024-01-06 | 795 | 60 |
 | 2024-01-07 | 796 | 60 |
+| 2024-01-08 | 797 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

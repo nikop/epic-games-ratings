@@ -35,7 +35,7 @@
 | Truth from within | 24.00% | ~24 |
 | A curious phrase | 21.00% | ~21 |
 | The Suspects | 21.00% | ~21 |
-| Evelyn Lakshmi Warbeck | 19.00% | ~19 |
+| Evelyn Lakshmi Warbeck | 20.00% | ~20 |
 | Johan Kristiansen | 19.00% | ~19 |
 | Horace Mountjoy | 18.00% | ~18 |
 | The Secrets | 18.00% | ~18 |
@@ -52,7 +52,7 @@
 | Perkins | 6.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 100 (Ranked 493)  
-Completed: 3 (3.00%) (Ranked 110)  
+Completed: 3 (3.00%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

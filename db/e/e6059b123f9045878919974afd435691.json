@@ -3,9 +3,9 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -4053,9 +4053,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 418
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4228,8 +4228,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:10:10.9138947+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:10:28.1137048+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:58:36.3811298+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:10:10.91397+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:58:34.8355102+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:10:28.11378+00:00"
 }

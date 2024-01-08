@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -5013,9 +5013,9 @@
       "ID": "ML_ACHIEVEMENT_28",
       "SetID": "5k00jcd",
       "Name": "Can you keep a secret?",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_29",
@@ -5125,9 +5125,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -5178,8 +5178,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:04:38.0003124+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:04:45.1836852+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:57:40.9217516+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:04:38.0003748+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:57:36.5442086+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:04:45.1837353+00:00"
 }

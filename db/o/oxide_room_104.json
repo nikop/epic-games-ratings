@@ -4,8 +4,8 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 312,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1525,9 +1525,9 @@
       "ID": "ACH_ESCAPEDOC",
       "SetID": "511e31d",
       "Name": "The real escape",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_EVADOCUMENTS",
@@ -1557,9 +1557,9 @@
       "ID": "ACH_GOODENDING",
       "SetID": "511e31d",
       "Name": "Born again",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_HOHARMFORCE104",
@@ -1573,9 +1573,9 @@
       "ID": "ACH_KITCHEN",
       "SetID": "511e31d",
       "Name": "Nightmare in the kitchen",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_MATTDOCUMENTS",
@@ -1708,8 +1708,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:05:15.1124989+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:05:21.9428078+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:32.0336088+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:59:32.6667769+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:05:15.1125306+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:59:36.6282586+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:05:21.9428356+00:00"
 }

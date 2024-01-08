@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 437,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,7 +77,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
@@ -662,6 +662,11 @@
       "Time": "2024-01-07T15:03:33.1780906+00:00",
       "NumProgressed": 507,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T05:04:02.9026688+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -673,7 +678,7 @@
       "Name": "Grand Opening",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -689,7 +694,7 @@
       "Name": "Lion Tamer",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -721,15 +726,15 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "631ndc2",
       "Name": "Built in a Day",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -761,7 +766,7 @@
       "Name": "Fan Service",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -785,7 +790,7 @@
       "Name": "Club Member",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -801,7 +806,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -833,7 +838,7 @@
       "Name": "Hundred Percent Second",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -993,7 +998,7 @@
       "Name": "Self Defense",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1025,7 +1030,7 @@
       "Name": "Spirits High",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -1041,7 +1046,7 @@
       "Name": "Mobile Infantry",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -1072,7 +1077,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 1
     }
   ],
@@ -1080,8 +1085,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:03:55.4429281+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:04:02.9026683+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:16.2403757+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:58:42.5502714+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:03:55.4429587+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:58:41.2858355+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:04:02.9027047+00:00"
 }

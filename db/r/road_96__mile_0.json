@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2407,6 +2407,11 @@
       "Time": "2024-01-08T01:59:17.0475772+00:00",
       "NumProgressed": 664,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T05:10:16.040419+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2418,7 +2423,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "completeact2",
@@ -2426,7 +2431,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 38,
       "XP": 80,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "completeact3",
@@ -2474,7 +2479,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "scoreminrankrf2",
@@ -2482,15 +2487,15 @@
       "Name": "Partners in Crime",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 179
+      "UsersEstimate": 173
     },
     {
       "ID": "scoreminrankrp1",
@@ -2530,14 +2535,14 @@
       "Name": "Friendzone",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 3
     }
   ],
@@ -2545,8 +2550,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:09:59.7552611+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:10:16.0404187+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:58:05.7768684+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:09:59.7552847+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:58:03.4412623+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:10:16.0404372+00:00"
 }

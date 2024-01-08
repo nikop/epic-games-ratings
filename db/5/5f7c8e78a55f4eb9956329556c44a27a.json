@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -1128,9 +1128,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 204
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1216,9 +1216,9 @@
       "ID": "TINGWD_HEADSHOT",
       "SetID": "c0imaa6",
       "Name": "Headshot",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "TINGWD_HONEY",
@@ -1343,8 +1343,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:06:23.8517049+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:08:20.9830253+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.3171345+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:59:04.5421146+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:06:23.8517414+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:59:09.2773986+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:08:20.9830449+00:00"
 }

@@ -21,7 +21,7 @@
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 136 (Ranked 465)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

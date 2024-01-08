@@ -17,9 +17,9 @@ Rating: 4.74 (Ranked 163)
 | Heroes’ Gorge | 65.00% | ~484 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~469 |
 | Master of Magic | 62.00% | ~461 |
+| The Ascent | 60.00% | ~446 |
+| It's Warm and Cozy at Home | 60.00% | ~446 |
 | Magic Accidents | 59.00% | ~439 |
-| The Ascent | 59.00% | ~439 |
-| It's Warm and Cozy at Home | 59.00% | ~439 |
 | Trap Master | 56.00% | ~417 |
 | Minions, Minions! | 56.00% | ~417 |
 | Hard Work | 55.00% | ~409 |

@@ -6,17 +6,17 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 49.00% | ~248 |
-| Grand Opening | 44.00% | ~223 |
-| Circus Electrique Proudly Presents... | 44.00% | ~223 |
+| Self Defense | 49.00% | ~249 |
+| Grand Opening | 44.00% | ~224 |
+| Circus Electrique Proudly Presents... | 44.00% | ~224 |
 | Path of Learning | 43.00% | ~218 |
-| Built in a Day | 36.00% | ~183 |
+| Built in a Day | 35.00% | ~178 |
 | More Brain Than Brawn | 31.00% | ~157 |
 | Perfect Illusion | 25.00% | ~127 |
 | Hundred Percent First | 25.00% | ~127 |
-| Dirty Dozen | 21.00% | ~106 |
-| Lion Tamer | 19.00% | ~96 |
-| Fan Service | 19.00% | ~96 |
+| Dirty Dozen | 21.00% | ~107 |
+| Lion Tamer | 19.00% | ~97 |
+| Fan Service | 19.00% | ~97 |
 | King of District 1 | 17.00% | ~86 |
 | Amazing! | 17.00% | ~86 |
 | Lucky Day | 15.00% | ~76 |
@@ -28,10 +28,10 @@ Number of Ratings: 22  (23.09.2022)
 | Marketing Manager | 10.00% | ~51 |
 | Circus Versus Circus | 8.00% | ~41 |
 | King of District 3 | 8.00% | ~41 |
-| Club Member | 7.00% | ~35 |
-| Hundred Percent Second | 7.00% | ~35 |
-| Spirits High | 7.00% | ~35 |
-| Mobile Infantry | 7.00% | ~35 |
+| Club Member | 7.00% | ~36 |
+| Hundred Percent Second | 7.00% | ~36 |
+| Spirits High | 7.00% | ~36 |
+| Mobile Infantry | 7.00% | ~36 |
 | Club Champion | 6.00% | ~30 |
 | Around the Clock | 5.00% | ~25 |
 | King of District 4 | 5.00% | ~25 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 507 (Ranked 349)  
+Progressed: 508 (Ranked 349)  
 Completed: 1 (0.20%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,6 +132,7 @@ Completed: 1 (0.20%) (Ranked 275)
 | 2024-01-03 | 504 | 1 |
 | 2024-01-04 | 505 | 1 |
 | 2024-01-07 | 507 | 1 |
+| 2024-01-08 | 508 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

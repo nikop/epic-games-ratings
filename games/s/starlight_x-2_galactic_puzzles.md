@@ -14,6 +14,7 @@
 | By Yourself 7x7 | 2.00% | ~2 |
 | Play for 5 hours | 2.00% | ~2 |
 | Switch off the light | 2.00% | ~2 |
+| Complete a Daily Pack | 1.00% | ~1 |
 | Fast 7x7 | 1.00% | ~1 |
 | Fast 8x8 | 1.00% | ~1 |
 | Fast 10x10 | 1.00% | ~1 |
@@ -21,6 +22,7 @@
 | Complete 100 levels | 1.00% | ~1 |
 | Complete 25 6x6 levels | 1.00% | ~1 |
 | Complete 25 7x7 levels | 1.00% | ~1 |
+| Complete 25 9x9 levels | 1.00% | ~1 |
 | By Yourself 6x6 | 1.00% | ~1 |
 | By Yourself 9x9 | 1.00% | ~1 |
 | By Yourself 13x13 | 1.00% | ~1 |
@@ -29,7 +31,6 @@
 | Addicted for 7 Days | 0.00% | ~0 |
 | Addicted for 10 Days | 0.00% | ~0 |
 | Complete the Pack: Earth | 0.00% | ~0 |
-| Complete a Daily Pack | 0.00% | ~0 |
 | Fast 9x9 | 0.00% | ~0 |
 | Fast 11x11 | 0.00% | ~0 |
 | Fast 12x12 | 0.00% | ~0 |
@@ -37,7 +38,6 @@
 | Complete 1000 levels | 0.00% | ~0 |
 | Complete 5000 levels | 0.00% | ~0 |
 | Complete 25 8x8 levels | 0.00% | ~0 |
-| Complete 25 9x9 levels | 0.00% | ~0 |
 | Complete 25 10x10 levels | 0.00% | ~0 |
 | Complete 25 11x11 levels | 0.00% | ~0 |
 | Complete 25 12x12 levels | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Play for 24 hours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 84 (Ranked 506)  
-Completed: 0 (0.00%) (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -291,9 +291,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2336,
+  "EOS_Progressed": 2338,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5486,6 +5486,11 @@
       "Time": "2024-01-08T04:08:43.5427493+00:00",
       "NumProgressed": 2336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T05:08:59.4753207+00:00",
+      "NumProgressed": 2338,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5506,7 +5511,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2081
     },
     {
       "ID": "AC02",
@@ -5514,7 +5519,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "AC03",
@@ -5522,7 +5527,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "AC04",
@@ -5530,7 +5535,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "AC05",
@@ -5538,7 +5543,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1263
     },
     {
       "ID": "AC06",
@@ -5546,7 +5551,7 @@
       "Name": "The Last Ascension",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "AC07",
@@ -5554,7 +5559,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "AC08",
@@ -5570,7 +5575,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "AC10",
@@ -5578,7 +5583,7 @@
       "Name": "The Wait is Over",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "AC11",
@@ -5602,7 +5607,7 @@
       "Name": "Second Psalm.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "AC14",
@@ -5626,7 +5631,7 @@
       "Name": "Weight of Penance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "AC17",
@@ -5642,7 +5647,7 @@
       "Name": "Acquired Taste",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "AC19",
@@ -5650,7 +5655,7 @@
       "Name": "Soledad",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "AC20",
@@ -5658,7 +5663,7 @@
       "Name": "Still Among Us",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "AC21",
@@ -5674,7 +5679,7 @@
       "Name": "Empty Handed",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "AC23",
@@ -5682,7 +5687,7 @@
       "Name": "Hide and Seek",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "AC24",
@@ -5698,7 +5703,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "AC26",
@@ -5722,7 +5727,7 @@
       "Name": "The Punished One",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "AC29",
@@ -5738,7 +5743,7 @@
       "Name": "The Anointed One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "AC31",
@@ -5762,7 +5767,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "AC34",
@@ -5794,7 +5799,7 @@
       "Name": "Storm of Death",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "AC38",
@@ -5802,7 +5807,7 @@
       "Name": "Edge of Orison",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "AC39",
@@ -5818,7 +5823,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "AC41",
@@ -5842,7 +5847,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "AC44",
@@ -5865,7 +5870,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2336,
+      "Progressed": 2338,
       "Completed": 0
     }
   ],
@@ -5873,8 +5878,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-07T11:57:39.4406053+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:08:43.5427489+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:08:59.4753205+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:58:19.8772892+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:08:43.5428006+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:58:17.2238845+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:08:59.4753714+00:00"
 }

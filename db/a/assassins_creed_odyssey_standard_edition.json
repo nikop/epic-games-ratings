@@ -3,12 +3,12 @@
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
   "Ranking_Rating": 149,
-  "Ranking_Popularity": 56,
+  "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 62,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -12984,18 +12984,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 19054,
       "NumberOfAwardsMax": 7147
+    },
+    {
+      "Time": "2024-01-08T05:00:21.7173348+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 19074,
+      "NumberOfAwardsMax": 7163
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19054,
-  "NumberOfAwardsMax": 7147,
+  "NumberOfAwards": 19074,
+  "NumberOfAwardsMax": 7163,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7147
+      "Count": 7163
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -13019,7 +13025,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 704
+      "Count": 708
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13087,8 +13093,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-01-07T23:01:06.4589499+00:00",
+  "LastChanged": "2024-01-08T05:00:21.7173347+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:19.659232+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:00:11.259625+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:04:55.5616508+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:00:21.7173352+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:05:02.7323586+00:00"
 }

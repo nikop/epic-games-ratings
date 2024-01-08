@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,9 +294,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1669,6 +1669,11 @@
       "Time": "2024-01-08T02:33:43.0483441+00:00",
       "NumProgressed": 357,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T05:09:34.5955596+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1681,7 +1686,7 @@
       "Name": "Mash Machine",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1713,7 +1718,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1817,7 +1822,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1841,7 +1846,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1929,7 +1934,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1937,7 +1942,7 @@
       "Name": "Upgreatest",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2017,7 +2022,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2025,14 +2030,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 2
     }
   ],
@@ -2040,8 +2045,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:09:18.3196782+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:09:34.5955592+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:57:14.3281185+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:09:18.3197173+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:57:10.0568415+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:09:34.5955979+00:00"
 }

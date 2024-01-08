@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -293,9 +293,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 10659,
+  "EOS_Progressed": 10660,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1431,
+  "EOS_NewPlayers": 1423,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4063,6 +4063,11 @@
       "Time": "2024-01-08T04:10:00.2238342+00:00",
       "NumProgressed": 10659,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T05:10:16.503866+00:00",
+      "NumProgressed": 10660,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4075,7 +4080,7 @@
       "Name": "Conspiracy",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "03_TheStolenStar",
@@ -4083,7 +4088,7 @@
       "Name": "Stolen Star",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4203,7 +4208,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4393,9 +4398,9 @@
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 640
+      "UsersEstimate": 746
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4594,7 +4599,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10659,
+      "Progressed": 10660,
       "Completed": 1
     }
   ],
@@ -4602,8 +4607,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-07T07:57:26.3541054+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:10:00.2238335+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:10:16.5038654+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:57:44.9950524+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:10:00.2239208+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:57:40.5204359+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:10:16.5039357+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1093,
+  "Ranking_Rating": 1092,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.67,
+  "Rating": 3.68,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -361,6 +361,12 @@
       "Rating": 3.67,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-01-08T04:59:22.6357186+00:00",
+      "Rating": 3.68,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -377,7 +383,7 @@
   ],
   "EOS_Progressed": 2307,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4247,17 +4253,17 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 277
     },
     {
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 277
     },
     {
       "ID": "Achievement_010",
@@ -4423,9 +4429,9 @@
       "ID": "Achievement_030",
       "SetID": "6b34g18",
       "Name": "ICU",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 323
     },
     {
       "ID": "Achievement_031",
@@ -4735,9 +4741,9 @@
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2024-01-07T04:01:29.1090541+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:05:09.7511551+00:00",
+  "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:05:16.8577227+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:59:18.8440551+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:05:09.75122+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:59:22.635719+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:05:16.8578071+00:00"
 }

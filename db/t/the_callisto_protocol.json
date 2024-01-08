@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2105,7 +2105,7 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 21638,
+  "EOS_Progressed": 21641,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 1267,
   "EOS_NewCompleters": 0,
@@ -13015,6 +13015,11 @@
       "Time": "2024-01-08T04:09:39.6648441+00:00",
       "NumProgressed": 21638,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-08T05:09:55.7722553+00:00",
+      "NumProgressed": 21641,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13042,7 +13047,7 @@
       "Name": "Giving Back",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -13130,7 +13135,7 @@
       "Name": "Get a Grip",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 4544
+      "UsersEstimate": 4545
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13146,7 +13151,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -13154,7 +13159,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4111
+      "UsersEstimate": 4112
     },
     {
       "ID": "KILL_ROBOT",
@@ -13186,7 +13191,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -13202,7 +13207,7 @@
       "Name": "Paper Jams",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4544
+      "UsersEstimate": 4545
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13242,7 +13247,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "STORY_MINETOWN",
@@ -13250,7 +13255,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -13266,7 +13271,7 @@
       "Name": "Crash Site",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "STORY_TOWER",
@@ -13274,7 +13279,7 @@
       "Name": "Full Circle",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "STORY_TUNNELS",
@@ -13378,7 +13383,7 @@
       "Name": "Keep Fighting",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -13401,13 +13406,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21638,
+      "Progressed": 21641,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9564,
+      "Progressed": 9567,
       "Completed": 29
     }
   ],
@@ -13415,8 +13420,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-07T22:03:22.0078905+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:09:39.6648437+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:09:55.7722548+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:03:18.634611+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:09:39.664941+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:03:25.5699123+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:09:55.7723371+00:00"
 }

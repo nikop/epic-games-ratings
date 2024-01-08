@@ -1,24 +1,24 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 377)  
+Rating: 4.62 (Ranked 378)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 16.00% | ~1,129 |
+| Secret Technique | 16.00% | ~1,130 |
 | Realm Estate | 14.00% | ~988 |
 | A Wonderful Discovery | 13.00% | ~918 |
 | Walls Cannot Stop Us | 13.00% | ~918 |
-| From Friends to Family | 11.00% | ~776 |
+| From Friends to Family | 11.00% | ~777 |
 | Bone Peddler | 10.00% | ~706 |
 | Full Ascension | 8.00% | ~565 |
 | Magical Synergy | 8.00% | ~565 |
 | There Can Only Be One! | 7.00% | ~494 |
 | Stronger Together | 7.00% | ~494 |
 | Seat of Power | 7.00% | ~494 |
-| Valley of Wonders | 6.00% | ~423 |
-| In a Liege of Your Own | 6.00% | ~423 |
-| Intimidation Tactics | 6.00% | ~423 |
+| Valley of Wonders | 6.00% | ~424 |
+| In a Liege of Your Own | 6.00% | ~424 |
+| Intimidation Tactics | 6.00% | ~424 |
 | My Final Form | 5.00% | ~353 |
 | But this one is mine | 5.00% | ~353 |
 | Return of the Wizard King | 4.00% | ~282 |
@@ -54,7 +54,7 @@ Rating: 4.62 (Ranked 377)
 | Seal the Deal | 1.00% | ~71 |
 | A Conqueror's Cohort | 1.00% | ~71 |
 | Betrayal Most Foul | 0.90% | ~64 |
-| Duality | 0.90% | ~64 |
+| Duality | 0.80% | ~56 |
 | Snap Out of It! | 0.60% | ~42 |
 | The Magic That Empowers Me! | 0.50% | ~35 |
 | Jack of All Tomes | 0.40% | ~28 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 377)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,058 (Ranked 196)  
+Progressed: 7,060 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-05 | 6,905 | 7 |
 | 2024-01-06 | 6,988 | 7 |
 | 2024-01-07 | 7,051 | 7 |
-| 2024-01-08 | 7,058 | 7 |
+| 2024-01-08 | 7,060 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 482)  
 Sum: 212 (Ranked 410)  

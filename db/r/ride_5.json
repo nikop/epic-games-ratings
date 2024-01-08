@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -45,7 +45,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3434,
+  "EOS_Progressed": 3435,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
@@ -8410,6 +8410,11 @@
       "Time": "2024-01-08T04:08:28.3079726+00:00",
       "NumProgressed": 3434,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T05:08:44.1055734+00:00",
+      "NumProgressed": 3435,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8422,7 +8427,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8430,7 +8435,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8526,7 +8531,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -8813,7 +8818,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3434,
+      "Progressed": 3435,
       "Completed": 0
     }
   ],
@@ -8821,8 +8826,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:08:28.3079722+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:08:44.105573+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:00:24.6214669+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:08:28.3080394+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:02:44.5842134+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:08:44.1056413+00:00"
 }

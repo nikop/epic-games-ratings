@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -553,9 +553,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4632,
+  "EOS_Progressed": 4633,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8003,6 +8003,11 @@
       "Time": "2024-01-08T04:04:38.6906519+00:00",
       "NumProgressed": 4632,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T05:04:45.9189104+00:00",
+      "NumProgressed": 4633,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8014,7 +8019,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "AceDetective_9",
@@ -8038,7 +8043,7 @@
       "Name": "Apex Predator",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "BloodAndJustice_50",
@@ -8078,7 +8083,7 @@
       "Name": "Eureka",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8086,7 +8091,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ForAllAurai_8",
@@ -8118,7 +8123,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "HouseofCards_19",
@@ -8198,7 +8203,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2223
+      "UsersEstimate": 2224
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8222,7 +8227,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -8332,9 +8337,9 @@
       "ID": "VentureOutward_21",
       "SetID": "c4hee28",
       "Name": "Venture Outward",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3335
+      "UsersEstimate": 3382
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8349,15 +8354,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4632,
+      "Progressed": 4633,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-05T19:04:06.3891748+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:04:38.6906516+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:04:45.9189098+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-08T04:03:04.5663345+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:04:38.690706+00:00"
+  "LastUpdate_Ratings": "2024-01-08T05:03:11.6362976+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:04:45.9189675+00:00"
 }

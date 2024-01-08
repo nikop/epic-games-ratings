@@ -18,8 +18,8 @@ Rating: 4.50 (Ranked 610)
 | Sticky Fingers | 44.00% | ~625 |
 | Knives Out | 44.00% | ~625 |
 | Lock, Stock, And Barrel | 43.00% | ~611 |
+| Back In The Saddle | 43.00% | ~611 |
 | Land, Ho! | 43.00% | ~611 |
-| Back In The Saddle | 42.00% | ~596 |
 | No Man Is An Island | 42.00% | ~596 |
 | At Wits' End | 41.00% | ~582 |
 | Up In Flames | 39.00% | ~554 |

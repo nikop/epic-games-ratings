@@ -6,18 +6,18 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,766,840 |
-| Easy to forget | 46.00% | ~1,658,666 |
-| Back in the black | 39.00% | ~1,406,260 |
-| That's what I'm talking about | 29.00% | ~1,045,681 |
-| The Best of Both Worlds | 25.00% | ~901,449 |
-| Get your wings | 20.00% | ~721,159 |
-| Double trouble | 16.00% | ~576,927 |
-| Smashing it | 11.00% | ~396,638 |
-| But can it run Crysis? | 9.00% | ~324,522 |
-| My favourite feature... | 9.00% | ~324,522 |
-| From humble beginnings... | 7.00% | ~252,406 |
-| Customer satisfaction | 7.00% | ~252,406 |
+| You need to plug it in... | 49.00% | ~1,766,847 |
+| Easy to forget | 46.00% | ~1,658,673 |
+| Back in the black | 39.00% | ~1,406,266 |
+| That's what I'm talking about | 29.00% | ~1,045,685 |
+| The Best of Both Worlds | 25.00% | ~901,452 |
+| Get your wings | 20.00% | ~721,162 |
+| Double trouble | 16.00% | ~576,930 |
+| Smashing it | 11.00% | ~396,639 |
+| But can it run Crysis? | 9.00% | ~324,523 |
+| My favourite feature... | 9.00% | ~324,523 |
+| From humble beginnings... | 7.00% | ~252,407 |
+| Customer satisfaction | 7.00% | ~252,407 |
 | Keeping things neat | 4.00% | ~144,232 |
 | Seems you're pretty good at this | 4.00% | ~144,232 |
 | Bending over backwards | 4.00% | ~144,232 |
@@ -59,8 +59,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,606 |
 | Treat yourself - GPU | 0.10% | ~3,606 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,605,796 (Ranked 5)  
-Completed: 41 (0.00%) (Ranked 393)  
+Progressed: 3,605,810 (Ranked 5)  
+Completed: 41 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,7 +322,7 @@ Completed: 41 (0.00%) (Ranked 393)
 | 2024-01-05 | 3,604,324 | 41 |
 | 2024-01-06 | 3,605,017 | 41 |
 | 2024-01-07 | 3,605,698 | 41 |
-| 2024-01-08 | 3,605,796 | 41 |
+| 2024-01-08 | 3,605,810 | 41 |
 ## Awards
 Max (Great for Beginners): 1,134  (Ranked 150)  
 Sum: 8,278 (Ranked 113)  

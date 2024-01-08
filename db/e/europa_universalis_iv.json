@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14175,9 +14175,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 494733,
+  "EOS_Progressed": 494754,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5507,
+  "EOS_NewPlayers": 5505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44470,6 +44470,11 @@
       "Time": "2024-01-08T04:10:03.2718095+00:00",
       "NumProgressed": 494733,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T05:10:19.6848582+00:00",
+      "NumProgressed": 494754,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44873,7 +44878,7 @@
       "Name": "Blockader",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -45097,7 +45102,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -45313,7 +45318,7 @@
       "Name": "For the Glory",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_forever_golden",
@@ -45689,7 +45694,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -45697,7 +45702,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -46417,7 +46422,7 @@
       "Name": "Respected",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -46905,7 +46910,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -47033,7 +47038,7 @@
       "Name": "Total Control",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -47073,7 +47078,7 @@
       "Name": "True Catholic",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -47089,7 +47094,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_trustworthy",
@@ -47145,7 +47150,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -47384,21 +47389,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 494733,
+      "Progressed": 494754,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 494733,
+      "Progressed": 494754,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-08T03:59:36.3280756+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:10:03.2718091+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:10:19.6848578+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:59:36.3280762+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:10:03.2729009+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:59:40.7505552+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:10:19.6860085+00:00"
 }

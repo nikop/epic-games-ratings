@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2033,
+  "EOS_Progressed": 2035,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3883,6 +3883,11 @@
       "Time": "2024-01-08T04:10:05.2930434+00:00",
       "NumProgressed": 2033,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T05:10:21.7262142+00:00",
+      "NumProgressed": 2035,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3894,7 +3899,7 @@
       "Name": "Break Out",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACH_02",
@@ -3910,7 +3915,7 @@
       "Name": "Powerful Allies",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH_04",
@@ -3958,7 +3963,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_10",
@@ -3988,9 +3993,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH_14",
@@ -4054,7 +4059,7 @@
       "Name": "Big Bazar",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_22",
@@ -4070,7 +4075,7 @@
       "Name": "Geared Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH_24",
@@ -4126,7 +4131,7 @@
       "Name": "Alchemist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_31",
@@ -4181,7 +4186,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2033,
+      "Progressed": 2035,
       "Completed": 3
     }
   ],
@@ -4189,8 +4194,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-07T14:58:41.4320028+00:00",
-  "LastChanged_Achievements": "2024-01-08T04:10:05.2930429+00:00",
+  "LastChanged_Achievements": "2024-01-08T05:10:21.7262137+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-08T03:59:00.773135+00:00",
-  "LastUpdate_Achievements": "2024-01-08T04:10:05.2931242+00:00"
+  "LastUpdate_Ratings": "2024-01-08T04:59:05.536758+00:00",
+  "LastUpdate_Achievements": "2024-01-08T05:10:21.7262612+00:00"
 }
