@@ -32,26 +32,26 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,285 |
 | A Place to Lay Your Head | 4.00% | ~5,285 |
 | Nope | 4.00% | ~5,285 |
-| Friends 'Til the End | 4.00% | ~279 |
-| Resurrection | 3.00% | ~3,963 |
-| Unleash Hell | 3.00% | ~3,963 |
-| Funny Guy | 3.00% | ~3,963 |
-| Long Live the King | 3.00% | ~3,963 |
-| Wyrdly Reconstructed | 3.00% | ~3,963 |
-| Boxcar Kid | 3.00% | ~3,963 |
-| Unfulfilled Desires | 3.00% | ~3,963 |
-| Predator | 3.00% | ~3,963 |
-| Dissector | 3.00% | ~3,963 |
-| Banishment | 3.00% | ~3,963 |
-| Deprogramming | 3.00% | ~3,963 |
-| Now Stay Dead | 3.00% | ~3,963 |
-| Reverse Banditry | 3.00% | ~3,963 |
-| Ramble On | 3.00% | ~3,963 |
-| A Clear Conscience | 3.00% | ~3,963 |
-| When You Want Something Done Right | 3.00% | ~3,963 |
-| Utopia | 3.00% | ~3,963 |
-| Unshackled | 3.00% | ~3,963 |
-| Road Trip | 3.00% | ~3,963 |
+| Friends 'Til the End | 4.00% | ~280 |
+| Resurrection | 3.00% | ~3,964 |
+| Unleash Hell | 3.00% | ~3,964 |
+| Funny Guy | 3.00% | ~3,964 |
+| Long Live the King | 3.00% | ~3,964 |
+| Wyrdly Reconstructed | 3.00% | ~3,964 |
+| Boxcar Kid | 3.00% | ~3,964 |
+| Unfulfilled Desires | 3.00% | ~3,964 |
+| Predator | 3.00% | ~3,964 |
+| Dissector | 3.00% | ~3,964 |
+| Banishment | 3.00% | ~3,964 |
+| Deprogramming | 3.00% | ~3,964 |
+| Now Stay Dead | 3.00% | ~3,964 |
+| Reverse Banditry | 3.00% | ~3,964 |
+| Ramble On | 3.00% | ~3,964 |
+| A Clear Conscience | 3.00% | ~3,964 |
+| When You Want Something Done Right | 3.00% | ~3,964 |
+| Utopia | 3.00% | ~3,964 |
+| Unshackled | 3.00% | ~3,964 |
+| Road Trip | 3.00% | ~3,964 |
 | This Looks Familiar | 2.00% | ~2,642 |
 | Hope Rekindled | 2.00% | ~2,642 |
 | Ichthyophobic | 2.00% | ~2,642 |
@@ -59,9 +59,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 2.00% | ~2,642 |
 | Hot Air | 2.00% | ~2,642 |
 | Eyes Up | 2.00% | ~2,642 |
+| Handled | 2.00% | ~2,642 |
 | Clearing the Ledger | 1.00% | ~1,321 |
 | Shrine of Reflection | 1.00% | ~1,321 |
-| Handled | 1.00% | ~1,321 |
 | Body of Work | 1.00% | ~1,321 |
 | Slap on the Wrist | 1.00% | ~70 |
 | For Old Time' Sake | 1.00% | ~70 |
@@ -70,8 +70,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.90% | ~63 |
 | Et Tu, Riposte? | 0.80% | ~56 |
 | The World As It Was | 0.70% | ~925 |
+| Bacon Bits | 0.60% | ~793 |
 | A Life Well Lived | 0.50% | ~661 |
-| Bacon Bits | 0.50% | ~661 |
 | Eidetic | 0.50% | ~661 |
 | On This Long Road, We Found Redemption | 0.50% | ~35 |
 | Battle Hardened | 0.40% | ~28 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,114 (Ranked 91)  
+Progressed: 132,119 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,10 +339,10 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-05 | 131,813 | 3 |
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
-| 2024-01-08 | 132,114 | 3 |
+| 2024-01-08 | 132,119 | 3 |
 ## Awards
 Max (Character Customization): 7,986  (Ranked 50)  
-Sum: 21,519 (Ranked 58)  
+Sum: 21,524 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,518 |
 | This game has Unique Visuals | 1,461 |
 | This game has Amazing Storytelling | 1,438 |
-| This game has Quickly Understood Controls | 1,406 |
+| This game has Quickly Understood Controls | 1,411 |
 | This game has a Creative Community | 1,083 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -706,3 +706,4 @@ Diff (max vs sum): -8
 | 2024-01-05 | 4.68 | - | 7,967 | 21,464 |
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
+| 2024-01-08 | 4.68 | - | 7,986 | 21,524 |

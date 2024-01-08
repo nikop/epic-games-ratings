@@ -4,7 +4,7 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 768,
   "Ranking_Popularity": 443,
-  "Ranking_PopularitySum": 363,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 170,
@@ -1385,10 +1385,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 374,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-08T01:46:00.7585818+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 375,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 374,
+  "NumberOfAwards": 375,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1438,7 +1444,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1453,9 +1459,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260398,
+  "EOS_Progressed": 260400,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26598,6 +26604,11 @@
       "Time": "2024-01-08T00:04:18.5751872+00:00",
       "NumProgressed": 260398,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T01:54:02.132004+00:00",
+      "NumProgressed": 260400,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26657,7 +26668,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80723
+      "UsersEstimate": 80724
     },
     {
       "ID": "BackHomeNTimes",
@@ -27056,16 +27067,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260398,
+      "Progressed": 260400,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-01-04T22:00:56.7754949+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:04:18.5751869+00:00",
+  "LastChanged": "2024-01-08T01:46:00.7585817+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:54:02.1320035+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.9058213+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:57:03.809228+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:04:18.5753438+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:46:00.7585821+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:54:02.1321694+00:00"
 }

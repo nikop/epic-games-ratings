@@ -8,7 +8,7 @@
 | My first Planimal! | 69.00% | ~230 |
 | Red Slime Time | 65.00% | ~216 |
 | To the Rec Center! | 47.00% | ~157 |
-| Green Sheen | 44.00% | ~147 |
+| Green Sheen | 45.00% | ~150 |
 | Blue Goo | 30.00% | ~100 |
 | Furniture in the Forest! | 21.00% | ~70 |
 | Let's Get Fishy! | 21.00% | ~70 |
@@ -16,7 +16,7 @@
 | So long, Slime Co! | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 333 (Ranked 384)  
-Completed: 10 (3.00%) (Ranked 112)  
+Completed: 10 (3.00%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

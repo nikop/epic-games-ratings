@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 131,
+  "Ranking_Rating": 132,
   "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 176,
@@ -4847,9 +4847,9 @@
       "Count": 405
     }
   ],
-  "EOS_Progressed": 13130,
+  "EOS_Progressed": 13131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19212,6 +19212,11 @@
       "Time": "2024-01-08T00:09:33.7974587+00:00",
       "NumProgressed": 13130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T01:59:32.2355232+00:00",
+      "NumProgressed": 13131,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19295,7 +19300,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "11_PathOfAeon",
@@ -19351,7 +19356,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "18_MythicChoices",
@@ -19407,7 +19412,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "25_MasterfulDispell",
@@ -19567,7 +19572,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "46_AllPathsOpen",
@@ -19647,7 +19652,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "56_GetToad",
@@ -19655,7 +19660,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "57_PathOfDevil",
@@ -20150,21 +20155,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11912,
+      "Progressed": 11913,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13130,
+      "Progressed": 13131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-06T22:00:15.768728+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:09:33.7974585+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:59:32.235523+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:59:14.7479499+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:09:33.7976585+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:48:59.9552249+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:59:32.2357035+00:00"
 }

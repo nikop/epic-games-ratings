@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6193,
+  "EOS_Progressed": 6194,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12814,6 +12814,11 @@
       "Time": "2024-01-08T00:04:54.5000445+00:00",
       "NumProgressed": 6193,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-08T01:54:49.3395264+00:00",
+      "NumProgressed": 6194,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12850,7 +12855,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -12880,9 +12885,9 @@
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1363
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12938,7 +12943,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13009,15 +13014,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6193,
+      "Progressed": 6194,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:04:54.5000441+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:54:49.3395257+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-08T00:02:23.8572384+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:04:54.5001148+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:51:34.4584961+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:54:49.3396203+00:00"
 }

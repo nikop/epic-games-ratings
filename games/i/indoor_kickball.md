@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 81.00% | ~83 |
-| Accessory Unlocked | 80.00% | ~82 |
-| Butter Fingers | 75.00% | ~76 |
-| Character Unlocked | 74.00% | ~75 |
-| Homer | 74.00% | ~75 |
-| Have a good trip! | 73.00% | ~74 |
-| Kickball Unlocked | 69.00% | ~70 |
-| Settle Down | 69.00% | ~70 |
-| Stay Hydrated | 64.00% | ~65 |
-| First Win | 62.00% | ~63 |
+| Hat Unlocked | 82.00% | ~84 |
+| Accessory Unlocked | 81.00% | ~83 |
+| Butter Fingers | 76.00% | ~78 |
+| Character Unlocked | 74.00% | ~76 |
+| Homer | 74.00% | ~76 |
+| Have a good trip! | 73.00% | ~75 |
+| Kickball Unlocked | 69.00% | ~71 |
+| Settle Down | 69.00% | ~71 |
+| Stay Hydrated | 64.00% | ~66 |
+| First Win | 62.00% | ~64 |
 | True Story! | 45.00% | ~46 |
-| Bedroom Secret Spot | 40.00% | ~41 |
+| Bedroom Secret Spot | 41.00% | ~42 |
+| At least everyone still had fun | 35.00% | ~36 |
 | Kick It | 34.00% | ~35 |
-| At least everyone still had fun | 34.00% | ~35 |
 | Classroom Secret Spot | 29.00% | ~30 |
 | Spooky | 27.00% | ~28 |
 | Grand Slam! | 25.00% | ~26 |
-| Living Room Secret Spot | 24.00% | ~24 |
-| Save some water for the fishies | 24.00% | ~24 |
-| Bathroom Secret Spot | 24.00% | ~24 |
-| Angry Dad | 23.00% | ~23 |
-| Have Mercy | 21.00% | ~21 |
-| Angry Mom | 21.00% | ~21 |
-| Hi Hungry, I'm Dad | 20.00% | ~20 |
+| Living Room Secret Spot | 23.00% | ~24 |
+| Save some water for the fishies | 23.00% | ~24 |
+| Bathroom Secret Spot | 23.00% | ~24 |
+| Angry Dad | 23.00% | ~24 |
+| Have Mercy | 20.00% | ~21 |
+| Angry Mom | 20.00% | ~21 |
+| Hi Hungry, I'm Dad | 19.00% | ~20 |
 | Just how we drew it up | 12.00% | ~12 |
 | Interference | 9.00% | ~9 |
 | You broke it, you bought it | 7.00% | ~7 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 491)  
+Progressed: 103 (Ranked 490)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,3 +104,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-12 | 99 | 0 |
 | 2023-12-25 | 100 | 0 |
 | 2023-12-30 | 102 | 0 |
+| 2024-01-08 | 103 | 0 |

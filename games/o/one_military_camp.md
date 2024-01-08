@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~151 |
-| The 4 Pillars | 49.00% | ~143 |
+| First Step | 53.00% | ~154 |
+| The 4 Pillars | 50.00% | ~146 |
 | Capitalism | 19.00% | ~55 |
 | Green Energy | 13.00% | ~38 |
 | There's something in those trees | 11.00% | ~32 |
@@ -19,10 +19,10 @@
 | Good payer | 7.00% | ~20 |
 | Food Tycoon | 7.00% | ~20 |
 | Ammo Tycoon | 7.00% | ~20 |
+| Pathfinder | 6.00% | ~17 |
 | Fuel Tycoon | 6.00% | ~17 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~15 |
 | Overpopulation | 5.00% | ~15 |
-| Pathfinder | 5.00% | ~15 |
 | Self-sufficient | 5.00% | ~15 |
 | Outdoor Decorator | 4.00% | ~12 |
 | Property Bro | 4.00% | ~12 |

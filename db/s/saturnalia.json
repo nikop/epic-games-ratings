@@ -2,12 +2,12 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 915,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70309,
+  "EOS_Progressed": 70312,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19858,6 +19858,11 @@
       "Time": "2024-01-08T00:04:19.1999135+00:00",
       "NumProgressed": 70309,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-08T01:54:02.9578424+00:00",
+      "NumProgressed": 70312,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -20028,7 +20033,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 70309,
+      "Progressed": 70312,
       "Completed": 18
     }
   ],
@@ -20036,8 +20041,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:04:19.1999131+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:54:02.957842+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:33.3205211+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:59:35.9547673+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:04:19.2000138+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:49:28.3873547+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:54:02.9579629+00:00"
 }

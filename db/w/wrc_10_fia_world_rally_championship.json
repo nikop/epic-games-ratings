@@ -2,7 +2,7 @@
   "ID": "d4d0270b8219470ebfc720c18767aef9",
   "Name": "WRC 10 FIA World Rally Championship",
   "ProductSlug": "wrc-10",
-  "Ranking_Rating": 635,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 822,
@@ -668,6 +668,6 @@
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
   "LastChanged": "2023-09-23T03:59:39.8136367+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:18.6814754+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:58:21.7138916+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:05:01.7076704+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:47:45.4919422+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:54:57.748624+00:00"
 }

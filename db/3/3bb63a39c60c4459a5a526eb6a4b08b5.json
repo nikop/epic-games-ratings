@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1109,
+  "EOS_Progressed": 1110,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -4324,6 +4324,11 @@
       "Time": "2024-01-07T23:10:38.7570522+00:00",
       "NumProgressed": 1109,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T01:59:24.7221882+00:00",
+      "NumProgressed": 1110,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4343,7 +4348,7 @@
       "Name": "Active Pause",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "BasicControls",
@@ -4359,7 +4364,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "BudgetFlight",
@@ -4367,7 +4372,7 @@
       "Name": "Budget Flight",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Calculated",
@@ -4519,7 +4524,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Millionaire",
@@ -4551,7 +4556,7 @@
       "Name": "No Way Back",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "NotPlanned",
@@ -4597,9 +4602,9 @@
       "ID": "ReliableTransporter",
       "SetID": "1e89b4i",
       "Name": "Reliable Transporter",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 144
     },
     {
       "ID": "ResourceEconomy",
@@ -4607,7 +4612,7 @@
       "Name": "Resource Economy",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Restructuring",
@@ -4655,7 +4660,7 @@
       "Name": "Time for Management",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "TransportHub",
@@ -4670,14 +4675,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1109,
+      "Progressed": 1110,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:09:27.8859037+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:59:24.7221879+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.0647724+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:58:30.5419982+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:09:27.8859456+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:47:58.2911744+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:59:24.7222429+00:00"
 }

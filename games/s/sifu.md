@@ -6,13 +6,13 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,410 |
-| Life is your teacher | 5.00% | ~37,841 |
-| The Assault | 4.00% | ~30,273 |
-| Lightning Hands | 4.00% | ~30,273 |
-| The Hateful Pole Fighter | 3.00% | ~22,705 |
-| State of constant learning | 3.00% | ~22,705 |
-| Old Child | 3.00% | ~22,705 |
+| The Old Grandmaster | 6.00% | ~45,411 |
+| Life is your teacher | 5.00% | ~37,843 |
+| The Assault | 4.00% | ~30,274 |
+| Lightning Hands | 4.00% | ~30,274 |
+| The Hateful Pole Fighter | 3.00% | ~22,706 |
+| State of constant learning | 3.00% | ~22,706 |
+| Old Child | 3.00% | ~22,706 |
 | A Lady's Blood in the Snow | 2.00% | ~15,137 |
 | Lady Wing Chun | 2.00% | ~15,137 |
 | Kill Nil | 2.00% | ~15,137 |
@@ -24,13 +24,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,137 |
 | Rumble in the Hangar | 2.00% | ~15,137 |
 | Diligence as a goal | 2.00% | ~1,323 |
-| Furious Fists | 1.00% | ~7,568 |
-| Scareless | 1.00% | ~7,568 |
-| Dance of the Praying Mantis | 1.00% | ~7,568 |
-| Qi Gong: Mind | 1.00% | ~7,568 |
-| Kung-Fu Tussle | 1.00% | ~7,568 |
-| Take damage to save time | 1.00% | ~7,568 |
-| Project Arena | 1.00% | ~661 |
+| Furious Fists | 1.00% | ~7,569 |
+| Scareless | 1.00% | ~7,569 |
+| Dance of the Praying Mantis | 1.00% | ~7,569 |
+| Qi Gong: Mind | 1.00% | ~7,569 |
+| Kung-Fu Tussle | 1.00% | ~7,569 |
+| Take damage to save time | 1.00% | ~7,569 |
+| Project Arena | 1.00% | ~662 |
 | Fight the way you practice | 0.80% | ~529 |
 | Muk Yan Master | 0.70% | ~5,298 |
 | Tiger on Fire | 0.60% | ~4,541 |
@@ -44,11 +44,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,784 |
 | Sword Stained With Blood | 0.50% | ~3,784 |
 | The best strikes are the ones we avoid | 0.40% | ~265 |
-| Drunken Fighter | 0.30% | ~2,270 |
-| Martial Artist | 0.30% | ~2,270 |
-| Knowledge Greed | 0.30% | ~2,270 |
-| The Pit Protector | 0.30% | ~2,270 |
-| Come Snap With Me | 0.30% | ~2,270 |
+| Drunken Fighter | 0.30% | ~2,271 |
+| Martial Artist | 0.30% | ~2,271 |
+| Knowledge Greed | 0.30% | ~2,271 |
+| The Pit Protector | 0.30% | ~2,271 |
+| Come Snap With Me | 0.30% | ~2,271 |
 | Deadly Venom | 0.30% | ~198 |
 | A Touch of Acumen | 0.30% | ~198 |
 | Healing Memory | 0.20% | ~1,514 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~66 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756,829 (Ranked 25)  
+Progressed: 756,851 (Ranked 25)  
 Completed: 12,976 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 12,976 (1.71%) (Ranked 142)
 | 2024-01-05 | 754,888 | 12,975 |
 | 2024-01-06 | 755,903 | 12,976 |
 | 2024-01-07 | 756,813 | 12,976 |
-| 2024-01-08 | 756,829 | 12,976 |
+| 2024-01-08 | 756,851 | 12,976 |
 ## Awards
 Max (Great Boss Battles): 7,148  (Ranked 55)  
 Sum: 12,638 (Ranked 85)  

@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,260 |
-| Keeping it classy | 27.00% | ~968 |
-| Welcome to the family | 21.00% | ~753 |
+| You're free now! | 63.00% | ~2,262 |
+| Keeping it classy | 27.00% | ~970 |
+| Welcome to the family | 21.00% | ~754 |
 | The finer things in life | 19.00% | ~682 |
-| Backpacker | 13.00% | ~466 |
-| Go with the Flow | 13.00% | ~466 |
+| Backpacker | 13.00% | ~467 |
+| Go with the Flow | 13.00% | ~467 |
 | Plastic Surgeon | 10.00% | ~359 |
 | The flip trick crown jewel | 10.00% | ~359 |
 | The hard way | 10.00% | ~359 |
@@ -28,21 +28,21 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~215 |
 | Squad goals | 6.00% | ~215 |
 | Sup widdit big dog! | 6.00% | ~215 |
-| Commence the Hijinx! | 5.00% | ~179 |
-| DIY Boss | 5.00% | ~179 |
-| Globetrotter | 5.00% | ~179 |
-| Laid back | 5.00% | ~179 |
-| Lines for days | 5.00% | ~179 |
-| Manny Destroys All | 5.00% | ~179 |
-| NAHELL! | 5.00% | ~179 |
-| Renaissance man | 5.00% | ~179 |
-| Trick shot marksman | 5.00% | ~179 |
-| We get it, you're good | 5.00% | ~179 |
-| Cops called! | 4.00% | ~143 |
-| G.O.A.T. status | 4.00% | ~143 |
-| Hoarder | 4.00% | ~143 |
-| Prince of Philly | 4.00% | ~143 |
-| Tank commander | 4.00% | ~143 |
+| Commence the Hijinx! | 5.00% | ~180 |
+| DIY Boss | 5.00% | ~180 |
+| Globetrotter | 5.00% | ~180 |
+| Laid back | 5.00% | ~180 |
+| Lines for days | 5.00% | ~180 |
+| Manny Destroys All | 5.00% | ~180 |
+| NAHELL! | 5.00% | ~180 |
+| Renaissance man | 5.00% | ~180 |
+| Trick shot marksman | 5.00% | ~180 |
+| We get it, you're good | 5.00% | ~180 |
+| Cops called! | 4.00% | ~144 |
+| G.O.A.T. status | 4.00% | ~144 |
+| Hoarder | 4.00% | ~144 |
+| Prince of Philly | 4.00% | ~144 |
+| Tank commander | 4.00% | ~144 |
 | Many plys later... | 3.00% | ~108 |
 | Pew-Pew | 3.00% | ~108 |
 | Cross lock country | 2.00% | ~72 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,587 (Ranked 221)  
+Progressed: 3,591 (Ranked 221)  
 Completed: 2 (0.06%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,6 +293,7 @@ Completed: 2 (0.06%) (Ranked 331)
 | 2024-01-05 | 3,543 | 2 |
 | 2024-01-06 | 3,566 | 2 |
 | 2024-01-07 | 3,587 | 2 |
+| 2024-01-08 | 3,591 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 424)  
 Sum: 584 (Ranked 325)  

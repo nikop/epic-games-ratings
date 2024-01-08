@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 78.00% | ~77 |
-| Little ideas | 75.00% | ~74 |
-| The Ship | 71.00% | ~70 |
-| Seeking the truth | 58.00% | ~57 |
-| An old friend | 55.00% | ~54 |
-| The Gala | 54.00% | ~53 |
-| A curious gathering | 52.00% | ~51 |
+| Marc Allard | 77.00% | ~77 |
+| Little ideas | 74.00% | ~74 |
+| The Ship | 70.00% | ~70 |
+| Seeking the truth | 57.00% | ~57 |
+| An old friend | 54.00% | ~54 |
+| The Gala | 53.00% | ~53 |
+| A curious gathering | 51.00% | ~51 |
 | Little grey cells | 49.00% | ~49 |
 | Impossible is possible | 48.00% | ~48 |
 | Arthur Hastings | 48.00% | ~48 |
@@ -51,8 +51,8 @@
 | A perilous journey | 10.00% | ~10 |
 | Perkins | 6.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 495)  
-Completed: 3 (3.03%) (Ranked 107)  
+Progressed: 100 (Ranked 493)  
+Completed: 3 (3.00%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,3 +113,4 @@ Completed: 3 (3.03%) (Ranked 107)
 | 2024-01-04 | 90 | 3 |
 | 2024-01-06 | 98 | 3 |
 | 2024-01-07 | 99 | 3 |
+| 2024-01-08 | 100 | 3 |

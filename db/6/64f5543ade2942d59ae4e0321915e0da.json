@@ -3,7 +3,7 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 361,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -1689,6 +1689,11 @@
       "Time": "2024-01-07T21:08:22.8130715+00:00",
       "NumProgressed": 430,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T01:57:12.2475217+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1797,7 +1802,7 @@
       "Name": "Sacrilege",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "AC_BOSS_04",
@@ -1843,9 +1848,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 155
     },
     {
       "ID": "AC_DEATH_2",
@@ -1893,15 +1898,15 @@
       "Name": "Excursion",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 194
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1909,15 +1914,15 @@
       "Name": "Voyage",
       "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 125
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2036,14 +2041,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:06:24.4902267+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:57:12.247521+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:58:14.5476523+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:06:24.4902588+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:47:36.3864275+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:57:12.2475759+00:00"
 }

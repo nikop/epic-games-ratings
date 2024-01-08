@@ -20,8 +20,8 @@ Number of Ratings: 124  (23.09.2022)
 | Pass A38 | 15.00% | ~32 |
 | Family Reunion | 14.00% | ~30 |
 | Eternal Oblivion | 12.00% | ~25 |
+| Storyteller | 11.00% | ~23 |
 | Berserker | 11.00% | ~23 |
-| Storyteller | 10.00% | ~21 |
 | Globetrotter | 10.00% | ~21 |
 | Banker | 9.00% | ~19 |
 | Alb | 9.00% | ~19 |
@@ -44,8 +44,8 @@ Number of Ratings: 124  (23.09.2022)
 | Destroyer | 2.00% | ~4 |
 | Legendary | 2.00% | ~4 |
 | Pack Rat | 1.00% | ~2 |
+| Outlaw | 1.00% | ~2 |
 | Defector | 0.90% | ~2 |
-| Outlaw | 0.90% | ~2 |
 | Ruthless | 0.50% | ~1 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |

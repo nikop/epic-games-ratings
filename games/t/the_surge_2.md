@@ -1,38 +1,38 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 914)  
+Rating: 4.26 (Ranked 915)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,990 |
-| Don't I Know You...? | 75.00% | ~1,889 |
-| Jailbreak | 64.00% | ~1,612 |
-| HEADSHOT! | 37.00% | ~932 |
-| Suited and Booted | 37.00% | ~932 |
-| Sleeping With The Fishes | 34.00% | ~856 |
+| Rigged And Ready | 79.00% | ~1,992 |
+| Don't I Know You...? | 75.00% | ~1,891 |
+| Jailbreak | 64.00% | ~1,613 |
+| HEADSHOT! | 37.00% | ~933 |
+| Suited and Booted | 37.00% | ~933 |
+| Sleeping With The Fishes | 34.00% | ~857 |
 | High Performance | 30.00% | ~756 |
 | Overheated | 29.00% | ~731 |
-| Powered Up | 28.00% | ~705 |
+| Powered Up | 27.00% | ~681 |
 | Studied The Blade | 24.00% | ~605 |
-| Home Invasion | 22.00% | ~554 |
-| Luminary | 22.00% | ~554 |
-| It's a Trap | 22.00% | ~554 |
+| Home Invasion | 22.00% | ~555 |
+| Luminary | 22.00% | ~555 |
+| It's a Trap | 22.00% | ~555 |
 | True Survivor | 21.00% | ~529 |
 | Offensive Defense | 20.00% | ~504 |
 | Shocking | 20.00% | ~504 |
 | Unforeseeable Consequences | 19.00% | ~479 |
-| Court Martial | 18.00% | ~453 |
-| Clean Cut | 18.00% | ~453 |
-| Dead Again | 17.00% | ~428 |
-| Full Arsenal | 17.00% | ~428 |
+| Court Martial | 18.00% | ~454 |
+| Clean Cut | 18.00% | ~454 |
+| Dead Again | 17.00% | ~429 |
+| Full Arsenal | 17.00% | ~429 |
 | Can't Trust Banks | 15.00% | ~378 |
-| Mommy Dearest | 13.00% | ~327 |
-| Bad Dog | 13.00% | ~327 |
-| Where It All Began | 13.00% | ~327 |
-| Risk Tolerant | 13.00% | ~327 |
-| What A Catchy Song | 13.00% | ~327 |
-| Sorry, Didn't See You There | 12.00% | ~302 |
+| Mommy Dearest | 13.00% | ~328 |
+| Bad Dog | 13.00% | ~328 |
+| Risk Tolerant | 13.00% | ~328 |
+| What A Catchy Song | 13.00% | ~328 |
+| Where It All Began | 12.00% | ~303 |
+| Sorry, Didn't See You There | 12.00% | ~303 |
 | Corrupted Beauty | 11.00% | ~277 |
 | Marked For Success | 11.00% | ~277 |
 | Stimulating The Local Economy | 10.00% | ~252 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 914)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,519 (Ranked 236)  
+Progressed: 2,521 (Ranked 236)  
 Completed: 13 (0.52%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,6 +263,7 @@ Completed: 13 (0.52%) (Ranked 217)
 | 2024-01-05 | 2,483 | 13 |
 | 2024-01-06 | 2,499 | 13 |
 | 2024-01-07 | 2,519 | 13 |
+| 2024-01-08 | 2,521 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

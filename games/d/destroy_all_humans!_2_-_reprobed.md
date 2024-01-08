@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 549)  
+Rating: 4.54 (Ranked 548)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,19 +12,19 @@ Number of Ratings: 90  (23.09.2022)
 | Furon Fashion | 47.00% | ~167 |
 | Shop Til They Drop | 41.00% | ~146 |
 | Bodied Sattva | 38.00% | ~135 |
-| Cult Following | 35.00% | ~124 |
+| Cult Following | 36.00% | ~128 |
 | Earthly Pleasures | 34.00% | ~121 |
 | Lie Back and Think of Albion | 28.00% | ~99 |
 | Upgreatest | 27.00% | ~96 |
 | Pimp My Raid | 25.00% | ~89 |
+| I Look Up As I Walk to Takoshima | 22.00% | ~78 |
 | Freshly Squeezed | 22.00% | ~78 |
-| I Look Up As I Walk to Takoshima | 21.00% | ~75 |
-| Die Nasty | 18.00% | ~64 |
+| Die Nasty | 19.00% | ~67 |
 | Perfect Probulator | 17.00% | ~60 |
 | Transmitting From Sol-3 | 15.00% | ~53 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~46 |
 | Fly Me to the Moon Base | 11.00% | ~39 |
-| Kaijuiced | 10.00% | ~36 |
+| Kaijuiced | 11.00% | ~39 |
 | Dusted | 10.00% | ~36 |
 | Scuttled | 9.00% | ~32 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~25 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.60% | ~2 |
 | Trans-Siberian Express | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355 (Ranked 376)  
+Progressed: 355 (Ranked 377)  
 Completed: 2 (0.56%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |

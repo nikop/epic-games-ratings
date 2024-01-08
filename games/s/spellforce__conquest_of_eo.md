@@ -17,7 +17,7 @@
 | Get out of here! | 43.00% | ~55 |
 | Necromancer's Apprentice | 38.00% | ~48 |
 | Alchemist's Apprentice | 36.00% | ~46 |
-| Friend of Lyraine | 35.00% | ~44 |
+| Friend of Lyraine | 36.00% | ~46 |
 | The Circle | 32.00% | ~41 |
 | Redecorating | 31.00% | ~39 |
 | Bad JuJu | 24.00% | ~30 |

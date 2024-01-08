@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1892,
+  "EOS_Progressed": 1893,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4782,6 +4782,11 @@
       "Time": "2024-01-07T23:05:13.9933924+00:00",
       "NumProgressed": 1892,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T01:53:58.2163257+00:00",
+      "NumProgressed": 1893,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4802,7 +4807,7 @@
       "Name": "Acrobat",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4842,7 +4847,7 @@
       "Name": "Globetrotter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -5034,7 +5039,7 @@
       "Name": "Shopping time!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -5161,20 +5166,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1892,
+      "Progressed": 1893,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1560,
+      "Progressed": 1561,
       "Completed": 1009
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:04:15.3626867+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:53:58.2163253+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:57:15.9275293+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:04:15.362737+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:46:17.8771282+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:53:58.216372+00:00"
 }

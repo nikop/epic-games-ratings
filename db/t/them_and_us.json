@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 399,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1771,9 +1771,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 271
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -2084,8 +2084,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:08:08.0899353+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:57:41.5695518+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:36.5425929+00:00",
-  "LastUpdate_Ratings": "2024-01-08T00:00:13.7920285+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:08:08.0899682+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:51:22.5047939+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:57:41.5695896+00:00"
 }

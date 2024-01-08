@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 711,
+  "EOS_Progressed": 714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2249,6 +2249,11 @@
       "Time": "2024-01-07T21:10:34.2479908+00:00",
       "NumProgressed": 711,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T01:59:09.167111+00:00",
+      "NumProgressed": 714,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2285,7 +2290,7 @@
       "Name": "Dodo Re Mi: Beginner\u2019s Pluck",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "HYPNO_CORRECT_GROUP",
@@ -2325,7 +2330,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -2333,7 +2338,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2349,7 +2354,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "TIME_JINX",
@@ -2357,7 +2362,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "TIME_ORWELL",
@@ -2373,7 +2378,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2389,7 +2394,7 @@
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "TKO2_DOMINO",
@@ -2420,14 +2425,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 711,
+      "Progressed": 714,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:09:15.4611675+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:59:09.1671107+00:00",
   "LastUpdate_AppInfo": "2024-01-06T02:18:00.4383159+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:57:06.961726+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:09:15.461211+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:46:05.3527756+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:59:09.1671322+00:00"
 }

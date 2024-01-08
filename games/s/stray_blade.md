@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self-Defence | 18.00% | ~28 |
-| Tinkerer | 12.00% | ~18 |
+| Tinkerer | 13.00% | ~20 |
 | Welcome to the Club | 10.00% | ~15 |
 | Don't Cry Wolf | 8.00% | ~12 |
 | A new World ahead | 8.00% | ~12 |
@@ -27,14 +27,14 @@
 | A Deceiving Gift | 1.00% | ~2 |
 | The Power of the Mountains | 1.00% | ~2 |
 | Changing the World | 1.00% | ~2 |
-| Sponsor | 0.70% | ~1 |
-| Defeat Uskol | 0.70% | ~1 |
-| Nothing but the Truth | 0.70% | ~1 |
-| Trailblazer | 0.70% | ~1 |
-| Finally! | 0.70% | ~1 |
-| The End | 0.70% | ~1 |
-| Unveiling the Truth | 0.70% | ~1 |
-| Small Setback | 0.70% | ~1 |
+| Sponsor | 0.60% | ~1 |
+| Defeat Uskol | 0.60% | ~1 |
+| Nothing but the Truth | 0.60% | ~1 |
+| Trailblazer | 0.60% | ~1 |
+| Finally! | 0.60% | ~1 |
+| The End | 0.60% | ~1 |
+| Unveiling the Truth | 0.60% | ~1 |
+| Small Setback | 0.60% | ~1 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 453)  
+Progressed: 154 (Ranked 450)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-03 | 150 | 0 |
 | 2024-01-06 | 151 | 0 |
 | 2024-01-07 | 152 | 0 |
-| 2024-01-08 | 153 | 0 |
+| 2024-01-08 | 154 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 590)  
+Rating: 4.51 (Ranked 589)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,7 +20,7 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~3,188 |
 | Workers' union | 18.00% | ~3,188 |
 | End of Book Two | 18.00% | ~3,188 |
-| Everything's in order | 16.00% | ~2,833 |
+| Everything's in order | 16.00% | ~2,834 |
 | Twist of Fate | 14.00% | ~2,479 |
 | Jack was here! | 14.00% | ~2,479 |
 | Exterminator | 13.00% | ~2,302 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 7.00% | ~1,240 |
 | Silentium est aureum | 7.00% | ~1,240 |
 | Rebel without a cause | 6.00% | ~1,063 |
-| Staring contest champion | 5.00% | ~885 |
-| Lone wolf | 5.00% | ~885 |
-| Vox Populi | 5.00% | ~885 |
+| Staring contest champion | 5.00% | ~886 |
+| Lone wolf | 5.00% | ~886 |
+| Vox Populi | 5.00% | ~886 |
 | Revenge | 4.00% | ~708 |
 | Countess Aliena | 4.00% | ~708 |
 | Care, like a brother cares | 3.00% | ~531 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~531 |
 | Boy of mystery | 2.00% | ~354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,709 (Ranked 162)  
+Progressed: 17,710 (Ranked 162)  
 Completed: 125 (0.71%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 125 (0.71%) (Ranked 196)
 | 2024-01-05 | 17,651 | 125 |
 | 2024-01-06 | 17,677 | 125 |
 | 2024-01-07 | 17,708 | 125 |
-| 2024-01-08 | 17,709 | 125 |
+| 2024-01-08 | 17,710 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 325)  
 Sum: 200 (Ranked 417)  

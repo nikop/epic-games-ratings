@@ -8817,9 +8817,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 756829,
+  "EOS_Progressed": 756851,
   "EOS_Completed": 12976,
-  "EOS_NewPlayers": 6412,
+  "EOS_NewPlayers": 6391,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -32792,6 +32792,11 @@
       "Time": "2024-01-08T00:08:42.6548366+00:00",
       "NumProgressed": 756829,
       "NumCompleted": 12976
+    },
+    {
+      "Time": "2024-01-08T01:58:26.5572485+00:00",
+      "NumProgressed": 756851,
+      "NumCompleted": 12976
     }
   ],
   "TotalAchievements": 60,
@@ -32803,7 +32808,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45410
+      "UsersEstimate": 45411
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32811,7 +32816,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30273
+      "UsersEstimate": 30274
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32819,7 +32824,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22705
+      "UsersEstimate": 22706
     },
     {
       "ID": "04_Vengeance_H3",
@@ -32843,7 +32848,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "07_Wude_H1",
@@ -32891,7 +32896,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "13_LowAge",
@@ -32923,7 +32928,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "17_Detective_H3",
@@ -32931,7 +32936,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "18_Detective_H4",
@@ -32939,7 +32944,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "19_Detective_H5",
@@ -32963,7 +32968,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -32979,7 +32984,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37841
+      "UsersEstimate": 37843
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32987,7 +32992,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22705
+      "UsersEstimate": 22706
     },
     {
       "ID": "25_ShrineMind",
@@ -32995,7 +33000,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "26_ShrineSpirit",
@@ -33051,7 +33056,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22705
+      "UsersEstimate": 22706
     },
     {
       "ID": "33_BladeOneShot",
@@ -33067,7 +33072,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30273
+      "UsersEstimate": 30274
     },
     {
       "ID": "35_WideStrike",
@@ -33075,7 +33080,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -33099,7 +33104,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -33115,7 +33120,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -33131,7 +33136,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -33139,7 +33144,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -33282,21 +33287,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 66130,
+      "Progressed": 66152,
       "Completed": 10800
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 756829,
+      "Progressed": 756851,
       "Completed": 12976
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-07T15:02:59.3709849+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:08:42.6548363+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:58:26.557248+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-08T00:02:43.9979234+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:08:42.6549784+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:52:01.2236942+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:58:26.5573998+00:00"
 }

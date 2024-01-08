@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -3194,9 +3194,9 @@
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 895
+      "UsersEstimate": 909
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -3338,9 +3338,9 @@
       "ID": "VisitAllLocations",
       "SetID": "a6c395p",
       "Name": "Space Traveler",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1077
     },
     {
       "ID": "WinARace",
@@ -3362,8 +3362,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2024-01-04T18:59:52.3353425+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:09:06.6535077+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:58:57.6994904+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:55.5587357+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:57:21.8372421+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:09:06.6535578+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:46:26.6599015+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:58:57.6995478+00:00"
 }

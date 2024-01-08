@@ -22,12 +22,12 @@ Number of Ratings: 85  (23.09.2022)
 | Bodied Sattva | 36.00% | ~141 |
 | Freshly Squeezed | 35.00% | ~138 |
 | Upgreatest | 34.00% | ~134 |
-| Deincarnated | 28.00% | ~110 |
-| Furon Fashion | 28.00% | ~110 |
+| Deincarnated | 29.00% | ~114 |
+| Furon Fashion | 29.00% | ~114 |
 | Rock of the Bay | 27.00% | ~106 |
 | Trans-Siberian Express | 24.00% | ~94 |
+| Arkvoodle Doodle | 20.00% | ~79 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~79 |
-| Arkvoodle Doodle | 19.00% | ~75 |
 | Ouch of Body Experience | 16.00% | ~63 |
 | If You Know What I Mean | 16.00% | ~63 |
 | Die Nasty | 16.00% | ~63 |

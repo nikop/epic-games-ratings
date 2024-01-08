@@ -2,7 +2,7 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 590,
+  "Ranking_Rating": 589,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 45,
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473533,
+  "EOS_Progressed": 473534,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27849,6 +27849,11 @@
       "Time": "2024-01-08T00:09:32.6257931+00:00",
       "NumProgressed": 473533,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-08T01:59:30.9955704+00:00",
+      "NumProgressed": 473534,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27980,7 +27985,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118383
+      "UsersEstimate": 118384
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -28044,7 +28049,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161001
+      "UsersEstimate": 161002
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28491,21 +28496,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17467,
+      "Progressed": 17468,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473533,
+      "Progressed": 473534,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:09:32.6257929+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:59:30.9955702+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:58:49.4603664+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:09:32.6260034+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:48:25.3994591+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:59:30.9957333+00:00"
 }

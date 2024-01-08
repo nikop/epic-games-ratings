@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 318)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 1.00% | ~162 |
 | Judaism | 1.00% | ~162 |
 | Trade Caravan | 1.00% | ~162 |
+| Ambitious | 0.90% | ~146 |
 | Enlightened | 0.90% | ~146 |
 | Glorious | 0.90% | ~146 |
 | Just | 0.90% | ~146 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.90% | ~146 |
 | Greek Paganism | 0.90% | ~146 |
 | Naming Landmarks | 0.90% | ~146 |
-| Ambitious | 0.80% | ~130 |
 | Brilliant | 0.80% | ~130 |
 | Fountainhead | 0.80% | ~130 |
 | Warrior | 0.80% | ~130 |
@@ -113,6 +113,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.30% | ~49 |
 | The Clergy | 0.30% | ~49 |
 | Ishtar Gate in Babylon | 0.20% | ~32 |
+| Carthage - Ox Hide | 0.20% | ~32 |
 | Devout | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
 | Lion | 0.20% | ~32 |
@@ -156,7 +157,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Before the Mongol Horde | 0.10% | ~16 |
 | Blade of the Monkey | 0.10% | ~16 |
 | Hagia Sophia in Byzantion | 0.10% | ~16 |
-| Carthage - Ox Hide | 0.10% | ~16 |
 | Bronze Victory (Carthage 1) | 0.10% | ~16 |
 | Epic Victory (Carthage 1) | 0.10% | ~16 |
 | Gold Victory (Carthage 1) | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,207 (Ranked 168)  
+Progressed: 16,209 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,207 | 5 |
+| 2024-01-08 | 16,209 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 285)  
 Sum: 1,915 (Ranked 222)  

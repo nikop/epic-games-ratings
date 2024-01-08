@@ -4,7 +4,7 @@
   "ProductSlug": "rimworld",
   "Ranking_Rating": 10,
   "Ranking_Popularity": 224,
-  "Ranking_PopularitySum": 164,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 572,
@@ -3251,10 +3251,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 4050,
       "NumberOfAwardsMax": 474
+    },
+    {
+      "Time": "2024-01-08T01:49:23.7171414+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 4052,
+      "NumberOfAwardsMax": 474
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4050,
+  "NumberOfAwards": 4052,
   "NumberOfAwardsMax": 474,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3298,7 +3304,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 385
+      "Count": 387
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3336,8 +3342,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2024-01-07T21:59:48.3502953+00:00",
+  "LastChanged": "2024-01-08T01:49:23.71714+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:04.1120089+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:59:32.602746+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:05:36.9654164+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:49:23.7171419+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:55:40.7237507+00:00"
 }

@@ -1,23 +1,23 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.67 (Ranked 286)  
+Rating: 4.67 (Ranked 285)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,775 |
-| First cargo item waiting | 68.00% | ~1,631 |
-| First cargo item on board | 67.00% | ~1,607 |
-| First bus stop | 66.00% | ~1,583 |
-| First passenger on board | 63.00% | ~1,511 |
-| First passenger waiting | 63.00% | ~1,511 |
-| First bus arrived | 62.00% | ~1,487 |
-| First train station | 60.00% | ~1,439 |
-| First steam train arrived | 56.00% | ~1,343 |
-| First industry upgraded | 53.00% | ~1,271 |
-| Cadet | 52.00% | ~1,247 |
-| Transport millionaire | 51.00% | ~1,223 |
+| First line | 74.00% | ~1,776 |
+| First cargo item waiting | 68.00% | ~1,632 |
+| First cargo item on board | 67.00% | ~1,608 |
+| First bus stop | 66.00% | ~1,584 |
+| First passenger on board | 63.00% | ~1,512 |
+| First passenger waiting | 63.00% | ~1,512 |
+| First bus arrived | 62.00% | ~1,488 |
+| First train station | 60.00% | ~1,440 |
+| First steam train arrived | 56.00% | ~1,344 |
+| First industry upgraded | 53.00% | ~1,272 |
+| Cadet | 52.00% | ~1,248 |
+| Transport millionaire | 51.00% | ~1,224 |
 | Transport master | 49.00% | ~1,176 |
 | Cargo hub | 49.00% | ~1,176 |
 | Sculpturer | 46.00% | ~1,104 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,399 (Ranked 238)  
+Progressed: 2,400 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-05 | 2,356 | 1 |
 | 2024-01-06 | 2,375 | 1 |
 | 2024-01-07 | 2,398 | 1 |
-| 2024-01-08 | 2,399 | 1 |
+| 2024-01-08 | 2,400 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 456)  
 Sum: 333 (Ranked 372)  

@@ -2,7 +2,7 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 612,
+  "Ranking_Rating": 611,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 199,
@@ -285,7 +285,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6163,
+  "EOS_Progressed": 6164,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
@@ -9100,6 +9100,11 @@
       "Time": "2024-01-08T00:07:51.1455229+00:00",
       "NumProgressed": 6163,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T01:57:19.8223849+00:00",
+      "NumProgressed": 6164,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -9119,7 +9124,7 @@
       "Name": "2-1-6",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3636
+      "UsersEstimate": 3637
     },
     {
       "ID": "ACH_ALL_BROKEN",
@@ -9159,7 +9164,7 @@
       "Name": "This is the end",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "ACH_BE_PREPARED",
@@ -9175,7 +9180,7 @@
       "Name": "A New Hope",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ACH_BROKEN",
@@ -9183,7 +9188,7 @@
       "Name": "All thumbs",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 5670
+      "UsersEstimate": 5671
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -9199,7 +9204,7 @@
       "Name": "Out of the Bag",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4684
+      "UsersEstimate": 4685
     },
     {
       "ID": "ACH_CATDOM",
@@ -9263,7 +9268,7 @@
       "Name": "Unbreakable",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "ACH_DISCO",
@@ -9271,7 +9276,7 @@
       "Name": "Disco Roach",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "ACH_DOCEND",
@@ -9335,7 +9340,7 @@
       "Name": "New order",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACH_FLY",
@@ -9375,7 +9380,7 @@
       "Name": "What goes around...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "ACH_HOLIDAYS",
@@ -9407,7 +9412,7 @@
       "Name": "Home, sweet home",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 5608
+      "UsersEstimate": 5609
     },
     {
       "ID": "ACH_MADHATTER",
@@ -9527,7 +9532,7 @@
       "Name": "I will survive!",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5732
+      "UsersEstimate": 5733
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -9543,7 +9548,7 @@
       "Name": "Survivalist",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 5547
+      "UsersEstimate": 5548
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -9551,7 +9556,7 @@
       "Name": "Last man standing",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -9559,7 +9564,7 @@
       "Name": "Prepper",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5793
+      "UsersEstimate": 5794
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -9590,7 +9595,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 6163,
+      "Progressed": 6164,
       "Completed": 1
     }
   ],
@@ -9598,8 +9603,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2024-01-06T20:00:56.9816861+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:07:51.1455225+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:57:19.8223846+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:25.5705631+00:00",
-  "LastUpdate_Ratings": "2024-01-08T00:00:04.0363397+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:07:51.1456279+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:50:09.0936369+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:57:19.8224611+00:00"
 }

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2751,
+  "EOS_Progressed": 2753,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7469,6 +7469,11 @@
       "Time": "2024-01-08T00:09:32.5927427+00:00",
       "NumProgressed": 2751,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T01:59:30.8271912+00:00",
+      "NumProgressed": 2753,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7679,9 +7684,9 @@
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_33",
@@ -7705,7 +7710,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2368
     },
     {
       "ID": "achievement_36",
@@ -7721,7 +7726,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "achievement_38",
@@ -7753,7 +7758,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "achievement_41",
@@ -7785,7 +7790,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "achievement_45",
@@ -7984,13 +7989,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2751,
+      "Progressed": 2753,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2751,
+      "Progressed": 2753,
       "Completed": 1
     }
   ],
@@ -7998,8 +8003,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:09:32.5927423+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:59:30.8271911+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:57:50.4008578+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:09:32.592822+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:47:04.3823151+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:59:30.8272702+00:00"
 }

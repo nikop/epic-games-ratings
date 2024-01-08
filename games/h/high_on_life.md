@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 318)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,8 +24,8 @@ Rating: 4.65 (Ranked 319)
 | Fallout Doesn't Let You Do This | 3.00% | ~752 |
 | Spent 15 Hours At The Alien Strip Club | 3.00% | ~752 |
 | Series Wrap on Suit-O | 3.00% | ~752 |
-| Eatin' Good in the Neighborhood | 2.00% | ~501 |
-| Eye Scream, You Scream | 2.00% | ~501 |
+| Eatin' Good in the Neighborhood | 2.00% | ~502 |
+| Eye Scream, You Scream | 2.00% | ~502 |
 | Bathe With A Giant Nude Alien | 2.00% | ~47 |
 | Gunning For Your Job | 1.00% | ~251 |
 | We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~251 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 319)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,074 (Ranked 145)  
+Progressed: 25,075 (Ranked 145)  
 Completed: 14 (0.06%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,6 +312,7 @@ Completed: 14 (0.06%) (Ranked 331)
 | 2024-01-05 | 25,037 | 14 |
 | 2024-01-06 | 25,059 | 14 |
 | 2024-01-07 | 25,074 | 14 |
+| 2024-01-08 | 25,075 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

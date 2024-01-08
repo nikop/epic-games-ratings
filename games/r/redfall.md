@@ -1,26 +1,26 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.67 (Ranked 1,092)  
+Rating: 3.67 (Ranked 1,093)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 20.00% | ~461 |
-| Catch and Release | 15.00% | ~345 |
-| Home Is Where the Heart Is | 14.00% | ~322 |
-| Wounded Whispers | 14.00% | ~322 |
-| ICU | 13.00% | ~299 |
-| Blood Will Have Blood | 12.00% | ~276 |
-| Ne Plus Ultra | 12.00% | ~276 |
-| Fly Fisher | 11.00% | ~253 |
-| Peek-a-boo | 11.00% | ~253 |
+| Catch and Release | 15.00% | ~346 |
+| Home Is Where the Heart Is | 14.00% | ~323 |
+| Wounded Whispers | 14.00% | ~323 |
+| ICU | 13.00% | ~300 |
+| Blood Will Have Blood | 11.00% | ~254 |
+| Ne Plus Ultra | 11.00% | ~254 |
+| Fly Fisher | 11.00% | ~254 |
+| Peek-a-boo | 11.00% | ~254 |
 | Sucks To Be You | 10.00% | ~230 |
 | Enter of Your Own Free Will | 9.00% | ~207 |
 | Welcome to the Neighborhood | 9.00% | ~207 |
 | Throw The First Stone | 9.00% | ~207 |
 | Heart Attack | 9.00% | ~207 |
+| Skin of Their Teeth | 8.00% | ~184 |
 | Grounded | 7.00% | ~161 |
-| Skin of Their Teeth | 7.00% | ~161 |
 | Bad Wiring | 6.00% | ~138 |
 | Neighborhood Revitalization | 5.00% | ~115 |
 | Radio Silence | 5.00% | ~115 |
@@ -50,7 +50,7 @@ Rating: 3.67 (Ranked 1,092)
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
 | Good Samaritan | 0.70% | ~16 |
-| Scream Team | 0.50% | ~12 |
+| Scream Team | 0.60% | ~14 |
 | Friendgineering | 0.50% | ~12 |
 | Under a Bushel | 0.50% | ~12 |
 | Monster Hunters Club | 0.40% | ~9 |
@@ -72,7 +72,7 @@ Rating: 3.67 (Ranked 1,092)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,303 (Ranked 242)  
+Progressed: 2,305 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-05 | 2,267 | 0 |
 | 2024-01-06 | 2,286 | 0 |
 | 2024-01-07 | 2,301 | 0 |
-| 2024-01-08 | 2,303 | 0 |
+| 2024-01-08 | 2,305 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 554)  
 Sum: 24 (Ranked 561)  

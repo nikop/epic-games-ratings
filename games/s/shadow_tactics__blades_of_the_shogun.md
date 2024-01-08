@@ -1,35 +1,35 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 300)  
+Rating: 4.66 (Ranked 299)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,968 |
-| A thief's beginning | 11.00% | ~24,720 |
-| Thorough | 11.00% | ~24,720 |
-| Disguised | 9.00% | ~20,226 |
-| Rescue Takuma | 9.00% | ~20,226 |
-| Rollin' | 9.00% | ~20,226 |
-| Tanuki Time | 9.00% | ~20,226 |
-| Ice Ice Yuki | 8.00% | ~17,978 |
-| Stoned Ox | 8.00% | ~17,978 |
-| Yabu | 8.00% | ~17,978 |
-| Happy Planning | 7.00% | ~15,731 |
-| Jonin | 7.00% | ~15,731 |
-| Mugen Unchained | 7.00% | ~15,731 |
+| Genin | 12.00% | ~26,969 |
+| A thief's beginning | 11.00% | ~24,722 |
+| Thorough | 11.00% | ~24,722 |
+| Disguised | 9.00% | ~20,227 |
+| Rescue Takuma | 9.00% | ~20,227 |
+| Rollin' | 9.00% | ~20,227 |
+| Tanuki Time | 9.00% | ~20,227 |
+| Ice Ice Yuki | 8.00% | ~17,979 |
+| Stoned Ox | 8.00% | ~17,979 |
+| Yabu | 8.00% | ~17,979 |
+| Happy Planning | 7.00% | ~15,732 |
+| Jonin | 7.00% | ~15,732 |
+| Mugen Unchained | 7.00% | ~15,732 |
 | Chunin | 6.00% | ~13,484 |
 | Flying Rocks | 6.00% | ~13,484 |
 | Warzone | 6.00% | ~13,484 |
-| Happy little accidents | 5.00% | ~11,236 |
-| Okkoto | 5.00% | ~11,236 |
-| Prisoners | 5.00% | ~11,236 |
-| Too Early | 5.00% | ~11,236 |
-| Gear up | 4.00% | ~8,989 |
-| Noboru | 4.00% | ~8,989 |
-| Still Rollin' | 4.00% | ~8,989 |
-| Stoned | 4.00% | ~8,989 |
+| Happy little accidents | 5.00% | ~11,237 |
+| Okkoto | 5.00% | ~11,237 |
+| Prisoners | 5.00% | ~11,237 |
+| Too Early | 5.00% | ~11,237 |
+| Gear up | 4.00% | ~8,990 |
+| Noboru | 4.00% | ~8,990 |
+| Still Rollin' | 4.00% | ~8,990 |
+| Stoned | 4.00% | ~8,990 |
 | It's raining men | 3.00% | ~6,742 |
 | The Old Way | 3.00% | ~6,742 |
 | Atheist Ox | 2.00% | ~4,495 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,730 (Ranked 79)  
+Progressed: 224,741 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 105 (0.05%) (Ranked 337)
 | 2024-01-05 | 224,240 | 105 |
 | 2024-01-06 | 224,483 | 105 |
 | 2024-01-07 | 224,723 | 105 |
-| 2024-01-08 | 224,730 | 105 |
+| 2024-01-08 | 224,741 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 209)  
 Sum: 4,947 (Ranked 150)  

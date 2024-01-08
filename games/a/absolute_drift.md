@@ -1,33 +1,33 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.44 (Ranked 705)  
+Rating: 4.44 (Ranked 704)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~156,236 |
-| Good Skills | 9.00% | ~140,613 |
-| Multiplier Master | 9.00% | ~140,613 |
-| Maverick | 7.00% | ~109,365 |
-| The Long Drift | 5.00% | ~78,118 |
+| Midnight Drifter | 10.00% | ~156,238 |
+| Good Skills | 9.00% | ~140,614 |
+| Multiplier Master | 9.00% | ~140,614 |
+| Maverick | 7.00% | ~109,367 |
+| The Long Drift | 5.00% | ~78,119 |
 | Drift Line Apprentice | 3.00% | ~46,871 |
 | Mad Skills | 3.00% | ~46,871 |
-| Bring the Cubic Ruckus | 2.00% | ~31,247 |
-| Jelly Donuts | 2.00% | ~31,247 |
-| Master Drifter | 2.00% | ~31,247 |
-| Midnight Master | 2.00% | ~31,247 |
-| Spin Doctor | 2.00% | ~31,247 |
+| Bring the Cubic Ruckus | 2.00% | ~31,248 |
+| Jelly Donuts | 2.00% | ~31,248 |
+| Master Drifter | 2.00% | ~31,248 |
+| Midnight Master | 2.00% | ~31,248 |
+| Spin Doctor | 2.00% | ~31,248 |
 | Hoon Airlines | 1.00% | ~15,624 |
 | Sake Bombs | 1.00% | ~15,624 |
 | Drift Line Master | 0.80% | ~12,499 |
 | Insane Skills | 0.80% | ~12,499 |
 | Bacon Donuts | 0.60% | ~9,374 |
 | Double Rainbow | 0.60% | ~9,374 |
-| Washing Machine | 0.40% | ~6,249 |
+| Washing Machine | 0.40% | ~6,250 |
 | The Completionist | 0.10% | ~1,562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,562,364 (Ranked 8)  
+Progressed: 1,562,381 (Ranked 8)  
 Completed: 763 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 763 (0.05%) (Ranked 337)
 | 2024-01-05 | 1,561,842 | 763 |
 | 2024-01-06 | 1,562,108 | 763 |
 | 2024-01-07 | 1,562,354 | 763 |
-| 2024-01-08 | 1,562,364 | 763 |
+| 2024-01-08 | 1,562,381 | 763 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

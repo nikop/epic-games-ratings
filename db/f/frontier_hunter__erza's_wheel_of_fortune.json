@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 735,
+  "EOS_Progressed": 736,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -2573,6 +2573,11 @@
       "Time": "2024-01-07T22:09:20.7071884+00:00",
       "NumProgressed": 735,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T01:58:32.8012495+00:00",
+      "NumProgressed": 736,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2590,9 +2595,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Killer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2622,9 +2627,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2712,7 +2717,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2720,7 +2725,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2736,7 +2741,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2768,7 +2773,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -2840,7 +2845,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2902,9 +2907,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 404
+      "UsersEstimate": 397
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2912,7 +2917,7 @@
       "Name": "Flower Thief",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2928,7 +2933,7 @@
       "Name": "Seal Breaker",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2943,7 +2948,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 735,
+      "Progressed": 736,
       "Completed": 3
     }
   ],
@@ -2951,8 +2956,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:08:47.4977965+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:58:32.8012492+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.4482016+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:59:09.1838907+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:08:47.4978362+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:48:52.3282179+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:58:32.8012906+00:00"
 }

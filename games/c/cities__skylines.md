@@ -1,39 +1,39 @@
 # Cities: Skylines
 [Store](https://store.epicgames.com/en-US/p/cities-skylines)  
 [View Rawdata](../../db/c/cities__skylines.json)  
-Rating: 4.66 (Ranked 300)  
+Rating: 4.66 (Ranked 299)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~891,874 |
-| Green Energy | 59.00% | ~741,134 |
-| Foggy Weather | 58.00% | ~728,573 |
-| Singing In The- | 58.00% | ~728,573 |
-| Unpopular Mayor | 40.00% | ~502,464 |
-| Power at Your Fingertips | 33.00% | ~414,533 |
-| City Planner | 22.00% | ~276,355 |
-| Rolling in Dough | 20.00% | ~251,232 |
-| Does My Bum Look Big In This? | 17.00% | ~213,547 |
-| Climbing the Social Ladder | 16.00% | ~200,986 |
-| Safe City | 13.00% | ~163,301 |
-| Quay-King | 11.00% | ~138,178 |
-| With Canals You Can! | 10.00% | ~125,616 |
-| Lawmaker | 9.00% | ~113,054 |
-| Nomen Est Omen | 7.00% | ~87,931 |
-| Well Informed | 6.00% | ~75,370 |
-| Fire Watch | 5.00% | ~62,808 |
-| Greenest City | 4.00% | ~50,246 |
-| Heavenly City | 3.00% | ~37,685 |
-| Reporting! | 3.00% | ~37,685 |
-| SIMulated City | 3.00% | ~37,685 |
-| The Safest Town | 3.00% | ~37,685 |
-| Professional Dumper | 2.00% | ~25,123 |
+| Pioneer | 71.00% | ~891,920 |
+| Green Energy | 59.00% | ~741,173 |
+| Foggy Weather | 58.00% | ~728,611 |
+| Singing In The- | 58.00% | ~728,611 |
+| Unpopular Mayor | 40.00% | ~502,490 |
+| Power at Your Fingertips | 33.00% | ~414,555 |
+| City Planner | 22.00% | ~276,370 |
+| Rolling in Dough | 20.00% | ~251,245 |
+| Does My Bum Look Big In This? | 17.00% | ~213,558 |
+| Climbing the Social Ladder | 16.00% | ~200,996 |
+| Safe City | 13.00% | ~163,309 |
+| Quay-King | 11.00% | ~138,185 |
+| With Canals You Can! | 10.00% | ~125,623 |
+| Lawmaker | 9.00% | ~113,060 |
+| Nomen Est Omen | 7.00% | ~87,936 |
+| Well Informed | 6.00% | ~75,374 |
+| Fire Watch | 5.00% | ~62,811 |
+| Greenest City | 4.00% | ~50,249 |
+| Heavenly City | 3.00% | ~37,687 |
+| Reporting! | 3.00% | ~37,687 |
+| SIMulated City | 3.00% | ~37,687 |
+| The Safest Town | 3.00% | ~37,687 |
+| Professional Dumper | 2.00% | ~25,125 |
 | City in Motion | 1.00% | ~12,562 |
 | Earthloving City | 1.00% | ~12,562 |
 | Metropolis | 1.00% | ~12,562 |
-| Higher Education | 0.80% | ~10,049 |
-| Beam Me Up | 0.70% | ~8,793 |
+| Higher Education | 0.80% | ~10,050 |
+| Beam Me Up | 0.70% | ~8,794 |
 | Terraformer | 0.60% | ~7,537 |
 | Decorator | 0.50% | ~6,281 |
 | Full Capacity | 0.50% | ~6,281 |
@@ -50,13 +50,13 @@ Number of Ratings: 25,248  (23.09.2022)
 | Postman | 0.40% | ~5,025 |
 | Speed up! | 0.40% | ~5,025 |
 | Thunder and Lightning | 0.40% | ~5,025 |
-| A Huge Hadron | 0.30% | ~3,768 |
-| Airlifter | 0.30% | ~3,768 |
-| Airport Architect | 0.30% | ~3,768 |
-| Are They Naked In There? | 0.30% | ~3,768 |
-| Here's A Tram | 0.30% | ~3,768 |
-| Short Fuse | 0.30% | ~3,768 |
-| We need snorkels! | 0.30% | ~3,768 |
+| A Huge Hadron | 0.30% | ~3,769 |
+| Airlifter | 0.30% | ~3,769 |
+| Airport Architect | 0.30% | ~3,769 |
+| Are They Naked In There? | 0.30% | ~3,769 |
+| Here's A Tram | 0.30% | ~3,769 |
+| Short Fuse | 0.30% | ~3,769 |
+| We need snorkels! | 0.30% | ~3,769 |
 | City in Motion 2 | 0.20% | ~2,512 |
 | Eternal City | 0.20% | ~2,512 |
 | Friendly Teaching | 0.20% | ~2,512 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,256 |
 | Z00 | 0.10% | ~1,256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,256,160 (Ranked 12)  
+Progressed: 1,256,226 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,7 +389,7 @@ Completed: 11 (0.00%) (Ranked 393)
 | 2024-01-05 | 1,252,800 | 11 |
 | 2024-01-06 | 1,254,483 | 11 |
 | 2024-01-07 | 1,256,109 | 11 |
-| 2024-01-08 | 1,256,160 | 11 |
+| 2024-01-08 | 1,256,226 | 11 |
 ## Awards
 Max (Great for Beginners): 6,662  (Ranked 60)  
 Sum: 49,005 (Ranked 32)  

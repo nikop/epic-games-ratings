@@ -5,25 +5,25 @@ Rating: 4.46 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 49.00% | ~1,679 |
-| First Love | 45.00% | ~1,542 |
-| Clean Race | 44.00% | ~1,508 |
-| Hear That Roar! | 42.00% | ~1,439 |
-| Rivals to the End | 31.00% | ~1,062 |
-| Bitter Rivalry | 30.00% | ~1,028 |
-| Champagne Spray | 29.00% | ~994 |
-| We're Going to Need a Bigger Garage | 26.00% | ~891 |
-| Quick Pit Stop | 22.00% | ~754 |
-| Restored and Ready | 20.00% | ~685 |
-| I Want One Too! | 20.00% | ~685 |
-| Legendary!!! | 20.00% | ~685 |
+| Eat My Dust | 49.00% | ~1,682 |
+| First Love | 45.00% | ~1,544 |
+| Clean Race | 44.00% | ~1,510 |
+| Hear That Roar! | 42.00% | ~1,441 |
+| Rivals to the End | 31.00% | ~1,064 |
+| Bitter Rivalry | 30.00% | ~1,030 |
+| Champagne Spray | 29.00% | ~995 |
+| We're Going to Need a Bigger Garage | 26.00% | ~892 |
+| Quick Pit Stop | 22.00% | ~755 |
+| Restored and Ready | 20.00% | ~686 |
+| I Want One Too! | 20.00% | ~686 |
+| Legendary!!! | 20.00% | ~686 |
 | Go-Faster Stripes | 17.00% | ~583 |
 | I'm Here Too! | 14.00% | ~480 |
 | We've Just Begun | 14.00% | ~480 |
-| Is It the Right Size? | 9.00% | ~308 |
-| Stamina Star | 8.00% | ~274 |
+| Is It the Right Size? | 9.00% | ~309 |
+| Stamina Star | 8.00% | ~275 |
 | Evangelist | 7.00% | ~240 |
-| Make It Your Own! | 5.00% | ~171 |
+| Make It Your Own! | 5.00% | ~172 |
 | Cherry Blossom and Temples | 4.00% | ~137 |
 | The Road to Liberty | 4.00% | ~137 |
 | Romantic Races | 4.00% | ~137 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 673)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,427 (Ranked 223)  
+Progressed: 3,432 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-05 | 3,324 | 0 |
 | 2024-01-06 | 3,370 | 0 |
 | 2024-01-07 | 3,427 | 0 |
+| 2024-01-08 | 3,432 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

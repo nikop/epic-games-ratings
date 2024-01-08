@@ -1,7 +1,7 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 318)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,8 +20,8 @@ Number of Ratings: 76  (23.09.2022)
 | Squirrel Smasher | 9.00% | ~75 |
 | Life's as extreme as you wanna make it! | 8.00% | ~67 |
 | Shrimp Catcher | 8.00% | ~67 |
+| Toxic Terror | 8.00% | ~67 |
 | Keep it Rolling | 7.00% | ~59 |
-| Toxic Terror | 7.00% | ~59 |
 | Hit Rock Bottom | 7.00% | ~59 |
 | Are you ready now? | 6.00% | ~50 |
 | Hello, Bikini Bottom | 6.00% | ~50 |

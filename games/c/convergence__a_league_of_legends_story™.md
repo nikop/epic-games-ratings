@@ -5,43 +5,43 @@ Rating: 4.69 (Ranked 236)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~582 |
-| The Mysterious Stranger | 34.00% | ~430 |
-| Rail Rat | 34.00% | ~430 |
+| Time Heals All Wounds | 46.00% | ~583 |
+| Rail Rat | 34.00% | ~431 |
+| The Mysterious Stranger | 33.00% | ~418 |
 | Immaculate Aim | 29.00% | ~367 |
-| The Brass Boss | 28.00% | ~354 |
+| The Brass Boss | 28.00% | ~355 |
 | Time Flies | 26.00% | ~329 |
 | No, Thanks! | 26.00% | ~329 |
 | The Prince in Heels | 26.00% | ~329 |
 | Honest Mistake | 26.00% | ~329 |
-| Make Up For Lost Time | 25.00% | ~316 |
-| The Harder They Fall | 25.00% | ~316 |
-| Fast Learner | 25.00% | ~316 |
-| Immaculate Aim | 25.00% | ~316 |
+| Make Up For Lost Time | 25.00% | ~317 |
+| The Harder They Fall | 25.00% | ~317 |
+| Fast Learner | 25.00% | ~317 |
+| Immaculate Aim | 25.00% | ~317 |
 | The Steel Shadow | 24.00% | ~304 |
 | Breaking Down Barriers | 23.00% | ~291 |
-| Right On Time | 22.00% | ~278 |
-| Like Clockwork | 22.00% | ~278 |
-| The Wicked Twins | 22.00% | ~278 |
-| Golem Chaser | 22.00% | ~278 |
+| Right On Time | 22.00% | ~279 |
+| The Wicked Twins | 22.00% | ~279 |
+| Golem Chaser | 22.00% | ~279 |
+| Like Clockwork | 21.00% | ~266 |
 | The Betrayer | 21.00% | ~266 |
 | Check Your Pulse | 20.00% | ~253 |
-| The Loose Cannon | 19.00% | ~240 |
+| The Loose Cannon | 19.00% | ~241 |
 | Street Style | 18.00% | ~228 |
 | The Man Who Shattered Time | 18.00% | ~228 |
 | The Family Fortune | 18.00% | ~228 |
 | Whiz Kid | 15.00% | ~190 |
 | Good Neighbor | 15.00% | ~190 |
 | Family Memories | 14.00% | ~177 |
-| Chaincrawler Explorer | 13.00% | ~164 |
-| Cartographer | 13.00% | ~164 |
-| Syron for Hope | 13.00% | ~164 |
-| Ask Questions Later | 13.00% | ~164 |
+| Chaincrawler Explorer | 13.00% | ~165 |
+| Cartographer | 13.00% | ~165 |
+| Syron for Hope | 13.00% | ~165 |
+| Ask Questions Later | 13.00% | ~165 |
 | Treasure Trove | 12.00% | ~152 |
-| Factorywood Explorer | 11.00% | ~139 |
 | Sump Explorer | 11.00% | ~139 |
-| Fairgrounds Explorer | 10.00% | ~126 |
-| Theater Explorer | 10.00% | ~126 |
+| Factorywood Explorer | 10.00% | ~127 |
+| Fairgrounds Explorer | 10.00% | ~127 |
+| Theater Explorer | 10.00% | ~127 |
 | Cultivair Explorer | 9.00% | ~114 |
 | Corin Goes Home | 8.00% | ~101 |
 | Sartorialist | 8.00% | ~101 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 236)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,265 (Ranked 280)  
+Progressed: 1,267 (Ranked 280)  
 Completed: 7 (0.55%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 7 (0.55%) (Ranked 214)
 | 2024-01-05 | 1,241 | 6 |
 | 2024-01-06 | 1,255 | 6 |
 | 2024-01-07 | 1,264 | 7 |
-| 2024-01-08 | 1,265 | 7 |
+| 2024-01-08 | 1,267 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

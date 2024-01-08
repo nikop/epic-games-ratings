@@ -2,7 +2,7 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1092,
+  "Ranking_Rating": 1093,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 242,
@@ -375,9 +375,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2303,
+  "EOS_Progressed": 2305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4175,6 +4175,11 @@
       "Time": "2024-01-08T00:04:47.693532+00:00",
       "NumProgressed": 2303,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T01:54:40.7194754+00:00",
+      "NumProgressed": 2305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4202,7 +4207,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Achievement_004",
@@ -4232,17 +4237,17 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 254
     },
     {
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 254
     },
     {
       "ID": "Achievement_010",
@@ -4272,9 +4277,9 @@
       "ID": "Achievement_013",
       "SetID": "6b34g18",
       "Name": "Scream Team",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_014",
@@ -4378,7 +4383,7 @@
       "Name": "Fly Fisher",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "Achievement_027",
@@ -4386,7 +4391,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "Achievement_028",
@@ -4410,7 +4415,7 @@
       "Name": "ICU",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Achievement_031",
@@ -4434,7 +4439,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Achievement_034",
@@ -4442,7 +4447,7 @@
       "Name": "Catch and Release",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "Achievement_035",
@@ -4520,9 +4525,9 @@
       "ID": "Achievement_045",
       "SetID": "6b34g18",
       "Name": "Skin of Their Teeth",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 184
     },
     {
       "ID": "Achievement_046",
@@ -4713,7 +4718,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2303,
+      "Progressed": 2305,
       "Completed": 0
     }
   ],
@@ -4721,8 +4726,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-07T04:01:29.1090541+00:00",
-  "LastChanged_Achievements": "2024-01-08T00:04:47.6935317+00:00",
+  "LastChanged_Achievements": "2024-01-08T01:54:40.7194751+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-07T23:58:57.6075938+00:00",
-  "LastUpdate_Achievements": "2024-01-08T00:04:47.6936109+00:00"
+  "LastUpdate_Ratings": "2024-01-08T01:48:36.9719353+00:00",
+  "LastUpdate_Achievements": "2024-01-08T01:54:40.7195398+00:00"
 }

@@ -59,10 +59,10 @@ Rating: 4.74 (Ranked 163)
 | My Little Torture Chamber | 18.00% | ~134 |
 | Evilification | 18.00% | ~134 |
 | Mirror, Mirror | 17.00% | ~126 |
+| Untouchable | 17.00% | ~126 |
 | Heal Heal Blessing | 17.00% | ~126 |
-| Untouchable | 16.00% | ~119 |
 | Hands Off My Stones | 15.00% | ~112 |
-| Laser Eyes Are So Useless | 13.00% | ~97 |
+| Laser Eyes Are So Useless | 14.00% | ~104 |
 | Gorgu is in the Best of Health | 12.00% | ~89 |
 | No Mana, No Cry | 11.00% | ~82 |
 | I Don't Need Any Help | 10.00% | ~74 |
