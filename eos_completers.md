@@ -14,7 +14,7 @@
 | 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 32.14% |
 | 13 | [Volley Pals](games/v/volley_pals.md) | 30.83% |
 | 14 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.66% |
-| 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.27% |
+| 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.03% |
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -24,8 +24,8 @@
 | 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
 | 23 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 25 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 18.18% |
-| 26 | [The Riflemen](games/t/the_riflemen.md) | 17.51% |
+| 25 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 17.86% |
+| 26 | [The Riflemen](games/t/the_riflemen.md) | 17.50% |
 | 27 | [Island Cities](games/i/island_cities.md) | 17.02% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
@@ -158,7 +158,7 @@
 | 156 | [Chorus](games/c/chorus.md) | 1.28% |
 | 157 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.26% |
 | 158 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.25% |
-| 159 | [Ten Dates](games/t/ten_dates.md) | 1.23% |
+| 159 | [Ten Dates](games/t/ten_dates.md) | 1.22% |
 | 160 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.21% |
 | 161 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.20% |
 | 161 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.20% |
@@ -168,9 +168,9 @@
 | 166 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
 | 167 | [Adios](games/a/adios.md) | 1.11% |
 | 168 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.10% |
-| 168 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.10% |
 | 168 | [The Devil's Face](games/t/the_devil's_face.md) | 1.10% |
-| 171 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.09% |
+| 170 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.09% |
+| 170 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.09% |
 | 172 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.08% |
 | 173 | [Lemon Cake](games/l/lemon_cake.md) | 1.05% |
 | 174 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
@@ -179,9 +179,9 @@
 | 177 | [Colossal Cave](games/c/colossal_cave.md) | 0.95% |
 | 177 | [Trifox](games/t/trifox.md) | 0.95% |
 | 179 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.93% |
-| 179 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.93% |
 | 179 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
-| 182 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.92% |
+| 181 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.92% |
+| 181 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.92% |
 | 183 | [Hades](games/h/hades.md) | 0.91% |
 | 184 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.90% |
 | 184 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.90% |
@@ -203,8 +203,8 @@
 | 201 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.65% |
 | 201 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.65% |
 | 201 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.65% |
-| 201 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.65% |
-| 205 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.64% |
+| 204 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.64% |
+| 205 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.63% |
 | 206 | [Scrapnaut](games/s/scrapnaut.md) | 0.62% |
 | 207 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.60% |
 | 208 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.59% |
