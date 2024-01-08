@@ -556,9 +556,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "dhh8kbc",
       "Name": "Hiders win!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 150,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -579,8 +579,8 @@
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:08:47.1972267+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:08:40.5219873+00:00",
   "LastUpdate_AppInfo": "2024-01-05T14:56:57.5230498+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:59:05.1174402+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:08:47.1972391+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:59:29.7648273+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:08:40.5220037+00:00"
 }

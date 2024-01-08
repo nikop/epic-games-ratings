@@ -29,7 +29,7 @@ Rating: 4.38 (Ranked 791)
 | Cassandra Van den Bosch | 37.00% | ~184 |
 | The Secret | 36.00% | ~179 |
 | Gedeon Demir | 34.00% | ~169 |
-| Rehana Piette | 33.00% | ~164 |
+| Rehana Piette | 34.00% | ~169 |
 | Instinct is Marvellous | 32.00% | ~159 |
 | Ernesto da Silva | 32.00% | ~159 |
 | Inge Frank | 31.00% | ~154 |
@@ -52,8 +52,8 @@ Rating: 4.38 (Ranked 791)
 | Room with a View | 7.00% | ~35 |
 | Work-life Balance | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496 (Ranked 352)  
-Completed: 6 (1.21%) (Ranked 160)  
+Progressed: 496 (Ranked 353)  
+Completed: 6 (1.21%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

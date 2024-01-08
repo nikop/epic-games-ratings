@@ -5,36 +5,36 @@ Rating: 4.42 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 77.00% | ~2,053 |
+| Country Bumpkin | 76.00% | ~2,027 |
 | A new Journey | 75.00% | ~2,000 |
-| From X to Y | 74.00% | ~1,973 |
-| Departure | 74.00% | ~1,973 |
-| Way of Iron | 71.00% | ~1,893 |
-| Mystery Tour | 70.00% | ~1,866 |
-| We brake for nobody | 68.00% | ~1,813 |
+| From X to Y | 74.00% | ~1,974 |
+| Departure | 74.00% | ~1,974 |
+| Way of Iron | 71.00% | ~1,894 |
+| Mystery Tour | 70.00% | ~1,867 |
+| We brake for nobody | 68.00% | ~1,814 |
 | Brainstorm | 66.00% | ~1,760 |
 | Mind the Gap | 66.00% | ~1,760 |
 | Travel Company | 66.00% | ~1,760 |
-| All around the World | 64.00% | ~1,706 |
-| Right through the middle | 59.00% | ~1,573 |
+| All around the World | 64.00% | ~1,707 |
+| Right through the middle | 59.00% | ~1,574 |
 | Facility Manager | 54.00% | ~1,440 |
 | Poor Devil | 54.00% | ~1,440 |
 | Producer | 51.00% | ~1,360 |
-| Bridge Builder | 43.00% | ~1,146 |
+| Bridge Builder | 43.00% | ~1,147 |
 | Apprentice | 42.00% | ~1,120 |
-| Going once, going twice, sold | 37.00% | ~986 |
+| Going once, going twice, sold | 37.00% | ~987 |
 | Access granted | 36.00% | ~960 |
 | Bull and bear | 35.00% | ~933 |
-| Stoker | 34.00% | ~906 |
+| Stoker | 34.00% | ~907 |
 | Full Steam ahead | 33.00% | ~880 |
-| All mine | 32.00% | ~853 |
-| Financial Shark | 32.00% | ~853 |
-| Mole | 31.00% | ~826 |
+| All mine | 31.00% | ~827 |
+| Mole | 31.00% | ~827 |
+| Financial Shark | 31.00% | ~827 |
 | General Manager | 29.00% | ~773 |
 | Country Life | 29.00% | ~773 |
-| Socializer | 28.00% | ~746 |
+| Socializer | 28.00% | ~747 |
 | Hostile Takeover | 26.00% | ~693 |
-| Seven at one stroke | 25.00% | ~666 |
+| Seven at one stroke | 25.00% | ~667 |
 | Breaking Ground | 23.00% | ~613 |
 | Trailblazer | 22.00% | ~587 |
 | Traffic Junction | 22.00% | ~587 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 740)
 | European Union | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,666 (Ranked 233)  
+Progressed: 2,667 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 2,642 | 0 |
 | 2024-01-06 | 2,648 | 0 |
 | 2024-01-07 | 2,657 | 0 |
-| 2024-01-08 | 2,666 | 0 |
+| 2024-01-08 | 2,667 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

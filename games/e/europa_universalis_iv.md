@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.60% | ~2,970 |
-| That's a Grand Army | 0.50% | ~2,475 |
-| That is mine! | 0.50% | ~2,475 |
-| Victorious! | 0.50% | ~2,475 |
+| Until death do us apart | 0.60% | ~2,971 |
+| That's a Grand Army | 0.50% | ~2,476 |
+| That is mine! | 0.50% | ~2,476 |
+| Victorious! | 0.50% | ~2,476 |
 | Brothers in Arms | 0.40% | ~1,980 |
 | That's a Grand Navy | 0.40% | ~1,980 |
 | Seriously?! | 0.40% | ~1,980 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 495,056 (Ranked 42)  
+Progressed: 495,101 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,14 +633,14 @@ Completed: 1 (0.00%) (Ranked 394)
 | 2024-01-05 | 492,930 | 1 |
 | 2024-01-06 | 493,815 | 1 |
 | 2024-01-07 | 494,650 | 1 |
-| 2024-01-08 | 495,056 | 1 |
+| 2024-01-08 | 495,101 | 1 |
 ## Awards
-Max (Educational): 7,757  (Ranked 54)  
-Sum: 64,033 (Ranked 24)  
+Max (Educational): 7,765  (Ranked 54)  
+Sum: 64,050 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,757 |
+| This game is Educational | 7,765 |
 | This game has Diverse Characters | 7,623 |
 | This game is Highly Recommended | 7,455 |
 | This game has Challenging Combat | 7,391 |
@@ -648,7 +648,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 7,113 |
 | This game has Competitive Players | 6,958 |
 | This game has Amazing Storytelling | 6,469 |
-| This game has Amazing Characters | 5,980 |
+| This game has Amazing Characters | 5,989 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -1009,4 +1009,4 @@ Diff (max vs sum): 30
 | 2024-01-05 | 4.69 | - | 7,726 | 63,694 |
 | 2024-01-06 | 4.69 | - | 7,742 | 63,845 |
 | 2024-01-07 | 4.69 | - | 7,757 | 63,972 |
-| 2024-01-08 | 4.69 | - | 7,757 | 64,033 |
+| 2024-01-08 | 4.69 | - | 7,765 | 64,050 |

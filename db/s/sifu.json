@@ -8841,9 +8841,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 757403,
+  "EOS_Progressed": 757421,
   "EOS_Completed": 12979,
-  "EOS_NewPlayers": 6110,
+  "EOS_NewPlayers": 6100,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -32901,6 +32901,11 @@
       "Time": "2024-01-08T17:09:44.8684067+00:00",
       "NumProgressed": 757403,
       "NumCompleted": 12979
+    },
+    {
+      "Time": "2024-01-08T18:09:54.913807+00:00",
+      "NumProgressed": 757421,
+      "NumCompleted": 12979
     }
   ],
   "TotalAchievements": 60,
@@ -32912,7 +32917,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45444
+      "UsersEstimate": 45445
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32920,7 +32925,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30296
+      "UsersEstimate": 30297
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32928,7 +32933,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22722
+      "UsersEstimate": 22723
     },
     {
       "ID": "04_Vengeance_H3",
@@ -32968,7 +32973,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4544
+      "UsersEstimate": 4545
     },
     {
       "ID": "09_Wude_H3",
@@ -32976,7 +32981,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4544
+      "UsersEstimate": 4545
     },
     {
       "ID": "10_Wude_H4",
@@ -33024,7 +33029,7 @@
       "Name": "Detective Story",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4544
+      "UsersEstimate": 4545
     },
     {
       "ID": "16_Detective_H2",
@@ -33088,7 +33093,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37870
+      "UsersEstimate": 37871
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33096,7 +33101,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22722
+      "UsersEstimate": 22723
     },
     {
       "ID": "25_ShrineMind",
@@ -33160,7 +33165,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22722
+      "UsersEstimate": 22723
     },
     {
       "ID": "33_BladeOneShot",
@@ -33176,7 +33181,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30296
+      "UsersEstimate": 30297
     },
     {
       "ID": "35_WideStrike",
@@ -33391,21 +33396,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 66704,
+      "Progressed": 66722,
       "Completed": 10800
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 757403,
+      "Progressed": 757421,
       "Completed": 12979
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-08T17:03:33.2471004+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:09:44.868406+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:09:54.9138066+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:03:33.2471009+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:09:44.8686338+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:03:26.023337+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:09:54.9140089+00:00"
 }

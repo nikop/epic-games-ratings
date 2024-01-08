@@ -3,11 +3,11 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 375,
+  "Ranking_Popularity": 370,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -293,23 +293,29 @@
       "Rating": 4.88,
       "NumberOfAwards": 102,
       "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2024-01-08T17:59:02.5867073+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 107,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 102,
-  "NumberOfAwardsMax": 102,
+  "NumberOfAwards": 107,
+  "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 102
+      "Count": 107
     }
   ],
-  "EOS_Progressed": 1324,
+  "EOS_Progressed": 1325,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3787,6 +3793,11 @@
       "Time": "2024-01-08T17:06:45.4920782+00:00",
       "NumProgressed": 1324,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T18:07:57.7136068+00:00",
+      "NumProgressed": 1325,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3799,7 +3810,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "AbInitio",
@@ -3807,7 +3818,7 @@
       "Name": "Ab Initio",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "AnthropicHills",
@@ -3839,7 +3850,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "BreakTheLoop",
@@ -3855,7 +3866,7 @@
       "Name": "Bridge Builder",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ChasingTheLight",
@@ -3895,7 +3906,7 @@
       "Name": "Discovery",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "EasternWetlands",
@@ -3967,7 +3978,7 @@
       "Name": "Into the Machine",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "JustOneLap",
@@ -3983,7 +3994,7 @@
       "Name": "Lord of the Files",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "LostMarshes",
@@ -4191,7 +4202,7 @@
       "Name": "The Spark",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "TheThiefOfFire",
@@ -4263,23 +4274,23 @@
       "Name": "Your Biggest Fan",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1324,
+      "Progressed": 1325,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-01-07T13:01:07.63286+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:06:45.4920776+00:00",
+  "LastChanged": "2024-01-08T17:59:02.5867071+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:07:57.7136067+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:58:45.1934765+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:06:45.4921389+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:59:02.5867076+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:07:57.7136774+00:00"
 }

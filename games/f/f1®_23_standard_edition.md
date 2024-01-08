@@ -5,47 +5,47 @@ Rating: 4.65 (Ranked 319)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~15,340 |
-| On the Top Step | 82.00% | ~13,823 |
-| Setting up for Success | 69.00% | ~11,631 |
-| Team Orders | 67.00% | ~11,294 |
-| Engineer | 45.00% | ~7,586 |
-| Familiar Faces | 41.00% | ~6,911 |
-| Going the Extra Mile | 35.00% | ~5,900 |
-| Sharing the Love | 32.00% | ~5,394 |
-| Hitting a Season | 26.00% | ~4,383 |
-| A Dozen Pieces | 24.00% | ~4,046 |
-| Making History | 24.00% | ~4,046 |
-| Network Success | 23.00% | ~3,877 |
-| Challenge Yourself | 23.00% | ~3,877 |
-| Writing a new Chapter | 19.00% | ~3,203 |
-| Spring Cleaning | 18.00% | ~3,034 |
-| Reduce | 14.00% | ~2,360 |
-| Ups and Downs | 14.00% | ~2,360 |
-| Crucial Combo | 13.00% | ~2,191 |
-| Reuse | 12.00% | ~2,023 |
-| Proving Them Wrong | 12.00% | ~2,023 |
-| Gathering Dust | 11.00% | ~1,854 |
-| Friendly Competition | 10.00% | ~1,686 |
-| Switcheroo | 10.00% | ~1,686 |
-| One for the Book | 10.00% | ~1,686 |
-| Eagle Eye | 9.00% | ~1,517 |
-| All in a Weekend's Work | 9.00% | ~1,517 |
-| Oil and Water | 9.00% | ~1,517 |
-| Hitting a Bullseye | 9.00% | ~1,517 |
-| Spinning Around | 9.00% | ~1,517 |
-| Lightning Round the World | 8.00% | ~1,349 |
-| Recycle | 7.00% | ~1,180 |
-| Undisputed Winner | 6.00% | ~1,011 |
-| Tinkerer | 6.00% | ~1,011 |
-| For all Those Back at the Factory | 4.00% | ~674 |
-| Living up to Expectations | 4.00% | ~674 |
-| Smooth Operator | 4.00% | ~674 |
-| Peak Performance | 4.00% | ~674 |
-| Seasoned Rookie | 3.00% | ~506 |
-| Loyal Bond | 3.00% | ~506 |
-| Hitting a Century | 2.00% | ~337 |
-| Wait, I know you? | 2.00% | ~337 |
+| Getting on the Step | 91.00% | ~15,364 |
+| On the Top Step | 82.00% | ~13,845 |
+| Setting up for Success | 69.00% | ~11,650 |
+| Team Orders | 67.00% | ~11,312 |
+| Engineer | 45.00% | ~7,598 |
+| Familiar Faces | 41.00% | ~6,922 |
+| Going the Extra Mile | 35.00% | ~5,909 |
+| Sharing the Love | 32.00% | ~5,403 |
+| Hitting a Season | 26.00% | ~4,390 |
+| A Dozen Pieces | 24.00% | ~4,052 |
+| Making History | 24.00% | ~4,052 |
+| Network Success | 23.00% | ~3,883 |
+| Challenge Yourself | 23.00% | ~3,883 |
+| Writing a new Chapter | 19.00% | ~3,208 |
+| Spring Cleaning | 18.00% | ~3,039 |
+| Reduce | 14.00% | ~2,364 |
+| Ups and Downs | 14.00% | ~2,364 |
+| Crucial Combo | 13.00% | ~2,195 |
+| Reuse | 12.00% | ~2,026 |
+| Proving Them Wrong | 12.00% | ~2,026 |
+| Gathering Dust | 11.00% | ~1,857 |
+| Friendly Competition | 10.00% | ~1,688 |
+| Switcheroo | 10.00% | ~1,688 |
+| One for the Book | 10.00% | ~1,688 |
+| Eagle Eye | 9.00% | ~1,520 |
+| All in a Weekend's Work | 9.00% | ~1,520 |
+| Oil and Water | 9.00% | ~1,520 |
+| Hitting a Bullseye | 9.00% | ~1,520 |
+| Spinning Around | 9.00% | ~1,520 |
+| Lightning Round the World | 8.00% | ~1,351 |
+| Recycle | 7.00% | ~1,182 |
+| Undisputed Winner | 6.00% | ~1,013 |
+| Tinkerer | 6.00% | ~1,013 |
+| For all Those Back at the Factory | 4.00% | ~675 |
+| Living up to Expectations | 4.00% | ~675 |
+| Smooth Operator | 4.00% | ~675 |
+| Peak Performance | 4.00% | ~675 |
+| Seasoned Rookie | 3.00% | ~507 |
+| Loyal Bond | 3.00% | ~507 |
+| Hitting a Century | 2.00% | ~338 |
+| Wait, I know you? | 2.00% | ~338 |
 | Filling in the Gaps | 1.00% | ~169 |
 | Media Darling | 1.00% | ~169 |
 | Saturday Night Drama | 0.90% | ~152 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 319)
 | Shot in the Dark | 0.10% | ~17 |
 | Elite Racer | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,857 (Ranked 165)  
+Progressed: 16,884 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,10 +172,10 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 15,717 | 0 |
 | 2024-01-06 | 16,184 | 0 |
 | 2024-01-07 | 16,654 | 0 |
-| 2024-01-08 | 16,857 | 0 |
+| 2024-01-08 | 16,884 | 0 |
 ## Awards
-Max (Diverse Characters): 63  (Ranked 424)  
-Sum: 397 (Ranked 355)  
+Max (Diverse Characters): 63  (Ranked 425)  
+Sum: 397 (Ranked 356)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -175,10 +175,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3365,
+  "EOS_Progressed": 3366,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 157,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 153,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
@@ -6200,6 +6200,11 @@
       "Time": "2024-01-08T17:05:03.7640613+00:00",
       "NumProgressed": 3365,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-08T18:05:36.7767506+00:00",
+      "NumProgressed": 3366,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 53,
@@ -6211,7 +6216,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -6267,7 +6272,7 @@
       "Name": "No more holding back",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -6275,7 +6280,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6291,7 +6296,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2592
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6347,7 +6352,7 @@
       "Name": "Old friend",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -6355,7 +6360,7 @@
       "Name": "True power",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -6395,7 +6400,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6403,7 +6408,7 @@
       "Name": "Meltridge",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -6411,7 +6416,7 @@
       "Name": "The end of the experiments",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -6427,7 +6432,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6483,7 +6488,7 @@
       "Name": "Terbisia",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -6507,7 +6512,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "STB_PET_DOG",
@@ -6515,7 +6520,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6547,7 +6552,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -6563,7 +6568,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -6571,7 +6576,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -6579,7 +6584,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -6587,7 +6592,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6595,7 +6600,7 @@
       "Name": "Spellcrafting",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -6627,14 +6632,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3365,
+      "Progressed": 3366,
       "Completed": 22
     }
   ],
@@ -6642,8 +6647,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-07T21:57:30.4029584+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:05:03.7640607+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:05:36.7767503+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.7763351+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:58:16.6272595+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:05:03.7641314+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:58:17.2631834+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:05:36.7768284+00:00"
 }

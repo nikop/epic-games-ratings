@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -741,9 +741,9 @@
       "ID": "CgkIxYDzrbcPEAIQDA",
       "SetID": "4egpam7",
       "Name": "Chimney Sweeper",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDQ",
@@ -900,8 +900,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:06:36.4497387+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:07:44.6977385+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:03.7970515+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:58:21.6513157+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:06:36.4497653+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:58:25.881737+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:07:44.6977582+00:00"
 }

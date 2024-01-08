@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.06 (Ranked 1,032)  
+Rating: 4.07 (Ranked 1,028)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,11 +39,11 @@ Rating: 4.06 (Ranked 1,032)
 | Scroll Master | 8.00% | ~346 |
 | The power of Awakening | 8.00% | ~346 |
 | Four Leaf Clover | 7.00% | ~303 |
+| Here We Go Again | 7.00% | ~303 |
 | Master Enchanter | 7.00% | ~303 |
 | The father of Dragons | 7.00% | ~303 |
 | Trader | 7.00% | ~303 |
 | Enchanting skill | 6.00% | ~259 |
-| Here We Go Again | 6.00% | ~259 |
 | The Expeditioner | 6.00% | ~259 |
 | Weekly Quest Completionist | 6.00% | ~259 |
 | Blueprint Upgrades | 5.00% | ~216 |
@@ -444,3 +444,4 @@ Diff (max vs sum): 43
 | 2024-01-05 | 4.05 | 40 | 154 |
 | 2024-01-06 | 4.05 | 40 | 155 |
 | 2024-01-07 | 4.06 | 40 | 155 |
+| 2024-01-08 | 4.07 | 40 | 155 |

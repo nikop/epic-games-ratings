@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -554,6 +554,11 @@
       "Time": "2024-01-08T15:09:57.9494446+00:00",
       "NumProgressed": 116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T18:09:59.6765999+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -646,7 +651,7 @@
       "Name": "Death to the javelin thrower",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_drunk_lucky",
@@ -670,7 +675,7 @@
       "Name": "My name is Pheng",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_fidelity_to_the_clan",
@@ -830,7 +835,7 @@
       "Name": "Not energetic",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_not_risky",
@@ -838,7 +843,7 @@
       "Name": "Not a daredevil",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_rush",
@@ -894,7 +899,7 @@
       "Name": "Thorn\u0027s alive!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_thorn_is_my_choise",
@@ -926,7 +931,7 @@
       "Name": "Two hands are better than one",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_we_are_saved_gleda",
@@ -965,14 +970,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:09:48.4430243+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:09:59.6765997+00:00",
   "LastUpdate_AppInfo": "2024-01-03T15:56:53.5899494+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:00:56.7846931+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:09:48.4430659+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:02:07.7452725+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:09:59.6766351+00:00"
 }

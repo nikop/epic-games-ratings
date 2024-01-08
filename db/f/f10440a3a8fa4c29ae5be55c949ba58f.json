@@ -2,7 +2,7 @@
   "ID": "f10440a3a8fa4c29ae5be55c949ba58f",
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
-  "Ranking_EOS_Progress": 192,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 92,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7751,
+  "EOS_Progressed": 7761,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2148,
+  "EOS_NewPlayers": 2139,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2194,6 +2194,11 @@
       "Time": "2024-01-08T17:09:45.1267333+00:00",
       "NumProgressed": 7751,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-08T18:09:55.1302024+00:00",
+      "NumProgressed": 7761,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -2206,7 +2211,7 @@
       "Name": "Final Destination",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3880
     },
     {
       "ID": "Document1",
@@ -2214,7 +2219,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "Document2",
@@ -2269,14 +2274,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 7751,
+      "Progressed": 7761,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:09:45.1267331+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:09:55.1302021+00:00",
   "LastUpdate_AppInfo": "2024-01-07T21:57:13.0406277+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:59:40.9847274+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:09:45.1267546+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:00:20.2645569+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:09:55.1302253+00:00"
 }

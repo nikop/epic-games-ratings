@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,242 |
-| Hidden History | 71.00% | ~882 |
+| Land of the Rising Sun | 100.00% | ~1,243 |
+| Hidden History | 71.00% | ~883 |
 | Commencing of Quests | 61.00% | ~758 |
 | Budding Conjuror | 59.00% | ~733 |
-| Man-Machine Master | 48.00% | ~596 |
-| Mountain Splitter | 48.00% | ~596 |
-| Charmed by the Hunt | 48.00% | ~596 |
+| Man-Machine Master | 49.00% | ~609 |
+| Mountain Splitter | 48.00% | ~597 |
+| Charmed by the Hunt | 48.00% | ~597 |
 | Subsistence Skills | 47.00% | ~584 |
-| Memory Rouser | 46.00% | ~571 |
-| Fusion Conjuror | 45.00% | ~559 |
+| Fusion Conjuror | 46.00% | ~572 |
+| Memory Rouser | 46.00% | ~572 |
 | Kemono Hunter | 42.00% | ~522 |
-| Helpful Heart | 39.00% | ~484 |
-| Expert Conjuror | 39.00% | ~484 |
+| Expert Conjuror | 40.00% | ~497 |
+| Helpful Heart | 39.00% | ~485 |
 | Flawless Crystal | 37.00% | ~460 |
 | Bonds of Enmity | 37.00% | ~460 |
 | Distance Devourer | 35.00% | ~435 |
-| Counter Specialist | 32.00% | ~397 |
+| Counter Specialist | 32.00% | ~398 |
 | Master of the Skies | 31.00% | ~385 |
 | Axer of Auspice | 28.00% | ~348 |
-| Kemono at Heart | 27.00% | ~335 |
-| Mighty Marmelizer | 26.00% | ~323 |
+| Mighty Marmelizer | 27.00% | ~336 |
+| Kemono at Heart | 27.00% | ~336 |
 | Fair Means or Foul | 26.00% | ~323 |
 | Single Minded | 24.00% | ~298 |
 | Snare Specialist | 23.00% | ~286 |
 | Karakuri Trail | 22.00% | ~273 |
 | Artful Assister | 21.00% | ~261 |
-| Team Hunter | 20.00% | ~248 |
+| Team Hunter | 20.00% | ~249 |
 | Karakuri Isle | 19.00% | ~236 |
 | Reincarnation Cycle Stopper | 19.00% | ~236 |
 | Left Arm Leverager | 16.00% | ~199 |
@@ -40,8 +40,8 @@
 | Quintessence of Form | 15.00% | ~186 |
 | Threaded Harmony | 15.00% | ~186 |
 | Karakuri Minato | 14.00% | ~174 |
-| Canyon of Karakuri | 13.00% | ~161 |
-| Jack of All Trades | 13.00% | ~161 |
+| Canyon of Karakuri | 13.00% | ~162 |
+| Jack of All Trades | 13.00% | ~162 |
 | Karakuri Fortress | 10.00% | ~124 |
 | Volatile Vocation | 10.00% | ~124 |
 | Tender Touch | 10.00% | ~124 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 4.00% | ~50 |
 | Tsukumo Whisperer | 2.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,242 (Ranked 281)  
+Progressed: 1,243 (Ranked 281)  
 Completed: 8 (0.64%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,4 +168,4 @@ Completed: 8 (0.64%) (Ranked 204)
 | 2024-01-05 | 1,148 | 8 |
 | 2024-01-06 | 1,197 | 8 |
 | 2024-01-07 | 1,227 | 8 |
-| 2024-01-08 | 1,242 | 8 |
+| 2024-01-08 | 1,243 | 8 |

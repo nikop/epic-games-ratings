@@ -1,18 +1,18 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.20 (Ranked 961)  
+Rating: 4.21 (Ranked 953)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~9,932 |
-| Disposing of the Evidence | 38.00% | ~4,547 |
-| Without a Scratch | 34.00% | ~4,068 |
-| Wreckless Driving | 28.00% | ~3,350 |
-| A Marked Man | 26.00% | ~3,111 |
-| Street Sweeper | 19.00% | ~2,274 |
-| Liberty City Minute | 17.00% | ~2,034 |
-| Offshore Delivery | 14.00% | ~1,675 |
+| First Day on the Job | 83.00% | ~9,937 |
+| Disposing of the Evidence | 38.00% | ~4,549 |
+| Without a Scratch | 34.00% | ~4,070 |
+| Wreckless Driving | 28.00% | ~3,352 |
+| A Marked Man | 26.00% | ~3,113 |
+| Street Sweeper | 19.00% | ~2,275 |
+| Liberty City Minute | 17.00% | ~2,035 |
+| Offshore Delivery | 14.00% | ~1,676 |
 | Dirty Money | 13.00% | ~1,556 |
 | By a Mile | 10.00% | ~1,197 |
 | Not So Fast | 10.00% | ~1,197 |
@@ -35,8 +35,8 @@ Rating: 4.20 (Ranked 961)
 | Is That All You've Got? | 0.90% | ~108 |
 | King of Liberty City | 0.70% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,966 (Ranked 178)  
-Completed: 82 (0.69%) (Ranked 198)  
+Progressed: 11,972 (Ranked 178)  
+Completed: 82 (0.68%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -298,7 +298,7 @@ Completed: 82 (0.69%) (Ranked 198)
 | 2024-01-05 | 11,665 | 77 |
 | 2024-01-06 | 11,790 | 79 |
 | 2024-01-07 | 11,911 | 81 |
-| 2024-01-08 | 11,966 | 82 |
+| 2024-01-08 | 11,972 | 82 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -413,3 +413,4 @@ Completed: 82 (0.69%) (Ranked 198)
 | 2024-01-03 | 4.21 | 0 | 0 |
 | 2024-01-04 | 4.22 | 0 | 0 |
 | 2024-01-06 | 4.20 | 0 | 0 |
+| 2024-01-08 | 4.21 | 0 | 0 |

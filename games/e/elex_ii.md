@@ -7,11 +7,11 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 40.00% | ~87 |
-| Best Buddy | 34.00% | ~74 |
+| Best Buddy | 35.00% | ~76 |
 | Civilian | 32.00% | ~69 |
 | Role Model | 29.00% | ~63 |
 | Creator | 26.00% | ~56 |
-| Military Leader | 23.00% | ~50 |
+| Military Leader | 24.00% | ~52 |
 | Festival-goer | 23.00% | ~50 |
 | Peddler | 22.00% | ~48 |
 | Commander | 20.00% | ~43 |
@@ -21,8 +21,8 @@ Number of Ratings: 124  (23.09.2022)
 | Family Reunion | 14.00% | ~30 |
 | Eternal Oblivion | 12.00% | ~26 |
 | Storyteller | 11.00% | ~24 |
+| Globetrotter | 11.00% | ~24 |
 | Berserker | 11.00% | ~24 |
-| Globetrotter | 10.00% | ~22 |
 | Banker | 9.00% | ~20 |
 | Alb | 9.00% | ~20 |
 | Hotshot | 7.00% | ~15 |
@@ -39,10 +39,10 @@ Number of Ratings: 124  (23.09.2022)
 | Alchemist | 3.00% | ~7 |
 | Self-Sufficient | 3.00% | ~7 |
 | Morkon | 3.00% | ~7 |
+| Legendary | 3.00% | ~7 |
 | Idealist | 2.00% | ~4 |
 | Toy Time | 2.00% | ~4 |
 | Destroyer | 2.00% | ~4 |
-| Legendary | 2.00% | ~4 |
 | Pack Rat | 1.00% | ~2 |
 | Outlaw | 1.00% | ~2 |
 | Defector | 0.90% | ~2 |

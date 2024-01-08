@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Master trainee | 53.00% | ~47 |
 | You have three wishes left | 46.00% | ~41 |
+| Jung's dream | 37.00% | ~33 |
 | The battle of Great Britain | 37.00% | ~33 |
-| Jung's dream | 36.00% | ~32 |
 | Pulp! Where Monsters Dwell | 30.00% | ~27 |
 | A continent with chemistry | 28.00% | ~25 |
 | The happy farmer girl | 26.00% | ~23 |
@@ -26,8 +26,8 @@
 | You've awakened the beast | 15.00% | ~13 |
 | Hate is... addictive | 15.00% | ~13 |
 | You had one wish left | 15.00% | ~13 |
+| The bully | 13.00% | ~12 |
 | Kirlian's best disciple | 13.00% | ~12 |
-| The bully | 12.00% | ~11 |
 | Blessed antennas | 11.00% | ~10 |
 | Blood Red Island | 10.00% | ~9 |
 | Bread and bocaua | 10.00% | ~9 |

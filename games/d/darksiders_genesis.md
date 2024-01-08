@@ -8,8 +8,8 @@ Number of Ratings: 67  (23.09.2022)
 | ---- | ---------- | ----- |
 | Mint I | 6.00% | ~32 |
 | Soul Cache | 5.00% | ~27 |
-| Astarte | 2.00% | ~11 |
 | Mammon | 2.00% | ~11 |
+| Astarte | 1.00% | ~5 |
 | Close the Rift | 1.00% | ~5 |
 | Hell's Forge | 1.00% | ~5 |
 | Master of War | 1.00% | ~5 |
@@ -17,9 +17,9 @@ Number of Ratings: 67  (23.09.2022)
 | Demolition Derby | 0.90% | ~5 |
 | Master of Strife | 0.90% | ~5 |
 | Mint II | 0.90% | ~5 |
-| Good Deeds | 0.80% | ~4 |
-| Walking Armory | 0.80% | ~4 |
-| Why'd It Have to Be Snakes? | 0.80% | ~4 |
+| Good Deeds | 0.70% | ~4 |
+| Walking Armory | 0.70% | ~4 |
+| Why'd It Have to Be Snakes? | 0.70% | ~4 |
 | A Bullet for All Seasons | 0.60% | ~3 |
 | Infested | 0.60% | ~3 |
 | Mint III | 0.60% | ~3 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Ready to Blow | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533 (Ranked 341)  
+Progressed: 536 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,10 +63,10 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 437 | 0 |
 | 2024-01-06 | 471 | 0 |
 | 2024-01-07 | 514 | 0 |
-| 2024-01-08 | 533 | 0 |
+| 2024-01-08 | 536 | 0 |
 ## Awards
-Max (Great Boss Battles): 45  (Ranked 470)  
-Sum: 45 (Ranked 516)  
+Max (Great Boss Battles): 45  (Ranked 471)  
+Sum: 45 (Ranked 517)  
 Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |

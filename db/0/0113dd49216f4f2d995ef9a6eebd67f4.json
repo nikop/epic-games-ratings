@@ -2,7 +2,7 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 158,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 258,
+  "EOS_Progressed": 259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1159,6 +1159,11 @@
       "Time": "2024-01-08T08:09:53.9277662+00:00",
       "NumProgressed": 258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T18:09:32.8217777+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1179,7 +1184,7 @@
       "Name": "Across The Styx",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1235,15 +1240,15 @@
       "Name": "Cunning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 189
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1265,9 +1270,9 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -1385,9 +1390,9 @@
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -1403,7 +1408,7 @@
       "Name": "The High Road",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_THEKINGOFHELL",
@@ -1466,14 +1471,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 258,
+      "Progressed": 259,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:09:28.8573096+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:09:32.8217775+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:59:38.7642771+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:09:28.8573425+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:00:16.8470433+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:09:32.8218174+00:00"
 }

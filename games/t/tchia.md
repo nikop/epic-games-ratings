@@ -7,14 +7,14 @@ Rating: 4.70 (Ranked 218)
 | ---- | ---------- | ----- |
 | Energy Saver | 1.00% | ~88 |
 | In a Pinch | 1.00% | ~88 |
-| The Journey Onwards | 0.70% | ~62 |
+| The Journey Onwards | 0.80% | ~70 |
 | Soul-Canon | 0.60% | ~53 |
 | Body and Soul | 0.50% | ~44 |
 | Globe Trotter | 0.50% | ~44 |
 | Ahem Ahem | 0.40% | ~35 |
+| Shredder | 0.40% | ~35 |
 | Audiophile | 0.30% | ~26 |
 | Clay Pigeon | 0.30% | ~26 |
-| Shredder | 0.30% | ~26 |
 | Historian | 0.20% | ~18 |
 | Iconoclast | 0.20% | ~18 |
 | Arrr! | 0.10% | ~9 |
@@ -27,7 +27,7 @@ Rating: 4.70 (Ranked 218)
 | Snip Snip | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,794 (Ranked 187)  
+Progressed: 8,797 (Ranked 187)  
 Completed: 35 (0.40%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 35 (0.40%) (Ranked 236)
 | 2024-01-05 | 8,733 | 35 |
 | 2024-01-06 | 8,762 | 35 |
 | 2024-01-07 | 8,779 | 35 |
-| 2024-01-08 | 8,794 | 35 |
+| 2024-01-08 | 8,797 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

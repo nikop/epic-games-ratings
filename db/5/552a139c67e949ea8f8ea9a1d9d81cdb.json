@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1897,
+  "EOS_Progressed": 1898,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4802,6 +4802,11 @@
       "Time": "2024-01-08T15:05:45.2013554+00:00",
       "NumProgressed": 1897,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T18:06:05.1542664+00:00",
+      "NumProgressed": 1898,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4924,9 +4929,9 @@
       "ID": "ML_ACHIEVEMENT_15",
       "SetID": "5k00jcd",
       "Name": "Terror of the road",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -5181,20 +5186,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1897,
+      "Progressed": 1898,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1565,
+      "Progressed": 1566,
       "Completed": 1010
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:05:23.928564+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:06:05.1542661+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:58:21.1488774+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:05:23.928614+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:58:25.1566161+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:06:05.1543325+00:00"
 }

@@ -25,7 +25,7 @@
 | Keep the spark alive | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 490 (Ranked 355)  
-Completed: 6 (1.22%) (Ranked 159)  
+Completed: 6 (1.22%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

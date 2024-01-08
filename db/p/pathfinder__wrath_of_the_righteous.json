@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4779,18 +4779,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7203,
       "NumberOfAwardsMax": 1778
+    },
+    {
+      "Time": "2024-01-08T18:01:21.2288832+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7206,
+      "NumberOfAwardsMax": 1780
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7203,
-  "NumberOfAwardsMax": 1778,
+  "NumberOfAwards": 7206,
+  "NumberOfAwardsMax": 1780,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1778
+      "Count": 1780
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4820,7 +4826,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 656
+      "Count": 657
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4855,7 +4861,7 @@
   ],
   "EOS_Progressed": 13149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20228,9 +20234,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-08T03:59:35.2778283+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:10:35.1481255+00:00",
+  "LastChanged": "2024-01-08T18:01:21.2288831+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:11:02.8158989+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:00:23.5767356+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:10:35.1483514+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:01:21.2288836+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:11:02.816074+00:00"
 }

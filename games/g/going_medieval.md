@@ -1,21 +1,21 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 430)  
+Rating: 4.60 (Ranked 429)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,960 |
-| Having A Field Day | 76.00% | ~5,960 |
+| Get A Room | 76.00% | ~5,961 |
+| Having A Field Day | 76.00% | ~5,961 |
 | Reap What You Sow | 73.00% | ~5,725 |
-| The First Day | 70.00% | ~5,489 |
+| The First Day | 70.00% | ~5,490 |
 | Novice Researcher | 68.00% | ~5,333 |
-| Green Thumb | 67.00% | ~5,254 |
-| Home Cooked Meal | 62.00% | ~4,862 |
-| Onward | 58.00% | ~4,548 |
+| Green Thumb | 67.00% | ~5,255 |
+| Home Cooked Meal | 62.00% | ~4,863 |
+| Onward | 58.00% | ~4,549 |
 | The First Week | 56.00% | ~4,392 |
-| Studious Researcher | 53.00% | ~4,156 |
+| Studious Researcher | 53.00% | ~4,157 |
 | Beam Me Up | 52.00% | ~4,078 |
 | Adept Researcher | 45.00% | ~3,529 |
 | Retribution | 43.00% | ~3,372 |
@@ -32,13 +32,13 @@ Number of Ratings: 706  (23.09.2022)
 | A Party Now | 22.00% | ~1,725 |
 | All Year Round | 22.00% | ~1,725 |
 | Don't Cry Wolf | 14.00% | ~1,098 |
-| Nothing Wasted | 13.00% | ~1,019 |
+| Nothing Wasted | 13.00% | ~1,020 |
 | Deerly Departed | 8.00% | ~627 |
 | Where Wolf? | 5.00% | ~392 |
 | Food Chain | 2.00% | ~157 |
 | Wabbit Season | 0.50% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,842 (Ranked 190)  
+Progressed: 7,843 (Ranked 190)  
 Completed: 14 (0.18%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,11 +280,11 @@ Completed: 14 (0.18%) (Ranked 280)
 | 2024-01-05 | 7,776 | 14 |
 | 2024-01-06 | 7,803 | 14 |
 | 2024-01-07 | 7,828 | 14 |
-| 2024-01-08 | 7,842 | 14 |
+| 2024-01-08 | 7,843 | 14 |
 ## Awards
-Max (Great for Beginners): 133  (Ranked 343)  
+Max (Great for Beginners): 133  (Ranked 344)  
 Sum: 1,058 (Ranked 270)  
-Diff (max vs sum): 73  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 133 |

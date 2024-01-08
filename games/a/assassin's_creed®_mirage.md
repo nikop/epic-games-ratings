@@ -3,9 +3,9 @@
 [View Rawdata](../../db/a/assassin's_creed®_mirage.json)  
 Rating: 4.46 (Ranked 673)  
 ## Awards
-Max (Relaxing): 237  (Ranked 281)  
-Sum: 1,959 (Ranked 220)  
-Diff (max vs sum): 61  
+Max (Relaxing): 237  (Ranked 282)  
+Sum: 1,961 (Ranked 220)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 237 |
@@ -17,7 +17,7 @@ Diff (max vs sum): 61
 | This game is Highly Recommended | 194 |
 | This game has Amazing Characters | 187 |
 | This game has Amazing Storytelling | 178 |
-| This game has a Creative Community | 98 |
+| This game has a Creative Community | 100 |
 | This game has Beautiful Visuals | 54 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -115,4 +115,4 @@ Diff (max vs sum): 61
 | 2024-01-05 | 4.46 | 228 | 1,901 |
 | 2024-01-06 | 4.45 | 232 | 1,920 |
 | 2024-01-07 | 4.46 | 235 | 1,946 |
-| 2024-01-08 | 4.46 | 237 | 1,959 |
+| 2024-01-08 | 4.46 | 237 | 1,961 |

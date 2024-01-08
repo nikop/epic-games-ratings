@@ -5,24 +5,24 @@ Rating: 4.29 (Ranked 880)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~166,095 |
-| Copacetic Coordination | 16.00% | ~57,772 |
-| Fronting the Money | 15.00% | ~54,161 |
+| Corner Clout | 46.00% | ~166,097 |
+| Copacetic Coordination | 16.00% | ~57,773 |
+| Fronting the Money | 15.00% | ~54,162 |
 | The Dawn of Automation | 14.00% | ~50,551 |
 | Extraordinary Logistics | 14.00% | ~50,551 |
-| Dirty Money | 13.00% | ~46,940 |
-| Family First | 13.00% | ~46,940 |
-| Cleaning House | 12.00% | ~43,329 |
-| Room in the Back | 12.00% | ~43,329 |
-| Beating the Heat | 11.00% | ~39,718 |
-| Booze Baron | 11.00% | ~39,718 |
+| Dirty Money | 13.00% | ~46,941 |
+| Family First | 13.00% | ~46,941 |
+| Cleaning House | 12.00% | ~43,330 |
+| Room in the Back | 12.00% | ~43,330 |
+| Beating the Heat | 11.00% | ~39,719 |
+| Booze Baron | 11.00% | ~39,719 |
 | Friends on the Force | 10.00% | ~36,108 |
 | Neighborhood Watch | 10.00% | ~36,108 |
 | Core Corps | 8.00% | ~28,886 |
 | Sizeable Stash | 8.00% | ~28,886 |
-| Street Fighter | 7.00% | ~25,275 |
-| Friendly Gestures | 7.00% | ~25,275 |
-| People Person | 7.00% | ~25,275 |
+| Street Fighter | 7.00% | ~25,276 |
+| Friendly Gestures | 7.00% | ~25,276 |
+| People Person | 7.00% | ~25,276 |
 | Liquor Lord | 6.00% | ~21,665 |
 | Safety in Numbers | 6.00% | ~21,665 |
 | Moving Experiences | 6.00% | ~21,665 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 880)
 | High Pillow | 0.10% | ~361 |
 | Station Master | 0.10% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,076 (Ranked 58)  
+Progressed: 361,081 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,11 +349,11 @@ Completed: 7 (0.00%) (Ranked 394)
 | 2024-01-05 | 360,566 | 7 |
 | 2024-01-06 | 360,754 | 7 |
 | 2024-01-07 | 360,959 | 7 |
-| 2024-01-08 | 361,076 | 7 |
+| 2024-01-08 | 361,081 | 7 |
 ## Awards
-Max (Great for Beginners): 58  (Ranked 434)  
+Max (Great for Beginners): 58  (Ranked 435)  
 Sum: 269 (Ranked 393)  
-Diff (max vs sum): 41  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 58 |

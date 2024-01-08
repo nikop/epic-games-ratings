@@ -53,9 +53,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 835,
+  "EOS_Progressed": 836,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -3118,6 +3118,11 @@
       "Time": "2024-01-08T14:09:19.8900393+00:00",
       "NumProgressed": 835,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T18:09:40.9081089+00:00",
+      "NumProgressed": 836,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3146,7 +3151,7 @@
       "Name": "Their Rock",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -3160,9 +3165,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -3194,7 +3199,7 @@
       "Name": "Find myself",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -3210,7 +3215,7 @@
       "Name": "Shelter Escape",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3266,7 +3271,7 @@
       "Name": "The First Bond",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3282,7 +3287,7 @@
       "Name": "Master Craftsman",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -3306,7 +3311,7 @@
       "Name": "Second wall",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3329,7 +3334,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 835,
+      "Progressed": 836,
       "Completed": 2
     }
   ],
@@ -3337,8 +3342,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-08T15:56:57.0770321+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:09:34.7814107+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:09:40.9081087+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:57:36.3930832+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:09:34.781455+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:57:16.3510104+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:09:40.9081386+00:00"
 }

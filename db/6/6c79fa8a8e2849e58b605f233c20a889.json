@@ -8880,9 +8880,9 @@
       "ID": "GUARD_MAKER",
       "SetID": "8lhbnh7",
       "Name": "Guard Maker",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "ISOLATION_MASTER",
@@ -8951,8 +8951,8 @@
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:10:19.5275623+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:10:42.7039474+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:04.3509332+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:58:56.0964961+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:10:19.5276154+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:59:17.7323004+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:10:42.7040048+00:00"
 }

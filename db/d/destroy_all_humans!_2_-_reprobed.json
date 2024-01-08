@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,9 +294,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1699,6 +1699,11 @@
       "Time": "2024-01-08T17:09:40.6304292+00:00",
       "NumProgressed": 365,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-08T18:09:49.0163231+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1709,9 +1714,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1743,7 +1748,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1783,7 +1788,7 @@
       "Name": "Cult Following",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1791,7 +1796,7 @@
       "Name": "Transmitting From Sol-3",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1823,7 +1828,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1845,9 +1850,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 307
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1863,7 +1868,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1871,7 +1876,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1903,7 +1908,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1911,7 +1916,7 @@
       "Name": "Die Nasty",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1999,7 +2004,7 @@
       "Name": "Dusted",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -2055,14 +2060,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 2
     }
   ],
@@ -2070,8 +2075,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:09:40.6304286+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:09:49.0163229+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:57:54.8846736+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:09:40.6304627+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:57:43.8975937+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:09:49.0163587+00:00"
 }

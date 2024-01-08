@@ -3357,9 +3357,9 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 315
     },
     {
       "ID": "achievement_14",
@@ -3429,9 +3429,9 @@
       "ID": "achievement_5",
       "SetID": "7ldgi7j",
       "Name": "Golf\u0027s Original Championship",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_6",
@@ -3475,8 +3475,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:10:10.2918321+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:10:30.0166816+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:03:09.8180107+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:10:10.2918629+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:02:23.4669247+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:10:30.0167173+00:00"
 }

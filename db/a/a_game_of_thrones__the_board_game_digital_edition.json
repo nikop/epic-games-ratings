@@ -3,8 +3,8 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 953,
-  "Ranking_Popularity": 349,
-  "Ranking_PopularitySum": 291,
+  "Ranking_Popularity": 350,
+  "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 130,
@@ -1392,9 +1392,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32904,
+  "EOS_Progressed": 32906,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29737,6 +29737,11 @@
       "Time": "2024-01-08T17:10:13.6605877+00:00",
       "NumProgressed": 32904,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-08T18:10:34.6406942+00:00",
+      "NumProgressed": 32906,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29844,7 +29849,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "1028",
@@ -29908,7 +29913,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3948
+      "UsersEstimate": 3949
     },
     {
       "ID": "1036",
@@ -29923,15 +29928,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32904,
+      "Progressed": 32906,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-05T16:59:15.5205633+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:10:13.6605874+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:10:34.6406937+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:03:09.0608617+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:10:13.6607284+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:02:22.2984996+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:10:34.6408862+00:00"
 }

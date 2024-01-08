@@ -5,31 +5,31 @@ Rating: 4.52 (Ranked 570)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,355 |
+| Oyedang, Kopengs | 18.00% | ~3,356 |
 | Captain Drummer | 15.00% | ~2,796 |
-| Celebrations are in Order | 14.00% | ~2,609 |
+| Celebrations are in Order | 14.00% | ~2,610 |
 | The Pit and the Pirates | 13.00% | ~2,423 |
 | Martian Music | 13.00% | ~2,423 |
 | Bosmang | 13.00% | ~2,423 |
 | Impossible Objects | 13.00% | ~2,423 |
-| Drone Dodger | 12.00% | ~2,236 |
-| Stogie for Fogey | 11.00% | ~2,050 |
-| Spore Taste | 11.00% | ~2,050 |
-| Zen Master | 10.00% | ~459 |
-| Call it Even | 9.00% | ~1,677 |
-| Safe Cracker | 9.00% | ~413 |
-| Madame Undersecretary | 9.00% | ~413 |
+| Drone Dodger | 12.00% | ~2,237 |
+| Stogie for Fogey | 11.00% | ~2,051 |
+| Spore Taste | 11.00% | ~2,051 |
+| Zen Master | 10.00% | ~460 |
+| Call it Even | 9.00% | ~1,678 |
+| Safe Cracker | 9.00% | ~414 |
+| Madame Undersecretary | 9.00% | ~414 |
 | Heal Thy Medic | 8.00% | ~1,491 |
-| Keep Arjun in Check | 8.00% | ~367 |
+| Keep Arjun in Check | 8.00% | ~368 |
 | Data Archivist | 7.00% | ~1,305 |
 | Drug Gifter | 7.00% | ~1,305 |
 | Thorston Mayer | 7.00% | ~1,305 |
 | Khan's Revenge | 7.00% | ~1,305 |
-| Doctor Approved | 6.00% | ~1,118 |
-| Bottoms up! | 6.00% | ~1,118 |
-| Master Negotiator | 6.00% | ~275 |
-| Data Logger | 4.00% | ~745 |
-| Miraculous Maya | 4.00% | ~745 |
+| Doctor Approved | 6.00% | ~1,119 |
+| Bottoms up! | 6.00% | ~1,119 |
+| Master Negotiator | 6.00% | ~276 |
+| Data Logger | 4.00% | ~746 |
+| Miraculous Maya | 4.00% | ~746 |
 | Data Master | 3.00% | ~559 |
 | Brother's Reaper | 2.00% | ~373 |
 | No Belter Left Behind | 2.00% | ~373 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 570)
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,637 (Ranked 159)  
+Progressed: 18,642 (Ranked 159)  
 Completed: 60 (0.32%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 60 (0.32%) (Ranked 249)
 | 2024-01-05 | 18,329 | 58 |
 | 2024-01-06 | 18,440 | 59 |
 | 2024-01-07 | 18,579 | 60 |
-| 2024-01-08 | 18,637 | 60 |
+| 2024-01-08 | 18,642 | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

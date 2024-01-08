@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242624,
+  "EOS_Progressed": 242628,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31135,6 +31135,11 @@
       "Time": "2024-01-08T17:10:36.2487715+00:00",
       "NumProgressed": 242624,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-08T18:11:04.0548027+00:00",
+      "NumProgressed": 242628,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31146,7 +31151,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -31234,7 +31239,7 @@
       "Name": "Max Damage!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "DEPTH12",
@@ -31258,7 +31263,7 @@
       "Name": "A Rough Road",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "DEPTH6",
@@ -31466,7 +31471,7 @@
       "Name": "Berzerker",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "HIGHCLARITY",
@@ -31738,7 +31743,7 @@
       "Name": "Chain Reaction",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "MULTIKILL30",
@@ -31850,7 +31855,7 @@
       "Name": "Antivenom",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "REROLL30TIMES",
@@ -31882,7 +31887,7 @@
       "Name": "Snake Sneak",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "SPECIALROOMS1",
@@ -31970,7 +31975,7 @@
       "Name": "The Long Run",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "WIN0ATTACK",
@@ -32249,13 +32254,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242624,
+      "Progressed": 242628,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4104,
+      "Progressed": 4108,
       "Completed": 423
     }
   ],
@@ -32263,8 +32268,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:10:36.2487709+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:11:04.0548025+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:57:45.274692+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:10:36.2490376+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:57:29.5286298+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:11:04.0550767+00:00"
 }

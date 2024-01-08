@@ -6,16 +6,16 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,615 |
-| Powergamer | 27.00% | ~69,469 |
-| Write that down | 25.00% | ~64,323 |
-| Barely scratched the surface | 25.00% | ~64,323 |
-| Guns, lots of guns | 13.00% | ~33,448 |
-| Collector | 12.00% | ~30,875 |
-| Elementary! | 9.00% | ~23,156 |
-| Griever | 8.00% | ~20,583 |
-| Pumpkin Jack | 8.00% | ~20,583 |
-| Wake up! | 8.00% | ~20,583 |
+| I will finish what you started | 29.00% | ~74,618 |
+| Powergamer | 27.00% | ~69,472 |
+| Write that down | 25.00% | ~64,326 |
+| Barely scratched the surface | 25.00% | ~64,326 |
+| Guns, lots of guns | 13.00% | ~33,449 |
+| Collector | 12.00% | ~30,876 |
+| Elementary! | 9.00% | ~23,157 |
+| Griever | 8.00% | ~20,584 |
+| Pumpkin Jack | 8.00% | ~20,584 |
+| Wake up! | 8.00% | ~20,584 |
 | It's honest work | 7.00% | ~18,011 |
 | Me smart | 6.00% | ~15,438 |
 | Trash compactor | 6.00% | ~15,438 |
@@ -47,8 +47,8 @@ Number of Ratings: 33  (23.09.2022)
 | It's blue, always blue | 0.80% | ~2,058 |
 | Home run | 0.80% | ~2,058 |
 | I have the high ground | 0.70% | ~1,801 |
-| Enjoy these little moments | 0.50% | ~1,286 |
-| Who wouldn't love a troll? | 0.50% | ~1,286 |
+| Enjoy these little moments | 0.50% | ~1,287 |
+| Who wouldn't love a troll? | 0.50% | ~1,287 |
 | Irondec | 0.40% | ~1,029 |
 | LET ME OUT! | 0.40% | ~1,029 |
 | Un-bear-able | 0.40% | ~1,029 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~515 |
 | Memory 5 | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,293 (Ranked 68)  
+Progressed: 257,302 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,11 +322,11 @@ Completed: 8 (0.00%) (Ranked 394)
 | 2024-01-05 | 256,975 | 8 |
 | 2024-01-06 | 257,113 | 8 |
 | 2024-01-07 | 257,229 | 8 |
-| 2024-01-08 | 257,293 | 8 |
+| 2024-01-08 | 257,302 | 8 |
 ## Awards
-Max (Character Customization): 98  (Ranked 383)  
+Max (Character Customization): 98  (Ranked 384)  
 Sum: 98 (Ranked 470)  
-Diff (max vs sum): -87  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 98 |

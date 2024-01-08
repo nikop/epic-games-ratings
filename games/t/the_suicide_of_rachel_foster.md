@@ -10,7 +10,7 @@ Number of Ratings: 71  (23.09.2022)
 | Freeze to death | 56.00% | ~1,026 |
 | Is she really dead? | 46.00% | ~843 |
 | Screwdriver | 44.00% | ~807 |
-| Cutepie | 40.00% | ~733 |
+| Cutepie | 41.00% | ~752 |
 | Someone was here | 40.00% | ~733 |
 | Ghost Hunters | 40.00% | ~733 |
 | Alone | 39.00% | ~715 |

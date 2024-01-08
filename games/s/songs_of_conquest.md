@@ -6,16 +6,16 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~497 |
-| Double Kill | 40.00% | ~432 |
-| Critical Hit | 23.00% | ~248 |
-| Veteran | 23.00% | ~248 |
+| Adept | 46.00% | ~498 |
+| Double Kill | 40.00% | ~433 |
+| Critical Hit | 23.00% | ~249 |
+| Veteran | 23.00% | ~249 |
 | Dressed For Success | 16.00% | ~173 |
 | Humiliation | 10.00% | ~108 |
 | Veni, Vidi, Vici | 10.00% | ~108 |
 | Multi Kill | 9.00% | ~97 |
 | Sorcerous Spree | 9.00% | ~97 |
-| Master | 8.00% | ~86 |
+| Master | 8.00% | ~87 |
 | Landlord Extraordinaire | 7.00% | ~76 |
 | Whoops! | 6.00% | ~65 |
 | Don't Touch My Stuff | 6.00% | ~65 |
@@ -36,9 +36,9 @@ Number of Ratings: 292  (23.09.2022)
 | Together For Her | 0.90% | ~10 |
 | Death To Diplomacy | 0.60% | ~6 |
 | Unlimited Power! | 0.60% | ~6 |
+| Killing Spree | 0.60% | ~6 |
 | Cleave | 0.60% | ~6 |
 | Coming Through! | 0.50% | ~5 |
-| Killing Spree | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |
 | Barbecue | 0.40% | ~4 |
 | Fully Charged | 0.30% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,080 (Ranked 287)  
+Progressed: 1,082 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 1,000 | 0 |
 | 2024-01-06 | 1,034 | 0 |
 | 2024-01-07 | 1,067 | 0 |
-| 2024-01-08 | 1,080 | 0 |
+| 2024-01-08 | 1,082 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 528)  
 Sum: 251 (Ranked 398)  

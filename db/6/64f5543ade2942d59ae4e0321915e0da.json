@@ -3,7 +3,7 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 1,
@@ -1724,6 +1724,11 @@
       "Time": "2024-01-08T17:04:11.0007203+00:00",
       "NumProgressed": 443,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-08T18:04:23.3211435+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1766,9 +1771,9 @@
       "ID": "AC_ALL_TOYS",
       "SetID": "16i2akc",
       "Name": "Gift",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 18
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -1800,7 +1805,7 @@
       "Name": "Ludopath",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "AC_BOSS_00",
@@ -1808,7 +1813,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "AC_BOSS_01",
@@ -1832,7 +1837,7 @@
       "Name": "Sacrilege",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "AC_BOSS_04",
@@ -1848,7 +1853,7 @@
       "Name": "Pack",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "AC_COMBO_2",
@@ -1880,7 +1885,7 @@
       "Name": "Corpse",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "AC_DEATH_2",
@@ -1928,7 +1933,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1936,7 +1941,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1952,7 +1957,7 @@
       "Name": "Player",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1966,9 +1971,9 @@
       "ID": "AC_FLASHBACK_02",
       "SetID": "16i2akc",
       "Name": "Demise",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -1976,7 +1981,7 @@
       "Name": "Schooling",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "AC_FULL_MAP",
@@ -2040,7 +2045,7 @@
       "Name": "Loss",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2071,14 +2076,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:04:11.0007198+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:04:23.3211433+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:59:19.7326231+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:04:11.0007496+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:59:51.2439516+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:04:23.3211788+00:00"
 }

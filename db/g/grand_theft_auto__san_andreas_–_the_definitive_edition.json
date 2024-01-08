@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 525,
-  "Ranking_Popularity": 442,
-  "Ranking_PopularitySum": 368,
+  "Ranking_Popularity": 201,
+  "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2249,18 +2249,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 366,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-01-08T18:01:50.3411402+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1000,
+      "NumberOfAwardsMax": 633
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 366,
-  "NumberOfAwardsMax": 55,
-  "MaxAwardTitle": "Amazing Characters",
+  "NumberOfAwards": 1000,
+  "NumberOfAwardsMax": 633,
+  "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 557
+      "Count": 633
     },
     {
       "Text": "This game is Relaxing",
@@ -2314,12 +2320,12 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 41
+      "Count": 42
     }
   ],
-  "EOS_Progressed": 18971,
+  "EOS_Progressed": 18976,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1071,
+  "EOS_NewPlayers": 1069,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -19567,6 +19573,11 @@
       "Time": "2024-01-08T17:10:24.3787794+00:00",
       "NumProgressed": 18971,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-08T18:10:49.1270104+00:00",
+      "NumProgressed": 18976,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19578,7 +19589,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15367
+      "UsersEstimate": 15371
     },
     {
       "ID": "ACH02",
@@ -19610,7 +19621,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH06",
@@ -19618,7 +19629,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH07",
@@ -19626,7 +19637,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3605
     },
     {
       "ID": "ACH08",
@@ -19634,7 +19645,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9486
+      "UsersEstimate": 9488
     },
     {
       "ID": "ACH09",
@@ -19650,7 +19661,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH11",
@@ -19658,7 +19669,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "ACH12",
@@ -19666,7 +19677,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH13",
@@ -19674,7 +19685,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3415
+      "UsersEstimate": 3416
     },
     {
       "ID": "ACH14",
@@ -19682,7 +19693,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "ACH15",
@@ -19698,7 +19709,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "ACH17",
@@ -19714,7 +19725,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH19",
@@ -19730,7 +19741,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH21",
@@ -19746,7 +19757,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "ACH23",
@@ -19754,7 +19765,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ACH24",
@@ -19778,7 +19789,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH27",
@@ -19786,7 +19797,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH28",
@@ -19802,7 +19813,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "ACH30",
@@ -19810,7 +19821,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH31",
@@ -19826,7 +19837,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH33",
@@ -19857,16 +19868,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18971,
+      "Progressed": 18976,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-08T16:00:07.5098507+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:10:24.3787791+00:00",
+  "LastChanged": "2024-01-08T18:01:50.3411401+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:10:49.1270102+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:00:44.8126732+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:10:24.3788671+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:01:50.3411405+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:10:49.1270903+00:00"
 }

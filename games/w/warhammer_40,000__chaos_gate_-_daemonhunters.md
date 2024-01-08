@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 20.00% | ~768 |
+| Executioner | 20.00% | ~769 |
 | Watch Where You Step... | 15.00% | ~576 |
 | Look Over There! | 14.00% | ~538 |
 | Not So Fast... | 14.00% | ~538 |
@@ -14,10 +14,10 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 10.00% | ~384 |
 | Blood for the Blood God! | 8.00% | ~307 |
 | Bloodless | 7.00% | ~269 |
-| Surgical Excision | 6.00% | ~230 |
-| Friendly Fire | 6.00% | ~230 |
+| Surgical Excision | 6.00% | ~231 |
+| Friendly Fire | 6.00% | ~231 |
+| Honoured Battle-Brother | 5.00% | ~192 |
 | A Foul Creche | 5.00% | ~192 |
-| Honoured Battle-Brother | 4.00% | ~154 |
 | The Emperor Protects | 4.00% | ~154 |
 | Nemesis Master | 4.00% | ~154 |
 | Gunmaster | 4.00% | ~154 |
@@ -48,7 +48,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 0.60% | ~23 |
 | Exercise in Restraint | 0.60% | ~23 |
 | Reign of Confusion | 0.50% | ~19 |
-| Abomination | 0.40% | ~15 |
+| Abomination | 0.50% | ~19 |
 | Suffer Not the Mutant | 0.40% | ~15 |
 | Blood and Iron | 0.30% | ~12 |
 | Clean Slate | 0.30% | ~12 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,841 (Ranked 217)  
+Progressed: 3,843 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,10 +307,10 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 3,783 | 0 |
 | 2024-01-06 | 3,811 | 0 |
 | 2024-01-07 | 3,834 | 0 |
-| 2024-01-08 | 3,841 | 0 |
+| 2024-01-08 | 3,843 | 0 |
 ## Awards
-Max (Character Customization): 233  (Ranked 284)  
-Sum: 500 (Ranked 334)  
+Max (Character Customization): 233  (Ranked 285)  
+Sum: 500 (Ranked 335)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |

@@ -2,9 +2,9 @@
   "ID": "5c744d37f3a24e81aaee7eac20e19f0d",
   "Name": "Monster Harvest",
   "ProductSlug": "monster-harvest-75f018",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 334,
+  "EOS_Progressed": 335,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.99,
   "EosHistory": [
@@ -605,6 +605,11 @@
       "Time": "2024-01-08T04:09:47.3421881+00:00",
       "NumProgressed": 334,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-08T18:10:29.4899026+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 10,
@@ -630,9 +635,9 @@
       "ID": "GREEN_SLIME_SHEEN",
       "SetID": "ca3djk0",
       "Name": "Green Sheen",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 147
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -648,7 +653,7 @@
       "Name": "My first Planimal!",
       "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "RED_SLIME_TIME",
@@ -656,7 +661,7 @@
       "Name": "Red Slime Time",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -678,9 +683,9 @@
       "ID": "TO_THE_REC_CENTER",
       "SetID": "ca3djk0",
       "Name": "To the Rec Center!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 157
     },
     {
       "ID": "WELCOME_TO_PLANIMAL_POINT",
@@ -688,14 +693,14 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 96,
       "XP": 100,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 334,
+      "Progressed": 335,
       "Completed": 10
     }
   ],
@@ -703,8 +708,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:10:09.8730619+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:10:29.4899024+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.6944729+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:00:53.4195969+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:10:09.8730741+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:02:02.8516576+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:10:29.4899324+00:00"
 }

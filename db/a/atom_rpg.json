@@ -415,7 +415,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1679,
+  "EOS_Progressed": 1680,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -4410,6 +4410,11 @@
       "Time": "2024-01-08T17:10:24.4458517+00:00",
       "NumProgressed": 1679,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-08T18:10:49.3351322+00:00",
+      "NumProgressed": 1680,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4477,7 +4482,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "EXPERT_1",
@@ -4509,7 +4514,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4677,7 +4682,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "VVE",
@@ -4691,9 +4696,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 537
+      "UsersEstimate": 521
     },
     {
       "ID": "WISHMASTER_1",
@@ -4708,15 +4713,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1679,
+      "Progressed": 1680,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:10:24.4458511+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:10:49.335132+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-08T17:00:00.0883673+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:10:24.4459042+00:00"
+  "LastUpdate_Ratings": "2024-01-08T18:00:46.8148384+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:10:49.3351751+00:00"
 }

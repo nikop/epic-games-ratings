@@ -3,11 +3,11 @@
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
   "Ranking_Rating": 1074,
-  "Ranking_Popularity": 417,
+  "Ranking_Popularity": 418,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1919,
+  "EOS_Progressed": 1920,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3522,6 +3522,11 @@
       "Time": "2024-01-08T15:04:24.3971461+00:00",
       "NumProgressed": 1919,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-08T18:04:42.013182+00:00",
+      "NumProgressed": 1920,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3533,7 +3538,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3541,7 +3546,7 @@
       "Name": "Great Doctor",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3597,7 +3602,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3605,7 +3610,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3677,7 +3682,7 @@
       "Name": "Spark of Love",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -3701,7 +3706,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3795,9 +3800,9 @@
       "ID": "ACHIEVEMENTS_34",
       "SetID": "d4o538a",
       "Name": "Moonbury Traveller",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1210
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3836,7 +3841,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1919,
+      "Progressed": 1920,
       "Completed": 11
     }
   ],
@@ -3844,8 +3849,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:04:24.5774789+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:04:42.0131819+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.493824+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:58:30.1437452+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:04:24.5775108+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:58:39.107831+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:04:42.0132187+00:00"
 }

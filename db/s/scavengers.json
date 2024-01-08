@@ -3,8 +3,8 @@
   "Name": "Scavengers",
   "ProductSlug": "scavengers",
   "Ranking_Rating": 979,
-  "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 289,
+  "Ranking_Popularity": 388,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 573,
@@ -654,6 +654,6 @@
   "FirstSeen": "2022-07-22T20:18:46.6635408+00:00",
   "LastChanged": "2022-12-09T11:57:00.7904391+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.467853+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:58:47.8593131+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:05:41.7886123+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:59:06.7729641+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:06:29.8792955+00:00"
 }

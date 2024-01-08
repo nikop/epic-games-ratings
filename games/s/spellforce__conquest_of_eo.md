@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 89.00% | ~116 |
-| Enough rooms to swing a cat | 78.00% | ~101 |
-| First to the post | 78.00% | ~101 |
-| A kind of Magic | 71.00% | ~92 |
+| Home Sweet Home | 89.00% | ~117 |
+| Enough rooms to swing a cat | 78.00% | ~102 |
+| First to the post | 78.00% | ~102 |
+| A kind of Magic | 70.00% | ~92 |
 | Connected | 62.00% | ~81 |
-| Expansion | 58.00% | ~75 |
-| Mine! | 55.00% | ~72 |
-| Harvest Time | 54.00% | ~70 |
-| Artificer's Apprentice | 45.00% | ~58 |
-| Fly the friendly Sky | 44.00% | ~57 |
+| Expansion | 58.00% | ~76 |
+| Mine! | 54.00% | ~71 |
+| Harvest Time | 53.00% | ~69 |
+| Artificer's Apprentice | 45.00% | ~59 |
+| Fly the friendly Sky | 44.00% | ~58 |
 | Get out of here! | 42.00% | ~55 |
-| Necromancer's Apprentice | 38.00% | ~49 |
+| Necromancer's Apprentice | 37.00% | ~48 |
 | Alchemist's Apprentice | 36.00% | ~47 |
 | Friend of Lyraine | 35.00% | ~46 |
-| The Circle | 32.00% | ~42 |
-| Redecorating | 31.00% | ~40 |
-| Bad JuJu | 25.00% | ~32 |
-| Friend of Sevenkeeps | 22.00% | ~29 |
+| Redecorating | 31.00% | ~41 |
+| The Circle | 31.00% | ~41 |
+| Bad JuJu | 24.00% | ~31 |
+| Friend of Sevenkeeps | 21.00% | ~28 |
 | Slave to the rhythm | 20.00% | ~26 |
 | Castle Meldec | 20.00% | ~26 |
-| Sevenkeeps Seat of Kings | 18.00% | ~23 |
+| Sevenkeeps Seat of Kings | 18.00% | ~24 |
 | Friend of Alluvyan | 16.00% | ~21 |
 | Friend of Connach | 16.00% | ~21 |
 | Friend of Gillyshire | 15.00% | ~20 |
@@ -32,10 +32,10 @@
 | Friend of Orgash | 13.00% | ~17 |
 | Friend of Bastion | 13.00% | ~17 |
 | Break Free | 13.00% | ~17 |
-| Philo's Tale | 12.00% | ~16 |
-| A Master of Magic | 12.00% | ~16 |
-| Friend of Silver Drift Hollow | 12.00% | ~16 |
-| Magic Academy | 12.00% | ~16 |
+| Philo's Tale | 11.00% | ~14 |
+| A Master of Magic | 11.00% | ~14 |
+| Friend of Silver Drift Hollow | 11.00% | ~14 |
+| Magic Academy | 11.00% | ~14 |
 | Silver Drift Hollow Mine | 10.00% | ~13 |
 | Friend of Windholme | 10.00% | ~13 |
 | Mage Teacher | 9.00% | ~12 |
@@ -58,12 +58,12 @@
 | Master Artificer | 6.00% | ~8 |
 | Balanced | 6.00% | ~8 |
 | Friend of Grey Dusk Vale | 6.00% | ~8 |
-| Defeat Undergast | 5.00% | ~6 |
-| Defeat Yria | 5.00% | ~6 |
-| Elynn's Tale | 5.00% | ~6 |
-| Lytra's Tale | 5.00% | ~6 |
-| My Friends! | 5.00% | ~6 |
-| Master Necromancer | 5.00% | ~6 |
+| Defeat Undergast | 5.00% | ~7 |
+| Defeat Yria | 5.00% | ~7 |
+| Elynn's Tale | 5.00% | ~7 |
+| Lytra's Tale | 5.00% | ~7 |
+| My Friends! | 5.00% | ~7 |
+| Master Necromancer | 5.00% | ~7 |
 | Defeat Isgrimm | 4.00% | ~5 |
 | Misty Coast Dragonbones | 4.00% | ~5 |
 | Breaking the circle | 4.00% | ~5 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130 (Ranked 474)  
+Progressed: 131 (Ranked 471)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 117 | 0 |
 | 2024-01-06 | 122 | 0 |
 | 2024-01-07 | 127 | 0 |
-| 2024-01-08 | 130 | 0 |
+| 2024-01-08 | 131 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

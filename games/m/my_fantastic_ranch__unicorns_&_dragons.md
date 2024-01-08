@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let the Adventure Begin! | 58.00% | ~28 |
-| Spirit of competition | 38.00% | ~18 |
+| Spirit of competition | 38.00% | ~19 |
 | Prized Possession | 33.00% | ~16 |
 | Creature Evolution | 31.00% | ~15 |
 | Kingdom Party Time | 27.00% | ~13 |
@@ -30,7 +30,7 @@
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 557)  
+Progressed: 49 (Ranked 556)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2023-12-29 | 46 | 0 |
 | 2024-01-01 | 47 | 0 |
 | 2024-01-06 | 48 | 0 |
+| 2024-01-08 | 49 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,8 +3,8 @@
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
   "Ranking_Rating": 634,
-  "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 516,
+  "Ranking_Popularity": 471,
+  "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 194,
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1925,6 +1925,11 @@
       "Time": "2024-01-08T17:10:19.4059158+00:00",
       "NumProgressed": 533,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-08T18:10:42.4883186+00:00",
+      "NumProgressed": 536,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1951,9 +1956,9 @@
       "ID": "Astarte",
       "SetID": "329ak73",
       "Name": "Astarte",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "Belial",
@@ -2023,7 +2028,7 @@
       "ID": "GoodDeeds",
       "SetID": "329ak73",
       "Name": "Good Deeds",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -2151,7 +2156,7 @@
       "ID": "WalkingArmory",
       "SetID": "329ak73",
       "Name": "Walking Armory",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -2159,7 +2164,7 @@
       "ID": "WhydItHavetoBeSnakes",
       "SetID": "329ak73",
       "Name": "Why\u0027d It Have to Be Snakes?",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -2176,15 +2181,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 536,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-08T17:10:19.4059151+00:00",
+  "LastChanged_Achievements": "2024-01-08T18:10:42.4883183+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-08T16:58:35.8108288+00:00",
-  "LastUpdate_Achievements": "2024-01-08T17:10:19.4059426+00:00"
+  "LastUpdate_Ratings": "2024-01-08T17:58:48.9078065+00:00",
+  "LastUpdate_Achievements": "2024-01-08T18:10:42.4883528+00:00"
 }

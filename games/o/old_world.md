@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 0.90% | ~146 |
 | Brilliant | 0.80% | ~130 |
 | Magnificent | 0.80% | ~130 |
+| Able Difficulty | 0.80% | ~130 |
 | Great Ziggurat | 0.80% | ~130 |
 | Ishtar Gate | 0.80% | ~130 |
 | Lighthouse | 0.80% | ~130 |
@@ -46,7 +47,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.80% | ~130 |
 | Zoroastrianism | 0.80% | ~130 |
 | Wise | 0.70% | ~114 |
-| Able Difficulty | 0.70% | ~114 |
 | Furious Family | 0.70% | ~114 |
 | Apadana | 0.70% | ~114 |
 | Learn to Play 2 | 0.70% | ~114 |
@@ -54,6 +54,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.60% | ~97 |
 | Drillmaster | 0.60% | ~97 |
 | Great | 0.60% | ~97 |
+| Valiant | 0.60% | ~97 |
 | Legendary Cities | 0.60% | ~97 |
 | Just Difficulty | 0.60% | ~97 |
 | Acropolis | 0.60% | ~97 |
@@ -65,7 +66,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.50% | ~81 |
 | Beloved | 0.50% | ~81 |
 | Intercessor | 0.50% | ~81 |
-| Valiant | 0.50% | ~81 |
 | Artisans | 0.50% | ~81 |
 | Champions | 0.50% | ~81 |
 | Sages | 0.50% | ~81 |
@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.30% | ~49 |
 | Capable | 0.30% | ~49 |
 | Conqueror | 0.30% | ~49 |
+| Lion | 0.30% | ~49 |
 | Ready | 0.30% | ~49 |
 | Subjugator | 0.30% | ~49 |
 | Victorious | 0.30% | ~49 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.20% | ~32 |
 | Devout | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
-| Lion | 0.20% | ~32 |
 | Old | 0.20% | ~32 |
 | Peacemaker | 0.20% | ~32 |
 | Church of the Holy Sepulchre | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,242 (Ranked 169)  
+Progressed: 16,247 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,11 +628,11 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-05 | 16,137 | 5 |
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
-| 2024-01-08 | 16,242 | 5 |
+| 2024-01-08 | 16,247 | 5 |
 ## Awards
-Max (Relaxing): 229  (Ranked 285)  
+Max (Relaxing): 229  (Ranked 286)  
 Sum: 1,917 (Ranked 223)  
-Diff (max vs sum): 62  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 229 |

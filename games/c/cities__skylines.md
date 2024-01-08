@@ -6,41 +6,41 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~892,495 |
-| Green Energy | 59.00% | ~741,651 |
-| Foggy Weather | 58.00% | ~729,080 |
-| Singing In The- | 58.00% | ~729,080 |
-| Unpopular Mayor | 40.00% | ~502,814 |
-| Power at Your Fingertips | 33.00% | ~414,822 |
-| City Planner | 22.00% | ~276,548 |
-| Rolling in Dough | 20.00% | ~251,407 |
-| Does My Bum Look Big In This? | 17.00% | ~213,696 |
-| Climbing the Social Ladder | 16.00% | ~201,126 |
-| Safe City | 13.00% | ~163,415 |
-| Quay-King | 11.00% | ~138,274 |
-| With Canals You Can! | 10.00% | ~125,704 |
-| Lawmaker | 9.00% | ~113,133 |
-| Nomen Est Omen | 7.00% | ~87,992 |
-| Well Informed | 6.00% | ~75,422 |
-| Fire Watch | 5.00% | ~62,852 |
-| Greenest City | 4.00% | ~50,281 |
-| Heavenly City | 3.00% | ~37,711 |
-| Reporting! | 3.00% | ~37,711 |
-| SIMulated City | 3.00% | ~37,711 |
-| The Safest Town | 3.00% | ~37,711 |
-| Professional Dumper | 2.00% | ~25,141 |
-| City in Motion | 1.00% | ~12,570 |
-| Earthloving City | 1.00% | ~12,570 |
-| Metropolis | 1.00% | ~12,570 |
-| Higher Education | 0.80% | ~10,056 |
-| Beam Me Up | 0.70% | ~8,799 |
-| Terraformer | 0.60% | ~7,542 |
-| Decorator | 0.50% | ~6,285 |
-| Full Capacity | 0.50% | ~6,285 |
-| It's heading right for us! | 0.50% | ~6,285 |
-| Shake It Up! | 0.50% | ~6,285 |
-| The Waters of Our Lives | 0.50% | ~6,285 |
-| Twist and shout | 0.50% | ~6,285 |
+| Pioneer | 71.00% | ~892,547 |
+| Green Energy | 59.00% | ~741,694 |
+| Foggy Weather | 58.00% | ~729,123 |
+| Singing In The- | 58.00% | ~729,123 |
+| Unpopular Mayor | 40.00% | ~502,843 |
+| Power at Your Fingertips | 33.00% | ~414,846 |
+| City Planner | 22.00% | ~276,564 |
+| Rolling in Dough | 20.00% | ~251,422 |
+| Does My Bum Look Big In This? | 17.00% | ~213,708 |
+| Climbing the Social Ladder | 16.00% | ~201,137 |
+| Safe City | 13.00% | ~163,424 |
+| Quay-King | 11.00% | ~138,282 |
+| With Canals You Can! | 10.00% | ~125,711 |
+| Lawmaker | 9.00% | ~113,140 |
+| Nomen Est Omen | 7.00% | ~87,998 |
+| Well Informed | 6.00% | ~75,426 |
+| Fire Watch | 5.00% | ~62,855 |
+| Greenest City | 4.00% | ~50,284 |
+| Heavenly City | 3.00% | ~37,713 |
+| Reporting! | 3.00% | ~37,713 |
+| SIMulated City | 3.00% | ~37,713 |
+| The Safest Town | 3.00% | ~37,713 |
+| Professional Dumper | 2.00% | ~25,142 |
+| City in Motion | 1.00% | ~12,571 |
+| Earthloving City | 1.00% | ~12,571 |
+| Metropolis | 1.00% | ~12,571 |
+| Higher Education | 0.80% | ~10,057 |
+| Beam Me Up | 0.70% | ~8,800 |
+| Terraformer | 0.60% | ~7,543 |
+| Decorator | 0.50% | ~6,286 |
+| Full Capacity | 0.50% | ~6,286 |
+| It's heading right for us! | 0.50% | ~6,286 |
+| Shake It Up! | 0.50% | ~6,286 |
+| The Waters of Our Lives | 0.50% | ~6,286 |
+| Twist and shout | 0.50% | ~6,286 |
 | Airfield Expertise | 0.40% | ~5,028 |
 | Drop the Base | 0.40% | ~5,028 |
 | Get Your Snowshoes Ready! | 0.40% | ~5,028 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,257 |
 | Z00 | 0.10% | ~1,257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,257,035 (Ranked 12)  
+Progressed: 1,257,108 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,17 +389,17 @@ Completed: 11 (0.00%) (Ranked 394)
 | 2024-01-05 | 1,252,800 | 11 |
 | 2024-01-06 | 1,254,483 | 11 |
 | 2024-01-07 | 1,256,109 | 11 |
-| 2024-01-08 | 1,257,035 | 11 |
+| 2024-01-08 | 1,257,108 | 11 |
 ## Awards
 Max (Great for Beginners): 6,672  (Ranked 61)  
-Sum: 49,048 (Ranked 32)  
+Sum: 49,053 (Ranked 32)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 6,672 |
 | This game is Relaxing | 6,476 |
 | This game is Educational | 6,180 |
-| This game has Quickly Understood Controls | 6,007 |
+| This game has Quickly Understood Controls | 6,012 |
 | This game is Extremely Fun | 5,605 |
 | This game is Highly Recommended | 5,449 |
 | This game has Amazing Storytelling | 4,520 |
@@ -756,4 +756,4 @@ Diff (max vs sum): 29
 | 2024-01-05 | 4.66 | - | 6,636 | 48,890 |
 | 2024-01-06 | 4.66 | - | 6,649 | 48,953 |
 | 2024-01-07 | 4.66 | - | 6,662 | 49,005 |
-| 2024-01-08 | 4.66 | - | 6,672 | 49,048 |
+| 2024-01-08 | 4.66 | - | 6,672 | 49,053 |

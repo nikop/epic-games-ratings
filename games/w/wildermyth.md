@@ -45,10 +45,10 @@ Number of Ratings: 45  (23.09.2022)
 | A Hunger, Sated | 0.60% | ~10 |
 | Wingknight's Prowess | 0.60% | ~10 |
 | Into Mulch | 0.60% | ~10 |
+| Lochias's Hunger | 0.60% | ~10 |
 | We Emerge Changed | 0.50% | ~8 |
 | No More Nightmares | 0.50% | ~8 |
 | Fight Like a Bird | 0.50% | ~8 |
-| Lochias's Hunger | 0.50% | ~8 |
 | I'm Not Smiling | 0.40% | ~6 |
 | The Power of Friendship | 0.30% | ~5 |
 | Thwack! | 0.30% | ~5 |
