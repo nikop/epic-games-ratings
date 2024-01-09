@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 746,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.16,
   "EosHistory": [
@@ -2546,9 +2546,9 @@
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 343
     },
     {
       "ID": "ach_main07storm_storm",
@@ -2883,8 +2883,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:09:45.5100435+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:09:02.2807841+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:59:03.8508236+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:09:45.5100967+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:58:35.6386498+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:09:02.2808371+00:00"
 }

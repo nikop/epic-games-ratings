@@ -5,24 +5,24 @@ Rating: 4.29 (Ranked 881)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~166,115 |
-| Copacetic Coordination | 16.00% | ~57,779 |
+| Corner Clout | 46.00% | ~166,117 |
+| Copacetic Coordination | 16.00% | ~57,780 |
 | Fronting the Money | 15.00% | ~54,168 |
 | The Dawn of Automation | 14.00% | ~50,557 |
 | Extraordinary Logistics | 14.00% | ~50,557 |
 | Dirty Money | 13.00% | ~46,946 |
 | Family First | 13.00% | ~46,946 |
-| Cleaning House | 12.00% | ~43,334 |
-| Room in the Back | 12.00% | ~43,334 |
-| Beating the Heat | 11.00% | ~39,723 |
-| Booze Baron | 11.00% | ~39,723 |
+| Cleaning House | 12.00% | ~43,335 |
+| Room in the Back | 12.00% | ~43,335 |
+| Beating the Heat | 11.00% | ~39,724 |
+| Booze Baron | 11.00% | ~39,724 |
 | Friends on the Force | 10.00% | ~36,112 |
 | Neighborhood Watch | 10.00% | ~36,112 |
 | Core Corps | 8.00% | ~28,890 |
 | Sizeable Stash | 8.00% | ~28,890 |
-| Street Fighter | 7.00% | ~25,278 |
-| Friendly Gestures | 7.00% | ~25,278 |
-| People Person | 7.00% | ~25,278 |
+| Street Fighter | 7.00% | ~25,279 |
+| Friendly Gestures | 7.00% | ~25,279 |
+| People Person | 7.00% | ~25,279 |
 | Liquor Lord | 6.00% | ~21,667 |
 | Safety in Numbers | 6.00% | ~21,667 |
 | Moving Experiences | 6.00% | ~21,667 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 881)
 | High Pillow | 0.10% | ~361 |
 | Station Master | 0.10% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,120 (Ranked 58)  
+Progressed: 361,123 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,10 +350,11 @@ Completed: 7 (0.00%) (Ranked 395)
 | 2024-01-06 | 360,754 | 7 |
 | 2024-01-07 | 360,959 | 7 |
 | 2024-01-08 | 361,120 | 7 |
+| 2024-01-09 | 361,123 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 435)  
-Sum: 269 (Ranked 393)  
-Diff (max vs sum): 42  
+Sum: 269 (Ranked 394)  
+Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 58 |

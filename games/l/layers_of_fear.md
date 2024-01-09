@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 85.00% | ~251 |
+| Something important | 85.00% | ~252 |
 | A piece of the story | 66.00% | ~195 |
-| It's covered up for a reason | 59.00% | ~174 |
-| Wanderer | 53.00% | ~156 |
+| It's covered up for a reason | 58.00% | ~172 |
+| Wanderer | 52.00% | ~154 |
 | Scraps of love | 50.00% | ~148 |
 | The artist’s impression | 48.00% | ~142 |
 | Do what you have to | 42.00% | ~124 |
 | Sign of weakness | 40.00% | ~118 |
-| Refuse to look | 35.00% | ~103 |
-| Face your fears | 30.00% | ~88 |
+| Refuse to look | 35.00% | ~104 |
+| Face your fears | 30.00% | ~89 |
 | Finished it | 26.00% | ~77 |
 | Whispers long forgotten | 17.00% | ~50 |
 | Sound Bite | 13.00% | ~38 |
-| A Slice of Life | 12.00% | ~35 |
-| Debut | 12.00% | ~35 |
-| The art of movement | 12.00% | ~35 |
-| Another perspective | 11.00% | ~32 |
-| Lights! Camera! Action! | 11.00% | ~32 |
+| A Slice of Life | 12.00% | ~36 |
+| Debut | 12.00% | ~36 |
+| The art of movement | 12.00% | ~36 |
+| Another perspective | 11.00% | ~33 |
+| Lights! Camera! Action! | 11.00% | ~33 |
 | Tough conversation | 10.00% | ~30 |
 | First steps | 9.00% | ~27 |
 | Playtime | 9.00% | ~27 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295 (Ranked 397)  
+Progressed: 296 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,3 +135,4 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 286 | 0 |
 | 2024-01-07 | 292 | 0 |
 | 2024-01-08 | 295 | 0 |
+| 2024-01-09 | 296 | 0 |

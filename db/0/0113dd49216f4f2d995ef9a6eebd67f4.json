@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1164,6 +1164,11 @@
       "Time": "2024-01-08T18:09:32.8217777+00:00",
       "NumProgressed": 259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T00:08:52.8612826+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1182,9 +1187,9 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1248,7 +1253,7 @@
       "Name": "End Of The Road",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1288,7 +1293,7 @@
       "Name": "Like Heroes Before You",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -1326,9 +1331,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 112
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1471,14 +1476,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:09:34.1690831+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:08:52.8612822+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:00:14.6487461+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:09:34.1691159+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:59:22.2686071+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:08:52.8613138+00:00"
 }

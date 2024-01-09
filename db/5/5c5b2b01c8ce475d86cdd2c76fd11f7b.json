@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -674,9 +674,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "7on801h",
       "Name": "A Heated Combination",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -1095,8 +1095,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:05:52.28639+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:04:39.5029269+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:22.5925378+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:00:55.3057084+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:05:52.2864705+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:59:47.4457887+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:04:39.5029971+00:00"
 }

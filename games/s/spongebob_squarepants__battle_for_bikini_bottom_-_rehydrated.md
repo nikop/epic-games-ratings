@@ -34,7 +34,7 @@ Number of Ratings: 76  (23.09.2022)
 | SpongeBob vs SpongeBob! | 4.00% | ~35 |
 | Sleepy Time | 4.00% | ~35 |
 | Sock Concert | 4.00% | ~35 |
-| Mega Spatula Seeker | 3.00% | ~26 |
+| Mega Spatula Seeker | 4.00% | ~35 |
 | 100% SpongeBob | 1.00% | ~9 |
 | Sock Opera | 1.00% | ~9 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~9 |

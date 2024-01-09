@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 699,
+  "EOS_Progressed": 700,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2264,6 +2264,11 @@
       "Time": "2024-01-08T20:06:19.981396+00:00",
       "NumProgressed": 699,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T00:06:14.2303007+00:00",
+      "NumProgressed": 700,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2340,7 +2345,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "REMAKE_004",
@@ -2348,7 +2353,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "Remake_005",
@@ -2499,14 +2504,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 699,
+      "Progressed": 700,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:08:09.6791119+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:06:14.2303003+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:57:29.9141955+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:08:09.6791446+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:57:34.6808817+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:06:14.2303338+00:00"
 }

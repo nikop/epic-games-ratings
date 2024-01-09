@@ -3789,10 +3789,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3360,
       "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2024-01-08T23:57:54.167466+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3361,
+      "NumberOfAwardsMax": 452
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3360,
+  "NumberOfAwards": 3361,
   "NumberOfAwardsMax": 452,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3830,7 +3836,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 442
+      "Count": 443
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3857,9 +3863,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20508,
+  "EOS_Progressed": 20514,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18992,6 +18998,11 @@
       "Time": "2024-01-08T23:04:54.4977806+00:00",
       "NumProgressed": 20508,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-09T00:03:59.8017121+00:00",
+      "NumProgressed": 20514,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19084,7 +19095,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "WinFirstGame",
@@ -19100,7 +19111,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "WinImpossible",
@@ -19164,7 +19175,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "WinNearFishmen",
@@ -19220,7 +19231,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "WinNearRuins",
@@ -19260,7 +19271,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "WinOnCoral",
@@ -19268,7 +19279,7 @@
       "Name": "Coral Forest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "WinOnCursed",
@@ -19292,7 +19303,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "WinPrestige10",
@@ -19316,7 +19327,7 @@
       "Name": "A Real Challenge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "WinWIthCaches",
@@ -19412,7 +19423,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "WinNearGreed",
@@ -19420,7 +19431,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "WinNearLibrary",
@@ -19444,7 +19455,7 @@
       "Name": "Ominous Presence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "WinNearStorms",
@@ -19452,7 +19463,7 @@
       "Name": "Gathering Storm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -19475,15 +19486,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20508,
+      "Progressed": 20514,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-08T22:57:57.5838619+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:04:54.4977802+00:00",
+  "LastChanged": "2024-01-08T23:57:54.1674658+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:03:59.8017118+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:57:57.5838626+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:04:54.4978865+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:57:54.1674664+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:03:59.8018015+00:00"
 }

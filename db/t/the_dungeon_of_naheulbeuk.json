@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 447,
+  "Ranking_Rating": 448,
   "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 72,
@@ -1707,9 +1707,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247298,
+  "EOS_Progressed": 247304,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1229,
+  "EOS_NewPlayers": 1228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25462,6 +25462,11 @@
       "Time": "2024-01-08T23:11:01.4634091+00:00",
       "NumProgressed": 247298,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-09T00:09:57.2640656+00:00",
+      "NumProgressed": 247304,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25921,7 +25926,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 89027
+      "UsersEstimate": 89029
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26065,7 +26070,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "QuestMinstrel",
@@ -26176,21 +26181,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247298,
+      "Progressed": 247304,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247298,
+      "Progressed": 247304,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-07T14:58:32.9313292+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:11:01.4634087+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:09:57.2640652+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:00:14.3255197+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:11:01.4636156+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:59:22.0779596+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:09:57.2642265+00:00"
 }

@@ -329,9 +329,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 340110,
+  "EOS_Progressed": 340114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2135,
+  "EOS_NewPlayers": 2129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16769,6 +16769,11 @@
       "Time": "2024-01-08T23:05:51.0442372+00:00",
       "NumProgressed": 340110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T00:04:38.6334607+00:00",
+      "NumProgressed": 340114,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -16805,7 +16810,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 149648
+      "UsersEstimate": 149650
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -16813,7 +16818,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 108835
+      "UsersEstimate": 108836
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -16821,7 +16826,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 71423
+      "UsersEstimate": 71424
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -16829,7 +16834,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 51016
+      "UsersEstimate": 51017
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -16837,7 +16842,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 40813
+      "UsersEstimate": 40814
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -16845,7 +16850,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 37412
+      "UsersEstimate": 37413
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -17157,20 +17162,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 173456
+      "UsersEstimate": 173458
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 340110,
+      "Progressed": 340114,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 340099,
+      "Progressed": 340103,
       "Completed": 1
     }
   ],
@@ -17178,8 +17183,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-04T19:02:51.3200067+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:05:51.0442369+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:04:38.6334602+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:11.3845313+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:03:03.3179319+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:05:51.0443259+00:00"
+  "LastUpdate_Ratings": "2024-01-09T00:02:56.1766104+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:04:38.6335702+00:00"
 }

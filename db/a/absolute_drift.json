@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1562556,
+  "EOS_Progressed": 1562562,
   "EOS_Completed": 763,
-  "EOS_NewPlayers": 1702,
+  "EOS_NewPlayers": 1701,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30712,6 +30712,11 @@
       "Time": "2024-01-08T23:07:35.6205087+00:00",
       "NumProgressed": 1562556,
       "NumCompleted": 763
+    },
+    {
+      "Time": "2024-01-09T00:05:50.4405102+00:00",
+      "NumProgressed": 1562562,
+      "NumCompleted": 763
     }
   ],
   "TotalAchievements": 20,
@@ -30771,7 +30776,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 140630
+      "UsersEstimate": 140631
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -30835,7 +30840,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 140630
+      "UsersEstimate": 140631
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -30882,15 +30887,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1562556,
+      "Progressed": 1562562,
       "Completed": 763
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:07:35.6205082+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:05:50.4405096+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:06.7097027+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:58:24.3113328+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:07:35.6206362+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:58:10.8507409+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:05:50.4406295+00:00"
 }

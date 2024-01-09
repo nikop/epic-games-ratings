@@ -276,9 +276,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "4mjb15",
       "Name": "Get To Know the Locals",
-      "Percentage": 42,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -292,9 +292,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "4mjb15",
       "Name": "Reduced to Rubble",
-      "Percentage": 42,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -331,8 +331,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:10:51.0412362+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:09:49.1474269+00:00",
   "LastUpdate_AppInfo": "2024-01-05T22:58:52.5128387+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:57:40.9903929+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:10:51.041287+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:57:41.5608105+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:09:49.1474437+00:00"
 }

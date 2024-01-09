@@ -2,9 +2,9 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -686,6 +686,11 @@
       "Time": "2024-01-07T16:04:48.1972134+00:00",
       "NumProgressed": 140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T00:05:26.6652604+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -703,9 +708,9 @@
       "ID": "GL_complete",
       "SetID": "3b8n56h",
       "Name": "The Apprentice",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "InnkeeperQuestlineFirst",
@@ -713,7 +718,7 @@
       "Name": "Treasure Hunting",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -761,7 +766,7 @@
       "Name": "Riddlesolver",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -905,7 +910,7 @@
       "Name": "Clear as Water",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "cards_discovered_complete",
@@ -937,7 +942,7 @@
       "Name": "Shine!",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "git_gud?",
@@ -1016,7 +1021,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
@@ -1024,8 +1029,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:07:00.7637364+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:05:26.6652601+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.5094104+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:57:39.1119569+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:07:00.7637956+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:57:40.3512568+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:05:26.6652935+00:00"
 }

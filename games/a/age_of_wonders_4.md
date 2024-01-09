@@ -16,9 +16,9 @@ Rating: 4.62 (Ranked 378)
 | There Can Only Be One! | 7.00% | ~496 |
 | Stronger Together | 7.00% | ~496 |
 | Seat of Power | 7.00% | ~496 |
-| Valley of Wonders | 6.00% | ~425 |
-| In a Liege of Your Own | 6.00% | ~425 |
-| Intimidation Tactics | 6.00% | ~425 |
+| Valley of Wonders | 6.00% | ~426 |
+| In a Liege of Your Own | 6.00% | ~426 |
+| Intimidation Tactics | 6.00% | ~426 |
 | My Final Form | 5.00% | ~355 |
 | But this one is mine | 5.00% | ~355 |
 | Return of the Wizard King | 4.00% | ~284 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,091 (Ranked 196)  
+Progressed: 7,092 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,6 +298,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-06 | 6,988 | 7 |
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
+| 2024-01-09 | 7,092 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 482)  
 Sum: 212 (Ranked 412)  

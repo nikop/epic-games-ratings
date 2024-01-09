@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 687,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1919,6 +1919,11 @@
       "Time": "2024-01-08T22:11:03.3530205+00:00",
       "NumProgressed": 686,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T00:09:52.8983662+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1944,9 +1949,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 124
     },
     {
       "ID": "Assassin",
@@ -2002,7 +2007,7 @@
       "Name": "Gladiator",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "GoblinTales",
@@ -2066,7 +2071,7 @@
       "Name": "Lumberjack",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Marksman",
@@ -2249,7 +2254,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 687,
       "Completed": 1
     }
   ],
@@ -2257,8 +2262,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:10:55.8648986+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:09:52.898366+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:01:55.8858019+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:10:55.8649317+00:00"
+  "LastUpdate_Ratings": "2024-01-09T00:00:25.5501199+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:09:52.8983998+00:00"
 }

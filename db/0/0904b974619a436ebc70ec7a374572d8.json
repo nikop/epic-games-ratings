@@ -443,17 +443,17 @@
       "ID": "ach_picklock12",
       "SetID": "753ghg2",
       "Name": "Sewing factory",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 45,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_picklock13",
       "SetID": "753ghg2",
       "Name": "Butcher shop",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_picklock14",
@@ -587,9 +587,9 @@
       "ID": "ach_picklock7",
       "SetID": "753ghg2",
       "Name": "Good movie",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_picklock8",
@@ -618,8 +618,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:10:47.1300295+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:09:46.3891583+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:04.6149953+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:59:57.767744+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:10:47.1300553+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:59:10.7645212+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:09:46.3891745+00:00"
 }

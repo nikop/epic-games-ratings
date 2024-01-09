@@ -5,7 +5,7 @@
   "Ranking_Rating": 1041,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 158,
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1205,
+  "EOS_Progressed": 1206,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3481,6 +3481,11 @@
       "Time": "2024-01-08T21:07:19.3328775+00:00",
       "NumProgressed": 1205,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T00:05:44.296355+00:00",
+      "NumProgressed": 1206,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3492,7 +3497,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACH001",
@@ -3500,7 +3505,7 @@
       "Name": "Seafarer",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH002",
@@ -3548,7 +3553,7 @@
       "Name": "My little farm",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "ACH008",
@@ -3604,7 +3609,7 @@
       "Name": "Christening",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH015",
@@ -3612,7 +3617,7 @@
       "Name": "Groundskeeper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH016",
@@ -3626,9 +3631,9 @@
       "ID": "ACH017",
       "SetID": "69nfp41",
       "Name": "Pearly gates",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH018",
@@ -3644,7 +3649,7 @@
       "Name": "Just a scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH020",
@@ -3660,7 +3665,7 @@
       "Name": "Collectionitis",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH022",
@@ -3772,7 +3777,7 @@
       "Name": "All mine!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH036",
@@ -3780,7 +3785,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACH037",
@@ -3836,7 +3841,7 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH044",
@@ -3844,7 +3849,7 @@
       "Name": "Greed for gold",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH045",
@@ -3876,7 +3881,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH049",
@@ -3891,15 +3896,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1205,
+      "Progressed": 1206,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:07:26.5176322+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:05:44.2963547+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:24.8175956+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:02:17.7902832+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:07:26.5176855+00:00"
+  "LastUpdate_Ratings": "2024-01-09T00:00:39.7585632+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:05:44.2963984+00:00"
 }

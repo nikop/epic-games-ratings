@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8169,
+  "EOS_Progressed": 8171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13617,6 +13617,11 @@
       "Time": "2024-01-08T23:08:49.3207272+00:00",
       "NumProgressed": 8169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T00:08:21.8371875+00:00",
+      "NumProgressed": 8171,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13706,9 +13711,9 @@
       "ID": "ACHIEVEMENT_011",
       "SetID": "1a05lfd",
       "Name": "More than a Tourist",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -13740,7 +13745,7 @@
       "Name": "Going for Gold",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -13947,13 +13952,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8169,
+      "Progressed": 8171,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7541,
+      "Progressed": 7543,
       "Completed": 113
     }
   ],
@@ -13961,8 +13966,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:08:49.3207264+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:08:21.8371873+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:59:24.5769536+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:08:49.3208312+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:58:48.0958966+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:08:21.8372725+00:00"
 }

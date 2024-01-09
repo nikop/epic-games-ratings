@@ -6,14 +6,14 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Across The Border | 77.00% | ~19,016 |
-| I'm Alive | 51.00% | ~12,595 |
+| Across The Border | 77.00% | ~19,017 |
+| I'm Alive | 51.00% | ~12,596 |
 | Look at Me Now | 26.00% | ~6,421 |
 | Danger Ahead | 25.00% | ~6,174 |
-| Don't Bring Me Down | 17.00% | ~4,198 |
-| The Fall | 16.00% | ~3,951 |
-| Everyone's Born to Die | 14.00% | ~3,457 |
-| Wild West Hero | 13.00% | ~3,210 |
+| Don't Bring Me Down | 17.00% | ~4,199 |
+| The Fall | 16.00% | ~3,952 |
+| Everyone's Born to Die | 14.00% | ~3,458 |
+| Wild West Hero | 13.00% | ~3,211 |
 | In My Own Time | 12.00% | ~2,964 |
 | In For The Kill | 11.00% | ~2,717 |
 | Caught in a Trap | 10.00% | ~2,470 |
@@ -21,7 +21,7 @@ Number of Ratings: 34  (23.09.2022)
 | After All | 0.70% | ~173 |
 | Time of Our Life | 0.30% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,696 (Ranked 147)  
+Progressed: 24,698 (Ranked 147)  
 Completed: 62 (0.25%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,6 +285,7 @@ Completed: 62 (0.25%) (Ranked 265)
 | 2024-01-06 | 24,574 | 62 |
 | 2024-01-07 | 24,645 | 62 |
 | 2024-01-08 | 24,696 | 62 |
+| 2024-01-09 | 24,698 | 62 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

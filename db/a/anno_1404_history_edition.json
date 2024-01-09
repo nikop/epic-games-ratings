@@ -3,11 +3,11 @@
   "Name": "Anno 1404 History Edition",
   "ProductSlug": "anno-1404",
   "Ranking_Rating": 130,
-  "Ranking_Popularity": 576,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -353,18 +353,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-01-08T23:57:32.5650651+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -378,8 +384,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:46.5738432+00:00",
-  "LastChanged": "2024-01-08T14:57:06.663274+00:00",
+  "LastChanged": "2024-01-08T23:57:32.565065+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.6465313+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:57:26.5972683+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:09:16.0116831+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:57:32.5650655+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:08:40.0948949+00:00"
 }

@@ -6,48 +6,48 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~68,985 |
-| Skillful | 6.00% | ~68,985 |
-| Zealous | 5.00% | ~57,488 |
-| Not half bad | 5.00% | ~57,488 |
-| Apt Survivor | 4.00% | ~45,990 |
-| Survival Treasures | 4.00% | ~45,990 |
-| I | 4.00% | ~45,990 |
-| Make Some Noise | 4.00% | ~45,990 |
-| The Grand Sacrifice | 3.00% | ~34,493 |
-| Agonizing Escape | 3.00% | ~34,493 |
-| Backdoor Escape | 3.00% | ~34,493 |
-| No one left behind | 3.00% | ~34,493 |
-| Medic | 3.00% | ~34,493 |
-| Handyman | 3.00% | ~34,493 |
-| Perfect Escape | 3.00% | ~34,493 |
-| Bloody Millionaire | 3.00% | ~34,493 |
-| Sorted | 3.00% | ~34,493 |
-| Healthy Obsession | 3.00% | ~34,493 |
-| Resurgence | 3.00% | ~34,493 |
-| Preemptive Strike | 3.00% | ~34,493 |
-| Humanitarian | 3.00% | ~34,493 |
-| Blood on your hands | 2.00% | ~22,995 |
-| Escape Artist | 2.00% | ~22,995 |
-| I've got your back | 2.00% | ~22,995 |
-| Perfect Killing | 2.00% | ~22,995 |
-| Apt Killer | 2.00% | ~22,995 |
-| Risk it all | 2.00% | ~22,995 |
-| Vulture | 2.00% | ~22,995 |
-| II | 2.00% | ~22,995 |
-| III | 2.00% | ~22,995 |
-| Engineer | 2.00% | ~22,995 |
-| Wounded Healer | 2.00% | ~22,995 |
-| First to the Punch | 2.00% | ~22,995 |
-| Operation: Survival | 2.00% | ~22,995 |
-| Every Last Drop | 2.00% | ~22,995 |
-| Close Shave | 2.00% | ~22,995 |
-| Raccoon City Recruit | 2.00% | ~22,995 |
-| With Scars to Show | 2.00% | ~22,995 |
-| Flight to Freedom | 2.00% | ~22,995 |
-| Lifting The Fog | 2.00% | ~22,995 |
-| Chorus of Chaos | 2.00% | ~22,995 |
-| Second Act | 2.00% | ~22,995 |
+| It wakes | 6.00% | ~68,989 |
+| Skillful | 6.00% | ~68,989 |
+| Zealous | 5.00% | ~57,491 |
+| Not half bad | 5.00% | ~57,491 |
+| Apt Survivor | 4.00% | ~45,993 |
+| Survival Treasures | 4.00% | ~45,993 |
+| I | 4.00% | ~45,993 |
+| Make Some Noise | 4.00% | ~45,993 |
+| The Grand Sacrifice | 3.00% | ~34,495 |
+| Agonizing Escape | 3.00% | ~34,495 |
+| Backdoor Escape | 3.00% | ~34,495 |
+| No one left behind | 3.00% | ~34,495 |
+| Medic | 3.00% | ~34,495 |
+| Handyman | 3.00% | ~34,495 |
+| Perfect Escape | 3.00% | ~34,495 |
+| Bloody Millionaire | 3.00% | ~34,495 |
+| Sorted | 3.00% | ~34,495 |
+| Healthy Obsession | 3.00% | ~34,495 |
+| Resurgence | 3.00% | ~34,495 |
+| Preemptive Strike | 3.00% | ~34,495 |
+| Humanitarian | 3.00% | ~34,495 |
+| Blood on your hands | 2.00% | ~22,996 |
+| Escape Artist | 2.00% | ~22,996 |
+| I've got your back | 2.00% | ~22,996 |
+| Perfect Killing | 2.00% | ~22,996 |
+| Apt Killer | 2.00% | ~22,996 |
+| Risk it all | 2.00% | ~22,996 |
+| Vulture | 2.00% | ~22,996 |
+| II | 2.00% | ~22,996 |
+| III | 2.00% | ~22,996 |
+| Engineer | 2.00% | ~22,996 |
+| Wounded Healer | 2.00% | ~22,996 |
+| First to the Punch | 2.00% | ~22,996 |
+| Operation: Survival | 2.00% | ~22,996 |
+| Every Last Drop | 2.00% | ~22,996 |
+| Close Shave | 2.00% | ~22,996 |
+| Raccoon City Recruit | 2.00% | ~22,996 |
+| With Scars to Show | 2.00% | ~22,996 |
+| Flight to Freedom | 2.00% | ~22,996 |
+| Lifting The Fog | 2.00% | ~22,996 |
+| Chorus of Chaos | 2.00% | ~22,996 |
+| Second Act | 2.00% | ~22,996 |
 | A bite for the Entity | 1.00% | ~11,498 |
 | Blood on your face | 1.00% | ~11,498 |
 | Made it out alive! | 1.00% | ~11,498 |
@@ -86,16 +86,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Selfless Survival | 0.90% | ~10,348 |
 | End of Days | 0.90% | ~10,348 |
 | Insult and Injury | 0.90% | ~10,348 |
-| Jump Scares | 0.80% | ~9,198 |
-| Game Over | 0.80% | ~9,198 |
-| Party Crasher | 0.80% | ~9,198 |
-| Broken Bodies | 0.80% | ~9,198 |
-| High Speed Pursuit | 0.80% | ~9,198 |
-| Complete the Evolution | 0.80% | ~9,198 |
-| Deep Cleansing | 0.70% | ~8,048 |
-| Texas BBQ | 0.70% | ~8,048 |
-| Outrage | 0.70% | ~8,048 |
-| I See You | 0.70% | ~8,048 |
+| Jump Scares | 0.80% | ~9,199 |
+| Game Over | 0.80% | ~9,199 |
+| Party Crasher | 0.80% | ~9,199 |
+| Broken Bodies | 0.80% | ~9,199 |
+| High Speed Pursuit | 0.80% | ~9,199 |
+| Complete the Evolution | 0.80% | ~9,199 |
+| Deep Cleansing | 0.70% | ~8,049 |
+| Texas BBQ | 0.70% | ~8,049 |
+| Outrage | 0.70% | ~8,049 |
+| I See You | 0.70% | ~8,049 |
 | Blood in your mouth | 0.60% | ~6,899 |
 | Whiffing to Success | 0.60% | ~6,899 |
 | Heavy Burden | 0.60% | ~6,899 |
@@ -122,6 +122,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One Thousand Cuts | 0.30% | ~3,449 |
 | From the Deep | 0.30% | ~3,449 |
 | Joke’s On You | 0.30% | ~3,449 |
+| The Key to Escape | 0.20% | ~2,300 |
 | Adept Meg | 0.20% | ~2,300 |
 | Happy Holidays | 0.20% | ~2,300 |
 | Silent Approach | 0.20% | ~2,300 |
@@ -132,7 +133,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Terror of LV-426 | 0.20% | ~2,300 |
 | Cripple them all | 0.10% | ~1,150 |
 | The Grind | 0.10% | ~1,150 |
-| The Key to Escape | 0.10% | ~1,150 |
 | Adept Jake | 0.10% | ~1,150 |
 | Adept Dwight | 0.10% | ~1,150 |
 | Adept Claudette | 0.10% | ~1,150 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,150 |
 | Adept Good Guy | 0.10% | ~1,150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,149,754 (Ranked 13)  
+Progressed: 1,149,822 (Ranked 13)  
 Completed: 67 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -503,6 +503,7 @@ Completed: 67 (0.01%) (Ranked 372)
 | 2024-01-06 | 1,145,528 | 66 |
 | 2024-01-07 | 1,147,967 | 67 |
 | 2024-01-08 | 1,149,754 | 67 |
+| 2024-01-09 | 1,149,822 | 67 |
 ## Awards
 Max (Diverse Characters): 39,355  (Ranked 15)  
 Sum: 297,048 (Ranked 12)  

@@ -2,7 +2,7 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 360,
+  "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 107,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 446,
+  "EOS_Progressed": 447,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -1739,6 +1739,11 @@
       "Time": "2024-01-08T20:03:45.998131+00:00",
       "NumProgressed": 446,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T00:03:42.5347083+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1839,7 +1844,7 @@
       "Name": "Downfall",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "AC_BOSS_03",
@@ -1919,7 +1924,7 @@
       "Name": "Killer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1943,7 +1948,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1967,7 +1972,7 @@
       "Name": "Player",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2031,7 +2036,7 @@
       "Name": "Cook",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -2055,7 +2060,7 @@
       "Name": "Loss",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2086,14 +2091,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 446,
+      "Progressed": 447,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:04:30.8313512+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:03:42.5347078+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:59:48.6315828+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:04:30.8313856+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:59:04.5515135+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:03:42.5347423+00:00"
 }

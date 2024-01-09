@@ -473,9 +473,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 343058,
+  "EOS_Progressed": 343068,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3609,
+  "EOS_NewPlayers": 3600,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12663,6 +12663,11 @@
       "Time": "2024-01-08T23:09:19.6973322+00:00",
       "NumProgressed": 343058,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T00:08:42.7443328+00:00",
+      "NumProgressed": 343068,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12697,9 +12702,9 @@
       "ID": "S04_BRDC",
       "SetID": "4j44ol8",
       "Name": "We\u0027ll be careful",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3431
     },
     {
       "ID": "S05_SWRA",
@@ -12707,7 +12712,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "S06_LWTC",
@@ -12907,7 +12912,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -12994,7 +12999,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 343058,
+      "Progressed": 343068,
       "Completed": 7
     }
   ],
@@ -13002,8 +13007,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-07T09:59:57.3535769+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:09:19.6973317+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:08:42.7443325+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.1079824+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:01:12.7624026+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:09:19.6974078+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:59:58.766733+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:08:42.7444114+00:00"
 }

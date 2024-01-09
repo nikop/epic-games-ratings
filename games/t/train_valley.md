@@ -6,17 +6,17 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~491 |
-| Close call! | 71.00% | ~459 |
-| Builder | 51.00% | ~329 |
-| Pangs of conscience | 44.00% | ~284 |
-| Living it large! | 44.00% | ~284 |
+| Getting started | 76.00% | ~492 |
+| Close call! | 70.00% | ~453 |
+| Builder | 51.00% | ~330 |
+| Pangs of conscience | 44.00% | ~285 |
+| Living it large! | 44.00% | ~285 |
 | Collector | 43.00% | ~278 |
 | Need to think | 41.00% | ~265 |
-| Completely nuts! | 40.00% | ~258 |
-| Europe | 33.00% | ~213 |
-| Just in time! | 33.00% | ~213 |
-| Madness! | 31.00% | ~200 |
+| Completely nuts! | 40.00% | ~259 |
+| Europe | 33.00% | ~214 |
+| Just in time! | 33.00% | ~214 |
+| Madness! | 31.00% | ~201 |
 | It's no coincidence. | 28.00% | ~181 |
 | Philatelist | 26.00% | ~168 |
 | Let's roll! | 25.00% | ~162 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~4 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646 (Ranked 333)  
+Progressed: 647 (Ranked 333)  
 Completed: 2 (0.31%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 2 (0.31%) (Ranked 253)
 | 2024-01-06 | 640 | 2 |
 | 2024-01-07 | 645 | 2 |
 | 2024-01-08 | 646 | 2 |
+| 2024-01-09 | 647 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

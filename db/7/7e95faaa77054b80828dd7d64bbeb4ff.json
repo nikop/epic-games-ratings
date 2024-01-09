@@ -4,7 +4,7 @@
   "ProductSlug": "bread-and-fred-1db362",
   "Ranking_EOS_Progress": 758,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-23T17:00:00+00:00",
@@ -210,8 +210,8 @@
   ],
   "FirstSeen": "2023-06-17T21:56:57.5605533+00:00",
   "FirstSeenAchievements": "2023-06-15T18:00:28.8719916+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:08:34.8975576+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:06:31.8856304+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:16.8263067+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:57:34.9080765+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:08:34.8975678+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:57:37.8347036+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:06:31.8856421+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 447,
+  "Ranking_Rating": 448,
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
@@ -1849,7 +1849,7 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167301,
+  "EOS_Progressed": 167310,
   "EOS_Completed": 452,
   "EOS_NewPlayers": 1290,
   "EOS_NewCompleters": 16,
@@ -22359,6 +22359,11 @@
       "Time": "2024-01-08T23:04:33.8836477+00:00",
       "NumProgressed": 167301,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2024-01-09T00:03:44.7568239+00:00",
+      "NumProgressed": 167310,
+      "NumCompleted": 452
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22738,21 +22743,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166884,
+      "Progressed": 166893,
       "Completed": 1256
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167301,
+      "Progressed": 167310,
       "Completed": 452
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-08T13:58:19.8124136+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:04:33.8836471+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:03:44.7568235+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:59:07.8875098+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:04:33.8837693+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:58:37.9571415+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:03:44.7569414+00:00"
 }

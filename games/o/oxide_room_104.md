@@ -19,12 +19,12 @@
 | One-way | 16.00% | ~50 |
 | On the right path | 15.00% | ~47 |
 | It can't be true | 14.00% | ~44 |
+| He who seeks, finds! | 12.00% | ~38 |
 | I'm close now | 11.00% | ~35 |
 | Failed attempt | 11.00% | ~35 |
 | The real escape | 11.00% | ~35 |
 | Good choice | 11.00% | ~35 |
 | Take the long way round | 11.00% | ~35 |
-| He who seeks, finds! | 11.00% | ~35 |
 | Nightmare in the kitchen | 10.00% | ~31 |
 | Born again | 7.00% | ~22 |
 | 373 | 6.00% | ~19 |

@@ -355,7 +355,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 979,
+  "EOS_Progressed": 981,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
@@ -2420,6 +2420,11 @@
       "Time": "2024-01-08T23:09:18.7829734+00:00",
       "NumProgressed": 979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T00:08:42.0868191+00:00",
+      "NumProgressed": 981,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2432,7 +2437,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "CareerAllChallenges",
@@ -2440,7 +2445,7 @@
       "Name": "Highballer",
       "Percentage": 57,
       "XP": 90,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "CareerChamp1",
@@ -2448,7 +2453,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "CareerChamp2",
@@ -2456,7 +2461,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "CareerChamp3",
@@ -2488,7 +2493,7 @@
       "Name": "Storm Warning",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "CollectVehiclesA",
@@ -2544,7 +2549,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "PlayerRankB",
@@ -2591,7 +2596,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 979,
+      "Progressed": 981,
       "Completed": 0
     }
   ],
@@ -2599,8 +2604,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:09:18.7829729+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:08:42.0868186+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:00:49.1174224+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:09:18.7829993+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:59:44.3533823+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:08:42.0868462+00:00"
 }

@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 2573,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 7,
   "EosHistory": [
@@ -6860,9 +6860,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 566
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7005,8 +7005,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:08:04.357185+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:06:10.2923046+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:59:44.8436063+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:08:04.3572297+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:59:02.2611636+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:06:10.2923563+00:00"
 }

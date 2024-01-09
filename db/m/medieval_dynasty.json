@@ -4,10 +4,10 @@
   "ProductSlug": "medieval-dynasty",
   "Ranking_Rating": 299,
   "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 353,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -1365,6 +1365,6 @@
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
   "LastChanged": "2024-01-08T18:00:52.5191764+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:09.7472877+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:00:50.6411978+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:08:27.0071035+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:59:45.3269171+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:06:25.9678227+00:00"
 }

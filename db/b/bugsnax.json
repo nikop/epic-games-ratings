@@ -6,8 +6,8 @@
   "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_Completed": 75,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -1028,9 +1028,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 29086,
+  "EOS_Progressed": 29087,
   "EOS_Completed": 1423,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.89,
   "EosHistory": [
@@ -9013,6 +9013,11 @@
       "Time": "2024-01-08T23:10:38.1241461+00:00",
       "NumProgressed": 29086,
       "NumCompleted": 1423
+    },
+    {
+      "Time": "2024-01-09T00:09:40.0266722+00:00",
+      "NumProgressed": 29087,
+      "NumCompleted": 1423
     }
   ],
   "TotalAchievements": 30,
@@ -9032,7 +9037,7 @@
       "Name": "Feeding Frenzy",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 5526
+      "UsersEstimate": 5527
     },
     {
       "ID": "ACH_ALL_VIDS",
@@ -9072,7 +9077,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 9598
+      "UsersEstimate": 9599
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -9088,7 +9093,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22396
+      "UsersEstimate": 22397
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -9120,7 +9125,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 28213
+      "UsersEstimate": 28214
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -9128,7 +9133,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 20069
+      "UsersEstimate": 20070
     },
     {
       "ID": "ACH_GOLEM",
@@ -9160,7 +9165,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17742
+      "UsersEstimate": 17743
     },
     {
       "ID": "ACH_LAUNCH",
@@ -9168,7 +9173,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 16288
+      "UsersEstimate": 16289
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -9200,7 +9205,7 @@
       "Name": "Sidetracked",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 11634
+      "UsersEstimate": 11635
     },
     {
       "ID": "ACH_SNAKPODS",
@@ -9216,7 +9221,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 27050
+      "UsersEstimate": 27051
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -9224,7 +9229,7 @@
       "Name": "Perf Dirt",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16579
+      "UsersEstimate": 16580
     },
     {
       "ID": "ACH_SUNDAE",
@@ -9248,7 +9253,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21814
+      "UsersEstimate": 21815
     },
     {
       "ID": "ACH_WATERFALL",
@@ -9256,22 +9261,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25305
+      "UsersEstimate": 25306
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 29086,
+      "Progressed": 29087,
       "Completed": 1423
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2024-01-07T20:58:42.3965907+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:10:38.1241459+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:09:40.0266717+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:12.4963151+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:59:35.0075384+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:10:38.1241913+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:58:54.694572+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:09:40.0267929+00:00"
 }

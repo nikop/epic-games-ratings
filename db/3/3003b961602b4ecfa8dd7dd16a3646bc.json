@@ -2,9 +2,9 @@
   "ID": "3003b961602b4ecfa8dd7dd16a3646bc",
   "Name": "HORSE CLUB Adventures",
   "ProductSlug": "horse-club-adventures-19e7a0",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 523,
+  "Ranking_EOS_NewPlayers": 509,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -389,6 +389,11 @@
       "Time": "2024-01-07T13:14:11.1548131+00:00",
       "NumProgressed": 81,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T00:09:49.317017+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -400,7 +405,7 @@
       "Name": "Tutorial",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_02_FIRSTRACE",
@@ -408,15 +413,15 @@
       "Name": "First Race",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_03_TRAININGRACE2",
       "SetID": "9dl0ei6",
       "Name": "Training Race 2",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_04_TRAININGRACE3",
@@ -430,9 +435,9 @@
       "ID": "ACH_05_GRANDLAP1",
       "SetID": "9dl0ei6",
       "Name": "The Grand Lap 1",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_06_GRANDLAP2",
@@ -462,7 +467,7 @@
       "ID": "ACH_09_HANNAH",
       "SetID": "9dl0ei6",
       "Name": "Hannah",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 55
     },
@@ -478,7 +483,7 @@
       "ID": "ACH_11_SOFIA",
       "SetID": "9dl0ei6",
       "Name": "Sofia",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -494,7 +499,7 @@
       "ID": "ACH_13_TREASUREHUNTER",
       "SetID": "9dl0ei6",
       "Name": "Treasure Hunter",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
       "UsersEstimate": 28
     },
@@ -526,7 +531,7 @@
       "ID": "ACH_17_PICNIC",
       "SetID": "9dl0ei6",
       "Name": "Picnic",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 37
     },
@@ -574,7 +579,7 @@
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 20,
       "UsersEstimate": 60
     },
@@ -584,7 +589,7 @@
       "Name": "Stonehenge",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_25_BEACH",
@@ -615,14 +620,14 @@
     {
       "ID": "9dl0ei6",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:10:51.3353887+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:09:49.3170165+00:00",
   "LastUpdate_AppInfo": "2024-01-08T02:57:23.732721+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:58:13.7959397+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:10:51.3354095+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:58:03.9977999+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:09:49.3170371+00:00"
 }

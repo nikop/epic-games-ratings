@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -991,9 +991,9 @@
       "ID": "ACH_AWAKEN",
       "SetID": "88d7anj",
       "Name": "Awaken",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_CLARITY",
@@ -1174,8 +1174,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:08:33.6031594+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:06:30.88346+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:12.9603165+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:59:28.2626553+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:08:33.6031786+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:58:50.5060053+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:06:30.8834864+00:00"
 }

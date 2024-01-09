@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74071,
+  "EOS_Progressed": 74079,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 1723,
+  "EOS_NewPlayers": 1722,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6608,6 +6608,11 @@
       "Time": "2024-01-08T23:08:53.2958244+00:00",
       "NumProgressed": 74071,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2024-01-09T00:08:24.3273754+00:00",
+      "NumProgressed": 74079,
+      "NumCompleted": 113
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6620,7 +6625,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27406
+      "UsersEstimate": 27409
     },
     {
       "ID": "Achievement_10",
@@ -6660,7 +6665,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "Achievement_15",
@@ -6692,7 +6697,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "Achievement_19",
@@ -6708,7 +6713,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20740
+      "UsersEstimate": 20742
     },
     {
       "ID": "Achievement_20",
@@ -6732,7 +6737,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "Achievement_23",
@@ -6820,7 +6825,7 @@
       "Name": "Art Director",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "Achievement_33",
@@ -6844,7 +6849,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6666
+      "UsersEstimate": 6667
     },
     {
       "ID": "Achievement_5",
@@ -6852,7 +6857,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5185
+      "UsersEstimate": 5186
     },
     {
       "ID": "Achievement_6",
@@ -6891,7 +6896,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74071,
+      "Progressed": 74079,
       "Completed": 113
     }
   ],
@@ -6899,8 +6904,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-05T18:03:34.6922579+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:08:53.2958239+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:08:24.3273752+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:03:12.6151045+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:08:53.2958842+00:00"
+  "LastUpdate_Ratings": "2024-01-09T00:03:02.0970694+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:08:24.3274216+00:00"
 }

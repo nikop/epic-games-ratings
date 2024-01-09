@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2086,
+  "EOS_Progressed": 2087,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -3979,6 +3979,11 @@
       "Time": "2024-01-08T23:10:54.4368925+00:00",
       "NumProgressed": 2086,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T00:09:51.7627692+00:00",
+      "NumProgressed": 2087,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3990,7 +3995,7 @@
       "Name": "Break Out",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "ACH_02",
@@ -4006,7 +4011,7 @@
       "Name": "Powerful Allies",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ACH_04",
@@ -4132,9 +4137,9 @@
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 42
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_20",
@@ -4277,7 +4282,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2086,
+      "Progressed": 2087,
       "Completed": 3
     }
   ],
@@ -4285,8 +4290,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-08T15:00:05.2060054+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:10:54.4368922+00:00",
-  "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:00:27.3012538+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:10:54.4369289+00:00"
+  "LastChanged_Achievements": "2024-01-09T00:09:51.7627688+00:00",
+  "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
+  "LastUpdate_Ratings": "2024-01-08T23:59:29.7254369+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:09:51.7628113+00:00"
 }

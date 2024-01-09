@@ -1,12 +1,12 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 447)  
+Rating: 4.59 (Ranked 448)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~89,027 |
+| Sowwy! | 36.00% | ~89,029 |
 | Alt+F4 | 10.00% | ~24,730 |
 | Where's that freaking Dwarf? | 9.00% | ~22,257 |
 | Déjà vu | 8.00% | ~19,784 |
@@ -51,7 +51,7 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.70% | ~1,731 |
 | Law and Order | 0.70% | ~1,731 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,484 |
-| It's been a hard day's night | 0.50% | ~1,236 |
+| It's been a hard day's night | 0.50% | ~1,237 |
 | Friendly fire | 0.40% | ~989 |
 | I'd rather... Just... Sing! | 0.40% | ~989 |
 | The number of the counting shalt be 7 | 0.40% | ~989 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,298 (Ranked 72)  
+Progressed: 247,304 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,6 +318,7 @@ Completed: 8 (0.00%) (Ranked 395)
 | 2024-01-06 | 246,932 | 8 |
 | 2024-01-07 | 247,153 | 8 |
 | 2024-01-08 | 247,298 | 8 |
+| 2024-01-09 | 247,304 | 8 |
 ## Awards
 Max (Character Customization): 267  (Ranked 276)  
 Sum: 561 (Ranked 330)  

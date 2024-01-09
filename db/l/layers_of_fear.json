@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1319,6 +1319,11 @@
       "Time": "2024-01-08T22:09:13.4665278+00:00",
       "NumProgressed": 295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T00:08:39.1991603+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1339,7 +1344,7 @@
       "Name": "Another perspective",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "assemble_puzzles",
@@ -1409,9 +1414,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 172
     },
     {
       "ID": "decrypt_one_myth",
@@ -1435,7 +1440,7 @@
       "Name": "Refuse to look",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "do_what_you_have_to",
@@ -1459,7 +1464,7 @@
       "Name": "Face your fears",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1491,7 +1496,7 @@
       "Name": "A Slice of Life",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "find_one_poster",
@@ -1499,7 +1504,7 @@
       "Name": "Debut",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "find_one_rat_sketch",
@@ -1579,7 +1584,7 @@
       "Name": "Lights! Camera! Action!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "once_upon_a_time",
@@ -1667,7 +1672,7 @@
       "Name": "Something important",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "spy_one_item",
@@ -1691,7 +1696,7 @@
       "Name": "The art of movement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "the_tragedy_unfolds",
@@ -1729,9 +1734,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 154
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1746,14 +1751,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 296,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:09:14.6670785+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:08:39.1991599+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:57:41.8687139+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:09:14.6671181+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:57:42.0534654+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:08:39.1992026+00:00"
 }

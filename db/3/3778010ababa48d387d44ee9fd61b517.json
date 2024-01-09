@@ -328,9 +328,9 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
@@ -408,9 +408,9 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "A_NOFISH",
@@ -424,9 +424,9 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 73,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "A_POPULATION",
@@ -543,8 +543,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:06:17.3702769+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:04:56.840213+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.4901037+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:58:36.9992335+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:06:17.3703282+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:58:18.8140351+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:04:56.8402428+00:00"
 }

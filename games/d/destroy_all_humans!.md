@@ -7,30 +7,30 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 76.00% | ~309 |
-| Kaijuiced | 70.00% | ~284 |
-| Lie Back and Think of Albion | 65.00% | ~264 |
+| Kaijuiced | 71.00% | ~289 |
+| Lie Back and Think of Albion | 65.00% | ~265 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~256 |
 | I Look Up As I Walk to Takoshima | 59.00% | ~240 |
-| Yettisoned | 58.00% | ~235 |
-| Pimp My Raid | 56.00% | ~227 |
-| Perfect Probulator | 55.00% | ~223 |
-| Lobster Blisque | 50.00% | ~203 |
+| Yettisoned | 58.00% | ~236 |
+| Pimp My Raid | 56.00% | ~228 |
+| Perfect Probulator | 55.00% | ~224 |
+| Lobster Blisque | 50.00% | ~204 |
 | Fly Me to the Moon Base | 48.00% | ~195 |
 | Earthly Pleasures | 48.00% | ~195 |
 | Ducks in a Row, Fish in a Barrel | 45.00% | ~183 |
-| Forbidden Donut | 36.00% | ~146 |
-| Freshly Squeezed | 36.00% | ~146 |
-| Bodied Sattva | 36.00% | ~146 |
+| Forbidden Donut | 36.00% | ~147 |
+| Freshly Squeezed | 36.00% | ~147 |
+| Bodied Sattva | 36.00% | ~147 |
 | Upgreatest | 35.00% | ~142 |
 | Deincarnated | 29.00% | ~118 |
 | Furon Fashion | 29.00% | ~118 |
 | Rock of the Bay | 28.00% | ~114 |
-| Trans-Siberian Express | 24.00% | ~97 |
+| Trans-Siberian Express | 25.00% | ~102 |
+| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~81 |
 | Arkvoodle Doodle | 19.00% | ~77 |
-| Re-Return of the Clone of the Invasion II-2 | 19.00% | ~77 |
-| Ouch of Body Experience | 16.00% | ~65 |
 | If You Know What I Mean | 16.00% | ~65 |
 | Die Nasty | 16.00% | ~65 |
+| Ouch of Body Experience | 15.00% | ~61 |
 | Hidden Human Hive Harvest | 15.00% | ~61 |
 | Mash Machine | 15.00% | ~61 |
 | Albion Bridge Is for Falling Down | 14.00% | ~57 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~8 |
 | Against All Odds | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406 (Ranked 366)  
+Progressed: 407 (Ranked 366)  
 Completed: 5 (1.23%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,6 +74,7 @@ Completed: 5 (1.23%) (Ranked 160)
 | 2024-01-06 | 367 | 5 |
 | 2024-01-07 | 392 | 5 |
 | 2024-01-08 | 406 | 5 |
+| 2024-01-09 | 407 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 503)  
 Sum: 35 (Ranked 532)  

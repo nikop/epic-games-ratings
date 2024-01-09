@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -157,7 +157,7 @@
   "Tags": [],
   "EOS_Progressed": 1642,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5024,9 +5024,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 936
+      "UsersEstimate": 952
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -5216,9 +5216,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1166
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -5288,9 +5288,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1445
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -5377,8 +5377,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:05:31.3448648+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:04:25.1054608+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:58:11.6544407+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:05:31.3449792+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:58:02.6930003+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:04:25.1055579+00:00"
 }

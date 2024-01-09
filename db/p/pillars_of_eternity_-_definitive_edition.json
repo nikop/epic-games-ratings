@@ -3591,9 +3591,9 @@
       "Count": 190
     }
   ],
-  "EOS_Progressed": 1077,
+  "EOS_Progressed": 1076,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -3,
+  "EOS_NewPlayers": -4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -3986,6 +3986,11 @@
       "Time": "2024-01-08T17:06:47.8318651+00:00",
       "NumProgressed": 1077,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T00:06:13.7357173+00:00",
+      "NumProgressed": 1076,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -4125,7 +4130,7 @@
       "Name": "Disposition",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_18",
@@ -4149,7 +4154,7 @@
       "Name": "The Watcher With Eight Friends",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_21",
@@ -4205,7 +4210,7 @@
       "Name": "Make an Adventurer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_28",
@@ -4221,7 +4226,7 @@
       "Name": "Middle 5 Levels of Od Nua",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_30",
@@ -4277,7 +4282,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 894
+      "UsersEstimate": 893
     },
     {
       "ID": "achievement_37",
@@ -4291,9 +4296,9 @@
       "ID": "achievement_38",
       "SetID": "70p237j",
       "Name": "Path of the Damned",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_39",
@@ -4380,15 +4385,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1077,
+      "Progressed": 1076,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2024-01-07T13:57:04.481699+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:08:09.2225693+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:06:13.7357169+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.1965971+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:58:07.9743233+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:08:09.2226148+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:58:00.4407071+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:06:13.7357541+00:00"
 }

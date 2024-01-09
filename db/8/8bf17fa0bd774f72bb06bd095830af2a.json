@@ -2,9 +2,9 @@
   "ID": "8bf17fa0bd774f72bb06bd095830af2a",
   "Name": "The Dragoness Command Of The Flame",
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 507,
+  "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43,
+  "EOS_Progressed": 44,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -239,6 +239,11 @@
       "Time": "2024-01-07T12:04:49.3947713+00:00",
       "NumProgressed": 43,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T00:05:35.8149017+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-04T17:05:09.1155779+00:00",
@@ -257,7 +262,7 @@
       "ID": "SteamAchievement_KillDesertMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Watan",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -273,7 +278,7 @@
       "ID": "SteamAchievement_KillForestMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Grassholt",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 22
     },
@@ -281,7 +286,7 @@
       "ID": "SteamAchievement_KillFrostMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Frosthyll",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -305,7 +310,7 @@
       "ID": "SteamAchievement_WinBattles01",
       "SetID": "b8gj0ip",
       "Name": "Battle Commander",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -313,7 +318,7 @@
       "ID": "SteamAchievement_WinBattles02",
       "SetID": "b8gj0ip",
       "Name": "General",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -321,7 +326,7 @@
       "ID": "SteamAchievements_KillDragons",
       "SetID": "b8gj0ip",
       "Name": "Dragon Slayer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -337,7 +342,7 @@
       "ID": "SteamAchievment_BuildOneBuilding",
       "SetID": "b8gj0ip",
       "Name": "Emerging Constructor",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -385,7 +390,7 @@
       "ID": "SteamAchievment_CompleteOneChallenge",
       "SetID": "b8gj0ip",
       "Name": "First One",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -393,7 +398,7 @@
       "ID": "SteamAchievment_CompleteQuest02",
       "SetID": "b8gj0ip",
       "Name": "Defender of the Forced Gates",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -409,7 +414,7 @@
       "ID": "SteamAchievment_CompleteQuest04",
       "SetID": "b8gj0ip",
       "Name": "Forest Dragons\u0027 Ally",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -425,7 +430,7 @@
       "ID": "SteamAchievment_CompleteQuest06",
       "SetID": "b8gj0ip",
       "Name": "Ancient Machinery Operator",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -441,7 +446,7 @@
       "ID": "SteamAchievment_CompleteQuest08",
       "SetID": "b8gj0ip",
       "Name": "Savior of the Fortress",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -513,7 +518,7 @@
       "ID": "SteamAchievment_CompleteStoryQuest01",
       "SetID": "b8gj0ip",
       "Name": "Hunger Buster",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 25
     },
@@ -529,7 +534,7 @@
       "ID": "SteamAchievment_FirstVisitCapitalCity",
       "SetID": "b8gj0ip",
       "Name": "The Dawn",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 29
     },
@@ -546,14 +551,14 @@
     {
       "ID": "b8gj0ip",
       "IsBase": true,
-      "Progressed": 43,
+      "Progressed": 44,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:07:14.2878889+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:05:35.8149012+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0644796+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:57:23.8785648+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:07:14.2879217+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:57:30.8549531+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:05:35.8149245+00:00"
 }

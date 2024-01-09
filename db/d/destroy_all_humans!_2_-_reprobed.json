@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,7 +294,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
@@ -1714,6 +1714,11 @@
       "Time": "2024-01-08T22:09:48.6940259+00:00",
       "NumProgressed": 370,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T00:09:05.7260676+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1724,9 +1729,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1734,7 +1739,7 @@
       "Name": "Ultimate Smoothie",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
@@ -1756,9 +1761,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1854,7 +1859,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1862,7 +1867,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1870,7 +1875,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1892,9 +1897,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2070,14 +2075,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 2
     }
   ],
@@ -2085,8 +2090,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:09:50.4513774+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:09:05.7260673+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:57:42.8180692+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:09:50.4514179+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:57:42.6999242+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:09:05.7261016+00:00"
 }

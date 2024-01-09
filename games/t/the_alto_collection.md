@@ -6,17 +6,17 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,600 |
-| Finding Your Footing | 25.00% | ~13,518 |
-| Nomad | 17.00% | ~9,192 |
-| Picking Up Speed | 15.00% | ~8,111 |
-| Welcome Maya | 14.00% | ~7,570 |
-| Scout | 11.00% | ~5,948 |
-| Sightseer | 11.00% | ~5,948 |
-| Amateur | 10.00% | ~5,407 |
+| Rookie | 27.00% | ~14,602 |
+| Finding Your Footing | 25.00% | ~13,520 |
+| Nomad | 17.00% | ~9,194 |
+| Picking Up Speed | 15.00% | ~8,112 |
+| Welcome Maya | 14.00% | ~7,571 |
+| Scout | 11.00% | ~5,949 |
+| Sightseer | 11.00% | ~5,949 |
+| Amateur | 10.00% | ~5,408 |
 | Unlock Maya | 8.00% | ~4,326 |
 | Wanderer | 8.00% | ~4,326 |
-| Enter Paz | 7.00% | ~3,785 |
+| Enter Paz | 7.00% | ~3,786 |
 | Aviator | 5.00% | ~2,704 |
 | My Little Friend | 5.00% | ~2,704 |
 | One With The Board | 5.00% | ~2,704 |
@@ -27,11 +27,11 @@ Number of Ratings: 332  (23.09.2022)
 | Human Flight | 3.00% | ~1,622 |
 | Sandboarder | 3.00% | ~1,622 |
 | Izel Has Arrived | 3.00% | ~1,622 |
-| Explorer | 2.00% | ~1,081 |
-| Pro | 2.00% | ~1,081 |
-| Journeyer | 2.00% | ~1,081 |
-| Unlock Izel | 2.00% | ~1,081 |
-| Here Comes Felipe | 2.00% | ~1,081 |
+| Explorer | 2.00% | ~1,082 |
+| Pro | 2.00% | ~1,082 |
+| Journeyer | 2.00% | ~1,082 |
+| Unlock Izel | 2.00% | ~1,082 |
+| Here Comes Felipe | 2.00% | ~1,082 |
 | Hoist the Mainsail | 1.00% | ~541 |
 | Daredevil | 1.00% | ~541 |
 | Introducing Sumara | 1.00% | ~541 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~54 |
 | Windswept | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,073 (Ranked 121)  
+Progressed: 54,080 (Ranked 121)  
 Completed: 5 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,6 +310,7 @@ Completed: 5 (0.01%) (Ranked 372)
 | 2024-01-06 | 53,813 | 5 |
 | 2024-01-07 | 53,972 | 5 |
 | 2024-01-08 | 54,073 | 5 |
+| 2024-01-09 | 54,080 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 454)  
 Sum: 396 (Ranked 357)  

@@ -336,9 +336,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 767099,
+  "EOS_Progressed": 767103,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2206,
+  "EOS_NewPlayers": 2195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30701,6 +30701,11 @@
       "Time": "2024-01-08T23:06:00.2079011+00:00",
       "NumProgressed": 767099,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T00:04:45.0450224+00:00",
+      "NumProgressed": 767103,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -30776,7 +30781,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 283827
+      "UsersEstimate": 283828
     },
     {
       "ID": "ach_demolish_trees",
@@ -30784,7 +30789,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 130407
+      "UsersEstimate": 130408
     },
     {
       "ID": "ach_free_cam_mode",
@@ -30840,7 +30845,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 368208
+      "UsersEstimate": 368209
     },
     {
       "ID": "ach_produced",
@@ -30920,14 +30925,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 145749
+      "UsersEstimate": 145750
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 767099,
+      "Progressed": 767103,
       "Completed": 4
     }
   ],
@@ -30935,8 +30940,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2024-01-07T11:01:40.5660673+00:00",
-  "LastChanged_Achievements": "2024-01-08T23:06:00.2079003+00:00",
+  "LastChanged_Achievements": "2024-01-09T00:04:45.045022+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.1279614+00:00",
-  "LastUpdate_Ratings": "2024-01-08T22:57:29.2628149+00:00",
-  "LastUpdate_Achievements": "2024-01-08T23:06:00.2080255+00:00"
+  "LastUpdate_Ratings": "2024-01-08T23:57:34.279661+00:00",
+  "LastUpdate_Achievements": "2024-01-09T00:04:45.0451467+00:00"
 }
