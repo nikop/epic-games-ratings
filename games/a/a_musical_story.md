@@ -13,17 +13,17 @@
 | The Van | 73.00% | ~83 |
 | Road-Trip | 67.00% | ~76 |
 | A Musical Pause | 66.00% | ~75 |
-| Briget's | 55.00% | ~63 |
+| Briget's | 56.00% | ~64 |
 | Sound of Noise | 50.00% | ~57 |
 | Big City Music | 48.00% | ~55 |
-| Love at First Sight | 46.00% | ~52 |
-| First Kiss | 39.00% | ~44 |
+| Love at First Sight | 47.00% | ~54 |
+| First Kiss | 40.00% | ~46 |
 | Symbiosis | 38.00% | ~43 |
-| A Bigger Band | 34.00% | ~39 |
-| Fuel | 31.00% | ~35 |
-| Alone Together | 31.00% | ~35 |
-| Threatening Nature | 29.00% | ~33 |
-| Flat Tire | 28.00% | ~32 |
+| A Bigger Band | 35.00% | ~40 |
+| Fuel | 32.00% | ~36 |
+| Alone Together | 32.00% | ~36 |
+| Threatening Nature | 30.00% | ~34 |
+| Flat Tire | 29.00% | ~33 |
 | TV Dreams | 26.00% | ~30 |
 | The Clash | 24.00% | ~27 |
 | Dreamers | 21.00% | ~24 |
@@ -40,9 +40,9 @@
 | Flight of the Bumblebee | 11.00% | ~13 |
 | As the Crow Flies | 9.00% | ~10 |
 | Milk and Alcohol | 8.00% | ~9 |
+| On the Road Again | 6.00% | ~7 |
 | Under the Bridge | 6.00% | ~7 |
 | Gasoline | 5.00% | ~6 |
-| On the Road Again | 5.00% | ~6 |
 | Hospital Flowers | 5.00% | ~6 |
 | Unintended | 5.00% | ~6 |
 | Riders on the Storm | 4.00% | ~5 |

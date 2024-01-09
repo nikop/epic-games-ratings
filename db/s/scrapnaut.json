@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -156,7 +156,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 645,
+  "EOS_Progressed": 646,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -2236,6 +2236,11 @@
       "Time": "2024-01-09T03:09:38.4534739+00:00",
       "NumProgressed": 645,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T09:09:32.9190104+00:00",
+      "NumProgressed": 646,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2295,7 +2300,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2367,7 +2372,7 @@
       "Name": "Forest Lord",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_FIND_10_TREASURES",
@@ -2383,7 +2388,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_KILL_100",
@@ -2399,7 +2404,7 @@
       "Name": "Scrapper",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_KILL_50",
@@ -2423,7 +2428,7 @@
       "Name": "Fuel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_METEORITE_SMELTER",
@@ -2494,7 +2499,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 645,
+      "Progressed": 646,
       "Completed": 4
     }
   ],
@@ -2502,8 +2507,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:10:03.5944232+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:09:32.91901+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:02:57.019243+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:10:03.5944592+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:02:44.3583932+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:09:32.9190379+00:00"
 }

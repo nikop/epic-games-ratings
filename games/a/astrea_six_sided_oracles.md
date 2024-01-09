@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 84.00% | ~303 |
-| Purification Pioneer | 80.00% | ~289 |
-| Mechanical Buddy | 74.00% | ~267 |
-| Dicesmithing Time! | 64.00% | ~231 |
+| Meissa's Savior | 85.00% | ~308 |
+| Purification Pioneer | 80.00% | ~290 |
+| Mechanical Buddy | 74.00% | ~268 |
+| Dicesmithing Time! | 64.00% | ~232 |
 | Sanctuary Guardian | 54.00% | ~195 |
-| Endless Tricks | 51.00% | ~184 |
-| Wild's Keeper | 48.00% | ~173 |
+| Endless Tricks | 51.00% | ~185 |
+| Wild's Keeper | 48.00% | ~174 |
 | Mind Illuminator | 44.00% | ~159 |
-| Stellar Dismantler | 38.00% | ~137 |
-| Astral Adventurer | 35.00% | ~126 |
-| Noctuan Champion | 35.00% | ~126 |
-| Anomaly Destroyer | 32.00% | ~116 |
-| Star Killer | 30.00% | ~108 |
+| Stellar Dismantler | 38.00% | ~138 |
+| Astral Adventurer | 35.00% | ~127 |
+| Noctuan Champion | 35.00% | ~127 |
+| Anomaly Destroyer | 31.00% | ~112 |
+| Star Killer | 30.00% | ~109 |
 | Eridanian Champion | 25.00% | ~90 |
-| Loyal Partner | 22.00% | ~79 |
+| Loyal Partner | 22.00% | ~80 |
 | Lacertian Champion | 21.00% | ~76 |
 | Shard Spender | 19.00% | ~69 |
 | Apian Champion | 19.00% | ~69 |
@@ -26,9 +26,9 @@
 | Sadistic Plan | 16.00% | ~58 |
 | Behenian Champion | 14.00% | ~51 |
 | Heavy Purger | 12.00% | ~43 |
-| Wave Bender | 11.00% | ~40 |
+| Wave Bender | 10.00% | ~36 |
 | Aquarian Champion | 10.00% | ~36 |
-| Astral Seeker | 9.00% | ~32 |
+| Astral Seeker | 9.00% | ~33 |
 | Stellar Haste | 8.00% | ~29 |
 | Heart Gate | 7.00% | ~25 |
 | The Corruption Goddess | 7.00% | ~25 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361 (Ranked 376)  
+Progressed: 362 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,4 +178,4 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 347 | 0 |
 | 2024-01-07 | 354 | 0 |
 | 2024-01-08 | 360 | 0 |
-| 2024-01-09 | 361 | 0 |
+| 2024-01-09 | 362 | 0 |

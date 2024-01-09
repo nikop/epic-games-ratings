@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 15987,
+  "EOS_Progressed": 15988,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 953,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -17546,6 +17546,11 @@
       "Time": "2024-01-09T08:10:34.6292787+00:00",
       "NumProgressed": 15987,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2024-01-09T09:09:56.4294582+00:00",
+      "NumProgressed": 15988,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 34,
@@ -17613,7 +17618,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ACH09",
@@ -17828,7 +17833,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15987,
+      "Progressed": 15988,
       "Completed": 92
     }
   ],
@@ -17836,8 +17841,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:10:34.629278+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:09:56.4294577+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
   "LastUpdate_Ratings": "2024-01-09T08:02:50.0425222+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:10:34.629376+00:00"
+  "LastUpdate_Achievements": "2024-01-09T09:09:56.4295687+00:00"
 }

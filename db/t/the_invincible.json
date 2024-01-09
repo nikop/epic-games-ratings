@@ -91,7 +91,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1554,
+  "EOS_Progressed": 1555,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 1,
@@ -4036,6 +4036,11 @@
       "Time": "2024-01-09T08:10:20.3448904+00:00",
       "NumProgressed": 1554,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T09:09:45.790416+00:00",
+      "NumProgressed": 1555,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4072,7 +4077,7 @@
       "Name": "Fierce fight",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "AchvBombStop",
@@ -4112,7 +4117,7 @@
       "Name": "The Alliance",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "AchvDoom",
@@ -4232,7 +4237,7 @@
       "Name": "The City",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "AchvReachCondor",
@@ -4270,16 +4275,16 @@
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 264
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1554,
+      "Progressed": 1555,
       "Completed": 1
     }
   ],
@@ -4287,8 +4292,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-08T13:01:59.2105295+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:10:20.34489+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:09:45.7904157+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:57:43.2020144+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:10:20.3449336+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:57:26.4181561+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:09:45.7904558+00:00"
 }

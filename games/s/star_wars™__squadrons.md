@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~37,540 |
-| Safety in the Storm | 23.00% | ~9,089 |
-| A Better Idea | 23.00% | ~9,089 |
-| Begin the Ceremony | 19.00% | ~7,508 |
-| Mission Accomplished | 18.00% | ~7,113 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~5,927 |
-| A Starfighter of Your Own | 13.00% | ~5,137 |
+| Fracture at Fostar Haven | 95.00% | ~37,544 |
+| Safety in the Storm | 23.00% | ~9,090 |
+| A Better Idea | 23.00% | ~9,090 |
+| Begin the Ceremony | 19.00% | ~7,509 |
+| Mission Accomplished | 18.00% | ~7,114 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~5,928 |
+| A Starfighter of Your Own | 13.00% | ~5,138 |
 | Asset Secured | 12.00% | ~4,742 |
 | Unkillable | 7.00% | ~2,766 |
 | Together, Vanguard | 7.00% | ~2,766 |
@@ -21,11 +21,11 @@
 | Back From the Brink | 4.00% | ~1,581 |
 | Flames Over Mon Cala | 4.00% | ~1,581 |
 | A Promising Career | 4.00% | ~1,581 |
-| Great Shot, Kid | 3.00% | ~1,185 |
-| Stronger Together | 3.00% | ~1,185 |
-| Temporary Guardian | 3.00% | ~1,185 |
-| Baited | 3.00% | ~1,185 |
-| Punch It | 3.00% | ~1,185 |
+| Great Shot, Kid | 3.00% | ~1,186 |
+| Stronger Together | 3.00% | ~1,186 |
+| Temporary Guardian | 3.00% | ~1,186 |
+| Baited | 3.00% | ~1,186 |
+| Punch It | 3.00% | ~1,186 |
 | Stun 'Em | 2.00% | ~790 |
 | Squadron Hunter | 2.00% | ~790 |
 | Combat Pilot | 2.00% | ~790 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~40 |
 | Ultimate Weapon | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,516 (Ranked 134)  
+Progressed: 39,520 (Ranked 134)  
 Completed: 3 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 3 (0.01%) (Ranked 372)
 | 2024-01-06 | 38,621 | 3 |
 | 2024-01-07 | 39,123 | 3 |
 | 2024-01-08 | 39,442 | 3 |
-| 2024-01-09 | 39,516 | 3 |
+| 2024-01-09 | 39,520 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

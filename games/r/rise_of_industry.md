@@ -5,26 +5,26 @@ Rating: 4.25 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~368,240 |
-| Well educated | 37.00% | ~283,851 |
-| City Planner | 19.00% | ~145,762 |
-| Deforester | 17.00% | ~130,418 |
-| Big Hauling | 16.00% | ~122,747 |
-| Apprentice Manufacturer | 13.00% | ~99,732 |
-| Exporter | 13.00% | ~99,732 |
-| I would drive 500 tiles... | 12.00% | ~92,060 |
-| Landscaper | 12.00% | ~92,060 |
-| Railwayman | 8.00% | ~61,373 |
+| Entrepreneur | 48.00% | ~368,244 |
+| Well educated | 37.00% | ~283,855 |
+| City Planner | 19.00% | ~145,763 |
+| Deforester | 17.00% | ~130,420 |
+| Big Hauling | 16.00% | ~122,748 |
+| Apprentice Manufacturer | 13.00% | ~99,733 |
+| Exporter | 13.00% | ~99,733 |
+| I would drive 500 tiles... | 12.00% | ~92,061 |
+| Landscaper | 12.00% | ~92,061 |
+| Railwayman | 8.00% | ~61,374 |
 | Penniless | 6.00% | ~46,030 |
 | Massive Gains | 6.00% | ~46,030 |
 | Salesman | 3.00% | ~23,015 |
-| Engineer | 2.00% | ~15,343 |
-| High Flyer | 2.00% | ~15,343 |
+| Engineer | 2.00% | ~15,344 |
+| High Flyer | 2.00% | ~15,344 |
 | Captain | 0.80% | ~6,137 |
 | Billionaire | 0.70% | ~5,370 |
 | Vroom Vroom | 0.40% | ~3,069 |
-| Excavator | 0.30% | ~2,301 |
-| Loan Ranger | 0.30% | ~2,301 |
+| Excavator | 0.30% | ~2,302 |
+| Loan Ranger | 0.30% | ~2,302 |
 | [2130] Nature Lover | 0.10% | ~767 |
 | [2130] No Quarter Given | 0.10% | ~767 |
 | [2130] Dumpster Diving | 0.10% | ~767 |
@@ -33,7 +33,7 @@ Rating: 4.25 (Ranked 923)
 | Master Builder | 0.10% | ~767 |
 | Hard working | 0.10% | ~767 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 767,166 (Ranked 24)  
+Progressed: 767,175 (Ranked 24)  
 Completed: 4 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 4 (0.00%) (Ranked 395)
 | 2024-01-06 | 766,484 | 4 |
 | 2024-01-07 | 766,859 | 4 |
 | 2024-01-08 | 767,099 | 4 |
-| 2024-01-09 | 767,166 | 4 |
+| 2024-01-09 | 767,175 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

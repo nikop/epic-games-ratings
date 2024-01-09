@@ -7,8 +7,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~925 |
-| Lost and Found | 8.00% | ~569 |
-| Autodidact | 7.00% | ~9,257 |
+| Lost and Found | 8.00% | ~570 |
+| Autodidact | 7.00% | ~9,258 |
 | This guy... again? | 7.00% | ~498 |
 | This Belongs in a Museum | 6.00% | ~7,935 |
 | Creep and Sleep | 6.00% | ~7,935 |
@@ -34,24 +34,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,290 |
 | Nope | 4.00% | ~5,290 |
 | Friends 'Til the End | 4.00% | ~285 |
-| Resurrection | 3.00% | ~3,967 |
-| Unleash Hell | 3.00% | ~3,967 |
-| Funny Guy | 3.00% | ~3,967 |
-| Long Live the King | 3.00% | ~3,967 |
-| Wyrdly Reconstructed | 3.00% | ~3,967 |
-| Boxcar Kid | 3.00% | ~3,967 |
-| Unfulfilled Desires | 3.00% | ~3,967 |
-| Predator | 3.00% | ~3,967 |
-| Dissector | 3.00% | ~3,967 |
-| Banishment | 3.00% | ~3,967 |
-| Deprogramming | 3.00% | ~3,967 |
-| Now Stay Dead | 3.00% | ~3,967 |
-| Reverse Banditry | 3.00% | ~3,967 |
-| A Clear Conscience | 3.00% | ~3,967 |
-| When You Want Something Done Right | 3.00% | ~3,967 |
-| Utopia | 3.00% | ~3,967 |
-| Unshackled | 3.00% | ~3,967 |
-| Road Trip | 3.00% | ~3,967 |
+| Resurrection | 3.00% | ~3,968 |
+| Unleash Hell | 3.00% | ~3,968 |
+| Funny Guy | 3.00% | ~3,968 |
+| Long Live the King | 3.00% | ~3,968 |
+| Wyrdly Reconstructed | 3.00% | ~3,968 |
+| Boxcar Kid | 3.00% | ~3,968 |
+| Unfulfilled Desires | 3.00% | ~3,968 |
+| Predator | 3.00% | ~3,968 |
+| Dissector | 3.00% | ~3,968 |
+| Banishment | 3.00% | ~3,968 |
+| Deprogramming | 3.00% | ~3,968 |
+| Now Stay Dead | 3.00% | ~3,968 |
+| Reverse Banditry | 3.00% | ~3,968 |
+| A Clear Conscience | 3.00% | ~3,968 |
+| When You Want Something Done Right | 3.00% | ~3,968 |
+| Utopia | 3.00% | ~3,968 |
+| Unshackled | 3.00% | ~3,968 |
+| Road Trip | 3.00% | ~3,968 |
 | This Looks Familiar | 2.00% | ~2,645 |
 | Hope Rekindled | 2.00% | ~2,645 |
 | Ichthyophobic | 2.00% | ~2,645 |
@@ -70,8 +70,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.90% | ~64 |
 | Et Tu, Riposte? | 0.80% | ~57 |
 | The World As It Was | 0.70% | ~926 |
-| A Life Well Lived | 0.60% | ~793 |
-| Bacon Bits | 0.60% | ~793 |
+| A Life Well Lived | 0.60% | ~794 |
+| Bacon Bits | 0.60% | ~794 |
 | Eidetic | 0.50% | ~661 |
 | On This Long Road, We Found Redemption | 0.50% | ~36 |
 | Battle Hardened | 0.40% | ~28 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,248 (Ranked 91)  
+Progressed: 132,250 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,248 | 3 |
+| 2024-01-09 | 132,250 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,553 (Ranked 58)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2538,
+  "EOS_Progressed": 2539,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4545,6 +4545,11 @@
       "Time": "2024-01-09T06:04:01.8932978+00:00",
       "NumProgressed": 2538,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-09T09:04:06.021976+00:00",
+      "NumProgressed": 2539,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4564,7 +4569,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "ACHV_03",
@@ -4572,7 +4577,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACHV_04",
@@ -4596,7 +4601,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACHV_07",
@@ -4748,7 +4753,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACHV_26",
@@ -4764,7 +4769,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACHV_28",
@@ -4788,7 +4793,7 @@
       "Name": "Powered Up",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACHV_31",
@@ -4818,9 +4823,9 @@
       "ID": "ACHV_34",
       "SetID": "8p5mlmc",
       "Name": "Shocking",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 482
     },
     {
       "ID": "ACHV_35",
@@ -4844,7 +4849,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACHV_38",
@@ -5011,7 +5016,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2538,
+      "Progressed": 2539,
       "Completed": 13
     }
   ],
@@ -5019,8 +5024,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:04:46.1116847+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:04:06.0219756+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:03:08.7531516+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:04:46.1117479+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:02:53.0091219+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:04:06.0220461+00:00"
 }

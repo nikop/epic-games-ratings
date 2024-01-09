@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -2251,9 +2251,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 105
     },
     {
       "ID": "POPULATION_2",
@@ -2460,8 +2460,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:11:00.0900866+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:10:16.4659045+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:04.5634822+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:59:25.4003155+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:11:00.0901639+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:58:40.2956169+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:10:16.4659965+00:00"
 }

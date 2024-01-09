@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9849,
+  "EOS_Progressed": 9850,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10874,6 +10874,11 @@
       "Time": "2024-01-09T08:10:03.6517795+00:00",
       "NumProgressed": 9849,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-09T09:09:33.0991932+00:00",
+      "NumProgressed": 9850,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10973,7 +10978,7 @@
       "Name": "Donatello",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -11013,7 +11018,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -11037,7 +11042,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -11053,7 +11058,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3447
+      "UsersEstimate": 3448
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11093,7 +11098,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -11117,7 +11122,7 @@
       "Name": "Seeing Red",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -11133,7 +11138,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11173,7 +11178,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -11213,7 +11218,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4924
+      "UsersEstimate": 4925
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11229,7 +11234,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -11237,14 +11242,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9849,
+      "Progressed": 9850,
       "Completed": 10
     }
   ],
@@ -11252,8 +11257,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:10:03.651779+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:09:33.0991929+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:00:12.5427404+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:10:03.651857+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:59:14.6869314+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:09:33.0992663+00:00"
 }

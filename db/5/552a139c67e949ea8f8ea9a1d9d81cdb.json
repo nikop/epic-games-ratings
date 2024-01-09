@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1902,
+  "EOS_Progressed": 1903,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4827,6 +4827,11 @@
       "Time": "2024-01-09T02:30:54.8320169+00:00",
       "NumProgressed": 1902,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T09:05:09.8943588+00:00",
+      "NumProgressed": 1903,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5093,9 +5098,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 171
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5206,20 +5211,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1902,
+      "Progressed": 1903,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1570,
+      "Progressed": 1571,
       "Completed": 1010
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:06:10.70959+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:05:09.8943584+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:58:42.7707492+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:06:10.709638+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:58:08.1091571+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:05:09.8944245+00:00"
 }

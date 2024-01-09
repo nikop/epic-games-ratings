@@ -21,7 +21,7 @@ Rating: 4.52 (Ranked 571)
 | Bloodstained Hands | 6.00% | ~959 |
 | Not my First Time | 5.00% | ~799 |
 | Grand Theft Auto | 5.00% | ~799 |
-| Pie Guy | 4.00% | ~639 |
+| Pie Guy | 4.00% | ~640 |
 | Running Rampant | 3.00% | ~480 |
 | Point A to Point B | 3.00% | ~480 |
 | High Quality H2O | 3.00% | ~480 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 571)
 | Done it All | 0.90% | ~144 |
 | Kingpin | 0.60% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,987 (Ranked 171)  
+Progressed: 15,988 (Ranked 171)  
 Completed: 92 (0.58%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 92 (0.58%) (Ranked 209)
 | 2024-01-06 | 15,660 | 88 |
 | 2024-01-07 | 15,823 | 91 |
 | 2024-01-08 | 15,950 | 92 |
-| 2024-01-09 | 15,987 | 92 |
+| 2024-01-09 | 15,988 | 92 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

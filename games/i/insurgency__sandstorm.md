@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~522 |
 | Road Hazard | 0.10% | ~522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,138 (Ranked 40)  
+Progressed: 522,149 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 2 (0.00%) (Ranked 395)
 | 2024-01-06 | 520,833 | 2 |
 | 2024-01-07 | 521,476 | 2 |
 | 2024-01-08 | 521,958 | 2 |
-| 2024-01-09 | 522,138 | 2 |
+| 2024-01-09 | 522,149 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 238)  
 Sum: 3,344 (Ranked 178)  

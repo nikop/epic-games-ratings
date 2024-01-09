@@ -4,11 +4,11 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 379,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 411,
+  "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -741,9 +741,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7097,
+  "EOS_Progressed": 7098,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10836,6 +10836,11 @@
       "Time": "2024-01-09T05:06:39.9564101+00:00",
       "NumProgressed": 7097,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T09:05:33.8309725+00:00",
+      "NumProgressed": 7098,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11326,13 +11331,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7097,
+      "Progressed": 7098,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7097,
+      "Progressed": 7098,
       "Completed": 7
     }
   ],
@@ -11340,8 +11345,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-09T03:57:10.1517574+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:06:40.5162202+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:05:33.8309722+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:57:25.728131+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:06:40.516317+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:57:14.0728561+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:05:33.831075+00:00"
 }

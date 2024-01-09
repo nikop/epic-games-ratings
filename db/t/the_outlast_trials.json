@@ -3,12 +3,12 @@
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 301,
-  "Ranking_Popularity": 268,
-  "Ranking_PopularitySum": 243,
+  "Ranking_Popularity": 267,
+  "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -4183,11 +4183,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 1563,
       "NumberOfAwardsMax": 287
+    },
+    {
+      "Time": "2024-01-09T08:59:55.8267886+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1571,
+      "NumberOfAwardsMax": 290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1563,
-  "NumberOfAwardsMax": 287,
+  "NumberOfAwards": 1571,
+  "NumberOfAwardsMax": 290,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4218,7 +4224,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 287
+      "Count": 290
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4230,7 +4236,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 226
+      "Count": 231
     },
     {
       "Text": "This game is Educational",
@@ -4263,8 +4269,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2024-01-09T08:01:10.9381562+00:00",
+  "LastChanged": "2024-01-09T08:59:55.8267884+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.3891511+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:01:10.9381567+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:07:23.5200872+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:59:55.8267891+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:06:05.9329039+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1779,6 +1779,11 @@
       "Time": "2024-01-09T08:04:35.1004025+00:00",
       "NumProgressed": 454,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T09:03:57.5650563+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1789,9 +1794,9 @@
       "ID": "AC_ALL_CASSETTES",
       "SetID": "16i2akc",
       "Name": "Sound",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "AC_ALL_COLUMNS",
@@ -1799,7 +1804,7 @@
       "Name": "Empire",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -1837,9 +1842,9 @@
       "ID": "AC_ALL_WEAPON_SLOTS",
       "SetID": "16i2akc",
       "Name": "Armory",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "AC_BLACKJACK_GAMES_1",
@@ -1863,7 +1868,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "AC_BOSS_01",
@@ -1935,7 +1940,7 @@
       "Name": "Corpse",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "AC_DEATH_2",
@@ -1983,7 +1988,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1991,15 +1996,15 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 45,
-      "UsersEstimate": 127
+      "UsersEstimate": 123
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2063,7 +2068,7 @@
       "Name": "Gun",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -2126,14 +2131,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:04:35.100402+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:03:57.565056+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:00:03.0748132+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:04:35.1004365+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:59:07.1812619+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:03:57.5650854+00:00"
 }

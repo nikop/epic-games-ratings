@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1281,
+  "EOS_Progressed": 1282,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3833,6 +3833,11 @@
       "Time": "2024-01-09T08:11:01.846487+00:00",
       "NumProgressed": 1281,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T09:10:17.9856174+00:00",
+      "NumProgressed": 1282,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3852,7 +3857,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3884,7 +3889,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ClockworkProgress1",
@@ -3908,7 +3913,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "CosmeticProgress1",
@@ -3932,7 +3937,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -4004,7 +4009,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "HexlockGift",
@@ -4028,7 +4033,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "LacunaCompleted",
@@ -4132,7 +4137,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "RewindParry",
@@ -4220,7 +4225,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "WarwickDefeated",
@@ -4267,7 +4272,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1281,
+      "Progressed": 1282,
       "Completed": 7
     }
   ],
@@ -4275,8 +4280,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:11:01.8464864+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:10:17.985617+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:00:00.4508928+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:11:01.8465542+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:59:05.3800525+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:10:17.985673+00:00"
 }

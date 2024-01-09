@@ -17,9 +17,9 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 0.80% | ~1,339 |
 | Sharpened Vessel | 0.80% | ~1,339 |
 | Scion | 0.70% | ~1,169 |
-| Jawcrab | 0.70% | ~1,171 |
-| Jawstag | 0.70% | ~1,171 |
-| Feast | 0.70% | ~1,171 |
+| Jawcrab | 0.70% | ~1,172 |
+| Jawstag | 0.70% | ~1,172 |
+| Feast | 0.70% | ~1,172 |
 | Shapely | 0.60% | ~1,004 |
 | Glare | 0.60% | ~1,002 |
 | Watcher | 0.60% | ~1,004 |
@@ -28,10 +28,10 @@ Number of Ratings: 46  (23.09.2022)
 | Hunt Down | 0.40% | ~669 |
 | Host | 0.40% | ~668 |
 | Celebration | 0.40% | ~669 |
+| Inevitable | 0.40% | ~669 |
 | Breath | 0.30% | ~502 |
 | Artisan | 0.30% | ~502 |
 | Hush | 0.30% | ~502 |
-| Inevitable | 0.30% | ~502 |
 | All-Seeing | 0.30% | ~502 |
 | Breathsmith | 0.30% | ~502 |
 | Unwrap the Gift | 0.30% | ~502 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~167 |
 | Intensify | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,354 (Ranked 84)  
+Progressed: 167,358 (Ranked 84)  
 Completed: 452 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 452 (0.27%) (Ranked 259)
 | 2024-01-06 | 166,913 | 446 |
 | 2024-01-07 | 167,144 | 449 |
 | 2024-01-08 | 167,301 | 452 |
-| 2024-01-09 | 167,354 | 452 |
+| 2024-01-09 | 167,358 | 452 |
 ## Awards
 Max (Unique Visuals): 62  (Ranked 430)  
 Sum: 450 (Ranked 343)  

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,261 |
-| Hidden History | 72.00% | ~908 |
-| Commencing of Quests | 61.00% | ~769 |
-| Budding Conjuror | 59.00% | ~744 |
-| Man-Machine Master | 48.00% | ~605 |
-| Mountain Splitter | 48.00% | ~605 |
-| Charmed by the Hunt | 48.00% | ~605 |
+| Land of the Rising Sun | 100.00% | ~1,262 |
+| Hidden History | 72.00% | ~909 |
+| Commencing of Quests | 61.00% | ~770 |
+| Budding Conjuror | 59.00% | ~745 |
+| Man-Machine Master | 48.00% | ~606 |
+| Mountain Splitter | 48.00% | ~606 |
+| Charmed by the Hunt | 48.00% | ~606 |
+| Memory Rouser | 47.00% | ~593 |
 | Subsistence Skills | 47.00% | ~593 |
-| Fusion Conjuror | 46.00% | ~580 |
-| Memory Rouser | 46.00% | ~580 |
+| Fusion Conjuror | 45.00% | ~568 |
 | Kemono Hunter | 42.00% | ~530 |
 | Helpful Heart | 39.00% | ~492 |
 | Expert Conjuror | 39.00% | ~492 |
 | Flawless Crystal | 37.00% | ~467 |
 | Bonds of Enmity | 37.00% | ~467 |
-| Distance Devourer | 35.00% | ~441 |
-| Counter Specialist | 33.00% | ~416 |
+| Distance Devourer | 35.00% | ~442 |
+| Counter Specialist | 32.00% | ~404 |
 | Master of the Skies | 31.00% | ~391 |
 | Axer of Auspice | 28.00% | ~353 |
-| Kemono at Heart | 27.00% | ~340 |
+| Kemono at Heart | 27.00% | ~341 |
 | Mighty Marmelizer | 26.00% | ~328 |
 | Fair Means or Foul | 26.00% | ~328 |
 | Single Minded | 24.00% | ~303 |
 | Snare Specialist | 23.00% | ~290 |
-| Karakuri Trail | 22.00% | ~277 |
+| Karakuri Trail | 22.00% | ~278 |
 | Artful Assister | 21.00% | ~265 |
 | Team Hunter | 20.00% | ~252 |
 | Karakuri Isle | 19.00% | ~240 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 5.00% | ~63 |
 | Tsukumo Whisperer | 3.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,261 (Ranked 281)  
+Progressed: 1,262 (Ranked 281)  
 Completed: 8 (0.63%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,4 +169,4 @@ Completed: 8 (0.63%) (Ranked 204)
 | 2024-01-06 | 1,197 | 8 |
 | 2024-01-07 | 1,227 | 8 |
 | 2024-01-08 | 1,253 | 8 |
-| 2024-01-09 | 1,261 | 8 |
+| 2024-01-09 | 1,262 | 8 |

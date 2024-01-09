@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18698,
+  "EOS_Progressed": 18701,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -16802,6 +16802,11 @@
       "Time": "2024-01-09T08:08:37.719706+00:00",
       "NumProgressed": 18698,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-09T09:08:28.1135226+00:00",
+      "NumProgressed": 18701,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17060,9 +17065,9 @@
       "ID": "32",
       "SetID": "9nnpo9n",
       "Name": "Safe Cracker",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 419
+      "UsersEstimate": 466
     },
     {
       "ID": "33",
@@ -17070,7 +17075,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "34",
@@ -17093,13 +17098,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18698,
+      "Progressed": 18701,
       "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4652,
+      "Progressed": 4655,
       "Completed": 1266
     }
   ],
@@ -17107,8 +17112,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:08:37.7197056+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:08:28.1135221+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:59:52.4725615+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:08:37.7197945+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:58:59.6851208+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:08:28.1136429+00:00"
 }

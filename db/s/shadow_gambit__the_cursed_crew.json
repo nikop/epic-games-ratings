@@ -5,7 +5,7 @@
   "Ranking_Rating": 90,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 268,
+  "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 90,
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1496,
+  "EOS_Progressed": 1497,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.47,
   "EosHistory": [
@@ -5145,6 +5145,11 @@
       "Time": "2024-01-09T07:06:31.0355867+00:00",
       "NumProgressed": 1496,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-09T09:05:48.6150911+00:00",
+      "NumProgressed": 1497,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5165,7 +5170,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "_03_FinishAct1",
@@ -5173,7 +5178,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5235,9 +5240,9 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 210
     },
     {
       "ID": "_12_Completion_50",
@@ -5301,7 +5306,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5364,7 +5369,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1496,
+      "Progressed": 1497,
       "Completed": 37
     }
   ],
@@ -5372,8 +5377,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:07:00.2683445+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:05:48.6150908+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:00:56.3226928+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:07:00.2683843+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:59:45.5733592+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:05:48.6151216+00:00"
 }

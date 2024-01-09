@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5349,
+  "EOS_Progressed": 5350,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
@@ -5020,6 +5020,11 @@
       "Time": "2024-01-09T05:04:21.6771509+00:00",
       "NumProgressed": 5349,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-09T09:03:48.5149333+00:00",
+      "NumProgressed": 5350,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5079,7 +5084,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4493
+      "UsersEstimate": 4494
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5087,7 +5092,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5028
+      "UsersEstimate": 5029
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5095,7 +5100,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4065
+      "UsersEstimate": 4066
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5151,7 +5156,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -5207,7 +5212,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -5223,7 +5228,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -5239,7 +5244,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -5247,7 +5252,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4065
+      "UsersEstimate": 4066
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5255,7 +5260,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -5263,7 +5268,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -5279,7 +5284,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5287,7 +5292,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -5311,7 +5316,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5319,7 +5324,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -5351,7 +5356,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -5359,7 +5364,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -5471,7 +5476,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -5527,7 +5532,7 @@
       "Name": "Bling-Bling",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ID_ACHIEV_65",
@@ -5559,22 +5564,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5349,
+      "Progressed": 5350,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:04:22.8040601+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:03:48.5149329+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:58:26.3264864+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:04:22.8041404+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:57:57.2545909+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:03:48.5150487+00:00"
 }

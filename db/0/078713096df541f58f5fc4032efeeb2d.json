@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -512,9 +512,9 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "creepytale3_ach_18",
@@ -584,9 +584,9 @@
       "ID": "creepytale3_ach_26",
       "SetID": "7idcjbn",
       "Name": "Trap",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "creepytale3_ach_27",
@@ -735,8 +735,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:04:16.1013494+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:03:43.4295014+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:05.980712+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:59:52.648824+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:04:16.101375+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:58:59.9277006+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:03:43.4295194+00:00"
 }

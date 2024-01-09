@@ -5,12 +5,12 @@ Rating: 4.55 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,773 |
-| Keep 'Em Coming | 65.00% | ~4,029 |
-| Snatched Out | 64.00% | ~3,967 |
-| Cleaning Lethe, One Nest At A Time | 57.00% | ~3,533 |
-| Call Me Snake | 54.00% | ~3,347 |
-| Something Lurks Under The Hills | 52.00% | ~3,223 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,775 |
+| Keep 'Em Coming | 65.00% | ~4,031 |
+| Snatched Out | 64.00% | ~3,969 |
+| Cleaning Lethe, One Nest At A Time | 57.00% | ~3,535 |
+| Call Me Snake | 54.00% | ~3,349 |
+| Something Lurks Under The Hills | 52.00% | ~3,225 |
 | This Was No Papercut | 50.00% | ~3,100 |
 | The Shrink Hates Me | 48.00% | ~2,976 |
 | People Person | 47.00% | ~2,914 |
@@ -31,7 +31,7 @@ Rating: 4.55 (Ranked 526)
 | Come on, You Wanna Live Forever? | 22.00% | ~1,364 |
 | The Spire | 21.00% | ~1,302 |
 | El Riesgo Siempre Vive | 20.00% | ~1,240 |
-| Stuff Of Nightmares | 19.00% | ~1,178 |
+| Stuff Of Nightmares | 18.00% | ~1,116 |
 | Excavating The Truth | 18.00% | ~1,116 |
 | Abysmal Horrors | 18.00% | ~1,116 |
 | One For Every Occasion | 17.00% | ~1,054 |
@@ -51,7 +51,7 @@ Rating: 4.55 (Ranked 526)
 | Chalk It Up To Experience | 0.70% | ~43 |
 | This Ain't No Picnic | 0.50% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,199 (Ranked 199)  
+Progressed: 6,201 (Ranked 199)  
 Completed: 3 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 3 (0.05%) (Ranked 337)
 | 2024-01-06 | 6,035 | 3 |
 | 2024-01-07 | 6,120 | 3 |
 | 2024-01-08 | 6,180 | 3 |
-| 2024-01-09 | 6,199 | 3 |
+| 2024-01-09 | 6,201 | 3 |
 ## Awards
 Max (Great Boss Battles): 62  (Ranked 430)  
 Sum: 62 (Ranked 497)  

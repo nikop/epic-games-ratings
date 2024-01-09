@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 852,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -414,7 +414,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208836,
+  "EOS_Progressed": 208837,
   "EOS_Completed": 559,
   "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 6,
@@ -28639,6 +28639,11 @@
       "Time": "2024-01-09T07:06:28.6034331+00:00",
       "NumProgressed": 208836,
       "NumCompleted": 559
+    },
+    {
+      "Time": "2024-01-09T09:05:46.4476394+00:00",
+      "NumProgressed": 208837,
+      "NumCompleted": 559
     }
   ],
   "TotalAchievements": 29,
@@ -28674,7 +28679,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196306
+      "UsersEstimate": 196307
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -28881,7 +28886,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208836,
+      "Progressed": 208837,
       "Completed": 559
     }
   ],
@@ -28889,8 +28894,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-07T03:01:28.6311382+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:06:57.1532567+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:05:46.4476389+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.3451627+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:58:35.1742532+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:06:57.1534349+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:58:02.7535594+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:05:46.4477941+00:00"
 }

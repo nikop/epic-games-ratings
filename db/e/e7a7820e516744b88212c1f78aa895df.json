@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1495,9 +1495,9 @@
       "ID": "achFire1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Fired!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "achMaxCage",
@@ -1726,8 +1726,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:10:29.529285+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:09:52.7846396+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:18.5913726+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:00:27.0013999+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:10:29.5293283+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:59:24.4848834+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:09:52.7846627+00:00"
 }

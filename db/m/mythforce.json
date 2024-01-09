@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6212,
+  "EOS_Progressed": 6213,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12874,6 +12874,11 @@
       "Time": "2024-01-09T06:05:44.4061252+00:00",
       "NumProgressed": 6212,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-09T09:05:49.5491788+00:00",
+      "NumProgressed": 6213,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12902,7 +12907,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -12934,7 +12939,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13030,7 +13035,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -13044,9 +13049,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 994
+      "UsersEstimate": 932
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13069,15 +13074,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6212,
+      "Progressed": 6213,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:07:01.5015496+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:05:49.5491784+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:03:06.2047172+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:07:01.5016247+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:02:51.2233821+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:05:49.5492754+00:00"
 }

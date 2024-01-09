@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5812,
+  "EOS_Progressed": 5813,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5299,6 +5299,11 @@
       "Time": "2024-01-08T21:04:23.5182282+00:00",
       "NumProgressed": 5812,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T09:03:55.390525+00:00",
+      "NumProgressed": 5813,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5470,7 +5475,7 @@
       "Name": "Bet On Bots: Safety First",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_campaign_special11",
@@ -5566,7 +5571,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ach_campaign_special6",
@@ -5654,7 +5659,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ach_frp_high_networth",
@@ -5670,7 +5675,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -5917,15 +5922,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5812,
+      "Progressed": 5813,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-09T08:04:32.0695658+00:00",
+  "LastChanged_Achievements": "2024-01-09T09:03:55.3905245+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.9486343+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:01:34.0352159+00:00",
-  "LastUpdate_Achievements": "2024-01-09T08:04:32.0696465+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:00:12.2541483+00:00",
+  "LastUpdate_Achievements": "2024-01-09T09:03:55.3906+00:00"
 }

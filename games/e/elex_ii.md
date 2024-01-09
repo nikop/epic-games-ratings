@@ -35,8 +35,8 @@ Number of Ratings: 124  (23.09.2022)
 | Cleric | 5.00% | ~11 |
 | Detective | 5.00% | ~11 |
 | Weaponsmith | 4.00% | ~9 |
+| Alchemist | 4.00% | ~9 |
 | Unbreakable | 4.00% | ~9 |
-| Alchemist | 3.00% | ~7 |
 | Self-Sufficient | 3.00% | ~7 |
 | Morkon | 3.00% | ~7 |
 | Legendary | 3.00% | ~7 |
