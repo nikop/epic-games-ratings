@@ -5,16 +5,16 @@ Rating: 4.55 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~632 |
+| Tell me your story | 75.00% | ~633 |
 | Don't judge a manhole by its cover | 60.00% | ~506 |
 | I just love stuff! | 41.00% | ~346 |
 | Keep 'em coming! | 41.00% | ~346 |
 | The things they print nowadays | 39.00% | ~329 |
-| Big Spender | 38.00% | ~320 |
-| That's gotta hurt | 36.00% | ~303 |
+| Big Spender | 38.00% | ~321 |
+| That's gotta hurt | 36.00% | ~304 |
 | I think it's broke | 26.00% | ~219 |
 | The Ann Flores Combo Experience | 26.00% | ~219 |
-| Club Star | 24.00% | ~202 |
+| Club Star | 24.00% | ~203 |
 | Fire in the hole! | 20.00% | ~169 |
 | Omnipotence | 20.00% | ~169 |
 | The Warlord | 19.00% | ~160 |
@@ -25,8 +25,8 @@ Rating: 4.55 (Ranked 526)
 | In the smacker...I think | 10.00% | ~84 |
 | Arm Wrestlin' | 9.00% | ~76 |
 | 1+1>2 | 9.00% | ~76 |
-| This can't be right… | 8.00% | ~67 |
-| Welcome home, 06 | 8.00% | ~67 |
+| This can't be right… | 8.00% | ~68 |
+| Welcome home, 06 | 8.00% | ~68 |
 | I'm walking here! | 7.00% | ~59 |
 | So Fresh and So clean clean | 7.00% | ~59 |
 | Supreme Bartender Ann | 7.00% | ~59 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 526)
 | Love me like I love my posters | 0.90% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 843 (Ranked 308)  
+Progressed: 844 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 839 | 0 |
 | 2024-01-07 | 840 | 0 |
 | 2024-01-08 | 843 | 0 |
+| 2024-01-09 | 844 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 53.00% | ~47 |
-| You have three wishes left | 46.00% | ~41 |
+| Master trainee | 54.00% | ~48 |
+| You have three wishes left | 47.00% | ~42 |
 | Jung's dream | 37.00% | ~33 |
 | The battle of Great Britain | 37.00% | ~33 |
 | Pulp! Where Monsters Dwell | 30.00% | ~27 |
@@ -27,19 +27,19 @@
 | Welcome to Hellville | 17.00% | ~15 |
 | You had one wish left | 16.00% | ~14 |
 | The bully | 15.00% | ~13 |
-| Kirlian's best disciple | 13.00% | ~12 |
+| Kirlian's best disciple | 15.00% | ~13 |
 | Blessed antennas | 12.00% | ~11 |
 | Pulp! The Beyond | 11.00% | ~10 |
+| The beast in the Oval Office | 10.00% | ~9 |
 | Blood Red Island | 10.00% | ~9 |
 | Bread and bocaua | 10.00% | ~9 |
 | Fanatacism is... poisonous | 10.00% | ~9 |
-| The beast in the Oval Office | 9.00% | ~8 |
 | The adventurer | 9.00% | ~8 |
 | Pulp! True Adventures | 9.00% | ~8 |
+| America had no Faith | 9.00% | ~8 |
 | The scholar | 8.00% | ~7 |
 | The barbarian invasions | 8.00% | ~7 |
 | ECO mode | 8.00% | ~7 |
-| America had no Faith | 8.00% | ~7 |
 | Vaccine fans | 7.00% | ~6 |
 | A new Hindenburg | 6.00% | ~5 |
 | Pulp! Tales from the Crypt | 3.00% | ~3 |

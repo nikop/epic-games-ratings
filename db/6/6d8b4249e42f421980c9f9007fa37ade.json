@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -603,9 +603,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -763,9 +763,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -994,8 +994,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:05:00.8058228+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:05:03.5263346+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:25.8631749+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:00:15.527431+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:05:00.8058662+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:00:16.2151716+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:05:03.5263675+00:00"
 }

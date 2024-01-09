@@ -6,23 +6,23 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~33,262 |
-| Final touch | 34.00% | ~30,565 |
-| Prop-M Rover | 32.00% | ~28,767 |
-| Changing the Planet | 28.00% | ~25,171 |
-| Sojourner | 26.00% | ~23,373 |
-| New Home | 23.00% | ~20,676 |
-| Beagle 2 | 23.00% | ~20,676 |
-| Winner Winner Terraformer | 20.00% | ~17,979 |
-| Project Manager | 19.00% | ~17,080 |
-| Collector | 19.00% | ~17,080 |
-| Curiosity | 18.00% | ~16,181 |
-| Master | 18.00% | ~16,181 |
-| No Longer Red | 17.00% | ~15,282 |
-| Self-sufficient | 17.00% | ~15,282 |
-| Money money | 15.00% | ~13,485 |
-| First Journey | 14.00% | ~12,586 |
-| Biggest Reward | 13.00% | ~11,687 |
+| It's a steal! | 37.00% | ~33,264 |
+| Final touch | 34.00% | ~30,567 |
+| Prop-M Rover | 32.00% | ~28,769 |
+| Changing the Planet | 28.00% | ~25,173 |
+| Sojourner | 26.00% | ~23,375 |
+| New Home | 23.00% | ~20,678 |
+| Beagle 2 | 23.00% | ~20,678 |
+| Winner Winner Terraformer | 20.00% | ~17,981 |
+| Project Manager | 19.00% | ~17,082 |
+| Collector | 19.00% | ~17,082 |
+| Curiosity | 18.00% | ~16,183 |
+| Master | 18.00% | ~16,183 |
+| No Longer Red | 17.00% | ~15,284 |
+| Self-sufficient | 17.00% | ~15,284 |
+| Money money | 15.00% | ~13,486 |
+| First Journey | 14.00% | ~12,587 |
+| Biggest Reward | 13.00% | ~11,688 |
 | Acquired knowledge | 12.00% | ~10,788 |
 | Landlord | 11.00% | ~9,889 |
 | Most Achievements | 11.00% | ~9,889 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,697 |
 | Opportunity | 3.00% | ~2,697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,897 (Ranked 105)  
+Progressed: 89,904 (Ranked 105)  
 Completed: 183 (0.20%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 183 (0.20%) (Ranked 275)
 | 2024-01-06 | 89,525 | 180 |
 | 2024-01-07 | 89,700 | 180 |
 | 2024-01-08 | 89,828 | 182 |
-| 2024-01-09 | 89,897 | 183 |
+| 2024-01-09 | 89,904 | 183 |
 ## Awards
 Max (Relaxing): 539  (Ranked 216)  
 Sum: 3,331 (Ranked 179)  

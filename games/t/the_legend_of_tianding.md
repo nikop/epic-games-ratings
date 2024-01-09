@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 90.00% | ~71 |
+| Hero Arrives | 91.00% | ~72 |
 | Eat the Rich | 61.00% | ~48 |
 | Killing Machine | 47.00% | ~37 |
 | Death Battle | 44.00% | ~35 |

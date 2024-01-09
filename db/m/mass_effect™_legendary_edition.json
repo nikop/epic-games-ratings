@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4042,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -7895,9 +7895,9 @@
       "ID": "achievement_120",
       "SetID": "d252ncf",
       "Name": "Paramour I",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1213
     },
     {
       "ID": "achievement_121",
@@ -8367,9 +8367,9 @@
       "ID": "achievement_6",
       "SetID": "b9pe172",
       "Name": "Lift Mastery",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_60",
@@ -8519,9 +8519,9 @@
       "ID": "achievement_77",
       "SetID": "d252ncf",
       "Name": "Digital Exorcist",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 808
+      "UsersEstimate": 849
     },
     {
       "ID": "achievement_78",
@@ -8731,8 +8731,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:11:01.1541079+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:11:04.1972451+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:00.5356746+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:03:35.4575686+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:11:01.1543398+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:03:38.7723621+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:11:04.1974313+00:00"
 }

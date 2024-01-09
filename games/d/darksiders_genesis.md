@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Ready to Blow | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564 (Ranked 340)  
+Progressed: 565 (Ranked 340)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 471 | 0 |
 | 2024-01-07 | 514 | 0 |
 | 2024-01-08 | 545 | 0 |
-| 2024-01-09 | 564 | 0 |
+| 2024-01-09 | 565 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 472)  
 Sum: 45 (Ranked 519)  

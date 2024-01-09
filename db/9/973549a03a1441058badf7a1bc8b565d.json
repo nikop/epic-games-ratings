@@ -137,9 +137,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "4mjb15",
       "Name": "The Chosen One",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -209,25 +209,25 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "4mjb15",
       "Name": "Rebuild the Nation",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "4mjb15",
       "Name": "Return to Glory",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "4mjb15",
       "Name": "Gone Full Circle",
-      "Percentage": 45,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -257,9 +257,9 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "4mjb15",
       "Name": "Percival, the Noble Spearhead",
-      "Percentage": 25,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_24",
@@ -313,9 +313,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "4mjb15",
       "Name": "Fit into the Pocket",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -336,8 +336,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:10:46.7244779+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:10:50.5639313+00:00",
   "LastUpdate_AppInfo": "2024-01-05T22:58:52.5128387+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:58:11.9454194+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:10:46.7244964+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:58:15.1117259+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:10:50.5639448+00:00"
 }

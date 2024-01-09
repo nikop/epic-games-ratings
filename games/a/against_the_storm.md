@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 9.00% | ~1,851 |
+| Overgrown Library | 9.00% | ~1,852 |
 | First Real Expedition | 8.00% | ~1,646 |
 | Taking Action | 8.00% | ~1,646 |
 | No Deaths | 8.00% | ~1,646 |
@@ -36,16 +36,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 3.00% | ~617 |
 | Trade Baron | 3.00% | ~617 |
 | Untamed Wilds | 3.00% | ~617 |
-| Serving Ale | 2.00% | ~411 |
-| Against All Odds | 2.00% | ~411 |
-| Barren Lands | 2.00% | ~411 |
-| Sparkdew Crystals | 2.00% | ~411 |
-| Fishmen Ritual Site | 2.00% | ~411 |
-| Haunted Forest | 2.00% | ~411 |
-| Flooded Mines | 2.00% | ~411 |
-| Victory Through Prosperity | 2.00% | ~411 |
-| Defying the Crown | 2.00% | ~411 |
-| Into the Forest | 2.00% | ~411 |
+| Serving Ale | 2.00% | ~412 |
+| Against All Odds | 2.00% | ~412 |
+| Barren Lands | 2.00% | ~412 |
+| Sparkdew Crystals | 2.00% | ~412 |
+| Fishmen Ritual Site | 2.00% | ~412 |
+| Haunted Forest | 2.00% | ~412 |
+| Flooded Mines | 2.00% | ~412 |
+| Victory Through Prosperity | 2.00% | ~412 |
+| Defying the Crown | 2.00% | ~412 |
+| Into the Forest | 2.00% | ~412 |
 | Efficient Explorer | 1.00% | ~206 |
 | Refinery | 1.00% | ~206 |
 | Dangerous Lands | 1.00% | ~206 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,571 (Ranked 154)  
+Progressed: 20,575 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
-| 2024-01-09 | 20,571 | 34 |
+| 2024-01-09 | 20,575 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,364 (Ranked 177)  

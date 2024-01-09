@@ -8101,9 +8101,9 @@
       "Count": 3820
     }
   ],
-  "EOS_Progressed": 150459,
+  "EOS_Progressed": 150464,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1425,
+  "EOS_NewPlayers": 1424,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36031,6 +36031,11 @@
       "Time": "2024-01-09T18:08:58.4404763+00:00",
       "NumProgressed": 150459,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-09T19:09:01.9057719+00:00",
+      "NumProgressed": 150464,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -36042,7 +36047,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "advlevel02",
@@ -36178,7 +36183,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "boss02",
@@ -36210,7 +36215,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16550
+      "UsersEstimate": 16551
     },
     {
       "ID": "chest02",
@@ -36282,7 +36287,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "commonres03",
@@ -36314,7 +36319,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "craft03",
@@ -36346,7 +36351,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "damage02",
@@ -36514,7 +36519,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13541
+      "UsersEstimate": 13542
     },
     {
       "ID": "gold02",
@@ -36530,7 +36535,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "gold04",
@@ -36666,7 +36671,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "loot02",
@@ -36754,7 +36759,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "quest02",
@@ -36858,7 +36863,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16550
+      "UsersEstimate": 16551
     },
     {
       "ID": "twinenchant01",
@@ -36914,7 +36919,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "workers03",
@@ -36937,15 +36942,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150459,
+      "Progressed": 150464,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-09T12:03:26.2086123+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:08:58.4404762+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:09:01.9057715+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:03:27.7058634+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:08:58.4407028+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:03:31.888804+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:09:01.9060425+00:00"
 }

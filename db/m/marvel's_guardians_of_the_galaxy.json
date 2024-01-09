@@ -3,8 +3,8 @@
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "ProductSlug": "marvels-guardians-of-the-galaxy",
   "Ranking_Rating": 300,
-  "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 224,
+  "Ranking_Popularity": 131,
+  "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 575,
@@ -1814,18 +1814,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 1793,
       "NumberOfAwardsMax": 1418
+    },
+    {
+      "Time": "2024-01-09T19:00:55.9335398+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 2143,
+      "NumberOfAwardsMax": 1749
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1793,
-  "NumberOfAwardsMax": 1418,
+  "NumberOfAwards": 2143,
+  "NumberOfAwardsMax": 1749,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1418
+      "Count": 1749
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1849,13 +1855,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 54
+      "Count": 64
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 39
+      "Count": 48
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1887,8 +1893,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-01-09T16:01:16.1876833+00:00",
+  "LastChanged": "2024-01-09T19:00:55.9335396+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:24.222579+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:00:58.5538474+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:06:55.9218572+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:00:55.9335402+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:06:56.9656757+00:00"
 }

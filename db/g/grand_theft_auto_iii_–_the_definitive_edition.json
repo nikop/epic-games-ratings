@@ -2,13 +2,13 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 954,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -703,10 +703,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12041,
+  "EOS_Progressed": 12046,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 665,
-  "EOS_NewCompleters": 13,
+  "EOS_NewPlayers": 664,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
@@ -15298,6 +15298,11 @@
       "Time": "2024-01-09T18:07:12.6511945+00:00",
       "NumProgressed": 12041,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-09T19:07:13.3991019+00:00",
+      "NumProgressed": 12046,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 29,
@@ -15309,7 +15314,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9994
+      "UsersEstimate": 9998
     },
     {
       "ID": "ACH02",
@@ -15317,7 +15322,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 4094
+      "UsersEstimate": 4096
     },
     {
       "ID": "ACH03",
@@ -15333,7 +15338,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4696
+      "UsersEstimate": 4698
     },
     {
       "ID": "ACH05",
@@ -15349,7 +15354,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "ACH07",
@@ -15373,7 +15378,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "ACH10",
@@ -15381,7 +15386,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3373
     },
     {
       "ID": "ACH11",
@@ -15413,7 +15418,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "ACH15",
@@ -15429,7 +15434,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "ACH17",
@@ -15445,7 +15450,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "ACH19",
@@ -15493,7 +15498,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "ACH25",
@@ -15501,7 +15506,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "ACH26",
@@ -15540,7 +15545,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12041,
+      "Progressed": 12046,
       "Completed": 84
     }
   ],
@@ -15548,8 +15553,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-08T18:02:03.5351927+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:07:12.6511941+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:07:13.3991012+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:57:15.9639778+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:07:12.6512951+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:57:17.2703628+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:07:13.3991829+00:00"
 }

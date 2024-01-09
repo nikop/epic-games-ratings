@@ -10686,9 +10686,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132289,
+  "EOS_Progressed": 132293,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 963,
+  "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39091,6 +39091,11 @@
       "Time": "2024-01-09T18:10:29.4403916+00:00",
       "NumProgressed": 132289,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T19:10:33.3309709+00:00",
+      "NumProgressed": 132293,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39102,7 +39107,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -39110,7 +39115,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39118,7 +39123,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -39230,7 +39235,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7937
+      "UsersEstimate": 7938
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39254,7 +39259,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39262,7 +39267,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7937
+      "UsersEstimate": 7938
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39302,7 +39307,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -39318,7 +39323,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "combat_kill_librarian",
@@ -39326,7 +39331,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7937
+      "UsersEstimate": 7938
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39342,7 +39347,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39374,7 +39379,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -39398,7 +39403,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -39422,7 +39427,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "driving_distance_easy",
@@ -39454,7 +39459,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9260
+      "UsersEstimate": 9261
     },
     {
       "ID": "hero_story_complete_all",
@@ -39494,7 +39499,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -39510,7 +39515,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "inn_visit_all_variants",
@@ -39686,7 +39691,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39733,21 +39738,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132289,
+      "Progressed": 132293,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7158,
-      "Completed": 822
+      "Progressed": 7162,
+      "Completed": 823
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-09T16:59:33.573007+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:10:29.4403914+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:10:33.3309705+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:59:23.7760098+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:10:29.440558+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:59:25.1266394+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:10:33.331292+00:00"
 }

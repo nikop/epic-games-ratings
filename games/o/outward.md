@@ -6,18 +6,18 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 72.00% | ~3,362 |
-| Ready for Winter | 61.00% | ~2,848 |
-| Ready for Summer | 48.00% | ~2,241 |
-| Cordon Bleu | 40.00% | ~1,868 |
-| Tapped! | 34.00% | ~1,587 |
-| Eureka | 29.00% | ~1,354 |
-| Scourge Slayer | 23.00% | ~1,074 |
-| Science, Troglodyte! | 21.00% | ~980 |
-| Exceptional Skill | 20.00% | ~934 |
-| Home Sweet Home | 20.00% | ~934 |
-| Encyclopedic! | 18.00% | ~840 |
-| The Power of Family | 15.00% | ~700 |
+| Venture Outward | 72.00% | ~3,365 |
+| Ready for Winter | 61.00% | ~2,851 |
+| Ready for Summer | 48.00% | ~2,243 |
+| Cordon Bleu | 40.00% | ~1,869 |
+| Tapped! | 34.00% | ~1,589 |
+| Eureka | 29.00% | ~1,355 |
+| Scourge Slayer | 23.00% | ~1,075 |
+| Science, Troglodyte! | 21.00% | ~981 |
+| Exceptional Skill | 20.00% | ~935 |
+| Home Sweet Home | 20.00% | ~935 |
+| Encyclopedic! | 18.00% | ~841 |
+| The Power of Family | 15.00% | ~701 |
 | A Fortress Toppled! | 14.00% | ~654 |
 | Apex Predator | 14.00% | ~654 |
 | Strange amalgams | 11.00% | ~514 |
@@ -31,7 +31,7 @@ Number of Ratings: 266  (23.09.2022)
 | Let ‘em eat magma! | 6.00% | ~280 |
 | The power of ambition | 6.00% | ~280 |
 | The stuff of legends. | 6.00% | ~280 |
-| Blood and justice | 5.00% | ~233 |
+| Blood and justice | 5.00% | ~234 |
 | Ancestor's Pride | 4.00% | ~187 |
 | For All Aurai | 4.00% | ~187 |
 | Memory of a legend | 4.00% | ~187 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,669 (Ranked 206)  
-Completed: 5 (0.11%) (Ranked 305)  
+Progressed: 4,673 (Ranked 206)  
+Completed: 5 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -299,7 +299,7 @@ Completed: 5 (0.11%) (Ranked 305)
 | 2024-01-06 | 4,569 | 5 |
 | 2024-01-07 | 4,622 | 5 |
 | 2024-01-08 | 4,653 | 5 |
-| 2024-01-09 | 4,669 | 5 |
+| 2024-01-09 | 4,673 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 504)  
 Sum: 246 (Ranked 402)  

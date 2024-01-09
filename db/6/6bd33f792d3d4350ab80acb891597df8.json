@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -659,6 +659,11 @@
       "Time": "2024-01-09T17:08:17.7237639+00:00",
       "NumProgressed": 129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T19:08:13.1346008+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -668,17 +673,17 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 101
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 88
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
@@ -692,17 +697,17 @@
       "ID": "CgkIxYDzrbcPEAIQBA",
       "SetID": "4egpam7",
       "Name": "Devil\u0027s Bargain",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBQ",
       "SetID": "4egpam7",
       "Name": "Man of Faith",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBg",
@@ -710,23 +715,23 @@
       "Name": "Uninvited Guests",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
       "SetID": "4egpam7",
       "Name": "Cave Exploration",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCA",
       "SetID": "4egpam7",
       "Name": "Secrets of Justice",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCQ",
@@ -742,7 +747,7 @@
       "Name": "Pest Control",
       "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
@@ -750,7 +755,7 @@
       "Name": "Target Practice",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDA",
@@ -764,41 +769,41 @@
       "ID": "CgkIxYDzrbcPEAIQDQ",
       "SetID": "4egpam7",
       "Name": "Control Pests",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
       "SetID": "4egpam7",
       "Name": "Dear Diary",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 113
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEA",
       "SetID": "4egpam7",
       "Name": "Collector of Secrets",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEQ",
       "SetID": "4egpam7",
       "Name": "Seeker of Mysteries",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEg",
@@ -838,7 +843,7 @@
       "Name": "Dangerous Manipulation",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CgkIxYDzrbcPEAIQFw",
@@ -846,7 +851,7 @@
       "Name": "I Could Do This Blindfolded",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CgkIxYDzrbcPEAIQGA",
@@ -900,23 +905,23 @@
       "ID": "CgkIxYDzrbcPEAIQHg",
       "SetID": "4egpam7",
       "Name": "Curious Soul",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "4egpam7",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:08:08.6253343+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:08:13.1346004+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:03.7970515+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:58:55.1745688+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:08:08.6253563+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:58:57.9015317+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:08:13.1346242+00:00"
 }

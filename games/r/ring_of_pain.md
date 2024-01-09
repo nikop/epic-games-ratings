@@ -28,13 +28,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.90% | ~2,184 |
 | Deflection | 0.90% | ~2,184 |
 | Sneaky | 0.90% | ~2,184 |
-| Ambitious Intent | 0.80% | ~1,941 |
-| R.I.P | 0.80% | ~1,941 |
-| Cold Hearted | 0.80% | ~1,941 |
-| I Am Overburdened | 0.80% | ~1,941 |
-| The Bestiary | 0.80% | ~1,941 |
-| Shootout | 0.80% | ~1,941 |
-| Toxic | 0.80% | ~1,941 |
+| Ambitious Intent | 0.80% | ~1,942 |
+| R.I.P | 0.80% | ~1,942 |
+| Cold Hearted | 0.80% | ~1,942 |
+| I Am Overburdened | 0.80% | ~1,942 |
+| The Bestiary | 0.80% | ~1,942 |
+| Shootout | 0.80% | ~1,942 |
+| Toxic | 0.80% | ~1,942 |
 | Dig Your Own Grave | 0.70% | ~1,699 |
 | Who To Trust? | 0.70% | ~1,699 |
 | Walk It Off | 0.70% | ~1,699 |
@@ -83,7 +83,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Obsessed | 0.30% | ~728 |
 | Sentimental Value | 0.30% | ~728 |
 | Precious | 0.30% | ~728 |
-| Raw Power | 0.30% | ~12 |
+| Raw Power | 0.30% | ~13 |
 | A Week Attempt | 0.20% | ~485 |
 | A Long Climb | 0.20% | ~485 |
 | Hydrophobe | 0.20% | ~485 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,685 (Ranked 73)  
+Progressed: 242,688 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,11 +409,11 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
 | 2024-01-08 | 242,637 | 304 |
-| 2024-01-09 | 242,685 | 304 |
+| 2024-01-09 | 242,688 | 304 |
 ## Awards
-Max (Quickly Understood Controls): 1,514  (Ranked 137)  
+Max (Quickly Understood Controls): 1,514  (Ranked 138)  
 Sum: 11,790 (Ranked 89)  
-Diff (max vs sum): 48  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1870,
+  "EOS_Progressed": 1871,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4973,6 +4973,11 @@
       "Time": "2024-01-09T18:10:06.35938+00:00",
       "NumProgressed": 1870,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T19:10:10.0073166+00:00",
+      "NumProgressed": 1871,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5104,7 +5109,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -5344,7 +5349,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5367,7 +5372,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1870,
+      "Progressed": 1871,
       "Completed": 0
     }
   ],
@@ -5375,8 +5380,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-09T16:02:23.0830001+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:10:06.3593797+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:10:10.0073162+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:02:05.5253027+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:10:06.3594398+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:02:32.4375823+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:10:10.0073724+00:00"
 }

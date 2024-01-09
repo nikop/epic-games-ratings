@@ -846,9 +846,9 @@
       "ID": "ACH_DARK_PALADIN_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Dark Paladin",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_DEMON_ABSORBED",
@@ -973,8 +973,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:08:43.1564797+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:08:47.2626326+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.301189+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:00:30.8794045+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:08:43.1564978+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:00:31.0196948+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:08:47.262648+00:00"
 }

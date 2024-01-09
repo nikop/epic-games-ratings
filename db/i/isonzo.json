@@ -1069,7 +1069,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9853,
+  "EOS_Progressed": 9855,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -10894,6 +10894,11 @@
       "Time": "2024-01-09T18:09:56.417832+00:00",
       "NumProgressed": 9853,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-09T19:10:00.128806+00:00",
+      "NumProgressed": 9855,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10921,7 +10926,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4335
+      "UsersEstimate": 4336
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10953,7 +10958,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3154
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -10977,7 +10982,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -10985,7 +10990,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -11017,7 +11022,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3154
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -11049,7 +11054,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -11097,7 +11102,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4434
+      "UsersEstimate": 4435
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11145,7 +11150,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -11153,7 +11158,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11177,7 +11182,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -11201,7 +11206,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -11217,7 +11222,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -11233,7 +11238,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4926
+      "UsersEstimate": 4928
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11257,14 +11262,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9853,
+      "Progressed": 9855,
       "Completed": 10
     }
   ],
@@ -11272,8 +11277,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:09:56.4178317+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:10:00.1288057+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:00:33.0426202+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:09:56.417936+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:00:32.9432038+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:10:00.1288804+00:00"
 }

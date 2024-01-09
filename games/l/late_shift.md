@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cause and Effect | 95.00% | ~959 |
-| Fair Share | 68.00% | ~686 |
-| Even Tempered | 54.00% | ~545 |
-| Star-Crossed Lovers | 46.00% | ~464 |
-| The Delivery | 44.00% | ~444 |
-| Shill Bidder | 41.00% | ~414 |
-| The Frenzy | 32.00% | ~323 |
+| Cause and Effect | 95.00% | ~961 |
+| Fair Share | 68.00% | ~688 |
+| Even Tempered | 54.00% | ~546 |
+| Star-Crossed Lovers | 46.00% | ~466 |
+| The Delivery | 43.00% | ~435 |
+| Shill Bidder | 41.00% | ~415 |
+| The Frenzy | 32.00% | ~324 |
 | Good Karma | 29.00% | ~293 |
-| Office Clerk | 27.00% | ~272 |
-| Protector | 27.00% | ~272 |
-| The Bribe | 24.00% | ~242 |
-| The Ploy | 14.00% | ~141 |
-| Interrogation | 14.00% | ~141 |
+| Office Clerk | 27.00% | ~273 |
+| Protector | 26.00% | ~263 |
+| The Bribe | 24.00% | ~243 |
+| The Ploy | 14.00% | ~142 |
+| Interrogation | 14.00% | ~142 |
 | Sabotage | 10.00% | ~101 |
 | Choices Matter | 6.00% | ~61 |
 | The Fool | 6.00% | ~61 |
-| The Lion's Den | 5.00% | ~50 |
+| The Lion's Den | 5.00% | ~51 |
 | The Coward | 3.00% | ~30 |
 | Proficient Storyteller | 3.00% | ~30 |
 | Expert Storyteller | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,009 (Ranked 292)  
-Completed: 13 (1.29%) (Ranked 155)  
+Progressed: 1,012 (Ranked 292)  
+Completed: 13 (1.28%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -206,7 +206,7 @@ Completed: 13 (1.29%) (Ranked 155)
 | 2024-01-06 | 979 | 13 |
 | 2024-01-07 | 997 | 13 |
 | 2024-01-08 | 1,000 | 13 |
-| 2024-01-09 | 1,009 | 13 |
+| 2024-01-09 | 1,012 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

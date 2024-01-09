@@ -2,7 +2,7 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 156,
@@ -1140,9 +1140,9 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "GottaGoFast",
@@ -1196,9 +1196,9 @@
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "NothingButRoad",
@@ -1315,8 +1315,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:08:13.3085005+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:08:17.567485+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.7828616+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:03:28.4539903+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:08:13.3085244+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:03:32.6838897+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:08:17.5675341+00:00"
 }

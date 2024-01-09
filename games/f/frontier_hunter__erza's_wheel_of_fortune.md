@@ -5,24 +5,24 @@ Rating: 4.38 (Ranked 792)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~688 |
+| Travel Streamer | 93.00% | ~689 |
 | Training Simulation | 79.00% | ~585 |
-| Kuku Bird Hunter | 65.00% | ~481 |
-| Storm Traveller | 60.00% | ~444 |
-| Wolf King Killer | 55.00% | ~407 |
-| Fashion Connoisseur | 53.00% | ~392 |
+| Kuku Bird Hunter | 65.00% | ~482 |
+| Storm Traveller | 60.00% | ~445 |
+| Wolf King Killer | 55.00% | ~408 |
+| Fashion Connoisseur | 52.00% | ~385 |
 | Arms Mechanic | 49.00% | ~363 |
 | Flower Thief | 44.00% | ~326 |
 | Apostle of Flame | 39.00% | ~289 |
-| Beginner Artificer | 38.00% | ~281 |
-| Beginner Cook | 37.00% | ~274 |
+| Beginner Cook | 38.00% | ~282 |
+| Beginner Artificer | 38.00% | ~282 |
 | Seal Breaker | 32.00% | ~237 |
 | Handyman | 28.00% | ~207 |
-| Giant Lizard Killer | 26.00% | ~192 |
+| Giant Lizard Killer | 26.00% | ~193 |
 | Guardian | 25.00% | ~185 |
 | Nosebleeder | 25.00% | ~185 |
 | Trader | 22.00% | ~163 |
-| Weapon Boost | 21.00% | ~155 |
+| Weapon Boost | 21.00% | ~156 |
 | Flying Kobold Killer | 19.00% | ~141 |
 | Youth Magnet | 18.00% | ~133 |
 | Furious Scorpion Killer | 17.00% | ~126 |
@@ -33,8 +33,8 @@ Rating: 4.38 (Ranked 792)
 | Mermaid Killer | 15.00% | ~111 |
 | Cave Master | 15.00% | ~111 |
 | Face Slapper | 15.00% | ~111 |
-| Boss challenge | 11.00% | ~81 |
-| Berserker Slayer | 11.00% | ~81 |
+| Boss challenge | 11.00% | ~82 |
+| Berserker Slayer | 11.00% | ~82 |
 | Giantess Slayer | 10.00% | ~74 |
 | Warden Slayer | 10.00% | ~74 |
 | Master Cook | 8.00% | ~59 |
@@ -51,8 +51,8 @@ Rating: 4.38 (Ranked 792)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740 (Ranked 317)  
-Completed: 3 (0.41%) (Ranked 235)  
+Progressed: 741 (Ranked 317)  
+Completed: 3 (0.40%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -177,7 +177,7 @@ Completed: 3 (0.41%) (Ranked 235)
 | 2024-01-06 | 725 | 3 |
 | 2024-01-07 | 735 | 3 |
 | 2024-01-08 | 738 | 3 |
-| 2024-01-09 | 740 | 3 |
+| 2024-01-09 | 741 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

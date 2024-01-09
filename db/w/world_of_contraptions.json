@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2024-01-08T12:09:27.5755374+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T19:10:00.9296454+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1775,7 +1780,7 @@
       "Name": "The first of many",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1845,7 +1850,7 @@
       "ID": "GROUP_HARD_COMPLETED",
       "SetID": "aemieak",
       "Name": "Hard group",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1941,7 +1946,7 @@
       "ID": "MOUNTAIN_COMPLETED",
       "SetID": "aemieak",
       "Name": "Mountain for amateurs",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1997,9 +2002,9 @@
       "ID": "LEVEL_MEDIUM",
       "SetID": "aemieak",
       "Name": "First medium level",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "TUTORIAL_FIRST",
@@ -2007,21 +2012,21 @@
       "Name": "Starting to take notes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:09:57.4169875+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:10:00.929645+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:13.9985258+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:02:31.1996502+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:09:57.4170172+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:02:37.4807033+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:10:00.9296975+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "38d778eab1134c7f9bc4e0e5747b3ea4",
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 507,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.38,
+  "EOS_Completed_Percentage": 6.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -274,6 +274,11 @@
       "Time": "2024-01-05T19:11:00.5410866+00:00",
       "NumProgressed": 141,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-09T19:10:32.2877893+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 29,
@@ -285,7 +290,7 @@
       "Name": "Wrench",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "02_Soap",
@@ -301,7 +306,7 @@
       "Name": "Cassette",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "04_Mug",
@@ -309,7 +314,7 @@
       "Name": "Mug",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "05_TimeCapsule",
@@ -331,17 +336,17 @@
       "ID": "07_Contract",
       "SetID": "681m9fa",
       "Name": "Contract",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "08_Baseball",
       "SetID": "681m9fa",
       "Name": "Baseball",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "09_Ticket",
@@ -355,9 +360,9 @@
       "ID": "10_Flyer",
       "SetID": "681m9fa",
       "Name": "Flyer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "11_Itsinthevault",
@@ -387,23 +392,23 @@
       "ID": "14_VhsBlogger",
       "SetID": "681m9fa",
       "Name": "VHS blogger",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
       "UsersEstimate": 80
     },
@@ -419,9 +424,9 @@
       "ID": "18_SolderingIron",
       "SetID": "681m9fa",
       "Name": "Soldering iron",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "19_Harpoon",
@@ -429,7 +434,7 @@
       "Name": "Harpoon",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "20_AccessProtocol",
@@ -469,7 +474,7 @@
       "Name": "Here we go again",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "25_LeaveMeAlone",
@@ -516,7 +521,7 @@
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 9
     }
   ],
@@ -524,8 +529,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:10:28.5018842+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:10:32.2877889+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:36.5260124+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:57:31.8916565+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:10:28.5019066+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:57:34.5191147+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:10:32.2878315+00:00"
 }

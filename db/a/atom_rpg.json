@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,7 +415,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1691,
+  "EOS_Progressed": 1693,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -4465,6 +4465,11 @@
       "Time": "2024-01-09T18:10:45.6449585+00:00",
       "NumProgressed": 1691,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T19:10:49.4163559+00:00",
+      "NumProgressed": 1693,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4532,7 +4537,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1676
     },
     {
       "ID": "EXPERT_1",
@@ -4564,7 +4569,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4628,7 +4633,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4660,7 +4665,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -4682,9 +4687,9 @@
       "ID": "ROBOT_DEAD",
       "SetID": "bf13m8j",
       "Name": "It was worth a shot",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SACRIFICE_1",
@@ -4748,7 +4753,7 @@
       "Name": "Wanderer",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "WISHMASTER_1",
@@ -4763,15 +4768,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1691,
+      "Progressed": 1693,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:10:45.6449583+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:10:49.4163556+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:01:20.8895416+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:10:45.6450009+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:01:19.264819+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:10:49.4163969+00:00"
 }

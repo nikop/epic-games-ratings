@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.08 (Ranked 1,022)  
+Rating: 4.08 (Ranked 1,023)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,22 +42,22 @@ Rating: 4.08 (Ranked 1,022)
 | Master Enchanter | 7.00% | ~304 |
 | The father of Dragons | 7.00% | ~304 |
 | Trader | 7.00% | ~304 |
+| Dragon Slayer | 6.00% | ~261 |
 | Here We Go Again | 6.00% | ~261 |
 | The Expeditioner | 6.00% | ~261 |
 | Weekly Quest Completionist | 6.00% | ~261 |
 | Blueprint Upgrades | 5.00% | ~217 |
 | Crystal Mining | 5.00% | ~217 |
-| Dragon Slayer | 5.00% | ~217 |
 | Enchanting skill | 5.00% | ~217 |
 | Engineer Mastery | 5.00% | ~217 |
 | How Do You Turn This On? | 5.00% | ~217 |
 | Lock And Load | 5.00% | ~217 |
 | Missions Dedication | 5.00% | ~217 |
+| Sailor | 5.00% | ~217 |
 | Active Member | 4.00% | ~174 |
 | Ancient Knowledge | 4.00% | ~174 |
 | Background Story | 4.00% | ~174 |
 | Legendary | 4.00% | ~174 |
-| Sailor | 4.00% | ~174 |
 | The Alchemist | 4.00% | ~174 |
 | Arena Challenger | 3.00% | ~130 |
 | Ebony Jungle Liberator | 3.00% | ~130 |

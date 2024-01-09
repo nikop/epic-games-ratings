@@ -5,25 +5,25 @@ Rating: 4.59 (Ranked 451)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 33.00% | ~1,358 |
-| Sputnik 2049 | 29.00% | ~1,193 |
-| Infinite Growth... | 28.00% | ~1,152 |
+| Wakey Wakey | 33.00% | ~1,359 |
+| Sputnik 2049 | 29.00% | ~1,194 |
+| Infinite Growth... | 28.00% | ~1,153 |
 | Without Breaking Some Eggs... | 26.00% | ~1,070 |
 | Space Society | 19.00% | ~782 |
 | A Thousand Strong | 19.00% | ~782 |
 | Ready for a New World | 19.00% | ~782 |
 | Permanent Redesigns | 17.00% | ~700 |
-| Fully Recycled | 15.00% | ~617 |
-| Ain't Nobody Got Time for That | 15.00% | ~617 |
-| The Ship of Theseus | 15.00% | ~617 |
+| Fully Recycled | 15.00% | ~618 |
+| Ain't Nobody Got Time for That | 15.00% | ~618 |
+| The Ship of Theseus | 15.00% | ~618 |
 | Guy de Borderlands | 14.00% | ~576 |
 | Hope Seeker | 13.00% | ~535 |
 | A Hunk of Junk | 12.00% | ~494 |
 | Exceeding Capacity | 12.00% | ~494 |
 | Breaking Protocol | 12.00% | ~494 |
-| Man's Best Friend | 9.00% | ~370 |
-| Power Outage | 9.00% | ~370 |
-| Please Make it Stop! | 9.00% | ~370 |
+| Man's Best Friend | 9.00% | ~371 |
+| Power Outage | 9.00% | ~371 |
+| Please Make it Stop! | 9.00% | ~371 |
 | Sightseeing | 8.00% | ~329 |
 | Convenient Transport | 8.00% | ~329 |
 | Necessary Enhancement | 7.00% | ~288 |
@@ -39,11 +39,11 @@ Rating: 4.59 (Ranked 451)
 | What the Ruins Teach Us | 5.00% | ~206 |
 | Sustainable Energy | 4.00% | ~165 |
 | Pedal to the Metal | 4.00% | ~165 |
-| Praise the Hull! | 3.00% | ~123 |
-| Space Greenhouse | 3.00% | ~123 |
-| Delivery! | 3.00% | ~123 |
-| Help of the Forgotten Member | 3.00% | ~123 |
-| Pulsar Disciple | 3.00% | ~123 |
+| Praise the Hull! | 3.00% | ~124 |
+| Space Greenhouse | 3.00% | ~124 |
+| Delivery! | 3.00% | ~124 |
+| Help of the Forgotten Member | 3.00% | ~124 |
+| Pulsar Disciple | 3.00% | ~124 |
 | Mutual Loyalty | 2.00% | ~82 |
 | Tiqqun Contender | 2.00% | ~82 |
 | Catastrophe Avoided | 2.00% | ~82 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 451)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,115 (Ranked 211)  
+Progressed: 4,117 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 4,042 | 0 |
 | 2024-01-07 | 4,075 | 0 |
 | 2024-01-08 | 4,096 | 0 |
-| 2024-01-09 | 4,115 | 0 |
+| 2024-01-09 | 4,117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

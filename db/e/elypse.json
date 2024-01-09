@@ -710,9 +710,9 @@
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Ach_BossSlug",
@@ -766,9 +766,9 @@
       "ID": "Ach_DeathXTime",
       "SetID": "4o5gjp0",
       "Name": "Masochistic",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "Ach_DiscoveryCatacombes",
@@ -957,8 +957,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:09:36.7900254+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:09:40.4572835+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:04.3902526+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:59:42.0774035+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:09:36.7900509+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:59:42.8234633+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:09:40.4573086+00:00"
 }

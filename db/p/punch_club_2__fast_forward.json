@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2549,9 +2549,9 @@
       "ID": "intro_dream",
       "SetID": "69co12a",
       "Name": "Such a strange dream\u2026",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 500
     },
     {
       "ID": "law_student",
@@ -2844,8 +2844,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:10:37.5431592+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:10:41.4840222+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:10.7103832+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:01:40.2135187+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:10:37.5432421+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:01:38.3058121+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:10:41.48409+00:00"
 }

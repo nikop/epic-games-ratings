@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -2301,9 +2301,9 @@
       "ID": "FirstBox",
       "SetID": "7jbi7el",
       "Name": "Test Task",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 412
     },
     {
       "ID": "Floppy",
@@ -2388,8 +2388,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:06:39.0855253+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:06:40.0505943+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:23.201102+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:02:32.9410461+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:06:39.0855507+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:02:39.0784656+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:06:40.050622+00:00"
 }

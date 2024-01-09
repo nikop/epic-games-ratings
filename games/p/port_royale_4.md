@@ -6,27 +6,27 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 79.00% | ~954 |
-| My little farm | 63.00% | ~761 |
-| Every beginning is difficult | 61.00% | ~737 |
-| Gofer | 55.00% | ~664 |
-| 3, 2, 1, mine | 54.00% | ~652 |
-| O Captain! My Captain! | 54.00% | ~652 |
-| Seafarer | 50.00% | ~604 |
-| Greed for gold | 42.00% | ~507 |
-| Intangible | 41.00% | ~495 |
-| I'm out of here for a while | 41.00% | ~495 |
-| In a mint condition | 37.00% | ~447 |
-| Licence to Kill | 36.00% | ~435 |
+| Cabin boy | 79.00% | ~956 |
+| My little farm | 63.00% | ~762 |
+| Every beginning is difficult | 61.00% | ~738 |
+| Gofer | 55.00% | ~666 |
+| 3, 2, 1, mine | 54.00% | ~653 |
+| O Captain! My Captain! | 53.00% | ~641 |
+| Seafarer | 50.00% | ~605 |
+| Greed for gold | 42.00% | ~508 |
+| Intangible | 41.00% | ~496 |
+| I'm out of here for a while | 40.00% | ~484 |
+| In a mint condition | 37.00% | ~448 |
+| Licence to Kill | 36.00% | ~436 |
 | Pirates! | 34.00% | ~411 |
-| Collectionitis | 29.00% | ~350 |
-| Megalomania | 28.00% | ~338 |
-| Christening | 27.00% | ~326 |
+| Collectionitis | 29.00% | ~351 |
+| Megalomania | 28.00% | ~339 |
+| Christening | 27.00% | ~327 |
 | Groundskeeper | 25.00% | ~302 |
-| Wholesale | 22.00% | ~266 |
 | Walk the plank | 21.00% | ~254 |
-| My precious! | 18.00% | ~217 |
-| Pearly gates | 17.00% | ~205 |
+| Wholesale | 21.00% | ~254 |
+| My precious! | 18.00% | ~218 |
+| Pearly gates | 17.00% | ~206 |
 | Conquistador | 14.00% | ~169 |
 | Panic buying | 11.00% | ~133 |
 | Your vessel, my vessel | 10.00% | ~121 |
@@ -35,7 +35,7 @@ Number of Ratings: 53  (23.09.2022)
 | Paths of Glory | 8.00% | ~97 |
 | Panel of experts | 8.00% | ~97 |
 | Maker | 7.00% | ~85 |
-| Conglomerate | 6.00% | ~72 |
+| Conglomerate | 6.00% | ~73 |
 | Buccaneer | 5.00% | ~60 |
 | Flying Dutchman | 5.00% | ~60 |
 | The Grande Bouffe | 5.00% | ~60 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~8 |
 | Davy Jones' locker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,208 (Ranked 282)  
+Progressed: 1,210 (Ranked 282)  
 Completed: 1 (0.08%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 1 (0.08%) (Ranked 322)
 | 2024-01-06 | 1,192 | 1 |
 | 2024-01-07 | 1,196 | 1 |
 | 2024-01-08 | 1,205 | 1 |
-| 2024-01-09 | 1,208 | 1 |
+| 2024-01-09 | 1,210 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

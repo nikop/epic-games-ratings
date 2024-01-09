@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,550 |
-| Titan's First Steps | 11.00% | ~16,550 |
+| Sponsored by Argon | 11.00% | ~16,551 |
+| Titan's First Steps | 11.00% | ~16,551 |
 | Basic in Bulk | 10.00% | ~15,046 |
-| Tinkle of Coins | 9.00% | ~13,541 |
+| Tinkle of Coins | 9.00% | ~13,542 |
 | Disintermediation | 7.00% | ~10,532 |
 | It's Free Real Estate | 7.00% | ~10,532 |
 | Capitalism Ho! | 7.00% | ~10,532 |
@@ -21,15 +21,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 5.00% | ~7,523 |
 | One-Armed Bandit | 5.00% | ~7,523 |
 | Through Repetition, Perfection | 5.00% | ~7,523 |
-| The Daily Grind | 4.00% | ~6,018 |
-| Bounty Hunters | 4.00% | ~6,018 |
-| Demand for Supplies | 4.00% | ~6,018 |
-| Flooding the Market | 4.00% | ~6,018 |
-| Where it Hurts | 4.00% | ~6,018 |
-| Gild-Gotten Goods | 4.00% | ~6,018 |
-| Dungeon Imports | 4.00% | ~6,018 |
-| Did we pack lunch? | 4.00% | ~6,018 |
-| Arcane Industries | 4.00% | ~6,018 |
+| The Daily Grind | 4.00% | ~6,019 |
+| Bounty Hunters | 4.00% | ~6,019 |
+| Demand for Supplies | 4.00% | ~6,019 |
+| Flooding the Market | 4.00% | ~6,019 |
+| Where it Hurts | 4.00% | ~6,019 |
+| Gild-Gotten Goods | 4.00% | ~6,019 |
+| Dungeon Imports | 4.00% | ~6,019 |
+| Did we pack lunch? | 4.00% | ~6,019 |
+| Arcane Industries | 4.00% | ~6,019 |
 | On the Path to Greatness | 3.00% | ~4,514 |
 | Ascended | 3.00% | ~4,514 |
 | Tax not Included | 3.00% | ~4,514 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~602 |
 | Capitalist Camaraderie | 0.20% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,459 (Ranked 86)  
+Progressed: 150,464 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 345 (0.23%) (Ranked 269)
 | 2024-01-06 | 149,985 | 345 |
 | 2024-01-07 | 150,192 | 345 |
 | 2024-01-08 | 150,343 | 345 |
-| 2024-01-09 | 150,459 | 345 |
+| 2024-01-09 | 150,464 | 345 |
 ## Awards
 Max (Great for Beginners): 4,948  (Ranked 78)  
 Sum: 27,968 (Ranked 52)  

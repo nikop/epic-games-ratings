@@ -20,8 +20,8 @@ Rating: 4.60 (Ranked 430)
 | Volcanologist | 22.00% | ~345 |
 | Fierce fight | 21.00% | ~329 |
 | Evacuation | 20.00% | ~313 |
-| Beyond divisions | 17.00% | ~266 |
-| Flying Objects Operator | 16.00% | ~251 |
+| Beyond divisions | 18.00% | ~282 |
+| Flying Objects Operator | 17.00% | ~266 |
 | I remember everything! | 13.00% | ~204 |
 | Another giant | 13.00% | ~204 |
 | Violent solution | 9.00% | ~141 |

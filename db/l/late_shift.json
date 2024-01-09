@@ -3,8 +3,8 @@
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 292,
-  "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_Completed": 156,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1009,
+  "EOS_Progressed": 1012,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.29,
+  "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -2830,6 +2830,11 @@
       "Time": "2024-01-09T18:10:13.1870931+00:00",
       "NumProgressed": 1009,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-09T19:10:16.7993338+00:00",
+      "NumProgressed": 1012,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -2841,7 +2846,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 959
+      "UsersEstimate": 961
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2865,7 +2870,7 @@
       "Name": "The Lion\u0027s Den",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ENDING_3",
@@ -2873,7 +2878,7 @@
       "Name": "The Ploy",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ENDING_4",
@@ -2887,9 +2892,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 444
+      "UsersEstimate": 435
     },
     {
       "ID": "ENDING_6",
@@ -2897,7 +2902,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ENDING_7",
@@ -2905,7 +2910,7 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -2913,7 +2918,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2929,7 +2934,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 686
+      "UsersEstimate": 688
     },
     {
       "ID": "GOOD_KARMA",
@@ -2945,7 +2950,7 @@
       "Name": "Interrogation",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "OFFICE_CLERK",
@@ -2953,7 +2958,7 @@
       "Name": "Office Clerk",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -2967,9 +2972,9 @@
       "ID": "PROTECTOR",
       "SetID": "8eejhlh",
       "Name": "Protector",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 272
+      "UsersEstimate": 263
     },
     {
       "ID": "SABOTAGE",
@@ -2985,7 +2990,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -2993,14 +2998,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 464
+      "UsersEstimate": 466
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1009,
+      "Progressed": 1012,
       "Completed": 13
     }
   ],
@@ -3008,8 +3013,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:10:13.1870925+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:10:16.7993334+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:57:10.5087754+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:10:13.1871246+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:57:11.5161615+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:10:16.799362+00:00"
 }

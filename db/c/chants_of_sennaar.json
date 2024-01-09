@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2614,
+  "EOS_Progressed": 2616,
   "EOS_Completed": 185,
   "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 46,
-  "EOS_Completed_Percentage": 7.08,
+  "EOS_Completed_Percentage": 7.07,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6872,6 +6872,11 @@
       "Time": "2024-01-09T18:08:16.8671453+00:00",
       "NumProgressed": 2614,
       "NumCompleted": 185
+    },
+    {
+      "Time": "2024-01-09T19:08:21.6179882+00:00",
+      "NumProgressed": 2616,
+      "NumCompleted": 185
     }
   ],
   "TotalAchievements": 25,
@@ -6913,9 +6918,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 811
     },
     {
       "ID": "META_HALF_LINK",
@@ -6931,7 +6936,7 @@
       "Name": "Open door",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6947,7 +6952,7 @@
       "Name": "Feels like springtime",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6971,7 +6976,7 @@
       "Name": "A Link to the Past",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -6995,7 +7000,7 @@
       "Name": "True G3M4R",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -7003,7 +7008,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7027,7 +7032,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1570
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7043,7 +7048,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "PROGRESS_N2",
@@ -7051,7 +7056,7 @@
       "Name": "The great escape",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "PROGRESS_N3",
@@ -7059,7 +7064,7 @@
       "Name": "A new dawn",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "PROGRESS_N4",
@@ -7067,7 +7072,7 @@
       "Name": "The darkness",
       "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "PROGRESS_N5",
@@ -7082,7 +7087,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2614,
+      "Progressed": 2616,
       "Completed": 185
     }
   ],
@@ -7090,8 +7095,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:08:16.867145+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:08:21.6179878+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:00:18.6147036+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:08:16.8671888+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:00:19.2920209+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:08:21.6180446+00:00"
 }

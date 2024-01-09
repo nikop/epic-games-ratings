@@ -6,19 +6,19 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,002 |
-| A thief's beginning | 11.00% | ~24,752 |
-| Thorough | 11.00% | ~24,752 |
+| Genin | 12.00% | ~27,003 |
+| A thief's beginning | 11.00% | ~24,753 |
+| Thorough | 11.00% | ~24,753 |
 | Disguised | 9.00% | ~20,252 |
 | Rescue Takuma | 9.00% | ~20,252 |
 | Rollin' | 9.00% | ~20,252 |
 | Tanuki Time | 9.00% | ~20,252 |
-| Ice Ice Yuki | 8.00% | ~18,001 |
-| Stoned Ox | 8.00% | ~18,001 |
-| Yabu | 8.00% | ~18,001 |
-| Happy Planning | 7.00% | ~15,751 |
-| Jonin | 7.00% | ~15,751 |
-| Mugen Unchained | 7.00% | ~15,751 |
+| Ice Ice Yuki | 8.00% | ~18,002 |
+| Stoned Ox | 8.00% | ~18,002 |
+| Yabu | 8.00% | ~18,002 |
+| Happy Planning | 7.00% | ~15,752 |
+| Jonin | 7.00% | ~15,752 |
+| Mugen Unchained | 7.00% | ~15,752 |
 | Chunin | 6.00% | ~13,501 |
 | Flying Rocks | 6.00% | ~13,501 |
 | Warzone | 6.00% | ~13,501 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,017 (Ranked 79)  
+Progressed: 225,023 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,16 +315,16 @@ Completed: 105 (0.05%) (Ranked 337)
 | 2024-01-06 | 224,483 | 105 |
 | 2024-01-07 | 224,723 | 105 |
 | 2024-01-08 | 224,898 | 105 |
-| 2024-01-09 | 225,017 | 105 |
+| 2024-01-09 | 225,023 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 211)  
-Sum: 4,950 (Ranked 150)  
+Sum: 4,952 (Ranked 150)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 592 |
 | This game has Diverse Characters | 551 |
-| This game is Extremely Fun | 542 |
+| This game is Extremely Fun | 544 |
 | This game has Amazing Storytelling | 524 |
 | This game has Amazing Characters | 508 |
 | This game is Highly Recommended | 503 |
@@ -588,4 +588,4 @@ Diff (max vs sum): 61
 | 2024-01-05 | 4.66 | - | 592 | 4,943 |
 | 2024-01-07 | 4.66 | - | 592 | 4,947 |
 | 2024-01-08 | 4.66 | - | 592 | 4,949 |
-| 2024-01-09 | 4.66 | - | 592 | 4,950 |
+| 2024-01-09 | 4.66 | - | 592 | 4,952 |

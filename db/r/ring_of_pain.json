@@ -3,7 +3,7 @@
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 473,
-  "Ranking_Popularity": 137,
+  "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 298,
@@ -3886,9 +3886,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242685,
+  "EOS_Progressed": 242688,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31261,6 +31261,11 @@
       "Time": "2024-01-09T18:11:01.3209636+00:00",
       "NumProgressed": 242685,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-09T19:11:04.2673208+00:00",
+      "NumProgressed": 242688,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31288,7 +31293,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "BOSSPIT",
@@ -31424,7 +31429,7 @@
       "Name": "R.I.P",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "DIEBOSS",
@@ -31536,7 +31541,7 @@
       "Name": "Cold Hearted",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "FULLINVENTORY",
@@ -31544,7 +31549,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -31704,7 +31709,7 @@
       "Name": "The Bestiary",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -31808,7 +31813,7 @@
       "Name": "Shootout",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -31952,7 +31957,7 @@
       "Name": "Toxic",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -32336,7 +32341,7 @@
       "Name": "Raw Power",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "KILLCREATUREWITHSAMESTATS",
@@ -32375,22 +32380,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242685,
+      "Progressed": 242688,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4165,
-      "Completed": 423
+      "Progressed": 4168,
+      "Completed": 424
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-09T13:57:40.165064+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:11:01.3209634+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:11:04.2673205+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:57:58.7831117+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:11:01.3212356+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:58:02.0148775+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:11:04.2675823+00:00"
 }

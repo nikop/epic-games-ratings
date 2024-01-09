@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 88.00% | ~64 |
-| Suicide squad | 45.00% | ~33 |
+| Suicide squad | 47.00% | ~34 |
 | Train hard, fight easy | 29.00% | ~21 |
 | Under cover | 29.00% | ~21 |
 | First blood | 29.00% | ~21 |
 | Royal blessing | 23.00% | ~17 |
 | Blood and sand | 21.00% | ~15 |
+| All for one! | 19.00% | ~14 |
 | A hidden snake | 19.00% | ~14 |
-| All for one! | 18.00% | ~13 |
 | Help of the Gell | 16.00% | ~12 |
 | Crimson rivers | 15.00% | ~11 |
 | Power of Inquisition | 15.00% | ~11 |
@@ -30,13 +30,13 @@
 | Collector | 7.00% | ~5 |
 | Stronger than Gellian steel | 7.00% | ~5 |
 | Protect the Healer! | 7.00% | ~5 |
+| The best apprentice | 5.00% | ~4 |
 | First among Frisians | 5.00% | ~4 |
 | Defeat the bear | 5.00% | ~4 |
+| By own strength | 5.00% | ~4 |
 | Cunning plan | 5.00% | ~4 |
 | Nothing is settled | 5.00% | ~4 |
 | Supplier | 4.00% | ~3 |
-| The best apprentice | 4.00% | ~3 |
-| By own strength | 4.00% | ~3 |
 | Deadly strike | 4.00% | ~3 |
 | There can be only one | 4.00% | ~3 |
 | All's fair in love and war | 4.00% | ~3 |

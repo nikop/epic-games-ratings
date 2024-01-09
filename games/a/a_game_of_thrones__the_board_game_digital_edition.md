@@ -1,35 +1,35 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 953)  
+Rating: 4.21 (Ranked 954)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,194 |
-| Battering Crew | 19.00% | ~6,267 |
-| The Kingsroad | 18.00% | ~5,937 |
-| Well Stocked | 13.00% | ~4,288 |
-| Royal Fleet | 12.00% | ~3,958 |
+| Conqueror | 40.00% | ~13,198 |
+| Battering Crew | 19.00% | ~6,269 |
+| The Kingsroad | 18.00% | ~5,939 |
+| Well Stocked | 13.00% | ~4,289 |
+| Royal Fleet | 12.00% | ~3,959 |
 | The Kraken’s Grasp | 9.00% | ~2,969 |
-| Daggers in the Dark | 8.00% | ~2,639 |
-| Alliance | 8.00% | ~2,639 |
-| Winter is Coming | 7.00% | ~2,309 |
-| Oathkeeper | 7.00% | ~2,309 |
-| Influential | 7.00% | ~2,309 |
-| A Long Journey | 7.00% | ~2,309 |
-| Ours is the Fury | 6.00% | ~1,979 |
-| We Do Not Sow | 6.00% | ~1,979 |
-| Defender of the Wall | 6.00% | ~1,979 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,649 |
-| Growing Strong | 5.00% | ~1,649 |
-| Hear me Roar! | 5.00% | ~1,649 |
+| Daggers in the Dark | 8.00% | ~2,640 |
+| Alliance | 8.00% | ~2,640 |
+| Winter is Coming | 7.00% | ~2,310 |
+| Oathkeeper | 7.00% | ~2,310 |
+| Influential | 7.00% | ~2,310 |
+| A Long Journey | 7.00% | ~2,310 |
+| Ours is the Fury | 6.00% | ~1,980 |
+| We Do Not Sow | 6.00% | ~1,980 |
+| Defender of the Wall | 6.00% | ~1,980 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,650 |
+| Growing Strong | 5.00% | ~1,650 |
+| Hear me Roar! | 5.00% | ~1,650 |
 | What is Dead may Never Die | 3.00% | ~990 |
 | King in the North | 2.00% | ~660 |
 | The Swift | 2.00% | ~660 |
 | War of the Five Kings | 1.00% | ~330 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,986 (Ranked 139)  
+Progressed: 32,994 (Ranked 139)  
 Completed: 86 (0.26%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 86 (0.26%) (Ranked 263)
 | 2024-01-06 | 32,727 | 86 |
 | 2024-01-07 | 32,849 | 86 |
 | 2024-01-08 | 32,932 | 86 |
-| 2024-01-09 | 32,986 | 86 |
+| 2024-01-09 | 32,994 | 86 |
 ## Awards
 Max (Quickly Understood Controls): 128  (Ranked 351)  
 Sum: 809 (Ranked 292)  

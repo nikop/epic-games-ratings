@@ -301,9 +301,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18172,
+  "EOS_Progressed": 18173,
   "EOS_Completed": 310,
-  "EOS_NewPlayers": 883,
+  "EOS_NewPlayers": 882,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -9366,6 +9366,11 @@
       "Time": "2024-01-09T18:10:13.4600969+00:00",
       "NumProgressed": 18172,
       "NumCompleted": 310
+    },
+    {
+      "Time": "2024-01-09T19:10:17.1880406+00:00",
+      "NumProgressed": 18173,
+      "NumCompleted": 310
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -9378,7 +9383,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 15991
+      "UsersEstimate": 15992
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -9386,7 +9391,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 14719
+      "UsersEstimate": 14720
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -9490,7 +9495,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 3634
+      "UsersEstimate": 3635
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -9530,7 +9535,7 @@
       "Name": "Still Single",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4906
+      "UsersEstimate": 4907
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -9586,7 +9591,7 @@
       "Name": "What I Want Is You",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 9631
+      "UsersEstimate": 9632
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -9650,7 +9655,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -9713,7 +9718,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18172,
+      "Progressed": 18173,
       "Completed": 310
     }
   ],
@@ -9721,8 +9726,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-09T17:57:40.2908617+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:10:13.4600967+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:10:17.1880403+00:00",
   "LastUpdate_AppInfo": "2024-01-06T03:57:10.1244373+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:57:40.2908621+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:10:13.4601542+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:57:43.2251204+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:10:17.1881461+00:00"
 }

@@ -27,10 +27,10 @@
 | Medal of Exploration III | 31.00% | ~1,253 |
 | Principled | 31.00% | ~1,253 |
 | Scientist | 31.00% | ~1,253 |
+| Paramour I | 30.00% | ~1,213 |
 | Sentinel Ally | 30.00% | ~1,213 |
 | Krogan Ally | 30.00% | ~1,213 |
 | Merciless | 30.00% | ~1,213 |
-| Paramour I | 29.00% | ~1,172 |
 | Head Hunter | 29.00% | ~1,172 |
 | Scholar | 29.00% | ~1,172 |
 | The Archangel | 28.00% | ~1,132 |
@@ -60,6 +60,7 @@
 | Fade Away | 21.00% | ~849 |
 | The Cure | 21.00% | ~849 |
 | Big Game Hunter | 21.00% | ~849 |
+| Digital Exorcist | 21.00% | ~849 |
 | Heart of Darkness | 21.00% | ~849 |
 | Focused | 20.00% | ~808 |
 | Completionist | 20.00% | ~808 |
@@ -67,7 +68,6 @@
 | Cat's in the Cradle | 20.00% | ~808 |
 | Doppelganger | 20.00% | ~808 |
 | Treason | 20.00% | ~808 |
-| Digital Exorcist | 20.00% | ~808 |
 | Mobilizer | 20.00% | ~808 |
 | Mission Accomplished | 19.00% | ~768 |
 | Suicide Mission | 19.00% | ~768 |
@@ -113,10 +113,10 @@
 | Always Prepared | 7.00% | ~283 |
 | Paramour III | 7.00% | ~283 |
 | Bruiser | 7.00% | ~283 |
+| Lift Mastery | 7.00% | ~283 |
 | Overload Specialist | 7.00% | ~283 |
 | Sky High | 6.00% | ~243 |
 | Hijacker | 6.00% | ~243 |
-| Lift Mastery | 6.00% | ~243 |
 | Damping Specialist | 4.00% | ~162 |
 | Singularity Mastery | 4.00% | ~162 |
 | Shield Breaker | 3.00% | ~121 |

@@ -10,12 +10,12 @@
 | Baited | 66.00% | ~88 |
 | "Swoosh" | 58.00% | ~78 |
 | The light at the end of the tunnel | 57.00% | ~76 |
-| Masochistic | 51.00% | ~68 |
+| Masochistic | 52.00% | ~70 |
 | Soft skin | 49.00% | ~66 |
 | Splash! | 49.00% | ~66 |
 | Squid game | 40.00% | ~54 |
+| Rock Solid | 32.00% | ~43 |
 | Sensitive soul | 32.00% | ~43 |
-| Rock Solid | 31.00% | ~42 |
 | The beast within | 31.00% | ~42 |
 | It's getting dark | 31.00% | ~42 |
 | Rooftop | 28.00% | ~38 |

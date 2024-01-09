@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -2079,9 +2079,9 @@
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 168
     },
     {
       "ID": "ach_office_2",
@@ -2103,9 +2103,9 @@
       "ID": "ach_pop_1",
       "SetID": "b8gh1fi",
       "Name": "People Mover",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_pop_2",
@@ -2191,9 +2191,9 @@
       "ID": "ach_restaurants_2",
       "SetID": "b8gh1fi",
       "Name": "Tasty Profits",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_restaurants_3",
@@ -2392,8 +2392,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:05:07.4682694+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:05:09.9158907+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:58:25.6858473+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:05:07.4683769+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:58:28.3636207+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:05:09.9159903+00:00"
 }

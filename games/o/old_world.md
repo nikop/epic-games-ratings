@@ -33,6 +33,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 1.00% | ~163 |
 | Pyramids | 1.00% | ~163 |
 | Learn to Play 1 | 1.00% | ~163 |
+| Christianity | 1.00% | ~163 |
 | Judaism | 1.00% | ~163 |
 | Babylonian Paganism | 1.00% | ~163 |
 | Greek Paganism | 1.00% | ~163 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.90% | ~147 |
 | Ishtar Gate | 0.90% | ~147 |
 | Lighthouse | 0.90% | ~147 |
-| Christianity | 0.90% | ~147 |
 | Roman Paganism | 0.90% | ~147 |
 | Great | 0.80% | ~130 |
 | Wise | 0.80% | ~130 |
@@ -69,17 +69,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.60% | ~98 |
 | Building Wonders | 0.60% | ~98 |
 | Mythology | 0.60% | ~98 |
-| Hanging Gardens in Babylon | 0.50% | ~81 |
-| Intercessor | 0.50% | ~81 |
-| Mighty | 0.50% | ~81 |
-| Good Difficulty | 0.50% | ~81 |
-| Champions | 0.50% | ~81 |
-| Statesmen | 0.50% | ~81 |
-| Learn to Play 3 | 0.50% | ~81 |
-| Power to the People | 0.50% | ~81 |
-| Persian Paganism | 0.50% | ~81 |
-| Points Victory | 0.50% | ~81 |
-| Win a Single Player Game | 0.50% | ~81 |
+| Hanging Gardens in Babylon | 0.50% | ~82 |
+| Intercessor | 0.50% | ~82 |
+| Mighty | 0.50% | ~82 |
+| Good Difficulty | 0.50% | ~82 |
+| Champions | 0.50% | ~82 |
+| Statesmen | 0.50% | ~82 |
+| Learn to Play 3 | 0.50% | ~82 |
+| Power to the People | 0.50% | ~82 |
+| Persian Paganism | 0.50% | ~82 |
+| Points Victory | 0.50% | ~82 |
+| Win a Single Player Game | 0.50% | ~82 |
 | Bad Heir Day | 0.40% | ~65 |
 | Conqueror | 0.40% | ~65 |
 | Ready | 0.40% | ~65 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,299 (Ranked 169)  
+Progressed: 16,302 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,11 +629,11 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,299 | 5 |
+| 2024-01-09 | 16,302 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
-Sum: 1,918 (Ranked 223)  
-Diff (max vs sum): 64  
+Sum: 1,918 (Ranked 224)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 229 |

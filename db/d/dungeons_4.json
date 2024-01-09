@@ -2588,9 +2588,9 @@
       "ID": "ach_main08sacrifice_overfed",
       "SetID": "4hg22ll",
       "Name": "Not Even a Tiny Thin Mint Wafer, Thanks!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 217
     },
     {
       "ID": "ach_main09journey_completed",
@@ -2636,9 +2636,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 359
+      "UsersEstimate": 367
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -2716,9 +2716,9 @@
       "ID": "ach_main14run_completed",
       "SetID": "4hg22ll",
       "Name": "If Looks Could Kill",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 277
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -2772,9 +2772,9 @@
       "ID": "ach_main16ring_lavalings",
       "SetID": "4hg22ll",
       "Name": "Lavalumps on Ice!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 157
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -2893,8 +2893,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:09:41.880633+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:09:45.6421757+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:59:37.3573247+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:09:41.8807074+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:59:38.3293844+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:09:45.6422328+00:00"
 }

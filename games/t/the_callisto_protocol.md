@@ -5,32 +5,32 @@ Rating: 4.22 (Ranked 948)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 26.00% | ~5,681 |
-| Flesh Wound | 25.00% | ~5,463 |
-| Desperate Times | 24.00% | ~5,244 |
-| Paper Jams | 22.00% | ~4,807 |
-| Get a Grip | 21.00% | ~4,589 |
-| Chew 'Em Up | 20.00% | ~4,370 |
-| Reforged | 18.00% | ~3,933 |
-| Float Like A Butterfly | 17.00% | ~3,715 |
-| Workplace Hazard | 16.00% | ~3,496 |
-| If the SHU Fits... | 16.00% | ~3,496 |
-| Without A Paddle | 14.00% | ~3,059 |
-| In the Pipe, Five by Five | 12.00% | ~2,622 |
-| Crash Site | 12.00% | ~2,622 |
-| Two Heads Are Better Than One | 11.00% | ~2,404 |
-| Power Up | 11.00% | ~2,404 |
-| Terminated | 10.00% | ~2,185 |
-| What Lies Beneath | 10.00% | ~2,185 |
-| Full Circle | 10.00% | ~2,185 |
-| Giving Back | 9.00% | ~1,967 |
-| You Need a Gun | 9.00% | ~1,967 |
-| I Do Belong Here | 8.00% | ~1,748 |
-| Keep Fighting | 7.00% | ~684 |
+| The Outer Way | 26.00% | ~5,684 |
+| Flesh Wound | 25.00% | ~5,466 |
+| Desperate Times | 24.00% | ~5,247 |
+| Paper Jams | 22.00% | ~4,810 |
+| Get a Grip | 21.00% | ~4,591 |
+| Chew 'Em Up | 20.00% | ~4,372 |
+| Reforged | 18.00% | ~3,935 |
+| Float Like A Butterfly | 17.00% | ~3,717 |
+| Workplace Hazard | 16.00% | ~3,498 |
+| If the SHU Fits... | 16.00% | ~3,498 |
+| Without A Paddle | 14.00% | ~3,061 |
+| In the Pipe, Five by Five | 12.00% | ~2,623 |
+| Crash Site | 12.00% | ~2,623 |
+| Two Heads Are Better Than One | 11.00% | ~2,405 |
+| Power Up | 11.00% | ~2,405 |
+| Terminated | 10.00% | ~2,186 |
+| What Lies Beneath | 10.00% | ~2,186 |
+| Full Circle | 10.00% | ~2,186 |
+| Giving Back | 9.00% | ~1,968 |
+| You Need a Gun | 9.00% | ~1,968 |
+| I Do Belong Here | 8.00% | ~1,749 |
+| Keep Fighting | 7.00% | ~685 |
 | In Striking Distance | 5.00% | ~1,093 |
 | The Commonality | 5.00% | ~1,093 |
 | It's Time | 5.00% | ~489 |
-| One Last Job | 3.00% | ~293 |
+| One Last Job | 3.00% | ~294 |
 | Big Spender | 2.00% | ~196 |
 | This Isn't About Escape | 2.00% | ~196 |
 | Armed to the Teeth | 1.00% | ~98 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 948)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,851 (Ranked 151)  
+Progressed: 21,862 (Ranked 151)  
 Completed: 82 (0.38%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 82 (0.38%) (Ranked 240)
 | 2024-01-06 | 21,389 | 82 |
 | 2024-01-07 | 21,615 | 82 |
 | 2024-01-08 | 21,745 | 82 |
-| 2024-01-09 | 21,851 | 82 |
+| 2024-01-09 | 21,862 | 82 |
 ## Awards
 Max (Amazing Characters): 129  (Ranked 349)  
 Sum: 618 (Ranked 322)  

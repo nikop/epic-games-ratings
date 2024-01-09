@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -341,9 +341,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4115,
+  "EOS_Progressed": 4117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8296,6 +8296,11 @@
       "Time": "2024-01-09T18:06:38.2474652+00:00",
       "NumProgressed": 4115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T19:06:39.3334831+00:00",
+      "NumProgressed": 4117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8315,7 +8320,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_BASE_11",
@@ -8371,7 +8376,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACH_BASE_19",
@@ -8395,7 +8400,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ACH_BASE_22",
@@ -8419,7 +8424,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "ACH_BASE_25",
@@ -8483,7 +8488,7 @@
       "Name": "Power Outage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_BASE_32",
@@ -8491,7 +8496,7 @@
       "Name": "Praise the Hull!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_BASE_33",
@@ -8499,7 +8504,7 @@
       "Name": "Fully Recycled",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_BASE_34",
@@ -8571,7 +8576,7 @@
       "Name": "Space Greenhouse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_BASE_45",
@@ -8595,7 +8600,7 @@
       "Name": "Delivery!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_BASE_48",
@@ -8611,7 +8616,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_BASE_5",
@@ -8659,7 +8664,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_BASE_57",
@@ -8683,7 +8688,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_BASE_6",
@@ -8723,7 +8728,7 @@
       "Name": "Help of the Forgotten Member",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_BASE_64",
@@ -8755,20 +8760,20 @@
       "Name": "Pulsar Disciple",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2299,
+      "Progressed": 2301,
       "Completed": 11
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4115,
+      "Progressed": 4117,
       "Completed": 0
     }
   ],
@@ -8776,8 +8781,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-08T15:02:36.7429513+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:06:38.247465+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:06:39.3334827+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:57:07.1459349+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:06:38.2475702+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:57:07.690311+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:06:39.333583+00:00"
 }

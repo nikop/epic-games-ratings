@@ -5,29 +5,29 @@ Rating: 4.19 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,799 |
-| Battlefields Have Memories | 81.00% | ~2,577 |
-| Enlisted | 74.00% | ~2,354 |
-| Maybe Engage a Little | 69.00% | ~2,195 |
-| No More Names | 52.00% | ~1,654 |
-| Initiate | 38.00% | ~1,209 |
+| Unforeseen | 88.00% | ~2,801 |
+| Battlefields Have Memories | 81.00% | ~2,578 |
+| Enlisted | 74.00% | ~2,355 |
+| Maybe Engage a Little | 69.00% | ~2,196 |
+| No More Names | 52.00% | ~1,655 |
+| Initiate | 38.00% | ~1,210 |
 | Thrada-Kul | 34.00% | ~1,082 |
 | Gravity-Challenged Rocks | 28.00% | ~891 |
-| Socialite | 24.00% | ~763 |
-| Soldier | 24.00% | ~763 |
+| Socialite | 24.00% | ~764 |
+| Soldier | 24.00% | ~764 |
 | All the Major Food Groups | 23.00% | ~732 |
 | Beggars Would Ride | 21.00% | ~668 |
-| Control is an Illusion | 20.00% | ~636 |
+| Control is an Illusion | 20.00% | ~637 |
 | The Means to Save It | 17.00% | ~541 |
 | Resilience to Sin | 16.00% | ~509 |
 | A Familiar Nest | 15.00% | ~477 |
 | Periapt Alizarin | 15.00% | ~477 |
-| Geas Aristeya | 14.00% | ~445 |
+| Geas Aristeya | 14.00% | ~446 |
 | A Perfect Cycle | 13.00% | ~414 |
 | Recruit | 13.00% | ~414 |
 | Armsman | 11.00% | ~350 |
 | Lights Army | 9.00% | ~286 |
-| Periapt Cerulean | 8.00% | ~254 |
+| Periapt Cerulean | 8.00% | ~255 |
 | Good Boy | 7.00% | ~223 |
 | Best Dressed | 6.00% | ~191 |
 | Periapt Viridian | 6.00% | ~191 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 973)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,181 (Ranked 227)  
+Progressed: 3,183 (Ranked 227)  
 Completed: 4 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 4 (0.13%) (Ranked 298)
 | 2024-01-06 | 2,915 | 4 |
 | 2024-01-07 | 3,056 | 4 |
 | 2024-01-08 | 3,129 | 4 |
-| 2024-01-09 | 3,181 | 4 |
+| 2024-01-09 | 3,183 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

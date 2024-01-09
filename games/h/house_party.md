@@ -14,7 +14,7 @@ Number of Ratings: 177  (23.09.2022)
 | Life Found a Way | 3.00% | ~129 |
 | Relentless | 3.00% | ~218 |
 | If at First You Don't Succeed... | 3.00% | ~218 |
-| Drunk and Disorderly: Stephanie | 2.00% | ~145 |
+| Drunk and Disorderly: Stephanie | 2.00% | ~146 |
 | Amy | 1.00% | ~73 |
 | Drunk and Disorderly: Ashley | 1.00% | ~73 |
 | IRL Let's Player | 1.00% | ~73 |
@@ -23,7 +23,7 @@ Number of Ratings: 177  (23.09.2022)
 | Social Butterfly | 1.00% | ~73 |
 | The Muse: Madison | 1.00% | ~73 |
 | The Crush | 0.90% | ~65 |
-| It Smells Like Roses | 0.80% | ~34 |
+| It Smells Like Roses | 0.80% | ~35 |
 | Smooth Operator: Ashley | 0.80% | ~58 |
 | Amy: Scavenger Hunt | 0.70% | ~51 |
 | Casanova | 0.70% | ~51 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,273 (Ranked 194)  
+Progressed: 7,275 (Ranked 194)  
 Completed: 3 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 3 (0.04%) (Ranked 349)
 | 2024-01-06 | 7,186 | 3 |
 | 2024-01-07 | 7,231 | 3 |
 | 2024-01-08 | 7,258 | 3 |
-| 2024-01-09 | 7,273 | 3 |
+| 2024-01-09 | 7,275 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -889,6 +889,11 @@
       "Time": "2024-01-08T22:05:32.7098712+00:00",
       "NumProgressed": 187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T19:05:47.1149135+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -949,7 +954,7 @@
       "Name": "Princess in another castle",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach16",
@@ -957,7 +962,7 @@
       "Name": "Grahaaa!",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach17",
@@ -965,7 +970,7 @@
       "Name": "Get the cake",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach18",
@@ -1005,7 +1010,7 @@
       "Name": "Delicious",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach22",
@@ -1029,7 +1034,7 @@
       "Name": "Researcher",
       "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach25",
@@ -1043,15 +1048,15 @@
       "ID": "ach26",
       "SetID": "baneh2j",
       "Name": "Passion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 35,
       "UsersEstimate": 144
     },
@@ -1061,7 +1066,7 @@
       "Name": "Start",
       "Percentage": 90,
       "XP": 35,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "ach29",
@@ -1069,7 +1074,7 @@
       "Name": "My first team",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ach3",
@@ -1109,7 +1114,7 @@
       "Name": "Size doesn\u0027t matter",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach6",
@@ -1117,7 +1122,7 @@
       "Name": "On the style",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "ach7",
@@ -1148,14 +1153,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 189,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:05:45.3765151+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:05:47.1149131+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:04.956852+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:57:35.8346745+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:05:45.3765349+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:57:38.5992961+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:05:47.1149359+00:00"
 }

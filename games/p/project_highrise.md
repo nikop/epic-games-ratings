@@ -12,7 +12,7 @@
 | Dinner Dash | 36.00% | ~183 |
 | Need a Consult | 34.00% | ~173 |
 | Upgrade Unlock | 33.00% | ~168 |
-| It's Technical | 32.00% | ~163 |
+| It's Technical | 33.00% | ~168 |
 | Proper Walls | 29.00% | ~147 |
 | Delegate Maintenance | 29.00% | ~147 |
 | Destination Destiny | 28.00% | ~142 |
@@ -22,15 +22,15 @@
 | Your Prestige is Rising | 21.00% | ~107 |
 | Retail Revenue | 21.00% | ~107 |
 | Don't Feel a Loan | 20.00% | ~102 |
+| People Mover | 19.00% | ~97 |
 | Artfully Done | 18.00% | ~91 |
-| People Mover | 18.00% | ~91 |
 | Leveled Up Shops | 18.00% | ~91 |
 | We Don't Need No Education | 18.00% | ~91 |
 | Lux Living | 17.00% | ~86 |
+| Tasty Profits | 17.00% | ~86 |
 | Emporium Empire | 17.00% | ~86 |
 | Get Electrified | 17.00% | ~86 |
 | Rehab Expert | 16.00% | ~81 |
-| Tasty Profits | 16.00% | ~81 |
 | Established Fame | 15.00% | ~76 |
 | Under One Roof | 13.00% | ~66 |
 | Starred Dining | 13.00% | ~66 |

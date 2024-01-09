@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 46897,
+  "EOS_Progressed": 46902,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 768,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18251,6 +18251,11 @@
       "Time": "2024-01-09T18:06:28.2629191+00:00",
       "NumProgressed": 46897,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T19:06:29.5965695+00:00",
+      "NumProgressed": 46902,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18302,7 +18307,7 @@
       "Name": "Through the Eyes of Another: Seer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -18548,9 +18553,9 @@
       "ID": "MONUMENT_FIRST",
       "SetID": "6d0g7k8",
       "Name": "Pilgrimage: Initiate",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3283
+      "UsersEstimate": 3752
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -18685,22 +18690,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46897,
+      "Progressed": 46902,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11734,
-      "Completed": 11734
+      "Progressed": 11739,
+      "Completed": 11739
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-09T14:02:53.1133514+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:06:28.2629188+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:06:29.5965691+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:03:02.4390301+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:06:28.2630485+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:03:08.1074656+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:06:29.6398299+00:00"
 }

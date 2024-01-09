@@ -2,9 +2,9 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4369,6 +4369,11 @@
       "Time": "2024-01-09T17:10:53.9155247+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T19:10:56.0231416+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4412,7 +4417,7 @@
       "Name": "Budget Flight",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Calculated",
@@ -4428,7 +4433,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Creator",
@@ -4580,7 +4585,7 @@
       "Name": "New Record",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "NoTimeForModernization",
@@ -4642,9 +4647,9 @@
       "ID": "ReliableTransporter",
       "SetID": "1e89b4i",
       "Name": "Reliable Transporter",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 135
     },
     {
       "ID": "ResourceEconomy",
@@ -4652,7 +4657,7 @@
       "Name": "Resource Economy",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Restructuring",
@@ -4708,21 +4713,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1121,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:10:52.1446582+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:10:56.023141+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.0647724+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:00:48.3797161+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:10:52.1447063+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:00:46.680515+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:10:56.0231882+00:00"
 }

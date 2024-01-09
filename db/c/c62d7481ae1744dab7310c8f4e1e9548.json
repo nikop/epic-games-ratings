@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -1283,9 +1283,9 @@
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "Strom",
@@ -1346,8 +1346,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:05:10.5139077+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:05:12.8857674+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:03:08.3459987+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:05:10.5139336+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:03:13.3120941+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:05:12.8857905+00:00"
 }

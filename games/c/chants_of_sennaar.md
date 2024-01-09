@@ -5,15 +5,15 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 60.00% | ~1,568 |
-| Welcome to the Tower | 54.00% | ~1,412 |
-| The great escape | 45.00% | ~1,176 |
-| The Preacher's fate | 44.00% | ~1,150 |
-| A new dawn | 37.00% | ~967 |
+| That's the spirit | 60.00% | ~1,570 |
+| Welcome to the Tower | 54.00% | ~1,413 |
+| The great escape | 45.00% | ~1,177 |
+| The Preacher's fate | 44.00% | ~1,151 |
+| A new dawn | 37.00% | ~968 |
 | Scholar | 33.00% | ~863 |
-| True G3M4R | 31.00% | ~810 |
-| The darkness | 31.00% | ~810 |
-| A good beginning | 30.00% | ~784 |
+| A good beginning | 31.00% | ~811 |
+| True G3M4R | 31.00% | ~811 |
+| The darkness | 31.00% | ~811 |
 | One last step | 28.00% | ~732 |
 | Cable guy | 27.00% | ~706 |
 | Half the way | 27.00% | ~706 |
@@ -22,17 +22,17 @@ Rating: 4.85 (Ranked 39)
 | Rascal | 26.00% | ~680 |
 | In this together | 25.00% | ~654 |
 | Champollion | 25.00% | ~654 |
-| Open door | 22.00% | ~575 |
-| Feels like springtime | 22.00% | ~575 |
+| Open door | 22.00% | ~576 |
+| Feels like springtime | 22.00% | ~576 |
 | Alchemists Express | 21.00% | ~549 |
 | Free at last | 19.00% | ~497 |
-| A Link to the Past | 16.00% | ~418 |
+| A Link to the Past | 16.00% | ~419 |
 | A great audience | 14.00% | ~366 |
 | For its own good | 14.00% | ~366 |
 | Fashion victim | 9.00% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,614 (Ranked 235)  
-Completed: 185 (7.08%) (Ranked 59)  
+Progressed: 2,616 (Ranked 235)  
+Completed: 185 (7.07%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -202,7 +202,7 @@ Completed: 185 (7.08%) (Ranked 59)
 | 2024-01-06 | 2,492 | 168 |
 | 2024-01-07 | 2,529 | 176 |
 | 2024-01-08 | 2,573 | 180 |
-| 2024-01-09 | 2,614 | 185 |
+| 2024-01-09 | 2,616 | 185 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

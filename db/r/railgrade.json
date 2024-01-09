@@ -633,9 +633,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 17860,
+  "EOS_Progressed": 17859,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": -96,
+  "EOS_NewPlayers": -97,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -12003,6 +12003,11 @@
       "Time": "2024-01-09T18:09:11.0593999+00:00",
       "NumProgressed": 17860,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-09T19:09:14.5400089+00:00",
+      "NumProgressed": 17859,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 37,
@@ -12022,7 +12027,7 @@
       "Name": "Helper of the People",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 7680
+      "UsersEstimate": 7679
     },
     {
       "ID": "ach.030.deertastic",
@@ -12046,7 +12051,7 @@
       "Name": "Builder",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 16253
+      "UsersEstimate": 16252
     },
     {
       "ID": "ach.060.goingdistance",
@@ -12070,7 +12075,7 @@
       "Name": "Eraser",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 13752
+      "UsersEstimate": 13751
     },
     {
       "ID": "ach.090.perfectionist",
@@ -12078,7 +12083,7 @@
       "Name": "Perfectionist",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4644
+      "UsersEstimate": 4643
     },
     {
       "ID": "ach.100.indecisive",
@@ -12110,7 +12115,7 @@
       "Name": "Minimalist",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 17681
+      "UsersEstimate": 17680
     },
     {
       "ID": "ach.140.legacy",
@@ -12118,7 +12123,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 107,
       "XP": 60,
-      "UsersEstimate": 19110
+      "UsersEstimate": 19109
     },
     {
       "ID": "ach.150.pocket",
@@ -12126,7 +12131,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 12681
+      "UsersEstimate": 12680
     },
     {
       "ID": "ach.160.box",
@@ -12134,7 +12139,7 @@
       "Name": "Box of Trains",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6430
+      "UsersEstimate": 6429
     },
     {
       "ID": "ach.170.room",
@@ -12150,7 +12155,7 @@
       "Name": "Inspector",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 11609
+      "UsersEstimate": 11608
     },
     {
       "ID": "ach.190.scenic",
@@ -12166,7 +12171,7 @@
       "Name": "Let There be Light",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6430
+      "UsersEstimate": 6429
     },
     {
       "ID": "ach.210.baron",
@@ -12174,7 +12179,7 @@
       "Name": "Oil Baron",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8216
+      "UsersEstimate": 8215
     },
     {
       "ID": "ach.220.hot",
@@ -12198,7 +12203,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8216
+      "UsersEstimate": 8215
     },
     {
       "ID": "ach.250.downfall",
@@ -12206,7 +12211,7 @@
       "Name": "Before the Downfall",
       "Percentage": 102,
       "XP": 60,
-      "UsersEstimate": 18217
+      "UsersEstimate": 18216
     },
     {
       "ID": "ach.260.investor",
@@ -12214,7 +12219,7 @@
       "Name": "Investor",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1964
     },
     {
       "ID": "ach.270.groundwater",
@@ -12270,7 +12275,7 @@
       "Name": "Money like Water",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 17860
+      "UsersEstimate": 17859
     },
     {
       "ID": "ach.340.steel",
@@ -12309,7 +12314,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 17860,
+      "Progressed": 17859,
       "Completed": 25
     }
   ],
@@ -12317,8 +12322,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2024-01-07T17:58:05.1810592+00:00",
-  "LastChanged_Achievements": "2024-01-09T18:09:11.0593995+00:00",
+  "LastChanged_Achievements": "2024-01-09T19:09:14.5400085+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:02.1211964+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:59:47.1796624+00:00",
-  "LastUpdate_Achievements": "2024-01-09T18:09:11.0594905+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:59:47.9279279+00:00",
+  "LastUpdate_Achievements": "2024-01-09T19:09:14.5401019+00:00"
 }
