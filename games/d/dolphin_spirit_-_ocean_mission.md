@@ -9,10 +9,10 @@
 | New recruit | 25.00% | ~8 |
 | Interesting | 25.00% | ~8 |
 | Amateur photographer | 19.00% | ~6 |
+| In search of knowledge | 16.00% | ~5 |
 | Power of the dolphin | 16.00% | ~5 |
 | Let's get started | 13.00% | ~4 |
 | Rescuer | 13.00% | ~4 |
-| In search of knowledge | 13.00% | ~4 |
 | Power of the ray | 13.00% | ~4 |
 | Pro Photographer | 9.00% | ~3 |
 | Recycling expert | 9.00% | ~3 |

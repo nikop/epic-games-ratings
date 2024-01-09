@@ -23,9 +23,9 @@ Number of Ratings: 85  (23.09.2022)
 | Upgreatest | 35.00% | ~146 |
 | Bodied Sattva | 35.00% | ~146 |
 | Deincarnated | 29.00% | ~121 |
+| Furon Fashion | 29.00% | ~121 |
 | Rock of the Bay | 28.00% | ~117 |
-| Furon Fashion | 28.00% | ~117 |
-| Trans-Siberian Express | 24.00% | ~100 |
+| Trans-Siberian Express | 25.00% | ~104 |
 | Arkvoodle Doodle | 19.00% | ~79 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~79 |
 | Ouch of Body Experience | 16.00% | ~67 |
@@ -76,9 +76,9 @@ Completed: 5 (1.20%) (Ranked 161)
 | 2024-01-08 | 406 | 5 |
 | 2024-01-09 | 417 | 5 |
 ## Awards
-Max (Great Boss Battles): 35  (Ranked 503)  
+Max (Great Boss Battles): 35  (Ranked 504)  
 Sum: 35 (Ranked 532)  
-Diff (max vs sum): -29  
+Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

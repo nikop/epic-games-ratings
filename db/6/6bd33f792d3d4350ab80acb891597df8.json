@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -654,6 +654,11 @@
       "Time": "2024-01-09T08:07:43.2938115+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T17:08:17.7237639+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -663,7 +668,7 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
       "UsersEstimate": 102
     },
@@ -671,15 +676,15 @@
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
       "SetID": "4egpam7",
       "Name": "The Bald Lady",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 30,
       "UsersEstimate": 88
     },
@@ -689,7 +694,7 @@
       "Name": "Devil\u0027s Bargain",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBQ",
@@ -697,7 +702,7 @@
       "Name": "Man of Faith",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBg",
@@ -705,7 +710,7 @@
       "Name": "Uninvited Guests",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -727,15 +732,15 @@
       "ID": "CgkIxYDzrbcPEAIQCQ",
       "SetID": "4egpam7",
       "Name": "Ancient Enigma",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 30,
       "UsersEstimate": 106
     },
@@ -743,7 +748,7 @@
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 30,
       "UsersEstimate": 93
     },
@@ -751,7 +756,7 @@
       "ID": "CgkIxYDzrbcPEAIQDA",
       "SetID": "4egpam7",
       "Name": "Chimney Sweeper",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 30,
       "UsersEstimate": 88
     },
@@ -777,7 +782,7 @@
       "Name": "Dear Diary",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEA",
@@ -785,7 +790,7 @@
       "Name": "Collector of Secrets",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEQ",
@@ -839,9 +844,9 @@
       "ID": "CgkIxYDzrbcPEAIQFw",
       "SetID": "4egpam7",
       "Name": "I Could Do This Blindfolded",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "CgkIxYDzrbcPEAIQGA",
@@ -873,7 +878,7 @@
       "Name": "Slow and Steady",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHA",
@@ -904,14 +909,14 @@
     {
       "ID": "4egpam7",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:08:25.9552427+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:08:17.7237636+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:03.7970515+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:59:14.7345131+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:08:25.9552658+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:59:06.0632283+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:08:17.7237937+00:00"
 }

@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83129,
+  "EOS_Progressed": 83132,
   "EOS_Completed": 927,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -29626,6 +29626,11 @@
       "Time": "2024-01-09T16:04:14.1689853+00:00",
       "NumProgressed": 83129,
       "NumCompleted": 927
+    },
+    {
+      "Time": "2024-01-09T17:04:14.2912544+00:00",
+      "NumProgressed": 83132,
+      "NumCompleted": 927
     }
   ],
   "TotalAchievements": 25,
@@ -29669,7 +29674,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18288
+      "UsersEstimate": 18289
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -29677,7 +29682,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14963
+      "UsersEstimate": 14964
     },
     {
       "ID": "Butcher",
@@ -29733,7 +29738,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "Master, Commander",
@@ -29741,7 +29746,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17457
+      "UsersEstimate": 17458
     },
     {
       "ID": "Meaty",
@@ -29781,7 +29786,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9144
+      "UsersEstimate": 9145
     },
     {
       "ID": "Right On Target",
@@ -29829,14 +29834,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83129,
+      "Progressed": 83132,
       "Completed": 927
     }
   ],
@@ -29844,8 +29849,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:04:14.1689851+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:04:14.2912539+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:00:02.3835341+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:04:14.1691053+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:59:53.7147825+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:04:14.2914137+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1665,6 +1665,11 @@
       "Time": "2024-01-09T15:04:14.4147262+00:00",
       "NumProgressed": 507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T17:05:26.4133564+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1676,7 +1681,7 @@
       "Name": "First 100 Days",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_ada",
@@ -1812,7 +1817,7 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_consultant_1",
@@ -1820,7 +1825,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ach_consultants_a",
@@ -1980,7 +1985,7 @@
       "Name": "Starting Skyward",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ach_floors_1",
@@ -2042,9 +2047,9 @@
       "ID": "ach_loan",
       "SetID": "b8gh1fi",
       "Name": "Don\u0027t Feel a Loan",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_mod_1",
@@ -2074,9 +2079,9 @@
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 163
     },
     {
       "ID": "ach_office_2",
@@ -2108,7 +2113,7 @@
       "Name": "Master of Puppets",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_prestige_1",
@@ -2116,7 +2121,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach_prestige_2",
@@ -2220,7 +2225,7 @@
       "Name": "Retail Revenue",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach_retail_2",
@@ -2340,7 +2345,7 @@
       "Name": "Phoning It In",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_util_power",
@@ -2379,7 +2384,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 0
     }
   ],
@@ -2387,8 +2392,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:05:28.8060762+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:05:26.413356+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:58:45.8794866+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:05:28.8061983+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:58:35.7312036+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:05:26.413445+00:00"
 }

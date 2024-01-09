@@ -1,14 +1,14 @@
 {
   "ID": "b04882669b2e495e9f747c8560488c93",
-  "Name": "Trackmania",
+  "Name": "Trackmania Starter Access",
   "ProductSlug": "trackmania",
   "Ranking_Rating": 300,
   "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,8 @@
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {
-      "com.epicgames.app.blacklist": "CN"
+      "com.epicgames.app.blacklist": "CN",
+      "partnerLinkType": "ubisoft"
     }
   },
   "Rating": 4.66,
@@ -15558,18 +15559,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 34765,
       "NumberOfAwardsMax": 4308
+    },
+    {
+      "Time": "2024-01-09T16:59:40.5451948+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 34783,
+      "NumberOfAwardsMax": 4315
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34765,
-  "NumberOfAwardsMax": 4308,
+  "NumberOfAwards": 34783,
+  "NumberOfAwardsMax": 4315,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4308
+      "Count": 4315
     },
     {
       "Text": "This game has Competitive Players",
@@ -15623,7 +15630,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2170
+      "Count": 2177
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -15635,7 +15642,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1767
+      "Count": 1771
     }
   ],
   "EOS_Progressed": 0,
@@ -15649,8 +15656,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-01-09T11:58:46.8876564+00:00",
+  "LastChanged": "2024-01-09T16:59:40.5451946+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.0174834+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:59:49.6508624+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:10:32.8562073+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:59:40.5451952+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:10:19.8926553+00:00"
 }

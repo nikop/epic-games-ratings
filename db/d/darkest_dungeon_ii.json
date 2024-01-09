@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10600,10 +10600,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21553,
       "NumberOfAwardsMax": 7992
+    },
+    {
+      "Time": "2024-01-09T16:59:33.5730074+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21559,
+      "NumberOfAwardsMax": 7992
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21553,
+  "NumberOfAwards": 21559,
   "NumberOfAwardsMax": 7992,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10653,7 +10659,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1835
+      "Count": 1839
     },
     {
       "Text": "This game is Relaxing",
@@ -10671,7 +10677,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1441
+      "Count": 1443
     },
     {
       "Text": "This game has a Creative Community",
@@ -10680,9 +10686,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132276,
+  "EOS_Progressed": 132282,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 965,
+  "EOS_NewPlayers": 963,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39075,6 +39081,11 @@
       "Time": "2024-01-09T16:10:44.7159401+00:00",
       "NumProgressed": 132276,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T17:10:31.6951662+00:00",
+      "NumProgressed": 132282,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39366,7 +39377,7 @@
       "Name": "Hat Trick",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -39438,7 +39449,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9259
+      "UsersEstimate": 9260
     },
     {
       "ID": "hero_story_complete_all",
@@ -39470,15 +39481,15 @@
       "Name": "Triage",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "inn_first_time",
       "SetID": "64l4lke",
       "Name": "A Place to Lay Your Head",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5291
+      "UsersEstimate": 6614
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -39622,7 +39633,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "combat_kill_collector",
@@ -39630,7 +39641,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39654,7 +39665,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -39678,7 +39689,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "quest_complete_crusader",
@@ -39702,7 +39713,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -39717,21 +39728,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132276,
+      "Progressed": 132282,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7145,
+      "Progressed": 7151,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-09T04:58:52.2545208+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:10:44.7159398+00:00",
+  "LastChanged": "2024-01-09T16:59:33.573007+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:10:31.6951661+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:59:42.3058147+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:10:44.7161317+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:59:33.5730079+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:10:31.6953362+00:00"
 }

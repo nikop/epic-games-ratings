@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 55.00% | ~279 |
-| Starting Skyward | 49.00% | ~248 |
+| Starting Skyward | 49.00% | ~249 |
 | Grime is Not Good | 42.00% | ~213 |
 | Floor Galore | 36.00% | ~183 |
 | Campaign Launch | 36.00% | ~183 |
 | Dinner Dash | 36.00% | ~183 |
-| Need a Consult | 34.00% | ~172 |
-| Upgrade Unlock | 33.00% | ~167 |
-| It's Technical | 33.00% | ~167 |
+| Need a Consult | 34.00% | ~173 |
+| Upgrade Unlock | 33.00% | ~168 |
+| It's Technical | 32.00% | ~163 |
 | Proper Walls | 29.00% | ~147 |
 | Delegate Maintenance | 29.00% | ~147 |
 | Destination Destiny | 28.00% | ~142 |
 | Happy Tenants | 23.00% | ~117 |
 | Potent Potables | 23.00% | ~117 |
 | Smooth Service | 22.00% | ~112 |
-| Don't Feel a Loan | 21.00% | ~106 |
-| Your Prestige is Rising | 21.00% | ~106 |
-| Retail Revenue | 21.00% | ~106 |
+| Your Prestige is Rising | 21.00% | ~107 |
+| Retail Revenue | 21.00% | ~107 |
+| Don't Feel a Loan | 20.00% | ~102 |
 | Artfully Done | 18.00% | ~91 |
 | People Mover | 18.00% | ~91 |
 | Leveled Up Shops | 18.00% | ~91 |
@@ -44,9 +44,9 @@
 | Refined Palates | 9.00% | ~46 |
 | Aestheticly Pleased | 8.00% | ~41 |
 | Plaza Plan | 8.00% | ~41 |
-| First 100 Days | 7.00% | ~35 |
-| Master of Puppets | 7.00% | ~35 |
-| Phoning It In | 7.00% | ~35 |
+| First 100 Days | 7.00% | ~36 |
+| Master of Puppets | 7.00% | ~36 |
+| Phoning It In | 7.00% | ~36 |
 | Water Features | 6.00% | ~30 |
 | Meet Me at HQ | 6.00% | ~30 |
 | Revenue Royalty | 6.00% | ~30 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 507 (Ranked 351)  
+Progressed: 508 (Ranked 350)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 497 | 0 |
 | 2024-01-07 | 502 | 0 |
 | 2024-01-08 | 505 | 0 |
-| 2024-01-09 | 507 | 0 |
+| 2024-01-09 | 508 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

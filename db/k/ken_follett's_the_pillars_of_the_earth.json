@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17737,
+  "EOS_Progressed": 17738,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 2,
@@ -18055,6 +18055,11 @@
       "Time": "2024-01-09T14:05:26.4158164+00:00",
       "NumProgressed": 17737,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-09T17:07:03.0282096+00:00",
+      "NumProgressed": 17738,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18154,7 +18159,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5853
+      "UsersEstimate": 5854
     },
     {
       "ID": "tpote_achievement_20",
@@ -18178,7 +18183,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3547
+      "UsersEstimate": 3548
     },
     {
       "ID": "tpote_achievement_23",
@@ -18202,7 +18207,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "tpote_achievement_26",
@@ -18226,7 +18231,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "tpote_achievement_29",
@@ -18242,7 +18247,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5498
+      "UsersEstimate": 5499
     },
     {
       "ID": "tpote_achievement_30",
@@ -18314,7 +18319,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "tpote_achievement_39",
@@ -18393,15 +18398,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17737,
+      "Progressed": 17738,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:07:08.4017903+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:07:03.0282092+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:03:29.1464637+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:07:08.4019292+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:03:09.819768+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:07:03.0283361+00:00"
 }

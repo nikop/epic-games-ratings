@@ -11,8 +11,8 @@
 | Man-Machine Master | 48.00% | ~611 |
 | Mountain Splitter | 48.00% | ~611 |
 | Charmed by the Hunt | 48.00% | ~611 |
+| Memory Rouser | 47.00% | ~598 |
 | Subsistence Skills | 47.00% | ~598 |
-| Memory Rouser | 46.00% | ~585 |
 | Fusion Conjuror | 45.00% | ~572 |
 | Kemono Hunter | 42.00% | ~534 |
 | Helpful Heart | 39.00% | ~496 |
@@ -20,11 +20,11 @@
 | Flawless Crystal | 37.00% | ~471 |
 | Bonds of Enmity | 37.00% | ~471 |
 | Distance Devourer | 35.00% | ~445 |
-| Counter Specialist | 32.00% | ~407 |
+| Counter Specialist | 33.00% | ~420 |
 | Master of the Skies | 31.00% | ~394 |
 | Axer of Auspice | 28.00% | ~356 |
+| Mighty Marmelizer | 27.00% | ~343 |
 | Kemono at Heart | 27.00% | ~343 |
-| Mighty Marmelizer | 26.00% | ~331 |
 | Fair Means or Foul | 26.00% | ~331 |
 | Single Minded | 24.00% | ~305 |
 | Snare Specialist | 23.00% | ~293 |

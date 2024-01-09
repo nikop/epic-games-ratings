@@ -3,12 +3,12 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 527,
-  "Ranking_Popularity": 503,
+  "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -789,18 +789,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 225,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-01-09T16:59:16.5843132+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 226,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 225,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 226,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Relaxing",
@@ -863,9 +869,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242352,
+  "EOS_Progressed": 242361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1333,
+  "EOS_NewPlayers": 1332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20618,6 +20624,11 @@
       "Time": "2024-01-09T16:11:00.3967465+00:00",
       "NumProgressed": 242352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T17:10:46.9778481+00:00",
+      "NumProgressed": 242361,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -20686,7 +20697,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50894
+      "UsersEstimate": 50896
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -20766,7 +20777,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -20774,7 +20785,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -20814,7 +20825,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33929
+      "UsersEstimate": 33931
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -20862,7 +20873,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -20870,7 +20881,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -20886,7 +20897,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60588
+      "UsersEstimate": 60590
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -20901,16 +20912,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 242352,
+      "Progressed": 242361,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-01-09T14:58:17.6764303+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:11:00.3967463+00:00",
+  "LastChanged": "2024-01-09T16:59:16.5843131+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:10:46.9778479+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:59:26.450556+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:11:00.3968475+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:59:16.5843142+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:10:46.9779584+00:00"
 }

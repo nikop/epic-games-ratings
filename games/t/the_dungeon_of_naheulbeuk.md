@@ -1,23 +1,23 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 451)  
+Rating: 4.59 (Ranked 452)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~89,059 |
-| Alt+F4 | 10.00% | ~24,738 |
-| Where's that freaking Dwarf? | 9.00% | ~22,265 |
-| Déjà vu | 8.00% | ~19,791 |
-| Sock! SOCK! | 6.00% | ~14,843 |
-| Speedrun | 6.00% | ~14,843 |
-| A beer, two curses, three companions | 5.00% | ~12,369 |
-| GG EZ | 5.00% | ~12,369 |
-| DM intervention | 5.00% | ~12,369 |
-| Way of the Wimp | 4.00% | ~9,895 |
-| The plot thickens... At the tavern | 4.00% | ~9,895 |
-| Fireproof Wizardess | 4.00% | ~9,895 |
+| Sowwy! | 36.00% | ~89,062 |
+| Alt+F4 | 10.00% | ~24,740 |
+| Where's that freaking Dwarf? | 9.00% | ~22,266 |
+| Déjà vu | 8.00% | ~19,792 |
+| Sock! SOCK! | 6.00% | ~14,844 |
+| Speedrun | 6.00% | ~14,844 |
+| A beer, two curses, three companions | 5.00% | ~12,370 |
+| GG EZ | 5.00% | ~12,370 |
+| DM intervention | 5.00% | ~12,370 |
+| Way of the Wimp | 4.00% | ~9,896 |
+| The plot thickens... At the tavern | 4.00% | ~9,896 |
+| Fireproof Wizardess | 4.00% | ~9,896 |
 | Livin' in a dwarven paradise | 3.00% | ~7,422 |
 | The demons' feast | 3.00% | ~7,422 |
 | The Great Library | 3.00% | ~7,422 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 1.00% | ~2,474 |
 | Lust and Debauchery | 1.00% | ~2,474 |
 | Material Girl | 1.00% | ~2,474 |
-| We come in peace | 0.90% | ~2,226 |
+| We come in peace | 0.90% | ~2,227 |
 | Holistic Adventuring Party | 0.70% | ~1,732 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,732 |
 | Law and Order | 0.70% | ~1,732 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,385 (Ranked 72)  
+Progressed: 247,395 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 8 (0.00%) (Ranked 394)
 | 2024-01-06 | 246,932 | 8 |
 | 2024-01-07 | 247,153 | 8 |
 | 2024-01-08 | 247,298 | 8 |
-| 2024-01-09 | 247,385 | 8 |
+| 2024-01-09 | 247,395 | 8 |
 ## Awards
 Max (Character Customization): 267  (Ranked 276)  
 Sum: 561 (Ranked 330)  

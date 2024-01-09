@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4865,9 +4865,9 @@
       "Count": 406
     }
   ],
-  "EOS_Progressed": 13171,
+  "EOS_Progressed": 13172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19360,6 +19360,11 @@
       "Time": "2024-01-09T15:09:53.602624+00:00",
       "NumProgressed": 13171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T17:11:00.7096134+00:00",
+      "NumProgressed": 13172,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19379,7 +19384,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -19507,7 +19512,7 @@
       "Name": "Mythic Choices",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "19_EqualToAroden",
@@ -19619,7 +19624,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -20298,21 +20303,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11953,
+      "Progressed": 11954,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13171,
+      "Progressed": 13172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-08T19:00:09.3477717+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:11:14.6228218+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:11:00.7096132+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:02:14.0723394+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:11:14.623042+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:01:56.4693256+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:11:00.7098033+00:00"
 }

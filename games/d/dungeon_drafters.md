@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Might be useful… | 39.00% | ~55 |
+| Might be useful… | 38.00% | ~54 |
 | Treasure Hunting | 37.00% | ~53 |
 | Shine! | 31.00% | ~44 |
-| Friend! | 30.00% | ~43 |
-| Uncut Gem | 27.00% | ~38 |
-| Clear as Water | 27.00% | ~38 |
+| Friend! | 29.00% | ~41 |
+| Uncut Gem | 27.00% | ~39 |
+| Clear as Water | 27.00% | ~39 |
 | Setting Off | 24.00% | ~34 |
-| Card Collector | 23.00% | ~33 |
-| Riddlesolver | 20.00% | ~28 |
+| Card Collector | 22.00% | ~31 |
+| Riddlesolver | 20.00% | ~29 |
 | Dungeon Mastery | 19.00% | ~27 |
 | The Steed | 9.00% | ~13 |
 | A Strange Proposition | 9.00% | ~13 |
@@ -23,11 +23,11 @@
 | No Stone Unturned | 6.00% | ~9 |
 | The Familiar | 5.00% | ~7 |
 | Oracle Mastery | 5.00% | ~7 |
-| Ancient Nemesis | 4.00% | ~6 |
-| Traveler Mastery | 4.00% | ~6 |
-| Warden Mastery | 4.00% | ~6 |
-| The Plot Thickens | 4.00% | ~6 |
+| Ancient Nemesis | 3.00% | ~4 |
 | Raider Mastery | 3.00% | ~4 |
+| Traveler Mastery | 3.00% | ~4 |
+| Warden Mastery | 3.00% | ~4 |
+| The Plot Thickens | 3.00% | ~4 |
 | First time? | 2.00% | ~3 |
 | The False Prophet | 2.00% | ~3 |
 | Sealed Once Again | 2.00% | ~3 |
@@ -45,7 +45,7 @@
 | Gladiator | 0.70% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 462)  
+Progressed: 143 (Ranked 461)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-04 | 135 | 0 |
 | 2024-01-06 | 137 | 0 |
 | 2024-01-07 | 140 | 0 |
-| 2024-01-09 | 142 | 0 |
+| 2024-01-09 | 143 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

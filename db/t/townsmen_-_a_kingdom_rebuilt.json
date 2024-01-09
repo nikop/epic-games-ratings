@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -248,7 +248,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4445,
+  "EOS_Progressed": 4446,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -2023,6 +2023,11 @@
       "Time": "2024-01-08T21:11:17.372522+00:00",
       "NumProgressed": 4445,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T17:11:02.4859021+00:00",
+      "NumProgressed": 4446,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2098,7 +2103,7 @@
       "Name": "I like to build stuff... I",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS2",
@@ -2841,15 +2846,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4445,
+      "Progressed": 4446,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:11:16.1913525+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:11:02.4859016+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.50992+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:00:33.0490657+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:11:16.1914648+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:00:19.6536502+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:11:02.4860256+00:00"
 }

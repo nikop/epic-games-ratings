@@ -9427,9 +9427,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 252954,
+  "EOS_Progressed": 252966,
   "EOS_Completed": 2605,
-  "EOS_NewPlayers": 3152,
+  "EOS_NewPlayers": 3132,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39367,6 +39367,11 @@
       "Time": "2024-01-09T16:11:18.0092606+00:00",
       "NumProgressed": 252954,
       "NumCompleted": 2605
+    },
+    {
+      "Time": "2024-01-09T17:11:04.4047726+00:00",
+      "NumProgressed": 252966,
+      "NumCompleted": 2605
     }
   ],
   "TotalAchievements": 546,
@@ -39378,7 +39383,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10118
+      "UsersEstimate": 10119
     },
     {
       "ID": "objective_completed_10",
@@ -41560,9 +41565,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_546",
@@ -43745,21 +43750,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219228,
+      "Progressed": 219240,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252954,
+      "Progressed": 252966,
       "Completed": 2605
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-09T15:58:29.6536775+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:11:18.0092601+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:11:04.4047722+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:58:29.6536784+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:11:18.0117646+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:58:22.2199874+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:11:04.4072839+00:00"
 }

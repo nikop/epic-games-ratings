@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.50% | ~81 |
 | Points Victory | 0.50% | ~81 |
 | Win a Single Player Game | 0.50% | ~81 |
+| Bad Heir Day | 0.40% | ~65 |
 | Conqueror | 0.40% | ~65 |
 | Ready | 0.40% | ~65 |
 | Subjugator | 0.40% | ~65 |
@@ -96,10 +97,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.40% | ~65 |
 | Economic Reform | 0.40% | ~65 |
 | Military Prestige | 0.40% | ~65 |
+| Dualism | 0.40% | ~65 |
 | Cimmerian Archer | 0.40% | ~65 |
 | Legionary | 0.40% | ~65 |
 | Double Victory | 0.40% | ~65 |
-| Bad Heir Day | 0.30% | ~49 |
 | Capable | 0.30% | ~49 |
 | Devout | 0.30% | ~49 |
 | Invincible | 0.30% | ~49 |
@@ -116,7 +117,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.30% | ~49 |
 | Assyrian Paganism | 0.30% | ~49 |
 | Industrial Progress | 0.30% | ~49 |
-| Dualism | 0.30% | ~49 |
 | Enlightenment | 0.30% | ~49 |
 | Gnosticism | 0.30% | ~49 |
 | Legalism | 0.30% | ~49 |
@@ -138,6 +138,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.20% | ~33 |
 | Cao'an | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
+| Old World Order | 0.20% | ~33 |
 | One True Faith | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
 | Hittite Paganism | 0.20% | ~33 |
@@ -235,7 +236,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyria | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |
 | Persia | 0.10% | ~16 |
-| Old World Order | 0.10% | ~16 |
 | Apadana in Parsa | 0.10% | ~16 |
 | Play a 1-v-1 Game | 0.10% | ~16 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,293 (Ranked 169)  
+Progressed: 16,295 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,293 | 5 |
+| 2024-01-09 | 16,295 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,918 (Ranked 223)  

@@ -5,13 +5,13 @@ Rating: 4.62 (Ranked 379)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 17.00% | ~1,209 |
-| Realm Estate | 15.00% | ~1,067 |
+| Secret Technique | 17.00% | ~1,210 |
+| Realm Estate | 15.00% | ~1,068 |
 | A Wonderful Discovery | 14.00% | ~996 |
 | Walls Cannot Stop Us | 13.00% | ~925 |
 | From Friends to Family | 12.00% | ~854 |
-| Bone Peddler | 10.00% | ~711 |
-| Magical Synergy | 9.00% | ~640 |
+| Bone Peddler | 10.00% | ~712 |
+| Magical Synergy | 9.00% | ~641 |
 | Full Ascension | 8.00% | ~569 |
 | There Can Only Be One! | 7.00% | ~498 |
 | Stronger Together | 7.00% | ~498 |
@@ -26,11 +26,11 @@ Rating: 4.62 (Ranked 379)
 | Digging for Treasure | 4.00% | ~285 |
 | Against the Odds | 4.00% | ~285 |
 | Impenetrable Fortress | 4.00% | ~285 |
-| Preparation Is Everything | 3.00% | ~213 |
-| Fiery Friend | 3.00% | ~213 |
-| Here be Dragons | 3.00% | ~213 |
-| Tipping the Scales | 3.00% | ~213 |
-| Freed Lands of Manuhari | 3.00% | ~213 |
+| Preparation Is Everything | 3.00% | ~214 |
+| Fiery Friend | 3.00% | ~214 |
+| Here be Dragons | 3.00% | ~214 |
+| Tipping the Scales | 3.00% | ~214 |
+| Freed Lands of Manuhari | 3.00% | ~214 |
 | I've Got Everything I Need Right Here | 2.00% | ~142 |
 | God Emperor | 2.00% | ~142 |
 | Arch Mage | 2.00% | ~142 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,113 (Ranked 196)  
+Progressed: 7,117 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,19 +298,19 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-06 | 6,988 | 7 |
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
-| 2024-01-09 | 7,113 | 7 |
+| 2024-01-09 | 7,117 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
-Sum: 213 (Ranked 411)  
+Sum: 215 (Ranked 411)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 41 |
 | This game has Diverse Characters | 39 |
 | This game is Extremely Fun | 27 |
+| This game has Challenging Combat | 23 |
 | This game is Highly Recommended | 22 |
 | This game has Amazing Storytelling | 21 |
-| This game has Challenging Combat | 21 |
 | This game has Quickly Understood Controls | 21 |
 | This game has Beautiful Visuals | 21 |
 ## Ratings History
@@ -402,4 +402,4 @@ Diff (max vs sum): 70
 | 2024-01-05 | 4.62 | 40 | 210 |
 | 2024-01-06 | 4.62 | 40 | 211 |
 | 2024-01-07 | 4.62 | 40 | 212 |
-| 2024-01-09 | 4.62 | 41 | 213 |
+| 2024-01-09 | 4.62 | 41 | 215 |

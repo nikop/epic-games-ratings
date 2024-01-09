@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 46886,
+  "EOS_Progressed": 46893,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 773,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18241,6 +18241,11 @@
       "Time": "2024-01-09T16:06:47.2108135+00:00",
       "NumProgressed": 46886,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T17:06:42.9681973+00:00",
+      "NumProgressed": 46893,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18284,7 +18289,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -18300,7 +18305,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6096
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18308,7 +18313,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -18316,7 +18321,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -18412,7 +18417,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2813
+      "UsersEstimate": 2814
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -18444,7 +18449,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -18468,7 +18473,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2813
+      "UsersEstimate": 2814
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -18508,7 +18513,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "MAGIC_IVY",
@@ -18540,7 +18545,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -18564,7 +18569,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -18588,7 +18593,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5157
+      "UsersEstimate": 5158
     },
     {
       "ID": "SPRING_ALL",
@@ -18604,7 +18609,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     },
     {
       "ID": "STAYING_AIR",
@@ -18675,22 +18680,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46886,
+      "Progressed": 46893,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11723,
-      "Completed": 11723
+      "Progressed": 11730,
+      "Completed": 11730
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-09T14:02:53.1133514+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:06:47.2108132+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:06:42.968197+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:03:30.6313462+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:06:47.2109633+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:03:11.4407217+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:06:42.9682972+00:00"
 }

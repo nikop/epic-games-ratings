@@ -4,11 +4,11 @@
   "ProductSlug": "atom-rpg-3adb54",
   "Ranking_Rating": 636,
   "Ranking_Popularity": 448,
-  "Ranking_PopularitySum": 504,
-  "Ranking_EOS_Progress": 261,
+  "Ranking_PopularitySum": 505,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1689,
+  "EOS_Progressed": 1690,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4455,6 +4455,11 @@
       "Time": "2024-01-09T14:09:55.3899323+00:00",
       "NumProgressed": 1689,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T17:10:47.4058167+00:00",
+      "NumProgressed": 1690,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4514,7 +4519,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4522,7 +4527,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "EXPERT_1",
@@ -4618,7 +4623,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4642,7 +4647,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4753,15 +4758,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1689,
+      "Progressed": 1690,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:11:00.7611433+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:10:47.4058162+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:01:39.6730599+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:11:00.7611821+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:01:22.4704279+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:10:47.4058532+00:00"
 }

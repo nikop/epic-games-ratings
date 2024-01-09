@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 299,
+  "EOS_Progressed": 301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1339,6 +1339,11 @@
       "Time": "2024-01-09T15:08:33.577076+00:00",
       "NumProgressed": 299,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T17:09:15.4237438+00:00",
+      "NumProgressed": 301,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1431,7 +1436,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 178
     },
     {
       "ID": "decrypt_one_myth",
@@ -1621,9 +1626,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 196
     },
     {
       "ID": "playtime",
@@ -1685,9 +1690,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 256
     },
     {
       "ID": "spy_one_item",
@@ -1749,9 +1754,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 157
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1766,14 +1771,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 299,
+      "Progressed": 301,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:09:25.0687859+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:09:15.4237435+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:58:32.4955636+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:09:25.0688313+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:58:24.8957812+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:09:15.4237981+00:00"
 }

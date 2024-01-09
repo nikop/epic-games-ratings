@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -549,17 +549,17 @@
       "ID": "Achievement12",
       "SetID": "jf6ho5",
       "Name": "Your Training Is Complete",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement13",
       "SetID": "jf6ho5",
       "Name": "Armor Collector",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement14",
@@ -702,8 +702,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:11:02.1750791+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:10:48.671399+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.0986152+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:02:18.5715634+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:11:02.1751+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:02:32.0224245+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:10:48.6714174+00:00"
 }

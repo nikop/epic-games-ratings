@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1492,9 +1492,9 @@
       "ID": "achCity",
       "SetID": "72gjli4",
       "Name": "City \u2714",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "achCoinOne",
@@ -1692,9 +1692,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "achPriest",
@@ -1829,8 +1829,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:11:13.1264591+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:10:58.9258135+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.688521+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:00:05.1465644+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:11:13.1265289+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:59:56.3051526+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:10:58.925854+00:00"
 }

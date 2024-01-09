@@ -17,9 +17,11 @@ Rating: 4.57 (Ranked 499)
 | The Bright Fir | 2.00% | ~19 |
 | Collect Gold | 1.00% | ~23 |
 | Collect Iron Ore | 1.00% | ~23 |
+| Return the Statues | 1.00% | ~23 |
 | Complete Elder Faction | 1.00% | ~23 |
 | End of the Mozis | 1.00% | ~23 |
 | Defeat Ratnor Rodentson | 1.00% | ~23 |
+| Defeat Rattus Augustail | 1.00% | ~23 |
 | Fix the Travellers Wagon | 1.00% | ~23 |
 | Defeat 25 Mozis | 1.00% | ~23 |
 | Meet the Creatures from the Deep | 1.00% | ~23 |
@@ -31,8 +33,6 @@ Rating: 4.57 (Ranked 499)
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
 | I Remember My First Beer | 1.00% | ~10 |
-| Return the Statues | 0.90% | ~21 |
-| Defeat Rattus Augustail | 0.90% | ~21 |
 | Complete the Chefs Book | 0.80% | ~19 |
 | Defeat Avor Warden of the Northern Wastes | 0.80% | ~19 |
 | Discover the mystery of the Kings Chambers | 0.70% | ~16 |

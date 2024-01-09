@@ -5,9 +5,9 @@ Rating: 4.29 (Ranked 882)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 42.00% | ~556 |
+| We made it | 42.00% | ~557 |
 | The City | 11.00% | ~146 |
-| Manipulating Fate | 10.00% | ~132 |
+| Manipulating Fate | 10.00% | ~133 |
 | Full house | 7.00% | ~93 |
 | Burn and Pillage | 7.00% | ~93 |
 | Hear me out | 7.00% | ~93 |
@@ -22,9 +22,9 @@ Rating: 4.29 (Ranked 882)
 | Incredible Strength | 4.00% | ~53 |
 | Prophecy Fulfilled | 4.00% | ~53 |
 | The Greedy Ones | 3.00% | ~40 |
-| The First King | 2.00% | ~26 |
-| The great fire | 2.00% | ~26 |
-| The Unruly Ones | 2.00% | ~26 |
+| The First King | 2.00% | ~27 |
+| The great fire | 2.00% | ~27 |
+| The Unruly Ones | 2.00% | ~27 |
 | The Council | 1.00% | ~13 |
 | The Mad | 1.00% | ~13 |
 | Like the dream | 1.00% | ~13 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 882)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,325 (Ranked 275)  
+Progressed: 1,326 (Ranked 275)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 1,313 | 0 |
 | 2024-01-07 | 1,319 | 0 |
 | 2024-01-08 | 1,323 | 0 |
-| 2024-01-09 | 1,325 | 0 |
+| 2024-01-09 | 1,326 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

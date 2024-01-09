@@ -1,39 +1,39 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.35 (Ranked 826)  
+Rating: 4.35 (Ranked 827)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~1,094 |
-| And so it begins | 72.00% | ~1,036 |
-| No pressure | 70.00% | ~1,007 |
-| Memento | 59.00% | ~849 |
+| And so it begins | 72.00% | ~1,037 |
+| No pressure | 70.00% | ~1,008 |
+| Memento | 59.00% | ~850 |
 | Let there be light | 56.00% | ~806 |
-| I think you dropped this | 52.00% | ~748 |
+| I think you dropped this | 52.00% | ~749 |
 | Soulmate? | 51.00% | ~734 |
-| Excellent service | 47.00% | ~676 |
-| Roll with it | 44.00% | ~633 |
-| Humble beginnings | 42.00% | ~604 |
+| Excellent service | 47.00% | ~677 |
+| Roll with it | 44.00% | ~634 |
+| Humble beginnings | 42.00% | ~605 |
 | Love is in the air | 41.00% | ~590 |
 | Fine, I'll do it myself | 40.00% | ~576 |
 | Moving up | 40.00% | ~576 |
 | No need to call anyone | 38.00% | ~547 |
 | Big fortune | 31.00% | ~446 |
-| Still more work ahead | 29.00% | ~417 |
+| Still more work ahead | 29.00% | ~418 |
 | Kaboom | 26.00% | ~374 |
 | Aesop's fable | 26.00% | ~374 |
 | Hotel sleuthing | 26.00% | ~374 |
-| Nearly there | 24.00% | ~345 |
+| Nearly there | 24.00% | ~346 |
 | Broken heart | 22.00% | ~317 |
 | Island boy | 21.00% | ~302 |
-| You're a star | 19.00% | ~273 |
+| You're a star | 19.00% | ~274 |
 | Unstoppable | 18.00% | ~259 |
 | Reunited | 18.00% | ~259 |
 | King of hospitality | 11.00% | ~158 |
 | Top spot in town | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,439 (Ranked 269)  
+Progressed: 1,440 (Ranked 269)  
 Completed: 18 (1.25%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 18 (1.25%) (Ranked 159)
 | 2024-01-06 | 1,413 | 18 |
 | 2024-01-07 | 1,432 | 18 |
 | 2024-01-08 | 1,436 | 18 |
-| 2024-01-09 | 1,439 | 18 |
+| 2024-01-09 | 1,440 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

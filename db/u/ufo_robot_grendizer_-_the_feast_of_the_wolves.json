@@ -4,8 +4,8 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -434,9 +434,9 @@
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_FIRSTLEGENDARYLOOT",
@@ -641,8 +641,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:07:20.8783689+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:07:14.1669842+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.9847922+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:57:59.9779053+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:07:20.8783946+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:57:53.568228+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:07:14.167005+00:00"
 }

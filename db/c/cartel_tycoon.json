@@ -2,13 +2,13 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 807,
+  "Ranking_Rating": 808,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 991,
+  "EOS_Progressed": 992,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3517,6 +3517,11 @@
       "Time": "2024-01-09T14:06:02.9177485+00:00",
       "NumProgressed": 991,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T17:07:51.8360504+00:00",
+      "NumProgressed": 992,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3552,7 +3557,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "female-conqueror",
@@ -3568,7 +3573,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "hire-lieutenant",
@@ -3592,7 +3597,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "play-at-night",
@@ -3600,7 +3605,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "product-profit",
@@ -3624,7 +3629,7 @@
       "Name": "I\u0027m Going To Call You Kitty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "rob-village",
@@ -3640,7 +3645,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "send-smuggling",
@@ -3648,7 +3653,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "unlock-residences",
@@ -3664,7 +3669,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "use-submarine",
@@ -3679,15 +3684,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 991,
+      "Progressed": 992,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:08:00.0192028+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:07:51.8360501+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3719101+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:03:30.2566939+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:08:00.0192383+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:03:11.2657248+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:07:51.8360722+00:00"
 }

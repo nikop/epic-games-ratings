@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -300,7 +300,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 378,
+  "EOS_Progressed": 379,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
@@ -1745,6 +1745,11 @@
       "Time": "2024-01-09T07:09:51.9981038+00:00",
       "NumProgressed": 378,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T17:09:50.2064347+00:00",
+      "NumProgressed": 379,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1757,7 +1762,7 @@
       "Name": "Mash Machine",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1787,9 +1792,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1829,7 +1834,7 @@
       "Name": "Cult Following",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1837,7 +1842,7 @@
       "Name": "Transmitting From Sol-3",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1883,9 +1888,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1893,7 +1898,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1909,7 +1914,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1923,9 +1928,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1941,7 +1946,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_KILL_ORANCHOV",
@@ -1979,9 +1984,9 @@
       "ID": "ACH_KILL_WARSHIP",
       "SetID": "4n84pon",
       "Name": "Scuttled",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -2029,7 +2034,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_SKATE_ALBION",
@@ -2093,7 +2098,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2101,14 +2106,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 378,
+      "Progressed": 379,
       "Completed": 2
     }
   ],
@@ -2116,8 +2121,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-09T11:57:56.5976676+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:10:01.9008981+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:09:50.2064343+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:58:33.4619347+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:10:01.9009442+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:58:25.7640453+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:09:50.206477+00:00"
 }

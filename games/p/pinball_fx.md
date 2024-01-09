@@ -8,27 +8,27 @@ Number of Ratings: 756  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ball Launched | 3.00% | ~8,805 |
 | I Found it! | 1.00% | ~2,935 |
-| Ready Steady Score | 0.50% | ~1,467 |
-| First but not Last | 0.30% | ~880 |
+| Ready Steady Score | 0.50% | ~1,468 |
+| First but not Last | 0.30% | ~881 |
 | Full Loot Madness | 0.20% | ~587 |
-| Contender | 0.10% | ~293 |
-| My Table, my Rules | 0.10% | ~293 |
-| Collect Them All | 0.10% | ~293 |
-| Shiny Memento | 0.10% | ~293 |
-| Table Mastered, part 10 | 0.10% | ~293 |
-| Medal Hunter | 0.10% | ~293 |
-| Medal Wizard | 0.10% | ~293 |
-| Pinball Hoarder | 0.10% | ~293 |
-| Virtual Pinball Museum | 0.10% | ~293 |
-| Nine Zeroes | 0.10% | ~293 |
-| Challenge Accepted! | 0.10% | ~293 |
-| Relic Hunter | 0.10% | ~293 |
-| Interior Designer | 0.10% | ~293 |
-| Show Them | 0.10% | ~293 |
-| Totally Furnished | 0.10% | ~293 |
-| Dress Code | 0.10% | ~293 |
-| Customizer | 0.10% | ~293 |
-| I know the Rules | 0.10% | ~293 |
+| Contender | 0.10% | ~294 |
+| My Table, my Rules | 0.10% | ~294 |
+| Collect Them All | 0.10% | ~294 |
+| Shiny Memento | 0.10% | ~294 |
+| Table Mastered, part 10 | 0.10% | ~294 |
+| Medal Hunter | 0.10% | ~294 |
+| Medal Wizard | 0.10% | ~294 |
+| Pinball Hoarder | 0.10% | ~294 |
+| Virtual Pinball Museum | 0.10% | ~294 |
+| Nine Zeroes | 0.10% | ~294 |
+| Challenge Accepted! | 0.10% | ~294 |
+| Relic Hunter | 0.10% | ~294 |
+| Interior Designer | 0.10% | ~294 |
+| Show Them | 0.10% | ~294 |
+| Totally Furnished | 0.10% | ~294 |
+| Dress Code | 0.10% | ~294 |
+| Customizer | 0.10% | ~294 |
+| I know the Rules | 0.10% | ~294 |
 | Catomic Bomb | 0.10% | ~12 |
 | Terraformer | 0.10% | ~12 |
 | The Captain | 0.10% | ~12 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 293,489 (Ranked 63)  
+Progressed: 293,514 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 292,393 | 0 |
 | 2024-01-07 | 292,915 | 0 |
 | 2024-01-08 | 293,289 | 0 |
-| 2024-01-09 | 293,489 | 0 |
+| 2024-01-09 | 293,514 | 0 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 294)  
 Sum: 1,646 (Ranked 234)  

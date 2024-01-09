@@ -1,11 +1,11 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.59 (Ranked 451)  
+Rating: 4.59 (Ranked 452)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 33.00% | ~1,356 |
+| Wakey Wakey | 33.00% | ~1,357 |
 | Sputnik 2049 | 29.00% | ~1,192 |
 | Infinite Growth... | 28.00% | ~1,151 |
 | Without Breaking Some Eggs... | 26.00% | ~1,069 |
@@ -13,11 +13,11 @@ Rating: 4.59 (Ranked 451)
 | A Thousand Strong | 19.00% | ~781 |
 | Ready for a New World | 19.00% | ~781 |
 | Permanent Redesigns | 17.00% | ~699 |
-| Fully Recycled | 15.00% | ~616 |
-| Ain't Nobody Got Time for That | 15.00% | ~616 |
-| The Ship of Theseus | 15.00% | ~616 |
-| Guy de Borderlands | 14.00% | ~575 |
-| Hope Seeker | 13.00% | ~534 |
+| Fully Recycled | 15.00% | ~617 |
+| Ain't Nobody Got Time for That | 15.00% | ~617 |
+| The Ship of Theseus | 15.00% | ~617 |
+| Guy de Borderlands | 14.00% | ~576 |
+| Hope Seeker | 13.00% | ~535 |
 | A Hunk of Junk | 12.00% | ~493 |
 | Exceeding Capacity | 12.00% | ~493 |
 | Breaking Protocol | 12.00% | ~493 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 451)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,110 (Ranked 211)  
+Progressed: 4,112 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 4,042 | 0 |
 | 2024-01-07 | 4,075 | 0 |
 | 2024-01-08 | 4,096 | 0 |
-| 2024-01-09 | 4,110 | 0 |
+| 2024-01-09 | 4,112 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

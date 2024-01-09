@@ -16,7 +16,7 @@
 | Slay that one too! | 14.00% | ~9 |
 | You monster! | 9.00% | ~6 |
 | Massive slaughter | 9.00% | ~6 |
-| ... And that one! | 6.00% | ~4 |
+| ... And that one! | 8.00% | ~5 |
 | Endurance test! | 3.00% | ~2 |
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

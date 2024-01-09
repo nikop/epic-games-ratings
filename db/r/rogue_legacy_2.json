@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1590,9 +1590,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28083,
+  "EOS_Progressed": 28085,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -13605,6 +13605,11 @@
       "Time": "2024-01-09T16:10:58.3768261+00:00",
       "NumProgressed": 28083,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-09T17:10:45.0319802+00:00",
+      "NumProgressed": 28085,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13672,7 +13677,7 @@
       "Name": "For Justice",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "BossBridgeDefeated",
@@ -13744,7 +13749,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -13776,7 +13781,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -13864,7 +13869,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "PrequelReveal",
@@ -13927,21 +13932,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28083,
+      "Progressed": 28085,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7013,
+      "Progressed": 7015,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-09T06:57:19.694078+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:10:58.3768258+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:10:45.0319798+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:57:36.3957705+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:10:58.3769222+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:57:34.098524+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:10:45.0320796+00:00"
 }

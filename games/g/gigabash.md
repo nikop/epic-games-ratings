@@ -5,20 +5,20 @@ Rating: 4.52 (Ranked 572)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~22,859 |
-| I've Had Enough! | 14.00% | ~16,843 |
-| Fists, Fury & a lot of Rage | 10.00% | ~12,031 |
-| Seasoned Fighter | 9.00% | ~10,828 |
-| All For One and One For All | 8.00% | ~9,625 |
-| Home Sweet Home? | 6.00% | ~7,218 |
-| A New Age | 5.00% | ~6,015 |
-| Oh Baby, A Triple | 3.00% | ~3,609 |
-| Master of Disguise | 3.00% | ~3,609 |
-| Symbiotic | 3.00% | ~3,609 |
-| Battle Hardened | 2.00% | ~2,406 |
-| It's Mayhem! | 2.00% | ~2,406 |
-| Right back at'cha | 2.00% | ~2,406 |
-| Spectacular Finisher | 2.00% | ~2,406 |
+| All Grown Up! | 19.00% | ~22,862 |
+| I've Had Enough! | 14.00% | ~16,846 |
+| Fists, Fury & a lot of Rage | 10.00% | ~12,033 |
+| Seasoned Fighter | 9.00% | ~10,829 |
+| All For One and One For All | 8.00% | ~9,626 |
+| Home Sweet Home? | 6.00% | ~7,220 |
+| A New Age | 5.00% | ~6,016 |
+| Oh Baby, A Triple | 3.00% | ~3,610 |
+| Master of Disguise | 3.00% | ~3,610 |
+| Symbiotic | 3.00% | ~3,610 |
+| Battle Hardened | 2.00% | ~2,407 |
+| It's Mayhem! | 2.00% | ~2,407 |
+| Right back at'cha | 2.00% | ~2,407 |
+| Spectacular Finisher | 2.00% | ~2,407 |
 | Cautious Veteran | 1.00% | ~1,203 |
 | Double Punch! | 1.00% | ~1,203 |
 | Martyrdom | 1.00% | ~1,203 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 572)
 | What's Mine is Yours | 0.10% | ~120 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,308 (Ranked 92)  
+Progressed: 120,326 (Ranked 92)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,11 +76,11 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 118,583 | 0 |
 | 2024-01-07 | 119,421 | 0 |
 | 2024-01-08 | 119,942 | 0 |
-| 2024-01-09 | 120,308 | 0 |
+| 2024-01-09 | 120,326 | 0 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 459)  
-Sum: 49 (Ranked 511)  
-Diff (max vs sum): -52  
+Sum: 49 (Ranked 512)  
+Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 49 |

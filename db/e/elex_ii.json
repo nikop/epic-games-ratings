@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1446,6 +1446,11 @@
       "Time": "2024-01-09T14:05:53.1318795+00:00",
       "NumProgressed": 221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T17:07:38.5414926+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1584,9 +1589,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "ALLCOMBAT",
@@ -1594,7 +1599,7 @@
       "Name": "Hotshot",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ALLCRAFT",
@@ -1608,9 +1613,9 @@
       "ID": "ALLJETPACK",
       "SetID": "a1angca",
       "Name": "Free as a Bird",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ALLPERSONALITY",
@@ -1656,9 +1661,9 @@
       "ID": "CHOSEALB",
       "SetID": "a1angca",
       "Name": "Alb",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "CHOSEBSK",
@@ -1714,7 +1719,7 @@
       "Name": "Perfectionist",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "FINDALLIES",
@@ -1746,7 +1751,7 @@
       "Name": "Best Buddy",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "FINDMAP",
@@ -1770,7 +1775,7 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "HELPCHILDREN",
@@ -1786,7 +1791,7 @@
       "Name": "Pass A38",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "KILL200MONSTER",
@@ -1802,7 +1807,7 @@
       "Name": "Hunter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "KILL20SKYANDS",
@@ -1850,22 +1855,22 @@
       "Name": "Lover",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-09T16:07:46.4342564+00:00",
+  "LastChanged_Achievements": "2024-01-09T17:07:38.5414922+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:01:12.3026398+00:00",
-  "LastUpdate_Achievements": "2024-01-09T16:07:46.4343099+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:00:57.322512+00:00",
+  "LastUpdate_Achievements": "2024-01-09T17:07:38.5415316+00:00"
 }

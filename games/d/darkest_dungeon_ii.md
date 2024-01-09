@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~929 |
+| Malpractice Assurance | 13.00% | ~930 |
 | Lost and Found | 8.00% | ~572 |
-| Autodidact | 7.00% | ~9,259 |
-| This guy... again? | 7.00% | ~500 |
+| Autodidact | 7.00% | ~9,260 |
+| This guy... again? | 7.00% | ~501 |
 | This Belongs in a Museum | 6.00% | ~7,937 |
 | Creep and Sleep | 6.00% | ~7,937 |
 | Overdue Notice | 6.00% | ~7,937 |
@@ -24,14 +24,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Happens | 5.00% | ~6,614 |
 | Rush Hour | 5.00% | ~6,614 |
 | To Grandmother's House | 5.00% | ~6,614 |
+| A Place to Lay Your Head | 5.00% | ~6,614 |
 | FNG | 5.00% | ~6,614 |
-| Bloody Graduation | 5.00% | ~357 |
+| Bloody Graduation | 5.00% | ~358 |
 | Spelunker | 4.00% | ~5,291 |
 | Merry Time | 4.00% | ~5,291 |
 | Harvest Festival | 4.00% | ~5,291 |
 | Ramble On | 4.00% | ~5,291 |
 | Whale | 4.00% | ~5,291 |
-| A Place to Lay Your Head | 4.00% | ~5,291 |
 | Nope | 4.00% | ~5,291 |
 | Friends 'Til the End | 4.00% | ~286 |
 | Resurrection | 3.00% | ~3,968 |
@@ -63,10 +63,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Clearing the Ledger | 1.00% | ~1,323 |
 | Shrine of Reflection | 1.00% | ~1,323 |
 | Body of Work | 1.00% | ~1,323 |
-| Slap on the Wrist | 1.00% | ~71 |
-| For Old Time' Sake | 1.00% | ~71 |
-| Hat Trick | 0.90% | ~1,190 |
-| Triage | 0.90% | ~1,190 |
+| Slap on the Wrist | 1.00% | ~72 |
+| For Old Time' Sake | 1.00% | ~72 |
+| Hat Trick | 0.90% | ~1,191 |
+| Triage | 0.90% | ~1,191 |
 | No Mercy | 0.90% | ~64 |
 | Et Tu, Riposte? | 0.80% | ~57 |
 | The World As It Was | 0.70% | ~926 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,276 (Ranked 91)  
+Progressed: 132,282 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,21 +340,21 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,276 | 3 |
+| 2024-01-09 | 132,282 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
-Sum: 21,553 (Ranked 58)  
+Sum: 21,559 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,992 |
-| This game has Diverse Characters | 1,835 |
+| This game has Diverse Characters | 1,839 |
 | This game has Challenging Combat | 1,674 |
 | This game is Highly Recommended | 1,602 |
 | This game has Amazing Characters | 1,527 |
 | This game is Extremely Fun | 1,520 |
 | This game has Unique Visuals | 1,463 |
-| This game has Amazing Storytelling | 1,441 |
+| This game has Amazing Storytelling | 1,443 |
 | This game has Quickly Understood Controls | 1,411 |
 | This game has a Creative Community | 1,088 |
 | This game has Obsessive Gameplay | 585 |
@@ -708,4 +708,4 @@ Diff (max vs sum): -8
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
 | 2024-01-08 | 4.68 | - | 7,992 | 21,547 |
-| 2024-01-09 | 4.68 | - | 7,992 | 21,553 |
+| 2024-01-09 | 4.68 | - | 7,992 | 21,559 |
