@@ -6,18 +6,18 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,552 |
-| Titan's First Steps | 11.00% | ~16,552 |
-| Basic in Bulk | 10.00% | ~15,047 |
+| Sponsored by Argon | 11.00% | ~16,553 |
+| Titan's First Steps | 11.00% | ~16,553 |
+| Basic in Bulk | 10.00% | ~15,048 |
 | Tinkle of Coins | 9.00% | ~13,543 |
-| Disintermediation | 7.00% | ~10,533 |
-| It's Free Real Estate | 7.00% | ~10,533 |
-| Capitalism Ho! | 7.00% | ~10,533 |
-| One Easy Payment | 6.00% | ~9,028 |
-| Some Assembly Required | 6.00% | ~9,028 |
-| Another Satisfied Customer | 6.00% | ~9,028 |
-| Budding Merchant | 6.00% | ~9,028 |
-| Own the Means of Production | 6.00% | ~9,028 |
+| Disintermediation | 7.00% | ~10,534 |
+| It's Free Real Estate | 7.00% | ~10,534 |
+| Capitalism Ho! | 7.00% | ~10,534 |
+| One Easy Payment | 6.00% | ~9,029 |
+| Some Assembly Required | 6.00% | ~9,029 |
+| Another Satisfied Customer | 6.00% | ~9,029 |
+| Budding Merchant | 6.00% | ~9,029 |
+| Own the Means of Production | 6.00% | ~9,029 |
 | Pretty Penny | 5.00% | ~7,524 |
 | One-Armed Bandit | 5.00% | ~7,524 |
 | Through Repetition, Perfection | 5.00% | ~7,524 |
@@ -51,56 +51,56 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 3.00% | ~4,514 |
 | Special Ingredient | 3.00% | ~4,514 |
 | Complete Monopoly | 3.00% | ~4,514 |
-| A Notch Above the Rest | 2.00% | ~3,009 |
-| Cream of the Crop | 2.00% | ~3,009 |
-| Top of the World | 2.00% | ~3,009 |
-| Proud Paladin | 2.00% | ~3,009 |
-| Above the Norm | 2.00% | ~3,009 |
-| Constellated | 2.00% | ~3,009 |
-| A Ronin Reborn | 2.00% | ~3,009 |
-| The King's Caprice | 2.00% | ~3,009 |
-| Thirst for Knowledge | 2.00% | ~3,009 |
-| Big Game Hunting | 2.00% | ~3,009 |
-| Booty by the Boatload | 2.00% | ~3,009 |
-| Scrapbooker | 2.00% | ~3,009 |
-| Archivist | 2.00% | ~3,009 |
-| Locally Sourced | 2.00% | ~3,009 |
-| Fillin' the Bin | 2.00% | ~3,009 |
-| Flying off the Shelves | 2.00% | ~3,009 |
-| Industrial Evolution | 2.00% | ~3,009 |
-| Omae wa Mou Shindeiru | 2.00% | ~3,009 |
-| Master of Transmutation | 2.00% | ~3,009 |
-| Hidden Potential | 2.00% | ~3,009 |
-| Supercharged | 2.00% | ~3,009 |
-| Expansion in Session | 2.00% | ~3,009 |
-| Ritualist | 2.00% | ~3,009 |
-| Cranked up to 11 | 2.00% | ~3,009 |
-| Fit for a King | 2.00% | ~3,009 |
-| By Your Powers Combined... | 2.00% | ~3,009 |
-| A Legend is Born | 2.00% | ~3,009 |
-| Mammonite | 2.00% | ~3,009 |
-| Wealth Beyond Measure | 2.00% | ~3,009 |
-| Fat Cat Tag Team | 2.00% | ~3,009 |
-| Necromancer Queen | 2.00% | ~3,009 |
-| Item of Renown | 2.00% | ~3,009 |
-| Master Merchant | 2.00% | ~3,009 |
-| Miracle Alchemist | 2.00% | ~3,009 |
-| Laden with Loot | 2.00% | ~3,009 |
-| Bountiful Harvest | 2.00% | ~3,009 |
-| Seasoned Journeyman | 2.00% | ~3,009 |
-| Precision Engineering | 2.00% | ~3,009 |
-| Scourge of the Seas | 2.00% | ~3,009 |
-| Attrition Mission | 2.00% | ~3,009 |
-| Glittering Collection | 2.00% | ~3,009 |
-| Treasure Trove | 2.00% | ~3,009 |
-| Moment of Respite | 2.00% | ~3,009 |
-| Black Friday Special | 2.00% | ~3,009 |
-| King's Shadow | 2.00% | ~3,009 |
-| Master Recycler | 2.00% | ~3,009 |
-| All Accounted For | 2.00% | ~3,009 |
-| Exotic Commodities | 2.00% | ~3,009 |
-| Economy of Scarce | 2.00% | ~3,009 |
-| King's Blade | 2.00% | ~3,009 |
+| A Notch Above the Rest | 2.00% | ~3,010 |
+| Cream of the Crop | 2.00% | ~3,010 |
+| Top of the World | 2.00% | ~3,010 |
+| Proud Paladin | 2.00% | ~3,010 |
+| Above the Norm | 2.00% | ~3,010 |
+| Constellated | 2.00% | ~3,010 |
+| A Ronin Reborn | 2.00% | ~3,010 |
+| The King's Caprice | 2.00% | ~3,010 |
+| Thirst for Knowledge | 2.00% | ~3,010 |
+| Big Game Hunting | 2.00% | ~3,010 |
+| Booty by the Boatload | 2.00% | ~3,010 |
+| Scrapbooker | 2.00% | ~3,010 |
+| Archivist | 2.00% | ~3,010 |
+| Locally Sourced | 2.00% | ~3,010 |
+| Fillin' the Bin | 2.00% | ~3,010 |
+| Flying off the Shelves | 2.00% | ~3,010 |
+| Industrial Evolution | 2.00% | ~3,010 |
+| Omae wa Mou Shindeiru | 2.00% | ~3,010 |
+| Master of Transmutation | 2.00% | ~3,010 |
+| Hidden Potential | 2.00% | ~3,010 |
+| Supercharged | 2.00% | ~3,010 |
+| Expansion in Session | 2.00% | ~3,010 |
+| Ritualist | 2.00% | ~3,010 |
+| Cranked up to 11 | 2.00% | ~3,010 |
+| Fit for a King | 2.00% | ~3,010 |
+| By Your Powers Combined... | 2.00% | ~3,010 |
+| A Legend is Born | 2.00% | ~3,010 |
+| Mammonite | 2.00% | ~3,010 |
+| Wealth Beyond Measure | 2.00% | ~3,010 |
+| Fat Cat Tag Team | 2.00% | ~3,010 |
+| Necromancer Queen | 2.00% | ~3,010 |
+| Item of Renown | 2.00% | ~3,010 |
+| Master Merchant | 2.00% | ~3,010 |
+| Miracle Alchemist | 2.00% | ~3,010 |
+| Laden with Loot | 2.00% | ~3,010 |
+| Bountiful Harvest | 2.00% | ~3,010 |
+| Seasoned Journeyman | 2.00% | ~3,010 |
+| Precision Engineering | 2.00% | ~3,010 |
+| Scourge of the Seas | 2.00% | ~3,010 |
+| Attrition Mission | 2.00% | ~3,010 |
+| Glittering Collection | 2.00% | ~3,010 |
+| Treasure Trove | 2.00% | ~3,010 |
+| Moment of Respite | 2.00% | ~3,010 |
+| Black Friday Special | 2.00% | ~3,010 |
+| King's Shadow | 2.00% | ~3,010 |
+| Master Recycler | 2.00% | ~3,010 |
+| All Accounted For | 2.00% | ~3,010 |
+| Exotic Commodities | 2.00% | ~3,010 |
+| Economy of Scarce | 2.00% | ~3,010 |
+| King's Blade | 2.00% | ~3,010 |
 | The Free Encyclopedia | 1.00% | ~1,505 |
 | Thank You Tom Nook | 1.00% | ~1,505 |
 | Jackpot! | 1.00% | ~1,505 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~602 |
 | Capitalist Camaraderie | 0.20% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,474 (Ranked 86)  
+Progressed: 150,483 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 345 (0.23%) (Ranked 269)
 | 2024-01-06 | 149,985 | 345 |
 | 2024-01-07 | 150,192 | 345 |
 | 2024-01-08 | 150,343 | 345 |
-| 2024-01-09 | 150,474 | 345 |
+| 2024-01-09 | 150,483 | 345 |
 ## Awards
 Max (Great for Beginners): 4,948  (Ranked 78)  
 Sum: 27,968 (Ranked 52)  

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That wasn't so bad | 88.00% | ~437 |
+| That wasn't so bad | 89.00% | ~442 |
 | Let it begin | 46.00% | ~229 |
 | The athlete | 27.00% | ~134 |
 | The intellectual | 24.00% | ~119 |
-| The boss | 21.00% | ~104 |
+| The boss | 22.00% | ~109 |
 | The activist | 20.00% | ~99 |
 | The individualist | 17.00% | ~84 |
 | Picky, Picky! | 10.00% | ~50 |

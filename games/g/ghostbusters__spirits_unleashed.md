@@ -7,16 +7,16 @@ Rating: 4.50 (Ranked 613)
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,684 |
 | Meticulously Efficient | 9.00% | ~3,014 |
-| Advancement | 8.00% | ~2,679 |
-| Discovery | 6.00% | ~2,009 |
-| Solo Capture | 6.00% | ~2,009 |
-| Swift Rift Removers | 6.00% | ~2,009 |
-| Clutch Capture | 5.00% | ~1,674 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,674 |
-| Fully Upgraded | 5.00% | ~1,674 |
-| Teamwork | 5.00% | ~1,674 |
-| There you are! | 5.00% | ~1,674 |
-| Vaporous Expansion | 5.00% | ~1,674 |
+| Advancement | 8.00% | ~2,680 |
+| Discovery | 6.00% | ~2,010 |
+| Solo Capture | 6.00% | ~2,010 |
+| Swift Rift Removers | 6.00% | ~2,010 |
+| Clutch Capture | 5.00% | ~1,675 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,675 |
+| Fully Upgraded | 5.00% | ~1,675 |
+| Teamwork | 5.00% | ~1,675 |
+| There you are! | 5.00% | ~1,675 |
+| Vaporous Expansion | 5.00% | ~1,675 |
 | Cultured | 4.00% | ~1,340 |
 | Daily Dose | 4.00% | ~1,340 |
 | Ghostbuster In Training | 4.00% | ~1,340 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 613)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,489 (Ranked 137)  
+Progressed: 33,494 (Ranked 137)  
 Completed: 71 (0.21%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,16 +321,16 @@ Completed: 71 (0.21%) (Ranked 273)
 | 2024-01-06 | 33,384 | 71 |
 | 2024-01-07 | 33,430 | 71 |
 | 2024-01-08 | 33,470 | 71 |
-| 2024-01-09 | 33,489 | 71 |
+| 2024-01-09 | 33,494 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 256)  
-Sum: 2,953 (Ranked 186)  
+Sum: 2,954 (Ranked 186)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 328 |
 | This game is Great for Beginners | 327 |
-| This game has Diverse Characters | 312 |
+| This game has Diverse Characters | 313 |
 | This game has Amazing Storytelling | 294 |
 | This game is Highly Recommended | 293 |
 | This game has Competitive Players | 286 |
@@ -603,3 +603,4 @@ Diff (max vs sum): 70
 | 2024-01-05 | 4.50 | 327 | 2,950 |
 | 2024-01-06 | 4.50 | 328 | 2,952 |
 | 2024-01-07 | 4.50 | 328 | 2,953 |
+| 2024-01-09 | 4.50 | 328 | 2,954 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92840,
+  "EOS_Progressed": 92841,
   "EOS_Completed": 335,
-  "EOS_NewPlayers": 848,
+  "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -17350,6 +17350,11 @@
       "Time": "2024-01-09T21:08:21.2665119+00:00",
       "NumProgressed": 92840,
       "NumCompleted": 335
+    },
+    {
+      "Time": "2024-01-09T22:08:22.9824999+00:00",
+      "NumProgressed": 92841,
+      "NumCompleted": 335
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -17362,7 +17367,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 74272
+      "UsersEstimate": 74273
     },
     {
       "ID": "grp_beet",
@@ -17378,7 +17383,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 71487
+      "UsersEstimate": 71488
     },
     {
       "ID": "grp_endless",
@@ -17466,7 +17471,7 @@
       "Name": "As the dodo flies",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 44563
+      "UsersEstimate": 44564
     },
     {
       "ID": "grp_stone",
@@ -17474,7 +17479,7 @@
       "Name": "Killing one stone with two birds",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10212
+      "UsersEstimate": 10213
     },
     {
       "ID": "grp_store_ftux",
@@ -17482,7 +17487,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 39921
+      "UsersEstimate": 39922
     },
     {
       "ID": "grp_weekly_beaten",
@@ -17497,7 +17502,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 92840,
+      "Progressed": 92841,
       "Completed": 335
     }
   ],
@@ -17505,8 +17510,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-06T10:00:02.9214127+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:08:21.2665114+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:08:22.9824996+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:23.7863776+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:58:00.869449+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:08:21.2666246+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:58:05.2826015+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:08:22.982586+00:00"
 }

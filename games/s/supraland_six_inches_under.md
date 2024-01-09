@@ -6,61 +6,61 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,403 |
-| Hit Rock Bottom | 97.00% | ~2,354 |
-| Rocket Launched | 97.00% | ~2,354 |
-| Speed | 97.00% | ~2,354 |
-| High Jump | 96.00% | ~2,330 |
-| Knee bending | 96.00% | ~2,330 |
-| Pickaxe | 94.00% | ~2,281 |
-| Cage Town | 94.00% | ~2,281 |
-| Force Beam | 93.00% | ~2,257 |
-| Entered Cage Town | 93.00% | ~2,257 |
-| Stone Pickaxe | 93.00% | ~2,257 |
-| Revenge | 93.00% | ~2,257 |
-| Surprise | 93.00% | ~2,257 |
-| Magnet | 90.00% | ~2,184 |
-| Industrial Area | 89.00% | ~2,160 |
-| Magnet Repel | 88.00% | ~2,136 |
-| You feel middle classy | 87.00% | ~2,111 |
-| Boomeraxe | 87.00% | ~2,111 |
-| Iron Pickaxe | 87.00% | ~2,111 |
-| Banking District | 86.00% | ~2,087 |
-| Arrested | 85.00% | ~2,063 |
-| Zappy Gun | 85.00% | ~2,063 |
-| Got your own one now | 85.00% | ~2,063 |
-| Don't draw dicks pls | 85.00% | ~2,063 |
-| Mission Unlikely | 85.00% | ~2,063 |
-| Ripped | 84.00% | ~2,039 |
-| Beat the big arena | 83.00% | ~2,014 |
-| Force Cube | 82.00% | ~1,990 |
-| Got Battery | 81.00% | ~1,966 |
+| Good Morning | 99.00% | ~2,404 |
+| Hit Rock Bottom | 97.00% | ~2,355 |
+| Rocket Launched | 97.00% | ~2,355 |
+| Speed | 97.00% | ~2,355 |
+| High Jump | 96.00% | ~2,331 |
+| Knee bending | 96.00% | ~2,331 |
+| Pickaxe | 94.00% | ~2,282 |
+| Cage Town | 94.00% | ~2,282 |
+| Force Beam | 93.00% | ~2,258 |
+| Entered Cage Town | 93.00% | ~2,258 |
+| Stone Pickaxe | 93.00% | ~2,258 |
+| Revenge | 93.00% | ~2,258 |
+| Surprise | 93.00% | ~2,258 |
+| Magnet | 90.00% | ~2,185 |
+| Industrial Area | 89.00% | ~2,161 |
+| Magnet Repel | 88.00% | ~2,137 |
+| You feel middle classy | 87.00% | ~2,112 |
+| Boomeraxe | 87.00% | ~2,112 |
+| Iron Pickaxe | 87.00% | ~2,112 |
+| Banking District | 86.00% | ~2,088 |
+| Arrested | 85.00% | ~2,064 |
+| Zappy Gun | 85.00% | ~2,064 |
+| Got your own one now | 85.00% | ~2,064 |
+| Don't draw dicks pls | 85.00% | ~2,064 |
+| Mission Unlikely | 85.00% | ~2,064 |
+| Ripped | 84.00% | ~2,040 |
+| Beat the big arena | 83.00% | ~2,015 |
+| Force Cube | 82.00% | ~1,991 |
+| Got Battery | 81.00% | ~1,967 |
 | Guard Distracted | 80.00% | ~1,942 |
 | Translocator | 80.00% | ~1,942 |
-| Inner Peace | 78.00% | ~1,893 |
+| Inner Peace | 78.00% | ~1,894 |
 | Diamond Pickaxe | 76.00% | ~1,845 |
 | Killed them all | 76.00% | ~1,845 |
 | Trickle Down Economy | 76.00% | ~1,845 |
 | Win | 76.00% | ~1,845 |
-| Greenhouse | 72.00% | ~1,747 |
-| Played with fire | 70.00% | ~1,699 |
-| You feel very sorry | 70.00% | ~1,699 |
+| Greenhouse | 72.00% | ~1,748 |
+| Played with fire | 70.00% | ~1,700 |
+| You feel very sorry | 70.00% | ~1,700 |
 | No Match for you | 65.00% | ~1,578 |
 | Bouncy | 62.00% | ~1,505 |
-| Plumbster | 60.00% | ~1,456 |
-| Faster | 60.00% | ~1,456 |
+| Plumbster | 60.00% | ~1,457 |
+| Faster | 60.00% | ~1,457 |
 | Much Magic | 58.00% | ~1,408 |
-| Chest Detector | 56.00% | ~1,359 |
-| Flames | 53.00% | ~1,286 |
-| Momentum | 46.00% | ~1,116 |
+| Chest Detector | 56.00% | ~1,360 |
+| Flames | 53.00% | ~1,287 |
+| Momentum | 46.00% | ~1,117 |
 | You're unsure if you broke the game or not | 43.00% | ~1,044 |
 | But wait... ...There's more... | 40.00% | ~971 |
-| So much force | 35.00% | ~849 |
-| You feel fully engaged | 24.00% | ~582 |
-| Too hot | 20.00% | ~485 |
+| So much force | 35.00% | ~850 |
+| You feel fully engaged | 24.00% | ~583 |
+| Too hot | 20.00% | ~486 |
 | All the chests | 14.00% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,427 (Ranked 237)  
+Progressed: 2,428 (Ranked 237)  
 Completed: 295 (12.15%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,6 +291,7 @@ Completed: 295 (12.15%) (Ranked 36)
 | 2024-01-06 | 2,420 | 295 |
 | 2024-01-07 | 2,424 | 295 |
 | 2024-01-08 | 2,427 | 295 |
+| 2024-01-09 | 2,428 | 295 |
 ## Awards
 Max (Challenging Puzzles): 109  (Ranked 367)  
 Sum: 109 (Ranked 466)  

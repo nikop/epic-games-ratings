@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 497,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
@@ -1505,9 +1505,9 @@
       "ID": "profile_ryan",
       "SetID": "6h5h9ho",
       "Name": "That wasn\u0027t so bad",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 442
     },
     {
       "ID": "ryan_date2_all",
@@ -1545,9 +1545,9 @@
       "ID": "success_brandy",
       "SetID": "6h5h9ho",
       "Name": "The boss",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 104
+      "UsersEstimate": 109
     },
     {
       "ID": "success_derek",
@@ -1626,8 +1626,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:09:43.8345826+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:09:55.5584466+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:58:54.1684048+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:09:43.8346382+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:59:02.3260423+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:09:55.5584693+00:00"
 }

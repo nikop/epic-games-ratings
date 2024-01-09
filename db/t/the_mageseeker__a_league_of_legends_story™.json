@@ -2,13 +2,13 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 109,
+  "Ranking_Rating": 116,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.78,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2023-04-18T18:57:53.9681459+00:00",
@@ -169,15 +169,21 @@
       "Rating": 4.78,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-09T21:58:22.8970064+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3387,
+  "EOS_Progressed": 3388,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -6270,6 +6276,11 @@
       "Time": "2024-01-09T21:04:54.2534678+00:00",
       "NumProgressed": 3387,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-09T22:05:18.0600685+00:00",
+      "NumProgressed": 3388,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 53,
@@ -6289,7 +6300,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -6329,7 +6340,7 @@
       "Name": "Elemental master",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -6345,7 +6356,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6361,7 +6372,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6393,7 +6404,7 @@
       "Name": "I chose my shackles",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -6423,9 +6434,9 @@
       "ID": "STB_DEFEAT_WISTERIA_II",
       "SetID": "3pe2bac",
       "Name": "True power",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 576
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -6433,7 +6444,7 @@
       "Name": "Do you trust me?",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -6457,7 +6468,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6465,7 +6476,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6489,7 +6500,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -6497,7 +6508,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2575
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6505,7 +6516,7 @@
       "Name": "Thornbarrow",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -6585,7 +6596,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6609,7 +6620,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -6625,7 +6636,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -6689,7 +6700,7 @@
       "Name": "Ancient power",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -6704,16 +6715,16 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3387,
+      "Progressed": 3388,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
-  "LastChanged": "2024-01-07T21:57:30.4029584+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:04:54.2534674+00:00",
+  "LastChanged": "2024-01-09T21:58:22.8970062+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:05:18.0600681+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.7763351+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:58:17.7451499+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:04:54.2535254+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:58:22.8970067+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:05:18.0601428+00:00"
 }

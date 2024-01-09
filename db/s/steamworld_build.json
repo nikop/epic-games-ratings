@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1079,6 +1079,11 @@
       "Time": "2024-01-09T21:06:26.8376985+00:00",
       "NumProgressed": 262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T22:08:19.4378039+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -1099,7 +1104,7 @@
       "Name": "Aristocratic",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Botropolis",
@@ -1131,7 +1136,7 @@
       "Name": "Digging a Hole",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "DopaMiner",
@@ -1139,7 +1144,7 @@
       "Name": "Dopa-Miner",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "GoingPlaces",
@@ -1147,7 +1152,7 @@
       "Name": "Going Places",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "GottaGoFast",
@@ -1155,7 +1160,7 @@
       "Name": "Gotta Go Fast",
       "Percentage": 44,
       "XP": 90,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ImALumberbot",
@@ -1179,7 +1184,7 @@
       "Name": "It\u0027s Yours, My Friend",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ManicMechanic",
@@ -1195,15 +1200,15 @@
       "Name": "Mathematic",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 108
     },
     {
       "ID": "NothingButRoad",
@@ -1219,7 +1224,7 @@
       "Name": "Real Purdy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "RollOut",
@@ -1251,7 +1256,7 @@
       "Name": "Stack Overflow",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SteamPowered",
@@ -1259,7 +1264,7 @@
       "Name": "Steam Powered",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "SteamingRich",
@@ -1267,7 +1272,7 @@
       "Name": "Steaming Rich",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Systematic",
@@ -1283,7 +1288,7 @@
       "Name": "Tutti Frutti",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "UpUpAndAway",
@@ -1291,7 +1296,7 @@
       "Name": "Up, Up And Away!",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Whoa",
@@ -1314,14 +1319,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:06:26.8376982+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:08:19.4378035+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.7828616+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:03:07.1731365+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:06:26.8377263+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:03:17.5154318+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:08:19.4378294+00:00"
 }

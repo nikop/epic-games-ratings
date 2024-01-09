@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -301,10 +301,10 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18175,
-  "EOS_Completed": 310,
+  "EOS_Progressed": 18176,
+  "EOS_Completed": 311,
   "EOS_NewPlayers": 878,
-  "EOS_NewCompleters": 22,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
@@ -9376,6 +9376,11 @@
       "Time": "2024-01-09T20:09:08.2268364+00:00",
       "NumProgressed": 18175,
       "NumCompleted": 310
+    },
+    {
+      "Time": "2024-01-09T22:09:50.1826858+00:00",
+      "NumProgressed": 18176,
+      "NumCompleted": 311
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -9388,7 +9393,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 15994
+      "UsersEstimate": 15995
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -9396,7 +9401,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 14722
+      "UsersEstimate": 14723
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -9492,7 +9497,7 @@
       "Name": "Happy Family",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5453
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -9540,7 +9545,7 @@
       "Name": "Still Single",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4907
+      "UsersEstimate": 4908
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -9636,7 +9641,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5453
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -9644,7 +9649,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8542
+      "UsersEstimate": 8543
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -9660,7 +9665,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5634
+      "UsersEstimate": 5635
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -9692,7 +9697,7 @@
       "Name": "Worthless Speech",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5453
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -9723,16 +9728,16 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18175,
-      "Completed": 310
+      "Progressed": 18176,
+      "Completed": 311
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-09T17:57:40.2908617+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:09:38.9928635+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:09:50.1826854+00:00",
   "LastUpdate_AppInfo": "2024-01-06T03:57:10.1244373+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:57:32.5136891+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:09:38.9929356+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:57:33.6221939+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:09:50.1827573+00:00"
 }

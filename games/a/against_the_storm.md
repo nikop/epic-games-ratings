@@ -18,13 +18,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 6.00% | ~1,235 |
 | Ominous Presence | 6.00% | ~1,235 |
 | Gathering Storm | 6.00% | ~1,235 |
-| Frosts | 5.00% | ~1,029 |
-| Land of Greed | 5.00% | ~1,029 |
-| Homesick | 4.00% | ~823 |
-| Fertile Meadows | 4.00% | ~823 |
-| Royal Outpost | 4.00% | ~823 |
-| Watchtower | 4.00% | ~823 |
-| A Real Challenge | 4.00% | ~823 |
+| Frosts | 5.00% | ~1,030 |
+| Land of Greed | 5.00% | ~1,030 |
+| Homesick | 4.00% | ~824 |
+| Fertile Meadows | 4.00% | ~824 |
+| Royal Outpost | 4.00% | ~824 |
+| Watchtower | 4.00% | ~824 |
+| A Real Challenge | 4.00% | ~824 |
 | Ruined Armory | 3.00% | ~618 |
 | Bandit Camp | 3.00% | ~618 |
 | Ancient Battleground | 3.00% | ~618 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,586 (Ranked 154)  
+Progressed: 20,590 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
-| 2024-01-09 | 20,586 | 34 |
+| 2024-01-09 | 20,590 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,364 (Ranked 177)  

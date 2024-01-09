@@ -5,16 +5,16 @@ Rating: 4.62 (Ranked 379)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 17.00% | ~1,211 |
+| Secret Technique | 17.00% | ~1,212 |
 | Realm Estate | 15.00% | ~1,069 |
 | A Wonderful Discovery | 14.00% | ~998 |
-| Walls Cannot Stop Us | 13.00% | ~926 |
+| Walls Cannot Stop Us | 13.00% | ~927 |
 | From Friends to Family | 12.00% | ~855 |
 | Bone Peddler | 10.00% | ~713 |
-| Magical Synergy | 9.00% | ~641 |
+| Magical Synergy | 9.00% | ~642 |
 | Full Ascension | 8.00% | ~570 |
+| Stronger Together | 8.00% | ~570 |
 | There Can Only Be One! | 7.00% | ~499 |
-| Stronger Together | 7.00% | ~499 |
 | Seat of Power | 7.00% | ~499 |
 | Valley of Wonders | 6.00% | ~428 |
 | In a Liege of Your Own | 6.00% | ~428 |
@@ -26,6 +26,7 @@ Rating: 4.62 (Ranked 379)
 | Digging for Treasure | 4.00% | ~285 |
 | Against the Odds | 4.00% | ~285 |
 | Impenetrable Fortress | 4.00% | ~285 |
+| Crimson Caldera | 3.00% | ~214 |
 | Preparation Is Everything | 3.00% | ~214 |
 | Fiery Friend | 3.00% | ~214 |
 | Here be Dragons | 3.00% | ~214 |
@@ -36,7 +37,6 @@ Rating: 4.62 (Ranked 379)
 | Arch Mage | 2.00% | ~143 |
 | The Creator | 2.00% | ~143 |
 | Eternal Lord | 2.00% | ~143 |
-| Crimson Caldera | 2.00% | ~143 |
 | The Eternal Court | 2.00% | ~143 |
 | Blood of the Dragon | 2.00% | ~143 |
 | Mighty Hoard | 2.00% | ~143 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,126 (Ranked 196)  
+Progressed: 7,128 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-06 | 6,988 | 7 |
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
-| 2024-01-09 | 7,126 | 7 |
+| 2024-01-09 | 7,128 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 215 (Ranked 411)  

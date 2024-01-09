@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -747,7 +747,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7126,
+  "EOS_Progressed": 7128,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
@@ -10892,6 +10892,11 @@
       "Time": "2024-01-09T21:05:36.6251472+00:00",
       "NumProgressed": 7126,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T22:06:04.994268+00:00",
+      "NumProgressed": 7128,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11031,7 +11036,7 @@
       "Name": "Secret Technique",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "25",
@@ -11039,7 +11044,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "26",
@@ -11069,17 +11074,17 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 570
     },
     {
       "ID": "3",
       "SetID": "3aa2279",
       "Name": "Crimson Caldera",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 214
     },
     {
       "ID": "30",
@@ -11095,7 +11100,7 @@
       "Name": "Magical Synergy",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "32",
@@ -11382,13 +11387,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7126,
+      "Progressed": 7128,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7126,
+      "Progressed": 7128,
       "Completed": 7
     }
   ],
@@ -11396,8 +11401,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-09T16:57:46.579132+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:05:36.6251467+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:06:04.9942676+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:57:26.2970396+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:05:36.625295+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:57:28.2617823+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:06:04.9943818+00:00"
 }

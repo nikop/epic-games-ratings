@@ -32,7 +32,7 @@
 | Lieutenant | 0.00% | ~0 |
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 575)  
+Progressed: 40 (Ranked 576)  
 Completed: 1 (2.50%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |

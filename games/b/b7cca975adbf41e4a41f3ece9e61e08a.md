@@ -5,24 +5,24 @@ Rating: 4.69 (Ranked 235)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~15,994 |
-| I Challenge You To Save More Money! | 81.00% | ~14,722 |
+| Last Night...Did We... | 88.00% | ~15,995 |
+| I Challenge You To Save More Money! | 81.00% | ~14,723 |
 | I Love How Tough You Are | 65.00% | ~11,814 |
 | Wanna Come To My Place For Dinner? | 58.00% | ~10,542 |
 | What I Want Is You | 53.00% | ~9,633 |
 | To Be Or Not To Be | 50.00% | ~9,088 |
-| Are You Alright? | 47.00% | ~8,542 |
+| Are You Alright? | 47.00% | ~8,543 |
 | Love Actually | 41.00% | ~7,452 |
 | Drama King | 36.00% | ~6,543 |
 | Go Clean up In Your Own Way | 33.00% | ~5,998 |
 | You're Really Something Else | 32.00% | ~5,816 |
-| Drama CP: Reel to Real | 31.00% | ~5,634 |
-| Happy Family | 30.00% | ~5,452 |
-| FIRST LOVE | 30.00% | ~5,452 |
-| Worthless Speech | 30.00% | ~5,452 |
+| Drama CP: Reel to Real | 31.00% | ~5,635 |
+| Happy Family | 30.00% | ~5,453 |
+| FIRST LOVE | 30.00% | ~5,453 |
+| Worthless Speech | 30.00% | ~5,453 |
 | Absolutely Elegant | 28.00% | ~5,089 |
 | ONE PUNCH | 28.00% | ~5,089 |
-| Still Single | 27.00% | ~4,907 |
+| Still Single | 27.00% | ~4,908 |
 | Days Of Innocence | 26.00% | ~4,726 |
 | David | 26.00% | ~4,726 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,544 |
@@ -48,8 +48,8 @@ Rating: 4.69 (Ranked 235)
 | Tall; Grande; Venti | 2.00% | ~364 |
 | Limerence | 2.00% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,175 (Ranked 160)  
-Completed: 310 (1.71%) (Ranked 142)  
+Progressed: 18,176 (Ranked 160)  
+Completed: 311 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,7 +142,7 @@ Completed: 310 (1.71%) (Ranked 142)
 | 2024-01-06 | 17,831 | 302 |
 | 2024-01-07 | 17,976 | 305 |
 | 2024-01-08 | 18,078 | 308 |
-| 2024-01-09 | 18,175 | 310 |
+| 2024-01-09 | 18,176 | 311 |
 ## Awards
 Max (Impact the Story): 34  (Ranked 509)  
 Sum: 34 (Ranked 536)  

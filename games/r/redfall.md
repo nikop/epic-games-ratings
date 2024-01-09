@@ -5,7 +5,7 @@ Rating: 3.68 (Ranked 1,093)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 21.00% | ~489 |
+| I Like My Stakes Rare! | 21.00% | ~490 |
 | Catch and Release | 16.00% | ~373 |
 | Home Is Where the Heart Is | 15.00% | ~350 |
 | ICU | 14.00% | ~326 |
@@ -22,8 +22,8 @@ Rating: 3.68 (Ranked 1,093)
 | Grounded | 8.00% | ~186 |
 | Skin of Their Teeth | 8.00% | ~186 |
 | Bad Wiring | 6.00% | ~140 |
-| Neighborhood Revitalization | 5.00% | ~116 |
-| Radio Silence | 5.00% | ~116 |
+| Neighborhood Revitalization | 5.00% | ~117 |
+| Radio Silence | 5.00% | ~117 |
 | I Spit On Your Grave | 4.00% | ~93 |
 | Sic Transit Umbra | 3.00% | ~70 |
 | Bell-ringer | 3.00% | ~70 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,093)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,330 (Ranked 241)  
+Progressed: 2,331 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 2,286 | 0 |
 | 2024-01-07 | 2,301 | 0 |
 | 2024-01-08 | 2,317 | 0 |
-| 2024-01-09 | 2,330 | 0 |
+| 2024-01-09 | 2,331 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
 Sum: 24 (Ranked 562)  

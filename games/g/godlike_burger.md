@@ -5,17 +5,17 @@ Rating: 4.51 (Ranked 592)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~180,040 |
-| FIRST BLOOD | 40.00% | ~160,036 |
-| KEVIN! | 30.00% | ~120,027 |
-| JACK OF ALL TRADES | 23.00% | ~92,020 |
-| CRIMINAL | 20.00% | ~80,018 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~44,010 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,009 |
-| HONORS STUDENT | 8.00% | ~32,007 |
-| BUTCHER | 6.00% | ~24,005 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,004 |
-| RAMBO | 5.00% | ~20,004 |
+| MASTER CHEF | 45.00% | ~180,050 |
+| FIRST BLOOD | 40.00% | ~160,044 |
+| KEVIN! | 30.00% | ~120,033 |
+| JACK OF ALL TRADES | 23.00% | ~92,025 |
+| CRIMINAL | 20.00% | ~80,022 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~44,012 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,011 |
+| HONORS STUDENT | 8.00% | ~32,009 |
+| BUTCHER | 6.00% | ~24,007 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,006 |
+| RAMBO | 5.00% | ~20,006 |
 | HELL'S KITCHEN | 4.00% | ~16,004 |
 | CELEBRITY | 3.00% | ~12,003 |
 | MARTYR | 3.00% | ~12,003 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 592)
 | MISTER ALL THUMBS | 0.10% | ~400 |
 | TRAVELER | 0.10% | ~400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400,089 (Ranked 50)  
+Progressed: 400,110 (Ranked 50)  
 Completed: 57 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 57 (0.01%) (Ranked 372)
 | 2024-01-06 | 398,665 | 57 |
 | 2024-01-07 | 399,238 | 57 |
 | 2024-01-08 | 399,682 | 57 |
-| 2024-01-09 | 400,089 | 57 |
+| 2024-01-09 | 400,110 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,15 +1,15 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.52 (Ranked 572)  
+Rating: 4.52 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~22,875 |
-| I've Had Enough! | 14.00% | ~16,855 |
-| Fists, Fury & a lot of Rage | 10.00% | ~12,039 |
-| Seasoned Fighter | 9.00% | ~10,835 |
-| All For One and One For All | 8.00% | ~9,631 |
+| All Grown Up! | 19.00% | ~22,877 |
+| I've Had Enough! | 14.00% | ~16,857 |
+| Fists, Fury & a lot of Rage | 10.00% | ~12,041 |
+| Seasoned Fighter | 9.00% | ~10,837 |
+| All For One and One For All | 8.00% | ~9,633 |
 | Home Sweet Home? | 6.00% | ~7,224 |
 | A New Age | 5.00% | ~6,020 |
 | Oh Baby, A Triple | 3.00% | ~3,612 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 572)
 | What's Mine is Yours | 0.10% | ~120 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,393 (Ranked 92)  
+Progressed: 120,407 (Ranked 92)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 118,583 | 0 |
 | 2024-01-07 | 119,421 | 0 |
 | 2024-01-08 | 119,942 | 0 |
-| 2024-01-09 | 120,393 | 0 |
+| 2024-01-09 | 120,407 | 0 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 459)  
 Sum: 49 (Ranked 512)  

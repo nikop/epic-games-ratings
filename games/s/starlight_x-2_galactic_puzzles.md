@@ -25,6 +25,7 @@
 | Complete 25 7x7 levels | 1.00% | ~1 |
 | Complete 25 9x9 levels | 1.00% | ~1 |
 | By Yourself 6x6 | 1.00% | ~1 |
+| By Yourself 8x8 | 1.00% | ~1 |
 | By Yourself 9x9 | 1.00% | ~1 |
 | By Yourself 10x10 | 1.00% | ~1 |
 | By Yourself 11x11 | 1.00% | ~1 |
@@ -44,7 +45,6 @@
 | Complete 25 11x11 levels | 0.00% | ~0 |
 | Complete 25 12x12 levels | 0.00% | ~0 |
 | Complete 25 13x13 levels | 0.00% | ~0 |
-| By Yourself 8x8 | 0.00% | ~0 |
 | By Yourself 12x12 | 0.00% | ~0 |
 | Play for 24 hours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

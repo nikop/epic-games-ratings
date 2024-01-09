@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marc Allard | 77.00% | ~82 |
-| Little ideas | 73.00% | ~78 |
-| The Ship | 69.00% | ~74 |
-| Seeking the truth | 56.00% | ~60 |
-| An old friend | 53.00% | ~57 |
-| The Gala | 52.00% | ~56 |
+| Little ideas | 74.00% | ~79 |
+| The Ship | 70.00% | ~75 |
+| Seeking the truth | 57.00% | ~61 |
+| An old friend | 54.00% | ~58 |
+| The Gala | 53.00% | ~57 |
 | A curious gathering | 50.00% | ~54 |
-| Little grey cells | 48.00% | ~51 |
-| Impossible is possible | 46.00% | ~49 |
-| Arthur Hastings | 46.00% | ~49 |
-| The Missing Magdalene | 45.00% | ~48 |
-| Everything matters | 41.00% | ~44 |
-| An expert mediator | 40.00% | ~43 |
-| DI Hardwicke | 40.00% | ~43 |
+| Little grey cells | 49.00% | ~52 |
+| Impossible is possible | 47.00% | ~50 |
+| Arthur Hastings | 47.00% | ~50 |
+| The Missing Magdalene | 46.00% | ~49 |
+| Everything matters | 42.00% | ~45 |
+| An expert mediator | 41.00% | ~44 |
+| DI Hardwicke | 41.00% | ~44 |
 | Betty Allen | 36.00% | ~39 |
 | Order and method | 35.00% | ~37 |
 | The Investigation Begins | 34.00% | ~36 |
@@ -44,10 +44,10 @@
 | Well-travelled | 18.00% | ~19 |
 | Florence Farquhar | 17.00% | ~18 |
 | The Investigation Starts Anew | 17.00% | ~18 |
+| A treasured heirloom | 13.00% | ~14 |
+| The Penitent Magdalene | 13.00% | ~14 |
 | A true performance | 13.00% | ~14 |
-| A treasured heirloom | 12.00% | ~13 |
-| The Penitent Magdalene | 12.00% | ~13 |
-| The Denouement | 10.00% | ~11 |
+| The Denouement | 11.00% | ~12 |
 | A perilous journey | 10.00% | ~11 |
 | Perkins | 7.00% | ~7 |
 ## Popularity (Based on EOS Achievements)

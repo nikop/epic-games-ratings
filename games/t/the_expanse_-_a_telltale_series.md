@@ -1,32 +1,32 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.52 (Ranked 572)  
+Rating: 4.52 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,373 |
-| Captain Drummer | 15.00% | ~2,811 |
-| Celebrations are in Order | 14.00% | ~2,623 |
-| The Pit and the Pirates | 13.00% | ~2,436 |
-| Martian Music | 13.00% | ~2,436 |
-| Bosmang | 13.00% | ~2,436 |
-| Impossible Objects | 13.00% | ~2,436 |
-| Drone Dodger | 12.00% | ~2,249 |
-| Stogie for Fogey | 11.00% | ~2,061 |
-| Spore Taste | 11.00% | ~2,061 |
-| Safe Cracker | 10.00% | ~469 |
-| Zen Master | 10.00% | ~469 |
+| Oyedang, Kopengs | 18.00% | ~3,374 |
+| Captain Drummer | 15.00% | ~2,812 |
+| Celebrations are in Order | 14.00% | ~2,624 |
+| The Pit and the Pirates | 13.00% | ~2,437 |
+| Martian Music | 13.00% | ~2,437 |
+| Bosmang | 13.00% | ~2,437 |
+| Impossible Objects | 13.00% | ~2,437 |
+| Drone Dodger | 12.00% | ~2,250 |
+| Stogie for Fogey | 11.00% | ~2,062 |
+| Spore Taste | 11.00% | ~2,062 |
+| Safe Cracker | 10.00% | ~470 |
+| Zen Master | 10.00% | ~470 |
 | Call it Even | 9.00% | ~1,687 |
-| Madame Undersecretary | 9.00% | ~422 |
-| Heal Thy Medic | 8.00% | ~1,499 |
-| Keep Arjun in Check | 8.00% | ~375 |
+| Madame Undersecretary | 9.00% | ~423 |
+| Heal Thy Medic | 8.00% | ~1,500 |
+| Keep Arjun in Check | 8.00% | ~376 |
 | Data Archivist | 7.00% | ~1,312 |
 | Drug Gifter | 7.00% | ~1,312 |
 | Thorston Mayer | 7.00% | ~1,312 |
 | Khan's Revenge | 7.00% | ~1,312 |
-| Doctor Approved | 6.00% | ~1,124 |
-| Bottoms up! | 6.00% | ~1,124 |
+| Doctor Approved | 6.00% | ~1,125 |
+| Bottoms up! | 6.00% | ~1,125 |
 | Master Negotiator | 6.00% | ~282 |
 | Data Logger | 4.00% | ~750 |
 | Miraculous Maya | 4.00% | ~750 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 572)
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,739 (Ranked 159)  
+Progressed: 18,746 (Ranked 159)  
 Completed: 61 (0.33%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 61 (0.33%) (Ranked 247)
 | 2024-01-06 | 18,440 | 59 |
 | 2024-01-07 | 18,579 | 60 |
 | 2024-01-08 | 18,665 | 60 |
-| 2024-01-09 | 18,739 | 61 |
+| 2024-01-09 | 18,746 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

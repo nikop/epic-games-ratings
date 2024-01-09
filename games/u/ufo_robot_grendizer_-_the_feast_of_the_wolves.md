@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Remains of Fleed | 54.00% | ~40 |
-| Life of Pi | 54.00% | ~40 |
+| The Remains of Fleed | 55.00% | ~41 |
+| Life of Pi | 55.00% | ~41 |
 | The Legend | 54.00% | ~40 |
-| Strength in Defeat | 46.00% | ~34 |
-| Escape from Fleed | 43.00% | ~32 |
-| First Contact | 41.00% | ~30 |
+| Strength in Defeat | 49.00% | ~36 |
+| Escape from Fleed | 45.00% | ~33 |
+| First Contact | 42.00% | ~31 |
 | The Exterminator | 23.00% | ~17 |
 | Technology first! | 20.00% | ~15 |
 | Earth's Savior | 19.00% | ~14 |

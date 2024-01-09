@@ -4,8 +4,8 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 673,
+  "EOS_Progressed": 674,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1344,6 +1344,11 @@
       "Time": "2024-01-09T08:10:57.2153415+00:00",
       "NumProgressed": 673,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T22:10:22.1028301+00:00",
+      "NumProgressed": 674,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1379,7 +1384,7 @@
       "Name": "Be water, my friend",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -1635,15 +1640,15 @@
       "Name": "Dash Crash",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "World2Boss",
       "SetID": "d9ekhim",
       "Name": "Snake Eyes",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 411
     },
     {
       "ID": "World3Boss",
@@ -1706,7 +1711,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 673,
+      "Progressed": 674,
       "Completed": 0
     }
   ],
@@ -1714,8 +1719,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:10:08.1348172+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:10:22.10283+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.9917741+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:59:34.8263415+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:10:08.134855+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:59:47.214715+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:10:22.1028803+00:00"
 }

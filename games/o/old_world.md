@@ -6,6 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Architect | 2.00% | ~326 |
 | Explorer | 2.00% | ~326 |
 | Intrepid | 2.00% | ~326 |
 | Settler | 2.00% | ~326 |
@@ -13,7 +14,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 2.00% | ~326 |
 | Able | 1.00% | ~163 |
 | Ambitious | 1.00% | ~163 |
-| Architect | 1.00% | ~163 |
 | Enlightened | 1.00% | ~163 |
 | Fountainhead | 1.00% | ~163 |
 | Glorious | 1.00% | ~163 |
@@ -44,27 +44,27 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.90% | ~147 |
 | Ishtar Gate | 0.90% | ~147 |
 | Lighthouse | 0.90% | ~147 |
+| Carthaginian Paganism | 0.90% | ~147 |
 | Roman Paganism | 0.90% | ~147 |
-| Great | 0.80% | ~130 |
-| Wise | 0.80% | ~130 |
-| Able Difficulty | 0.80% | ~130 |
-| Furious Family | 0.80% | ~130 |
-| Acropolis | 0.80% | ~130 |
-| Apadana | 0.80% | ~130 |
-| Necropolis | 0.80% | ~130 |
-| Learn to Play 2 | 0.80% | ~130 |
-| Manichaeism | 0.80% | ~130 |
-| Carthaginian Paganism | 0.80% | ~130 |
-| Egyptian Paganism | 0.80% | ~130 |
+| Great | 0.80% | ~131 |
+| Wise | 0.80% | ~131 |
+| Able Difficulty | 0.80% | ~131 |
+| Furious Family | 0.80% | ~131 |
+| Acropolis | 0.80% | ~131 |
+| Apadana | 0.80% | ~131 |
+| Musaeum | 0.80% | ~131 |
+| Necropolis | 0.80% | ~131 |
+| Learn to Play 2 | 0.80% | ~131 |
+| Manichaeism | 0.80% | ~131 |
+| Egyptian Paganism | 0.80% | ~131 |
 | Regicide | 0.70% | ~114 |
 | Drillmaster | 0.70% | ~114 |
+| Valiant | 0.70% | ~114 |
 | Legendary Cities | 0.70% | ~114 |
 | Mausoleum | 0.70% | ~114 |
-| Musaeum | 0.70% | ~114 |
 | Hanging Gardens in Babylon | 0.60% | ~98 |
 | Beloved | 0.60% | ~98 |
 | Intercessor | 0.60% | ~98 |
-| Valiant | 0.60% | ~98 |
 | Just Difficulty | 0.60% | ~98 |
 | Artisans | 0.60% | ~98 |
 | Sages | 0.60% | ~98 |
@@ -76,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.50% | ~82 |
 | Statesmen | 0.50% | ~82 |
 | Learn to Play 3 | 0.50% | ~82 |
+| Greece | 0.50% | ~82 |
 | Power to the People | 0.50% | ~82 |
 | Persian Paganism | 0.50% | ~82 |
 | Points Victory | 0.50% | ~82 |
@@ -95,7 +96,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.40% | ~65 |
 | Pantheon | 0.40% | ~65 |
 | Via Recta Souk | 0.40% | ~65 |
-| Greece | 0.40% | ~65 |
 | Assyrian Paganism | 0.40% | ~65 |
 | Economic Reform | 0.40% | ~65 |
 | Military Prestige | 0.40% | ~65 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,310 (Ranked 169)  
+Progressed: 16,314 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,310 | 5 |
+| 2024-01-09 | 16,314 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,918 (Ranked 224)  

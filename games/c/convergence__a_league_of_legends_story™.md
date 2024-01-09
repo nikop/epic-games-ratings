@@ -5,26 +5,26 @@ Rating: 4.69 (Ranked 235)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~592 |
+| Time Heals All Wounds | 46.00% | ~593 |
 | Rail Rat | 35.00% | ~451 |
 | The Mysterious Stranger | 34.00% | ~438 |
 | Immaculate Aim | 29.00% | ~374 |
 | The Brass Boss | 28.00% | ~361 |
 | Time Flies | 27.00% | ~348 |
+| Make Up For Lost Time | 26.00% | ~335 |
 | The Harder They Fall | 26.00% | ~335 |
 | No, Thanks! | 26.00% | ~335 |
 | The Prince in Heels | 26.00% | ~335 |
 | Honest Mistake | 26.00% | ~335 |
-| Make Up For Lost Time | 25.00% | ~322 |
 | Fast Learner | 25.00% | ~322 |
 | Immaculate Aim | 25.00% | ~322 |
 | The Steel Shadow | 24.00% | ~309 |
 | Breaking Down Barriers | 23.00% | ~296 |
 | The Wicked Twins | 23.00% | ~296 |
-| Right On Time | 22.00% | ~283 |
-| Like Clockwork | 22.00% | ~283 |
-| Golem Chaser | 22.00% | ~283 |
-| The Betrayer | 21.00% | ~270 |
+| Right On Time | 22.00% | ~284 |
+| Like Clockwork | 22.00% | ~284 |
+| Golem Chaser | 22.00% | ~284 |
+| The Betrayer | 21.00% | ~271 |
 | Check Your Pulse | 20.00% | ~258 |
 | The Loose Cannon | 19.00% | ~245 |
 | Street Style | 18.00% | ~232 |
@@ -33,9 +33,9 @@ Rating: 4.69 (Ranked 235)
 | Whiz Kid | 15.00% | ~193 |
 | Good Neighbor | 15.00% | ~193 |
 | Family Memories | 14.00% | ~180 |
-| Chaincrawler Explorer | 13.00% | ~167 |
-| Syron for Hope | 13.00% | ~167 |
-| Ask Questions Later | 13.00% | ~167 |
+| Chaincrawler Explorer | 13.00% | ~168 |
+| Syron for Hope | 13.00% | ~168 |
+| Ask Questions Later | 13.00% | ~168 |
 | Treasure Trove | 12.00% | ~155 |
 | Cartographer | 12.00% | ~155 |
 | Sump Explorer | 12.00% | ~155 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 235)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,288 (Ranked 279)  
+Progressed: 1,289 (Ranked 279)  
 Completed: 7 (0.54%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 7 (0.54%) (Ranked 215)
 | 2024-01-06 | 1,255 | 6 |
 | 2024-01-07 | 1,264 | 7 |
 | 2024-01-08 | 1,278 | 7 |
-| 2024-01-09 | 1,288 | 7 |
+| 2024-01-09 | 1,289 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

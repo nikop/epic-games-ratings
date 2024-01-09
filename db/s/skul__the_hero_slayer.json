@@ -2,7 +2,7 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 164,
+  "Ranking_Rating": 163,
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 173,
@@ -1475,7 +1475,7 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 14392,
+  "EOS_Progressed": 14393,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 798,
   "EOS_NewCompleters": 1,
@@ -9425,6 +9425,11 @@
       "Time": "2024-01-09T21:09:16.307254+00:00",
       "NumProgressed": 14392,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-09T22:09:24.5324797+00:00",
+      "NumProgressed": 14393,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 24,
@@ -9436,7 +9441,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "Chatterbox",
@@ -9460,7 +9465,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8635
+      "UsersEstimate": 8636
     },
     {
       "ID": "DemonCastleRestoration",
@@ -9564,7 +9569,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8635
+      "UsersEstimate": 8636
     },
     {
       "ID": "SavedElderEnt_2",
@@ -9604,7 +9609,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6764
+      "UsersEstimate": 6765
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -9627,15 +9632,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14392,
+      "Progressed": 14393,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-09T10:59:38.9108312+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:09:16.3072536+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:09:24.5324794+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:25.8159814+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:59:45.5322319+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:09:16.3073224+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:59:58.8796429+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:09:24.5325397+00:00"
 }

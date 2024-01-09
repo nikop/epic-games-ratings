@@ -7,7 +7,7 @@ Rating: 4.50 (Ranked 613)
 | ---- | ---------- | ----- |
 | Eat My Dust | 49.00% | ~1,710 |
 | First Love | 45.00% | ~1,570 |
-| Clean Race | 44.00% | ~1,535 |
+| Clean Race | 45.00% | ~1,570 |
 | Hear That Roar! | 42.00% | ~1,465 |
 | Bitter Rivalry | 31.00% | ~1,082 |
 | Rivals to the End | 31.00% | ~1,082 |

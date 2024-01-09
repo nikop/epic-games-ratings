@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~496 |
+| Such a strange dream… | 89.00% | ~502 |
 | Your first fight | 84.00% | ~474 |
 | Good Person Chip | 82.00% | ~462 |
 | First winning | 80.00% | ~451 |
@@ -15,16 +15,16 @@
 | Old movies enjoyer | 71.00% | ~400 |
 | Employee of the week | 70.00% | ~395 |
 | Your own amateur gym | 66.00% | ~372 |
+| Run K, run! | 65.00% | ~367 |
 | First defeat | 64.00% | ~361 |
-| Run K, run! | 64.00% | ~361 |
+| Hello, world! | 63.00% | ~355 |
 | Fighting is cool | 62.00% | ~350 |
 | No bullying more | 62.00% | ~350 |
-| Hello, world! | 62.00% | ~350 |
-| Pal of your father? | 59.00% | ~333 |
+| Pal of your father? | 60.00% | ~338 |
 | Spirit of the past | 58.00% | ~327 |
 | Employee of the month | 57.00% | ~321 |
 | Law student | 56.00% | ~316 |
-| Handyman | 53.00% | ~299 |
+| Handyman | 54.00% | ~305 |
 | Workout professional | 52.00% | ~293 |
 | Fight for life | 52.00% | ~293 |
 | Little hacker | 52.00% | ~293 |
@@ -47,7 +47,7 @@
 | Underground dwellers | 35.00% | ~197 |
 | Mom got better | 34.00% | ~192 |
 | Deal with life | 34.00% | ~192 |
-| The die is cast | 33.00% | ~186 |
+| The die is cast | 34.00% | ~192 |
 | Poisoned fighter | 32.00% | ~180 |
 | Get out of my apartment! | 32.00% | ~180 |
 | Gang wrangler | 30.00% | ~169 |
@@ -55,10 +55,10 @@
 | Undercover robot | 30.00% | ~169 |
 | Problems of cyborgs | 29.00% | ~164 |
 | Absolute Champion! | 29.00% | ~164 |
+| The lonesome road | 28.00% | ~158 |
 | Not little hacker | 28.00% | ~158 |
 | Trap disarmed | 27.00% | ~152 |
 | Another world | 27.00% | ~152 |
-| The lonesome road | 27.00% | ~152 |
 | Keep nature safe | 27.00% | ~152 |
 | Family comes first | 27.00% | ~152 |
 | Key memories | 27.00% | ~152 |

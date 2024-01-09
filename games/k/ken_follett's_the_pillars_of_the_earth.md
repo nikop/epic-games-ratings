@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~6,919 |
-| Man of politics | 34.00% | ~6,032 |
-| Yet another secret | 33.00% | ~5,855 |
-| Friends of sorts | 32.00% | ~5,677 |
-| Let there be darkness | 31.00% | ~5,500 |
-| End of Book One | 29.00% | ~5,145 |
+| Tattletale | 39.00% | ~6,920 |
+| Man of politics | 34.00% | ~6,033 |
+| Yet another secret | 33.00% | ~5,856 |
+| Friends of sorts | 32.00% | ~5,678 |
+| Let there be darkness | 31.00% | ~5,501 |
+| End of Book One | 29.00% | ~5,146 |
 | Wannabe knight | 23.00% | ~4,081 |
 | Garden of Eden | 23.00% | ~4,081 |
 | Full house | 23.00% | ~4,081 |
 | Help an old friend | 21.00% | ~3,726 |
-| Two of us | 20.00% | ~3,548 |
+| Two of us | 20.00% | ~3,549 |
 | Negotiation skills | 18.00% | ~3,194 |
 | Workers' union | 18.00% | ~3,194 |
 | End of Book Two | 18.00% | ~3,194 |
 | Everything's in order | 16.00% | ~2,839 |
 | Twist of Fate | 14.00% | ~2,484 |
 | Jack was here! | 14.00% | ~2,484 |
-| Exterminator | 13.00% | ~2,306 |
+| Exterminator | 13.00% | ~2,307 |
 | Whodunnit | 12.00% | ~2,129 |
 | Good midwife | 10.00% | ~1,774 |
 | Friar Tuck | 10.00% | ~1,774 |
@@ -34,7 +34,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,597 |
 | The truth revealed | 9.00% | ~1,597 |
 | The End. | 9.00% | ~1,597 |
-| Nothing but make-believe | 8.00% | ~1,419 |
+| Nothing but make-believe | 8.00% | ~1,420 |
 | A cry for help | 7.00% | ~1,242 |
 | Silentium est aureum | 7.00% | ~1,242 |
 | Rebel without a cause | 6.00% | ~1,065 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~532 |
 | Boy of mystery | 2.00% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,742 (Ranked 162)  
+Progressed: 17,744 (Ranked 162)  
 Completed: 125 (0.70%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 125 (0.70%) (Ranked 196)
 | 2024-01-06 | 17,677 | 125 |
 | 2024-01-07 | 17,708 | 125 |
 | 2024-01-08 | 17,727 | 125 |
-| 2024-01-09 | 17,742 | 125 |
+| 2024-01-09 | 17,744 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 326)  
 Sum: 200 (Ranked 418)  

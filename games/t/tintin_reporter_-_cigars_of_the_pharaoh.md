@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 79.00% | ~100 |
-| A Loyal Friend | 43.00% | ~55 |
+| A Loyal Friend | 44.00% | ~56 |
 | Abandon Ship! | 33.00% | ~42 |
 | The Tomb of Kih-Oskh | 29.00% | ~37 |
 | The Weighing of the Soul | 25.00% | ~32 |
@@ -16,7 +16,7 @@
 | In the Name of the Law | 12.00% | ~15 |
 | Au Revoir, Abudin | 12.00% | ~15 |
 | Save a Friend | 12.00% | ~15 |
-| Mysterious Bungalow | 9.00% | ~11 |
+| Mysterious Bungalow | 10.00% | ~13 |
 | The Eyes! | 9.00% | ~11 |
 | Punctual | 9.00% | ~11 |
 | Barking Dog | 8.00% | ~10 |

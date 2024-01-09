@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253285,
+  "EOS_Progressed": 253289,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23672,6 +23672,11 @@
       "Time": "2024-01-09T20:09:29.7442772+00:00",
       "NumProgressed": 253285,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-09T22:10:13.4972097+00:00",
+      "NumProgressed": 253289,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23707,7 +23712,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53190
+      "UsersEstimate": 53191
     },
     {
       "ID": "blotbuster",
@@ -23739,7 +23744,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43058
+      "UsersEstimate": 43059
     },
     {
       "ID": "cantBeKeptDown",
@@ -23779,7 +23784,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45591
+      "UsersEstimate": 45592
     },
     {
       "ID": "curator",
@@ -23787,7 +23792,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50657
+      "UsersEstimate": 50658
     },
     {
       "ID": "didYourTime",
@@ -23859,7 +23864,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134241
+      "UsersEstimate": 134243
     },
     {
       "ID": "indegestible",
@@ -23883,7 +23888,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65854
+      "UsersEstimate": 65855
     },
     {
       "ID": "justABit",
@@ -23923,7 +23928,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126642
+      "UsersEstimate": 126644
     },
     {
       "ID": "notScared",
@@ -24003,7 +24008,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32927
+      "UsersEstimate": 32928
     },
     {
       "ID": "treeMedalist",
@@ -24050,7 +24055,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253285,
+      "Progressed": 253289,
       "Completed": 6
     }
   ],
@@ -24058,8 +24063,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:10:00.126417+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:10:13.4972094+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:58:17.4462617+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:10:00.1265501+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:58:22.4950679+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:10:13.4973605+00:00"
 }

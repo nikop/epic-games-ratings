@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,121 |
-| The Cursed Farmer | 2.00% | ~5,060 |
+| The Cursed Farmer | 2.00% | ~5,061 |
 | Beast Intentions | 1.00% | ~2,530 |
 | The Mad Wizard | 1.00% | ~2,530 |
 | The Ring of Regeneration | 0.90% | ~2,277 |
@@ -21,9 +21,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fast Food | 0.60% | ~1,316 |
 | A Persistent Buzzing | 0.50% | ~1,265 |
 | Terror in the Dark | 0.50% | ~1,265 |
-| The Overgrown Grove | 0.50% | ~1,096 |
-| Flames of Avernus | 0.50% | ~1,096 |
-| Mental Gymnastics | 0.50% | ~1,096 |
+| The Overgrown Grove | 0.50% | ~1,097 |
+| Flames of Avernus | 0.50% | ~1,097 |
+| Mental Gymnastics | 0.50% | ~1,097 |
 | Maddening | 0.40% | ~1,012 |
 | Beast Mode | 0.40% | ~1,012 |
 | Unearthed Evil | 0.40% | ~1,012 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,016 (Ranked 70)  
-Completed: 2,605 (1.03%) (Ranked 174)  
+Progressed: 253,032 (Ranked 70)  
+Completed: 2,606 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -817,7 +817,7 @@ Completed: 2,605 (1.03%) (Ranked 174)
 | 2024-01-06 | 252,125 | 2,599 |
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
-| 2024-01-09 | 253,016 | 2,605 |
+| 2024-01-09 | 253,032 | 2,606 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
 Sum: 33,417 (Ranked 41)  

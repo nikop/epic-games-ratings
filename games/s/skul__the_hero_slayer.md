@@ -1,16 +1,16 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.74 (Ranked 164)  
+Rating: 4.74 (Ranked 163)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Legend Begins | 93.00% | ~13,385 |
 | What should I buy? | 80.00% | ~11,514 |
-| Focus! | 60.00% | ~8,635 |
-| Rescued Elder Ent | 60.00% | ~8,635 |
-| The End of the Gold Mane Knights | 47.00% | ~6,764 |
+| Focus! | 60.00% | ~8,636 |
+| Rescued Elder Ent | 60.00% | ~8,636 |
+| The End of the Gold Mane Knights | 47.00% | ~6,765 |
 | False Goddess, Disappear | 39.00% | ~5,613 |
 | Rules of Etiquette | 37.00% | ~5,325 |
 | Inventory Management | 31.00% | ~4,462 |
@@ -19,7 +19,7 @@ Number of Ratings: 546  (23.09.2022)
 | Go Home... | 27.00% | ~3,886 |
 | The Final Battle of the First Hero | 26.00% | ~3,742 |
 | The Hero Killer | 25.00% | ~3,598 |
-| Brain at Full Throttle | 20.00% | ~2,878 |
+| Brain at Full Throttle | 20.00% | ~2,879 |
 | Rookies Welcome | 18.00% | ~2,591 |
 | Deadly Power | 16.00% | ~2,303 |
 | Castle Restoration Plans | 13.00% | ~1,871 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~144 |
 | Cold-Blooded | 0.60% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,392 (Ranked 173)  
+Progressed: 14,393 (Ranked 173)  
 Completed: 21 (0.15%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 21 (0.15%) (Ranked 288)
 | 2024-01-06 | 14,083 | 21 |
 | 2024-01-07 | 14,201 | 21 |
 | 2024-01-08 | 14,299 | 21 |
-| 2024-01-09 | 14,392 | 21 |
+| 2024-01-09 | 14,393 | 21 |
 ## Awards
 Max (Great for Beginners): 151  (Ranked 331)  
 Sum: 1,011 (Ranked 275)  

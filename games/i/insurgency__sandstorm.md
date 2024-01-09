@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,121 |
-| Wallbanger | 5.00% | ~26,121 |
-| Exploitative | 4.00% | ~20,897 |
-| High Speed Low Drag | 4.00% | ~20,897 |
-| Wet Feet | 4.00% | ~20,897 |
+| Point Shooting | 5.00% | ~26,122 |
+| Wallbanger | 5.00% | ~26,122 |
+| Exploitative | 4.00% | ~20,898 |
+| High Speed Low Drag | 4.00% | ~20,898 |
+| Wet Feet | 4.00% | ~20,898 |
 | Checkpoint Victory | 3.00% | ~15,673 |
 | Lucky | 3.00% | ~15,673 |
 | Stylin' | 3.00% | ~15,673 |
 | Turf War | 3.00% | ~15,673 |
-| Banged | 2.00% | ~10,448 |
-| First Blood | 2.00% | ~10,448 |
-| Flaccid Paralysis | 2.00% | ~10,448 |
-| Push Victory | 2.00% | ~10,448 |
-| Self-destructive | 2.00% | ~10,448 |
+| Banged | 2.00% | ~10,449 |
+| First Blood | 2.00% | ~10,449 |
+| Flaccid Paralysis | 2.00% | ~10,449 |
+| Push Victory | 2.00% | ~10,449 |
+| Self-destructive | 2.00% | ~10,449 |
 | Blindfire | 1.00% | ~5,224 |
 | Ruthless | 1.00% | ~5,224 |
 | Semper Paratus | 1.00% | ~5,224 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,702 |
 | Mount & Gun | 0.90% | ~4,702 |
 | Personal | 0.90% | ~4,702 |
-| Grounded | 0.80% | ~4,179 |
-| Play to Win | 0.80% | ~4,179 |
+| Grounded | 0.80% | ~4,180 |
+| Play to Win | 0.80% | ~4,180 |
 | Special Delivery | 0.70% | ~3,657 |
 | Firefight Victory | 0.60% | ~3,135 |
 | #1 | 0.60% | ~3,135 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~522 |
 | Road Hazard | 0.10% | ~522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,420 (Ranked 40)  
+Progressed: 522,445 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 2 (0.00%) (Ranked 394)
 | 2024-01-06 | 520,833 | 2 |
 | 2024-01-07 | 521,476 | 2 |
 | 2024-01-08 | 521,958 | 2 |
-| 2024-01-09 | 522,420 | 2 |
+| 2024-01-09 | 522,445 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 238)  
 Sum: 3,347 (Ranked 178)  

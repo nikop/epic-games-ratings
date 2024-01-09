@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1719,9 +1719,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247430,
+  "EOS_Progressed": 247443,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1192,
+  "EOS_NewPlayers": 1200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25584,6 +25584,11 @@
       "Time": "2024-01-09T21:10:11.427888+00:00",
       "NumProgressed": 247430,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-09T22:10:25.5924248+00:00",
+      "NumProgressed": 247443,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25627,7 +25632,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9897
+      "UsersEstimate": 9898
     },
     {
       "ID": "BookCollection",
@@ -25643,7 +25648,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19794
+      "UsersEstimate": 19795
     },
     {
       "ID": "Chapter2",
@@ -25659,7 +25664,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9897
+      "UsersEstimate": 9898
     },
     {
       "ID": "Chapter4",
@@ -25995,7 +26000,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22269
+      "UsersEstimate": 22270
     },
     {
       "ID": "DwarfElf15Support",
@@ -26027,7 +26032,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14846
+      "UsersEstimate": 14847
     },
     {
       "ID": "ElfEpic",
@@ -26043,7 +26048,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91549
+      "UsersEstimate": 91554
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26091,7 +26096,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24743
+      "UsersEstimate": 24744
     },
     {
       "ID": "FollowBraztok",
@@ -26243,7 +26248,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14846
+      "UsersEstimate": 14847
     },
     {
       "ID": "SupportCount4",
@@ -26291,28 +26296,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9897
+      "UsersEstimate": 9898
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247430,
+      "Progressed": 247443,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247430,
+      "Progressed": 247443,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-09T20:59:37.5250632+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:10:11.4278878+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:10:25.5924246+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:59:37.5250637+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:10:11.4280762+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:59:50.1462052+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:10:25.5926202+00:00"
 }

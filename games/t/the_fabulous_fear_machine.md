@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 54.00% | ~48 |
+| Master trainee | 53.00% | ~48 |
 | You have three wishes left | 47.00% | ~42 |
 | The battle of Great Britain | 38.00% | ~34 |
 | Jung's dream | 37.00% | ~33 |
 | Pulp! Where Monsters Dwell | 31.00% | ~28 |
 | A continent with chemistry | 29.00% | ~26 |
 | The happy farmer girl | 27.00% | ~24 |
-| Giant | 25.00% | ~22 |
-| Pulp! Terror Tales in the Night | 25.00% | ~22 |
+| Giant | 24.00% | ~22 |
+| Pulp! Terror Tales in the Night | 24.00% | ~22 |
 | A rival with no options | 22.00% | ~20 |
 | Pulp! Out of this World | 22.00% | ~20 |
 | Diagnosis: fear | 22.00% | ~20 |
@@ -22,12 +22,12 @@
 | The artist | 20.00% | ~18 |
 | Pulp! Adventures into the Unknown | 19.00% | ~17 |
 | The seer | 18.00% | ~16 |
+| Welcome to Hellville | 18.00% | ~16 |
 | You've awakened the beast | 17.00% | ~15 |
 | Hate is... addictive | 17.00% | ~15 |
-| Welcome to Hellville | 17.00% | ~15 |
 | You had one wish left | 16.00% | ~14 |
-| The bully | 15.00% | ~13 |
-| Kirlian's best disciple | 15.00% | ~13 |
+| The bully | 14.00% | ~13 |
+| Kirlian's best disciple | 14.00% | ~13 |
 | Blessed antennas | 12.00% | ~11 |
 | Pulp! The Beyond | 11.00% | ~10 |
 | The beast in the Oval Office | 10.00% | ~9 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 503)  
+Progressed: 90 (Ranked 502)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,3 +101,4 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-05 | 84 | 0 |
 | 2024-01-07 | 87 | 0 |
 | 2024-01-08 | 89 | 0 |
+| 2024-01-09 | 90 | 0 |

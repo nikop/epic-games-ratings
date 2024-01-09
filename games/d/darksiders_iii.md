@@ -14,7 +14,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Capacity | 54.00% | ~283 |
 | Just the start | 49.00% | ~257 |
 | Perfect Storm | 46.00% | ~241 |
-| All That Glitters | 45.00% | ~236 |
+| All That Glitters | 46.00% | ~241 |
 | Enhance! | 42.00% | ~220 |
 | One Of the Chosen | 40.00% | ~210 |
 | Devil's in the Details | 39.00% | ~204 |
@@ -40,8 +40,8 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Meddler | 22.00% | ~115 |
 | Seeing Red | 22.00% | ~115 |
 | Egomaniac | 20.00% | ~105 |
-| Protector of Humanity | 18.00% | ~94 |
-| Everybody Wants to Rule the World | 18.00% | ~94 |
+| Protector of Humanity | 19.00% | ~100 |
+| Everybody Wants to Rule the World | 19.00% | ~100 |
 | Community Outreach | 15.00% | ~79 |
 | A Parting Gift | 14.00% | ~73 |
 | Unbreakable Will | 13.00% | ~68 |

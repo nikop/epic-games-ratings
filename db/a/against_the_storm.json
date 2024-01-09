@@ -3875,9 +3875,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20586,
+  "EOS_Progressed": 20590,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19110,6 +19110,11 @@
       "Time": "2024-01-09T21:04:18.7613444+00:00",
       "NumProgressed": 20586,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-09T22:04:38.1932852+00:00",
+      "NumProgressed": 20590,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19202,7 +19207,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "WinFirstGame",
@@ -19282,7 +19287,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "WinNearFishmen",
@@ -19338,7 +19343,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "WinNearRuins",
@@ -19378,7 +19383,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "WinOnCoral",
@@ -19434,7 +19439,7 @@
       "Name": "A Real Challenge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "WinWIthCaches",
@@ -19530,7 +19535,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "WinNearGreed",
@@ -19538,7 +19543,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "WinNearLibrary",
@@ -19593,15 +19598,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20586,
+      "Progressed": 20590,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-09T13:14:32.6779074+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:04:18.761344+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:04:38.1932847+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:58:05.1355344+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:04:18.7614465+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:58:10.6082196+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:04:38.1934319+00:00"
 }

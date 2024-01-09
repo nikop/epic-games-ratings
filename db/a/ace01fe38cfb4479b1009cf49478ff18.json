@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 872,
+  "EOS_Progressed": 873,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2819,6 +2819,11 @@
       "Time": "2024-01-09T21:08:45.7591014+00:00",
       "NumProgressed": 872,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T22:08:50.3550863+00:00",
+      "NumProgressed": 873,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2831,7 +2836,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -2839,7 +2844,7 @@
       "Name": "Chapter II - Complete",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -2877,9 +2882,9 @@
       "ID": "ach_complete_difficulty_medium",
       "SetID": "d499apg",
       "Name": "My Armour is Contempt",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 95,
-      "UsersEstimate": 52
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -2895,7 +2900,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2926,14 +2931,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 872,
+      "Progressed": 873,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-09T21:08:45.7591011+00:00",
+  "LastChanged_Achievements": "2024-01-09T22:08:50.355086+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:59:50.3135858+00:00",
-  "LastUpdate_Achievements": "2024-01-09T21:08:45.7591243+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:00:04.3321698+00:00",
+  "LastUpdate_Achievements": "2024-01-09T22:08:50.355106+00:00"
 }

@@ -6,33 +6,33 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~933 |
-| Lost and Found | 8.00% | ~574 |
-| Autodidact | 7.00% | ~9,261 |
-| This guy... again? | 7.00% | ~502 |
-| This Belongs in a Museum | 6.00% | ~7,938 |
-| Creep and Sleep | 6.00% | ~7,938 |
-| Overdue Notice | 6.00% | ~7,938 |
-| Escape from the Black Hole | 6.00% | ~7,938 |
-| Ploughshares to Swords | 6.00% | ~430 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,615 |
-| Serenity Now! | 5.00% | ~6,615 |
-| It Rings a Bell | 5.00% | ~6,615 |
-| Not Today! | 5.00% | ~6,615 |
-| Meat and Greet | 5.00% | ~6,615 |
-| Catch and Decease | 5.00% | ~6,615 |
-| It Happens | 5.00% | ~6,615 |
-| Rush Hour | 5.00% | ~6,615 |
-| To Grandmother's House | 5.00% | ~6,615 |
-| A Place to Lay Your Head | 5.00% | ~6,615 |
-| FNG | 5.00% | ~6,615 |
+| Malpractice Assurance | 13.00% | ~934 |
+| Lost and Found | 8.00% | ~575 |
+| Autodidact | 7.00% | ~9,262 |
+| This guy... again? | 7.00% | ~503 |
+| This Belongs in a Museum | 6.00% | ~7,939 |
+| Creep and Sleep | 6.00% | ~7,939 |
+| Overdue Notice | 6.00% | ~7,939 |
+| Escape from the Black Hole | 6.00% | ~7,939 |
+| Ploughshares to Swords | 6.00% | ~431 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,616 |
+| Serenity Now! | 5.00% | ~6,616 |
+| It Rings a Bell | 5.00% | ~6,616 |
+| Not Today! | 5.00% | ~6,616 |
+| Meat and Greet | 5.00% | ~6,616 |
+| Catch and Decease | 5.00% | ~6,616 |
+| It Happens | 5.00% | ~6,616 |
+| Rush Hour | 5.00% | ~6,616 |
+| To Grandmother's House | 5.00% | ~6,616 |
+| A Place to Lay Your Head | 5.00% | ~6,616 |
+| FNG | 5.00% | ~6,616 |
 | Bloody Graduation | 5.00% | ~359 |
-| Spelunker | 4.00% | ~5,292 |
-| Merry Time | 4.00% | ~5,292 |
-| Harvest Festival | 4.00% | ~5,292 |
-| Ramble On | 4.00% | ~5,292 |
-| Whale | 4.00% | ~5,292 |
-| Nope | 4.00% | ~5,292 |
+| Spelunker | 4.00% | ~5,293 |
+| Merry Time | 4.00% | ~5,293 |
+| Harvest Festival | 4.00% | ~5,293 |
+| Ramble On | 4.00% | ~5,293 |
+| Whale | 4.00% | ~5,293 |
+| Nope | 4.00% | ~5,293 |
 | Friends 'Til the End | 4.00% | ~287 |
 | Resurrection | 3.00% | ~3,969 |
 | Unleash Hell | 3.00% | ~3,969 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 0.90% | ~1,191 |
 | Triage | 0.90% | ~1,191 |
 | No Mercy | 0.90% | ~65 |
-| Et Tu, Riposte? | 0.80% | ~57 |
+| Et Tu, Riposte? | 0.90% | ~65 |
 | The World As It Was | 0.70% | ~926 |
 | A Life Well Lived | 0.60% | ~794 |
 | Bacon Bits | 0.60% | ~794 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,306 (Ranked 91)  
+Progressed: 132,314 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,306 | 3 |
+| 2024-01-09 | 132,314 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,559 (Ranked 58)  
