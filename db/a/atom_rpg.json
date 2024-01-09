@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1688,
+  "EOS_Progressed": 1689,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4450,6 +4450,11 @@
       "Time": "2024-01-09T10:11:00.027623+00:00",
       "NumProgressed": 1688,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T14:09:55.3899323+00:00",
+      "NumProgressed": 1689,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4517,7 +4522,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "EXPERT_1",
@@ -4717,7 +4722,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "VVE",
@@ -4733,7 +4738,7 @@
       "Name": "Wanderer",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "WISHMASTER_1",
@@ -4748,15 +4753,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1688,
+      "Progressed": 1689,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:26:28.9826566+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:09:55.3899319+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:16:24.3579208+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:26:28.9827597+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:59:53.3855897+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:09:55.3899844+00:00"
 }

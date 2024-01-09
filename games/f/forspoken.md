@@ -5,16 +5,16 @@ Rating: 4.16 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,093 |
+| Attachments | 13.00% | ~6,094 |
 | Unlocked Potential | 11.00% | ~5,156 |
-| Tinkerer | 9.00% | ~4,218 |
+| Tinkerer | 9.00% | ~4,219 |
 | Knock 'Em Dead | 8.00% | ~3,750 |
 | Leapfrogger | 7.00% | ~3,281 |
 | Pilgrimage: Initiate | 7.00% | ~3,281 |
 | Hell of a Run | 7.00% | ~3,281 |
 | Call of the Fount: Baptized | 7.00% | ~3,281 |
-| No Mercy | 6.00% | ~2,812 |
-| Explorer: Seeker | 6.00% | ~2,812 |
+| No Mercy | 6.00% | ~2,813 |
+| Explorer: Seeker | 6.00% | ~2,813 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,344 |
 | Stuck | 5.00% | ~2,344 |
 | Help Me Out Here | 5.00% | ~2,344 |
@@ -22,13 +22,13 @@ Rating: 4.16 (Ranked 991)
 | Outdoorsperson | 3.00% | ~1,406 |
 | Hop, Step, Jump | 3.00% | ~1,406 |
 | Endless Runner | 3.00% | ~1,406 |
-| What Must Be Done | 2.00% | ~937 |
-| Might and Main | 2.00% | ~937 |
-| Damned If You Do... | 2.00% | ~937 |
-| The Hue of Blue | 2.00% | ~937 |
-| Explorer: Pathfinder | 2.00% | ~937 |
-| Shocker | 2.00% | ~937 |
-| From Every Angle | 2.00% | ~937 |
+| What Must Be Done | 2.00% | ~938 |
+| Might and Main | 2.00% | ~938 |
+| Damned If You Do... | 2.00% | ~938 |
+| The Hue of Blue | 2.00% | ~938 |
+| Explorer: Pathfinder | 2.00% | ~938 |
+| Shocker | 2.00% | ~938 |
+| From Every Angle | 2.00% | ~938 |
 | The Truth Will Out | 1.00% | ~469 |
 | Breaking Point | 1.00% | ~469 |
 | None the Wiser | 1.00% | ~469 |
@@ -39,7 +39,7 @@ Rating: 4.16 (Ranked 991)
 | Realized Potential | 0.70% | ~328 |
 | Explorer: Trailblazer | 0.60% | ~281 |
 | Through the Eyes of Another: Seer | 0.50% | ~234 |
-| Craftsperson | 0.40% | ~187 |
+| Craftsperson | 0.40% | ~188 |
 | Archivist | 0.30% | ~141 |
 | Tit for Tat | 0.30% | ~141 |
 | A Roaring Trade | 0.30% | ~141 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 991)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,872 (Ranked 126)  
+Progressed: 46,876 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,15 +323,15 @@ Completed: 4 (0.01%) (Ranked 372)
 | 2024-01-06 | 46,610 | 4 |
 | 2024-01-07 | 46,730 | 4 |
 | 2024-01-08 | 46,825 | 4 |
-| 2024-01-09 | 46,872 | 4 |
+| 2024-01-09 | 46,876 | 4 |
 ## Awards
 Max (Character Customization): 47  (Ranked 464)  
-Sum: 68 (Ranked 491)  
+Sum: 69 (Ranked 491)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 47 |
-| This game has Great Boss Battles | 21 |
+| This game has Great Boss Battles | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -435,3 +435,4 @@ Diff (max vs sum): -27
 | 2024-01-06 | 4.16 | 46 | 67 |
 | 2024-01-07 | 4.15 | 46 | 67 |
 | 2024-01-08 | 4.16 | 47 | 68 |
+| 2024-01-09 | 4.16 | 47 | 69 |

@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 457,
+  "EOS_Progressed": 458,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1789,6 +1789,11 @@
       "Time": "2024-01-09T13:20:36.9275811+00:00",
       "NumProgressed": 457,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T14:03:59.6841085+00:00",
+      "NumProgressed": 458,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1831,9 +1836,9 @@
       "ID": "AC_ALL_TOYS",
       "SetID": "16i2akc",
       "Name": "Gift",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -1967,17 +1972,17 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 229
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 110
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2009,7 +2014,7 @@
       "Name": "Voyage",
       "Percentage": 27,
       "XP": 45,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2136,14 +2141,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 457,
+      "Progressed": 458,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:20:36.9275807+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:03:59.6841082+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:15:47.5960623+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:20:36.9276163+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:59:15.8056908+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:03:59.6841441+00:00"
 }

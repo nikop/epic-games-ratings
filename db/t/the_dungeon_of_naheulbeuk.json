@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1707,9 +1707,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247368,
+  "EOS_Progressed": 247370,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1223,
+  "EOS_NewPlayers": 1210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25532,6 +25532,11 @@
       "Time": "2024-01-09T13:26:38.1404989+00:00",
       "NumProgressed": 247368,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-09T14:10:04.7552404+00:00",
+      "NumProgressed": 247370,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25591,7 +25596,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19789
+      "UsersEstimate": 19790
     },
     {
       "ID": "Chapter2",
@@ -25991,7 +25996,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 89052
+      "UsersEstimate": 89053
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26246,21 +26251,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247368,
+      "Progressed": 247370,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247368,
+      "Progressed": 247370,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-07T14:58:32.9313292+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:26:38.1404987+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:10:04.7552402+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:16:04.7564181+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:26:38.1406769+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:59:33.1443593+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:10:04.7554545+00:00"
 }

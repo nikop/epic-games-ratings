@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1441,6 +1441,11 @@
       "Time": "2024-01-08T21:07:02.4253741+00:00",
       "NumProgressed": 220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T14:05:53.1318795+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1469,7 +1474,7 @@
       "Name": "Entrepreneur",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "100HEALS",
@@ -1693,7 +1698,7 @@
       "Name": "Creator",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "DESTRUCTION",
@@ -1837,7 +1842,7 @@
       "Name": "Eternal Oblivion",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "LOVECAJA",
@@ -1852,15 +1857,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:22:27.2180145+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:05:53.1318792+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:16:07.2480408+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:22:27.2180693+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:59:35.5853948+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:05:53.1319176+00:00"
 }

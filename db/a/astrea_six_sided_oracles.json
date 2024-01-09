@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -2231,9 +2231,9 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "EridanianHero",
@@ -2310,8 +2310,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:25:23.2656165+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:08:49.1408074+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:27.4116813+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:16:15.4935968+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:25:23.2657277+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:59:44.8326704+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:08:49.1409189+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -741,9 +741,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7106,
+  "EOS_Progressed": 7109,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10856,6 +10856,11 @@
       "Time": "2024-01-09T12:05:49.6102623+00:00",
       "NumProgressed": 7106,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T14:05:35.6640027+00:00",
+      "NumProgressed": 7109,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10867,7 +10872,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "10",
@@ -10883,7 +10888,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "12",
@@ -10907,7 +10912,7 @@
       "Name": "Full Ascension",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "15",
@@ -10995,7 +11000,7 @@
       "Name": "Secret Technique",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "25",
@@ -11035,7 +11040,7 @@
       "Name": "Stronger Together",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "3",
@@ -11075,7 +11080,7 @@
       "Name": "Seat of Power",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "34",
@@ -11083,7 +11088,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "35",
@@ -11139,7 +11144,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "41",
@@ -11346,13 +11351,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7106,
+      "Progressed": 7109,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7106,
+      "Progressed": 7109,
       "Completed": 7
     }
   ],
@@ -11360,8 +11365,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-09T03:57:10.1517574+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:22:10.2845598+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:05:35.6640024+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:13:54.4890494+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:22:10.2846589+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:57:22.6536326+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:05:35.6640997+00:00"
 }

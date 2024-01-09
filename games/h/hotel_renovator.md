@@ -20,7 +20,7 @@ Rating: 4.35 (Ranked 826)
 | Moving up | 40.00% | ~576 |
 | No need to call anyone | 38.00% | ~547 |
 | Big fortune | 31.00% | ~446 |
-| Still more work ahead | 28.00% | ~403 |
+| Still more work ahead | 29.00% | ~417 |
 | Kaboom | 26.00% | ~374 |
 | Aesop's fable | 26.00% | ~374 |
 | Hotel sleuthing | 26.00% | ~374 |
@@ -28,8 +28,8 @@ Rating: 4.35 (Ranked 826)
 | Broken heart | 22.00% | ~317 |
 | Island boy | 21.00% | ~302 |
 | You're a star | 19.00% | ~273 |
+| Unstoppable | 18.00% | ~259 |
 | Reunited | 18.00% | ~259 |
-| Unstoppable | 17.00% | ~245 |
 | King of hospitality | 11.00% | ~158 |
 | Top spot in town | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8192,
+  "EOS_Progressed": 8195,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13677,6 +13677,11 @@
       "Time": "2024-01-09T13:25:03.3337639+00:00",
       "NumProgressed": 8192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T14:08:28.7176354+00:00",
+      "NumProgressed": 8195,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13688,7 +13693,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13720,7 +13725,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -13752,7 +13757,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -13782,9 +13787,9 @@
       "ID": "ACHIEVEMENT_013",
       "SetID": "1a05lfd",
       "Name": "Hook, Line and Sinker",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -14007,13 +14012,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8192,
+      "Progressed": 8195,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7564,
+      "Progressed": 7567,
       "Completed": 113
     }
   ],
@@ -14021,8 +14026,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:25:03.3337635+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:08:28.717635+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:15:31.724057+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:25:03.3338662+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:59:00.1350158+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:08:28.7177138+00:00"
 }

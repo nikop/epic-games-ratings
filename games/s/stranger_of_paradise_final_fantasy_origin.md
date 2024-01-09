@@ -13,7 +13,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Lantern Smasher | 78.00% | ~64,184 |
 | The Pirate's Way | 73.00% | ~60,070 |
 | Dark Crystal, Warrior's Heart | 71.00% | ~58,424 |
-| The King of the Dark Elves | 67.00% | ~55,132 |
+| The King of the Dark Elves | 68.00% | ~55,955 |
 | Memories of the Distant Past | 66.00% | ~54,309 |
 | Distortion's Progeny | 62.00% | ~51,018 |
 | Savant | 61.00% | ~50,195 |

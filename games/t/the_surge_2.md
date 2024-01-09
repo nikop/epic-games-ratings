@@ -5,21 +5,21 @@ Rating: 4.26 (Ranked 915)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~1,983 |
-| Don't I Know You...? | 75.00% | ~1,906 |
-| Jailbreak | 64.00% | ~1,627 |
+| Rigged And Ready | 78.00% | ~1,984 |
+| Don't I Know You...? | 75.00% | ~1,907 |
+| Jailbreak | 64.00% | ~1,628 |
 | HEADSHOT! | 37.00% | ~941 |
 | Suited and Booted | 37.00% | ~941 |
-| Sleeping With The Fishes | 34.00% | ~864 |
+| Sleeping With The Fishes | 34.00% | ~865 |
 | High Performance | 30.00% | ~763 |
 | Overheated | 29.00% | ~737 |
-| Powered Up | 27.00% | ~686 |
+| Powered Up | 27.00% | ~687 |
 | Studied The Blade | 24.00% | ~610 |
 | Home Invasion | 22.00% | ~559 |
 | Luminary | 22.00% | ~559 |
 | True Survivor | 21.00% | ~534 |
 | It's a Trap | 21.00% | ~534 |
-| Offensive Defense | 20.00% | ~508 |
+| Offensive Defense | 20.00% | ~509 |
 | Shocking | 19.00% | ~483 |
 | Unforeseeable Consequences | 19.00% | ~483 |
 | Court Martial | 18.00% | ~458 |
@@ -27,10 +27,10 @@ Rating: 4.26 (Ranked 915)
 | Dead Again | 17.00% | ~432 |
 | Full Arsenal | 17.00% | ~432 |
 | Can't Trust Banks | 15.00% | ~381 |
-| Mommy Dearest | 13.00% | ~330 |
-| Bad Dog | 13.00% | ~330 |
-| Risk Tolerant | 13.00% | ~330 |
-| What A Catchy Song | 13.00% | ~330 |
+| Mommy Dearest | 13.00% | ~331 |
+| Bad Dog | 13.00% | ~331 |
+| Risk Tolerant | 13.00% | ~331 |
+| What A Catchy Song | 13.00% | ~331 |
 | Where It All Began | 12.00% | ~305 |
 | Sorry, Didn't See You There | 12.00% | ~305 |
 | Corrupted Beauty | 11.00% | ~280 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 915)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,542 (Ranked 236)  
+Progressed: 2,543 (Ranked 236)  
 Completed: 13 (0.51%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 13 (0.51%) (Ranked 220)
 | 2024-01-06 | 2,499 | 13 |
 | 2024-01-07 | 2,519 | 13 |
 | 2024-01-08 | 2,534 | 13 |
-| 2024-01-09 | 2,542 | 13 |
+| 2024-01-09 | 2,543 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

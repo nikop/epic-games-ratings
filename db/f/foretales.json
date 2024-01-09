@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -567,9 +567,9 @@
       "ID": "theRanger",
       "SetID": "5bkacmp",
       "Name": "Caged tiger",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 189
     },
     {
       "ID": "theUnionLeader",
@@ -616,8 +616,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:20:50.9022985+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:04:13.8952188+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:35.1119247+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:19:27.0450379+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:20:50.9023301+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:02:46.0333916+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:04:13.8952484+00:00"
 }

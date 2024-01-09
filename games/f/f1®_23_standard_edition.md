@@ -5,24 +5,24 @@ Rating: 4.65 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~15,550 |
-| On the Top Step | 82.00% | ~14,012 |
-| Setting up for Success | 69.00% | ~11,791 |
-| Team Orders | 67.00% | ~11,449 |
-| Engineer | 45.00% | ~7,690 |
-| Familiar Faces | 41.00% | ~7,006 |
-| Going the Extra Mile | 35.00% | ~5,981 |
-| Sharing the Love | 32.00% | ~5,468 |
-| Hitting a Season | 26.00% | ~4,443 |
-| A Dozen Pieces | 24.00% | ~4,101 |
-| Making History | 24.00% | ~4,101 |
-| Network Success | 23.00% | ~3,930 |
-| Challenge Yourself | 23.00% | ~3,930 |
-| Writing a new Chapter | 19.00% | ~3,247 |
-| Spring Cleaning | 18.00% | ~3,076 |
-| Reduce | 14.00% | ~2,392 |
-| Ups and Downs | 14.00% | ~2,392 |
-| Crucial Combo | 13.00% | ~2,221 |
+| Getting on the Step | 91.00% | ~15,555 |
+| On the Top Step | 82.00% | ~14,016 |
+| Setting up for Success | 69.00% | ~11,794 |
+| Team Orders | 67.00% | ~11,452 |
+| Engineer | 45.00% | ~7,692 |
+| Familiar Faces | 41.00% | ~7,008 |
+| Going the Extra Mile | 35.00% | ~5,983 |
+| Sharing the Love | 32.00% | ~5,470 |
+| Hitting a Season | 26.00% | ~4,444 |
+| A Dozen Pieces | 24.00% | ~4,102 |
+| Making History | 24.00% | ~4,102 |
+| Network Success | 23.00% | ~3,931 |
+| Challenge Yourself | 23.00% | ~3,931 |
+| Writing a new Chapter | 19.00% | ~3,248 |
+| Spring Cleaning | 18.00% | ~3,077 |
+| Reduce | 14.00% | ~2,393 |
+| Ups and Downs | 14.00% | ~2,393 |
+| Crucial Combo | 13.00% | ~2,222 |
 | Reuse | 12.00% | ~2,051 |
 | Proving Them Wrong | 12.00% | ~2,051 |
 | Gathering Dust | 11.00% | ~1,880 |
@@ -35,9 +35,9 @@ Rating: 4.65 (Ranked 320)
 | Hitting a Bullseye | 9.00% | ~1,538 |
 | Spinning Around | 9.00% | ~1,538 |
 | Lightning Round the World | 8.00% | ~1,367 |
-| Recycle | 7.00% | ~1,196 |
-| Undisputed Winner | 6.00% | ~1,025 |
-| Tinkerer | 6.00% | ~1,025 |
+| Recycle | 7.00% | ~1,197 |
+| Undisputed Winner | 6.00% | ~1,026 |
+| Tinkerer | 6.00% | ~1,026 |
 | For all Those Back at the Factory | 4.00% | ~684 |
 | Living up to Expectations | 4.00% | ~684 |
 | Smooth Operator | 4.00% | ~684 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 320)
 | Shot in the Dark | 0.10% | ~17 |
 | Elite Racer | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,088 (Ranked 165)  
+Progressed: 17,093 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 16,184 | 0 |
 | 2024-01-07 | 16,654 | 0 |
 | 2024-01-08 | 16,982 | 0 |
-| 2024-01-09 | 17,088 | 0 |
+| 2024-01-09 | 17,093 | 0 |
 ## Awards
 Max (Diverse Characters): 63  (Ranked 425)  
 Sum: 407 (Ranked 353)  

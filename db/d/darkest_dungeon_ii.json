@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10680,9 +10680,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132260,
+  "EOS_Progressed": 132262,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 979,
+  "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39060,6 +39060,11 @@
       "Time": "2024-01-09T13:26:17.3174665+00:00",
       "NumProgressed": 132260,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T14:09:43.6189651+00:00",
+      "NumProgressed": 132262,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39621,9 +39626,9 @@
       "ID": "combat_kill_lair_boss_the_boot",
       "SetID": "d3bcpc8",
       "Name": "These Boots Are Made For Kickin\u0027",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "combat_kill_warlord_crusader",
@@ -39663,7 +39668,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "quest_complete_crusader",
@@ -39702,21 +39707,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132260,
+      "Progressed": 132262,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7129,
+      "Progressed": 7131,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-09T04:58:52.2545208+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:26:17.3174661+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:09:43.6189647+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:15:08.9566059+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:26:17.3177224+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:58:36.6407127+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:09:43.6191734+00:00"
 }

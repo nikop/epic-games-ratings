@@ -6,30 +6,30 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,029 |
-| I'll Be Back | 84.00% | ~4,494 |
-| Sorry, I Dropped This | 76.00% | ~4,066 |
-| First Day on the Job | 76.00% | ~4,066 |
-| Butcher's Bill | 54.00% | ~2,889 |
+| On My Own Two Feet | 94.00% | ~5,030 |
+| I'll Be Back | 84.00% | ~4,495 |
+| Sorry, I Dropped This | 76.00% | ~4,067 |
+| First Day on the Job | 76.00% | ~4,067 |
+| Butcher's Bill | 54.00% | ~2,890 |
 | P.A.X | 36.00% | ~1,926 |
 | Hey Listen | 36.00% | ~1,926 |
-| OPERATOR | 35.00% | ~1,872 |
+| OPERATOR | 35.00% | ~1,873 |
 | It's Blue Light | 33.00% | ~1,766 |
 | Most Wanted | 26.00% | ~1,391 |
-| Infidel | 23.00% | ~1,230 |
+| Infidel | 23.00% | ~1,231 |
 | Firebug | 20.00% | ~1,070 |
 | GOLIATH | 20.00% | ~1,070 |
 | I Choose You | 17.00% | ~910 |
 | Nothing to Lose | 17.00% | ~910 |
-| Big Sister | 15.00% | ~802 |
-| SENTINEL | 15.00% | ~802 |
+| Big Sister | 15.00% | ~803 |
+| SENTINEL | 15.00% | ~803 |
 | Gear Up | 14.00% | ~749 |
 | The Black Cerberus | 12.00% | ~642 |
 | Watchman | 12.00% | ~642 |
 | Core Power | 12.00% | ~642 |
-| CREO Killed the Video Star | 11.00% | ~588 |
-| Who's in Charge Here? | 11.00% | ~588 |
-| Shall Not Pass | 11.00% | ~588 |
+| CREO Killed the Video Star | 11.00% | ~589 |
+| Who's in Charge Here? | 11.00% | ~589 |
+| Shall Not Pass | 11.00% | ~589 |
 | Right Tool for the Job | 10.00% | ~535 |
 | Raging Drones | 9.00% | ~482 |
 | Overconfident | 9.00% | ~482 |
@@ -50,10 +50,10 @@ Number of Ratings: 62  (23.09.2022)
 | 3-2-1 | 5.00% | ~268 |
 | Rusty Rat | 4.00% | ~214 |
 | Desecration | 4.00% | ~214 |
-| For the Good of Mankind | 3.00% | ~160 |
-| Turing Test | 3.00% | ~160 |
-| Repeat Customer | 3.00% | ~160 |
-| Evolution Theory | 3.00% | ~160 |
+| For the Good of Mankind | 3.00% | ~161 |
+| Turing Test | 3.00% | ~161 |
+| Repeat Customer | 3.00% | ~161 |
+| Evolution Theory | 3.00% | ~161 |
 | Ghost in the Machine | 2.00% | ~107 |
 | Homo Machinalis | 2.00% | ~107 |
 | Was That Yours? | 2.00% | ~107 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,350 (Ranked 203)  
+Progressed: 5,351 (Ranked 203)  
 Completed: 18 (0.34%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 18 (0.34%) (Ranked 245)
 | 2024-01-06 | 5,296 | 18 |
 | 2024-01-07 | 5,326 | 18 |
 | 2024-01-08 | 5,343 | 18 |
-| 2024-01-09 | 5,350 | 18 |
+| 2024-01-09 | 5,351 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 522)  
 Sum: 30 (Ranked 541)  

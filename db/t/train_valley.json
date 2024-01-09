@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -150,7 +150,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 650,
+  "EOS_Progressed": 651,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -1915,6 +1915,11 @@
       "Time": "2024-01-09T11:04:23.590813+00:00",
       "NumProgressed": 650,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T14:04:24.9823203+00:00",
+      "NumProgressed": 651,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1924,17 +1929,17 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 495
     },
     {
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 280
     },
     {
       "ID": "03_philatelist",
@@ -2014,7 +2019,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "13_bunkrupt",
@@ -2070,7 +2075,7 @@
       "Name": "Just in time!",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "20_sabotage",
@@ -2190,7 +2195,7 @@
       "Name": "Need to think",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "35_achtung",
@@ -2206,7 +2211,7 @@
       "Name": "Supercrash!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "37_maniacvandal",
@@ -2222,7 +2227,7 @@
       "Name": "Chuck Norris",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "39_salesman",
@@ -2230,22 +2235,22 @@
       "Name": "Salesman",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 650,
+      "Progressed": 651,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:21:01.9656669+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:04:24.9823199+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.7403389+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:16:48.5788351+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:21:01.9657031+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:00:19.0437722+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:04:24.9823537+00:00"
 }

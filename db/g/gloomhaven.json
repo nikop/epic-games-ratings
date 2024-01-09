@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2915,9 +2915,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 32373,
+  "EOS_Progressed": 32375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1812,
+  "EOS_NewPlayers": 1803,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16325,6 +16325,11 @@
       "Time": "2024-01-09T13:26:02.9793918+00:00",
       "NumProgressed": 32373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T14:09:28.6689202+00:00",
+      "NumProgressed": 32375,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -16369,7 +16374,7 @@
       "Name": "From Gloom, only greed and death emerges",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Achievement_Trophy06",
@@ -16409,7 +16414,7 @@
       "Name": "The Rat King",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Achievement_Trophy11",
@@ -16425,7 +16430,7 @@
       "Name": "How to train your Drake",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Achievement_Trophy13",
@@ -16537,7 +16542,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 10683
+      "UsersEstimate": 10684
     },
     {
       "ID": "Achievement_Trophy27",
@@ -16545,7 +16550,7 @@
       "Name": "Master Assassin",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Achievement_Trophy28",
@@ -16561,7 +16566,7 @@
       "Name": "The Sniper",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Achievement_Trophy30",
@@ -16577,7 +16582,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 9388
+      "UsersEstimate": 9389
     },
     {
       "ID": "Achievement_Trophy32",
@@ -16601,7 +16606,7 @@
       "Name": "Augmented rat",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3238
     },
     {
       "ID": "Achievement_Trophy35",
@@ -16673,7 +16678,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "Achievement_Trophy44",
@@ -16697,7 +16702,7 @@
       "Name": "Grin and bear it",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Achievement_Trophy47",
@@ -16713,7 +16718,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3238
     },
     {
       "ID": "Achievement_Trophy49",
@@ -16745,7 +16750,7 @@
       "Name": "MacReady Steady.. Go!",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Achievement_Trophy_JOTL_03",
@@ -16793,7 +16798,7 @@
       "Name": "An axe to grind",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Achievement_Trophy_JOTL_09",
@@ -16824,7 +16829,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 32373,
+      "Progressed": 32375,
       "Completed": 1
     }
   ],
@@ -16832,8 +16837,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-08T06:58:38.6013458+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:26:02.9793917+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:09:28.6689195+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:15.8559862+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:15:48.1980996+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:26:02.9794956+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:59:16.4887588+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:09:28.6690381+00:00"
 }

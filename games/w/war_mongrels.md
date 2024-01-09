@@ -29,7 +29,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter II | 22.00% | ~169 |
 | Broken Hopes | 21.00% | ~162 |
 | Bullseye! | 21.00% | ~162 |
-| Sorrow | 18.00% | ~139 |
+| Sorrow | 19.00% | ~146 |
 | Atonement | 17.00% | ~131 |
 | Food Massacre | 17.00% | ~131 |
 | Helping Hand | 16.00% | ~123 |

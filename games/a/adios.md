@@ -5,7 +5,7 @@ Rating: 3.51 (Ranked 1,095)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~18,286 |
+| Be Seeing You | 22.00% | ~18,287 |
 | Master, Commander | 21.00% | ~17,455 |
 | Hard Worker | 20.00% | ~16,624 |
 | Adios, Friendo | 19.00% | ~15,793 |
@@ -31,7 +31,7 @@ Rating: 3.51 (Ranked 1,095)
 | Audiophile | 2.00% | ~1,662 |
 | Tape Head | 2.00% | ~1,662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,120 (Ranked 108)  
+Progressed: 83,121 (Ranked 108)  
 Completed: 926 (1.11%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 926 (1.11%) (Ranked 168)
 | 2024-01-06 | 82,903 | 923 |
 | 2024-01-07 | 83,018 | 925 |
 | 2024-01-08 | 83,086 | 925 |
-| 2024-01-09 | 83,120 | 926 |
+| 2024-01-09 | 83,121 | 926 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

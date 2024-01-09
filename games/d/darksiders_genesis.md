@@ -6,11 +6,11 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mint I | 6.00% | ~33 |
+| Mint I | 6.00% | ~34 |
 | Soul Cache | 5.00% | ~28 |
+| Astarte | 2.00% | ~11 |
 | Close the Rift | 2.00% | ~11 |
 | Mammon | 2.00% | ~11 |
-| Astarte | 1.00% | ~6 |
 | Hell's Forge | 1.00% | ~6 |
 | Master of Strife | 1.00% | ~6 |
 | Master of War | 1.00% | ~6 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Ready to Blow | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 558 (Ranked 341)  
+Progressed: 560 (Ranked 340)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 471 | 0 |
 | 2024-01-07 | 514 | 0 |
 | 2024-01-08 | 545 | 0 |
-| 2024-01-09 | 558 | 0 |
+| 2024-01-09 | 560 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 472)  
 Sum: 45 (Ranked 518)  

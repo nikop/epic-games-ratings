@@ -5,10 +5,10 @@
   "Ranking_Rating": 635,
   "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 518,
-  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 560,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2000,6 +2000,11 @@
       "Time": "2024-01-09T13:26:24.3213496+00:00",
       "NumProgressed": 558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T14:09:50.6628152+00:00",
+      "NumProgressed": 560,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2026,9 +2031,9 @@
       "ID": "Astarte",
       "SetID": "329ak73",
       "Name": "Astarte",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     },
     {
       "ID": "Belial",
@@ -2148,7 +2153,7 @@
       "Name": "Mint I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "MintII",
@@ -2251,15 +2256,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 560,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:26:24.3213492+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:09:50.6628147+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:15:04.7479217+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:26:24.321394+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:58:33.0319951+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:09:50.6628653+00:00"
 }

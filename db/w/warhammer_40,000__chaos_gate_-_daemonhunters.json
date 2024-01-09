@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 474,
-  "Ranking_Popularity": 285,
+  "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -837,9 +837,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3853,
+  "EOS_Progressed": 3854,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5812,6 +5812,11 @@
       "Time": "2024-01-09T13:21:16.734122+00:00",
       "NumProgressed": 3853,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T14:04:39.9378015+00:00",
+      "NumProgressed": 3854,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5839,7 +5844,7 @@
       "Name": "Look Over There!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "BloodAndIron",
@@ -5991,7 +5996,7 @@
       "Name": "Not So Fast...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Kills_Bleed",
@@ -6071,7 +6076,7 @@
       "Name": "An Ill Omen",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6366,21 +6371,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3853,
+      "Progressed": 3854,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3853,
+      "Progressed": 3854,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-07T22:03:18.1525827+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:21:16.7341216+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:04:39.9378007+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:19:49.5223578+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:21:16.734193+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:03:08.236422+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:04:39.9378905+00:00"
 }

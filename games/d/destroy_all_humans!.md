@@ -26,8 +26,8 @@ Number of Ratings: 85  (23.09.2022)
 | Rock of the Bay | 28.00% | ~116 |
 | Furon Fashion | 28.00% | ~116 |
 | Trans-Siberian Express | 24.00% | ~100 |
+| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~83 |
 | Arkvoodle Doodle | 19.00% | ~79 |
-| Re-Return of the Clone of the Invasion II-2 | 19.00% | ~79 |
 | Ouch of Body Experience | 16.00% | ~66 |
 | If You Know What I Mean | 16.00% | ~66 |
 | Die Nasty | 16.00% | ~66 |

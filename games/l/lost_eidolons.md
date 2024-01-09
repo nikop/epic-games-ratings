@@ -5,14 +5,14 @@ Rating: 4.35 (Ranked 826)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 74.00% | ~828 |
-| First Blood | 70.00% | ~783 |
-| Ready to Learn | 67.00% | ~750 |
-| Monster Hunter | 57.00% | ~638 |
-| Earning Trust | 55.00% | ~615 |
-| Monster Slayer | 32.00% | ~358 |
+| The First Step | 74.00% | ~830 |
+| First Blood | 70.00% | ~785 |
+| Ready to Learn | 67.00% | ~751 |
+| Monster Hunter | 57.00% | ~639 |
+| Earning Trust | 54.00% | ~605 |
+| Monster Slayer | 31.00% | ~348 |
 | Awakening | 24.00% | ~269 |
-| Huntmaster | 23.00% | ~257 |
+| Huntmaster | 23.00% | ~258 |
 | Complete the sidequest 'Malice and Greed' | 19.00% | ~213 |
 | House Vulisica's Heirloom | 16.00% | ~179 |
 | Digging Deep | 15.00% | ~168 |
@@ -20,8 +20,8 @@ Rating: 4.35 (Ranked 826)
 | Way of the King | 8.00% | ~90 |
 | Til We Meet Again | 5.00% | ~56 |
 | Way of the Warlord | 4.00% | ~45 |
-| The Unvanquished | 3.00% | ~34 |
 | Arrow in the Wind | 3.00% | ~34 |
+| The Unvanquished | 2.00% | ~22 |
 | Let Us Cling Together | 2.00% | ~22 |
 | A Promised Voyage | 2.00% | ~22 |
 | Life or Death | 1.00% | ~11 |
@@ -29,7 +29,7 @@ Rating: 4.35 (Ranked 826)
 | First Bloom | 1.00% | ~11 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,119 (Ranked 285)  
+Progressed: 1,121 (Ranked 285)  
 Completed: 1 (0.09%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 1 (0.09%) (Ranked 316)
 | 2024-01-06 | 1,128 | 1 |
 | 2024-01-07 | 1,125 | 1 |
 | 2024-01-08 | 1,121 | 1 |
-| 2024-01-09 | 1,119 | 1 |
+| 2024-01-09 | 1,121 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

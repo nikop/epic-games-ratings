@@ -3875,9 +3875,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20540,
+  "EOS_Progressed": 20545,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19070,6 +19070,11 @@
       "Time": "2024-01-09T13:20:53.9400156+00:00",
       "NumProgressed": 20540,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-09T14:04:16.9926129+00:00",
+      "NumProgressed": 20545,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19170,7 +19175,7 @@
       "Name": "First Real Expedition",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "WinHard",
@@ -19178,7 +19183,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "WinImpossible",
@@ -19346,7 +19351,7 @@
       "Name": "Coral Forest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "WinOnCursed",
@@ -19370,7 +19375,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "WinPrestige10",
@@ -19418,7 +19423,7 @@
       "Name": "Taking Action",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "WinWithResolve",
@@ -19458,7 +19463,7 @@
       "Name": "No Deaths",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "WinWithoutOrders",
@@ -19482,7 +19487,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "WinNearFrosts",
@@ -19514,7 +19519,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "WinNearPresence",
@@ -19522,7 +19527,7 @@
       "Name": "Ominous Presence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "WinNearStorms",
@@ -19530,7 +19535,7 @@
       "Name": "Gathering Storm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -19553,15 +19558,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20540,
+      "Progressed": 20545,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-09T13:14:32.6779074+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:20:53.9400153+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:04:16.9926126+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:14:32.6779078+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:20:53.9401293+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:58:01.8986676+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:04:16.9927044+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 858,
+  "Ranking_Rating": 866,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 146,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "NumberOfRatings": 76,
   "RatingHistory": [
     {
@@ -353,15 +353,21 @@
       "Rating": 4.32,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-09T13:57:36.5131843+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24976,
+  "EOS_Progressed": 24977,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -22609,6 +22615,11 @@
       "Time": "2024-01-09T12:05:34.9955211+00:00",
       "NumProgressed": 24976,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-09T14:05:21.6605694+00:00",
+      "NumProgressed": 24977,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -22620,7 +22631,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "Burning_For_You",
@@ -22684,7 +22695,7 @@
       "Name": "I Am The Storm",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3746
+      "UsersEstimate": 3747
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -22747,15 +22758,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24976,
+      "Progressed": 24977,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
-  "LastChanged": "2024-01-06T06:00:08.5224706+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:21:56.7307083+00:00",
+  "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:05:21.6605689+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.4692455+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:14:08.9770369+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:21:56.7308843+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:57:36.5131849+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:05:21.6607122+00:00"
 }

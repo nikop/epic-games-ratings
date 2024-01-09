@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5165,9 +5165,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82229,
+  "EOS_Progressed": 82231,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 1219,
+  "EOS_NewPlayers": 1215,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29545,6 +29545,11 @@
       "Time": "2024-01-09T13:21:13.4907937+00:00",
       "NumProgressed": 82229,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2024-01-09T14:04:36.5251474+00:00",
+      "NumProgressed": 82231,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 61,
@@ -29604,7 +29609,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18090
+      "UsersEstimate": 18091
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -29636,7 +29641,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9867
+      "UsersEstimate": 9868
     },
     {
       "ID": "APPLY_STATUS",
@@ -29644,7 +29649,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12334
+      "UsersEstimate": 12335
     },
     {
       "ID": "CHALLENGES_1",
@@ -29708,7 +29713,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4111
+      "UsersEstimate": 4112
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -29716,7 +29721,7 @@
       "Name": "Not On My Watch",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 9867
+      "UsersEstimate": 9868
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -29732,7 +29737,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9867
+      "UsersEstimate": 9868
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -29860,7 +29865,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 27958
+      "UsersEstimate": 27959
     },
     {
       "ID": "HARLEY_2",
@@ -29884,7 +29889,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12334
+      "UsersEstimate": 12335
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -29900,7 +29905,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41114
+      "UsersEstimate": 41116
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -29964,7 +29969,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18090
+      "UsersEstimate": 18091
     },
     {
       "ID": "MYSTERY_04",
@@ -30004,7 +30009,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9867
+      "UsersEstimate": 9868
     },
     {
       "ID": "SECRET_CACHE",
@@ -30043,13 +30048,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82229,
+      "Progressed": 82231,
       "Completed": 132
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52509,
+      "Progressed": 52511,
       "Completed": 2679
     }
   ],
@@ -30057,8 +30062,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-09T05:58:56.6285292+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:21:13.4907933+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:04:36.5251471+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:15:45.670044+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:21:13.490973+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:59:13.6827592+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:04:36.5253212+00:00"
 }

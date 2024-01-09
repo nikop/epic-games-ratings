@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -605,10 +605,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 68,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-01-09T14:02:53.1133518+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 68,
+  "NumberOfAwards": 69,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -622,12 +628,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 21
+      "Count": 22
     }
   ],
-  "EOS_Progressed": 46872,
+  "EOS_Progressed": 46876,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 779,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18220,6 +18226,11 @@
       "Time": "2024-01-09T13:21:47.0580129+00:00",
       "NumProgressed": 46872,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T14:05:11.3809622+00:00",
+      "NumProgressed": 46876,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18279,7 +18290,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6093
+      "UsersEstimate": 6094
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18303,7 +18314,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -18311,7 +18322,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -18319,7 +18330,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -18327,7 +18338,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -18375,7 +18386,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "CRAFT_FIRST",
@@ -18383,7 +18394,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18391,7 +18402,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -18431,7 +18442,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -18447,7 +18458,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -18479,7 +18490,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -18503,7 +18514,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "MONUMENT_ALL",
@@ -18654,22 +18665,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46872,
+      "Progressed": 46876,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11709,
-      "Completed": 11709
+      "Progressed": 11713,
+      "Completed": 11713
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-01-08T14:02:52.9019141+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:21:47.0580126+00:00",
+  "LastChanged": "2024-01-09T14:02:53.1133514+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:05:11.3809618+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:19:34.2185402+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:21:47.0581371+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:02:53.1133521+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:05:11.3810816+00:00"
 }

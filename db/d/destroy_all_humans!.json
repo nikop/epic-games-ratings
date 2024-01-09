@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -1916,9 +1916,9 @@
       "ID": "ACH_INVADE_AREA42",
       "SetID": "cefn62b",
       "Name": "Re-Return of the Clone of the Invasion II-2",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_INVADE_CAPITOL",
@@ -2028,8 +2028,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:20:16.8929035+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:03:38.9070393+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:17:06.5709695+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:20:16.8929364+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:00:36.769315+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:03:38.9070781+00:00"
 }

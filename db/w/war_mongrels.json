@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -3073,9 +3073,9 @@
       "ID": "ACH_FIN_CH11",
       "SetID": "1j25agn",
       "Name": "Sorrow",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -3249,8 +3249,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:26:37.3587572+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:10:03.7512568+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:07.8864884+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:16:15.0909422+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:26:37.3588247+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:59:44.3867739+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:10:03.7513468+00:00"
 }

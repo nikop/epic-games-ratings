@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 1.00% | ~163 |
 | Keystone | 1.00% | ~163 |
 | Learned | 1.00% | ~163 |
+| Magnificent | 1.00% | ~163 |
 | Mason | 1.00% | ~163 |
 | Noble | 1.00% | ~163 |
 | Pioneer | 1.00% | ~163 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~163 |
 | Trade Caravan | 1.00% | ~163 |
 | Brilliant | 0.90% | ~147 |
-| Magnificent | 0.90% | ~147 |
 | Great Ziggurat | 0.90% | ~147 |
 | Ishtar Gate | 0.90% | ~147 |
 | Lighthouse | 0.90% | ~147 |
@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
 | Carthage | 0.30% | ~49 |
+| Rome | 0.30% | ~49 |
 | Assyrian Paganism | 0.30% | ~49 |
 | Industrial Progress | 0.30% | ~49 |
 | Dualism | 0.30% | ~49 |
@@ -124,6 +125,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.30% | ~49 |
 | Phalangite | 0.30% | ~49 |
 | Turreted Elephant | 0.30% | ~49 |
+| All Nations | 0.30% | ~49 |
 | Ambition Victory | 0.30% | ~49 |
 | The Clergy | 0.30% | ~49 |
 | Kushite Pyramids | 0.30% | ~49 |
@@ -136,12 +138,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
 | Egypt | 0.20% | ~33 |
-| Rome | 0.20% | ~33 |
 | One True Faith | 0.20% | ~33 |
+| Pantheon of Gods | 0.20% | ~33 |
 | Hittite Paganism | 0.20% | ~33 |
 | Cataphract Archer | 0.20% | ~33 |
 | Siege Tower | 0.20% | ~33 |
-| All Nations | 0.20% | ~33 |
 | No Undo | 0.20% | ~33 |
 | Deposed Tribe | 0.20% | ~33 |
 | Poetic Leader | 0.20% | ~33 |
@@ -235,7 +236,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.10% | ~16 |
 | Persia | 0.10% | ~16 |
 | Old World Order | 0.10% | ~16 |
-| Pantheon of Gods | 0.10% | ~16 |
 | Apadana in Parsa | 0.10% | ~16 |
 | Play a 1-v-1 Game | 0.10% | ~16 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,284 (Ranked 169)  
+Progressed: 16,286 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,11 +629,11 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,284 | 5 |
+| 2024-01-09 | 16,286 | 5 |
 ## Awards
-Max (Relaxing): 229  (Ranked 286)  
+Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,918 (Ranked 223)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 229 |

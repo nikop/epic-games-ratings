@@ -8,9 +8,9 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | Executioner | 20.00% | ~771 |
 | Watch Where You Step... | 15.00% | ~578 |
-| Look Over There! | 14.00% | ~539 |
-| Not So Fast... | 14.00% | ~539 |
-| An Ill Omen | 14.00% | ~539 |
+| Look Over There! | 14.00% | ~540 |
+| Not So Fast... | 14.00% | ~540 |
+| An Ill Omen | 14.00% | ~540 |
 | Purging Spree | 10.00% | ~385 |
 | Blood for the Blood God! | 9.00% | ~347 |
 | Bloodless | 7.00% | ~270 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,853 (Ranked 217)  
+Progressed: 3,854 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,11 +308,11 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 3,811 | 0 |
 | 2024-01-07 | 3,834 | 0 |
 | 2024-01-08 | 3,845 | 0 |
-| 2024-01-09 | 3,853 | 0 |
+| 2024-01-09 | 3,854 | 0 |
 ## Awards
-Max (Character Customization): 233  (Ranked 285)  
+Max (Character Customization): 233  (Ranked 286)  
 Sum: 500 (Ranked 335)  
-Diff (max vs sum): -50  
+Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 233 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -961,9 +961,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667118,
+  "EOS_Progressed": 667121,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -26136,6 +26136,11 @@
       "Time": "2024-01-09T13:25:55.8784019+00:00",
       "NumProgressed": 667118,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-09T14:09:21.5839375+00:00",
+      "NumProgressed": 667121,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -26147,7 +26152,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480325
+      "UsersEstimate": 480327
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -26155,7 +26160,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386928
+      "UsersEstimate": 386930
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -26163,7 +26168,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153437
+      "UsersEstimate": 153438
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -26187,7 +26192,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 53369
+      "UsersEstimate": 53370
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -26283,7 +26288,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153437
+      "UsersEstimate": 153438
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -26299,7 +26304,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113410
+      "UsersEstimate": 113411
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -26315,7 +26320,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53369
+      "UsersEstimate": 53370
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -26371,7 +26376,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 53369
+      "UsersEstimate": 53370
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -26387,7 +26392,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 80054
+      "UsersEstimate": 80055
     },
     {
       "ID": "Achievement_32_Karma",
@@ -26443,7 +26448,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53369
+      "UsersEstimate": 53370
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -26530,15 +26535,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667118,
+      "Progressed": 667121,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-08T13:05:28.7282698+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:25:55.8784016+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:09:21.5839372+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.9289695+00:00",
-  "LastUpdate_Ratings": "2024-01-09T12:02:54.2555595+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:25:55.8785196+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:57:04.8694386+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:09:21.5840837+00:00"
 }

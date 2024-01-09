@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -4465,9 +4465,9 @@
       "ID": "Achievement_027",
       "SetID": "6b34g18",
       "Name": "Peek-a-boo",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 279
     },
     {
       "ID": "Achievement_028",
@@ -4802,8 +4802,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-09T13:22:20.7704211+00:00",
+  "LastChanged_Achievements": "2024-01-09T14:05:46.6410137+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:16:29.9555638+00:00",
-  "LastUpdate_Achievements": "2024-01-09T13:22:20.7704999+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:00:00.5096459+00:00",
+  "LastUpdate_Achievements": "2024-01-09T14:05:46.6410878+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.46 (Ranked 675)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 49.00% | ~1,704 |
-| First Love | 45.00% | ~1,565 |
-| Clean Race | 44.00% | ~1,530 |
+| Eat My Dust | 49.00% | ~1,705 |
+| First Love | 45.00% | ~1,566 |
+| Clean Race | 44.00% | ~1,531 |
 | Hear That Roar! | 42.00% | ~1,461 |
 | Bitter Rivalry | 31.00% | ~1,078 |
 | Rivals to the End | 31.00% | ~1,078 |
 | Champagne Spray | 29.00% | ~1,009 |
-| We're Going to Need a Bigger Garage | 26.00% | ~904 |
+| We're Going to Need a Bigger Garage | 27.00% | ~939 |
 | Quick Pit Stop | 22.00% | ~765 |
-| I Want One Too! | 21.00% | ~730 |
+| I Want One Too! | 21.00% | ~731 |
 | Restored and Ready | 20.00% | ~696 |
 | Legendary!!! | 20.00% | ~696 |
 | Go-Faster Stripes | 17.00% | ~591 |
@@ -22,7 +22,7 @@ Rating: 4.46 (Ranked 675)
 | We've Just Begun | 14.00% | ~487 |
 | Is It the Right Size? | 9.00% | ~313 |
 | Stamina Star | 8.00% | ~278 |
-| Evangelist | 7.00% | ~243 |
+| Evangelist | 7.00% | ~244 |
 | Make It Your Own! | 5.00% | ~174 |
 | Cherry Blossom and Temples | 4.00% | ~139 |
 | The Road to Liberty | 4.00% | ~139 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 675)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,478 (Ranked 223)  
+Progressed: 3,479 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 3,370 | 0 |
 | 2024-01-07 | 3,427 | 0 |
 | 2024-01-08 | 3,463 | 0 |
-| 2024-01-09 | 3,478 | 0 |
+| 2024-01-09 | 3,479 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

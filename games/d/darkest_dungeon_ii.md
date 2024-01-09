@@ -25,7 +25,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 5.00% | ~6,613 |
 | To Grandmother's House | 5.00% | ~6,613 |
 | FNG | 5.00% | ~6,613 |
-| Bloody Graduation | 5.00% | ~356 |
+| Bloody Graduation | 5.00% | ~357 |
 | Spelunker | 4.00% | ~5,290 |
 | Merry Time | 4.00% | ~5,290 |
 | Harvest Festival | 4.00% | ~5,290 |
@@ -79,14 +79,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Maître De La Lame | 0.30% | ~21 |
 | Circle of Life | 0.20% | ~265 |
 | Grand Slam | 0.20% | ~265 |
+| These Boots Are Made For Kickin' | 0.20% | ~14 |
 | Loop Year | 0.10% | ~132 |
 | No Gravestone Left Unturned | 0.10% | ~132 |
 | 20,000 Leagues Above the Sea | 0.10% | ~132 |
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
-| These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,260 (Ranked 91)  
+Progressed: 132,262 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,260 | 3 |
+| 2024-01-09 | 132,262 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,553 (Ranked 58)  
