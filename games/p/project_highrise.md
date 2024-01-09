@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~279 |
+| In the Black | 55.00% | ~280 |
 | Starting Skyward | 49.00% | ~249 |
-| Grime is Not Good | 42.00% | ~213 |
+| Grime is Not Good | 42.00% | ~214 |
 | Floor Galore | 36.00% | ~183 |
 | Campaign Launch | 36.00% | ~183 |
 | Dinner Dash | 36.00% | ~183 |
 | Need a Consult | 34.00% | ~173 |
 | Upgrade Unlock | 33.00% | ~168 |
 | It's Technical | 33.00% | ~168 |
-| Proper Walls | 29.00% | ~147 |
-| Delegate Maintenance | 29.00% | ~147 |
-| Destination Destiny | 28.00% | ~142 |
+| Proper Walls | 29.00% | ~148 |
+| Delegate Maintenance | 29.00% | ~148 |
+| Destination Destiny | 28.00% | ~143 |
 | Happy Tenants | 23.00% | ~117 |
 | Potent Potables | 23.00% | ~117 |
 | Smooth Service | 22.00% | ~112 |
 | Your Prestige is Rising | 21.00% | ~107 |
 | Retail Revenue | 21.00% | ~107 |
 | Don't Feel a Loan | 20.00% | ~102 |
-| People Mover | 19.00% | ~97 |
-| Artfully Done | 18.00% | ~91 |
-| Leveled Up Shops | 18.00% | ~91 |
-| We Don't Need No Education | 18.00% | ~91 |
-| Lux Living | 17.00% | ~86 |
-| Tasty Profits | 17.00% | ~86 |
-| Emporium Empire | 17.00% | ~86 |
-| Get Electrified | 17.00% | ~86 |
+| Artfully Done | 18.00% | ~92 |
+| People Mover | 18.00% | ~92 |
+| We Don't Need No Education | 18.00% | ~92 |
+| Lux Living | 17.00% | ~87 |
+| Tasty Profits | 17.00% | ~87 |
+| Emporium Empire | 17.00% | ~87 |
+| Leveled Up Shops | 17.00% | ~87 |
+| Get Electrified | 17.00% | ~87 |
 | Rehab Expert | 16.00% | ~81 |
 | Established Fame | 15.00% | ~76 |
 | Under One Roof | 13.00% | ~66 |
@@ -47,11 +47,11 @@
 | First 100 Days | 7.00% | ~36 |
 | Master of Puppets | 7.00% | ~36 |
 | Phoning It In | 7.00% | ~36 |
-| Water Features | 6.00% | ~30 |
-| Meet Me at HQ | 6.00% | ~30 |
-| Revenue Royalty | 6.00% | ~30 |
-| Golden Opportunity | 6.00% | ~30 |
-| Pipe Up | 6.00% | ~30 |
+| Water Features | 6.00% | ~31 |
+| Meet Me at HQ | 6.00% | ~31 |
+| Revenue Royalty | 6.00% | ~31 |
+| Golden Opportunity | 6.00% | ~31 |
+| Pipe Up | 6.00% | ~31 |
 | Meet ADA/360 | 5.00% | ~25 |
 | I'm Busy Ruling | 5.00% | ~25 |
 | Careful Constructor | 5.00% | ~25 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 508 (Ranked 350)  
+Progressed: 509 (Ranked 350)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 497 | 0 |
 | 2024-01-07 | 502 | 0 |
 | 2024-01-08 | 505 | 0 |
-| 2024-01-09 | 508 | 0 |
+| 2024-01-09 | 509 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

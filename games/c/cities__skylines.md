@@ -6,41 +6,41 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~893,641 |
-| Green Energy | 59.00% | ~742,603 |
-| Foggy Weather | 58.00% | ~730,016 |
-| Singing In The- | 58.00% | ~730,016 |
-| Unpopular Mayor | 40.00% | ~503,460 |
-| Power at Your Fingertips | 33.00% | ~415,354 |
-| City Planner | 22.00% | ~276,903 |
-| Rolling in Dough | 20.00% | ~251,730 |
-| Does My Bum Look Big In This? | 17.00% | ~213,970 |
-| Climbing the Social Ladder | 16.00% | ~201,384 |
-| Safe City | 13.00% | ~163,624 |
-| Quay-King | 11.00% | ~138,451 |
-| With Canals You Can! | 10.00% | ~125,865 |
-| Lawmaker | 9.00% | ~113,278 |
-| Nomen Est Omen | 7.00% | ~88,105 |
-| Well Informed | 6.00% | ~75,519 |
-| Fire Watch | 5.00% | ~62,932 |
-| Greenest City | 4.00% | ~50,346 |
-| Heavenly City | 3.00% | ~37,759 |
-| Reporting! | 3.00% | ~37,759 |
-| SIMulated City | 3.00% | ~37,759 |
-| The Safest Town | 3.00% | ~37,759 |
-| Professional Dumper | 2.00% | ~25,173 |
-| City in Motion | 1.00% | ~12,586 |
-| Earthloving City | 1.00% | ~12,586 |
-| Metropolis | 1.00% | ~12,586 |
-| Higher Education | 0.80% | ~10,069 |
+| Pioneer | 71.00% | ~893,698 |
+| Green Energy | 59.00% | ~742,650 |
+| Foggy Weather | 58.00% | ~730,063 |
+| Singing In The- | 58.00% | ~730,063 |
+| Unpopular Mayor | 40.00% | ~503,492 |
+| Power at Your Fingertips | 33.00% | ~415,381 |
+| City Planner | 22.00% | ~276,920 |
+| Rolling in Dough | 20.00% | ~251,746 |
+| Does My Bum Look Big In This? | 17.00% | ~213,984 |
+| Climbing the Social Ladder | 16.00% | ~201,397 |
+| Safe City | 13.00% | ~163,635 |
+| Quay-King | 11.00% | ~138,460 |
+| With Canals You Can! | 10.00% | ~125,873 |
+| Lawmaker | 9.00% | ~113,286 |
+| Nomen Est Omen | 7.00% | ~88,111 |
+| Well Informed | 6.00% | ~75,524 |
+| Fire Watch | 5.00% | ~62,936 |
+| Greenest City | 4.00% | ~50,349 |
+| Heavenly City | 3.00% | ~37,762 |
+| Reporting! | 3.00% | ~37,762 |
+| SIMulated City | 3.00% | ~37,762 |
+| The Safest Town | 3.00% | ~37,762 |
+| Professional Dumper | 2.00% | ~25,175 |
+| City in Motion | 1.00% | ~12,587 |
+| Earthloving City | 1.00% | ~12,587 |
+| Metropolis | 1.00% | ~12,587 |
+| Higher Education | 0.80% | ~10,070 |
 | Beam Me Up | 0.70% | ~8,811 |
 | Terraformer | 0.60% | ~7,552 |
-| Decorator | 0.50% | ~6,293 |
-| Full Capacity | 0.50% | ~6,293 |
-| It's heading right for us! | 0.50% | ~6,293 |
-| Shake It Up! | 0.50% | ~6,293 |
-| The Waters of Our Lives | 0.50% | ~6,293 |
-| Twist and shout | 0.50% | ~6,293 |
+| Decorator | 0.50% | ~6,294 |
+| Full Capacity | 0.50% | ~6,294 |
+| It's heading right for us! | 0.50% | ~6,294 |
+| Shake It Up! | 0.50% | ~6,294 |
+| The Waters of Our Lives | 0.50% | ~6,294 |
+| Twist and shout | 0.50% | ~6,294 |
 | Airfield Expertise | 0.40% | ~5,035 |
 | Drop the Base | 0.40% | ~5,035 |
 | Get Your Snowshoes Ready! | 0.40% | ~5,035 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,259 |
 | Z00 | 0.10% | ~1,259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,258,649 (Ranked 12)  
+Progressed: 1,258,729 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,15 +390,15 @@ Completed: 11 (0.00%) (Ranked 394)
 | 2024-01-06 | 1,254,483 | 11 |
 | 2024-01-07 | 1,256,109 | 11 |
 | 2024-01-08 | 1,257,411 | 11 |
-| 2024-01-09 | 1,258,649 | 11 |
+| 2024-01-09 | 1,258,729 | 11 |
 ## Awards
 Max (Great for Beginners): 6,676  (Ranked 61)  
-Sum: 49,089 (Ranked 32)  
+Sum: 49,100 (Ranked 32)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 6,676 |
-| This game is Relaxing | 6,476 |
+| This game is Relaxing | 6,487 |
 | This game is Educational | 6,184 |
 | This game has Quickly Understood Controls | 6,012 |
 | This game is Extremely Fun | 5,616 |
@@ -758,4 +758,4 @@ Diff (max vs sum): 29
 | 2024-01-06 | 4.66 | - | 6,649 | 48,953 |
 | 2024-01-07 | 4.66 | - | 6,662 | 49,005 |
 | 2024-01-08 | 4.66 | - | 6,672 | 49,061 |
-| 2024-01-09 | 4.66 | - | 6,676 | 49,089 |
+| 2024-01-09 | 4.66 | - | 6,676 | 49,100 |

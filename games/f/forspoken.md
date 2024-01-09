@@ -6,10 +6,10 @@ Rating: 4.16 (Ranked 990)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 13.00% | ~6,099 |
-| Unlocked Potential | 11.00% | ~5,160 |
-| Tinkerer | 9.00% | ~4,222 |
-| Knock 'Em Dead | 8.00% | ~3,753 |
-| Pilgrimage: Initiate | 8.00% | ~3,753 |
+| Unlocked Potential | 11.00% | ~5,161 |
+| Tinkerer | 9.00% | ~4,223 |
+| Knock 'Em Dead | 8.00% | ~3,754 |
+| Pilgrimage: Initiate | 8.00% | ~3,754 |
 | Leapfrogger | 7.00% | ~3,284 |
 | Hell of a Run | 7.00% | ~3,284 |
 | Call of the Fount: Baptized | 7.00% | ~3,284 |
@@ -19,9 +19,9 @@ Rating: 4.16 (Ranked 990)
 | Stuck | 5.00% | ~2,346 |
 | Help Me Out Here | 5.00% | ~2,346 |
 | The Interloper | 4.00% | ~1,877 |
-| Outdoorsperson | 3.00% | ~1,407 |
-| Hop, Step, Jump | 3.00% | ~1,407 |
-| Endless Runner | 3.00% | ~1,407 |
+| Outdoorsperson | 3.00% | ~1,408 |
+| Hop, Step, Jump | 3.00% | ~1,408 |
+| Endless Runner | 3.00% | ~1,408 |
 | What Must Be Done | 2.00% | ~938 |
 | Might and Main | 2.00% | ~938 |
 | Damned If You Do... | 2.00% | ~938 |
@@ -37,7 +37,7 @@ Rating: 4.16 (Ranked 990)
 | Wildfire | 0.80% | ~375 |
 | Awakening | 0.70% | ~328 |
 | Realized Potential | 0.70% | ~328 |
-| Explorer: Trailblazer | 0.60% | ~281 |
+| Explorer: Trailblazer | 0.60% | ~282 |
 | Through the Eyes of Another: Seer | 0.50% | ~235 |
 | Craftsperson | 0.40% | ~188 |
 | Archivist | 0.30% | ~141 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 990)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,913 (Ranked 126)  
+Progressed: 46,919 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,11 +323,11 @@ Completed: 4 (0.01%) (Ranked 372)
 | 2024-01-06 | 46,610 | 4 |
 | 2024-01-07 | 46,730 | 4 |
 | 2024-01-08 | 46,825 | 4 |
-| 2024-01-09 | 46,913 | 4 |
+| 2024-01-09 | 46,919 | 4 |
 ## Awards
 Max (Character Customization): 47  (Ranked 465)  
-Sum: 69 (Ranked 491)  
-Diff (max vs sum): -26  
+Sum: 69 (Ranked 492)  
+Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 47 |

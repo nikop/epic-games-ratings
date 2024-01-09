@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -381,7 +381,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2328,
+  "EOS_Progressed": 2330,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -4276,6 +4276,11 @@
       "Time": "2024-01-09T20:05:35.3820973+00:00",
       "NumProgressed": 2328,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T21:05:48.7279264+00:00",
+      "NumProgressed": 2330,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4303,7 +4308,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "Achievement_004",
@@ -4335,7 +4340,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Achievement_009",
@@ -4343,7 +4348,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Achievement_010",
@@ -4487,7 +4492,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Achievement_028",
@@ -4543,7 +4548,7 @@
       "Name": "Catch and Release",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "Achievement_035",
@@ -4814,7 +4819,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2328,
+      "Progressed": 2330,
       "Completed": 0
     }
   ],
@@ -4822,8 +4827,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:05:35.3820966+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:05:48.7279261+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:00:01.9869848+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:05:35.382171+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:00:02.9386736+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:05:48.7279967+00:00"
 }

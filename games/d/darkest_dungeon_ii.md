@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~932 |
-| Lost and Found | 8.00% | ~573 |
+| Malpractice Assurance | 13.00% | ~933 |
+| Lost and Found | 8.00% | ~574 |
 | Autodidact | 7.00% | ~9,261 |
 | This guy... again? | 7.00% | ~502 |
 | This Belongs in a Museum | 6.00% | ~7,938 |
@@ -26,7 +26,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,615 |
 | A Place to Lay Your Head | 5.00% | ~6,615 |
 | FNG | 5.00% | ~6,615 |
-| Bloody Graduation | 5.00% | ~358 |
+| Bloody Graduation | 5.00% | ~359 |
 | Spelunker | 4.00% | ~5,292 |
 | Merry Time | 4.00% | ~5,292 |
 | Harvest Festival | 4.00% | ~5,292 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The World As It Was | 0.70% | ~926 |
 | A Life Well Lived | 0.60% | ~794 |
 | Bacon Bits | 0.60% | ~794 |
-| Eidetic | 0.50% | ~661 |
+| Eidetic | 0.50% | ~662 |
 | On This Long Road, We Found Redemption | 0.50% | ~36 |
 | Battle Hardened | 0.40% | ~29 |
 | Tears in the Rain | 0.30% | ~397 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,298 (Ranked 91)  
+Progressed: 132,306 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,298 | 3 |
+| 2024-01-09 | 132,306 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,559 (Ranked 58)  

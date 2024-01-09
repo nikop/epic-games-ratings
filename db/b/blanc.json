@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4038,
+  "EOS_Progressed": 4041,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6881,6 +6881,11 @@
       "Time": "2024-01-09T20:05:34.7439871+00:00",
       "NumProgressed": 4038,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-09T21:05:48.0528131+00:00",
+      "NumProgressed": 4041,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6916,7 +6921,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "MOVE_ON",
@@ -6988,14 +6993,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4038,
+      "Progressed": 4041,
       "Completed": 6
     }
   ],
@@ -7003,8 +7008,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:05:34.7439864+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:05:48.0528128+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:08.6041157+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:58:58.68652+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:05:34.7440325+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:59:01.4264075+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:05:48.052855+00:00"
 }

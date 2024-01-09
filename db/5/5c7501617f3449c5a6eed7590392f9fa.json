@@ -2,10 +2,10 @@
   "ID": "5c7501617f3449c5a6eed7590392f9fa",
   "Name": "Botanicula",
   "ProductSlug": "botanicula-50043d",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 261,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -1370,9 +1370,9 @@
       "ID": "Ach-05-burak",
       "SetID": "2pjo9pi",
       "Name": "Burak",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach-05-chameleon",
@@ -1426,9 +1426,9 @@
       "ID": "Ach-05-krotitel",
       "SetID": "2pjo9pi",
       "Name": "Krotitel",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach-05-loutky",
@@ -1545,8 +1545,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:08:41.0864607+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:09:11.9862436+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.3833834+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:00:14.6917831+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:08:41.0865005+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:00:16.0123456+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:09:11.9862876+00:00"
 }

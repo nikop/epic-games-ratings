@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14155,10 +14155,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64144,
       "NumberOfAwardsMax": 7780
+    },
+    {
+      "Time": "2024-01-09T20:57:03.9412615+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64168,
+      "NumberOfAwardsMax": 7780
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64144,
+  "NumberOfAwards": 64168,
   "NumberOfAwardsMax": 7780,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14172,7 +14178,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7395
+      "Count": 7407
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14214,7 +14220,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6480
+      "Count": 6492
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14229,9 +14235,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 495783,
+  "EOS_Progressed": 495810,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5252,
+  "EOS_NewPlayers": 5242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44724,6 +44730,11 @@
       "Time": "2024-01-09T20:09:41.6060228+00:00",
       "NumProgressed": 495783,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T21:10:11.9987146+00:00",
+      "NumProgressed": 495810,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -47638,21 +47649,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 495783,
+      "Progressed": 495810,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 495783,
+      "Progressed": 495810,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-09T19:57:01.3814212+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:41.6060223+00:00",
+  "LastChanged": "2024-01-09T20:57:03.9412614+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:10:11.9987143+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:01.3814218+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:41.6071432+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:03.9412619+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:10:11.9998344+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 88.00% | ~65 |
-| Suicide squad | 46.00% | ~34 |
+| First success | 87.00% | ~65 |
+| Suicide squad | 45.00% | ~34 |
 | Train hard, fight easy | 28.00% | ~21 |
 | Under cover | 28.00% | ~21 |
 | First blood | 28.00% | ~21 |
@@ -19,8 +19,8 @@
 | Surpass the teacher | 15.00% | ~11 |
 | Rage | 15.00% | ~11 |
 | She-Wolf | 15.00% | ~11 |
-| Vene, vidi, vici | 14.00% | ~10 |
-| Trial by cold | 14.00% | ~10 |
+| Vene, vidi, vici | 13.00% | ~10 |
+| Trial by cold | 13.00% | ~10 |
 | Berkanan Borgia | 12.00% | ~9 |
 | For the greater good | 9.00% | ~7 |
 | Overplay the rogue | 8.00% | ~6 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74 (Ranked 522)  
+Progressed: 75 (Ranked 522)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 68 | 0 |
 | 2024-01-07 | 72 | 0 |
 | 2024-01-08 | 73 | 0 |
-| 2024-01-09 | 74 | 0 |
+| 2024-01-09 | 75 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

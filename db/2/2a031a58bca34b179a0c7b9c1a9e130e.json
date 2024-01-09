@@ -2,10 +2,10 @@
   "ID": "2a031a58bca34b179a0c7b9c1a9e130e",
   "Name": "Elden Gunfire",
   "ProductSlug": "elden-gunfire-4f9197",
-  "Ranking_EOS_Progress": 822,
+  "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-07T23:56:51.6182822+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:04.1936565+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:05:41.0726635+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:06.8211786+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:05:54.4519117+00:00"
 }

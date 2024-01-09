@@ -84,6 +84,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sentimental Value | 0.30% | ~728 |
 | Precious | 0.30% | ~728 |
 | Raw Power | 0.30% | ~13 |
+| Quick Descent | 0.20% | ~485 |
 | A Week Attempt | 0.20% | ~485 |
 | A Long Climb | 0.20% | ~485 |
 | Hydrophobe | 0.20% | ~485 |
@@ -105,7 +106,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Diviner | 0.20% | ~8 |
 | Soul Kin | 0.20% | ~8 |
 | Nuclear | 0.20% | ~8 |
-| Quick Descent | 0.10% | ~243 |
 | Disposal | 0.10% | ~243 |
 | Hanging On | 0.10% | ~243 |
 | A Hard Carry | 0.10% | ~243 |

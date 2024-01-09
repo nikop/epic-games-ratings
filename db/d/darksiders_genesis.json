@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2035,6 +2035,11 @@
       "Time": "2024-01-09T20:09:27.0429648+00:00",
       "NumProgressed": 567,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T21:09:57.3307455+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2109,9 +2114,9 @@
       "ID": "DemolitionDerby",
       "SetID": "329ak73",
       "Name": "Demolition Derby",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FullofHell",
@@ -2125,9 +2130,9 @@
       "ID": "Gatekeeper",
       "SetID": "329ak73",
       "Name": "Gatekeeper",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GoodDeeds",
@@ -2213,9 +2218,9 @@
       "ID": "ReadytoBlow",
       "SetID": "329ak73",
       "Name": "Ready to Blow",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RespectforAnimals",
@@ -2286,15 +2291,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 569,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:27.0429644+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:09:57.3307451+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:58:33.6091191+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:27.0429934+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:58:36.5214747+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:09:57.3307771+00:00"
 }

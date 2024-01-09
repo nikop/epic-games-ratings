@@ -6,12 +6,12 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 9.00% | ~1,852 |
-| First Real Expedition | 8.00% | ~1,646 |
-| Taking Action | 8.00% | ~1,646 |
-| No Deaths | 8.00% | ~1,646 |
-| Abandoned Settlement | 8.00% | ~1,646 |
-| Petrified Necropolis | 8.00% | ~1,646 |
+| Overgrown Library | 9.00% | ~1,853 |
+| First Real Expedition | 8.00% | ~1,647 |
+| Taking Action | 8.00% | ~1,647 |
+| No Deaths | 8.00% | ~1,647 |
+| Abandoned Settlement | 8.00% | ~1,647 |
+| Petrified Necropolis | 8.00% | ~1,647 |
 | The Marshlands | 7.00% | ~1,441 |
 | Overcoming Difficulty | 6.00% | ~1,235 |
 | Coral Forest | 6.00% | ~1,235 |
@@ -25,17 +25,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 4.00% | ~823 |
 | Watchtower | 4.00% | ~823 |
 | A Real Challenge | 4.00% | ~823 |
-| Ruined Armory | 3.00% | ~617 |
-| Bandit Camp | 3.00% | ~617 |
-| Ancient Battleground | 3.00% | ~617 |
-| Levitating Monument | 3.00% | ~617 |
-| Monastery of the Holy Flame | 3.00% | ~617 |
-| Lost Colonies | 3.00% | ~617 |
-| Statue of the Forefathers | 3.00% | ~617 |
-| Corrosive Torrent | 3.00% | ~617 |
-| Cursed Lands | 3.00% | ~617 |
-| Trade Baron | 3.00% | ~617 |
-| Untamed Wilds | 3.00% | ~617 |
+| Ruined Armory | 3.00% | ~618 |
+| Bandit Camp | 3.00% | ~618 |
+| Ancient Battleground | 3.00% | ~618 |
+| Levitating Monument | 3.00% | ~618 |
+| Monastery of the Holy Flame | 3.00% | ~618 |
+| Lost Colonies | 3.00% | ~618 |
+| Statue of the Forefathers | 3.00% | ~618 |
+| Corrosive Torrent | 3.00% | ~618 |
+| Cursed Lands | 3.00% | ~618 |
+| Trade Baron | 3.00% | ~618 |
+| Untamed Wilds | 3.00% | ~618 |
 | Serving Ale | 2.00% | ~412 |
 | Against All Odds | 2.00% | ~412 |
 | Barren Lands | 2.00% | ~412 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,581 (Ranked 154)  
+Progressed: 20,586 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
-| 2024-01-09 | 20,581 | 34 |
+| 2024-01-09 | 20,586 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,364 (Ranked 177)  

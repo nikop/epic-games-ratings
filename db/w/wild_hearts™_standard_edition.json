@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1277,
+  "EOS_Progressed": 1278,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -4143,6 +4143,11 @@
       "Time": "2024-01-09T20:09:03.7187316+00:00",
       "NumProgressed": 1277,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-09T21:09:34.4941781+00:00",
+      "NumProgressed": 1278,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4155,7 +4160,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "achievement_10",
@@ -4203,7 +4208,7 @@
       "Name": "Memory Rouser",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "achievement_16",
@@ -4235,7 +4240,7 @@
       "Name": "Counter Specialist",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_2",
@@ -4251,7 +4256,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "achievement_21",
@@ -4267,7 +4272,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "achievement_23",
@@ -4283,7 +4288,7 @@
       "Name": "Single Minded",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_25",
@@ -4315,7 +4320,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "achievement_29",
@@ -4331,7 +4336,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "achievement_30",
@@ -4393,9 +4398,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 907
+      "UsersEstimate": 920
     },
     {
       "ID": "achievement_38",
@@ -4451,7 +4456,7 @@
       "Name": "Team Hunter",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_44",
@@ -4507,7 +4512,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "achievement_7",
@@ -4515,7 +4520,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "achievement_8",
@@ -4538,13 +4543,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1277,
+      "Progressed": 1278,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:03.7187313+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:09:34.4941777+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:59:58.841077+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:03.7187834+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:59:59.8125789+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:09:34.4942264+00:00"
 }

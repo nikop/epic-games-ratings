@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1363,9 +1363,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 3624,
+  "EOS_Progressed": 3626,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7813,6 +7813,11 @@
       "Time": "2024-01-09T20:04:20.0931789+00:00",
       "NumProgressed": 3624,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T21:04:32.1420311+00:00",
+      "NumProgressed": 3626,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7864,7 +7869,7 @@
       "Name": "Cross lock country",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_DIPPED",
@@ -7904,7 +7909,7 @@
       "Name": "Fulfilled the dream",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_GDAY-MATE",
@@ -7912,7 +7917,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -7976,7 +7981,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -8040,7 +8045,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -8056,7 +8061,7 @@
       "Name": "Purple passion",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -8080,7 +8085,7 @@
       "Name": "Squad goals",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -8088,7 +8093,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -8112,7 +8117,7 @@
       "Name": "That was wheelie fun",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_THATS-HOW-ITS-DONE",
@@ -8136,7 +8141,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -8144,7 +8149,7 @@
       "Name": "The hard way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -8200,22 +8205,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3624,
+      "Progressed": 3626,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-07T05:01:33.5374268+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:04:20.0931785+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:04:32.1420307+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:55.5577816+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:02:30.4168765+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:04:20.0932378+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:02:40.2533414+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:04:32.1420863+00:00"
 }

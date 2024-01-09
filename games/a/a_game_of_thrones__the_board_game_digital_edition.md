@@ -6,9 +6,9 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,200 |
-| Battering Crew | 19.00% | ~6,270 |
-| The Kingsroad | 18.00% | ~5,940 |
+| Conqueror | 40.00% | ~13,201 |
+| Battering Crew | 19.00% | ~6,271 |
+| The Kingsroad | 18.00% | ~5,941 |
 | Well Stocked | 13.00% | ~4,290 |
 | Royal Fleet | 12.00% | ~3,960 |
 | The Kraken’s Grasp | 9.00% | ~2,970 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Swift | 2.00% | ~660 |
 | War of the Five Kings | 1.00% | ~330 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,000 (Ranked 139)  
+Progressed: 33,003 (Ranked 139)  
 Completed: 86 (0.26%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,15 +293,15 @@ Completed: 86 (0.26%) (Ranked 263)
 | 2024-01-06 | 32,727 | 86 |
 | 2024-01-07 | 32,849 | 86 |
 | 2024-01-08 | 32,932 | 86 |
-| 2024-01-09 | 33,000 | 86 |
+| 2024-01-09 | 33,003 | 86 |
 ## Awards
 Max (Quickly Understood Controls): 128  (Ranked 351)  
-Sum: 809 (Ranked 292)  
+Sum: 810 (Ranked 292)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 128 |
-| This game is Extremely Fun | 112 |
+| This game is Extremely Fun | 113 |
 | This game is Highly Recommended | 112 |
 | This game has Competitive Players | 101 |
 | This game is Relaxing | 99 |
@@ -414,3 +414,4 @@ Diff (max vs sum): 59
 | 2023-12-30 | 4.21 | - | 127 | 807 |
 | 2024-01-04 | 4.21 | - | 127 | 808 |
 | 2024-01-05 | 4.21 | - | 128 | 809 |
+| 2024-01-09 | 4.21 | - | 128 | 810 |

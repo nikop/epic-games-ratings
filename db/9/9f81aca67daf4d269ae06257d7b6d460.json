@@ -2,10 +2,10 @@
   "ID": "9f81aca67daf4d269ae06257d7b6d460",
   "Name": "maze horror\uFF5E\u8FF7\u5BAE\u30DB\u30E9\u30FC\uFF5E",
   "ProductSlug": "jampjjj-7c830e",
-  "Ranking_EOS_Progress": 822,
+  "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-13T15:00:00+00:00",
     "PcReleaseDate": "2023-06-13T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-05T23:57:04.3249326+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:02:48.0862615+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:05:16.0677628+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:02:58.484273+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:05:28.1242942+00:00"
 }

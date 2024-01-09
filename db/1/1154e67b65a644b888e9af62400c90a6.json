@@ -4,11 +4,11 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 592,
   "Ranking_Popularity": 135,
-  "Ranking_PopularitySum": 156,
-  "Ranking_EOS_Progress": 822,
+  "Ranking_PopularitySum": 155,
+  "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -3137,10 +3137,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 4483,
       "NumberOfAwardsMax": 1650
+    },
+    {
+      "Time": "2024-01-09T21:00:13.8605484+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 4495,
+      "NumberOfAwardsMax": 1650
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4483,
+  "NumberOfAwards": 4495,
   "NumberOfAwardsMax": 1650,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3196,7 +3202,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 287
+      "Count": 292
     },
     {
       "Text": "This game has Easy Combat",
@@ -3214,7 +3220,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 244
+      "Count": 251
     }
   ],
   "EOS_Progressed": 0,
@@ -3229,8 +3235,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-01-09T20:00:12.4228477+00:00",
+  "LastChanged": "2024-01-09T21:00:13.8605483+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.7087904+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:00:12.4228483+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:04:51.2518938+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:00:13.8605491+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:05:03.238329+00:00"
 }

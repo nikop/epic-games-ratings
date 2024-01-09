@@ -4,61 +4,61 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 89.00% | ~501 |
-| Your first fight | 84.00% | ~473 |
+| Such a strange dream… | 88.00% | ~496 |
+| Your first fight | 84.00% | ~474 |
 | Good Person Chip | 82.00% | ~462 |
-| First winning | 80.00% | ~450 |
-| Your first job | 79.00% | ~445 |
-| Depressed visitor | 73.00% | ~411 |
-| Neurotrainer – power gainer! | 72.00% | ~405 |
+| First winning | 80.00% | ~451 |
+| Your first job | 79.00% | ~446 |
+| Depressed visitor | 73.00% | ~412 |
+| Neurotrainer – power gainer! | 72.00% | ~406 |
 | Fitness professional | 71.00% | ~400 |
 | Old movies enjoyer | 71.00% | ~400 |
-| Employee of the week | 70.00% | ~394 |
+| Employee of the week | 70.00% | ~395 |
 | Your own amateur gym | 66.00% | ~372 |
-| First defeat | 64.00% | ~360 |
-| Run K, run! | 64.00% | ~360 |
-| Hello, world! | 63.00% | ~355 |
-| Fighting is cool | 62.00% | ~349 |
-| No bullying more | 62.00% | ~349 |
-| Pal of your father? | 59.00% | ~332 |
+| First defeat | 64.00% | ~361 |
+| Run K, run! | 64.00% | ~361 |
+| Fighting is cool | 62.00% | ~350 |
+| No bullying more | 62.00% | ~350 |
+| Hello, world! | 62.00% | ~350 |
+| Pal of your father? | 59.00% | ~333 |
 | Spirit of the past | 58.00% | ~327 |
-| Employee of the month | 58.00% | ~327 |
-| Law student | 56.00% | ~315 |
-| Handyman | 53.00% | ~298 |
+| Employee of the month | 57.00% | ~321 |
+| Law student | 56.00% | ~316 |
+| Handyman | 53.00% | ~299 |
 | Workout professional | 52.00% | ~293 |
 | Fight for life | 52.00% | ~293 |
 | Little hacker | 52.00% | ~293 |
 | Champion – starter pack | 52.00% | ~293 |
 | It's good to be alive | 52.00% | ~293 |
-| Own four walls | 51.00% | ~287 |
-| Intriguing candies | 51.00% | ~287 |
-| Employee of the year | 51.00% | ~287 |
-| Legal courier | 48.00% | ~270 |
-| Extreme neuropower! | 48.00% | ~270 |
-| Escaped from a big trouble | 45.00% | ~253 |
-| Now you are worthy | 40.00% | ~225 |
-| Fight is life | 40.00% | ~225 |
-| Guiding on the right path | 40.00% | ~225 |
-| Mysterious voice | 39.00% | ~220 |
-| No blades in the gym | 37.00% | ~208 |
+| Own four walls | 51.00% | ~288 |
+| Intriguing candies | 51.00% | ~288 |
+| Employee of the year | 51.00% | ~288 |
+| Legal courier | 48.00% | ~271 |
+| Extreme neuropower! | 48.00% | ~271 |
+| Escaped from a big trouble | 45.00% | ~254 |
+| Fight is life | 41.00% | ~231 |
+| Now you are worthy | 40.00% | ~226 |
+| Mysterious voice | 40.00% | ~226 |
+| Guiding on the right path | 40.00% | ~226 |
+| No blades in the gym | 37.00% | ~209 |
 | Champion – no way back | 36.00% | ~203 |
 | Responsible approach | 36.00% | ~203 |
 | GYM professional | 35.00% | ~197 |
 | Underground dwellers | 35.00% | ~197 |
-| Mom got better | 34.00% | ~191 |
-| Deal with life | 34.00% | ~191 |
+| Mom got better | 34.00% | ~192 |
+| Deal with life | 34.00% | ~192 |
 | The die is cast | 33.00% | ~186 |
 | Poisoned fighter | 32.00% | ~180 |
 | Get out of my apartment! | 32.00% | ~180 |
-| Undercover robot | 31.00% | ~175 |
 | Gang wrangler | 30.00% | ~169 |
 | Seashell hunter | 30.00% | ~169 |
-| Problems of cyborgs | 29.00% | ~163 |
-| Absolute Champion! | 29.00% | ~163 |
-| Another world | 28.00% | ~158 |
-| The lonesome road | 28.00% | ~158 |
+| Undercover robot | 30.00% | ~169 |
+| Problems of cyborgs | 29.00% | ~164 |
+| Absolute Champion! | 29.00% | ~164 |
 | Not little hacker | 28.00% | ~158 |
 | Trap disarmed | 27.00% | ~152 |
+| Another world | 27.00% | ~152 |
+| The lonesome road | 27.00% | ~152 |
 | Keep nature safe | 27.00% | ~152 |
 | Family comes first | 27.00% | ~152 |
 | Key memories | 27.00% | ~152 |
@@ -71,7 +71,7 @@
 | The only right decision | 25.00% | ~141 |
 | Silver’s past | 24.00% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 563 (Ranked 341)  
+Progressed: 564 (Ranked 341)  
 Completed: 9 (1.60%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,4 +190,4 @@ Completed: 9 (1.60%) (Ranked 146)
 | 2024-01-06 | 549 | 9 |
 | 2024-01-07 | 554 | 9 |
 | 2024-01-08 | 558 | 9 |
-| 2024-01-09 | 563 | 9 |
+| 2024-01-09 | 564 | 9 |

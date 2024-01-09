@@ -4,11 +4,11 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1023,
   "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 439,
+  "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -745,9 +745,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4348,
+  "EOS_Progressed": 4349,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12190,6 +12190,11 @@
       "Time": "2024-01-09T18:06:54.4401726+00:00",
       "NumProgressed": 4348,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T21:05:30.6939625+00:00",
+      "NumProgressed": 4349,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12695,9 +12700,9 @@
       "ID": "thepowerofawakening",
       "SetID": "3nl4bcg",
       "Name": "The power of Awakening",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 391
     },
     {
       "ID": "theunstoppable",
@@ -12761,7 +12766,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4044
+      "UsersEstimate": 4045
     },
     {
       "ID": "warmachinesarmy",
@@ -12793,14 +12798,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3392
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4348,
+      "Progressed": 4349,
       "Completed": 2
     }
   ],
@@ -12808,8 +12813,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-09T07:01:01.850552+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:05:18.7097538+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:05:30.693962+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:09.7789208+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:05:18.709861+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:12.7227144+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:05:30.6941048+00:00"
 }

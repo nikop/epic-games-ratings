@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -313,7 +313,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1343,
+  "EOS_Progressed": 1344,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -3858,6 +3858,11 @@
       "Time": "2024-01-09T20:06:18.8344892+00:00",
       "NumProgressed": 1343,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T21:08:21.2807779+00:00",
+      "NumProgressed": 1344,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3918,7 +3923,7 @@
       "Name": "Break the Loop",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "BridgeBuilder",
@@ -3982,7 +3987,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Excellent",
@@ -4030,7 +4035,7 @@
       "Name": "High Plain",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "IntoTheMachine",
@@ -4054,7 +4059,7 @@
       "Name": "Lord of the Files",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "LostMarshes",
@@ -4158,7 +4163,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "RenaissanceRobot",
@@ -4172,9 +4177,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 161
     },
     {
       "ID": "Signatory",
@@ -4212,9 +4217,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 323
     },
     {
       "ID": "TextAdventurer",
@@ -4270,7 +4275,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "TheWordEndures",
@@ -4341,7 +4346,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1343,
+      "Progressed": 1344,
       "Completed": 2
     }
   ],
@@ -4349,8 +4354,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-08T17:59:02.5867071+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:06:18.8344889+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:08:21.280773+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:58:44.1315731+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:06:18.8345791+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:58:46.7019425+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:08:21.2808471+00:00"
 }

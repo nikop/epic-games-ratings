@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -747,7 +747,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7123,
+  "EOS_Progressed": 7126,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
@@ -10887,6 +10887,11 @@
       "Time": "2024-01-09T20:05:24.5823462+00:00",
       "NumProgressed": 7123,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T21:05:36.6251472+00:00",
+      "NumProgressed": 7126,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10898,7 +10903,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "10",
@@ -10922,7 +10927,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "13",
@@ -10954,7 +10959,7 @@
       "Name": "God Emperor",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "17",
@@ -10970,7 +10975,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "19",
@@ -10978,7 +10983,7 @@
       "Name": "The Creator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "2",
@@ -11002,7 +11007,7 @@
       "Name": "Eternal Lord",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "22",
@@ -11010,7 +11015,7 @@
       "Name": "Realm Estate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "23",
@@ -11018,7 +11023,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "24",
@@ -11042,7 +11047,7 @@
       "Name": "Bone Peddler",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "27",
@@ -11074,7 +11079,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "30",
@@ -11114,7 +11119,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "35",
@@ -11162,7 +11167,7 @@
       "Name": "The Eternal Court",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "40",
@@ -11170,7 +11175,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "41",
@@ -11178,7 +11183,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "42",
@@ -11274,7 +11279,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "49",
@@ -11282,7 +11287,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "50",
@@ -11306,7 +11311,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "53",
@@ -11322,7 +11327,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "55",
@@ -11346,7 +11351,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "58",
@@ -11354,7 +11359,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "59",
@@ -11370,20 +11375,20 @@
       "Name": "A Very Special Ring",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7123,
+      "Progressed": 7126,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7123,
+      "Progressed": 7126,
       "Completed": 7
     }
   ],
@@ -11391,8 +11396,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-09T16:57:46.579132+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:05:24.5823458+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:05:36.6251467+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:24.2246195+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:05:24.5824472+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:26.2970396+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:05:36.625295+00:00"
 }

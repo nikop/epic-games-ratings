@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -221,11 +221,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2947,
-  "EOS_Completed": 202,
+  "EOS_Progressed": 2948,
+  "EOS_Completed": 203,
   "EOS_NewPlayers": 85,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.85,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 6.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -5071,6 +5071,11 @@
       "Time": "2024-01-09T19:05:10.4255025+00:00",
       "NumProgressed": 2947,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2024-01-09T21:04:16.5110084+00:00",
+      "NumProgressed": 2948,
+      "NumCompleted": 203
     }
   ],
   "TotalAchievements": 12,
@@ -5106,7 +5111,7 @@
       "Name": "004",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "005",
@@ -5177,16 +5182,16 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2947,
-      "Completed": 202
+      "Progressed": 2948,
+      "Completed": 203
     }
   ],
   "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-12-26T13:00:53.8529115+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:04:04.2349264+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:04:16.511008+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.8892805+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:36.5893837+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:04:04.2349585+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:39.3842625+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:04:16.5110654+00:00"
 }

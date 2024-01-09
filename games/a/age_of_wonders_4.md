@@ -6,19 +6,19 @@ Rating: 4.62 (Ranked 379)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 17.00% | ~1,211 |
-| Realm Estate | 15.00% | ~1,068 |
-| A Wonderful Discovery | 14.00% | ~997 |
+| Realm Estate | 15.00% | ~1,069 |
+| A Wonderful Discovery | 14.00% | ~998 |
 | Walls Cannot Stop Us | 13.00% | ~926 |
 | From Friends to Family | 12.00% | ~855 |
-| Bone Peddler | 10.00% | ~712 |
+| Bone Peddler | 10.00% | ~713 |
 | Magical Synergy | 9.00% | ~641 |
 | Full Ascension | 8.00% | ~570 |
 | There Can Only Be One! | 7.00% | ~499 |
 | Stronger Together | 7.00% | ~499 |
 | Seat of Power | 7.00% | ~499 |
-| Valley of Wonders | 6.00% | ~427 |
-| In a Liege of Your Own | 6.00% | ~427 |
-| Intimidation Tactics | 6.00% | ~427 |
+| Valley of Wonders | 6.00% | ~428 |
+| In a Liege of Your Own | 6.00% | ~428 |
+| Intimidation Tactics | 6.00% | ~428 |
 | My Final Form | 5.00% | ~356 |
 | But this one is mine | 5.00% | ~356 |
 | Return of the Wizard King | 4.00% | ~285 |
@@ -31,19 +31,19 @@ Rating: 4.62 (Ranked 379)
 | Here be Dragons | 3.00% | ~214 |
 | Tipping the Scales | 3.00% | ~214 |
 | Freed Lands of Manuhari | 3.00% | ~214 |
-| I've Got Everything I Need Right Here | 2.00% | ~142 |
-| God Emperor | 2.00% | ~142 |
-| Arch Mage | 2.00% | ~142 |
-| The Creator | 2.00% | ~142 |
-| Eternal Lord | 2.00% | ~142 |
-| Crimson Caldera | 2.00% | ~142 |
-| The Eternal Court | 2.00% | ~142 |
-| Blood of the Dragon | 2.00% | ~142 |
-| Mighty Hoard | 2.00% | ~142 |
-| Sehiran Oasis | 2.00% | ~142 |
-| Chaos Surge | 2.00% | ~142 |
-| Spoils of War | 2.00% | ~142 |
-| Dawn of the Dread | 2.00% | ~142 |
+| I've Got Everything I Need Right Here | 2.00% | ~143 |
+| God Emperor | 2.00% | ~143 |
+| Arch Mage | 2.00% | ~143 |
+| The Creator | 2.00% | ~143 |
+| Eternal Lord | 2.00% | ~143 |
+| Crimson Caldera | 2.00% | ~143 |
+| The Eternal Court | 2.00% | ~143 |
+| Blood of the Dragon | 2.00% | ~143 |
+| Mighty Hoard | 2.00% | ~143 |
+| Sehiran Oasis | 2.00% | ~143 |
+| Chaos Surge | 2.00% | ~143 |
+| Spoils of War | 2.00% | ~143 |
+| Dawn of the Dread | 2.00% | ~143 |
 | Lord of Chaos | 1.00% | ~71 |
 | The Goddess of Nature | 1.00% | ~71 |
 | Manufactured War | 1.00% | ~71 |
@@ -57,8 +57,8 @@ Rating: 4.62 (Ranked 379)
 | Duality | 0.90% | ~64 |
 | Snap Out of It! | 0.60% | ~43 |
 | The Magic That Empowers Me! | 0.50% | ~36 |
-| Jack of All Tomes | 0.40% | ~28 |
-| A Very Special Ring | 0.40% | ~28 |
+| Jack of All Tomes | 0.40% | ~29 |
+| A Very Special Ring | 0.40% | ~29 |
 | Returning Circle | 0.20% | ~14 |
 | I Want to Break Free | 0.10% | ~7 |
 | Master of Evilness | 0.10% | ~7 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,123 (Ranked 196)  
+Progressed: 7,126 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-06 | 6,988 | 7 |
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
-| 2024-01-09 | 7,123 | 7 |
+| 2024-01-09 | 7,126 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 215 (Ranked 411)  

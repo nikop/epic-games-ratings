@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 113.00% | ~118 |
-| Break no Sweat | 108.00% | ~112 |
-| Every little bit counts | 102.00% | ~106 |
-| Growth | 86.00% | ~89 |
+| Black Cat's Warning | 111.00% | ~117 |
+| Break no Sweat | 107.00% | ~112 |
+| Every little bit counts | 101.00% | ~106 |
+| Growth | 85.00% | ~89 |
 | Targeting the Enemy | 69.00% | ~72 |
-| Unavoidable | 66.00% | ~69 |
-| Revenge | 63.00% | ~66 |
+| Unavoidable | 67.00% | ~70 |
+| Revenge | 62.00% | ~65 |
 | Reunion | 40.00% | ~42 |
-| Fluke | 35.00% | ~36 |
-| Elimination | 33.00% | ~34 |
-| Victor's Prejudice | 32.00% | ~33 |
-| Excellent Driving Skills | 30.00% | ~31 |
-| Once Bitten, Twice Shy | 30.00% | ~31 |
+| Fluke | 34.00% | ~36 |
+| Elimination | 32.00% | ~34 |
+| Victor's Prejudice | 31.00% | ~33 |
+| Excellent Driving Skills | 30.00% | ~32 |
+| Once Bitten, Twice Shy | 30.00% | ~32 |
 | Memento | 29.00% | ~30 |
 | Fleet-footed | 27.00% | ~28 |
 | Defeat the AI | 26.00% | ~27 |
@@ -62,7 +62,7 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 490)  
+Progressed: 105 (Ranked 488)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-01 | 103 | 0 |
 | 2024-01-05 | 104 | 0 |
 | 2024-01-06 | 104 | 0 |
+| 2024-01-09 | 105 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

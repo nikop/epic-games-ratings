@@ -2,10 +2,10 @@
   "ID": "17df9723d7c248139a9f187a5ce693ed",
   "Name": "Midnight Legends",
   "ProductSlug": "midnight-legends-734dfc",
-  "Ranking_EOS_Progress": 822,
+  "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-19T04:00:00+00:00",
     "PcReleaseDate": "2022-01-06T17:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-07T03:58:55.8203292+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:02:55.0702371+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:08:10.7466504+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:03:05.6701179+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:08:42.1814238+00:00"
 }

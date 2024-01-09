@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 621,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -137,9 +137,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "4mjb15",
       "Name": "The Chosen One",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -336,8 +336,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:32.4826741+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:10:02.8437103+00:00",
   "LastUpdate_AppInfo": "2024-01-05T22:58:52.5128387+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:51.3811586+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:32.4826944+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:53.7588996+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:10:02.84373+00:00"
 }

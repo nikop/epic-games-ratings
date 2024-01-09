@@ -7,9 +7,9 @@
 | Relight my Cannon | 40.00% | ~40 |
 | Glass Act | 38.00% | ~38 |
 | Tour Guide Extraordinaire | 37.00% | ~37 |
-| Explosive End | 25.00% | ~25 |
+| Explosive End | 26.00% | ~26 |
+| A Box of Tricks | 25.00% | ~25 |
 | Puzzle Prodigy | 25.00% | ~25 |
-| A Box of Tricks | 24.00% | ~24 |
 | Snitch | 24.00% | ~24 |
 | Finger-Lickin' Bad | 21.00% | ~21 |
 | Breathless End | 20.00% | ~20 |
@@ -18,8 +18,8 @@
 | Set Sail | 19.00% | ~19 |
 | Flying High | 18.00% | ~18 |
 | Backstory Buff | 17.00% | ~17 |
+| Key Keeper's Curse | 6.00% | ~6 |
 | Freedum Fighter | 5.00% | ~5 |
-| Key Keeper's Curse | 5.00% | ~5 |
 | Fool's Gold | 4.00% | ~4 |
 | Escape Artist | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

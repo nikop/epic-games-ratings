@@ -2,10 +2,10 @@
   "ID": "229da97a621d443dafe527f874375f3b",
   "Name": "Underworld Defense",
   "ProductSlug": "underworld-defense-9a270a",
-  "Ranking_EOS_Progress": 822,
+  "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-30T17:00:00+00:00",
     "PcReleaseDate": "2023-07-30T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-04T18:59:06.7967258+00:00",
   "LastUpdate_AppInfo": "2024-01-07T21:57:13.1885542+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:00:01.20272+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:04:00.9482197+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:00:02.1590973+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:04:13.5172323+00:00"
 }

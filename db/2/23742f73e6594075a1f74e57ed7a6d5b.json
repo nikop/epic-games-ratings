@@ -2,10 +2,10 @@
   "ID": "23742f73e6594075a1f74e57ed7a6d5b",
   "Name": "Project XSTING",
   "ProductSlug": "project-xsting-9fb690",
-  "Ranking_EOS_Progress": 822,
+  "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-01-05T20:00:00+00:00",
     "PcReleaseDate": "2024-01-05T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.1853953+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:00:10.9893291+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:03:05.5762667+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:00:12.4046084+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:03:18.4901903+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10686,9 +10686,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132298,
+  "EOS_Progressed": 132306,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 955,
+  "EOS_NewPlayers": 954,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39101,6 +39101,11 @@
       "Time": "2024-01-09T20:09:19.9216744+00:00",
       "NumProgressed": 132298,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T21:09:50.347963+00:00",
+      "NumProgressed": 132306,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39552,7 +39557,7 @@
       "Name": "Eidetic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "run_end_abandon",
@@ -39648,7 +39653,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "combat_kill_collector",
@@ -39704,7 +39709,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "quest_complete_crusader",
@@ -39712,7 +39717,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39743,21 +39748,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132298,
+      "Progressed": 132306,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7167,
+      "Progressed": 7175,
       "Completed": 823
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-09T16:59:33.573007+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:19.9216739+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:09:50.3479626+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:58:38.231331+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:19.9219149+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:58:40.8744291+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:09:50.3481684+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,283 |
-| Keeping it classy | 27.00% | ~978 |
+| You're free now! | 63.00% | ~2,284 |
+| Keeping it classy | 27.00% | ~979 |
 | Welcome to the family | 21.00% | ~761 |
 | The finer things in life | 19.00% | ~689 |
 | Backpacker | 13.00% | ~471 |
 | Go with the Flow | 13.00% | ~471 |
-| Plastic Surgeon | 10.00% | ~362 |
-| The flip trick crown jewel | 10.00% | ~362 |
-| The hard way | 10.00% | ~362 |
+| Plastic Surgeon | 10.00% | ~363 |
+| The flip trick crown jewel | 10.00% | ~363 |
+| The hard way | 10.00% | ~363 |
 | Good vibes | 9.00% | ~326 |
 | Keep the dream alive | 9.00% | ~326 |
 | Upfront shredder | 9.00% | ~326 |
@@ -23,11 +23,11 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 7.00% | ~254 |
 | That pinch! | 7.00% | ~254 |
 | Tight lipslides | 7.00% | ~254 |
-| Fulfilled the dream | 6.00% | ~217 |
-| G'Day Mate! | 6.00% | ~217 |
-| Purple passion | 6.00% | ~217 |
-| Squad goals | 6.00% | ~217 |
-| Sup widdit big dog! | 6.00% | ~217 |
+| Fulfilled the dream | 6.00% | ~218 |
+| G'Day Mate! | 6.00% | ~218 |
+| Purple passion | 6.00% | ~218 |
+| Squad goals | 6.00% | ~218 |
+| Sup widdit big dog! | 6.00% | ~218 |
 | Commence the Hijinx! | 5.00% | ~181 |
 | DIY Boss | 5.00% | ~181 |
 | Globetrotter | 5.00% | ~181 |
@@ -45,8 +45,8 @@ Number of Ratings: 111  (23.09.2022)
 | We get it, you're good | 4.00% | ~145 |
 | Many plys later... | 3.00% | ~109 |
 | Pew-Pew | 3.00% | ~109 |
-| Cross lock country | 2.00% | ~72 |
-| That was wheelie fun | 2.00% | ~72 |
+| Cross lock country | 2.00% | ~73 |
+| That was wheelie fun | 2.00% | ~73 |
 | Dipped! | 1.00% | ~36 |
 | Skatepark hero | 1.00% | ~36 |
 | Bing Bong! | 0.10% | ~4 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,624 (Ranked 221)  
+Progressed: 3,626 (Ranked 221)  
 Completed: 2 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2 (0.06%) (Ranked 330)
 | 2024-01-06 | 3,566 | 2 |
 | 2024-01-07 | 3,587 | 2 |
 | 2024-01-08 | 3,608 | 2 |
-| 2024-01-09 | 3,624 | 2 |
+| 2024-01-09 | 3,626 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 425)  
 Sum: 584 (Ranked 326)  

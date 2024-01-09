@@ -2,10 +2,10 @@
   "ID": "a607d7b55d8a4a3ab898c28a16897c5e",
   "Name": "CoopValor WW2 Battle of the Bulge",
   "ProductSlug": "coopvalor-ww2-battle-of-the-bulge-17a9ab",
-  "Ranking_EOS_Progress": 822,
+  "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2025-01-01T23:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-01T10:06:01.4480941+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:03:16.916227+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:03:30.0733107+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:03.224383+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:00:04.6986655+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:03:16.9162302+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:00:05.8267109+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:03:30.0733142+00:00"
 }

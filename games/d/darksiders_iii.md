@@ -6,17 +6,17 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~408 |
-| First of many… | 69.00% | ~361 |
-| Helping Hand | 65.00% | ~340 |
+| Green with Envy | 78.00% | ~409 |
+| First of many… | 69.00% | ~362 |
+| Helping Hand | 65.00% | ~341 |
 | Increased Vigor | 60.00% | ~314 |
-| Fight Fire with Fire | 58.00% | ~303 |
-| Increased Capacity | 54.00% | ~282 |
-| Just the start | 49.00% | ~256 |
+| Fight Fire with Fire | 58.00% | ~304 |
+| Increased Capacity | 54.00% | ~283 |
+| Just the start | 49.00% | ~257 |
 | Perfect Storm | 46.00% | ~241 |
-| All That Glitters | 46.00% | ~241 |
-| Enhance! | 41.00% | ~214 |
-| One Of the Chosen | 40.00% | ~209 |
+| All That Glitters | 45.00% | ~236 |
+| Enhance! | 42.00% | ~220 |
+| One Of the Chosen | 40.00% | ~210 |
 | Devil's in the Details | 39.00% | ~204 |
 | Throne Potato | 39.00% | ~204 |
 | Five's a Crowd | 39.00% | ~204 |
@@ -26,7 +26,7 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Harvester | 35.00% | ~183 |
 | I Wanna Rock | 34.00% | ~178 |
 | Delusions of Grandeur | 34.00% | ~178 |
-| Love Tap | 32.00% | ~167 |
+| Love Tap | 32.00% | ~168 |
 | Maximum Vigor | 31.00% | ~162 |
 | Freeze Frame | 29.00% | ~152 |
 | Eat Your Heart Out | 29.00% | ~152 |
@@ -34,15 +34,15 @@ Number of Ratings: 116  (23.09.2022)
 | Unyielding Strength | 26.00% | ~136 |
 | Can you restore the Balance? | 25.00% | ~131 |
 | Big Spender | 25.00% | ~131 |
-| Cleanup Crew | 24.00% | ~126 |
 | Crowd Source | 24.00% | ~126 |
+| Cleanup Crew | 23.00% | ~121 |
 | Maximum Capacity | 22.00% | ~115 |
 | Demon Meddler | 22.00% | ~115 |
 | Seeing Red | 22.00% | ~115 |
 | Egomaniac | 20.00% | ~105 |
 | Protector of Humanity | 18.00% | ~94 |
 | Everybody Wants to Rule the World | 18.00% | ~94 |
-| Community Outreach | 15.00% | ~78 |
+| Community Outreach | 15.00% | ~79 |
 | A Parting Gift | 14.00% | ~73 |
 | Unbreakable Will | 13.00% | ~68 |
 | Path of the Horseman | 13.00% | ~68 |
@@ -51,8 +51,8 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Keeper | 11.00% | ~58 |
 | Humanitarian | 9.00% | ~47 |
 | Soul Reaper | 8.00% | ~42 |
-| Made of Sterner Stuff | 7.00% | ~37 |
 | My Evil Twin | 6.00% | ~31 |
+| Made of Sterner Stuff | 6.00% | ~31 |
 | Balance in all things | 5.00% | ~26 |
 | Keeper of the Bonfire | 5.00% | ~26 |
 | Keeper of the Sky | 5.00% | ~26 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 1.00% | ~5 |
 | Beast Mode | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523 (Ranked 347)  
+Progressed: 524 (Ranked 347)  
 Completed: 2 (0.38%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 2 (0.38%) (Ranked 240)
 | 2024-01-06 | 466 | 2 |
 | 2024-01-07 | 492 | 2 |
 | 2024-01-08 | 503 | 2 |
-| 2024-01-09 | 523 | 2 |
+| 2024-01-09 | 524 | 2 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 388)  
 Sum: 96 (Ranked 472)  

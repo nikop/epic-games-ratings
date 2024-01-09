@@ -5,8 +5,8 @@ Rating: 4.08 (Ranked 1,023)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,044 |
-| World Map | 78.00% | ~3,391 |
+| Victor | 93.00% | ~4,045 |
+| World Map | 78.00% | ~3,392 |
 | Temple of Eternals | 56.00% | ~2,435 |
 | Prestigious | 52.00% | ~2,261 |
 | Fellowship Power | 41.00% | ~1,783 |
@@ -29,6 +29,7 @@ Rating: 4.08 (Ranked 1,023)
 | Milestone collector | 10.00% | ~435 |
 | Doing My Part | 9.00% | ~391 |
 | Scientist | 9.00% | ~391 |
+| The power of Awakening | 9.00% | ~391 |
 | Challenger | 8.00% | ~348 |
 | Daily Quest Completionist | 8.00% | ~348 |
 | Frostfire Liberator | 8.00% | ~348 |
@@ -37,7 +38,6 @@ Rating: 4.08 (Ranked 1,023)
 | Moving Up The Ladder | 8.00% | ~348 |
 | Relic Of The Past | 8.00% | ~348 |
 | Scroll Master | 8.00% | ~348 |
-| The power of Awakening | 8.00% | ~348 |
 | Four Leaf Clover | 7.00% | ~304 |
 | Master Enchanter | 7.00% | ~304 |
 | The father of Dragons | 7.00% | ~304 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 1,023)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,348 (Ranked 209)  
+Progressed: 4,349 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,11 +340,11 @@ Completed: 2 (0.05%) (Ranked 337)
 | 2024-01-06 | 4,266 | 2 |
 | 2024-01-07 | 4,299 | 2 |
 | 2024-01-08 | 4,327 | 2 |
-| 2024-01-09 | 4,348 | 2 |
+| 2024-01-09 | 4,349 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 483)  
-Sum: 155 (Ranked 439)  
-Diff (max vs sum): 44  
+Sum: 155 (Ranked 440)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1008,
+  "EOS_Progressed": 1010,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4332,6 +4332,11 @@
       "Time": "2024-01-09T10:10:37.3826443+00:00",
       "NumProgressed": 1008,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T21:09:46.2813152+00:00",
+      "NumProgressed": 1010,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4399,7 +4404,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Clothes10",
@@ -4519,7 +4524,7 @@
       "Name": "The Big Day",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "Packing20",
@@ -4567,7 +4572,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ServiceMaxClient",
@@ -4599,7 +4604,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "TrattoriaSet",
@@ -4607,7 +4612,7 @@
       "Name": "Italian Style",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "UnlockAssiette",
@@ -4662,7 +4667,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1008,
+      "Progressed": 1010,
       "Completed": 0
     }
   ],
@@ -4670,8 +4675,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-05T14:58:53.6267944+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:15.6202452+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:09:46.2813149+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2362119+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:06.4356169+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:15.6203006+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:09.2007925+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:09:46.281383+00:00"
 }

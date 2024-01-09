@@ -4,11 +4,11 @@
   "ProductSlug": "blocklords-2a2ccd",
   "Ranking_Rating": 963,
   "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 822,
+  "Ranking_PopularitySum": 477,
+  "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-15T06:00:00+00:00",
     "PcReleaseDate": "2023-09-15T06:00:00+00:00",
@@ -527,10 +527,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 66,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-01-09T20:57:37.6548907+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 87,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 66,
+  "NumberOfAwards": 87,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -545,6 +551,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 28
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -559,8 +571,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-01-09T15:58:07.8691581+00:00",
+  "LastChanged": "2024-01-09T20:57:37.6548905+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:18.9082396+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:34.7965144+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:05:19.1439247+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:37.654891+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:05:31.2024074+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.26 (Ranked 915)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~2,011 |
-| Don't I Know You...? | 75.00% | ~1,909 |
-| Jailbreak | 64.00% | ~1,629 |
+| Rigged And Ready | 78.00% | ~1,987 |
+| Don't I Know You...? | 75.00% | ~1,910 |
+| Jailbreak | 64.00% | ~1,630 |
 | HEADSHOT! | 37.00% | ~942 |
 | Suited and Booted | 37.00% | ~942 |
-| Sleeping With The Fishes | 34.00% | ~865 |
+| Sleeping With The Fishes | 34.00% | ~866 |
 | High Performance | 30.00% | ~764 |
-| Overheated | 29.00% | ~738 |
-| Powered Up | 27.00% | ~687 |
+| Overheated | 29.00% | ~739 |
+| Powered Up | 27.00% | ~688 |
 | Studied The Blade | 24.00% | ~611 |
 | Home Invasion | 22.00% | ~560 |
 | Luminary | 22.00% | ~560 |
-| True Survivor | 21.00% | ~534 |
-| It's a Trap | 21.00% | ~534 |
+| True Survivor | 21.00% | ~535 |
+| It's a Trap | 21.00% | ~535 |
 | Offensive Defense | 20.00% | ~509 |
 | Shocking | 19.00% | ~484 |
 | Unforeseeable Consequences | 19.00% | ~484 |
@@ -31,12 +31,12 @@ Rating: 4.26 (Ranked 915)
 | Bad Dog | 13.00% | ~331 |
 | Risk Tolerant | 13.00% | ~331 |
 | What A Catchy Song | 13.00% | ~331 |
-| Where It All Began | 12.00% | ~305 |
-| Sorry, Didn't See You There | 12.00% | ~305 |
+| Where It All Began | 12.00% | ~306 |
+| Sorry, Didn't See You There | 12.00% | ~306 |
 | Corrupted Beauty | 11.00% | ~280 |
 | Marked For Success | 11.00% | ~280 |
-| Stimulating The Local Economy | 10.00% | ~254 |
-| Triplets | 10.00% | ~254 |
+| Stimulating The Local Economy | 10.00% | ~255 |
+| Triplets | 10.00% | ~255 |
 | A Little Banged Up | 8.00% | ~204 |
 | Denying Prophecy | 8.00% | ~204 |
 | Following In Their Footsteps | 8.00% | ~204 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 915)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,545 (Ranked 236)  
+Progressed: 2,547 (Ranked 236)  
 Completed: 13 (0.51%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 13 (0.51%) (Ranked 220)
 | 2024-01-06 | 2,499 | 13 |
 | 2024-01-07 | 2,519 | 13 |
 | 2024-01-08 | 2,534 | 13 |
-| 2024-01-09 | 2,545 | 13 |
+| 2024-01-09 | 2,547 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

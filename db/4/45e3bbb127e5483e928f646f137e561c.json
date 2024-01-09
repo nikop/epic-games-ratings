@@ -2,10 +2,10 @@
   "ID": "45e3bbb127e5483e928f646f137e561c",
   "Name": "Stop Dead",
   "ProductSlug": "stop-dead-c31d0b",
-  "Ranking_EOS_Progress": 822,
+  "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-05T13:01:15.6678512+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:59:14.9433739+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:03:39.4980021+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:59:17.6325555+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:03:52.2845812+00:00"
 }

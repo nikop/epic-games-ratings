@@ -11,33 +11,33 @@ Number of Ratings: 67  (23.09.2022)
 | Astarte | 2.00% | ~11 |
 | Close the Rift | 2.00% | ~11 |
 | Mammon | 2.00% | ~11 |
+| Demolition Derby | 1.00% | ~6 |
 | Hell's Forge | 1.00% | ~6 |
 | Master of Strife | 1.00% | ~6 |
 | Master of War | 1.00% | ~6 |
 | Mint II | 1.00% | ~6 |
 | The Dead Court | 1.00% | ~6 |
-| Demolition Derby | 0.90% | ~5 |
 | Good Deeds | 0.90% | ~5 |
 | Infested | 0.90% | ~5 |
 | Walking Armory | 0.90% | ~5 |
 | A Bullet for All Seasons | 0.70% | ~4 |
 | Mint III | 0.70% | ~4 |
 | Why'd It Have to Be Snakes? | 0.70% | ~4 |
+| Gatekeeper | 0.50% | ~3 |
 | Are You Not Entertained? | 0.40% | ~2 |
 | Collector | 0.40% | ~2 |
 | Full of Hell | 0.40% | ~2 |
-| Gatekeeper | 0.40% | ~2 |
 | Wicked Killington | 0.40% | ~2 |
 | Blademaster | 0.20% | ~1 |
+| Ready to Blow | 0.20% | ~1 |
 | Respect For Animals | 0.20% | ~1 |
 | The Promised End | 0.20% | ~1 |
 | Belial | 0.00% | ~0 |
 | Dagon | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |
-| Ready to Blow | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 567 (Ranked 340)  
+Progressed: 569 (Ranked 340)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 471 | 0 |
 | 2024-01-07 | 514 | 0 |
 | 2024-01-08 | 545 | 0 |
-| 2024-01-09 | 567 | 0 |
+| 2024-01-09 | 569 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 472)  
 Sum: 45 (Ranked 519)  

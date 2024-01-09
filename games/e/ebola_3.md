@@ -12,11 +12,11 @@
 | Doberman ✔ | 15.00% | ~49 |
 | Weapon ✔ | 12.00% | ~39 |
 | Chess ✔ | 10.00% | ~33 |
+| Survival ✔ | 9.00% | ~30 |
 | Master of Unlocking ✔ | 9.00% | ~30 |
-| Survival ✔ | 8.00% | ~26 |
+| Hospital ✔ | 8.00% | ~26 |
 | Thirst ✔ | 8.00% | ~26 |
 | City ✔ | 7.00% | ~23 |
-| Hospital ✔ | 7.00% | ~23 |
 | Fraternal help ✔ | 7.00% | ~23 |
 | Antivirus ✔ | 6.00% | ~20 |
 | Betty ✔ | 6.00% | ~20 |

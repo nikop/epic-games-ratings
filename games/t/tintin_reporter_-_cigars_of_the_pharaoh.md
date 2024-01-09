@@ -5,18 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 79.00% | ~100 |
-| A Loyal Friend | 44.00% | ~55 |
+| A Loyal Friend | 43.00% | ~55 |
 | Abandon Ship! | 33.00% | ~42 |
 | The Tomb of Kih-Oskh | 29.00% | ~37 |
 | The Weighing of the Soul | 25.00% | ~32 |
 | The Curse of Kih-Oskh | 20.00% | ~25 |
-| It's a Deal! | 17.00% | ~21 |
-| Cat Lover | 13.00% | ~16 |
-| Dynamite, Treason and Coconuts | 13.00% | ~16 |
+| It's a Deal! | 17.00% | ~22 |
+| Cat Lover | 13.00% | ~17 |
+| Dynamite, Treason and Coconuts | 13.00% | ~17 |
 | In the Name of the Law | 12.00% | ~15 |
+| Au Revoir, Abudin | 12.00% | ~15 |
 | Save a Friend | 12.00% | ~15 |
-| Au Revoir, Abudin | 11.00% | ~14 |
-| Mysterious Bungalow | 10.00% | ~13 |
+| Mysterious Bungalow | 9.00% | ~11 |
 | The Eyes! | 9.00% | ~11 |
 | Punctual | 9.00% | ~11 |
 | Barking Dog | 8.00% | ~10 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126 (Ranked 477)  
+Progressed: 127 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,4 +92,4 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 121 | 0 |
 | 2024-01-07 | 124 | 0 |
 | 2024-01-08 | 125 | 0 |
-| 2024-01-09 | 126 | 0 |
+| 2024-01-09 | 127 | 0 |

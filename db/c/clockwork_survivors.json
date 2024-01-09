@@ -2,10 +2,10 @@
   "ID": "7b159d99691f4460b5060b771344cc25",
   "Name": "Clockwork Survivors",
   "ProductSlug": "clockwork-survivors-c6b7c4",
-  "Ranking_EOS_Progress": 822,
+  "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-25T07:00:00+00:00",
     "PcReleaseDate": "2023-01-31T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.1232491+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:58:12.1429762+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:08:29.7666442+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:58:15.9715808+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:09:00.9882038+00:00"
 }

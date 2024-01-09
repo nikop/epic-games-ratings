@@ -6,25 +6,25 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~777 |
-| It’s Heating up! | 69.00% | ~734 |
-| Let’s patch things up | 65.00% | ~692 |
-| I can fix it! | 62.00% | ~660 |
-| Post No Bills | 55.00% | ~585 |
-| Truly Shocking! | 48.00% | ~511 |
-| Critical Thinker | 36.00% | ~383 |
+| Breathe In… Breathe Out… | 73.00% | ~778 |
+| It’s Heating up! | 69.00% | ~736 |
+| Let’s patch things up | 65.00% | ~693 |
+| I can fix it! | 62.00% | ~661 |
+| Post No Bills | 54.00% | ~576 |
+| Truly Shocking! | 47.00% | ~501 |
+| Critical Thinker | 35.00% | ~373 |
 | Act I Complete | 29.00% | ~309 |
 | Always Finding Your Mark | 29.00% | ~309 |
 | The Weight of the World | 29.00% | ~309 |
 | A drop in the Ocean | 28.00% | ~298 |
 | No Niños | 26.00% | ~277 |
-| I ain’t afraid of no Ghost | 24.00% | ~255 |
-| Act II Complete | 21.00% | ~223 |
-| Bing Bang BOOM | 19.00% | ~202 |
+| I ain’t afraid of no Ghost | 24.00% | ~256 |
+| Act II Complete | 21.00% | ~224 |
+| Bing Bang BOOM | 19.00% | ~203 |
 | A successful procedure! | 18.00% | ~192 |
 | Breaking the Ice | 18.00% | ~192 |
 | Solidarity Forever | 12.00% | ~128 |
-| A Tucked Tale | 10.00% | ~106 |
+| A Tucked Tale | 10.00% | ~107 |
 | The best thing money can buy | 9.00% | ~96 |
 | Act III Complete | 6.00% | ~64 |
 | See you Space Cowboy | 6.00% | ~64 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,064 (Ranked 290)  
+Progressed: 1,066 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 1,056 | 0 |
 | 2024-01-07 | 1,062 | 0 |
 | 2024-01-08 | 1,063 | 0 |
-| 2024-01-09 | 1,064 | 0 |
+| 2024-01-09 | 1,066 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

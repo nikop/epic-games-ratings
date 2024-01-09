@@ -2,10 +2,10 @@
   "ID": "0ee0178f383b4d5498beb7985f7b5860",
   "Name": "Wildfire - Ticket to Rock",
   "ProductSlug": "wildfire-ticket-to-rock-9e0e14",
-  "Ranking_EOS_Progress": 822,
+  "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-23T00:00:00+00:00",
     "PcReleaseDate": "2021-06-18T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:22.8862672+00:00",
   "LastChanged": "2023-03-31T05:58:22.8862673+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:21.0710225+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:05.6541962+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:04:50.4540555+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:08.4593087+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:05:02.4462055+00:00"
 }

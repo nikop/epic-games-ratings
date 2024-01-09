@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2232,9 +2232,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16306,
+  "EOS_Progressed": 16310,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19417,6 +19417,11 @@
       "Time": "2024-01-09T20:09:44.9063243+00:00",
       "NumProgressed": 16306,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-09T21:10:14.8537045+00:00",
+      "NumProgressed": 16310,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19506,9 +19511,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -19618,9 +19623,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_2",
       "SetID": "9201eeb",
       "Name": "Carthage - Riches and Influence",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
@@ -19906,9 +19911,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
       "SetID": "9201eeb",
       "Name": "Intercessor",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -20210,9 +20215,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble Difficulty",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -20746,9 +20751,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -21218,17 +21223,17 @@
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
       "SetID": "7l38kb8",
       "Name": "Manichaeism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyrian Paganism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -21250,9 +21255,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -21410,9 +21415,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
       "SetID": "7l38kb8",
       "Name": "Legalism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -22291,21 +22296,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16306,
+      "Progressed": 16310,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16306,
+      "Progressed": 16310,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-09T05:02:49.0806012+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:44.906324+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:10:14.8537042+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:08.6352265+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:44.9074405+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:11.4828835+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:10:14.854792+00:00"
 }

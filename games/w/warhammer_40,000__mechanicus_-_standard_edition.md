@@ -5,11 +5,11 @@ Rating: 4.43 (Ranked 725)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,276 |
-| This is only the beginning | 20.00% | ~46,366 |
-| Knowledge is power | 13.00% | ~30,138 |
-| Galvanic Rifle | 10.00% | ~23,183 |
-| Radium Ready | 10.00% | ~23,183 |
+| No aid from the Omnissiah | 26.00% | ~60,277 |
+| This is only the beginning | 20.00% | ~46,367 |
+| Knowledge is power | 13.00% | ~30,139 |
+| Galvanic Rifle | 10.00% | ~23,184 |
+| Radium Ready | 10.00% | ~23,184 |
 | Power Ranger | 9.00% | ~20,865 |
 | Taser Goad | 9.00% | ~20,865 |
 | Half a cog | 9.00% | ~20,865 |
@@ -26,7 +26,7 @@ Rating: 4.43 (Ranked 725)
 | Architect Abortion | 2.00% | ~4,637 |
 | Cohortus Maximus | 0.80% | ~1,855 |
 | Mother of Xenarites | 0.40% | ~927 |
-| False God | 0.30% | ~695 |
+| False God | 0.30% | ~696 |
 | Hard | 0.20% | ~464 |
 | Sensory overload | 0.20% | ~464 |
 | Transonic Blur | 0.20% | ~464 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 725)
 | Perma-live | 0.10% | ~232 |
 | Purge the Heretek | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,832 (Ranked 77)  
+Progressed: 231,835 (Ranked 77)  
 Completed: 5 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 5 (0.00%) (Ranked 394)
 | 2024-01-06 | 231,558 | 5 |
 | 2024-01-07 | 231,678 | 5 |
 | 2024-01-08 | 231,760 | 5 |
-| 2024-01-09 | 231,832 | 5 |
+| 2024-01-09 | 231,835 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 265)  
 Sum: 2,227 (Ranked 210)  

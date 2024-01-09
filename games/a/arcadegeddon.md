@@ -31,7 +31,7 @@ Number of Ratings: 801  (23.09.2022)
 | Grey Goo | 16.00% | ~1,654 |
 | Boss of Bosses | 14.00% | ~1,447 |
 | The Final Blow | 14.00% | ~1,447 |
-| To Be Continued | 12.00% | ~1,240 |
+| To Be Continued | 13.00% | ~1,344 |
 | Light My Fire | 11.00% | ~1,137 |
 | Seasoned Adventurer | 11.00% | ~1,137 |
 | Get In The Ring! | 9.00% | ~930 |

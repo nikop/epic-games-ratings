@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 95.00% | ~144 |
-| MLG 360 no scope kill! | 95.00% | ~144 |
-| Are you ready to rumble? | 95.00% | ~144 |
-| That's what cheese said! | 90.00% | ~137 |
-| AHHHHHH.....I'M ON FIRE!!! | 88.00% | ~134 |
-| I like you...but I have to kill you... | 88.00% | ~134 |
-| Not so hip anymore! | 86.00% | ~131 |
+| Tastes just like chicken! | 95.00% | ~145 |
+| MLG 360 no scope kill! | 95.00% | ~145 |
+| Are you ready to rumble? | 95.00% | ~145 |
+| That's what cheese said! | 90.00% | ~138 |
+| AHHHHHH.....I'M ON FIRE!!! | 88.00% | ~135 |
+| I like you...but I have to kill you... | 88.00% | ~135 |
+| Not so hip anymore! | 86.00% | ~132 |
 | Blurry depth perception | 82.00% | ~125 |
-| Nerd | 81.00% | ~123 |
+| Nerd | 81.00% | ~124 |
 | Up and down | 80.00% | ~122 |
-| Rolling, Rolling, Rolling | 77.00% | ~117 |
-| Fire-fighter! | 67.00% | ~102 |
-| Oh, you're up to no gouda! | 66.00% | ~100 |
+| Rolling, Rolling, Rolling | 77.00% | ~118 |
+| Fire-fighter! | 67.00% | ~103 |
+| Oh, you're up to no gouda! | 65.00% | ~99 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~96 |
-| Meat grinder | 62.00% | ~94 |
-| You're not going to blow me up! | 57.00% | ~87 |
-| Mushroom soup of the day | 54.00% | ~82 |
+| Meat grinder | 61.00% | ~93 |
+| You're not going to blow me up! | 56.00% | ~86 |
+| Mushroom soup of the day | 54.00% | ~83 |
 | Butcher | 51.00% | ~78 |
 | Spare Ribs | 51.00% | ~78 |
 | Cockadoodledoo! | 51.00% | ~78 |
@@ -28,28 +28,28 @@
 | Thats disgusting! | 50.00% | ~76 |
 | My pants squeak when I walk | 46.00% | ~70 |
 | Surprise!! | 44.00% | ~67 |
-| Self assessed tax return | 43.00% | ~65 |
+| Self assessed tax return | 43.00% | ~66 |
 | Haemochromatosis | 42.00% | ~64 |
 | Make America Grate Again | 40.00% | ~61 |
-| You can't stop me, bro! | 38.00% | ~58 |
-| Pasta Bolognese | 38.00% | ~58 |
-| You are no match for me, Billy! | 37.00% | ~56 |
-| Karaoke king | 35.00% | ~53 |
-| Meatballs, coming up! | 34.00% | ~52 |
+| You are no match for me, Billy! | 37.00% | ~57 |
+| You can't stop me, bro! | 37.00% | ~57 |
+| Pasta Bolognese | 37.00% | ~57 |
+| Karaoke king | 35.00% | ~54 |
 | Catch the bus with me! | 34.00% | ~52 |
+| Meatballs, coming up! | 33.00% | ~50 |
 | I'm going to get a concussion | 33.00% | ~50 |
 | Another one bites the iron | 33.00% | ~50 |
 | Ripe Meat Off The Bone! | 28.00% | ~43 |
-| Kleptomaniac | 28.00% | ~43 |
 | A Megapint...? | 27.00% | ~41 |
 | Hovering around | 27.00% | ~41 |
-| You're not so Big anymore, Boi! | 26.00% | ~40 |
+| Kleptomaniac | 27.00% | ~41 |
 | Your daily dose of Vitamin C. | 26.00% | ~40 |
-| I cant stand still! | 24.00% | ~36 |
+| You're not so Big anymore, Boi! | 25.00% | ~38 |
+| I cant stand still! | 24.00% | ~37 |
 | Slimy... yet satisfying | 23.00% | ~35 |
-| Master Butcher | 20.00% | ~30 |
+| Master Butcher | 20.00% | ~31 |
 | Deal with it | 19.00% | ~29 |
-| Just wing it! | 18.00% | ~27 |
+| Just wing it! | 18.00% | ~28 |
 | Yeehaw!!! | 15.00% | ~23 |
 | You're looking mozzare-hella good! | 14.00% | ~21 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~20 |
@@ -57,10 +57,10 @@
 | Free Of Chains | 12.00% | ~18 |
 | Grumpy Immortal | 11.00% | ~17 |
 | Spoiler alert! | 10.00% | ~15 |
-| Ancient Ruins of Moist Overhangs | 9.00% | ~14 |
 | I want to throw up! | 9.00% | ~14 |
 | I drink, but I'm not a drunk! | 9.00% | ~14 |
-| My name is Whoopass, SIR Whoopass! | 9.00% | ~14 |
+| Ancient Ruins of Moist Overhangs | 8.00% | ~12 |
+| My name is Whoopass, SIR Whoopass! | 8.00% | ~12 |
 | Scrambled Eggs | 8.00% | ~12 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~8 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~8 |
@@ -87,7 +87,7 @@
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152 (Ranked 457)  
+Progressed: 153 (Ranked 456)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,3 +157,4 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-03 | 148 | 0 |
 | 2024-01-04 | 150 | 0 |
 | 2024-01-05 | 152 | 0 |
+| 2024-01-09 | 153 | 0 |

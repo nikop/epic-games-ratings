@@ -8791,18 +8791,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 12660,
       "NumberOfAwardsMax": 7154
+    },
+    {
+      "Time": "2024-01-09T21:02:58.5440986+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12672,
+      "NumberOfAwardsMax": 7166
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12660,
-  "NumberOfAwardsMax": 7154,
+  "NumberOfAwards": 12672,
+  "NumberOfAwardsMax": 7166,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7154
+      "Count": 7166
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8871,9 +8877,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 758224,
+  "EOS_Progressed": 758245,
   "EOS_Completed": 12980,
-  "EOS_NewPlayers": 6086,
+  "EOS_NewPlayers": 6090,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33066,6 +33072,11 @@
       "Time": "2024-01-09T20:08:54.0552163+00:00",
       "NumProgressed": 758224,
       "NumCompleted": 12980
+    },
+    {
+      "Time": "2024-01-09T21:09:24.7849063+00:00",
+      "NumProgressed": 758245,
+      "NumCompleted": 12980
     }
   ],
   "TotalAchievements": 60,
@@ -33077,7 +33088,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45493
+      "UsersEstimate": 45495
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33085,7 +33096,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30329
+      "UsersEstimate": 30330
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33101,7 +33112,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15164
+      "UsersEstimate": 15165
     },
     {
       "ID": "05_Vengeance_H4",
@@ -33109,7 +33120,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15164
+      "UsersEstimate": 15165
     },
     {
       "ID": "06_Vengeance_H5",
@@ -33181,7 +33192,7 @@
       "Name": "Kill Nil",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15164
+      "UsersEstimate": 15165
     },
     {
       "ID": "15_Detective_H1",
@@ -33229,7 +33240,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15164
+      "UsersEstimate": 15165
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -33245,7 +33256,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15164
+      "UsersEstimate": 15165
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -33253,7 +33264,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37911
+      "UsersEstimate": 37912
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33277,7 +33288,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15164
+      "UsersEstimate": 15165
     },
     {
       "ID": "27_ShrineBody",
@@ -33309,7 +33320,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15164
+      "UsersEstimate": 15165
     },
     {
       "ID": "31_ComboHigh",
@@ -33341,7 +33352,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30329
+      "UsersEstimate": 30330
     },
     {
       "ID": "35_WideStrike",
@@ -33357,7 +33368,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15164
+      "UsersEstimate": 15165
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -33365,7 +33376,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15164
+      "UsersEstimate": 15165
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -33403,9 +33414,9 @@
       "ID": "42_PhotoMode_Trophy",
       "SetID": "adcm20g",
       "Name": "Come Snap With Me",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2275
+      "UsersEstimate": 3033
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -33421,7 +33432,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -33556,21 +33567,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 67525,
+      "Progressed": 67546,
       "Completed": 10801
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 758224,
+      "Progressed": 758245,
       "Completed": 12980
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-09T18:03:15.9219898+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:08:54.0552159+00:00",
+  "LastChanged": "2024-01-09T21:02:58.5440984+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:09:24.784906+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:02:48.0906473+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:08:54.0553974+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:02:58.544099+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:09:24.7850899+00:00"
 }

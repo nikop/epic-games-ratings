@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 373,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -401,6 +401,11 @@
       "Time": "2024-01-09T20:09:04.7962356+00:00",
       "NumProgressed": 74,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T21:09:35.4750063+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 49,
@@ -522,7 +527,7 @@
       "ID": "fights7",
       "SetID": "c64if4d",
       "Name": "Vene, vidi, vici",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -634,7 +639,7 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 20,
       "UsersEstimate": 65
     },
@@ -666,7 +671,7 @@
       "ID": "story13",
       "SetID": "c64if4d",
       "Name": "Trial by cold",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -722,7 +727,7 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 34
     },
@@ -803,7 +808,7 @@
     {
       "ID": "c64if4d",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 0
     }
   ],
@@ -811,8 +816,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:04.7962353+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:09:35.4750061+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.685228+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:00:32.4856287+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:04.7962773+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:02:34.7103216+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:09:35.4750454+00:00"
 }

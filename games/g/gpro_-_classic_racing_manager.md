@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 75.00% | ~398 |
-| Photo shoot | 16.00% | ~85 |
-| No brakes | 13.00% | ~69 |
-| Wannabe | 11.00% | ~58 |
-| First taste | 8.00% | ~42 |
-| Amateur hitchhiker | 7.00% | ~37 |
-| Better than cake | 7.00% | ~37 |
+| Newbie | 75.00% | ~402 |
+| Photo shoot | 16.00% | ~86 |
+| No brakes | 13.00% | ~70 |
+| Wannabe | 11.00% | ~59 |
+| First taste | 8.00% | ~43 |
+| Amateur hitchhiker | 7.00% | ~38 |
+| Better than cake | 7.00% | ~38 |
 | Amateur newbie | 3.00% | ~16 |
 | Reliability expert | 3.00% | ~16 |
-| Hero | 2.00% | ~11 |
 | Drama queen | 2.00% | ~11 |
 | Mr. Whiting | 2.00% | ~11 |
 | Hattrick | 2.00% | ~11 |
 | On the top | 2.00% | ~11 |
 | Loyalty | 1.00% | ~5 |
+| Hero | 1.00% | ~5 |
 | No brakes Amateur | 1.00% | ~5 |
 | Amateur photo shoot | 1.00% | ~5 |
-| Amateur wannabe | 0.80% | ~4 |
-| Addict | 0.80% | ~4 |
-| Untouchable | 0.80% | ~4 |
+| Amateur wannabe | 0.70% | ~4 |
+| Addict | 0.70% | ~4 |
+| Untouchable | 0.70% | ~4 |
 | Monster Amateur car | 0.60% | ~3 |
 | Pro hitchhiker | 0.60% | ~3 |
 | First Amateur taste | 0.60% | ~3 |
@@ -45,6 +45,7 @@
 | Amateur top racer | 0.20% | ~1 |
 | Pro top pit crew | 0.20% | ~1 |
 | Amateur blue flag wonder | 0.20% | ~1 |
+| Wet qualifying record breaker | 0.20% | ~1 |
 | First Pro taste | 0.20% | ~1 |
 | Top Amateur | 0.20% | ~1 |
 | Standing tall | 0.20% | ~1 |
@@ -141,7 +142,6 @@
 | Pro hattrick legend | 0.00% | ~0 |
 | Master hattrick legend | 0.00% | ~0 |
 | Elite hattrick legend | 0.00% | ~0 |
-| Wet qualifying record breaker | 0.00% | ~0 |
 | Wet record breaker | 0.00% | ~0 |
 | Elite polesitter | 0.00% | ~0 |
 | Master polesitter | 0.00% | ~0 |
@@ -167,7 +167,7 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530 (Ranked 344)  
+Progressed: 536 (Ranked 344)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,4 +312,4 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-01 | 513 | 0 |
 | 2024-01-04 | 514 | 0 |
 | 2024-01-05 | 529 | 0 |
-| 2024-01-09 | 530 | 0 |
+| 2024-01-09 | 536 | 0 |

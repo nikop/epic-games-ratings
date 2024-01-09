@@ -2,10 +2,10 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1121,
+  "EOS_Progressed": 1122,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4374,6 +4374,11 @@
       "Time": "2024-01-09T19:10:56.0231416+00:00",
       "NumProgressed": 1121,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T21:10:07.1133266+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4385,7 +4390,7 @@
       "Name": "Great Luck",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ActivePause",
@@ -4401,7 +4406,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "BigPlane",
@@ -4409,7 +4414,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "BudgetFlight",
@@ -4537,7 +4542,7 @@
       "Name": "Legendary transporter",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LinearNetwork",
@@ -4569,7 +4574,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Millionaire",
@@ -4601,7 +4606,7 @@
       "Name": "No Way Back",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "NotPlanned",
@@ -4705,7 +4710,7 @@
       "Name": "Time for Management",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "TransportHub",
@@ -4720,14 +4725,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1121,
+      "Progressed": 1122,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:36.5819966+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:10:07.1133263+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.0647724+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:59:33.2310293+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:36.5820537+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:59:36.3362219+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:10:07.1133676+00:00"
 }

@@ -49,19 +49,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.80% | ~130 |
 | Able Difficulty | 0.80% | ~130 |
 | Furious Family | 0.80% | ~130 |
+| Acropolis | 0.80% | ~130 |
 | Apadana | 0.80% | ~130 |
 | Necropolis | 0.80% | ~130 |
 | Learn to Play 2 | 0.80% | ~130 |
+| Manichaeism | 0.80% | ~130 |
 | Carthaginian Paganism | 0.80% | ~130 |
+| Egyptian Paganism | 0.80% | ~130 |
 | Regicide | 0.70% | ~114 |
 | Drillmaster | 0.70% | ~114 |
 | Legendary Cities | 0.70% | ~114 |
-| Acropolis | 0.70% | ~114 |
 | Mausoleum | 0.70% | ~114 |
 | Musaeum | 0.70% | ~114 |
-| Manichaeism | 0.70% | ~114 |
-| Egyptian Paganism | 0.70% | ~114 |
+| Hanging Gardens in Babylon | 0.60% | ~98 |
 | Beloved | 0.60% | ~98 |
+| Intercessor | 0.60% | ~98 |
 | Valiant | 0.60% | ~98 |
 | Just Difficulty | 0.60% | ~98 |
 | Artisans | 0.60% | ~98 |
@@ -69,8 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.60% | ~98 |
 | Building Wonders | 0.60% | ~98 |
 | Mythology | 0.60% | ~98 |
-| Hanging Gardens in Babylon | 0.50% | ~82 |
-| Intercessor | 0.50% | ~82 |
 | Mighty | 0.50% | ~82 |
 | Good Difficulty | 0.50% | ~82 |
 | Champions | 0.50% | ~82 |
@@ -96,9 +96,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.40% | ~65 |
 | Via Recta Souk | 0.40% | ~65 |
 | Greece | 0.40% | ~65 |
+| Assyrian Paganism | 0.40% | ~65 |
 | Economic Reform | 0.40% | ~65 |
 | Military Prestige | 0.40% | ~65 |
 | Dualism | 0.40% | ~65 |
+| Legalism | 0.40% | ~65 |
 | Cimmerian Archer | 0.40% | ~65 |
 | Legionary | 0.40% | ~65 |
 | Double Victory | 0.40% | ~65 |
@@ -116,11 +118,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.30% | ~49 |
 | Egypt | 0.30% | ~49 |
 | Rome | 0.30% | ~49 |
-| Assyrian Paganism | 0.30% | ~49 |
 | Industrial Progress | 0.30% | ~49 |
 | Enlightenment | 0.30% | ~49 |
 | Gnosticism | 0.30% | ~49 |
-| Legalism | 0.30% | ~49 |
 | Redemption | 0.30% | ~49 |
 | Revelation | 0.30% | ~49 |
 | Veneration | 0.30% | ~49 |
@@ -135,7 +135,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 0.30% | ~49 |
 | Ishtar Gate in Babylon | 0.20% | ~33 |
 | Carthage - Ox Hide | 0.20% | ~33 |
+| Carthage - Riches and Influence | 0.20% | ~33 |
 | Old | 0.20% | ~33 |
+| Noble Difficulty | 0.20% | ~33 |
 | Church of the Holy Sepulchre | 0.20% | ~33 |
 | Cao'an | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
@@ -165,7 +167,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 1) | 0.10% | ~16 |
 | Gold Victory (Carthage 1) | 0.10% | ~16 |
 | Silver Victory (Carthage 1) | 0.10% | ~16 |
-| Carthage - Riches and Influence | 0.10% | ~16 |
 | Bronze Victory (Carthage 2) | 0.10% | ~16 |
 | Epic Victory (Carthage 2) | 0.10% | ~16 |
 | Gold Victory (Carthage 2) | 0.10% | ~16 |
@@ -192,7 +193,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.10% | ~16 |
 | Great Difficulty | 0.10% | ~16 |
 | Magnificent Difficulty | 0.10% | ~16 |
-| Noble Difficulty | 0.10% | ~16 |
 | Elephant in Elephantine | 0.10% | ~16 |
 | Et tu Brutus? | 0.10% | ~16 |
 | Event Level High | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,306 (Ranked 169)  
+Progressed: 16,310 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,306 | 5 |
+| 2024-01-09 | 16,310 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,918 (Ranked 224)  

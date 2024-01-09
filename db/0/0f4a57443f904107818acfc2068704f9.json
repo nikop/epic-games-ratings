@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1284,
+  "EOS_Progressed": 1285,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -3327,6 +3327,11 @@
       "Time": "2024-01-09T07:04:07.0920664+00:00",
       "NumProgressed": 1284,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T21:03:40.2124364+00:00",
+      "NumProgressed": 1285,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3483,7 +3488,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "CompleteChapter3",
@@ -3491,7 +3496,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "CompleteChapter4",
@@ -3529,9 +3534,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 206
     },
     {
       "ID": "CompleteChapter9",
@@ -3634,14 +3639,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1284,
+      "Progressed": 1285,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:03:26.7291203+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:03:40.2124361+00:00",
   "LastUpdate_AppInfo": "2024-01-05T10:56:56.5895712+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:59:02.374109+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:03:26.7291541+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:59:05.1459314+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:03:40.2124775+00:00"
 }

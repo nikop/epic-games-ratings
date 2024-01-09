@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2467,6 +2467,11 @@
       "Time": "2024-01-09T18:10:43.6920914+00:00",
       "NumProgressed": 681,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T21:10:00.5100878+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2478,7 +2483,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 45,
       "XP": 60,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "completeact2",
@@ -2516,9 +2521,9 @@
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 89
     },
     {
       "ID": "scoreminrankrb2",
@@ -2548,9 +2553,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 177
+      "UsersEstimate": 184
     },
     {
       "ID": "scoreminrankrp1",
@@ -2597,7 +2602,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 3
     }
   ],
@@ -2605,8 +2610,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:30.0823624+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:10:00.5100876+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:58:45.3221054+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:30.0823805+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:58:47.9536525+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:10:00.5101065+00:00"
 }

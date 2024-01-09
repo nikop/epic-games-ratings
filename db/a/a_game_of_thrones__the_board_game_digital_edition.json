@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1330,10 +1330,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 809,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2024-01-09T20:57:01.7893221+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 810,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 809,
+  "NumberOfAwards": 810,
   "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1341,7 +1347,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 112
+      "Count": 113
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1392,9 +1398,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33000,
+  "EOS_Progressed": 33003,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29867,6 +29873,11 @@
       "Time": "2024-01-09T20:09:21.6435458+00:00",
       "NumProgressed": 33000,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-09T21:09:51.8973595+00:00",
+      "NumProgressed": 33003,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29982,7 +29993,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5940
+      "UsersEstimate": 5941
     },
     {
       "ID": "1029",
@@ -29998,7 +30009,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6270
+      "UsersEstimate": 6271
     },
     {
       "ID": "1031",
@@ -30014,7 +30025,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13200
+      "UsersEstimate": 13201
     },
     {
       "ID": "1033",
@@ -30053,15 +30064,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33000,
+      "Progressed": 33003,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2024-01-05T16:59:15.5205633+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:21.6435455+00:00",
+  "LastChanged": "2024-01-09T20:57:01.7893219+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:09:51.8973592+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:02:51.1935654+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:21.6437228+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:01.7893224+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:09:51.8975184+00:00"
 }

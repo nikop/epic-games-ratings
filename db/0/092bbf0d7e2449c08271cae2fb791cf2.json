@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 540,
+  "EOS_Progressed": 541,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 1.3,
+  "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -1794,6 +1794,11 @@
       "Time": "2024-01-09T20:06:06.7037779+00:00",
       "NumProgressed": 540,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T21:06:19.3338751+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1854,21 +1859,21 @@
       "Name": "Snail Racing Champion",
       "Percentage": 11,
       "XP": 145,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 540,
+      "Progressed": 541,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:06:06.7037775+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:06:19.3338746+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:58:37.7560665+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:06:06.7037942+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:58:40.3937266+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:06:19.3338918+00:00"
 }

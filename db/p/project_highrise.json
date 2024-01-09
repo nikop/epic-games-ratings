@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1670,6 +1670,11 @@
       "Time": "2024-01-09T17:05:26.4133564+00:00",
       "NumProgressed": 508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T21:04:16.2146476+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1697,7 +1702,7 @@
       "Name": "Lux Living",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_apartments_2",
@@ -1729,7 +1734,7 @@
       "Name": "Artfully Done",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_art_large",
@@ -1889,7 +1894,7 @@
       "Name": "Proper Walls",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ach_drones",
@@ -2009,7 +2014,7 @@
       "Name": "Water Features",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_grime",
@@ -2017,7 +2022,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ach_grime_1",
@@ -2025,7 +2030,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ach_grime_2",
@@ -2089,7 +2094,7 @@
       "Name": "Meet Me at HQ",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_plaza",
@@ -2103,9 +2108,9 @@
       "ID": "ach_pop_1",
       "SetID": "b8gh1fi",
       "Name": "People Mover",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_pop_2",
@@ -2145,7 +2150,7 @@
       "Name": "In the Black",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ach_profit_1",
@@ -2193,7 +2198,7 @@
       "Name": "Tasty Profits",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_restaurants_3",
@@ -2233,15 +2238,15 @@
       "Name": "Emporium Empire",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_retail_4",
@@ -2265,7 +2270,7 @@
       "Name": "Revenue Royalty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_revs_3",
@@ -2281,7 +2286,7 @@
       "Name": "Golden Opportunity",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_scenarios_2",
@@ -2321,7 +2326,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_util_cable",
@@ -2353,7 +2358,7 @@
       "Name": "Get Electrified",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_util_water",
@@ -2361,7 +2366,7 @@
       "Name": "Pipe Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_veryhappy",
@@ -2377,14 +2382,14 @@
       "Name": "Destination Destiny",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 0
     }
   ],
@@ -2392,8 +2397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:04:03.8882501+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:04:16.2146471+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:59.8690807+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:04:03.8883471+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:58:02.3684676+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:04:16.2147352+00:00"
 }

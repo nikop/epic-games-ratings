@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524,
+  "EOS_Progressed": 525,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.34,
+  "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -915,6 +915,11 @@
       "Time": "2024-01-08T15:05:56.4912821+00:00",
       "NumProgressed": 524,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T21:05:21.9618624+00:00",
+      "NumProgressed": 525,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -926,7 +931,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "dep4_achievement_10",
@@ -966,7 +971,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "dep4_achievement_15",
@@ -1006,7 +1011,7 @@
       "Name": "FunScore",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "dep4_achievement_2",
@@ -1014,7 +1019,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "dep4_achievement_20",
@@ -1054,7 +1059,7 @@
       "Name": "Thuna...?",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "dep4_achievement_25",
@@ -1062,7 +1067,7 @@
       "Name": "Monstrous Harassment",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "dep4_achievement_26",
@@ -1078,7 +1083,7 @@
       "Name": "The customer is always right",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "dep4_achievement_28",
@@ -1086,7 +1091,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "dep4_achievement_29",
@@ -1094,7 +1099,7 @@
       "Name": "Pacifist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "dep4_achievement_3",
@@ -1134,7 +1139,7 @@
       "Name": "Heading the inverter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "dep4_achievement_34",
@@ -1142,7 +1147,7 @@
       "Name": "Apoca...huh?",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "dep4_achievement_35",
@@ -1166,7 +1171,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "dep4_achievement_5",
@@ -1174,7 +1179,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "dep4_achievement_6",
@@ -1182,7 +1187,7 @@
       "Name": "School\u0027s out",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "dep4_achievement_7",
@@ -1206,14 +1211,14 @@
       "Name": "Against better judgement",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 524,
+      "Progressed": 525,
       "Completed": 7
     }
   ],
@@ -1221,8 +1226,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:05:09.9959161+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:05:21.9618621+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.8157844+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:02:52.1166459+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:05:09.9959422+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:03:02.7654374+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:05:21.961887+00:00"
 }

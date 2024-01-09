@@ -4,8 +4,8 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 530,
+  "EOS_Progressed": 536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1214,6 +1214,11 @@
       "Time": "2024-01-09T17:11:01.5348431+00:00",
       "NumProgressed": 530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T21:10:13.292553+00:00",
+      "NumProgressed": 536,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1225,7 +1230,7 @@
       "Name": "First taste",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1289,7 +1294,7 @@
       "Name": "Newbie",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 402
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1361,7 +1366,7 @@
       "Name": "Amateur hitchhiker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_189",
@@ -1377,7 +1382,7 @@
       "Name": "Wannabe",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_190",
@@ -1439,9 +1444,9 @@
       "ID": "ACHIEVEMENT_198",
       "SetID": "76k7b7p",
       "Name": "Hero",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_199",
@@ -1465,7 +1470,7 @@
       "Name": "Better than cake",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -1519,7 +1524,7 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "76k7b7p",
       "Name": "Amateur wannabe",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1729,7 +1734,7 @@
       "Name": "No brakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1903,7 +1908,7 @@
       "ID": "ACHIEVEMENT_304",
       "SetID": "76k7b7p",
       "Name": "Addict",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -2255,9 +2260,9 @@
       "ID": "ACHIEVEMENT_364",
       "SetID": "76k7b7p",
       "Name": "Wet qualifying record breaker",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_365",
@@ -2345,7 +2350,7 @@
       "Name": "Photo shoot",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -2415,7 +2420,7 @@
       "ID": "ACHIEVEMENT_85",
       "SetID": "76k7b7p",
       "Name": "Untouchable",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -2520,14 +2525,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 530,
+      "Progressed": 536,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:43.3154202+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:10:13.2925525+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:11.952044+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:00:14.3902519+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:43.3156585+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:00:15.7287942+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:10:13.2928131+00:00"
 }

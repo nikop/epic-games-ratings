@@ -1,26 +1,26 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 357)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 77.00% | ~323 |
-| Kaijuiced | 71.00% | ~298 |
-| Lie Back and Think of Albion | 66.00% | ~277 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 62.00% | ~260 |
+| Shop Til They Drop | 77.00% | ~324 |
+| Kaijuiced | 71.00% | ~299 |
+| Lie Back and Think of Albion | 66.00% | ~278 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~265 |
 | I Look Up As I Walk to Takoshima | 59.00% | ~248 |
 | Yettisoned | 58.00% | ~244 |
-| Pimp My Raid | 56.00% | ~235 |
-| Perfect Probulator | 56.00% | ~235 |
-| Lobster Blisque | 50.00% | ~210 |
+| Pimp My Raid | 57.00% | ~240 |
+| Perfect Probulator | 56.00% | ~236 |
+| Lobster Blisque | 51.00% | ~215 |
 | Fly Me to the Moon Base | 48.00% | ~202 |
 | Earthly Pleasures | 48.00% | ~202 |
 | Ducks in a Row, Fish in a Barrel | 45.00% | ~189 |
-| Forbidden Donut | 36.00% | ~151 |
-| Freshly Squeezed | 36.00% | ~151 |
-| Bodied Sattva | 36.00% | ~151 |
+| Forbidden Donut | 36.00% | ~152 |
+| Freshly Squeezed | 36.00% | ~152 |
+| Bodied Sattva | 36.00% | ~152 |
 | Upgreatest | 35.00% | ~147 |
 | Deincarnated | 29.00% | ~122 |
 | Rock of the Bay | 29.00% | ~122 |
@@ -31,8 +31,8 @@ Number of Ratings: 85  (23.09.2022)
 | Ouch of Body Experience | 16.00% | ~67 |
 | If You Know What I Mean | 16.00% | ~67 |
 | Die Nasty | 16.00% | ~67 |
+| Mash Machine | 16.00% | ~67 |
 | Hidden Human Hive Harvest | 15.00% | ~63 |
-| Mash Machine | 15.00% | ~63 |
 | Albion Bridge Is for Falling Down | 14.00% | ~59 |
 | Dusted | 13.00% | ~55 |
 | Scuttled | 11.00% | ~46 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~8 |
 | Against All Odds | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420 (Ranked 364)  
+Progressed: 421 (Ranked 364)  
 Completed: 5 (1.19%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 5 (1.19%) (Ranked 163)
 | 2024-01-06 | 367 | 5 |
 | 2024-01-07 | 392 | 5 |
 | 2024-01-08 | 406 | 5 |
-| 2024-01-09 | 420 | 5 |
+| 2024-01-09 | 421 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 504)  
 Sum: 35 (Ranked 533)  

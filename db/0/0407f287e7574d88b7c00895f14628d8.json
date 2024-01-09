@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -819,6 +819,11 @@
       "Time": "2024-01-09T18:06:19.716352+00:00",
       "NumProgressed": 200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T21:05:06.622913+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -837,9 +842,9 @@
       "ID": "c1",
       "SetID": "b1ggf28",
       "Name": "Thorough Cleaning",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "c2",
@@ -861,17 +866,17 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "dl2",
       "SetID": "b1ggf28",
       "Name": "Road Planning",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "dl3",
@@ -885,17 +890,17 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "f2",
       "SetID": "b1ggf28",
       "Name": "Tasty Food",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "f3",
@@ -909,17 +914,17 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 96
     },
     {
       "ID": "fw2",
       "SetID": "b1ggf28",
       "Name": "Administrator",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "fw3",
@@ -935,7 +940,7 @@
       "Name": "Skilled Workers",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "g2",
@@ -949,17 +954,17 @@
       "ID": "g3",
       "SetID": "b1ggf28",
       "Name": "Handcart",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "j1",
       "SetID": "b1ggf28",
       "Name": "Civilized Land",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "j2",
@@ -973,9 +978,9 @@
       "ID": "j3",
       "SetID": "b1ggf28",
       "Name": "Knowledge is Infinite",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "jg1",
@@ -989,9 +994,9 @@
       "ID": "jg2",
       "SetID": "b1ggf28",
       "Name": "Waterpower",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "jg3",
@@ -1021,9 +1026,9 @@
       "ID": "jk3",
       "SetID": "b1ggf28",
       "Name": "Robust Settlers",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "jz1",
@@ -1077,17 +1082,17 @@
       "ID": "m1",
       "SetID": "b1ggf28",
       "Name": "Animal Imports",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "m2",
       "SetID": "b1ggf28",
       "Name": "Keep Ordering",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "m3",
@@ -1109,9 +1114,9 @@
       "ID": "r2",
       "SetID": "b1ggf28",
       "Name": "A Welcoming Settlement",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "r3",
@@ -1133,9 +1138,9 @@
       "ID": "storya2",
       "SetID": "b1ggf28",
       "Name": "Business Mind",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "w1",
@@ -1143,7 +1148,7 @@
       "Name": "Against the Cold",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "w2",
@@ -1157,17 +1162,17 @@
       "ID": "w3",
       "SetID": "b1ggf28",
       "Name": "Luxury Clothes",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "x1",
       "SetID": "b1ggf28",
       "Name": "Happiness Maintainer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "x2",
@@ -1181,17 +1186,17 @@
       "ID": "x3",
       "SetID": "b1ggf28",
       "Name": "Happiness",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "zf1",
       "SetID": "b1ggf28",
       "Name": "Cozy Houses",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "zf2",
@@ -1221,9 +1226,9 @@
       "ID": "zn2",
       "SetID": "b1ggf28",
       "Name": "Goof-off Hero",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "zn3",
@@ -1238,14 +1243,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:04:54.4891901+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:05:06.6229125+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-09T20:02:43.184724+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:04:54.4892296+00:00"
+  "LastUpdate_Ratings": "2024-01-09T21:02:53.8175684+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:05:06.6229589+00:00"
 }

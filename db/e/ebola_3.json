@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1585,9 +1585,9 @@
       "ID": "achExplosion",
       "SetID": "72gjli4",
       "Name": "Survival \u2714",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "achFood",
@@ -1609,9 +1609,9 @@
       "ID": "achHospital",
       "SetID": "72gjli4",
       "Name": "Hospital \u2714",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "achIvan",
@@ -1834,8 +1834,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:40.382485+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:10:10.605028+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.688521+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:58:53.5503268+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:40.3825729+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:58:56.3599676+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:10:10.6051308+00:00"
 }

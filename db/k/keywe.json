@@ -4,8 +4,8 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -790,9 +790,9 @@
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "completeTheFirstWeek",
@@ -885,8 +885,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:05:55.6763898+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:06:08.5278295+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.6179854+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:58:48.8134001+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:05:55.6764171+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:58:51.3060737+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:06:08.5278593+00:00"
 }

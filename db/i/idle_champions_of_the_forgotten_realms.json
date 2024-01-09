@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1034,
+  "Ranking_Rating": 1035,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
@@ -9427,9 +9427,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253005,
+  "EOS_Progressed": 253016,
   "EOS_Completed": 2605,
-  "EOS_NewPlayers": 3067,
+  "EOS_NewPlayers": 3050,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39387,6 +39387,11 @@
       "Time": "2024-01-09T20:09:45.8035622+00:00",
       "NumProgressed": 253005,
       "NumCompleted": 2605
+    },
+    {
+      "Time": "2024-01-09T21:10:15.8430079+00:00",
+      "NumProgressed": 253016,
+      "NumCompleted": 2605
     }
   ],
   "TotalAchievements": 546,
@@ -39398,7 +39403,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10120
+      "UsersEstimate": 10121
     },
     {
       "ID": "objective_completed_10",
@@ -43765,21 +43770,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219279,
+      "Progressed": 219290,
       "Completed": 4145
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253005,
+      "Progressed": 253016,
       "Completed": 2605
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-09T15:58:29.6536775+00:00",
-  "LastChanged_Achievements": "2024-01-09T20:09:45.8035618+00:00",
+  "LastChanged_Achievements": "2024-01-09T21:10:15.8430076+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:57:50.1730613+00:00",
-  "LastUpdate_Achievements": "2024-01-09T20:09:45.8059769+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:57:52.8044305+00:00",
+  "LastUpdate_Achievements": "2024-01-09T21:10:15.8454805+00:00"
 }

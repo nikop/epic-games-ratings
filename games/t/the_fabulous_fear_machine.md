@@ -18,8 +18,8 @@
 | Diagnosis: fear | 22.00% | ~20 |
 | Ambition is... blind | 22.00% | ~20 |
 | You have two wishes left | 21.00% | ~19 |
+| Et in arcadia ego | 20.00% | ~18 |
 | The artist | 20.00% | ~18 |
-| Et in arcadia ego | 19.00% | ~17 |
 | Pulp! Adventures into the Unknown | 19.00% | ~17 |
 | The seer | 18.00% | ~16 |
 | You've awakened the beast | 17.00% | ~15 |
