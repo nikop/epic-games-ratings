@@ -28,7 +28,7 @@
 | You had one wish left | 16.00% | ~14 |
 | The bully | 15.00% | ~13 |
 | Kirlian's best disciple | 13.00% | ~12 |
-| Blessed antennas | 11.00% | ~10 |
+| Blessed antennas | 12.00% | ~11 |
 | Blood Red Island | 10.00% | ~9 |
 | Bread and bocaua | 10.00% | ~9 |
 | Fanatacism is... poisonous | 10.00% | ~9 |

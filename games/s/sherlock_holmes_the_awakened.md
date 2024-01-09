@@ -5,36 +5,36 @@ Rating: 4.51 (Ranked 589)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~897 |
+| Read Between The Lines | 63.00% | ~898 |
 | To Hell In A Handcart | 61.00% | ~869 |
-| High Profile | 55.00% | ~783 |
-| Whispers In The Dark | 52.00% | ~740 |
-| Fond Memories | 51.00% | ~726 |
+| High Profile | 55.00% | ~784 |
+| Whispers In The Dark | 52.00% | ~741 |
+| Fond Memories | 51.00% | ~727 |
 | A Method To His Madness | 48.00% | ~684 |
-| History Check | 47.00% | ~669 |
+| History Check | 47.00% | ~670 |
 | The New World | 45.00% | ~641 |
 | Gaze Into The Abyss | 44.00% | ~627 |
 | Open Sesame | 44.00% | ~627 |
 | Sticky Fingers | 44.00% | ~627 |
 | Knives Out | 44.00% | ~627 |
-| Lock, Stock, And Barrel | 43.00% | ~612 |
-| Back In The Saddle | 43.00% | ~612 |
-| Land, Ho! | 43.00% | ~612 |
+| Lock, Stock, And Barrel | 43.00% | ~613 |
+| Back In The Saddle | 43.00% | ~613 |
+| Land, Ho! | 43.00% | ~613 |
 | No Man Is An Island | 42.00% | ~598 |
 | At Wits' End | 41.00% | ~584 |
-| Up In Flames | 39.00% | ~555 |
-| Fhtagn! | 39.00% | ~555 |
-| Bookworm | 38.00% | ~541 |
+| Up In Flames | 39.00% | ~556 |
+| Fhtagn! | 39.00% | ~556 |
+| Bookworm | 38.00% | ~542 |
 | Going Once... | 36.00% | ~513 |
-| Let Me Be Frank | 35.00% | ~498 |
+| Let Me Be Frank | 35.00% | ~499 |
 | No Stone Unturned | 32.00% | ~456 |
-| Brain Food | 31.00% | ~441 |
+| Brain Food | 31.00% | ~442 |
 | Read It And Weep | 20.00% | ~285 |
 | Curiosity Killed The Cat | 19.00% | ~271 |
 | Big Breakthrough | 12.00% | ~171 |
 | Reawakened | 3.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,424 (Ranked 270)  
+Progressed: 1,425 (Ranked 270)  
 Completed: 43 (3.02%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 43 (3.02%) (Ranked 107)
 | 2024-01-06 | 1,410 | 41 |
 | 2024-01-07 | 1,419 | 43 |
 | 2024-01-08 | 1,423 | 43 |
-| 2024-01-09 | 1,424 | 43 |
+| 2024-01-09 | 1,425 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

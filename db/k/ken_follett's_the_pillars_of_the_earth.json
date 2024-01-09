@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17729,
+  "EOS_Progressed": 17730,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -18025,6 +18025,11 @@
       "Time": "2024-01-09T01:55:00.7117061+00:00",
       "NumProgressed": 17729,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-09T05:06:27.6169691+00:00",
+      "NumProgressed": 17730,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18076,7 +18081,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5673
+      "UsersEstimate": 5674
     },
     {
       "ID": "tpote_achievement_15",
@@ -18140,7 +18145,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5141
+      "UsersEstimate": 5142
     },
     {
       "ID": "tpote_achievement_22",
@@ -18196,7 +18201,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "tpote_achievement_29",
@@ -18363,15 +18368,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17729,
+      "Progressed": 17730,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:05:13.1140958+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:06:27.6169684+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:02:55.8871252+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:05:13.1142287+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:03:16.995031+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:06:27.6170749+00:00"
 }

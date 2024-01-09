@@ -17,10 +17,10 @@
 | Council Legion of Merit | 38.00% | ~1,522 |
 | Missing in Action | 36.00% | ~1,442 |
 | Medal of Honor | 35.00% | ~1,402 |
+| Soldier | 35.00% | ~1,402 |
 | Meritorious Service Medal | 35.00% | ~1,402 |
 | Soldier Ally | 35.00% | ~1,402 |
 | Charismatic | 35.00% | ~1,402 |
-| Soldier | 34.00% | ~1,362 |
 | Asari Ally | 33.00% | ~1,322 |
 | Very Elusive | 33.00% | ~1,322 |
 | Principled | 32.00% | ~1,282 |

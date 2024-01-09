@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -979,6 +979,11 @@
       "Time": "2024-01-09T02:31:44.2451494+00:00",
       "NumProgressed": 430,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T05:06:55.5680697+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1030,7 +1035,7 @@
       "Name": "Prisoner",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -1086,7 +1091,7 @@
       "Name": "Wild Ox",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -1117,7 +1122,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 4
     }
   ],
@@ -1125,8 +1130,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:05:33.6802211+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:06:55.5680691+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:59:21.435385+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:05:33.6802351+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:00:17.3090561+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:06:55.5680921+00:00"
 }

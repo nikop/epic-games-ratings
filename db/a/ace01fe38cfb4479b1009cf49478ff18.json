@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 857,
+  "EOS_Progressed": 858,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
@@ -2764,6 +2764,11 @@
       "Time": "2024-01-08T23:09:03.6372744+00:00",
       "NumProgressed": 857,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T05:09:23.8805522+00:00",
+      "NumProgressed": 858,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2776,7 +2781,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -2830,9 +2835,9 @@
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 94
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -2846,7 +2851,7 @@
       "ID": "ach_find_all_secrets_c1",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 1",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 95,
       "UsersEstimate": 3
     },
@@ -2871,14 +2876,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 857,
+      "Progressed": 858,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:08:44.7437548+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:09:23.8805518+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:59:29.7210579+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:08:44.7437725+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:00:29.5842293+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:09:23.88058+00:00"
 }

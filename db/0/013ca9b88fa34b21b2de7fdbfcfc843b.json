@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8949,
+  "EOS_Progressed": 8951,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9947,6 +9947,11 @@
       "Time": "2024-01-09T03:10:22.3877245+00:00",
       "NumProgressed": 8949,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T05:11:10.5716575+00:00",
+      "NumProgressed": 8951,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9991,7 +9996,7 @@
       "Name": "Clear the Air",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -9999,7 +10004,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -10063,7 +10068,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -10071,7 +10076,7 @@
       "Name": "Beach Comber",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -10135,7 +10140,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -10143,7 +10148,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -10183,7 +10188,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -10302,13 +10307,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8949,
+      "Progressed": 8951,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1566,
+      "Progressed": 1568,
       "Completed": 1050
     }
   ],
@@ -10316,8 +10321,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-04T01:49:56.9201089+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:10:05.6572384+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:11:10.5716566+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:18.6366016+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:03:17.7439089+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:10:05.6572989+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:03:47.9047665+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:11:10.5717578+00:00"
 }

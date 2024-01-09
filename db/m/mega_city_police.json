@@ -2,10 +2,10 @@
   "ID": "a0a5746aad2645a9a23913766d2f4667",
   "Name": "Mega City Force",
   "ProductSlug": "mega-city-police-22a245",
-  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 524,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
     "PcReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 40,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.56,
+  "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
     {
       "Time": "2023-07-26T07:05:18.8439924+00:00",
@@ -209,6 +209,11 @@
       "Time": "2023-12-31T08:10:01.1740137+00:00",
       "NumProgressed": 39,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T05:11:06.5151166+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-26T06:05:38.0002826+00:00",
@@ -259,7 +264,7 @@
       "ID": "ACH_DEATH_1",
       "SetID": "a2aifpa",
       "Name": "Welcome to Mega City",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -436,20 +441,20 @@
     {
       "ID": "a2aifpa",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 40,
       "Completed": 1
     },
     {
       "ID": "467j267",
       "IsBase": false,
-      "Progressed": 17,
+      "Progressed": 18,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:10:02.195268+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:11:06.5151162+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:29.7620373+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:57:25.570645+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:10:02.1952873+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:57:33.172638+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:11:06.5151389+00:00"
 }

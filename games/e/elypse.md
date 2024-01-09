@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 97.00% | ~127 |
-| A bottomless pit | 81.00% | ~106 |
-| Pigeon | 78.00% | ~102 |
+| A path of no return | 97.00% | ~128 |
+| A bottomless pit | 80.00% | ~106 |
+| Pigeon | 77.00% | ~102 |
 | Baited | 67.00% | ~88 |
-| "Swoosh" | 59.00% | ~77 |
-| The light at the end of the tunnel | 58.00% | ~76 |
-| Masochistic | 53.00% | ~69 |
-| Splash! | 50.00% | ~66 |
-| Soft skin | 49.00% | ~64 |
-| Squid game | 40.00% | ~52 |
-| Sensitive soul | 33.00% | ~43 |
+| "Swoosh" | 58.00% | ~77 |
+| The light at the end of the tunnel | 58.00% | ~77 |
+| Masochistic | 52.00% | ~69 |
+| Splash! | 49.00% | ~65 |
+| Soft skin | 48.00% | ~63 |
+| Squid game | 40.00% | ~53 |
+| Sensitive soul | 33.00% | ~44 |
 | Rock Solid | 32.00% | ~42 |
 | The beast within | 31.00% | ~41 |
 | It's getting dark | 31.00% | ~41 |
 | Rooftop | 28.00% | ~37 |
 | Hard Rock | 28.00% | ~37 |
-| Homeless | 27.00% | ~35 |
-| Big badaboom! | 27.00% | ~35 |
-| Nokron tower | 24.00% | ~31 |
-| Bookworm | 24.00% | ~31 |
-| Payback | 24.00% | ~31 |
+| Homeless | 27.00% | ~36 |
+| Big badaboom! | 27.00% | ~36 |
+| Payback | 24.00% | ~32 |
+| Nokron tower | 23.00% | ~30 |
+| Bookworm | 23.00% | ~30 |
 | Magnitude 5 | 22.00% | ~29 |
 | Full power | 21.00% | ~28 |
 | "Ah sh*t... Here we go again!" | 21.00% | ~28 |
-| Compulsive hoarder | 21.00% | ~28 |
-| GG EZ | 15.00% | ~20 |
-| Comeback | 15.00% | ~20 |
+| Compulsive hoarder | 20.00% | ~26 |
+| GG EZ | 14.00% | ~18 |
+| Comeback | 14.00% | ~18 |
 | MayDay! MayDay! | 10.00% | ~13 |
 | Gooooooaaaaal!!! | 7.00% | ~9 |
 | Sadistic | 2.00% | ~3 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 472)  
+Progressed: 132 (Ranked 472)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,3 +113,4 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-01 | 127 | 0 |
 | 2024-01-05 | 128 | 0 |
 | 2024-01-07 | 131 | 0 |
+| 2024-01-09 | 132 | 0 |

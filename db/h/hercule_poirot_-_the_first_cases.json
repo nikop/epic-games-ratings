@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -1113,9 +1113,9 @@
       "ID": "ACH_038",
       "SetID": "72imik0",
       "Name": "Gedeon Demir",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_039",
@@ -1201,9 +1201,9 @@
       "ID": "ACH_06",
       "SetID": "72imik0",
       "Name": "The Secret",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 179
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_07",
@@ -1242,8 +1242,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:06:36.1651547+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:08:59.885566+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:49.2608665+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:03:04.8429519+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:06:36.1651898+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:03:32.4755866+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:08:59.8856073+00:00"
 }

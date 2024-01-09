@@ -33,7 +33,7 @@
 | Nuclear Plant Objectives Complete | 0.00% | ~0 |
 | Spaceship Objectives Complete | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,836 (Ranked 186)  
+Progressed: 8,837 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,6 +290,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 8,827 | 0 |
 | 2024-01-07 | 8,833 | 0 |
 | 2024-01-08 | 8,836 | 0 |
+| 2024-01-09 | 8,837 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

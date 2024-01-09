@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -456,9 +456,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1091,
+  "EOS_Progressed": 1092,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3796,6 +3796,11 @@
       "Time": "2024-01-09T01:58:29.9474006+00:00",
       "NumProgressed": 1091,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T05:10:05.7084567+00:00",
+      "NumProgressed": 1092,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3952,7 +3957,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4048,7 +4053,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "RanaCampaign",
@@ -4239,15 +4244,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1091,
+      "Progressed": 1092,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-08T22:01:52.5110389+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:09:16.6621322+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:10:05.7084562+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:00:21.5156802+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:09:16.662178+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:02:43.0236456+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:10:05.7085239+00:00"
 }

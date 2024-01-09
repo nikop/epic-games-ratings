@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2129,7 +2129,7 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 21763,
+  "EOS_Progressed": 21766,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 0,
@@ -13154,6 +13154,11 @@
       "Time": "2024-01-09T03:09:53.5159494+00:00",
       "NumProgressed": 21763,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-09T05:10:36.4415505+00:00",
+      "NumProgressed": 21766,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13187,9 +13192,9 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1741
     },
     {
       "ID": "DISARM_ENEMY",
@@ -13197,7 +13202,7 @@
       "Name": "Flesh Wound",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5441
+      "UsersEstimate": 5442
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13269,7 +13274,7 @@
       "Name": "Get a Grip",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 4570
+      "UsersEstimate": 4571
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13293,7 +13298,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4135
+      "UsersEstimate": 4136
     },
     {
       "ID": "KILL_ROBOT",
@@ -13301,7 +13306,7 @@
       "Name": "Terminated",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2177
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -13309,7 +13314,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13333,7 +13338,7 @@
       "Name": "Reforged",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3918
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13341,7 +13346,7 @@
       "Name": "Paper Jams",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4788
+      "UsersEstimate": 4789
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13357,7 +13362,7 @@
       "Name": "The Outer Way",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5441
+      "UsersEstimate": 5442
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13365,7 +13370,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     },
     {
       "ID": "STORY_HABITAT",
@@ -13373,7 +13378,7 @@
       "Name": "Without A Paddle",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2830
     },
     {
       "ID": "STORY_HANGAR",
@@ -13397,7 +13402,7 @@
       "Name": "Desperate Times",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5223
+      "UsersEstimate": 5224
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13525,7 +13530,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -13540,13 +13545,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21763,
+      "Progressed": 21766,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9689,
+      "Progressed": 9692,
       "Completed": 29
     }
   ],
@@ -13554,8 +13559,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-09T03:03:27.5471894+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:09:39.2564015+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:10:36.4415499+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:03:16.1258808+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:09:39.2564757+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:03:46.3917284+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:10:36.441652+00:00"
 }

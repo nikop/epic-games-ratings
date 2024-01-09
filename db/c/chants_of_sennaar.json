@@ -127,10 +127,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2583,
+  "EOS_Progressed": 2584,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 387,
-  "EOS_NewCompleters": 44,
+  "EOS_NewPlayers": 385,
+  "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 6.97,
   "EosHistory": [
     {
@@ -6802,6 +6802,11 @@
       "Time": "2024-01-09T04:06:16.8433932+00:00",
       "NumProgressed": 2583,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2024-01-09T05:08:33.3760375+00:00",
+      "NumProgressed": 2584,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 25,
@@ -6837,7 +6842,7 @@
       "Name": "Cable guy",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "META_FIRST_LINK",
@@ -6853,7 +6858,7 @@
       "Name": "Half the way",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "META_RESULT_1-2",
@@ -6875,9 +6880,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 568
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6909,7 +6914,7 @@
       "Name": "Alchemists Express",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6941,7 +6946,7 @@
       "Name": "Fashion victim",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -6965,7 +6970,7 @@
       "Name": "Scholar",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "PROGRESS_N1",
@@ -6981,7 +6986,7 @@
       "Name": "The great escape",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "PROGRESS_N3",
@@ -7005,14 +7010,14 @@
       "Name": "One last step",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2583,
+      "Progressed": 2584,
       "Completed": 180
     }
   ],
@@ -7020,8 +7025,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:06:16.8433928+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:08:33.3760371+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:58:55.148454+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:06:16.8434401+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:59:43.3024668+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:08:33.3761156+00:00"
 }

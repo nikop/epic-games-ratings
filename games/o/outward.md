@@ -6,17 +6,17 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,400 |
-| Ready for Winter | 61.00% | ~2,841 |
+| Venture Outward | 73.00% | ~3,401 |
+| Ready for Winter | 61.00% | ~2,842 |
 | Ready for Summer | 48.00% | ~2,236 |
-| Cordon Bleu | 40.00% | ~1,863 |
+| Cordon Bleu | 40.00% | ~1,864 |
 | Tapped! | 34.00% | ~1,584 |
 | Eureka | 29.00% | ~1,351 |
-| Scourge Slayer | 23.00% | ~1,071 |
+| Scourge Slayer | 23.00% | ~1,072 |
 | Science, Troglodyte! | 21.00% | ~978 |
 | Exceptional Skill | 20.00% | ~932 |
 | Home Sweet Home | 20.00% | ~932 |
-| Encyclopedic! | 18.00% | ~838 |
+| Encyclopedic! | 18.00% | ~839 |
 | The Power of Family | 15.00% | ~699 |
 | A Fortress Toppled! | 14.00% | ~652 |
 | Apex Predator | 14.00% | ~652 |
@@ -26,11 +26,11 @@ Number of Ratings: 266  (23.09.2022)
 | Ace Detective | 7.00% | ~326 |
 | Gift from the Ancestors | 7.00% | ~326 |
 | Magic is a science | 7.00% | ~326 |
-| Hold my Mead and Watch This | 6.00% | ~279 |
-| House of Cards | 6.00% | ~279 |
-| Let ‘em eat magma! | 6.00% | ~279 |
-| The power of ambition | 6.00% | ~279 |
-| The stuff of legends. | 6.00% | ~279 |
+| Hold my Mead and Watch This | 6.00% | ~280 |
+| House of Cards | 6.00% | ~280 |
+| Let ‘em eat magma! | 6.00% | ~280 |
+| The power of ambition | 6.00% | ~280 |
+| The stuff of legends. | 6.00% | ~280 |
 | Blood and justice | 5.00% | ~233 |
 | Ancestor's Pride | 4.00% | ~186 |
 | For All Aurai | 4.00% | ~186 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,658 (Ranked 206)  
+Progressed: 4,659 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 5 (0.11%) (Ranked 305)
 | 2024-01-06 | 4,569 | 5 |
 | 2024-01-07 | 4,622 | 5 |
 | 2024-01-08 | 4,653 | 5 |
-| 2024-01-09 | 4,658 | 5 |
+| 2024-01-09 | 4,659 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 503)  
 Sum: 246 (Ranked 400)  

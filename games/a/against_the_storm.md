@@ -13,11 +13,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 8.00% | ~1,642 |
 | Petrified Necropolis | 8.00% | ~1,642 |
 | The Marshlands | 7.00% | ~1,437 |
-| Overcoming Difficulty | 6.00% | ~1,231 |
-| Coral Forest | 6.00% | ~1,231 |
-| The Scarlet Orchard | 6.00% | ~1,231 |
-| Ominous Presence | 6.00% | ~1,231 |
-| Gathering Storm | 6.00% | ~1,231 |
+| Overcoming Difficulty | 6.00% | ~1,232 |
+| Coral Forest | 6.00% | ~1,232 |
+| The Scarlet Orchard | 6.00% | ~1,232 |
+| Ominous Presence | 6.00% | ~1,232 |
+| Gathering Storm | 6.00% | ~1,232 |
 | Frosts | 5.00% | ~1,026 |
 | Land of Greed | 5.00% | ~1,026 |
 | Homesick | 4.00% | ~821 |
@@ -36,14 +36,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 3.00% | ~616 |
 | Trade Baron | 3.00% | ~616 |
 | Untamed Wilds | 3.00% | ~616 |
-| Serving Ale | 2.00% | ~410 |
-| Against All Odds | 2.00% | ~410 |
-| Barren Lands | 2.00% | ~410 |
-| Sparkdew Crystals | 2.00% | ~410 |
-| Haunted Forest | 2.00% | ~410 |
-| Flooded Mines | 2.00% | ~410 |
-| Defying the Crown | 2.00% | ~410 |
-| Into the Forest | 2.00% | ~410 |
+| Serving Ale | 2.00% | ~411 |
+| Against All Odds | 2.00% | ~411 |
+| Barren Lands | 2.00% | ~411 |
+| Sparkdew Crystals | 2.00% | ~411 |
+| Haunted Forest | 2.00% | ~411 |
+| Flooded Mines | 2.00% | ~411 |
+| Defying the Crown | 2.00% | ~411 |
+| Into the Forest | 2.00% | ~411 |
 | Efficient Explorer | 1.00% | ~205 |
 | Refinery | 1.00% | ~205 |
 | Dangerous Lands | 1.00% | ~205 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,524 (Ranked 154)  
+Progressed: 20,527 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
-| 2024-01-09 | 20,524 | 34 |
+| 2024-01-09 | 20,527 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,363 (Ranked 177)  

@@ -4,8 +4,8 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 523,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 505,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -580,6 +580,11 @@
       "Time": "2024-01-08T14:03:40.9106047+00:00",
       "NumProgressed": 382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T05:04:42.8124731+00:00",
+      "NumProgressed": 383,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -623,7 +628,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "FifthGrade",
@@ -711,7 +716,7 @@
       "Name": "Smarter than a 5th Grader",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "StudySession",
@@ -742,7 +747,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 383,
       "Completed": 0
     }
   ],
@@ -750,8 +755,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:03:56.3180393+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:04:42.8124725+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:41.5109942+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:02:53.6127441+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:03:56.3180528+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:03:13.7098535+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:04:42.8124865+00:00"
 }

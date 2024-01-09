@@ -93,7 +93,7 @@
   "Tags": [],
   "EOS_Progressed": 1550,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4255,9 +4255,9 @@
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 279
     }
   ],
   "AchievementSets": [
@@ -4272,8 +4272,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-08T13:01:59.2105295+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:09:37.9663961+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:10:34.6232013+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:57:21.4040368+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:09:37.9664283+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:57:26.9127035+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:10:34.6232353+00:00"
 }

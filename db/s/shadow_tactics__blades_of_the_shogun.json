@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 79,
@@ -2420,10 +2420,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 4949,
       "NumberOfAwardsMax": 592
+    },
+    {
+      "Time": "2024-01-09T05:03:08.4385535+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4950,
+      "NumberOfAwardsMax": 592
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4949,
+  "NumberOfAwards": 4950,
   "NumberOfAwardsMax": 592,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2443,7 +2449,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 501
+      "Count": 502
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2494,9 +2500,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 224923,
+  "EOS_Progressed": 224930,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 1559,
+  "EOS_NewPlayers": 1550,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32844,6 +32850,11 @@
       "Time": "2024-01-09T04:06:25.954347+00:00",
       "NumProgressed": 224923,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-09T05:08:45.8038121+00:00",
+      "NumProgressed": 224930,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 44,
@@ -32863,7 +32874,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "ChickenDinner",
@@ -32879,7 +32890,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13495
+      "UsersEstimate": 13496
     },
     {
       "ID": "CompleteMastery",
@@ -32895,7 +32906,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20243
+      "UsersEstimate": 20244
     },
     {
       "ID": "FiveShadows",
@@ -32911,7 +32922,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13495
+      "UsersEstimate": 13496
     },
     {
       "ID": "GearUp",
@@ -32927,7 +32938,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26991
+      "UsersEstimate": 26992
     },
     {
       "ID": "HappyLittleAccidents",
@@ -33015,7 +33026,7 @@
       "Name": "No Gimmicks",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "Noboru",
@@ -33039,7 +33050,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "PraiseTheShogun",
@@ -33071,7 +33082,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20243
+      "UsersEstimate": 20244
     },
     {
       "ID": "Rollin",
@@ -33079,7 +33090,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20243
+      "UsersEstimate": 20244
     },
     {
       "ID": "StillRollin",
@@ -33111,7 +33122,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20243
+      "UsersEstimate": 20244
     },
     {
       "ID": "TheCave",
@@ -33127,7 +33138,7 @@
       "Name": "The End",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "TheOldWay",
@@ -33175,7 +33186,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13495
+      "UsersEstimate": 13496
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -33191,7 +33202,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "Yabu",
@@ -33206,15 +33217,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 224923,
+      "Progressed": 224930,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2024-01-08T16:02:46.636792+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:06:25.9543466+00:00",
+  "LastChanged": "2024-01-09T05:03:08.4385531+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:08:45.8038114+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.88387+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:02:49.7236598+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:06:25.9544939+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:03:08.4385537+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:08:45.8039954+00:00"
 }

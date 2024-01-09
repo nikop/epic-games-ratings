@@ -3869,9 +3869,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20524,
+  "EOS_Progressed": 20527,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19029,6 +19029,11 @@
       "Time": "2024-01-09T04:04:06.1333188+00:00",
       "NumProgressed": 20524,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-09T05:04:56.2809475+00:00",
+      "NumProgressed": 20527,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19041,7 +19046,7 @@
       "Name": "Serving Ale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "AllFood",
@@ -19137,7 +19142,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "WinImpossible",
@@ -19145,7 +19150,7 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "WinNearArmory",
@@ -19169,7 +19174,7 @@
       "Name": "Barren Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "WinNearBattleground",
@@ -19185,7 +19190,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "WinNearDangerous",
@@ -19225,7 +19230,7 @@
       "Name": "Haunted Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "WinNearLevitating",
@@ -19241,7 +19246,7 @@
       "Name": "Flooded Mines",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "WinNearMonastery",
@@ -19305,7 +19310,7 @@
       "Name": "Coral Forest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "WinOnCursed",
@@ -19329,7 +19334,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "WinPrestige10",
@@ -19425,7 +19430,7 @@
       "Name": "Defying the Crown",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "Year1Dangerous",
@@ -19433,7 +19438,7 @@
       "Name": "Into the Forest",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "WinNearAbandoned",
@@ -19481,7 +19486,7 @@
       "Name": "Ominous Presence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "WinNearStorms",
@@ -19489,7 +19494,7 @@
       "Name": "Gathering Storm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -19512,15 +19517,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20524,
+      "Progressed": 20527,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-09T01:46:37.7720969+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:04:06.1333183+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:04:56.2809471+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:57:46.4304528+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:04:06.1334173+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:58:03.2074324+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:04:56.2810527+00:00"
 }

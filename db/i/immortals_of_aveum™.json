@@ -433,9 +433,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3148,
+  "EOS_Progressed": 3152,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4933,6 +4933,11 @@
       "Time": "2024-01-09T04:09:57.4189187+00:00",
       "NumProgressed": 3148,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T05:11:00.4778854+00:00",
+      "NumProgressed": 3152,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4945,7 +4950,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2774
     },
     {
       "ID": "achievement_10",
@@ -4961,7 +4966,7 @@
       "Name": "The Means to Save It",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "achievement_12",
@@ -4977,7 +4982,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "achievement_14",
@@ -4993,7 +4998,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "achievement_16",
@@ -5001,7 +5006,7 @@
       "Name": "Recruit",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "achievement_17",
@@ -5009,7 +5014,7 @@
       "Name": "Lights Army",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_18",
@@ -5017,7 +5022,7 @@
       "Name": "Grand Magnus",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_19",
@@ -5033,7 +5038,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2550
+      "UsersEstimate": 2553
     },
     {
       "ID": "achievement_20",
@@ -5089,7 +5094,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2175
     },
     {
       "ID": "achievement_36",
@@ -5097,7 +5102,7 @@
       "Name": "Armsman",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_37",
@@ -5105,7 +5110,7 @@
       "Name": "Kitted Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_38",
@@ -5121,7 +5126,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1639
     },
     {
       "ID": "achievement_41",
@@ -5145,7 +5150,7 @@
       "Name": "Armaments Vert",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_44",
@@ -5161,7 +5166,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "achievement_46",
@@ -5177,7 +5182,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2332
     },
     {
       "ID": "achievement_49",
@@ -5185,7 +5190,7 @@
       "Name": "Soldier",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "achievement_5",
@@ -5193,7 +5198,7 @@
       "Name": "Initiate",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1198
     },
     {
       "ID": "achievement_50",
@@ -5217,7 +5222,7 @@
       "Name": "Master of Carmine",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_56",
@@ -5241,7 +5246,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_60",
@@ -5257,7 +5262,7 @@
       "Name": "Tip of the Spear",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_63",
@@ -5289,7 +5294,7 @@
       "Name": "Good Boy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_7",
@@ -5297,7 +5302,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 881
+      "UsersEstimate": 883
     },
     {
       "ID": "achievement_8",
@@ -5305,7 +5310,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "achievement_9",
@@ -5313,14 +5318,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3148,
+      "Progressed": 3152,
       "Completed": 4
     }
   ],
@@ -5328,8 +5333,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-07T18:57:10.211335+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:09:57.4189183+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:11:00.4778848+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:57:44.0961822+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:09:57.418975+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:57:59.3301872+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:11:00.4779609+00:00"
 }

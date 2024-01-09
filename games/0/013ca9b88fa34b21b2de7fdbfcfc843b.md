@@ -8,8 +8,8 @@ Rating: 4.63 (Ranked 359)
 | Azoria Beckons | 4.00% | ~358 |
 | A Thorny Situation | 4.00% | ~358 |
 | ... And Spit Back Out | 4.00% | ~358 |
-| Break-Net Speed | 3.00% | ~268 |
-| Bramble Breaker | 3.00% | ~268 |
+| Break-Net Speed | 3.00% | ~269 |
+| Bramble Breaker | 3.00% | ~269 |
 | Calm Sailing | 2.00% | ~179 |
 | Open the Gate! | 2.00% | ~179 |
 | Lumberjack | 2.00% | ~179 |
@@ -17,11 +17,11 @@ Rating: 4.63 (Ranked 359)
 | Humble Collector | 2.00% | ~179 |
 | Mist Walker | 2.00% | ~179 |
 | Oui, Chef! | 2.00% | ~179 |
-| Clear the Air | 1.00% | ~89 |
-| Search for the Hairy Grell | 1.00% | ~89 |
-| Beach Comber | 1.00% | ~89 |
-| Higher Tax Bracket | 1.00% | ~89 |
-| Botanical Breakthrough | 1.00% | ~89 |
+| Clear the Air | 1.00% | ~90 |
+| Search for the Hairy Grell | 1.00% | ~90 |
+| Beach Comber | 1.00% | ~90 |
+| Higher Tax Bracket | 1.00% | ~90 |
+| Botanical Breakthrough | 1.00% | ~90 |
 | Exit Through The Gift Shop | 1.00% | ~16 |
 | Skilled | 0.90% | ~81 |
 | Flaming Hot Completos | 0.80% | ~72 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 359)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,949 (Ranked 185)  
+Progressed: 8,951 (Ranked 185)  
 Completed: 1 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 1 (0.01%) (Ranked 372)
 | 2024-01-06 | 8,910 | 1 |
 | 2024-01-07 | 8,929 | 1 |
 | 2024-01-08 | 8,947 | 1 |
-| 2024-01-09 | 8,949 | 1 |
+| 2024-01-09 | 8,951 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

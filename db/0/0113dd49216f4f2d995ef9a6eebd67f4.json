@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1243,9 +1243,9 @@
       "ID": "SG_CUNNING",
       "SetID": "bj5g0n4",
       "Name": "Cunning",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_ENDOFTHEROAD",
@@ -1387,9 +1387,9 @@
       "ID": "SG_THEANSWERISYOU",
       "SetID": "bj5g0n4",
       "Name": "The Answer Is You",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "SG_THECHOICEISYOURS",
@@ -1482,8 +1482,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:09:06.5193868+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:09:52.3077744+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:59:16.13129+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:09:06.5194155+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:00:11.6598778+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:09:52.307808+00:00"
 }

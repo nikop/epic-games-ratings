@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1424,
+  "EOS_Progressed": 1425,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.02,
   "EosHistory": [
@@ -5049,6 +5049,11 @@
       "Time": "2024-01-09T04:04:52.1001715+00:00",
       "NumProgressed": 1424,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-09T05:05:58.8347541+00:00",
+      "NumProgressed": 1425,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 28,
@@ -5060,7 +5065,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "MQ01_2",
@@ -5076,7 +5081,7 @@
       "Name": "High Profile",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "MQ02_2",
@@ -5100,7 +5105,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "MQ03_1",
@@ -5108,7 +5113,7 @@
       "Name": "Fond Memories",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "MQ03_2",
@@ -5116,7 +5121,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "MQ03_3",
@@ -5124,7 +5129,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "MQ03_4",
@@ -5156,7 +5161,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "MQ04_3",
@@ -5180,7 +5185,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "MQ05_3",
@@ -5204,7 +5209,7 @@
       "Name": "Brain Food",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "MQ06_2",
@@ -5212,7 +5217,7 @@
       "Name": "Bookworm",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "MQ06_3",
@@ -5220,7 +5225,7 @@
       "Name": "Land, Ho!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "MQ06_4",
@@ -5260,7 +5265,7 @@
       "Name": "Up In Flames",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "MQ08_3",
@@ -5268,7 +5273,7 @@
       "Name": "Fhtagn!",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "PLTN",
@@ -5283,7 +5288,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1424,
+      "Progressed": 1425,
       "Completed": 43
     }
   ],
@@ -5291,8 +5296,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-08T11:03:57.656576+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:04:52.1001707+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:05:58.8347536+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.4350556+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:03:09.1917666+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:04:52.1002164+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:03:38.8217853+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:05:58.8347995+00:00"
 }

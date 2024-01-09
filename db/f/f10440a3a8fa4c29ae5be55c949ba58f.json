@@ -3,7 +3,7 @@
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7850,
+  "EOS_Progressed": 7854,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2106,
+  "EOS_NewPlayers": 2104,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2249,6 +2249,11 @@
       "Time": "2024-01-09T04:09:22.1925091+00:00",
       "NumProgressed": 7850,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-09T05:10:13.4833684+00:00",
+      "NumProgressed": 7854,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -2261,7 +2266,7 @@
       "Name": "Final Destination",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3927
     },
     {
       "ID": "Document1",
@@ -2293,7 +2298,7 @@
       "Name": "Truth Seeker",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Document5",
@@ -2324,14 +2329,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 7850,
+      "Progressed": 7854,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:09:22.1925087+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:10:13.483368+00:00",
   "LastUpdate_AppInfo": "2024-01-07T21:57:13.0406277+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:59:18.7753525+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:09:22.1925269+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:00:14.8238019+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:10:13.4833934+00:00"
 }

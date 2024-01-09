@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 506,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1655,6 +1655,11 @@
       "Time": "2024-01-08T17:04:24.9098492+00:00",
       "NumProgressed": 505,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T05:04:52.8654876+00:00",
+      "NumProgressed": 506,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1816,9 +1821,9 @@
       "ID": "ach_consultants_a",
       "SetID": "b8gh1fi",
       "Name": "Aestheticly Pleased",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_consultants_b",
@@ -1874,7 +1879,7 @@
       "Name": "Proper Walls",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach_drones",
@@ -1970,7 +1975,7 @@
       "Name": "Starting Skyward",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ach_floors_1",
@@ -2002,15 +2007,15 @@
       "Name": "Grime is Not Good",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_grime_1",
       "SetID": "b8gh1fi",
       "Name": "Delegate Maintenance",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_grime_2",
@@ -2058,7 +2063,7 @@
       "Name": "28 Days Later",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_office_1",
@@ -2138,7 +2143,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_profit_2",
@@ -2170,7 +2175,7 @@
       "Name": "Refined Palates",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_restaurants_2",
@@ -2298,7 +2303,7 @@
       "Name": "Terrifically Trashed",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_tutorial",
@@ -2362,14 +2367,14 @@
       "Name": "Destination Destiny",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 506,
       "Completed": 0
     }
   ],
@@ -2377,8 +2382,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:04:03.4388893+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:04:52.8654871+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:57:43.9732483+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:04:03.4389689+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:57:59.1475667+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:04:52.8656065+00:00"
 }

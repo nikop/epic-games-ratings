@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 521,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -1502,6 +1502,11 @@
       "Time": "2024-01-09T02:33:26.5139052+00:00",
       "NumProgressed": 520,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T05:09:06.8944111+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1576,9 +1581,9 @@
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 167
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1618,7 +1623,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1626,7 +1631,7 @@
       "Name": "Speed Demon",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1640,9 +1645,9 @@
       "ID": "FISH_COIN_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Ticket to Tranquility",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 115
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1674,7 +1679,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1706,7 +1711,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1826,21 +1831,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 521,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:08:32.3528156+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:09:06.8944108+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:07.7248276+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:03:08.4467323+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:08:32.3528429+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:03:37.6483417+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:09:06.8944418+00:00"
 }

@@ -7,8 +7,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~924 |
-| Lost and Found | 8.00% | ~568 |
-| Autodidact | 7.00% | ~9,256 |
+| Lost and Found | 8.00% | ~569 |
+| Autodidact | 7.00% | ~9,257 |
 | This guy... again? | 7.00% | ~497 |
 | This Belongs in a Museum | 6.00% | ~7,934 |
 | Creep and Sleep | 6.00% | ~7,934 |
@@ -26,13 +26,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,612 |
 | FNG | 5.00% | ~6,612 |
 | Bloody Graduation | 5.00% | ~355 |
-| Spelunker | 4.00% | ~5,289 |
-| Merry Time | 4.00% | ~5,289 |
-| Harvest Festival | 4.00% | ~5,289 |
-| Ramble On | 4.00% | ~5,289 |
-| Whale | 4.00% | ~5,289 |
-| A Place to Lay Your Head | 4.00% | ~5,289 |
-| Nope | 4.00% | ~5,289 |
+| Spelunker | 4.00% | ~5,290 |
+| Merry Time | 4.00% | ~5,290 |
+| Harvest Festival | 4.00% | ~5,290 |
+| Ramble On | 4.00% | ~5,290 |
+| Whale | 4.00% | ~5,290 |
+| A Place to Lay Your Head | 4.00% | ~5,290 |
+| Nope | 4.00% | ~5,290 |
 | Friends 'Til the End | 4.00% | ~284 |
 | Resurrection | 3.00% | ~3,967 |
 | Unleash Hell | 3.00% | ~3,967 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,235 (Ranked 91)  
+Progressed: 132,238 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,10 +340,10 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,235 | 3 |
+| 2024-01-09 | 132,238 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
-Sum: 21,549 (Ranked 58)  
+Sum: 21,553 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -356,7 +356,7 @@ Diff (max vs sum): -8
 | This game has Unique Visuals | 1,463 |
 | This game has Amazing Storytelling | 1,441 |
 | This game has Quickly Understood Controls | 1,411 |
-| This game has a Creative Community | 1,084 |
+| This game has a Creative Community | 1,088 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -708,4 +708,4 @@ Diff (max vs sum): -8
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
 | 2024-01-08 | 4.68 | - | 7,992 | 21,547 |
-| 2024-01-09 | 4.68 | - | 7,992 | 21,549 |
+| 2024-01-09 | 4.68 | - | 7,992 | 21,553 |

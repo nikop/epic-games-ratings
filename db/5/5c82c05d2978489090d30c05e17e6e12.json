@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 112,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -263,11 +263,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74102,
-  "EOS_Completed": 114,
-  "EOS_NewPlayers": 1683,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 0.15,
+  "EOS_Progressed": 74111,
+  "EOS_Completed": 115,
+  "EOS_NewPlayers": 1684,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
       "Time": "2023-11-14T10:06:35.674065+00:00",
@@ -6633,6 +6633,11 @@
       "Time": "2024-01-09T04:08:37.0788659+00:00",
       "NumProgressed": 74102,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2024-01-09T05:09:13.2092519+00:00",
+      "NumProgressed": 74111,
+      "NumCompleted": 115
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6645,7 +6650,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27418
+      "UsersEstimate": 27421
     },
     {
       "ID": "Achievement_10",
@@ -6733,7 +6738,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20749
+      "UsersEstimate": 20751
     },
     {
       "ID": "Achievement_20",
@@ -6821,7 +6826,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8892
+      "UsersEstimate": 8893
     },
     {
       "ID": "Achievement_30",
@@ -6869,7 +6874,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6669
+      "UsersEstimate": 6670
     },
     {
       "ID": "Achievement_5",
@@ -6877,7 +6882,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5187
+      "UsersEstimate": 5188
     },
     {
       "ID": "Achievement_6",
@@ -6916,16 +6921,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74102,
-      "Completed": 114
+      "Progressed": 74111,
+      "Completed": 115
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-05T18:03:34.6922579+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:08:37.0788654+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:09:13.2092513+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:03:05.0851902+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:08:37.0789167+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:03:32.8183643+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:09:13.2093238+00:00"
 }

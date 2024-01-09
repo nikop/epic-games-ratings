@@ -5847,9 +5847,9 @@
       "Count": 553
     }
   ],
-  "EOS_Progressed": 13968,
+  "EOS_Progressed": 13969,
   "EOS_Completed": 344,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
@@ -24752,6 +24752,11 @@
       "Time": "2024-01-09T04:09:12.2426895+00:00",
       "NumProgressed": 13968,
       "NumCompleted": 344
+    },
+    {
+      "Time": "2024-01-09T05:09:59.9222581+00:00",
+      "NumProgressed": 13969,
+      "NumCompleted": 344
     }
   ],
   "TotalAchievements": 15,
@@ -24811,7 +24816,7 @@
       "Name": "Duty Bound",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "Gardener",
@@ -24819,7 +24824,7 @@
       "Name": "Gardener",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4190
+      "UsersEstimate": 4191
     },
     {
       "ID": "Generous",
@@ -24843,7 +24848,7 @@
       "Name": "Miner",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "Photographer",
@@ -24875,14 +24880,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8241
+      "UsersEstimate": 8242
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13968,
+      "Progressed": 13969,
       "Completed": 344
     }
   ],
@@ -24890,8 +24895,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-08T21:59:32.8393227+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:09:12.2426891+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:09:59.9222575+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.1438624+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:58:45.7987772+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:09:12.2427813+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:59:30.1415041+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:09:59.9224006+00:00"
 }

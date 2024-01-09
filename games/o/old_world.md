@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.40% | ~65 |
 | Mighty | 0.40% | ~65 |
 | Ready | 0.40% | ~65 |
+| Subjugator | 0.40% | ~65 |
 | Victorious | 0.40% | ~65 |
 | Landowners | 0.40% | ~65 |
 | Patrons | 0.40% | ~65 |
@@ -94,6 +95,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.40% | ~65 |
 | Economic Reform | 0.40% | ~65 |
 | Military Prestige | 0.40% | ~65 |
+| Cimmerian Archer | 0.40% | ~65 |
 | Legionary | 0.40% | ~65 |
 | Double Victory | 0.40% | ~65 |
 | Bad Heir Day | 0.30% | ~49 |
@@ -101,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.30% | ~49 |
 | Invincible | 0.30% | ~49 |
 | Lion | 0.30% | ~49 |
-| Subjugator | 0.30% | ~49 |
 | Strong Difficulty | 0.30% | ~49 |
 | Clerics | 0.30% | ~49 |
 | Hunters | 0.30% | ~49 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.30% | ~49 |
 | Revelation | 0.30% | ~49 |
 | Veneration | 0.30% | ~49 |
-| Cimmerian Archer | 0.30% | ~49 |
 | Kushite Cavalry | 0.30% | ~49 |
 | Phalangite | 0.30% | ~49 |
 | Turreted Elephant | 0.30% | ~49 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,272 (Ranked 168)  
+Progressed: 16,273 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,10 +629,10 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,272 | 5 |
+| 2024-01-09 | 16,273 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 286)  
-Sum: 1,917 (Ranked 223)  
+Sum: 1,918 (Ranked 223)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -642,7 +642,7 @@ Diff (max vs sum): 63
 | This game is Highly Recommended | 222 |
 | This game is Educational | 219 |
 | This game has Challenging Combat | 209 |
-| This game has Amazing Characters | 200 |
+| This game has Amazing Characters | 201 |
 | This game has Quickly Understood Controls | 197 |
 | This game has Amazing Storytelling | 197 |
 | This game has Obsessive Gameplay | 155 |
@@ -839,3 +839,4 @@ Diff (max vs sum): 63
 | 2024-01-04 | 4.65 | - | 229 | 1,913 |
 | 2024-01-05 | 4.65 | - | 229 | 1,915 |
 | 2024-01-08 | 4.65 | - | 229 | 1,917 |
+| 2024-01-09 | 4.65 | - | 229 | 1,918 |

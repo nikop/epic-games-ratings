@@ -6,26 +6,26 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,148 |
-| Student | 22.00% | ~14,526 |
-| Knower | 16.00% | ~10,564 |
-| Listener | 15.00% | ~9,904 |
+| Initiation | 29.00% | ~19,149 |
+| Student | 22.00% | ~14,527 |
+| Knower | 16.00% | ~10,565 |
+| Listener | 15.00% | ~9,905 |
 | Aspen Tree | 14.00% | ~9,244 |
 | Healer | 14.00% | ~9,244 |
-| Scientist | 12.00% | ~7,923 |
-| Soldier | 12.00% | ~7,923 |
-| Cow Level | 11.00% | ~7,263 |
+| Scientist | 12.00% | ~7,924 |
+| Soldier | 12.00% | ~7,924 |
+| Cow Level | 11.00% | ~7,264 |
 | Old Friend | 10.00% | ~6,603 |
 | Herbalist | 10.00% | ~6,603 |
 | Water | 10.00% | ~6,603 |
-| New Spirits | 9.00% | ~5,942 |
-| Voipel | 9.00% | ~5,942 |
-| Collector | 9.00% | ~5,942 |
-| Wolf | 9.00% | ~5,942 |
-| Black Mage | 9.00% | ~5,942 |
-| Card Player | 8.00% | ~5,282 |
-| Dead Friend | 8.00% | ~5,282 |
-| Pine Tree | 8.00% | ~5,282 |
+| New Spirits | 9.00% | ~5,943 |
+| Voipel | 9.00% | ~5,943 |
+| Collector | 9.00% | ~5,943 |
+| Wolf | 9.00% | ~5,943 |
+| Black Mage | 9.00% | ~5,943 |
+| Card Player | 8.00% | ~5,283 |
+| Dead Friend | 8.00% | ~5,283 |
+| Pine Tree | 8.00% | ~5,283 |
 | Worthy | 7.00% | ~4,622 |
 | Black Book | 7.00% | ~4,622 |
 | Black Sorcerer | 7.00% | ~4,622 |
@@ -41,8 +41,8 @@ Number of Ratings: 96  (23.09.2022)
 | Sinner | 6.00% | ~3,962 |
 | Folklorist | 6.00% | ~3,962 |
 | Keeper of Knowledge | 6.00% | ~3,962 |
-| Susanin | 5.00% | ~3,301 |
-| Traveller | 5.00% | ~3,301 |
+| Susanin | 5.00% | ~3,302 |
+| Traveller | 5.00% | ~3,302 |
 | Righteous | 4.00% | ~2,641 |
 | Musician | 4.00% | ~2,641 |
 | Koldun | 4.00% | ~2,641 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,321 |
 | Word Master | 0.20% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,027 (Ranked 117)  
+Progressed: 66,032 (Ranked 117)  
 Completed: 68 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 68 (0.10%) (Ranked 309)
 | 2024-01-06 | 65,529 | 65 |
 | 2024-01-07 | 65,783 | 68 |
 | 2024-01-08 | 66,003 | 68 |
-| 2024-01-09 | 66,027 | 68 |
+| 2024-01-09 | 66,032 | 68 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

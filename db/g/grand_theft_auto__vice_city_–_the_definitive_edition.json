@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 15973,
+  "EOS_Progressed": 15979,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 955,
+  "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -17526,6 +17526,11 @@
       "Time": "2024-01-09T04:09:48.5665857+00:00",
       "NumProgressed": 15973,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2024-01-09T05:10:48.7714001+00:00",
+      "NumProgressed": 15979,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 34,
@@ -17553,7 +17558,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "ACH04",
@@ -17569,7 +17574,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH06",
@@ -17609,7 +17614,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACH11",
@@ -17617,7 +17622,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "ACH12",
@@ -17625,7 +17630,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACH13",
@@ -17641,7 +17646,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6709
+      "UsersEstimate": 6711
     },
     {
       "ID": "ACH15",
@@ -17697,7 +17702,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 7348
+      "UsersEstimate": 7350
     },
     {
       "ID": "ACH22",
@@ -17705,7 +17710,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3356
     },
     {
       "ID": "ACH23",
@@ -17713,7 +17718,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 4153
+      "UsersEstimate": 4155
     },
     {
       "ID": "ACH24",
@@ -17721,7 +17726,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "ACH25",
@@ -17729,7 +17734,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "ACH26",
@@ -17737,7 +17742,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "ACH27",
@@ -17753,7 +17758,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACH29",
@@ -17761,7 +17766,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH30",
@@ -17777,7 +17782,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH32",
@@ -17785,7 +17790,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH33",
@@ -17808,7 +17813,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15973,
+      "Progressed": 15979,
       "Completed": 92
     }
   ],
@@ -17816,8 +17821,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:09:48.5665856+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:10:48.7713996+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:00:23.8759553+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:09:48.5666753+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:02:47.1616141+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:10:48.7715565+00:00"
 }

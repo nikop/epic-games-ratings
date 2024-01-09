@@ -2629,10 +2629,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 1151,
       "NumberOfAwardsMax": 176
+    },
+    {
+      "Time": "2024-01-09T04:57:34.604167+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1154,
+      "NumberOfAwardsMax": 176
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1151,
+  "NumberOfAwards": 1154,
   "NumberOfAwardsMax": 176,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2700,7 +2706,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 96
+      "Count": 99
     },
     {
       "Text": "This game is Relaxing",
@@ -2709,9 +2715,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 392082,
+  "EOS_Progressed": 392116,
   "EOS_Completed": 1533,
-  "EOS_NewPlayers": 11833,
+  "EOS_NewPlayers": 11812,
   "EOS_NewCompleters": 147,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -20149,6 +20155,11 @@
       "Time": "2024-01-09T04:08:35.3271557+00:00",
       "NumProgressed": 392082,
       "NumCompleted": 1533
+    },
+    {
+      "Time": "2024-01-09T05:09:10.8630571+00:00",
+      "NumProgressed": 392116,
+      "NumCompleted": 1533
     }
   ],
   "TotalAchievements": 24,
@@ -20168,7 +20179,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23525
+      "UsersEstimate": 23527
     },
     {
       "ID": "11",
@@ -20176,7 +20187,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "12",
@@ -20200,7 +20211,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 31367
+      "UsersEstimate": 31369
     },
     {
       "ID": "15",
@@ -20256,7 +20267,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19604
+      "UsersEstimate": 19606
     },
     {
       "ID": "21",
@@ -20288,7 +20299,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 15683
+      "UsersEstimate": 15685
     },
     {
       "ID": "3",
@@ -20304,7 +20315,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 11762
+      "UsersEstimate": 11763
     },
     {
       "ID": "5",
@@ -20312,7 +20323,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 50971
+      "UsersEstimate": 50975
     },
     {
       "ID": "6",
@@ -20320,7 +20331,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15683
+      "UsersEstimate": 15685
     },
     {
       "ID": "7",
@@ -20351,16 +20362,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 392082,
+      "Progressed": 392116,
       "Completed": 1533
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2024-01-09T02:22:08.4249717+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:08:35.3271552+00:00",
+  "LastChanged": "2024-01-09T04:57:34.6041669+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:09:10.8630565+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.3145678+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:57:26.5391712+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:08:35.3272462+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:57:34.6041674+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:09:10.8631722+00:00"
 }

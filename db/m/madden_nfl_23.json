@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4358,
+  "EOS_Progressed": 4359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8432,6 +8432,11 @@
       "Time": "2024-01-09T04:08:35.6454011+00:00",
       "NumProgressed": 4358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T05:09:11.2991398+00:00",
+      "NumProgressed": 4359,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8468,7 +8473,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "achievement_13",
@@ -8556,7 +8561,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "achievement_4",
@@ -8611,7 +8616,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4358,
+      "Progressed": 4359,
       "Completed": 0
     }
   ],
@@ -8619,8 +8624,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-08T21:00:54.5107918+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:08:35.6454006+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:09:11.2991392+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:34.1147797+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:59:37.3630344+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:08:35.6454491+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:00:40.0626354+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:09:11.2992001+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2146,10 +2146,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1917,
       "NumberOfAwardsMax": 229
+    },
+    {
+      "Time": "2024-01-09T05:02:49.0806013+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1918,
+      "NumberOfAwardsMax": 229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1917,
+  "NumberOfAwards": 1918,
   "NumberOfAwardsMax": 229,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2211,7 +2217,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 200
+      "Count": 201
     },
     {
       "Text": "This game has a Creative Community",
@@ -2226,9 +2232,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16272,
+  "EOS_Progressed": 16273,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19336,6 +19342,11 @@
       "Time": "2024-01-09T04:10:13.1774171+00:00",
       "NumProgressed": 16272,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-09T05:11:19.5402176+00:00",
+      "NumProgressed": 16273,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19985,9 +19996,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -21393,9 +21404,9 @@
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cimmerian Archer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -22210,21 +22221,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16272,
+      "Progressed": 16273,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16272,
+      "Progressed": 16273,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-08T13:05:16.5572777+00:00",
-  "LastChanged_Achievements": "2024-01-09T04:10:13.1774167+00:00",
+  "LastChanged": "2024-01-09T05:02:49.0806012+00:00",
+  "LastChanged_Achievements": "2024-01-09T05:11:19.5402171+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:00:25.2882068+00:00",
-  "LastUpdate_Achievements": "2024-01-09T04:10:13.1783953+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:02:49.0806018+00:00",
+  "LastUpdate_Achievements": "2024-01-09T05:11:19.5414494+00:00"
 }
